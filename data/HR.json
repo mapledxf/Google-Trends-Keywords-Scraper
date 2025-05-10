@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "2025-05-10 19:12:46",
+  "lastUpdate": "2025-05-10 19:23:43",
   "data": [
     {
       "title": "benfica – sporting",
       "trafficCount": "100+",
       "pubDate": "Sat, 10 May 2025 11:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRS-OUPpMlCsJlaQqSTREksRMUOHTlAOooxcTdKMnDCfXtUcwoVd--YeAI12LY",
-      "pictureSource": "Abola.pt",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIj5jbdtnOAHdtAjg_SJSyRzZcAG53v0zEiqGXeqq-vaiAshlDZ-J36qJPtEA",
+      "pictureSource": "www.sportingnews.com",
       "relatedSearch": [
         {
-          "title": "DÉRBI DOS DÉRBIS O que se diz do Benfica-Sporting nos jornais lá fora?",
+          "title": "Benfica x Sporting: escalações, onze inicial e desfalques",
           "snippet": "",
-          "url": "https://www.abola.pt/futebol/noticias/o-que-se-diz-do-benfica-sporting-nos-jornais-la-fora-2025051011380984105",
-          "source": "Abola.pt"
+          "url": "https://www.sportingnews.com/br/futebol/noticias/benfica-sporting-escalacoes-onze-inicial-desfalques/96773a18a7662b65f0e52bda",
+          "source": "www.sportingnews.com"
         },
         {
           "title": "Rui Costa e Frederico Varandas não vão estar lado a lado na tribuna",
@@ -21,10 +21,10 @@
           "source": "O Jogo"
         },
         {
-          "title": "Jornada AO VIVO: Onzes oficiais para o dérbi na Luz",
+          "title": "Jorge Gabriel e João Gobern olham para o dérbi",
           "snippet": "",
-          "url": "https://www.flashscore.pt/noticias/futebol-liga-portugal-2-jornada-ao-vivo-onzes-oficiais-para-o-derbi-na-luz/dAGBNZr3/",
-          "source": "Flashscore.pt"
+          "url": "https://www.rtp.pt/noticias/desporto/jorge-gabriel-e-joao-gobern-olham-para-o-derbi_v1653793",
+          "source": "RTP"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,9 +89,15 @@
       "title": "dinamo – slaven",
       "trafficCount": "20000+",
       "pubDate": "Sat, 10 May 2025 10:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLK9V0sMe1rVDvkDnfbQqAxfPNok-NsWkFOYT-jdIk-503HWac_n3VTWDk-18",
-      "pictureSource": "tportal.hr",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuUl8iH2Z6Wx94RpvQr9SwmIKzqP4CBd8qNQPEFL_gKS7MIFBtJntlU1oB2q0",
+      "pictureSource": "Sportske novosti",
       "relatedSearch": [
+        {
+          "title": "UŽIVO: Stigao je sastav Dinama, Perković iznenadio i u prvu momčad vratio već zaboravljenog dinamovca",
+          "snippet": "",
+          "url": "https://sportske.jutarnji.hr/sn/nogomet/hnl/klubovi/slaven-belupo/uzivo-stigao-je-sastav-dinama-perkovic-iznenadio-i-u-prvu-momcad-vratio-vec-zaboravljenog-dinamovca-15582697",
+          "source": "Sportske novosti"
+        },
         {
           "title": "Dinamo nastavlja svoj lov na Rijeku; Mmaee opet u sastavu Modrih",
           "snippet": "",
@@ -103,12 +109,34 @@
           "snippet": "",
           "url": "https://slobodnadalmacija.hr/sport/domaci-nogomet/potpuni-raspad-slavena-na-maksimiru-dinamo-izdominirao-izmijesani-sastav-gostiju-1474862",
           "source": "Slobodna Dalmacija"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "prva hnl",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 10 May 2025 10:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCGlilQPnDzMuvzwhzVX52hELIELHqT5UAnOk8sPrqEf2uhAuFs6IQDwXDo9o",
+      "pictureSource": "Sportske novosti",
+      "relatedSearch": [
+        {
+          "title": "Doznajemo: HNS-u se javio još jedan klub s istim zahtjevom kao i Hajduk! Layec nakon otvorenog pisma nazvao Poljud",
+          "snippet": "",
+          "url": "https://sportske.jutarnji.hr/sn/nogomet/hnl/klubovi/varazdin/doznajemo-layec-nakon-hajdukova-pisma-nazvao-celnike-bijelih-velika-var-promjena-ovisi-o-svim-klubovima-15582664",
+          "source": "Sportske novosti"
         },
         {
-          "title": "UŽIVO Dinamo - Slaven 1-0: 'Modri' silovito traže i drugi gol, 'farmaceuti' se grčevito brane",
+          "title": "Varaždin poručuje da nije istina da je tražio snimke iz VAR sobe, ali je podnio zahtjev Komisiji",
           "snippet": "",
-          "url": "https://www.24sata.hr/sport/uzivo-dinamo-slaven-mmaee-opet-u-prvih-11-petko-na-klupi-1050550",
-          "source": "24sata.hr"
+          "url": "https://www.telegram.hr/telesport/na-prvu/varazdin-tvrdi-da-nikada-nije-trazio-snimke-iz-var-sobe-ali-je-poslao-sluzbeni-dopis-sudackoj-komisiji/",
+          "source": "Telegram.hr"
+        },
+        {
+          "title": "ANKETA Hajduk ima tri zahtjeva. Treba li mu ih HNS ispuniti?",
+          "snippet": "",
+          "url": "https://www.index.hr/sport/clanak/anketa-hajduk-ima-tri-zahtjeva-treba-li-mu-ih-hns-ispuniti/2669132.aspx",
+          "source": "Index.hr"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,26 +173,26 @@
       "title": "bayern – mönchengladbach",
       "trafficCount": "1000+",
       "pubDate": "Sat, 10 May 2025 08:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1qrVJpjPtocM69J5kG1_CIKQm60X2y4V3NU7PzKglR8bXMby9NOZy0KYcUss",
-      "pictureSource": "GladbachLIVE",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJ2Bf-wfi6FA63BDg-SF0iFRamH7rwcvs7UnqKc8MmF77Aa_AgdIS7-Bi__rc",
+      "pictureSource": "Kurier",
       "relatedSearch": [
         {
-          "title": "Gladbach: Diese Noten gabs bei der Pleite gegen Bayern",
+          "title": "\"Kane you believe it\": Harry Kane beendet seinen Titel-Fluch",
           "snippet": "",
-          "url": "https://www.gladbachlive.de/news/gladbach-diese-noten-gabs-bei-der-pleite-gegen-bayern-1019662",
-          "source": "GladbachLIVE"
+          "url": "https://kurier.at/sport/fussball/fussball-harry-kane-bayern-muenchen-meister-deutschland-bundesliga/403038621",
+          "source": "Kurier"
         },
         {
-          "title": "Lainer, Elvedi und Sander in der Startformation",
+          "title": "FC Bayern-Mitarbeitende feiern Meisterschaft",
           "snippet": "",
-          "url": "https://www.borussia.de/news/lainer-elvedi-und-sander-in-der-startformation",
-          "source": "Borussia Mönchengladbach"
+          "url": "https://fcbayern.com/de/news/2025/05/fc-bayern-mitarbeitende-feiern-meisterschaft",
+          "source": "FC Bayern"
         },
         {
-          "title": "Nachwuchsspieler? Titel haben Priorität",
+          "title": "Eberls Saisonbilanz: \"Leverkusen haben wir dieses Jahr distanziert“",
           "snippet": "",
-          "url": "https://www.sport1.de/tv-video/video/nachwuchsspieler-titel-haben-prioritat__9E70FFFB-E804-4B26-B9A8-504E7ED5CAE1",
-          "source": "SPORT1"
+          "url": "https://www.sport1.de/tv-video/video/-die-sind-seit-zehn-jahren-nicht-mehr-dagewesen-__0734BF9A-9D9D-4C65-953C-F7A00CF8CAD8",
+          "source": "Sport1"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,10 +217,10 @@
           "source": "Fantacalcio"
         },
         {
-          "title": "Tutto il calcio in Diretta",
+          "title": "Gila in conferenza: “",
           "snippet": "",
-          "url": "https://www.diretta.it/news/calcio-live-news-in-campo-empoli-parma-0-0-finisce-1-1-tra-lazio-e-juventus/tYdoy8Vh/",
-          "source": "Diretta"
+          "url": "https://www.lazionews.eu/notizie/conferenza-stampa-lazio-juventus-post-serie-a-2024-2025/",
+          "source": "Lazionews.eu"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -205,22 +233,22 @@
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Wolverhampton Wanderers 0-2 Brighton & Hove Albion: Brighton win at Wolves to maintain European bid",
+          "title": "Wolverhampton Wanderers 0-2 Brighton: Seagulls win to maintain European bid",
           "snippet": "",
           "url": "https://www.bbc.com/sport/football/live/ckge74w92z9t",
           "source": "BBC"
         },
         {
-          "title": "Review from Molineux as the plan pays off in race for top eight",
+          "title": "Hurzeler reveals why crucial goal meant so much to Albion man",
           "snippet": "",
-          "url": "https://uk.sports.yahoo.com/news/review-molineux-plan-pays-off-180053154.html",
+          "url": "https://uk.sports.yahoo.com/news/hurzeler-reveals-why-crucial-goal-171646946.html",
           "source": "Yahoo"
         },
         {
-          "title": "Hurzeler reveals why crucial goal meant so much to Albion man",
+          "title": "Wolves in danger of fading away",
           "snippet": "",
-          "url": "https://www.theargus.co.uk/sport/25153488.brajan-gruda-deserves-special-moment---hurzeler/",
-          "source": "The Argus"
+          "url": "https://www.msn.com/en-us/sports/soccer/wolves-in-danger-of-fading-away/ar-AA1EwP5y",
+          "source": "MSN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,38 +273,10 @@
           "source": "Index.hr"
         },
         {
-          "title": "Evo što je rekao Đalović nakon dramatične pobjede Rijeke",
+          "title": "Ovako nešto još nismo vidjeli; pogledajte što je napravio Đalović nakon kraja drame",
           "snippet": "",
-          "url": "https://www.tportal.hr/sport/clanak/evo-sto-je-rekao-dalovic-nakon-dramaticne-pobjede-rijeke-20250510",
+          "url": "https://www.tportal.hr/sport/clanak/ovako-nesto-jos-nismo-vidjeli-pogledajte-sto-je-napravio-dalovic-nakon-kraja-drame-20250510",
           "source": "tportal.hr"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "celta – sevilla",
-      "trafficCount": "1000+",
-      "pubDate": "Sat, 10 May 2025 06:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbs7LEfCsMnLE2WTvncoNEb25ga06jRMawLqPJapcrcE9LUQ0OEZhIYd7AJKM",
-      "pictureSource": "Web oficial Sevilla FC",
-      "relatedSearch": [
-        {
-          "title": "3-2: LA REACCIÓN TAMPOCO LLEGA EN BALAÍDOS",
-          "snippet": "",
-          "url": "http://sevillafc.es/actualidad/noticias/cronica-celta-sevilla-laliga-2425",
-          "source": "Web oficial Sevilla FC"
-        },
-        {
-          "title": "El Celta acaricia Europa y el Sevilla palpa el miedo",
-          "snippet": "",
-          "url": "https://elpais.com/deportes/futbol/2025-05-10/el-celta-acaricia-europa-y-el-sevilla-palpa-el-miedo.html",
-          "source": "EL PAÍS"
-        },
-        {
-          "title": "Un esperpéntico Sevilla FC sigue bailando con el diablo del descenso (3-2)",
-          "snippet": "",
-          "url": "https://www.101tv.es/un-esperpentico-sevilla-fc-sigue-bailando-con-el-diablo-del-descenso-3-2/",
-          "source": "101TV"
         }
       ],
       "link": "https://imtaqin.id/"

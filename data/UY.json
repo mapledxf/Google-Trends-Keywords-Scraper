@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-05-12 15:48:09",
+  "lastUpdate": "2025-05-12 15:56:04",
   "data": [
-    {
-      "title": "el telegrafo",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 12 May 2025 01:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfDU_0AwKgVmhSv_Vla4pkwwjSup-APXyCxkb24UEkS1GbqmckL8HIvSY3NPc",
-      "pictureSource": "Montevideo Portal",
-      "relatedSearch": [
-        {
-          "title": "Nicolás Olivera fue reelecto como intendente de Paysandú",
-          "snippet": "",
-          "url": "https://www.montevideo.com.uy/Noticias/Nicolas-Olivera-fue-reelecto-como-intendente-de-Paysandu-uc923467",
-          "source": "Montevideo Portal"
-        },
-        {
-          "title": "Frente Amplio aceptó el resultado electoral y agradeció a la militancia",
-          "snippet": "",
-          "url": "https://www.eltelegrafo.com/2025/05/frente-amplio-acepto-el-resultado-electoral-y-agradecio-a-la-militancia/",
-          "source": "El Telégrafo"
-        },
-        {
-          "title": "Resultados en Paysandú: así avanza el escrutinio primario de las elecciones departamentales en tiempo real",
-          "snippet": "",
-          "url": "https://www.elpais.com.uy/narrativas-visuales/resultados-en-paysandu-asi-avanza-el-escrutinio-primario-de-las-elecciones-departamentales-en-tiempo-real",
-          "source": "EL PAÍS Uruguay"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "municipio e",
       "trafficCount": "5000+",
@@ -173,15 +145,9 @@
       "title": "guillermo besozzi",
       "trafficCount": "1000+",
       "pubDate": "Sun, 11 May 2025 17:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdLMl3Pz4gPwNgGmbOcx7monpOxZM5FiEpODo6489wzGqHrTWtlZSBgtExbLE",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSp7GFLbWTCuXdb0JtcGp8mICcG3BvTjrrjHWlPEqRjZjZgNuwrjvZ2UNmI1I",
       "pictureSource": "Montevideo Portal",
       "relatedSearch": [
-        {
-          "title": "“Delito electoral”: Bottinelli sobre “si alguien amenazó” a Besozzi para que no vote",
-          "snippet": "",
-          "url": "https://www.montevideo.com.uy/Noticias/-Delito-electoral--Bottinelli-sobre-si-alguien-amenazo-a-Besozzi-para-que-no-vote-uc923489",
-          "source": "Montevideo Portal"
-        },
         {
           "title": "“Todo muy grave”: abogado de Besozzi ante alerta por “delito electoral” contra candidato",
           "snippet": "",
@@ -193,6 +159,12 @@
           "snippet": "",
           "url": "https://www.elpais.com.uy/informacion/politica/guillermo-besozzi-gano-comodo-con-apoyo-extrapartidario-y-es-electo-intendente-de-soriano-por-cuarta-vez",
           "source": "EL PAÍS Uruguay"
+        },
+        {
+          "title": "Macarena Rubio sobre la no votación de Guillermo Besozzi: \"Si eso fue realmente una amenaza, es un tema grave\"",
+          "snippet": "",
+          "url": "https://www.elobservador.com.uy/nacional/macarena-rubio-la-no-votacion-guillermo-besozzi-si-eso-fue-realmente-una-amenaza-es-un-tema-grave-n5998967",
+          "source": "El Observador"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,6 +198,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "intendencias",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 11 May 2025 17:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQM-PIBbZne-662dacW4GDWVCur47j0P6aGnEY5TzyJR292exdCn1rWK4JHfrQ",
+      "pictureSource": "EL PAÍS Uruguay",
+      "relatedSearch": [
+        {
+          "title": "Resultados en Tacuarembó: así avanza el escrutinio primario de las elecciones departamentales en tiempo real",
+          "snippet": "",
+          "url": "https://www.elpais.com.uy/narrativas-visuales/resultados-en-tacuarembo-asi-avanza-el-escrutinio-primario-de-las-elecciones-departamentales-en-tiempo-real",
+          "source": "EL PAÍS Uruguay"
+        },
+        {
+          "title": "Resultados en Tacuarembó: el Partido Nacional mantiene su hegemonía y Wilson Ezquerra es intendente por cuarta vez",
+          "snippet": "",
+          "url": "https://www.elobservador.com.uy/futbol-internacional/resultados-tacuarembo-el-partido-nacional-mantiene-su-hegemonia-y-wilson-ezquerra-es-el-nuevo-intendente-n5998906",
+          "source": "El Observador"
+        },
+        {
+          "title": "Blancos mantienen intendencias en Tacuarembó, Cerro Largo y Treinta y Tres",
+          "snippet": "",
+          "url": "https://www.montevideo.com.uy/Noticias/Blancos-mantienen-intendencias-en-Tacuarembo-Cerro-Largo-y-Treinta-y-Tres-uc923484",
+          "source": "Montevideo Portal"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "ana bentaberri",
       "trafficCount": "500+",
       "pubDate": "Sun, 11 May 2025 17:30:00 -0700",
@@ -239,7 +239,7 @@
           "source": "Montevideo Portal"
         },
         {
-          "title": "Resultados en San José: así avanza el escrutinio primario de las elecciones departamentales en tiempo real",
+          "title": "¿Quién ganó en San José?: así fue el resultado del escrutinio primario en las elecciones departamentales",
           "snippet": "",
           "url": "https://www.elpais.com.uy/narrativas-visuales/resultados-en-san-jose-asi-avanza-el-escrutinio-primario-de-las-elecciones-departamentales-en-tiempo-real",
           "source": "EL PAÍS Uruguay"

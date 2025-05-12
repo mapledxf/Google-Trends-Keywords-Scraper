@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-05-12 12:33:01",
+  "lastUpdate": "2025-05-12 13:09:54",
   "data": [
     {
       "title": "brand utrecht vandaag",
@@ -59,11 +59,17 @@
     },
     {
       "title": "brand utrecht",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Mon, 12 May 2025 04:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcStPxS3RJz1j1QDl1Je8tXmE27pDu6AKiumiecz-909AzWw9dANzsCqAF7TIiA",
-      "pictureSource": "AD.nl",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREgoxRmXRKjkTk5KGTfYPNApjVuAb-V1hGChRRdsbvQEI84bShXIc5-SCzzHo",
+      "pictureSource": "RTV Utrecht",
       "relatedSearch": [
+        {
+          "title": "Utrechtse fietshub niet meer te redden na grote brand, trams Science Park rijden weer",
+          "snippet": "",
+          "url": "https://www.rtvutrecht.nl/nieuws/3891582/utrechtse-fietshub-niet-meer-te-redden-na-grote-brand-trams-science-park-rijden-weer",
+          "source": "RTV Utrecht"
+        },
         {
           "title": "Uitslaande brand in houten hok bij fietshub in Utrecht: tramverkeer rijdt weer tussen CS en Science Park",
           "snippet": "",
@@ -71,16 +77,10 @@
           "source": "AD.nl"
         },
         {
-          "title": "Tramverkeer richting Utrecht Science Park stilgelegd vanwege brand",
+          "title": "Grote brand aan de Koningsweg in Utrecht; ‘sluit ramen en deuren’",
           "snippet": "",
-          "url": "https://www.rtvutrecht.nl/nieuws/3891582/tramverkeer-richting-utrecht-science-park-stilgelegd-vanwege-brand",
-          "source": "RTV Utrecht"
-        },
-        {
-          "title": "Grote brand op Koningsweg in Utrecht",
-          "snippet": "",
-          "url": "https://www.gelderlander.nl/112-nieuws-utrecht/grote-brand-op-koningsweg-in-utrecht~a6cbbcb0/",
-          "source": "De Gelderlander"
+          "url": "https://www.duic.nl/algemeen/grote-brand-aan-de-koningsweg-in-utrecht-sluit-ramen-en-deuren/",
+          "source": "De Utrechtse Internet Courant"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -118,19 +118,25 @@
       "trafficCount": "200+",
       "pubDate": "Mon, 12 May 2025 03:40:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3gVVgacPAfsGlQawjELSRudVNvSTX-A_YNDXthwvbh42XvraIc0-_DHgL03o",
-      "pictureSource": "AD.nl",
+      "pictureSource": "Brabants Dagblad",
       "relatedSearch": [
-        {
-          "title": "Stroomstoring in Drunen verholpen",
-          "snippet": "",
-          "url": "https://www.ad.nl/heusden/stroomstoring-in-drunen-verholpen~a3d2845f/",
-          "source": "AD.nl"
-        },
         {
           "title": "Stroomstoring in Drunen: 1470 mensen zonder stroom",
           "snippet": "",
           "url": "https://www.bd.nl/heusden/stroomstoring-in-drunen-1470-mensen-zonder-stroom~a3d2845f/",
           "source": "Brabants Dagblad"
+        },
+        {
+          "title": "Stroomstoring in Drunen verholpen",
+          "snippet": "",
+          "url": "https://www.gelderlander.nl/brabant/stroomstoring-in-drunen-verholpen~a3d2845f/",
+          "source": "De Gelderlander"
+        },
+        {
+          "title": "Stroomstoring in Drunen: bijna 1500 mensen zonder stroom",
+          "snippet": "",
+          "url": "https://heusden.nieuws.nl/112/stroomstoring-in-drunen-bijna-1500-mensen-zonder-stroom",
+          "source": "Heusden.nieuws.nl"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -171,22 +177,22 @@
       "pictureSource": "AD.nl",
       "relatedSearch": [
         {
-          "title": "Persoon dood aangetroffen aan de Zuidkade in Boskoop, politie doet onderzoek",
+          "title": "Persoon dood aangetroffen in de Gouwe bij Boskoop, politie doet onderzoek",
           "snippet": "",
-          "url": "https://www.ad.nl/alphen-aan-den-rijn/persoon-dood-aangetroffen-aan-de-zuidkade-in-boskoop-politie-doet-onderzoek~a5bb952d/",
+          "url": "https://www.ad.nl/112-nieuws-alphen-aan-den-rijn/persoon-dood-aangetroffen-in-de-gouwe-bij-boskoop-politie-doet-onderzoek~a5bb952d/",
           "source": "AD.nl"
-        },
-        {
-          "title": "Brandweer haalt persoon uit de Gouwe in Boskoop, scheepvaartverkeer tijdelijk stilgelegd",
-          "snippet": "",
-          "url": "https://www.studioalphen.nl/nieuws/brandweer-haalt-persoon-uit-de-gouwe-in-boskoop-scheepvaartverkeer-tijdelijk-stilgelegd/",
-          "source": "Studio Alphen"
         },
         {
           "title": "Dode gevonden in rivier, scheepvaart gestremd",
           "snippet": "",
           "url": "https://www.omroepwest.nl/112/4966762/dode-gevonden-in-rivier-scheepvaart-gestremd",
           "source": "Omroep West"
+        },
+        {
+          "title": "Brandweer haalt persoon uit de Gouwe in Boskoop, scheepvaartverkeer tijdelijk stilgelegd",
+          "snippet": "",
+          "url": "https://www.studioalphen.nl/nieuws/brandweer-haalt-persoon-uit-de-gouwe-in-boskoop-scheepvaartverkeer-tijdelijk-stilgelegd/",
+          "source": "Studio Alphen"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -223,20 +229,20 @@
       "title": "haai belgische kust",
       "trafficCount": "1000+",
       "pubDate": "Mon, 12 May 2025 01:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSo6LU6Bm4YPxGsKmv4qY6HqJ0n8ZzLStdcBLvAWy0ZHuc1s6DSoI1CNV9n5RM",
-      "pictureSource": "Telegraaf",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsrdTe4E3_kzTrnXox2sZQeV9Rsqy_yvlq5_gX78Manrc38mZHugx6Qd7WqVs",
+      "pictureSource": "Noordhollands Dagblad",
       "relatedSearch": [
+        {
+          "title": "Gevaarlijke witte haai steeds vaker gezien voor Nederlandse kust: ’Vooral niet spartelen’",
+          "snippet": "",
+          "url": "https://www.noordhollandsdagblad.nl/regio/ijmond/gevaarlijke-witte-haai-steeds-vaker-gezien-voor-nederlandse-kust-vooral-niet-spartelen/66620540.html",
+          "source": "Noordhollands Dagblad"
+        },
         {
           "title": "Haai gespot vlak bij Belgische grens: zwemmers bevolen om water te verlaten",
           "snippet": "",
           "url": "https://www.telegraaf.nl/nieuws/858472733/haai-gespot-vlak-bij-belgische-grens-zwemmers-bevolen-om-water-te-verlaten",
           "source": "Telegraaf"
-        },
-        {
-          "title": "Na melding in Noord Frankrijk: zwemmen er ook haaien langs de Vlaamse kust? \"Die dieren zijn zo groot als een bus\"",
-          "snippet": "",
-          "url": "https://www.hln.be/oostende/na-melding-in-noord-frankrijk-zwemmen-er-ook-haaien-langs-de-vlaamse-kust-die-dieren-zijn-zo-groot-als-een-bus~acb8edb93/",
-          "source": "HLN"
         },
         {
           "title": "Badgasten moesten water uit na melding haaienvin: 'Paar dagen geleden zwom er nog één in Nederland'",

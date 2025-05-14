@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2025-05-13 23:56:09",
+  "lastUpdate": "2025-05-14 01:12:19",
   "data": [
     {
-      "title": "πρωτο θεμα",
+      "title": "protothema",
       "trafficCount": "200+",
       "pubDate": "Tue, 13 May 2025 16:40:00 -0700",
       "picture": "",
@@ -11,12 +11,19 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "protothema",
+      "title": "πρωτο θεμα",
       "trafficCount": "200+",
       "pubDate": "Tue, 13 May 2025 16:40:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRac332WRwvuhoqHFV_egVVd_PUauQkcIGNLFM61F4oaef6f3zALmC2XJkUwu8",
+      "pictureSource": "News.gr",
+      "relatedSearch": [
+        {
+          "title": "Ο Τραμπ κάνει πίσω και ρίχνει τους δασμούς στην Κίνα στο 80%",
+          "snippet": "",
+          "url": "https://www.news.gr/kosmos/article/3871465/3871465.html",
+          "source": "News.gr"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -73,15 +80,9 @@
       "title": "ειδήσεισ",
       "trafficCount": "100+",
       "pubDate": "Tue, 13 May 2025 16:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSjenSQjkxsG_PAJeFG_xmYDR6ZeusJQhjHcB7EevlViPmWRWPdWKtF9OeO4YM",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSL0K-qq1mdPWZC69h9cDTxcJijaFrjNQc-frgZxJJMOfyJ8bbF1OVIe5KaR-Y",
       "pictureSource": "ANT1 TV",
       "relatedSearch": [
-        {
-          "title": "Οι 4 ειδήσεις της ημέρας (βίντεο)",
-          "snippet": "",
-          "url": "https://www.antenna.gr/eidiseis/article/4/959322/oi-4-eidiseis-tis-imeras-binteo-",
-          "source": "ANT1 TV"
-        },
         {
           "title": "Τρίτη 13 Μαϊου: Το πρώτο web δελτίο με τις σημαντικότερες ειδήσεις της ημέρας",
           "snippet": "",
@@ -89,10 +90,16 @@
           "source": "ANT1 TV"
         },
         {
-          "title": "Ισχυρή σεισμική δόνηση τα ξημερώματα στην Κρήτη",
+          "title": "Οι 4 ειδήσεις της ημέρας (βίντεο)",
           "snippet": "",
-          "url": "https://www.cretalive.gr/kriti/ishyri-seismiki-donisi-ta-ximeromata-stin-kriti",
-          "source": "Cretalive"
+          "url": "https://www.ant1news.gr/eidiseis/article/4/959322/oi-4-eidiseis-tis-imeras-binteo-",
+          "source": "ANT1News"
+        },
+        {
+          "title": "Σεισμός 6 ρίχτερ νότια της Κάσου",
+          "snippet": "",
+          "url": "https://www.news247.gr/ellada/seismos-6-rixter-notia-tis-kassou/",
+          "source": "News 24/7"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,10 +124,10 @@
           "source": "Athens Voice"
         },
         {
-          "title": "Ισχυρή σεισμική δόνηση τα ξημερώματα στην Κρήτη",
+          "title": "Σεισμός 6 ρίχτερ νότια της Κάσου",
           "snippet": "",
-          "url": "https://www.cretalive.gr/kriti/ishyri-seismiki-donisi-ta-ximeromata-stin-kriti",
-          "source": "Cretalive"
+          "url": "https://www.news247.gr/ellada/seismos-6-rixter-notia-tis-kassou/",
+          "source": "News 24/7"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -157,63 +164,82 @@
       "title": "earthquake now",
       "trafficCount": "200+",
       "pubDate": "Tue, 13 May 2025 16:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFEjsc6gPHHosppEzC8J7R0DoUjtBVNwoS8qW0s6y7W0-kcG3v3v5XWeFqR34",
-      "pictureSource": "CNN",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7NNtgJ-0xXWkvQcIumSyeWUmIPdFXtW3O1GzIDtJqVufuCtPcYVf0UBzsghk",
+      "pictureSource": "The Jerusalem Post",
       "relatedSearch": [
         {
-          "title": "Mild earthquake in Tennessee felt across the Southeast",
+          "title": "Magnitude 5.9 earthquake strikes off coast of Jalisco, Mexico, EMSC says",
           "snippet": "",
-          "url": "https://www.cnn.com/2025/05/10/us/earthquake-tennessee-southeast-us-saturday",
-          "source": "CNN"
+          "url": "https://www.jpost.com/breaking-news/article-853854",
+          "source": "The Jerusalem Post"
         },
         {
-          "title": "2 earthquakes register in Kentucky in less than 24 hours. Here's where they were felt",
+          "title": "Magnitude 5.8 Earthquake Sparks Precautionary Evacuation in Puerto Vallarta",
           "snippet": "",
-          "url": "https://www.courier-journal.com/story/news/local/2025/05/11/kentucky-earthquakes-2-register-in-less-than-24-hours-heres-where/83569757007/",
-          "source": "The Courier-Journal"
+          "url": "https://www.vallartadaily.com/magnitude-5-8-earthquake-sparks-precautionary-evacuation-in-puerto-vallarta/",
+          "source": "Puerto Vallarta News"
         },
         {
-          "title": "Tennessee earthquake rattles north Georgia, metro Atlanta",
+          "title": "Magnitude 5.9 earthquake strikes off coast of Jalisco, Mexico, EMSC says",
           "snippet": "",
-          "url": "https://www.atlantanewsfirst.com/2025/05/10/tennessee-earthquake-rattles-north-georgia-metro-atlanta/",
-          "source": "Atlanta News First"
+          "url": "https://www.yahoo.com/news/magnitude-5-9-earthquake-strikes-211326205.html",
+          "source": "Yahoo"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "ειδησεισ τωρα",
-      "trafficCount": "100+",
+      "title": "neakriti",
+      "trafficCount": "200+",
       "pubDate": "Tue, 13 May 2025 16:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPMeu2VpeNZeFPhFWzUjBoCK_DdyEwTanBZfO1Q1uVOw8Y79eZs9vqn9aRrxg",
+      "pictureSource": "Cretalive",
+      "relatedSearch": [
+        {
+          "title": "Τραγωδία στο Αμάρι: Θρήνος για τον 36χρονο Λευτέρη που καταπλακώθηκε από τρακτέρ!",
+          "snippet": "",
+          "url": "https://www.cretalive.gr/kriti/tragodia-sto-amari-thrinos-gia-ton-36hrono-leyteri-poy-kataplakothike-apo-trakter",
+          "source": "Cretalive"
+        },
+        {
+          "title": "Τραγωδία στο Ρέθυμνο: Νεκρός 40χρονος που καταπλακώθηκε από το τρακτέρ του",
+          "snippet": "",
+          "url": "https://www.protothema.gr/greece/article/1638820/tragodia-sto-rethumno-nekros-40hronos-pou-kataplakothike-apo-to-trakter-tou/",
+          "source": "ProtoThema"
+        },
+        {
+          "title": "Ρέθυμνο: Νεκρός 40χρονος αγρότης που καταπλακώθηκε από το τρακτέρ του",
+          "snippet": "",
+          "url": "https://www.enikos.gr/society/rethymno-nekros-40chronos-agrotis-pou-kataplakothike-apo-to-trakter-tou/2366460/",
+          "source": "Enikos"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "news",
       "trafficCount": "100+",
       "pubDate": "Tue, 13 May 2025 16:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTaU3OFpl2cw0pObkSj3ALJLB9w3MSp6UkzmIKGqOVkTW7y3TuMcDgf1B1ACI",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkRQ5esOiMPAp6h-Lfr1TNC0i1VA3UU-CkMUpQ0XjcUFupuUINw6RE647V0gE",
+      "pictureSource": "η ναυτεμπορικη",
       "relatedSearch": [
         {
-          "title": "Trump touts $142bn arms deal on Saudi visit, lifts sanctions on Syria",
+          "title": "Ακούστε τη μουσική που παράγουν οι μαύρες τρύπες",
           "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c4g239dwxw2o",
-          "source": "BBC"
+          "url": "https://www.naftemporiki.gr/techscience/1955626/akoyste-ti-moysiki-poy-paragoyn-oi-mayres-trypes/",
+          "source": "η ναυτεμπορικη"
         },
         {
-          "title": "Luxury skyscrapers, golf courses and cryptocurrency: The Trump family’s rapidly expanding Middle East business",
+          "title": "Πως ακούγεται μια μαύρη τρύπα; Η NASA δίνει νέα διάσταση στην εξερεύνηση του Σύμπαντος",
           "snippet": "",
-          "url": "https://www.cnn.com/2025/05/13/politics/trump-middle-east-business-invs",
-          "source": "CNN"
+          "url": "https://www.techgear.gr/pos-akoygetai-mia-mayri-trypa-i-nasa-dinei-nea-diastasi-stin-exereynisi-toy-sympantos-42611",
+          "source": "Techgear.gr"
         },
         {
-          "title": "White House announces $600 billion Saudi investment in U.S. during Trump visit",
+          "title": "Η μουσική του σκότους",
           "snippet": "",
-          "url": "https://www.cnbc.com/2025/05/13/trump-saudi-investment-speech.html",
-          "source": "CNBC"
+          "url": "https://ontime24.gr/news/diethni/399744/i-moysiki-toy-skotoys/",
+          "source": "Ontime News"
         }
       ],
       "link": "https://imtaqin.id/"

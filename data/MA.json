@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-05-14 13:06:49",
+  "lastUpdate": "2025-05-14 13:38:21",
   "data": [
+    {
+      "title": "séisme grece",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 14 May 2025 06:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQ1LzG2sYX-Tw7FuzXPeOn9BQnTMPkoSTPb6sCAWIJcensaFP3ZAIxhBKdF_g",
+      "pictureSource": "Sud Ouest",
+      "relatedSearch": [
+        {
+          "title": "Grèce : un séisme de magnitude 6,1 ce mercredi en mer Égée, des secousses ressenties jusqu’au Caire",
+          "snippet": "",
+          "url": "https://www.sudouest.fr/environnement/seisme/grece-un-seisme-de-magnitude-6-1-ce-mercredi-en-mer-egee-des-secousses-ressenties-jusqu-au-caire-24419208.php",
+          "source": "Sud Ouest"
+        },
+        {
+          "title": "Séisme : Un fort tremblement de terre frappe au large de la Grèce durant la nuit",
+          "snippet": "",
+          "url": "https://www.20minutes.fr/monde/grece/4153352-20250514-seisme-fort-tremblement-terre-frappe-large-grece-durant-nuit",
+          "source": "20 Minutes"
+        },
+        {
+          "title": "Séisme de magnitude 6,1 au sud de la Grèce, la secousse ressentie jusqu’en Égypte",
+          "snippet": "",
+          "url": "https://lematin.ma/monde/seisme-de-magnitude-61-au-sud-de-la-grece-la-secousse-ressentie-en-egypte/279365",
+          "source": "Le Matin.ma"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "dacia bigster",
       "trafficCount": "200+",
@@ -42,26 +70,54 @@
       "title": "weather",
       "trafficCount": "2000+",
       "pubDate": "Tue, 13 May 2025 23:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5uG6WqJAuHXJbCHJVZFMmR9y7N2dVD0O_ki-ScT5EYWEcs4AMMtlr7y1uS88",
-      "pictureSource": "WISN",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRX-HopunqEEoZ6fP9rh7dLby0POxb2UQB6uBnoTRpBKupsXenu1x7MewvTLj8",
+      "pictureSource": "FOX Weather",
       "relatedSearch": [
-        {
-          "title": "Tracking Severe Weather on Thursday",
-          "snippet": "",
-          "url": "https://www.wisn.com/article/tracking-severe-weather-on-thursday/64767593",
-          "source": "WISN"
-        },
-        {
-          "title": "Storms could bring hail, high winds and tornados to Lansing area",
-          "snippet": "",
-          "url": "https://www.lansingstatejournal.com/story/news/local/2025/05/14/lansing-weather-forecast-rain-thunderstorms-hail-tornado/83619197007/",
-          "source": "Lansing State Journal"
-        },
         {
           "title": "Tornadoes, large hail threaten millions in Midwest as multiday severe weather threat begins Wednesday",
           "snippet": "",
           "url": "https://www.foxweather.com/weather-news/midwest-chicago-milwaukee-severe-weather-threat-may-2025",
           "source": "FOX Weather"
+        },
+        {
+          "title": "Strong to Severe Thunderstorms Possible Thursday",
+          "snippet": "",
+          "url": "https://www.wmtv15news.com/2025/05/14/strong-severe-thunderstorms-possible-thursday/",
+          "source": "WMTV 15 NEWS"
+        },
+        {
+          "title": "Severe Weather, Including Possible Tornado Threat, Returns To Midwest And Plains Through Early Next Week",
+          "snippet": "",
+          "url": "https://weather.com/storms/tornado/news/2025-05-12-severe-weather-forecast-toranado-wind-damage-hail-plains-midwest",
+          "source": "The Weather Channel"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "météo",
+      "trafficCount": "20000+",
+      "pubDate": "Tue, 13 May 2025 22:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS88ifcYgKqU8v0fg2GZI09tnrvIBCWR-ZtF6bIQp5kcG__XqngXsqEcgrObTw",
+      "pictureSource": "Réalités Magazine",
+      "relatedSearch": [
+        {
+          "title": "Tunisie – météo : Un temps instable et des averses localement intenses",
+          "snippet": "",
+          "url": "https://realites.com.tn/fr/tunisie-meteo-un-temps-instable-et-des-averses-localement-intenses/",
+          "source": "Réalités Magazine"
+        },
+        {
+          "title": "INM: Les régions les plus arrosées au cours des dernières 24 heures",
+          "snippet": "",
+          "url": "https://www.tunisienumerique.com/inm-les-regions-les-plus-arrosees-au-cours-des-dernieres-24-heures-5/",
+          "source": "Tunisie Numérique"
+        },
+        {
+          "title": "Chute de pluies sur le Nord-Ouest et le Centre pendant la nuit",
+          "snippet": "",
+          "url": "https://www.tap.info.tn/fr/Portail-Titres-de-l-actualit%C3%A9/18765374-chute-de-pluies-sur",
+          "source": "Tap Info"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -108,16 +164,16 @@
           "source": "The New York Times"
         },
         {
+          "title": "Airbnb introduces significant changes to its app. Here's what's new.",
+          "snippet": "",
+          "url": "https://www.usatoday.com/story/travel/2025/05/14/airbnb-services-experiences-new-app/83618879007/",
+          "source": "USA Today"
+        },
+        {
           "title": "Airbnb to offer in-house chefs and massages in new-look app",
           "snippet": "",
           "url": "https://www.bbc.com/news/articles/c1mglv2d455o",
           "source": "BBC"
-        },
-        {
-          "title": "2025 Summer Release: Now you can Airbnb more than an Airbnb",
-          "snippet": "",
-          "url": "https://news.airbnb.com/en-uk/2025-summer-release-now-you-can-airbnb-more-than-an-airbnb/",
-          "source": "Airbnb Newsroom"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -152,7 +208,7 @@
     },
     {
       "title": "زلزال مصر",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Tue, 13 May 2025 16:30:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT05vC4-PtQ12s_7_jcAZtO1jg8qq_mtLZwNA40WQPa7vzrw2cO2X51UeTygtc",
       "pictureSource": "العربية",
@@ -164,16 +220,16 @@
           "source": "العربية"
         },
         {
-          "title": "لحظات من الرعب.. أول فيديو يوثق لحظة وقوع الزلزال الذي شعر به ملايين المصريين اليوم",
-          "snippet": "",
-          "url": "https://zahraa.mr/5024677/%D9%84%D8%AD%D8%B8%D8%A7%D8%AA-%D9%85%D9%86-%D8%A7%D9%84%D8%B1%D8%B9%D8%A8-%D8%A3%D9%88%D9%84-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%8A%D9%88%D8%AB%D9%82-%D9%84%D8%AD%D8%B8%D8%A9-%D9%88%D9%82%D9%88/",
-          "source": "بوابة الزهراء"
-        },
-        {
           "title": "زلزال قوي يضرب سواحل اليونان",
           "snippet": "",
           "url": "https://www.hespress.com/%D8%B2%D9%84%D8%B2%D8%A7%D9%84-%D9%82%D9%88%D9%8A-%D9%8A%D8%B6%D8%B1%D8%A8-%D8%B3%D9%88%D8%A7%D8%AD%D9%84-%D8%A7%D9%84%D9%8A%D9%88%D9%86%D8%A7%D9%86-1559661.html",
           "source": "Hespress"
+        },
+        {
+          "title": "زلزال باليونان تشعر به مصر وتركيا ولا أضرار",
+          "snippet": "",
+          "url": "https://www.aljazeera.net/news/2025/5/14/%D8%B2%D9%84%D8%B2%D8%A7%D9%84-%D8%A8%D8%A7%D9%84%D9%8A%D9%88%D9%86%D8%A7%D9%86-%D8%AA%D8%B4%D8%B9%D8%B1-%D8%A8%D9%87-%D9%85%D8%B5%D8%B1-%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%88%D9%84%D8%A7",
+          "source": "الجزيرة نت"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -202,62 +258,6 @@
           "snippet": "",
           "url": "https://www.nytimes.com/interactive/2025/05/13/world/earthquake-greece-crete.html",
           "source": "The New York Times"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "جورج وسوف",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 13 May 2025 14:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9P4JRFv0sFGEEguJ3jqEv010o9Gzqk3kY_BDxMQF_gCJuKsIcXvKvGz9XKrs",
-      "pictureSource": "بوابة الزهراء",
-      "relatedSearch": [
-        {
-          "title": "حقيقة وفاة الفنان جورج وسوف",
-          "snippet": "",
-          "url": "https://zahraa.mr/5023298/%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D9%88%D9%81%D8%A7%D8%A9-%D8%A7%D9%84%D9%81%D9%86%D8%A7%D9%86-%D8%AC%D9%88%D8%B1%D8%AC-%D9%88%D8%B3%D9%88%D9%81/",
-          "source": "بوابة الزهراء"
-        },
-        {
-          "title": "بعد نفي شائعة وفاته.. جورج وسوف يحيي حفله الجديد في السويد",
-          "snippet": "",
-          "url": "https://al-ain.com/article/george-wassouf-stockholm-concert-2025",
-          "source": "العين الإخبارية"
-        },
-        {
-          "title": "شائعة وفاة جورج وسوف تتصدر التريند ومحبي أبو وديع : الله يطول عمرك",
-          "snippet": "",
-          "url": "https://www.almasryalyoum.com/news/details/3450129",
-          "source": "المصري اليوم"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "sunderland",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 13 May 2025 14:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDjyzNOEWb83uXkWTPIM_Ns0zEksFYquGjW9RRrClIjiI7Q_ZFA-oddxcql1I",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Sunderland 1-1 Coventry City AET (Agg 3-2) - Dan Ballard goal takes Black Cats to Wembley",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/c4gedpgd5dkt",
-          "source": "BBC"
-        },
-        {
-          "title": "Ex-Celtic Academy graduate who was once compared to Virgil van Dijk helps send Sunderland to Wembley",
-          "snippet": "",
-          "url": "https://www.67hailhail.com/news/ex-celtic-academy-graduate-who-was-once-compared-to-virgil-van-dijk-helps-send-sunderland-to-wembley/",
-          "source": "67 Hail Hail"
-        },
-        {
-          "title": "Frank Lampard gives Wolves a reason to go out and sign 'fantastic' defender who Gary O'Neil wanted in January",
-          "snippet": "",
-          "url": "https://www.molineux.news/transfer-news/frank-lampard-gives-wolves-a-reason-to-go-out-and-sign-fantastic-defender-who-gary-oneil-wanted-in-january/",
-          "source": "Molineux News"
         }
       ],
       "link": "https://imtaqin.id/"

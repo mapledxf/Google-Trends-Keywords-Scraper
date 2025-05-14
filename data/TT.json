@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-05-14 15:39:37",
+  "lastUpdate": "2025-05-14 15:50:42",
   "data": [
     {
       "title": "weather",
@@ -15,10 +15,10 @@
           "source": "FOX Weather"
         },
         {
-          "title": "Thursday: Severe Storm Risk",
+          "title": "Severe storms with strong winds and large hail predicted for Thursday afternoon and evening in Milwaukee",
           "snippet": "",
-          "url": "https://www.weather.gov/arx/severeriskmay15",
-          "source": "National Weather Service (.gov)"
+          "url": "https://www.jsonline.com/story/weather/2025/05/14/milwaukee-wisconsin-weather-severe-storms-hail-forecast-for-thursday/83621161007/",
+          "source": "Milwaukee Journal Sentinel"
         },
         {
           "title": "TOMORROW: First Alert Weather Day due to severe storms",
@@ -33,9 +33,15 @@
       "title": "thunder vs nuggets",
       "trafficCount": "500+",
       "pubDate": "Tue, 13 May 2025 19:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdRDEyng392ra8vdKQ198jr7-iIEFMJg2dPDlWkUkVKK4Ia6_YVM7MIx7rF9Q",
-      "pictureSource": "AP News",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_2s5rJFxe-1q0PUKSzKbRYll42WsGiwHcVbcueu8tk-tsue0-4FC7PrtiwKM",
+      "pictureSource": "ESPN",
       "relatedSearch": [
+        {
+          "title": "Nuggets vs. Thunder (May 13, 2025) Live Score",
+          "snippet": "",
+          "url": "https://www.espn.com/nba/game?gameId=401769990",
+          "source": "ESPN"
+        },
         {
           "title": "Murray and Porter lead the Nuggets to a 113-104 bounce-back win over the Thunder",
           "snippet": "",
@@ -47,12 +53,6 @@
           "snippet": "",
           "url": "https://www.nytimes.com/athletic/live-blogs/nuggets-vs-thunder-live-updates-nba-playoffs-game-5-score-result/IMXONTFxCL7G/qjm5wrPTno0O/",
           "source": "The New York Times"
-        },
-        {
-          "title": "Oklahoma City Thunder Coach Mark Daigneault Praises Team Growth During Playoff Series Against Nuggets",
-          "snippet": "",
-          "url": "https://www.mykhel.com/more-sports/oklahoma-city-thunder-growth-playoff-series-011-361617.html",
-          "source": "myKhel"
         }
       ],
       "link": "https://imtaqin.id/"

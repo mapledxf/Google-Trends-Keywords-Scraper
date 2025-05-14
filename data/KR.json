@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-05-14 23:28:14",
+  "lastUpdate": "2025-05-14 23:39:21",
   "data": [
+    {
+      "title": "대구날씨",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 14 May 2025 15:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCf3VENnZXqOacwLk2cELU_faXW5qeFJfS70341nKcaEZ4IG-0lKHAbhehDIk",
+      "pictureSource": "연합뉴스",
+      "relatedSearch": [
+        {
+          "title": "대구·경북 대체로 흐림…낮 기온 21∼27도",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20250515009100053",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "'스승의날' 15일 경북서부내륙 5mm 내외 비",
+          "snippet": "",
+          "url": "https://www.newspim.com/news/view/20250514001474",
+          "source": "뉴스핌"
+        },
+        {
+          "title": "[오늘의 날씨]대구·경북(15일,목)…오후까지 빗방울, 낮 21~27도",
+          "snippet": "",
+          "url": "https://www.news1.kr/local/daegu-gyeongbuk/5783020",
+          "source": "뉴스1"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "일기예보",
       "trafficCount": "200+",
@@ -58,34 +86,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "라리가",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 14 May 2025 14:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNs7OStMBsD8M7N1OHJOnXZhaCU7mxlLonQRFE1J9WUALqKc-0wlpOC41D44c",
-      "pictureSource": "JTBC",
-      "relatedSearch": [
-        {
-          "title": "쿠팡플레이 '순례자들', 6월 6일 첫 공개…조나단∙넉살∙코미꼬 출연",
-          "snippet": "",
-          "url": "https://news.jtbc.co.kr/article/NB12246516?influxDiv=JTBC&code=section",
-          "source": "JTBC"
-        },
-        {
-          "title": "‘순례자들 in Spain’ 라리가 직관 공개",
-          "snippet": "",
-          "url": "https://www.bntnews.co.kr/article/view/bnt202505150014",
-          "source": "BNT뉴스"
-        },
-        {
-          "title": "FC바르셀로나, 올 시즌 ‘엘 클라시코’ 모두 승리",
-          "snippet": "",
-          "url": "https://kids.donga.com/news/articleView.html?idxno=165883",
-          "source": "어린이동아"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "weather",
       "trafficCount": "5000+",
       "pubDate": "Wed, 14 May 2025 14:40:00 -0700",
@@ -99,16 +99,44 @@
           "source": "FOX Weather"
         },
         {
-          "title": "Severe risk Thursday; air quality alert extended for northeast Minnesota",
+          "title": "Feeling Like Summer on Thursday with Strong Storms Thursday Night",
           "snippet": "",
-          "url": "https://www.mprnews.org/story/2025/05/14/severe-risk-thursday-air-quality-alert-extended-into-friday-for-northeast-minnesota",
-          "source": "MPR News"
+          "url": "https://www.wdtn.com/weather/daily-forecast/feeling-like-summer-on-thursday-with-strong-storms-thursday-night/",
+          "source": "WDTN.com"
         },
         {
-          "title": "Showers end tonight, fog moves in for some, monitoring severe threat late Thursday night",
+          "title": "Get Ready For Thunderstorms And A Cool Down Across The North Star State",
           "snippet": "",
-          "url": "https://www.wnem.com/2025/05/14/showers-end-tonight-fog-moves-some-monitoring-severe-threat-late-thursday-night/",
-          "source": "WNEM"
+          "url": "https://wjon.com/minnesota-storms-weather-update/",
+          "source": "WJON"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "라리가",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 14 May 2025 14:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCUYY9iAFmcgGh61JrOGOUFhz1FyCAuqkBq8_ANYDVaRlExXYaZamEk425UmQ",
+      "pictureSource": "싱글리스트",
+      "relatedSearch": [
+        {
+          "title": "조나단, 라리라 직관 간다…쿠팡플레이 ‘순례자들 in Spain’ 6월 6일 공개",
+          "snippet": "",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=643448",
+          "source": "싱글리스트"
+        },
+        {
+          "title": "쿠팡플레이 '순례자들', 6월 6일 첫 공개…조나단∙넉살∙코미꼬 출연",
+          "snippet": "",
+          "url": "https://news.jtbc.co.kr/article/NB12246516?influxDiv=JTBC&code=section&idx=60",
+          "source": "JTBC"
+        },
+        {
+          "title": "AFE, FC 카르타헤나 선수들에게 보장: \"모든 급여는 6월 30일까지 지급될 것\"",
+          "snippet": "",
+          "url": "https://www.footboom1.com/ko/news/football/2550958-afe-assures-fc-cartagena-players-all-salaries-will-be-paid-by-june-30",
+          "source": "FootBoom"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,14 +145,14 @@
       "title": "เรอัลมาดริด พบ มายอร์ก้า",
       "trafficCount": "200+",
       "pubDate": "Wed, 14 May 2025 14:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRI6NVcXkG20-I3Tqy9WB4raDdJc-DJU_UxdQX8QNoLj0Kum8hDbU5ZuN0KCnE",
-      "pictureSource": "Vietnam.vn",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdAw-vG3i6Oih7vofAgqb5fSXQgW56Z-W7XPRsSfnNaAxkWQuqz8LR3FP4eas",
+      "pictureSource": "Thsport",
       "relatedSearch": [
         {
-          "title": "คำทำนาย เรอัล มาดริด พบกับ มายอร์ก้า 15 พ.ค. 02:30 น. นกแร้งขาวจะต้องลำบากในการคว้าชัยชนะครั้งใหญ่หรือไม่?",
+          "title": "ราชันกุมขมับบราอิมเดี้ยงอีกราย",
           "snippet": "",
-          "url": "https://www.vietnam.vn/th/nhan-dinh-real-madrid-vs-mallorca-02h30-ngay-15-5-ken-ken-trang-kho-thang-dam",
-          "source": "Vietnam.vn"
+          "url": "https://www.thsport.live/sport-news/football/news-232314.html",
+          "source": "Thsport"
         },
         {
           "title": "สู้ไม่ถอย! อันเชลอตติ ปลื้มทัศนคติลูกทีมเกมเฉือน มายอร์ก้า",
@@ -133,10 +161,10 @@
           "source": "Siamsport"
         },
         {
-          "title": "'บราฮิม' เจ็บอีกราย 'ราชัน' เหลือชุดใหญ่ 10 คน | Soccersuck | LINE TODAY",
+          "title": "วิเคราะห์บอล เรอัลมาดริด พบ มายอร์ก้า สด ลาลิกา 2024/2025",
           "snippet": "",
-          "url": "https://today.line.me/th/v2/article/1DEJq3E",
-          "source": "LINE TODAY"
+          "url": "https://sport.trueid.net/detail/raooP1WwvoAa",
+          "source": "TrueID"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -227,7 +255,7 @@
     },
     {
       "title": "real madrid đấu với mallorca",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 14 May 2025 14:20:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0_2ZaRMSk--3igEsX67YpbEdv2og-GPO7jOZaoH51R1ZXRUbCkXO22hIEyes",
       "pictureSource": "Tin tức 24h",
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://vov.vn/the-thao/barca-co-the-vo-dich-la-liga-20242025-ngay-trong-dem-nay-post1199374.vov",
           "source": "VOV"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "대전날씨",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 14 May 2025 14:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJZQbzTjz2Ru2-yF3sscBpjC5Rmpt-Fk0r9b8tRO1h6Y5z57KarSpxpLimftw",
-      "pictureSource": "연합뉴스",
-      "relatedSearch": [
-        {
-          "title": "충북 흐리고 가끔 비…낮 최고 26도",
-          "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20250515009200064",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "대전·세종·충남 흐리고 가끔 비…낮 최고 19∼24도",
-          "snippet": "",
-          "url": "https://news.nate.com/view/20250515n02758",
-          "source": "네이트 뉴스"
-        },
-        {
-          "title": "충남권 최대 10㎜ 비 예보…미세먼지 수치는 '보통'",
-          "snippet": "",
-          "url": "https://www.newsis.com/view/NISX20250514_0003175918",
-          "source": "뉴시스"
         }
       ],
       "link": "https://imtaqin.id/"

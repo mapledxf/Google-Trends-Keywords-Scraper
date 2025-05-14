@@ -1,19 +1,13 @@
 {
-  "lastUpdate": "2025-05-14 22:54:35",
+  "lastUpdate": "2025-05-14 23:09:40",
   "data": [
     {
       "title": "일기예보",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 14 May 2025 14:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNwCLnLVlbrKWs84YHPBJ3yhwn2nllQKnFBV_XTkW6t-lyk29drU3ERoAQF1Q",
-      "pictureSource": "연합뉴스",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHajGe7Y9_wrKyl-1T7Kc1im7mVknETpnjHr79bPP9QxUXcXo0tRyHAzoWURo",
+      "pictureSource": "뉴스1",
       "relatedSearch": [
-        {
-          "title": "강원 흐리고 내륙·산지 5∼20㎜ 비…동해안 낮 최고 26도",
-          "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20250515009400062",
-          "source": "연합뉴스"
-        },
         {
           "title": "[오늘의 날씨] 강원(15일, 목)…흐리고, 대부분 비",
           "snippet": "",
@@ -25,6 +19,12 @@
           "snippet": "",
           "url": "https://www.gukjenews.com/news/articleView.html?idxno=3274910",
           "source": "국제뉴스"
+        },
+        {
+          "title": "강원도 전역 15일 비 예보…강수량 최대 20㎜",
+          "snippet": "",
+          "url": "https://www.kwnews.co.kr/page/view/2025051414435327453",
+          "source": "강원일보"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -59,7 +59,7 @@
     },
     {
       "title": "weather",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Wed, 14 May 2025 14:40:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0ZrksPd3RGK5symUj4gWkkfWhgP8CeNVTinLr81JkF-gGkFkvnQ4UNI5QJfk",
       "pictureSource": "FOX Weather",
@@ -71,16 +71,16 @@
           "source": "FOX Weather"
         },
         {
-          "title": "FIRST ALERT FORECAST: Quiet Now, But That Chances Thursday Night",
+          "title": "Severe risk Thursday; air quality alert extended for northeast Minnesota",
           "snippet": "",
-          "url": "https://www.wymt.com/2025/05/14/first-alert-forecast-quiet-now-that-chances-thursday-night/",
-          "source": "WYMT"
+          "url": "https://www.mprnews.org/story/2025/05/14/severe-risk-thursday-air-quality-alert-extended-into-friday-for-northeast-minnesota",
+          "source": "MPR News"
         },
         {
-          "title": "Get Ready For Thunderstorms And A Cool Down Across The North Star State",
+          "title": "Showers end tonight, fog moves in for some, monitoring severe threat late Thursday night",
           "snippet": "",
-          "url": "https://wjon.com/minnesota-storms-weather-update/",
-          "source": "WJON"
+          "url": "https://www.wnem.com/2025/05/14/showers-end-tonight-fog-moves-some-monitoring-severe-threat-late-thursday-night/",
+          "source": "WNEM"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,34 +226,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "기상청",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 14 May 2025 14:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRn70WgLdGBKJVIIfeXBg4Vu0c4SC76MqJhi13hQwgLRvFar8JfGcU-wEQKO9s",
-      "pictureSource": "YTN 사이언스",
-      "relatedSearch": [
-        {
-          "title": "더 촘촘해진 수치예보...\"집중호우 예측 정확도 높인다\"",
-          "snippet": "",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202505141614200391",
-          "source": "YTN 사이언스"
-        },
-        {
-          "title": "기상청, 세계 최고 해상도 ‘8km 격자’ 한국형 수치예보모델 운영",
-          "snippet": "",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=354824",
-          "source": "전기신문"
-        },
-        {
-          "title": "'게릴라 호우' 잡는다…한국형수치예보모델 해상도 업그레이드",
-          "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20250514077400530",
-          "source": "연합뉴스"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "부산날씨",
       "trafficCount": "500+",
       "pubDate": "Wed, 14 May 2025 14:20:00 -0700",
@@ -277,6 +249,34 @@
           "snippet": "",
           "url": "https://news.nate.com/view/20250515n01620",
           "source": "네이트 뉴스"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "대전날씨",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 14 May 2025 14:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJZQbzTjz2Ru2-yF3sscBpjC5Rmpt-Fk0r9b8tRO1h6Y5z57KarSpxpLimftw",
+      "pictureSource": "연합뉴스",
+      "relatedSearch": [
+        {
+          "title": "충북 흐리고 가끔 비…낮 최고 26도",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20250515009200064",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "대전·세종·충남 흐리고 가끔 비…낮 최고 19∼24도",
+          "snippet": "",
+          "url": "https://news.nate.com/view/20250515n02758",
+          "source": "네이트 뉴스"
+        },
+        {
+          "title": "충남권 최대 10㎜ 비 예보…미세먼지 수치는 '보통'",
+          "snippet": "",
+          "url": "https://www.newsis.com/view/NISX20250514_0003175918",
+          "source": "뉴시스"
         }
       ],
       "link": "https://imtaqin.id/"

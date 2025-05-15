@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-05-15 15:54:43",
+  "lastUpdate": "2025-05-15 16:14:36",
   "data": [
     {
       "title": "sunat",
@@ -71,16 +71,16 @@
           "source": "WSJ"
         },
         {
-          "title": "UnitedHealth stock drops 17% after report it is being probed by DOJ for alleged Medicare fraud",
-          "snippet": "",
-          "url": "https://nypost.com/2025/05/15/business/unitedhealth-stock-drops-17-after-reported-medicare-fraud-probe/",
-          "source": "New York Post"
-        },
-        {
           "title": "UnitedHealth Group shares plunge 18% on reported DOJ probe into possible Medicare fraud",
           "snippet": "",
           "url": "https://www.cnbc.com/2025/05/15/unitedhealth-group-stock-doj-investigation-report.html",
           "source": "CNBC"
+        },
+        {
+          "title": "UnitedHealth stock craters, hitting 5-year low after new report reveals possible Medicare fraud probe",
+          "snippet": "",
+          "url": "https://finance.yahoo.com/news/unitedhealth-stock-craters-hitting-5-year-low-after-new-report-reveals-possible-medicare-fraud-probe-140124109.html",
+          "source": "Yahoo Finance"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -96,28 +96,56 @@
     },
     {
       "title": "el peruano",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 15 May 2025 06:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAWMv9E5UqmdQNYevMawsqoV79qKmILeXWQfAmmfkdyphGwRx1wco7b_NtwWM",
-      "pictureSource": "Gestión",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSM2jyOx1XbXMatCSGkW53WM4VxoxoweDhsXicvIBWqKcGPADDSfQtgO4P6big",
+      "pictureSource": "Infobae",
       "relatedSearch": [
         {
-          "title": "Congreso aprobó nueva ley mype: los cambios para empresas y sus trabajadores",
+          "title": "Dina Boluarte oficializa renuncia de Gustavo Adrianzén y todo el gabinete ministerial, ¿por qué se fueron los 19 ministros?",
           "snippet": "",
-          "url": "https://gestion.pe/economia/management-empleo/nueva-ley-mype-por-que-demora-su-publicacion-en-el-peruano-noticia-2/",
-          "source": "Gestión"
+          "url": "https://www.infobae.com/peru/2025/05/14/dina-boluarte-oficializa-renuncia-de-gustavo-adrianzen-y-todo-el-gabinete-ministerial-por-que-se-fueron-los-19-ministros/",
+          "source": "Infobae"
         },
         {
-          "title": "Nueva ley MYPE 2025: así impactará en sueldos, beneficios tributarios y sanciones laborales",
+          "title": "Presidenta Boluarte tomó juramento a Gabinete Ministerial",
           "snippet": "",
-          "url": "https://www.peru-retail.com/nueva-ley-mype-2025-asi-impactara-en-sueldos-beneficios-tributarios-y-sanciones-laborales/",
-          "source": "Perú Retail"
+          "url": "https://www.gob.pe/institucion/presidencia/noticias/1167279-presidenta-boluarte-tomo-juramento-a-gabinete-ministerial",
+          "source": "Plataforma del Estado Peruano"
         },
         {
-          "title": "“Representante de las Mypes en el exterior dinamizarán la economía” resalta dirigente",
+          "title": "Mociones de censura contra renunciante Adrianzén pasan al archivo",
           "snippet": "",
-          "url": "https://www.radionacional.gob.pe/novedades/la-entrevista/representante-de-las-mypes-en-el-exterior-dinamizara-la-economia-resalta-dirigente",
-          "source": "Radio Nacional"
+          "url": "https://comunicaciones.congreso.gob.pe/noticias/mociones-de-censura-contra-renunciante-adrianzen-pasan-al-archivo/",
+          "source": "Congreso"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "poder judicial del peru",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 15 May 2025 06:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4wV4ihyiAALfJ5j8MR0fLuegUZYQ9QSwtvFWG1NBXhYWrFTHdjkK9iKegNuw",
+      "pictureSource": "Congreso",
+      "relatedSearch": [
+        {
+          "title": "Presidente del Congreso anuncia que no será parte de delegación que viajará al Vaticano",
+          "snippet": "",
+          "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-anuncia-que-no-sera-parte-de-delegacion-que-viajara-al-vaticano/",
+          "source": "Congreso"
+        },
+        {
+          "title": "Esta es la agenda de Dina Boluarte en la entronización del Papa León XIV",
+          "snippet": "",
+          "url": "https://peru21.pe/politica/esta-es-la-agenda-de-dina-boluarte-en-la-entronizacion-del-papa-leon-xiv/",
+          "source": "Perú 21"
+        },
+        {
+          "title": "Pleno del Congreso aprueba viaje de Dina Boluarte al Vaticano para acudir a la entronización del papa León XIV",
+          "snippet": "",
+          "url": "https://rpp.pe/politica/congreso/dina-boluarte-pleno-del-congreso-aprueba-su-viaje-al-vaticano-para-la-entronizacion-de-leon-xiv-noticia-1634658",
+          "source": "RPP"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -142,10 +170,10 @@
           "source": "KPTV"
         },
         {
-          "title": "Oregon mother, man arrested in Grant County for kidnapping her two children",
+          "title": "Amber Alert Leads to Arrest by WSP",
           "snippet": "",
-          "url": "https://www.kxly.com/news/oregon-mother-man-arrested-in-grant-county-for-kidnapping-her-two-children/article_8ff71a88-7cd9-4417-bf2b-7ff6fa2fc8dd.html",
-          "source": "KXLY.com"
+          "url": "https://lakechelannow.com/amber-alert-leads-to-arrest-by-wsp/",
+          "source": "Lake Chelan Now"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -230,34 +258,6 @@
           "snippet": "",
           "url": "https://www.expreso.com.pe/variedades/la-tinka-revisa-aqui-los-resultados-del-miercoles-14-de-mayo-de-2025-sorteo-loteria-pozo-aciertos-peru-noticia/1190791/",
           "source": "Diario Expreso"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "exitosa en vivo",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 15 May 2025 03:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyfOtQNDrEZXzYztVN2iyKuTMABkmLOEbKbgf8eb5arDCmdnWIHchhGzswuio",
-      "pictureSource": "Congreso",
-      "relatedSearch": [
-        {
-          "title": "Congreso autoriza viaje de la presidenta Dina Boluarte al Vaticano del 16 al 19 de mayo",
-          "snippet": "",
-          "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-autoriza-viaje-de-la-presidenta-dina-boluarte-al-vaticano-del-16-al-19-de-mayo/",
-          "source": "Congreso"
-        },
-        {
-          "title": "José Cevasco: \"Mal haría Dina Boluarte en querer viajar sin nombrar antes al titular de la PCM\"",
-          "snippet": "",
-          "url": "https://rpp.pe/politica/congreso/jose-cevasco-mal-haria-dina-boluarte-en-querer-viajar-sin-nombrar-antes-al-titular-de-la-pcm-noticia-1634480",
-          "source": "RPP"
-        },
-        {
-          "title": "Eduardo Salhuana no irá al Vaticano con Dina Boluarte y dijo que ningún congresista ha pedido permiso para este viaje",
-          "snippet": "",
-          "url": "https://elcomercio.pe/politica/congreso/papa-leon-xiv-eduardo-salhuana-no-ira-al-vaticano-con-dina-boluarte-y-dijo-que-ningun-congresista-ha-pedido-permiso-para-este-viaje-ultimas-noticia/",
-          "source": "El Comercio Perú"
         }
       ],
       "link": "https://imtaqin.id/"

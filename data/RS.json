@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-05-16 06:16:46",
+  "lastUpdate": "2025-05-16 06:45:17",
   "data": [
     {
       "title": "radio",
@@ -31,28 +31,56 @@
     },
     {
       "title": "vesti",
-      "trafficCount": "1000+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 15 May 2025 21:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTyZXIyIYdUZOY3Yho9VsM85XvMZyza3wMiIOGrPOLcemmI1Z4UQylCqb39f0",
-      "pictureSource": "Blic",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmlwsRDcCitDPucUqNwVPAW43naJ_LD4HLMrjDOXf1X00xdWyvxvZ4i3x1YAs",
+      "pictureSource": "B92",
       "relatedSearch": [
         {
-          "title": "\"SVE SE ODVIJA BAŠ ONAKO KAKO PUTIN ŽELI\" Američki medij objavio analizu pregovora u Istanbulu: \"Tramp mu je svojom izjavom dao slobodu, on UŽIVA posmatrajući sve ovo\"",
+          "title": "Gordon o povredi: \"Videćemo\" VIDEO",
           "snippet": "",
-          "url": "https://www.blic.rs/vesti/svet/americki-medij-objavio-analizu-pregovora-u-istanbulu-sve-se-odvija-kako-putin-zeli/l6krrnq",
-          "source": "Blic"
+          "url": "https://www.b92.net/sport/kosarka/nba/129778/eron-gordon-povreda-izjava-videcemo/vest",
+          "source": "B92"
         },
         {
-          "title": "Rat u Ukrajini :: Istanbul, dan drugi – očekuje se početak mirovnih pregovora Moskve i Kijeva",
+          "title": "Adelman o povredi Gordona: Ne znam, on nam je jedan od najvažnijih igrača",
           "snippet": "",
-          "url": "https://www.rts.rs/lat/vesti/ratu-u-ukrajini/5712422/rat-u-ukrajini--1178-dan-16-maj-2025.html",
-          "source": "РТС :: Насловна"
+          "url": "https://www.mozzartsport.com/kosarka/vesti/adelman-o-povredi-gordona-ne-znam-on-nam-je-jedan-od-najvaznijih-igraca/512446",
+          "source": "Mozzart Sport"
         },
         {
-          "title": "Ništa od direktnih pregovora Ukrajine i Rusije? Evo šta se danas očekuje u Istanbulu",
+          "title": "Gordon otkrio šta se dešava sa povredom, pa poručio: \"Igraš kao da ti je to poslednja utakmica u životu\"",
           "snippet": "",
-          "url": "https://www.telegraf.rs/vesti/svet/4108863-nista-od-direktnih-pregovora-ukrajine-i-rusije-evo-sta-se-danas-ocekuje-u-istanbulu",
+          "url": "https://www.telegraf.rs/sport/kosarka/4108872-gordon-otkrio-sta-se-desava-sa-povredom-i-porucio-igras-kao-da-ti-je-to-poslednja-utakmica-u-zivotu",
           "source": "Telegraf.rs"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "nba",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 15 May 2025 20:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCB-z-kCGaMW5K-7kwwyK7PrN1SN7S-p8xZBGsgNvrTsJs15gfmnFhcuhZEWI",
+      "pictureSource": "Sport Alo",
+      "relatedSearch": [
+        {
+          "title": "REVOLUCIJA Spremaju se tektonske promene u NBA ligi",
+          "snippet": "",
+          "url": "https://sport.alo.rs/kosarka/vesti/130432/spremaju-se-tektonske-promene-u-nba-ligi/vest",
+          "source": "Sport Alo"
+        },
+        {
+          "title": "Adam Silver otkrio da li će doći do proširenja NBA lige: \"Znam da postoji veliko interesovanje u Sijetlu i Las Vegasu\"",
+          "snippet": "",
+          "url": "https://www.sd.rs/sport/kosarka/adam-silver-otkrio-da-li-ce-doci-do-prosirenja-nba-lige-znam-da-postoji-veliko-interesovanje-u-sijetlu-i-las-vegasu-2025-05-15",
+          "source": "Srbija danas"
+        },
+        {
+          "title": "РЕВОЛУЦИЈА У НБА ЛИГИ! Спремају се тектонске промене",
+          "snippet": "",
+          "url": "https://www.novosti.rs/c/sport/kosarka/1490618/adam-silver-nba-liga-najnovije-vesti",
+          "source": "Novosti"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,9 +89,15 @@
       "title": "denver nuggets",
       "trafficCount": "500+",
       "pubDate": "Thu, 15 May 2025 19:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRb8WGH87ytPs62GDXlTdNxB0blpGlR7Ojq-jwsyWOKg47pXfC5L0RPAE8vdUw",
-      "pictureSource": "NBA",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJser6ifvTPVxiuA0lvHtBikaTM22nDPRFxrXK7F9VXTRBElWyf1VLkegUxj0",
+      "pictureSource": "ESPN",
       "relatedSearch": [
+        {
+          "title": "Nuggets 119-107 Thunder (May 15, 2025) Game Recap",
+          "snippet": "",
+          "url": "https://www.espn.com/nba/recap?gameId=401769991",
+          "source": "ESPN"
+        },
         {
           "title": "Jamal Murray 'very confident' Nuggets can force Game 7 vs. Thunder",
           "snippet": "",
@@ -75,47 +109,13 @@
           "snippet": "",
           "url": "https://www.flashscore.com/news/basketball-nba-nba-playoffs-jokic-and-nuggets-force-game-7-after-win-over-thunder/jP9m5lHa/",
           "source": "Flashscore.com"
-        },
-        {
-          "title": "Recap: Jamal Murray leads the Denver Nuggets to a 119-107 victory against the Oklahoma City Thunder to force game seven.",
-          "snippet": "",
-          "url": "https://www.denverstiffs.com/recap-jamal-murray-leads-the-denver-nuggets-to-a-119-107-victory-against-the-oklahoma-city-thunder-to-force-game-seven/",
-          "source": "Denver Stiffs"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "shai gilgeous-alexander",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 15 May 2025 19:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBukJngRVFHd9o5V0ReBH_QJTZy31OEcShFcauPp5l7q-0vrTXhIBv7lNml0A",
-      "pictureSource": "BVM Sports",
-      "relatedSearch": [
-        {
-          "title": "Jamal Murray trolls Shai Gilgeous-Alexander for flopping in Game 6 of Nuggets vs. Thunder",
-          "snippet": "",
-          "url": "https://bvmsports.com/2025/05/15/jamal-murray-trolls-shai-gilgeous-alexander-for-flopping-in-game-6-of-nuggets-vs-thunder/",
-          "source": "BVM Sports"
-        },
-        {
-          "title": "OKC Thunder falls into cauldron of a Game 7 after failing to eliminate Denver Nuggets",
-          "snippet": "",
-          "url": "https://www.oklahoman.com/story/sports/nba/thunder/2025/05/16/okc-thunder-denver-nuggets-nba-playoffs-game-7-schedule-jamal-murray-sga-stats/83657134007/",
-          "source": "The Oklahoman"
-        },
-        {
-          "title": "Shai Gilgeous-Alexander Foul Trouble Has Thunder in Bind As They Try to Close Out Nuggets",
-          "snippet": "",
-          "url": "https://www.msn.com/en-us/sports/nba/shai-gilgeous-alexander-foul-trouble-has-thunder-in-bind-as-they-try-to-close-out-nuggets/ar-AA1ES4Yn",
-          "source": "MSN"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "марија васић",
-      "trafficCount": "200+",
+      "trafficCount": "100+",
       "pubDate": "Thu, 15 May 2025 19:30:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhqpM-q7xBhYMJe3QGNXDNP6lbAB-01aeF47APDilIsI0e1FJ0tpcpx8u_Ci0",
       "pictureSource": "N1",
@@ -127,16 +127,16 @@
           "source": "N1"
         },
         {
-          "title": "Politika :: Studenti protestovali ispred sudova u više gradova; ultramaratonci sa Martom Kos u Briselu",
+          "title": "Вујић: Пресуде се не доносе под притиском улице, идентификовати оне који блокирају",
           "snippet": "",
-          "url": "https://www.rts.rs/lat/vesti/politika/5711592/studenti-protestovali-ispred-sudova-u-vise-gradova-srbije-ultramaratonci-sa-martom-kos-u-briselu.html",
-          "source": "РТС :: Насловна"
+          "url": "https://www.politika.rs/scc/clanak/677718/vujic-presude-se-ne-donose-pod-pritiskom-ulice-identifikovati-one-koji-blokiraju",
+          "source": "Politika"
         },
         {
-          "title": "Blokada suda u Novom Sadu nastavlja se i danas, stigli policija i žandarmerija",
+          "title": "МЕСАРОВИЋ ОСУДИЛА БЛОКАДУ НОВОСАДСКОГ СУДА: За какво друштво се они залажу, када на дневном нивоу показују да не знају ни шта је демократија",
           "snippet": "",
-          "url": "https://balkans.aljazeera.net/news/balkan/2025/5/16/blokada-suda-u-novom-sadu-nastavlja-se-i-danas-stigli-policija-i-zandarmerija",
-          "source": "Al Jazeera Balkans"
+          "url": "https://www.novosti.rs/c/vesti/politika/1490601/mesarovic-osudila-blokadu-novosadskog-suda-kakvo-drustvo-oni-zalazu-kada-dnevnom-nivou-pokazuju-znaju-sta-demokratija",
+          "source": "Novosti"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,10 +155,10 @@
           "source": "Sportklub"
         },
         {
-          "title": "Dominacija Nikole Jokića u plej-ofu",
+          "title": "SRBIN ZNA Jokić otkrio šta je razlog pobede Denvera",
           "snippet": "",
-          "url": "https://www.mozzartsport.com/kosarka/vesti/dominacija-nikole-jokica-u-plejofu/512449",
-          "source": "Mozzart Sport"
+          "url": "https://sport.alo.rs/kosarka/vesti/130499/jokic-otkrio-sta-je-razlog-pobede-denvera/vest",
+          "source": "Sport Alo"
         },
         {
           "title": "Jokić posle pobede nad Oklahomom: \"Ovo je bio prvi put...\"",
@@ -189,10 +189,10 @@
           "source": "Denver Stiffs"
         },
         {
-          "title": "Nightly Pulse: NBA News & Highlights from May 15",
+          "title": "NBA Playoffs Open Thread – Thursday, May 15",
           "snippet": "",
-          "url": "https://www.nba.com/news/nightly-pulse-nba-news-highlights-from-may-15",
-          "source": "NBA"
+          "url": "https://bvmsports.com/2025/05/15/nba-playoffs-open-thread-thursday-may-15/",
+          "source": "BVM Sports"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +211,16 @@
           "source": "MARCA"
         },
         {
-          "title": "Presidente Laporta: “Esta es una temporada muy exitosa para el Barça”",
+          "title": "Yamal, Raphinha, Lewandowski, Pedri Y Martínez: Los Hombres Del Título Del Barça",
           "snippet": "",
-          "url": "https://www.vietnam.vn/es/chu-tich-laporta-day-la-mua-giai-qua-thanh-cong-cua-barca",
-          "source": "Vietnam.vn"
+          "url": "https://www.barrons.com/news/spanish/yamal-raphinha-lewandowski-pedri-y-martinez-los-hombres-del-titulo-del-barca-aac2d809",
+          "source": "Barron's"
         },
         {
-          "title": "El Barça logra el primer triplete nacional de su historia",
+          "title": "LaLiga de los 'jóvenes aunque sobradamente preparados'",
           "snippet": "",
-          "url": "https://www.infobae.com/america/agencias/2025/05/15/el-barca-logra-el-primer-triplete-nacional-de-su-historia/",
-          "source": "Infobae"
+          "url": "https://es-us.noticias.yahoo.com/deportes/laliga-j%C3%B3venes-sobradamente-preparados-215007169.html",
+          "source": "Yahoo Noticias"
         }
       ],
       "link": "https://imtaqin.id/"

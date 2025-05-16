@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-05-16 17:08:04",
+  "lastUpdate": "2025-05-16 17:28:23",
   "data": [
     {
       "title": "vaiku diena",
@@ -43,16 +43,16 @@
           "source": "CNN"
         },
         {
+          "title": "UPDATES: Severe weather expected in the Tri-State",
+          "snippet": "",
+          "url": "https://news.yahoo.com/updates-severe-weather-expected-tri-144437546.html",
+          "source": "Yahoo News"
+        },
+        {
           "title": "Forecast: Storms today before a warm and pleasant weekend",
           "snippet": "",
           "url": "https://www.arlnow.com/2025/05/16/forecast-storms-today-before-a-warm-and-pleasant-weekend/",
           "source": "ARLnow"
-        },
-        {
-          "title": "More scattered showers and thunderstorms in store for the next several days",
-          "snippet": "",
-          "url": "https://www.wtva.com/more-scattered-showers-and-thunderstorms-in-store-for-the-next-several-days/article_0f2ad2f7-62e7-46bb-9c3a-9ebd4b66a0af.html",
-          "source": "WTVA"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -77,10 +77,10 @@
           "source": "15min.lt"
         },
         {
-          "title": "Mirė vienas garsiausių Lietuvos pedofilų E. Čekanavičius",
+          "title": "Garsiausias Lietuvos pedofilas mirė?",
           "snippet": "",
-          "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2025/05/16/news/mire-vienas-liudniausiai-pagarsejusiu-lietuvos-pedofilu-e-cekanavicius-37881092",
-          "source": "Lrytas"
+          "url": "https://lnk.lt/straipsniai/Lietuvoje/garsiausias-lietuvos-pedofilas-mire-/315220",
+          "source": "LNK.LT"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,35 +89,48 @@
       "title": "delfi.lt",
       "trafficCount": "100+",
       "pubDate": "Thu, 15 May 2025 20:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThHMsTNoeOUiTb6dIYof9oOjrSYHtcN5D9NlPnCy346T2qvVEBeSGgcfyPftQ",
+      "pictureSource": "Delfi",
+      "relatedSearch": [
+        {
+          "title": "Vilniuje vienas po kito leidosi NATO kariniai lėktuvai – suko ratus virš Lietuvos",
+          "snippet": "",
+          "url": "https://www.delfi.lt/mokslas/mokslas/vilniuje-vienas-po-kito-leidosi-nato-kariniai-lektuvai-suko-ratus-virs-lietuvos-120110352",
+          "source": "Delfi"
+        },
+        {
+          "title": "Istorinis įvykis: Vilniaus oro uoste stovi trys karinio transporto gigantai – kuo jie pasižymi?",
+          "snippet": "",
+          "url": "https://www.15min.lt/verslas/naujiena/mokslas-it/lietuvoje-istorinis-ivykis-vilniaus-oro-uoste-trys-kariniai-gigantai-1290-2451706",
+          "source": "15min.lt"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "delfi",
       "trafficCount": "2000+",
       "pubDate": "Thu, 15 May 2025 19:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJnIu-H4-p_De656c5OuCtJbj8ILG5ngnvKMSAeuUv3oy0yYRn-iUfUbMkPjQ",
-      "pictureSource": "Delfi",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLx7e7JAs71O3bTyn8YoSR7jClRaVus4wskojKMeO7d8vB-RTcynORKbEdc0w",
+      "pictureSource": "Lrytas",
       "relatedSearch": [
         {
-          "title": "Žurnalistas: ukrainiečiams užduotas Medinskio klausimas pasako viską",
+          "title": "Kremliaus šaltiniai atskleidė, kodėl V. Putinas neatvyko į Stambulą: iki paskutinės minutės tylėjo ne be reikalo",
           "snippet": "",
-          "url": "https://www.delfi.lt/news/world/zurnalistas-ukrainieciams-uzduotas-medinskio-klausimas-pasako-viska-120110345",
-          "source": "Delfi"
+          "url": "https://www.lrytas.lt/pasaulis/ivykiai/2025/05/16/news/kremliaus-saltiniai-atskleide-kodel-v-putinas-neatvyko-i-stambula-iki-paskutines-minutes-tylejo-ne-be-reikalo-37880107",
+          "source": "Lrytas"
         },
         {
-          "title": "Rusija pagrasino užimti dar dvi sritis ir „kariauti amžinai“ – „The Economist“ šaltinis",
+          "title": "Karas Ukrainoje. Umerovas: kitas žingsnis turėtų būti Putino ir Zelenskio susitikimas",
           "snippet": "",
-          "url": "https://www.tv3.lt/naujiena/uzsienis/rusija-pagrasino-uzimti-dar-dvi-sritis-ir-kariauti-amzinai-the-economist-saltinis-n1420919",
-          "source": "TV3"
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/2563815/karas-ukrainoje-umerovas-kitas-zingsnis-turetu-buti-putino-ir-zelenskio-susitikimas",
+          "source": "LRT"
         },
         {
-          "title": "„The Economist“ žurnalistas atskleidė, kuo Rusija grasino Ukrainai per derybas",
+          "title": "Rusija ir Ukraina susitarė apsikeisti belaisviais, aptarė paliaubas bei Zelenskio ir Putino susitikimą",
           "snippet": "",
-          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/the-economist-zurnalistas-atskleide-kuo-rusija-grasino-ukrainai-per-derybas-57-2451782",
-          "source": "15min.lt"
+          "url": "https://ve.lt/pasaulis/rusija-ir-ukraina-susitare-apsikeisti-belaisviais-aptare-paliaubas-bei-zelenskio-ir-putino",
+          "source": "Vakarų ekspresas"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -136,16 +149,16 @@
           "source": "BBC"
         },
         {
+          "title": "Barcelona’s youth revolution takes centre stage: They are here to dominate",
+          "snippet": "",
+          "url": "https://barcauniversal.com/barcelonas-youth-revolution-takes-centre-stage-they-are-here-to-dominate/",
+          "source": "Barca Universal"
+        },
+        {
           "title": "Messi, Gündogan and Real Madrid! congratulate Barcelona on the 2024/25 League title",
           "snippet": "",
           "url": "https://www.fcbarcelonanoticias.com/en/fc-barcelona/messi-and-real-madrid-congratulate-barca-for-laliga-24-25_312659_102.html",
           "source": "FC Barcelona Noticias"
-        },
-        {
-          "title": "Minute by minute: the victory parade",
-          "snippet": "",
-          "url": "https://www.fcbarcelona.com/en/football/first-team/news/4266817/minute-by-minute-the-victory-parade",
-          "source": "FC Barcelona"
         }
       ],
       "link": "https://imtaqin.id/"

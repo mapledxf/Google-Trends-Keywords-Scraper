@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-05-18 10:46:06",
+  "lastUpdate": "2025-05-18 10:53:48",
   "data": [
     {
       "title": "everton – southampton",
@@ -33,15 +33,9 @@
       "title": "kandidati za gradonačelnika zagreba",
       "trafficCount": "200+",
       "pubDate": "Sun, 18 May 2025 00:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRiyinSV-gWP6mlc0md70nD0DICBJNbXrWLLCExclTA3sK5GenCcUbtbvkdW_Q",
-      "pictureSource": "Index.hr",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6s5mSurQz138-cdR7q_3X7E4r8HFOqq2T2sxqFwETS_dnhcjjPJJ42U5kcWs",
+      "pictureSource": "RTL.hr",
       "relatedSearch": [
-        {
-          "title": "Anketa za skupštine: Možemo uvjerljiv u Zagrebu, u Rijeci jako tijesno",
-          "snippet": "",
-          "url": "https://www.index.hr/mobile/vijesti/clanak/objavljena-anketa-za-gradska-vijeca-u-cetiri-najveca-hrvatska-grada/2671320.aspx?index_ref=naslovnica_najnovije_m",
-          "source": "Index.hr"
-        },
         {
           "title": "Tko će doći na čelo metropole? Od 12 sati pratite sučeljavanje kandidata za gradonačelnika Zagreba",
           "snippet": "",
@@ -53,6 +47,12 @@
           "snippet": "",
           "url": "https://www.telegram.hr/politika-kriminal/objavljena-anketa-za-gradska-vijeca-u-cetiri-najveca-grada-situacija-je-prilicno-jasna-samo-u-jednom-od-njih/",
           "source": "Telegram.hr"
+        },
+        {
+          "title": "VIDEO Pitali smo Zagrepčane tko će biti gradonačelnik: \"Tomašević nema konkurenciju\"",
+          "snippet": "",
+          "url": "https://www.index.hr/mobile/vijesti/clanak/video-pitali-smo-zagrepcane-tko-ce-biti-gradonacelnik-nakon-izbora/2671140.aspx?index_ref=rubrika_vijesti_ostalo_m",
+          "source": "Index.hr"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -114,34 +114,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "izbori",
-      "trafficCount": "2000+",
-      "pubDate": "Sat, 17 May 2025 22:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoudwNUdrheHlGnXw-Ncwn64Xaz26EvALCGPH_dr5ZXxF_TgC0GOFAeffppak",
-      "pictureSource": "Index.hr",
-      "relatedSearch": [
-        {
-          "title": "Na lokalnim izborima do podneva glasalo svega 15.12 posto birača",
-          "snippet": "",
-          "url": "https://www.index.hr/vijesti/clanak/na-lokalnim-izborima-do-podneva-glasalo-svega-1512-posto-biraca/2671735.aspx",
-          "source": "Index.hr"
-        },
-        {
-          "title": "LOKALNI IZBORI Stigli prvi podaci o izlaznosti",
-          "snippet": "",
-          "url": "https://dalmatinskiportal.hr/vijesti/lokalni-izbori-stigli-prvi-podaci-o-izlaznosti/237040",
-          "source": "Dalmatinski portal"
-        },
-        {
-          "title": "Ministar kršio predizbornu šutnju! 'Tražili smo da odmah obriše sporni videozapis...'",
-          "snippet": "",
-          "url": "https://www.24sata.hr/news/ministar-krsio-predizbornu-sutnju-trazili-smo-da-odmah-obrise-sporni-videozapis-1052070",
-          "source": "24sata.hr"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "marko braić",
       "trafficCount": "200+",
       "pubDate": "Sat, 17 May 2025 21:50:00 -0700",
@@ -165,6 +137,34 @@
           "snippet": "",
           "url": "https://www.7dnevno.hr/magazin/hrvatski-glumac-iznenadio-priznanjem-pod-ovrhom-sam-i-nemam-kinte-sve-je-to-apsurdno/",
           "source": "7dnevno"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "izbori 2025",
+      "trafficCount": "2000+",
+      "pubDate": "Sat, 17 May 2025 21:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoudwNUdrheHlGnXw-Ncwn64Xaz26EvALCGPH_dr5ZXxF_TgC0GOFAeffppak",
+      "pictureSource": "Index.hr",
+      "relatedSearch": [
+        {
+          "title": "Na lokalnim izborima do podneva glasalo svega 15.12 posto birača",
+          "snippet": "",
+          "url": "https://www.index.hr/vijesti/clanak/na-lokalnim-izborima-do-podneva-glasalo-svega-1512-posto-biraca/2671735.aspx",
+          "source": "Index.hr"
+        },
+        {
+          "title": "LOKALNI IZBORI Stigli prvi podaci o izlaznosti",
+          "snippet": "",
+          "url": "https://dalmatinskiportal.hr/vijesti/lokalni-izbori-stigli-prvi-podaci-o-izlaznosti/237040",
+          "source": "Dalmatinski portal"
+        },
+        {
+          "title": "Objavljeni prvi podaci o izlaznosti na lokalnim izborima, najveći odaziv na jugu Hrvatske",
+          "snippet": "",
+          "url": "https://slobodnadalmacija.hr/vijesti/hrvatska/objavljeni-prvi-podaci-o-izlaznosti-na-lokalnim-izborima-najveci-odaziv-na-jugu-hrvatske-1476627",
+          "source": "Slobodna Dalmacija"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -213,7 +213,7 @@
         {
           "title": "Austria’s JJ wins Eurovision 2025 with ‘Wasted Love’",
           "snippet": "",
-          "url": "https://www.cnn.com/2025/05/17/entertainment/eurovision-song-contest-winner-austria-jj-latam-intl",
+          "url": "https://www.cnn.com/2025/05/17/europe/eurovision-song-contest-winner-austria-jj-latam-intl",
           "source": "CNN"
         },
         {
@@ -257,13 +257,13 @@
       "title": "kaarija",
       "trafficCount": "1000+",
       "pubDate": "Sat, 17 May 2025 14:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2CJxMqnFp_ZbOjW5WHCsq_hOUgJ-xPWf2cp4mqiaOBx0RaQc-QXvibYbvxcc",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFIOqHpcQJBfe2KtgGIEbpJY1yNrubcjld3Jbm1XwZ46Pv_SsHk8n8hOlupN4",
       "pictureSource": "Index.hr",
       "relatedSearch": [
         {
-          "title": "Stručnjak za Eurosong objavio fotke s Baby Lasagnom i Käärijöm: \"Pobjednici naroda\"",
+          "title": "Gledatelji o nastupu Baby Lasagne i Käärije: \"Nismo ni znali da nam je ovo trebalo\"",
           "snippet": "",
-          "url": "https://www.index.hr/magazin/clanak/strucnjak-za-eurosong-objavio-fotke-s-baby-lasagnom-i-k%C3%A4%C3%A4rij%C3%B6m-pobjednici-naroda/2671731.aspx",
+          "url": "https://www.index.hr/magazin/clanak/gledatelji-o-nastupu-baby-lasagne-i-k%C3%A4%C3%A4rije-nismo-ni-znali-da-nam-je-ovo-trebalo/2671668.aspx",
           "source": "Index.hr"
         },
         {
@@ -273,10 +273,10 @@
           "source": "tportal.hr"
         },
         {
-          "title": "Pobjednik srca! Suknja-hlače i volani za ponovno rasturanje Baby Lasagne na pozornici Eurosonga...",
+          "title": "Miljenici publike: Baby Lasagna i Käärijä oduševili na Eurosongu",
           "snippet": "",
-          "url": "https://zadovoljna.dnevnik.hr/clanak/baby-lasagna-u-finalu-eurosonga-2025---913912.html",
-          "source": "Zadovoljna.hr"
+          "url": "https://magazin.hrt.hr/zabava/baby-lasagna-24-12161229",
+          "source": "HRT"
         }
       ],
       "link": "https://imtaqin.id/"

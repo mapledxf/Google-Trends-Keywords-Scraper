@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-05-18 02:56:59",
+  "lastUpdate": "2025-05-18 03:43:13",
   "data": [
     {
       "title": "אסף רפפורט",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 17 May 2025 16:30:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTa4hDOlh3bEomXCAEQwkP-mH_S1EGxoPcRQ6CT7hg14S1ga6BGi_cmET2fhMo",
       "pictureSource": "פנאי פלוס",
@@ -67,85 +67,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "הארץ",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 17 May 2025 16:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLxZia1LuxhwyZaV7JhG1RlFsHMkNFMlUG0wYM9diUn7Rq9TUlPGxRz1BkBr8",
+      "pictureSource": "ynet",
+      "relatedSearch": [
+        {
+          "title": "תחזית מזג האוויר: גל החום נחלש - השרב עדיין כאן",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/news/article/vm5psx156",
+          "source": "ynet"
+        },
+        {
+          "title": "N12 - אחרי שבת חמה: שבוע בסימן הקלה בטמפרטורות | התחזית",
+          "snippet": "",
+          "url": "https://www.mako.co.il/news-science/2025_q2/Article-002512b2030e691027.htm",
+          "source": "Mako"
+        },
+        {
+          "title": "מבצע \"מרכבות גדעון\": בעזה מדווחים על מאות הרוגים ונעדרים",
+          "snippet": "",
+          "url": "https://www.maariv.co.il/breaking-news/article-1197219",
+          "source": "מעריב"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "israel news",
       "trafficCount": "100+",
       "pubDate": "Sat, 17 May 2025 16:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpHZEDef0Q2O2Y1qxLOsujY8kTEGl70R0oXaaxHybXEeWRSVDRX4SKPO0Ha1w",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp6vjSGZyB_cm2sB541tTT83TfvCSQgqS-GcXSTkk5DK0MyphpE0zF2Lch1UE",
+      "pictureSource": "The Jerusalem Post",
       "relatedSearch": [
+        {
+          "title": "Hamas offers to release half of the hostages, Sirens sound for Houthi missile",
+          "snippet": "",
+          "url": "https://www.jpost.com/israel-news/defense-news/2025-05-18/live-updates-854361",
+          "source": "The Jerusalem Post"
+        },
+        {
+          "title": "Unverified report claims Hamas has agreed to release half of the living hostages in exchange for 2-month truce",
+          "snippet": "",
+          "url": "https://www.timesofisrael.com/liveblog_entry/unverified-report-claims-hamas-has-agreed-to-release-half-of-the-living-hostages-in-exchange-for-2-month-truce/",
+          "source": "The Times of Israel"
+        },
         {
           "title": "Hamas proposes releasing some hostages in fresh talks after new Israel offensive",
           "snippet": "",
           "url": "https://www.bbc.com/news/articles/cd7geg3lvz1o",
           "source": "BBC"
-        },
-        {
-          "title": "Israel, Hamas say hostage-ceasefire talks renewed after IDF initiates major new offensive",
-          "snippet": "",
-          "url": "https://www.timesofisrael.com/israel-hamas-say-gaza-talks-renewed-after-idf-initiates-major-new-offensive/",
-          "source": "The Times of Israel"
-        },
-        {
-          "title": "Gaza ceasefire talks resume as Israeli assault kills hundreds in 72 hours",
-          "snippet": "",
-          "url": "https://www.reuters.com/world/middle-east/israeli-strikes-kill-least-58-palestinians-overnight-2025-05-17/",
-          "source": "Reuters"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "bbc",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 17 May 2025 16:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNW87u0b6y1Kb6GGW1sIw6-F3nAMTGs940PtZN5mhI-04hQqUuXlRK810u8Ys",
-      "pictureSource": "The Times of Israel",
-      "relatedSearch": [
-        {
-          "title": "Three Iranians charged with suspected espionage in UK",
-          "snippet": "",
-          "url": "https://www.timesofisrael.com/three-iranians-charged-with-suspected-espionage-in-uk/",
-          "source": "The Times of Israel"
-        },
-        {
-          "title": "Three alleged Iranian spies charged with targeting UK-based journalists",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c04eze3wv5go",
-          "source": "BBC"
-        },
-        {
-          "title": "Three Iranians in UK charged after counter-terrorism investigation",
-          "snippet": "",
-          "url": "https://www.theguardian.com/uk-news/2025/may/17/three-iranians-charged-under-national-security-act",
-          "source": "The Guardian"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "новости израиля",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 17 May 2025 16:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJEh3bvwhKbRl-FB9jDjGEIkhaCz0HjiUw6qXT2SlK3IFEtD1nx_s1A6PG_6M",
-      "pictureSource": "DW",
-      "relatedSearch": [
-        {
-          "title": "Австрия одержала победу на \"Евровидении 2025\"",
-          "snippet": "",
-          "url": "https://www.dw.com/ru/avstria-oderzala-pobedu-na-evrovidenii-2025/a-72577290",
-          "source": "DW"
-        },
-        {
-          "title": "«Я практиковалась петь под освистывание». Юваль Рафаэль чудом не погибла 7 октября, а теперь поет от Израиля на «Евровидении»",
-          "snippet": "",
-          "url": "https://www.bbc.com/russian/articles/clyrjqr7284o",
-          "source": "BBC"
-        },
-        {
-          "title": "Самый любимый зрителями: Израиль сотворил сенсацию на Евровидении",
-          "snippet": "",
-          "url": "https://www.vesty.co.il/main/article/h1i2e4uweg",
-          "source": "Vesty.co.il"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -179,68 +151,96 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "новости израиля",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 17 May 2025 16:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT57aJWp44AhUnG1YsQghfMaIcfR58I4uVIxKQzNIdi6MLmbDvWyVfcajaioKw",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Израиль наносит новые удары по сектору Газа, сообщается о 70 убитых",
+          "snippet": "",
+          "url": "https://www.bbc.com/russian/articles/cx27q3j5jd7o",
+          "source": "BBC"
+        },
+        {
+          "title": "590-й день войны: удары в Газе, операции в Иудее и Самарии, обстрел из Йемена - NEWSru.co.il",
+          "snippet": "",
+          "url": "https://www.newsru.co.il/israel/18may2025/d590.html",
+          "source": "NEWSru.co.il"
+        },
+        {
+          "title": "Армия Израиля объявила о новой наземной операции в секторе Газа",
+          "snippet": "",
+          "url": "https://www.svoboda.org/a/armiya-izrailya-obyavila-o-novoy-nazemnoy-operatsii-v-sektore-gaza/33416822.html",
+          "source": "Радио Свобода"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "евровидение",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 17 May 2025 16:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJEh3bvwhKbRl-FB9jDjGEIkhaCz0HjiUw6qXT2SlK3IFEtD1nx_s1A6PG_6M",
+      "pictureSource": "DW",
+      "relatedSearch": [
+        {
+          "title": "Австрия одержала победу на \"Евровидении 2025\"",
+          "snippet": "",
+          "url": "https://www.dw.com/ru/avstria-oderzala-pobedu-na-evrovidenii-2025/a-72577290",
+          "source": "DW"
+        },
+        {
+          "title": "«Я практиковалась петь под освистывание». Юваль Рафаэль чудом не погибла 7 октября, а теперь поет от Израиля на «Евровидении»",
+          "snippet": "",
+          "url": "https://www.bbc.com/russian/articles/clyrjqr7284o",
+          "source": "BBC"
+        },
+        {
+          "title": "Самый любимый зрителями: Израиль сотворил сенсацию на Евровидении",
+          "snippet": "",
+          "url": "https://www.vesty.co.il/main/article/h1i2e4uweg",
+          "source": "Vesty.co.il"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "bbc",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 17 May 2025 16:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNW87u0b6y1Kb6GGW1sIw6-F3nAMTGs940PtZN5mhI-04hQqUuXlRK810u8Ys",
+      "pictureSource": "The Times of Israel",
+      "relatedSearch": [
+        {
+          "title": "Three Iranians charged with suspected espionage in UK",
+          "snippet": "",
+          "url": "https://www.timesofisrael.com/three-iranians-charged-with-suspected-espionage-in-uk/",
+          "source": "The Times of Israel"
+        },
+        {
+          "title": "Three alleged Iranian spies charged with targeting UK-based journalists",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c04eze3wv5go",
+          "source": "BBC"
+        },
+        {
+          "title": "Three Iranians in UK charged after counter-terrorism investigation",
+          "snippet": "",
+          "url": "https://www.theguardian.com/uk-news/2025/may/17/three-iranians-charged-under-national-security-act",
+          "source": "The Guardian"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "ערוץ 7",
       "trafficCount": "200+",
       "pubDate": "Sat, 17 May 2025 16:10:00 -0700",
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "14",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 17 May 2025 16:10:00 -0700",
-      "picture": "",
-      "pictureSource": "ynet",
-      "relatedSearch": [
-        {
-          "title": "התוכנית החדשה של ממשל טראמפ: העברת מיליון עזתים ללוב",
-          "snippet": "",
-          "url": "https://www.ynet.co.il/news/article/hkalyqszel",
-          "source": "ynet"
-        },
-        {
-          "title": "חדשות השבת: תכנית הריביירה חוזרת; חודשו השיחות בדוחא",
-          "snippet": "",
-          "url": "https://www.kikar.co.il/israel-news/swf1bs",
-          "source": "כיכר השבת"
-        },
-        {
-          "title": "ארה\"ב מקדמת תוכנית לעקירה של כמיליון עזתים והעברתם ללוב",
-          "snippet": "",
-          "url": "https://www.kan.org.il/content/kan-news/global/904197/",
-          "source": "כאן 11"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "times of israel",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 17 May 2025 16:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_KNd_9z2tNZfrCwhYpFeTSw96cH82JgwWuX4HQ3vF3vnjUMkI0fByNKjo9g",
-      "pictureSource": "The Times of Israel",
-      "relatedSearch": [
-        {
-          "title": "Fire breaks out near Jerusalem as extreme heat could reach 25-year high",
-          "snippet": "",
-          "url": "https://www.timesofisrael.com/fire-breaks-out-near-jerusalem-as-extreme-heat-could-reach-25-year-high/",
-          "source": "The Times of Israel"
-        },
-        {
-          "title": "Heat Wave Sparks Record Temperatures and Wildfires Across Israel",
-          "snippet": "",
-          "url": "https://www.haaretz.com/israel-news/2025-05-17/ty-article/.premium/heat-wave-sparks-record-temperatures-and-wildfires-across-israel/00000196-df1e-d0bf-adde-df5f90ad0000",
-          "source": "Haaretz"
-        },
-        {
-          "title": "Health Ministry issues advice for upcoming heatwave",
-          "snippet": "",
-          "url": "https://www.jpost.com/breaking-news/article-854231",
-          "source": "The Jerusalem Post"
-        }
-      ],
       "link": "https://imtaqin.id/"
     }
   ]

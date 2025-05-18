@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-05-18 06:15:02",
+  "lastUpdate": "2025-05-18 06:42:25",
   "data": [
+    {
+      "title": "σεισμοσ τωρα ευβοια",
+      "trafficCount": "10000+",
+      "pubDate": "Sat, 17 May 2025 23:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFbrFcw2Qw7UxVqLV-bg0PvDx0p6m_5UxGy8NdCJqA9p7uttpOWBogQJTss8g",
+      "pictureSource": "ProtoThema",
+      "relatedSearch": [
+        {
+          "title": "Σεισμός 4,1 Ρίχτερ στη βόρεια Εύβοια - Αισθητός και στην Αθήνα",
+          "snippet": "",
+          "url": "https://www.protothema.gr/greece/article/1641127/seismos-41-rihter-sti-voreia-euvoia-aisthitos-kai-stin-athina/",
+          "source": "ProtoThema"
+        },
+        {
+          "title": "Σεισμός στη Β. Εύβοια αισθητός και στη Λαμία",
+          "snippet": "",
+          "url": "https://www.lamiareport.gr/topika/topikanea/item/seismos-sti-v-eyvoia-aisthitos-kai-sti-lamia/",
+          "source": "LamiaReport.gr"
+        },
+        {
+          "title": "Σεισμός στην Εύβοια – Αισθητός και στην Αττική",
+          "snippet": "",
+          "url": "https://www.in.gr/2025/05/18/greece/seismos-stin-eyvoia-aisthitos-kai-stin-athina/",
+          "source": "In.gr"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "bbc news",
       "trafficCount": "100+",
@@ -31,7 +59,7 @@
     },
     {
       "title": "ιταλια eurovision 2025",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 17 May 2025 21:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-yslMyxFqiJGHQXQXI19z1XzjUINqbggtjFm56cdFRFzKrQ4XkJz-Ld-VEmw",
       "pictureSource": "The Independent",
@@ -86,6 +114,15 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "ειδησεισ τωρα",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 17 May 2025 21:00:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "ειδήσεισ",
       "trafficCount": "100+",
       "pubDate": "Sat, 17 May 2025 21:00:00 -0700",
@@ -105,45 +142,17 @@
           "source": "ANT1 TV"
         },
         {
-          "title": "ΑΣΕΠ: Στην τελική ευθεία ο πανελλήνιος γραπτός διαγωνισμός με ζητούμενο την επιτάχυνση των προσλήψεων",
+          "title": "Εορτολόγιο: Ποιοι γιορτάζουν την Πέμπτη 15 Μαΐου",
           "snippet": "",
-          "url": "https://www.protothema.gr/greece/article/1641158/asep-stin-teliki-eutheia-o-panellinios-graptos-diagonismos-me-zitoumeno-tin-epitahunsi-ton-proslipseon/",
-          "source": "ProtoThema"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "in",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 17 May 2025 21:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiu1B2AfFwBD42DeTETYsnq_1fo4wYvISIiMrP2Kv7srXg5opOX66fenm2MNc",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Fatal blast near Palm Spring fertility clinic 'act of terrorism' - FBI",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/cyvme1e8gd5o",
-          "source": "BBC"
-        },
-        {
-          "title": "One dead, four injured after explosion outside reproductive center in Downtown Palm Springs; police and FBI investigating as an act of terror",
-          "snippet": "",
-          "url": "https://thepalmspringspost.com/one-dead-four-injured-after-explosion-in-palm-springsafter-bomb-explodes-outside-reproductive-center-in-downtown-palm-springs/",
-          "source": "The Palm Springs Post"
-        },
-        {
-          "title": "SBCSD: FBI leading investigation in Twentynine Palms; Residents evacuated due to potential 'blast zone'",
-          "snippet": "",
-          "url": "https://kesq.com/news/2025/05/17/sbcsd-fbi-leading-investigation-in-twentynine-palms-residents-evacuated-due-to-potential-blast-zone/",
-          "source": "KESQ"
+          "url": "https://www.news247.gr/ellada/eortologio-poioi-giortazoun-tin-pempti-15-maiou/",
+          "source": "News 24/7"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "εφημεριδεσ",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 17 May 2025 20:00:00 -0700",
       "picture": "",
       "pictureSource": "",
@@ -164,44 +173,16 @@
           "source": "DW"
         },
         {
-          "title": "Победа Австрии и покушение на Израиль: подводим итоги \"Евровидения 2025\"",
+          "title": "Австрия триумфально побеждает на «Евровидении-2025» с песней \"Wasted Love\"",
           "snippet": "",
-          "url": "https://tochka.by/articles/weekend/pobeda_avstrii_i_pokushenie_na_izrail_podvodim_itogi_evrovideniya_2025/",
-          "source": "Tochka.by"
+          "url": "https://smartpress.by/news/avstriya-vyigrala-evrovidenie-2025-v-shveytsarskom-bazele/",
+          "source": "Smartpress.by"
         },
         {
           "title": "На «Евровидении-2025» победила Австрия",
           "snippet": "",
           "url": "https://www.bbc.com/russian/articles/c8d1qmny17ro",
           "source": "BBC"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "σεισμοσ τωρα",
-      "trafficCount": "10000+",
-      "pubDate": "Sat, 17 May 2025 16:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFbrFcw2Qw7UxVqLV-bg0PvDx0p6m_5UxGy8NdCJqA9p7uttpOWBogQJTss8g",
-      "pictureSource": "ProtoThema",
-      "relatedSearch": [
-        {
-          "title": "Σεισμός 4,1 Ρίχτερ στη βόρεια Εύβοια - Αισθητός και στην Αθήνα",
-          "snippet": "",
-          "url": "https://www.protothema.gr/greece/article/1641127/seismos-41-rihter-sti-voreia-euvoia-aisthitos-kai-stin-athina/",
-          "source": "ProtoThema"
-        },
-        {
-          "title": "Σεισμός στη Β. Εύβοια αισθητός και στη Λαμία",
-          "snippet": "",
-          "url": "https://www.lamiareport.gr/topika/topikanea/item/seismos-sti-v-eyvoia-aisthitos-kai-sti-lamia/",
-          "source": "LamiaReport.gr"
-        },
-        {
-          "title": "Σεισμός στην Εύβοια – Αισθητός και στην Αττική",
-          "snippet": "",
-          "url": "https://www.in.gr/2025/05/18/greece/seismos-stin-eyvoia-aisthitos-kai-stin-athina/",
-          "source": "In.gr"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -235,10 +216,10 @@
           "source": "ProtoThema"
         },
         {
-          "title": "Κρήτη: Κλειστό το Φαράγγι της Σαμαριάς μετά το επικαιροποιημένο δελτίιο της ΕΜΥ",
+          "title": "Σεισμός 3,9 Ρίχτερ ανοιχτά της Καρπάθου - Κοινωνικά νέα και ειδήσεις",
           "snippet": "",
-          "url": "https://www.cnn.gr/ellada/story/477075/kriti-kleisto-to-faraggi-tis-samarias-meta-to-epikairopoiimeno-deltiio-tis-emy",
-          "source": "CNN.gr"
+          "url": "https://www.thebest.gr/article/791544-seismos-3-9-richter-anoichta-tis-karpathou",
+          "source": "THE BEST"
         }
       ],
       "link": "https://imtaqin.id/"

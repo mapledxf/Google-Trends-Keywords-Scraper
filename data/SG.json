@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2025-05-18 04:04:29",
+  "lastUpdate": "2025-05-18 04:36:08",
   "data": [
+    {
+      "title": "sg weather",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 17 May 2025 21:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkMj8axXCn9qO-yPKWnVEdIHz9cOeUx2elzEffzdnl7KwC1ufTdJqW70bzA4Y",
+      "pictureSource": "National Environment Agency (NEA)",
+      "relatedSearch": [
+        {
+          "title": "Thundery Showers Mostly Between Early Hours And Morning In The Coming Week",
+          "snippet": "",
+          "url": "https://www.nea.gov.sg/media/news/advisories/index/thundery-showers-mostly-between-early-hours-and-morning-in-the-coming-week",
+          "source": "National Environment Agency (NEA)"
+        },
+        {
+          "title": "Little relief from heat in last two weeks of May, says weatherman",
+          "snippet": "",
+          "url": "https://www.straitstimes.com/singapore/little-relief-from-heat-in-last-two-weeks-of-may-says-weatherman",
+          "source": "The Straits Times"
+        },
+        {
+          "title": "Warm days & less rain in S'pore in 2nd half of May 2025",
+          "snippet": "",
+          "url": "https://mothership.sg/2025/05/second-half-may-weather-forecast-dry-warm/",
+          "source": "Mothership"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "brooklyn bridge",
       "trafficCount": "100+",
       "pubDate": "Sat, 17 May 2025 20:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSB49WjAZdyoUecM1CcrwFV4w7hfO5fi1vszkI4n98s-GPPoQmNRQlPeUOargo",
-      "pictureSource": "CNN",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTDWawCAN-Edz4D1oXIixXFz00C_N7VmyR0xmgshiVb-AScxSZBccvnSrGojU",
+      "pictureSource": "NDTV",
       "relatedSearch": [
-        {
-          "title": "20 injured after Mexican Navy training ship strikes Brooklyn Bridge, source says",
-          "snippet": "",
-          "url": "https://edition.cnn.com/2025/05/17/us/manhattan-brooklyn-bridge-ship",
-          "source": "CNN"
-        },
-        {
-          "title": "Huge Sailboat Carrying Over 270 People Hits Brooklyn Bridge",
-          "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2025-05-18/huge-sailboat-hits-brooklyn-bridge-new-york-fire-officials-say",
-          "source": "Bloomberg"
-        },
         {
           "title": "Video: Mexican Navy Ship Hits New York's Brooklyn Bridge, People Seen Hanging On To Masts",
           "snippet": "",
           "url": "https://www.ndtv.com/world-news/brooklyn-bridge-video-mexican-navy-ship-hits-new-york-bridge-people-seen-hanging-on-to-masts-8442539",
           "source": "NDTV"
+        },
+        {
+          "title": "Mexican Navy Sailboat Crashes Into Brooklyn Bridge",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/05/17/nyregion/brooklyn-bridge-ship-crash-nyc.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Watch: Mexican naval vessel hits New York's Brooklyn Bridge",
+          "snippet": "",
+          "url": "https://timesofindia.indiatimes.com/world/us/watch-mexican-naval-vessel-hits-new-yorks-brooklyn-bridge/articleshow/121244210.cms",
+          "source": "Times of India"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -58,34 +86,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "tom cruise mission impossible",
-      "trafficCount": "1000+",
-      "pubDate": "Sat, 17 May 2025 16:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCq8gikOBqbWrRjBpetyuCaLgJoZ2aEsX_tXbQHdTifCFTGG7Bh7MJB1ZZelU",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "'A miserable, apocalyptic tract': Mission: Impossible – The Final Reckoning could be 'the feel-bad film of the summer'",
-          "snippet": "",
-          "url": "https://www.bbc.com/culture/article/20250514-mission-impossible-the-final-reckoning-review",
-          "source": "BBC"
-        },
-        {
-          "title": "‘Mission: Impossible – The Final Reckoning’ review: Franchise betrays its tone",
-          "snippet": "",
-          "url": "https://www.livemint.com/mint-lounge/art-and-culture/mission-impossible-the-final-reckoning-review-film-tom-cruise-christopher-mcquarrie-11747480392038.html",
-          "source": "Mint"
-        },
-        {
-          "title": "Tom Cruise Receives a 5-Minute Standing Ovation for Mission: Impossible - The Final Reckoning at Cannes",
-          "snippet": "",
-          "url": "https://people.com/tom-cruise-standing-ovation-mission-impossible-final-reckoning-cannes-11732103",
-          "source": "People.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "pga championship",
       "trafficCount": "200+",
       "pubDate": "Sat, 17 May 2025 16:00:00 -0700",
@@ -99,16 +99,16 @@
           "source": "GOLF.com"
         },
         {
+          "title": "2025 PGA Championship: Tee times, groupings announced for Round 4",
+          "snippet": "",
+          "url": "https://www.pgatour.com/article/news/latest/2025/05/17/pga-championship-tee-times-announced-round-4-sunday-2025-scottie-scheffler-si-woo-kim-quail-hollow-major-championship",
+          "source": "PGA Tour"
+        },
+        {
           "title": "US PGA Championship 2025: Scottie Scheffler leads heading into final round",
           "snippet": "",
           "url": "https://www.bbc.com/sport/golf/articles/cy90dyez097o",
           "source": "BBC"
-        },
-        {
-          "title": "PGA Championship: What is the cut line?",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/golf/article/pga-championship-what-is-the-cut-line-151417834.html",
-          "source": "Yahoo Sports"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +127,16 @@
           "source": "The Straits Times"
         },
         {
-          "title": "Genoa vs Atalanta Prediction: Team News, Predicted Lineups and Where To Watch",
+          "title": "Preview: Genoa vs. Atalanta BC - prediction, team news, lineups",
           "snippet": "",
-          "url": "https://www.whoscored.com/articles/hWsSxMTXvk-WI6a7ZyWrAg/show/genoa-vs-atalanta-prediction-team-news-predicted-lineups-where-to-watch-serie-a",
-          "source": "WhoScored.com"
+          "url": "https://www.sportsmole.co.uk/football/genoa/preview/preview-genoa-vs-atalanta-prediction-team-news-lineups_572684.html",
+          "source": "Sports Mole"
         },
         {
-          "title": "Gasperini: ‘Party atmosphere, extraordinary Retegui’",
+          "title": "👑 Retegui’s record goal vs old club sparks row, Dea’s top scorer",
           "snippet": "",
-          "url": "https://onefootball.com/de/news/gasperini-party-atmosphere-extraordinary-retegui-41125832",
-          "source": "OneFootball"
+          "url": "https://sports.yahoo.com/article/retegui-record-breaking-goal-against-205300834.html",
+          "source": "Yahoo Sports"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,26 +145,26 @@
       "title": "pga championship 2025",
       "trafficCount": "100+",
       "pubDate": "Sat, 17 May 2025 15:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQidTjHGgJ9a74SHGh0bdbdh7eEsOIT6x0k_PexG0lQxHxv0qqSawL1svZKSYU",
-      "pictureSource": "ESPN",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMRSimp4pWt7-n6-ZLClXV8BcrUSnFil4YESG2YTfftshjeInhyQz-4k1BrUM",
+      "pictureSource": "GOLF.com",
       "relatedSearch": [
         {
-          "title": "Updated PGA Championship betting odds: Scheffler three behind but favorite to win",
+          "title": "2025 PGA Championship Saturday TV coverage: How to watch Round 3",
           "snippet": "",
-          "url": "https://www.espn.com/espn/betting/story/_/id/45053534/2025-pga-championship-golf-betting-odds",
-          "source": "ESPN"
+          "url": "https://golf.com/news/2025-pga-championship-saturday-tv-coverage-watch/",
+          "source": "GOLF.com"
         },
         {
-          "title": "PGA Championship Round 2 leaderboard: Scores, highlights as Jhonattan Vegas holds lead",
+          "title": "Where to watch PGA Championship 2025: TV coverage, schedule, live streaming for Round 3 on Saturday",
           "snippet": "",
-          "url": "https://www.usatoday.com/story/sports/golf/pga/2025/05/16/pga-championship-live-updates-leaderboard-second-round-friday/83654602007/",
-          "source": "USA Today"
+          "url": "https://www.cbssports.com/golf/news/where-to-watch-pga-championship-2025-tv-coverage-schedule-live-streaming-for-round-3-on-saturday/",
+          "source": "CBS Sports"
         },
         {
-          "title": "US PGA Championship tee-times: Thunder delays third round at Quail Hollow",
+          "title": "PGA Championship: How it’s going, how to watch, what’s at stake, betting odds",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/golf/articles/crk202m0pdeo",
-          "source": "BBC"
+          "url": "https://borneobulletin.com.bn/pga-championship-how-its-going-how-to-watch-whats-at-stake-betting-odds/",
+          "source": "Borneo Bulletin"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,9 +245,9 @@
           "source": "The Guardian"
         },
         {
-          "title": "Caitlin Clark's first logo 3 of the WNBA season barely took 2 minutes",
+          "title": "WNBA Legend Rebecca Lobo Makes Bold Prediction After Caitlin Clark's Historic Game",
           "snippet": "",
-          "url": "https://sports.yahoo.com/article/caitlin-clarks-first-logo-3-195456755.html",
+          "url": "https://sports.yahoo.com/article/wnba-legend-rebecca-lobo-makes-002630559.html",
           "source": "Yahoo Sports"
         }
       ],
@@ -267,16 +267,16 @@
           "source": "联合早报"
         },
         {
+          "title": "120年来第一次！水晶宫队夺得英格兰足总杯冠军_曼城队_比赛_本赛季",
+          "snippet": "",
+          "url": "https://m.sohu.com/a/896235611_163278/?pvid=000115_3w_a",
+          "source": "搜狐网"
+        },
+        {
           "title": "离奇！50多只鸟飞行途中 突“爆炸” 坠地死",
           "snippet": "",
           "url": "https://www.chinapress.com.my/20250517/%E7%A6%BB%E5%A5%87%EF%BC%81-50%E5%A4%9A%E5%8F%AA%E9%B8%9F%E9%A3%9E%E8%A1%8C%E9%80%94%E4%B8%AD-%E7%AA%81%E7%88%86%E7%82%B8-%E5%9D%A0%E5%9C%B0%E6%AD%BB/",
           "source": "中國報"
-        },
-        {
-          "title": "足总杯决赛：水晶宫迎战曼城，蓝月亮用冠军告别德布劳内_比赛_欧冠_阿森纳",
-          "snippet": "",
-          "url": "https://m.sohu.com/a/896236250_121653735/?pvid=000115_3w_a&scm=10001.1302_13-100000-0_922.0-0.0.a2_5X131X1409",
-          "source": "搜狐网"
         }
       ],
       "link": "https://imtaqin.id/"

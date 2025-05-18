@@ -1,24 +1,52 @@
 {
-  "lastUpdate": "2025-05-18 23:49:59",
+  "lastUpdate": "2025-05-18 23:57:41",
   "data": [
+    {
+      "title": "серия a",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 18 May 2025 13:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHSbpAbCpYoMJJi_13O8OadexZ3x9ZHQn9Us31DBpJTZ9fs1_M-O7dVid_PFY",
+      "pictureSource": "sport-express.ru",
+      "relatedSearch": [
+        {
+          "title": "Консейсау: «Не лучший год для такого клуба, как «Милан»",
+          "snippet": "",
+          "url": "https://www.sport-express.net/football/italy/news/konseysau-prokommentiroval-porazhenie-milana-ot-romy-2327927/",
+          "source": "sport-express.ru"
+        },
+        {
+          "title": "«Раньери — один из нас, вы наше сердце и опора». Фанаты «Ромы» посвятили баннеры тренеру в последнем матче в Риме",
+          "snippet": "",
+          "url": "https://sportmail.ru/news/football/66181868/",
+          "source": "Спорт Mail"
+        },
+        {
+          "title": "Раньери проводит 500-й матч в Серии А в качестве тренера",
+          "snippet": "",
+          "url": "https://www.euro-football.ru/article/34/1005914325_raneri_provodit_500-y_match_v_serii_a_v_kachestve_trenera",
+          "source": "Евро-Футбол"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "napoli",
       "trafficCount": "200+",
       "pubDate": "Sun, 18 May 2025 12:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSv46vZAvfRmFhJC8y58GCS4czeQbur3sVx9pqKT7Nm_uDZuwaDBT8wlzHoTSY",
-      "pictureSource": "SSC Napoli",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIIdlM3HaWJLyaIYIPZRIdA8p1XaeqF0zqBtqfYHqGBoZ5sKwrdNv2xV4A3FY",
+      "pictureSource": "ANSA",
       "relatedSearch": [
+        {
+          "title": "Conte: 'Siamo a un passo da qualcosa di inimmaginabile'",
+          "snippet": "",
+          "url": "https://www.ansa.it/sito/notizie/sport/calcio/2025/05/18/conte-siamo-a-un-passo-da-qualcosa-di-inimmaginabile_940b7f76-76ad-4e43-8496-c77104aa186b.html",
+          "source": "ANSA"
+        },
         {
           "title": "Match report | Parma-Napoli 0-0",
           "snippet": "",
           "url": "https://sscnapoli.it/match-report-parma-napoli-0-0/",
           "source": "SSC Napoli"
-        },
-        {
-          "title": "Conte pazzo di gioia, a fine partita corre sotto la curva: \"Vaiiii, forza!\"",
-          "snippet": "",
-          "url": "https://www.msn.com/it-it/sport/calcio/conte-pazzo-di-gioia-a-fine-partita-corre-sotto-la-curva-vaiiii-forza/ar-AA1F0OAZ",
-          "source": "MSN"
         },
         {
           "title": "Entusiasmo alle stelle a Capodichino, tifosi in delirio per l’arrivo della squadra",
@@ -114,34 +142,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "рома – милан",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 18 May 2025 12:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHSbpAbCpYoMJJi_13O8OadexZ3x9ZHQn9Us31DBpJTZ9fs1_M-O7dVid_PFY",
-      "pictureSource": "sport-express.ru",
-      "relatedSearch": [
-        {
-          "title": "Консейсау: «Не лучший год для такого клуба, как «Милан»",
-          "snippet": "",
-          "url": "https://www.sport-express.net/football/italy/news/konseysau-prokommentiroval-porazhenie-milana-ot-romy-2327927/",
-          "source": "sport-express.ru"
-        },
-        {
-          "title": "«Раньери — один из нас, вы наше сердце и опора». Фанаты «Ромы» посвятили баннеры тренеру в последнем матче в Риме",
-          "snippet": "",
-          "url": "https://sportmail.ru/news/football/66181868/",
-          "source": "Спорт Mail"
-        },
-        {
-          "title": "Раньери проводит 500-й матч в Серии А в качестве тренера",
-          "snippet": "",
-          "url": "https://www.euro-football.ru/article/34/1005914325_raneri_provodit_500-y_match_v_serii_a_v_kachestve_trenera",
-          "source": "Евро-Футбол"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "serie a",
       "trafficCount": "500+",
       "pubDate": "Sun, 18 May 2025 12:10:00 -0700",
@@ -161,10 +161,10 @@
           "source": "Retesport"
         },
         {
-          "title": "Cosa serve alla Juventus per andare in Champions | Champions League",
+          "title": "Milan, caduta storia: è fuori da tutto",
           "snippet": "",
-          "url": "https://www.calciomercato.com/news/cosa-serve-alla-juventus-per-andare-in-champions-38544",
-          "source": "CalcioMercato.com"
+          "url": "https://www.msn.com/it-it/sport/calcio/milan-caduta-storia-%C3%A8-fuori-da-tutto/ar-AA1F0OLt",
+          "source": "MSN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -235,7 +235,7 @@
         {
           "title": "Объявлен стартовый состав «Интера»",
           "snippet": "",
-          "url": "https://sport.news.am/rus/news/158652/",
+          "url": "https://sport.news.am/rus/news/158652/interi-meknarkayin-kazmy.html",
           "source": "NEWS.am Sport"
         },
         {
@@ -245,10 +245,10 @@
           "source": "Евро-Футбол"
         },
         {
-          "title": "Прямая трансляция Интер – Лацио 18 мая 2025: как смотреть в Беларуси онлайн матч Серии А",
+          "title": "\"Интер\" и \"Наполи\" набрали по одному очку: чемпион определится в последнем туре",
           "snippet": "",
-          "url": "https://metaratings.by/news/pryamaya-translyaciya-inter-lacio-18-maya-2025-kak-smotret-v-belarusi-onlajn-match-serii-a/",
-          "source": "Белорусские новости"
+          "url": "https://oxu.az/ru/sport/inter-i-napoli-nabrali-po-odnomu-ochku-chempion-opredelitsya-v-poslednem-ture",
+          "source": "Oxu.Az"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,26 +257,26 @@
       "title": "real madrid",
       "trafficCount": "2000+",
       "pubDate": "Sun, 18 May 2025 10:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAFTphXFauSDK9ks0qNtdV1jEgm1pJZ2E8eCRDEjEEWKM0iTpnHvCW7XObxno",
-      "pictureSource": "La Galerna",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHCoVJvVj9aGPuXyPjDrxDhOfyjQZ7Om7Bphe3rtlk95gVoUt-mGAUkg7FZN4",
+      "pictureSource": "Infobae",
       "relatedSearch": [
         {
-          "title": "Busquets Ferrer en el Sevilla - Real Madrid",
+          "title": "0-2. Mbappé y Bellingham doblegan a un Sevilla que acabó con nueve",
           "snippet": "",
-          "url": "https://www.lagalerna.com/busquets-ferrer-en-el-sevilla-real-madrid/",
-          "source": "La Galerna"
+          "url": "https://www.infobae.com/america/agencias/2025/05/18/0-2-mbappe-y-bellingham-doblegan-a-un-sevilla-que-acabo-con-nueve/",
+          "source": "Infobae"
         },
         {
-          "title": "Los locales terminaron el partido con nueve jugadores",
+          "title": "0-2: Victoria soporífera con maquillaje estadístico",
           "snippet": "",
-          "url": "https://fdpradio.com/los-locales-terminaron-el-partido-con-nueve-jugadores/",
-          "source": "FDP Radio"
+          "url": "https://onefootball.com/es/noticias/0-2-victoria-soporifera-con-maquillaje-estadistico-41130577",
+          "source": "OneFootball"
         },
         {
-          "title": "Kylian Mbappé sigue en camino al ‘Pichichi’ de La Liga",
+          "title": "Javier Aznar: Y Modric todavía estaba allí",
           "snippet": "",
-          "url": "https://www.foxdeportes.com/la-liga/nota/kylian-mbappe-sigue-en-camino-al-pichichi-de-la-liga",
-          "source": "FOX Deportes"
+          "url": "https://www.abc.es/deportes/real-madrid/javier-aznar-modric-20250518011605-nt.html",
+          "source": "ABC"
         }
       ],
       "link": "https://imtaqin.id/"

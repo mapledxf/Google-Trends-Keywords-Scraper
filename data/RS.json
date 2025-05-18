@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-05-18 08:51:37",
+  "lastUpdate": "2025-05-18 08:59:08",
   "data": [
     {
       "title": "air serbia",
@@ -33,15 +33,9 @@
       "title": "telegraf",
       "trafficCount": "100+",
       "pubDate": "Sat, 17 May 2025 22:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDxRdCBvYYXVhRB41c2F-PkJNQLgcjwXIBvV1Zlv8mB3zJb8xT2ZjiKT3Hm5I",
-      "pictureSource": "Nova",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwU5UWsm6PDebUHO20B_e6UMVWK5SBFcBKgTF4ohBwJWEKrm5wTjmwekcLyRU",
+      "pictureSource": "Blic",
       "relatedSearch": [
-        {
-          "title": "Masovna tuča ispred Galerije: Pet osoba povređeno, tukli se flašama i čašama",
-          "snippet": "",
-          "url": "https://nova.rs/vesti/hronika/masovna-tuca-ispred-galerije/",
-          "source": "Nova"
-        },
         {
           "title": "DETALJI MASOVNE TUČE U BEOGRADU Četvoro povređeno, jedan izboden tri puta u ruku: Svi bili MORTUS PIJANI",
           "snippet": "",
@@ -49,10 +43,16 @@
           "source": "Blic"
         },
         {
-          "title": "Masovna tuča u Beogradu, letele flaše, čaše, muškarac izboden dovežen u bolnicu: Primljeno još 4 povređenih!",
+          "title": "Masovna tuča ispred Galerije: Pet osoba povređeno, tukli se flašama i čašama",
           "snippet": "",
-          "url": "https://www.telegraf.rs/vesti/hronika/4109953-masovna-tuca-u-beogradu-letele-flase-case-muskarac-izboden-dovezen-u-bolnicu-primljeno-jos-4-povredjenih",
-          "source": "Telegraf.rs"
+          "url": "https://nova.rs/vesti/hronika/masovna-tuca-ispred-galerije/",
+          "source": "Nova"
+        },
+        {
+          "title": "Masovna tuča kod TC \"Galerija\": Letele čaše i flaše, jedan izboden nožem",
+          "snippet": "",
+          "url": "https://mondo.rs/Info/Beograd/a2073123/masovna-tuca-kod-tc-galerija.html",
+          "source": "Mondo"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,26 +61,26 @@
       "title": "wetter",
       "trafficCount": "200+",
       "pubDate": "Sat, 17 May 2025 21:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREPkpP3rVQ_WNNiZg2X8oFlhu6ScWqqvf3GwWnkq3qvF_-z0jXnJ9ScQU4TUA",
-      "pictureSource": "wetter.com",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlGhpcQGU1v9M7U9g2wTTF_iecXR9lLeOd7Umq7NBTko2QaYQc_O56xIFbjPo",
+      "pictureSource": "The Weather Channel",
       "relatedSearch": [
         {
-          "title": "Wetter 16 Tage: Atlantiktiefs am Drücker - kommt jetzt der Regen?",
+          "title": "Regen und Unwetter am Wochenende: Wetterwechsel in Deutschland ist eingeläutet",
           "snippet": "",
-          "url": "https://www.wetter.com/videos/kolumnen/wetter-16-tage-atlantiktiefs-am-druecker-kommt-noch-im-mai-der-regen-nach-deutschland/68272e79c1695ddbe807c21b",
-          "source": "wetter.com"
+          "url": "https://weather.com/de-DE/wetter/deutschland/news/2025-05-16-regen-und-unwetter-wetterwechsel-wird-eingelaeutet",
+          "source": "The Weather Channel"
+        },
+        {
+          "title": "Zu­steu­ern auf grund­le­gen­de Wet­ter­um­stel­lung",
+          "snippet": "",
+          "url": "https://www.rheinpfalz.de/lokal/kreis-kusel_artikel,-zusteuern-auf-grundlegende-wetterumstellung-_arid,5774795.html",
+          "source": "Die Rheinpfalz"
         },
         {
           "title": "Polen-Tief bringt die Wende – doch Frühlingswetter bricht seit 1881 neuen Rekord",
           "snippet": "",
           "url": "https://www.giessener-anzeiger.de/panorama/1881-neuen-rekord-polen-tief-bringt-die-wende-doch-fruehlingswetter-bricht-seit-zr-93734929.html",
           "source": "Giessener Anzeiger"
-        },
-        {
-          "title": "Wetterprognose: Nach kurioser Wetterentwicklung - Sommerwetter im Juni möglich",
-          "snippet": "",
-          "url": "https://www.wetterprognose-wettervorhersage.de/wetter-jahreszeiten/sommer/wetter-sommer-2025/12802-wetterprognose-nach-kurioser-wetterentwicklung-sommerwetter-im-juni-moeglich.html",
-          "source": "Wetterprognose und Wettervorhersage"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,10 +161,10 @@
           "source": "Eurovision.de"
         },
         {
-          "title": "Österreich gewinnt den Song Contest",
+          "title": "Deutschland nur Mittelmaß: Alle ESC-2025-Platzierungen im Überblick",
           "snippet": "",
-          "url": "https://orf.at/live/5468-Oesterreich-gewinnt-den-Song-Contest/",
-          "source": "ORF"
+          "url": "https://www.focus.de/kultur/musik/deutschland-nur-mittelmass-alle-esc-2025-platzierungen-im-ueberblick_894666e9-0c30-4b56-9e07-7ba8840cda3c.html",
+          "source": "FOCUS online"
         }
       ],
       "link": "https://imtaqin.id/"

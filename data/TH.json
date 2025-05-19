@@ -1,38 +1,10 @@
 {
-  "lastUpdate": "2025-05-19 06:19:08",
+  "lastUpdate": "2025-05-19 06:47:00",
   "data": [
     {
-      "title": "ตลาดหลักทรัพย์",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 18 May 2025 22:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6HmWR0p66V2jHjWJ8WGYAbXytEjTa3YLikzlaSSmpzFwbjm15pfXqCLbfDgA",
-      "pictureSource": "ศูนย์ต่อต้านข่าวปลอม ประเทศไทย",
-      "relatedSearch": [
-        {
-          "title": "เพจ ฟอรั่มการลงทุนประเทศไทย เป็นเพจเฟซบุ๊กใหม่ที่ตลาดหลักทรัพย์ฯ จัดทำขึ้น",
-          "snippet": "",
-          "url": "https://www.antifakenewscenter.com/news/activity/%E0%B9%80%E0%B8%9E%E0%B8%88-%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B8%88%E0%B9%80%E0%B8%9F%E0%B8%8B%E0%B8%9A%E0%B8%B8%E0%B9%8A%E0%B8%81%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%AF-%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%97%E0%B8%B3%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99",
-          "source": "ศูนย์ต่อต้านข่าวปลอม ประเทศไทย"
-        },
-        {
-          "title": "ลงทุนทองกับเพจ Thai Gold Futures ปลอดภัย ดูแลโดย ก.ล.ต.",
-          "snippet": "",
-          "url": "https://www.antifakenewscenter.com/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99-%E0%B8%AB%E0%B8%B8%E0%B9%89%E0%B8%99/%E0%B8%A5%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%88-thai-gold-futures-%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%A0%E0%B8%B1%E0%B8%A2-%E0%B8%94%E0%B8%B9%E0%B9%81%E0%B8%A5%E0%B9%82%E0%B8%94%E0%B8%A2-%E0%B8%81-%E0%B8%A5-%E0%B8%95/",
-          "source": "ศูนย์ต่อต้านข่าวปลอม ประเทศไทย"
-        },
-        {
-          "title": "SET เปิดคอร์สสอนเทรดหุ้น พร้อมที่ปรึกษาตลอดชีพ มีกลุ่มไลน์ VIP คอยดูแล",
-          "snippet": "",
-          "url": "https://www.antifakenewscenter.com/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99-%E0%B8%AB%E0%B8%B8%E0%B9%89%E0%B8%99/set-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA%E0%B8%AA%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%A3%E0%B8%94%E0%B8%AB%E0%B8%B8%E0%B9%89%E0%B8%99-%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%A3%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2%E0%B8%95%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%8A%E0%B8%B5%E0%B8%9E-%E0%B8%A1%E0%B8%B5%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-vip-%E0%B8%84%E0%B8%AD%E0%B8%A2%E0%B8%94%E0%B8%B9%E0%B9%81%E0%B8%A5/",
-          "source": "ศูนย์ต่อต้านข่าวปลอม ประเทศไทย"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ดีเจเตเต้ประวัติ",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 18 May 2025 22:40:00 -0700",
+      "title": "เตเต้",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 18 May 2025 23:20:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWWO4-M1RhGzMKtyvh4OQHUJp1bUdw37xddmc4GtmgOogPHzTrdyWHGVry6-o",
       "pictureSource": "Thairath",
       "relatedSearch": [
@@ -53,6 +25,62 @@
           "snippet": "",
           "url": "https://www.amarintv.com/news/crime/514557",
           "source": "Amarin TV"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "งูเหลือม",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 18 May 2025 23:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQv0wlQm4oKCH02f1BTjDELLK87ky-gmgFrgkbiah4skLG4STfUXLlKOdbp8Gc",
+      "pictureSource": "Ch7",
+      "relatedSearch": [
+        {
+          "title": "งูเหลือม กินแมวจนอิ่ม แล้วนอนข้างเจ้าของ",
+          "snippet": "",
+          "url": "https://www.ch7.com/sports/803218",
+          "source": "Ch7"
+        },
+        {
+          "title": "ข่าว Like สาระ - งูเหลือมบุกบ้าน! กินลูกแมวพุงกาง เลื้อยนอนข้างคุณยาย",
+          "snippet": "",
+          "url": "https://www.naewna.com/likesara/884969",
+          "source": "แนวหน้า"
+        },
+        {
+          "title": "ตูบเห่าถึงรู้! เหลือมยักษ์เลื้อยบุกบ้าน เจ้าของเชื่อมาให้โชค-ซื้อหวยลุ้นรวย",
+          "snippet": "",
+          "url": "https://www.dailynews.co.th/news/4712655/",
+          "source": "เดลินิวส์"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ตลาดหลักทรัพย์",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 18 May 2025 22:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwVRZEKdJiOAvQhmeFqsZ4ilaVbu1GPuY1liaygiqQoc4H_TbOMkJo1__joPM",
+      "pictureSource": "ศูนย์ต่อต้านข่าวปลอม ประเทศไทย",
+      "relatedSearch": [
+        {
+          "title": "SET เปิดกลุ่มสอนลงทุนหุ้นออนไลน์ฟรี พร้อมแนะนำการตั้ง SL/TP ให้ได้เปรียบ",
+          "snippet": "",
+          "url": "https://www.antifakenewscenter.com/news/activity/set-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%AA%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B8%99%E0%B8%AB%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%E0%B8%9F%E0%B8%A3%E0%B8%B5-%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B9%81%E0%B8%99%E0%B8%B0%E0%B8%99%E0%B8%B3%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-sl-tp-%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%80%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%9A",
+          "source": "ศูนย์ต่อต้านข่าวปลอม ประเทศไทย"
+        },
+        {
+          "title": "เพจ ฟอรั่มการลงทุนประเทศไทย เป็นเพจเฟซบุ๊กใหม่ที่ตลาดหลักทรัพย์ฯ จัดทำขึ้น",
+          "snippet": "",
+          "url": "https://www.antifakenewscenter.com/news/activity/%E0%B9%80%E0%B8%9E%E0%B8%88-%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B8%88%E0%B9%80%E0%B8%9F%E0%B8%8B%E0%B8%9A%E0%B8%B8%E0%B9%8A%E0%B8%81%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%AF-%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%97%E0%B8%B3%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99",
+          "source": "ศูนย์ต่อต้านข่าวปลอม ประเทศไทย"
+        },
+        {
+          "title": "ลงทุนทองกับเพจ Thai Gold Futures ปลอดภัย ดูแลโดย ก.ล.ต.",
+          "snippet": "",
+          "url": "https://www.antifakenewscenter.com/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99-%E0%B8%AB%E0%B8%B8%E0%B9%89%E0%B8%99/%E0%B8%A5%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%88-thai-gold-futures-%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%A0%E0%B8%B1%E0%B8%A2-%E0%B8%94%E0%B8%B9%E0%B9%81%E0%B8%A5%E0%B9%82%E0%B8%94%E0%B8%A2-%E0%B8%81-%E0%B8%A5-%E0%B8%95/",
+          "source": "ศูนย์ต่อต้านข่าวปลอม ประเทศไทย"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -114,6 +142,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "เกม",
+      "trafficCount": "10000+",
+      "pubDate": "Sun, 18 May 2025 20:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLugY5zybQFRrjI-p4NgjsZhP79RwnPezoaQDMFQQwRd3uvmMr4WyqlGP1idY",
+      "pictureSource": "FootBoom",
+      "relatedSearch": [
+        {
+          "title": "วิเคราะห์ก่อนเกม: อินเตอร์ ไมอามี่ ปะทะ ออร์แลนโด ซิตี้ ศึกเดือด MLS ที่ฟลอริดา",
+          "snippet": "",
+          "url": "https://www.footboom1.com/th/news/football/2567641-inter-miami-vs-orlando-city-expert-preview-match-prediction-for-mls-showdown",
+          "source": "FootBoom"
+        },
+        {
+          "title": "เบ็คส์โวยมินเนโซต้าลั่นให้เกียรติกันหน่อย",
+          "snippet": "",
+          "url": "https://www.thsport.live/sport-news/football/news-232160.html",
+          "source": "Thsport"
+        },
+        {
+          "title": "เมสซี่บ่นไม่หยุดและแกล้งล้มในเกมเหย้าของอินเตอร์ไมอามี",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/th/messi-lien-tuc-phan-nan-va-gia-vo-nga-o-tran-inter-miami-phoi-ao-tren-san-nha",
+          "source": "Vietnam.vn"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "streaming",
       "trafficCount": "200+",
       "pubDate": "Sun, 18 May 2025 20:00:00 -0700",
@@ -133,10 +189,10 @@
           "source": "CNET"
         },
         {
-          "title": "Max top 10 movies — here’s the 3 worth watching right now",
+          "title": "7 best new to Max movies to stream this month",
           "snippet": "",
-          "url": "https://www.yahoo.com/entertainment/articles/max-top-10-movies-3-144358019.html",
-          "source": "Yahoo"
+          "url": "https://www.tomsguide.com/entertainment/hbo-max/7-new-to-max-movies-to-stream-now-with-90-percent-or-higher-on-rotten-tomatoes-may-2025",
+          "source": "Tom's Guide"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,14 +229,14 @@
       "title": "เดือน",
       "trafficCount": "1000+",
       "pubDate": "Sun, 18 May 2025 19:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUrAtW5IFfJK1-qpfZWmpk9gTwOFrxd1eln92hkczGa0tVHnL8adrH6D2bryk",
-      "pictureSource": "bangkokbiznews",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeSlSFoKVBYOI_IH8NgOlAxCQfvR_-8Ey9q_KJEIJyhXu0-hJtLTI88YLkrH4",
+      "pictureSource": "MGR Online",
       "relatedSearch": [
         {
-          "title": "พาณิชย์ เผย 2 เดือนแรกปี 68 ไทยส่งออกภายใต้ FTA โต 24.11%",
+          "title": "ใช้ FTA ส่งออก 2 เดือน ปี 68 มูลค่า 15,086.20 ล้านดอลลาร์สหรัฐ เพิ่ม 24.11%",
           "snippet": "",
-          "url": "https://www.bangkokbiznews.com/business/economic/1180932",
-          "source": "bangkokbiznews"
+          "url": "https://mgronline.com/business/detail/9680000046614",
+          "source": "MGR Online"
         },
         {
           "title": "ศาลฎีกา จำคุก 1 เดือน ‘ตรีวิเศษ’รองนายก อบจ.มหาสารคาม ไม่ยื่นบัญชีฯ-ให้รอลงโทษ",
@@ -198,68 +254,31 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "อาหาร",
+      "title": "ผลไม้",
       "trafficCount": "200+",
       "pubDate": "Sun, 18 May 2025 19:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRo5Ul467DGcYBTNESdgngzDPpEAmC3Sca8b9uCztdzjygxRwmU3_Z3mAtZgDA",
-      "pictureSource": "Sanook.com",
-      "relatedSearch": [
-        {
-          "title": "3 อาหาร \"ราชาไตเน่า\" แต่หลายคนยังกินทุกวัน หารู้ไม่กำลังทำร้ายไตอย่างเงียบๆ",
-          "snippet": "",
-          "url": "https://www.sanook.com/news/9790886/",
-          "source": "Sanook.com"
-        },
-        {
-          "title": "“เท้ง” ยกทีม ปชน. เยือนศรีราชา แวะกินมื้อเที่ยงร้านขึ้นป้าย “ไม่ขายอาหารงู”",
-          "snippet": "",
-          "url": "https://www.thairath.co.th/news/politic/2859071",
-          "source": "Thairath.co.th"
-        },
-        {
-          "title": "“เท้ง” หัวเราะ ลงพื้นที่ “งูเห่า” ในวันเกิด บอกไม่มีนัยยะ | โชว์ข่าวเช้านี้ | 19 พ.ค. 68",
-          "snippet": "",
-          "url": "https://www.pptvhd36.com/video/news/193118",
-          "source": "pptvhd36.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ผลไม้",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 18 May 2025 19:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVNDZHOtxcojwbei4fctSQbrYCE8_4ZS-7YF6cMfQYNqZkH5uOxLNUpRCPyaY",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQypeCN7yFiefdPo4HikjVSkvdjXxIhq0ydPQH4q5GkxcbPTscjeoRMlk3kDP4",
       "pictureSource": "MGR Online",
       "relatedSearch": [
         {
-          "title": "ช็อปผลไม้สดๆ เกษตรกรไทยคัดสรรส่งตรงความสดอร่อยจากสวนที่ไอคอนสยาม",
+          "title": "นายกแพทองธาร ชิมอาหารร้าน Thai SELECT พร้อมชวนนักท่องเที่ยวพิสูจน์ความอร่อยมองหา ป้าย Thai SELECT",
           "snippet": "",
-          "url": "https://mgronline.com/celebonline/detail/9680000046558",
+          "url": "https://mgronline.com/smes/detail/9680000046555",
           "source": "MGR Online"
         },
         {
-          "title": "บิ๊กซี จัดงาน \"เทศกาลผลไม้ไทย สดจากสวน สู่บิ๊กซี ปี 2568\" พร้อมบุฟเฟต์ทุเรียนและผลไม้ไทย อิ่มไม่อั้น!",
+          "title": "พาณิชย์ แจงไลฟ์ขายทุเรียน \"เจาะขายตรง\" ตลาดเศรษฐกิจดิจิทัล",
           "snippet": "",
-          "url": "https://www.ryt9.com/s/prg/12713509",
-          "source": "RYT9"
+          "url": "https://www.thaipbs.or.th/news/content/352279",
+          "source": "Thai PBS"
         },
         {
-          "title": "ไอคอนสยาม จัดงานฤดูกาลผลไม้ ส่งตรงความสดอร่อยจากเกษตรกรไทย",
+          "title": "เกษตรกร ร้อง นายกฯ ราคามังคุดตกต่ำ",
           "snippet": "",
-          "url": "https://www.prachachat.net/d-life/news-1813010",
-          "source": "ประชาชาติธุรกิจ"
+          "url": "https://www.ch7.com/sports/803118",
+          "source": "Ch7"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "วันหยุดมิถุนายน 2568",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 18 May 2025 19:20:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]

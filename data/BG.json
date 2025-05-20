@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-05-20 09:00:18",
+  "lastUpdate": "2025-05-20 09:27:33",
   "data": [
     {
       "title": "измама",
@@ -31,7 +31,7 @@
     },
     {
       "title": "никола минчев",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 19 May 2025 23:00:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTI0LOSLXCMA5yqyZLcn7KaPIEIjsCrzptiGpIDiHW0xE9hRwWRtcIkY61hfgA",
       "pictureSource": "Nova.bg",
@@ -61,13 +61,19 @@
       "title": "владимир путин",
       "trafficCount": "200+",
       "pubDate": "Mon, 19 May 2025 22:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsydL0gvtFBR62kb9Ex3tH64PPGdoeqFslFDBifeKcB_kvoGaIOJSvrWgFGzg",
-      "pictureSource": "Українська правда",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzTIA11HC35Q6mTRCISnBKnTZpm2LDn9x0HJY5Ekt__zLQGvVsWljSat3KZvM",
+      "pictureSource": "URA.RU",
       "relatedSearch": [
         {
-          "title": "Трамп: Нужно время, чтобы оценить усилия Киева для прекращения огня",
+          "title": "Лавров раскрыл, изменилась ли позиция РФ по миру с Украиной после звонка Трампа",
           "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2025/05/20/7513053/",
+          "url": "https://ura.news/news/1052935907",
+          "source": "URA.RU"
+        },
+        {
+          "title": "Трамп заявил, что готов \"отступить\" в переговорах между Украиной и РФ, если \"не будет прогресса\"",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/rus/news/2025/05/20/7513050/",
           "source": "Українська правда"
         },
         {
@@ -75,12 +81,6 @@
           "snippet": "",
           "url": "https://www.interfax.ru/russia/1026497",
           "source": "Интерфакс"
-        },
-        {
-          "title": "Кремль: Путин и Трамп обсуждали встречу президентов России и Украины",
-          "snippet": "",
-          "url": "https://meduza.io/news/2025/05/20/kreml-putin-i-tramp-obsuzhdali-vstrechu-prezidentov-rossii-i-ukrainy",
-          "source": "Meduza"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -101,7 +101,7 @@
         {
           "title": "Деца създадоха украсата на площад \"Жеравица\" в Монтана за 24 май",
           "snippet": "",
-          "url": "https://www.24chasa.bg/bulgaria/article/20539425",
+          "url": "https://www.24chasa.bg/index.php/bulgaria/article/20539425",
           "source": "www.24chasa.bg"
         },
         {
@@ -127,44 +127,44 @@
           "source": "News.bg"
         },
         {
+          "title": "Серия от земетресения в Гърция",
+          "snippet": "",
+          "url": "https://www.focus-news.net/novini/mejdunarodni/Seriya-ot-zemetreseniya-v-Gurciya-2560447",
+          "source": "ФОКУС"
+        },
+        {
           "title": "Нови земетресения на гръцкия остров Евия образуваха пукнатини, затвориха училищата",
           "snippet": "",
           "url": "https://btvnovinite.bg/svetut/novi-zemetresenija-na-grackija-ostrov-evija-obrazuvaha-puknatini-zatvoriha-uchilishtata.html",
           "source": "bTV Новините"
-        },
-        {
-          "title": "Земетресение с магнитуд 4,5 е регистрирано в Егейско море край гръцки остров",
-          "snippet": "",
-          "url": "https://www.24chasa.bg/mezhdunarodni/article/20535439",
-          "source": "www.24chasa.bg"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "новини",
-      "trafficCount": "2000+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 19 May 2025 19:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVk7sDPCJuQlH33oL6xxdsweC1hfvjVCDTaKgtdsYd24QTg9NGcCtOLRJ9p8Y",
-      "pictureSource": "Новини СЕГА",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRw851faTjXEMkP9IlCVcIXDw0NkGizPO9ZcK3sxNUAhmQHj0mRjMkpf0zNlL0",
+      "pictureSource": "Евроком",
       "relatedSearch": [
         {
-          "title": "Градският транспорт на София тръгва от утре",
+          "title": "Кремъл: Путин и Тръмп искат нормализиране на отношенията между САЩ и Русия",
           "snippet": "",
-          "url": "https://www.segabg.com/category-bulgaria/gradskiyat-transport-na-sofiya-trugva-utre",
-          "source": "Новини СЕГА"
+          "url": "https://eurocom.bg/2025/05/19/kremal-putin-i-tramp-iskat-normalizirane-na-otnosheniyata-mezhdu-sasht-i-rusiya/",
+          "source": "Евроком"
         },
         {
-          "title": "Синдикатите в столичния транспорт: Ако не изпълнят всичките ни искания, излизаме отново",
+          "title": "Границите на компромиса: Разговорите между Тръмп и Путин за бъдещето на Украйна",
           "snippet": "",
-          "url": "https://dnes.dir.bg/obshtestvo/sindikatite-v-stolichniya-transport-ako-ne-izpalnyat-vsichkite-ni-iskaniya-izlizame-otnovo",
-          "source": "Dir"
+          "url": "https://nova.bg/news/view/2025/05/20/498176/%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B8%D1%82%D0%B5-%D0%BD%D0%B0-%D0%BA%D0%BE%D0%BC%D0%BF%D1%80%D0%BE%D0%BC%D0%B8%D1%81%D0%B0-%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82%D0%B5-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83-%D1%82%D1%80%D1%8A%D0%BC%D0%BF-%D0%B8-%D0%BF%D1%83%D1%82%D0%B8%D0%BD-%D0%B7%D0%B0-%D0%B1%D1%8A%D0%B4%D0%B5%D1%89%D0%B5%D1%82%D0%BE-%D0%BD%D0%B0-%D1%83%D0%BA%D1%80%D0%B0%D0%B9%D0%BD%D0%B0/",
+          "source": "Nova.bg"
         },
         {
-          "title": "Иван Таков: Кметът унижава Столичната община, в бюджета имаше пари",
+          "title": "Киев няма да изтегли войски от украинските територии",
           "snippet": "",
-          "url": "https://www.focus-news.net/novini/regioni/Ivan-Takov-Kmetut-unizhava-Stolichnata-obshtina-v-byudzheta-imashe-pari-2562104",
-          "source": "ФОКУС"
+          "url": "https://news.bg/int-politics/kiev-nyama-da-iztegli-voyski-ot-ukrainskite-teritorii.html",
+          "source": "News.bg"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,26 +173,26 @@
       "title": "liverpool",
       "trafficCount": "100+",
       "pubDate": "Mon, 19 May 2025 13:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFHwnbZLQBeaNmibzNsvbithAGOUPzh-cppM2z11uem2KEES_vm6vDJu35ESU",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiuOrNQGllMiRUETXoDJT6SD6O6zmsAr930Ubw5QjlfUabc4RV_hO77RQBRAw",
+      "pictureSource": "The Times",
       "relatedSearch": [
         {
-          "title": "Brighton 3-2 Liverpool: Mohamed Salah waits for Premier League record",
+          "title": "Liverpool and Bayern vie for £126m Florian Wirtz after Man City pull out",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/articles/c628xvxep82o",
-          "source": "BBC"
+          "url": "https://www.thetimes.com/sport/football/article/liverpool-and-bayern-vie-for-126m-florian-wirtz-after-man-city-pull-out-lcx30d6jh",
+          "source": "The Times"
         },
         {
-          "title": "Fans reckon they've witnessed the 'biggest fumble' in Premier League history after watching Brighton vs Liverpool",
+          "title": "🚨🔴 As reported: The #Wirtz family were in Liverpool last week … ManCity were ready to make progress but #MCFC are out of the race after new talks, according to @SamiMokbel_BBC. Despite other reports, ManCity never made an official offer, as has always",
           "snippet": "",
-          "url": "https://www.sportbible.com/football/premier-league/fans-biggest-fumble-liverpool-brighton-079363-20250519",
-          "source": "SPORTbible"
+          "url": "https://x.com/Plettigoal/status/1924474428328390899",
+          "source": "X (Twitter)"
         },
         {
-          "title": "Mo Salah in running for 'worst miss ever' as open goal sitter could cost him history",
+          "title": "❌Decision made: Manchester City pull out of the race for Wirtz",
           "snippet": "",
-          "url": "https://www.dailystar.co.uk/sport/football/breaking-mo-salah-miss-sitter-35253881",
-          "source": "Daily Star"
+          "url": "https://sports.yahoo.com/article/decision-made-manchester-city-pull-155500133.html",
+          "source": "Yahoo Sports"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,13 +201,13 @@
       "title": "brighton vs liverpool",
       "trafficCount": "500+",
       "pubDate": "Mon, 19 May 2025 12:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuDdtse-QyzwAnlRU8bBdRGd5sX_uZC90-5v3yy7_ezkAtg4kdjkwL0BUk0TQ",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpb_XaL7w2ap3ccLdP_JzIandC4BKTXhS8vd_LqQS8kZA7lZegHWXnNdviBl8",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Brighton 3-2 Liverpool: Report and reaction as Seagulls come from behind twice to beat champions",
+          "title": "Premier League reaction: Brighton beat champions Liverpool to keep Europe hopes alive",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cz0dl7xxydpt",
+          "url": "https://www.bbc.com/sport/football/live/ckgq20xj208t",
           "source": "BBC"
         },
         {
@@ -239,16 +239,16 @@
           "source": "ФОКУС"
         },
         {
-          "title": "Защо победата на Никушор Дан е добра новина за България",
-          "snippet": "",
-          "url": "https://offnews.bg/analizi-i-komentari/zashto-pobedata-na-nikushor-dan-e-dobra-novina-za-balgaria-844588.html",
-          "source": "offnews.bg"
-        },
-        {
           "title": "След изборите в Румъния лъсна грешката на Брюксел",
           "snippet": "",
           "url": "https://www.24chasa.bg/mneniya/article/20540183",
           "source": "www.24chasa.bg"
+        },
+        {
+          "title": "След президентския вот в Румъния: Кой ще наследи Дан на поста кмет на Букурещ",
+          "snippet": "",
+          "url": "https://www.mediapool.bg/sled-prezidentskiya-vot-v-rumaniya-koi-shte-nasledi-dan-na-posta-kmet-na-bukuresht-news371377.html",
+          "source": "Mediapool.bg"
         }
       ],
       "link": "https://imtaqin.id/"

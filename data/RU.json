@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-05-20 06:49:50",
+  "lastUpdate": "2025-05-20 06:58:50",
   "data": [
     {
       "title": "гороскоп",
@@ -43,16 +43,16 @@
           "source": "Meduza"
         },
         {
-          "title": "Главу округа Вологодской области уволили из-за слов ее дочери о спецоперации",
-          "snippet": "",
-          "url": "https://www.vedomosti.ru/strana/northwestern/news/2025/05/20/1111237-glavu-okruga",
-          "source": "Ведомости"
-        },
-        {
           "title": "Губернатор поставил точку в скандале с дочерью мэра, отправлявшей хейтеров на СВО: подробности",
           "snippet": "",
           "url": "https://ura.news/news/1052935700",
           "source": "URA.RU"
+        },
+        {
+          "title": "Главу округа Вологодской области уволили из-за слов ее дочери о спецоперации",
+          "snippet": "",
+          "url": "https://www.vedomosti.ru/strana/northwestern/news/2025/05/20/1111237-glavu-okruga",
+          "source": "Ведомости"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,9 +257,15 @@
       "title": "погода яндекс",
       "trafficCount": "200+",
       "pubDate": "Mon, 19 May 2025 21:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpF2WE5b_XCJJnSYfhQYg_wpS6Y2r8NdlP2WO04atSQECAZNNA6az_Bxsg_q0",
-      "pictureSource": "Агентство городских новостей",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXyFAIgLl7VJyYtBGhoF6CdlwEkh8-U23-_DA8BznVBQjhX8USuQH0cJIHtI8",
+      "pictureSource": "Новости Перми и Пермского края - Properm",
       "relatedSearch": [
+        {
+          "title": "Какую погоду ждать сегодня? Отвечают синоптики — Новости Перми и Пермского края",
+          "snippet": "",
+          "url": "https://properm.ru/news/2025-05-19/kakuyu-pogodu-zhdat-segodnya-otvechayut-sinoptiki-5392970",
+          "source": "Новости Перми и Пермского края - Properm"
+        },
         {
           "title": "Облачная погода, дождь, гроза и до 17 градусов тепла ожидаются в столичном регионе 20 мая",
           "snippet": "",
@@ -271,12 +277,6 @@
           "snippet": "",
           "url": "https://www.interfax.ru/moscow/1026292",
           "source": "Интерфакс"
-        },
-        {
-          "title": "В Москве ожидаются облачная погода и температура до плюс 15 градусов",
-          "snippet": "",
-          "url": "https://pogoda.mail.ru/news/66200043/",
-          "source": "Mail.ru"
         }
       ],
       "link": "https://imtaqin.id/"

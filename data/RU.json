@@ -1,6 +1,62 @@
 {
-  "lastUpdate": "2025-05-22 09:55:39",
+  "lastUpdate": "2025-05-22 10:14:47",
   "data": [
+    {
+      "title": "погода тольятти",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 22 May 2025 02:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8hZHh4CrEc4ZPoGqv0Ipg04KfSz-kHj9CFUUV-uO7vqTwz47fCTM2nKMC3UI",
+      "pictureSource": "TLT.ru - Новости Тольятти",
+      "relatedSearch": [
+        {
+          "title": "Утром в Тольятти ветер повалил несколько деревьев | TLT.ru",
+          "snippet": "",
+          "url": "https://tlt.ru/incident/utrom-v-tolyatti-upali-neskolko-derevev/2255184/",
+          "source": "TLT.ru - Новости Тольятти"
+        },
+        {
+          "title": "На бульваре Кулибина упало дерево и повредило несколько автомобилей",
+          "snippet": "",
+          "url": "https://tvtogliatti24.ru/news/na-bulvare-kulibina-upalo-derevo-i-povredilo-neskolko-avtomobiley/",
+          "source": "телеканал ТОЛЬЯТТИ 24"
+        },
+        {
+          "title": "Ветер до 20 м/с задержится в Самарской области еще на один день",
+          "snippet": "",
+          "url": "https://pogoda.mail.ru/news/66228624/",
+          "source": "Mail.ru"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "седокова",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 22 May 2025 02:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEpFhK64lWx82lKbOrsS7mdYrG7N5ucscyZWTV3quJvNdsskxEtT2-tRK8DqA",
+      "pictureSource": "Radio1.ru",
+      "relatedSearch": [
+        {
+          "title": "Анне Седоковой грозит банкротство из-за иска семьи Яниса Тиммы на 60 млн",
+          "snippet": "",
+          "url": "https://radio1.ru/news/shou-biznes/anne-sedokovoi-grozit-bankrotstvo-iz-za-iska-semi-yanisa-timmi-na-60-mln/",
+          "source": "Radio1.ru"
+        },
+        {
+          "title": "Анне Седоковой предъявили за Тимму: с актрисы требуют миллионы",
+          "snippet": "",
+          "url": "https://7days.ru/news/anne-sedokovoy-predyavili-za-timmu-s-aktrisy-trebuyut-milliony.htm",
+          "source": "7Дней.ру"
+        },
+        {
+          "title": "Седокова сделала заявление после требований близких Тиммы вернуть деньги: Пытались меня поломать",
+          "snippet": "",
+          "url": "https://dni.expert/showbiz/2025/5/21/536236.html",
+          "source": "Российская электронная газета Dni.expert"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "зак брафф",
       "trafficCount": "100+",
@@ -33,26 +89,26 @@
       "title": "атака",
       "trafficCount": "2000+",
       "pubDate": "Thu, 22 May 2025 02:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSiQgcLsoljx9fmh45TYHeK6LZd1fuX62BsxuYS6p6ozRF1x5_1PTENUiZZk2A",
-      "pictureSource": "Официальный сайт Мэра Москвы",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoAy634kCO59DvTzoa_NgMsjAUWgSVQBp3A5Rsixk9On5IG1deoFkpjTePDqc",
+      "pictureSource": "Интерфакс",
       "relatedSearch": [
         {
-          "title": "Собянин сообщил о ликвидации еще трех вражеских БПЛА, летевших на Москву",
+          "title": "Два человека получили ранения в результате налета беспилотников на Тульскую область",
           "snippet": "",
-          "url": "https://www.mos.ru/mayor/themes/12792050/",
-          "source": "Официальный сайт Мэра Москвы"
-        },
-        {
-          "title": "В московских аэропортах возник коллапс из-за налета дронов",
-          "snippet": "",
-          "url": "https://www.moscowtimes.ru/2025/05/22/vmoskovskih-aeroportah-voznik-kollaps-iz-za-naleta-dronov-a164049",
-          "source": "Русская служба The Moscow Times"
-        },
-        {
-          "title": "Собянин сообщил, что сбиты еще два БПЛА, летевшие на Москву",
-          "snippet": "",
-          "url": "https://www.interfax.ru/moscow/1027085",
+          "url": "https://www.interfax.ru/russia/1027046",
           "source": "Интерфакс"
+        },
+        {
+          "title": "Оперативные службы обезвреживают обломки беспилотника, найденные возле ФОКа «Оружейник» на улице Кутузова",
+          "snippet": "",
+          "url": "https://myslo.ru/news/tula/2025-05-22-operativnye-sluzhby-obezvrezhivayut-oblomki-bespilotnika-najdennye-vozle-foka-oruzhejnik-na-ulice-kutuzova",
+          "source": "MySlo"
+        },
+        {
+          "title": "Губернатор выехал на место попадания БПЛА в жилой дом в Туле. Фоторепортаж",
+          "snippet": "",
+          "url": "https://newstula.ru/fn_1667553.html",
+          "source": "newstula"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,13 +117,13 @@
       "title": "лось",
       "trafficCount": "100+",
       "pubDate": "Thu, 22 May 2025 02:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRAgffjYtjl-hBTSItBAXcsf-eRusCEBp_SQI-PjU0o_q5_PjsYMEODspvrjqc",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2tWPAqib5hqn46nxIrqwQIGUaWYlyMN7PczDy8P3J8iAK9opsJSgR2_SpJJM",
       "pictureSource": "ФОНТАНКА.ру",
       "relatedSearch": [
         {
-          "title": "Погиб лось, блуждавший в Купчино",
+          "title": "Блуждавший по югу Петербурга третий лосёнок скрылся в сторону Ленобласти",
           "snippet": "",
-          "url": "https://www.fontanka.ru/2025/05/21/75484541/",
+          "url": "https://www.fontanka.ru/2025/05/22/75487505/",
           "source": "ФОНТАНКА.ру"
         },
         {
@@ -99,23 +155,23 @@
           "source": "Блокнот Новороссийск"
         },
         {
-          "title": "В Новороссийске объявляли ракетную опасность",
-          "snippet": "",
-          "url": "https://kubnews.ru/obshchestvo/2025/05/22/v-novorossiyske-obyavlyali-raketnuyu-opasnost/",
-          "source": "Кубанские новости"
-        },
-        {
           "title": "Сирены из-за ракетной опасности включили в Новороссийске рано утром 22 мая",
           "snippet": "",
           "url": "https://kuban24.tv/item/sireny-iz-za-raketnoj-opasnosti-vklyuchili-v-novorossijske-rano-utrom-22-maya",
           "source": "Новости Краснодара и Краснодарского края : Кубань 24"
+        },
+        {
+          "title": "В Новороссийске объявляли ракетную опасность",
+          "snippet": "",
+          "url": "https://kubnews.ru/obshchestvo/2025/05/22/v-novorossiyske-obyavlyali-raketnuyu-opasnost/",
+          "source": "Кубанские новости"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "елена рыбакина",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 22 May 2025 02:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-vfSJZaji_x22O8PekdmFkRJju7j9mYEAhZ2tWrG3xyRei1ShhFen38CjC_o",
       "pictureSource": "ВсеПроСпорт",
@@ -170,6 +226,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "сша финляндия прогноз",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 22 May 2025 00:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQai6InM6KTSn1ypAsbIIbpM99HRiX0SkrsjCrKEqLq6S7CVW-03OYRjV59czE",
+      "pictureSource": "Sportbox",
+      "relatedSearch": [
+        {
+          "title": "Канада — Дания: когда начало, где смотреть онлайн матча ¼ финала чемпионата мира по хоккею 22 мая",
+          "snippet": "",
+          "url": "https://news.sportbox.ru/Vidy_sporta/Hokkej/spbnews_NI2206732_Kanada__Danija_kogda_nachalo_gde_smotret_onlajn_matcha__finala_chempionata_mira_po_khokkeju_22_maja",
+          "source": "Sportbox"
+        },
+        {
+          "title": "Швейцария — Австрия: где смотреть прямую трансляцию матча 1/4 финала чемпионата мира по хоккею 22 мая",
+          "snippet": "",
+          "url": "https://matchtv.ru/hockey/matchtvnews_NI2206725_Shvejcarija__Avstrija_gde_smotret_pramuju_translaciju_matcha_1_4_finala_chempionata_mira_po_khokkeju_22_maja",
+          "source": "Матч ТВ"
+        },
+        {
+          "title": "Прогноз на матч США – Финляндия. «Звёздно-полосатые» оформят выход в полуфинал ЧМ-2025",
+          "snippet": "",
+          "url": "https://metaratings.ru/prognozy/hokkey/ssha-finlyandiya-prognoz-na-match-chm-2025-22-maya-2025-goda/",
+          "source": "Metaratings"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "путин в курской области",
       "trafficCount": "500+",
       "pubDate": "Thu, 22 May 2025 00:40:00 -0700",
@@ -183,100 +267,16 @@
           "source": "Президент России"
         },
         {
-          "title": "Путин посетил Курскую область впервые после ухода ВСУ",
+          "title": "Зачем Путин ездил в Курскую область",
           "snippet": "",
-          "url": "https://www.dw.com/ru/putin-posetil-kurskuu-oblast-vpervye-posle-uhoda-vsu/a-72621028",
-          "source": "DW"
+          "url": "https://www.currenttime.tv/a/zachem-putin-ezdil-v-kurskuyu-oblast/33421197.html",
+          "source": "Настоящее Время"
         },
         {
-          "title": "Путин: ВСУ пытаются двигаться в сторону российской границы",
+          "title": "Путин пообещал найти решение проблем с погашением ипотечных кредитов для курян",
           "snippet": "",
-          "url": "https://m.business-gazeta.ru/news/672822",
-          "source": "БИЗНЕС Online — Новости Казани"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "сша финляндия прогноз",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 22 May 2025 00:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQaa9h1tr6V0J_IxBw0A2-1OTQPekpwJ1IiJj6NoGSRfI00E-JpuhLjC3EKT98",
-      "pictureSource": "Матч ТВ",
-      "relatedSearch": [
-        {
-          "title": "Канада — Дания: где смотреть прямую трансляцию матча 1/4 финала чемпионата мира по хоккею 22 мая",
-          "snippet": "",
-          "url": "https://matchtv.ru/hockey/matchtvnews_NI2206731_Kanada__Danija_gde_smotret_pramuju_translaciju_matcha_1_4_finala_chempionata_mira_po_khokkeju_22_maja",
-          "source": "Матч ТВ"
-        },
-        {
-          "title": "Швейцария — Австрия: когда начало, где смотреть онлайн матча ¼ финала чемпионата мира по хоккею 22 мая",
-          "snippet": "",
-          "url": "https://news.sportbox.ru/Vidy_sporta/Hokkej/spbnews_NI2206724_Shvejcarija__Avstrija_kogda_nachalo_gde_smotret_onlajn_matcha__finala_chempionata_mira_po_khokkeju_22_maja",
-          "source": "Sportbox"
-        },
-        {
-          "title": "Прогноз на матч США – Финляндия. «Звёздно-полосатые» оформят выход в полуфинал ЧМ-2025",
-          "snippet": "",
-          "url": "https://metaratings.ru/prognozy/hokkey/ssha-finlyandiya-prognoz-na-match-chm-2025-22-maya-2025-goda/",
-          "source": "Metaratings"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "александр ревва",
-      "trafficCount": "5000+",
-      "pubDate": "Thu, 22 May 2025 00:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSaecMRXh4LB0tQFwR2Q5fJgOBQTMbaYw7J_91p8-Pec_pCU1sP8I3muMKUqQc",
-      "pictureSource": "Meduza",
-      "relatedSearch": [
-        {
-          "title": "Александр Ревва получил российское гражданство. Он родился в Донецке и выступал против войны",
-          "snippet": "",
-          "url": "https://meduza.io/news/2025/05/22/aleksandr-revva-poluchil-rossiyskoe-grazhdanstvo-on-rodilsya-v-donetske-i-vystupal-protiv-voyny",
-          "source": "Meduza"
-        },
-        {
-          "title": "Александр Ревва получил российское гражданство",
-          "snippet": "",
-          "url": "https://m.business-gazeta.ru/news/672960",
-          "source": "БИЗНЕС Online — Новости Казани"
-        },
-        {
-          "title": "Шоумен Александр Ревва получил гражданство РФ",
-          "snippet": "",
-          "url": "https://www.bfm.ru/news/573945",
-          "source": "BFM.ru"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "райан гослинг",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 22 May 2025 00:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5h-2L4f_uGh4FbsGVWFWQ-CcE0RYTz6z2jQ-DKN69dTCJu5TIznL_lM8MbIY",
-      "pictureSource": "Kanobu.ru",
-      "relatedSearch": [
-        {
-          "title": "Мишель Уильямс призналась, как ей тяжело дались съёмки в «Валентинке» с Райаном Гослингом",
-          "snippet": "",
-          "url": "https://kanobu.ru/news/mishel-uilyams-priznalas-kak-ej-tyazhelo-dalis-syomki-v-valentinke-s-rajanom-goslingom-500861/",
-          "source": "Kanobu.ru"
-        },
-        {
-          "title": "Райан Гослинг и Мишель Уильямс едва не сорвали съемки из-за взаимной симпатии",
-          "snippet": "",
-          "url": "https://peopletalk.ru/article/rajan-gosling-i-mishel-uilyams-edva-ne-sorvali-semki-iz-za-vzaimnoj-simpatii/",
-          "source": "Peopletalk"
-        },
-        {
-          "title": "«Я заставила его меня ненавидеть»: Мишель Уильямс рассказала о совместной жизни с Райаном Гослингом",
-          "snippet": "",
-          "url": "https://www.thevoicemag.ru/stars/news/21-05-2025/ya-zastavila-ego-menya-nenavidet-mishel-uilyams-rasskazala-o-sovmestnoi-jizni-s-raianom-goslingom/",
-          "source": "Voice.ru"
+          "url": "https://finance.mail.ru/2025-05-21/putin-poobeshal-najti-reshenie-problem-s-pogasheniem-ipotechnyh-kreditov-dlya-kuryan-66222246/",
+          "source": "Финансы Mail"
         }
       ],
       "link": "https://imtaqin.id/"

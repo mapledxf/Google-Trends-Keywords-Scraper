@@ -1,19 +1,13 @@
 {
-  "lastUpdate": "2025-05-22 13:08:03",
+  "lastUpdate": "2025-05-22 13:39:50",
   "data": [
     {
       "title": "rødberg",
       "trafficCount": "1000+",
       "pubDate": "Thu, 22 May 2025 04:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkufBKhTUIWL_61Ik4vT-Ns41kRLwbSJcSEbiAgLVzWa9I8y7yEy6MVarGdFw",
-      "pictureSource": "Dagbladet",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTquXNNOfwnKXWmNrgBi3fY54sqxl0gG8D744V_KYFp_Bzn21AjBYXRitK-lKs",
+      "pictureSource": "TV2.no",
       "relatedSearch": [
-        {
-          "title": "Livstruende situasjon på Rødberg",
-          "snippet": "",
-          "url": "https://www.dagbladet.no/nyheter/livstruende-situasjon-pa-rodberg/83124239",
-          "source": "Dagbladet"
-        },
         {
           "title": "Mann truet flere personer med øks og kniv – en lettere skadet",
           "snippet": "",
@@ -21,10 +15,16 @@
           "source": "TV2.no"
         },
         {
-          "title": "(+) Politiet har sirkla inn mann som truga med øks - fleire bygg i sentrum vart låst ned",
+          "title": "Har omringet hytte",
           "snippet": "",
-          "url": "https://www.hallingdolen.no/nyheiter/i/Rz025x/store-politistyrkar-gjennom-sentrum",
-          "source": "hallingdolen.no"
+          "url": "https://www.dagbladet.no/nyheter/har-omringet-hytte/83124239",
+          "source": "Dagbladet"
+        },
+        {
+          "title": "Lillian ble vitne til hendelsen: – Det virker som en film og ikke noe som skjer i lille Rødberg sentrum",
+          "snippet": "",
+          "url": "https://www.laagendalsposten.no/lillian-ble-vitne-til-hendelsen-det-virker-som-en-film-og-ikke-noe-som-skjer-i-lille-rodberg-sentrum/s/5-64-1543795",
+          "source": "Laagendalsposten"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -199,39 +199,11 @@
     },
     {
       "title": "nrk nyheter",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 21 May 2025 23:10:00 -0700",
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "nrk.no",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 21 May 2025 23:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRagA0xYGjTBiSaSFqa526jz76hxHthbMWdqY2t0VsHzdm0g3K3grk4nGWLO_A",
-      "pictureSource": "VG",
-      "relatedSearch": [
-        {
-          "title": "Ingen sommer­varme i sikte: –⁠ Lite trøst å hente",
-          "snippet": "",
-          "url": "https://www.vg.no/nyheter/i/gwlKGJ/ingen-sommervarme-i-sikte-lite-troest-aa-hente",
-          "source": "VG"
-        },
-        {
-          "title": "Farevarsel om snø i Sør-Noreg",
-          "snippet": "",
-          "url": "https://www.nrk.no/innlandet/farevarsel-om-sno-i-sor-noreg-1.17427606",
-          "source": "NRK"
-        },
-        {
-          "title": "Her er det full vinter",
-          "snippet": "",
-          "url": "https://www.aftenposten.no/norge/i/EyeE5A/her-er-det-full-vinter",
-          "source": "Aftenposten"
-        }
-      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -258,6 +230,34 @@
           "snippet": "",
           "url": "https://fagbladet.no/nyheter/oppgjoret-for-pensjonister-og-trygdede-er-klart-se-resultatet-her-6.91.1138904.2ee06cb1a4",
           "source": "Fagbladet"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "jordskjelv kreta",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 21 May 2025 22:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRoPOU1pTVWR-etkQ1BXI2HkHfZ0W73QUcXSlnG_bWG2US91RtYvMdoCcsOHgk",
+      "pictureSource": "VG",
+      "relatedSearch": [
+        {
+          "title": "Jordskjelv på Kreta: –⁠ Hotellet ristet",
+          "snippet": "",
+          "url": "https://www.vg.no/nyheter/i/GyRXnx/jordskjelv-paa-kreta",
+          "source": "VG"
+        },
+        {
+          "title": "Tsunamivarsel i Hellas etter jordskjelv",
+          "snippet": "",
+          "url": "https://www.tv2.no/direkte/jpybz/siste-nytt/682eabe2053ad505bb3aed64/tsunamivarsel-i-hellas-etter-jordskjelv",
+          "source": "TV2.no"
+        },
+        {
+          "title": "Kreta, Jordskjelv | Bryllupsfølget fra Tromsø bråvåknet: - Taklampa ristet noe voldsomt",
+          "snippet": "",
+          "url": "https://www.nordlys.no/bryllupsfolget-fra-tromso-bravaknet-taklampa-ristet-noe-voldsomt/s/5-34-2161700",
+          "source": "Nordlys"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,23 +1,51 @@
 {
-  "lastUpdate": "2025-05-23 13:55:29",
+  "lastUpdate": "2025-05-23 14:12:54",
   "data": [
+    {
+      "title": "dax",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 23 May 2025 05:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnwi5ia_5b6Rd7A9uLZWHjqC2ZGGBFtm7BlzxFsZCH-nY2X0hJfyn60gfBZE4",
+      "pictureSource": "WSJ",
+      "relatedSearch": [
+        {
+          "title": "Stock Market Today: Dow, Nasdaq Drop After Trump Threatens 'Straight 50% Tariff' on EU — Live Update",
+          "snippet": "",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-tariffs-trade-war-05-23-2025",
+          "source": "WSJ"
+        },
+        {
+          "title": "Trump threatens 25% tariff on iPhones, 50% tariff on EU goods amid trade tensions",
+          "snippet": "",
+          "url": "https://www.foxbusiness.com/economy/trump-threatens-25-tariff-iphones-50-tariff-eu-goods-amid-trade-tensions",
+          "source": "Fox Business"
+        },
+        {
+          "title": "Europe stock markets fall 2% after Trump threatens 50% tariffs against European Union",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/05/23/european-stock-markets-live-updates-ftse-dax-cac-40-stoxx-600-friday.html",
+          "source": "CNBC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "smi index",
       "trafficCount": "200+",
       "pubDate": "Fri, 23 May 2025 05:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiWeqSY6xiZawafoCgCQs2cmpl7xhGxxzvtfBQP5MpCM-3AnK8r2CXi392bf0",
-      "pictureSource": "Schweizer Fernsehen",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSclLiTWdZEw_qbh_qZKotNVjVA1klpKQye_3O02zUHOAx-hKAVRAJ5G_XNmrU",
+      "pictureSource": "tagesschau.de",
       "relatedSearch": [
         {
-          "title": "Trump droht mit 50-Prozent-Zöllen auf EU-Waren ab Juni",
+          "title": "Trump droht EU mit Zöllen in Höhe von 50 Prozent ab dem 1. Juni",
           "snippet": "",
-          "url": "https://www.srf.ch/news/international/nach-gespraechen-mit-der-eu-trump-droht-mit-50-prozent-zoellen-auf-eu-waren-ab-juni",
-          "source": "Schweizer Fernsehen"
+          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zollkonflikt-handelsstreit-trump-apple-100.html",
+          "source": "tagesschau.de"
         },
         {
-          "title": "Börsen-Ticker: US-Futures knapp tiefer erwartet - SMI fällt nach weiteren Zoll-Ankündigungen von US-Präsident Trump - Roche, Novartis und Nestlé stützen Gesamtmarkt",
+          "title": "Börsen-Ticker: US-Futures rutschen nach weiteren Zoll-Ankündigungen ins Minus - SMI sinkt - Partners Group mit groben Abschlägen",
           "snippet": "",
-          "url": "https://www.cash.ch/news/borsen-ticker-us-futures-knapp-tiefer-erwartet-smi-fallt-nach-weiteren-zoll-ankundigungen-von-us-prasident-trump-roche-novartis-und-nestle-stutzen-gesamtmarkt-827033",
+          "url": "https://www.cash.ch/news/borsen-ticker-us-futures-rutschen-nach-weiteren-zoll-ankundigungen-ins-minus-smi-sinkt-partners-group-mit-groben-abschlagen-827033",
           "source": "Cash"
         },
         {
@@ -31,35 +59,35 @@
     },
     {
       "title": "trump",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Fri, 23 May 2025 05:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnwi5ia_5b6Rd7A9uLZWHjqC2ZGGBFtm7BlzxFsZCH-nY2X0hJfyn60gfBZE4",
-      "pictureSource": "WSJ",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIsuGWHvZL9ixPG75pl3WuPrDgB9KjX5FOz676RKJdBrcctqsaHBZWZ-crkPU",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Stock Market Today: Dow Futures Fall; Trump Threatens 'Straight 50% Tariff' on EU — Live Update",
+          "title": "Harvard sues Trump administration for blocking foreign student enrolment",
           "snippet": "",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-tariffs-trade-war-05-23-2025",
-          "source": "WSJ"
+          "url": "https://www.bbc.com/news/articles/cje7ledqvyqo",
+          "source": "BBC"
         },
         {
-          "title": "Stock Market Sinks After Trump Threatens Tariffs on Apple, EU",
+          "title": "In Attacks on Harvard, Chinese See Yet Another Reason to Write Off the U.S.",
           "snippet": "",
-          "url": "https://www.newsweek.com/stock-market-sinks-trump-eu-apple-tariffs-2076376",
-          "source": "Newsweek"
+          "url": "https://www.nytimes.com/2025/05/23/world/asia/harvard-china-trump.html",
+          "source": "The New York Times"
         },
         {
-          "title": "Trump says he is hitting EU with 50% tariff as trade talks are ‘going nowhere’",
+          "title": "Trump administration bars Harvard from enrolling international students",
           "snippet": "",
-          "url": "https://www.theguardian.com/us-news/2025/may/23/trump-eu-tariff-us-trade-talks",
-          "source": "The Guardian"
+          "url": "https://www.ft.com/content/300e00a7-54e1-4902-a84f-ec9e4117ffc3",
+          "source": "Financial Times"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "nordkoreanisches kriegsschiff gekentert",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 23 May 2025 03:40:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1wUGr5eaDY77_bE9Ki7_UE2xIHjkVbUtmn-voUJPyZoHLFEdPTnvl9MIyW0w",
       "pictureSource": "Schweizer Fernsehen",
@@ -77,9 +105,9 @@
           "source": "Neue Zürcher Zeitung"
         },
         {
-          "title": "Nordkoreanisches Kriegsschiff bei Stapellauf umgekippt",
+          "title": "Satellitenbilder zeigen umgekipptes nordkoreanisches Kriegsschiff im Wasser",
           "snippet": "",
-          "url": "https://www.faz.net/aktuell/politik/ausland/nordkoreanisches-kriegsschiff-bei-stapellauf-umgekippt-110493259.html",
+          "url": "https://www.faz.net/aktuell/politik/ausland/satellitenbilder-zeigen-umgekipptes-nordkoreanisches-kriegsschiff-im-wasser-110495015.html",
           "source": "FAZ.NET"
         }
       ],
@@ -155,16 +183,16 @@
           "source": "rts.ch"
         },
         {
-          "title": "«Un changement nécessaire à la tête de l’entreprise». Le directeur général de Groupe E Jacques Mauron quitte ses fonctions avec effet immédiat",
-          "snippet": "",
-          "url": "https://www.laliberte.ch/articles/regions/economie-regionale/le-directeur-general-jacques-mauron-sen-va-1048044",
-          "source": "La Liberté"
-        },
-        {
           "title": "Energie: départ surprise de Jacques Mauron, patron de Groupe E",
           "snippet": "",
           "url": "https://www.lenouvelliste.ch/suisse/energie-depart-surprise-de-jacques-mauron-patron-de-groupe-e-1453592",
           "source": "Le Nouvelliste"
+        },
+        {
+          "title": "Le directeur de Groupe E quitte ses fonctions",
+          "snippet": "",
+          "url": "https://frapp.ch/fr/articles/stories/le-directeur-de-groupe-e-quitte-ses-fonctions",
+          "source": "Frapp"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -217,9 +245,9 @@
           "source": "ESPN"
         },
         {
-          "title": "Minnesota Timberwolves vs Oklahoma City Thunder May 20, 2025 Game Summary",
+          "title": "Wolves Pics: Wolves Fall To Thunder In Game 2, 118‑103 | 05.22.25",
           "snippet": "",
-          "url": "https://www.nba.com/game/min-vs-okc-0042400311",
+          "url": "https://www.nba.com/timberwolves/photos/wolves-pics-wolves-fall-to-thunder-in-game-2-118-103-05-22-25",
           "source": "NBA"
         }
       ],
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.20min.ch/story/fabienne-louves-hat-den-brustkrebs-besiegt-103349722",
           "source": "20 Minuten"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "thomas brunner nationalrat",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 22 May 2025 14:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT180Z5oIBZHcKW94CFpJ0WHmNS59pc3ws762UQ9myjhWH8EoLegeQM8YC87E8",
-      "pictureSource": "Blick",
-      "relatedSearch": [
-        {
-          "title": "Ehemaliger GLP-Nationalrat Thomas Brunner gestorben",
-          "snippet": "",
-          "url": "https://www.blick.ch/politik/mit-64-jahren-ehemaliger-glp-nationalrat-thomas-brunner-gestorben-id20895893.html",
-          "source": "Blick"
-        },
-        {
-          "title": "Ex-Nationalrat Brunner (64) ist tot",
-          "snippet": "",
-          "url": "https://www.20min.ch/story/st-gallen-alt-nationalrat-thomas-brunner-64-verstorben-103350103",
-          "source": "20 Minuten"
-        },
-        {
-          "title": "Ehemaliger St. Galler GLP-Nationalrat Thomas Brunner gestorben",
-          "snippet": "",
-          "url": "https://www.srf.ch/news/schweiz/im-alter-von-64-jahren-ehemaliger-st-galler-glp-nationalrat-thomas-brunner-gestorben",
-          "source": "Schweizer Fernsehen"
         }
       ],
       "link": "https://imtaqin.id/"

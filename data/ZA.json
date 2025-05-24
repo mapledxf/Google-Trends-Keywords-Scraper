@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-05-24 19:59:34",
+  "lastUpdate": "2025-05-24 20:22:47",
   "data": [
     {
       "title": "french cup",
@@ -21,10 +21,10 @@
           "source": "Maxifoot"
         },
         {
-          "title": "L'avant-match de la finale de la Coupe de France en direct à 20h",
+          "title": "Coupe de France : Bradley Barcola signe un doublé en 3 minutes",
           "snippet": "",
-          "url": "https://www.psg.fr/equipes/equipe-premiere/content/avant-match-en-live-du-stade-de-france-paris-saint-germain-stade-de-reims-coupe-de-france-2024-2025",
-          "source": "PSG.FR"
+          "url": "https://sports.orange.fr/videos/plus-de-sport/basket/coupe-de-france-bradley-barcola-signe-un-double-en-3-minutes-CNT000002iRTlr.html",
+          "source": "Orange Actualités | Sports"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,9 +89,16 @@
       "title": "psg",
       "trafficCount": "1000+",
       "pubDate": "Sat, 24 May 2025 12:20:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR83Yw5gEVMF6wGh4eb9XgQkpmRA-oPUNpgZeyyBJlF-f9zBvjfOjIJFkr88dE",
+      "pictureSource": "Sortir à Paris",
+      "relatedSearch": [
+        {
+          "title": "Finale de la Ligue des Champions : les écrans géants pour suivre la rencontre du Paris-Saint-Germain",
+          "snippet": "",
+          "url": "https://www.sortiraparis.com/loisirs/sport/articles/328207-finale-de-la-ligue-des-champions-les-ecrans-geants-pour-suivre-la-rencontre-du-paris-saint-germain",
+          "source": "Sortir à Paris"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -123,36 +130,8 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "getafe",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 24 May 2025 12:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0B4Kk6K0kFAx1gc8xXgtXv98LS9ChgqtWH7gpjlVcHh0-QG1D1KZioImUyH4",
-      "pictureSource": "Yahoo Noticias",
-      "relatedSearch": [
-        {
-          "title": "Iago Aspas vuelve al once del Celta; Djené y Berrocal, novedades del Getafe",
-          "snippet": "",
-          "url": "https://es-us.noticias.yahoo.com/deportes/iago-aspas-vuelve-once-celta-183729081.html",
-          "source": "Yahoo Noticias"
-        },
-        {
-          "title": "La presidenta, una más entre los celtistas desplazados en Getafe",
-          "snippet": "",
-          "url": "https://www.farodevigo.es/videos/celta-de-vigo/2025/05/24/presidenta-celtistas-desplazados-getafe-117782540.html",
-          "source": "Faro de Vigo"
-        },
-        {
-          "title": "Getafe gana por la mínima a Celta en Coliseum Alfonso Pérez",
-          "snippet": "",
-          "url": "https://www.futbolred.com/liga-de-espana/getafe-gana-por-la-minima-a-celta-en-coliseum-alfonso-perez-246723",
-          "source": "Futbolred"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "osasuna",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 24 May 2025 12:20:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2SBEfZ9rVVU9Ibt1Yz5_TnHEnBB5jSHb7us-c-C4wcm_8lpfq-pX1IKT7ZsM",
       "pictureSource": "Sports Mole",
@@ -207,6 +186,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "getafe",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 24 May 2025 12:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmRSe_0JvwPts3zYlpTQvfKPW9i7mut4MnHoZWxnBwj9kkPxgSvsqk7vF9rs4",
+      "pictureSource": "Infobae",
+      "relatedSearch": [
+        {
+          "title": "1-1. El Getafe y el Celta empatan al descanso con goles de Borja Mayoral y Borja Iglesias",
+          "snippet": "",
+          "url": "https://www.infobae.com/america/agencias/2025/05/24/1-1-el-getafe-y-el-celta-empatan-al-descanso-con-goles-de-borja-mayoral-y-borja-iglesias/",
+          "source": "Infobae"
+        },
+        {
+          "title": "La presidenta, una más entre los celtistas desplazados en Getafe",
+          "snippet": "",
+          "url": "https://www.farodevigo.es/videos/celta-de-vigo/2025/05/24/presidenta-celtistas-desplazados-getafe-117782540.html",
+          "source": "Faro de Vigo"
+        },
+        {
+          "title": "Iago Aspas vuelve al once del Celta; Djené y Berrocal, novedades del Getafe",
+          "snippet": "",
+          "url": "https://es-us.noticias.yahoo.com/deportes/iago-aspas-vuelve-once-celta-183729081.html",
+          "source": "Yahoo Noticias"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "fever vs liberty",
       "trafficCount": "100+",
       "pubDate": "Sat, 24 May 2025 12:00:00 -0700",
@@ -220,44 +227,44 @@
           "source": "CNN"
         },
         {
-          "title": "Indiana Fever vs New York Liberty: Time, channel and streaming options",
+          "title": "Liberty vs Fever Prediction, Odds, Pick for Saturday, May 24",
           "snippet": "",
-          "url": "https://www.mlive.com/tv/2025/05/indiana-fever-vs-new-york-liberty-time-channel-and-streaming-options.html",
-          "source": "MLive.com"
+          "url": "https://www.actionnetwork.com/wnba/new-york-liberty-vs-indiana-fever-prediction-odds-pick-saturday-may-24-qs",
+          "source": "Action Network"
         },
         {
-          "title": "Caitlin Clark handed chance to make Breanna Stewart regret WNBA message",
+          "title": "WNBA Player Prop Bets & Parlay Picks: Saturday (5/24)",
           "snippet": "",
-          "url": "https://www.msn.com/en-us/sports/other/caitlin-clark-handed-chance-to-make-breanna-stewart-regret-wnba-message/ar-AA1Folwa",
-          "source": "MSN"
+          "url": "https://www.bettingpros.com/articles/wnba-player-prop-bets-parlay-picks-saturday-5-24/",
+          "source": "BettingPros"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "willem ii tilburg",
+      "title": "maccabi tel aviv",
       "trafficCount": "100+",
       "pubDate": "Sat, 24 May 2025 11:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRE-h0ahG1_yiGQtGeKGnpwdfV1drp5ffApdfwILYgSS48HisPxxytl3FGDyG8",
-      "pictureSource": "De Gelderlander",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTC2mo1gUEb9dMOE7_uiiWgET1BdscPTQD8hMre76ynmYGh4NvIWlb0-OPZhdk",
+      "pictureSource": "מועדון הכדורגל מכבי תל אביב",
       "relatedSearch": [
         {
-          "title": "LIVE | Ingevallen Schouten moet nu zelf naar de kant bij Willem II",
+          "title": "Maccabi beat Beitar 5-0 to win Champinship",
           "snippet": "",
-          "url": "https://www.gelderlander.nl/eindhoven/live-ingevallen-schouten-moet-nu-zelf-naar-de-kant-bij-willem-ii~a8607c23/",
-          "source": "De Gelderlander"
+          "url": "https://www.maccabi-tlv.co.il/en/2025/05/maccabi-beat-beitar-5-0-to-win-champinship/",
+          "source": "מועדון הכדורגל מכבי תל אביב"
         },
         {
-          "title": "LIVE play-offs | Slory krijgt stadion in Tilburg stil: FC Dordrecht over twee duels weer naast Willem II",
+          "title": "You won everything with me. Watch the Championship clip",
           "snippet": "",
-          "url": "https://www.bd.nl/voetbal/live-play-offs-slory-krijgt-stadion-in-tilburg-stil-fc-dordrecht-over-twee-duels-weer-naast-willem-ii~ac22d7d4/",
-          "source": "Brabants Dagblad"
+          "url": "https://www.maccabi-tlv.co.il/en/2025/05/you-won-everything-with-me-watch-the-championship-clip/",
+          "source": "מועדון הכדורגל מכבי תל אביב"
         },
         {
-          "title": "Willem II schiet uit de startblokken met weergaloze uithaal",
+          "title": "Warming up: Five spectacular goals against Beitar",
           "snippet": "",
-          "url": "https://www.vi.nl/nieuws/willem-ii-schiet-uit-de-startblokken-met-weergaloze-uithaal-",
-          "source": "Voetbal International"
+          "url": "https://www.maccabi-tlv.co.il/en/2025/05/warming-up-five-spectacular-goals-against-beitar/",
+          "source": "מועדון הכדורגל מכבי תל אביב"
         }
       ],
       "link": "https://imtaqin.id/"

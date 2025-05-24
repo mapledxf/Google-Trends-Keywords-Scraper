@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-05-24 21:30:47",
+  "lastUpdate": "2025-05-24 21:40:10",
   "data": [
     {
       "title": "psg",
@@ -15,16 +15,16 @@
           "source": "L'Équipe"
         },
         {
-          "title": "Vidéos : Paris Saint-Germain - Stade de Reims : l'avant-match avec Samba Diawara",
-          "snippet": "",
-          "url": "https://www.lunion.fr/videos/l-actualite-dans-la-marne/paris-saintgermain-stade-de-reims-lavantmatch-avec-samba-diawara?param01=xfvqff5&param02=01342685&param03=45",
-          "source": "L'Union"
-        },
-        {
           "title": "PSG : Kvaratskhelia laisse sa place à Doué",
           "snippet": "",
           "url": "https://www.maxifoot.fr/psg/kvaratskhelia-laisse-sa-place-a-doue-foot-434395.htm",
           "source": "Maxifoot"
+        },
+        {
+          "title": "PSG - Nuno Mendes a déjà la tête à Munich !",
+          "snippet": "",
+          "url": "https://madeinparisiens.ouest-france.fr/infos/article-psg-nuno-mendes-a-deja-la-tete-a-munich-483716.html",
+          "source": "MadeInParisiens"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -135,7 +135,7 @@
         {
           "title": "Danskerne får den højeste pensionsalder i EU. Nu forlanger fagboss forhandlinger »hurtigst muligt«",
           "snippet": "",
-          "url": "https://www.berlingske.dk/politik/danskerne-faar-den-hoejeste-pensionsalder-i-eu-nu-forlanger-fagboss?gaa_at=eafs&gaa_n=ASWzDAjaeay_vVSdWCT1CVqCMwNX5JGsjZXZ0c0NmwUiPGlH5XOu00SOQTAU&gaa_ts=68323e0b&gaa_sig=zXl2_mMjC6xO5Khha9n0aU3Ajodrvy5bdcMKvPjllMMtEkoU2Cpgkw2mYdAVWFLpgWI7Vgw-pCiq9hPaxIO-xQ%3D%3D",
+          "url": "https://www.berlingske.dk/politik/danskerne-faar-den-hoejeste-pensionsalder-i-eu-nu-forlanger-fagboss",
           "source": "Berlingske"
         }
       ],
@@ -145,15 +145,9 @@
       "title": "dfb pokal",
       "trafficCount": "200+",
       "pubDate": "Sat, 24 May 2025 11:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTujBxeumdcY9FvmWZ7cVeau_qmNfZE-QnPpqYRwy085BXmnIjp8frzLco2kCk",
-      "pictureSource": "FAZ.NET",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcW9QczVO_w72pQ0b89ualexx2u2qY4Iqbj3vUpNsT4RzHpC-dVcx5fJDsNOw",
+      "pictureSource": "Kicker",
       "relatedSearch": [
-        {
-          "title": "VfB Stuttgart gewinnt DFB-Pokalfinale gegen Arminia Bielefeld mit 4:2",
-          "snippet": "",
-          "url": "https://www.faz.net/aktuell/sport/fussball/vfb-stuttgart-gewinnt-dfb-pokalfinale-gegen-arminia-bielefeld-mit-4-2-110472971.html",
-          "source": "FAZ.NET"
-        },
         {
           "title": "Liveticker | Arminia Bielefeld - VfB Stuttgart 2:4 | Finale in Berlin | DFB-Pokal 2024/25",
           "snippet": "",
@@ -161,10 +155,16 @@
           "source": "Kicker"
         },
         {
-          "title": "DFB-Pokalfinale: Fan-Wut am Stadion-Eingang!",
+          "title": "DFB-Pokalfinale: Stuttgart-Fans und Bielefeld-Anhänger feiern Riesen-Party in Berlin",
           "snippet": "",
           "url": "https://www.bild.de/sport/fussball/dfb-pokalfinale-stuttgart-fans-und-bielefeld-anhaenger-feiern-riesen-party-in-berlin-68318d922c1d461b20fb5ae0",
           "source": "BILD"
+        },
+        {
+          "title": "Fotos: Bielefeld und Berlin: Beste Stimmung vor dem großen Spiel",
+          "snippet": "",
+          "url": "https://www1.wdr.de/nachrichten/westfalen-lippe/fotostrecke-arminia-bielefeld-stimmung-100.html",
+          "source": "WDR"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -255,7 +255,7 @@
     },
     {
       "title": "yale",
-      "trafficCount": "2000+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 24 May 2025 10:50:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2Fhy8wFZjlVPt1oPrzTexVbyjSWlSeOTEOI869B3r6tOK-GXV316BG6a95p8",
       "pictureSource": "Yale School of Medicine",

@@ -1,10 +1,38 @@
 {
-  "lastUpdate": "2025-05-26 03:33:53",
+  "lastUpdate": "2025-05-26 04:00:43",
   "data": [
     {
-      "title": "izmir hava durumu",
-      "trafficCount": "5000+",
-      "pubDate": "Sun, 25 May 2025 20:10:00 -0700",
+      "title": "weather",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 25 May 2025 20:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5k0Wb63Q0Q8dAQNhwklx4yoNEZZtE2Jfm01CwnqLVJ5JtWhNvu0Zv3707Zwo",
+      "pictureSource": "WISN",
+      "relatedSearch": [
+        {
+          "title": "Weather: Sunny For Memorial Day",
+          "snippet": "",
+          "url": "https://www.wisn.com/article/se-wisconsin-weather-sunny-for-memorial-day/64875810",
+          "source": "WISN"
+        },
+        {
+          "title": "Warm and Sunny Days Ahead for Milwaukee, With a Side of Possible Showers Late in the Week",
+          "snippet": "",
+          "url": "https://hoodline.com/2025/05/warm-and-sunny-days-ahead-for-milwaukee-with-a-side-of-possible-showers-late-in-the-week/",
+          "source": "Hoodline"
+        },
+        {
+          "title": "Milwaukee Welcomes Sunnier Skies and Warmer Days Ahead of Memorial Day Weekend",
+          "snippet": "",
+          "url": "https://hoodline.com/2025/05/milwaukee-welcomes-sunnier-skies-and-warmer-days-ahead-of-memorial-day-weekend/",
+          "source": "Hoodline"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ankara hava durumu",
+      "trafficCount": "10000+",
+      "pubDate": "Sun, 25 May 2025 20:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyTVKyjnQ72XgwJfuaPu8M4GOvTC1W_saBbC_pZWaoVqqJwG194vBMuMLYnIs",
       "pictureSource": "TRT Haber",
       "relatedSearch": [
@@ -15,18 +43,27 @@
           "source": "TRT Haber"
         },
         {
+          "title": "Yeni harita paylaşıldı! İstanbul Ankara ve İzmir için alarm! Çok sayıda il için uyarı!",
+          "snippet": "",
+          "url": "https://www.haber7.com/foto-galeri/92115-yeni-harita-paylasildi-istanbul-ankara-ve-izmir-icin-alarm-cok-sayida-il-icin-uyari",
+          "source": "Haber7"
+        },
+        {
           "title": "Sağanak yağış ve fırtına geliyor: 38 ile sarı kodlu uyarı",
           "snippet": "",
           "url": "https://www.diken.com.tr/saganak-yagis-ve-firtina-geliyor-38-ile-sari-kodlu-uyari/",
           "source": "Diken"
-        },
-        {
-          "title": "SON DAKİKA HAVA DURUMU TAHMİNLERİ İL İL | Yeni haftada hava nasıl olacak? Bugün (26 Mayıs) yağmur yağacak mı? Meteoroloji'den İstanbul ve birçok ile son dakika sarı kodlu uyarı!",
-          "snippet": "",
-          "url": "https://www.hurriyet.com.tr/bilgi/son-dakika-hava-durumu-tahminleri-il-il-yeni-haftada-hava-nasil-olacak-yarin-26-mayis-yagmur-yagacak-mi-meteorolojiden-istanbul-ve-42814974",
-          "source": "Hürriyet"
         }
       ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "muğla hava durumu",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 25 May 2025 20:30:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -86,17 +123,45 @@
           "source": "NASCAR.com"
         },
         {
-          "title": "Knicks vs. Pacers highlights: New York overcomes 20-point deficit, stuns Indiana",
+          "title": "Full race results from the 109th running of the Indianapolis 500",
           "snippet": "",
-          "url": "https://www.usatoday.com/story/sports/nba/playoffs/2025/05/25/pacers-knicks-results-updates-highlights-nba-playoffs/83838344007/",
-          "source": "USA Today"
+          "url": "https://au.motorsport.com/indycar/news/2025-indianapolis-500-full-race-results/10726784/",
+          "source": "Motorsport.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "indiana pacers",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 25 May 2025 18:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3VCY5w_erwi0IOqeW8rKki-NTgClptrmKByJEkG2uV_KIa7DmIxpr79_H03o",
+      "pictureSource": "Bleacher Report",
+      "relatedSearch": [
+        {
+          "title": "KAT, Brunson, Knicks Rally From 20-Point Hole, Wow Fans in Win vs. Haliburton, Pacers",
+          "snippet": "",
+          "url": "https://bleacherreport.com/articles/25199349-kat-brunson-knicks-rally-20-point-hole-wow-fans-win-vs-haliburton-pacers",
+          "source": "Bleacher Report"
+        },
+        {
+          "title": "\"Things Like This Should Never Happen\": Shaquille O'Neal Cracks Down On Karl-Anthony Towns During Game 3 ECF",
+          "snippet": "",
+          "url": "https://fadeawayworld.net/nba-media/things-like-this-should-never-happen-shaquille-oneal-cracks-down-on-karl-anthony-towns-during-game-3-ecf",
+          "source": "Fadeaway World"
+        },
+        {
+          "title": "Tony East: Carlisle on Nesmith: His ankle got re-taped. Did his best to keep moving while he was in …",
+          "snippet": "",
+          "url": "https://hoopshype.com/rumor/3663030/",
+          "source": "HoopsHype"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "fethiye hava durumu",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 25 May 2025 18:10:00 -0700",
       "picture": "",
       "pictureSource": "",
@@ -155,90 +220,6 @@
           "snippet": "",
           "url": "https://ekonomi.haber7.com/ekonomi/haber/3533241-temmuzda-emekli-ve-memur-maaslari-ne-kadar-olacak-2025",
           "source": "Haber7"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "rick and morty",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 25 May 2025 15:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQADFI88IurMYeCrfJhTMFcVg5pyVqj9_ZhXeWjjDgkjTiMHbtl7wv0D7Sc43s",
-      "pictureSource": "Polygon",
-      "relatedSearch": [
-        {
-          "title": "Rick and Morty team didn’t worry about the lore ‘we owe’ in season 8 — only Rick’s baggage",
-          "snippet": "",
-          "url": "https://www.polygon.com/q-and-a/600794/rick-morty-season-8-episodes-dan-harmon-scott-marder-interview",
-          "source": "Polygon"
-        },
-        {
-          "title": "How to Watch ‘Rick and Morty’ Season 8 Online",
-          "snippet": "",
-          "url": "https://variety.com/2025/shopping/news/how-to-watch-rick-and-morty-online-streaming-1235358557/",
-          "source": "Variety"
-        },
-        {
-          "title": "Rick and Morty's Dan Harmon says \"nothing's off the table\" – including \"a well-done musical episode\"",
-          "snippet": "",
-          "url": "https://www.gamesradar.com/entertainment/animation-shows/rick-and-mortys-dan-harmon-says-nothings-off-the-table-including-a-well-done-musical-episode/",
-          "source": "GamesRadar+"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "beytüşşebap",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 25 May 2025 15:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcZUGVKKgw34wsAfKSNE8not4rtz5lF_23usTpMZIqzpL0dt-f3C80xy8oSEM",
-      "pictureSource": "ANF | Articles",
-      "relatedSearch": [
-        {
-          "title": "Meclis Başkanı: İki yol kaldı, ya paramparça olacağız ya da beraber olacağız",
-          "snippet": "",
-          "url": "https://firatnews.com/guncel/meclis-baskani-Iki-yol-kaldi-ya-paramparca-olacagiz-ya-da-beraber-olacagiz-212911",
-          "source": "ANF | Articles"
-        },
-        {
-          "title": "Kurtulmuş’tan PKK’nin silah bırakma sürecine ilişkin açıklama: 'Yaz bitmeden bu sürecin tamamlanacağını ümit ediyorum'",
-          "snippet": "",
-          "url": "https://www.politikyol.com/kurtulmustan-pkknin-silah-birakma-surecine-iliskin-aciklama-yaz-bitmeden-bu-surecin-tamamlanacagini-umit-ediyorum",
-          "source": "Politikyol"
-        },
-        {
-          "title": "Özel Röportaj - 19 Mayıs 2025 (TBMM'de Süreç Adımları Ne Olacak?)",
-          "snippet": "",
-          "url": "https://www.haberturk.com/video/tv/izle/ozel-roportaj-19-mayis-2025-tbmmde-surec-adimlari-ne-olacak/882767",
-          "source": "Habertürk"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "kobe bryant",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 25 May 2025 15:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3EUy2Rt-iMebIIB3pw-LhA604JllHkyenOUHPt1iXyl2Xdo0zV6pYgV1mAXo",
-      "pictureSource": "Basketball Network",
-      "relatedSearch": [
-        {
-          "title": "Kobe Bryant said his mum, not his dad, shaped his on-court persona: \"She's more like a pit bull\"",
-          "snippet": "",
-          "url": "https://www.basketballnetwork.net/off-the-court/kobe-bryant-said-his-mum-not-his-dad-shaped-his-on-court-persona-shes-more-like-a-pit-bull",
-          "source": "Basketball Network"
-        },
-        {
-          "title": "Jaylen Brown Reveals Sad Truth About Kobe Bryant’s Sneakers",
-          "snippet": "",
-          "url": "https://athlonsports.com/nba/boston-celtics/jaylen-brown-reveals-sad-truth-about-kobe-bryants-sneakers",
-          "source": "Athlon Sports"
-        },
-        {
-          "title": "Kobe Bryant’s daughter Natalia goes full preppy USC grad in glam photos",
-          "snippet": "",
-          "url": "https://www.si.com/onsi/athlete-lifestyle/fashion/kobe-bryant-daughter-natalia-full-preppy-usc-grad-glam-photos",
-          "source": "Sports Illustrated"
         }
       ],
       "link": "https://imtaqin.id/"

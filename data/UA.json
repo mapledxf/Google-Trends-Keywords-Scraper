@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-05-28 03:36:34",
+  "lastUpdate": "2025-05-28 03:59:48",
   "data": [
     {
       "title": "погода кривой рог",
@@ -49,17 +49,17 @@
           "source": "krivbass.city"
         },
         {
-          "title": "У Кривому Розі буде спекотно до +30, різкі пориви вітру до 20 м/с",
+          "title": "Дощитиме: погода у Кривому Розі на тиждень",
           "snippet": "",
-          "url": "https://rudana.com.ua/news/u-kryvomu-rozi-bude-spekotno-do-30-rizki-poryvy-vitru-do-20-ms",
-          "source": "РУДАНА"
+          "url": "https://1kr.ua/ua/news-102382.html",
+          "source": "Первый Криворожский"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "погода харків",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 27 May 2025 20:00:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsJ1X3YXrUZsfealNm5XHpItb8FlRG6N--otGotWRdUtTpI9tifYW8tUfwXXo",
       "pictureSource": "Суспільне | Новини",
@@ -142,29 +142,57 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "sinoptik",
+      "title": "28 травня свято",
       "trafficCount": "100+",
-      "pubDate": "Tue, 27 May 2025 19:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjcK57Qq_4MpP6FJiHd_YbiTOG0SbfxGhzC-2mUK2FgFNlJqy_ZsExamQ16y4",
+      "pubDate": "Tue, 27 May 2025 19:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSG3aOGTNv5mBtCHzAwYfrl2ScYAfpZ1skvapBzpQ8qYIrcBsZ4upbH8DHrsCw",
+      "pictureSource": "УНІАН",
+      "relatedSearch": [
+        {
+          "title": "28 травня: церковне свято сьогодні, кого цього дня не можна пускати навіть на поріг",
+          "snippet": "",
+          "url": "https://www.unian.ua/lite/holidays/yake-sogodni-cerkovne-svyato-28-travnya-2025-roku-golovni-zaboroni-zvichaji-ta-prikmeti-dnya-13020594.html",
+          "source": "УНІАН"
+        },
+        {
+          "title": "День ангела 28 травня: кого та як вітати з іменинами",
+          "snippet": "",
+          "url": "https://tsn.ua/other/den-anhela-28-travnia-koho-ta-iak-vitaty-z-imenynamy-2836082.html",
+          "source": "ТСН"
+        },
+        {
+          "title": "Свято сьогодні, 28 травня: що заборонено робити, у кого День ангела, народні прикмети",
+          "snippet": "",
+          "url": "https://www.rbc.ua/rus/styler/svyato-sogodni-28-travnya-shcho-zaboroneno-1748322918.html",
+          "source": "РБК-Україна"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "новости харьков",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 27 May 2025 19:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMt4kwpF66VDvdeLgWxuSebZ58hMMvOizkqEHke_FMfJQd2gtUyOuT-DvJ-aU",
       "pictureSource": "Українська правда",
       "relatedSearch": [
         {
-          "title": "Дожди и грозы – погода на ближайшие дни",
+          "title": "Вражеская атака БпЛА на Харьковскую область: 8 пострадавших",
           "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2025/05/27/7514272/",
+          "url": "https://www.pravda.com.ua/rus/news/2025/05/28/7514391/",
           "source": "Українська правда"
         },
         {
-          "title": "«Влажная воздушная масса». Синоптик предупредила о дождях, где останется сухая погода и ожидается сильный вет",
+          "title": "В Харьковской области из-за российской атаки пострадали 8 человек, среди которых ребенок",
           "snippet": "",
-          "url": "https://nv.ua/ukraine/events/prognoz-na-may-dozhd-po-vsey-ukraine-gde-ostanetsya-suhaya-pogoda-zavtra-i-budet-silnyy-veter-50517253.html",
-          "source": "NV.ua"
+          "url": "https://www.rbc.ua/ukr/news/harkivskiy-oblasti-cherez-rosiysku-ataku-1748391432.html",
+          "source": "РБК-Україна"
         },
         {
-          "title": "Ударит +29 градусов: стала известна дата, когда в Украину придет летняя жара",
+          "title": "В Харькове прогремела серия взрывов",
           "snippet": "",
-          "url": "https://glavred.info/synoptic/udarit-29-gradusov-stala-izvestna-data-kogda-v-ukrainu-pridet-letnyaya-zhara-10667915.html",
-          "source": "Главред"
+          "url": "https://24tv.ua/ru/v-harkove-progremela-serija-vzryvov_n2832656",
+          "source": "24 Канал"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -199,84 +227,56 @@
     },
     {
       "title": "світловодськ",
-      "trafficCount": "2000+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 27 May 2025 16:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXj9408DqMVGiELsar4mBPXPBc-M-ioajPQ-74cI7zKO7OlSXriE_5vh06ndg",
-      "pictureSource": "Українська правда",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQeoKaWuKj0wk0i18SNk2ssyruCj87fgstxLG1rT19uSJ2pzzinqWubylzC8d4",
+      "pictureSource": "24 Канал",
       "relatedSearch": [
         {
-          "title": "На Миколаївщині та в Полтаві пролунали вибухи",
+          "title": "Ворог атакував підприємство у Світловодську на Кіровоградщині: спалахнула пожежа, є постраждалі",
           "snippet": "",
-          "url": "https://www.pravda.com.ua/news/2025/05/28/7514388/",
-          "source": "Українська правда"
-        },
-        {
-          "title": "Росія вночі атакувала балістикою Полтавщину",
-          "snippet": "",
-          "url": "https://tsn.ua/ato/rosiia-vnochi-atakuvala-balistykoiu-poltavshchynu-2837447.html",
-          "source": "ТСН"
-        },
-        {
-          "title": "У Кременчуці лунають вибухи: що відомо",
-          "snippet": "",
-          "url": "https://www.telegraf.in.ua/topnews/10139921-u-kremenchuci-lunajut-vibuhi-scho-vidomo.html",
-          "source": "Кременчуцький ТелеграфЪ"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "полтава",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 27 May 2025 16:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXj9408DqMVGiELsar4mBPXPBc-M-ioajPQ-74cI7zKO7OlSXriE_5vh06ndg",
-      "pictureSource": "Українська правда",
-      "relatedSearch": [
-        {
-          "title": "В Николаевской области и Полтаве прогремели взрывы",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2025/05/28/7514388/",
-          "source": "Українська правда"
-        },
-        {
-          "title": "На Полтавщине прогремел взрыв: россияне запустили баллистику",
-          "snippet": "",
-          "url": "https://24tv.ua/ru/na-poltavshhine-progremel-vzryv-rossijane-zapustili-ballistiku_n2832673",
+          "url": "https://24tv.ua/vorog-atakuvav-pidpriyemstvo-svitlovodsku-kirovogradshhini-spalahnula_n2832690",
           "source": "24 Канал"
         },
         {
-          "title": "В Полтаве были слышны взрывы на фоне ракетной атаки",
+          "title": "Повітряна тривога тривала майже 9 годин: наслідки російської атаки для Кіровоградщини",
           "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/poltavi-bulo-chuti-vibuhi-tli-raketnoyi-ataki-1748389700.html",
-          "source": "РБК-Україна"
+          "url": "https://dostyp.com.ua/novini/povitryana-trivoga-trivala-majzhe-9-godin-naslidki-rosijskoyi-ataki-dlya-kirovogradshini0855/",
+          "source": "Точка Доступу"
+        },
+        {
+          "title": "Російська армія атакувала Кіровоградщину трьома балістичними ракетами",
+          "snippet": "",
+          "url": "https://suspilne.media/kropyvnytskiy/1024071-u-kropivnickomu-prolunali-vibuh-5/",
+          "source": "Суспільне | Новини"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "кременчуг",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 27 May 2025 16:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEuUDtrXPQmyHI1QRfHcrymEfY3InSFSNlU7R_QIk14QETzA-O7cnubR2XTYk",
-      "pictureSource": "Українська правда",
+      "title": "светловодск",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 27 May 2025 16:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzjGZW_2ol4WyZ_QzMj07Z83fy6ns4OjbMZtu4cd0ks-zWe5FoBDZUowWvmuw",
+      "pictureSource": "Інтернет-видання Світловодськ",
       "relatedSearch": [
         {
-          "title": "На Полтавщине группа из 7 человек с оружием напала на 2 работников ТЦК",
+          "title": "Світловодськ попрощався із захисником Василем Сідненком",
           "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2025/05/26/7514134/",
-          "source": "Українська правда"
+          "url": "https://svetlovodsk.com.ua/15942-vasyl-sidnenko.html",
+          "source": "Інтернет-видання Світловодськ"
         },
         {
-          "title": "В Кременчуге совершено нападение на сотрудников ТЦК",
+          "title": "В Олександрійській громаді повідомили про загибель земляка на фронті",
           "snippet": "",
-          "url": "https://korrespondent.net/ukraine/4784977-v-kremenchuhe-soversheno-napadenye-na-sotrudnykov-ttsk",
-          "source": "Korrespondent.net"
+          "url": "https://gre4ka.info/suspilstvo/v-oleksandrijskij-gromadi-povidomyly-pro-zagybel-zemlyaka-na-fronti/",
+          "source": "Гречка - Новини Кропивницький"
         },
         {
-          "title": "В Кременчуге задержали нападавших на военнослужащих ТЦК",
+          "title": "22 травня в Олександрії попрощаються із захисником Олександром Костенком",
           "snippet": "",
-          "url": "https://news.pn/ru/criminal/326875",
-          "source": "NEWS.PN"
+          "url": "https://olexrada.gov.ua/prestsentr/news/22-travnya-v-oleksandriyi-poproshhayutsya-iz-zahysnykom-oleksandrom-kostenkom.html",
+          "source": "Олександрійська міська рада"
         }
       ],
       "link": "https://imtaqin.id/"

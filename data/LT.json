@@ -1,30 +1,30 @@
 {
-  "lastUpdate": "2025-05-29 19:18:21",
+  "lastUpdate": "2025-05-29 19:28:39",
   "data": [
     {
       "title": "nsa",
       "trafficCount": "100+",
       "pubDate": "Thu, 29 May 2025 11:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjSPVy0PluOg_6x_MCc9qLQEsC0glA29Hrpy6fvIunlCFsgNOt3NDc_9bk_Mk",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqZdV3mjJUTEPYUyfkfQaTeUlTCA-YkSXY9cJkameyJgLgqrKa1U1st4x41GY",
       "pictureSource": "Dark Reading",
       "relatedSearch": [
         {
-          "title": "CISA Issues SOAR, SIEM Implementation Guidance",
+          "title": "Implementing Secure by Design Principles for AI",
           "snippet": "",
-          "url": "https://www.darkreading.com/cybersecurity-operations/cisa-soar-siem-implementation-guidance",
+          "url": "https://www.darkreading.com/vulnerabilities-threats/secure-design-principles-ai",
           "source": "Dark Reading"
         },
         {
-          "title": "Implementing SIEM and SOAR platforms: Practitioner guidance",
+          "title": "Most LLMs don’t pass the security sniff test",
           "snippet": "",
-          "url": "https://www.cyber.gov.au/resources-business-and-government/maintaining-devices-and-systems/system-hardening-and-administration/system-monitoring/implementing-siem-and-soar-platforms/implementing-siem-and-soar-platforms-practitioner-guidance",
-          "source": "Cyber.gov.au"
+          "url": "https://www.csoonline.com/article/3997429/risk-assessment-vital-when-choosing-an-ai-model-say-experts.html",
+          "source": "CSO Online"
         },
         {
-          "title": "A/NZ cyber defence agencies team-up to provide security platform guidance",
+          "title": "AI compliance: Dealing with data change and proliferation",
           "snippet": "",
-          "url": "https://www.arnnet.com.au/article/3997500/a-nz-cyber-defence-agencies-team-up-to-provide-security-platform-guidance-2.html",
-          "source": "ARNnet"
+          "url": "https://www.computerweekly.com/podcast/AI-compliance-Dealing-with-data-change-and-proliferation",
+          "source": "Computer Weekly"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -58,9 +58,9 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "„kauno žalgiris“ prieš „jonavos „cbet““",
-      "trafficCount": "5000+",
-      "pubDate": "Thu, 29 May 2025 08:30:00 -0700",
+      "title": "žalgiris vs cbet",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 29 May 2025 09:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQWlDfupuXil2dV4HxZ74FyInbahLSWTgQy5O2dH8JCCPBi-97g4kSQGjnRe8",
       "pictureSource": "BasketNews.lt",
       "relatedSearch": [
@@ -71,16 +71,44 @@
           "source": "BasketNews.lt"
         },
         {
-          "title": "Žiūrovų skaičiumi nusivylęs Trinchieri nesidžiaugė Eurolygos plėtra: tai nėra sąžininga",
+          "title": "Pergalingai pusfinalį pradėjęs Trinchieri siuntė žinią „Žalgirio“ sirgaliams: „Dėl ko?“",
           "snippet": "",
-          "url": "https://www.delfi.lt/krepsinis/lkl/ziurovu-skaiciumi-nusivyles-trinchieri-nesidziauge-eurolygos-pletra-tai-nera-sazininga-120113834",
+          "url": "https://www.15min.lt/24sek/naujiena/lietuva/pergalingai-pusfinali-pradejes-trinchieri-siunte-zinia-zalgirio-sirgaliams-del-ko-875-2460142",
+          "source": "15min.lt"
+        },
+        {
+          "title": "LKL pusfinalio starte „Žalgiris“ jonaviečius palaužė tik po atkaklios kovos",
+          "snippet": "",
+          "url": "https://www.lrt.lt/naujienos/sportas/10/2577891/lkl-pusfinalio-starte-zalgiris-jonaviecius-palauze-tik-po-atkaklios-kovos",
+          "source": "LRT"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "„kauno žalgiris“ prieš „jonavos „cbet““",
+      "trafficCount": "5000+",
+      "pubDate": "Thu, 29 May 2025 08:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyhRETUzVb63pDvOo4edF0aQaohSPZaCbcXZZbtV4AD3OBf5BFrZXv7BQgnww",
+      "pictureSource": "Delfi",
+      "relatedSearch": [
+        {
+          "title": "LKL pusfinalio startas: Kauno „Žalgiris“ – Jonavos „CBet“",
+          "snippet": "",
+          "url": "https://www.delfi.lt/krepsinis/lkl/lkl-pusfinalio-startas-kauno-zalgiris-jonavos-cbet-120113806",
           "source": "Delfi"
         },
         {
-          "title": "LKL pusfinalio startas: „Žalgiris“ – „CBet“",
+          "title": "Aiškus „Betsafe-LKL“ pusfinalių tvarkaraštis",
           "snippet": "",
-          "url": "https://www.15min.lt/24sek/naujiena/lietuva/lkl-pusfinalio-startas-zalgiris-cbet-875-2460138",
-          "source": "15min.lt"
+          "url": "https://lkl.lt/straipsniai/8267/aiskus-betsafe-lkl-pusfinaliu-tvarkarastis",
+          "source": "LKL"
+        },
+        {
+          "title": "Ar pusfinalyje favoritai pralaimės bent kartą? / Video",
+          "snippet": "",
+          "url": "https://www.basketnews.lt/video/ziureti/12095-ar-pusfinalyje-favoritai-pralaimes-bent-karta.html",
+          "source": "BasketNews.lt"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +155,16 @@
           "source": "Lrytas"
         },
         {
+          "title": "D.Songaila – pokalbyje su NBA klubu",
+          "snippet": "",
+          "url": "https://www.krepsinis.net/naujiena/d-songaila-pokalbyje-su-nba-klubu/342756",
+          "source": "Krepsinis.net"
+        },
+        {
           "title": "Dariaus Songailos karjeroje – naujas etapas Lietuvoje: bus iššūkis!",
           "snippet": "",
           "url": "https://tv.lrytas.lt/laidos/jokiu-filtru-su-saugirdu-vaitulioniu/2025/05/29/news/dariaus-songailos-karjeroje-naujas-etapas-lietuvoje-bus-issukis--38070760",
           "source": "Lrytas"
-        },
-        {
-          "title": "„Panathinaikos“ savininkas komandos žaidėjams: kitoks rezultatas nei 3:0 bus nepriimtinas",
-          "snippet": "",
-          "url": "https://www.krepsinis.net/naujiena/panathinaikos-savininkas-komandos-zaidejams-kitoks-rezultatas-nei-3-0-bus-nepriimtinas/342751",
-          "source": "Krepsinis.net"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,16 +267,16 @@
           "source": "The New York Times"
         },
         {
-          "title": "Chelsea close in on £30m Delap and keen to support Maresca with further signings",
-          "snippet": "",
-          "url": "https://www.theguardian.com/football/2025/may/29/chelsea-close-in-on-30m-delap-and-keen-to-support-maresca-with-further-signings",
-          "source": "The Guardian"
-        },
-        {
           "title": "Chelsea beat Man United and Newcastle to signing of Premier League star",
           "snippet": "",
           "url": "https://talksport.com/football/3243773/chelsea-man-utd-newcastle-liam-delap-transfer/",
           "source": "talkSPORT"
+        },
+        {
+          "title": "Chelsea agree £30m deal for Ipswich's Liam Delap",
+          "snippet": "",
+          "url": "https://www.bbc.com/sport/football/articles/cwynvp30grwo",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"

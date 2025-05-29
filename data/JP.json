@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-05-29 06:49:58",
+  "lastUpdate": "2025-05-29 06:59:09",
   "data": [
     {
       "title": "リラエンブレム",
@@ -33,9 +33,28 @@
       "title": "地震",
       "trafficCount": "50000+",
       "pubDate": "Wed, 28 May 2025 23:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYoskW3h1GNlOYRSO0FQuc46AVH085rdMMo14_m6nL2y66ntCzR1b5gYGbxYw",
+      "pictureSource": "NHK",
+      "relatedSearch": [
+        {
+          "title": "【地震速報】岐阜で震度４",
+          "snippet": "",
+          "url": "https://www3.nhk.or.jp/news/html/20250529/k10014819901000.html",
+          "source": "NHK"
+        },
+        {
+          "title": "岐阜県で最大震度4のやや強い地震 岐阜県・高山市（TBS NEWS DIG Powered by JNN）",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/d00055ff132cd0b87ca0dfa431d4784affe112be",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "高山市で震度４ 津波の心配なし",
+          "snippet": "",
+          "url": "https://news.ntv.co.jp/category/society/4a91d33dd55b401fb321e2fc253ab596",
+          "source": "日テレNEWS NNN"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -173,10 +192,10 @@
           "source": "Yahoo!ニュース"
         },
         {
-          "title": "LINE、トークのリアクションで全絵文字を使用できる新機能を提供開始｜LINEヤフー株式会社",
+          "title": "LINEトークのリアクションで全絵文字使えるように",
           "snippet": "",
-          "url": "https://www.lycorp.co.jp/ja/news/release/017844/",
-          "source": "LY Corporation"
+          "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/1944426?display=1",
+          "source": "TBS NEWS DIG"
         },
         {
           "title": "LINEアプリ、「リアクション」絵文字で瞬時 反応多彩に",

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-05-30 19:26:18",
+  "lastUpdate": "2025-05-30 19:35:44",
   "data": [
     {
       "title": "ellie goulding",
@@ -59,7 +59,7 @@
     },
     {
       "title": "silné bouřky",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 30 May 2025 10:20:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRItfjNQsHbf2JXaXom1SO99E8N2yIK8-CPeA2ZT2GJtnkSCgemnpoP5l_3pr0",
       "pictureSource": "Novinky",
@@ -229,15 +229,9 @@
       "title": "wetter",
       "trafficCount": "500+",
       "pubDate": "Thu, 29 May 2025 22:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTgE9dTzCeUwWR8nhm16Mf8YKxVUAGx3AW1f8OigseNLcIDLTa-Dba0NsLscQ",
-      "pictureSource": "WCTV",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTd3r-mP50PSubinylIFWD3tViz-Zyf5Gs-Dnyn4R6lG1yo90iabMOrcbSmOwI",
+      "pictureSource": "WJHL",
       "relatedSearch": [
-        {
-          "title": "🔴LIVE | First Alert Daily: Austin is tracking the arrival of storms this evening",
-          "snippet": "",
-          "url": "https://www.wctv.tv/2025/05/30/live-first-alert-daily-austin-is-tracking-arrival-storms-this-evening/",
-          "source": "WCTV"
-        },
         {
           "title": "Storm Team 11: Storm risk continues through early this afternoon",
           "snippet": "",
@@ -245,10 +239,16 @@
           "source": "WJHL"
         },
         {
-          "title": "First Alert Weather Day Saturday",
+          "title": "Downpours and thunderstorms possible this afternoon",
           "snippet": "",
-          "url": "https://www.mysuncoast.com/2025/05/30/first-alert-weather-day-saturday/",
-          "source": "ABC7 WWSB"
+          "url": "https://www.wcpo.com/weather/soaking-rain-moving-into-the-tri-state",
+          "source": "WCPO 9 Cincinnati"
+        },
+        {
+          "title": "🔴LIVE | First Alert Daily: Austin is tracking the arrival of storms this evening",
+          "snippet": "",
+          "url": "https://www.wctv.tv/2025/05/30/live-first-alert-daily-austin-is-tracking-arrival-storms-this-evening/",
+          "source": "WCTV"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -267,10 +267,10 @@
           "source": "Novinky"
         },
         {
-          "title": "Švýcarská prezidentka slíbila pomoc lidem z vesnice smetené sesuvem ledovce",
+          "title": "Zavalené údolí zdeptaly ještě záplavy, ustupující ledovce hrozí po celém světě",
           "snippet": "",
-          "url": "https://zpravy.aktualne.cz/zahranici/svycarska-prezidentka-slibila-pomoc-lidem-z-vesnice-smetene/r~2d242c863d8b11f0b589ac1f6b220ee8/",
-          "source": "Aktuálně"
+          "url": "https://www.idnes.cz/zpravy/zahranicni/zaplavy-globalni-oteplovan-ledovec-svycarsko.A250530_200718_zahranicni_mikp",
+          "source": "iDNES.cz"
         },
         {
           "title": "Video: Ve Švýcarsku se utrhl kus ledovce. Obří sesuv pohřbil vesnici",

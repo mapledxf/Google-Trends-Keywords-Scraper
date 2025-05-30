@@ -1,19 +1,13 @@
 {
-  "lastUpdate": "2025-05-30 10:01:09",
+  "lastUpdate": "2025-05-30 10:27:51",
   "data": [
     {
       "title": "acidente a8",
-      "trafficCount": "500+",
+      "trafficCount": "5000+",
       "pubDate": "Fri, 30 May 2025 02:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR4I-P272e2m94ov8jMrWX79nIqoHHnbQwjTU4c6Mg8OhVcHUTU_dRdZWWoGF4",
-      "pictureSource": "CNN Portugal",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTByAfWL0VMlg3C3CKoiC0jIigD-t0diNLWPCuPmWcoDzB3yJw4V_JGj4ZRAK4",
+      "pictureSource": "SIC Notícias",
       "relatedSearch": [
-        {
-          "title": "Colisão entre pesado de mercadorias e autocarro corta A8 em Alcobaça",
-          "snippet": "",
-          "url": "https://cnnportugal.iol.pt/alcobaca/colisao-entre-pesado-de-mercadorias-e-autocarro-corta-a8-em-alcobaca/20250530/683977fdd34ef72ee4469bd7",
-          "source": "CNN Portugal"
-        },
         {
           "title": "Acidente entre autocarro escolar e camião na A8, em Alcobaça",
           "snippet": "",
@@ -21,7 +15,13 @@
           "source": "SIC Notícias"
         },
         {
-          "title": "Vários feridos. Autocarro com dezenas de crianças capota na A8",
+          "title": "Autocarro cai em ravina na A8 com 37 crianças a bordo. Acidente faz sete feridos ligeiros",
+          "snippet": "",
+          "url": "https://observador.pt/2025/05/30/autocarro-cai-em-ravina-na-a8-com-37-criancas-a-bordo-acidente-faz-sete-feridos-ligeiros/",
+          "source": "Observador"
+        },
+        {
+          "title": "Vários feridos. Autocarro escolar com dezenas de crianças capota na A8",
           "snippet": "",
           "url": "https://www.rtp.pt/noticias/pais/varios-feridos-autocarro-com-dezenas-de-criancas-capota-na-a8_n1658712",
           "source": "RTP"
@@ -126,13 +126,13 @@
       "title": "portal finanças",
       "trafficCount": "500+",
       "pubDate": "Thu, 29 May 2025 22:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFT-E28Z8KL-lxIZQtDyRI86gAvh4WmIHLKmLDPXC-iJ-l5cDcyyQ2hjxG2gM",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxD3HN6cd9C_DKX2iyvuNCgfiS0fUyrlYDu2zQMX206TMwrubrL-Ra2mjt7gs",
       "pictureSource": "Notícias ao Minuto",
       "relatedSearch": [
         {
-          "title": "AT apela a que contribuintes façam este \"procedimento simples\"",
+          "title": "Passo a passo: É assim que adere às notificações no Portal das Finanças",
           "snippet": "",
-          "url": "https://www.noticiasaominuto.com/economia/2790833/at-apela-a-que-contribuintes-facam-este-procedimento-simples",
+          "url": "https://www.noticiasaominuto.com/economia/2795380/passo-a-passo-e-assim-que-adere-as-notificacoes-no-portal-das-financas",
           "source": "Notícias ao Minuto"
         },
         {
@@ -142,10 +142,10 @@
           "source": "MSN"
         },
         {
-          "title": "IMI: liquidações enviadas, pagamento até junho",
+          "title": "AT apela a que contribuintes façam este \"procedimento simples\"",
           "snippet": "",
-          "url": "https://observador.pt/programas/boa-moeda-ma-moeda/imi-liquidacoes-enviadas-pagamento-ate-junho/",
-          "source": "Observador"
+          "url": "https://www.noticiasaominuto.com/economia/2790833/at-apela-a-que-contribuintes-facam-este-procedimento-simples",
+          "source": "Notícias ao Minuto"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -160,57 +160,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "correio da manhã",
-      "trafficCount": "2000+",
-      "pubDate": "Thu, 29 May 2025 22:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS__GtyXig5kM8PXDsNWGAHNtlrVWUqAEKI2SSxenKcpNjW6MEmIEGZ2WbmTrE",
-      "pictureSource": "Correio da Manhã",
-      "relatedSearch": [
-        {
-          "title": "Alexandra Lencastre obrigada a pagar milhares de euros",
-          "snippet": "",
-          "url": "https://www.cmjornal.pt/vidas/ultimas/detalhe/alexandra-lencastre-obrigada-a-pagar-milhares-de-euros",
-          "source": "Correio da Manhã"
-        },
-        {
-          "title": "Alexandra Lencastre perde batalha judicial",
-          "snippet": "",
-          "url": "https://www.atelevisao.com/famosos/alexandra-lencastre-perde-batalha-judicial/",
-          "source": "A Televisão"
-        },
-        {
-          "title": "Alexandra Lencastre obrigada a pagar a empregada despedida sem justa causa",
-          "snippet": "",
-          "url": "https://www.flash.pt/celebridades/detalhe/alexandra-lencastre-obrigada-a-pagar-a-empregada-despedida-sem-justa-casa",
-          "source": "Flash.pt"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "cm",
       "trafficCount": "2000+",
       "pubDate": "Thu, 29 May 2025 22:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTN4WctodVK4NDQ-Cy3ShOlDyYe1vna_VJjuqJe2GXVvULXHxZN5JniWAqQDwE",
-      "pictureSource": "Jornal de Notícias",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqp-wK_chZnBEx_iYS7wbViNzaj89m58j0obkUhqr1NIk52zaDiFig_JdFucA",
+      "pictureSource": "coimbra.pt",
       "relatedSearch": [
         {
-          "title": "Luís Figo e Helen Svedin não têm planos de reconciliação, refere a Imprensa espanhola",
+          "title": "CM de Coimbra promove 3 workshops sobre gestão sustentável de instalações desportivas",
           "snippet": "",
-          "url": "https://www.jn.pt/n-tv/554053821/luis-figo-e-helen-svedin-nao-tem-planos-de-reconciliacao-refere-a-imprensa-espanhola/",
-          "source": "Jornal de Notícias"
+          "url": "https://www.coimbra.pt/2025/05/cm-de-coimbra-promove-3-workshops-sobre-gestao-sustentavel-de-instalacoes-desportivas/",
+          "source": "coimbra.pt"
         },
         {
-          "title": "Luís Figo e Helen Svedin separados! Já vive cada um na sua casa",
+          "title": "Dia da Europa assinalado pelo Agrupamento de Escolas de Alcácer do Sal em Dublin",
           "snippet": "",
-          "url": "https://www.cmjornal.pt/vidas/ultimas/detalhe/luis-figo-e-helen-svedin-separados-ja-vive-cada-um-na-sua-casa",
-          "source": "Correio da Manhã"
+          "url": "https://cm-alcacerdosal.pt/dia-da-europa-assinalado-pelo-agrupamento-de-escolas-de-alcacer-do-sal-em-dublin/",
+          "source": "CM - Alcácer do Sal"
         },
         {
-          "title": "Luís Figo continua separado (sem possibilidade de reconciliação à vista)",
+          "title": "Autocarro despista-se na A8 depois de colisão com pesado de mercadorias",
           "snippet": "",
-          "url": "https://lifestyle.sapo.pt/fama/noticias-fama/artigos/luis-figo-continua-separado-sem-possibilidade-de-reconciliacao-a-vista",
-          "source": "SAPO Lifestyle"
+          "url": "https://www.publico.pt/2025/05/30/sociedade/noticia/autocarro-despistase-a8-colisao-pesado-mercadorias-2134941",
+          "source": "Público"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,6 +211,34 @@
           "snippet": "",
           "url": "https://www.oliberal.com/esportes/futebol/atletico-mg-x-cienciano-onde-assistir-ao-vivo-e-escalacoes-do-jogo-hoje-29-05-pela-sudamericana-1.969385",
           "source": "O Liberal"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "cmjornal",
+      "trafficCount": "1000+",
+      "pubDate": "Thu, 29 May 2025 21:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTN4WctodVK4NDQ-Cy3ShOlDyYe1vna_VJjuqJe2GXVvULXHxZN5JniWAqQDwE",
+      "pictureSource": "Jornal de Notícias",
+      "relatedSearch": [
+        {
+          "title": "Luís Figo e Helen Svedin não têm planos de reconciliação, refere a Imprensa espanhola",
+          "snippet": "",
+          "url": "https://www.jn.pt/n-tv/554053821/luis-figo-e-helen-svedin-nao-tem-planos-de-reconciliacao-refere-a-imprensa-espanhola/",
+          "source": "Jornal de Notícias"
+        },
+        {
+          "title": "Luís Figo continua separado (sem possibilidade de reconciliação à vista)",
+          "snippet": "",
+          "url": "https://lifestyle.sapo.pt/fama/noticias-fama/artigos/luis-figo-continua-separado-sem-possibilidade-de-reconciliacao-a-vista",
+          "source": "SAPO Lifestyle"
+        },
+        {
+          "title": "Luís Figo e Helen Svedin separados! Já vive cada um na sua casa",
+          "snippet": "",
+          "url": "https://www.cmjornal.pt/vidas/ultimas/detalhe/luis-figo-e-helen-svedin-separados-ja-vive-cada-um-na-sua-casa",
+          "source": "Correio da Manhã"
         }
       ],
       "link": "https://imtaqin.id/"

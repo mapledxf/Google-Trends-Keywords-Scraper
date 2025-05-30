@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-05-30 04:28:27",
+  "lastUpdate": "2025-05-30 04:46:40",
   "data": [
-    {
-      "title": "yahoo",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 29 May 2025 20:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrR3-PZt54EbTutiHgUTxVPjDNGhCaSHijCS1OPYfcBYNd-oXoJxvNi6eXbsI",
-      "pictureSource": "The New York Times",
-      "relatedSearch": [
-        {
-          "title": "Elon Musk, Distanced From Trump, Says He’s Exiting Washington and DOGE",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2025/05/28/us/politics/elon-musk-trump-doge.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "The chaos Elon Musk and Doge are leaving behind in Washington",
-          "snippet": "",
-          "url": "https://www.theguardian.com/technology/2025/may/29/elon-musk-trump-doge-adviser-exit",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Elon Musk says he's 'disappointed' with domestic policy bill in break with Trump",
-          "snippet": "",
-          "url": "https://www.nbcnews.com/politics/doge/elon-musk-says-disappointed-domestic-policy-bill-break-trump-rcna209157",
-          "source": "NBC News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "netflix",
       "trafficCount": "100+",
@@ -49,10 +21,10 @@
           "source": "Daily Mail"
         },
         {
-          "title": "Matthew Goode is both good and bad cop in Netflix’s ‘Dept. Q’",
+          "title": "Dept. Q Mysteriously Disappeared From Netflix Hours After Premiere — But Now It’s Back",
           "snippet": "",
-          "url": "https://apnews.com/article/matthew-good-dept-q-d1d603e3d80ccdcd40703cf841967a88",
-          "source": "AP News"
+          "url": "https://www.imdb.com/news/ni65308892/?ref_=nwc_art_perm",
+          "source": "IMDb"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -182,13 +154,13 @@
         {
           "title": "Neestrup tænker mere på nyt sommerhus end tysk bejler",
           "snippet": "",
-          "url": "https://www.bt.dk/fodbold/neestrup-taenker-mere-paa-nyt-sommerhus-end-tysk-bejler?gaa_at=eafs&gaa_n=ASWzDAg7ZJ3XwmFid1Z17CXyG8pngvm9BQRok5j7rlkVzoQ3oaFHPgrCB4di&gaa_ts=6839376f&gaa_sig=BmXfmi5PfaunKAvWTV9u9NyadqkJR0DzNtSifIoaaBHihKQvajnTSMEzhznGDlwbk2kTjpRQ3Eh9J42H5DhsWw%3D%3D",
+          "url": "https://www.bt.dk/fodbold/neestrup-taenker-mere-paa-nyt-sommerhus-end-tysk-bejler?gaa_at=eafs&gaa_n=ASWzDAivpjDaoEmF4W0m4etB34CQKpIGM-4gpNK7GZLiOlNvlQqziQolm_i7&gaa_ts=68393bb4&gaa_sig=Thst9fP0fHB_X_MW9lwUMl4OP_7V8_epv1y9W1cM1k4JW1JqcdprSYsvQRz3Zkwc8BxKr1uRQ4Vq-wTJ1XZW9w%3D%3D",
           "source": "BT"
         },
         {
-          "title": "Neestrup regner med flere FCK-kampe",
+          "title": "Jacob Neestrup gav hemmelig besked til FCK-staben",
           "snippet": "",
-          "url": "https://www.tipsbladet.dk/nyhed/superliga/neestrup-regner-med-flere-fck-kampe",
+          "url": "https://www.tipsbladet.dk/nyhed/superliga/jacob-neestrup-gav-hemmelig-besked-til-fck-staben",
           "source": "Tipsbladet.dk"
         }
       ],
@@ -214,10 +186,38 @@
           "source": "The Guardian"
         },
         {
-          "title": "Liverpool crash suspect's neighbours insist father-of-three is 'fantastic guy' and reveal details",
+          "title": "Arne Slot shares gratitude for response to serious parade incident",
           "snippet": "",
-          "url": "https://www.mirror.co.uk/news/uk-news/liverpool-suspect-fantastic-dad-neighbours-35301427",
-          "source": "The Mirror"
+          "url": "https://www.liverpoolfc.com/news/arne-slot-shares-gratitude-response-serious-parade-incident",
+          "source": "Liverpool FC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "elon musk",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 29 May 2025 10:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRe_QZyNU9RKHHnapg3Gvqm7eE2eeokNj9AAObbxqEyvhAWjSeInk-VJ8TvXXE",
+      "pictureSource": "The Washington Post",
+      "relatedSearch": [
+        {
+          "title": "Back at SpaceX, Musk says in interview DOGE became D.C.’s ‘whipping boy’",
+          "snippet": "",
+          "url": "https://www.washingtonpost.com/business/2025/05/27/elon-musk-spacex-starship-doge/",
+          "source": "The Washington Post"
+        },
+        {
+          "title": "Elon Musk, Distanced From Trump, Says He’s Exiting Washington and DOGE",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/05/28/us/politics/elon-musk-trump-doge.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "The chaos Elon Musk and Doge are leaving behind in Washington",
+          "snippet": "",
+          "url": "https://www.theguardian.com/technology/2025/may/29/elon-musk-trump-doge-adviser-exit",
+          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"

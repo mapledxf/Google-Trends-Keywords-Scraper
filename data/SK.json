@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-06-01 05:55:53",
+  "lastUpdate": "2025-06-01 06:19:20",
   "data": [
     {
       "title": "den deti 2025",
-      "trafficCount": "500+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 31 May 2025 21:50:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1t04Q3h5do-WnSdj6Q_QLGLgE5Ix8yLh7r1VXpMZk-jmVfzdb9HlkkU7olqY",
       "pictureSource": "Dnes24.sk",
@@ -31,7 +31,7 @@
     },
     {
       "title": "inter miami – columbus",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 31 May 2025 21:50:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3_YunRDGDQqENy-ZDeqYcH0FYzVwZBnD1TVQO7gU156aI58mBD_soCWCy-nk",
       "pictureSource": "MLSsoccer.com",
@@ -59,7 +59,7 @@
     },
     {
       "title": "den deti",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 31 May 2025 20:20:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRp0Jvql-cb-wCHhcRpOKrrB1V3ECzHSX52RQFa_yQFfWAnbiYgNTd9Mz70-8Y",
       "pictureSource": "TERAZ.sk",
@@ -89,9 +89,15 @@
       "title": "ufc",
       "trafficCount": "200+",
       "pubDate": "Sat, 31 May 2025 17:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgtI09palUkBiEQM-QLgDJ9NvCUM88ziYuMETurlQx26WpDm7Glvu3RqrMpQU",
-      "pictureSource": "Šport.sk",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvBLwAyjFaf6tMCxMsvt6Nhd7b4nYTd6cd0xwXGMeyPhQ__ARNCsfPZRMlH0g",
+      "pictureSource": "Sportnet",
       "relatedSearch": [
+        {
+          "title": "Sen sa rozplynul. Ľudovít Klein v životnom zápase v UFC neuspel, zdolal ho Poliak",
+          "snippet": "",
+          "url": "https://sportnet.sme.sk/spravy/mma-ludovit-klein-vs-mateusz-gamrot-ufc-video/",
+          "source": "Sportnet"
+        },
         {
           "title": "Klein prehral po 4 rokoch. Elitný Poliak ho nevpustil do top 10 UFC",
           "snippet": "",
@@ -103,12 +109,6 @@
           "snippet": "",
           "url": "https://tvnoviny.sk/sport/clanok/970723-video-vitazstvo-ho-katapultuje-medzi-absolutnu-smotanku-mma-ludovit-klein-ma-zivotnu-sancu",
           "source": "TVnoviny"
-        },
-        {
-          "title": "UFC: Ľudovít Klein vs. Mateusz Gamrot - Kde, kedy a ako sledovať?",
-          "snippet": "",
-          "url": "https://sportnet.sme.sk/spravy/ufc-ludovit-klein-vs-mateusz-gamrot-kde-kedy-a-ako-sledovat/",
-          "source": "Sportnet"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -133,10 +133,38 @@
           "source": "Yahoo Sports"
         },
         {
-          "title": "PSG win Champions League for first time with record 5-0 final hammering of Inter",
+          "title": "PSG 5-0 Inter Milan: New-look PSG make history on emotional night for Luis Enrique in Champions League final",
           "snippet": "",
-          "url": "https://www.theguardian.com/football/2025/may/31/psg-win-champions-league-for-first-time-with-record-5-0-final-hammering-of-inter",
-          "source": "The Guardian"
+          "url": "https://www.bbc.com/sport/football/articles/cnv1g944vggo",
+          "source": "BBC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "paris saint germain",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 31 May 2025 14:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6TBsH-33lak2qvDG_P5AT6M5_U0YOD15SmEqLIUqhLwdsV2VKu-JGk8pr_0w",
+      "pictureSource": "Ouest-France",
+      "relatedSearch": [
+        {
+          "title": "Ligue des champions. PSG - Inter Milan : où et quand suivre la finale en Loire-Atlantique ?",
+          "snippet": "",
+          "url": "https://www.ouest-france.fr/sport/football/ligue-des-champions/ligue-des-champions-psg-inter-milan-ou-et-quand-suivre-la-finale-en-loire-atlantique-fc9c6ae0-3e1d-11f0-9838-46aa9b466e5f",
+          "source": "Ouest-France"
+        },
+        {
+          "title": "PSG-Inter : 5 400 effectifs mobilisés, Champs-Élysées et magasins fermés… Le « dispositif massif » du préfet de police à Paris",
+          "snippet": "",
+          "url": "https://www.leparisien.fr/paris-75/psg-inter-milan-a-paris-tout-le-monde-est-sur-le-pont-le-prefet-nunez-devoile-son-plan-de-bataille-xxl-30-05-2025-Y3HSL7MF3NEABCKCCPI3V4MBIY.php",
+          "source": "Le Parisien"
+        },
+        {
+          "title": "Luis Enrique évoque sa fille Xana : « Elle sera toujours à mes côtés »",
+          "snippet": "",
+          "url": "https://www.footboom1.com/fr/news/football/2591562-luis-enrique-remembers-daughter-xana-she-will-always-be-with-me",
+          "source": "FootBoom"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,25 +201,25 @@
       "title": "luis enrique",
       "trafficCount": "2000+",
       "pubDate": "Sat, 31 May 2025 13:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLP4UJjgXodfP13MVonBaGisGsSJaCrSHKq7KQjWUF27BvT6_32fLAfvGEVBY",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWtnkgK6E2icAhqRYeDf--qIadl0V3D1Ym5_iiF_cPm24fVXcmYibwBx9Hy9E",
       "pictureSource": "MARCA",
       "relatedSearch": [
         {
-          "title": "Emotivísimo recuerdo a Xana: camiseta de Luis Enrique y una pancarta de la afición del PSG",
+          "title": "Luis Enrique firma su obra maestra y corona al PSG con su primera Champions League",
           "snippet": "",
-          "url": "https://www.marca.com/futbol/champions-league/2025/05/31/emotivisimo-recuerdo-xana-camiseta-luis-enrique-pancarta-aficion-psg.html",
+          "url": "https://www.marca.com/futbol/champions-league/cronica/2025/05/31/luis-enrique-firma-obra-maestra-corona-psg-primera-champions-league.html",
           "source": "MARCA"
         },
         {
-          "title": "Mariano Closs y Diego Latorre se quebraron en vivo tras el discurso de Luis Enrique al recordar a su hija en los festejos del PSG",
+          "title": "De Mbappé A La 'Orejona': El Final Feliz Del Año En El Que El PSG Vivió Peligrosamente",
           "snippet": "",
-          "url": "https://www.infobae.com/deportes/2025/06/01/mariano-closs-y-diego-latorre-se-quebraron-en-vivo-tras-el-discurso-de-luis-enrique-al-recordar-a-su-hija-en-los-festejoos-del-psg/",
-          "source": "Infobae"
+          "url": "https://www.barrons.com/news/spanish/de-mbappe-a-la-orejona-el-final-feliz-del-ano-en-el-que-el-psg-vivio-peligrosamente-204f9e06",
+          "source": "Barron's"
         },
         {
-          "title": "El pueblo futbolístico llora ante la imagen de la hija del entrenador Luis Enrique",
+          "title": "Desire Doue: El chico de oro en la cima del mundo",
           "snippet": "",
-          "url": "https://www.vietnam.vn/es/lang-bong-da-thon-thuc-truoc-hinh-anh-con-gai-hlv-luis-enrique",
+          "url": "https://www.vietnam.vn/es/desire-doue-cau-be-vang-len-dinh-the-gioi",
           "source": "Vietnam.vn"
         }
       ],
@@ -245,38 +273,10 @@
           "source": "Yahoo Sports"
         },
         {
-          "title": "PSG win Champions League for first time with record 5-0 final hammering of Inter",
+          "title": "PSG 5-0 Inter Milan: New-look PSG make history on emotional night for Luis Enrique in Champions League final",
           "snippet": "",
-          "url": "https://www.theguardian.com/football/2025/may/31/psg-win-champions-league-for-first-time-with-record-5-0-final-hammering-of-inter",
-          "source": "The Guardian"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "hakimi",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 31 May 2025 12:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS67v6e4aJaSBSiCxhsbps0Tsts-nfbsfD7bim_5Ma7MVjeVh4bSkRvLu3jSO4",
-      "pictureSource": "MARCA",
-      "relatedSearch": [
-        {
-          "title": "El gol más doloroso de Achraf Hakimi",
-          "snippet": "",
-          "url": "https://www.marca.com/futbol/champions-league/2025/05/31/gol-doloroso-achraf-hakimi.html",
-          "source": "MARCA"
-        },
-        {
-          "title": "La estrella del PSG causa indignación con extrañas acciones tras marcar",
-          "snippet": "",
-          "url": "https://www.vietnam.vn/es/ngoi-sao-psg-gay-phan-no-vi-hanh-dong-la-sau-khi-ghi-ban",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "Champions League: Achraf marca en la final, pero presume de memoria y no hace sangre de más ante su exequipo",
-          "snippet": "",
-          "url": "https://www.flashscore.es/noticias/futbol-champions-league-achraf-adelanta-al-psg-y-no-tarda-en-acordarse-de-su-pasado/MsiaOk3D/",
-          "source": "Flashscore.es"
+          "url": "https://www.bbc.com/sport/football/articles/cnv1g944vggo",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"

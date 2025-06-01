@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-01 21:54:16",
+  "lastUpdate": "2025-06-01 22:09:25",
   "data": [
     {
       "title": "颱風",
@@ -40,37 +40,56 @@
     },
     {
       "title": "烏克蘭",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 1 Jun 2025 08:50:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRm6Dh7FoSqxfJj1T5MUBvQF8grV28igAcY9hTOx_GaNPgPafh0JYo7_FVtL20",
+      "pictureSource": "The Economist",
+      "relatedSearch": [
+        {
+          "title": "An astonishing raid deep inside Russia rewrites the rules of war",
+          "snippet": "",
+          "url": "https://www.economist.com/europe/2025/06/01/an-astonishing-raid-deep-inside-russia-rewrites-the-rules-of-war",
+          "source": "The Economist"
+        },
+        {
+          "title": "Monday Briefing: Ukraine bombarded Russian air bases",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/06/01/briefing/ukraine-russia-gaza-mexico.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Ukraine destroys dozens of Russian warplanes with drone attack deep inside Russia",
+          "snippet": "",
+          "url": "https://www.foxnews.com/world/ukraine-destroys-dozens-russian-warplanes-drone-attack-deep-inside-russia",
+          "source": "Fox News"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "alcaraz",
       "trafficCount": "200+",
       "pubDate": "Sun, 1 Jun 2025 08:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpF2BKOu5iCP0fUqYoO6idsYd08Yve5__DjH9RmyMzxlx1WsAYVJAQL255Em8",
-      "pictureSource": "El Nuevo Herald",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2J-K0NcsrjYYbjSeKB0l8lJHUw2G5JFLOYBJFOFQ8kB4DVuYjeEXa0abWXiM",
+      "pictureSource": "Punto de Break",
       "relatedSearch": [
         {
-          "title": "Alcaraz sufre para ganar, pero avanza a cuartos de final del Abierto de Francia",
+          "title": "Alcaraz, sobre su gesto deportivo con Shelton: \"Me habría sentido culpable si no hubiera dicho nada\"",
           "snippet": "",
-          "url": "https://www.elnuevoherald.com/deportes/otros-deportes/article307654206.html",
-          "source": "El Nuevo Herald"
-        },
-        {
-          "title": "Una lección de educación para dar ejemplo al mundo entero: el gesto de Alcaraz con el árbitro para poner en la",
-          "snippet": "",
-          "url": "https://as.com/tenis/videos/una-leccion-de-educacion-para-dar-ejemplo-al-mundo-entero-el-gesto-de-alcaraz-con-el-arbitro-para-poner-en-las-escuelas-v/",
-          "source": "Diario AS"
+          "url": "https://www.puntodebreak.com/2025/06/01/alcaraz-gesto-deportivo-shelton-habria-sentido-culpable-no-hubiera-dicho",
+          "source": "Punto de Break"
         },
         {
           "title": "Alcaraz: \"Estoy satisfecho con el tenis que estoy mostrando\"",
           "snippet": "",
           "url": "https://www.infobae.com/america/agencias/2025/06/01/alcaraz-estoy-satisfecho-con-el-tenis-que-estoy-mostrando/",
           "source": "Infobae"
+        },
+        {
+          "title": "¡Deportividad! Alcaraz concede un punto a Shelton en Roland Garros",
+          "snippet": "",
+          "url": "https://www.atptour.com/es/news/alcaraz-shelton-sportsmanship-roland-garros-2025",
+          "source": "ATP Tour"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -122,9 +141,9 @@
           "source": "MarketBeat"
         },
         {
-          "title": "Royal Bank of Canada Lowers Holdings in LPL Financial Holdings Inc. (NASDAQ:LPLA)",
+          "title": "LPL Financial Holdings Inc. (NASDAQ:LPLA) Stake Lessened by First Hawaiian Bank",
           "snippet": "",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-royal-bank-of-canada-sells-6952-shares-of-lpl-financial-holdings-inc-nasdaqlpla-2025-05-21/",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-lpl-financial-holdings-inc-nasdaqlpla-stake-lessened-by-first-hawaiian-bank-2025-05-31/",
           "source": "MarketBeat"
         }
       ],

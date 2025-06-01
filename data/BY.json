@@ -1,24 +1,24 @@
 {
-  "lastUpdate": "2025-06-01 23:43:02",
+  "lastUpdate": "2025-06-01 23:50:38",
   "data": [
     {
       "title": "атака дронов",
       "trafficCount": "500+",
       "pubDate": "Sun, 1 Jun 2025 11:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUTmZMQwaSTUrGS1GZt8aDTHvPbCU5jINhvI37pPX8Y6SHeKJP3-IEube14Jw",
-      "pictureSource": "DW",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbW9NzMfT_LtKvZ1ceqxXpOztnemBl0EdzjNuP96XGGgcSZg8IsDaa1TcJR3w",
+      "pictureSource": "Интерфакс",
       "relatedSearch": [
-        {
-          "title": "Эксперты: ВСУ нанесли крупнейший удар по авиации РФ",
-          "snippet": "",
-          "url": "https://www.dw.com/ru/udar-vsu-po-strategiceskoj-aviacii-rf-stal-krupnejsim-v-istorii-eksperty/a-72750436",
-          "source": "DW"
-        },
         {
           "title": "Минобороны РФ сообщило об атаке украинских дронов на аэродромы в пяти областях России",
           "snippet": "",
           "url": "https://www.interfax.ru/russia/1028985",
           "source": "Интерфакс"
+        },
+        {
+          "title": "Эксперты: ВСУ нанесли крупнейший удар по авиации РФ",
+          "snippet": "",
+          "url": "https://www.dw.com/ru/udar-vsu-po-strategiceskoj-aviacii-rf-stal-krupnejsim-v-istorii-eksperty/a-72750436",
+          "source": "DW"
         },
         {
           "title": "Операция \"Паутина\": Украина атаковала военные аэродромы в пяти регионах РФ",
@@ -254,12 +254,31 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "1 июня день защиты детей",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 1 Jun 2025 00:40:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "title": "обрушение моста в брянской области",
+      "trafficCount": "2000+",
+      "pubDate": "Sun, 1 Jun 2025 00:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBAefuUcsEzjWWAMvFXFe8GfQrbBeY8c3wcLT3Ns5HTJS1qRvUgmhOdIOx4qY",
+      "pictureSource": "Виртуальный Брест",
+      "relatedSearch": [
+        {
+          "title": "Движение автотранспорта в Брянской области у границы с Беларусью ограничено",
+          "snippet": "",
+          "url": "https://virtualbrest.ru/news155829.php",
+          "source": "Виртуальный Брест"
+        },
+        {
+          "title": "Два моста обрушились в Брянской и Курской областях, погибли 7 человек",
+          "snippet": "",
+          "url": "https://people.onliner.by/2025/06/01/dva-mosta-obrushilis-v-bryanskoj-i-kurskoj-oblastyax",
+          "source": "Onlíner"
+        },
+        {
+          "title": "В Курской области из-за подрыва ж/д моста на дорогу упал грузовой локомотив",
+          "snippet": "",
+          "url": "https://belta.by/world/view/v-kurskoj-oblasti-iz-za-podryva-zhd-mosta-na-dorogu-upal-gruzovoj-lokomotiv-718364-2025/",
+          "source": "Новости Беларуси|БелТА"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]

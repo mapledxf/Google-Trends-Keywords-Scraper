@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-01 21:37:57",
+  "lastUpdate": "2025-06-01 21:45:39",
   "data": [
     {
       "title": "дана борисова",
@@ -33,15 +33,9 @@
       "title": "атака дронов",
       "trafficCount": "500+",
       "pubDate": "Sun, 1 Jun 2025 11:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUTmZMQwaSTUrGS1GZt8aDTHvPbCU5jINhvI37pPX8Y6SHeKJP3-IEube14Jw",
-      "pictureSource": "DW",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxPWld3hBRjvl6wUjQjR8Yz3AKFb52g9ySIQ74vmldCZ9q4TI41X9rmIQ4rsk",
+      "pictureSource": "Euronews",
       "relatedSearch": [
-        {
-          "title": "Эксперты: ВСУ нанесли крупнейший удар по авиации РФ",
-          "snippet": "",
-          "url": "https://www.dw.com/ru/udar-vsu-po-strategiceskoj-aviacii-rf-stal-krupnejsim-v-istorii-eksperty/a-72750436",
-          "source": "DW"
-        },
         {
           "title": "Операция \"Паутина\": Украина атаковала военные аэродромы в пяти регионах РФ",
           "snippet": "",
@@ -49,7 +43,13 @@
           "source": "Euronews"
         },
         {
-          "title": "Минобороны РФ сообщило, что Украина атаковала дронами аэродромы в пяти областях России",
+          "title": "Эксперты: ВСУ нанесли крупнейший удар по авиации РФ",
+          "snippet": "",
+          "url": "https://www.dw.com/ru/udar-vsu-po-strategiceskoj-aviacii-rf-stal-krupnejsim-v-istorii-eksperty/a-72750436",
+          "source": "DW"
+        },
+        {
+          "title": "Минобороны РФ сообщило об атаке украинских дронов на аэродромы в пяти областях России",
           "snippet": "",
           "url": "https://www.interfax.ru/russia/1028985",
           "source": "Интерфакс"
@@ -71,16 +71,16 @@
           "source": "Спорт Mail"
         },
         {
+          "title": "Карлос Алькараз обыграл Бена Шелтона и вышел в четвертьфинал \"Ролан Гаррос\"",
+          "snippet": "",
+          "url": "https://gotennis.ru/read/news/karlos_alkaraz_obygral_bena_sheltona_i_vyshel_v_chetvertfinal_rolan_garros.html",
+          "source": "GoTennis.ru"
+        },
+        {
           "title": "Карлос Алькарас вышел в четвертый круг Открытого чемпионата Франции - NEWSru.co.il",
           "snippet": "",
           "url": "https://www.newsru.co.il/sport/31may2025/carlos902.html",
           "source": "NEWSru.co.il"
-        },
-        {
-          "title": "Ролан Гаррос. Алькарас в четырех сетах победил Шелтона, Пол и Тиафо впервые прошли в четвертьфинал грунтового \"мэйджора\"",
-          "snippet": "",
-          "url": "https://btu.org.ua/news/mirovoy-tennis/53934-rolan-garros-alkaras-v-chetyreh-setah-pobedil-sheltona-pol-i-tiafo-vpervye-proshli-v-chetvertfinal-gruntovogo-mjejdzhora.html",
-          "source": "Большой Теннис Украины"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -133,10 +133,10 @@
           "source": "Football.by"
         },
         {
-          "title": "«Ростов» — ЦСКА: Сако, Роналдо, Дивеев и Обляков выйдут на суперфинал с первых минут",
+          "title": "Акинфеев — самый титулованный российский футболист в истории",
           "snippet": "",
-          "url": "https://www.sport-express.net/football/rus_cup/news/rostov-cska-startovye-sostavy-komand-na-superfinal-kubka-rossii-1-iyunya-2025-2331718/",
-          "source": "sport-express.ru"
+          "url": "https://www.soccer.ru/news/1408757/akinfeev-igor",
+          "source": "Soccer.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +183,16 @@
           "source": "Sport5.by"
         },
         {
+          "title": "Циньвэнь Чжэн может встретиться с Ариной Соболенко",
+          "snippet": "",
+          "url": "https://betnews.by/stalo-izvestno-s-kem-vstretitsya-sobolenko-v-sluchae-pobedy-nad-anisimovoj/",
+          "source": "Bet News"
+        },
+        {
           "title": "Арина Соболенко – четвертьфиналистка открытого чемпионата Франции",
           "snippet": "",
           "url": "https://smartpress.by/idea/sport/arina-sobolenko-s-6-go-matchbola-otprazdnovala-vykhod-v-chetvertfinal-rolan-garros/",
           "source": "Смартпресс"
-        },
-        {
-          "title": "Арина Соболенко: уделяю гораздо большее внимание здоровью и питанию",
-          "snippet": "",
-          "url": "https://betnews.by/arina-sobolenko-udelyayu-gorazdo-bolshee-vnimanie-zdorovyu-i-pitaniyu/",
-          "source": "Bet News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -273,10 +273,10 @@
           "source": "Onlíner"
         },
         {
-          "title": "Трагедия под Брянском: известны подробности крушения пассажирского поезда",
+          "title": "В Курской области из-за подрыва ж/д моста на дорогу упал грузовой локомотив",
           "snippet": "",
-          "url": "https://minsknews.by/tragediya-pod-bryanskom-izvestny-podrobnosti-krusheniya-passazhirskogo-poezda/",
-          "source": "Минск-новости"
+          "url": "https://belta.by/world/view/v-kurskoj-oblasti-iz-za-podryva-zhd-mosta-na-dorogu-upal-gruzovoj-lokomotiv-718364-2025/",
+          "source": "Новости Беларуси|БелТА"
         }
       ],
       "link": "https://imtaqin.id/"

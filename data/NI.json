@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-06-01 13:06:26",
+  "lastUpdate": "2025-06-01 13:34:18",
   "data": [
+    {
+      "title": "weather",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 1 Jun 2025 06:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIIfqT8Q_h2suPoTr91m-1RqFt7uiXcguflJXu7jd_BT6vwJyESj-SrSWA6dg",
+      "pictureSource": "The New York Times",
+      "relatedSearch": [
+        {
+          "title": "Northern Lights May Be Visible as Far South as Alabama",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/06/01/weather/northern-lights-visible-states.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Aurora alert: Ongoing powerful geomagnetic storm could spark more northern lights across the US tonight",
+          "snippet": "",
+          "url": "https://www.space.com/stargazing/auroras/aurora-alert-ongoing-powerful-geomagnetic-storm-could-spark-more-northern-lights-across-the-us-tonight",
+          "source": "Space"
+        },
+        {
+          "title": "15 states may see Aurora Borealis tonight and into the weekend. See maps",
+          "snippet": "",
+          "url": "https://www.usatoday.com/story/graphics/2025/05/30/states-see-auroras-northern-lights-map/83948081007/",
+          "source": "USA Today"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "america",
       "trafficCount": "1000+",
@@ -21,10 +49,10 @@
           "source": "Hola News"
         },
         {
-          "title": "¡Así salta el América para enfrentar al LAFC!",
+          "title": "Jardine: estamos muy dolidos; cansados por la actividad",
           "snippet": "",
-          "url": "https://www.tudn.com/futbol/asi-salta-el-america-para-enfrentar-al-lafc-video",
-          "source": "TUDN"
+          "url": "https://espndeportes.espn.com/futbol/mexico/nota/_/id/15258483/america-lafc-mundial-clubes-2025-derrota-andre-jardine-errores",
+          "source": "ESPN Deportes"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -53,34 +81,6 @@
           "snippet": "",
           "url": "https://www.aol.com/kylie-jenner-timothee-chalamet-courtside-234455207.html",
           "source": "AOL.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "mls",
-      "trafficCount": "1000+",
-      "pubDate": "Sat, 31 May 2025 17:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQon3uA7OQUnT5hZ2vVzwe8gTeUNN7C_vHkN7DbBJxonwFlIxkTGmrh_5uK008",
-      "pictureSource": "Sports Illustrated",
-      "relatedSearch": [
-        {
-          "title": "FIFA Club World Cup 2025 Teams: Full List of Qualified Clubs",
-          "snippet": "",
-          "url": "https://www.si.com/soccer/fifa-club-world-cup-2025-teams-full-list-of-qualified-clubs",
-          "source": "Sports Illustrated"
-        },
-        {
-          "title": "Los Angeles FC complete FIFA Club World Cup line-up",
-          "snippet": "",
-          "url": "https://www.mancity.com/news/mens/late-winner-for-los-angeles-fc-completes-fifa-club-world-cup-line-up-63884359",
-          "source": "Manchester City FC"
-        },
-        {
-          "title": "LAFC v Club América: Club World Cup play-off",
-          "snippet": "",
-          "url": "https://www.theguardian.com/football/live/2025/may/31/lafc-v-club-america-club-world-cup-playoff-live?filterKeyEvents=false&page=with%3Ablock-683bceed8f085984c7367bdb",
-          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,26 +201,26 @@
       "title": "paris",
       "trafficCount": "100+",
       "pubDate": "Sat, 31 May 2025 13:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6TBsH-33lak2qvDG_P5AT6M5_U0YOD15SmEqLIUqhLwdsV2VKu-JGk8pr_0w",
-      "pictureSource": "Ouest-France",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRAmHzdZGXqGRyRrwsMACAX7cTXdwGCfvoEo6GUvBMVisea4ndxmO5CRgy-It8",
+      "pictureSource": "Eurosport",
       "relatedSearch": [
+        {
+          "title": "Heure, chaîne TV, compos : Tout savoir sur la finale PSG-Inter",
+          "snippet": "",
+          "url": "https://www.eurosport.fr/football/ligue-des-champions/2024-2025/a-quelle-heure-et-sur-quelle-chaine-tv-suivre-la-finale-de-ligue-des-champions-psg-inter-ce-samedi_sto23186748/story.shtml",
+          "source": "Eurosport"
+        },
+        {
+          "title": "PSG-Inter Milan : comment voir la finale de Ligue des champions en streaming ?",
+          "snippet": "",
+          "url": "https://www.lesnumeriques.com/evenement-sportif/psg-inter-milan-comment-voir-la-finale-de-ligue-des-champions-en-streaming-n227090.html",
+          "source": "Les Numériques"
+        },
         {
           "title": "Ligue des champions. PSG - Inter Milan : où et quand suivre la finale en Loire-Atlantique ?",
           "snippet": "",
           "url": "https://www.ouest-france.fr/sport/football/ligue-des-champions/ligue-des-champions-psg-inter-milan-ou-et-quand-suivre-la-finale-en-loire-atlantique-fc9c6ae0-3e1d-11f0-9838-46aa9b466e5f",
           "source": "Ouest-France"
-        },
-        {
-          "title": "C1 : la réaction classe du Real Madrid après le sacre du PSG",
-          "snippet": "",
-          "url": "https://www.footmercato.net/a798989663975624230-c1-la-reaction-classe-du-real-madrid-apres-le-sacre-du-psg",
-          "source": "Foot Mercato"
-        },
-        {
-          "title": "Finale Champions League 2025 : Le PSG remporte le trophée",
-          "snippet": "",
-          "url": "https://www.bbc.com/afrique/articles/c93l1vr2p1xo",
-          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,20 +229,20 @@
       "title": "désiré doué",
       "trafficCount": "100+",
       "pubDate": "Sat, 31 May 2025 13:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSU1UZAJcEOtJ6MghxUjX5bM30bAi9T3v-amQq_Umx5RYSc1GCc8hb2BCSnAyc",
-      "pictureSource": "Foot Mercato",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRu32prd4nwA39uGRT7NFIQ0nRm56W7hUAll5righhyEWz2n4y43UHxjOfBbBw",
+      "pictureSource": "Maxifoot",
       "relatedSearch": [
-        {
-          "title": "La presse européenne est à genoux devant le phénomène Désiré Doué, l’Inter Milan se fait fracasser après l’humiliation",
-          "snippet": "",
-          "url": "https://www.footmercato.net/a1731323470739223383-la-presse-europeenne-est-a-genoux-devant-le-phenomene-desire-doue-linter-milan-se-fait-fracasser-apres-lhumiliation",
-          "source": "Foot Mercato"
-        },
         {
           "title": "VIDEO : Doué n'oublie pas son idole Neymar",
           "snippet": "",
           "url": "https://news.maxifoot.fr/video/doue-n-oublie-pas-son-idole-neymar-foot-434838.htm",
           "source": "Maxifoot"
+        },
+        {
+          "title": "La conversation folle entre Désiré Doué et Marcelo",
+          "snippet": "",
+          "url": "https://www.footmercato.net/a6652237958056917081-la-conversation-folle-entre-desire-doue-et-marcelo",
+          "source": "Foot Mercato"
         },
         {
           "title": "Vitinha, le \"magicien du milieu de terrain\"",

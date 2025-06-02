@@ -1,10 +1,38 @@
 {
-  "lastUpdate": "2025-06-01 23:58:50",
+  "lastUpdate": "2025-06-02 01:49:13",
   "data": [
     {
-      "title": "украина",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 1 Jun 2025 12:50:00 -0700",
+      "title": "интер состав",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 1 Jun 2025 17:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC9lmWxgDAN6rmbZRC1YO5SNNnaN9YMQW1YTb_cQay1q5dX76Aq86o2A26wj4",
+      "pictureSource": "Vesti.kz",
+      "relatedSearch": [
+        {
+          "title": "Стало известно о сумме заработка \"ПСЖ\" после победы в Лиге чемпионов",
+          "snippet": "",
+          "url": "https://vesti.kz/league/stalo-izvestno-summe-zarabotka-psj-pobedyi-lige-chempionov-364163/",
+          "source": "Vesti.kz"
+        },
+        {
+          "title": "\"ПСЖ\" - \"Интер\" 5:0. Париж взял первый трофей Лиги чемпионов",
+          "snippet": "",
+          "url": "https://ru.uefa.com/uefachampionsleague/news/0299-1de41d878eb3-837dc4463bcc-1000--%D0%BF%D1%81%D0%B6-%D0%B8%D0%BD%D1%82%D0%B5%D1%80-5-0/",
+          "source": "UEFA.com"
+        },
+        {
+          "title": "ПСЖ сотворил сенсацию в финале Лиги чемпионов",
+          "snippet": "",
+          "url": "https://www.zakon.kz/sport/6479397-pszh-sotvoril-sensatsiyu-v-finale-ligi-chempionov.html",
+          "source": "Новости Zakon.kz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "новости россии",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 1 Jun 2025 16:50:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUTmZMQwaSTUrGS1GZt8aDTHvPbCU5jINhvI37pPX8Y6SHeKJP3-IEube14Jw",
       "pictureSource": "DW",
       "relatedSearch": [
@@ -15,10 +43,10 @@
           "source": "DW"
         },
         {
-          "title": "Операция «Паутина». Украина ударила по российским военным аэродромам дронами, которые вылетали из фур",
+          "title": "США не предоставляли Киеву информацию для ударов по российским аэродромам",
           "snippet": "",
-          "url": "https://www.bbc.com/russian/articles/c0mrgwvywvwo",
-          "source": "BBC"
+          "url": "https://www.interfax.ru/world/1029015",
+          "source": "Интерфакс"
         },
         {
           "title": "Операция \"Паутина\": Украина атаковала военные аэродромы в пяти регионах РФ",
@@ -33,26 +61,26 @@
       "title": "ipl",
       "trafficCount": "200+",
       "pubDate": "Sun, 1 Jun 2025 12:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRV4pXvrdLxFA5S10CSiN08ZnN6Gds6mPKCNfaOtAQVLYZX-AASh-mNtVmy5Xk",
-      "pictureSource": "ESPNcricinfo",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEbBOzT3HBS7VlrydNULw8RwLvEaWUGdlpfDHlsiD5cTVHt7wp9EZxdQtb6Cw",
+      "pictureSource": "Cricbuzz.com",
       "relatedSearch": [
         {
-          "title": "Live Cricket Update - MI vs PBKS Qualifier 2 - PBKS start well in 204 chase despite Prabhsimran wicket",
+          "title": "Punjab Kings vs Mumbai Indians, Qualifier 2",
           "snippet": "",
-          "url": "https://www.espncricinfo.com/series/ipl-2025-1449924/mumbai-indians-vs-punjab-kings-qualifier-2-1473510/live-match-blog",
+          "url": "https://www.cricbuzz.com/live-cricket-scores/118919/pbks-vs-mi-qualifier-2-indian-premier-league-2025",
+          "source": "Cricbuzz.com"
+        },
+        {
+          "title": "MI vs PBKS Cricket Scorecard, Qualifier 2 at Ahmedabad, June 01, 2025",
+          "snippet": "",
+          "url": "https://www.espncricinfo.com/series/ipl-2025-1449924/mumbai-indians-vs-punjab-kings-qualifier-2-1473510/full-scorecard",
           "source": "ESPNcricinfo"
         },
         {
-          "title": "'What's The Weather In Ahmedabad?': MI vs PKBS IPL Match Today - Will It Rain? Check IMD Forecast Here",
+          "title": "IPL 2025 final schedule: Which team will RCB face on June 3 in Ahmedabad?",
           "snippet": "",
-          "url": "https://www.timesnownews.com/city/ahmedabad/weather-in-ahmedabad-mi-vs-pkbs-ipl-match-today-will-it-rain-in-ahmedabad-stadium-check-imd-forecast-here-article-151769009",
-          "source": "Times Now"
-        },
-        {
-          "title": "Shreyas Iyer takes Punjab Kings to IPL 2025 final",
-          "snippet": "",
-          "url": "https://crictoday.com/cricket/daily-cricket-news/shreyas-iyer-takes-punjab-kings-to-ipl-2025-final/",
-          "source": "Crictoday"
+          "url": "https://www.business-standard.com/cricket/ipl/ipl-2025-final-schedule-which-team-will-rcb-face-on-june-3-in-ahmedabad-125052901941_1.html",
+          "source": "Business Standard"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,9 +89,28 @@
       "title": "сантос – ботафого",
       "trafficCount": "200+",
       "pubDate": "Sun, 1 Jun 2025 12:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPpTVy01355Rh0LF4BUqrafSl299Mcj7_9MPRBK8I1Sd19E7EjCY61IQTCP_M",
+      "pictureSource": "Спорт Mail",
+      "relatedSearch": [
+        {
+          "title": "Неймар рукой забил «Ботафого». Судья удалил форварда «Сантоса», показав вторую желтую",
+          "snippet": "",
+          "url": "https://sportmail.ru/news/football/66390385/",
+          "source": "Спорт Mail"
+        },
+        {
+          "title": "Неймар забил гол рукой в матче чемпионата Бразилии и получил красную карточку",
+          "snippet": "",
+          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/rest_of_the_world/spbnews_NI2210566_Nejmar_zabil_gol_rukoj_v_matche_chempionata_Brazilii_i_poluchil_krasnuju_kartochku",
+          "source": "Sportbox"
+        },
+        {
+          "title": "Несчастливый финал. Неймар был удален за гол рукой и проиграл последнюю игру за «Сантос",
+          "snippet": "",
+          "url": "https://sports24.kz/football/news/neschastlivii-final-neimar-bil-udalen-za-gol-rukoi-i-proigral-poslednyuyu-igru-za-santos/",
+          "source": "Sports24.kz"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -182,14 +229,14 @@
       "title": "обрушение моста в брянской области",
       "trafficCount": "200+",
       "pubDate": "Sun, 1 Jun 2025 06:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4p4jrzopxO_K3he-7lb-S9K9cBgXxhdLHV4CKkuFav-RKdapXT6DO3KP_SYY",
-      "pictureSource": "Forbes.kz",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCneL3mbslxqS6dhUgzETMGs-ACwl8u9dheRlj4e8XFWJ1rHvDIaN5wR_1H9c",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Крушения поездов в России: что известно к этому часу",
+          "title": "Власти России сообщили о подрыве мостов в Брянской и Курской области, погибли 7 человек. Что известно",
           "snippet": "",
-          "url": "https://forbes.kz/articles/krusheniya-poezdov-v-rossii-chto-izvestno-k-etomu-chasu-609e3c",
-          "source": "Forbes.kz"
+          "url": "https://www.bbc.com/russian/articles/cwyjw7ge6z6o",
+          "source": "BBC"
         },
         {
           "title": "Второй за сутки транспортный мост обрушился в России",
@@ -198,10 +245,10 @@
           "source": "Tengrinews.kz"
         },
         {
-          "title": "Мост обрушился в России на пассажирский поезд: погибли семь человек",
+          "title": "Крушения поездов в России: что известно к этому часу",
           "snippet": "",
-          "url": "https://www.zakon.kz/mir/6479416-most-obrushilsya-v-rossii-na-passazhirskiy-poezd-pogibli-sem-chelovek.html",
-          "source": "Новости Zakon.kz"
+          "url": "https://forbes.kz/articles/krusheniya-poezdov-v-rossii-chto-izvestno-k-etomu-chasu-609e3c",
+          "source": "Forbes.kz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -210,54 +257,26 @@
       "title": "погода астана",
       "trafficCount": "2000+",
       "pubDate": "Sun, 1 Jun 2025 05:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvlo8ACcQGfNv1IF-JT5HA5nkitRohW0P2rjApzawxexwDxDrozgzfkLA87jU",
-      "pictureSource": "Новости Zakon.kz",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfuU1cg5djLMtuUY9P0ceOTnEZlPEBBuB3HiHQWo1-4SQl8hGiF0utbklDobg",
+      "pictureSource": "Казинформ",
       "relatedSearch": [
         {
-          "title": "В понедельник осадки не прекратятся: синоптики рассказали о погоде 2 июня",
+          "title": "Какая погода будет в Казахстане 2 июня",
           "snippet": "",
-          "url": "https://www.zakon.kz/obshestvo/6479441-v-ponedelnik-osadki-ne-prekratyatsya-sinoptiki-rasskazali-o-pogode-2-iyunya.html",
-          "source": "Новости Zakon.kz"
-        },
-        {
-          "title": "Гроза ожидается почти по всему Казахстану",
-          "snippet": "",
-          "url": "https://www.inform.kz/ru/groza-ozhidaetsya-pochti-po-vsemu-kazahstanu",
+          "url": "https://www.inform.kz/ru/kakaya-pogoda-budet-v-kazahstane-2-iyunya-f94fd1",
           "source": "Казинформ"
         },
         {
-          "title": "Грозы и град ждут казахстанцев в первые дни лета",
+          "title": "В каких регионах Казахстана на понедельник объявили штормовое предупреждение",
           "snippet": "",
-          "url": "https://www.nur.kz/society/2251182-grozy-i-grad-zhdut-kazahstancev-v-pervye-dni-leta/",
-          "source": "NUR.KZ"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "очень странные дела",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 1 Jun 2025 05:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4oNHLvJaAxloov3DocJnQ8xUzhbiFKOZDArhVMqdNOH84-BQ7EOUHGGtASG8",
-      "pictureSource": "GeekCity",
-      "relatedSearch": [
-        {
-          "title": "«ВанПис», «Очень Странные Дела», «Игра в Кальмара», «Уэнсдей», «Франкенштейн». Трейлеры и даты выхода",
-          "snippet": "",
-          "url": "https://geekcity.ru/vanpis-ochen-strannye-dela-igra-v-kalmara-uensdej-frankenshtejn-trejlery-i-daty-vyxoda/",
-          "source": "GeekCity"
+          "url": "https://www.zakon.kz/sobytiia/6479453-v-kakikh-regionakh-kazakhstana-na-ponedelnik-obyavili-shtormovoe-preduprezhdenie.html",
+          "source": "Новости Zakon.kz"
         },
         {
-          "title": "Красные дни календаря: почему финал «Очень странных дел» разделили на целых 3 части — Netflix можно понять",
+          "title": "Шквалистый ветер и град ожидаются в Казахстане",
           "snippet": "",
-          "url": "https://www.kinoafisha.info/articles/krasnye-dni-kalendarya-pochemu-final-ochen-strannyh-del-razdelili-na-celyh-3-chasti--netflix-mozhno-ponyat_id107850_a15787711/",
-          "source": "Kinoafisha.info"
-        },
-        {
-          "title": "Финал «Очень странных дел» стартует в ноябре",
-          "snippet": "",
-          "url": "https://www.kino-teatr.ru/kino/news/y2025/6-1/37889/",
-          "source": "Кино-Театр.Ру"
+          "url": "https://liter.kz/shkvalistyi-veter-i-grad-ozhidaiutsia-v-kazakhstane-1748781843/",
+          "source": "Liter.kz"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,86 +1,30 @@
 {
-  "lastUpdate": "2025-06-04 21:57:15",
+  "lastUpdate": "2025-06-04 22:14:47",
   "data": [
-    {
-      "title": "مباراة اليوم",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 4 Jun 2025 14:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRZSl5xasD7JNaMKJP-aS2B5sadBIG765MEJzqf_gv99ryoBtFTX_bQZxaFSQ",
-      "pictureSource": "شبكة تواصل الإخبارية",
-      "relatedSearch": [
-        {
-          "title": "علي ماهر يكشف التشكيلة المتوقعة لسيراميكا في لقاء الإسماعيلي!",
-          "snippet": "",
-          "url": "https://news.twaslnews.com/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%A8%D9%84%D8%AF/821853/",
-          "source": "شبكة تواصل الإخبارية"
-        },
-        {
-          "title": "سيراميكا والبنك الأهلي يقتربان من التأهل لنهائي كأس الرابطة المصرية",
-          "snippet": "",
-          "url": "https://www.annahar.com/Sports/220637/%D8%B3%D9%8A%D8%B1%D8%A7%D9%85%D9%8A%D9%83%D8%A7-%D9%88%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D9%8A%D9%82%D8%AA%D8%B1%D8%A8%D8%A7%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%A3%D9%87%D9%84-%D9%84%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B7%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9",
-          "source": "annahar.com"
-        },
-        {
-          "title": "موعد مباراتي الإياب فى نصف نهائى كأس عاصمة مصر",
-          "snippet": "",
-          "url": "https://www.youm7.com/story/2025/6/5/%D9%85%D9%88%D8%B9%D8%AF-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A-%D8%A7%D9%84%D8%A5%D9%8A%D8%A7%D8%A8-%D9%81%D9%89-%D9%86%D8%B5%D9%81-%D9%86%D9%87%D8%A7%D8%A6%D9%89-%D9%83%D8%A3%D8%B3-%D8%B9%D8%A7%D8%B5%D9%85%D8%A9-%D9%85%D8%B5%D8%B1/7011770",
-          "source": "اليوم السابع"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "بث مباشر",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 4 Jun 2025 13:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTog9wyfOAxHtXXo5BrTpAt0dGVFHDvRcK9JJ3NTedTe5-7v5wYT6XZfStoiqo",
-      "pictureSource": "MENAFN.com",
-      "relatedSearch": [
-        {
-          "title": "خبرة ديوكوفيتش تتحدى طموحات زفيريف",
-          "snippet": "",
-          "url": "https://menafn.com/arabic/1109633070/%D8%AE%D8%A8%D8%B1%D8%A9-%D8%AF%D9%8A%D9%88%D9%83%D9%88%D9%81%D9%8A%D8%AA%D8%B4-%D8%AA%D8%AA%D8%AD%D8%AF%D9%89-%D8%B7%D9%85%D9%88%D8%AD%D8%A7%D8%AA-%D8%B2%D9%81%D9%8A%D8%B1%D9%8A%D9%81",
-          "source": "MENAFN.com"
-        },
-        {
-          "title": "تأهل النجم الصربي دجوكوفيتش إلى الدور الثاني من بطولة فرنسا المفتوحة للتنس",
-          "snippet": "",
-          "url": "https://news.twaslnews.com/%D9%88%D9%83%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%86%D9%8A%D8%A9/784510/",
-          "source": "شبكة تواصل الإخبارية"
-        },
-        {
-          "title": "رولان غاروس للتنس.. مواجهات قوية منتظرة في ربع النهائي",
-          "snippet": "",
-          "url": "https://24.ae/article/898902/%D8%B1%D9%88%D9%84%D8%A7%D9%86-%D8%BA%D8%A7%D8%B1%D9%88%D8%B3-%D9%84%D9%84%D8%AA%D9%86%D8%B3-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A7%D8%AA-%D9%82%D9%88%D9%8A%D8%A9-%D9%85%D9%86%D8%AA%D8%B8%D8%B1%D8%A9-%D9%81%D9%8A-%D8%B1%D8%A8%D8%B9-%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%A6%D9%8A",
-          "source": "موقع 24"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "germany vs portugal",
       "trafficCount": "500+",
       "pubDate": "Wed, 4 Jun 2025 12:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1BL36x7GcMPJQtN6NHtW76gE4uDJZE9v_8dbzlUe_oAsPqUQWlp2S_CvU2g",
-      "pictureSource": "UEFA.com",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpx3sgtZCapjo_2bVlJZI8Z45buqADhLwBn_xv4d-frIq1nefw5AWolW76wcg",
+      "pictureSource": "Business Standard",
       "relatedSearch": [
         {
-          "title": "Spain vs France Nations League semi-final preview: Where to watch, kick-off time, possible line-ups, expert views, form and coaches' thoughts",
+          "title": "Germany vs Portugal Nations League semi-final HIGHLIGHTS: Ronaldo sends Portugal to the final",
           "snippet": "",
-          "url": "https://www.uefa.com/uefanationsleague/news/029a-1de74913f78e-f379e130a1c5-1000--spain-vs-france-nations-league-semi-final-preview-where-to-w/",
-          "source": "UEFA.com"
+          "url": "https://www.business-standard.com/sports/football-news/germany-vs-portugal-live-score-updates-2025-uefa-nations-league-semi-final-munich-125060401262_1.html",
+          "source": "Business Standard"
         },
         {
-          "title": "PSG beat Inter Milan 5-0: Champions League final – as it happened",
+          "title": "Germany 1-2 Portugal: the Lusos defeat the local in the Nations League",
           "snippet": "",
-          "url": "https://www.aljazeera.com/sports/liveblog/2025/5/31/live-psg-vs-inter-milan-uefa-champions-league-final",
-          "source": "Al Jazeera"
+          "url": "https://www.fcbarcelonanoticias.com/en/football/uefa-nations-league/germany-1-2-portugal-surprise-finalist-in-nations-league_312939_102.html",
+          "source": "FC Barcelona Noticias"
         },
         {
-          "title": "Germany Predicted Lineup vs. Portugal: UEFA Nations League Semifinal",
+          "title": "Cristiano Ronaldo Achieves New Milestone",
           "snippet": "",
-          "url": "https://www.si.com/soccer/germany-predicted-lineup-vs-portugal-uefa-nations-league-semifinal-6-4-25",
-          "source": "Sports Illustrated"
+          "url": "https://www.ysscores.com/en/news/13761099/Cristiano-Ronaldo-Achieves-New-Milestone",
+          "source": "www.ysscores.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,15 +33,9 @@
       "title": "ألمانيا ضد البرتغال",
       "trafficCount": "20000+",
       "pubDate": "Wed, 4 Jun 2025 11:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQX9YmYGRPjX5OCRqTf9JGqhJHhmI9viz2REj29knUnkEBVGKL4l5NamGOEua0",
-      "pictureSource": "qalamsa.com",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsRpaaXxmVcymidcNhr1BbHHfkR89ukouUJbu0AtFgYtWkNMrbk0-7HRYrV7w",
+      "pictureSource": "بوابة سعودي اون",
       "relatedSearch": [
-        {
-          "title": "ملخص مباراة ألمانيا ضد البرتغال في بنصف نهائي دوري الأمم الأوروبية",
-          "snippet": "",
-          "url": "https://qalamsa.com/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D8%BA%D8%A7%D9%84-%D8%A7%D9%84%D9%8A%D9%88%D9%85-847/",
-          "source": "qalamsa.com"
-        },
         {
           "title": "سبب تأجيل انطلاق مواجهة ألمانيا والبرتغال في دوري الأمم الأوروبية يكشف عنه رسميًا",
           "snippet": "",
@@ -105,9 +43,15 @@
           "source": "بوابة سعودي اون"
         },
         {
-          "title": "\"هل تُذاع مجانا؟\".. Germany vs Portugal القنوات الناقلة لمباراة ألمانيا والبرتغال في دوري الأمم الأوروبية 2025",
+          "title": "رونالدو يقود البرتغال إلى نهائي دوري الأمم الأوروبية بعد انتصار تاريخي ضد ألمانيا",
           "snippet": "",
-          "url": "https://zahraa.mr/5258143/%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%A8/",
+          "url": "https://doniapress.com/sports/football-news/120405.html",
+          "source": "دنيا برس"
+        },
+        {
+          "title": "( 2 : 1 ) germany vs portugal ملخص مباراة البرتغال والمانيا اليوم في نصف نهائي كأس الأمم الأوروبية 2025",
+          "snippet": "",
+          "url": "https://zahraa.mr/5259584/2-1-germany-vs-portugal-%D9%85%D9%84%D8%AE%D8%B5-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D8%BA%D8%A7%D9%84-%D9%88%D8%A7%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D8%A7/",
           "source": "بوابة الزهراء"
         }
       ],

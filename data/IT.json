@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-04 23:17:15",
+  "lastUpdate": "2025-06-04 23:32:30",
   "data": [
     {
       "title": "loredana cannata",
@@ -33,15 +33,9 @@
       "title": "ai",
       "trafficCount": "100+",
       "pubDate": "Wed, 4 Jun 2025 16:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6Zr5My1ugz3r-7HwCwJpjOinQcyKX1GMr9m_mjLZHkZ7mvssVsm1wiOFUCI4",
-      "pictureSource": "WSJ",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRujJnnG1J7-V8mzavER2OmMd7xTIHrCqTYSHRKGUfnnxQmR0WYCiIR3AK9KW4",
+      "pictureSource": "CNBC",
       "relatedSearch": [
-        {
-          "title": "Reddit Sues Anthropic, Alleges Unauthorized Use of Site’s Data",
-          "snippet": "",
-          "url": "https://www.wsj.com/tech/ai/reddit-lawsuit-anthropic-ai-3b9624dd",
-          "source": "WSJ"
-        },
         {
           "title": "Reddit sues AI startup Anthropic for breach of contract, 'unfair competition'",
           "snippet": "",
@@ -49,10 +43,16 @@
           "source": "CNBC"
         },
         {
-          "title": "Reddit sues AI company Anthropic for allegedly ‘scraping’ user comments to train chatbot",
+          "title": "Reddit Sues Anthropic, Alleges Unauthorized Use of Site’s Data",
           "snippet": "",
-          "url": "https://www.theguardian.com/technology/2025/jun/04/reddit-lawsuit-ai-startup-anthropic-data",
-          "source": "The Guardian"
+          "url": "https://www.wsj.com/tech/ai/reddit-lawsuit-anthropic-ai-3b9624dd",
+          "source": "WSJ"
+        },
+        {
+          "title": "Reddit Sues Anthropic Over Unauthorized AI Data Scraping: Major Legal Battle Ahead",
+          "snippet": "",
+          "url": "https://www.techi.com/reddit-sues-anthropic-ai-data-scraping/",
+          "source": "TECHi"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -81,6 +81,34 @@
           "snippet": "",
           "url": "https://www.sr71.it/2025/06/03/palio-dei-rioni-il-punto-sulle-monte/",
           "source": "Sr 71"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "classifica atp",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 4 Jun 2025 15:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRZXfjT43IWHiiCOzyJPDrTvOwH-Tz5xOAm0URM3G_Wt77JOHLMCYIvDs9zpM",
+      "pictureSource": "Tuttosport",
+      "relatedSearch": [
+        {
+          "title": "Sinner vola oltre quota 10mila, Musetti può diventare n° 4 del mondo: la classifica ATP live è clamorosa!",
+          "snippet": "",
+          "url": "https://www.tuttosport.com/foto/tennis/2025/06/04-140712725/sinner_vola_oltre_quota_10mila_musetti_pu_diventare_n_4_del_mondo_la_classifica_atp_live_clamorosa_",
+          "source": "Tuttosport"
+        },
+        {
+          "title": "Musetti tifa Zverev, così Lorenzo può diventare numero 5 del mondo",
+          "snippet": "",
+          "url": "https://www.repubblica.it/sport/tennis/2025/06/04/news/musetti_classifica_atp-424647096/",
+          "source": "la Repubblica"
+        },
+        {
+          "title": "Musetti in semifinale al Roland Garros, quanto ha guadagnato? Il montepremi completo",
+          "snippet": "",
+          "url": "https://www.ilmessaggero.it/sport/schede/lorenzo_musetti_quanto_ha_guadagnato_montepremi_semifinale_roland_garros-musetti_in_semifinale_al_roland_garros_quanto_ha_guadagnato-2-8876143.html",
+          "source": "Il Messaggero"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -142,34 +170,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "atp ranking",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 4 Jun 2025 15:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRZXfjT43IWHiiCOzyJPDrTvOwH-Tz5xOAm0URM3G_Wt77JOHLMCYIvDs9zpM",
-      "pictureSource": "Tuttosport",
-      "relatedSearch": [
-        {
-          "title": "Sinner vola oltre quota 10mila, Musetti può diventare n° 4 del mondo: la classifica ATP live è clamorosa!",
-          "snippet": "",
-          "url": "https://www.tuttosport.com/foto/tennis/2025/06/04-140712725/sinner_vola_oltre_quota_10mila_musetti_pu_diventare_n_4_del_mondo_la_classifica_atp_live_clamorosa_",
-          "source": "Tuttosport"
-        },
-        {
-          "title": "Musetti tifa Zverev, così Lorenzo può diventare numero 5 del mondo",
-          "snippet": "",
-          "url": "https://www.repubblica.it/sport/tennis/2025/06/04/news/musetti_classifica_atp-424647096/",
-          "source": "la Repubblica"
-        },
-        {
-          "title": "Musetti in semifinale al Roland Garros, quanto ha guadagnato? Il montepremi completo",
-          "snippet": "",
-          "url": "https://www.ilmessaggero.it/sport/schede/lorenzo_musetti_quanto_ha_guadagnato_montepremi_semifinale_roland_garros-musetti_in_semifinale_al_roland_garros_quanto_ha_guadagnato-2-8876143.html",
-          "source": "Il Messaggero"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "svilar",
       "trafficCount": "200+",
       "pubDate": "Wed, 4 Jun 2025 15:20:00 -0700",
@@ -183,16 +183,16 @@
           "source": "La Gazzetta dello Sport"
         },
         {
+          "title": "Calciomercato Roma, Ghisolfi blinda Svilar: “È il nostro futuro”",
+          "snippet": "",
+          "url": "https://www.corrieredellosport.it/news/calcio/calcio-mercato/roma/2025/06/04-141149397/calciomercato_roma_ghisolfi_blinda_svilar_il_nostro_futuro",
+          "source": "Corriere dello Sport"
+        },
+        {
           "title": "Roma, Svilar a Trigoria: “Il rinnovo? Presto chiarirò tutto. Il mio agente non è il problema”",
           "snippet": "",
           "url": "https://roma.repubblica.it/cronaca/2025/06/04/news/roma_svilar_trigoria_rinnovo_trattativa_agente-424648050/",
           "source": "la Repubblica"
-        },
-        {
-          "title": "Maignan ascolta le sirene inglesi e il Milan si guarda attorno. Per Gazzetta.it due alternative a Mike...",
-          "snippet": "",
-          "url": "https://www.milannews.it/calciomercato-milan/maignan-ascolta-le-sirene-inglesi-e-il-milan-si-guarda-attorno-per-gazzetta-it-due-alternative-a-mike-sono-svilar-e-caprile-579399",
-          "source": "Milan News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -227,7 +227,7 @@
     },
     {
       "title": "nioh 3",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 4 Jun 2025 15:00:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJYu86hcxGfUJGJbPQwANVPw27ynlKWSNy5TtnnTtIu3LBpPtq_yPlArT0FA4",
       "pictureSource": "PlayStation.Blog",
@@ -239,16 +239,16 @@
           "source": "PlayStation.Blog"
         },
         {
-          "title": "Nioh 3 Revealed at Sony State of Play June 2025",
-          "snippet": "",
-          "url": "https://in.ign.com/nioh/232667/news/nioh-3-revealed-at-sony-state-of-play-june-2025",
-          "source": "IGN India"
-        },
-        {
           "title": "Nioh 3 to Release in Early 2026, Demo Available Today",
           "snippet": "",
           "url": "https://insider-gaming.com/nioh-3-to-release-in-early-2026-demo-available-today/",
           "source": "Insider Gaming"
+        },
+        {
+          "title": "Nioh 3 announced and there's a demo out now",
+          "snippet": "",
+          "url": "https://www.eurogamer.net/nioh-3-announced-and-theres-a-demo-out-now",
+          "source": "Eurogamer"
         }
       ],
       "link": "https://imtaqin.id/"

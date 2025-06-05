@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-05 09:56:02",
+  "lastUpdate": "2025-06-05 10:16:08",
   "data": [
     {
       "title": "danas",
@@ -33,20 +33,20 @@
       "title": "direktno",
       "trafficCount": "200+",
       "pubDate": "Wed, 4 Jun 2025 20:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSoGa4SS2-rKKf9DQkEr7DGiNeCD6O807vbjLJNclWbBKNMfEkpej15a9hA9TA",
-      "pictureSource": "РТС :: Насловна",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDu9P83pauC59Bepa_dq1Jzi25nnNSQuPvSbEtP7lRw6eTqjDUy9chNe8b2PE",
+      "pictureSource": "Blic",
       "relatedSearch": [
-        {
-          "title": "RTS 1 :: Ukrajina i Rusija - kad pregovori utihnu, kako se čuje rat?",
-          "snippet": "",
-          "url": "https://www.rts.rs/lat/tv/rts1/5726120/ukrajina-i-rusija---kad-pregovori-utihnu-kako-se-cuje-rat.html",
-          "source": "РТС :: Насловна"
-        },
         {
           "title": "\"PUTINE, ČEKAM TE U PONEDELJAK\" Zelenski se obratio direktno predsedniku Rusije: Biraj mesto, ali pre toga moraš da uradiš OVO!",
           "snippet": "",
           "url": "https://www.blic.rs/vesti/svet/zelenski-se-obratio-putinu-direktno-cekam-te-u-ponedeljak-biraj-mesto/qjd1gc2",
           "source": "Blic"
+        },
+        {
+          "title": "Sakman: Pregovori između Rusije i Ukrajine važni i za Tursku, za rešenje problema potrebni meseci",
+          "snippet": "",
+          "url": "https://rts.rs/lat/vesti/ratu-u-ukrajini/5724449/tolga-sakman-rat-u-ukrajini-istanvul-pregovori.html",
+          "source": "РТС :: Насловна"
         },
         {
           "title": "UKRAJINSKA KRIZA: SAD procenjuju da je Kijev oštetio duplo manje ruskih aviona nego što tvrdi; Tramp razgovarao sa Putinom",
@@ -86,29 +86,57 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "milos pavlovic",
-      "trafficCount": "5000+",
-      "pubDate": "Wed, 4 Jun 2025 16:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkH8Zd1spI-ttVfHQtoqEWD0OjbQD4nymARcnQUdOX7r-JqxzSQGV6K6niaTs",
+      "title": "informer",
+      "trafficCount": "2000+",
+      "pubDate": "Wed, 4 Jun 2025 16:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHqr2u3NGAY9auOwo0XMjffL447NpPyKAYhAUMh7609WAOcJ7Jx9MN-C0jDKo",
       "pictureSource": "N1",
       "relatedSearch": [
         {
-          "title": "Vučić s Pavlovićem u predsedništvu, studente uporedio s nacistima i poručio da će platiti",
+          "title": "\"Paukova mreža\" ukazala na katastrofalne propuste ruskih službi, proučavaće se na vojnim akademijama širom sveta",
           "snippet": "",
-          "url": "https://n1info.rs/vesti/vucic-sa-pavlovicem-u-predsednistvu-studente-uporedio-s-nacistima-i-porucio-da-ce-platiti/",
+          "url": "https://n1info.rs/svet/paukova-mreza-ukazala-na-katastrofalne-propuste-ruskih-sluzbi-proucavace-se-na-vojnim-akademijama-sirom-sveta/",
           "source": "N1"
         },
         {
-          "title": "Vučić primio Miloša Pavlovića nakon što je napadnut: \"Ponosan sam na ovog malog dečaka\"",
+          "title": "Izvršen raketni napad na Ruse VIDEO",
           "snippet": "",
-          "url": "https://www.blic.rs/vesti/politika/vucic-sa-studentom-milosem-pavlovicem-nakon-napada-bolje-caci-nego-naci-drzava-ce/bv041yj",
+          "url": "https://www.b92.net/info/svet/135459/izvrsen-raketni-napad-na-ruse-video/vest",
+          "source": "B92"
+        },
+        {
+          "title": "Amerika demantovala Ukrajinu: Procenjuju da je Kijev oštetio DUPLO MANJE ruskih aviona nego što tvrdi",
+          "snippet": "",
+          "url": "https://www.blic.rs/vesti/svet/amerika-procenjuje-da-je-kijev-ostetio-duplo-manje-ruskih-aviona-nego-sto-tvrdi/3m4zqdv",
+          "source": "Blic"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "milos pavlovic",
+      "trafficCount": "2000+",
+      "pubDate": "Wed, 4 Jun 2025 16:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmFi9715UBJmzWGNYX-1-pbNOEebfaMo8z41re79CQ_s-OFBy4eN0y8hoTAaU",
+      "pictureSource": "tanjug.rs",
+      "relatedSearch": [
+        {
+          "title": "Jovanov osudio napad na studente: Policija i tužilštvo da rade svoj posao",
+          "snippet": "",
+          "url": "https://www.tanjug.rs/srbija/politika/167128/jovanov-osudio-napad-na-studente-policija-i-tuzilstvo-da-rade-svoj-posao/vest",
+          "source": "tanjug.rs"
+        },
+        {
+          "title": "NOVI SNIMAK NAPADA NA MILOŠA PAVLOVIĆA Udaran pesnicama, pogođen punom limenkom (VIDEO)",
+          "snippet": "",
+          "url": "https://www.blic.rs/vesti/politika/novi-snimak-napada-na-studenta-milosa-pavlovica-udaran-pesnicama-pogodjen-punom/yhnp7w4",
           "source": "Blic"
         },
         {
-          "title": "SKONUS pozvao rektora da osudi nasilje nad studentima koji žele da uče",
+          "title": "Павловић задобио повреде главе, грудног коша, леђа, руке (видео)",
           "snippet": "",
-          "url": "https://www.b92.net/info/politika/135477/skonus-pozvao-rektora-da-osudi-nasilje-nad-studentima-koji-zele-da-uce/vest",
-          "source": "B92"
+          "url": "https://www.politika.rs/scc/clanak/680835/pavlovic-zadobio-povrede-glave-grudnog-kosa-leda-ruke-video",
+          "source": "Politika"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +155,16 @@
           "source": "The New York Times"
         },
         {
-          "title": "French Open 2025: How to Watch, Stream Zverev vs. Djokovic Free From Anywhere",
-          "snippet": "",
-          "url": "https://www.cnet.com/tech/services-and-software/french-open-2025-how-to-watch-stream-zverev-vs-djokovic-free-from-anywhere/",
-          "source": "CNET"
-        },
-        {
           "title": "Coco Gauff vs. Lois Boisson: Will France’s Cinderella actually reach the final?",
           "snippet": "",
           "url": "https://www.tennis.com/news/articles/coco-gauff-vs-lois-boisson-semifinal-preview-roland-garros-french-open",
           "source": "Tennis.com"
+        },
+        {
+          "title": "Gauff edges Keys in three sets to return to the Roland Garros final four",
+          "snippet": "",
+          "url": "https://www.wtatennis.com/news/4278124/gauff-xxx",
+          "source": "WTA Tennis"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,10 +189,10 @@
           "source": "Yahoo Noticias"
         },
         {
-          "title": "Carlos Alcaraz arrasa en París… y reta a Sinner de cara a la final",
+          "title": "El salto de Alcaraz empieza por el servicio",
           "snippet": "",
-          "url": "https://www.diariogol.com/mas-deporte/carlos-alcaraz-reta-sinner-final.html",
-          "source": "Diario Gol"
+          "url": "https://www.marca.com/tenis/roland-garros/2025/06/05/salto-alcaraz-empieza-servicio.html",
+          "source": "MARCA"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,26 +229,26 @@
       "title": "feliciano lópez",
       "trafficCount": "500+",
       "pubDate": "Wed, 4 Jun 2025 14:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMkcJ2A_z3dkO589OkR1wuOuUmDixph59_k9MxteVFuKK4AlaheAGAmvbZJJg",
-      "pictureSource": "MARCA",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNOSnoZdevOWgHyEN1K75Xe9IF9-Hr8fY2Wt4IZJhmYRENt2kbH_1nrojLF9U",
+      "pictureSource": "El Nacional.cat",
       "relatedSearch": [
         {
-          "title": "Djokovic es eterno: remonta a Zverev y se clasifica para su decimotercera semifinal de Roland Garros",
+          "title": "Por qué Alba Carrillo solo duró un año casada con Feliciano López: \"Él era muy f...\"",
           "snippet": "",
-          "url": "https://www.marca.com/tenis/roland-garros/2025/06/04/djokovic-eterno-remonta-zverev-clasifica-decimotercera-semifinal-roland-garros.html",
-          "source": "MARCA"
+          "url": "https://www.elnacional.cat/enblau/es/television/por-alba-carrillo-solo-duro-ano-casada-con-feliciano-lopez-era-muy-f_1427107_102.html",
+          "source": "El Nacional.cat"
         },
         {
-          "title": "Así queda el top-5 histórico de tenistas más veteranos en llegar a una semifinal de Grand Slam",
+          "title": "Las 7 declaraciones más explosivas de la entrevista de Alba Carrillo de la que todo el mundo habla",
           "snippet": "",
-          "url": "https://www.puntodebreak.com/2025/06/05/asi-queda-top-5-historico-tenistas-mas-veteranos-llegar-semifinal-grand-slam",
-          "source": "Punto de Break"
+          "url": "https://los40.com/2025/06/03/las-7-declaraciones-mas-explosivas-de-la-entrevista-de-alba-carrillo-de-la-que-todo-el-mundo-habla/",
+          "source": "LOS40"
         },
         {
-          "title": "Alcaraz y Sinner, apuntad: Las palabras de Zverev sobre Djokovic y por qué no hay que subestimarle",
+          "title": "Alba Carrillo revive su matrimonio fallido: “Feliciano era muy facha. De ahí vienen parte de nuestros problemas”",
           "snippet": "",
-          "url": "https://www.eurosport.es/tenis/roland-garros/2025/alexander-zverev-advertencia-declaraciones-nivel-tenis-novak-djokovic-aviso-carlos-alcaraz-jannik-sinner_vid60011712/video.shtml",
-          "source": "Eurosport"
+          "url": "https://www.lavanguardia.com/gente/20250602/10746619/alba-carrillo-revive-matrimonio-fallido-feliciano-facha-vienen-parte-problemas-gvm2.html",
+          "source": "La Vanguardia"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,9 +257,15 @@
       "title": "nadal",
       "trafficCount": "200+",
       "pubDate": "Wed, 4 Jun 2025 14:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvGDrY6_0cfFUQUrLZMXFCTwi1iKczu0ntYKimIvX0KEXE-vET1hOa-xL_VSk",
-      "pictureSource": "Nova",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4KhPAKbJLRmWQBDK6gGFOr--FeImoFz5WSg_nXjHIvTbGjnVsphC_kAP_U8M",
+      "pictureSource": "РТС :: Насловна",
       "relatedSearch": [
+        {
+          "title": "Тенис :: Ђоковић и Зверев после шест година опет у четвртфиналу Ролан Гаросa",
+          "snippet": "",
+          "url": "https://rts.rs/sport/tenis/5724587/djokovic-i-zverev-posle-sest-godina-opet-u-cetvrtfinalu-rolan-garosa.html",
+          "source": "РТС :: Насловна"
+        },
         {
           "title": "Novakov rekord koji će teško iko ikada dostići: U Parizu ima vanzemaljski niz zbog kog strepe svi",
           "snippet": "",
@@ -243,40 +277,6 @@
           "snippet": "",
           "url": "https://www.nin.rs/svet/vesti/79242/dokovic-se-plasirao-u-cetvrtfinale-rolan-garosa-osecam-se-dobro-cilj-mi-je-da-osvojim",
           "source": "NIN.rs"
-        },
-        {
-          "title": "Broji se još jedna „stotka\"",
-          "snippet": "",
-          "url": "https://www.politika.rs/sr/clanak/680536/sport/tenis/broji-se-jos-jedna-stotka",
-          "source": "Politika"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "nations league",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 4 Jun 2025 13:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnHDfEdKVyKtHAX8PdLSTt-Kh4Yuz_szBTMtR4tdMMJ-1hY5iIFF6DCNRtvlE",
-      "pictureSource": "Olympics.com",
-      "relatedSearch": [
-        {
-          "title": "Football: 2025 UEFA men's Nations League Finals - full schedule, all results, and how to watch live",
-          "snippet": "",
-          "url": "https://www.olympics.com/en/news/football-2025-mens-nations-league-finals-preview",
-          "source": "Olympics.com"
-        },
-        {
-          "title": "Cristiano Ronaldo: Portugal legend finally beats Germany",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/articles/cewdp10www5o",
-          "source": "BBC"
-        },
-        {
-          "title": "Ronaldo hits winner as Portugal floor Germany to reach Nations League final",
-          "snippet": "",
-          "url": "https://www.theguardian.com/football/2025/jun/04/nations-league-semi-final-germany-portugal-cristiano-ronaldo",
-          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"

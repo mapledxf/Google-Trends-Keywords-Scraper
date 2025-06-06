@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-06 04:45:55",
+  "lastUpdate": "2025-06-06 04:56:44",
   "data": [
     {
       "title": "погода київ",
@@ -61,22 +61,9 @@
       "title": "новини укрнет",
       "trafficCount": "2000+",
       "pubDate": "Thu, 5 Jun 2025 21:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQM1x2f9iVqdjdXk2tLYLWwpKJrlzksVsqtFkskENBznEuvzee75mZflC3_kyk",
-      "pictureSource": "Hromadske",
-      "relatedSearch": [
-        {
-          "title": "Ukraine's SBU releases drone footage of Spiderweb strikes on Russian strategic aircraft",
-          "snippet": "",
-          "url": "https://hromadske.ua/en/war/245915-sbu-pokazala-novi-kadry-udariv-po-rosiyskiy-aviatsiyi-pid-chas-spetsoperatsiyi-pavutyna",
-          "source": "Hromadske"
-        },
-        {
-          "title": "SBU staged a \"cotton raid\" at 4 Russian airfields: over 40 aircraft worth $2 billion were hit",
-          "snippet": "",
-          "url": "https://dev.ua/en/news/sbu-1748776420",
-          "source": "dev.ua"
-        }
-      ],
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -109,7 +96,7 @@
     },
     {
       "title": "тандер – пэйсерс",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 5 Jun 2025 20:40:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqKJod0Nj4lqUL_T2IJkVSJ4LIbMMMx8Tvv4SfGNwQ6tbSoYMrdBkMC0m2z90",
       "pictureSource": "Champion.com.ua",
@@ -137,7 +124,7 @@
     },
     {
       "title": "6 червня свято",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 5 Jun 2025 20:40:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZY288tbJdeyhV9N-mObHP_5E4Fu4ZaH82m5MNzGYKzA4gSibMdXAYy0MMTM0",
       "pictureSource": "ТСН",
@@ -149,16 +136,16 @@
           "source": "ТСН"
         },
         {
-          "title": "Про що не можна говорити сьогодні: заборони та звичаї у свято 6 червня",
-          "snippet": "",
-          "url": "https://www.unian.ua/lite/holidays/kakoy-segodnya-prazdnik-6-iyunya-2025-primety-imeniny-zaprety-13028559.html",
-          "source": "УНІАН"
-        },
-        {
           "title": "6 червня – яке церковне свято: чому сьогодні не можна вирушати в далекі поїздки",
           "snippet": "",
           "url": "https://24tv.ua/lifestyle24/svyato-6-chervnya-yake-sogodni-tserkovne-svyato-shho-ne-mozhna_n2836451",
           "source": "24 Канал"
+        },
+        {
+          "title": "6 червня: церковне свято сьогодні, що не можна робити, щоб не пошкодувати про вчинки",
+          "snippet": "",
+          "url": "https://www.unian.ua/lite/holidays/yake-sogodni-cerkovne-svyato-6-chervnya-2025-roku-golovni-zaboroni-zvichaji-ta-prikmeti-dnya-13028634.html",
+          "source": "УНІАН"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -192,8 +179,36 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "чилі – аргентина",
+      "title": "новини україни",
       "trafficCount": "1000+",
+      "pubDate": "Thu, 5 Jun 2025 19:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFJx7dDsuYjU0SciWwwfIgnwGq0D4YYc-11gwLE5DnbfrDP2YuF-nqb95r1gw",
+      "pictureSource": "Korrespondent.net",
+      "relatedSearch": [
+        {
+          "title": "Трамп зробив заяву про подальшу підтримку України",
+          "snippet": "",
+          "url": "https://ua.korrespondent.net/world/4788027-tramp-zrobyv-zaiavu-pro-podalshu-pidtrymku-ukrainy",
+          "source": "Korrespondent.net"
+        },
+        {
+          "title": "Трамп розлютився на Зеленського через атаку на аеродроми РФ, - The Atlantic",
+          "snippet": "",
+          "url": "https://www.rbc.ua/rus/news/tramp-rozlyutivsya-zelenskogo-cherez-ataku-1749158546.html",
+          "source": "РБК-Україна"
+        },
+        {
+          "title": "Вважає Зеленського поганим хлопцем: операція \"Павутина\" розсердила Трампа, - The Atlantic",
+          "snippet": "",
+          "url": "https://www.unian.ua/world/viyna-v-ukrajini-donald-tramp-rozserdivsya-cherez-operaciyu-pavutina-13029909.html",
+          "source": "УНІАН"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "чилі – аргентина",
+      "trafficCount": "2000+",
       "pubDate": "Thu, 5 Jun 2025 18:40:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFXAuhdDkAieUTzxZjGdaX0O72LxOJIlx3zZlEI0lWosomkAINTkQp7yrvRjw",
       "pictureSource": "ВсеПроСпорт.ру",
@@ -221,7 +236,7 @@
     },
     {
       "title": "новини рівне",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 5 Jun 2025 18:40:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWYQ9uttcv6bGvngxJjscABoVd-bb3KSb9pS8b1_GJ1z_2hxL3ht1jZyp0D3w",
       "pictureSource": "Рівне Вечірнє",
@@ -239,38 +254,10 @@
           "source": "Радіо ТРЕК"
         },
         {
-          "title": "Повітряні сили повідомляють про БПЛА на Рівненщині",
+          "title": "На Рівненщині ППО збила ворожу повітряну ціль",
           "snippet": "",
-          "url": "https://www.prorivne.rv.ua/news/povitryani-syly-povidomlyayut-pro-bpla-na-rivnenshhyni/",
-          "source": "Про Рівне"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "дрогобич",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 5 Jun 2025 18:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmq8jABL7aXNa7hNZLJrY6lDsGLCcfy_Xn-ekpLi3HjWI3BjHxpGGzZtQoTgg",
-      "pictureSource": "Дрогобицька Міська Рада",
-      "relatedSearch": [
-        {
-          "title": "Дрогобицька громада зустріла полеглого захисника України Дмитра Коломійця: вічна пам’ять Герою",
-          "snippet": "",
-          "url": "https://drohobych-rada.gov.ua/drogobyczka-gromada-zustrila-poleglogo-zahysnyka-ukrayiny-dmytra-kolomijczya-vichna-pamyat-geroyu/",
-          "source": "Дрогобицька Міська Рада"
-        },
-        {
-          "title": "На Львівщині 5 червня попрощаються із військовим Ярославом Покоцьким",
-          "snippet": "",
-          "url": "https://suspilne.media/lviv/1035231-na-lvivsini-5-cervna-poprosautsa-iz-vijskovim-aroslavom-pokockim/",
-          "source": "Суспільне | Новини"
-        },
-        {
-          "title": "Львівщина прощається із захисниками -",
-          "snippet": "",
-          "url": "https://zolochiv.net/lvivshchyna-proshchaietsia-iz-zakhysnykamy-241/",
-          "source": "Золочів.нет"
+          "url": "https://www.rivnenews.com.ua/2025/06/06/na-rivnenshchyni-ppo-zbyla-vorozhu-povitrianu-tsil/",
+          "source": "Рівненські новини"
         }
       ],
       "link": "https://imtaqin.id/"

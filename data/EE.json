@@ -1,19 +1,10 @@
 {
-  "lastUpdate": "2025-06-07 02:49:10",
+  "lastUpdate": "2025-06-07 03:36:03",
   "data": [
     {
       "title": "etv2 otse",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 6 Jun 2025 12:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "etv otse",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 6 Jun 2025 11:50:00 -0700",
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
@@ -51,9 +42,22 @@
       "title": "vanalinna päevad",
       "trafficCount": "1000+",
       "pubDate": "Fri, 6 Jun 2025 06:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDTWEiLr3g271n_-5wXReaB2BnOBlEOaLSnab1Dvio892kHdb4qxkEustzhZk",
+      "pictureSource": "Tallinn",
+      "relatedSearch": [
+        {
+          "title": "Vanalinna päevad",
+          "snippet": "",
+          "url": "https://www.tallinn.ee/et/kesklinn/sundmus/vanalinna-paevad",
+          "source": "Tallinn"
+        },
+        {
+          "title": "Tallinna vanalinna päevad tähistavad raamatuaastat",
+          "snippet": "",
+          "url": "https://kultuur.err.ee/1609708173/tallinna-vanalinna-paevad-tahistavad-raamatuaastat",
+          "source": "ERR"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]

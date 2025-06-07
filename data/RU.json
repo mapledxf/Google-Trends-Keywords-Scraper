@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-07 22:14:15",
+  "lastUpdate": "2025-06-07 22:33:49",
   "data": [
     {
       "title": "райан гослинг",
@@ -33,15 +33,9 @@
       "title": "новомосковск",
       "trafficCount": "200+",
       "pubDate": "Sat, 7 Jun 2025 14:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCVMNNFjjbvm6yywGhNwsYJx6jqBU8901l1N4aQiXdjAXUZKfXKZYV6m-pcQM",
-      "pictureSource": "URA.RU",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJvirN46LLq1SkMUZqhvSgcsnqnVvp68ckw2ryu6vlFivt4bdwY-ZvQR654zQ",
+      "pictureSource": "Информационное агентство «Тульская пресса»",
       "relatedSearch": [
-        {
-          "title": "В Тульской области загорелся химический комбинат",
-          "snippet": "",
-          "url": "https://ura.news/news/1052945753",
-          "source": "URA.RU"
-        },
         {
           "title": "В Тульской области отражают вражескую атаку: сбито несколько БПЛА",
           "snippet": "",
@@ -49,10 +43,16 @@
           "source": "Информационное агентство «Тульская пресса»"
         },
         {
-          "title": "В Тульской области объявлена опасность атаки БПЛА",
+          "title": "Губернатор напомнил тулякам правила безопасности при падении БПЛА",
           "snippet": "",
-          "url": "https://myslo.ru/news/tula/2025-06-07-v-tul-skoj-oblasti-ob-yavili-opasnost-ataki-bpla",
+          "url": "https://myslo.ru/news/tula/2025-06-07-gubernator-napomnil-tulyakam-pravila-bezopasnosti-pri-padenii-bpla",
           "source": "MySlo"
+        },
+        {
+          "title": "В Тульской области загорелся химический комбинат",
+          "snippet": "",
+          "url": "https://ura.news/news/1052945753",
+          "source": "URA.RU"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,34 +86,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "кевин холланд",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 7 Jun 2025 14:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNczShQDqwg_N1zpqAjUvu7vydNRpDz8kXngTf8hKBA0eR25OMWdgaKXwHhkI",
-      "pictureSource": "Рейтинг Букмекеров",
-      "relatedSearch": [
-        {
-          "title": "Кевин Холланд хочет сразиться с Колби Ковингтоном",
-          "snippet": "",
-          "url": "https://bookmaker-ratings.ru/news/kevin-holland-hochet-srazit-sya-s-kolbi-kovingtonom/",
-          "source": "Рейтинг Букмекеров"
-        },
-        {
-          "title": "Луке — амбассадор удушающего приема Д'Арсе в UFC 07.06.2025",
-          "snippet": "",
-          "url": "https://legalbet.ru/daily/768888",
-          "source": "legalbet.ru"
-        },
-        {
-          "title": "Люке - Холланд: прогнозы 8 июня 2025",
-          "snippet": "",
-          "url": "https://stavka.tv/matches/mma/lm-08-06-2025-vicente-luque-kevin-holland",
-          "source": "ставка tv"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "сергей спивак",
       "trafficCount": "100+",
       "pubDate": "Sat, 7 Jun 2025 14:00:00 -0700",
@@ -142,6 +114,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "кевин холланд",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 7 Jun 2025 14:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNczShQDqwg_N1zpqAjUvu7vydNRpDz8kXngTf8hKBA0eR25OMWdgaKXwHhkI",
+      "pictureSource": "Рейтинг Букмекеров",
+      "relatedSearch": [
+        {
+          "title": "Кевин Холланд хочет сразиться с Колби Ковингтоном",
+          "snippet": "",
+          "url": "https://bookmaker-ratings.ru/news/kevin-holland-hochet-srazit-sya-s-kolbi-kovingtonom/",
+          "source": "Рейтинг Букмекеров"
+        },
+        {
+          "title": "Луке — амбассадор удушающего приема Д'Арсе в UFC 07.06.2025",
+          "snippet": "",
+          "url": "https://legalbet.ru/daily/768888",
+          "source": "legalbet.ru"
+        },
+        {
+          "title": "Люке - Холланд: прогнозы 8 июня 2025",
+          "snippet": "",
+          "url": "https://stavka.tv/matches/mma/lm-08-06-2025-vicente-luque-kevin-holland",
+          "source": "ставка tv"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "8 июня",
       "trafficCount": "200+",
       "pubDate": "Sat, 7 Jun 2025 13:50:00 -0700",
@@ -155,16 +155,16 @@
           "source": "PrimaMedia"
         },
         {
+          "title": "Гороскоп на 8 июня: в Весах откроется талант бухгалтера, а Рыбы станут центром притяжения",
+          "snippet": "",
+          "url": "https://www.astv.ru/news/goroskop/2025-06-07-goroskop-na-8-iyunya-v-vesah-otkroetsya-talant-buhgaltera-a-ryby-stanut-centrom-prityazheniya",
+          "source": "АСТВ"
+        },
+        {
           "title": "Астролог Негрей сделала прогноз на выходные, 7 и 8 июня — Луна и Венера добавят проблем",
           "snippet": "",
           "url": "https://7days.ru/news/astrolog-negrey-sdelala-prognoz-na-vykhodnye-7-i-8-iyunya-luna-i-venera-dobavyat-problem.htm",
           "source": "7Дней.ру"
-        },
-        {
-          "title": "Тельцы могут попасть в конфликт, а Рыбы обогатятся",
-          "snippet": "",
-          "url": "https://www.newsler.ru/society/2025/06/07/telcy-mogut-popast-v-konflikt-a-ryby-obogatyatsya",
-          "source": "Newsler.ru"
         }
       ],
       "link": "https://imtaqin.id/"

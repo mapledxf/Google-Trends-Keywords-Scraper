@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2025-06-08 18:55:21",
+  "lastUpdate": "2025-06-08 19:10:05",
   "data": [
     {
+      "title": "bbc news",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 8 Jun 2025 11:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTic-T4fqZneKFoYa6cPlBlvgM0EM7-tDMJ7MJsol-a-ROje8_jcwzp6JP2yc4",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Los Angeles protests live: Troops sent by Trump arrive in LA with more immigration raid protests expected",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/cvg7vxx888kt",
+          "source": "BBC"
+        },
+        {
+          "title": "News Analysis: A political lesson for L.A. from an unrestrained president",
+          "snippet": "",
+          "url": "https://www.latimes.com/politics/story/2025-06-08/la-ice-protests-analysis-trump-national-guard",
+          "source": "Los Angeles Times"
+        },
+        {
+          "title": "Protests of immigration raids continue as National Guard arrives under Trump's orders",
+          "snippet": "",
+          "url": "https://laist.com/news/federal-agents-immigration-raids-across-la",
+          "source": "LAist"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "weather",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Sun, 8 Jun 2025 11:30:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbccPQOZhPX4Qerhc4iONuun-vY7pqguMpzKeWmcDiewxZqmoSFNeYcSXCgdk",
       "pictureSource": "The New York Times",
@@ -49,38 +77,38 @@
           "source": "NZ Herald"
         },
         {
-          "title": "All Blacks and Wellington legend dies aged 70",
+          "title": "All Blacks great Stu Wilson dies aged 70",
           "snippet": "",
-          "url": "https://www.planetrugby.com/news/all-blacks-and-wellington-legend-dies-as-wallabies-great-pays-tribute-to-great-mate",
-          "source": "Planet Rugby"
+          "url": "https://www.1news.co.nz/2025/06/09/all-blacks-great-stu-wilson-dies-aged-70/",
+          "source": "1News"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "news",
-      "trafficCount": "200+",
+      "trafficCount": "100+",
       "pubDate": "Sun, 8 Jun 2025 11:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTic-T4fqZneKFoYa6cPlBlvgM0EM7-tDMJ7MJsol-a-ROje8_jcwzp6JP2yc4",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtBgVQeL-0zz845kiY_w8OEeGbOXtsZYZnTm3Jz30V5XU09J5eCSvyU8IzupQ",
+      "pictureSource": "RNZ",
       "relatedSearch": [
         {
-          "title": "Los Angeles protests live: Troops sent by Trump arrive in LA with more immigration raid protests expected",
+          "title": "New Zealand's mean testing creep",
           "snippet": "",
-          "url": "https://www.bbc.com/news/live/cvg7vxx888kt",
-          "source": "BBC"
+          "url": "https://www.rnz.co.nz/news/national/563471/new-zealand-s-mean-testing-creep",
+          "source": "RNZ"
         },
         {
-          "title": "Trump uses LA protests to redirect dissent from policy failures to the ‘enemy within’",
+          "title": "More means testing is inevitable unless we are prepared to pay more tax",
           "snippet": "",
-          "url": "https://www.theguardian.com/us-news/2025/jun/08/trump-la-protests-enemy-within",
-          "source": "The Guardian"
+          "url": "https://businessdesk.co.nz/article/opinion/more-means-testing-is-inevitable-unless-we-are-prepared-to-pay-more-tax",
+          "source": "Business Desk NZ"
         },
         {
-          "title": "The National Guard in Los Angeles",
+          "title": "What is the US National Guard and how is it deployed?",
           "snippet": "",
-          "url": "https://www.lawfaremedia.org/article/the-national-guard-in-los-angeles",
-          "source": "Lawfare"
+          "url": "https://www.dw.com/en/what-is-the-us-national-guard-and-how-is-it-deployed/a-72836481",
+          "source": "DW"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,7 +117,7 @@
       "title": "sailgp",
       "trafficCount": "200+",
       "pubDate": "Sun, 8 Jun 2025 11:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJz4HtnR7iSYuCRPN-9RZfGG3i0BG4Z4I0CVyDD_3DcrYBrLc-v51EnG3jPhM",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYcGpHvHCiMG8DlXi3u4OxJ7ecz3uiyIh7KsRl6a4lBuhjRTDFNSNQFbi2pOQ",
       "pictureSource": "NZ Herald",
       "relatedSearch": [
         {
@@ -101,7 +129,7 @@
         {
           "title": "RACE PREVIEW: BONDS Flying Roos and New Zealand top New York’s practice racing as full F50 fleet hits the water",
           "snippet": "",
-          "url": "https://sailgp.com/news/25/race-preview-bonds-flying-roos-new-zealand-top-new-york-practice-racing/",
+          "url": "https://sailgp.com/news/25/race-preview-bonds-flying-roos-new-zealand-top-new-york-practice-racing",
           "source": "SailGP"
         },
         {
@@ -143,7 +171,7 @@
     },
     {
       "title": "ryan fox",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Sun, 8 Jun 2025 09:50:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSowruXIad9-t_gFtLAJ9MZElHyQWe2RihZM8OCwJMWtjj89Ny4FzYFUs2_Mi0",
       "pictureSource": "NZ Herald",
@@ -161,10 +189,38 @@
           "source": "Stuff"
         },
         {
-          "title": "Matteo Manassero and Ryan Fox hold slender lead at Canadian Open",
+          "title": "RBC Canadian Open 2025 purse, payout: Prize money breakdown for PGA Tour event",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/golf/articles/c5y2znzjwg1o",
-          "source": "BBC"
+          "url": "https://www.usatoday.com/story/sports/golf/2025/06/08/rbc-canadian-open-2025-purse-payout/84049881007/",
+          "source": "USA Today"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "roland garros 2025",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 8 Jun 2025 09:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNaw1FfXvTX55cFaeV_0Z5dRP6wFIYGtbBlPPNuzWwoP6BlnlPyyPnXAgcAuk",
+      "pictureSource": "Le Monde.fr",
+      "relatedSearch": [
+        {
+          "title": "Roland-Garros 2025 : Carlos Alcaraz, vainqueur d’une finale épique face à Jannik Sinner, conserve son titre à Paris",
+          "snippet": "",
+          "url": "https://www.lemonde.fr/sport/live/2025/06/08/en-direct-roland-garros-2025-suivez-la-finale-entre-jannik-sinner-et-carlos-alcaraz_6611336_3242.html",
+          "source": "Le Monde.fr"
+        },
+        {
+          "title": "L'Évolution des Règles du Tie-Break dans les Grands Chelems",
+          "snippet": "",
+          "url": "https://www.ilmessaggero.it/fr/l_evolution_des_regles_du_tie_break_dans_les_grands_chelems-8886336.html?next_page=1",
+          "source": "Il Messaggero"
+        },
+        {
+          "title": "Roland-Garros 2025 : comment fonctionne le super tie-break qui va départager Sinner et Alcaraz",
+          "snippet": "",
+          "url": "https://www.leparisien.fr/sports/tennis/roland-garros/roland-garros-2025-comment-fonctionne-le-super-tie-break-qui-va-departager-et-alcaraz-08-06-2025-KTKWIPLEY5CWTFXBXFHP3U3TDA.php",
+          "source": "Le Parisien"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,7 +229,7 @@
       "title": "french open",
       "trafficCount": "2000+",
       "pubDate": "Sun, 8 Jun 2025 08:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9gkv_kPTDTNgg04DHnTTyDTk4DavjsxS3Z9e3GWJ29EExc11rU_SXxhhKRJQ",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8-tqJJiLwtvOD5Z0JW2J5eMSAqsOoXfAX5K8Veyq-gRjCFVExTjabqLSqYCQ",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
@@ -189,10 +245,10 @@
           "source": "The Guardian"
         },
         {
-          "title": "LIVE: Carlos Alcaraz vs Jannik Sinner – French Open tennis final",
+          "title": "Cahill: How Sinner & Alcaraz have driven each other forward",
           "snippet": "",
-          "url": "https://www.aljazeera.com/sports/liveblog/2025/6/8/live-carlos-alcaraz-vs-jannik-sinner-2025-french-open-mens-singles-tennis-final-score-commentary-stream-updates",
-          "source": "Al Jazeera"
+          "url": "https://www.atptour.com/en/news/cahill-on-sinner-alcaraz-roland-garros-2025-final",
+          "source": "ATP Tour"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,72 +267,16 @@
           "source": "Gala"
         },
         {
-          "title": "Sinner - Alcaraz (jeu 2) 6-6 : Sinner perd le break",
+          "title": "Jannik Sinner – Carlos Alcaraz : à quelle heure et sur quelle chaîne voir la finale de Roland-Garros 2025",
           "snippet": "",
-          "url": "https://www.vietnam.vn/fr/sinner-alcaraz-van-2-6-6-sinner-mat-break",
-          "source": "Vietnam.vn"
+          "url": "https://www.leparisien.fr/guide-shopping/tv-streaming/jannik-sinner-carlos-alcaraz-a-quelle-heure-et-sur-quelle-chaine-voir-la-finale-de-roland-garros-2025-08-06-2025-SI5JOWVB3FATDHMPF37SYWEIGI.php",
+          "source": "Le Parisien"
         },
         {
-          "title": "[Podcasts] France/Allemagne : Mbappé à nouveau numéro 9, Greg Paisley préfère le voir à gauche - 08/06",
+          "title": "Roland-Garros | Le passage à vide surhumain de Jannik Sinner en finale",
           "snippet": "",
-          "url": "https://rmcsport.bfmtv.com/replay-emissions/stephen-time/france-allemagne-mbappe-a-nouveau-numero-9-greg-paisley-prefere-le-voir-a-gauche-08-06_EN-202506080238.html",
-          "source": "RMC Sport"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "jannik sinner",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 8 Jun 2025 07:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSt3UFzBktETdmVxQo0DiP_YSmLO1CcSKReetg97yj83zpXlC_0gYmLnZTzsYs",
-      "pictureSource": "Adnkronos",
-      "relatedSearch": [
-        {
-          "title": "Sinner oggi, live finale Roland Garros 2025 contro Alcaraz. La diretta",
-          "snippet": "",
-          "url": "https://www.adnkronos.com/sport/sinner-diretta-oggi-finale-roland-garros-2025-alcaraz-live_61uGin1XOQrx1YuIfr1jpN",
-          "source": "Adnkronos"
-        },
-        {
-          "title": "Da Thuram a Natalie Portman: parata di stelle per la finale del Roland Garros",
-          "snippet": "",
-          "url": "https://www.tuttosport.com/foto/tennis/roland-garros/2025/06/08-141243962/da_thuram_a_natalie_portman_parata_di_stelle_per_la_finale_del_roland_garros",
-          "source": "Tuttosport"
-        },
-        {
-          "title": "Tennis Tracker: in campo Sinner e Alcaraz per il titolo (6-4 7-6 4-6 2-2)",
-          "snippet": "",
-          "url": "https://www.diretta.it/news/tennis-open-di-francia-atp-singolare-tennis-tracker-in-campo-sinner-e-alcaraz-per-il-titolo-6-4-7-6-4-6-2-2/xEH59umC/",
-          "source": "Diretta"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "carlos alcaraz",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 8 Jun 2025 07:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvVFJcgJXrXulPDKkGUIhzDNEX2Dg4pcS1UDpGIqZ6FXv9fCbHYwpJr38wRsw",
-      "pictureSource": "Olympics.com",
-      "relatedSearch": [
-        {
-          "title": "La primera final de un Grand Slam entre Carlos Alcaraz y Jannik Sinner: Roland Garros 2025 inicia una nueva era del tenis",
-          "snippet": "",
-          "url": "https://www.olympics.com/es/noticias/tenis-roland-garros-2025-primera-final-grand-slam-sinner-alcaraz",
-          "source": "Olympics.com"
-        },
-        {
-          "title": "Pecador - Alcaraz (juego 5) 5-5: Alcaraz perdió el break",
-          "snippet": "",
-          "url": "https://www.vietnam.vn/es/sinner-alcaraz-van-5-5-5-alcaraz-mat-break",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "Jannik Sinner sorprende a Novak Djokovic y hace historia en el tenis con su cuarta victoria consecutiva.",
-          "snippet": "",
-          "url": "https://motociclismo.pt/es/jannik-sinner-sorprende-a-novak-djokovic-y-hace-historia-en-el-tenis-con-su-cuarta-victoria-consecutiva/",
-          "source": "motociclismo.pt"
+          "url": "https://fflose.com/roland-garros-le-passage-a-vide-surhumain-de-jannik-sinner-en-finale/",
+          "source": "FFL"
         }
       ],
       "link": "https://imtaqin.id/"

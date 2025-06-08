@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-06-08 23:45:54",
+  "lastUpdate": "2025-06-08 23:53:32",
   "data": [
+    {
+      "title": "부산 날씨",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 8 Jun 2025 15:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR20HzZxk3c74Tjme2xlqeESU7kLFwF8fys3SxzWE_8zsgwCcGnVb3h0rixsvo",
+      "pictureSource": "연합뉴스",
+      "relatedSearch": [
+        {
+          "title": "부산·울산·경남 구름 많다가 맑아져…낮 최고 26∼31도",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20250609004000051",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "오늘의 날씨- 2025년 6월 9일",
+          "snippet": "",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20250609.22019001984",
+          "source": "국제신문"
+        },
+        {
+          "title": "흐린 부산, 낮 최고 25도…미세먼지 '보통' 수준",
+          "snippet": "",
+          "url": "https://news.nate.com/view/20250608n03293",
+          "source": "네이트 뉴스"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "wwdc",
       "trafficCount": "100+",
@@ -15,16 +43,16 @@
           "source": "Bloomberg"
         },
         {
+          "title": "What to expect from Apple's WWDC event as Wall Street looks for AI gains",
+          "snippet": "",
+          "url": "https://finance.yahoo.com/news/what-to-expect-from-apples-wwdc-event-as-wall-street-looks-for-ai-gains-130005429.html",
+          "source": "Yahoo Finance"
+        },
+        {
           "title": "Apple is about to answer a burning question about its future",
           "snippet": "",
           "url": "https://www.cnn.com/2025/06/08/tech/apple-intelligence-ai-preview-wwdc",
           "source": "CNN"
-        },
-        {
-          "title": "With Apple's annual developer event, WWDC (World Developers Conference) 2025, just around the corner..",
-          "snippet": "",
-          "url": "https://www.mk.co.kr/en/business/11336667",
-          "source": "매일경제"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -43,16 +71,16 @@
           "source": "KBS 뉴스"
         },
         {
-          "title": "미리보는 오늘",
-          "snippet": "",
-          "url": "https://imnews.imbc.com/replay/2025/nwtoday/article/6723518_36807.html",
-          "source": "MBC 뉴스"
-        },
-        {
           "title": "이태원참사 피해자 생활지원금 9일부터 관할 시군구청서 접수",
           "snippet": "",
           "url": "https://www.yna.co.kr/view/AKR20250608019100530",
           "source": "연합뉴스"
+        },
+        {
+          "title": "정부 바뀌니 생활비 지원…이태원참사 피해자 9일부터 접수",
+          "snippet": "",
+          "url": "https://biz.heraldcorp.com/article/10504212",
+          "source": "헤럴드경제"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -81,34 +109,6 @@
           "snippet": "",
           "url": "https://www.footboom1.com/ko/news/football/2598792-aigles-de-carthage-seek-second-win-on-moroccan-soil",
           "source": "FootBoom"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "부산날씨",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 8 Jun 2025 14:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR20HzZxk3c74Tjme2xlqeESU7kLFwF8fys3SxzWE_8zsgwCcGnVb3h0rixsvo",
-      "pictureSource": "연합뉴스",
-      "relatedSearch": [
-        {
-          "title": "부산·울산·경남 구름 많다가 맑아져…낮 최고 26∼31도",
-          "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20250609004000051",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "오늘의 날씨- 2025년 6월 9일",
-          "snippet": "",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20250609.22019001984",
-          "source": "국제신문"
-        },
-        {
-          "title": "흐린 부산, 낮 최고 25도…미세먼지 '보통' 수준",
-          "snippet": "",
-          "url": "https://news.nate.com/view/20250608n03293",
-          "source": "네이트 뉴스"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,9 +173,15 @@
       "title": "portugal",
       "trafficCount": "200+",
       "pubDate": "Sun, 8 Jun 2025 14:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5UTSWOjSlb_vYik88E3CKUK_EcP-exSa98n519eoSXzMBMAbUWNQfIv2oGfw",
-      "pictureSource": "UOL",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtyBnXbsxqM5PYdxvX22Nb0N2m49qK03lkjWnQXNkrx_RqNtmGIwDLoG6y6NQ",
+      "pictureSource": "Notícias ao Minuto",
       "relatedSearch": [
+        {
+          "title": "Bernardo Silva: \"Fizemos um esforço e estamos muito orgulhosos\"",
+          "snippet": "",
+          "url": "https://www.noticiasaominuto.com/desporto/2802524/bernardo-silva-fizemos-um-esforco-e-estamos-muito-orgulhosos",
+          "source": "Notícias ao Minuto"
+        },
         {
           "title": "Cristiano Ronaldo jogou final lesionado: 'Pela seleção, se tivesse de partir uma perna, partia'",
           "snippet": "",
@@ -183,15 +189,9 @@
           "source": "UOL"
         },
         {
-          "title": "Marcelo Rebelo de Sousa e Luís Montenegro enaltecem Portugal",
+          "title": "AO VIVO: Intervalo em Munique - veja os golos",
           "snippet": "",
-          "url": "https://www.abola.pt/selecao/noticias/marcelo-rebelo-de-sousa-e-luis-montenegro-enaltecem-portugal-2025060822340691704",
-          "source": "Abola.pt"
-        },
-        {
-          "title": "AO VIVO: Pedri pertíssimo do 0-1 (16')",
-          "snippet": "",
-          "url": "https://www.flashscore.pt/noticias/futebol-liga-das-nacoes-ao-vivo-pedri-pertissimo-do-0-1-16/tYUM56Yh/",
+          "url": "https://www.flashscore.pt/noticias/futebol-liga-das-nacoes-ao-vivo-intervalo-em-munique-veja-os-golos/tYUM56Yh/",
           "source": "Flashscore.pt"
         }
       ],
@@ -239,16 +239,16 @@
           "source": "Евро-Футбол"
         },
         {
-          "title": "Сборная Португалии с 40-летним Роналду выиграла Лигу наций",
-          "snippet": "",
-          "url": "https://m.business-gazeta.ru/news/674609",
-          "source": "БИЗНЕС Online — Новости Казани"
-        },
-        {
           "title": "Сборная Португалии по футболу во второй раз выиграла Лигу наций",
           "snippet": "",
           "url": "https://sportmail.ru/news/football-nations/66492579/",
           "source": "Спорт Mail"
+        },
+        {
+          "title": "Португалия обыграла Испанию в финале Лиги наций",
+          "snippet": "",
+          "url": "https://www.soccer.ru/news/1409493/portugaliya-ispaniya",
+          "source": "Soccer.ru"
         }
       ],
       "link": "https://imtaqin.id/"

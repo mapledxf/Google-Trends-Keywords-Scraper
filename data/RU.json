@@ -1,38 +1,10 @@
 {
-  "lastUpdate": "2025-06-08 10:48:31",
+  "lastUpdate": "2025-06-08 10:56:15",
   "data": [
     {
-      "title": "погода калуга",
-      "trafficCount": "500+",
+      "title": "погода в москве",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 8 Jun 2025 03:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUVmgYQVA_6YMloLl_ImcGx7qsWgJM9pTidnWgrFbhKVz0ukKYzBrUWKLznco",
-      "pictureSource": "Калужские новости",
-      "relatedSearch": [
-        {
-          "title": "Последнее слово в прогнозе всегда остается за погодой. Представляем прогноз на 8 июня в Калуге",
-          "snippet": "",
-          "url": "https://kaluganews.ru/fn_1676927.html",
-          "source": "Калужские новости"
-        },
-        {
-          "title": "Теплые выходные ждут Калужскую область",
-          "snippet": "",
-          "url": "https://www.kp40.ru/news/weather/127942/",
-          "source": "KP40.ru"
-        },
-        {
-          "title": "Погода в Калуге",
-          "snippet": "",
-          "url": "https://nedelya40.ru/pogoda-v-kaluge-17_260287/",
-          "source": "Газета «Калужская неделя»"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "погода москва",
-      "trafficCount": "5000+",
-      "pubDate": "Sun, 8 Jun 2025 03:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-8hg5nIKPIqNsvyAGcReq12jSHEVHyOk1QsUOXmofx-HuhaQp63WYAegdPnE",
       "pictureSource": "Интерфакс",
       "relatedSearch": [
@@ -58,6 +30,62 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "погода калуга",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 8 Jun 2025 03:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3DwhUO_bO-6hqDbfC15otYsi4TrY3kiCl_cYxLxbibkVm6wk8xKt9oTlnOB8",
+      "pictureSource": "KP40.ru",
+      "relatedSearch": [
+        {
+          "title": "Теплые выходные ждут Калужскую область",
+          "snippet": "",
+          "url": "https://www.kp40.ru/news/weather/127942/",
+          "source": "KP40.ru"
+        },
+        {
+          "title": "Последнее слово в прогнозе всегда остается за погодой. Представляем прогноз на 8 июня в Калуге",
+          "snippet": "",
+          "url": "https://kaluganews.ru/fn_1676927.html",
+          "source": "Калужские новости"
+        },
+        {
+          "title": "Погода в Калуге",
+          "snippet": "",
+          "url": "https://nedelya40.ru/pogoda-v-kaluge-17_260287/",
+          "source": "Газета «Калужская неделя»"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "погода москва",
+      "trafficCount": "5000+",
+      "pubDate": "Sun, 8 Jun 2025 03:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPZ-TIqctfQFAGwzvLuG-d7CwcShqERiprSxnzqVKvQGpdFNR3OYeeyXnYALo",
+      "pictureSource": "Gismeteo",
+      "relatedSearch": [
+        {
+          "title": "В Центральной России праздничная неделя будет прохладной",
+          "snippet": "",
+          "url": "https://www.gismeteo.ru/news/weather/v-centralnoj-rossii-prazdnichnaya-nedelya-budet-prohladnoj/",
+          "source": "Gismeteo"
+        },
+        {
+          "title": "Вильфанд: в Москве температура опустится ниже нормы",
+          "snippet": "",
+          "url": "https://www.oka.fm/new/read/social/Vilfand-v-Moskve-temperatura-opustitsya-nizhe-normy/",
+          "source": "OKA.FM"
+        },
+        {
+          "title": "Температура в Москве резко понизится почти на 10 градусов во вторник",
+          "snippet": "",
+          "url": "https://www.interfax.ru/moscow/1030160",
+          "source": "Интерфакс"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "осадки москва",
       "trafficCount": "200+",
       "pubDate": "Sun, 8 Jun 2025 02:50:00 -0700",
@@ -71,16 +99,16 @@
           "source": "Mail.ru"
         },
         {
-          "title": "Теплые выходные с грозами: прогноз погоды в Москве на ближайшие дни",
-          "snippet": "",
-          "url": "https://www.mos.ru/news/item/154949073/",
-          "source": "mos.ru"
-        },
-        {
           "title": "В Москву возвращается жара, на этот раз — «грозовая»",
           "snippet": "",
           "url": "https://www.gismeteo.ru/news/weather/v-moskvu-vozvrashhaetsya-zhara-na-etot-raz-grozovaya/",
           "source": "Gismeteo"
+        },
+        {
+          "title": "Теплые выходные с грозами: прогноз погоды в Москве на ближайшие дни",
+          "snippet": "",
+          "url": "https://www.mos.ru/news/item/154949073/",
+          "source": "mos.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,9 +201,15 @@
       "title": "днепропетровская область",
       "trafficCount": "500+",
       "pubDate": "Sun, 8 Jun 2025 02:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz1i6gKgXwJF95vYAiIYXhb-NVED057klbvl5G0MsS_y7DjJoyZpgL4I4J3mU",
-      "pictureSource": "URA.RU",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrEn1eKe0WCPn2W8xhCbWFH6jzA_K4nNiM92Bfub6jrEXW50nwnmNb9oajKU4",
+      "pictureSource": "Интерфакс",
       "relatedSearch": [
+        {
+          "title": "Российские военные заявили о контроле над населенным пунктом Заря в ДНР",
+          "snippet": "",
+          "url": "https://www.interfax.ru/russia/1030266",
+          "source": "Интерфакс"
+        },
         {
           "title": "ВС РФ ликвидировали националистов «Азова»* при освобождении Зари",
           "snippet": "",
@@ -187,12 +221,6 @@
           "snippet": "",
           "url": "https://www.vedomosti.ru/politics/news/2025/06/08/1115780-vs-rossii-vzyali",
           "source": "Ведомости"
-        },
-        {
-          "title": "Российские военные заявили о контроле над населенным пунктом Заря в ДНР",
-          "snippet": "",
-          "url": "https://www.interfax.ru/russia/1030266",
-          "source": "Интерфакс"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -237,34 +265,6 @@
           "snippet": "",
           "url": "https://www.sb.by/articles/uzhel-ta-samaya-tatyana-drubich.html",
           "source": "Беларусь сегодня"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "поймай меня если сможешь",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 8 Jun 2025 01:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzaXi9fwYauhIRbu4XllQZfi5i0FnvienU7b3NvG3COwkMJ_kMVW_fiSRxkDM",
-      "pictureSource": "53 Новости",
-      "relatedSearch": [
-        {
-          "title": "Зрители шоу «Поймай меня, если сможешь» обсудили поведение звёзд нового выпуска",
-          "snippet": "",
-          "url": "https://53news.ru/mir/zriteli-shou-pojmaj-menya-esli-smozhesh-obsudili-povedenie-zvyozd-novogo-vypuska.html",
-          "source": "53 Новости"
-        },
-        {
-          "title": "«Глухие, слепые! Глухомань»: Филипп Киркоров при всех разозлился на Малахова",
-          "snippet": "",
-          "url": "https://radio1.ru/news/shou-biznes/gluhie-slepie-gluhoman-filipp-kirkorov-pri-vseh-razozlilsya-na-malahova/",
-          "source": "Radio1.ru"
-        },
-        {
-          "title": "Филипп Киркоров при всех разозлился на Малахова",
-          "snippet": "",
-          "url": "https://7days.ru/news/filipp-kirkorov-pri-vsekh-razozlilsya-na-malakhova.htm",
-          "source": "7Дней.ру"
         }
       ],
       "link": "https://imtaqin.id/"

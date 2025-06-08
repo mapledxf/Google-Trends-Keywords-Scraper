@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-08 16:59:52",
+  "lastUpdate": "2025-06-08 17:19:11",
   "data": [
     {
       "title": "twitch",
@@ -59,7 +59,7 @@
     },
     {
       "title": "tennis scores",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 8 Jun 2025 08:50:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSA99zLlJb3XeZkj_m-Oeu-PoA7Dh_XiNInCJmBqhcnB7jz-lW_vw1PH9YcpI",
       "pictureSource": "Tennis.com",
@@ -117,9 +117,15 @@
       "title": "roland garros",
       "trafficCount": "5000+",
       "pubDate": "Sun, 8 Jun 2025 08:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqatJ16aZWJdYKf46S0VAj2Wj01E2tKVMuHbf0CmcDlk9h5_5q-J-z32-IWws",
-      "pictureSource": "beIN SPORTS",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTluI5r5ZofGi1HfEORP20DeUqfOgwalBxhaeIPeGQRnmvAdSaH0KT24YaTinE",
+      "pictureSource": "Australian Broadcasting Corporation",
       "relatedSearch": [
+        {
+          "title": "Coco Gauff beats Aryna Sabalenka to win French Open final",
+          "snippet": "",
+          "url": "https://www.abc.net.au/news/2025-06-08/coco-gauff-wins-french-open/105390810",
+          "source": "Australian Broadcasting Corporation"
+        },
         {
           "title": "Sabalenka distraught after French Open final loss",
           "snippet": "",
@@ -131,12 +137,6 @@
           "snippet": "",
           "url": "https://www.adelaidenow.com.au/sport/tennis/coco-gauff-beats-aryna-sabalenka-to-win-french-open-final/news-story/f75549be6601cb89a327930de02e795c",
           "source": "The Advertiser"
-        },
-        {
-          "title": "Aryna Sabalenka slams ‘terrible’ performance as Coco Gauff wins French Open final",
-          "snippet": "",
-          "url": "https://www.ntnews.com.au/sport/tennis/aryna-sabalenka-slams-terrible-performance-as-coco-gauff-wins-french-open-final/news-story/a181e5afdbf920c7b1e0b33ed6f606f7",
-          "source": "NT News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,26 +145,54 @@
       "title": "natalie portman",
       "trafficCount": "200+",
       "pubDate": "Sun, 8 Jun 2025 07:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRW75mI-nkQVxudS_WSRIfEedB3jUWIztk7F7E_qVMdIIwLarqdCOTaBZsSgzg",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe6BWPOvGJQaH_w5u76eVzWmGviXEduEuJDNmpeEF46kZSNQd3Wq6k5NSg2s4",
       "pictureSource": "Idaho State Journal",
       "relatedSearch": [
         {
           "title": "French Open Tennis",
           "snippet": "",
-          "url": "https://www.idahostatejournal.com/sports/national/french-open-tennis/image_faa414ef-cea4-5556-9fca-f309a7b3d1f7.html",
+          "url": "https://www.idahostatejournal.com/sports/national/french-open-tennis/image_47d7ce7e-eb3b-55b3-8127-aad745fde1ab.html",
           "source": "Idaho State Journal"
         },
         {
           "title": "French Open Tennis",
           "snippet": "",
-          "url": "https://www.idahopress.com/sports/national/french-open-tennis/image_1a88ff41-47d3-51b0-a725-d807f724b241.html",
+          "url": "https://www.idahopress.com/sports/national/french-open-tennis/image_72fa694b-1172-50bf-81f0-2e49818c371a.html",
           "source": "Idaho Press"
         },
         {
           "title": "French Open Tennis",
           "snippet": "",
-          "url": "https://www.idahopress.com/sports/national/french-open-tennis/image_88c5d453-10e3-583d-b39c-bda307113590.html",
-          "source": "Idaho Press"
+          "url": "https://www.hjnews.com/sports/nation/french-open-tennis/image_e4e952c7-f068-5648-99f9-75964a363ab8.html",
+          "source": "The Herald Journal"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "west indies vs england",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 8 Jun 2025 07:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzhCLq7huKWxs2iPK_UntskaYrsMyrv9tcOLxIKzBCMTuiTzf8xxVAAMpvzPE",
+      "pictureSource": "Kayo Sports",
+      "relatedSearch": [
+        {
+          "title": "Watch England v West Indies: G2 Live",
+          "snippet": "",
+          "url": "https://kayosports.com.au/fixture/sport!cricket/series-twenty20-internationals!8/fixture-england-vs-west-indies!10040",
+          "source": "Kayo Sports"
+        },
+        {
+          "title": "England chasing 197 to beat West Indies: second men’s T20 – cricket live",
+          "snippet": "",
+          "url": "https://www.theguardian.com/sport/live/2025/jun/08/england-v-west-indies-second-mens-t20-cricket-live?filterKeyEvents=false&page=with%3Ablock-68459edd8f08edac2d86aa1c",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Buttler, Dawson fire England to series-opening win",
+          "snippet": "",
+          "url": "https://www.cricket.com.au/news/4280173/jos-buttler-liam-dawson-england-west-indies-first-t20i-report-scores-highlights",
+          "source": "cricket.com.au"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -198,57 +226,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "west indies vs england",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 8 Jun 2025 07:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJDpiTbeoj6YuF3ntDvTdvDLjnCuSoyjdlmNkaAoLjjfhauM5tzjbWyhzosoM",
-      "pictureSource": "The Guardian",
-      "relatedSearch": [
-        {
-          "title": "England v West Indies: second men’s T20 – cricket live",
-          "snippet": "",
-          "url": "https://www.theguardian.com/sport/live/2025/jun/08/england-v-west-indies-second-mens-t20-cricket-live?filterKeyEvents=false&page=with%3Ablock-6842b1bc8f08edac2d86951d",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Buttler, Dawson fire England to series-opening win",
-          "snippet": "",
-          "url": "https://www.cricket.com.au/news/4280173/jos-buttler-liam-dawson-england-west-indies-first-t20i-report-scores-highlights",
-          "source": "cricket.com.au"
-        },
-        {
-          "title": "Sports",
-          "snippet": "",
-          "url": "https://www.msn.com/en-au/sport/cricket/cricket-internationals/game-centre/sp-id-250842?ocid=hpmsn&cvid=d16894b797da4e2a8b55e286009ad268",
-          "source": "MSN"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "andre agassi",
       "trafficCount": "200+",
       "pubDate": "Sun, 8 Jun 2025 07:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSuqyWPjfiEmIm1CvftxQhwAmtXgnuZbvcERYnPWIfVujmvMSFU6J2mAi6FOD4",
-      "pictureSource": "Tennis.com",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3pauBaWNAICHDLpalI7S7FFCKlpEItnWpdflrJgUXuI5HtsC5cRG_6nuIrVs",
+      "pictureSource": "The Mirror US",
       "relatedSearch": [
         {
-          "title": "Andre Agassi recalls the first time he saw Rafael Nadal: 'I knew I'd never beat him'",
+          "title": "Andre Agassi and Steffi Graf's son had debut to forget in different sport",
           "snippet": "",
-          "url": "https://www.tennis.com/baseline/articles/andre-agassi-recalls-the-first-time-he-saw-rafael-nadal-i-knew-i-d-never-beat-him",
-          "source": "Tennis.com"
+          "url": "https://www.themirror.com/sport/other-sport/andre-agassi-steffi-grafs-son-1193450",
+          "source": "The Mirror US"
         },
         {
-          "title": "Andre Agassi admits that he knew that he would never beat Rafael Nadal",
+          "title": "Lesser-seen lives of Andre Agassi and Steffi Graf's children – relationships to sporting debuts",
           "snippet": "",
-          "url": "https://www.tennis365.com/tennis-news/andre-agassi-reveals-moment-knew-never-beat-rafael-nadal",
-          "source": "Tennis365"
+          "url": "https://www.themirror.com/sport/tennis/andre-agassi-steffi-graf-children-1188417",
+          "source": "The Mirror US"
         },
         {
-          "title": "'Is this kid serious?' - Andre Agassi shares funny story detailing when he knew he would never defeat Rafael Nadal",
+          "title": "Andre Agassi predicts who will win the French Open final between Carlos Alcaraz and Jannik Sinner",
           "snippet": "",
-          "url": "https://www.yardbarker.com/tennis/articles/is_this_kid_serious_andre_agassi_shares_funny_story_detailing_when_he_knew_he_would_never_defeat_rafael_nadal/s1_17460_42291880",
-          "source": "Yardbarker"
+          "url": "https://www.thetennisgazette.com/news/andre-agassi-predicts-who-will-win-the-french-open-final-between-carlos-alcaraz-and-jannik-sinner/",
+          "source": "The Tennis Gazette"
         }
       ],
       "link": "https://imtaqin.id/"

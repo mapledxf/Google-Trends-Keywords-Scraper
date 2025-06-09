@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-09 08:53:16",
+  "lastUpdate": "2025-06-09 09:10:33",
   "data": [
     {
       "title": "tv guide",
@@ -31,11 +31,17 @@
     },
     {
       "title": "los angeles",
-      "trafficCount": "1000+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 8 Jun 2025 22:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQYu82SAlZIybSUuxAiBQEPzvy_FEOrZDlac64VsP9aLUfeoV1Z4WA72bzy9g",
-      "pictureSource": "CNN",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Y2Ktap5CkcsTi0ZrihnTBJM1AafTfxTKom_JjMeXjVD5qdcxtbZzDbU3bZ8",
+      "pictureSource": "NewsNation",
       "relatedSearch": [
+        {
+          "title": "Anti-ICE protests intensify in Los Angeles on third day of unrest",
+          "snippet": "",
+          "url": "https://www.newsnationnow.com/us-news/immigration/immigration-raids-losangeles-protest/",
+          "source": "NewsNation"
+        },
         {
           "title": "Freeways blocked, cars on fire: LA protests against immigration raids and National Guard deployment",
           "snippet": "",
@@ -47,12 +53,6 @@
           "snippet": "",
           "url": "https://www.nbcnews.com/news/us-news/tom-homan-trump-border-czar-los-angeles-rcna211701",
           "source": "NBC News"
-        },
-        {
-          "title": "LA protests: How city erupted over rumours of hardware store raid",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c1kv1lgdpkjo",
-          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -77,10 +77,10 @@
           "source": "tvSyd"
         },
         {
-          "title": "Mandag bliver en kulmination på lang tids forberedelse for Lasse og kollegerne",
+          "title": "Rekordmange deltager i Royal Run i dag",
           "snippet": "",
-          "url": "https://www.tv2ostjylland.dk/horsens/mandag-bliver-en-kulmination-pa-lang-tids-forberedelse-for-lasse-og-kollegerne-4bfff",
-          "source": "TV2 Østjylland"
+          "url": "https://www.dr.dk/nyheder/seneste/rekordmange-deltager-i-royal-run-i-dag",
+          "source": "dr.dk"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -105,10 +105,10 @@
           "source": "Air Mail"
         },
         {
-          "title": "Jared Leto Denies Multiple Accusations of Inappropriate Behavior with Minors",
+          "title": "Jared Leto’s Odd Confession About Women Years Before Latest Sexual Misconduct Allegations",
           "snippet": "",
-          "url": "https://extratv.com/2025/06/08/jared-leto-denies-multiple-accusations-of-inappropriate-behavior-with-minors/",
-          "source": "extratv.com"
+          "url": "https://www.imdb.com/fr-ca/news/ni65323777/?ref_=nm_nwr_1",
+          "source": "IMDb"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,10 +161,10 @@
           "source": "www.xeudeportes.mx"
         },
         {
-          "title": "Mou ‘se queda’ sin Portugal. Cristiano: “A Roberto le dieron una paliza”",
+          "title": "Portugal cierra filas en torno a Roberto Martínez tras su épica Nations League",
           "snippet": "",
-          "url": "https://as.com/futbol/internacional/mou-se-queda-sin-portugal-cristiano-a-roberto-le-dieron-una-paliza-n/",
-          "source": "Diario AS"
+          "url": "https://migrantesdelbalon.com/portugal-cierra-filas-en-torno-a-roberto-martinez-tras-su-epica-nations-league/",
+          "source": "Migrantes del Balón"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,20 +173,26 @@
       "title": "vitinha",
       "trafficCount": "100+",
       "pubDate": "Sun, 8 Jun 2025 14:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKTVDUM3h0YR6vnF8onYD0VPjfrj-BF12DuW_8jEPUrg4MSN4tsdgXyUBZx0c",
-      "pictureSource": "anfieldindex.com",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTbDacp9cqSN-15nwAnMUmcV-04ILNsuQbSas6Ep7s-GCP1J2bQy2EHXqOiAg",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Fabrizio Romano Names Two World-Class Players that Liverpool Tried to Sign in 2022",
+          "title": "Ronaldo tears & Yamal's nemesis - has Nations League saved Martinez?",
           "snippet": "",
-          "url": "https://anfieldindex.com/82876/fabrizio-romano-names-two-world-class-players-that-liverpool-tried-to-sign-in-2022.html",
-          "source": "anfieldindex.com"
+          "url": "https://www.bbc.com/sport/football/articles/c787g3qx8z9o",
+          "source": "BBC"
         },
         {
-          "title": "Liverpool once tried to sign two players instead of PSG maestro Vitinha and ended up getting neither",
+          "title": "Cristiano Ronaldo, Portugal win second UEFA Nations League title, beats Spain",
           "snippet": "",
-          "url": "https://www.rousingthekop.com/2025/06/06/liverpool-once-tried-to-sign-two-players-instead-of-psg-maestro-vitinha-and-ended-up-signing-neither/",
-          "source": "Rousing The Kop"
+          "url": "https://www.usatoday.com/story/sports/soccer/2025/06/08/ronaldo-portugal-uefa-nations-league-title/84107134007/",
+          "source": "USA Today"
+        },
+        {
+          "title": "Portugal vs Spain highlights and report: Seleção create Nations League history with shoot-out success",
+          "snippet": "",
+          "url": "https://www.uefa.com/uefanationsleague/news/029a-1df446a2d81d-0bc47d9324a5-1000--portugal-vs-spain-highlights-and-report-selecao-create-natio/",
+          "source": "UEFA.com"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-09 13:47:01",
+  "lastUpdate": "2025-06-09 13:57:09",
   "data": [
     {
       "title": "су-35",
@@ -59,7 +59,7 @@
     },
     {
       "title": "nat wolff",
-      "trafficCount": "200+",
+      "trafficCount": "100+",
       "pubDate": "Sun, 8 Jun 2025 23:50:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHjIuRmRVCmxQnhmRruenWKdGrdryObqQxIE2mDbzLcE7u0J12r15MYwOH58I",
       "pictureSource": "Deuxmoi",
@@ -254,12 +254,31 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "погода вінниця",
-      "trafficCount": "200+",
+      "title": "новини",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 8 Jun 2025 20:10:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8ArrrfF9wd8rBP62EEf0Yqso5qVxz-WU8mXd5qAup198zW2AsjiH6grDHbuI",
+      "pictureSource": "Українська правда",
+      "relatedSearch": [
+        {
+          "title": "Стартував великий обмін, про який домовлялися в Стамбулі",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/news/2025/06/9/7516322/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "Розпочато великий обмін полоненими - Зеленський",
+          "snippet": "",
+          "url": "https://ua.korrespondent.net/ukraine/4788919-rozpochato-velykyi-obmin-polonenymy-zelenskyi",
+          "source": "Korrespondent.net"
+        },
+        {
+          "title": "Відбувся обмін: Україна повертає важкопоранених та молодших за 25 років",
+          "snippet": "",
+          "url": "https://www.unian.ua/war/vidbuvsya-obmin-ukrajina-povertaye-vazhkoporanenih-ta-molodshih-za-25-rokiv-13032942.html",
+          "source": "УНІАН"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]

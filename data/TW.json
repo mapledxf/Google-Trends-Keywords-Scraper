@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-09 17:30:16",
+  "lastUpdate": "2025-06-09 17:42:15",
   "data": [
     {
       "title": "蘋果",
@@ -30,6 +30,15 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "花蓮命案",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 9 Jun 2025 08:20:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "周渝民",
       "trafficCount": "100+",
       "pubDate": "Mon, 9 Jun 2025 08:20:00 -0700",
@@ -55,15 +64,6 @@
           "source": "奇摩新聞"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "花蓮命案",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 9 Jun 2025 08:20:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -135,9 +135,15 @@
       "title": "wwdc 2025",
       "trafficCount": "2000+",
       "pubDate": "Mon, 9 Jun 2025 07:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxFBPlFVoF7vBEbvL3grFGA0ZIb6jKMCjC_97hbSVC6upt-bmi8Q0WjOkkC30",
-      "pictureSource": "Yahoo Finance",
+      "picture": "",
+      "pictureSource": "Apple",
       "relatedSearch": [
+        {
+          "title": "Apple elevates the iPhone experience with iOS 26",
+          "snippet": "",
+          "url": "https://www.apple.com/newsroom/2025/06/apple-elevates-the-iphone-experience-with-ios-26/",
+          "source": "Apple"
+        },
         {
           "title": "What to expect from Apple's WWDC event as Wall Street looks for AI gains",
           "snippet": "",
@@ -149,12 +155,6 @@
           "snippet": "",
           "url": "https://www.bloomberg.com/news/newsletters/2025-06-08/apple-s-liquid-glass-ios-26-software-redesign-to-hint-at-20th-anniversary-iphone-mbnm2u0d",
           "source": "Bloomberg"
-        },
-        {
-          "title": "Exclusive: iOS 26 to bring new features for Messages, CarPlay, and more",
-          "snippet": "",
-          "url": "https://9to5mac.com/2025/06/03/exclusive-ios-26-messages-carplay-more/",
-          "source": "9to5Mac"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,16 +173,16 @@
           "source": "中央社 CNA"
         },
         {
-          "title": "公費HPV疫苗接種 9月起國二男生納入",
-          "snippet": "",
-          "url": "https://udn.com/news/story/7266/8795830",
-          "source": "聯合新聞網"
-        },
-        {
           "title": "女性預防子宮頸癌必看！ 疫苗接種＋抹片一次搞懂",
           "snippet": "",
           "url": "https://tw.news.yahoo.com/%E5%A5%B3%E6%80%A7%E9%A0%90%E9%98%B2%E5%AD%90%E5%AE%AE%E9%A0%B8%E7%99%8C%E5%BF%85%E7%9C%8B-%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A8%AE-%E6%8A%B9%E7%89%87-%E6%AC%A1%E6%90%9E%E6%87%82-110000067.html",
           "source": "奇摩新聞"
+        },
+        {
+          "title": "公費HPV疫苗接種 9月起國二男生納入",
+          "snippet": "",
+          "url": "https://udn.com/news/story/7266/8795830",
+          "source": "聯合新聞網"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,47 +1,69 @@
 {
-  "lastUpdate": "2025-06-10 12:00:39",
+  "lastUpdate": "2025-06-10 12:54:29",
   "data": [
+    {
+      "title": "грац",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 10 Jun 2025 04:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqa_n5olaIIBdJYZliAk9hbWeiCJu7sLWUA4wHvATx71RqAM2J51Ig-OGxcQs",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Стрельба в школе в австрийском городе Грац: погибли десять человек, включая нападавшего",
+          "snippet": "",
+          "url": "https://www.bbc.com/russian/articles/cje78y0vlyno",
+          "source": "BBC"
+        },
+        {
+          "title": "В школе в Австрии произошла стрельба. Погибли не менее восьми человек",
+          "snippet": "",
+          "url": "https://meduza.io/news/2025/06/10/v-shkole-v-avstrii-proizoshla-strelba-pogibli-ne-menee-vosmi-chelovek",
+          "source": "Meduza"
+        },
+        {
+          "title": "Число жертв стрельбы в школе в Австрии выросло до девяти",
+          "snippet": "",
+          "url": "https://www.interfax.ru/world/1030550",
+          "source": "Интерфакс"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "ai",
       "trafficCount": "200+",
       "pubDate": "Tue, 10 Jun 2025 03:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjfWMqfXdqJ5aS8bNJYlFRLRh0qormvdz2VJzV-yjpqnFjQYSfvMzxp0jWu5s",
-      "pictureSource": "The Guardian",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShqfmuXj7P8z1gIqRPUG8LX35h-avKMYr6ZcJ_z1gX0WektBxWSRd43IlG7uk",
+      "pictureSource": "IMDb",
       "relatedSearch": [
         {
-          "title": "Chinese tech firms freeze AI tools in crackdown on exam cheats",
+          "title": "International Animation Unions Plan Protest Against AI at Annecy Festival: ‘Generative Al Do Not Support Artists, It Destroys Them’",
           "snippet": "",
-          "url": "https://www.theguardian.com/world/2025/jun/09/chinese-tech-firms-freeze-ai-tools-exam-cheats-universities-gaokao",
-          "source": "The Guardian"
+          "url": "https://www.imdb.com/news/ni65326915/?ref_=nwc_art_perm",
+          "source": "IMDb"
         },
         {
-          "title": "A steppingstone",
+          "title": "International Coalition Of Worker Unions Declares Emergency Over AI Use In Animation",
           "snippet": "",
-          "url": "https://mobile.chinadaily.com.cn/cn/html5/2025-06/09/content_001_6845e856ed50ccabe15137ab.htm",
-          "source": "China Daily"
+          "url": "https://www.cartoonbrew.com/artist-rights/an-international-coalition-of-worker-unions-declares-emergency-over-ai-use-in-animation-247671.html",
+          "source": "Cartoon Brew"
         },
         {
-          "title": "Xinhua photos of the day",
+          "title": "Protests Against Artificial Intelligence Planned For Annecy Animation Fest",
           "snippet": "",
-          "url": "http://english.news.cn/20250609/6a21e680002f42ee89b542cb7341ea17/c.html",
-          "source": "Xinhua"
+          "url": "https://deadline.com/2025/06/artificial-intelligence-protests-planned-for-annecy-festival-1236428535/",
+          "source": "Deadline"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "chatgpt",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Tue, 10 Jun 2025 03:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLsCrB9i4STdoVwJmDlQwBAjKT3EiORngZFdU58u70Vnw7xYYSVaWpKIpD8FQ",
-      "pictureSource": "IndyStar",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWNNKmrwIxZ9u4LPB0UwC0Cq3_kuqq2rPaJhhV5j8b1z5t1zSyMZCfiNezVSE",
+      "pictureSource": "TechRadar",
       "relatedSearch": [
-        {
-          "title": "Is ChatGPT down? Why is ChatGPT not working? When will it be fixed? Partial outages hit Open AI",
-          "snippet": "",
-          "url": "https://www.indystar.com/story/news/2025/06/10/is-chatgpt-down-right-now-near-me-today-chatgpt-ai-chat-gpt-not-working-error-message-down-detector/84127994007/",
-          "source": "IndyStar"
-        },
         {
           "title": "ChatGPT is down - here's everything we know about the outage",
           "snippet": "",
@@ -49,7 +71,13 @@
           "source": "TechRadar"
         },
         {
-          "title": "ChatGPT goes down — latest news as OpenAI chatbot suffers huge outage",
+          "title": "Is ChatGPT down? Why is ChatGPT not working? When will it be fixed? Partial outages hit Open AI",
+          "snippet": "",
+          "url": "https://www.indystar.com/story/news/2025/06/10/is-chatgpt-down-right-now-near-me-today-chatgpt-ai-chat-gpt-not-working-error-message-down-detector/84127994007/",
+          "source": "IndyStar"
+        },
+        {
+          "title": "ChatGPT is down — live updates as OpenAI's chatbot and Sora video generator suffer worldwide outage",
           "snippet": "",
           "url": "https://www.tomsguide.com/news/live/chatgpt-openai-down-outage-6-10-2025",
           "source": "Tom's Guide"
@@ -114,10 +142,10 @@
           "source": "Новини СЕГА"
         },
         {
-          "title": "Просветното министерство обяви резултатите от матурите",
+          "title": "Обявиха резултатите от държавните зрелостни изпити",
           "snippet": "",
-          "url": "https://www.haskovo.net/news/610870/prosvetnoto-ministerstvo-obyavi-rezultatite-ot-maturite",
-          "source": "Haskovo.NET"
+          "url": "https://offnews.bg/obshtestvo/obiaviha-rezultatite-ot-darzhavnite-zrelostni-izpiti-845829.html",
+          "source": "offnews.bg"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -126,26 +154,26 @@
       "title": "fakti",
       "trafficCount": "100+",
       "pubDate": "Mon, 9 Jun 2025 20:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV5meSnJ4fm5cFp1Kycv8VlLzbaaG4gtGfUZNsbnuOVE0F_ziz_-7rJkzqE9Q",
-      "pictureSource": "News.bg",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfaq9sRZERdmG1P_Oe4zAtlFVADlmXtj6wHW1NBqyhpFbk7ynQbGKy2swixDQ",
+      "pictureSource": "Dnevnik",
       "relatedSearch": [
         {
-          "title": "Зеленски: Един от най-големите удари по Киев - време е за действия, не за мълчание",
+          "title": "Русия напредва в Днепропетровск с цел да създаде буферна зона",
           "snippet": "",
-          "url": "https://news.bg/int-politics/zelenski-edin-ot-nay-golemite-udari-po-kiev-vreme-e-za-deystviya-ne-za-malchanie.html",
-          "source": "News.bg"
+          "url": "https://www.dnevnik.bg/sviat/2025/06/09/4792789_rusiia_napredva_v_dnepropetrovsk_s_cel_da_suzdade/",
+          "source": "Dnevnik"
         },
         {
-          "title": "Володимир Зеленски обвини Русия в \"мръсна политическа игра\"",
+          "title": "Медведев за руската офанзива: Зелените въшки ще получат дезинсекция на място",
           "snippet": "",
-          "url": "https://www.bgonair.bg/a/4-world/384850-volodimir-zelenski-obvini-rusiya-v-mrasna-politicheska-igra",
-          "source": "Bulgaria ON AIR"
+          "url": "https://www.dnes.bg/a/581-voynata-v-ukrayna/682205-medvedev-za-ruskata-ofanziva-zelenite-vashki-shte-poluchat-dezinsektsiya-na-myasto",
+          "source": "Dnes.bg"
         },
         {
-          "title": "Зеленски: Путин не иска мир, а \"пълно поражение\" на Украйна",
+          "title": "The Times: Навлизането на руски въоръжени сили в Днепропетровска област е удар за Киев",
           "snippet": "",
-          "url": "https://dariknews.bg/novini/sviat/zelenski-putin-ne-iska-mir-a-pylno-porazhenie-na-ukrajna-2421266",
-          "source": "DarikNews.bg"
+          "url": "https://trud.bg/a/articles/the-times-%D0%BD%D0%B0%D0%B2%D0%BB%D0%B8%D0%B7%D0%B0%D0%BD%D0%B5%D1%82%D0%BE-%D0%BD%D0%B0-%D1%80%D1%83%D1%81%D0%BA%D0%B8-%D0%B2%D1%8A%D0%BE%D1%80%D1%8A%D0%B6%D0%B5%D0%BD%D0%B8-%D1%81%D0%B8%D0%BB%D0%B8-%D0%B2-%D0%B4%D0%BD%D0%B5%D0%BF%D1%80%D0%BE%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0-%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82-%D0%B5-%D1%83%D0%B4%D0%B0%D1%80-%D0%B7%D0%B0-%D0%BA%D0%B8%D0%B5%D0%B2",
+          "source": "Труд"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -170,10 +198,10 @@
           "source": "www.24chasa.bg"
         },
         {
-          "title": "Модрич поведе Хърватия към 13-минутна лекция и разгром над Чехия",
+          "title": "Хърватия води на Чехия в интригуващ двубой от световните квалификации",
           "snippet": "",
-          "url": "https://dsport.bg/modrich-povede-harvatia-kam-13-minutna-lekcia-i-razgrom-nad-chehia~201099.html",
-          "source": "dsport"
+          "url": "https://www.focus-news.net/sport/2587130.html",
+          "source": "ФОКУС"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -182,20 +210,20 @@
       "title": "пълнолуние юни 2025",
       "trafficCount": "500+",
       "pubDate": "Mon, 9 Jun 2025 11:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYNeCSnJUdYYDYUnMqbfsOYDcyNesnWm1ZaIjPkB1CN1BhGbIuo9h7y1TQrok",
-      "pictureSource": "Edna.bg",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqLOdNqf3a8CfsvI5h1Kq2ulpFK0wzSAGCWAljtf9DRgJsNg0jSoDinUMsTGo",
+      "pictureSource": "bTV Новините",
       "relatedSearch": [
-        {
-          "title": "Всичко, което трябва да знаем за Ягодова Луна 2025 през юни",
-          "snippet": "",
-          "url": "https://www.edna.bg/astrologia/vsichko-koeto-triabva-da-znaem-za-iagodova-luna-2025-prez-iuni-4680453",
-          "source": "Edna.bg"
-        },
         {
           "title": "Ягодова Луна на 11 юни: Космически зов за четири зодиакални знака - усещат силно влиянието ѝ",
           "snippet": "",
           "url": "https://btvnovinite.bg/lifestyle/liubopitno/jagodova-luna-na-11-juni-kosmicheski-zov-za-sabuzhdane-za-chetiri-zodiakalni-znaka.html",
           "source": "bTV Новините"
+        },
+        {
+          "title": "Всичко, което трябва да знаем за Ягодова Луна 2025 през юни",
+          "snippet": "",
+          "url": "https://www.edna.bg/astrologia/vsichko-koeto-triabva-da-znaem-za-iagodova-luna-2025-prez-iuni-4680453",
+          "source": "Edna.bg"
         },
         {
           "title": "Идващото пълнолуние ще донесе доста добри пари на 4 зодии",
@@ -230,34 +258,6 @@
           "snippet": "",
           "url": "https://www.news.com.au/national/victoria/politics/inhumane-north-melbourne-public-housing-residents-protest-ahead-of-demolition/news-story/3ed7a810060614e284eb91eeee011ef0",
           "source": "News.com.au"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ios 26",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 9 Jun 2025 10:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkPQ_ODfWk-Z10R20hGXWoarUDMIJPLcBXQat8buTB3-Y2OoRgojOZo0LlUOQ",
-      "pictureSource": "The Indian Express",
-      "relatedSearch": [
-        {
-          "title": "Apple iOS 26 and iPadOS 26 device list: Is your iPhone or iPad getting the update?",
-          "snippet": "",
-          "url": "https://indianexpress.com/article/technology/tech-news-technology/apple-wwdc-2025-ios-26-ipados-26-update-eligible-iphone-ipad-10057872/",
-          "source": "The Indian Express"
-        },
-        {
-          "title": "Apple introduces a delightful and elegant new software design",
-          "snippet": "",
-          "url": "https://www.apple.com/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/",
-          "source": "Apple"
-        },
-        {
-          "title": "Apple’s iOS 26 Liquid Glass Interface Is Built for 20th Anniversary iPhone",
-          "snippet": "",
-          "url": "https://www.bloomberg.com/news/newsletters/2025-06-08/apple-s-liquid-glass-ios-26-software-redesign-to-hint-at-20th-anniversary-iphone-mbnm2u0d",
-          "source": "Bloomberg.com"
         }
       ],
       "link": "https://imtaqin.id/"

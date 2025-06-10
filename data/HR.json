@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-10 15:51:26",
+  "lastUpdate": "2025-06-10 15:59:14",
   "data": [
     {
       "title": "ai",
@@ -21,18 +21,46 @@
           "source": "MSN"
         },
         {
-          "title": "Anthropic closes Claude AI blog",
+          "title": "Anthropic Abruptly Shuts Down Blog Run by Its AI, Won't Say Why",
           "snippet": "",
-          "url": "https://www.techinasia.com/news/anthropic-closes-claude-ai-blog",
-          "source": "Tech in Asia"
+          "url": "https://futurism.com/anthropic-claude-blog-offline",
+          "source": "Futurism"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "chat gpt",
+      "title": "graz pucnjava",
       "trafficCount": "2000+",
-      "pubDate": "Tue, 10 Jun 2025 04:30:00 -0700",
+      "pubDate": "Tue, 10 Jun 2025 03:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI5C48ILBL5VPjHk_ATmo_eBSWl1yhuEhpPpE0GzN5be22WNaX_IvJFR-nlpA",
+      "pictureSource": "Jutarnji list",
+      "relatedSearch": [
+        {
+          "title": "Policija otkrila detalje: Napadač je 21-godišnji Austrijanac s područja Graza",
+          "snippet": "",
+          "url": "https://www.jutarnji.hr/vijesti/svijet/policija-otkrila-detalje-napadac-je-21-godisnji-austrijanac-s-podrucja-graza-15593121",
+          "source": "Jutarnji list"
+        },
+        {
+          "title": "Ubojica iz Graza (22) bivši je učenik škole. a među žrtvama su navodno i djeca porijeklom iz susjedne BiH",
+          "snippet": "",
+          "url": "https://slobodnadalmacija.hr/vijesti/svijet/ubojica-iz-graza-22-bivsi-je-ucenik-skole-a-medu-zrtvama-su-navodno-i-djeca-porijeklom-iz-susjedne-bih-1481866",
+          "source": "Slobodna Dalmacija"
+        },
+        {
+          "title": "Učenici u panici bježali pred pucnjavom, a onda im je jedan čovjek spasio živote",
+          "snippet": "",
+          "url": "https://www.vecernji.hr/vijesti/ucenici-u-panici-bjezali-pred-pucnjavom-a-onda-im-je-jedan-covjek-spasio-zivote-1868350",
+          "source": "Večernji.hr"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "gemini",
+      "trafficCount": "2000+",
+      "pubDate": "Tue, 10 Jun 2025 02:40:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWNNKmrwIxZ9u4LPB0UwC0Cq3_kuqq2rPaJhhV5j8b1z5t1zSyMZCfiNezVSE",
       "pictureSource": "TechRadar",
       "relatedSearch": [
@@ -53,34 +81,6 @@
           "snippet": "",
           "url": "https://www.usatoday.com/story/tech/news/2025/06/10/is-chatgpt-down-outage/84128221007/",
           "source": "USA Today"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "graz pucnjava",
-      "trafficCount": "2000+",
-      "pubDate": "Tue, 10 Jun 2025 03:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrerkeLefzv8uePWVszUv5JM1o83iZXqshTIVC7bfkArB59NHoMefbnU9HPgE",
-      "pictureSource": "Jutarnji list",
-      "relatedSearch": [
-        {
-          "title": "Manijak iz Graza (22) bivši je učenik škole, evo zašto vjerojatno nikada nećemo saznati njegovo ime",
-          "snippet": "",
-          "url": "https://www.jutarnji.hr/vijesti/svijet/manijak-iz-graza-22-bivsi-je-ucenik-skole-evo-zasto-vjerojatno-nikada-necemo-saznati-njegovo-ime-15593066",
-          "source": "Jutarnji list"
-        },
-        {
-          "title": "Dvoje mladih porijeklom iz BiH među ubijenima u školi u Grazu",
-          "snippet": "",
-          "url": "https://www.index.hr/vijesti/clanak/medju-ubijenima-u-skoli-u-grazu-i-dvoje-mladih-iz-bih/2679410.aspx",
-          "source": "Index.hr"
-        },
-        {
-          "title": "Učenici u panici bježali pred pucnjavom, a onda im je jedan čovjek spasio živote",
-          "snippet": "",
-          "url": "https://www.vecernji.hr/vijesti/ucenici-u-panici-bjezali-pred-pucnjavom-a-onda-im-je-jedan-covjek-spasio-zivote-1868350",
-          "source": "Večernji.hr"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +127,16 @@
           "source": "Index.hr"
         },
         {
-          "title": "Zatreslo se tlo u Hrvatskoj: 'Dosta se osjetilo, svi smo skočili'",
-          "snippet": "",
-          "url": "https://www.vecernji.hr/vijesti/potres-na-zadarskom-podrucju-jako-je-zatreslo-1868227",
-          "source": "Večernji.hr"
-        },
-        {
           "title": "Potres kod Zadra: ‘Puklo je kao bomba,a onda smo osjetili lagano ti kratko podrhtavanje...‘",
           "snippet": "",
           "url": "https://zadarski.slobodnadalmacija.hr/zadar/kalelarga/potres-kod-zadra-puklo-je-kao-bomba-a-onda-smo-osjetili-lagano-ti-kratko-podrhtavanje-1481775",
           "source": "Zadarski.hr"
+        },
+        {
+          "title": "Zatreslo se u Hrvatskoj: 'Dosta se osjetilo, svi smo skočili'",
+          "snippet": "",
+          "url": "https://www.zagorje.com/clanak/vijesti/zatreslo-se-u-hrvatskoj-dosta-se-osjetilo-svi-smo-skocili",
+          "source": "Zagorje.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,10 +155,10 @@
           "source": "WIRED"
         },
         {
-          "title": "What is new Covid variant NB.1.8.1? Symptoms as cases confirmed in UK",
+          "title": "New COVID variant found in California. What are the COVID NB 1.8.1. symptoms?",
           "snippet": "",
-          "url": "https://www.independent.co.uk/news/uk/home-news/covid-new-variant-nb-1-8-1-symptoms-b2767058.html",
-          "source": "The Independent"
+          "url": "https://www.desertsun.com/story/news/nation/california/2025/06/05/feeling-sick-know-these-symptoms-of-the-new-covid-nb-1-8-1-variant/84055253007/",
+          "source": "The Desert Sun"
         },
         {
           "title": "The distinctive symptom doctors say could be a sign of new Covid variant NB.1.8.1",
@@ -189,10 +189,10 @@
           "source": "Jutarnji list"
         },
         {
-          "title": "NE BOJI SE ŠIRENJA RATA Orban kaže da je Rusija preslaba za sukob protiv NATO-a",
+          "title": "Viktor Orban: 'Rusija je slaba, Trump nije mesija, a Putina ću dočekati raširenih ruku'",
           "snippet": "",
-          "url": "https://www.nacional.hr/ne-boji-se-sirenja-rata-orban-kaze-da-je-rusija-preslaba-za-sukob-protiv-nato-a/",
-          "source": "nacional.hr"
+          "url": "https://www.tportal.hr/vijesti/clanak/viktor-orban-rusija-je-slaba-trump-nije-mesija-a-putina-cu-docekati-rasirenih-ruku-20250609",
+          "source": "tportal.hr"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,26 +201,26 @@
       "title": "kurir",
       "trafficCount": "200+",
       "pubDate": "Mon, 9 Jun 2025 14:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSthkZGAO3D7vOM_UGcvbUcrad71mmR4Pk04vEVbsr_9E3PNeX8fvhMiGlDFKU",
-      "pictureSource": "Kurir",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRFBCnnXqEDchBoDkjHcmkKLGWwPNQNcLi-NG680Pr_3z6N_m6JLl5e7QLPURs",
+      "pictureSource": "Blic",
       "relatedSearch": [
         {
-          "title": "DECA U VRTIĆU NA VOŽDOVCU U MAJICAMA SA CRVENIM ŠAKAMA, MINISTARSTVO PROSVETE ODMAH REAGOVALO! Stanković: Ne s",
+          "title": "Upravo se dešava nezamislivo: Rusi i Ukrajinci se udružili, imaju jedan cilj!!",
           "snippet": "",
-          "url": "https://www.kurir.rs/vesti/politika/9694200/deca-u-vrticu-na-vozdovcu-u-majicama-s-crvenim-sakama-ministarstvo-prosvete-reagovalo",
+          "url": "https://www.blic.rs/vesti/svet/desava-se-nezamislivo-rusi-i-ukrajinci-se-udruzili-imaju-jedan-cilj/zzsjyze",
+          "source": "Blic"
+        },
+        {
+          "title": "NIŠTA OD PRIMIRJA! ZELENSKI ODBIO RUSKU MIROVNU PONUDU: \"То је ultimatum koji Kijev ne može da prihvati\"!",
+          "snippet": "",
+          "url": "https://www.kurir.rs/planeta/9694632/zelenski-odbio-rusku-mirovnu-ponudu",
           "source": "Kurir"
         },
         {
-          "title": "Dosta je zloupotrebe dece: Ministar prosvete reagovao na blokadersko ludilo u vrtiću - Prosvetna inspekcija na terenu",
+          "title": "Andrij Sibiha: Rusija još nije odgovorila na ukrajinske predloge za primirje",
           "snippet": "",
-          "url": "https://informer.rs/politika/vesti/1024688/dejan-vuk-stankovic-vrtic-krvave-sake",
-          "source": "Informer"
-        },
-        {
-          "title": "Dejan Vuk Stanković: Ne smemo da dozvolimo zloupotrebu dece u političke svrhe",
-          "snippet": "",
-          "url": "https://www.tanjug.rs/srbija/politika/168314/dejan-vuk-stankovic-ne-smemo-da-dozvolimo-zloupotrebu-dece-u-politicke-svrhe/vest",
-          "source": "tanjug.rs"
+          "url": "https://www.politika.rs/sr/clanak/681534/andrij-sibiha-rusija-jos-nije-odgovorila-na-ukrajinske-predloge-za-primirje",
+          "source": "Politika"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,16 +239,16 @@
           "source": "Večernji.hr"
         },
         {
-          "title": "Kramarić jasan o povratku u Dinamo: ‘Ne trebate me to ni pitati’",
-          "snippet": "",
-          "url": "https://sportklub.n1info.hr/nogomet/kramaric-jasan-o-povratku-u-dinamo-ne-trebate-me-to-ni-pitati/",
-          "source": "Sportklub"
-        },
-        {
           "title": "Andrej Kramarić u Dinamu? Hrvatski reprezentativac nije mogao biti jasniji",
           "snippet": "",
           "url": "https://www.tportal.hr/sport/clanak/andrej-kramaric-u-dinamu-hrvatski-reprezentativac-nije-mogao-biti-jasniji-20250610",
           "source": "tportal.hr"
+        },
+        {
+          "title": "Kramarić jasan o povratku u Dinamo: ‘Ne trebate me to ni pitati’",
+          "snippet": "",
+          "url": "https://sportklub.n1info.hr/nogomet/kramaric-jasan-o-povratku-u-dinamo-ne-trebate-me-to-ni-pitati/",
+          "source": "Sportklub"
         }
       ],
       "link": "https://imtaqin.id/"

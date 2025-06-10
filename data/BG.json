@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-10 15:00:34",
+  "lastUpdate": "2025-06-10 15:27:02",
   "data": [
     {
       "title": "грац",
@@ -15,52 +15,24 @@
           "source": "BBC"
         },
         {
-          "title": "Полиция рассказала детали о нападавшем, который устроил стрельбу в школе в Австрии",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2025/06/10/7516518/",
-          "source": "Українська правда"
-        },
-        {
           "title": "В школе в Австрии произошла стрельба. Погибли не менее восьми человек",
           "snippet": "",
           "url": "https://meduza.io/news/2025/06/10/v-shkole-v-avstrii-proizoshla-strelba-pogibli-ne-menee-vosmi-chelovek",
           "source": "Meduza"
+        },
+        {
+          "title": "Стрельба в австрийской школе: десять человек погибли, еще несколько тяжело ранены",
+          "snippet": "",
+          "url": "https://rus.err.ee/1609718283/strelba-v-avstrijskoj-shkole-desjat-chelovek-pogibli-ewe-neskolko-tjazhelo-raneny",
+          "source": "ERR"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "ai",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 10 Jun 2025 03:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVd_f4I3Z7shlfxuefXzY1qSs6W_9LYhkBQxhqwTSzd29btzIeKVLhE59dElY",
-      "pictureSource": "CNBC",
-      "relatedSearch": [
-        {
-          "title": "28. Scale AI",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2025/06/10/scale-ai-cnbc-disruptor-50.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Teachers can use AI to save time on marking, new guidance says",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c1kvyj7dkp0o",
-          "source": "BBC"
-        },
-        {
-          "title": "10 June 2025",
-          "snippet": "",
-          "url": "https://educationhub.blog.gov.uk/2025/06/10/",
-          "source": "GOV.UK blogs"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "chatgpt",
+      "title": "chat gpt",
       "trafficCount": "10000+",
-      "pubDate": "Tue, 10 Jun 2025 03:30:00 -0700",
+      "pubDate": "Tue, 10 Jun 2025 04:00:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWNNKmrwIxZ9u4LPB0UwC0Cq3_kuqq2rPaJhhV5j8b1z5t1zSyMZCfiNezVSE",
       "pictureSource": "TechRadar",
       "relatedSearch": [
@@ -71,16 +43,44 @@
           "source": "TechRadar"
         },
         {
-          "title": "ChatGPT is down — live updates on massive OpenAI outage",
+          "title": "Yes, ChatGPT and Sora are down for users all around the world",
           "snippet": "",
-          "url": "https://www.tomsguide.com/news/live/chatgpt-openai-down-outage-6-10-2025",
-          "source": "Tom's Guide"
+          "url": "https://www.pcworld.com/article/2809241/yes-chatgpt-and-sora-are-down-for-users-all-around-the-world.html",
+          "source": "PCWorld"
         },
         {
-          "title": "ChatGPT down: chatbot owners respond as AI fails",
+          "title": "ChatGPT is down for some users with OpenAI reporting 'elevated error rates'",
           "snippet": "",
-          "url": "https://uk.finance.yahoo.com/news/chatgpt-down-chatbot-owners-respond-115330916.html",
-          "source": "Yahoo"
+          "url": "https://www.cnbc.com/2025/06/10/chatgpt-down-outage.html",
+          "source": "CNBC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ai",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 10 Jun 2025 03:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZms8AxyYhTh3a2pzCXQMOsy9rp3NUaY-d8VPJfAZ6LziQ_FTRlD3FyxmHAFA",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Teachers can use AI to save time on marking, new guidance says",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c1kvyj7dkp0o",
+          "source": "BBC"
+        },
+        {
+          "title": "Edtech: FE providers wanted to become ‘testbeds’",
+          "snippet": "",
+          "url": "https://feweek.co.uk/fe-providers-wanted-to-become-edtech-testbeds/",
+          "source": "FE Week"
+        },
+        {
+          "title": "10 June 2025",
+          "snippet": "",
+          "url": "https://educationhub.blog.gov.uk/2025/06/10/",
+          "source": "GOV.UK blogs"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -154,9 +154,15 @@
       "title": "fakti",
       "trafficCount": "100+",
       "pubDate": "Mon, 9 Jun 2025 20:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0aDX6W14yD0lCB8YRYGTcINmdJtKdtlkiBWpba40HshK_AvP9X2R4r0LAQH0",
-      "pictureSource": "Новини СЕГА",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQReeDYS5n8bFg40rcvcsWLLe_SrDK-cY33KpSgzQkrqu-EvcspSPG5a3PVX5Y",
+      "pictureSource": "News.bg",
       "relatedSearch": [
+        {
+          "title": "$45 за барел, забрана на \"Северен поток\" и какво още има в 18-ия пакет санкции на ЕС",
+          "snippet": "",
+          "url": "https://news.bg/int-politics/usd45-za-barel-zabrana-na-severen-potok-i-kakvo-oshte-ima-v-18-iya-paket-sanktsii-na-es.html",
+          "source": "News.bg"
+        },
         {
           "title": "Новите санкции на ЕК: Удар по руския петрол и спиране на \"Северен поток\"",
           "snippet": "",
@@ -168,12 +174,6 @@
           "snippet": "",
           "url": "https://trud.bg/a/articles/%D0%B5%D1%81-%D0%B7%D0%B0%D0%B1%D1%80%D0%B0%D0%BD%D1%8F%D0%B2%D0%B0-%D1%81%D0%B5%D0%B2%D0%B5%D1%80%D0%B5%D0%BD-%D0%BF%D0%BE%D1%82%D0%BE%D0%BA",
           "source": "Труд"
-        },
-        {
-          "title": "Новият пакет санкции: ЕК иска по-нисък таван за цената на руския петрол (ВИДЕО)",
-          "snippet": "",
-          "url": "https://www.actualno.com/economy/novijat-paket-sankcii-ek-iska-po-nisyk-tavan-za-cenata-na-ruskija-petrol-video-news_2457377.html",
-          "source": "Actualno.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -210,9 +210,15 @@
       "title": "пълнолуние юни 2025",
       "trafficCount": "500+",
       "pubDate": "Mon, 9 Jun 2025 11:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5IrQOYLgByfy489ugfhw21_DJ2r7OlmmPRW2vjK74jDyKXph_62r4LCP4kTM",
-      "pictureSource": "Actualno.com",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0C3F6Ba5b9GjB_7tSBYoCgUGTYWgFCPaE2SQ_jcViless99tafL91fzCezyY",
+      "pictureSource": "DarikNews.bg",
       "relatedSearch": [
+        {
+          "title": "Ягодова луна в небето - кога да я очакваме и какво вещае",
+          "snippet": "",
+          "url": "https://dariknews.bg/novini/bylgariia/iagodova-luna-v-nebeto-koga-da-ia-ochakvame-i-kakvo-veshtae-2421477",
+          "source": "DarikNews.bg"
+        },
         {
           "title": "Тези зодии 3 зодии влизат в много щастлив период след пълнолунието на 11 юни",
           "snippet": "",
@@ -224,12 +230,6 @@
           "snippet": "",
           "url": "https://btvnovinite.bg/lifestyle/liubopitno/jagodova-luna-na-11-juni-kosmicheski-zov-za-sabuzhdane-za-chetiri-zodiakalni-znaka.html",
           "source": "bTV Новините"
-        },
-        {
-          "title": "Всичко, което трябва да знаем за Ягодова Луна 2025 през юни",
-          "snippet": "",
-          "url": "https://www.edna.bg/astrologia/vsichko-koeto-triabva-da-znaem-za-iagodova-luna-2025-prez-iuni-4680453",
-          "source": "Edna.bg"
         }
       ],
       "link": "https://imtaqin.id/"

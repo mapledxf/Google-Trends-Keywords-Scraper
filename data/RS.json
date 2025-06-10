@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-10 18:46:14",
+  "lastUpdate": "2025-06-10 18:58:14",
   "data": [
     {
       "title": "serbia vs andorra",
@@ -31,7 +31,7 @@
     },
     {
       "title": "andorra",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 10 Jun 2025 11:00:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS99rK9G7CC8WsMb85cxidK0HuaE5r4N1CfrLakmjR_YoRJY_hLmSlL2Pf7aUE",
       "pictureSource": "Europa Press",
@@ -61,15 +61,9 @@
       "title": "partizan vs budućnost",
       "trafficCount": "1000+",
       "pubDate": "Tue, 10 Jun 2025 10:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPhdBD0yvuDBLa1IqA7Z3gFe0ZbDcqrca2eiHw4bBLj8TcT9w_hwf8TNrH1Yo",
-      "pictureSource": "Telegraf.rs",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSaAzS2Savaq_oN6D_rCW-KEFhz9B0Yuqd0AZJP9edQz2bYrF-tahgkYBIDASM",
+      "pictureSource": "Mozzart Sport",
       "relatedSearch": [
-        {
-          "title": "Pogledajte šta su Grobari radili dok su igrači Budućnosti izlazili na parket, Crnogorcima nije bilo prijatno",
-          "snippet": "",
-          "url": "https://www.telegraf.rs/sport/kosarka/4124122-pogledajte-sta-su-grobari-radili-dok-su-igraci-buducnosti-izlazili-na-parket-crnogorcima-nije-bilo-prijatno",
-          "source": "Telegraf.rs"
-        },
         {
           "title": "UŽIVO: Partizan Mozzart Bet - Budućnost",
           "snippet": "",
@@ -81,6 +75,12 @@
           "snippet": "",
           "url": "https://sportklub.n1info.rs/kosarka/aba-league/ajzea-majk-izjava-sport-klub-posle-g2-buducnost-partizan/",
           "source": "Sportklub"
+        },
+        {
+          "title": "(UŽIVO) Partizan - Budućnost (20.00): Treći čin - serija se seli u Beograd!",
+          "snippet": "",
+          "url": "https://www.tvarenasport.com/fudbal/vesti-iz-fudbala/48195/kk-partizan-buducnost-aba-liga/news/",
+          "source": "Arena Sport"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -115,7 +115,7 @@
     },
     {
       "title": "andora",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Tue, 10 Jun 2025 09:40:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7CZzrwH90zTxWns3UC-gnHaqm8_qC-lQhwmefK5-eGhDv7Fe9jtofV0bd8u8",
       "pictureSource": "B92",
@@ -127,16 +127,16 @@
           "source": "B92"
         },
         {
+          "title": "UŽIVO: Srbija - Andora 0:0",
+          "snippet": "",
+          "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-srbija-andora-00/514809",
+          "source": "Mozzart Sport"
+        },
+        {
           "title": "Fudbalska reprezentacija Srbije – „Čair“ poslednja stanica pred duel sa Andorom",
           "snippet": "",
           "url": "https://www.juznevesti.com/sport/fudbalska-reprezentacija-srbije-cair-poslednja-stanica-pred-duel-sa-andorom/",
           "source": "Južne vesti"
-        },
-        {
-          "title": "SASTAVI: Srbija - Andora; Katai iza Mitrovića i Vlahovića",
-          "snippet": "",
-          "url": "https://www.mozzartsport.com/fudbal/vesti/sastavi-srbija-andora-katai-iza-mitrovica-i-vlahovica/514809",
-          "source": "Mozzart Sport"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -192,7 +192,35 @@
           "title": "Google Gemini will let you schedule recurring tasks now, like ChatGPT - here's how",
           "snippet": "",
           "url": "https://www.zdnet.com/article/google-gemini-will-let-you-schedule-recurring-tasks-now-like-chatgpt-heres-how/",
-          "source": "ZDNET"
+          "source": "ZDNet"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "austrija",
+      "trafficCount": "2000+",
+      "pubDate": "Tue, 10 Jun 2025 04:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUimPuPEbQdLan_BCQvOy-J6UvBN3gLV1obi1Hapz05BMTJ_DcWdSI8Y4k8y8",
+      "pictureSource": "Blic",
+      "relatedSearch": [
+        {
+          "title": "ŠOK DETALJI O MASOVNOM UBICI IZ GRACA \"On je poreklom iz BiH\" tvrdi učenica koja je uspela da pobegne iz škole dok je Artur SEJAO SMRT oko sebe",
+          "snippet": "",
+          "url": "https://www.blic.rs/vesti/svet/masakr-u-skoli-u-gracu-sokantni-detalji-o-napadacu-i-sudbini-zrtava-iz-bih/2m77j80",
+          "source": "Blic"
+        },
+        {
+          "title": "Kako je monstrum iz Graca legalno došao do oružja? Ušao u školu i pobio 10 ljudi, evo šta je imao kod sebe",
+          "snippet": "",
+          "url": "https://www.telegraf.rs/vesti/svet/4124109-kako-je-monstrum-iz-graca-legalno-dosao-do-oruzja-usao-u-skolu-i-pobio-10-ljudi-evo-sta-je-imao-kod-sebe",
+          "source": "Telegraf.rs"
+        },
+        {
+          "title": "Policija: U pucnjavi u Gracu 10 mrtvih i 12 ranjenih, napadač koristio dva oružja",
+          "snippet": "",
+          "url": "https://n1info.rs/svet/bbc-najmanje-30-osoba-u-bolnici-nakon-pucnjave-u-skoli-u-gracu/",
+          "source": "N1"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,54 +229,26 @@
       "title": "ai",
       "trafficCount": "500+",
       "pubDate": "Tue, 10 Jun 2025 04:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuXNaw2Bg8WQB8WfT0xcv4fGzyum9LgqBZQbbEeRjhMN0mkGp7d4gA0qhG5ec",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPP3jywgFnsmfNlD41Yh2lkGaekVlXUuCgGHV3n44abuhiTpOAnmrmcageP7c",
       "pictureSource": "Fortune",
       "relatedSearch": [
         {
-          "title": "Ohio State University is requiring every student to use AI in class to become ‘AI fluent’",
+          "title": "Klarna CEO predicts AI-driven job displacement will cause a recession",
           "snippet": "",
-          "url": "https://fortune.com/2025/06/10/ohio-state-university-ai-fluency-requirement-all-students/",
+          "url": "https://fortune.com/europe/2025/06/09/bnpl-loans-klarna-ceo-predicts-ai-recession/",
           "source": "Fortune"
         },
         {
-          "title": "Sugar's ill effects depend on how you consume it—in drinks or in food—new research finds",
+          "title": "A growing number of Fortune 500 companies are pursuing ‘blockchain initiatives’ as crypto goes mainstream",
           "snippet": "",
-          "url": "https://fortune.com/well/2025/06/10/drinking-sugar-worse-than-eating/",
+          "url": "https://fortune.com/crypto/2025/06/10/fortune-500-companies-pursue-blockchain-initiatives-crypto-mainstream/",
           "source": "Fortune"
         },
         {
-          "title": "Brooks Running’s CEO has 1 critical piece of advice for anyone aspiring to the corner office",
+          "title": "Slashing public health funding is a national security disaster in the making: Howard Dean",
           "snippet": "",
-          "url": "https://fortune.com/2025/06/10/brooks-runnings-ceo-advice-corner-office/",
+          "url": "https://fortune.com/2025/06/10/slashing-public-health-funding-national-security-disaster/",
           "source": "Fortune"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "pucnjava u gracu",
-      "trafficCount": "2000+",
-      "pubDate": "Tue, 10 Jun 2025 03:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmrWTx_cDRDGjsnoOpxJUwh6KJP83l5_ri4khzVP_zkfGauiIQCiAV7dXlSPw",
-      "pictureSource": "Blic",
-      "relatedSearch": [
-        {
-          "title": "Masakr u školi u Gracu: Najmanje 10 mrtvih! (VIDEO)",
-          "snippet": "",
-          "url": "https://www.blic.rs/vesti/svet/pucnjava-u-skoli-u-gracu-uzivo-najmanje-10-ubijenih-ubio-se-i-napadac/8wpjwm4",
-          "source": "Blic"
-        },
-        {
-          "title": "Policija: U pucnjavi u Gracu 10 mrtvih i 12 ranjenih, napadač koristio dva oružja",
-          "snippet": "",
-          "url": "https://n1info.rs/svet/bbc-najmanje-30-osoba-u-bolnici-nakon-pucnjave-u-skoli-u-gracu/",
-          "source": "N1"
-        },
-        {
-          "title": "Пуцњава у школи у Грацу, најмање девет мртвих",
-          "snippet": "",
-          "url": "https://www.politika.rs/scc/clanak/681584/pucnjava-u-skoli-u-gracu-najmanje-devet-mrtvih",
-          "source": "Politika"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-10 05:57:10",
+  "lastUpdate": "2025-06-10 06:26:02",
   "data": [
     {
       "title": "weather",
@@ -21,10 +21,10 @@
           "source": "Dallas News"
         },
         {
-          "title": "City of Bonham assessing damage after severe weather event",
+          "title": "KTXS news station experiences severe damages from Sunday night storms",
           "snippet": "",
-          "url": "https://www.ntxe-news.com/artman/publish/article_142019.shtml",
-          "source": "North Texas e-News"
+          "url": "https://ktxs.com/news/local/ktxs-news-station-experiences-severe-damages-from-sunday-night-storms",
+          "source": "KTXS"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -105,10 +105,10 @@
           "source": "Евро-Футбол"
         },
         {
-          "title": "Квалификация ЧМ-2026, Европа: Казахстан примет Северную Македонию, Италия сыграет с Молдовой и другие матчи",
+          "title": "Сегодня завершается летний цикл отбора на чемпионат мира",
           "snippet": "",
-          "url": "https://by.tribuna.com/football/1113039760-kvalifikaczyya-chs2026-europa-kazaxstan-pryme-paunochnuyu-m/",
-          "source": "Tribuna.com Беларусь"
+          "url": "https://terrikon.com/posts/525577",
+          "source": "Террикон"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -126,9 +126,28 @@
       "title": "казахстан – северная македония",
       "trafficCount": "200+",
       "pubDate": "Mon, 9 Jun 2025 07:10:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8uJ4qSEX7EnIuIpQ_Wq-76ORyI1ePAWTnMgQ6uaFZ6XK20B9l2RgGWHoc5dQ",
+      "pictureSource": "Спорт Mail",
+      "relatedSearch": [
+        {
+          "title": "Один гол решил судьбу матча Казахстан — Северная Македония",
+          "snippet": "",
+          "url": "https://sportmail.ru/news/football-worldcup/66506423/",
+          "source": "Спорт Mail"
+        },
+        {
+          "title": "“Опустошенность“ - главный тренер о первом поражении на “Астана Арене“ за два года",
+          "snippet": "",
+          "url": "https://tengrisport.kz/tnsport/opustoshennost-glavnyiy-trener-pervom-porajenii-astana-arene-572458/",
+          "source": "Tengri Sport"
+        },
+        {
+          "title": "Упустив немало голевых шансов, Казахстан проиграл македонцам на «Астана Арене»",
+          "snippet": "",
+          "url": "https://kz.kursiv.media/2025-06-09/mlts-kazahstan-proigral-makedonii/",
+          "source": "Kursiv Media Казахстан"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]

@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-06-10 11:26:06",
+  "lastUpdate": "2025-06-10 11:37:10",
   "data": [
+    {
+      "title": "סער 6",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 10 Jun 2025 04:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWJ0rpSxvIH2J8hBovBthU-yq7mJl7iI6AmW0dmqllmxu13cR-ZHvZAF7tKq8",
+      "pictureSource": "ynet",
+      "relatedSearch": [
+        {
+          "title": "שיגור מסער 6, לעבר \"צוואר הבקבוק\" של החות'ים: כך בוצעה התקיפה בנמל חודיידה",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/news/article/rk174kbmxe",
+          "source": "ynet"
+        },
+        {
+          "title": "התקיפה בתימן: ספינות הטילים ירו שני טילים ממרחק של מאות קילומטרים",
+          "snippet": "",
+          "url": "https://www.kan.org.il/content/kan-news/defense/918431/",
+          "source": "כאן 11"
+        },
+        {
+          "title": "חיל האוויר קיבל סיוע מיוחד: לפי שעה לא ניתן לפרסם מה קרה בתימן | אבי אשכנזי",
+          "snippet": "",
+          "url": "https://www.maariv.co.il/news/military/article-1204156",
+          "source": "מעריב"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "grok",
       "trafficCount": "200+",
@@ -21,9 +49,9 @@
           "source": "The New York Times"
         },
         {
-          "title": "Musk rebukes Grok for verifying fabricated X post",
+          "title": "Breaking down claims Stephen Miller's wife, Katie, left him for Elon Musk",
           "snippet": "",
-          "url": "https://www.yahoo.com/news/musk-rebukes-grok-verifying-fabricated-154953650.html",
+          "url": "https://www.yahoo.com/news/breaking-down-claims-stephen-millers-130000331.html",
           "source": "Yahoo"
         }
       ],
@@ -43,10 +71,10 @@
           "source": "TechRadar"
         },
         {
-          "title": "Is ChatGPT Down? What We Know About OpenAI Outage Reports",
+          "title": "ChatGPT outage live — latest news as OpenAI chatbot unexpectedly goes down",
           "snippet": "",
-          "url": "https://www.newsweek.com/chatgpt-down-openai-2083298",
-          "source": "Newsweek"
+          "url": "https://www.tomsguide.com/news/live/chatgpt-openai-down-outage-6-10-2025",
+          "source": "Tom's Guide"
         },
         {
           "title": "ChatGPT is having some issues",
@@ -99,16 +127,16 @@
           "source": "וואלה ספורט"
         },
         {
-          "title": "פפ גווארדיולה: \"תיזהרו ממה שקורה בעזה, כי הבאים בתור יהיו הילדים שלנו\"",
-          "snippet": "",
-          "url": "https://www.haaretz.co.il/sport/world-soccer/2025-06-10/ty-article/00000197-5934-d586-a3f7-f9be1bea0000",
-          "source": "הארץ"
-        },
-        {
           "title": "הנאום החריף של פפ גווארדיולה על עזה: \"הילדים ההרוגים הבאים יהיו שלנו\"",
           "snippet": "",
           "url": "https://www.ynet.co.il/sport/worldsoccer/article/hyocdvr7gg",
           "source": "ynet"
+        },
+        {
+          "title": "\"כואב בכל הגוף כשרואים את מה שקורה בעזה\"",
+          "snippet": "",
+          "url": "https://www.sport5.co.il/articles.aspx?FolderID=252&docID=508561",
+          "source": "ספורט 5"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -137,34 +165,6 @@
           "snippet": "",
           "url": "https://www.israelhayom.co.il/culture/music/article/18153853",
           "source": "www.israelhayom.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "תימן",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 9 Jun 2025 22:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWJ0rpSxvIH2J8hBovBthU-yq7mJl7iI6AmW0dmqllmxu13cR-ZHvZAF7tKq8",
-      "pictureSource": "ynet",
-      "relatedSearch": [
-        {
-          "title": "שיגור מסער 6, לעבר \"צוואר הבקבוק\" של החות'ים: כך בוצעה התקיפה בנמל חודיידה",
-          "snippet": "",
-          "url": "https://www.ynet.co.il/news/article/rk174kbmxe",
-          "source": "ynet"
-        },
-        {
-          "title": "התקיפה בתימן: ספינות הטילים ירו שני טילים ממרחק של מאות קילומטרים",
-          "snippet": "",
-          "url": "https://www.kan.org.il/content/kan-news/defense/918431/",
-          "source": "כאן 11"
-        },
-        {
-          "title": "התקיפה בתימן: חיל הים הישראלי העביר מסר לחות'ים - ולמזרח התיכון כולו | אבי אשכנזי",
-          "snippet": "",
-          "url": "https://www.maariv.co.il/news/military/article-1204156",
-          "source": "מעריב"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,10 +245,10 @@
           "source": "וואלה ספורט"
         },
         {
-          "title": "ירושלים תצטרך יום גדול כדי לגרור את מכבי ת\"א למשחק שלישי | טור",
+          "title": "נורמליזציה במזרח התיכון? פתאום זו חזרה להיות מכבי תל אביב של פעם",
           "snippet": "",
-          "url": "https://www.ynet.co.il/sport/article/sjeyn7rmll",
-          "source": "ynet"
+          "url": "https://sports.walla.co.il/item/3756358",
+          "source": "וואלה ספורט"
         }
       ],
       "link": "https://imtaqin.id/"

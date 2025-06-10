@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2025-06-10 07:53:54",
+  "lastUpdate": "2025-06-10 08:14:15",
   "data": [
     {
-      "title": "атака київ",
+      "title": "стадіон спартак",
       "trafficCount": "5000+",
-      "pubDate": "Tue, 10 Jun 2025 00:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlhW5ZhoENL6J7k_TJlJI2raWTwYvBkdwh2hZAnCY6REU8r_WdIWL6oA2KAko",
-      "pictureSource": "Радіо Свобода",
+      "pubDate": "Tue, 10 Jun 2025 00:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlsjvfk8zA9HhS7akMStmMsEQv4IheFOR2dK3RIdjWM8WNb8ooJ2jN8IsipcU",
+      "pictureSource": "Korrespondent.net",
       "relatedSearch": [
+        {
+          "title": "У Києві залучили гелікоптер на усунення наслідків",
+          "snippet": "",
+          "url": "https://ua.korrespondent.net/city/kiev/4789114-u-kyievi-zadiialy-helikopter-na-likvidatsiui-naslidkiv",
+          "source": "Korrespondent.net"
+        },
         {
           "title": "Масована атака РФ на Київ: чотири людини постраждали, руйнування є у семи районах – влада",
           "snippet": "",
@@ -15,16 +21,38 @@
           "source": "Радіо Свобода"
         },
         {
-          "title": "Масований удар РФ по Києву. У столиці пошкоджені житлові будинки, палали автівки та склади — фоторепортаж",
+          "title": "На Київщині триває ліквідація наслідків нічної атаки росії: є поранені",
           "snippet": "",
-          "url": "https://nv.ua/ukr/kyiv/udar-po-kiyevu-10-chervnya-fotoreportazh-naslidkiv-masovanoji-ataki-rf-novini-kiyeva-50520765.html",
-          "source": "NV.ua"
+          "url": "https://armyinform.com.ua/2025/06/10/na-kyyivshhyni-tryvaye-likvidacziya-naslidkiv-nichnoyi-ataky-rosiyi-ye-poraneni/",
+          "source": "АрміяInform – Інформаційне агентство АрміяInform"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "вибухи",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 9 Jun 2025 21:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJLNRWRj_xa9PoFBTORNLVK18-l95zGAfY-Ga07y9-iBaG0eBDHlxUDogdfH8",
+      "pictureSource": "ТСН",
+      "relatedSearch": [
+        {
+          "title": "Росію масовано атакували дрони: вибухи — у місті, ще збирають \"Шахеди\"",
+          "snippet": "",
+          "url": "https://tsn.ua/svit/rosiiu-masovano-atakuvaly-drony-vybukhy-u-misti-shche-zbyraiut-shakhedy-2846219.html",
+          "source": "ТСН"
         },
         {
-          "title": "Київ пережив один із найбільших ударів — фото та подробиці наслідків обстрілу",
+          "title": "У всіх столичних аеропортах РФ - \"килим\"",
           "snippet": "",
-          "url": "https://sud.ua/uk/news/ukraine/333205-kiev-perezhil-odin-iz-samykh-bolshikh-udarov-foto-i-podrobnosti-posledstviy-obstrela",
-          "source": "Судово-юридична газета"
+          "url": "https://ua.korrespondent.net/world/russia/4789079-u-vsikh-stolychnykh-aeroportakh-rf-kylym",
+          "source": "Korrespondent.net"
+        },
+        {
+          "title": "Невідомі дрони знову атакують Росію: у Татарстані працює ППО",
+          "snippet": "",
+          "url": "https://24tv.ua/vibuhi-rosiyi-10-chervnya-2025-roku-urantsi-droni-atakuvali-tatarstan_n2842807",
+          "source": "24 Канал"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,44 +267,16 @@
           "source": "Європейська правда"
         },
         {
-          "title": "Шеф німецької розвідки прогнозує \"зелених чоловічків\" у Європі",
-          "snippet": "",
-          "url": "https://lb.ua/society/2025/06/10/680922_shef_nimetskoi_rozvidki_prognozuie.html",
-          "source": "LB.ua"
-        },
-        {
           "title": "У Москві хочуть перевірити НАТО — голова німецької розвідки попереджає про плани Кремля",
           "snippet": "",
           "url": "https://tsn.ua/svit/u-moskvi-khochut-pereviryty-nato-hlava-nimetskoyi-rozvidky-poperedzaye-pro-plany-kremlia-2846072.html",
           "source": "ТСН"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "обухов",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 9 Jun 2025 16:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyElhLYk9W1kGzqTX0Ul0gDPXD1QsfdD69a2sTx6pYV0U6Y0gXtgBkPZ2vkEE",
-      "pictureSource": "Евро-Футбол",
-      "relatedSearch": [
-        {
-          "title": "Вратарь «Химок» продолжит карьеру в «Факеле»",
-          "snippet": "",
-          "url": "https://www.euro-football.ru/article/30985/1005925053_vratar_himok_prodoljit_kareru_v_fakele",
-          "source": "Евро-Футбол"
         },
         {
-          "title": "Георгий Гонгадзе – снова в «Факеле»!",
+          "title": "У Москві більше не вірять у 5 статтю НАТО, - розвідка Німеччини",
           "snippet": "",
-          "url": "https://fakelfc.ru/news/view/9839-georgij-gongadze-snova-v-fakele",
-          "source": "ФК «Факел»-Воронеж"
-        },
-        {
-          "title": "Выяснилось, кто может занять место основного вратаря в воронежском «Факеле»",
-          "snippet": "",
-          "url": "https://moe-online.ru/news/sport/1226775",
-          "source": "МОЁ! Online. Все новости Воронежа"
+          "url": "https://www.unian.ua/world/5-stattya-nato-nimechchina-gotuyetsya-do-napadu-rosiji-13033422.html",
+          "source": "УНІАН"
         }
       ],
       "link": "https://imtaqin.id/"

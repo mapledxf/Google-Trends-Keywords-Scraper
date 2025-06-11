@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-11 05:23:19",
+  "lastUpdate": "2025-06-11 05:41:06",
   "data": [
     {
       "title": "uefa",
@@ -27,15 +27,6 @@
           "source": "Başka Gazete"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "yle uutiset",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 10 Jun 2025 14:10:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -98,26 +89,26 @@
       "title": "is",
       "trafficCount": "2000+",
       "pubDate": "Tue, 10 Jun 2025 13:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQw1bOD2xFFxKnQtXb0oFhpZsVvu6eiiGde1yzZHD_DRh9S5Cc-d6RvS_4EL58",
-      "pictureSource": "The New York Times",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTl0pObz7eFys41sGAyfTxd4axx-dr__CHm9A2gzHCSg9mPr5u9iIviPfhVC-E",
+      "pictureSource": "Fox News",
       "relatedSearch": [
         {
-          "title": "LA Protests Live Updates: Marines Deployed on Trump’s Orders Amid Muted Demonstrations",
+          "title": "Marines en route to Los Angeles as anti-ICE protesters block roads, contest police",
           "snippet": "",
-          "url": "https://www.nytimes.com/live/2025/06/10/us/la-protests-marines-ice-trump",
+          "url": "https://www.foxnews.com/live-news/marines-deploy-los-angeles-trump-ice-protest-newsom",
+          "source": "Fox News"
+        },
+        {
+          "title": "Armed National Guard Troops Aid Immigration Agents on Raids in Los Angeles",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/06/10/us/national-guard-ice-raids-los-angeles.html",
           "source": "The New York Times"
         },
         {
-          "title": "Judge rejects Newsom’s emergency request to limit Trump LA troop deployment",
+          "title": "Bass declares local emergency, institutes curfew in downtown Los Angeles",
           "snippet": "",
-          "url": "https://thehill.com/regulation/court-battles/5343599-judge-rejects-newsom-emergency-request/",
-          "source": "The Hill"
-        },
-        {
-          "title": "Live updates: Downtown LA now under curfew after looting and vandalism",
-          "snippet": "",
-          "url": "https://www.nbclosangeles.com/news/local/live-updates-more-anti-ice-demonstrations-expected-for-the-fifth-straight-day-in-los-angeles/3719960/",
-          "source": "NBC Los Angeles"
+          "url": "https://ktla.com/news/local-news/los-angeles-ice-protests-enter-day-5/",
+          "source": "KTLA"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -180,7 +171,7 @@
     },
     {
       "title": "laitila",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Tue, 10 Jun 2025 13:10:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0w_n-abe6TWyuYTx5BrSwuUZpTyUAbcE-Ow6GxYmtT9OjbkdatwBbEkA1r0U",
       "pictureSource": "Iltalehti",
@@ -198,10 +189,10 @@
           "source": "Ilta-Sanomat"
         },
         {
-          "title": "Onnettomuus | Kaksi nuorta kuoli – Auto ajautui louhokseen Laitilassa",
+          "title": "Kaksi nuorta kuoli Laitilassa auton ajauduttua veteen",
           "snippet": "",
-          "url": "https://www.satakunnankansa.fi/satakunta/art-2000011291986.html",
-          "source": "Satakunnan Kansa"
+          "url": "https://yle.fi/a/74-20167023",
+          "source": "Yle"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -252,6 +243,34 @@
           "snippet": "",
           "url": "https://sports.yahoo.com/article/live-usa-mexico-canada-action-235000149.html",
           "source": "Yahoo Sports"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "teemu pukki",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 10 Jun 2025 12:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9IiR1t7YwZYonoxX2va4r8Q_2cqvhVK1pIW57iGvqNZ6O2y3CkLfLHiGy9Y0",
+      "pictureSource": "Veikkausliiga",
+      "relatedSearch": [
+        {
+          "title": "Teemu Pukki vieraana Veikkausliiga-podcastissa",
+          "snippet": "",
+          "url": "https://www.veikkausliiga.com/uutiset/2025/06/10/teemu-pukki-vieraana-veikkausliiga-podcastissa",
+          "source": "Veikkausliiga"
+        },
+        {
+          "title": "Ville Tikkanen arvioi Teemu Pukin ja Alex Ringin merkitystä HJK:lle",
+          "snippet": "",
+          "url": "https://www.suomifutis.com/2025/06/ville-tikkanen-arvioi-teemu-pukin-ja-alex-ringin-merkitysta-hjklle-taman-muutoksen-miika-nuutinen-toi-paavalmentajana/",
+          "source": "SuomiFutis"
+        },
+        {
+          "title": "Teemu Pukki – ”Stuart Baxter on unohtunut”",
+          "snippet": "",
+          "url": "https://www.sportti.com/jalkapallo/teemu-pukki-stuart-baxter-on-unohtunut/",
+          "source": "Sportti.com"
         }
       ],
       "link": "https://imtaqin.id/"

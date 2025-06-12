@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-12 09:46:22",
+  "lastUpdate": "2025-06-12 09:53:57",
   "data": [
     {
       "title": "scotland vs netherlands",
@@ -59,7 +59,7 @@
     },
     {
       "title": "bbc news",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 12 Jun 2025 02:20:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy_L37Bjfyb1UsKllI-Vi2P6awTeIH80Ii7-KaVDyH_NqAqAJI_ncypBjvsv0",
       "pictureSource": "BBC",
@@ -87,7 +87,7 @@
     },
     {
       "title": "bbc",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 12 Jun 2025 02:10:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvR5BokrWoocyAap0bk_DDWQtdGUnhAme_0FtpaTxBCvXA9TljYf5VSofe5Ko",
       "pictureSource": "BBC",
@@ -117,9 +117,15 @@
       "title": "cnn",
       "trafficCount": "100+",
       "pubDate": "Thu, 12 Jun 2025 02:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWeADnOrDhIC1r-gqsCQ3c-nNUWKAThsQDmOHDEZLHrMWZrPPvOgRkmwRrw6k",
-      "pictureSource": "ABC7 New York",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR4vmcl3uJwESjRIMvOUDM5Q3jLcIeV7GC6-OPMQoWAH3mdj3t-iu18Jr0u7QU",
+      "pictureSource": "CNN",
       "relatedSearch": [
+        {
+          "title": "Live updates: Protests against Trump ICE raids flare across US",
+          "snippet": "",
+          "url": "https://www.cnn.com/us/live-news/la-protests-ice-raids-trump-06-12-25",
+          "source": "CNN"
+        },
         {
           "title": "2 arrested as anti-ICE protesters return to Lower Manhattan in third night of demonstrations in New York City",
           "snippet": "",
@@ -131,12 +137,6 @@
           "snippet": "",
           "url": "https://www.nbcnewyork.com/new-york-city/nyc-ice-protests-today-locations-foley-square-federal-plaza/6298404/",
           "source": "NBC New York"
-        },
-        {
-          "title": "Protests over immigration raids pop up across the US with more planned",
-          "snippet": "",
-          "url": "https://apnews.com/article/immigration-protests-arrests-austin-aa726c826047f8d7eb4091acc8929b8e",
-          "source": "AP News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -149,7 +149,7 @@
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Air India crash live: London-bound passenger plane carrying 244 people crashes after take-off in India",
+          "title": "Air India crash live: London-bound passenger plane carrying more 240 people crashes after take-off in India",
           "snippet": "",
           "url": "https://www.bbc.com/news/live/c8d1r3m8z92t",
           "source": "BBC"
@@ -161,10 +161,10 @@
           "source": "Times of India"
         },
         {
-          "title": "Ahmedabad Plane Crash: What We Know So Far",
+          "title": "Ahmedabad plane crash live updates: Modi takes stock of Air India crash; Ex-Gujarat CM likely on board",
           "snippet": "",
-          "url": "https://www.ndtv.com/india-news/ahmedabad-air-india-plane-crash-ahmedabad-to-london-plane-crash-what-we-know-so-far-8649313",
-          "source": "NDTV"
+          "url": "https://www.hindustantimes.com/india-news/ahmedabad-plane-crash-live-updates-air-india-flight-crashes-ahmedabad-airport-death-toll-news-101749717953751.html",
+          "source": "Hindustan Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,10 +226,10 @@
           "source": "AP News"
         },
         {
-          "title": "NBA Finals 2025: Indiana Pacers bench inspires comeback for 2-1 series lead against Oklahoma City Thunder",
+          "title": "Thunder find themselves in familiar territory in NBA Finals, trailing 2-1 in another series",
           "snippet": "",
-          "url": "https://www.olympics.com/en/news/nba-finals-2025-indiana-pacers-bench-comeback-series-lead-oklahoma-city-thunder",
-          "source": "Olympics.com"
+          "url": "https://www.sportsnet.ca/article/thunder-find-themselves-in-familiar-territory-in-nba-finals-trailing-2-1-in-another-series/",
+          "source": "Sportsnet.ca"
         }
       ],
       "link": "https://imtaqin.id/"

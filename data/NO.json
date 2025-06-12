@@ -1,13 +1,47 @@
 {
-  "lastUpdate": "2025-06-12 09:46:24",
+  "lastUpdate": "2025-06-12 09:53:59",
   "data": [
+    {
+      "title": "bbc news",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 12 Jun 2025 02:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy_L37Bjfyb1UsKllI-Vi2P6awTeIH80Ii7-KaVDyH_NqAqAJI_ncypBjvsv0",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "US to partially evacuate embassy in Iraq as Iran tensions rise",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c629yk5z07vo",
+          "source": "BBC"
+        },
+        {
+          "title": "US evacuates personnel from Middle East in sign of growing regional tension",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/2025/6/12/us-evacuates-personnel-from-middle-east-in-sign-of-growing-regional-tension",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Donald Trump says US military families can leave parts of Middle East",
+          "snippet": "",
+          "url": "https://www.ft.com/content/5df91895-5de2-4d4e-a2d2-b41bc1c2bda3",
+          "source": "Financial Times"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "bbc",
       "trafficCount": "200+",
       "pubDate": "Thu, 12 Jun 2025 02:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4b6KZssLBw6ETqkuPPHATYDt9GPR_-2rE4OpYVaOIU8YmB6A_5NYl7R-iGDE",
-      "pictureSource": "The Guardian",
+      "picture": "",
+      "pictureSource": "GOV.UK",
       "relatedSearch": [
+        {
+          "title": "Spending Review 2025 (HTML)",
+          "snippet": "",
+          "url": "https://www.gov.uk/government/publications/spending-review-2025-document/spending-review-2025-html",
+          "source": "GOV.UK"
+        },
         {
           "title": "Rachel Reeves seized her moment – whatever the future brings, Labour’s economic course is now set | Martin Kettle",
           "snippet": "",
@@ -19,19 +53,13 @@
           "snippet": "",
           "url": "https://www.bbc.com/news/articles/czdyzrm99g2o",
           "source": "BBC"
-        },
-        {
-          "title": "Rachel Reeves banks on AI to help eke out UK government savings",
-          "snippet": "",
-          "url": "https://www.ft.com/content/0e9ad2b6-de19-4164-ac7b-bb8d0a33ca2c",
-          "source": "Financial Times"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "ahmedabad",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 12 Jun 2025 02:20:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRolOUuY-EWzFwgrqoyc4dbaB665xLjpxTGB1aPNrjNULFQSEU0Th5WN0pXLmw",
       "pictureSource": "BBC",
@@ -43,16 +71,16 @@
           "source": "BBC"
         },
         {
+          "title": "Plane crashes at airport in western Indian city of Ahmedabad",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/06/12/asia/plane-crash-india-ahmedabad",
+          "source": "CNN"
+        },
+        {
           "title": "Air India Ahmedabad-London flight crashes near airport in Meghani area",
           "snippet": "",
           "url": "https://timesofindia.indiatimes.com/city/ahmedabad/plane-crashes-in-ahmedabads-meghani-area/articleshow/121798487.cms",
           "source": "Times of India"
-        },
-        {
-          "title": "Ahmedabad Plane Crash: What We Know So Far",
-          "snippet": "",
-          "url": "https://www.ndtv.com/india-news/ahmedabad-air-india-plane-crash-ahmedabad-to-london-plane-crash-what-we-know-so-far-8649313",
-          "source": "NDTV"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -71,16 +99,16 @@
           "source": "VG"
         },
         {
-          "title": "Passasjerfly styrtet i India – minst 242 mennesker om bord",
-          "snippet": "",
-          "url": "https://www.tv2.no/nyheter/passasjerfly-styrtet-i-india-minst-242-mennesker-om-bord/17821869/",
-          "source": "TV2.no"
-        },
-        {
           "title": "Passasjerfly styrtet i India – skulle til London",
           "snippet": "",
           "url": "https://www.nrk.no/urix/passasjerfly-styrtet-i-india-_-skulle-til-london-1.17452222",
           "source": "NRK"
+        },
+        {
+          "title": "Passasjerfly styrtet i India – skal ha vært 242 mennesker om bord",
+          "snippet": "",
+          "url": "https://www.tv2.no/nyheter/passasjerfly-styrtet-i-india-skal-ha-vaert-242-mennesker-om-bord/17821869/",
+          "source": "TV2.no"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +155,16 @@
           "source": "13WMAZ"
         },
         {
-          "title": "June's Strawberry Moon rises tonight. Here's what to expect from the lowest full moon since 2006",
-          "snippet": "",
-          "url": "https://www.space.com/stargazing/junes-strawberry-moon-rises-tonight-heres-what-to-expect-from-the-lowest-full-moon-since-2006",
-          "source": "Space"
-        },
-        {
           "title": "Final full moon of Spring, the ‘Strawberry Moon,’ glows over central Ohio",
           "snippet": "",
           "url": "https://www.nbc4i.com/weather/final-full-moon-of-spring-the-strawberry-moon-glows-over-central-ohio/",
           "source": "NBC4 WCMH-TV"
+        },
+        {
+          "title": "'Strawberry Moon' 2025: June's full moon is about to break an annual record",
+          "snippet": "",
+          "url": "https://www.livescience.com/space/the-moon/strawberry-moon-2025-junes-full-moon-is-about-to-break-an-annual-record",
+          "source": "Live Science"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,20 +173,20 @@
       "title": "gavin newsom",
       "trafficCount": "200+",
       "pubDate": "Wed, 11 Jun 2025 14:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnICufKomalOymF8VJVYk5zHwWo2O8fCoSrQ1l8Nfff62EpmvbhqpyImrDrYw",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9iaolt2kmZP507NVNvoPwthYrxFD_yl3tZzNf7MaMRE-FAGuHyCnP_B8tR4c",
+      "pictureSource": "CNN",
       "relatedSearch": [
+        {
+          "title": "How to decode the shifting politics of the anti-Trump protests",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/06/12/politics/trump-newsom-los-angeles-immigration-politics",
+          "source": "CNN"
+        },
         {
           "title": "Newsom v Trump holds promise and peril for California governor",
           "snippet": "",
           "url": "https://www.bbc.com/news/articles/c1ld3pzg2n2o",
           "source": "BBC"
-        },
-        {
-          "title": "Newsom Says Trump Is Destroying U.S. Democracy in Speech on L.A. Protests",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2025/06/10/us/newsom-speech-trump-la-protests.html",
-          "source": "The New York Times"
         },
         {
           "title": "'Tom, arrest me. Let's go.': Gov. Gavin Newsom responds to Trump border czar's threat",
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.vice.com/en/article/the-goal-isnt-trust-but-malleability-pavements-director-alex-ross-perry-on-the-terrible-truths-of-banal-music-biopics/",
           "source": "VICE"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "valgomat nrk",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 11 Jun 2025 12:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXu8OKDWs5CaypnJGaopqNtiKpEsz872aKyvYdXPSLbnTXdtHx54K5Vwxqwmw",
-      "pictureSource": "NRK",
-      "relatedSearch": [
-        {
-          "title": "Partiguiden 2025",
-          "snippet": "",
-          "url": "https://www.nrk.no/presse/nrk-lanserer-partiguiden-1.17443142",
-          "source": "NRK"
-        },
-        {
-          "title": "Kritisk til NRKs valgomat: – Ville blitt en bedre velgerguide om bistand var inkludert",
-          "snippet": "",
-          "url": "https://www.panoramanyheter.no/norsk-bistand-utviklingspolitikk-valg/kritisk-til-nrks-valgomat-ville-blitt-en-bedre-velgerguide-om-bistand-var-inkludert/393648",
-          "source": "Panorama nyheter"
-        },
-        {
-          "title": "Hurra – valgomatene er her! Eller?",
-          "snippet": "",
-          "url": "https://www.liberaleren.no/2025/06/11/hurra-valgomatene-er-her-eller/",
-          "source": "Liberaleren"
         }
       ],
       "link": "https://imtaqin.id/"

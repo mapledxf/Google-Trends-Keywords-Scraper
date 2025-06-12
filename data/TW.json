@@ -1,6 +1,62 @@
 {
-  "lastUpdate": "2025-06-12 21:56:19",
+  "lastUpdate": "2025-06-12 22:14:37",
   "data": [
+    {
+      "title": "台風",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 12 Jun 2025 14:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRv_U6EpmqfodgUCGLwarBU8jVv8Ttw3VdzIAYtVkix_d6bFxATIPsSxlzeEHU",
+      "pictureSource": "フォーカス台湾",
+      "relatedSearch": [
+        {
+          "title": "台風1号が発生 大陸方面へ 台湾への影響ない見通し＝気象署",
+          "snippet": "",
+          "url": "https://japan.focustaiwan.tw/travel/202506110001",
+          "source": "フォーカス台湾"
+        },
+        {
+          "title": "台風1号は中国大陸へ　熱帯低気圧も発生　明日13日にかけ八重山地方で滝のような雨(気象予報士 日直主任 2025年06月12日)",
+          "snippet": "",
+          "url": "https://tenki.jp/forecaster/deskpart/2025/06/12/34083.html",
+          "source": "tenki.jp"
+        },
+        {
+          "title": "【山口天気 朝刊6/13】きょう13日(金)は途切れ途切れの雨 梅雨前線活発化で週末は激しい雨…警報級の大雨のおそれも",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/1f93aecbd9c136b685222889375d27471350a2bd",
+          "source": "Yahoo!ニュース"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "費城半導體指數",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 12 Jun 2025 14:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRPLIPf-BXhsM3qT8W71E9uNVh_tAZWRykU2zXZl0mmndpAki3jn9htkdhHi4",
+      "pictureSource": "鉅亨網",
+      "relatedSearch": [
+        {
+          "title": "〈美股早盤〉美通膨降溫難敵地緣與關稅風險 主要指數開低",
+          "snippet": "",
+          "url": "https://news.cnyes.com/news/id/6020639",
+          "source": "鉅亨網"
+        },
+        {
+          "title": "CPI低於預期難救市！道瓊表現不佳台積電ADR下滑輝達逆勢上揚- 國際",
+          "snippet": "",
+          "url": "https://www.ctee.com.tw/news/20250612702015-430702",
+          "source": "工商時報"
+        },
+        {
+          "title": "美中貿易框架待川習批准四大指數收黑- 新聞",
+          "snippet": "",
+          "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=f7cd30d1-015d-4b8e-ab25-fd58f1dbf1bb",
+          "source": "MoneyDJ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "屏東",
       "trafficCount": "100+",
@@ -39,6 +95,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "高雄市政府",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 12 Jun 2025 13:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSVbD8Os9Mh-2p4_DBktEcS7PoalbPaFE3BxMOS14Iddxmz_nSwwh9ODUHauf0",
+      "pictureSource": "中央社 CNA",
+      "relatedSearch": [
+        {
+          "title": "高市府團訪紐約橘郡簽教育備忘錄小港高中締姐妹校| 地方",
+          "snippet": "",
+          "url": "https://www.cna.com.tw/news/aloc/202506110234.aspx",
+          "source": "中央社 CNA"
+        },
+        {
+          "title": "回訪姊妹市 高雄與紐約橘郡簽教育備忘錄",
+          "snippet": "",
+          "url": "https://tw.news.yahoo.com/%E5%9B%9E%E8%A8%AA%E5%A7%8A%E5%A6%B9%E5%B8%82-%E9%AB%98%E9%9B%84%E8%88%87%E7%B4%90%E7%B4%84%E6%A9%98%E9%83%A1%E7%B0%BD%E6%95%99%E8%82%B2%E5%82%99%E5%BF%98%E9%8C%84-030432143.html",
+          "source": "奇摩新聞"
+        },
+        {
+          "title": "美國華盛頓州綠河學院 與高雄6高中簽教育交流意向書",
+          "snippet": "",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5066159",
+          "source": "自由時報"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "cloudflare",
       "trafficCount": "200+",
       "pubDate": "Thu, 12 Jun 2025 11:50:00 -0700",
@@ -52,10 +136,10 @@
           "source": "CNBC"
         },
         {
-          "title": "Internet Outage: Google, Amazon And More Experience Connection Issues",
+          "title": "Google Cloud outage hits platforms including Spotify, Discord",
           "snippet": "",
-          "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/06/12/major-websites-experience-technical-issues-amid-widespread-internet-outage/",
-          "source": "Forbes"
+          "url": "https://www.reuters.com/business/google-cloud-down-thousands-users-downdetector-shows-2025-06-12/",
+          "source": "Reuters"
         },
         {
           "title": "Google Cloud is down — latest on Google outage impacting 50+ services",
@@ -86,10 +170,10 @@
           "source": "風傳媒"
         },
         {
-          "title": "施威全專欄／英國兵推 來襲的是核彈？傳統武器？無法判斷",
+          "title": "天下不平忘戰更危 務實兵推愛台灣",
           "snippet": "",
-          "url": "https://tw.news.yahoo.com/%E6%96%BD%E5%A8%81%E5%85%A8%E5%B0%88%E6%AC%84-%E8%8B%B1%E5%9C%8B%E5%85%B5%E6%8E%A8-%E4%BE%86%E8%A5%B2%E7%9A%84%E6%98%AF%E6%A0%B8%E5%BD%88-%E5%82%B3%E7%B5%B1%E6%AD%A6%E5%99%A8-%E7%84%A1%E6%B3%95%E5%88%A4%E6%96%B7-160000681.html",
-          "source": "奇摩新聞"
+          "url": "https://www.chinatimes.com/newspapers/20250613000584-260109",
+          "source": "中時新聞網"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -151,58 +235,31 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "停電",
+      "title": "劍星 mod",
       "trafficCount": "100+",
-      "pubDate": "Thu, 12 Jun 2025 10:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "hpv疫苗",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 12 Jun 2025 10:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8jooZPRHYPcTvPi22w5Dt1fsShqTy1zYw9TIFT4IaCBJyGxbZVBgpRz_ZFS8",
-      "pictureSource": "奇摩新聞",
+      "pubDate": "Thu, 12 Jun 2025 10:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpHS8dgL5YJOlqcIw0Lf4LT3bdIitJk7lHbYiTJVLf-6V5EwzENEaXHkGbjXE",
+      "pictureSource": "GNN 新聞網",
       "relatedSearch": [
         {
-          "title": "HPV感染風險不分男女！ 9月起國二男生也能公費接種",
+          "title": "《劍星》PC 版今日問世釋出上市宣傳影片展現多款服裝《Project EVE》",
           "snippet": "",
-          "url": "https://tw.news.yahoo.com/hpv%E6%84%9F%E6%9F%93%E9%A2%A8%E9%9A%AA%E4%B8%8D%E5%88%86%E7%94%B7%E5%A5%B3-9%E6%9C%88%E8%B5%B7%E5%9C%8B%E4%BA%8C%E7%94%B7%E7%94%9F%E4%B9%9F%E8%83%BD%E5%85%AC%E8%B2%BB%E6%8E%A5%E7%A8%AE-073841768.html",
+          "url": "https://gnn.gamer.com.tw/detail.php?sn=287057",
+          "source": "GNN 新聞網"
+        },
+        {
+          "title": "《妮姬》《劍星》《尼爾》3方談話曝「2B和A2泳裝將登場」！橫尾太郎：性感Coser都跑去扮妮姬了",
+          "snippet": "",
+          "url": "https://tw.news.yahoo.com/%E3%80%8A%E5%A6%AE%E5%A7%AC%E3%80%8B%E3%80%8A%E5%8A%8D%E6%98%9F%E3%80%8B%E3%80%8A%E5%B0%BC%E7%88%BE%E3%80%8B3%E6%96%B9%E8%AB%87%E8%A9%B1%E6%9B%9D%E3%80%8C2b%E5%92%8Ca2%E6%B3%B3%E8%A3%9D%E5%B0%87%E7%99%BB%E5%A0%B4%E3%80%8D%EF%BC%81%E6%A9%AB%E5%B0%BE%E5%A4%AA%E9%83%8E%EF%BC%9A%E6%80%A7%E6%84%9Fcoser%E9%83%BD%E8%B7%91%E5%8E%BB%E6%89%AE%E5%A6%AE%E5%A7%AC%E4%BA%86-061558612.html",
           "source": "奇摩新聞"
         },
         {
-          "title": "領先日韓 台灣9月起擴大HPV疫苗公費接種 國中男生納入對象",
+          "title": "《劍星》聯動《勝利女神：妮姬》伊芙新奈米衣、樂曲、DORO任務全獎勵指南",
           "snippet": "",
-          "url": "https://www.peoplenews.tw/articles/a19e7125e5",
-          "source": "Taiwan People News"
-        },
-        {
-          "title": "口咽也有HPV 男性感染高於女性",
-          "snippet": "",
-          "url": "https://www.msn.com/zh-tw/health/other/%E5%8F%A3%E5%92%BD%E4%B9%9F%E6%9C%89hpv-%E7%94%B7%E6%80%A7%E6%84%9F%E6%9F%93%E9%AB%98%E6%96%BC%E5%A5%B3%E6%80%A7/ar-AA1GsV1M",
-          "source": "MSN"
+          "url": "https://www.4gamers.com.tw/news/detail/72273/stellar-blade-crossover-nikke-guide",
+          "source": "4Gamers"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "中華電信",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 12 Jun 2025 09:50:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "馴龍高手",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 12 Jun 2025 09:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]

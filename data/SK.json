@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2025-06-12 09:54:06",
+  "lastUpdate": "2025-06-12 10:11:44",
   "data": [
+    {
+      "title": "bbc",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 12 Jun 2025 03:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvR5BokrWoocyAap0bk_DDWQtdGUnhAme_0FtpaTxBCvXA9TljYf5VSofe5Ko",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Immigration raid at car wash shows showed how Trump’s crackdown is changing",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/czxylvq392xo",
+          "source": "BBC"
+        },
+        {
+          "title": "ICE Kidnappings Stoke Fear and Outrage Across Los Angeles",
+          "snippet": "",
+          "url": "https://prospect.org/justice/2025-06-11-ice-los-angeles-kidnappings-trump-national-guard/",
+          "source": "The American Prospect"
+        },
+        {
+          "title": "Tearful daughter of detained migrant worker demands answers",
+          "snippet": "",
+          "url": "https://www.yahoo.com/news/tearful-daughter-detained-migrant-worker-224602838.html",
+          "source": "Yahoo"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "air india",
       "trafficCount": "200+",
       "pubDate": "Thu, 12 Jun 2025 02:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLi64w3JnBwhXAZ0z2nDrihxKw2_Q060ASKlZUygf65HHEhkLyYJ9Ar0S6KE0",
-      "pictureSource": "Times of India",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7HwSoDhWB9fNTqmWmuX_DUuwSfKPiaSCZixR8iG5l8oIK35IDBdswe4qRjmQ",
+      "pictureSource": "svet.sme.sk",
       "relatedSearch": [
         {
-          "title": "Air India Ahmedabad-London flight crashes near airport in Meghani area",
+          "title": "V Indii sa krátko po štarte zrútilo lietadlo s 242 ľuďmi na palube",
           "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/city/ahmedabad/plane-crashes-in-ahmedabads-meghani-area/articleshow/121798487.cms",
-          "source": "Times of India"
+          "url": "https://svet.sme.sk/c/23504058/lietadlo-pad-india.html",
+          "source": "svet.sme.sk"
         },
         {
-          "title": "Passenger Plane Crashes in Western India",
+          "title": "V Indii havarovalo lietadlo s viac ako 200 pasažiermi. Smerovalo do Británie, z letiska sa valí čierny dym",
           "snippet": "",
-          "url": "https://www.nytimes.com/2025/06/12/world/asia/india-plane-crash-ahmedabad.html",
-          "source": "The New York Times"
+          "url": "https://www.ta3.com/clanok/998635/v-indii-havarovalo-lietadlo-s-viac-ako-200-pasaziermi-smerovalo-do-britanie-z-letiska-sa-vali-cierny-dym",
+          "source": "TA3"
         },
         {
-          "title": "Ahmedabad Plane Crash: What We Know So Far",
+          "title": "VIDEO: LETECKÉ NEŠŤASTIE: Zrútilo sa lietadlo smerujúce do Londýna",
           "snippet": "",
-          "url": "https://www.ndtv.com/india-news/ahmedabad-air-india-plane-crash-ahmedabad-to-london-plane-crash-what-we-know-so-far-8649313",
-          "source": "NDTV"
+          "url": "https://www.teraz.sk/najnovsie/video-letecke-nestastie-zrutilo-sa/885252-clanok.html",
+          "source": "TERAZ.sk"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,15 +117,9 @@
       "title": "rebecca šramková",
       "trafficCount": "200+",
       "pubDate": "Wed, 11 Jun 2025 20:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjor0wcJJtouOw3g7M5ID8_6JPbueqi22mVVW891L4vKhIhrGXmKBZc6osWXo",
-      "pictureSource": "Športky",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRig9TkFjtpoSIeg6xLH-ADWQLF9scmOB2w1qesKAvENA2xjeNB8azWyTxvm9g",
+      "pictureSource": "Športweb",
       "relatedSearch": [
-        {
-          "title": "Šramková na trávu vstúpila vo veľkom štýle: Zdolala wimbledonskú šampiónku, nestratila ani set",
-          "snippet": "",
-          "url": "https://sportky.zoznam.sk/c/417069/sramkova-na-travu-vstupila-vo-velkom-style-v-derby-s-ceskou-hviezdou-nestratila-ani-set",
-          "source": "Športky"
-        },
         {
           "title": "Slovensko-české derby s úspešným koncom. Šramková po parádnom výkone vyradila wimbledonskú šampiónku",
           "snippet": "",
@@ -109,6 +131,12 @@
           "snippet": "",
           "url": "https://sportnet.sme.sk/spravy/tenis-rebecca-sramkova-barbora-krejcikova-online-prenos-1-kolo-wta-londyn-2025/",
           "source": "Sportnet"
+        },
+        {
+          "title": "WTA Londýn: Rebecca Šramková zdolala favorizovanú Češku a postúpila do 2. kola",
+          "snippet": "",
+          "url": "https://sport.aktuality.sk/tenis/clanok/tenis-rebbeca-sramkova-barbora-krejcikova-vysledok-2025061017394559315",
+          "source": "Šport.sk"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,10 +217,10 @@
           "source": "The Guardian"
         },
         {
-          "title": "Bob Dylan, Carole King, Keith Richards and more celebs react to the death of Brian Wilson",
+          "title": "Column | Brian Wilson’s musical imagination was truly oceanic",
           "snippet": "",
-          "url": "https://apnews.com/article/brian-wilson-death-reaction-3c8a918c60dfb8b528b81f3e8a445989",
-          "source": "AP News"
+          "url": "https://www.washingtonpost.com/entertainment/music/2025/06/11/brian-wilson-beach-boys-tribute-legacy/",
+          "source": "The Washington Post"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,7 +229,7 @@
       "title": "futbal",
       "trafficCount": "200+",
       "pubDate": "Wed, 11 Jun 2025 10:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBKrAaai4-AS93TVH5I1dX_hrxdCia-vjzr5qQv6-ciUhqtnYMcktD-INp6ik",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRqrK7KpfikQRzA7VH_OHw__uhWcfEJ6XJWUGHTGBHjHduqw_-UUebi-Dwa-k",
       "pictureSource": "SME.sk",
       "relatedSearch": [
         {
@@ -229,9 +257,15 @@
       "title": "slovensko u21 – španielsko u21",
       "trafficCount": "2000+",
       "pubDate": "Wed, 11 Jun 2025 08:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSX34nXSmtuHGRwKHvWorlmWbGWKVhi-x4D0H9MZBRQWrs1GHkgBeEfEnwsfFk",
-      "pictureSource": "Aktuality",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSID7n-hXxTf5XHlLrDkNdH3RwlXFSGgSzaUDFD2eC4Fif4UDUkhJcTy96wJgo",
+      "pictureSource": "SME.sk",
       "relatedSearch": [
+        {
+          "title": "Slovakia hosts UEFA European Under-21 Championship",
+          "snippet": "",
+          "url": "https://spectator.sme.sk/sport/c/slovakia-hosts-uefa-european-under-21-championship",
+          "source": "SME.sk"
+        },
         {
           "title": "Polícia varuje futbalových fanúšikov pred zakázanými predmetmi na majstrovstvách Európy",
           "snippet": "",
@@ -239,44 +273,10 @@
           "source": "Aktuality"
         },
         {
-          "title": "Tony ľadu, tisíce fliaš a diváci z Tanzánie. Aké budú ME na Slovensku? UEFA je už teraz spokojná",
-          "snippet": "",
-          "url": "https://sportweb.pravda.sk/futbal/me-do-21-rokov/clanok/755460-me-do-21-rokov-2025-majstrovstva-europy-organizacia-fanusikovia/",
-          "source": "Športweb"
-        },
-        {
           "title": "Futbalové zápasy ME v Košiciach prinesú aj zmeny v MHD",
           "snippet": "",
           "url": "https://podkapotou.zoznam.sk/cl/1005027/3065855/Futbalove-zapasy-ME-v-Kosiciach-prinesu-aj-zmeny-v-MHD",
           "source": "Podkapotou.sk"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "rtvs",
-      "trafficCount": "2000+",
-      "pubDate": "Wed, 11 Jun 2025 08:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_t2CRjiybHx5yhXKXPwxjwKdwXirYmGeqZpZu1rnrevbC9JKrMVE0ZvVCWKk",
-      "pictureSource": "domov.sme.sk",
-      "relatedSearch": [
-        {
-          "title": "Havran v Aréne: Zrušená Večera s Havranom? Politické zadanie pre STVR v dobe emancipácie hlúposti",
-          "snippet": "",
-          "url": "https://domov.sme.sk/c/23503958/havran-v-arene-zrusena-vecera-s-havranom-politicke-zadanie-pre-stvr-v-dobe-emancipacie-hluposti.html",
-          "source": "domov.sme.sk"
-        },
-        {
-          "title": "Za to, že sa postavila na stranu svojho manžela, s ňou ukončila spoluprácu Markíza, stopka dnes prišla aj od STVR: Adela Vinczeová napriek tomu dostala nové ponuky",
-          "snippet": "",
-          "url": "https://diva.aktuality.sk/clanok/Y9XnWYq/za-to-ze-sa-postavila-na-stranu-svojho-manzela-s-nou-ukoncila-spolupracu-markiza-stopka-dnes-prisla-aj-od-stvr-adela-vinczeova-napriek-tomu-dostala-nove-ponuky/",
-          "source": "Diva.sk"
-        },
-        {
-          "title": "Smutný Dangl reaguje na koniec Milujem Slovensko, vie o tom už dlhšie: My sme, bohužiaľ, obeťou toho celého...",
-          "snippet": "",
-          "url": "https://koktejl.azet.sk/clanok/ITMN8t5/smutny-dangl-reaguje-na-koniec-milujem-slovensko-vie-o-tom-uz-dlhsie-my-sme-bohuzial-obetou-toho-celeho/",
-          "source": "Koktejl.sk"
         }
       ],
       "link": "https://imtaqin.id/"

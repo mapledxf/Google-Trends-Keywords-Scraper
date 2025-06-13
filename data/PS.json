@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-13 15:36:49",
+  "lastUpdate": "2025-06-13 15:48:29",
   "data": [
     {
       "title": "sadanews - وكالة صدى نيوز",
@@ -89,26 +89,26 @@
       "title": "cnn",
       "trafficCount": "500+",
       "pubDate": "Thu, 12 Jun 2025 17:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtP6Wj8etNkE-FhOja5YzLGnkUsBqkKEufe36fn3XFDjWmKHjYrj3rdTB3PU4",
-      "pictureSource": "The Hill",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0tfVh_jHdFCizk4czg-iFr-FyIrC-Zafx_VGJYdHAJPWfdvYGv9v54gAKjw",
+      "pictureSource": "The New York Times",
       "relatedSearch": [
         {
-          "title": "Newsom becomes a fighter, and Democrats beyond California are cheering",
+          "title": "Who Are the Iranian Generals Killed by Israel? Here’s What We Know.",
           "snippet": "",
-          "url": "https://thehill.com/policy/technology/5347754-newsom-continues-to-challenge-trump/",
-          "source": "The Hill"
-        },
-        {
-          "title": "CNN Data Guru Reveals Newsom’s Trump Takedown Eclipsed Joe Rogan",
-          "snippet": "",
-          "url": "https://www.thedailybeast.com/cnn-data-guru-reveals-newsoms-trump-takedown-eclipsed-joe-rogan/",
-          "source": "The Daily Beast"
-        },
-        {
-          "title": "California Leaders React to Governor Gavin Newsom’s Speech",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2025/06/11/us/newsom-speech-react-california.html",
+          "url": "https://www.nytimes.com/2025/06/13/world/middleeast/iran-military-generals-killed-israel.html",
           "source": "The New York Times"
+        },
+        {
+          "title": "Video: Israel releases video showing how they carried out Iran attack",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/06/13/world/video/israel-mossad-strike-iran-digvid",
+          "source": "CNN"
+        },
+        {
+          "title": "Live updates: Israel strikes Iran's nuclear facilities and kills senior military leaders, Iran retaliates with drones",
+          "snippet": "",
+          "url": "https://www.reuters.com/world/middle-east/live-updates-israel-hits-iran-nuclear-facilities-missile-factories-2025-06-13/",
+          "source": "Reuters"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,26 +226,17 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "ערוץ 14",
-      "trafficCount": "5000+",
-      "pubDate": "Thu, 12 Jun 2025 17:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "חדשות",
       "trafficCount": "2000+",
       "pubDate": "Thu, 12 Jun 2025 17:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGsPAdGzwmOIGlqO2soGZKJDakaMQlE8CbPTVPwYa3I682yBcC2hMTWxMQuSY",
-      "pictureSource": "כיפה",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7itLxtbnarp1D5YFqG2waB9cKVvt0lHelaymu2CSirAg2RYTIDkVIsNye0w",
+      "pictureSource": "חדשות אפס שמונה",
       "relatedSearch": [
         {
-          "title": "\"למה דווקא עכשיו?\": נתניהו החל בעדכון יומי לציבור והשיב על השאלה המרכזית",
+          "title": "המועצה הדתית יהוד-מונוסון, בהודעת חירום לתושבים והתושבות",
           "snippet": "",
-          "url": "https://www.kipa.co.il/%D7%97%D7%93%D7%A9%D7%95%D7%AA/%D7%9E%D7%91%D7%96%D7%A7%D7%99%D7%9D/1205763-0/",
-          "source": "כיפה"
+          "url": "https://www.news08.net/%D7%94%D7%9E%D7%95%D7%A2%D7%A6%D7%94-%D7%94%D7%93%D7%AA%D7%99%D7%AA-%D7%99%D7%94%D7%95%D7%93-%D7%9E%D7%95%D7%A0%D7%95%D7%A1%D7%95%D7%9F-%D7%91%D7%94%D7%95%D7%93%D7%A2%D7%AA-%D7%97%D7%99%D7%A8%D7%95/",
+          "source": "חדשות אפס שמונה"
         },
         {
           "title": "גל תקיפות חדש באיראן: צה\"ל השמיד את נמל התעופה בתבריז",
@@ -260,6 +251,15 @@
           "source": "אמס"
         }
       ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ערוץ 14",
+      "trafficCount": "5000+",
+      "pubDate": "Thu, 12 Jun 2025 17:00:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]

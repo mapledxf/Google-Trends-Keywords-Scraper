@@ -1,6 +1,71 @@
 {
-  "lastUpdate": "2025-06-13 03:47:31",
+  "lastUpdate": "2025-06-13 04:16:40",
   "data": [
+    {
+      "title": "новости мира",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 12 Jun 2025 21:00:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "иран",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 12 Jun 2025 20:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0XAQdZY22a6NV_pfkmGBsPKRdWzjOGLXLEryX_0L7r7BZp9UxZ0tRz7R3EjA",
+      "pictureSource": "DW",
+      "relatedSearch": [
+        {
+          "title": "Израиль нанес удары по Ирану и закрыл воздушное пространство",
+          "snippet": "",
+          "url": "https://www.dw.com/ru/izrail-nanes-udary-po-iranu-i-obavil-crezvycajnoe-polozenie/a-72891493",
+          "source": "DW"
+        },
+        {
+          "title": "Израиль нанес удары по Ирану. Сообщается о гибели командующего КСИР",
+          "snippet": "",
+          "url": "https://www.bbc.com/russian/live/cm2y62rm2v7t",
+          "source": "BBC"
+        },
+        {
+          "title": "Израиль начал атаку на Иран",
+          "snippet": "",
+          "url": "https://meduza.io/feature/2025/06/13/izrail-nachal-ataku-na-iran",
+          "source": "Meduza"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "абылайхан жусупов",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 12 Jun 2025 19:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWMV_gxOR5_pYNbpyFK40KLMACd2CqAMTHYAEnnya8q_YCpvZXW1SQ4tDmk5w",
+      "pictureSource": "Газета.uz",
+      "relatedSearch": [
+        {
+          "title": "Две победы и «спорное» поражение. Как боксёры Узбекистана выступили на Eindhoven Cup",
+          "snippet": "",
+          "url": "https://www.gazeta.uz/ru/2025/06/11/boks/",
+          "source": "Газета.uz"
+        },
+        {
+          "title": "Казахстанец после скандальной победы над героем Олимпиады из Узбекистана сотворил сенсацию в мировом боксе",
+          "snippet": "",
+          "url": "https://sportarena.kz/boxing/1033872-kazakhstanets-posle-skandalnoy-pobedy-nad-geroem-olimpiady-iz-uzbekistana-sotvoril-sensatsiyu-v-mirovom-bokse.html",
+          "source": "sportarena.kz"
+        },
+        {
+          "title": "Спорное решение в финальном поединке Асадходжи Мойдинходжаева: победа досталась Казахстану",
+          "snippet": "",
+          "url": "https://zamin.uz/ru/sport/151860-spornoe-reshenie-v-finalnom-poedinke-asadhodji-moydinhodjaeva-pobeda-dostalas-kazahstanu.html",
+          "source": "Zamin.uz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "реал мадрид",
       "trafficCount": "100+",
@@ -33,20 +98,20 @@
       "title": "бен аскрен",
       "trafficCount": "1000+",
       "pubDate": "Thu, 12 Jun 2025 03:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToozLseDrDjdXpjTa5BURgWqWVv4UmQ_KL3A2SHvvaldRZwdsdTN6wGnuafsw",
-      "pictureSource": "Sportbox",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRit-zlqadkNAKUt-DlKbSY-Yw3mEDW9Eeg88DpsV6cPZkxLQ4X0F54PvbXs2E",
+      "pictureSource": "sportarena.kz",
       "relatedSearch": [
-        {
-          "title": "«Ситуация по-прежнему тяжелая». Рекордсмена UFC похоронили заживо",
-          "snippet": "",
-          "url": "https://news.sportbox.ru/Vidy_sporta/edinoborstva/spbnews_NI2213441_Situacija_po_prezhnemu_tazhelaja_Rekordsmena_UFC_pohoronili_zazhivo",
-          "source": "Sportbox"
-        },
         {
           "title": "Экс-боец ММА опроверг слухи о смерти Бена Аскрена",
           "snippet": "",
           "url": "https://sportarena.kz/mma-ufc/1033902-eksboets-mma-oproverg-slukhi-o-smerti-bena-askrena.html",
           "source": "sportarena.kz"
+        },
+        {
+          "title": "«Ситуация по-прежнему тяжелая». Рекордсмена UFC похоронили заживо",
+          "snippet": "",
+          "url": "https://news.sportbox.ru/Vidy_sporta/edinoborstva/spbnews_NI2213441_Situacija_po_prezhnemu_tazhelaja_Rekordsmena_UFC_pohoronili_zazhivo",
+          "source": "Sportbox"
         },
         {
           "title": "Опровергая фейки: Бен Аскрен жив и находится дома",
@@ -99,9 +164,9 @@
           "source": "Новости Узбекистана — Upl.uz"
         },
         {
-          "title": "\"Хотел бы как Шомуродов\". Игрок сборной России высказался о выходе Узбекистана на ЧМ-2026",
+          "title": "Стало известно, какое место занял Узбекистан в рейтинге FIFA после победы над Катаром",
           "snippet": "",
-          "url": "https://podrobno.uz/cat/sport/khotel-by-kak-shomurodov-igrok-sbornoy-rossii-vyskazalsya-o-vykhode-uzbekistana-na-chm-2026/",
+          "url": "https://podrobno.uz/cat/sport/stalo-izvestno-kakoe-mesto-zanyal-uzbekistan-v-reytinge-fifa-posle-pobedy-nad-katarom/",
           "source": "Podrobno.uz"
         },
         {
@@ -137,34 +202,6 @@
           "snippet": "",
           "url": "https://uz.kursiv.media/2025-06-11/sbornaya-uzbekistana-u-17-oderzhala-pobedu-nad-chili-v-tovarishheskom-matche/",
           "source": "Kursiv Media Узбекистан"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "эльдор шомуродов",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 11 Jun 2025 21:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSU8oT__lpURJxCS5LIQDOqf9C5RQO6tmTW1pnDXRvXV3jtBeOLg36GcihAn0Y",
-      "pictureSource": "Sports.kz",
-      "relatedSearch": [
-        {
-          "title": "«Хусанов — теперь новый король?» Эльдор Шомуродов стал объектом насмешек в Италии",
-          "snippet": "",
-          "url": "https://www.sports.kz/news/husanov-teper-novyiy-korol-eldor-shomurodov-stal-obyektom-nasmeshek-vitalii",
-          "source": "Sports.kz"
-        },
-        {
-          "title": "Легенда «Пахтакора» прокомментировал выход Узбекистана на ЧМ-2026",
-          "snippet": "",
-          "url": "https://upl.uz/sport/52730-news.html",
-          "source": "Новости Узбекистана — Upl.uz"
-        },
-        {
-          "title": "\"Хотел бы как Шомуродов\". Игрок сборной России высказался о выходе Узбекистана на ЧМ-2026",
-          "snippet": "",
-          "url": "https://podrobno.uz/cat/sport/khotel-by-kak-shomurodov-igrok-sbornoy-rossii-vyskazalsya-o-vykhode-uzbekistana-na-chm-2026/",
-          "source": "Podrobno.uz"
         }
       ],
       "link": "https://imtaqin.id/"

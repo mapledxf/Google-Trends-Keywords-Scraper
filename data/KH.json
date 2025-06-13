@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-13 06:47:39",
+  "lastUpdate": "2025-06-13 06:59:22",
   "data": [
     {
       "title": "wa",
@@ -30,10 +30,38 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "bangkok post",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 12 Jun 2025 21:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZrxj98jGfE7dqlbooVy0GaYsAaNwLPft5MIdEvdMIqvp4-j2LEeooWEqdsHY",
+      "pictureSource": "Bangkok Post",
+      "relatedSearch": [
+        {
+          "title": "China-only livestreamers busted at Bangkok mall",
+          "snippet": "",
+          "url": "https://www.bangkokpost.com/thailand/general/3048096/china-only-livestreamers-busted-at-bangkok-mall",
+          "source": "Bangkok Post"
+        },
+        {
+          "title": "China-only livestreamers busted at Bangkok mall",
+          "snippet": "",
+          "url": "https://www.inkl.com/news/china-only-livestreamers-busted-at-bangkok-mall",
+          "source": "inkl"
+        },
+        {
+          "title": "What could have caused Air India plane to crash in 30 seconds?",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c626y121rxxo",
+          "source": "BBC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "iran",
       "trafficCount": "500+",
       "pubDate": "Thu, 12 Jun 2025 20:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQd2NwEUwRcvPOBWojVARfxFwVwwOXGFmxBeGVzyKdIPAIEZQUmZF2StAeEGDA",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTd8ZYCh-lkvnpPAXbT_E61JbbVnZVNOuElwQeaTRHlMQo-5zWcwEcAQDBX-x8",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
@@ -115,7 +143,7 @@
     },
     {
       "title": "vpn",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 12 Jun 2025 12:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6lK6NKUct8pHYuBR04Xbdm0dCPD5DYzZLtd9aoJLY6MG4VmJ0NFTO6XhJqxQ",
       "pictureSource": "The Hill",
@@ -145,26 +173,26 @@
       "title": "discord",
       "trafficCount": "200+",
       "pubDate": "Thu, 12 Jun 2025 10:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXrOoSuuNs2G7xz3gxm8SmTpuSEAO1aILxP2ft49W7jh3iO2KQ7OOBtrG0j9I",
-      "pictureSource": "The Cloudflare Blog",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwgZo_N7KYcxipBLxwiXl29DcLiOEH_jzDI7M8v3bd1hGVRcr0KCCvxcPCl9w",
+      "pictureSource": "AP News",
       "relatedSearch": [
         {
-          "title": "Cloudflare service outage June 12, 2025",
+          "title": "Massive Google Cloud outage disrupts popular internet services",
           "snippet": "",
-          "url": "https://blog.cloudflare.com/cloudflare-service-outage-june-12-2025/",
-          "source": "The Cloudflare Blog"
+          "url": "https://apnews.com/article/internet-outage-google-cloud-18ad53dca0385a83ca5a4e219bcb3a9d",
+          "source": "AP News"
         },
         {
-          "title": "Internet outages reported across Google Cloud, Spotify, more",
+          "title": "Google, Spotify, more online services recovering after apparent widespread issue",
           "snippet": "",
-          "url": "https://www.usatoday.com/story/tech/2025/06/12/google-cloud-down-internet-outage/84171603007/",
-          "source": "USA Today"
+          "url": "https://thehill.com/homenews/5347326-numerous-sites-services-experience-outages-amid-apparent-widespread-issue/",
+          "source": "The Hill"
         },
         {
-          "title": "Google Cloud was down — latest on Google outage that impacted 50+ services",
+          "title": "Massive internet outage: Google services, Cloudflare, Spotify all down, users report",
           "snippet": "",
-          "url": "https://www.tomsguide.com/news/live/google-cloud-down-jun-12-outage",
-          "source": "Tom's Guide"
+          "url": "https://mashable.com/article/google-down-cloudflare-twitch-character-ai-internet-outage",
+          "source": "Mashable"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,10 +211,10 @@
           "source": "BBC"
         },
         {
-          "title": "Smiling in their last moments: Doctor couple, their 3 kids took smiling selfie moments before Air India crash",
+          "title": "Latest news on the Air India 787 Crash: The facts from today",
           "snippet": "",
-          "url": "https://www.livemint.com/news/india/smiling-in-their-last-moments-doctor-couple-their-3-kids-took-smiling-selfie-moments-air-india-plane-crash-ahmedabad-11749781479317.html",
-          "source": "Mint"
+          "url": "https://www.airlineratings.com/articles/latest-news-on-the-air-india-787-crash-the-facts-from-today-",
+          "source": "Airline Ratings"
         },
         {
           "title": "A miracle in seat 11A: What we know about the sole survivor of Air India crash Vishwash Kumar Ramesh",

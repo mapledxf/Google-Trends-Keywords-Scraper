@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-06-13 09:26:58",
+  "lastUpdate": "2025-06-13 09:41:48",
   "data": [
     {
       "title": "jordan news",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 13 Jun 2025 00:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzv7UJQjmK_ft4Chldw0qshSUhsQVJcu_mvPYDImxixDaqdGUOUkfXD1ri6Uk",
       "pictureSource": "Jordan Times",
@@ -30,18 +30,40 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "aljazeera",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 13 Jun 2025 00:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnJxk9phj_KZ8vjZqRN52B6Rl20qaPJtd7ERO1g8WDj5cU3NPitJaYG0VAtrQ",
+      "pictureSource": "CNN",
+      "relatedSearch": [
+        {
+          "title": "Thousands head to Egypt in bid to break Israel’s Gaza blockade",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/06/12/middleeast/global-march-gaza-egypt-israel-blockade-intl",
+          "source": "CNN"
+        },
+        {
+          "title": "Egypt deports dozens of activists before planned march to Gaza border",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/2025/6/12/egypt-deports-dozens-of-activists-before-planned-march-to-gaza-border",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Middle East: Activist convoy enters Libya en route to Gaza",
+          "snippet": "",
+          "url": "https://www.dw.com/en/middle-east-activist-convoy-enters-libya-en-route-to-gaza/live-72877526",
+          "source": "DW"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "الاردن الان",
       "trafficCount": "200+",
       "pubDate": "Fri, 13 Jun 2025 00:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK8JK9qOkTI2Jh68f7CW0ahJKFa98DaJ0Sh5a57m4DPhDoMrspKPGA8fxww0g",
-      "pictureSource": "قناة المملكة",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMEulDIGFDIDs4eydMK5IngEQML64XaQyecegrap4hzZNMHaPI_O5EJyajguI",
+      "pictureSource": "رؤيا الإخباري",
       "relatedSearch": [
-        {
-          "title": "الاتحاد الأردني: سنعيد أموال التذاكر لأي شخص اشترى تذكرة ولم يدخل الملعب",
-          "snippet": "",
-          "url": "https://www.almamlakatv.com/news/171088-",
-          "source": "قناة المملكة"
-        },
         {
           "title": "مشاهد جديدة من حضور الملك مباراة النشامى والعراق",
           "snippet": "",
@@ -49,10 +71,16 @@
           "source": "رؤيا الإخباري"
         },
         {
-          "title": "\"لجنة تحقيق\" مطلب مهم لكشف تفاصيل تذاكر مباراة الأردن والعراق...",
+          "title": "الاتحاد الأردني لكرة القدم: سيتم تعويض من اشتروا تذاكر ولم يدخلوا الملعب",
           "snippet": "",
-          "url": "https://alghad.com/Section-180/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D9%84%D8%AC%D9%86%D8%A9-%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D9%85%D8%B7%D9%84%D8%A8-%D9%85%D9%87%D9%85-%D9%84%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%AA%D8%B0%D8%A7%D9%83%D8%B1-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D9%88%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-2030117",
-          "source": "جريدة الغد"
+          "url": "https://www.khaberni.com/news/714860-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A7%D8%B1%D8%AF%D9%86%D9%8A-%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85-%D8%B3%D9%8A%D8%AA%D9%85-%D8%AA%D8%B9%D9%88%D9%8A%D8%B6-%D9%85%D9%86-%D8%A7%D8%B4%D8%AA%D8%B1%D9%88%D8%A7-%D8%AA%D8%B0%D8%A7%D9%83%D8%B1-%D9%88%D9%84%D9%85-%D9%8A%D8%AF%D8%AE%D9%84%D9%88%D8%A7-%D8%A7%D9%84%D9%85%D9%84%D8%B9%D8%A8",
+          "source": "خبرني"
+        },
+        {
+          "title": "مهم للجماهير التي كانت تملك تذاكر ولم تدخل مباراة النشامى",
+          "snippet": "",
+          "url": "https://www.assawsana.com/article/677755",
+          "source": "صحيفة السوسنة الأردنية"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,9 +117,15 @@
       "title": "اخبار الاردن",
       "trafficCount": "5000+",
       "pubDate": "Thu, 12 Jun 2025 23:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXZ-d0sv4X9SG5MDVtWpu123HY9tt2z0x3QwS4qMrqa-Pga6-zAjNrnuCxruw",
-      "pictureSource": "رؤيا الإخباري",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLZ4M4tROzR7gIsfA8wMPTe5HHlZ0ezdW8NAJCOnb1PPzXtklOjgXhNhzoWbQ",
+      "pictureSource": "خبرني",
       "relatedSearch": [
+        {
+          "title": "إطلاق الصافرات مجددا إيذانا بانتهاء فترات الإنذار",
+          "snippet": "",
+          "url": "https://www.khaberni.com/news/715136-%D8%A7%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%B5%D8%A7%D9%81%D8%B1%D8%A7%D8%AA-%D9%85%D8%AC%D8%AF%D8%AF%D8%A7-%D8%A7%D9%8A%D8%B0%D8%A7%D9%86%D8%A7-%D8%A8%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D8%A1-%D9%81%D8%AA%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%86%D8%B0%D8%A7%D8%B1",
+          "source": "خبرني"
+        },
         {
           "title": "\"إدارة الأزمات\" تُصدر تعليمات للأردنيين في حال سماع صافرات الإنذار أو سقوط أجسام غريبة",
           "snippet": "",
@@ -99,44 +133,10 @@
           "source": "رؤيا الإخباري"
         },
         {
-          "title": "صافرات الإنذار تُطلق في الأردن",
-          "snippet": "",
-          "url": "https://www.khaberni.com/news/715122-%D8%B5%D8%A7%D9%81%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%86%D8%B0%D8%A7%D8%B1-%D8%AA%D8%B7%D9%84%D9%82-%D9%81%D9%8A-%D8%A7%D9%84%D8%A7%D8%B1%D8%AF%D9%86",
-          "source": "خبرني"
-        },
-        {
           "title": "انتهاء فترات الإنذار والدعوة للالتزام بالتعليمات",
           "snippet": "",
           "url": "https://www.assawsana.com/article/677931",
           "source": "صحيفة السوسنة الأردنية"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "queen alia airport",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 12 Jun 2025 23:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtLaD4QGPfHYoPS4hQOM70ndMi3kRlhpxiGZeVv3ocInutwWWKJagvSrXX3lM",
-      "pictureSource": "ZAWYA",
-      "relatedSearch": [
-        {
-          "title": "Queen Alia International Airport welcomes SunExpress, commencing four weekly flights to Antalya",
-          "snippet": "",
-          "url": "https://www.zawya.com/en/press-release/companies-news/queen-alia-international-airport-welcomes-sunexpress-commencing-four-weekly-flights-to-antalya-qs38c5vk",
-          "source": "ZAWYA"
-        },
-        {
-          "title": "SunExpress Connects Jordan and Turkey with New Amman-Antalya Direct Flights",
-          "snippet": "",
-          "url": "https://www.travelandtourworld.com/news/article/sunexpress-connects-jordan-and-turkey-with-new-amman-antalya-direct-flights/",
-          "source": "Travel And Tour World"
-        },
-        {
-          "title": "Jordan will not allow violation of its airspace, will not be battleground for conflict — Momani",
-          "snippet": "",
-          "url": "https://jordantimes.com/news/local/jordan-will-not-allow-violation-of-its-airspace-will-not-be-battleground-for-conflict-momani",
-          "source": "Jordan Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,13 +201,13 @@
       "title": "اسعار الذهب اليوم",
       "trafficCount": "500+",
       "pubDate": "Thu, 12 Jun 2025 22:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUpVhtV9FvxLPnQqK9drlYvmNbBue9CBDIfDEI2vGbJjnc2ONztkcFSAupq6Q",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHt3sQH6HVbh-mDaBiyF-SdZN94ZWKp21eRJ622HuScvnQR8ux6rcJxo2kAJ4",
       "pictureSource": "الجزيرة نت",
       "relatedSearch": [
         {
-          "title": "التصعيد الأميركي ضد إيران يرفع الذهب والنفط",
+          "title": "الذهب عند أعلى مستوى في شهرين بعد هجوم إسرائيل على إيران",
           "snippet": "",
-          "url": "https://www.aljazeera.net/ebusiness/2025/6/12/middle-east-tensions-gold-oil",
+          "url": "https://www.aljazeera.net/ebusiness/2025/6/13/%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%B9%D9%86%D8%AF-%D8%A3%D8%B9%D9%84%D9%89-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D9%81%D9%8A-%D8%B4%D9%87%D8%B1%D9%8A%D9%86-%D8%A8%D8%B9%D8%AF-%D9%87%D8%AC%D9%88%D9%85",
           "source": "الجزيرة نت"
         },
         {

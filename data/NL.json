@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2025-06-14 04:32:29",
+  "lastUpdate": "2025-06-14 04:49:46",
   "data": [
     {
+      "title": "weer",
+      "trafficCount": "5000+",
+      "pubDate": "Fri, 13 Jun 2025 21:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzuvPaNyUUOF93cHbaVu0_3PiOhX1N0kuzlxX0ECJR2j0krg_UFZHdmIkIVbQ",
+      "pictureSource": "AD.nl",
+      "relatedSearch": [
+        {
+          "title": "Bekijk hier hoe laat de onweersbuien over Nederland trekken",
+          "snippet": "",
+          "url": "https://www.ad.nl/binnenland/bekijk-hier-hoe-laat-de-onweersbuien-over-nederland-trekken~a161e9a7/",
+          "source": "AD.nl"
+        },
+        {
+          "title": "Brabant maakt zich op voor noodweer: komende nacht hagel en zware windstoten voorspeld",
+          "snippet": "",
+          "url": "https://www.bndestem.nl/brabant/brabant-maakt-zich-op-voor-noodweer-komende-nacht-hagel-en-zware-windstoten-voorspeld~a868d749/",
+          "source": "BN DeStem"
+        },
+        {
+          "title": "Zaterdag opnieuw stevige (onweers)buien",
+          "snippet": "",
+          "url": "https://www.weerenradar.nl/weer-nieuws/zaterdag-opnieuw-stevige-onweersbuien--e52f97e6-0b56-4f19-9df0-6262df624c48",
+          "source": "Weer & Radar"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "kim sajet",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 13 Jun 2025 20:30:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbKXrXcLtYWsfj7vDBKM_aR-uqcJh2vIiQCON2iCXJF-P3mY6Qsxd_DOMwYkM",
       "pictureSource": "The New York Times",
@@ -59,7 +87,7 @@
     },
     {
       "title": "weather",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 13 Jun 2025 19:00:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-pJ4Zj1ZvpVEjMV6-YxzL1aeou7A5JClgEI-R70A1jxgCZICOaj2Xq61Vhys",
       "pictureSource": "The New York Times",
@@ -81,34 +109,6 @@
           "snippet": "",
           "url": "https://www.thederrick.com/ap/national/the-national-weather-service-issues-alaskas-first-ever-heat-advisory/article_bb84b0a7-0487-5075-aae9-e029a9ea1bfd.html",
           "source": "The Derrick"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "onweer",
-      "trafficCount": "50000+",
-      "pubDate": "Fri, 13 Jun 2025 18:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzuvPaNyUUOF93cHbaVu0_3PiOhX1N0kuzlxX0ECJR2j0krg_UFZHdmIkIVbQ",
-      "pictureSource": "AD.nl",
-      "relatedSearch": [
-        {
-          "title": "Bekijk hier hoe laat de onweersbuien over Nederland trekken",
-          "snippet": "",
-          "url": "https://www.ad.nl/binnenland/bekijk-hier-hoe-laat-de-onweersbuien-over-nederland-trekken~a161e9a7/",
-          "source": "AD.nl"
-        },
-        {
-          "title": "Zware onweersbuien vanaf vrijdagavond laat 13 juni 2025",
-          "snippet": "",
-          "url": "https://www.knmi.nl/over-het-knmi/nieuws/zware-onweersbuien-vrijdagavond-13-juni-2025",
-          "source": "KNMI"
-        },
-        {
-          "title": "Eerste tropische dag van het jaar: 30,1 graden gemeten in De Bilt",
-          "snippet": "",
-          "url": "https://nos.nl/artikel/2571027-eerste-tropische-dag-van-het-jaar-30-1-graden-gemeten-in-de-bilt",
-          "source": "NOS"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +155,16 @@
           "source": "The Cloudflare Blog"
         },
         {
-          "title": "The internet went down on Thursday: Here's what we know now",
-          "snippet": "",
-          "url": "https://mashable.com/article/cause-internet-outage-google-cloud-what-happened-june-12",
-          "source": "Mashable"
-        },
-        {
           "title": "Internet outages reported across Google Cloud, Spotify, more",
           "snippet": "",
           "url": "https://www.usatoday.com/story/tech/2025/06/12/google-cloud-down-internet-outage/84171603007/",
           "source": "USA Today"
+        },
+        {
+          "title": "Google Cloud was down — latest on Google outage that impacted 50+ services",
+          "snippet": "",
+          "url": "https://www.tomsguide.com/news/live/google-cloud-down-jun-12-outage",
+          "source": "Tom's Guide"
         }
       ],
       "link": "https://imtaqin.id/"

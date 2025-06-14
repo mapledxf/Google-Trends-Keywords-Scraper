@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-06-14 03:05:37",
+  "lastUpdate": "2025-06-14 03:48:53",
   "data": [
+    {
+      "title": "mea airlines",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 13 Jun 2025 12:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgh4eVOb5e_ViM2pwQHYz1hKIRVjCluenzEpfxXel5yRC0lfD-uEC1HEJJsrc",
+      "pictureSource": "CNN",
+      "relatedSearch": [
+        {
+          "title": "Disruption as airlines cancel flights and reroute planes to avoid Middle East airspace",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/06/13/travel/airline-disruption-israel-iran-strike-intl-scli",
+          "source": "CNN"
+        },
+        {
+          "title": "Middle East airspace shut after Israel strikes Iran, airlines cancel flights",
+          "snippet": "",
+          "url": "https://www.reuters.com/world/europe/after-israel-strikes-iran-airlines-divert-flights-airspace-closed-2025-06-13/",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ben Gurion shut until further notice; Israeli airlines evacuate fleets to avoid Iranian attack",
+          "snippet": "",
+          "url": "https://www.timesofisrael.com/ben-gurion-shut-until-further-notice-israeli-airlines-evacuate-fleets-to-avoid-iranian-attack/",
+          "source": "The Times of Israel"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "f35",
       "trafficCount": "500+",
@@ -87,7 +115,7 @@
     },
     {
       "title": "مطار بيروت",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 13 Jun 2025 01:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRC4cYkixTpjr2z_F_F3vyLsLYmuU_AGTVKXEMAuZ1Zvxgo0a1swRURI1HbDeo",
       "pictureSource": "MTV Lebanon",
@@ -142,34 +170,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "al jazeera",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 12 Jun 2025 23:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgh4eVOb5e_ViM2pwQHYz1hKIRVjCluenzEpfxXel5yRC0lfD-uEC1HEJJsrc",
-      "pictureSource": "CNN",
-      "relatedSearch": [
-        {
-          "title": "Disruption as airlines cancel flights and reroute planes to avoid Middle East airspace",
-          "snippet": "",
-          "url": "https://www.cnn.com/2025/06/13/travel/airline-disruption-israel-iran-strike-intl-scli",
-          "source": "CNN"
-        },
-        {
-          "title": "Middle East airspace shut after Israel strikes Iran, airlines cancel flights",
-          "snippet": "",
-          "url": "https://www.reuters.com/world/europe/after-israel-strikes-iran-airlines-divert-flights-airspace-closed-2025-06-13/",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ben Gurion shut until further notice; Israeli airlines evacuate fleets to avoid Iranian attack",
-          "snippet": "",
-          "url": "https://www.timesofisrael.com/ben-gurion-shut-until-further-notice-israeli-airlines-evacuate-fleets-to-avoid-iranian-attack/",
-          "source": "The Times of Israel"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "mtv",
       "trafficCount": "100+",
       "pubDate": "Thu, 12 Jun 2025 23:10:00 -0700",
@@ -211,16 +211,16 @@
           "source": "NPR"
         },
         {
-          "title": "Air India’s New Owners, the Tata Group, Have Been Trying to Upgrade and Expand the Carrier",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2025/06/12/world/asia/air-india-plane-crash-safety-tata-group.html",
-          "source": "The New York Times"
-        },
-        {
           "title": "Air India: What you need to know after crash",
           "snippet": "",
           "url": "https://www.dw.com/en/air-india-what-you-need-to-know-after-crash/a-72887191",
           "source": "DW"
+        },
+        {
+          "title": "Passenger on seat 11A survived Air India crash, says trouble started 30 seconds into flight | Latest News India - Hindustan Times",
+          "snippet": "",
+          "url": "https://www.hindustantimes.com/india-news/40yearold-man-in-ahmedabad-hospital-says-he-survived-air-india-crash-101749734358509.html",
+          "source": "Hindustan Times"
         }
       ],
       "link": "https://imtaqin.id/"

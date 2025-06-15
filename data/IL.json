@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-06-15 05:45:58",
+  "lastUpdate": "2025-06-15 05:53:40",
   "data": [
     {
       "title": "נועם שמש",
-      "trafficCount": "200+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 14 Jun 2025 21:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJ2blszpBoFEOI-6qLir4YD8Urs1AsPnXaAqq2ChbaMhcH2dZq8-k6gMPcpZ0",
       "pictureSource": "וואלה חדשות",
@@ -30,34 +30,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "новости израиля сегодня",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 14 Jun 2025 20:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvYAHXigTKPYbAaI-kYCB-Kuk4H3bYL1WuxZbtBxB_pc9EPhpOuMhf7UmpS9c",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Противостояние Израиля и Ирана: каковы наихудшие сценарии развития событий?",
-          "snippet": "",
-          "url": "https://www.bbc.com/russian/articles/cly3ev4jpn4o",
-          "source": "BBC"
-        },
-        {
-          "title": "Названо мощное оружие, которым был нанесен удар по Тель-Авиву",
-          "snippet": "",
-          "url": "https://ura.news/news/1052948912",
-          "source": "URA.RU"
-        },
-        {
-          "title": "Израиль нанес удары по топливохранилищам в Тегеране",
-          "snippet": "",
-          "url": "https://www.interfax.ru/world/1031248",
-          "source": "Интерфакс"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "maariv",
       "trafficCount": "200+",
       "pubDate": "Sat, 14 Jun 2025 19:40:00 -0700",
@@ -71,16 +43,16 @@
           "source": "הארץ"
         },
         {
+          "title": "המלחמה היא \"מחדל 7.10\" של טהרן, אך בפני ישראל עדיין עומד אתגר כפול",
+          "snippet": "",
+          "url": "https://www.israelhayom.co.il/news/defense/article/18190007",
+          "source": "www.israelhayom.com"
+        },
+        {
           "title": "זה עכשיו או לעולם לא",
           "snippet": "",
           "url": "https://www.ynet.co.il/news/article/yokra14407018",
           "source": "ynet"
-        },
-        {
-          "title": "המלחמה באיראן: רבים כבר התחילו להעלות ספק בנוגע לנתניהו - אני לא איתם | בן כספית",
-          "snippet": "",
-          "url": "https://www.maariv.co.il/journalists/article-1205454",
-          "source": "מעריב"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,16 +71,44 @@
           "source": "CNET"
         },
         {
-          "title": "Lionel Messi Fifa Club World Cup 2025 fixtures, schedule, results and how to watch Inter Miami on TV and live stream",
+          "title": "Messi Comes Close to Magical Moment: Highlights From Club World Cup Curtain-Raiser",
           "snippet": "",
-          "url": "https://www.101greatgoals.com/club-world-cup/lionel-messi-fifa-club-world-cup-2025-fixtures-schedule-results-how-to-watch-inter-miami-on-tv-live-stream/",
-          "source": "101greatgoals.com"
+          "url": "https://onefootball.com/pt-br/noticias/messi-comes-close-to-magical-moment-highlights-from-club-world-cup-curtain-raiser-41246970",
+          "source": "OneFootball"
         },
         {
           "title": "Mascherano: We Missed Many Opportunities Against Al Ahly and Weren't Successful Enough",
           "snippet": "",
           "url": "https://www.ysscores.com/en/news/13765612/Mascherano:-We-Missed-Many-Opportunities-Against-Al-Ahly-and-Weren't-Successful-Enough",
           "source": "www.ysscores.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "נפילה ברמת גן",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 14 Jun 2025 17:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbjcCo__btCa_SsML5l_HTIpPUs8QdHLy3X-i84LW_HLBjiSuqtX4QRMyWjwQ",
+      "pictureSource": "ynet",
+      "relatedSearch": [
+        {
+          "title": "אישה נהרגה, הרס עצום ברמת גן: \"טיל סופר-כבד פירק בניינים\"",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/news/article/b14qjhqqgx",
+          "source": "ynet"
+        },
+        {
+          "title": "הנפילה במרכז שכונה ברמת גן: \"התנהגות נכונה של האזרחים מנעה אסון\"",
+          "snippet": "",
+          "url": "https://www.israelhayom.co.il/news/local/article/18191704",
+          "source": "www.israelhayom.com"
+        },
+        {
+          "title": "האסון ברמת גן בליל שבת: הפוסק התריע והזהיר מראש",
+          "snippet": "",
+          "url": "https://www.emess.co.il/radio/1724960",
+          "source": "אמס"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,9 +155,9 @@
           "source": "calcalist"
         },
         {
-          "title": "אזעקות במרחב נווה אור בעקבות חשש לחדירת כטב\"ם",
+          "title": "אזעקות בטייבה בגלבוע, מולדת וגשר בעקבות חשש לחדירת כטב\"ם",
           "snippet": "",
-          "url": "https://www.maariv.co.il/breaking-news/article-1205547",
+          "url": "https://www.maariv.co.il/breaking-news/article-1205548",
           "source": "מעריב"
         },
         {
@@ -173,26 +173,54 @@
       "title": "נפילה בבת ים",
       "trafficCount": "500+",
       "pubDate": "Sat, 14 Jun 2025 17:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT53CvVQnGHbPUrgYYrAYp_TnPbECAo2QARMVB0qez240Wxco5a8p50OKOw8jM",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTry3YAPpzX53ez-tsm2l8KDyayhPQvWXTeX2imaoJi2g29hTrTvS-_SbVBuE0",
       "pictureSource": "הארץ",
       "relatedSearch": [
         {
-          "title": "חדשות היום, 15 ביוני",
+          "title": "המטח למרכז: שלושה הרוגים וכ-130 פצועים בפגיעות ישירות בבת ים וברחובות",
           "snippet": "",
-          "url": "https://www.haaretz.co.il/news/dailynews/2025-06-15/ty-article-live/00000197-705b-de53-abdf-79fbfe5d0000",
+          "url": "https://www.haaretz.co.il/news/politics/2025-06-15/ty-article/.premium/00000197-712e-d9fe-a597-ff3ee9440000",
           "source": "הארץ"
         },
         {
-          "title": "עדכונים שוטפים / 6 הרוגות בגליל המערבי, בגוש דן ובשפלה; מתקפת כטב\"מים בוואדי ערה ובבית שאן",
+          "title": "המטח מאיראן: 3 בני אדם נהרגו ועשרות נפצעו בבת ים וברחובות",
           "snippet": "",
-          "url": "https://www.davar1.co.il/608239/",
-          "source": "אתר החדשות דבר"
+          "url": "https://www.mako.co.il/pzm-soldiers/Article-0c739e222e07791027.htm",
+          "source": "mako"
         },
         {
-          "title": "ראשוני: פצוע מפגיעה ברחובות",
+          "title": "מספר הרוגים בפגיעה ישירה בבת ים; ביניהם ילד בן 10",
           "snippet": "",
-          "url": "https://www.myrehovot.co.il/%D7%A8%D7%90%D7%A9%D7%95%D7%A0%D7%99--%D7%A4%D7%A6%D7%95%D7%A2-%D7%9E%D7%A4%D7%92%D7%99%D7%A2%D7%94-%D7%91%D7%A8%D7%97%D7%95%D7%91%D7%95%D7%AA",
-          "source": "פורטל רחובות שלי"
+          "url": "https://www.emess.co.il/radio/1724902",
+          "source": "אמס"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "חדשות וואלה",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 14 Jun 2025 17:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4i_-yEIxigM_qmE9ui4OJqSRCWl8QtQxTCjaeLCoWu2J3bAF798hhAkvalyQ",
+      "pictureSource": "מעריב",
+      "relatedSearch": [
+        {
+          "title": "טראמפ מחזיק בנשק שיגמור את המשחק: נתניהו ישכנע אותו להשתמש בו? | אבי אשכנזי",
+          "snippet": "",
+          "url": "https://www.maariv.co.il/news/military/article-1205516",
+          "source": "מעריב"
+        },
+        {
+          "title": "ישראל פנתה לארה\"ב: הצטרפו למלחמה באיראן כדי לחסל את תוכנית הגרעין",
+          "snippet": "",
+          "url": "https://news.walla.co.il/item/3757558",
+          "source": "וואלה חדשות"
+        },
+        {
+          "title": "בישראל מחכים להפצצה האמריקאית על מתקני הגרעין האיראני עם GBU-43 MOAB – אם כל הפצצות",
+          "snippet": "",
+          "url": "https://haipo.co.il/item/576565",
+          "source": "חי פה - חדשות חיפה"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -217,10 +245,10 @@
           "source": "ערוץ 7"
         },
         {
-          "title": "סרטון נזקים בבניין עיריית רחובות! הלכוד האחרון ברחובות חולץ הבוקר! 37 פצועים בזירת הפגיעה ברחובות מהם 2 באורך קשה",
+          "title": "לאחר הפגיעות: עיריית רחובות בהודעה חשובה לתושבים; כב\"ה: עד כה חולצו 10 אנשים מההריסות",
           "snippet": "",
-          "url": "https://www.be106.net/233/109830",
-          "source": "BE106"
+          "url": "https://www.news08.net/%D7%9C%D7%90%D7%97%D7%A8-%D7%94%D7%A4%D7%92%D7%99%D7%A2%D7%95%D7%AA-%D7%A2%D7%99%D7%A8%D7%99%D7%99%D7%AA-%D7%A8%D7%97%D7%95%D7%91%D7%95%D7%AA-%D7%91%D7%94%D7%95%D7%93%D7%A2%D7%94-%D7%97%D7%A9%D7%95/",
+          "source": "חדשות אפס שמונה"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.srugim.co.il/1135844-%D7%A7%D7%A8%D7%A2%D7%99-%D7%9E%D7%92%D7%99%D7%91-%D7%9C%D7%99%D7%95%D7%A2%D7%9E%D7%A9%D7%99%D7%AA-%D7%9E%D7%AA%D7%A0%D7%92%D7%93%D7%AA-%D7%9C%D7%97%D7%95%D7%A7-%D7%91%D7%92%D7%9C%D7%9C-%D7%90",
           "source": "סרוגים"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "חרמש",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 14 Jun 2025 16:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgilI2nEjBiJ7FmYGzDa8e8fwwr_CsLm6RNmDDzPwx5-ME2e3pghKNWGtUINs",
-      "pictureSource": "סרוגים",
-      "relatedSearch": [
-        {
-          "title": "יהודה ושומרון: מחבל ירה לעבר לוחמים במחסום חרמש, אין נפגעים",
-          "snippet": "",
-          "url": "https://mobile.srugim.co.il/article/1136378",
-          "source": "סרוגים"
-        },
-        {
-          "title": "מחבל ירה לעבר כוחות צה\"ל הפועלים בחסם חרמש; המחבל נוטרל",
-          "snippet": "",
-          "url": "https://www.news1.co.il/Archive/001-D-503020-00.html",
-          "source": "News1 מחלקה ראשונה"
-        },
-        {
-          "title": "צומת חרמש: המחבל ירה לעבר הלוחמים ומיד נוטרל | דובר צה\"ל: \"אין נפגעים\"",
-          "snippet": "",
-          "url": "http://www.kikar.co.il/israel-news/sxqvwk",
-          "source": "כיכר השבת"
         }
       ],
       "link": "https://imtaqin.id/"

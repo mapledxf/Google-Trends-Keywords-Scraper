@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-17 21:12:35",
+  "lastUpdate": "2025-06-17 21:30:54",
   "data": [
     {
       "title": "cnn",
@@ -23,7 +23,7 @@
         {
           "title": "Warner Bros. Bondholders Approve Company’s Split",
           "snippet": "",
-          "url": "https://www.wsj.com/business/media/warner-bros-bondholders-approve-companys-split-f618a588?gaa_at=eafs&gaa_n=ASWzDAjscioMKc506HFvqPxntechzpwsOmT94LgpLmWQLoeCRHRwItir59e4&gaa_ts=6851ddb6&gaa_sig=ZcEo1lRx_ICDUkUh-ujbA93qw4Aw5nklaEdbil4VgTY5Y3anpvWjRls5SYfEiV5vnrRUt9tArUSdqQRK7Bk3HQ%3D%3D",
+          "url": "https://www.wsj.com/business/media/warner-bros-bondholders-approve-companys-split-f618a588?gaa_at=eafs&gaa_n=ASWzDAidpXvY9lgjMW_-oSj2qLmoUjy364GBY6hu88M5tJAb7VcK-juyiVA0&gaa_ts=6851e130&gaa_sig=GSUV7MsDG_HUAh81KopKMqu06LeBey1ED6oOMi8KX5SRhdAyTmQ742PQ8aoPS7NFAML8rEgAkFbVGJgvxm5t-A%3D%3D",
           "source": "WSJ"
         }
       ],
@@ -33,26 +33,26 @@
       "title": "нетаньяху",
       "trafficCount": "200+",
       "pubDate": "Tue, 17 Jun 2025 14:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSxL7S7eJoO-IQmgKaEMdu5SGVzhXwYNoAmrWDQwHVZa3tIV1uQq3EtbcljtY",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLoGO0jBZQ5nDBlLmBKzB5h-CSkbTlLDXjEsfqdcK9XRRPyNEkR0HnLIcQkZU",
+      "pictureSource": "Українська правда",
       "relatedSearch": [
         {
-          "title": "Анализ: какова конечная цель израильской военной операции в Иране?",
+          "title": "МИД призывает украинцев покинуть Израиль и Иран из-за обострения ситуации",
           "snippet": "",
-          "url": "https://www.bbc.com/russian/articles/cdjxwgl8pjlo",
-          "source": "BBC"
+          "url": "https://www.pravda.com.ua/rus/news/2025/06/17/7517534/",
+          "source": "Українська правда"
         },
         {
-          "title": "Министр обороны Израиля пригрозил лидеру Ирана Хаменеи судьбой Саддама Хусейна",
+          "title": "МИД призвал украинцев покинуть Израиль и Иран в кратчайшие сроки",
           "snippet": "",
-          "url": "https://nv.ua/world/countries/lidera-irana-mozhet-postignut-sudba-saddama-huseyna-zayavil-ministr-oborony-izrailya-50522908.html",
+          "url": "https://nv.ua/world/countries/mzs-zaklikalo-ukrajinciv-pokinuti-izrajil-ta-iran-v-naykorotshi-termini-50522898.html",
           "source": "NV.ua"
         },
         {
-          "title": "Нетаньяху: Убийство Хаменеи положит конец конфликту с Ираном",
+          "title": "Новая война без конца? Ошибки Израиля",
           "snippet": "",
-          "url": "https://www.dw.com/ru/netanahu-ubijstvo-hamenei-polozit-konec-konfliktu-s-iranom/a-72938866",
-          "source": "DW"
+          "url": "https://korrespondent.net/world/4791009-novaia-voina-bez-kontsa-oshybky-yzraylia",
+          "source": "Korrespondent.net"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -87,17 +87,11 @@
     },
     {
       "title": "iran",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 17 Jun 2025 13:50:00 -0700",
-      "picture": "",
-      "pictureSource": "The White House (.gov)",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQw4ZpTlDJV8PP2EZ3aMZ_KwKdhb-gdgbDZa9li7epevGpwpvvvuQDDWEWx0W4",
+      "pictureSource": "CNN",
       "relatedSearch": [
-        {
-          "title": "President Trump Has Always Been Clear: Iran Cannot Have a Nuclear Weapon",
-          "snippet": "",
-          "url": "https://www.whitehouse.gov/articles/2025/06/president-trump-has-always-been-clear-iran-cannot-have-a-nuclear-weapon/",
-          "source": "The White House (.gov)"
-        },
         {
           "title": "Live updates: Israel and Iran trade strikes on fifth day of conflict",
           "snippet": "",
@@ -105,10 +99,16 @@
           "source": "CNN"
         },
         {
-          "title": "Trump 'may decide' to take further action against Iran's nuclear program, Vance says",
+          "title": "Trump's order to leave Tehran adds to fear as Iranians share 'last photo of home'",
           "snippet": "",
-          "url": "https://www.bbc.com/news/live/cx23e4jz2g0t",
+          "url": "https://www.bbc.com/news/articles/c3d19nm21kko",
           "source": "BBC"
+        },
+        {
+          "title": "Iran fires missiles at Israel; Trump claims ‘total control of Iran skies’",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/6/17/live-israel-iran-trade-attacks-trump-orders-residents-of-tehran-to-flee",
+          "source": "Al Jazeera"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -142,8 +142,36 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "сша",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 17 Jun 2025 13:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6gQBVihfN5d7dryK2ytXmBA6mlgi0-l2XeSu91TVsuO5qBDXe7S-sAl5OFzE",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Чому Трамп екстрено залишив саміт G7 і знову оскандалився через Путіна",
+          "snippet": "",
+          "url": "https://www.bbc.com/ukrainian/articles/c4g2d0wly08o",
+          "source": "BBC"
+        },
+        {
+          "title": "Трамп знав про атаку на Київ?",
+          "snippet": "",
+          "url": "https://glavcom.ua/columns/vadymdenysenko/tramp-znav-pro-ataku-na-kijiv-1063807.html",
+          "source": "Главком"
+        },
+        {
+          "title": "Робочий візит Президента до Канади для участі в засіданні лідерів країн G7, присвяченому Україні",
+          "snippet": "",
+          "url": "https://www.president.gov.ua/photos/robochij-vizit-prezidenta-do-kanadi-dlya-uchasti-v-zasidanni-7137",
+          "source": "Офіційне інтернет-представництво Президента України"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "увб 76",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 17 Jun 2025 13:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSGfvFbyk9VWsuLB4ypSRPrd6DBkEQOxBxUtQNbBL-cmijC02KtSycAayWnn8",
       "pictureSource": "Korrespondent.net",
@@ -230,34 +258,6 @@
           "snippet": "",
           "url": "https://www.pravda.com.ua/rus/news/2025/06/17/7517543/",
           "source": "Українська правда"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "катя гандзюк",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 17 Jun 2025 11:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgr-YsGSuRhlmeqUXs6Wck9MdXtduUEc18VRvPIYD2jRkJpOo8sgZ0ln7pDoU",
-      "pictureSource": "Українська правда",
-      "relatedSearch": [
-        {
-          "title": "В Киеве восстановили мурал с цитатой Екатерины Гандзюк, который перед тем зарисовали неизвестные",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2025/06/17/7517593/",
-          "source": "Українська правда"
-        },
-        {
-          "title": "Сегодня должно было бы исполниться 40 лет. Накануне дня рождения убитой активистки Екатерины Гандзюк в Киеве",
-          "snippet": "",
-          "url": "https://nv.ua/socium/v-kieve-zarisovali-mural-s-citatoy-ekateriny-gandzyuk-50522890.html",
-          "source": "NV.ua"
-        },
-        {
-          "title": "В Киеве закрасили мемориальный мурал с цитатой Гандзюк накануне ее дня рождения",
-          "snippet": "",
-          "url": "https://gordonua.com/news/localnews/v-kieve-zakrasili-memorialnyj-mural-s-tsitatoj-handzjuk-nakanune-ee-dnja-rozhdenija-1746096.html",
-          "source": "Гордон"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-06-18 07:59:50",
+  "lastUpdate": "2025-06-18 08:32:19",
   "data": [
+    {
+      "title": "новости",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 18 Jun 2025 00:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv-k80KL_a0xx0EktqVWFAFdpijSoB9rtaHriEUz6UeuJK3ve9A1YLcFa5b3Y",
+      "pictureSource": "Кактус – новости Кыргызстана и Бишкека",
+      "relatedSearch": [
+        {
+          "title": "В Маевке изнасиловали первоклассника. Подозревают троих школьников",
+          "snippet": "",
+          "url": "https://kaktus.media/doc/525943_v_maevke_iznasilovali_pervoklassnika._podozrevaut_troih_shkolnikov.html",
+          "source": "Кактус – новости Кыргызстана и Бишкека"
+        },
+        {
+          "title": "Изнасилование первоклассника: милиция сообщила об одном задержанном",
+          "snippet": "",
+          "url": "https://24.kg/proisshestvija/333141_iznasilovanie_pervoklassnika_militsiya_soobschila_obodnom_zaderjannom/",
+          "source": "24.KG"
+        },
+        {
+          "title": "Родные школьника заявили о его систематическом изнасиловании. Задержан 16-летний парень",
+          "snippet": "",
+          "url": "https://svodka.akipress.org/news:2284930?from=eco&place=nowread",
+          "source": "Сводка АКИpress"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "новости бишкек",
       "trafficCount": "200+",
@@ -30,51 +58,23 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "кактус медиа",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 18 Jun 2025 00:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDuoNwfODPZC_8kocyxG3C061UsTE_BngLT4d2iJ5R-FAfxh9KlUON69tEtkE",
-      "pictureSource": "Кактус – новости Кыргызстана и Бишкека",
-      "relatedSearch": [
-        {
-          "title": "Депутаты требуют наказать Кашкара Джунушалиева",
-          "snippet": "",
-          "url": "https://kaktus.media/doc/525936_depytaty_trebyut_nakazat_kashkara_djynyshalieva.html",
-          "source": "Кактус – новости Кыргызстана и Бишкека"
-        },
-        {
-          "title": "Депутаты просят наказать бывших главу МВД Джунушалиева и главу ГКНБ Опумбаева",
-          "snippet": "",
-          "url": "https://svodka.akipress.org/news:2284842",
-          "source": "Сводка АКИpress"
-        },
-        {
-          "title": "На Солнце произошла вспышка уровня X1.2 в зоне максимального влияния на Землю",
-          "snippet": "",
-          "url": "https://kaktus.media/doc/525941_na_solnce_proizoshla_vspyshka_yrovnia_x1.2_v_zone_maksimalnogo_vliianiia_na_zemlu.html",
-          "source": "Кактус – новости Кыргызстана и Бишкека"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "свет бишкек",
       "trafficCount": "1000+",
       "pubDate": "Wed, 18 Jun 2025 00:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScLTm0rXJg5PPVbh9DSBLYK_t8vSYFs4ao759x33FN7DhBkie8Gdgyuzs1vpA",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRU9u2klLPEprmn9cAHwGp8bOghzD_tx7sNLnMOXwA8tW_MkNuumtazkp5KcNA",
       "pictureSource": "Кактус – новости Кыргызстана и Бишкека",
       "relatedSearch": [
         {
-          "title": "18 июня в части Бишкека отключат свет (список улиц)",
+          "title": "Произошло массовое отключение электроэнергии из-за аварии на подстанции",
           "snippet": "",
-          "url": "https://kaktus.media/doc/525876_18_iunia_v_chasti_bishkeka_otkluchat_svet_spisok_ylic.html",
+          "url": "https://kaktus.media/doc/525944_proizoshlo_massovoe_otkluchenie_elektroenergii_iz_za_avarii_na_podstancii.html",
           "source": "Кактус – новости Кыргызстана и Бишкека"
         },
         {
-          "title": "В Бишкеке произошел блэкаут, столица осталась без света и воды",
+          "title": "Энергетический коллапс в Бишкеке: тысячи жителей остались без света и воды",
           "snippet": "",
-          "url": "https://vesti.kg/obshchestvo/item/140086-v-bishkeke-proizoshel-blekaut-stolitsa-ostalas-bez-sveta-i-vody.html",
-          "source": "Вести.kg"
+          "url": "https://oxu.az/ru/v-mire/energeticheskij-kollaps-v-bishkeke-tysyachi-zhitelej-ostalis-bez-sveta-i-vody",
+          "source": "Oxu.Az"
         },
         {
           "title": "18 июня: где в Бишкеке и регионах отключат свет",
@@ -115,22 +115,28 @@
     },
     {
       "title": "akipress",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 18 Jun 2025 00:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRfi1gusrjVD05EVdaNoXZg0dhb87r-M8Tn4f7SdACZ-U-C4-64W-cNd8QNNg",
-      "pictureSource": "Акчабар",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqsUhzu6RK8ltzt-6Dql-tBerDFpwqXYXxT7Fn7Y5N6xEDsYlkUs3VF3_r78",
+      "pictureSource": "AKI Press",
       "relatedSearch": [
         {
-          "title": "Spring field work in the country is almost complete on Akchabar",
+          "title": "Kyrgyz Parliament approves constitutional law barring individuals with criminal records from high office",
           "snippet": "",
-          "url": "https://www.akchabar.kg/en/news/vesennepolevie-raboti-v-strane-prakticheski-zaversheni-debecykjkcewdtvi",
-          "source": "Акчабар"
+          "url": "https://akipress.com/news:835462:Kyrgyz_Parliament_approves_constitutional_law_barring_individuals_with_criminal_records_from_high_office/",
+          "source": "AKI Press"
         },
         {
-          "title": "Spring fieldwork nearing completion in Kyrgyzstan",
+          "title": "Parliament Committee approves constitutional law banning individuals with criminal records from high office",
           "snippet": "",
-          "url": "https://akipress.com/news:835457:Spring_fieldwork_nearing_completion_in_Kyrgyzstan/",
+          "url": "https://akipress.com/news:835228:Parliament_Committee_approves_constitutional_law_banning_individuals_with_criminal_records_from_high_office/",
           "source": "AKI Press"
+        },
+        {
+          "title": "Kyrgyzshampany building loses its status of architectural monument",
+          "snippet": "",
+          "url": "https://24.kg/english/332444_Kyrgyzshampany_building_loses_its_status_of_architectural_monument_/",
+          "source": "24.KG"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,10 +161,10 @@
           "source": "Kursiv Media Казахстан"
         },
         {
-          "title": "Сенсацией закончился матч финалиста Лиги чемпионов в историческом турнире",
+          "title": "Серхио Рамос высказался о ничьей в матче между «Монтерреем» и «Интером»",
           "snippet": "",
-          "url": "https://alsport.kz/football/sensaciei-zakonchilsia-match-finalista-ligi-chempionov-v-istoricheskom-tyrnire/",
-          "source": "AlSport.kz"
+          "url": "https://www.liveresult.ru/news/Futbol/278286-Serhio-Ramos-vyskazalsya-o-nichey-v-matche-megdu-Monterrem-i-Interom",
+          "source": "LiveResult"
         }
       ],
       "link": "https://imtaqin.id/"

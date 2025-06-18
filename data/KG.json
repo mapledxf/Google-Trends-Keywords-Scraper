@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-18 11:00:17",
+  "lastUpdate": "2025-06-18 11:21:41",
   "data": [
     {
       "title": "чуйская область",
@@ -45,34 +45,6 @@
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "кактус медиа",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 18 Jun 2025 00:40:00 -0700",
-      "picture": "",
-      "pictureSource": "Кактус – новости Кыргызстана и Бишкека",
-      "relatedSearch": [
-        {
-          "title": "В 7-м микрорайоне Бишкека нашли окровавленного мужчину",
-          "snippet": "",
-          "url": "https://kaktus.media/doc/525954_v_7_m_mikrorayone_bishkeka_nashli_okrovavlennogo_myjchiny.html",
-          "source": "Кактус – новости Кыргызстана и Бишкека"
-        },
-        {
-          "title": "В Бишкеке мужчину несколько раз ранили ножом. Осторожно, видео",
-          "snippet": "",
-          "url": "https://svodka.akipress.org/news:2285018?from=eco&place=nowread",
-          "source": "Сводка АКИpress"
-        },
-        {
-          "title": "Произошло массовое отключение электроэнергии из-за аварии на подстанции",
-          "snippet": "",
-          "url": "https://kaktus.media/doc/525944_proizoshlo_massovoe_otkluchenie_elektroenergii_iz_za_avarii_na_podstancii.html",
-          "source": "Кактус – новости Кыргызстана и Бишкека"
-        }
-      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -135,9 +107,28 @@
       "title": "akipress",
       "trafficCount": "200+",
       "pubDate": "Wed, 18 Jun 2025 00:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStTxRbW9Fd8TCCAGfW5AVnKQCGZFajYSMD8CuoX8ukXjTSTAvPnBGLMrSfYZQ",
+      "pictureSource": "AKI Press",
+      "relatedSearch": [
+        {
+          "title": "Local watermelons and melons ripen in Aksy district",
+          "snippet": "",
+          "url": "https://akipress.com/news:835542:Local_watermelons_and_melons_ripen_in_Aksy_district/",
+          "source": "AKI Press"
+        },
+        {
+          "title": "Power gradually restored in Bishkek after sudden outage",
+          "snippet": "",
+          "url": "https://akipress.com/news:835540:Power_gradually_restored_in_Bishkek_after_sudden_outage/",
+          "source": "AKI Press"
+        },
+        {
+          "title": "Kyrgyzstan's Bishkek faces power outage",
+          "snippet": "",
+          "url": "https://en.trend.az/casia/kyrgyzstan/4058567.html",
+          "source": "Trend News Agency"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {

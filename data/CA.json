@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-06-18 05:59:37",
+  "lastUpdate": "2025-06-18 06:34:46",
   "data": [
+    {
+      "title": "내일 날씨",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 17 Jun 2025 23:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm9Y8S6NYs_KgoQL_okfauwAy0q195KtHsGh3FR-s_kX1m6ssVK2WsHKfCNnI",
+      "pictureSource": "네이트 뉴스",
+      "relatedSearch": [
+        {
+          "title": "[날씨] 오늘도 무더운 날씨…야외 활동·식중독 주의",
+          "snippet": "",
+          "url": "https://news.nate.com/view/20250618n19342",
+          "source": "네이트 뉴스"
+        },
+        {
+          "title": "전국 30도 안팎 '무더위' 계속…내일 오후부터 서해안에 비",
+          "snippet": "",
+          "url": "https://www.news1.kr/society/incident-accident/5817459",
+          "source": "뉴스1"
+        },
+        {
+          "title": "오늘 대체로 맑아..\"최고기온 31도\"",
+          "snippet": "",
+          "url": "https://www.g1tv.co.kr/news/?newsid=329312&mid=1_207_3",
+          "source": "G1방송"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "weather surrey",
       "trafficCount": "100+",
@@ -31,7 +59,7 @@
     },
     {
       "title": "love island",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 17 Jun 2025 22:20:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWMG0p-zrWyjEkg17HrxbsnQuPCEYAEma58UvmzSLIggtbM_44Po8Tesz1q1Y",
       "pictureSource": "USA Today",
@@ -173,26 +201,26 @@
       "title": "lear",
       "trafficCount": "1000+",
       "pubDate": "Tue, 17 Jun 2025 21:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGcwqggspiBBW1mEdWLqPx_gpTDkHy7MbidxUuduaG54In6EB0Cobzk5Kh_sw",
-      "pictureSource": "MarketBeat",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKnSNmE69BiA3FOATfR-m10SCivg0xL37TOLYKV5q_Xbjcef_jwiCuQVETeio",
+      "pictureSource": "Nasdaq",
       "relatedSearch": [
         {
-          "title": "Grimes & Company Inc. Boosts Holdings in Lear Co. (NYSE:LEA)",
+          "title": "Assessing Lear: Insights From 10 Financial Analysts",
           "snippet": "",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-grimes-company-inc-boosts-holdings-in-lear-co-nyselea-2025-06-17/",
+          "url": "https://www.nasdaq.com/articles/assessing-lear-insights-10-financial-analysts",
+          "source": "Nasdaq"
+        },
+        {
+          "title": "Bank of America Increases Lear (NYSE:LEA) Price Target to $115.00",
+          "snippet": "",
+          "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-increases-lear-nyselea-price-target-to-11500-2025-06-16/",
           "source": "MarketBeat"
         },
         {
-          "title": "Harbor Capital Advisors Inc. Has $3.50 Million Holdings in Lear Co. (NYSE:LEA)",
+          "title": "Lear (LEA) Receives Price Target Boost from B of A Securities | LEA Stock News",
           "snippet": "",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-harbor-capital-advisors-inc-acquires-10249-shares-of-lear-co-nyselea-2025-06-11/",
-          "source": "MarketBeat"
-        },
-        {
-          "title": "Lear Director Makes a Significant Stock Sale!",
-          "snippet": "",
-          "url": "https://www.tipranks.com/news/insider-trading/lear-director-makes-a-significant-stock-sale-insider-trading",
-          "source": "TipRanks"
+          "url": "https://www.gurufocus.com/news/2929138/lear-lea-receives-price-target-boost-from-b-of-a-securities--lea-stock-news",
+          "source": "GuruFocus"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,9 +257,15 @@
       "title": "明天的天氣",
       "trafficCount": "200+",
       "pubDate": "Tue, 17 Jun 2025 21:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRTQwKbObilIsQgdplTx0pNfn5M-xcRQWaTTaD9GNysWZCHqUmVxPWTPQN8Tg",
-      "pictureSource": "MSN",
+      "picture": "",
+      "pictureSource": "氣象應用推廣基金會",
       "relatedSearch": [
+        {
+          "title": "一週無鋒無擾動天氣偏熱午後雨",
+          "snippet": "",
+          "url": "http://www.metapp.org.tw/index.php/bossweathernews/3527-2025-06-17-21-39-05",
+          "source": "氣象應用推廣基金會"
+        },
         {
           "title": "高溫加午後雷雨報到 專家揭2 階段有利颱風生成",
           "snippet": "",
@@ -243,40 +277,6 @@
           "snippet": "",
           "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E9%AB%98%E6%BA%AB%E8%AD%A6%E7%A4%BA-3%E7%B8%A3%E5%B8%82%E9%A3%8636-c%E4%BB%A5%E4%B8%8A-%E5%8D%88%E5%BE%8C-041500074.html",
           "source": "奇摩新聞"
-        },
-        {
-          "title": "各地多雲到晴高溫飆36度 午後局部雷陣雨",
-          "snippet": "",
-          "url": "https://www.taiwanhot.net/news/1105670/%E5%90%84%E5%9C%B0%E5%A4%9A%E9%9B%B2%E5%88%B0%E6%99%B4%E9%AB%98%E6%BA%AB%E9%A3%8636%E5%BA%A6+%E5%8D%88%E5%BE%8C%E5%B1%80%E9%83%A8%E9%9B%B7%E9%99%A3%E9%9B%A8",
-          "source": "台灣好新聞"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "lake lanier",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 17 Jun 2025 21:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSiT_Sz-a5D1L29snmCYqhedfTuDDwB0cPSYXKF8FrWQp82sHpBQue4G5EcIVM",
-      "pictureSource": "People.com",
-      "relatedSearch": [
-        {
-          "title": "27-Year-Old Jumped from Boat While Celebrating Friend's Birthday at Infamous Lake. 1 Day Later, He's Found Dead",
-          "snippet": "",
-          "url": "https://people.com/man-jumped-from-boat-celebrating-birthday-infamous-lake-found-dead-day-later-11756254",
-          "source": "People.com"
-        },
-        {
-          "title": "27-year-old man’s body recovered from Lake Lanier",
-          "snippet": "",
-          "url": "https://www.wsbtv.com/news/local/forsyth-county/27-year-old-swimmer-disappears-lake-lanier/4CRZN436DRHT7C5LYULSM3EQYU/",
-          "source": "WSB-TV"
-        },
-        {
-          "title": "Authorities find body of man last seen near Forsyth County park on Lake Lanier",
-          "snippet": "",
-          "url": "https://www.dawsonnews.com/news/lake-lanier/authorities-find-body-of-man-last-seen-near-forsyth-county-park-on-lake-lanier/",
-          "source": "Dawson News"
         }
       ],
       "link": "https://imtaqin.id/"

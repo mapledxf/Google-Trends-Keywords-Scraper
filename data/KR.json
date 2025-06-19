@@ -1,30 +1,67 @@
 {
-  "lastUpdate": "2025-06-19 23:32:24",
+  "lastUpdate": "2025-06-19 23:44:43",
   "data": [
     {
-      "title": "일기예보",
+      "title": "권나라",
       "trafficCount": "200+",
-      "pubDate": "Thu, 19 Jun 2025 15:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8FNc0nPFublKS0w2rPskmIa42gE1DCdDXeYtjBE54I8zFWtuW8PZ3mBLuOEA",
-      "pictureSource": "조선일보",
+      "pubDate": "Thu, 19 Jun 2025 15:40:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "대구날씨",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 19 Jun 2025 15:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCuTrqSwVUeozDbJCykug9EcYI2uUdg10YFtFR31hK9dLVSdCPX-l-L0uthc8",
+      "pictureSource": "연합뉴스",
       "relatedSearch": [
         {
-          "title": "서울 출근길 호우특보…시간당 50㎜ 물폭탄 쏟아진다",
+          "title": "대구·경북 흐리고 비…내일까지 30∼80㎜ 예상",
           "snippet": "",
-          "url": "https://www.chosun.com/national/national_general/2025/06/20/WNNK42TBTVCVZMWGGTVA72WGBQ/",
-          "source": "조선일보"
-        },
-        {
-          "title": "인천, 집중호우에 도로 3곳 차량 통제…누적 강우량 139㎜",
-          "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20250620017600065",
+          "url": "https://www.yna.co.kr/view/AKR20250620008400053",
           "source": "연합뉴스"
         },
         {
-          "title": "[날씨] 전국 장마 영향권, 최고 150mm↑...수도권 곳곳 '호우특보'",
+          "title": "장마 시작 전 찾아온 무더위 [뉴시스Pic]",
           "snippet": "",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0108_202506200732487966_005.html",
-          "source": "YTN"
+          "url": "https://www.newsis.com/view/NISX20250619_0003219583",
+          "source": "뉴시스"
+        },
+        {
+          "title": "[오늘의 날씨] 대구·경북(20일,금)…내일까지 장맛비, 낮 25~30도",
+          "snippet": "",
+          "url": "https://www.news1.kr/local/daegu-gyeongbuk/5819535",
+          "source": "뉴스1"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "seattle sounders vs atlético madrid",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 19 Jun 2025 15:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqbz7BZw2Dz3RALNL9U7PpftZZzJW2XoOzu5gvEdDfpquSAemTZA2Y3KUnjDw",
+      "pictureSource": "Seattle Sounders FC",
+      "relatedSearch": [
+        {
+          "title": "BOTvSEA Starting XI: Sounders kick off FIFA Club World Cup 2025™ campaign with strong lineup",
+          "snippet": "",
+          "url": "https://www.soundersfc.com/news/botvsea-starting-xi-sounders-kick-off-fifa-club-world-cup-2025tm-campaign-with-strong-lineup",
+          "source": "Seattle Sounders FC"
+        },
+        {
+          "title": "Atlético de Madrid",
+          "snippet": "",
+          "url": "https://en.atleticodemadrid.com/directos/seattle-sounders-fc-atletico-de-madrid-20-06-2025-00-00-2",
+          "source": "Página oficial del Atlético de Madrid"
+        },
+        {
+          "title": "Northwest Sports Update: Sounders face toughest test of Club World Cup, key Mariners bat nears return, Bells hit rubber match in Edmonton and more",
+          "snippet": "",
+          "url": "https://kpug1170.com/news/297792-northwest-sports-update-sounders-face-toughest-test-of-club-world-cup-key-mariners-bat-nears-return-bells-hit-rubber-match-in-edmonton-and-more/",
+          "source": "1170 KPUG-AM |"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,9 +70,15 @@
       "title": "날씨",
       "trafficCount": "500000+",
       "pubDate": "Thu, 19 Jun 2025 14:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUWUWmUOwmR0FW-Fclt1Ws3YND1NrqkLm4xZuNcmdOFrYbv6CwefM_uU3PjaY",
-      "pictureSource": "MBC 뉴스",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_zqta4vXiq8q2F3aLRU132XEDURfr_mhQ_WyF8LgZJJcaKPODu32tpgzpwnA",
+      "pictureSource": "네이트 뉴스",
       "relatedSearch": [
+        {
+          "title": "[날씨] 전국 장마 시작…오늘 밤 중부 '극한 호우' 우려",
+          "snippet": "",
+          "url": "https://news.nate.com/view/20250620n00209",
+          "source": "네이트 뉴스"
+        },
         {
           "title": "전국 장맛비 본격 시작‥최대 150mm 집중호우",
           "snippet": "",
@@ -43,23 +86,17 @@
           "source": "MBC 뉴스"
         },
         {
-          "title": "[날씨] 곳곳 장맛비...경기 북부 '호우경보', 시간당 50mm↑",
+          "title": "오늘도 야행성 폭우… 중부 지방 쏟아진다",
           "snippet": "",
-          "url": "https://www.ytn.co.kr/_ln/0108_202506200646228396",
-          "source": "YTN"
-        },
-        {
-          "title": "낮 최고 34도 오후부터 ‘장마’ 시작",
-          "snippet": "",
-          "url": "https://www.khan.co.kr/article/202506190715001",
-          "source": "경향신문"
+          "url": "https://www.chosun.com/national/transport-environment/2025/06/20/KLMMOQUZW5FZ5ICAHUQRWVTXYQ/",
+          "source": "조선일보"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "weather",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Thu, 19 Jun 2025 14:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMeFZNnqsg3Sakf982b97NU1ASGujkAGDzERJqjgqb9vzUteJ1yv1gXemP6z8",
       "pictureSource": "KDVR",
@@ -142,6 +179,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "날씨누리",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 19 Jun 2025 14:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8FNc0nPFublKS0w2rPskmIa42gE1DCdDXeYtjBE54I8zFWtuW8PZ3mBLuOEA",
+      "pictureSource": "조선일보",
+      "relatedSearch": [
+        {
+          "title": "서울 출근길 호우특보…시간당 50㎜ 물폭탄 쏟아진다",
+          "snippet": "",
+          "url": "https://www.chosun.com/national/national_general/2025/06/20/WNNK42TBTVCVZMWGGTVA72WGBQ/",
+          "source": "조선일보"
+        },
+        {
+          "title": "[날씨] 전국 장마 영향권, 최고 150mm↑...수도권 곳곳 '호우특보'",
+          "snippet": "",
+          "url": "https://www.ytn.co.kr/_ln/0108_202506200732487966",
+          "source": "YTN"
+        },
+        {
+          "title": "인천, 집중호우에 도로 3곳 차량 통제…누적 강우량 139㎜",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20250620017600065",
+          "source": "연합뉴스"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "fifa club world cup",
       "trafficCount": "500+",
       "pubDate": "Thu, 19 Jun 2025 14:00:00 -0700",
@@ -163,120 +228,36 @@
         {
           "title": "Juventus heading in the 'right direction' says Tudor ahead of Wydad test",
           "snippet": "",
-          "url": "https://www.beinsports.com/en-nz/football/fifa-club-world-cup/articles/juventus-heading-in-the-right-direction-says-tudor-ahead-of-wydad-test-2025-06-19",
+          "url": "https://www.beinsports.com/en-au/football/fifa-club-world-cup/articles/juventus-heading-in-the-right-direction-says-tudor-ahead-of-wydad-test-2025-06-19",
           "source": "beIN SPORTS"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "날씨누리",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 19 Jun 2025 14:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQj5SYoP8-VDY2yZ6cIgkYkezWHAB9J-Vr_Wc77xEkvzqaAyb7nLXU0wHq_9Kw",
-      "pictureSource": "SBS 뉴스",
-      "relatedSearch": [
-        {
-          "title": "강원 내일까지 120㎜ 이상 비…\"저지대 침수 등 조심\"",
-          "snippet": "",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008145478",
-          "source": "SBS 뉴스"
-        },
-        {
-          "title": "강원 낮 최고 34도까지 올라…내륙·산지 50∼100㎜ 비",
-          "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20250619014400062",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "낮 최고 서울 31도·대구 33도…불볕더위 계속[오늘날씨]",
-          "snippet": "",
-          "url": "https://news.nate.com/view/20250618n03302",
-          "source": "네이트 뉴스"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "thời tiết",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Thu, 19 Jun 2025 13:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSgWQL0G2IW1ePBbXH_ijbKWc4Ac65D6yC1B38GR7vL0eGV9iUnHUx53flYNw",
-      "pictureSource": "Báo Sơn La",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxMshly01DfKH_e4QlVIsTw2ps9WFcGblrqMPLFzlUisua6MUQjEj4HjGYXFI",
+      "pictureSource": "Báo Nông nghiệp và Môi trường",
       "relatedSearch": [
         {
-          "title": "Dự báo thời tiết toàn tỉnh Sơn La ngày 20/6/2025",
+          "title": "Dự báo thời tiết ngày mai 20/6/2025 mới nhất",
           "snippet": "",
-          "url": "https://baosonla.vn/ban-tin-thoi-tiet/du-bao-thoi-tiet-toan-tinh-son-la-ngay-2062025-LaZo2VPHR.html",
-          "source": "Báo Sơn La"
+          "url": "https://nongnghiepmoitruong.vn/du-bao-thoi-tiet-ngay-mai-20-6-2025-moi-nhat-d758742.html",
+          "source": "Báo Nông nghiệp và Môi trường"
         },
         {
-          "title": "Bản tin Báo Sơn La điện tử 24 giờ ngày 19/6/2025",
+          "title": "Hà Nội nắng gián đoạn, ngày oi nóng có mưa lớn về chiều và đêm",
           "snippet": "",
-          "url": "https://baosonla.vn/ban-tin-24h/ban-tin-bao-son-la-dien-tu-24-gio-ngay-1962025-DUNHr4EHg.html",
-          "source": "Báo Sơn La"
+          "url": "https://tienphong.vn/ha-noi-nang-gian-doan-ngay-oi-nong-co-mua-lon-ve-chieu-va-dem-post1752829.tpo",
+          "source": "Báo điện tử Tiền Phong"
         },
         {
-          "title": "Dự báo thời tiết toàn tỉnh Sơn La ngày 19/6/2025",
+          "title": "Thời tiết hôm nay (20-6): Miền Bắc bước vào đợt mưa lớn, miền Trung nắng nóng diện rộng",
           "snippet": "",
-          "url": "https://baosonla.vn/ban-tin-thoi-tiet/du-bao-thoi-tiet-toan-tinh-son-la-ngay-1962025-aF96uZENg.html",
-          "source": "Báo Sơn La"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "인터마이애미",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 19 Jun 2025 13:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4M3VWoCAL7S0Pl6svNoq5v1r9DTrBYgqBvVx83LSg8Q2Af75a1n-PcjX-SLU",
-      "pictureSource": "연합뉴스",
-      "relatedSearch": [
-        {
-          "title": "'메시 프리킥 골' 마이애미, 클럽월드컵서 포르투에 2-1 역전승",
-          "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20250620015700007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "'메시 미친 프리킥 역전골' 마이애미, '포르투갈 강호' 포르투에 2-1 역전승...조 2위로 '껑충'",
-          "snippet": "",
-          "url": "https://www.chosun.com/sports/world-football/2025/06/20/AZLBKJVFIZEEJYRO42KAS3H57Q/",
-          "source": "조선일보"
-        },
-        {
-          "title": "'관중 3412명', '10-0 스코어'…FIFA 클럽 월드컵, 흥행 어려운 '진짜 이유'",
-          "snippet": "",
-          "url": "https://m.news.nate.com/view/20250619n15121",
-          "source": "네이트 뉴스"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "fati vazquez",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 19 Jun 2025 13:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwYjNUDApguyw-Sw8TVXEQ52TMqB5gTm0Jb9hJHYSiiwMYuFy70S-bJIhBTF0",
-      "pictureSource": "Lecturas",
-      "relatedSearch": [
-        {
-          "title": "EXCLUSIVA | Lamine Yamal se relaja con una influencer de 30 años: sus fotografías junto a Fati Vázquez en Italia",
-          "snippet": "",
-          "url": "https://www.lecturas.com/actualidad/exclusiva-lamine-yamal-se-relaja-influencer-30-anos-sus-fotografias-junto-a-fati-vazquez-italia_176930",
-          "source": "Lecturas"
-        },
-        {
-          "title": "Quién juega hoy por el Mundial de Clubes 2025: los partidos del 19 de junio",
-          "snippet": "",
-          "url": "https://marcapersonalweb.com.ar/2025/06/19/quien-juega-hoy-por-el-mundial-de-clubes-2025-los-partidos-del-19-de-junio/",
-          "source": "Marca Personal Web"
-        },
-        {
-          "title": "Luis Pliego, director de la revista Lecturas, avisa a Fati Vázquez y Lamine Yamal",
-          "snippet": "",
-          "url": "https://www.msn.com/es-es/entretenimiento/other/luis-pliego-director-de-la-revista-lecturas-avisa-a-fati-v%C3%A1zquez-y-lamine-yamal/ar-AA1GYcCP",
-          "source": "MSN"
+          "url": "https://www.qdnd.vn/xa-hoi/tin-tuc/thoi-tiet-hom-nay-20-6-mien-bac-buoc-vao-dot-mua-lon-mien-trung-nang-nong-dien-rong-833582",
+          "source": "Báo Quân đội nhân dân"
         }
       ],
       "link": "https://imtaqin.id/"

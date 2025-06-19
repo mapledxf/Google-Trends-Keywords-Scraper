@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-19 04:03:41",
+  "lastUpdate": "2025-06-19 04:36:31",
   "data": [
     {
       "title": "селезнева",
@@ -43,27 +43,33 @@
           "source": "Главное управление МЧС России по Самарской области"
         },
         {
-          "title": "Ливень и гроза ожидаются в Самарской области 19 июня",
-          "snippet": "",
-          "url": "https://pogoda.mail.ru/news/66626415/",
-          "source": "Mail.ru"
-        },
-        {
           "title": "В Самарской области объявили оранжевый уровень опасности из-за надвигающегося ливня",
           "snippet": "",
           "url": "https://oboz.info/v-samarskoj-oblasti-obyavili-oranzhevyj-uroven-opasnosti-iz-za-nadvigayushhegosya-livnya/",
           "source": "oboz.info"
+        },
+        {
+          "title": "Ливень и гроза ожидаются в Самарской области 19 июня",
+          "snippet": "",
+          "url": "https://pogoda.mail.ru/news/66626415/",
+          "source": "Mail.ru"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "осадки москва",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 18 Jun 2025 19:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSncqnqyYBrZm5LSNqXR6RqhEv9ea4KInjaoP51UxQWUEOG3-fSc0Y0yH4yPhI",
-      "pictureSource": "Mail.ru",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNMt5uweL5mZdy20kSqZ0vdrJLkGKHk8nfQeJRt_M6hYA4-oL3Xib6RoYyUWc",
+      "pictureSource": "GISMETEO.Новости",
       "relatedSearch": [
+        {
+          "title": "Москве предстоят пять дней холодных дождей",
+          "snippet": "",
+          "url": "https://www.gismeteo.ru/news/weather/moskve-predstoyat-pyat-dnej-holodnyh-dozhdej/",
+          "source": "GISMETEO.Новости"
+        },
         {
           "title": "Вильфанд: в Москве в выходные осадков станет меньше",
           "snippet": "",
@@ -71,16 +77,10 @@
           "source": "Mail.ru"
         },
         {
-          "title": "В Подмосковье будет меньше дождей, но по-прежнему холодно",
+          "title": "Осенняя погода будет в Москве на этой неделе",
           "snippet": "",
-          "url": "https://regions.ru/obschestvo/v-podmoskove-budet-menshe-dozhdey-no-po-prezhnemu-holodno",
-          "source": "Regions.ru"
-        },
-        {
-          "title": "Вильфанд: в Москве в выходные осадков станет меньше",
-          "snippet": "",
-          "url": "https://pogoda.mail.ru/amp/news/66634003/?from=amp_nextpage",
-          "source": "Mail.ru"
+          "url": "https://www.interfax.ru/russia/1031724",
+          "source": "Интерфакс"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -142,34 +142,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "рпл",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 18 Jun 2025 17:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTu-_SXlW0aV5RduDbaCP60AOgfWHX5nNjYQCB8ppZNPDLL40_4vot--bPgUaE",
-      "pictureSource": "Спорт Mail",
-      "relatedSearch": [
-        {
-          "title": "Агкацев, Акинфеев, Бабич, Мойзес, Сперцян, Батраков, Угальде, Дзюба — среди финалистов премии Winline Герои РПЛ в своих амплуа",
-          "snippet": "",
-          "url": "https://sportmail.ru/news/football/66630275/",
-          "source": "Спорт Mail"
-        },
-        {
-          "title": "Дзюба вошел в число номинантов на звание лучшего форварда сезона. Даку не попал в топ-3",
-          "snippet": "",
-          "url": "https://www.rusfootball.info/pliga/1146766469-dzyuba-voshel-v-chislo-nominantov-na-zvanie-luchshego-forvarda-sezona-daku-ne-popal-v-top-3.html",
-          "source": "Rusfootball"
-        },
-        {
-          "title": "В числе 12 номинантов на лауреатов сезона-2024/25 в РПЛ нет ни одного игрока «Зенита», зато присутствуют три спартаковца и три армейца",
-          "snippet": "",
-          "url": "https://sport-weekend.com/futbol/premer-liga-2025-26/246352-v-chislo-12-nominantov-na-laureatov-sezona-2024-25-v-rpl-net-ni-odnogo-igroka-zenita-zato-prisutstvuyut-tri-spartakovtsa-i-tri-armejtsa",
-          "source": "Спорт уик-энд"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "увб-76",
       "trafficCount": "200+",
       "pubDate": "Wed, 18 Jun 2025 17:20:00 -0700",
@@ -220,9 +192,9 @@
           "source": "Орск.ру"
         },
         {
-          "title": "19 июня в Орске не будет света",
+          "title": "В Орске пропала 15-летняя Галина Афанасьева",
           "snippet": "",
-          "url": "https://pda.orsk.ru/news/139916-19-iyunya-v-orske-ne-budet-sveta",
+          "url": "https://pda.orsk.ru/news/139905-v-orske-propala-15-letnyaya-galina-afanaseva",
           "source": "Орск.ру"
         },
         {
@@ -254,10 +226,38 @@
           "source": "Бомбардир"
         },
         {
-          "title": "Гол Герреро помог Панаме разгромить Гваделупу на Золотом кубке КОНКАКАФ",
+          "title": "Кубок КОНКАКАФ: Панама победила Гваделупу, поражение Ямайки от Гватемалы",
           "snippet": "",
-          "url": "https://champion.com.ua/rus/football/zolotoy-kubok-konkakaf-pobeda-panamy-i-neozhidannyy-rezultat-matcha-yamayka-gvatemala-1040065/",
-          "source": "Champion.com.ua"
+          "url": "https://ua.tribuna.com/football/1000000256290-kubok-konkakaf-panama-peremohla-hvadelupu-porazka-yamayk/",
+          "source": "Tribuna.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "петросян",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 18 Jun 2025 16:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoKrYkD_jffDbmewMDDbJTppJ8fBBjCppy4pW3qfb7KbrLnuS6cbG9QL7FJ-A",
+      "pictureSource": "muz-tv.ru",
+      "relatedSearch": [
+        {
+          "title": "Молодая жена Евгения Петросяна высмеяла своих критиков: «Я не против!»",
+          "snippet": "",
+          "url": "https://muz-tv.ru/news/molodaya-zhena-evgeniya-petrosyana-vysmeyala-svoih-kritikov-ya-ne-protiv/",
+          "source": "muz-tv.ru"
+        },
+        {
+          "title": "Катя Гордон резко высказалась в адрес Татьяны Брухуновой",
+          "snippet": "",
+          "url": "https://lady.mail.ru/article/565998-katya-gordon-rezko-vyskazalas-v-adres-tatyany-bruhunovoj/",
+          "source": "Леди Mail"
+        },
+        {
+          "title": "Новый скандал с женой Петросяна. Из-за чего, почему Брухунова всех бесит и что не так с сумками за миллионы рублей",
+          "snippet": "",
+          "url": "https://dzen.ru/a/aFG-g81k9lrwwJEv",
+          "source": "Дзен"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,9 +1,65 @@
 {
-  "lastUpdate": "2025-06-20 03:54:30",
+  "lastUpdate": "2025-06-20 04:19:02",
   "data": [
     {
+      "title": "incendio mexicali",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 19 Jun 2025 21:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJYZJf_Li6ObVLRFcjkpG_1R5QPTHevxT2PlJJuMgVFVVeFbD3OZNh7HnVg0Q",
+      "pictureSource": "El Sol de México",
+      "relatedSearch": [
+        {
+          "title": "Dos incendios forestales activos en Tecate",
+          "snippet": "",
+          "url": "https://oem.com.mx/lavozdelafrontera/local/dos-incendios-forestales-en-tecate-24339334",
+          "source": "El Sol de México"
+        },
+        {
+          "title": "Suspenden clases para este viernes en Mexicali por mala calidad del aire",
+          "snippet": "",
+          "url": "https://zetatijuana.com/2025/06/suspenden-clases-para-este-viernes-en-mexicali-por-mala-calidad-del-aire/",
+          "source": "Semanario ZETA"
+        },
+        {
+          "title": "Continúan labores de combate en incendios forestales activos en Tecate",
+          "snippet": "",
+          "url": "https://www.elimparcial.com/mxl/mexicali/2025/06/20/continuan-labores-de-combate-en-incendios-forestales-activos-en-tecate/",
+          "source": "El Imparcial"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "dodgers",
+      "trafficCount": "1000+",
+      "pubDate": "Thu, 19 Jun 2025 20:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt32TGbmZbfHOi_l9bXHPOC06dVYIBJU64PNMD5aWulf9WRaihm7fIOZbdvy0",
+      "pictureSource": "ESPN México",
+      "relatedSearch": [
+        {
+          "title": "Dodgers pide a agentes de ICE salir de estacionamiento del estadio",
+          "snippet": "",
+          "url": "https://www.espn.com.mx/beisbol/nota/_/id/15331284/mlb-2025-dodgers-pide-agentes-ice-salir-estacionamiento-estadio",
+          "source": "ESPN México"
+        },
+        {
+          "title": "Dodgers se blinda y niega acceso a agentes de ICE",
+          "snippet": "",
+          "url": "https://www.eleconomista.com.mx/deportes/dodgers-blinda-niega-acceso-agentes-ice-20250619-764551.html",
+          "source": "El Economista"
+        },
+        {
+          "title": "Intensifica ICE redadas; pidió entrar a estadio de Dodgers",
+          "snippet": "",
+          "url": "https://www.elnorte.com/intensifica-ice-redadas-pidio-entrar-a-estadio-de-dodgers/ar3025177",
+          "source": "El Norte"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "flamengo vs chelsea",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 19 Jun 2025 20:30:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5KWhlekSDn978ECRV4sjK3zdPkoJ9uuqbUITmreQTciKMjW1yH04uc18e7SE",
       "pictureSource": "GE",
@@ -58,6 +114,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "indiana",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 19 Jun 2025 20:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRa1d4ZKW3LrYkmlalk2NZ82de_tAvbVp0Kxqn32dCrmijae_yic712U1Owr3E",
+      "pictureSource": "WVXU",
+      "relatedSearch": [
+        {
+          "title": "Duke Energy may study selling its Cayuga coal plant while still building new gas plant",
+          "snippet": "",
+          "url": "https://www.wvxu.org/2025-06-18/duke-energy-may-study-selling-its-cayuga-coal-plant-while-still-building-new-gas-plant",
+          "source": "WVXU"
+        },
+        {
+          "title": "Settlement reached on Duke Energy's Cayuga gas plant proposal",
+          "snippet": "",
+          "url": "https://www.wthitv.com/news/indiana/settlement-reached-on-duke-energys-cayuga-gas-plant-proposal/article_762072bc-f4f6-4b38-8d9a-a63ab8d3f4d9.html",
+          "source": "WTHI-TV"
+        },
+        {
+          "title": "Morgan Stanley Adjusts Price Target on Duke Energy to $124 From $125, Maintains Equalweight Rating",
+          "snippet": "",
+          "url": "https://www.marketscreener.com/quote/stock/DUKE-ENERGY-CORPORATION-11076385/news/Morgan-Stanley-Adjusts-Price-Target-on-Duke-Energy-to-124-From-125-Maintains-Equalweight-Rating-50273869/",
+          "source": "marketscreener.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "karim benzema",
       "trafficCount": "100+",
       "pubDate": "Thu, 19 Jun 2025 20:10:00 -0700",
@@ -77,10 +161,10 @@
           "source": "El Siglo de Torreón"
         },
         {
-          "title": "Pumas sorprende: quiere a Karim Benzema como su nuevo jugador",
+          "title": "Karim Benzema podría llegar a la Liga MX",
           "snippet": "",
-          "url": "https://juanfutbol.com/liga-mx/karim-benzema-entra-en-la-orbita-de-los-pumas-de-efrain-juarez-seria-el-bombazo-de-la-liga-mx",
-          "source": "Juan Futbol"
+          "url": "https://www.msn.com/es-mx/deportes/futbol/karim-benzema-podr%C3%ADa-llegar-a-la-liga-mx/ar-AA1GZWJX",
+          "source": "MSN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -114,29 +198,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "mexicali",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 19 Jun 2025 20:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJYZJf_Li6ObVLRFcjkpG_1R5QPTHevxT2PlJJuMgVFVVeFbD3OZNh7HnVg0Q",
-      "pictureSource": "El Sol de México",
+      "title": "cuarta temporada de rosario tijeras",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 19 Jun 2025 19:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPmZsbuCF0_645Ef3JsLXkBRzK5JuAhfFl4j1YK9OofyoQcXpOhzznnq9jnus",
+      "pictureSource": "Yahoo en Español Vida y Estilo",
       "relatedSearch": [
         {
-          "title": "Dos incendios forestales activos en Tecate",
+          "title": "¿Qué ver?: \"Rosario Tijeras\" en su debut en Netflix",
           "snippet": "",
-          "url": "https://oem.com.mx/lavozdelafrontera/local/dos-incendios-forestales-en-tecate-24339334",
-          "source": "El Sol de México"
+          "url": "https://es-us.vida-estilo.yahoo.com/rosario-tijeras-debut-netflix-195713570.html",
+          "source": "Yahoo en Español Vida y Estilo"
         },
         {
-          "title": "Continúan labores de combate en incendios forestales activos en Tecate",
+          "title": "Barbara de Regil protagoniza Rosario Tijeras 4: quién es quién es la serie y todo lo que tienes que saber",
           "snippet": "",
-          "url": "https://www.elimparcial.com/mxl/mexicali/2025/06/20/continuan-labores-de-combate-en-incendios-forestales-activos-en-tecate/",
-          "source": "El Imparcial"
+          "url": "https://mexico.as.com/tikitakas/barbara-de-regil-protagoniza-rosario-tijeras-4-quien-es-quien-es-la-serie-y-todo-lo-que-tienes-que-saber-n/",
+          "source": "AS México"
         },
         {
-          "title": "Incendio forestal en Tecate provoca nube de humo en Mexicali",
+          "title": "Bárbara de Regil defiende a \"Rosario Tijeras\": \"es una heroína\"; la serie estrena nueva temporada",
           "snippet": "",
-          "url": "https://www.afntijuana.info/municipios/164871_incendio_forestal_en_tecate_provoca_nube_de_humo_en_mexicali",
-          "source": "AFN"
+          "url": "https://www.eluniversal.com.mx/espectaculos/barbara-de-regil-defiende-a-rosario-tijeras-es-una-heroina-la-serie-estrena-nueva-temporada/",
+          "source": "El Universal"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -170,34 +254,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "cuarta temporada de rosario tijeras",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 19 Jun 2025 19:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPmZsbuCF0_645Ef3JsLXkBRzK5JuAhfFl4j1YK9OofyoQcXpOhzznnq9jnus",
-      "pictureSource": "Yahoo en Español Vida y Estilo",
-      "relatedSearch": [
-        {
-          "title": "¿Qué ver?: \"Rosario Tijeras\" en su debut en Netflix",
-          "snippet": "",
-          "url": "https://es-us.vida-estilo.yahoo.com/rosario-tijeras-debut-netflix-195713570.html",
-          "source": "Yahoo en Español Vida y Estilo"
-        },
-        {
-          "title": "Bárbara de Regil defiende a \"Rosario Tijeras\": \"es una heroína\"; la serie estrena nueva temporada",
-          "snippet": "",
-          "url": "https://www.eluniversal.com.mx/espectaculos/barbara-de-regil-defiende-a-rosario-tijeras-es-una-heroina-la-serie-estrena-nueva-temporada/",
-          "source": "El Universal"
-        },
-        {
-          "title": "“Rosario Tijeras” ¿tendrá temporada 5?",
-          "snippet": "",
-          "url": "https://elcomercio.pe/mag/fama/que-ver/rosario-tijeras-tendra-temporada-5-netflix-mexico-video-nnda-nnlt-noticia/",
-          "source": "El Comercio Perú"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "andrew nembhard",
       "trafficCount": "200+",
       "pubDate": "Thu, 19 Jun 2025 19:40:00 -0700",
@@ -221,62 +277,6 @@
           "snippet": "",
           "url": "https://8points9seconds.com/eye-opening-andrew-nembhard-trend-save-pacers-season",
           "source": "8 Points 9 Seconds"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "copa libertadores",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 19 Jun 2025 19:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNOEt41fWd-Ka5Tl9Uj-rJpRjpeInQOd373blCc0OeGMsjlFzbHj7K2XdOMFA",
-      "pictureSource": "Conmebol",
-      "relatedSearch": [
-        {
-          "title": "Cambio de escenario en un partido de la CONMEBOL Libertadores",
-          "snippet": "",
-          "url": "https://www.conmebol.com/noticias/cambio-de-escenario-en-un-partido-de-la-conmebol-libertadores/",
-          "source": "Conmebol"
-        },
-        {
-          "title": "La importante noticia que recibió River sobre los octavos de Copa Libertadores",
-          "snippet": "",
-          "url": "https://tntsports.com.ar/internacional/importante-noticia-river-copa-libertadores-mundial-de-clubes-20250619-0038.html",
-          "source": "TNT Sports"
-        },
-        {
-          "title": "Cambio de escenario: Libertad recibirá a River Plate en La Huerta",
-          "snippet": "",
-          "url": "https://www.versus.com.py/hoy/2025/06/19/cambio-de-escenario-libertad-recibira-a-river-plate-en-la-huerta/",
-          "source": "Versus"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "clima culiacan",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 19 Jun 2025 19:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRO_4UipwmxxstV-Pp6nGH678gvhorL3Jo6L7Dfu_gA7BNl1H09RsktD4Q5wBg",
-      "pictureSource": "DEBATE",
-      "relatedSearch": [
-        {
-          "title": "Pronóstico del clima para Culiacán hoy 19 de junio de 2025",
-          "snippet": "",
-          "url": "https://www.debate.com.mx/sinaloa/Culiacan/Pronostico-del-clima-para-Culiacan-hoy-19-de-junio-de-2025-20250619-0006.html",
-          "source": "DEBATE"
-        },
-        {
-          "title": "Clima hoy en México: temperaturas para Culiacán Rosales este 18 de junio",
-          "snippet": "",
-          "url": "https://www.infobae.com/mexico/2025/06/18/clima-hoy-en-mexico-temperaturas-para-culiacan-rosales-este-18-de-junio/",
-          "source": "Infobae"
-        },
-        {
-          "title": "Cielo nuboso: este es el pronóstico del clima para Sinaloa este jueves 19 de junio",
-          "snippet": "",
-          "url": "https://oem.com.mx/elsoldesinaloa/local/cielo-nuboso-este-es-el-pronostico-del-clima-para-sinaloa-este-jueves-19-de-junio-24331339",
-          "source": "El Sol de México"
         }
       ],
       "link": "https://imtaqin.id/"

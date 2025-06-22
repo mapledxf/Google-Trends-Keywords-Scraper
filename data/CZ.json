@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-22 10:48:42",
+  "lastUpdate": "2025-06-22 10:56:31",
   "data": [
     {
       "title": "severe thunderstorm warning",
@@ -229,9 +229,15 @@
       "title": "trump",
       "trafficCount": "2000+",
       "pubDate": "Sat, 21 Jun 2025 18:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXlEQDb_J4gKT1rbjkkzVk5dIHMh4wmc1ghz7UQCUALvtCQObHzSnFk36eZ1k",
-      "pictureSource": "iDNES.cz",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8YTbRWZVMBfbHUwlitUwIYlvVSWcJgMyBhGggCNqaR6MotSpaQkjR5a1kOUA",
+      "pictureSource": "Seznam Zprávy",
       "relatedSearch": [
+        {
+          "title": "Američané zaútočili na íránské jaderné objekty",
+          "snippet": "",
+          "url": "https://www.seznamzpravy.cz/clanek/zahranicni-iran-izrael-usa-konflikt-aktualni-deni-279724",
+          "source": "Seznam Zprávy"
+        },
         {
           "title": "Americké údery zasypaly vchody do obávaného komplexu Fordó, ukazují fotografie",
           "snippet": "",
@@ -243,12 +249,6 @@
           "snippet": "",
           "url": "https://www.novinky.cz/clanek/komentare-komentar-americke-strileni-se-do-nohy-alex-svamberk-40526951",
           "source": "Novinky"
-        },
-        {
-          "title": "Američané zaútočili na íránské jaderné objekty",
-          "snippet": "",
-          "url": "https://www.seznamzpravy.cz/clanek/zahranicni-iran-izrael-usa-konflikt-aktualni-deni-279724",
-          "source": "Seznam Zprávy"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,7 +257,7 @@
       "title": "b-2",
       "trafficCount": "2000+",
       "pubDate": "Sat, 21 Jun 2025 18:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7NYmmqfDL_bDeoVSDq1F9wupotmkzPgdP10k0hsGQzlJ3a4lKpcgV-Z3n9_8",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQevmJJHawk4hprBtI-3G53VmmXI0uSN3NHq-z3TLfiZhQG-0E_bFeD1xmJkuM",
       "pictureSource": "CNN",
       "relatedSearch": [
         {
@@ -267,16 +267,16 @@
           "source": "CNN"
         },
         {
-          "title": "US bombs Iran’s nuclear sites: What we know so far",
-          "snippet": "",
-          "url": "https://www.aljazeera.com/news/2025/6/22/us-bombs-irans-nuclear-sites-what-we-know-so-far",
-          "source": "Al Jazeera"
-        },
-        {
           "title": "U.S. bombs three Iran nuclear sites as Trump escalates Iran-Israel conflict: Live updates",
           "snippet": "",
           "url": "https://www.nbcnews.com/world/middle-east/live-blog/israel-iran-conflict-rcna214241",
           "source": "NBC News"
+        },
+        {
+          "title": "US Bombers Flew 37 Hours Non-Stop, Refuelled Mid-Air To Hit Iran Nuclear Sites",
+          "snippet": "",
+          "url": "https://www.ndtv.com/world-news/us-attacks-iran-b-2-stealth-bombers-flew-37-hours-non-stop-refuelled-mid-air-to-hit-iran-nuclear-sites-8729460",
+          "source": "NDTV"
         }
       ],
       "link": "https://imtaqin.id/"

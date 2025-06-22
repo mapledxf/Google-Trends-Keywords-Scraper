@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-06-22 05:40:43",
+  "lastUpdate": "2025-06-22 05:50:18",
   "data": [
+    {
+      "title": "yemen",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 21 Jun 2025 21:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUFGcZJVENOrHQ0QgOiO3QCVAqgK-p8wwZ51L5oFqoJQWsPgyPLACTmQAEbzc",
+      "pictureSource": "Euronews.com",
+      "relatedSearch": [
+        {
+          "title": "Houthis threaten to target US ships in the Red Sea if they participate in any attack on Iran",
+          "snippet": "",
+          "url": "https://www.euronews.com/2025/06/21/houthis-threaten-to-target-us-ships-in-the-red-sea-if-they-participate-in-any-attack-on-ir",
+          "source": "Euronews.com"
+        },
+        {
+          "title": "Commercial Vessels at Risk of Collateral Damage After U.S. Attacks, Consulting Firm Warns",
+          "snippet": "",
+          "url": "https://www.wsj.com/livecoverage/iran-israel-conflict-latest-news/card/commercial-vessels-at-risk-of-collateral-damage-after-u-s-attacks-consulting-firm-warns-QZpXRDdA9x96fOqImVAF?gaa_at=eafs&gaa_n=ASWzDAiBSxQp9Z4z9PlToCHS-pIWbwLqfzAS9fntOlZxZDo7UnaEOamxziI8&gaa_ts=68579d1e&gaa_sig=Owdi2VR4jkHF3k2xBUgdxFyQjYqf76RaZ1cGC-6eBMd_IDwBlQ1U_mjTr1cj4Qmqdz6y-rmwzsVCPMEERYPypQ%3D%3D",
+          "source": "WSJ"
+        },
+        {
+          "title": "Yemen’s Houthis say they will target US ships if they attack Iran, report reveals",
+          "snippet": "",
+          "url": "https://www.foxnews.com/video/6374672195112",
+          "source": "Fox News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "franco mastantuono",
       "trafficCount": "100+",
@@ -58,34 +86,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "rusia",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 21 Jun 2025 18:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRKUF3g2Jx1SU8H7ynSqlOJ8qvEwOQePsUeURf2RauGkaVlHqLcUwiJtsGNs",
-      "pictureSource": "DW",
-      "relatedSearch": [
-        {
-          "title": "Rusia ataca masivamente la región ucraniana de Poltava",
-          "snippet": "",
-          "url": "https://www.dw.com/es/rusia-ataca-masivamente-la-regi%C3%B3n-ucraniana-de-poltava/a-72994192",
-          "source": "DW"
-        },
-        {
-          "title": "Mueren 28 personas en los peores ataques rusos contra Kyiv en casi un año",
-          "snippet": "",
-          "url": "https://cnnespanol.cnn.com/2025/06/17/mundo/kyiv-ataques-mortales-trump-g7-trax",
-          "source": "CNN en Español"
-        },
-        {
-          "title": "Al menos una persona murió y 14 resultaron heridas en el último ataque de Rusia sobre Odesa",
-          "snippet": "",
-          "url": "https://www.infobae.com/america/mundo/2025/06/20/al-menos-una-persona-murio-y-14-resultaron-heridas-en-el-ultimo-ataque-de-rusia-sobre-odesa/",
-          "source": "Infobae"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "river vs",
       "trafficCount": "2000+",
       "pubDate": "Sat, 21 Jun 2025 18:20:00 -0700",
@@ -114,6 +114,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "rusia",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 21 Jun 2025 18:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRKUF3g2Jx1SU8H7ynSqlOJ8qvEwOQePsUeURf2RauGkaVlHqLcUwiJtsGNs",
+      "pictureSource": "DW",
+      "relatedSearch": [
+        {
+          "title": "Rusia ataca masivamente la región ucraniana de Poltava",
+          "snippet": "",
+          "url": "https://www.dw.com/es/rusia-ataca-masivamente-la-regi%C3%B3n-ucraniana-de-poltava/a-72994192",
+          "source": "DW"
+        },
+        {
+          "title": "Mueren 28 personas en los peores ataques rusos contra Kyiv en casi un año",
+          "snippet": "",
+          "url": "https://cnnespanol.cnn.com/2025/06/17/mundo/kyiv-ataques-mortales-trump-g7-trax",
+          "source": "CNN en Español"
+        },
+        {
+          "title": "Al menos una persona murió y 14 resultaron heridas en el último ataque de Rusia sobre Odesa",
+          "snippet": "",
+          "url": "https://www.infobae.com/america/mundo/2025/06/20/al-menos-una-persona-murio-y-14-resultaron-heridas-en-el-ultimo-ataque-de-rusia-sobre-odesa/",
+          "source": "Infobae"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "river",
       "trafficCount": "2000+",
       "pubDate": "Sat, 21 Jun 2025 18:10:00 -0700",
@@ -133,10 +161,10 @@
           "source": "The New York Times"
         },
         {
-          "title": "How to watch River Plate vs. Monterrey in Club World Cup for free",
+          "title": "River Plate Fans Flood Venice Beach Before Club World Cup Clash Against Monterrey",
           "snippet": "",
-          "url": "https://sports.yahoo.com/article/watch-river-plate-vs-monterrey-210000081.html",
-          "source": "Yahoo Sports"
+          "url": "https://www.beinsports.com/en-us/soccer/fifa-club-world-cup/articles-video/river-plate-fans-flood-venice-beach-before-club-world-cup-clash-against-monterrey-2025-06-22",
+          "source": "beIN SPORTS"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,38 +254,10 @@
           "source": "France 24"
         },
         {
-          "title": "Irán no negociará con EEUU programa nuclear",
+          "title": "Irán amenaza a Israel con una respuesta \"más devastadora\"",
           "snippet": "",
-          "url": "https://primicia.com.ve/mundo/iran-no-negociara-con-eeuu-programa-nuclear/",
-          "source": "Diario Primicia"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "iran",
-      "trafficCount": "10000+",
-      "pubDate": "Sat, 21 Jun 2025 17:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTARpBbn4L7CiwEUoA4ij9ePMGuqoU6J4qtEa79y3odHGsHkYqxofdazRqUZvs",
-      "pictureSource": "The Economic Times",
-      "relatedSearch": [
-        {
-          "title": "Why the US used B-2 stealth bombers, costing $2.1 billion each, to strike Iran’s nuclear sites",
-          "snippet": "",
-          "url": "https://m.economictimes.com/news/defence/why-the-us-used-b-2-stealth-bombers-costing-2-1-billion-each-to-strike-irans-nuclear-sites/articleshow/122000963.cms",
-          "source": "The Economic Times"
-        },
-        {
-          "title": "What is a ‘bunker buster’? An expert explains what the US dropped on Iran – and what might happen now",
-          "snippet": "",
-          "url": "https://theconversation.com/what-is-a-bunker-buster-an-expert-explains-what-the-us-dropped-on-iran-and-what-might-happen-now-259508",
-          "source": "The Conversation"
-        },
-        {
-          "title": "U.S. Enters War With Iran, Bombing Key Nuclear Sites: Live Updates",
-          "snippet": "",
-          "url": "https://www.nytimes.com/live/2025/06/21/world/iran-israel-trump",
-          "source": "The New York Times"
+          "url": "https://www.dw.com/es/ir%C3%A1n-amenaza-a-israel-con-una-respuesta-m%C3%A1s-devastadora/live-72940091",
+          "source": "DW"
         }
       ],
       "link": "https://imtaqin.id/"

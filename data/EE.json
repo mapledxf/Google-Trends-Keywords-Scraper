@@ -1,32 +1,41 @@
 {
-  "lastUpdate": "2025-06-22 15:00:33",
+  "lastUpdate": "2025-06-22 15:24:20",
   "data": [
     {
       "title": "cnn",
       "trafficCount": "200+",
       "pubDate": "Sat, 21 Jun 2025 22:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7NYmmqfDL_bDeoVSDq1F9wupotmkzPgdP10k0hsGQzlJ3a4lKpcgV-Z3n9_8",
-      "pictureSource": "CNN",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFIfav9bItuLQ159n44oOFtmApIAQsp_6UmDLJNStKFPIsieeOz7z7rAAS_-I",
+      "pictureSource": "BBC",
       "relatedSearch": [
+        {
+          "title": "Watch: BBC reports from site of Iranian missile attack in Tel Aviv",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/videos/ckgln38nvjxo",
+          "source": "BBC"
+        },
+        {
+          "title": "Here’s What to Know About Fordo, Iran’s Best-Protected Nuclear Site",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/06/22/world/middleeast/fordo-iran-nuclear-site.html",
+          "source": "The New York Times"
+        },
         {
           "title": "Live updates: Iran warns US strikes will have ‘everlasting consequences’ as Trump says nuclear sites ‘obliterated’",
           "snippet": "",
           "url": "https://www.cnn.com/world/live-news/israel-iran-conflict-06-22-25-intl-hnk",
           "source": "CNN"
-        },
-        {
-          "title": "U.S. Enters War With Iran, Bombing Key Nuclear Sites: Live Updates",
-          "snippet": "",
-          "url": "https://www.nytimes.com/live/2025/06/21/world/iran-israel-trump",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Live updates: Vance urges Iran to pursue peace, and Rubio is expected to address strikes on nuclear sites",
-          "snippet": "",
-          "url": "https://apnews.com/live/israel-iran-war-updates",
-          "source": "AP News"
         }
       ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ohtuleht",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 21 Jun 2025 22:20:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -42,26 +51,26 @@
       "title": "weather",
       "trafficCount": "100+",
       "pubDate": "Sat, 21 Jun 2025 22:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQm7XTSIC1LANFE25JP1eDcixfqX_zBDS5pHdrgeLboOd2ADM6C_iid0yi3J_4",
-      "pictureSource": "NBC Boston",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRadWWA7u_r9GDeeTB0k1HiYD5bZ3m2kn7spKAG25G9lOYYyqhbI4dKrwlv_d8",
+      "pictureSource": "The Washington Post",
       "relatedSearch": [
         {
-          "title": "First Alert: Extreme heat warnings for Boston area through Tuesday",
+          "title": "CWG Live updates: Heating up today, dangerously hot and humid starting tomorrow",
           "snippet": "",
-          "url": "https://www.nbcboston.com/news/local/first-alert-extreme-heat-warnings-for-boston-area-through-tuesday/3748538/",
-          "source": "NBC Boston"
+          "url": "https://www.washingtonpost.com/weather/2025/06/22/dc-weather-live-updates-dangerous-heat-wave/",
+          "source": "The Washington Post"
         },
         {
-          "title": "DCR Opens Swimming Pools For The Summer, Hiring Lifeguards",
+          "title": "First summer heat wave underway in the MOV",
           "snippet": "",
-          "url": "https://wbznewsradio.iheart.com/content/dcr-opens-swimming-pools-for-the-summer-hiring-lifeguards/",
-          "source": "WBZ NewsRadio 1030"
+          "url": "https://www.wtap.com/2025/06/22/first-summer-heat-wave-underway-mov/",
+          "source": "WTAP"
         },
         {
-          "title": "Rhode Island Set To Bake Sunday",
+          "title": "High pressure will usher in a heatwave for the Shenandoah Valley and beyond",
           "snippet": "",
-          "url": "https://patch.com/rhode-island/across-ri/rhode-island-set-bake-sunday",
-          "source": "Patch"
+          "url": "https://www.whsv.com/video/2025/06/22/high-pressure-will-usher-heatwave-shenandoah-valley-beyond/",
+          "source": "WHSV"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -91,8 +100,8 @@
         {
           "title": "Billions of login credentials have been leaked online, Cybernews researchers say",
           "snippet": "",
-          "url": "https://abcnews.go.com/Technology/wireStory/billions-login-credentials-leaked-online-cybernews-researchers-123047090",
-          "source": "ABC News - Breaking News, Latest News and Videos"
+          "url": "https://apnews.com/article/large-login-leak-cybernews-google-apple-meta-2a758a40c398b0a68fb2371a522f70ed",
+          "source": "AP News"
         },
         {
           "title": "Mass. IT expert says ‘time really is of the essence’ after 16 billion logins potentially exposed",

@@ -1,13 +1,131 @@
 {
-  "lastUpdate": "2025-06-21 23:54:47",
+  "lastUpdate": "2025-06-22 01:04:05",
   "data": [
     {
-      "title": "jon jones",
+      "title": "news",
       "trafficCount": "500+",
-      "pubDate": "Sat, 21 Jun 2025 16:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiJARgHn6F-SSe46a0nFjsu108gQg3UdI9doxPrLSv-CDejBdDw_REw0DHmho",
-      "pictureSource": "The Independent",
+      "pubDate": "Sat, 21 Jun 2025 17:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9ZjkENBvMq7G5wd5CXcn4dKokUZcevVs5Xd8lbkCS4xzLsWbFssWmS3ZitKo",
+      "pictureSource": "RNZ",
       "relatedSearch": [
+        {
+          "title": "Media in the middle of political skirmishes over sickness and health",
+          "snippet": "",
+          "url": "https://www.rnz.co.nz/news/national/564820/media-in-the-middle-of-political-skirmishes-over-sickness-and-health",
+          "source": "RNZ"
+        },
+        {
+          "title": "Treasury warns Health NZ cuts need to double; Minister disputes figures",
+          "snippet": "",
+          "url": "https://www.nzherald.co.nz/nz/politics/simeon-brown-attacks-treasury-after-warning-of-unprecedented-pay-restraint-for-health-staff-and-forecast-health-cuts-need-need-to-double-this-year/VHNGMXYX2BDTJAH5XEHJYLH2SA/",
+          "source": "NZ Herald"
+        },
+        {
+          "title": "Health minister faces feisty health select committee scrutiny",
+          "snippet": "",
+          "url": "https://www.nzdoctor.co.nz/article/news/health-minister-faces-feisty-health-select-committee-scrutiny",
+          "source": "NZDoctor"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "bbc",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 21 Jun 2025 17:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9hsFAoNi8GqiyjZT8EGw_KgcspVfm7MrG-I8yIgeOC1YhoOia2wbU7T5HsQE",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "BBC pulls Gaza medics documentary due to impartiality concerns",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/crenz9d3181o",
+          "source": "BBC"
+        },
+        {
+          "title": "BBC drops Gaza medics documentary over impartiality concerns",
+          "snippet": "",
+          "url": "https://www.theguardian.com/world/2025/jun/20/bbc-gaza-medics-documentary-impartiality-coverage",
+          "source": "The Guardian"
+        },
+        {
+          "title": "BBC drops film about Gaza doctors after delaying its broadcast for months",
+          "snippet": "",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bbc-drops-film-about-gaza-doctors-after-delaying-its-broadcast-months",
+          "source": "Middle East Eye"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "cnn",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 21 Jun 2025 17:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSoChTz5qWDRz8l7gT1HgjGp-ZBmdNZEXbv8lRJo3p-PVrr7ISraL4ytjYLMsI",
+      "pictureSource": "CNN",
+      "relatedSearch": [
+        {
+          "title": "See where Trump's approval rating stands after massive immigration protests",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/06/20/politics/video/trump-immigration-protests-poll-enten-cnc-digvid",
+          "source": "CNN"
+        },
+        {
+          "title": "Opinion | The Polls Are In. Trump Is Not Winning in Los Angeles.",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/06/14/opinion/trump-los-angeles-poll.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "We asked 1,000 Americans about the L.A. protests. This is how they responded.",
+          "snippet": "",
+          "url": "https://www.washingtonpost.com/nation/interactive/2025/protests-ice-los-angeles-trump-deployment-poll/",
+          "source": "The Washington Post"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "iran",
+      "trafficCount": "2000+",
+      "pubDate": "Sat, 21 Jun 2025 17:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnwBHHqh_-xgAeSKNIhe_JjhaeoBeJTSWOfQa3Pe4lV2YjRBqrSWQAXxZJhKU",
+      "pictureSource": "The Guardian",
+      "relatedSearch": [
+        {
+          "title": "Israel-Iran war live: Trump says US has attacked nuclear sites in Iran including Fordow",
+          "snippet": "",
+          "url": "https://www.theguardian.com/world/live/2025/jun/22/israel-iran-war-live-trump-says-us-has-attacked-nuclear-sites-in-iran-including-fordow",
+          "source": "The Guardian"
+        },
+        {
+          "title": "LIVE: US joins Israel’s attacks on Iran, bombs three nuclear sites",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/6/22/live-us-joins-israels-attacks-on-iran-bombs-three-nuclear-sites",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "US carried out ‘very successful attack’ on three Iran nuclear sites - Trump",
+          "snippet": "",
+          "url": "https://www.nzherald.co.nz/world/trump-says-us-carried-out-very-successful-attack-on-three-iranian-nuclear-sites/25MSVKFGRVB4XLV3OGDZL2P2NQ/",
+          "source": "NZ Herald"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "jon jones",
+      "trafficCount": "5000+",
+      "pubDate": "Sat, 21 Jun 2025 16:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbf0KfzgmzEVxirppyWJnM_M_Z7JAGIBX3G_YlpFadeGJAxFTiaZzruQSua0E",
+      "pictureSource": "MMA Fighting",
+      "relatedSearch": [
+        {
+          "title": "Dana White: Jon Jones officially retired, Tom Aspinall promoted to undisputed UFC heavyweight champion",
+          "snippet": "",
+          "url": "https://www.mmafighting.com/2025/6/21/24453446/dana-white-jon-jones-officially-retired-tom-aspinall-promoted-to-undisputed-ufc-heavyweight-champion",
+          "source": "MMA Fighting"
+        },
         {
           "title": "Jon Jones walks out of interview over Tom Aspinall question: ‘You said something real wild’",
           "snippet": "",
@@ -19,12 +137,34 @@
           "snippet": "",
           "url": "https://www.timesnownews.com/sports/curtis-blaydes-backs-calls-to-strip-jon-jones-off-ufc-heavyweight-title-says-everyones-in-agreement-article-152125471",
           "source": "Times Now"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "jamahal hill",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 21 Jun 2025 15:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBzsvQ9rfMZj-P-FmAjI59KMLLhmg9sY4yvdQ7ymwParR1Y85zYGMlb2l8C_A",
+      "pictureSource": "MMA Fighting",
+      "relatedSearch": [
+        {
+          "title": "UFC Baku Results: Hill vs. Rountree Jr.",
+          "snippet": "",
+          "url": "https://www.mmafighting.com/2025/6/21/24452756/ufc-baku-results-hill-vs-rountree-jr",
+          "source": "MMA Fighting"
         },
         {
-          "title": "Daniel Cormier sees right through Jon Jones' lack of interest in Tom Aspinall fight",
+          "title": "UFC Baku ‘Hill vs. Rountree’ Play-by-Play, Results & Round Scoring",
           "snippet": "",
-          "url": "https://sports.yahoo.com/article/daniel-cormier-sees-jon-jones-234024188.html",
-          "source": "Yahoo Sports"
+          "url": "https://www.sherdog.com/news/news/UFC-Baku-Hill-vs-Rountree-PlaybyPlay-Results-Round-Scoring-197403",
+          "source": "Sherdog"
+        },
+        {
+          "title": "Post-Fight Press Conference | UFC Baku",
+          "snippet": "",
+          "url": "https://www.ufc.com/video/148908",
+          "source": "UFC.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,26 +173,26 @@
       "title": "tommy fleetwood",
       "trafficCount": "100+",
       "pubDate": "Sat, 21 Jun 2025 15:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2ZD9QpBAORvbZD3_MrnNWgSiBFWNiCMbzUuzBeis83PJHrx0qKHBynB-sLIA",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMW2a4bDFR2DReZnJ9jfvf5dQduWe3H_B8SvqXSIE1WxJiJQpDYdlfQgVGCgI",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Travelers Championship: Fleetwood shares lead, McIlroy four behind",
+          "title": "Tommy Fleetwood takes lead in hunt for maiden PGA Tour title",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/golf/articles/ce8z966yk41o",
+          "url": "https://www.bbc.com/sport/golf/articles/cy7nkk6n8x5o",
           "source": "BBC"
-        },
-        {
-          "title": "Does the Travelers Championship have a cut? What PGA Tour events don't have a cut line?",
-          "snippet": "",
-          "url": "https://www.palmbeachpost.com/story/sports/pga/2025/06/20/cut-line-travelers-championship-pga-tour/84249749007/",
-          "source": "The Palm Beach Post"
         },
         {
           "title": "PGA Tour leaderboard: 3 tied for lead after second round at the Travelers Championship 2025",
           "snippet": "",
           "url": "https://golfweek.usatoday.com/story/sports/golf/pga/2025/06/20/travelers-championship-2025-scores-updates-second-round-friday/84277520007/",
           "source": "Golfweek"
+        },
+        {
+          "title": "Jason Day still in hunt at rich Travellers Championship",
+          "snippet": "",
+          "url": "https://www.golfaustralia.com.au/news/jason-day-still-in-hunt-at-rich-travellers-championship-618015",
+          "source": "Golf Australia Magazine"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,156 +267,16 @@
           "source": "E! Online"
         },
         {
-          "title": "Eric Dane, who famously bathed with 2 women, now appears tangled up with 3",
-          "snippet": "",
-          "url": "https://www.yahoo.com/entertainment/articles/eric-dane-famously-bathed-2-225148297.html",
-          "source": "Yahoo"
-        },
-        {
           "title": "Eric Dane, his doctor talk rise in ALS diagnoses",
           "snippet": "",
           "url": "https://www.goodmorningamerica.com/wellness/story/eric-dane-resilient-hopeful-amid-als-diagnosis-122894813",
           "source": "Good Morning America"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "rizvan kuniev",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 21 Jun 2025 13:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHR-ymYCWLKwps41RrMLl6b8kzBO23D6Gk0o4gi8hc_W-9EoMFhQMQcuNHZsw",
-      "pictureSource": "MMA Junkie",
-      "relatedSearch": [
-        {
-          "title": "UFC newcomer Rizvan Kuniev sees Tom Aspinall as the 'true' heavyweight champion",
-          "snippet": "",
-          "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2025/06/18/ufc-baku-rizvan-kuniev-tom-aspinall-jon-jones-heavyweight-champion/84263346007/",
-          "source": "MMA Junkie"
         },
         {
-          "title": "UFC Fight Night Predictions: Live Odds and 3 Best Bets for Saturday, June 21",
+          "title": "Eric Dane & GF Janell Shirtcliff Look So Gorgeous Together [PHOTOS]",
           "snippet": "",
-          "url": "https://www.bettorsinsider.com/mma/2025/06/21/ufc-fight-night-predictions-live-odds-and-3-best-bets-for-saturday-june-21",
-          "source": "Bettors Insider"
-        },
-        {
-          "title": "Curtis Blaydes calls out Tom Aspinall's potential next opponent after close win over UFC Baku debutant",
-          "snippet": "",
-          "url": "https://bloodyelbow.com/2025/06/21/curtis-blaydes-calls-out-tom-aspinalls-potential-next-opponent-after-close-win-over-ufc-baku-debutant/",
-          "source": "Bloody Elbow"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "myktybek orolbai",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 21 Jun 2025 13:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeciQeOJBAd1ET74llVudTL-W_7GxW9Z_A_kmO-JJ0sHARw4QZE5GV_vErpSE",
-      "pictureSource": "UFC.com",
-      "relatedSearch": [
-        {
-          "title": "Myktybek Orolbai Octagon Interview | UFC Baku",
-          "snippet": "",
-          "url": "https://www.ufc.com/video/148879",
-          "source": "UFC.com"
-        },
-        {
-          "title": "Best Bet For Saturday (June 21st): UFC Predictions",
-          "snippet": "",
-          "url": "https://www.sportsgamblingpodcast.com/2025/06/20/best-bet-for-saturday-june-21st-ufc-predictions/",
-          "source": "Sports Gambling Podcast"
-        },
-        {
-          "title": "Tofiq Musayev vs. Myktybek Orolobai, Prediction, Pick, Odds for UFC Baku, Saturday June 21",
-          "snippet": "",
-          "url": "https://www.actionnetwork.com/mma/tofiq-musayev-vs-myktybek-orolobai-prediction-pick-odds-for-ufc-baku-saturday-june-21",
-          "source": "Action Network"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ufc schedule",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 21 Jun 2025 13:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLDcNqqDuU0M2_ZqxKdEg5lbgkt9NSumTgqdQsb_MNPe-WFZLUyL9Lf8vV9QQ",
-      "pictureSource": "MMA Fighting",
-      "relatedSearch": [
-        {
-          "title": "‘That’s f*cking illegal’: Pros react to chaotic, foul-filled Jun Yong Park win at UFC Baku",
-          "snippet": "",
-          "url": "https://www.mmafighting.com/2025/6/21/24453335/thats-f-cking-illegal-pros-react-to-chaotic-foul-filled-jun-yong-park-win-at-ufc-baku",
-          "source": "MMA Fighting"
-        },
-        {
-          "title": "Ismail Naurdiev vs Park Jun-yong at UFC on ABC 8 | Preview & Prediction",
-          "snippet": "",
-          "url": "https://www.thestatszone.com/ismail-naurdiev-vs-park-jun-yong-at-ufc-on-abc-8-preview-prediction-129773",
-          "source": "The Stats Zone"
-        },
-        {
-          "title": "Prelim Results | UFC Baku",
-          "snippet": "",
-          "url": "https://www.ufc.com/news/prelim-results-highlights-winner-interviews-ufc-fight-night-hill-vs-rountree-jr-baku",
-          "source": "UFC.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "inter vs urawa reds",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 21 Jun 2025 13:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTt47n9BmGu9GGGmElCZ4RHK279mSRJW4y9aiiryrjRsI5HAiTU4ZCCfv-DYBc",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Inter Milan 2-1 Urawa Reds: Inter snatch late win against stubborn Urawa",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/c4g8l7wpn4qt",
-          "source": "BBC"
-        },
-        {
-          "title": "'He worked hard to recover' – Chivu lauds Inter match-winner Carboni",
-          "snippet": "",
-          "url": "https://www.beinsports.com/en-us/soccer/fifa-club-world-cup/articles/he-worked-hard-to-recover--chivu-lauds-inter-match-winner-carboni-2025-06-21",
-          "source": "beIN SPORTS"
-        },
-        {
-          "title": "Italy Star Insists Inter Milan ‘Not On Vacation’ At Club World Cup Following Dramatic 2-1 Win Vs Urawa Red Diamonds",
-          "snippet": "",
-          "url": "https://sempreinter.com/2025/06/22/alessandro-bastoni-inter-not-on-vacation-club-world-cup/",
-          "source": "SempreInter.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "lpga leaderboard",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 21 Jun 2025 13:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4DBUDx8NTwlF_rN5JVpWvsW5IKfIQAWvYDpiKoo2sfIvaIBPyXryxMmoG7Qw",
-      "pictureSource": "LPGA",
-      "relatedSearch": [
-        {
-          "title": "How to Watch the 2025 KPMG Women’s PGA Championship",
-          "snippet": "",
-          "url": "https://www.lpga.com/news/2025/how-to-watch-the-2025-kpmg-womens-pga-championship",
-          "source": "LPGA"
-        },
-        {
-          "title": "KPMG Women's PGA Championship: From Nelly Korda to Lydia Ko's record chase, storylines to watch",
-          "snippet": "",
-          "url": "https://www.espn.com/golf/story/_/id/45532097/kpmg-women-pga-championship-nelly-korda-lydia-ko",
-          "source": "ESPN"
-        },
-        {
-          "title": "Lindy Duncan rises like a phoenix from the ashes to secure her place in KPMG Women's PGA Championship cutline",
-          "snippet": "",
-          "url": "https://motociclismo.pt/en/lindy-duncan-rises-like-a-phoenix-from-the-ashes-to-secure-her-place-in-kpmg-women-s-pga-championship-cutline/",
-          "source": "motociclismo.pt"
+          "url": "https://entertainmentnow.com/news/eric-dane-gf-janell-shirtcliff-photos/",
+          "source": "EntertainmentNow"
         }
       ],
       "link": "https://imtaqin.id/"

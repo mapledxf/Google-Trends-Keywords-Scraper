@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-06-22 11:37:17",
+  "lastUpdate": "2025-06-22 11:45:28",
   "data": [
+    {
+      "title": "dubrovnik",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 22 Jun 2025 04:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGfNcNSUiC7KC36Du1SUVZGt5hg6nECxLx_5JFDYpgugUvEGir8V-J2-si820",
+      "pictureSource": "The Dubrovnik Times",
+      "relatedSearch": [
+        {
+          "title": "Parking Rage in Paradise: When Dubrovnik Costs More Than London",
+          "snippet": "",
+          "url": "https://www.thedubrovniktimes.com/lifestyle/opinion/item/18144-parking-rage-in-paradise-when-dubrovnik-costs-more-than-london",
+          "source": "The Dubrovnik Times"
+        },
+        {
+          "title": "Bračni par Paskojević naplaćuje pogled sa svog imanja: Pokrenuli unosan biznis, turisti hrle na ovu lokaciju",
+          "snippet": "",
+          "url": "https://mondo.rs/Info/EX-YU/a2086714/bracni-par-paskojevic-pokrenuo-unosan-biznis-na-imanju-iznad-dubrovnika.html",
+          "source": "Mondo"
+        },
+        {
+          "title": "Генијална или безобразна идеја? Поглед с имања постао бизнис, а цена није иста за све",
+          "snippet": "",
+          "url": "https://www.sd.rs/sr/vesti/region/genijalna-ili-bezobrazna-ideja-pogled-s-imanja-postao-biznis-cena-nije-ista-za-sve-2025-06-20",
+          "source": "Srbija danas"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "amerika bombardovala iran",
       "trafficCount": "500+",
@@ -58,34 +86,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "al jazeera",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 21 Jun 2025 22:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQevmJJHawk4hprBtI-3G53VmmXI0uSN3NHq-z3TLfiZhQG-0E_bFeD1xmJkuM",
-      "pictureSource": "CNN",
-      "relatedSearch": [
-        {
-          "title": "Live updates: Iran warns US strikes will have ‘everlasting consequences’ as Trump says nuclear sites ‘obliterated’",
-          "snippet": "",
-          "url": "https://www.cnn.com/world/live-news/israel-iran-conflict-06-22-25-intl-hnk",
-          "source": "CNN"
-        },
-        {
-          "title": "Israel-Iran war live: Trump says key nuclear facilities ‘obliterated’ by US; missiles hit Israel after Iran launches retaliatory strikes",
-          "snippet": "",
-          "url": "https://www.theguardian.com/world/live/2025/jun/22/israel-iran-war-live-trump-says-us-has-attacked-nuclear-sites-in-iran-including-fordow?page=with:block-6857e1088f0840982823c4ff",
-          "source": "The Guardian"
-        },
-        {
-          "title": "US inserts itself into Israel’s war with Iran, striking 3 Iranian nuclear sites",
-          "snippet": "",
-          "url": "https://apnews.com/article/israel-iran-war-nuclear-talks-geneva-news-06-21-2025-a7b0cdaba28b5817467ccf712d214579",
-          "source": "AP News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "sportske vesti",
       "trafficCount": "100+",
       "pubDate": "Sat, 21 Jun 2025 19:40:00 -0700",
@@ -99,10 +99,10 @@
           "source": "Sportklub"
         },
         {
-          "title": "Novi haos u srpskom fudbalu! FSS suspendovao sedam klubova",
+          "title": "Novi HAOS u srpskom fudbalu: FSS suspendovao sedam klubova!",
           "snippet": "",
-          "url": "https://www.telegraf.rs/sport/fudbal/4131044-novi-haos-u-srpskom-fudbalu-fss-suspendovao-sedam-klubova",
-          "source": "Telegraf.rs"
+          "url": "https://direktno.rs/sport/fudbal/616191/fss-suspenzija-klubovi.html",
+          "source": "Direktno"
         },
         {
           "title": "Zemljotres u srpskom fudbalu: FSS suspendovao sedam klubova",
@@ -143,28 +143,28 @@
     },
     {
       "title": "cnn",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 21 Jun 2025 17:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7NYmmqfDL_bDeoVSDq1F9wupotmkzPgdP10k0hsGQzlJ3a4lKpcgV-Z3n9_8",
-      "pictureSource": "CNN",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0PWLOwZBpUvenTGkB3Fn4ibGPn3nOBoiUgAYhKy_pIF5oIK6I8HZ7RiBiiTk",
+      "pictureSource": "Al Jazeera",
       "relatedSearch": [
         {
-          "title": "Live updates: Iran warns US strikes will have ‘everlasting consequences’ as Trump says nuclear sites ‘obliterated’",
+          "title": "LIVE: Iran says Trump betrayed diplomacy, US voters after attacks",
           "snippet": "",
-          "url": "https://www.cnn.com/world/live-news/israel-iran-conflict-06-22-25-intl-hnk",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/6/22/live-us-joins-israels-attacks-on-iran-bombs-three-nuclear-sites",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Israel-Iran war live: Trump says key nuclear facilities ‘obliterated’ by US; missiles hit Israel after Iran launches retaliatory strikes",
+          "snippet": "",
+          "url": "https://www.theguardian.com/world/live/2025/jun/22/israel-iran-war-live-trump-says-us-has-attacked-nuclear-sites-in-iran-including-fordow?page=with:block-6857e1088f0840982823c4ff",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Trump’s strike on Iran marks a momentous moment — and gamble — for the world",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/06/22/politics/trump-us-iran-strikes-fordow-analysis",
           "source": "CNN"
-        },
-        {
-          "title": "Iran’s supreme leader defiant in response to Trump",
-          "snippet": "",
-          "url": "https://www.nbcnews.com/video/iran-s-supreme-leader-defiant-in-response-to-trump-241835589765",
-          "source": "NBC News"
-        },
-        {
-          "title": "Who is Iran's supreme leader? Ali Khamenei vows not to surrender against Israel",
-          "snippet": "",
-          "url": "https://abcnews.go.com/International/iran-supreme-leader-ali-khamenei/story?id=122980933",
-          "source": "ABC News - Breaking News, Latest News and Videos"
         }
       ],
       "link": "https://imtaqin.id/"

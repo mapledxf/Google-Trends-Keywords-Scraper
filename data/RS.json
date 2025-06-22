@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-22 11:53:15",
+  "lastUpdate": "2025-06-22 12:00:47",
   "data": [
     {
       "title": "dubrovnik",
@@ -43,16 +43,16 @@
           "source": "BBC"
         },
         {
-          "title": "Iransko ministarstvo spoljnih poslova: SAD pokrenule opasan rat protiv Irana",
-          "snippet": "",
-          "url": "https://n1info.rs/svet/iransko-ministarstvo-spoljnih-poslova-sad-pokrenule-opasan-rat-protiv-irana/",
-          "source": "N1"
-        },
-        {
           "title": "Pet činjenica o američkoj superbombi GBU-57",
           "snippet": "",
           "url": "https://www.dw.com/sr/pet-%C4%8Dinjenica-o-ameri%C4%8Dkoj-superbombi-gbu-57-za-razaranje-bunkera/a-72998503",
           "source": "DW"
+        },
+        {
+          "title": "Šta znamo o američkim napadima na iranska nuklearna postrojenja",
+          "snippet": "",
+          "url": "https://n1info.rs/svet/sta-znamo-o-americkim-napadima-na-iranska-nuklearna-postrojenja/",
+          "source": "N1"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -81,6 +81,34 @@
           "snippet": "",
           "url": "https://sports.yahoo.com/article/tom-aspinall-heavyweight-crown-three-053036908.html",
           "source": "Yahoo Sports"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "al jazeera",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 21 Jun 2025 22:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0PWLOwZBpUvenTGkB3Fn4ibGPn3nOBoiUgAYhKy_pIF5oIK6I8HZ7RiBiiTk",
+      "pictureSource": "Al Jazeera",
+      "relatedSearch": [
+        {
+          "title": "LIVE: Iran says Trump betrayed diplomacy, US voters after attacks",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/6/22/live-us-joins-israels-attacks-on-iran-bombs-three-nuclear-sites",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Hear Iranian foreign minister respond to US strikes on Iran",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/06/22/world/video/iran-israel-us-strike-reaction-amanpour-intldesk",
+          "source": "CNN"
+        },
+        {
+          "title": "Iran warns of 'consequences' after US bombs nuke sites: Live updates",
+          "snippet": "",
+          "url": "https://www.usatoday.com/story/news/world/2025/06/22/us-iran-nuclear-trump-live-updates/84304617007/",
+          "source": "USA Today"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -143,28 +171,28 @@
     },
     {
       "title": "cnn",
-      "trafficCount": "1000+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 21 Jun 2025 17:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0KTFx3OwJc7sueOjpwGbB4Hro5Mk0MAvWgkcQ0Gih8GM7_s89ODahoFdhHCk",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRG3_50DiRxTsQfFjdX1-CcXxNVatToIYM7m_M3BUtCdxZLUMezKCki0NcaXqY",
+      "pictureSource": "Australian Broadcasting Corporation",
       "relatedSearch": [
         {
-          "title": "The US has changed the course of the conflict - how will Iran respond?",
+          "title": "B-2 stealth bombers have hit three Iranian nuclear sites. This is what we know about the aircraft",
           "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c9dgpjqg12lo",
+          "url": "https://www.abc.net.au/news/2025-06-22/what-are-the-b-2-bombers-that-hit-iran-s-nuclear-sites/105446670",
+          "source": "Australian Broadcasting Corporation"
+        },
+        {
+          "title": "Iran-Israel live updates: US bombs Iran nuclear sites and Tehran warns of 'everlasting consequences'",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/ckg3rzj8emjt",
           "source": "BBC"
         },
         {
-          "title": "Iran attacks Israel despite US strikes on nuclear sites, Trump calls for 'peace'",
+          "title": "Live updates: Iran warns US strikes will have ‘everlasting consequences’ as Trump says nuclear sites ‘obliterated’",
           "snippet": "",
-          "url": "https://www.foxnews.com/live-news/israel-iran-conflict-june-22-2025",
-          "source": "Fox News"
-        },
-        {
-          "title": "LIVE: Iran says Trump betrayed diplomacy, US voters after attacks",
-          "snippet": "",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/6/22/live-us-joins-israels-attacks-on-iran-bombs-three-nuclear-sites",
-          "source": "Al Jazeera"
+          "url": "https://www.cnn.com/world/live-news/israel-iran-conflict-06-22-25-intl-hnk",
+          "source": "CNN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,44 +267,16 @@
           "source": "Football Italia"
         },
         {
-          "title": "Mauritanian Referee Praised For Effective Performance In Inter Milan 2-1 Urawa Red Diamonds Clash – Three Correct Yellow Cards",
+          "title": "Report: Inter 2-1 Urawa Reds",
           "snippet": "",
-          "url": "https://onefootball.com/pt-br/noticias/mauritanian-referee-praised-for-effective-performance-in-inter-milan-2-1-urawa-red-diamonds-clash-three-correct-yellow-cards-41276815",
+          "url": "https://sportsmax.tv/football/report-inter-2-1-urawa-reds",
+          "source": "Sportsmax"
+        },
+        {
+          "title": "Lautaro Martinez: ‘Important for Inter to win, not how. River Plate will be special’",
+          "snippet": "",
+          "url": "https://onefootball.com/es/noticias/lautaro-martinez-important-for-inter-to-win-not-how-river-plate-will-be-special-41276896",
           "source": "OneFootball"
-        },
-        {
-          "title": "Late Carboni Strike Rescues Inter as Japanese Resilience Almost Causes Another Setback",
-          "snippet": "",
-          "url": "https://terrikon.com/en/posts/527123",
-          "source": "Террикон"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "weather tomorrow",
-      "trafficCount": "5000+",
-      "pubDate": "Sat, 21 Jun 2025 11:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNdBuR248Qj-uLHfCU08ZafI75rBTp134ZNa3wlODZZC-9U4ZHHWtcsn-GBiY",
-      "pictureSource": "WJAR",
-      "relatedSearch": [
-        {
-          "title": "Finally a dry Saturday in Southern New England, but followed by extreme heat",
-          "snippet": "",
-          "url": "https://turnto10.com/weather/weather-blog/finally-a-dry-saturday-in-southern-new-england-but-followed-by-extreme-heat-massachusetts-rhode-island",
-          "source": "WJAR"
-        },
-        {
-          "title": "More sun than clouds, but a low chance of showers this weekend",
-          "snippet": "",
-          "url": "https://www.bostonglobe.com/2025/06/19/metro/dave-epstein-weekend-forecast-with-sunny-friday-and-low-shower-chance-this-weekend/",
-          "source": "The Boston Globe"
-        },
-        {
-          "title": "Hot, humid yet quiet through the weekend, thunderstorms return next week with heavy rain",
-          "snippet": "",
-          "url": "https://www.kaaltv.com/kaal-weather/hot-humid-yet-quiet-through-the-weekend-thunderstorms-return-next-week-with-heavy-rain/",
-          "source": "kaaltv.com"
         }
       ],
       "link": "https://imtaqin.id/"

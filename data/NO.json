@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-22 05:00:20",
+  "lastUpdate": "2025-06-22 05:24:02",
   "data": [
     {
       "title": "tv2",
@@ -30,12 +30,18 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "usa",
+      "title": "aftenposten",
       "trafficCount": "100+",
-      "pubDate": "Sat, 21 Jun 2025 18:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSokE0q5io_YBoPsye9VECEAYSVn1htCz3BStVLGaSpdAG055r8ij_38Yt1APM",
-      "pictureSource": "NRK",
+      "pubDate": "Sat, 21 Jun 2025 21:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStfcsdt7FMbVFLQ5jbBgJ9Rsv0kFnQQMyLpgOaoF6cjh-16NlY1WTEGzF1oLQ",
+      "pictureSource": "Aftenposten",
       "relatedSearch": [
+        {
+          "title": "Nekrologer har vært for folk med høye stillinger som har gått langt på ski, sa én. Da skrev han selv.",
+          "snippet": "",
+          "url": "https://www.aftenposten.no/oslo/i/jQeXVA/han-vil-fortelle-de-tauses-historier",
+          "source": "Aftenposten"
+        },
         {
           "title": "Medier: Amerikanske bombefly flyttet til Stillehavet – Siste nytt",
           "snippet": "",
@@ -43,15 +49,37 @@
           "source": "NRK"
         },
         {
-          "title": "Profilert redaktør er blitt advart mot å reise til USA: – Kjenner på ei sorg",
+          "title": "Per Fredrik Bamer dømt til forvaring for dobbeltdrap i Oslo.",
           "snippet": "",
-          "url": "https://www.nrk.no/nordland/profilert-redaktor-er-blitt-advart-mot-a-reise-til-usa_-__kjenner-pa-ei-sorg-1.17464475",
-          "source": "NRK"
+          "url": "https://www.aftenposten.no/norge/i/Av1B53/per-fredrik-bamer-doemt-til-forvaring-for-dobbeltdrap-i-oslo",
+          "source": "Aftenposten"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "nettavisen",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 21 Jun 2025 19:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnTJ0TsJf4XLX8s62yuH4qKapaoMpfFTGsbVBGbbYcak1jhtgC3sWfnCm9DBI",
+      "pictureSource": "Nettavisen",
+      "relatedSearch": [
+        {
+          "title": "- Bare små skader",
+          "snippet": "",
+          "url": "https://www.nettavisen.no/bare-sma-skader/s/5-95-2495669",
+          "source": "Nettavisen"
         },
         {
-          "title": "Raser mot ny amerikansk praksis: – Alvorlig angrep",
+          "title": "– Det har alltid vært en feilslutning at rakettskjoldet tar alt",
           "snippet": "",
-          "url": "https://www.tv2.no/nyheter/innenriks/raser-mot-ny-amerikansk-praksis-alvorlig-angrep/17842985/",
+          "url": "https://www.vg.no/nyheter/i/1MAa5G/ekspert-om-iron-dome-alltid-vaert-en-feilslutning-at-rakettskjoldet-tar-alt",
+          "source": "VG"
+        },
+        {
+          "title": "Militærbaser i flere iranske byer er under angrep",
+          "snippet": "",
+          "url": "https://www.tv2.no/nyheter/militaerbaser-i-flere-iranske-byer-er-under-angrep/17849424/",
           "source": "TV2.no"
         }
       ],
@@ -89,26 +117,54 @@
       "title": "vg",
       "trafficCount": "5000+",
       "pubDate": "Sat, 21 Jun 2025 17:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEmTN70z5ETZ9uogkyWaEbZdLBn1omjWqEAcleqjKJyId4c65gIO9t9F8NAnQ",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS0XCXioUi_0EO_1KWwW4jGJj1Y-VtnRemKkDFXH5IGqCGcILb-UeIqexTtFoU",
       "pictureSource": "VG",
       "relatedSearch": [
         {
-          "title": "Ekspert om USAs angrep: –⁠ Kan føre til katastrofe",
+          "title": "siste: Trump bekrefter angrep mot atomanlegg i Iran",
           "snippet": "",
-          "url": "https://www.vg.no/nyheter/i/nyedVa/ekspert-om-usas-angrep-kan-foere-til-katastrofe",
+          "url": "https://www.vg.no/nyheter/i/3M8yVX/trump-bekrefter-angrep-paa-iran",
           "source": "VG"
-        },
-        {
-          "title": "- Vi har bombet atomanlegg",
-          "snippet": "",
-          "url": "https://www.dagbladet.no/nyheter/vi-har-bombet-atomanlegg/83252493",
-          "source": "Dagbladet"
         },
         {
           "title": "– En spektakulær suksess",
           "snippet": "",
           "url": "https://www.tv2.no/nyheter/utenriks/en-spektakulaer-suksess/17849566/",
           "source": "TV2.no"
+        },
+        {
+          "title": "Advarer Trump",
+          "snippet": "",
+          "url": "https://www.dagbladet.no/nyheter/advarer-trump/83252555",
+          "source": "Dagbladet"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "gbu 57",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 21 Jun 2025 17:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSoXxwmbakDaePd-8MDn04uXvPKx2ESlWCoWZ4-qjBKflfFUeLXbWJG2lciPCQ",
+      "pictureSource": "The Guardian",
+      "relatedSearch": [
+        {
+          "title": "What is Iran’s Fordow nuclear site and why did Israel want a US strike?",
+          "snippet": "",
+          "url": "https://www.theguardian.com/world/2025/jun/22/what-is-irans-fordow-nuclear-site-and-why-was-a-us-strike-needed",
+          "source": "The Guardian"
+        },
+        {
+          "title": "As U.S. Considers Using Bunker-Buster Bombs, Here’s What It Takes to Hit Iran’s Deepest Nuclear Site",
+          "snippet": "",
+          "url": "https://www.nytimes.com/interactive/2025/06/20/world/middleeast/iran-nuclear-fordo-bunker-buster-bomb.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Three Sites Hit by U.S. Represent Core of Iran Nuclear Program",
+          "snippet": "",
+          "url": "https://www.wsj.com/livecoverage/iran-israel-conflict-latest-news/card/three-sites-hit-by-u-s-represent-core-of-iran-nuclear-program-pHrdFwn8iyY5wrr7rSgP?gaa_at=eafs&gaa_n=ASWzDAh1S-pfKeO8HZ_opoa81qs3HRnSm425_f3yilKo6jjUAO9bDVjiSR2C&gaa_ts=68579666&gaa_sig=91fhNBIgp_9PWzQEM4XIVqOi5iFBoMuMQrgckb09-5pYB--S73k_mzcTpQjEVIcyzvr6rXDa0OHyJReP4-tWbA%3D%3D",
+          "source": "WSJ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,44 +183,16 @@
           "source": "NRK"
         },
         {
-          "title": "Sonen til Beate vart råka av dødeleg sjukdom – no kjempar ho for å redde andre barn med MLD",
+          "title": "Reagerer på NRK-ledelsens valg",
           "snippet": "",
-          "url": "https://www.nrk.no/vestland/xl/sonen-til-beate-vart-raka-av-dodeleg-sjukdom-_-no-kjempar-ho-for-a-redde-andre-barn-med-mld-1.17449371",
-          "source": "NRK"
+          "url": "https://www.tv2.no/nyheter/innenriks/reagerer-pa-nrk-ledelsens-valg/17846908/",
+          "source": "TV2.no"
         },
         {
-          "title": "Petter Northug knallhardt ut mot «peikeleik» etter VM-smellen: – Ingen som tar ansvar",
+          "title": "Fredrik Solvang: – Visste at redaksjonen hadde rett fra første stund",
           "snippet": "",
-          "url": "https://www.nrk.no/sport/petter-northug-knallhardt-ut-mot-_peikeleik_-etter-vm-smellen_-_-ingen-som-tar-ansvar-1.17464605",
-          "source": "NRK"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "gbu-57 massive ordnance penetrator",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 21 Jun 2025 17:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7NYmmqfDL_bDeoVSDq1F9wupotmkzPgdP10k0hsGQzlJ3a4lKpcgV-Z3n9_8",
-      "pictureSource": "CNN",
-      "relatedSearch": [
-        {
-          "title": "June 21, 2025 – Israel-Iran conflict",
-          "snippet": "",
-          "url": "https://www.cnn.com/world/live-news/israel-iran-conflict-06-21-25-intl-hnk",
-          "source": "CNN"
-        },
-        {
-          "title": "As U.S. Considers Using Bunker-Buster Bombs, Here’s What It Takes to Hit Iran’s Deepest Nuclear Site",
-          "snippet": "",
-          "url": "https://www.nytimes.com/interactive/2025/06/20/world/middleeast/iran-nuclear-fordo-bunker-buster-bomb.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "What is Iran’s Fordow nuclear facility that the US has bombed?",
-          "snippet": "",
-          "url": "https://www.aljazeera.com/news/2025/6/19/what-is-irans-fordow-nuclear-facility-and-could-us-weapons-destroy-it",
-          "source": "Al Jazeera"
+          "url": "https://www.journalisten.no/notice/646944",
+          "source": "Journalisten"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,25 +211,25 @@
           "source": "The Times of Israel"
         },
         {
-          "title": "BBC statement about Gaza: Doctors Under Attack",
-          "snippet": "",
-          "url": "https://www.bbc.com/mediacentre/statements/gaza-doctors-under-attack",
-          "source": "BBC"
-        },
-        {
           "title": "BBC drops Gaza medics documentary over impartiality concerns",
           "snippet": "",
           "url": "https://www.theguardian.com/world/2025/jun/20/bbc-gaza-medics-documentary-impartiality-coverage",
           "source": "The Guardian"
+        },
+        {
+          "title": "BBC statement about Gaza: Doctors Under Attack",
+          "snippet": "",
+          "url": "https://www.bbc.com/mediacentre/statements/gaza-doctors-under-attack",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "cnn",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 21 Jun 2025 17:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbwqsK8DiVSAQ8ElJClZZkTZh7HscWOU7z76DzlfHzvq8_xz6uis7ew9TI9Hk",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTARpBbn4L7CiwEUoA4ij9ePMGuqoU6J4qtEa79y3odHGsHkYqxofdazRqUZvs",
       "pictureSource": "The Economic Times",
       "relatedSearch": [
         {
@@ -211,16 +239,16 @@
           "source": "The Economic Times"
         },
         {
-          "title": "What is a ‘bunker buster’? An expert explains what the US dropped on Iran – and what might happen now",
-          "snippet": "",
-          "url": "https://theconversation.com/what-is-a-bunker-buster-an-expert-explains-what-the-us-dropped-on-iran-and-what-might-happen-now-259508",
-          "source": "The Conversation"
-        },
-        {
           "title": "Live updates: The latest on the Iran-Israel conflict",
           "snippet": "",
           "url": "https://www.cnn.com/world/live-news/israel-iran-conflict-06-22-25-intl-hnk",
           "source": "CNN"
+        },
+        {
+          "title": "LIVE: Trump says US has bombed Iran’s Fordow, Isfahan, Natanz nuclear sites",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/6/22/live-us-joins-israels-attacks-on-iran-bombs-three-nuclear-sites",
+          "source": "Al Jazeera"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,28 +277,6 @@
           "snippet": "",
           "url": "https://www.ba.no/flere-forlot-konserten-med-neil-young-pa-plenen-na-far-bergen-live-kraftig-kritikk/s/5-8-3062652",
           "source": "Bergensavisen"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "brandi carlile",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 21 Jun 2025 14:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSsrHzVN6MABwA8_WW7_989ScHtm0eKVcOS1KRR4Xt18Z7Csh5Pue20DZj9-gI",
-      "pictureSource": "London Evening Standard",
-      "relatedSearch": [
-        {
-          "title": "Brandi Carlile at Royal Albert Hall: 'a barnstorming, emotional night'",
-          "snippet": "",
-          "url": "https://www.standard.co.uk/culture/music/brandi-carlile-at-royal-albert-hall-b1234190.html",
-          "source": "London Evening Standard"
-        },
-        {
-          "title": "Brandi Carlile was rousing and emotional - her apparent nerves never showed",
-          "snippet": "",
-          "url": "https://inews.co.uk/culture/music/brandi-carlile-rousing-emotional-her-apparent-nerves-never-showed-3762959",
-          "source": "The i Paper"
         }
       ],
       "link": "https://imtaqin.id/"

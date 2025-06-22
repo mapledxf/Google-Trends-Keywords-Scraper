@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-06-22 01:04:10",
+  "lastUpdate": "2025-06-22 03:00:25",
   "data": [
+    {
+      "title": "gbu-57",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 21 Jun 2025 18:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSexTp8NISNt9P46MHmI0hnnS42mjA_wgIvUTYvF3olWdrZuWsVN_m-RM7CaHo",
+      "pictureSource": "CNN",
+      "relatedSearch": [
+        {
+          "title": "Live updates: Trump announces air strikes on nuclear sites in Iran as conflict enters second week",
+          "snippet": "",
+          "url": "https://www.cnn.com/world/live-news/israel-iran-conflict-06-21-25-intl-hnk",
+          "source": "CNN"
+        },
+        {
+          "title": "What we know about US strikes on Iran's nuclear facilities",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/cvg9r4q99g4o",
+          "source": "BBC"
+        },
+        {
+          "title": "As U.S. Considers Using Bunker-Buster Bombs, Here’s What It Takes to Hit Iran’s Deepest Nuclear Site",
+          "snippet": "",
+          "url": "https://www.nytimes.com/interactive/2025/06/20/world/middleeast/iran-nuclear-fordo-bunker-buster-bomb.html",
+          "source": "The New York Times"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "news",
       "trafficCount": "200+",
@@ -31,7 +59,7 @@
     },
     {
       "title": "bbc",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 21 Jun 2025 17:40:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9hsFAoNi8GqiyjZT8EGw_KgcspVfm7MrG-I8yIgeOC1YhoOia2wbU7T5HsQE",
       "pictureSource": "BBC",
@@ -43,52 +71,52 @@
           "source": "BBC"
         },
         {
-          "title": "BBC shelves Gaza documentary over impartiality concerns",
-          "snippet": "",
-          "url": "https://www.timesofisrael.com/bbc-shelves-gaza-documentary-over-impartiality-concerns/",
-          "source": "The Times of Israel"
-        },
-        {
           "title": "BBC drops Gaza medics documentary over impartiality concerns",
           "snippet": "",
           "url": "https://www.theguardian.com/world/2025/jun/20/bbc-gaza-medics-documentary-impartiality-coverage",
           "source": "The Guardian"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "cnn",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 21 Jun 2025 17:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSoChTz5qWDRz8l7gT1HgjGp-ZBmdNZEXbv8lRJo3p-PVrr7ISraL4ytjYLMsI",
-      "pictureSource": "CNN",
-      "relatedSearch": [
-        {
-          "title": "See where Trump's approval rating stands after massive immigration protests",
-          "snippet": "",
-          "url": "https://www.cnn.com/2025/06/20/politics/video/trump-immigration-protests-poll-enten-cnc-digvid",
-          "source": "CNN"
         },
         {
-          "title": "Opinion | The Polls Are In. Trump Is Not Winning in Los Angeles.",
+          "title": "BBC shelves Gaza documentary over impartiality concerns",
           "snippet": "",
-          "url": "https://www.nytimes.com/2025/06/14/opinion/trump-los-angeles-poll.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "We asked 1,000 Americans about the L.A. protests. This is how they responded.",
-          "snippet": "",
-          "url": "https://www.washingtonpost.com/nation/interactive/2025/protests-ice-los-angeles-trump-deployment-poll/",
-          "source": "The Washington Post"
+          "url": "https://www.timesofisrael.com/bbc-shelves-gaza-documentary-over-impartiality-concerns/",
+          "source": "The Times of Israel"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "usa iran",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Sat, 21 Jun 2025 17:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvnHO3JzapI-2wLq-luVdTDW3eO4xwda_gyvLVSFCzPQYnvvV1LSRG6yctn88",
+      "pictureSource": "The New York Times",
+      "relatedSearch": [
+        {
+          "title": "As U.S. Considers Using Bunker-Buster Bombs, Here’s What It Takes to Hit Iran’s Deepest Nuclear Site",
+          "snippet": "",
+          "url": "https://www.nytimes.com/interactive/2025/06/20/world/middleeast/iran-nuclear-fordo-bunker-buster-bomb.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Live updates: Trump announces air strikes on nuclear sites in Iran as conflict enters second week",
+          "snippet": "",
+          "url": "https://www.cnn.com/world/live-news/israel-iran-conflict-06-21-25-intl-hnk",
+          "source": "CNN"
+        },
+        {
+          "title": "US steps into war between Israel and Iran, strikes 3 Iranian nuclear sites",
+          "snippet": "",
+          "url": "https://apnews.com/article/israel-iran-war-nuclear-talks-geneva-news-06-21-2025-a7b0cdaba28b5817467ccf712d214579",
+          "source": "AP News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "usa",
+      "trafficCount": "2000+",
+      "pubDate": "Sat, 21 Jun 2025 17:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8_H5PhMbkpHz0g5mYdkkQwvwVCm5AdjJO60d8_rCxPmg4yoGPWbW0tbgoAp0",
       "pictureSource": "Onet Wiadomości",
       "relatedSearch": [
@@ -99,44 +127,16 @@
           "source": "Onet Wiadomości"
         },
         {
-          "title": "USA. Prezydent Donald Trump: przeprowadziliśmy bardzo udany atak na trzy obiekty atomowe Iranu",
+          "title": "Zmasowany atak Ameryki na Iran. Donald Trump włącza USA do wojny po stronie Izraela",
           "snippet": "",
-          "url": "https://tvn24.pl/swiat/usa-prezydent-donald-trump-przeprowadzilismy-bardzo-udany-atak-na-trzy-obiekty-atomowe-iranu-st8522346",
-          "source": "TVN24"
+          "url": "https://wyborcza.pl/7,75399,32032669,ameryka-uderza-w-iranie-donald-trump-wlaczyl-usa-do-wojny-po.html",
+          "source": "Wyborcza.pl"
         },
         {
-          "title": "USA włączyły się w wojnę. Zaatakowano Iran [RELACJA NA ŻYWO]",
+          "title": "Stany Zjednoczone zbombardowały irańskie ośrodki jądrowe",
           "snippet": "",
-          "url": "https://wiadomosci.wp.pl/usa-przerzucaja-sily-przez-europe-trump-szykuje-sie-na-iran-relacja-na-zywo-7169977852414848l",
-          "source": "WP Wiadomości"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "fordow",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 21 Jun 2025 17:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDIoTm8ux_MWwImpUgga8oNOHTQgmzzL6UKYblZoI8Ad44pj3Y6n5ATo450gw",
-      "pictureSource": "NBC News",
-      "relatedSearch": [
-        {
-          "title": "U.S. strikes Iranian nuclear sites, Trump says",
-          "snippet": "",
-          "url": "https://www.nbcnews.com/politics/national-security/us-strikes-iranian-nuclear-site-trump-says-rcna213781",
-          "source": "NBC News"
-        },
-        {
-          "title": "LIVE: US joins Israel’s attacks on Iran, bombs three nuclear sites",
-          "snippet": "",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/6/22/live-us-joins-israels-attacks-on-iran-bombs-three-nuclear-sites",
-          "source": "Al Jazeera"
-        },
-        {
-          "title": "U.S. bombing Iran nuclear sites is a massive gamble by Trump",
-          "snippet": "",
-          "url": "https://www.msnbc.com/opinion/msnbc-opinion/us-attacked-3-iranian-nuclear-sites-trump-says-truth-social-rcna213400",
-          "source": "MSNBC News"
+          "url": "https://defence24.pl/polityka-obronna/stany-zjednoczone-zbombardowaly-iranskie-osrodki-jadrowe",
+          "source": "Defence24."
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,25 +145,25 @@
       "title": "jon jones",
       "trafficCount": "200+",
       "pubDate": "Sat, 21 Jun 2025 17:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrRRGat1ToQgC2Wex9CPqI74LDhN69WeLUVXLc1ysmlB5hy6GCW-62V7f1Bso",
-      "pictureSource": "UFC.com",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaLgmzvLx09SOxbJ4_1bS81Y88oUTo6f4c33OZUmCGlqNHhhNd_VM8SOWfmjI",
+      "pictureSource": "Albuquerque Journal",
       "relatedSearch": [
         {
-          "title": "Dana White Announces Retirement Of Jon Jones",
+          "title": "UFC champ Jon Jones retires, hit with another criminal charge in Albuquerque",
           "snippet": "",
-          "url": "https://www.ufc.com/news/dana-white-announces-retirement-jon-jones",
-          "source": "UFC.com"
+          "url": "https://www.abqjournal.com/sports/article_2bd78914-e533-4711-b153-0169eb9a3500.html",
+          "source": "Albuquerque Journal"
         },
         {
-          "title": "Tom Aspinwall becomes UFC champion: All on his wife Justyna and 3 children - Hindustan Times",
+          "title": "Tom Aspinall Responds to Jon Jones’ Retirement: Revitalizing UFC Heavyweight Division",
           "snippet": "",
-          "url": "https://www.hindustantimes.com/world-news/us-news/tom-aspinwall-becomes-ufc-champion-all-on-his-wife-justyna-and-3-sons-101750550542693.html",
-          "source": "Hindustan Times"
+          "url": "https://bvmsports.com/2025/06/21/tom-aspinall-responds-to-jon-jones-retirement-revitalizing-ufc-heavyweight-division/",
+          "source": "BVM Sports"
         },
         {
-          "title": "Daniel Cormier calls for Jon Jones to be stripped of UFC heavyweight title",
+          "title": "Jon Jones facing new criminal charge over fleeing scene of car crash as he announces retirement",
           "snippet": "",
-          "url": "https://sports.yahoo.com/article/daniel-cormier-calls-jon-jones-220701670.html",
+          "url": "https://sports.yahoo.com/mma/breaking-news/article/jon-jones-facing-new-criminal-charge-over-fleeing-scene-of-car-crash-as-he-announces-retirement-023934848.html",
           "source": "Yahoo Sports"
         }
       ],
@@ -173,26 +173,26 @@
       "title": "fluminense",
       "trafficCount": "100+",
       "pubDate": "Sat, 21 Jun 2025 16:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHf-hdAbfFt89SvKvfm_ZNgPsuEbyRjvG9hBYhFQzVEWz9_nKeOvEzw1_5_2o",
-      "pictureSource": "Bolavip Brasil",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTW1BCl6UVw53PV-DXdWzq_N0YDlLCrqOktttYXBwo3lOKw8Oho-8IljLp_P54",
+      "pictureSource": "Extra online",
       "relatedSearch": [
         {
-          "title": "Fluminense assusta, mas vence e torcida critica Renato Gaúcho por escolhas erradas: “Quase cavou nossa cova”",
+          "title": "Renato Gaúcho diz que falta de atenção do Fluminense é 'inadmissível': 'O jogador tem que estar focado. Poderíamos pagar caro'",
           "snippet": "",
-          "url": "https://br.bolavip.com/campeonato-mundial-de-clubes/fluminense-assusta-mas-vence-e-torcida-critica-renato-gaucho-por-escolhas-erradas-quase-cavou-nossa-cova",
-          "source": "Bolavip Brasil"
+          "url": "https://extra.globo.com/esporte/fluminense/noticia/2025/06/renato-gaucho-diz-que-falta-de-atencao-do-fluminense-e-inadmissivel-o-jogador-tem-que-estar-focado-poderiamos-pagar-caro.ghtml",
+          "source": "Extra online"
         },
         {
-          "title": "Momento 'fofura' de Arias com Zoé e beijo apaixonado: jogadores do Fluminense celebram vitória sobre o Ulsan com a família",
+          "title": "Arias diz que Flu 'deixou de fazer coisa que combinou' e cita dica de Ganso",
           "snippet": "",
-          "url": "https://oglobo.globo.com/esportes/mundial-de-clubes/noticia/2025/06/21/momento-fofura-de-arias-com-zoe-e-beijo-apaixonado-jogadores-do-fluminense-celebram-vitoria-sobre-o-ulsan-com-a-familia.ghtml",
-          "source": "O Globo"
+          "url": "https://www.espn.com.br/futebol/fluminense/artigo/_/id/15339649/arias-revela-dica-ganso-antes-golaco-falta-reprova-primeiro-tempo-fluminense-deixou-de-fazer-coisa-que-combinou",
+          "source": "ESPN Brasil"
         },
         {
-          "title": "Milton Neves: Flu espanta zebra mas precisa melhorar para a rodada final",
+          "title": "“Aquela estreia nossa não vai adiantar nada se não conseguir o resultado (contra o Ulsan)”, alerta Renato",
           "snippet": "",
-          "url": "https://www.uol.com.br/esporte/colunas/milton-neves/2025/06/21/flu-espanta-zebra-mas-precisa-melhorar-para-rodada-final.htm",
-          "source": "UOL"
+          "url": "https://www.netflu.com.br/aquela-estreia-nossa-nao-vai-adiantar-nada-se-nao-conseguir-o-resultado-contra-o-ulsan-alerta-renato/",
+          "source": "NETFLU"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,16 +239,16 @@
           "source": "Travel + Leisure"
         },
         {
-          "title": "UNDP Launches New Carbon Market Readiness Project in Mongolia with Support from Green Climate Fund",
+          "title": "With New PM and Cabinet, Mongolia’s Coalition Government 2.0 Takes Shape",
           "snippet": "",
-          "url": "https://www.undp.org/mongolia/press-releases/undp-launches-new-carbon-market-readiness-project-mongolia-support-green-climate-fund",
-          "source": "United Nations Development Programme"
+          "url": "https://thediplomat.com/2025/06/with-new-pm-and-cabinet-mongolias-coalition-government-2-0-takes-shape/",
+          "source": "The Diplomat – Asia-Pacific Current Affairs Magazine"
         },
         {
-          "title": "UNDP to help Mongolia develop Art. 6-ready carbon markets",
+          "title": "Dalai Lama congratulates Mongolias new PM Zandanshatar Gombojav",
           "snippet": "",
-          "url": "https://www.qcintel.com/carbon/article/undp-to-help-mongolia-develop-art-6-ready-carbon-markets-43291.html",
-          "source": "Quantum Commodity Intelligence"
+          "url": "https://www.tribuneindia.com/news/world/dalai-lama-congratulates-mongolias-new-pm-zandanshatar-gombojav/",
+          "source": "The Tribune"
         }
       ],
       "link": "https://imtaqin.id/"

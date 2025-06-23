@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-23 16:22:44",
+  "lastUpdate": "2025-06-23 16:46:45",
   "data": [
     {
       "title": "etv",
@@ -31,16 +31,7 @@
     },
     {
       "title": "etv otse",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 23 Jun 2025 01:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "err otse",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 23 Jun 2025 01:00:00 -0700",
       "picture": "",
       "pictureSource": "",
@@ -51,26 +42,26 @@
       "title": "weather",
       "trafficCount": "100+",
       "pubDate": "Sun, 22 Jun 2025 23:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdWDL7PfuehknJ7X7fqzCwLZEGa-nZDx9MlDRHS4BF9K3vu57W4Lpz8bWVcp8",
-      "pictureSource": "CNN",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfmABSanIgpSG7h2Qh6fGdmyhELhaURVlCuT1eQrpzUXXfo1Jth9KTj9Kc6u4",
+      "pictureSource": "BBC",
       "relatedSearch": [
+        {
+          "title": "How hot does it have to be for schools to close?",
+          "snippet": "",
+          "url": "https://www.bbc.com/weather/articles/cq8zxw58qgwo",
+          "source": "BBC"
+        },
+        {
+          "title": "Northeast, Midwest Heat Wave Could Smash Records",
+          "snippet": "",
+          "url": "https://weather.com/forecast/regional/news/2025-06-19-heat-wave-northeast-midwest-new-york-philly-dc-chicago",
+          "source": "The Weather Channel"
+        },
         {
           "title": "A potent heat dome is building over the US, sending temperatures into the triple digits",
           "snippet": "",
-          "url": "https://www.cnn.com/2025/06/21/weather/heat-dome-climate",
+          "url": "https://www.cnn.com/2025/06/23/weather/heat-dome-midwest-east-coast-climate",
           "source": "CNN"
-        },
-        {
-          "title": "Weather tracker: US and Europe swelter in June heatwaves",
-          "snippet": "",
-          "url": "https://www.theguardian.com/environment/2025/jun/23/weather-tracker-us-europe-june-heatwaves",
-          "source": "The Guardian"
-        },
-        {
-          "title": "US gripped by sweltering weather as heat dome drives temperatures up",
-          "snippet": "",
-          "url": "https://www.euronews.com/green/2025/06/23/tens-of-millions-endure-sweltering-temperatures-in-the-us-as-rare-june-heatwave-continues",
-          "source": "Euronews.com"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2025-06-23 17:21:13",
+  "lastUpdate": "2025-06-23 17:39:21",
   "data": [
     {
-      "title": "emirates",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 23 Jun 2025 10:10:00 -0700",
-      "picture": "",
-      "pictureSource": "Smartraveller",
+      "title": "abu dhabi",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 23 Jun 2025 10:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6Ch5Fx82HhhB64WZC0f0Dk0zIwa5iMgCBP1U6TbJNsTF5l2Lh0cRc7ZSuj3g",
+      "pictureSource": "Partnerships Bulletin",
       "relatedSearch": [
         {
-          "title": "Global impacts of conflict in the Middle East",
+          "title": "Abu Dhabi agreement to boost PPPs",
           "snippet": "",
-          "url": "https://www.smartraveller.gov.au/news-and-updates/global-impacts-conflict-middle-east",
-          "source": "Smartraveller"
+          "url": "https://www.partnershipsbulletin.com/article/1923007/abu-dhabi-agreement-boost-ppps",
+          "source": "Partnerships Bulletin"
         },
         {
-          "title": "Airlines weigh Middle East cancellations after US strikes in Iran",
+          "title": "Reportage Group x ADIS: Shaping the next chapter in urban infrastructure",
           "snippet": "",
-          "url": "https://www.reuters.com/world/europe/airlines-weigh-middle-east-cancellations-after-us-strikes-iran-strand-thousands-2025-06-23/",
+          "url": "https://www.constructionweekonline.com/news/reportage-group-adis-adpic",
+          "source": "Construction Week Online"
+        },
+        {
+          "title": "Etihad Rail in deal to drive strategic infrastructure alignment in Abu Dhabi",
+          "snippet": "",
+          "url": "https://www.zawya.com/en/business/transport-and-logistics/etihad-rail-in-deal-to-drive-strategic-infrastructure-alignment-in-abu-dhabi-mvijsy6h",
+          "source": "ZAWYA"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "sp500",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 23 Jun 2025 10:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6_GjBRZJHD8K8XjBmYerOHY6xzt7FYXoH-yYM7RFQlzZaQQXRV_9mo6ERKhQ",
+      "pictureSource": "CNBC",
+      "relatedSearch": [
+        {
+          "title": "Stocks are little changed as traders monitor oil prices, Iran response to U.S. bombing: Live updates",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/06/22/stock-market-today-live-updates.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Oil, gas prices expected to rise after U.S. strike on Iran",
+          "snippet": "",
+          "url": "https://www.cbsnews.com/texas/video/oil-gas-prices-expected-to-rise-after-u-s-strike-on-iran/",
+          "source": "CBS News"
+        },
+        {
+          "title": "Wall St indexes open muted as investors await Tehran's response to US strikes",
+          "snippet": "",
+          "url": "https://www.reuters.com/business/wall-street-futures-edge-higher-investors-await-irans-retaliatory-move-2025-06-23/",
           "source": "Reuters"
-        },
-        {
-          "title": "Airlines halt or reduce flights in the Middle East as Israel-Iran conflict intensifies",
-          "snippet": "",
-          "url": "https://www.france24.com/en/middle-east/20250623-airlines-halt-reduce-flights-middle-east-israel-iran-conflict-intensifies",
-          "source": "France 24"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,20 +61,20 @@
       "title": "dubai",
       "trafficCount": "1000+",
       "pubDate": "Mon, 23 Jun 2025 10:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJxDlEZctU-L9eVqUUur3Jvit_hCgEXYmy6KC9VApW9WJpTQOKcYseRRKi_hI",
-      "pictureSource": "BFMTV",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5ylVQZhYTXyfn3ciLTvFuPyMljEXry8VzJEBxNZ4luP3XmrANOdzhNTCH4Ow",
+      "pictureSource": "France Info",
       "relatedSearch": [
+        {
+          "title": "Guerre Israël-Iran : Air France suspend temporairement ses vols vers l'Arabie saoudite et les Emirats arabes unis",
+          "snippet": "",
+          "url": "https://www.franceinfo.fr/monde/conflit-israel-iran/guerre-entre-israel-et-l-iran-air-france-suspend-temporairement-sa-desserte-de-l-arabie-saoudite-et-des-emirats-arabes-unis_7332246.html",
+          "source": "France Info"
+        },
         {
           "title": "Dubaï, Riyad... Air France suspend ses vols vers certains pays du Golfe en raison du conflit au Moyen-Orient",
           "snippet": "",
           "url": "https://www.bfmtv.com/economie/entreprises/aeronautique/dubai-ryad-air-france-suspend-ses-vols-vers-certains-pays-du-golfe_AD-202506230361.html",
           "source": "BFMTV"
-        },
-        {
-          "title": "Guerre Israël-Iran : les compagnies aériennes réduisent leurs vols au Moyen-Orient",
-          "snippet": "",
-          "url": "https://www.france24.com/fr/moyen-orient/20250623-guerre-israel-iran-compagnies-aeriennes-reduisent-leurs-vols-dans-la-region-moyen-orient",
-          "source": "France 24"
         },
         {
           "title": "Guerre Israël-Iran : Air France annule ses vols vers Dubaï et Ryad ce lundi",
@@ -89,48 +117,20 @@
       "title": "iran qatar",
       "trafficCount": "1000+",
       "pubDate": "Mon, 23 Jun 2025 09:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1MXGWaA71I-OQiyV4TianSXkL-RBKOJ7_xEDY2tAYSRNJ21w7mo3jB5Hw74c",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSg6KHK-XXS4qGZdNuQi4vD7Z8f2Kbyxa6mLN-Z8oF3-0lVfxW22GRYtD2DNcQ",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
         {
-          "title": "Israel attacks Fordo nuclear site, as Trump floats 'regime change' after US strikes",
+          "title": "Iran announces it has attacked US forces stationed at al Udeid air base in Qatar – latest updates",
           "snippet": "",
-          "url": "https://www.bbc.com/news/live/cn7ze4vmk2pt",
-          "source": "BBC"
+          "url": "https://www.theguardian.com/world/live/2025/jun/23/israel-iran-war-live-updates-us-trump-regime-change-middle-east-gaza-latest-news?filterKeyEvents=false&page=with%3Ablock-6859890e8f087a952d119f82",
+          "source": "The Guardian"
         },
         {
-          "title": "Satellite images show damage from US strikes on Iran’s Fordow nuclear site",
+          "title": "Iran retaliates, fires missiles at US bases in Qatar, Iraq",
           "snippet": "",
-          "url": "https://www.aljazeera.com/news/2025/6/22/satellite-images-show-damage-from-us-strikes-on-irans-fordow-nuclear-site",
-          "source": "Al Jazeera"
-        },
-        {
-          "title": "Live updates: Attack on Iranian nuclear sites thrusts US into Israel-Iran conflict",
-          "snippet": "",
-          "url": "https://www.cnn.com/world/live-news/israel-iran-us-strikes-06-23-25-intl-hnk",
-          "source": "CNN"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "axios",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 23 Jun 2025 09:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_QlhiSRUkVeRdTD2JqGMJnXup66_z_DdV4o5XkDdFuK_AvdUZ2lb2JDm3-_Q",
-      "pictureSource": "Reuters",
-      "relatedSearch": [
-        {
-          "title": "Israel hits Evin prison, showing it is targeting Iran's ruling system",
-          "snippet": "",
-          "url": "https://www.reuters.com/world/middle-east/iran-weighs-retaliation-against-us-strikes-nuclear-sites-2025-06-23/",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump assembles national security team amid threat of Iran retaliation",
-          "snippet": "",
-          "url": "https://www.axios.com/2025/06/23/iran-retaliation-trump-israel-war",
-          "source": "Axios"
+          "url": "https://www.al-monitor.com/originals/2025/06/iran-retaliates-fires-missiles-us-bases-qatar-iraq",
+          "source": "AL-Monitor"
         },
         {
           "title": "Iran-Backed Militia Planning Attack On US Bases In Iraq, Syria: Report",
@@ -143,7 +143,7 @@
     },
     {
       "title": "qatar iran",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 23 Jun 2025 09:50:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRQig8HV15q3AH85b1hSDfEuGvOmfp66QcFwZT7xbTzI2_JE6SvFE1weL0rHU",
       "pictureSource": "France 24",
@@ -161,10 +161,10 @@
           "source": "The Guardian"
         },
         {
-          "title": "U.S., Israel Attack Iranian Nuclear Targets—The Damage So Far",
+          "title": "Shifting Views and Misdirection: How Trump Decided to Strike Iran",
           "snippet": "",
-          "url": "https://www.cfr.org/article/us-israel-attack-iranian-nuclear-targets-damage-so-far",
-          "source": "Council on Foreign Relations"
+          "url": "https://www.nytimes.com/2025/06/22/us/politics/trump-iran-decision-strikes.html",
+          "source": "The New York Times"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2025-06-23 19:00:12",
+  "lastUpdate": "2025-06-23 19:19:43",
   "data": [
+    {
+      "title": "news",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 23 Jun 2025 10:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxwUFH0OGCeOYBHAshxHjRDEu54iySwA2JTsQV_uBy6fVT3faWZTprlOhSocE",
+      "pictureSource": "The New York Times",
+      "relatedSearch": [
+        {
+          "title": "Iran’s Nuclear Dreams May Survive Even a Devastating American Blow",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/06/23/world/middleeast/iran-nuclear-program-us-strikes.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "How Trump decided to strike Iran",
+          "snippet": "",
+          "url": "https://www.nbcnews.com/politics/national-security/trump-decided-strike-iran-rcna214381",
+          "source": "NBC News"
+        },
+        {
+          "title": "What satellite images reveal about damage to Iran’s nuclear sites",
+          "snippet": "",
+          "url": "https://www.washingtonpost.com/investigations/2025/06/22/iran-strikes-nuclear-site-damage-visuals/",
+          "source": "The Washington Post"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "catar",
       "trafficCount": "500+",
       "pubDate": "Mon, 23 Jun 2025 10:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJyFOEBDlFEn6RCn37vHVe0wcGXcDhfzRauRvVOacGC_r81GINrLHKN7sNWFg",
-      "pictureSource": "TradingView",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1qDsp8zEl85RSxC4Jinjy-2qd7-IRGp4lpg3dvhDXLYW-351wCLRc8nhmofI",
+      "pictureSource": "Euronews.com",
       "relatedSearch": [
         {
-          "title": "EUA monitoram de perto ameaças à base aérea de Al Udeid, no Catar",
+          "title": "Última hora. Irão ataca base militar norte-americana no Qatar",
           "snippet": "",
-          "url": "https://br.tradingview.com/news/reuters.com,2025:newsml_S0N3Q104C:0/",
-          "source": "TradingView"
+          "url": "https://pt.euronews.com/2025/06/23/irao-ataca-base-militar-norte-americana-no-qatar",
+          "source": "Euronews.com"
         },
         {
-          "title": "Catar fecha espaço aéreo por segurança diante de tensões",
+          "title": "Importante! Catar anuncia o fechamento do espaço aéreo",
           "snippet": "",
-          "url": "https://brasilturis.com.br/2025/06/23/catar-fecha-espaco-aereo-por-seguranca-diante-de-tensoes/",
-          "source": "Brasilturis"
+          "url": "https://passageirodeprimeira.com/importante-catar-anuncia-o-fechamento-do-espaco-aereo/",
+          "source": "Passageiro de Primeira"
         },
         {
-          "title": "Bahrein fecha espaço aéreo e pede que população vá para lugares seguros | Mundo | O Liberal",
+          "title": "Guerra Irã x Israel: onde ficam as bases militares dos EUA no Oriente Médio?",
           "snippet": "",
-          "url": "https://www.oliberal.com/mundo/bahrein-fecha-espaco-aereo-e-pede-que-populacao-va-para-lugares-seguros-1.982098",
-          "source": "O Liberal"
+          "url": "https://www.bbc.com/portuguese/articles/ckgj7xepp27o",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,14 +117,14 @@
       "title": "qatar",
       "trafficCount": "1000+",
       "pubDate": "Mon, 23 Jun 2025 10:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSR_b_amQ23tmd6qMgzk1K1Itv03wdWR0O05hJ4CbPmChTVIm4d4Vt8Lr2V1fA",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMiVgMEzq1d-Rd9mPj4d8urGktM6Q1LtFRjy38A6jmPdcP8T4Mkcq__5fkEOY",
+      "pictureSource": "The New York Times",
       "relatedSearch": [
         {
-          "title": "What we know about Iranian strikes on a US military base in Qatar",
+          "title": "Iran-Israel Live Updates: Israel Pounds Tehran Amid Growing Calls for De-Escalation",
           "snippet": "",
-          "url": "https://www.bbc.com/news/articles/cdjxdgjpd48o",
-          "source": "BBC"
+          "url": "https://www.nytimes.com/live/2025/06/23/world/iran-trump-israel-news",
+          "source": "The New York Times"
         },
         {
           "title": "Videos show missiles over Qatar as Iran attacks US-run military base",
@@ -105,10 +133,10 @@
           "source": "CNN"
         },
         {
-          "title": "LIVE: Iran launches missile attack on US’s Al Udeid Air Base in Qatar",
+          "title": "Live updates: Iran says it launched attack on US forces at Qatar’s Al Udeid Air Base",
           "snippet": "",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/6/23/live-iran-vows-to-respond-to-us-attacks-trump-hints-at-regime-change",
-          "source": "Al Jazeera"
+          "url": "https://apnews.com/live/iran-israel-war-updates-6-23-2025",
+          "source": "AP News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,9 +257,15 @@
       "title": "nba scores",
       "trafficCount": "500+",
       "pubDate": "Sun, 22 Jun 2025 18:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzozB05t4nq0Ppn4vm1F-CPYPOpeQluz6CDzauUrIZGzmr923mHCZA3Y_bBrY",
-      "pictureSource": "The New York Times",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfMD4w1H8OQLZwrNz3bbeRmI9aeZAQ05yquEg99ikGomoeX9YgPfvfI1SqEE8",
+      "pictureSource": "ESPN",
       "relatedSearch": [
+        {
+          "title": "Sources: Pacers' Haliburton has torn Achilles",
+          "snippet": "",
+          "url": "https://www.espn.com/nba/story/_/id/45569509/sources-pacers-tyrese-haliburton-torn-achilles-tendon",
+          "source": "ESPN"
+        },
         {
           "title": "Thunder win first NBA title since relocating to OKC, hold off Pacers in Game 7",
           "snippet": "",
@@ -239,44 +273,10 @@
           "source": "The New York Times"
         },
         {
-          "title": "Durant deal, Haliburton injury shake up title odds",
+          "title": "Where Celtics Stand in ESPN’s ‘Way-Too-Early’ NBA Power Rankings For 2025-26",
           "snippet": "",
-          "url": "https://www.espn.com/nba/story/_/id/45568040/durant-deal-haliburton-injury-shake-2025-26-nba-title-odds",
-          "source": "ESPN"
-        },
-        {
-          "title": "Five teams that could be the biggest threats to the Thunder next season",
-          "snippet": "",
-          "url": "https://www.yardbarker.com/nba/articles/five_teams_that_could_be_the_biggest_threats_to_the_thunder_next_season/s1_13132_42362776",
-          "source": "Yardbarker"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "nba",
-      "trafficCount": "5000+",
-      "pubDate": "Sun, 22 Jun 2025 17:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGiyESYcnApnV7Nn05wIZ4q_0EGnseiizUA4UoIXgmWzsu8R9S9fIEi21sqSk",
-      "pictureSource": "ESPN",
-      "relatedSearch": [
-        {
-          "title": "Sources - Suns trading Kevin Durant to Rockets in blockbuster deal",
-          "snippet": "",
-          "url": "https://www.espn.com/nba/story/_/id/45561747/sources-suns-trading-kevin-durant-rockets-blockbuster-deal",
-          "source": "ESPN"
-        },
-        {
-          "title": "Winners, Losers from Kevin Durant trade to Houston Rockets",
-          "snippet": "",
-          "url": "https://www.nbcsports.com/nba/news/winners-losers-from-kevin-durant-trade-to-houston-rockets",
-          "source": "NBC Sports"
-        },
-        {
-          "title": "Kevin Durant finds out about Rockets trade while onstage at Fanatics Fest: 'We’re gonna see man'",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/nba/article/kevin-durant-finds-out-about-rockets-trade-while-onstage-at-fanatics-fest-were-gonna-see-man-173931732.html",
-          "source": "Yahoo Sports"
+          "url": "https://nesn.com/2025/06/where-celtics-stand-in-espns-way-too-early-nba-power-rankings-for-2025-26/",
+          "source": "NESN"
         }
       ],
       "link": "https://imtaqin.id/"

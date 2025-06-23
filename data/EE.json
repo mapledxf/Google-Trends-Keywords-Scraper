@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-23 15:57:02",
+  "lastUpdate": "2025-06-23 16:22:44",
   "data": [
     {
       "title": "etv",
@@ -31,7 +31,16 @@
     },
     {
       "title": "etv otse",
-      "trafficCount": "200+",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 23 Jun 2025 01:00:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "err otse",
+      "trafficCount": "100+",
       "pubDate": "Mon, 23 Jun 2025 01:00:00 -0700",
       "picture": "",
       "pictureSource": "",
@@ -42,26 +51,26 @@
       "title": "weather",
       "trafficCount": "100+",
       "pubDate": "Sun, 22 Jun 2025 23:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhkwb6LBDFO_id_Xp7tfufYsasNccEnc-dMU7p1PhFWt-7TefxA_Kq_PUc2TE",
-      "pictureSource": "Kauai Now",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdWDL7PfuehknJ7X7fqzCwLZEGa-nZDx9MlDRHS4BF9K3vu57W4Lpz8bWVcp8",
+      "pictureSource": "CNN",
       "relatedSearch": [
         {
-          "title": "Kauai Weather Forecast for June 23, 2025",
+          "title": "A potent heat dome is building over the US, sending temperatures into the triple digits",
           "snippet": "",
-          "url": "https://kauainownews.com/2025/06/23/kauai-weather-forecast-for-june-23-2025-2/",
-          "source": "Kauai Now"
+          "url": "https://www.cnn.com/2025/06/21/weather/heat-dome-climate",
+          "source": "CNN"
         },
         {
-          "title": "Kauai Weather Forecast for June 16, 2025",
+          "title": "Weather tracker: US and Europe swelter in June heatwaves",
           "snippet": "",
-          "url": "https://kauainownews.com/2025/06/15/kauai-weather-forecast-for-june-16-2025/",
-          "source": "Kauai Now"
+          "url": "https://www.theguardian.com/environment/2025/jun/23/weather-tracker-us-europe-june-heatwaves",
+          "source": "The Guardian"
         },
         {
-          "title": "Kauai Weather Forecast for June 22, 2025",
+          "title": "US gripped by sweltering weather as heat dome drives temperatures up",
           "snippet": "",
-          "url": "https://kauainownews.com/2025/06/21/kauai-weather-forecast-for-june-22-2025/",
-          "source": "Kauai Now"
+          "url": "https://www.euronews.com/green/2025/06/23/tens-of-millions-endure-sweltering-temperatures-in-the-us-as-rare-june-heatwave-continues",
+          "source": "Euronews.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -111,16 +120,16 @@
           "source": "NBA"
         },
         {
-          "title": "NBA Finals history: Game 7 matchups and stats since 1951",
-          "snippet": "",
-          "url": "https://www.espn.com/nba/story/_/id/45551784/nba-finals-history-game-7-matchups-stats-1951",
-          "source": "ESPN"
-        },
-        {
           "title": "Pacers' Tyrese Haliburton exits Game 7, ruled out with right Achilles injury",
           "snippet": "",
           "url": "https://www.sportsnet.ca/nba/article/pacers-tyrese-haliburton-exits-game-7-with-apparent-injury/",
           "source": "Sportsnet.ca"
+        },
+        {
+          "title": "Game 7: Shai Gilgeous-Alexander scores 29 points and Thunder beat Pacers 103-91 for NBA title",
+          "snippet": "",
+          "url": "https://apnews.com/article/nba-finals-pacers-thunder-game-7-2489e4d37b7b25dfd3a5f28c9e0fd001",
+          "source": "AP News"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-23 18:25:25",
+  "lastUpdate": "2025-06-23 18:49:33",
   "data": [
     {
       "title": "u",
@@ -11,14 +11,14 @@
         {
           "title": "Iran Has an Oil Card to Play. So Does the U.S.",
           "snippet": "",
-          "url": "https://www.wsj.com/business/energy-oil/iran-has-an-oil-card-to-play-so-does-the-u-s-45340efe?gaa_at=eafs&gaa_n=ASWzDAgSPvS36v3ZjYeMI_dNZTD5DOmBt2g8Se9kRumzawpdn9D2njQ9j75S&gaa_ts=68599e90&gaa_sig=z6SX-EVoFvkdLjzTHDRaXV4Wj93W3R-n4SMzDD6iOWkx6jFQAnphK4CjLEa_I6ncMb1wrUFPnfJOEnObMGwssw%3D%3D",
+          "url": "https://www.wsj.com/business/energy-oil/iran-has-an-oil-card-to-play-so-does-the-u-s-45340efe?gaa_at=eafs&gaa_n=ASWzDAiqNUW0zwK286O873RsqkpEl9WjuxndFzJcra_iaq_HnmQFxKCXmkHX&gaa_ts=6859a540&gaa_sig=xsc6qbpAJyBp6FdsEFgsLw8U4M5W1SJBfgnA_HG46xPVMbM0tUihLQcPP3xVCUGslhd51rdVxWzsFzCL7UZioA%3D%3D",
           "source": "WSJ"
         },
         {
-          "title": "The Strait of Hormuz has energy markets nervous about Iran, but there are alternate routes around the chokepoint",
+          "title": "What Is the Strait of Hormuz, and Why Is It Important?",
           "snippet": "",
-          "url": "https://fortune.com/2025/06/23/strait-of-hormuz-alternate-routes-oil-prices-energy-markets-iran-us-attack-saudi-arabia-uae-pipelines/",
-          "source": "Fortune"
+          "url": "https://www.nytimes.com/2025/06/23/world/middleeast/strait-hormuz-what-why-iran.html",
+          "source": "The New York Times"
         },
         {
           "title": "Can Iran really shut down the Strait of Hormuz?",
@@ -31,7 +31,7 @@
     },
     {
       "title": "n",
-      "trafficCount": "200+",
+      "trafficCount": "100+",
       "pubDate": "Mon, 23 Jun 2025 11:00:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmkAfBYPItDciqqs9zf1rzY18gwilKJy6ze2pnNZaBBLhUT91Mo38vNvbt6CY",
       "pictureSource": "NBC News",
@@ -59,7 +59,7 @@
     },
     {
       "title": "israel",
-      "trafficCount": "2000+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 23 Jun 2025 10:50:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1MXGWaA71I-OQiyV4TianSXkL-RBKOJ7_xEDY2tAYSRNJ21w7mo3jB5Hw74c",
       "pictureSource": "BBC",
@@ -71,10 +71,10 @@
           "source": "BBC"
         },
         {
-          "title": "LIVE: Israel strikes heart of Tehran as Iran expands missile, drone attacks",
+          "title": "Live updates: Iran says it launched attack on US forces at Qatar’s Al Udeid Air Base",
           "snippet": "",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/6/23/live-iran-vows-to-respond-to-us-attacks-trump-hints-at-regime-change",
-          "source": "Al Jazeera"
+          "url": "https://apnews.com/live/iran-israel-war-updates-6-23-2025",
+          "source": "AP News"
         },
         {
           "title": "CNN team witnesses Israeli airstrikes in Tehran",
@@ -114,29 +114,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "war",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 23 Jun 2025 10:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQq1r981Gc31U7MMe07RdR7z1v4z9bGRYCJ88_wonP-h0o-mflszX9FrqO6DPc",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "What is the Strait of Hormuz and why does it matter?",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c78n6p09pzno",
+          "source": "BBC"
+        },
+        {
+          "title": "Oil falls 1% as investors dismiss risk to Middle East supplies, Trump demands lower prices",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/06/22/oil-prices-jump-after-us-strikes-on-iran-raise-fears-of-supply-disruption.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Oil prices jump after U.S. strike on Iranian nuclear facilities",
+          "snippet": "",
+          "url": "https://www.nbcnews.com/business/markets/oil-prices-jump-us-strike-iranian-nuclear-facilities-rcna214388",
+          "source": "NBC News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "palestine",
       "trafficCount": "200+",
       "pubDate": "Mon, 23 Jun 2025 10:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTxoalBHdcgcjcT9wiWjrwzWOP-K1BRlZo1y0sXE3bBRtQFcgW03kVIkVQr8ss",
-      "pictureSource": "Palestine Chronicle",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMkHVzhLZhWAJ5QQE3GwuE_lyI5j39ZYiUjo5reweoZaN46HLKx9Yyfq0BtV0",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
-        {
-          "title": "Founding the United National Front: A Palestinian Imperative in This Critical Moment",
-          "snippet": "",
-          "url": "https://www.palestinechronicle.com/founding-the-united-national-front-a-palestinian-imperative-in-this-critical-moment/",
-          "source": "Palestine Chronicle"
-        },
-        {
-          "title": "Security review launched after pro-Palestinian activists break into RAF Brize Norton",
-          "snippet": "",
-          "url": "https://www.bbc.co.uk/news/articles/cx24nppdx0lo",
-          "source": "BBC"
-        },
         {
           "title": "Israel kills innocent Palestinians. Activists spray-paint a plane. Guess which the UK government calls terrorism",
           "snippet": "",
           "url": "https://www.theguardian.com/commentisfree/2025/jun/22/israel-palestine-action-uk-government-terrorism-sally-rooney",
           "source": "The Guardian"
+        },
+        {
+          "title": "Met Police chief 'shocked' by planned Palestine Action protest in London",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c79q1jv8p24o",
+          "source": "BBC"
+        },
+        {
+          "title": "Pro-Palestinian activists breach UK’s largest air base",
+          "snippet": "",
+          "url": "https://tribune.net.ph/2025/06/22/pro-palestinian-activists-breach-uks-largest-air-base",
+          "source": "Daily Tribune"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,14 +173,14 @@
       "title": "iran",
       "trafficCount": "10000+",
       "pubDate": "Mon, 23 Jun 2025 10:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQSoSHxOg3QGdlDj36LJ2jx-uxaA2ES0k1AS83k-GZIoC6-gMsIJJ5hrc9i0w",
-      "pictureSource": "CNN",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTykVenzcfFzveFSSDzRE_EmoIWa-FWxSt7U4oKlP7insqH1SKjqSwCy5h-3d0",
+      "pictureSource": "AP News",
       "relatedSearch": [
         {
-          "title": "Live updates: Attack on Iranian nuclear sites thrusts US into Israel-Iran conflict",
+          "title": "Iran launches missiles at US military base in Qatar in retaliation for American bombing",
           "snippet": "",
-          "url": "https://www.cnn.com/world/live-news/israel-iran-us-strikes-06-23-25-intl-hnk",
-          "source": "CNN"
+          "url": "https://apnews.com/article/israel-iran-war-nuclear-trump-bomber-news-06-23-2025-9e78510c88ccc5e262341f41550609c5",
+          "source": "AP News"
         },
         {
           "title": "What we know about Iranian strikes on a US military base in Qatar",
@@ -161,66 +189,66 @@
           "source": "BBC"
         },
         {
-          "title": "Iran-Israel Live Updates: Israel Pounds Tehran Amid Growing Calls for De-Escalation",
+          "title": "U.A.E. Shuts Its Airspace, Flight Tracker Says",
           "snippet": "",
-          "url": "https://www.nytimes.com/live/2025/06/23/world/iran-trump-israel-news",
-          "source": "The New York Times"
+          "url": "https://www.wsj.com/livecoverage/iran-israel-us-latest-news/card/u-a-e-shuts-its-airspace-flight-tracker-says-ela6H7v204lAKRnahV2G",
+          "source": "WSJ"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "map",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Mon, 23 Jun 2025 10:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaG-JViuFPFnkFEWELGdp1FJA5LCQFmgi8OKduxixF7se7oc6TudYWgwW31VA",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxwUFH0OGCeOYBHAshxHjRDEu54iySwA2JTsQV_uBy6fVT3faWZTprlOhSocE",
+      "pictureSource": "The New York Times",
       "relatedSearch": [
         {
-          "title": "What we know about Iranian strikes on a US military base in Qatar",
+          "title": "Iran’s Nuclear Dreams May Survive Even a Devastating American Blow",
           "snippet": "",
-          "url": "https://www.bbc.com/news/articles/cdjxdgjpd48o",
-          "source": "BBC"
+          "url": "https://www.nytimes.com/2025/06/23/world/middleeast/iran-nuclear-program-us-strikes.html",
+          "source": "The New York Times"
         },
         {
-          "title": "Israel-Iran war live: Tehran claims missile attacks on US bases in Qatar and Iraq",
+          "title": "The view from Iran: ‘People have returned to Tehran, although the bombing hasn’t stopped’",
           "snippet": "",
-          "url": "https://www.france24.com/en/middle-east/20250623-live-trump-says-strikes-on-iran-inflicted-monumental-damage-to-tehran-s-nuclear-program",
-          "source": "France 24"
+          "url": "https://www.theguardian.com/world/2025/jun/23/fears-in-iran-we-are-very-afraid-regime-might-respond-to-the-us-attack",
+          "source": "The Guardian"
         },
         {
-          "title": "Air Force drops 14 MOP bombs on Iranian nuclear sites during first operational use of the weapon",
+          "title": "Israel-Iran live updates: IDF expands scope of attacks; Trump raises prospect of regime change in Iran",
           "snippet": "",
-          "url": "https://defensescoop.com/2025/06/22/air-force-mop-gbu-57-bomb-iranian-nuclear-sites-midnight-hammer/",
-          "source": "DefenseScoop"
+          "url": "https://www.washingtonpost.com/world/2025/06/23/israel-iran-live-updates-us-trump/",
+          "source": "The Washington Post"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "iran vs israel",
+      "title": "doha",
       "trafficCount": "500+",
       "pubDate": "Mon, 23 Jun 2025 10:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaG-JViuFPFnkFEWELGdp1FJA5LCQFmgi8OKduxixF7se7oc6TudYWgwW31VA",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpsDqGlbtHhaRfFjX-aR7rm76IVBkuKzI1YlPLqU1GPEzQGWxsIHQwRJpYAC4",
+      "pictureSource": "CNBC",
       "relatedSearch": [
         {
-          "title": "What we know about Iranian strikes on a US military base in Qatar",
+          "title": "Explosions heard in the sky over Doha, Qatar. Here's what we know",
           "snippet": "",
-          "url": "https://www.bbc.com/news/articles/cdjxdgjpd48o",
-          "source": "BBC"
+          "url": "https://www.cnbc.com/video/2025/06/23/explosions-heard-in-the-sky-over-doha-qatar-heres-what-we-know.html",
+          "source": "CNBC"
         },
         {
-          "title": "Iran’s Short-Range Weapons Pose a Threat to U.S. Bases",
+          "title": "Huge explosion heard in Doha: witness",
           "snippet": "",
-          "url": "https://www.nytimes.com/2025/06/22/us/politics/iran-weapons-us-bases.html",
-          "source": "The New York Times"
+          "url": "https://www.chinadaily.com.cn/a/202506/24/WS6859849da310a04af22c7f9f.html",
+          "source": "China Daily"
         },
         {
-          "title": "How U.S. stealth bombers struck Iran’s nuclear sites without detection",
+          "title": "Witness hears explosions, sees possible missiles in sky in Qatar after airspace closed",
           "snippet": "",
-          "url": "https://www.pbs.org/newshour/world/how-u-s-stealth-bombers-struck-irans-nuclear-sites-without-detection",
-          "source": "PBS"
+          "url": "https://www.yahoo.com/news/witness-hears-explosions-sees-possible-164515687.html",
+          "source": "Yahoo"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,44 +267,16 @@
           "source": "Flightradar24"
         },
         {
-          "title": "Live updates: Attack on Iranian nuclear sites thrusts US into Israel-Iran conflict",
+          "title": "Iran launches missiles at US military base in Qatar in retaliation for American bombing",
           "snippet": "",
-          "url": "https://www.cnn.com/world/live-news/israel-iran-us-strikes-06-23-25-intl-hnk",
-          "source": "CNN"
+          "url": "https://apnews.com/article/israel-iran-war-nuclear-trump-bomber-news-06-23-2025-9e78510c88ccc5e262341f41550609c5",
+          "source": "AP News"
         },
         {
           "title": "What we know about Iranian strikes on a US military base in Qatar",
           "snippet": "",
           "url": "https://www.bbc.com/news/articles/cdjxdgjpd48o",
           "source": "BBC"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "news",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 23 Jun 2025 10:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRs9zuHsefjskshco1wrYJvp5jF3tR2esLJmdj-WQmI3D-9i35GNXE5eLtsoqE",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Football gossip: Sesko, Gittens, Sancho, Jackson, Quansah, Kean, Christensen",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/articles/c4gdx69rz63o",
-          "source": "BBC"
-        },
-        {
-          "title": "Arsenal ponder transfer U-turn following demand from No.1 target Benjamin Sesko",
-          "snippet": "",
-          "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-benjamin-sesko-salary-35432323",
-          "source": "The Mirror"
-        },
-        {
-          "title": "Romano Exclusive: Sesko’s Agent Shares Update on Arsenal Transfer",
-          "snippet": "",
-          "url": "https://www.givemesport.com/romano-exclusive-benjamin-seskos-agent-shares-update-on-arsenal-transfer/",
-          "source": "GiveMeSport"
         }
       ],
       "link": "https://imtaqin.id/"

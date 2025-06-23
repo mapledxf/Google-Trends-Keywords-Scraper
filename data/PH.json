@@ -1,9 +1,47 @@
 {
-  "lastUpdate": "2025-06-23 07:00:48",
+  "lastUpdate": "2025-06-23 07:27:01",
   "data": [
     {
+      "title": "manila weather",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 23 Jun 2025 00:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIzBYkmcF5V6WftPSlWvdLBhZ6bEocJXcOR_LJ5P37yz_zrvR4mvkbvRAF0Zk",
+      "pictureSource": "GMA Network",
+      "relatedSearch": [
+        {
+          "title": "Several Metro Manila roads flooded due to thunderstorm",
+          "snippet": "",
+          "url": "https://www.gmanetwork.com/news/topstories/metro/950130/several-metro-manila-roads-flooded-due-to-thunderstorm/story/",
+          "source": "GMA Network"
+        },
+        {
+          "title": "Floods hit Metro Manila streets after heavy rains – MMDA",
+          "snippet": "",
+          "url": "https://newsinfo.inquirer.net/2073239/floods-hit-metro-manila-streets-after-heavy-rains-mmda",
+          "source": "Inquirer.net"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "typhoon",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 23 Jun 2025 00:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLKhM5DeKiiceLnocfl6RFfpyL_JS76nvtDEpkTPApZ1IrKJMRviBYPRR8bKE",
+      "pictureSource": "Focus Taiwan",
+      "relatedSearch": [
+        {
+          "title": "Tropical depression off Iwo Jima could strengthen into typhoon: CWA",
+          "snippet": "",
+          "url": "https://focustaiwan.tw/society/202506220011",
+          "source": "Focus Taiwan"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "weather update",
-      "trafficCount": "2000+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 22 Jun 2025 23:40:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5U_uM8jpiyTBAN3i80knKtsJuUWlQBuubWQvBZUyNRLzM_EHpQtdR6cRMjjM",
       "pictureSource": "Mint",
@@ -25,34 +63,6 @@
           "snippet": "",
           "url": "https://inshorts.com/en/news/heavy-to-extremely-heavy-rainfall-warning-issued-for-29-states--list-released-1750592795476",
           "source": "Inshorts"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "pagasa weather forecast",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 22 Jun 2025 23:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiPT_jQq-KCl2DSuIDxR_qP8ALqEKiteKnaZ6NMZV00rmKy_ycIPH15LX9nZU",
-      "pictureSource": "ABS-CBN",
-      "relatedSearch": [
-        {
-          "title": "TV PATROL: Interactive weather tracker ng PAGASA na ‘PANaHON’ inilunsad",
-          "snippet": "",
-          "url": "https://www.abs-cbn.com/news/weather-traffic/2025/6/22/tv-patrol-interactive-weather-tracker-ng-pagasa-na-panahon-inilunsad-1747",
-          "source": "ABS-CBN"
-        },
-        {
-          "title": "Panahon Alert System ng PAGASA ilulunsad!",
-          "snippet": "",
-          "url": "https://remate.ph/panahon-alert-system-ng-pagasa-ilulunsad/",
-          "source": "Remate Online"
-        },
-        {
-          "title": "PAGASA, inilunsad ang upgraded na PANaHON Alert System",
-          "snippet": "",
-          "url": "https://radyopilipinas.ph/2025/06/pagasa-inilunsad-ang-upgraded-na-panahon-alert-system/",
-          "source": "Radyo Pilipinas"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -81,6 +91,34 @@
           "snippet": "",
           "url": "https://remate.ph/tatlong-weather-system-iiral-sa-bansa/",
           "source": "Remate Online"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "pagasa weather forecast",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 22 Jun 2025 23:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiPT_jQq-KCl2DSuIDxR_qP8ALqEKiteKnaZ6NMZV00rmKy_ycIPH15LX9nZU",
+      "pictureSource": "ABS-CBN",
+      "relatedSearch": [
+        {
+          "title": "TV PATROL: Interactive weather tracker ng PAGASA na ‘PANaHON’ inilunsad",
+          "snippet": "",
+          "url": "https://www.abs-cbn.com/news/weather-traffic/2025/6/22/tv-patrol-interactive-weather-tracker-ng-pagasa-na-panahon-inilunsad-1747",
+          "source": "ABS-CBN"
+        },
+        {
+          "title": "Panahon Alert System ng PAGASA ilulunsad!",
+          "snippet": "",
+          "url": "https://remate.ph/panahon-alert-system-ng-pagasa-ilulunsad/",
+          "source": "Remate Online"
+        },
+        {
+          "title": "PAGASA, inilunsad ang upgraded na PANaHON Alert System",
+          "snippet": "",
+          "url": "https://radyopilipinas.ph/2025/06/pagasa-inilunsad-ang-upgraded-na-panahon-alert-system/",
+          "source": "Radyo Pilipinas"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,26 +155,54 @@
       "title": "san juan",
       "trafficCount": "100+",
       "pubDate": "Sun, 22 Jun 2025 21:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrm95fKds_vqSOgfbPL07wk7wiX3-ShsBZJAbRXYEZ8xrKgKSh11zA4lp3ZJ0",
-      "pictureSource": "Diario de Almería",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqRf2XQKRlLjQVGEHYUWAd5YX_5j2CGAv5u6fcPzcPsC6BEVQlICteFlwf56g",
+      "pictureSource": "Lecturas",
       "relatedSearch": [
         {
-          "title": "Así se vive San Juan lejos de la costa",
+          "title": "Ni saltar la hoguera, ni bañarse en el mar: este es el ritual que el astrólogo Jabifus recomienda para la noche de San Juan",
           "snippet": "",
-          "url": "https://www.diariodealmeria.es/almeria-para-vivirla/vive-san-juan-lejos-costa_0_2004180145.html",
-          "source": "Diario de Almería"
+          "url": "https://www.lecturas.com/horoscopo/astrologia/ni-saltar-hoguera-ni-banarse-mar-este-es-ritual-que-astrologo-jabifus-recomienda-para-noche-san-juan_177148",
+          "source": "Lecturas"
         },
         {
-          "title": "San Juan",
+          "title": "30 rituales para la noche de San Juan 2025: así puedes atraer la suerte, el amor y la salud a tu vida con las hogueras",
           "snippet": "",
-          "url": "https://www.almerianoticias.es/san-juan/",
-          "source": "Almeria Noticias"
+          "url": "https://los40.com/2025/06/22/30-rituales-para-la-noche-de-san-juan-2025-asi-puedes-atraer-la-suerte-el-amor-y-la-salud-a-tu-vida-al-lado-de-las-hogueras/",
+          "source": "LOS40"
         },
         {
-          "title": "80.000 kilos de madera para las hogueras de San Juan de Almería",
+          "title": "Nuestra tradición:«la quema de la Tarasca», ¿por qué no?",
           "snippet": "",
-          "url": "https://www.telecinco.es/noticias/andalucia/20250622/80-000-kilos-madera-hogueras-san-juan-almeria-quema-muebles-pales_18_015925012.html",
-          "source": "Telecinco"
+          "url": "https://www.diariodeleon.es/opinion/tribunas/250623/2051928/nuestra-tradicion-quema-tarasca.html",
+          "source": "Diario de León"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "jaylin williams",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 22 Jun 2025 19:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgtDeqbq0Qmp5Qycl77DRfMOVEbUYRkZO3z6GLZa9O8men8YoxBGzmjZ_xnvo",
+      "pictureSource": "NBA",
+      "relatedSearch": [
+        {
+          "title": "3 biggest stats that define Oklahoma City's remarkable season",
+          "snippet": "",
+          "url": "https://www.nba.com/news/3-stats-okc-remarkable-season",
+          "source": "NBA"
+        },
+        {
+          "title": "After a thrilling 7-game series, the Oklahoma City Thunder are finally NBA champions",
+          "snippet": "",
+          "url": "https://www.npr.org/2025/06/22/nx-s1-5441761/oklahoma-city-thunder-wins-title-nba-finals-indiana-pacers",
+          "source": "NPR"
+        },
+        {
+          "title": "Thunder beat Pacers in NBA Finals 2025 Game 7: Live updates and reaction - The Athletic",
+          "snippet": "",
+          "url": "https://www.nytimes.com/athletic/live-blogs/pacers-vs-thunder-live-updates-nba-finals-game-7-score-result/up9zagGq4jD1/",
+          "source": "The New York Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,122 +227,38 @@
           "source": "PBS"
         },
         {
-          "title": "U.S. officials: Iran threatened terror attacks inside U.S.",
+          "title": "Trump administration boosts monitoring of possible Iran-backed cells in U.S., as Trump weighs strikes, sources say",
           "snippet": "",
-          "url": "https://www.nbcnews.com/nightly-news/video/u-s-officials-iran-threatened-terror-attacks-inside-u-s-242058821681",
-          "source": "NBC News"
+          "url": "https://www.cbsnews.com/news/trump-administration-monitor-iran-backed-cells-trump-weighs-strikes/",
+          "source": "CBS News"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "bet",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 22 Jun 2025 18:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdxPcj785oWhl19Fh_m7GlBOSyerXWYs-vsoq7lxH6-deMByhBpeEc1ngYnsY",
-      "pictureSource": "RotoWire",
+      "title": "chet holmgren",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 22 Jun 2025 19:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTA2Y6z_OUtKxLMfa5m4PcUlpPK7sES7wCMketoexrOsL8KDVwdtRyN0z--0qs",
+      "pictureSource": "Inquirer.net",
       "relatedSearch": [
         {
-          "title": "Caesars Sportsbook Promo Code ROTODYW - Grab 10 100% Profit Boosts for NBA Finals Odds",
+          "title": "NBA Finals: Chet Holmgren hopes to bounce back in Game 7",
           "snippet": "",
-          "url": "https://www.rotowire.com/news/caesars-sportsbook-promo-code-rotodyw-grab-10-100-profit-boosts-for-nba-finals-odds-93749",
-          "source": "RotoWire"
+          "url": "https://sports.inquirer.net/628370/nba-finals-chet-holmgren-hope-to-bounce-back-in-game-7",
+          "source": "Inquirer.net"
         },
         {
-          "title": "$150 Bet365 Bonus Code “SYRACUSE” upgraded for Pacers, Thunder Finals Game 7 tonight",
+          "title": "Chet Holmgren joins NBA TV prior to Game 7",
           "snippet": "",
-          "url": "https://www.syracuse.com/betting/2025/06/150-bet365-bonus-code-syracuse-upgraded-for-pacers-thunder-finals-game-7-tonight.html",
-          "source": "Syracuse.com"
-        },
-        {
-          "title": "BetMGM Bonus Code WTOP150: Claim $150 Bonus for MLB, NBA Finals Game 7",
-          "snippet": "",
-          "url": "https://wtop.com/sports/2025/06/betmgm-bonus-code-wtop150-claim-150-bonus-for-mlb-nba-finals-game-7/",
-          "source": "WTOP"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "alex caruso",
-      "trafficCount": "2000+",
-      "pubDate": "Sun, 22 Jun 2025 18:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqFJwbDfFHsMll14_Tc_twNHY-j89SNpCkz63NDsa-LGSRnJ9AmMq1LkUrdjw",
-      "pictureSource": "HoopsHype",
-      "relatedSearch": [
-        {
-          "title": "Alex Caruso after winning his second NBA title: ‘Now I got a real one!’",
-          "snippet": "",
-          "url": "https://hoopshype.com/2025/06/23/alex-caruso-after-winning-his-second-nba-title-now-i-got-a-real-one/",
-          "source": "HoopsHype"
-        },
-        {
-          "title": "Teammate explains what sets SGA apart after breaking LeBron James’ record, makes 2020 Lakers comparison",
-          "snippet": "",
-          "url": "https://nbaanalysis.net/teammate-explains-what-sets-sga-apart-after-breaking-lebron-james-record-makes-2020-lakers-comparison/",
-          "source": "NBA Analysis Network"
-        },
-        {
-          "title": "Oklahoma City Thunder star Alex Caruso has plans for head coach Mark Daigneault as they win 2025 NBA Cham",
-          "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/sports/nba/top-stories/oklahoma-city-thunder-star-alex-caruso-has-plans-for-head-coach-mark-daigneault-as-they-win-2025-nba-championship/articleshow/122017417.cms",
-          "source": "Times of India"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "t. j. mcconnell",
-      "trafficCount": "2000+",
-      "pubDate": "Sun, 22 Jun 2025 18:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStOJFc-TIO6NapIXiUlIN6RZ3sBWbPo7LRnekqihB6Iy1E1Y1OJVxPafq8xPo",
-      "pictureSource": "NBA",
-      "relatedSearch": [
-        {
-          "title": "Pacers' T.J. McConnell could play key role on whether NBA Finals go to Game 7",
-          "snippet": "",
-          "url": "https://www.nba.com/news/tj-mcconnell-importance-pacers-game-6",
+          "url": "https://www.nba.com/watch/video/chet-holmgren-joins-nbatv-prior-to-game-7",
           "source": "NBA"
         },
         {
-          "title": "Ex-Clippers Star Makes Surprising Finals MVP Pick Ahead of Game 7",
+          "title": "All eyes are on Chet Holmgren as dynastic vision encroaches on disaster",
           "snippet": "",
-          "url": "https://www.si.com/nba/clippers/news/ex-clippers-star-makes-surprising-finals-mvp-pick-ahead-of-game-7-01jy7aqh00kq",
-          "source": "Sports Illustrated"
-        },
-        {
-          "title": "LeBron James shouts out Indiana Pacers star who fueled team’s epic game 7 NBA finals push",
-          "snippet": "",
-          "url": "https://thesportstak.com/basketball/story/lebron-james-shouts-out-indiana-pacers-star-who-fueled-teams-epic-game-7-nba-finals-push-3182591-2025-06-22",
-          "source": "SportsTak"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "man city vs al ain",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 22 Jun 2025 18:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSartfGc5Ejf4-_ZDk9eLyoFrE9jQ79zf6CZfrPnNYnJp89itHFCCVidmRAHzk",
-      "pictureSource": "Al Jazeera",
-      "relatedSearch": [
-        {
-          "title": "Real Madrid beat Pachuca at Club World Cup despite Asencio’s early red card",
-          "snippet": "",
-          "url": "https://www.aljazeera.com/sports/2025/6/22/real-madrid-beat-pachuca-at-club-world-cup-despite-asencios-early-red-card",
-          "source": "Al Jazeera"
-        },
-        {
-          "title": "Club World Cup 2025: Man City 6-0 Al Ain - Gundogan, Echeverri, Haaland, Bobb, Cherki score",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/c628dz6gjn8t",
-          "source": "BBC"
-        },
-        {
-          "title": "Manchester City dominate Al Ain in 6-0 Club World Cup victory – as it happened",
-          "snippet": "",
-          "url": "https://www.theguardian.com/football/live/2025/jun/22/manchester-city-v-al-ain-club-world-cup-updates-live",
-          "source": "The Guardian"
+          "url": "https://thunderousintentions.com/okc-thunder-all-eyes-on-chet-holmgren-dynastic-vision-encroaches-disaster",
+          "source": "Thunderous Intentions"
         }
       ],
       "link": "https://imtaqin.id/"

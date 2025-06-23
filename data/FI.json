@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-23 17:49:27",
+  "lastUpdate": "2025-06-23 17:57:06",
   "data": [
     {
       "title": "dubai",
@@ -33,7 +33,7 @@
       "title": "reuters",
       "trafficCount": "100+",
       "pubDate": "Mon, 23 Jun 2025 10:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaD5ehA61A2h8YEMxbAseue1aAEnoZlvLZ5T08KNjezMxAGWli5pnAvgw9qW0",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQSeBc15g-1hkNVx9jMMAgkkKUdRrqnxTCw1cXD3JAbLkjj0mENqLdWYf4Stpg",
       "pictureSource": "The New York Times",
       "relatedSearch": [
         {
@@ -87,7 +87,7 @@
     },
     {
       "title": "qatar",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Mon, 23 Jun 2025 09:10:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQSoSHxOg3QGdlDj36LJ2jx-uxaA2ES0k1AS83k-GZIoC6-gMsIJJ5hrc9i0w",
       "pictureSource": "CNN",
@@ -117,15 +117,9 @@
       "title": "vain elämää",
       "trafficCount": "200+",
       "pubDate": "Mon, 23 Jun 2025 07:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmkhomCWkGh4nqpqSKkQv4PmCRi6ZE6djDtkof_zVgQJqK2t0zw8Uf-QV7ONA",
-      "pictureSource": "Ilta-Sanomat",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSxoFzZS2zUW3mPy59SLlqfYAWtfWl6jy0qFwHTdHwNFv1mwFGzEJymsOaYYE",
+      "pictureSource": "Iltalehti",
       "relatedSearch": [
-        {
-          "title": "Vain elämää -ohjelman kattauksessa mukana kolme yllätysartistia – tässä he ovat",
-          "snippet": "",
-          "url": "https://www.is.fi/viihde/art-2000011314408.html",
-          "source": "Ilta-Sanomat"
-        },
         {
           "title": "Kunniavieraat saivat Vain elämää -katsojat mylvimään – Hän on katsojien ennakkosuosikki",
           "snippet": "",
@@ -133,10 +127,16 @@
           "source": "Iltalehti"
         },
         {
-          "title": "Marionilta jättiuutinen",
+          "title": "Vain elämää -ohjelman kattauksessa mukana kolme yllätysartistia – tässä he ovat",
           "snippet": "",
-          "url": "https://www.seiska.fi/kotimaa/marionilta-jattiuutinen/1845561",
-          "source": "Seiska.fi"
+          "url": "https://www.is.fi/viihde/art-2000011314408.html",
+          "source": "Ilta-Sanomat"
+        },
+        {
+          "title": "He ovat Vain elämää -ohjelman kunniavieraat – kaikki kolme nimeä paljastettu",
+          "snippet": "",
+          "url": "https://www.como.fi/uutiset/he-ovat-vain-elamaa-ohjelman-kunniavieraat-kaikki-kolme-nimea-paljastettu/",
+          "source": "Como.fi"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +155,16 @@
           "source": "Yle"
         },
         {
-          "title": "Juhannuksen vietto pääosin rauhallista – tieturmissa kuollut enemmän kuin hukkumiseen",
-          "snippet": "",
-          "url": "https://www.maaseuduntulevaisuus.fi/uutiset/cba68a26-6e06-44df-a9a7-4cf6f79f9dca",
-          "source": "Maaseudun Tulevaisuus"
-        },
-        {
           "title": "Juhannusjuttu | Kokenut hyvinkääläisuimari joutui vesillä vaaratilanteeseen ja havahtui: \"Kun taju lähtee, uimataito on nolla'\"",
           "snippet": "",
           "url": "https://www.aamuposti.fi/urheilu/8621668",
           "source": "Aamuposti"
+        },
+        {
+          "title": "Juhannuksen vietto pääosin rauhallista – tieturmissa kuollut enemmän kuin hukkumiseen",
+          "snippet": "",
+          "url": "https://www.maaseuduntulevaisuus.fi/uutiset/cba68a26-6e06-44df-a9a7-4cf6f79f9dca",
+          "source": "Maaseudun Tulevaisuus"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +183,16 @@
           "source": "The Guardian"
         },
         {
-          "title": "Death Stranding 2 tech review: one of the best-looking games of this console generation",
-          "snippet": "",
-          "url": "https://www.eurogamer.net/digitalfoundry-2025-death-stranding-2-tech-review",
-          "source": "Eurogamer"
-        },
-        {
           "title": "Death Stranding 2 cements Hideo Kojima's legacy as a PC game designer still living in the console world",
           "snippet": "",
           "url": "https://www.pcgamer.com/games/action/death-stranding-2-cements-hideo-kojimas-legacy-as-a-pc-game-designer-still-living-in-the-console-world/",
           "source": "PC Gamer"
+        },
+        {
+          "title": "Death Stranding 2 tech review: one of the best-looking games of this console generation",
+          "snippet": "",
+          "url": "https://www.eurogamer.net/digitalfoundry-2025-death-stranding-2-tech-review",
+          "source": "Eurogamer"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,26 +229,26 @@
       "title": "pörssi",
       "trafficCount": "200+",
       "pubDate": "Mon, 23 Jun 2025 00:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFETnOQeS_z0IAHJpI3s515YywSusuCOYs1syZm5WDXnWZw2Itw3vEWhVVCow",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_YUrkdwWCkjxU_TPGTEg6sKV-XaK8EMEmBVPx8D9g97vg08cq1kE9inyYOJ8",
       "pictureSource": "Kauppalehti",
       "relatedSearch": [
         {
-          "title": "PÖRSSI: Nesteen nousu piti heilahtelevilla markkinoilla",
+          "title": "Nesteen nousu piti heilahtelevilla markkinoilla – Kauppalehti seurasi markkinapäivää",
           "snippet": "",
-          "url": "https://www.kauppalehti.fi/uutiset/porssi-nesteen-nousu-piti-heilahtelevilla-markkinoilla/8ecf0650-4754-4d82-ad35-3187978a0462",
+          "url": "https://www.kauppalehti.fi/uutiset/nesteen-nousu-piti-heilahtelevilla-markkinoilla-kauppalehti-seurasi-markkinapaivaa/70d0915d-0846-43bb-b9b7-8ffffdd8a57e",
           "source": "Kauppalehti"
+        },
+        {
+          "title": "Nesteen osakkeen nousu piti - pörssi päätyi pieneen laskuun",
+          "snippet": "",
+          "url": "https://www.arvopaperi.fi/uutiset/nesteen-osakkeen-nousu-piti-porssi-paatyi-pieneen-laskuun/2ee0870f-d4e6-411a-ad5f-3aefdac8afe3",
+          "source": "Arvopaperi"
         },
         {
           "title": "Moni suomalaissijoittaja osti Nesteen osaketta pohjilta, ja nyt siitä tuli taas kurssiraketti: Tässä syy",
           "snippet": "",
           "url": "https://www.talouselama.fi/uutiset/moni-suomalaissijoittaja-osti-nesteen-osaketta-pohjilta-ja-nyt-siita-tuli-taas-kurssiraketti-tassa-syy/98f27db3-7220-4984-8d3a-533e386f73ec",
           "source": "Talouselämä"
-        },
-        {
-          "title": "Helsingin pörssissä selvä laskupäivä – Neste suuryhtiöjoukon ainoa nousija, DeeTeeltä tulosvaroitus",
-          "snippet": "",
-          "url": "https://www.arvopaperi.fi/uutiset/helsingin-porssissa-selva-laskupaiva-neste-suuryhtiojoukon-ainoa-nousija-deeteelta-tulosvaroitus/a5af625a-9db7-4cb0-a3a8-024d2ed35f63",
-          "source": "Arvopaperi"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -267,16 +267,16 @@
           "source": "The Independent"
         },
         {
-          "title": "Johnny Depp claims he was betrayed by three of his closest friends who deserted him after he was accused of abuse by ex-wife Amber Heard",
+          "title": "Johnny Depp has 'no regrets' about Amber Heard defamation trial: 'I'll fight until the bitter f---ing end'",
           "snippet": "",
-          "url": "https://www.dailymail.co.uk/tvshowbiz/article-14837751/Johnny-Depp-claims-betrayed-closest-friends-deserted-accused-abuse-ex-wife-Amber-Heard.html",
-          "source": "Daily Mail"
+          "url": "https://ew.com/johnny-depp-says-he-has-no-regrets-about-amber-heard-trial-11759025",
+          "source": "Entertainment Weekly"
         },
         {
-          "title": "Johnny Depp addresses problems with Amber Heard: A fabrication exposed to the whole world will not pass",
+          "title": "Johnny Depp said he was betrayed by three friends after ex-wife Amber Heard's domestic violence accusations",
           "snippet": "",
-          "url": "https://telegrafi.com/en/johnny-depp-trajton-problemet-amber-heard-nje-trillim-ekspozuar-ndaj-te-gjithe-botes-nuk-te-kaloje/",
-          "source": "Telegrafi"
+          "url": "https://unn.ua/en/news/johnny-depp-said-he-was-betrayed-by-three-friends-after-ex-wife-amber-heards-domestic-violence-accusations",
+          "source": "Українські Національні Новини"
         }
       ],
       "link": "https://imtaqin.id/"

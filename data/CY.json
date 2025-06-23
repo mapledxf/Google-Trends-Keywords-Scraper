@@ -1,58 +1,39 @@
 {
-  "lastUpdate": "2025-06-23 17:57:01",
+  "lastUpdate": "2025-06-23 18:24:58",
   "data": [
     {
-      "title": "flight radar",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 23 Jun 2025 10:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThgDCOdfVmfUcXxOxsvJWUp7aXCyodnhqCEyoWa2agIugGMB5WEL8m1qt6cQ0",
-      "pictureSource": "Flightradar24",
-      "relatedSearch": [
-        {
-          "title": "Following the fuel: how the world tracked the B-2 diversion flights",
-          "snippet": "",
-          "url": "https://www.flightradar24.com/blog/flight-tracking-news/special-aircraft-tracking/how-the-world-tracked-the-b2-diversion-flights/",
-          "source": "Flightradar24"
-        },
-        {
-          "title": "Flight radar shows air traffic since US attacks on Iran",
-          "snippet": "",
-          "url": "https://www.yahoo.com/news/flight-radar-shows-air-traffic-154147514.html",
-          "source": "Yahoo"
-        },
-        {
-          "title": "UAE airspace is closed based on flight paths and air traffic control audio, FlightRadar says",
-          "snippet": "",
-          "url": "https://www.timesofisrael.com/liveblog_entry/uae-airspace-is-closed-based-on-flight-paths-and-air-traffic-control-audio-flightradar-says/",
-          "source": "The Times of Israel"
-        }
-      ],
+      "title": "ο καιρόσ αύριο",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 23 Jun 2025 11:00:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "qatar",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 23 Jun 2025 10:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQSoSHxOg3QGdlDj36LJ2jx-uxaA2ES0k1AS83k-GZIoC6-gMsIJJ5hrc9i0w",
-      "pictureSource": "CNN",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSR_b_amQ23tmd6qMgzk1K1Itv03wdWR0O05hJ4CbPmChTVIm4d4Vt8Lr2V1fA",
+      "pictureSource": "BBC",
       "relatedSearch": [
+        {
+          "title": "What we know about Iranian strikes on a US military base in Qatar",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/cdjxdgjpd48o",
+          "source": "BBC"
+        },
+        {
+          "title": "Iran says its carried out 'mighty and successful' attack on US bases in Qatar and Iraq",
+          "snippet": "",
+          "url": "https://news.sky.com/story/iran-says-its-carried-out-mighty-and-successful-attack-on-us-bases-in-qatar-and-iraq-13387642",
+          "source": "Sky News"
+        },
         {
           "title": "Live updates: Attack on Iranian nuclear sites thrusts US into Israel-Iran conflict",
           "snippet": "",
           "url": "https://www.cnn.com/world/live-news/israel-iran-us-strikes-06-23-25-intl-hnk",
           "source": "CNN"
-        },
-        {
-          "title": "Iran confirms missile attack on U.S. military base in Qatar",
-          "snippet": "",
-          "url": "https://www.axios.com/2025/06/23/iran-retaliation-trump-israel-war",
-          "source": "Axios"
-        },
-        {
-          "title": "Israel-Iran war live: Explosions reportedly heard in Qatar amid fears of attack on US bases",
-          "snippet": "",
-          "url": "https://www.theguardian.com/world/live/2025/jun/23/israel-iran-war-live-updates-us-trump-regime-change-middle-east-gaza-latest-news",
-          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,20 +98,20 @@
       "title": "reporter",
       "trafficCount": "100+",
       "pubDate": "Sun, 22 Jun 2025 21:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSafWCMyB1GGN_wJzOM_g6zEKQEIbNGJFqagELdah8NunIlx2TKgpa8xxxTfHI",
-      "pictureSource": "Kathimerini.com.cy",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZt2-nVYcSQlTaSMtvAhsbBWunLMN6BKKTNkatb5490Chy72HtFoR9aAavGd8",
+      "pictureSource": "www.stockwatch.com.cy",
       "relatedSearch": [
         {
-          "title": "Το Κατάρ κλείνει τον εναέριο χώρο του για λόγους ασφαλείας",
+          "title": "Πληροφορίες για επίθεση σε αμερικανική βάση στη Συρία",
           "snippet": "",
-          "url": "https://m.kathimerini.com.cy/gr/kosmos/pagkosmios-synagermos-meta-tis-epitheseis-ton-ipa-sto-iran",
-          "source": "Kathimerini.com.cy"
+          "url": "https://www.stockwatch.com.cy/el/news/plirofories-ghia-epithesi-se-amerikaniki-vasi-sti-siria",
+          "source": "www.stockwatch.com.cy"
         },
         {
-          "title": "Το Ιράν ξεκίνησε την επιχείρηση «Άγγελμα Νίκης» με στόχο αμερικανικές βάσεις σε Ιράκ-Κατάρ",
+          "title": "Eπιχείρηση «Basharat al-Fath» του Ιράν κατά ΗΠΑ σε Κατάρ-Ιράκ - Tι γνωρίζουμε",
           "snippet": "",
-          "url": "https://www.alphanews.live/international/to-iran-xekinise-tin-epicheirisi-angelma-nikis-me-stocho-amerikanikes-vaseis-se-irak-katar/",
-          "source": "AlphaNews"
+          "url": "https://www.sigmalive.com/news/international/1279935/epikhirisi-basharat-al-fath-toy-iran-kata-hpa-se-katar-irak-ti-ghnorizoyme",
+          "source": "Sigmalive"
         },
         {
           "title": "LIVE: Εκρήξεις ακούγονται στο Κατάρ–Το Ιράν εκτόξευσε πυραύλους κατά της βάσης των ΗΠΑ",
@@ -173,15 +154,9 @@
       "title": "nba",
       "trafficCount": "200+",
       "pubDate": "Sun, 22 Jun 2025 17:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQusywdDijsFUi4l3LjwlUBhHmWWQZnBHRFoSZTPnon7daE8vmfOgYrwmysCjE",
-      "pictureSource": "NBA",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvtHwUT_0GcY2u_es5scmfUl8qir7KqbadKp_W7SaRAdsQ9w6WEFavrjVlEdU",
+      "pictureSource": "ESPN",
       "relatedSearch": [
-        {
-          "title": "Pacers star Tyrese Haliburton exits Game 7 of NBA Finals with right leg injury",
-          "snippet": "",
-          "url": "https://www.nba.com/news/tyrese-haliburton-game-7-finals-injury",
-          "source": "NBA"
-        },
         {
           "title": "NBA Finals history: Game 7 matchups and stats since 1951",
           "snippet": "",
@@ -193,6 +168,12 @@
           "snippet": "",
           "url": "https://www.sportsnet.ca/nba/article/pacers-tyrese-haliburton-exits-game-7-with-apparent-injury/",
           "source": "Sportsnet.ca"
+        },
+        {
+          "title": "NBA Finals: Shai Gilgeous-Alexander guides Oklahoma City Thunder to glory",
+          "snippet": "",
+          "url": "https://www.bbc.com/sport/basketball/articles/c4gdp135vvgo",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,20 +182,20 @@
       "title": "dazn",
       "trafficCount": "100+",
       "pubDate": "Sun, 22 Jun 2025 12:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSb02JHCdMQatgXksJby9FleoK4ciBwU-XTcUrqTx8uNzBMFrBxc7YZ6AQ8tQg",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1a-9hbeybldARmLpy0DO7DNrV3roKrNI0_wAaJEWtdVFRl-Egc3ZkZ5NymIE",
+      "pictureSource": "The Telegraph",
       "relatedSearch": [
+        {
+          "title": "Club World Cup 2025: Fixtures, results, TV channel and why Chelsea are in it",
+          "snippet": "",
+          "url": "https://www.telegraph.co.uk/football/2025/06/23/fifa-club-world-cup-who-when-how-to-watch-united-states/",
+          "source": "The Telegraph"
+        },
         {
           "title": "'Stupid, stupid, stupid' - Jackson opens door for Delap",
           "snippet": "",
           "url": "https://www.bbc.com/sport/football/articles/c3en8pl22kyo",
           "source": "BBC"
-        },
-        {
-          "title": "Club World Cup results: Real Madrid pulls off win despite early red, Man City and Juventus advance",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/soccer/breaking-news/article/club-world-cup-results-real-madrid-pulls-off-win-despite-early-red-man-city-and-juventus-advance-025719543.html",
-          "source": "Yahoo Sports"
         },
         {
           "title": "Chelsea's Jackson sorry for red: 'I let you down'",
@@ -226,9 +207,9 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "real madrid vs pachuca",
-      "trafficCount": "2000+",
-      "pubDate": "Sun, 22 Jun 2025 11:20:00 -0700",
+      "title": "real madrid - pachuca",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 22 Jun 2025 11:50:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH-L0vXajGeSGoMlCOUKiVOuJLF4MoEzdQ0QhMGsdZgYNISQIfImQuXL4owPI",
       "pictureSource": "La Galerna",
       "relatedSearch": [
@@ -251,15 +232,6 @@
           "source": "OneFootball"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ρεάλ μαδρίτησ εναντίον πατσούκα",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 22 Jun 2025 11:20:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]

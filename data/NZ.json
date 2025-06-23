@@ -1,86 +1,170 @@
 {
-  "lastUpdate": "2025-06-23 17:57:25",
+  "lastUpdate": "2025-06-23 18:25:19",
   "data": [
     {
-      "title": "bbc news",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 23 Jun 2025 10:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPaxK6V-AWYPxNEiNHTp067oLxqlTG5rUaPkkOUPjgX2wuFqgvs9gnf7jtMpw",
-      "pictureSource": "BBC",
+      "title": "news",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 23 Jun 2025 11:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-DFRLllFgAeErJp6X_8dPlQfEheVuWJPZdUhfl388LNt5pV6DRDsgagWgrMY",
+      "pictureSource": "CNN",
       "relatedSearch": [
         {
-          "title": "BBC Verify Live: Debunking AI generated images of American B-2 bombers in Iran",
+          "title": "What is the Strait of Hormuz and why is it so significant?",
           "snippet": "",
-          "url": "https://www.bbc.com/news/live/c75rw1d3vwnt",
-          "source": "BBC"
+          "url": "https://www.cnn.com/2025/06/23/business/strait-of-hormuz-iran-israel-explainer-intl-hnk",
+          "source": "CNN"
         },
         {
-          "title": "Unrelated CGI Visuals Peddled As Iran Shooting Down US Fighter Jets | BOOM",
+          "title": "What's the Strait of Hormuz and how could a blockage impact fuel prices?",
           "snippet": "",
-          "url": "https://www.boomlive.in/fact-check/fake-news-visuals-iran-shooting-down-united-states-fighter-jets-cgi-simulation-game-factcheck-28860",
-          "source": "BOOM Fact Check"
+          "url": "https://www.abc.net.au/news/2025-06-23/strait-of-hormuz-oil-blockage-iran-increase-fuel-prices-aus/105449244",
+          "source": "Australian Broadcasting Corporation"
         },
         {
-          "title": "Fact Check: Don't fall for image of a B-2 bomber allegedly shot down by Iran",
+          "title": "How would an escalation in conflict in the Middle East impact New Zealand",
           "snippet": "",
-          "url": "https://www.yahoo.com/news/fact-check-dont-fall-image-231900097.html",
-          "source": "Yahoo"
+          "url": "https://www.rnz.co.nz/news/national/564879/how-would-an-escalation-in-conflict-in-the-middle-east-impact-new-zealand",
+          "source": "RNZ"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "iran",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 23 Jun 2025 10:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTxRx7xqh1bkgW-y7hClxOnwHbHVMHeqnO92vZ7binhrtxFlEjeTCq5WW-R51M",
-      "pictureSource": "The New York Times",
+      "title": "nz news",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 23 Jun 2025 10:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVWzKvXs1wvVbgvIp6RusYWHEPz3NIXjRRv5StIlkg5nZ3QQQDutKoPYdoABs",
+      "pictureSource": "NZ Herald",
       "relatedSearch": [
         {
-          "title": "Shifting Views and Misdirection: How Trump Decided to Strike Iran",
+          "title": "Audrey Young: Why NZ is slow to loudly support US strikes on Iran",
           "snippet": "",
-          "url": "https://www.nytimes.com/2025/06/22/us/politics/trump-iran-decision-strikes.html",
-          "source": "The New York Times"
+          "url": "https://www.nzherald.co.nz/nz/politics/new-zealand-hints-at-support-for-us-over-iran-audrey-young/5QTTBI7YXJGPFA3YOANVFZQ6RU/",
+          "source": "NZ Herald"
         },
         {
-          "title": "Satellite Images Suggest US Avoided Iran’s Nuclear Reactors",
+          "title": "US-Iran conflict 'extremely worrying', NZ backs diplomacy - Winston Peters",
           "snippet": "",
-          "url": "https://www.bloomberg.com/news/features/2025-06-23/satellite-images-suggest-us-avoided-iran-s-reactors",
-          "source": "Bloomberg"
+          "url": "https://www.rnz.co.nz/news/political/564847/us-iran-conflict-extremely-worrying-nz-backs-diplomacy-winston-peters",
+          "source": "RNZ"
         },
         {
-          "title": "Right Move, Wrong Team",
+          "title": "US strike on Iran creates 'opportunity', Luxon says",
           "snippet": "",
-          "url": "https://www.theatlantic.com/ideas/archive/2025/06/right-move-wrong-team/683283/",
-          "source": "The Atlantic"
+          "url": "https://www.thepost.co.nz/politics/360732030/us-strike-iran-creates-opportunity-luxon-says",
+          "source": "thepost.co.nz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "bbc news",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 23 Jun 2025 10:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQL3VREOyuDH21jJvOfuequxGntDqjhbIFQRJ65Rqsc3xQmjmTuToAbgfJMc0M",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Our sister died because of our mum's cancer conspiracy theories, say brothers",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/crenzwyvpn1o",
+          "source": "BBC"
+        },
+        {
+          "title": "Cambridge grad daughter of notorious anti-vaxxer died of cancer age 23 after refusing treatment when she 'fell for mum's conspiracy theories', brothers claim",
+          "snippet": "",
+          "url": "https://www.dailymail.co.uk/news/article-14838091/daughter-covid-nurse-kate-shemirani-died-cancer.html",
+          "source": "Daily Mail"
+        },
+        {
+          "title": "Siblings claim sister died due to mother's cancer 'conspiracy theories' as they speak out with heartbreaking message",
+          "snippet": "",
+          "url": "https://www.unilad.com/community/kate-shemirani-daughter-cancer-death-conspiracy-theories-412519-20250623",
+          "source": "UNILAD"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "bbc",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 23 Jun 2025 10:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1MXGWaA71I-OQiyV4TianSXkL-RBKOJ7_xEDY2tAYSRNJ21w7mo3jB5Hw74c",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlOAoTpIdH0mMjCkL_-miE7I91HqCKOGP87Ybohqj1aFfokO-_gnmj_aYiJAU",
+      "pictureSource": "Fox News",
       "relatedSearch": [
         {
-          "title": "Israel attacks Fordo nuclear site, as Trump floats 'regime change' after US strikes",
+          "title": "BBC presenter goes viral for correcting 'pregnant people' phrasing to 'women' during live broadcast",
           "snippet": "",
-          "url": "https://www.bbc.com/news/live/cn7ze4vmk2pt",
-          "source": "BBC"
+          "url": "https://www.foxnews.com/media/bbc-presenter-goes-viral-correcting-pregnant-people-phrasing-women-during-live-broadcast",
+          "source": "Fox News"
         },
         {
-          "title": "Alarm grows after the US inserts itself into Israel's war against Iran with strikes on nuclear sites",
+          "title": "BBC bosses back Martine Croxall over ‘pregnant people’ correction",
           "snippet": "",
-          "url": "https://apnews.com/article/israel-iran-war-nuclear-trump-bomber-news-06-22-2025-c2baca52babe915e033ae175ce8b2687",
-          "source": "AP News"
+          "url": "https://www.thetimes.com/uk/media/article/bbc-martine-croxall-pregnant-woman-6mtvmg678",
+          "source": "The Times"
         },
         {
-          "title": "Israel-Iran war live: Israel strikes Iran’s Fordow nuclear site and targets in Tehran",
+          "title": "BBC newsreader Martine Croxall changes ‘pregnant people’ to ‘women’ during live broadcast",
           "snippet": "",
-          "url": "https://www.theguardian.com/world/live/2025/jun/23/israel-iran-war-live-updates-us-trump-regime-change-middle-east-gaza-latest-news",
-          "source": "The Guardian"
+          "url": "https://www.the-independent.com/tv/news/martine-croxall-bbc-pregnant-people-women-viral-video-b2775126.html",
+          "source": "The Independent"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "flight radar",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 23 Jun 2025 10:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThgDCOdfVmfUcXxOxsvJWUp7aXCyodnhqCEyoWa2agIugGMB5WEL8m1qt6cQ0",
+      "pictureSource": "Flightradar24",
+      "relatedSearch": [
+        {
+          "title": "Following the fuel: how the world tracked the B-2 diversion flights",
+          "snippet": "",
+          "url": "https://www.flightradar24.com/blog/flight-tracking-news/special-aircraft-tracking/how-the-world-tracked-the-b2-diversion-flights/",
+          "source": "Flightradar24"
+        },
+        {
+          "title": "Global impacts of conflict in the Middle East",
+          "snippet": "",
+          "url": "https://www.smartraveller.gov.au/news-and-updates/global-impacts-conflict-middle-east",
+          "source": "Smartraveller"
+        },
+        {
+          "title": "Airlines weigh Middle East cancellations after US strikes in Iran",
+          "snippet": "",
+          "url": "https://www.reuters.com/world/europe/airlines-weigh-middle-east-cancellations-after-us-strikes-iran-strand-thousands-2025-06-23/",
+          "source": "Reuters"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "qatar airways",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 23 Jun 2025 09:50:00 -0700",
+      "picture": "",
+      "pictureSource": "Smartraveller",
+      "relatedSearch": [
+        {
+          "title": "Global impacts of conflict in the Middle East",
+          "snippet": "",
+          "url": "https://www.smartraveller.gov.au/news-and-updates/global-impacts-conflict-middle-east",
+          "source": "Smartraveller"
+        },
+        {
+          "title": "Airlines weigh Middle East cancellations after US strikes in Iran",
+          "snippet": "",
+          "url": "https://www.reuters.com/world/europe/airlines-weigh-middle-east-cancellations-after-us-strikes-iran-strand-thousands-2025-06-23/",
+          "source": "Reuters"
+        },
+        {
+          "title": "How airlines are scrambling as escalating conflicts punch holes in the air map of the world",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/06/20/travel/airlines-conflicts-flight-routes-volcanoes-intl-hnk",
+          "source": "CNN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -123,14 +207,14 @@
         {
           "title": "Iran Has an Oil Card to Play. So Does the U.S.",
           "snippet": "",
-          "url": "https://www.wsj.com/business/energy-oil/iran-has-an-oil-card-to-play-so-does-the-u-s-45340efe?gaa_at=eafs&gaa_n=ASWzDAiA4GOTBtjxgRzJcNGPuIcTi7CP_3Un2y4kw9HETTC-oc8dIhTd7Fa1&gaa_ts=6859983d&gaa_sig=n2I2_vcai0WzrSTiAtITZJA12c8OTa2bd8trSv7LJ2JlPzS-nBtDtxBHDt1FOb7lvlkgDALySd3y_4KLPz_nAQ%3D%3D",
+          "url": "https://www.wsj.com/business/energy-oil/iran-has-an-oil-card-to-play-so-does-the-u-s-45340efe?gaa_at=eafs&gaa_n=ASWzDAjBNNi1U8Pzkp--XS7REkbOjEgXeCoNZUdf7lxaet8_b84mvgQif-eb&gaa_ts=68599f08&gaa_sig=2k9arG-6HLTD4pHLTd7gRyatYTDjMqyyhsEdGJqm5ZVBviOE8ZO3f-rnbyIZ6l2Y8GO38Gwx0h8Gh21ruSt9Vg%3D%3D",
           "source": "WSJ"
         },
         {
-          "title": "Oil market awaits Iran response to US attacks. Strait of Hormuz seen unlikely to close.",
+          "title": "The Strait of Hormuz has energy markets nervous about Iran, but there are alternate routes around the chokepoint",
           "snippet": "",
-          "url": "https://www.usatoday.com/story/money/personalfinance/2025/06/23/oil-prices-gas-iran-response-strait-hormuz/84318996007/",
-          "source": "USA Today"
+          "url": "https://fortune.com/2025/06/23/strait-of-hormuz-alternate-routes-oil-prices-energy-markets-iran-us-attack-saudi-arabia-uae-pipelines/",
+          "source": "Fortune"
         },
         {
           "title": "Can Iran really shut down the Strait of Hormuz?",
@@ -142,141 +226,57 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "qatar",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 23 Jun 2025 09:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkN0JUTEBZUaxkfBltW0wXMUDda32xwrd79gdERLGlNtEhYmqcnO1t2vcWLyY",
-      "pictureSource": "The Times of Israel",
-      "relatedSearch": [
-        {
-          "title": "Qatar says no one was injured in the Iranian attack on base housing US troops",
-          "snippet": "",
-          "url": "https://www.timesofisrael.com/liveblog_entry/qatar-says-no-one-was-injured-in-the-iranian-attack-on-base-housing-us-troops/",
-          "source": "The Times of Israel"
-        },
-        {
-          "title": "Iran targets US military base in Qatar days after nuclear sites bombed: Live updates",
-          "snippet": "",
-          "url": "https://www.usatoday.com/story/news/world/2025/06/23/iran-us-conflict-live-updates/84308966007/",
-          "source": "USA Today"
-        },
-        {
-          "title": "Axios: Iran launches six missiles toward US bases in Qatar",
-          "snippet": "",
-          "url": "https://www.reuters.com/world/middle-east/axios-iran-launches-six-missiles-toward-us-bases-qatar-2025-06-23/",
-          "source": "Reuters"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "n",
+      "title": "tesla share price",
       "trafficCount": "100+",
-      "pubDate": "Mon, 23 Jun 2025 08:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmkAfBYPItDciqqs9zf1rzY18gwilKJy6ze2pnNZaBBLhUT91Mo38vNvbt6CY",
-      "pictureSource": "NBC News",
+      "pubDate": "Mon, 23 Jun 2025 09:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNQNZH1JJ-4xYWVzTAP8-oNdnOSHzt8to5-mCVnZB9fI5yrfNQyzBDFT1n4Ak",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Live updates: Trump talks regime change as Iran vows retaliation for U.S. bombing",
+          "title": "Tesla robotaxi service rolls out in 'low-key' Texas launch",
           "snippet": "",
-          "url": "https://www.nbcnews.com/world/middle-east/live-blog/live-updates-iran-top-diplomat-meets-putin-us-braces-retaliation-rcna214428",
-          "source": "NBC News"
+          "url": "https://www.bbc.com/news/articles/cjwnlje3yp1o",
+          "source": "BBC"
         },
         {
-          "title": "Trump hits back at ex-Russian leader Medvedev over nuclear threats to help Iran",
+          "title": "Tesla’s Robotaxis Are Here: What You Need to Know",
           "snippet": "",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-russia-medvedev-iran-n-word-b2775353.html",
-          "source": "The Independent"
-        },
-        {
-          "title": "Trump slams Russia's Medvedev for claiming countries will give Iran nuclear warheads",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2025/06/23/trump-iran-russia-medvedev-nuclear.html",
-          "source": "CNBC"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "c",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 23 Jun 2025 08:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkgADc_RWZmcKh3UMhm4vmH_7AxVYsd3ScgU3DHS4Jc-haSDqKWaScdJOx204",
-      "pictureSource": "CNN",
-      "relatedSearch": [
-        {
-          "title": "First images from the largest camera ever built reveal millions of galaxies",
-          "snippet": "",
-          "url": "https://www.cnn.com/2025/06/23/science/vera-rubin-observatory-first-images",
-          "source": "CNN"
-        },
-        {
-          "title": "Vera C Rubin Observatory reveals 1st stunning images of the cosmos. Scientists are 'beyond excited about what's coming'",
-          "snippet": "",
-          "url": "https://www.space.com/astronomy/vera-c-rubin-observatory-reveals-1st-stunning-images-of-the-cosmos-scientists-are-beyond-excited-about-whats-coming",
-          "source": "Space"
-        },
-        {
-          "title": "World’s Largest Digital Camera Snaps Its First Photos of the Universe",
-          "snippet": "",
-          "url": "https://www.wsj.com/science/space-astronomy/worlds-largest-digital-camera-snaps-its-first-photos-of-the-universe-68099904?gaa_at=eafs&gaa_n=ASWzDAj2Wx0tMtqIhmlhtsc8TF2ZrvAObe-sSAm7PET664jmi8IvNdA3FKgw&gaa_ts=68599855&gaa_sig=6e8xzFzj2-JNAnD9nFaXO58P0dK710CxqAFwgISnaK1wDsMtmowEAfNmErVbH0MVNYhurkK8c788Cc3MkmnEtA%3D%3D",
+          "url": "https://www.wsj.com/business/autos/tesla-robotaxi-explained-e3db95b8",
           "source": "WSJ"
+        },
+        {
+          "title": "Would you hail a 'robotaxi'? Musk bets cabs will give Tesla a lift",
+          "snippet": "",
+          "url": "https://www.stuff.co.nz/motoring/360732135/would-you-hail-robotaxi-musk-bets-cabs-will-give-tesla-lift",
+          "source": "Stuff"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "e",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 23 Jun 2025 08:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsLeBtMiGwyDXkefMXo7Ak6muwMeMMQpbG2Xqo7GlK6uziT9dP8sr05GMF4tk",
-      "pictureSource": "Rough Draft Atlanta",
+      "title": "qatar",
+      "trafficCount": "1000+",
+      "pubDate": "Mon, 23 Jun 2025 09:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSg6KHK-XXS4qGZdNuQi4vD7Z8f2Kbyxa6mLN-Z8oF3-0lVfxW22GRYtD2DNcQ",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
         {
-          "title": "Take 5 with fine art photographer Richard E. Watson",
+          "title": "Israel-Iran war live: Explosions reportedly heard in Qatar amid fears of attack on US bases",
           "snippet": "",
-          "url": "https://roughdraftatlanta.com/2025/06/23/watson-art-photography-legacy/",
-          "source": "Rough Draft Atlanta"
+          "url": "https://www.theguardian.com/world/live/2025/jun/23/israel-iran-war-live-updates-us-trump-regime-change-middle-east-gaza-latest-news",
+          "source": "The Guardian"
         },
         {
-          "title": "Why scooters and e-bikes are the newest travel hazard you didn’t see coming",
+          "title": "What we know about Iranian strikes on a US military base in Qatar",
           "snippet": "",
-          "url": "https://www.usatoday.com/story/travel/columnist/2025/06/23/why-cities-rethinking-scooters/84284420007/",
-          "source": "USA Today"
+          "url": "https://www.bbc.com/news/articles/cdjxdgjpd48o",
+          "source": "BBC"
         },
         {
-          "title": "Crushed skulls, missing helmets and data blind spots: E-scooter trauma alarming surgeons",
+          "title": "Alarm grows after the US inserts itself into Israel's war against Iran with strikes on nuclear sites",
           "snippet": "",
-          "url": "https://www.ausdoc.com.au/news/crushed-skulls-missing-helmets-and-data-blind-spots-e-scooter-trauma-alarming-surgeons/",
-          "source": "AusDoc"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "asb cuts home loan rates",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 23 Jun 2025 01:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRScH0iQvb4PmJJFPU_Xm5JsSpX6q8ysANs_WYptblf6ePOVXXeM70kQqxfhWA",
-      "pictureSource": "NZ Herald",
-      "relatedSearch": [
-        {
-          "title": "$12,500 a year in savings? ASB cuts rates to match rivals",
-          "snippet": "",
-          "url": "https://www.nzherald.co.nz/business/asb-cuts-mortgage-rates-to-match-rival-five-big-banks/TSPWSQNKFZC3ZD56ENJKQPN6HM/",
-          "source": "NZ Herald"
-        },
-        {
-          "title": "Was this last major bank interest rate cut for a while?",
-          "snippet": "",
-          "url": "https://www.rnz.co.nz/news/national/564884/was-this-last-major-bank-interest-rate-cut-for-a-while",
-          "source": "RNZ"
-        },
-        {
-          "title": "Another bank cuts home loan interest rates",
-          "snippet": "",
-          "url": "https://www.1news.co.nz/2025/06/23/another-bank-cuts-home-loan-interest-rates/",
-          "source": "1News"
+          "url": "https://apnews.com/article/israel-iran-war-nuclear-trump-bomber-news-06-22-2025-c2baca52babe915e033ae175ce8b2687",
+          "source": "AP News"
         }
       ],
       "link": "https://imtaqin.id/"

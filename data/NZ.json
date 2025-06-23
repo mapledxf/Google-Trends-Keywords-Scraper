@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2025-06-23 18:49:27",
+  "lastUpdate": "2025-06-23 19:00:06",
   "data": [
     {
       "title": "news",
       "trafficCount": "500+",
       "pubDate": "Mon, 23 Jun 2025 11:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaIb6nZJXlOdUpecN6TrcL96xwKB3EpYVCdhOXqQzGAI5EvCX7s6a7pEUt94",
-      "pictureSource": "CNBC",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQq1r981Gc31U7MMe07RdR7z1v4z9bGRYCJ88_wonP-h0o-mflszX9FrqO6DPc",
+      "pictureSource": "BBC",
       "relatedSearch": [
+        {
+          "title": "What is the Strait of Hormuz and why does it matter?",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c78n6p09pzno",
+          "source": "BBC"
+        },
         {
           "title": "Oil falls 1% as investors dismiss risk to Middle East supplies, Trump demands lower prices",
           "snippet": "",
@@ -15,16 +21,10 @@
           "source": "CNBC"
         },
         {
-          "title": "What is the Strait of Hormuz and why is it so significant?",
+          "title": "How would an escalation in conflict in the Middle East impact New Zealand",
           "snippet": "",
-          "url": "https://www.cnn.com/2025/06/23/business/strait-of-hormuz-iran-israel-explainer-intl-hnk",
-          "source": "CNN"
-        },
-        {
-          "title": "Iran eyes closure of Strait of Hormuz, a crucial choke point for the world’s oil supply",
-          "snippet": "",
-          "url": "https://www.washingtonpost.com/climate-environment/2025/06/22/oil-prices-iran-strait-hormuz/",
-          "source": "The Washington Post"
+          "url": "https://www.rnz.co.nz/news/national/564879/how-would-an-escalation-in-conflict-in-the-middle-east-impact-new-zealand",
+          "source": "RNZ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,8 +86,36 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "flight radar",
+      "title": "s&p 500",
       "trafficCount": "100+",
+      "pubDate": "Mon, 23 Jun 2025 10:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbd7EsihJ_aMnZfw0YHqbLrtZiIKDkXCiRz3Hcm6P8Pde_IRtl9XINUpZJo7k",
+      "pictureSource": "Yahoo Finance",
+      "relatedSearch": [
+        {
+          "title": "Investors Heavily Search Albemarle Corporation (ALB): Here is What You Need to Know",
+          "snippet": "",
+          "url": "https://finance.yahoo.com/news/investors-heavily-search-albemarle-corporation-130003313.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Is Albemarle Stock Underperforming the S&P 500?",
+          "snippet": "",
+          "url": "https://www.msn.com/en-us/money/savingandinvesting/is-albemarle-stock-underperforming-the-s-p-500/ar-AA1HfFKE",
+          "source": "MSN"
+        },
+        {
+          "title": "Albemarle's Lithium Reset: Strong Buy Amid Cyclical Downturn And Structural Rebirth",
+          "snippet": "",
+          "url": "https://seekingalpha.com/article/4795955-albemarle-stock-strong-buy-amid-cyclical-downturn-structural-rebirth",
+          "source": "Seeking Alpha"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "flight radar",
+      "trafficCount": "200+",
       "pubDate": "Mon, 23 Jun 2025 10:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThgDCOdfVmfUcXxOxsvJWUp7aXCyodnhqCEyoWa2agIugGMB5WEL8m1qt6cQ0",
       "pictureSource": "Flightradar24",
@@ -207,20 +235,20 @@
         {
           "title": "Iran Has an Oil Card to Play. So Does the U.S.",
           "snippet": "",
-          "url": "https://www.wsj.com/business/energy-oil/iran-has-an-oil-card-to-play-so-does-the-u-s-45340efe?gaa_at=eafs&gaa_n=ASWzDAjg3Z6dJCHmpfQmmnjAJxNwH6E9HCO8mJlQBs6o6iMqevY8qqNW2f8U&gaa_ts=6859a4d8&gaa_sig=6qzyaJdteM9RY7guzdRL-qSROxbp_n7dQD3D2CeU-tzuPsQu5HZiD9XI8LMFERGUZRaTBnL4IhnlEEp8LOUgWQ%3D%3D",
+          "url": "https://www.wsj.com/business/energy-oil/iran-has-an-oil-card-to-play-so-does-the-u-s-45340efe?gaa_at=eafs&gaa_n=ASWzDAjblCJ-e-6FyQU2J_CG1Bbo9ocOY_G3cWg9Go7owQeeGjXySjzwf-C7&gaa_ts=6859a7b9&gaa_sig=zmElx7WIqmMBZCuh-6jgSBtPq0_XDMiqh81DNZVRfnu9vhaA7pR4-0ZxBAIwhATUN-ShqXLoJ-DDx1e8MHfr3w%3D%3D",
           "source": "WSJ"
         },
         {
-          "title": "Tankers U-turn, zig-zag, pause around Strait of Hormuz",
+          "title": "What does the widening military conflict in Iran mean for oil prices? Here's what the experts say.",
           "snippet": "",
-          "url": "https://www.reuters.com/world/china/tankers-u-turn-zig-zag-pause-around-strait-hormuz-2025-06-23/",
-          "source": "Reuters"
+          "url": "https://www.cbsnews.com/news/oil-price-prices-iran-military-strike-crude-gasoline-cbs-news-explains/",
+          "source": "CBS News"
         },
         {
-          "title": "Can Iran really shut down the Strait of Hormuz?",
+          "title": "What Is the Strait of Hormuz, and Why Is It Important?",
           "snippet": "",
-          "url": "https://www.aljazeera.com/news/2025/6/23/can-iran-really-shut-down-the-strait-of-hormuz",
-          "source": "Al Jazeera"
+          "url": "https://www.nytimes.com/2025/06/23/world/middleeast/strait-hormuz-what-why-iran.html",
+          "source": "The New York Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.stuff.co.nz/motoring/360732135/would-you-hail-robotaxi-musk-bets-cabs-will-give-tesla-lift",
           "source": "Stuff"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "qatar",
-      "trafficCount": "2000+",
-      "pubDate": "Mon, 23 Jun 2025 09:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSR_b_amQ23tmd6qMgzk1K1Itv03wdWR0O05hJ4CbPmChTVIm4d4Vt8Lr2V1fA",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "What we know about Iranian strikes on a US military base in Qatar",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/cdjxdgjpd48o",
-          "source": "BBC"
-        },
-        {
-          "title": "Videos show missiles over Qatar as Iran attacks US-run military base",
-          "snippet": "",
-          "url": "https://www.cnn.com/2025/06/23/world/video/iran-targets-us-run-airbases-doha-qatar-digvid",
-          "source": "CNN"
-        },
-        {
-          "title": "LIVE: Iran launches missile attack on US’s Al Udeid Air Base in Qatar",
-          "snippet": "",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/6/23/live-iran-vows-to-respond-to-us-attacks-trump-hints-at-regime-change",
-          "source": "Al Jazeera"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-06-24 04:25:15",
+  "lastUpdate": "2025-06-24 04:48:36",
   "data": [
-    {
-      "title": "прогноз погоди київ",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 23 Jun 2025 21:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTECWTWGgu2BWcHSmk_J2MOIWxA8llhAp3_MHZsxygER1pSv5ABa_8-N1rAz7Q",
-      "pictureSource": "Патріот Донбасу",
-      "relatedSearch": [
-        {
-          "title": "Спека повертається: прогноз погоди в Україні від синоптиків на 24 червня",
-          "snippet": "",
-          "url": "https://donpatriot.news/speka-povertayetsya-prognoz-pogody-v-ukrayini-vid-synoptykiv-na-24-chervnya",
-          "source": "Патріот Донбасу"
-        },
-        {
-          "title": "Україну накриють дощі та грози",
-          "snippet": "",
-          "url": "https://ua.korrespondent.net/ukraine/4792903-ukrainu-nakryuit-doschi-ta-hrozy",
-          "source": "Korrespondent.net"
-        },
-        {
-          "title": "В Україну йде спека до +37°: синоптик назвав області, які розжарить найбільше",
-          "snippet": "",
-          "url": "https://www.unian.ua/pogoda/news/v-ukrajinu-yde-speka-do-370-sinoptik-nazvav-oblasti-yaki-rozzharit-naybilshe-13046424.html",
-          "source": "УНІАН"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "погода вінниця",
       "trafficCount": "500+",
@@ -39,8 +11,36 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "клубний чемпіонат світу",
+      "title": "синоптик вінниця",
       "trafficCount": "200+",
+      "pubDate": "Mon, 23 Jun 2025 20:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAOzN6pvjJL_uoDLgiKQCOZGZbXuDLB1htuQzR3M1tkP-l286C75Qxbi-q3xk",
+      "pictureSource": "Українські Національні Новини",
+      "relatedSearch": [
+        {
+          "title": "Україну накриють дощі та грози: синоптики дали прогноз на 24 червня",
+          "snippet": "",
+          "url": "https://unn.ua/news/ukrainu-nakryiut-doshchi-ta-hrozy-synoptyky-daly-prohnoz-na-24-chervnia",
+          "source": "Українські Національні Новини"
+        },
+        {
+          "title": "Яка погода очікується 24 червня: синоптики оновили прогноз — мапа",
+          "snippet": "",
+          "url": "https://tsn.ua/ukrayina/iaka-pohoda-ochikuyetsia-24-chervnia-synoptyky-onovyly-prohnoz-mapa-2855801.html",
+          "source": "ТСН"
+        },
+        {
+          "title": "Спека повертається: прогноз погоди в Україні від синоптиків на 24 червня",
+          "snippet": "",
+          "url": "https://donpatriot.news/speka-povertayetsya-prognoz-pogody-v-ukrayini-vid-synoptykiv-na-24-chervnya",
+          "source": "Патріот Донбасу"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "клубний чемпіонат світу",
+      "trafficCount": "500+",
       "pubDate": "Mon, 23 Jun 2025 20:30:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwXMpnxlkACd-Zu1g4uKViO8-6l_cbUZI74GPGpQCuP6ta2-E6MSpcDMA1qcM",
       "pictureSource": "Champion.com.ua",
@@ -52,10 +52,10 @@
           "source": "Champion.com.ua"
         },
         {
-          "title": "Драматична розв'язка в останньому турі КЧС-2025: огляди матчів ПСЖ та \"Атлетіко\"",
+          "title": "Атлетіко завдяки Грізманну здобув марну перемогу над Ботафогу – мадридці вилетіли з Клубного ЧС-2025 — Футбол 24",
           "snippet": "",
-          "url": "https://suspilne.media/sport/1049895-dramaticna-rozvazka-v-ostannomu-turi-kcs-2025-ogladi-matciv-psz-ta-atletiko/",
-          "source": "Суспільне | Новини"
+          "url": "https://football24.ua/atletiko_zavdyaki_grizmannu_zdobuv_marnu_peremogu_nad_botafogu__madridtsi_viletili_z_klubnogo_chs_2025_n883893/",
+          "source": "Футбол 24"
         },
         {
           "title": "Атлетіко дарує ПСЖ перше місце в групі та залишає Клубний чемпіонат світу",
@@ -96,7 +96,7 @@
     },
     {
       "title": "яке сьогодні свято",
-      "trafficCount": "2000+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 23 Jun 2025 20:10:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4RJVThEW4k7oqaUGh13N2Otdyxuw3wckQxtcTThDndqRbdZeygxHiP0smMQM",
       "pictureSource": "УНІАН",
@@ -114,10 +114,10 @@
           "source": "ТСН"
         },
         {
-          "title": "Народження св. Йоана Хрестителя",
+          "title": "Яке церковне свято у вівторок, 24 червня: чому сьогодні не можна підходити до водойм",
           "snippet": "",
-          "url": "https://credo.pro/2025/06/65130",
-          "source": "CREDO.pro"
+          "url": "https://24tv.ua/lifestyle24/rizdvo-ivana-predtechi-24-chervnya-2025-yake-sogodni-svyato-shho_n2853507",
+          "source": "24 Канал"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -151,9 +151,9 @@
           "source": "Sport.ua"
         },
         {
-          "title": "Порту – Аль-Ахли. Где и когда смотреть онлайн LIVE прямую видеотрансляцию матча КЧС",
+          "title": "КЧМ. Порту – Аль-Ахли 4:4. Эффектный вылет команд из турнира",
           "snippet": "",
-          "url": "https://www.ua-football.com/foreign/club_wc/1750670292-portu-al-ahli-gde-i-kogda-smotret-onlayn-live-pryamuyu-videotranslyaciyu-matcha-kchs.html",
+          "url": "https://www.ua-football.com/foreign/club_wc/1750738199-kchm-portu-al-ahli-4-4-yeffektnyy-vylet-komand-iz-turnira.html",
           "source": "UA-Football"
         }
       ],
@@ -229,16 +229,16 @@
           "source": "The New York Times"
         },
         {
-          "title": "What influences crude oil more? US bombs or Iran's silent allies",
-          "snippet": "",
-          "url": "https://www.reuters.com/markets/commodities/what-influences-crude-oil-more-us-bombs-or-irans-silent-allies-2025-06-24/",
-          "source": "Reuters"
-        },
-        {
           "title": "US asks China to stop Iran from closing Strait of Hormuz",
           "snippet": "",
           "url": "https://www.bbc.com/news/articles/c056pyv723vo",
           "source": "BBC"
+        },
+        {
+          "title": "What influences crude oil more? US bombs or Iran's silent allies",
+          "snippet": "",
+          "url": "https://www.reuters.com/markets/commodities/what-influences-crude-oil-more-us-bombs-or-irans-silent-allies-2025-06-24/",
+          "source": "Reuters"
         }
       ],
       "link": "https://imtaqin.id/"

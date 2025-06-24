@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-06-24 07:49:12",
+  "lastUpdate": "2025-06-24 07:57:00",
   "data": [
     {
       "title": "渋川清彦",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 24 Jun 2025 00:30:00 -0700",
       "picture": "",
       "pictureSource": "",
@@ -14,29 +14,48 @@
       "title": "五日市 火事",
       "trafficCount": "200+",
       "pubDate": "Tue, 24 Jun 2025 00:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdDYdrhvUkVubwN0kzBYF7Cf7NF4FYdxgvJV2cmLG661VHu-TH1Ah_0k5u0UE",
+      "pictureSource": "中国新聞デジタル",
+      "relatedSearch": [
+        {
+          "title": "【火事・続報】広島市佐伯区の民家から出火、消火活動続く",
+          "snippet": "",
+          "url": "https://www.chugoku-np.co.jp/articles/-/665171",
+          "source": "中国新聞デジタル"
+        },
+        {
+          "title": "広島 佐伯区で火事 ヘリ映像｜NHK NEWS WEB",
+          "snippet": "",
+          "url": "https://www3.nhk.or.jp/news/realtime/rt0011810.html",
+          "source": "NHK"
+        },
+        {
+          "title": "【速報】「自宅から火が出た」広島市佐伯区の住宅街で火災 消防車など19台が出動し消火活動（RCC中国放送）",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/5179871f4112b49ec17ad9873d113965d4fe66b9",
+          "source": "Yahoo!ニュース"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "鹿児島",
       "trafficCount": "5000+",
       "pubDate": "Tue, 24 Jun 2025 00:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoKlyex_Sx13TAW-Q4paEd7pc2HwWnLBM6pLWqoaeM21lzfanMwg1xERnxhDo",
-      "pictureSource": "Yahoo!ニュース",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSP-4vYodRATYJekzEWeM-vAWoAUMJUddA8B2wPtWJarvJ1Hi0g7bD3vJeRToA",
+      "pictureSource": "ウェザーニュース",
       "relatedSearch": [
         {
-          "title": "トカラ列島近海で震度1以上の地震327回観測 最大震度4も 気象庁（テレビ朝日系（ANN））",
+          "title": "鹿児島県トカラ列島近海でM5.0の地震 十島村で震度4 津波の心配なし",
           "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/78d925d35d287dc011f732733098fb675bd42299",
-          "source": "Yahoo!ニュース"
+          "url": "https://weathernews.jp/news/202506/241604quake/",
+          "source": "ウェザーニュース"
         },
         {
-          "title": "悪石島でまた震度4 鹿児島、トカラ近海が震源",
+          "title": "震度４関連 十島村役場「被害情報なし」",
           "snippet": "",
-          "url": "https://www.hokkaido-np.co.jp/article/1177301/",
-          "source": "北海道新聞デジタル"
+          "url": "https://www3.nhk.or.jp/lnews/kagoshima/20250624/5050031212.html",
+          "source": "NHK"
         },
         {
           "title": "お悔やみ・島根６月２３日（市町村届け出）",

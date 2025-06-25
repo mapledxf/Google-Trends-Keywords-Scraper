@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-25 17:26:20",
+  "lastUpdate": "2025-06-25 17:42:45",
   "data": [
     {
       "title": "bbva",
@@ -61,9 +61,15 @@
       "title": "yahoo",
       "trafficCount": "100+",
       "pubDate": "Wed, 25 Jun 2025 05:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfL_ZDHZHiE7Cr4h3ShXjvD2jORIxcDK0HrUbjERGuH5t4p2rKm7vqhwVuW4Y",
-      "pictureSource": "Yahoo Finance",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnwi5ia_5b6Rd7A9uLZWHjqC2ZGGBFtm7BlzxFsZCH-nY2X0hJfyn60gfBZE4",
+      "pictureSource": "WSJ",
       "relatedSearch": [
+        {
+          "title": "Stock Market Today: S&P 500, Nasdaq Rise; Oil Prices Edge Up After Three-Day Slide — Live Updates",
+          "snippet": "",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-25-2025?gaa_at=eafs&gaa_n=ASWzDAge3-0DST9UAOrX08y4dEH_33N0tM4xxe7vtynsmA_JYssstCKpOOUb&gaa_ts=685c3899&gaa_sig=O4D40MZ6bCDX6biQCO0o4q1LiHE13n1UpP9dyD3HXE7cXnJx8bWk7Gl1OCf4QlBz6Sp4rzHCZvYtplTtuGfaIg%3D%3D",
+          "source": "WSJ"
+        },
         {
           "title": "Stock market today: Nasdaq leads stocks higher with S&P 500 record high in reach",
           "snippet": "",
@@ -75,12 +81,6 @@
           "snippet": "",
           "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p500-eyes-record-dow-nasadq-steady-after-rally-powell-testimony-due",
           "source": "MarketWatch"
-        },
-        {
-          "title": "S&P 500 rises slightly as index approaches record high: Live updates",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2025/06/24/stock-market-today-live-updates.html",
-          "source": "CNBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +127,16 @@
           "source": "NBC10 Philadelphia"
         },
         {
-          "title": "Heat wave 2025: Doctors warn of dangers as temps rise around Philadelphia region",
-          "snippet": "",
-          "url": "https://6abc.com/post/heat-wave-2025-doctors-warn-dangers-temps-rise-around-philadelphia-region/16838698/",
-          "source": "6abc Philadelphia"
-        },
-        {
           "title": "Philadelphia region faces record-breaking temperatures",
           "snippet": "",
           "url": "https://whyy.org/articles/philadelphia-extreme-heat-warning-temperature/",
           "source": "WHYY"
+        },
+        {
+          "title": "Heat wave 2025: Doctors warn of dangers as temps rise around Philadelphia region",
+          "snippet": "",
+          "url": "https://6abc.com/post/heat-wave-2025-doctors-warn-dangers-temps-rise-around-philadelphia-region/16838698/",
+          "source": "6abc Philadelphia"
         }
       ],
       "link": "https://imtaqin.id/"

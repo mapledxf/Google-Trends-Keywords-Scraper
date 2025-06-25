@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-06-25 04:02:36",
+  "lastUpdate": "2025-06-25 04:37:25",
   "data": [
+    {
+      "title": "weather",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 24 Jun 2025 21:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ1TvZTTZ2YhdDePweTpIfF4HaBPWonYg8ak3pL8Z5nuSE75QfxkUBCbm5aAt8",
+      "pictureSource": "Cape Gazette",
+      "relatedSearch": [
+        {
+          "title": "Cooling stations open for public relief thru June 25",
+          "snippet": "",
+          "url": "https://www.capegazette.com/article/cooling-stations-open-public-relief-thru-june-25/292868",
+          "source": "Cape Gazette"
+        },
+        {
+          "title": "Dangerous heat wave persists in Sussex County through Wednesday",
+          "snippet": "",
+          "url": "https://www.coasttv.com/weather/dangerous-heat-wave-persists-in-sussex-county-through-wednesday/article_e463a338-286b-4342-b641-17f5933e98f5.html",
+          "source": "CoastTV"
+        },
+        {
+          "title": "City News",
+          "snippet": "",
+          "url": "https://www.wilmingtonde.gov/Home/Components/News/News/7291/225",
+          "source": "Wilmington.gov"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "зеленский",
       "trafficCount": "100+",
@@ -31,7 +59,7 @@
     },
     {
       "title": "день моряка 2025",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 24 Jun 2025 19:10:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrRIVUmg7ZMaM1yNmfaqA82Rro9G8zZby6Hue07p-ivluGiGvq8ID40ULzNn4",
       "pictureSource": "URA.RU",
@@ -89,15 +117,9 @@
       "title": "vl.ru",
       "trafficCount": "100+",
       "pubDate": "Tue, 24 Jun 2025 18:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5X2bMwGyv19ssO6ZK8lUSteDm0GcfObI3hQMhOTTOZSLIY8MZJvlD8P9oFQw",
-      "pictureSource": "Новости Владивостока на VL.ru",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAW0paa0v_6h26CqyRoajkPElokifXgf4BnYJmiPKFUiD0Ml3hALuHfuj1o6U",
+      "pictureSource": "Deita.ru",
       "relatedSearch": [
-        {
-          "title": "Несколько массовых отключений оставили более 250 адресов во Владивостоке без электричества",
-          "snippet": "",
-          "url": "https://www.newsvl.ru/vlad/2025/06/25/232397/",
-          "source": "Новости Владивостока на VL.ru"
-        },
         {
           "title": "Без света сидят приморцы",
           "snippet": "",
@@ -109,6 +131,12 @@
           "snippet": "",
           "url": "https://nsn.fm/regions-of-russia/v-primore-75-tysyachi-chelovek-ostalis-bez-elektrichestva",
           "source": "Национальная Служба Новостей - НСН"
+        },
+        {
+          "title": "Без электричества останутся приморцы в начале недели",
+          "snippet": "",
+          "url": "https://otvprim.tv/news/zhkkh/bez_elektrichestva_ostanutsya_primortsy_v_nachale_nedeli_/",
+          "source": "Общественное телевидение Приморья"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -170,34 +198,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "чита ру",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 24 Jun 2025 17:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQoZIfEF8sLnxhYMF1AnDpC47Lx5Pcg3kbG6hT9r-EcREq0soRGiJqIPIG4fc",
-      "pictureSource": "www.chita.ru",
-      "relatedSearch": [
-        {
-          "title": "«Впервые так радовал град». Льдинки размером с ранетку осыпали поселок в Забайкалье",
-          "snippet": "",
-          "url": "https://www.chita.ru/text/ecology/2025/06/25/75632771/",
-          "source": "www.chita.ru"
-        },
-        {
-          "title": "В поселке под Читой пять дней продолжается лесной пожар. Там горит более 2500 гектаров леса",
-          "snippet": "",
-          "url": "https://meduza.io/news/2025/06/24/v-poselke-pod-chitoy-pyat-dney-prodolzhaetsya-lesnoy-pozhar-tam-gorit-bolee-2500-gektarov-lesa",
-          "source": "Meduza"
-        },
-        {
-          "title": "В Забайкалье лесной пожар может перекинуться на пригородный посёлок",
-          "snippet": "",
-          "url": "https://www.baikal-daily.ru/news/20/501932/",
-          "source": "Байкал-Daily"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "аврора",
       "trafficCount": "200+",
       "pubDate": "Tue, 24 Jun 2025 17:30:00 -0700",
@@ -226,57 +226,57 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "раунтри",
+      "title": "чита ру",
       "trafficCount": "200+",
-      "pubDate": "Tue, 24 Jun 2025 17:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThn2B60VsbVdH2DZhNUGD5eg3-APBsm44SfyHyyREbOtJ-l56Z6p8BNNFE2iM",
-      "pictureSource": "Sportbox",
+      "pubDate": "Tue, 24 Jun 2025 17:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQoZIfEF8sLnxhYMF1AnDpC47Lx5Pcg3kbG6hT9r-EcREq0soRGiJqIPIG4fc",
+      "pictureSource": "www.chita.ru",
       "relatedSearch": [
         {
-          "title": "Финальный заплыв 100 метров баттерфляем у мужчин (видео). Кубок России. Плавание",
+          "title": "«Впервые так радовал град». Льдинки размером с ранетку осыпали поселок в Забайкалье",
           "snippet": "",
-          "url": "https://news.sportbox.ru/Vidy_sporta/plavanie/spbvideo_NI2216439_clip_Finalnyj_zaplyv_100_m_batterflajem_u_muzhchin_video_Kubok_Rossii_Plavanije",
-          "source": "Sportbox"
+          "url": "https://www.chita.ru/text/ecology/2025/06/25/75632771/",
+          "source": "www.chita.ru"
         },
         {
-          "title": "«Как событие турнир UFC в Баку удался. Лига вернулась в СНГ, была атмосфера праздника» — вице‑президент АСА",
+          "title": "В поселке под Читой пять дней продолжается лесной пожар. Там горит более 2500 гектаров леса",
           "snippet": "",
-          "url": "https://matchtv.ru/edinoborstva/ufc/matchtvnews_NI2216114_Kak_sobytije_turnir_UFC_v_Baku_udalsa_Liga_vernulas_v_SNG_byla_atmosfera_prazdnika__viceprezident_ASA",
-          "source": "Матч ТВ"
+          "url": "https://meduza.io/news/2025/06/24/v-poselke-pod-chitoy-pyat-dney-prodolzhaetsya-lesnoy-pozhar-tam-gorit-bolee-2500-gektarov-lesa",
+          "source": "Meduza"
         },
         {
-          "title": "Халил Раунтри рассказал, как травма помогла ему победить Джамала Хилла",
+          "title": "В Забайкалье лесной пожар может перекинуться на пригородный посёлок",
           "snippet": "",
-          "url": "https://allboxing.ru/news/20250624-0248/halil-rauntri-rasskazal-kak-travma-pomogla-emu-pobedit-dzhamala-hilla",
-          "source": "AllBoxing.ru"
+          "url": "https://www.baikal-daily.ru/news/20/501932/",
+          "source": "Байкал-Daily"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "ирана",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 24 Jun 2025 17:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsz9ayNQwEO35iEe-vrzmfRJuL4AANn9sdczWxGwknAuYD_8z8HKlcGqshg5c",
-      "pictureSource": "BBC",
+      "title": "25 июня",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 24 Jun 2025 17:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrad7B_9xLYtKeyt5c2euRMjF-l2YRVWc_BOvzJ3-HTFl8r8zhP8r-Oam2WEQ",
+      "pictureSource": "Леди Mail",
       "relatedSearch": [
         {
-          "title": "Перемирие между Израилем и Ираном: Трамп празднует победу, но вопросы остаются",
+          "title": "Новолуние в Раке 25 июня 2025 года: событие, которое изменит жизнь четырех знаков зодиака",
           "snippet": "",
-          "url": "https://www.bbc.com/russian/articles/c3w48wpe3v4o",
-          "source": "BBC"
+          "url": "https://lady.mail.ru/article/566675-novolunie-v-rake-25-iyunya-2025-goda-sobytie-kotoroe-izmenit-zhizn-4-znakov-zodiaka/",
+          "source": "Леди Mail"
         },
         {
-          "title": "NBC News: власти Израиля удивились резкой критике Трампа после сообщений о нарушении перемирия с Ираном",
+          "title": "Гороскоп по дате рождения на день – 25 июня: Ракам – поворотный момент, Львам – светлая полоса",
           "snippet": "",
-          "url": "https://meduza.io/news/2025/06/24/nbc-news-vlasti-izrailya-byli-udivleny-rezkoy-kritikoy-trampa-posle-soobscheniy-o-narushenii-peremiriya-s-iranom",
-          "source": "Meduza"
+          "url": "https://izhlife.ru/psychology/goroskop-po-date-rozhdeniya-na-den-25-iyunya-rakam-povorotnyy-moment-lvam-svetlaya-polosa.html",
+          "source": "Izhlife.ru"
         },
         {
-          "title": "Трамп заявил о завершении ирано-израильского конфликта. Еженедельный обзор валют",
+          "title": "Щедрый дар Вселенной: какие сюрпризы обещает Пентакль Викканского Оракула в Новолуние",
           "snippet": "",
-          "url": "https://finance.mail.ru/2025-06-24/tramp-zayavil-o-zavershenii-irano-izrailskogo-konflikta-ezhenedelnyj-obzor-valyutrezhi-66718466/",
-          "source": "Финансы Mail"
+          "url": "https://primamedia.ru/news/2128038/",
+          "source": "PrimaMedia.ru"
         }
       ],
       "link": "https://imtaqin.id/"

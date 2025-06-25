@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-25 05:50:24",
+  "lastUpdate": "2025-06-25 05:58:13",
   "data": [
     {
       "title": "南海トラフ",
@@ -76,9 +76,37 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "トカラ列島近海",
-      "trafficCount": "5000+",
-      "pubDate": "Tue, 24 Jun 2025 22:00:00 -0700",
+      "title": "地震",
+      "trafficCount": "20000+",
+      "pubDate": "Tue, 24 Jun 2025 21:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhcEa0fpvv5JG3_d0iLFrgmzYdlWixhkoXuR4rAjwTiITcRt7VVA-kehB706Y",
+      "pictureSource": "Yahoo!ニュース",
+      "relatedSearch": [
+        {
+          "title": "【速報】関東で最大震度4の地震 東京、千葉、埼玉、茨城など首都圏で広く揺れる 震源は茨城県沖 M4．3（千葉日報オンライン）",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/5603a70db2eb2c6b4915b3b9afa5609112b5a2f2",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "茨城県で震度４",
+          "snippet": "",
+          "url": "https://www.oita-press.co.jp/1002000000/2025/06/25/NP2025062501000833",
+          "source": "大分合同新聞"
+        },
+        {
+          "title": "茨城県で震度4の地震　津波の心配なし(気象予報士 日直主任 2025年06月25日)",
+          "snippet": "",
+          "url": "https://tenki.jp/forecaster/deskpart/2025/06/25/34300.html",
+          "source": "tenki.jp"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "地震速報",
+      "trafficCount": "20000+",
+      "pubDate": "Tue, 24 Jun 2025 21:50:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6xPTooQSXy7ucmZOSIVjcgIoMC4eEDQmj7jX5UUbl6xi74zWAWGFNR2sh5PI",
       "pictureSource": "ウェザーニュース",
       "relatedSearch": [
@@ -89,9 +117,9 @@
           "source": "ウェザーニュース"
         },
         {
-          "title": "鹿児島県・トカラ列島近海の地震、25日も相次ぐ…震度1～4の揺れが計405回発生（読売新聞オンライン）",
+          "title": "鹿児島県で最大震度1の地震 鹿児島県・鹿児島十島村（TBS NEWS DIG Powered by JNN）",
           "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/ac958a2d00547a60e256e8de56d0b84d79bddd4a",
+          "url": "https://news.yahoo.co.jp/articles/53dbbab3f321f1001a04459303b9b85b50ec87e7",
           "source": "Yahoo!ニュース"
         },
         {
@@ -99,34 +127,6 @@
           "snippet": "",
           "url": "https://newsdig.tbs.co.jp/articles/mbc/2001398?display=1",
           "source": "TBS NEWS DIG"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "地震",
-      "trafficCount": "50000+",
-      "pubDate": "Tue, 24 Jun 2025 21:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRmdpCE5WPfNfeYLOBHPsThFffyVv9O7dqTjTf0ytbSnCBWsUdbpVvaNJnMt0",
-      "pictureSource": "Yahoo!ニュース",
-      "relatedSearch": [
-        {
-          "title": "茨城県で最大震度4のやや強い地震 茨城県・東海村（TBS NEWS DIG Powered by JNN）",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/ec6abfcc6ac9d6c451c0a295b30b57ca96c05c92",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "茨城県東海村で震度４",
-          "snippet": "",
-          "url": "https://topics.smt.docomo.ne.jp/article/n_kishou/nation/n_kishou-eqa-20250625135135-20250625-135500",
-          "source": "ｄメニューニュース"
-        },
-        {
-          "title": "茨城で震度4 M4.3と推定 津波の心配なし",
-          "snippet": "",
-          "url": "https://mainichi.jp/articles/20250625/k00/00m/040/158000c",
-          "source": "毎日新聞"
         }
       ],
       "link": "https://imtaqin.id/"

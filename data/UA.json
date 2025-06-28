@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-06-28 22:10:00",
+  "lastUpdate": "2025-06-28 22:32:18",
   "data": [
+    {
+      "title": "новини рівного",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 28 Jun 2025 15:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDUkdHLDIPNigQmXofK0StxzPD4YzybeZeMxFLtLP0yg8wouyliivlxGV7adk",
+      "pictureSource": "Рівне Вечірнє",
+      "relatedSearch": [
+        {
+          "title": "У небі над Рівненщиною літають «Шахеди». Область - Новини Рівного та області",
+          "snippet": "",
+          "url": "https://rivnepost.rv.ua/news/u-nebi-nad-rivnenshchinoyu-litayut-shakhedi",
+          "source": "Рівне Вечірнє"
+        },
+        {
+          "title": "Вночі у Рівненській області сталися вибухи: що відомо",
+          "snippet": "",
+          "url": "https://tsn.ua/ukrayina/vnochi-u-rivnenskiy-oblasti-stalysia-vybukhy-shcho-vidomo-2858204.html",
+          "source": "ТСН"
+        },
+        {
+          "title": "На Рівненщині пролунали вибухи",
+          "snippet": "",
+          "url": "https://24tv.ua/rivnenshhini-prolunali-vibuhi_n2858031",
+          "source": "24 Канал"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "рожище",
       "trafficCount": "200+",
@@ -25,7 +53,7 @@
     },
     {
       "title": "луцьк",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 28 Jun 2025 14:50:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHR4pT3kyYVrNzMjKWPsH_yEOeEl3mX-EQ9yZU0fPMktbiVauB-PZOCz_j0ls",
       "pictureSource": "Волинські Новини",
@@ -52,36 +80,8 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "рівне",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 28 Jun 2025 14:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqUbepfFsJpbDfC29gmRsuYP8N86WZFfJmogyWsva-vKvN_qfwprgbHKBJDDU",
-      "pictureSource": "ТСН",
-      "relatedSearch": [
-        {
-          "title": "Вночі у Рівненській області сталися вибухи: що відомо",
-          "snippet": "",
-          "url": "https://tsn.ua/ukrayina/vnochi-u-rivnenskiy-oblasti-stalysia-vybukhy-shcho-vidomo-2858204.html",
-          "source": "ТСН"
-        },
-        {
-          "title": "На Рівненщині пролунали вибухи",
-          "snippet": "",
-          "url": "https://24tv.ua/rivnenshhini-prolunali-vibuhi_n2858031",
-          "source": "24 Канал"
-        },
-        {
-          "title": "На Рівненщині збили «Шахеда». Область - Новини Рівного та області",
-          "snippet": "",
-          "url": "https://rivnepost.rv.ua/news/na-rivnenshchini-zbili-shakheda",
-          "source": "Рівне Вечірнє"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "бпла",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 28 Jun 2025 14:30:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTQfYj__S9H2Z8o1tBz5jZmF-pRSitEN2t-g3AjDIr1EzUuQPvNY5YEfEXuEc",
       "pictureSource": "Українська правда",
@@ -221,22 +221,22 @@
     },
     {
       "title": "ту 160",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Sat, 28 Jun 2025 13:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTBoQj-8ghyQ28fZH1VZ8VJS5XR6_OgGpMZ1IAV-4yhZ0e-yZuU3wdRPmYOQtI",
-      "pictureSource": "Yle",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuAJ6yl8Pfy_3rXWbIZZ3Ci-Wl5afoEKMg70ze8GNdP5ppsv1qE_RTul7s--s",
+      "pictureSource": "Українська правда",
       "relatedSearch": [
-        {
-          "title": "Россия расширила завод по производству бомбардировщиков",
-          "snippet": "",
-          "url": "https://yle.fi/a/74-20170067",
-          "source": "Yle"
-        },
         {
           "title": "СМИ: Россия расширяет завод по производству бомбардировщиков в Казани",
           "snippet": "",
           "url": "https://www.pravda.com.ua/rus/news/2025/06/28/7519236/",
           "source": "Українська правда"
+        },
+        {
+          "title": "Yle: Россия расширяет завод в Казани, где производят и модернизируют стратегические бомбардировщики",
+          "snippet": "",
+          "url": "https://meduza.io/news/2025/06/28/yle-rossiya-rasshiryaet-zavod-v-kazani-gde-proizvodyat-i-moderniziruyut-strategicheskie-bombardirovschiki",
+          "source": "Meduza"
         },
         {
           "title": "Россия расширяет авиазавод в Казани, где производятся бомбардировщики: на спутниковых снимках видны новые анг",

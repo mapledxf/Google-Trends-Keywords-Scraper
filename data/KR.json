@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-30 21:29:29",
+  "lastUpdate": "2025-06-30 21:41:36",
   "data": [
     {
       "title": "날씨예보",
@@ -15,16 +15,16 @@
           "source": "연합뉴스"
         },
         {
+          "title": "이번 주 내내 가마솥 더위…곳곳 소나기",
+          "snippet": "",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008159259",
+          "source": "SBS 뉴스"
+        },
+        {
           "title": "[날씨] 오늘 찜통더위 속 소나기...곳곳 열대야 가능성",
           "snippet": "",
           "url": "https://www.ytn.co.kr/_ln/0108_202507010000144848",
           "source": "YTN"
-        },
-        {
-          "title": "[오늘의 날씨] 대전·충남(1일, 화)…내륙 최고체감온도 33도",
-          "snippet": "",
-          "url": "https://www.news1.kr/local/daejeon-chungnam/5830503",
-          "source": "뉴스1"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,9 +117,15 @@
       "title": "인테르",
       "trafficCount": "200+",
       "pubDate": "Mon, 30 Jun 2025 12:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFY_sMKdrHhbdQiNLXKuHoVBhFJEWd7B46zQWjeyleHwtYfnkX9QgdKkELPl4",
-      "pictureSource": "네이트 뉴스",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSesmZJ6qLxAxEqJlM-7H7SNbiFf3_Eb1uhKCdDfXPa8WxuRrVgqZGVyNPblpw",
+      "pictureSource": "스포츠동아",
       "relatedSearch": [
+        {
+          "title": "플루미넨시, 클럽월드컵서 UCL 준우승팀 인터 밀란 잡았다…확률 7.6%를 넘어섰다!",
+          "snippet": "",
+          "url": "https://sports.donga.com/sports/article/all/20250701/131913241/1",
+          "source": "스포츠동아"
+        },
         {
           "title": "[매치 스포일러] UCL 결승 0-5 충격 대패 인테르, 플루미넨시 승리 후 8강 선착으로 '분노의 질주' 보여주나?",
           "snippet": "",
@@ -130,12 +136,6 @@
           "title": "키부 감독, 경기 연기 소식에 강한 불만 표출: \"알고 가는 게 아니라 현장에서 통보받는 건 프로답지 않아\"",
           "snippet": "",
           "url": "https://www.footboom1.com/ko/news/football/2637711-kivu-slams-late-match-postponement-showing-up-only-to-find-out-is-unprofessional",
-          "source": "FootBoom"
-        },
-        {
-          "title": "인터 밀란 vs 플루미넨세: 2025 클럽 월드컵 대결, 생중계 완벽 가이드",
-          "snippet": "",
-          "url": "https://www.footboom1.com/ko/news/football/2637279-inter-vs-fluminense-how-to-watch-the-2025-club-world-cup-clash",
           "source": "FootBoom"
         }
       ],
@@ -171,7 +171,7 @@
     },
     {
       "title": "xrp",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 30 Jun 2025 12:20:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKhrK85Hh0GScrXUZmo045QHrXOU68JuhAKROB-U4j_5eXQfaujymNPIVxOsc",
       "pictureSource": "Ripple",

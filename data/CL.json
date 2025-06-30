@@ -1,169 +1,225 @@
 {
-  "lastUpdate": "2025-06-29 23:54:05",
+  "lastUpdate": "2025-06-30 00:57:42",
   "data": [
     {
-      "title": "padron electoral",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 29 Jun 2025 16:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCkxPLVI6irA0TsSoD99Ory04aS6rnrCkt8gh0Vj6r_-_uNzGaZrZFjzGW66U",
+      "title": "weather tomorrow",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 29 Jun 2025 17:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROJH34oiyANkb76d0amwQkpCIf0YBUhr0_63IX-oRZbmF2GmkvZLRENcGA1Os",
+      "pictureSource": "The Washington Post",
+      "relatedSearch": [
+        {
+          "title": "CWG Live updates: Muggy into Sunday, when it may feel like 100 with a storm risk",
+          "snippet": "",
+          "url": "https://www.washingtonpost.com/weather/2025/06/28/dc-weather-live-updates-hotter-weekend/",
+          "source": "The Washington Post"
+        },
+        {
+          "title": "Rain and storm chances continue",
+          "snippet": "",
+          "url": "https://www.wbko.com/2025/06/29/rain-storm-chances-continue/",
+          "source": "WBKO"
+        },
+        {
+          "title": "Quiet Saturday gives way to hot, humid, stormy Sunday",
+          "snippet": "",
+          "url": "https://fox11online.com/weather/weather-stories/quiet-saturday-gives-way-to-hot-humid-stormy-sunday",
+          "source": "WLUK"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tomas vodanovic",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 29 Jun 2025 17:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKT86PPxoKrmCegEtMqnqUGwXHcmenrNVpNWtsU9Bp0lEOpv7HlYnIxEz1XiM",
       "pictureSource": "T13",
       "relatedSearch": [
         {
-          "title": "Tu lugar en el padrón: El nuevo dato que entrega el Servel en su sitio web (y que facilita el trabajo a los vocales de mesa)",
+          "title": "Nuevas agresiones de vendedores ambulantes a inspectores municipales: ¿En qué está la Ley de Seguridad Municipal?",
           "snippet": "",
-          "url": "https://www.t13.cl/noticia/elecciones-2025/nacional/tu-lugar-padron-nuevo-dato-entrega-servel-sitio-web-29-6-2025",
+          "url": "https://www.t13.cl/noticia/nacional/nuevas-agresiones-vendedores-ambulantes-inspectores-municipales-27-6-2025",
           "source": "T13"
         },
         {
-          "title": "Consulta de Datos Electorales del SERVEL está disponible",
+          "title": "Autoridades condenan ataque a funcionarios durante fiscalización de comercio ambulante",
           "snippet": "",
-          "url": "https://www.ovejeronoticias.cl/2025/06/consulta-de-datos-electorales-del-servel-esta-disponible/",
-          "source": "OvejeroNoticias"
+          "url": "https://www.sanantonio.cl/municipalidad/noticias/item/14100-autoridades-condenan-ataque-a-funcionarios-durante-fiscalizacion-de-comercio-ambulante.html",
+          "source": "I. Municipalidad de San Antonio"
         },
         {
-          "title": "Advierten a Matthei, Kast y Kaiser por nuevo mega padrón electoral: No podemos decir que ese voto es de derecha",
+          "title": "Barricadas e incidentes en el centro de San Antonio tras fiscalización a comercio ambulante",
           "snippet": "",
-          "url": "https://eldesconcierto.cl/2025/06/28/advierten-a-matthei-kast-y-kaiser-por-nuevo-mega-padron-electoral-no-podemos-decir-que-ese-voto-es-de-derecha",
-          "source": "El Desconcierto"
+          "url": "https://www.soychile.cl/san-antonio/sociedad/2025/06/24/910929/barricadas-e-incidentes-centro-sa.html",
+          "source": "SoyChile.cl"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "cadem",
-      "trafficCount": "5000+",
-      "pubDate": "Sun, 29 Jun 2025 16:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQicOE50VgiHC6YzuHqGHJvZI9I588eGFun4x6FnPEg-4qR0WkyFXV-y8aeG0I",
-      "pictureSource": "BioBioChile",
-      "relatedSearch": [
-        {
-          "title": "Matthei en caída libre: se desploma 9 puntos en Cadem y Jara con Kast pasarían a segunda vuelta",
-          "snippet": "",
-          "url": "https://www.biobiochile.cl/noticias/nacional/chile/2025/06/29/matthei-en-caida-libre-se-desploma-9-puntos-en-cadem-y-jara-con-kast-pasarian-a-segunda-vuelta.shtml",
-          "source": "BioBioChile"
-        },
-        {
-          "title": "Cadem: José Antonio Kast supera por primera vez a Evelyn Matthei en escenario de segunda vuelta",
-          "snippet": "",
-          "url": "https://www.cnnchile.com/pais/cadem-jose-antonio-kast-supera-por-primera-vez-a-evelyn-matthei-en-escenario-de-segunda-vuelta_20250629/",
-          "source": "CNN Chile"
-        },
-        {
-          "title": "Kast (24%) sube cinco puntos y lidera Cadem: Jara (16%) salta al segundo lugar y Matthei se desploma al 10%",
-          "snippet": "",
-          "url": "https://www.emol.com/noticias/Nacional/2025/06/29/1170700/cadem-jara-segundo-lugar-kast.html",
-          "source": "Emol"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "mario marcel",
+      "title": "propuestas de jeannette jara",
       "trafficCount": "100+",
-      "pubDate": "Sun, 29 Jun 2025 16:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwJblsgDriB06FlXqjuWtYqOzCmT18lvgvwA9KZY36y3cK-Yu995JrKlZxrfk",
+      "pubDate": "Sun, 29 Jun 2025 17:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcGkwu-IG0u7ThUj8Lj-nnCtqwhrqUByoPqlJw6MRZVkPtUmZudGoewMtojLs",
       "pictureSource": "Emol",
       "relatedSearch": [
         {
-          "title": "Marcel y posibilidad de dejar el Gobierno si gana Tohá: \"No está en mis reflexiones (...) sigo dedicado a mi trabajo\"",
+          "title": "Fortalecimiento de las policías en DD.HH., fin de las AFP y sueldo vital: Las prioridades del programa de Jara",
           "snippet": "",
-          "url": "https://www.emol.com/noticias/Economia/2025/06/29/1170665/marcel-primarias-toha.html",
+          "url": "https://www.emol.com/noticias/Nacional/2025/06/29/1170474/prioridades-programa-gobierno-jeannette-jara.html",
           "source": "Emol"
         },
         {
-          "title": "Las imágenes con Marcel que difundió Tohá horas antes de acudir a las urnas",
+          "title": "Las perspectivas sobre la economía en Jara y Winter",
           "snippet": "",
-          "url": "https://www.ex-ante.cl/la-imagenes-con-marcel-que-difundio-toha-horas-antes-de-acudir-a-las-urnas/",
-          "source": "Ex-Ante"
-        },
-        {
-          "title": "VIDEO| Lapidaria respuesta de Tohá a Coni Santa María ante inesperada pregunta sobre Marcel en debate de primarias",
-          "snippet": "",
-          "url": "https://eldesconcierto.cl/2025/06/23/video-lapidaria-respuesta-de-toha-a-coni-santa-maria-ante-inesperada-pregunta-sobre-marcel-en-debate-de-primarias",
+          "url": "https://eldesconcierto.cl/2025/06/28/las-perspectivas-sobre-la-economia-en-jara-y-winter",
           "source": "El Desconcierto"
+        },
+        {
+          "title": "Igualar sin crecer: el falso peldaño del programa del PC",
+          "snippet": "",
+          "url": "https://www.df.cl/opinion/editorial/igualar-sin-crecer-el-falso-peldano-del-programa-del-pc",
+          "source": "Diario Financiero"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "johannes kaiser",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 29 Jun 2025 15:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTA1z7EHVCtZohpkrnia2cwS7mCAeHe22QnPEqLpzn-PprnyB4On3kPMtSCUMk",
-      "pictureSource": "Cooperativa.cl",
+      "title": "macará - emelec",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 29 Jun 2025 16:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQYrQWfvIKCDDOYityytUVGi9IPiN1pvdFW67LRVnOWJNxfx0d9mwYDUgYhsY",
+      "pictureSource": "TyC Sports",
       "relatedSearch": [
         {
-          "title": "Kaiser: Ojalá que en la primaria gane el candidato más democrático; el PC nunca lo ha sido",
+          "title": "Ver EN VIVO Macará vs. Emelec: dónde seguir por TV y ONLINE en streaming",
           "snippet": "",
-          "url": "https://cooperativa.cl/noticias/pais/politica/presidenciales/kaiser-ojala-que-en-la-primaria-gane-el-candidato-mas-democratico-el/2025-06-26/142944.html",
+          "url": "https://www.tycsports.com/ecuador/futbol-de-ecuador/ver-en-vivo-macara-vs-emelec-donde-seguir-por-tv-y-online-en-streaming-id670713.html",
+          "source": "TyC Sports"
+        },
+        {
+          "title": "Ni 10 minutos y lo que tuvo que hacer Christian Cueva para tocar el balón en Emelec",
+          "snippet": "",
+          "url": "https://www.elfutbolero.com.ec/liga-pro-a/ni-10-minutos-y-lo-que-tuvo-que-hacer-christian-cueva-para-tocar-el-balon-en-emelec-20250629-66974.html",
+          "source": "El Futbolero Ecuador"
+        },
+        {
+          "title": "Sin Jorge Célico, Emelec necesita cambiar la imagen ante Macará por LigaPro",
+          "snippet": "",
+          "url": "https://www.espn.cl/futbol/ecuador/nota/_/id/15359750/macara-vs-emelec-por-ligapro-equipo-fecha-y-hora",
+          "source": "ESPN Chile"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "remate tiendas corona",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 29 Jun 2025 16:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuw9Yxp3Qtxq4UIlppSx6OrucqPK5Ya38y7RVbZTf9GrrFVDlzk3GnGs-3dh8",
+      "pictureSource": "La Cuarta",
+      "relatedSearch": [
+        {
+          "title": "“Es un colapso, hoy cayó el mito”: la fuerte advertencia de Marco Enríquez-Ominami tras cierre de Corona",
+          "snippet": "",
+          "url": "https://www.lacuarta.com/chile/noticia/es-un-colapso-hoy-cayo-el-mito-la-fuerte-advertencia-de-marco-enriquez-ominami-tras-cierre-de-corona/",
+          "source": "La Cuarta"
+        },
+        {
+          "title": "Se termina la historia de Corona: Multitienda cerrará en julio y anuncia un \"remate final”",
+          "snippet": "",
+          "url": "https://www.emol.com/noticias/Economia/2025/06/27/1170569/corona-cierra-remate-final.html",
+          "source": "Emol"
+        },
+        {
+          "title": "Remata \"todo a cinco lucas\": Corona no pudo salvarse de la quiebra y cerrará tiendas en julio",
+          "snippet": "",
+          "url": "https://cooperativa.cl/noticias/economia/retail/comercio/remata-todo-a-cinco-lucas-corona-no-pudo-salvarse-de-la-quiebra-y/2025-06-27/154654.html",
           "source": "Cooperativa.cl"
-        },
-        {
-          "title": "Kaiser asegura que el PC no es un partido democrático: \"No lo ha sido nunca y no lo va a ser en Chile tampoco\"",
-          "snippet": "",
-          "url": "https://www.t13.cl/noticia/politica/elecciones-2025/kaiser-asegura-pc-no-partido-democratico-no-lo-ha-sido-nunca-no-lo-sera-chile-26-6",
-          "source": "T13"
-        },
-        {
-          "title": "“No es un partido democrático y no lo será en Chile”: La arremetida de Johannes Kaiser contra el PC de cara a las primarias",
-          "snippet": "",
-          "url": "https://www.cnnchile.com/pais/no-partido-democratico-no-sera-chile-arremetida-johannes-kaiser-contra-pc-cara-primarias_20250626/",
-          "source": "CNN Chile"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "frente amplio",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 29 Jun 2025 15:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA1EUb_qrzOEGyscj2e_Oc_uq4jRp78ENCbdPvJMkYsIfhAgcKYYPE8e8d1O0",
-      "pictureSource": "La Tercera",
+      "title": "camila vallejo",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 29 Jun 2025 16:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUS8Zi6LR66e-W0nkXKguDW7k0RNaFQ30LiRP7rF3THYJBywT_BXXyTE_nDVk",
+      "pictureSource": "Emol",
       "relatedSearch": [
         {
-          "title": "La dura derrota de Gonzalo Winter, el Frente Amplio y el legado de Gabriel Boric",
+          "title": "Vallejo asegura que volverá a la vocería de Gobierno \"la segunda semana de julio\" tras su postnatal",
           "snippet": "",
-          "url": "https://www.latercera.com/politica/noticia/la-dura-derrota-de-gonzalo-winter-el-frente-amplio-y-el-legado-de-gabriel-boric/",
-          "source": "La Tercera"
+          "url": "https://www.emol.com/noticias/Nacional/2025/06/29/1170684/camila-vallejo-postanal-gobierno.html",
+          "source": "Emol"
         },
         {
-          "title": "Cancelación definitiva: el ocaso de Boric y el Frente Amplio. Por Kenneth Bunker",
+          "title": "Camila Vallejo (PC) reaparece en votación de primarias y prepara su regreso a La Moneda",
           "snippet": "",
-          "url": "https://www.ex-ante.cl/cancelacion-definitiva-el-ocaso-de-boric-y-el-frente-amplio-por-kenneth-bunker/",
-          "source": "Ex-Ante"
+          "url": "https://www.elmostrador.cl/noticias/pais/2025/06/29/camila-vallejo-pc-reaparece-en-votacion-de-primarias-y-prepara-su-regreso-a-la-moneda/",
+          "source": "El Mostrador"
         },
         {
-          "title": "\"Me cuesta imaginarme que no sea electo\": Gonzalo Winter tras votar en primarias",
+          "title": "Ministra Vallejo confirma que regresará a La Moneda \"la segunda semana de julio\", tras postnatal",
           "snippet": "",
-          "url": "https://www.biobiochile.cl/noticias/nacional/chile/2025/06/29/me-cuesta-imaginarme-que-no-sea-electo-gonzalo-winter-tras-votar-en-primarias.shtml",
+          "url": "https://www.biobiochile.cl/noticias/nacional/chile/2025/06/29/ministra-vallejo-confirma-que-regresara-a-la-moneda-la-segunda-semana-de-julio.shtml",
           "source": "BioBioChile"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tomas mosciatti",
+      "trafficCount": "5000+",
+      "pubDate": "Sun, 29 Jun 2025 16:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQikS3Pyr6Z-mnJNYbPqXWKYhhk3KWTV_jKuTZ_MGGtKeffNuWkSoqSsaIOLro",
+      "pictureSource": "BioBioChile",
+      "relatedSearch": [
+        {
+          "title": "\"Hola, Jaime\": Mulet recibirá los resultados en el aire y no podrá saludar a ganador",
+          "snippet": "",
+          "url": "https://www.biobiochile.cl/noticias/nacional/chile/2025/06/29/jaime-mulet-recibira-los-resultados-en-el-aire-y-no-podra-saludar-a-ganador.shtml",
+          "source": "BioBioChile"
+        },
+        {
+          "title": "Jaime Mulet, el candidato de provincia que apuesta que su partido suba “un escalón más” en la política chilena",
+          "snippet": "",
+          "url": "https://elpais.com/chile/2025-06-28/jaime-mulet-el-regionalista-que-propone-una-reforma-del-estado.html",
+          "source": "EL PAÍS"
+        },
+        {
+          "title": "Tras votar: Mulet tilda de \"extremadamente grave\" caso de exalcalde Montoya y pide \"más firmeza\" en seguridad",
+          "snippet": "",
+          "url": "https://www.emol.com/noticias/Nacional/2025/06/29/1170658/mulet-vota-preocupacion-exalcalde-montoya.html",
+          "source": "Emol"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "lautaro carmona",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 29 Jun 2025 15:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7vXiCOXhpbWbHAEEJ12Q-HSwPZW05tUco5GSGYMva22POnKJNkACeaTsbgpQ",
-      "pictureSource": "Radio Universidad de Chile",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4SCtjZvMbVegMe3kdX2q0CHx0IMJXUDGC3EOAWjSkQIF-qzlHkD5-uNNgW3k",
+      "pictureSource": "Emol",
       "relatedSearch": [
         {
-          "title": "Lawfare y violación del debido proceso en el caso de Daniel Jadue: análisis de la reciente decisión de la Corte de Apelaciones de Santiago",
+          "title": "Polémica por dichos de Carmona y llamados a la unidad: Los últimos movimientos de los candidatos a horas de las primarias",
           "snippet": "",
-          "url": "https://radio.uchile.cl/2025/06/28/lawfare-y-violacion-del-debido-proceso-en-el-caso-de-daniel-jadue-analisis-de-la-reciente-decision-de-la-corte-de-apelaciones-de-santiago/",
-          "source": "Radio Universidad de Chile"
+          "url": "https://www.emol.com/noticias/Nacional/2025/06/28/1170637/ultimos-movimientos-candidatos-primaria-oficialismo.html",
+          "source": "Emol"
         },
         {
-          "title": "Carmona (PC) confirma candidatura de Jadue por distrito 9, siempre que no exista prohibición legal",
+          "title": "Jeannette Jara sobre un eventual nuevo proceso constituyente: \"No haré promesas que no pueda cumplir\"",
           "snippet": "",
-          "url": "https://www.biobiochile.cl/noticias/nacional/chile/2025/06/27/carmona-pc-confirma-candidatura-de-jadue-por-distrito-9-siempre-que-no-exista-prohibicion-legal.shtml",
+          "url": "https://www.biobiochile.cl/noticias/nacional/chile/2025/06/29/jeannette-jara-sobre-un-eventual-nuevo-proceso-constituyente-no-hare-promesas-que-no-pueda-cumplir.shtml",
           "source": "BioBioChile"
         },
         {
-          "title": "“Permiso exprés”: Jadue consigue autorización para votar en la primaria del domingo",
+          "title": "Etcheverry descarta como prioridad del gobierno un nuevo proceso constituyente y enfatiza que candidatos deben tratar el tema",
           "snippet": "",
-          "url": "https://www.latercera.com/nacional/noticia/permiso-expres-jadue-consigue-autorizacion-para-votar-en-la-primaria-del-domingo/",
+          "url": "https://www.latercera.com/politica/noticia/etcheverry-descarta-como-prioridad-del-gobierno-un-nuevo-proceso-constituyente-y-enfatiza-que-candidatos-deben-tratar-el-tema/",
           "source": "La Tercera"
         }
       ],
@@ -173,9 +229,15 @@
       "title": "mega",
       "trafficCount": "200+",
       "pubDate": "Sun, 29 Jun 2025 15:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOTqY1-kkGAz2t4kkU4rjRK42Mb-8aUera6BKCuwy-zXa3h2BeUyghP6g-yho",
-      "pictureSource": "La Cuarta",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR26qQx_-dXD3J3XKml8sgdeUoyJID9qMgET1sNA-1jakrwx7otJGIi4we4vMA",
+      "pictureSource": "Mega.cl",
       "relatedSearch": [
+        {
+          "title": "¿A qué hora verlo? Desde este sábado Seyrán y Ferit suma nueva emisión",
+          "snippet": "",
+          "url": "https://www.mega.cl/teleseries/seyran-y-ferit/noticias/198075-nuevo-dia-capitulo-sabado-teleserie-turca-yali-capkini.html",
+          "source": "Mega.cl"
+        },
         {
           "title": "Exitosa teleserie turca de Mega suma un día de emisión: irá seis días a la semana",
           "snippet": "",
@@ -187,96 +249,34 @@
           "snippet": "",
           "url": "https://www.mega.cl/programacion/198164-mega-hoy-sabado-28-de-junio-programacion-en-vivo.html",
           "source": "Mega.cl"
-        },
-        {
-          "title": "Cambios programáticos: Mega prepara el terreno para nuevo estelar de humor",
-          "snippet": "",
-          "url": "https://elfiltrador.com/mega-prepara-nuevo-estelar-humor/",
-          "source": "El Filtrador"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "copa oro",
-      "trafficCount": "500+",
+      "trafficCount": "2000+",
       "pubDate": "Sun, 29 Jun 2025 15:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSH66y1tc3earP4bdJt6LXEzuWiMNqNbc4J2KOZ1qMB3kVTEx7A7tTVpswlsB8",
-      "pictureSource": "Diario AS",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCXTjOB6icJqSHi9WJkKZ02YIo9Ao7IwxP8Ui-p9OrcKorcQ4nnRRFEAbFJPY",
+      "pictureSource": "Goal.com",
       "relatedSearch": [
         {
-          "title": "Clint Dempsey: “Para mí nunca hubo dudas si iba a jugar con el USMNT”",
+          "title": "Guatemala sorprende a Canadá en los penales para asegurar un lugar en la semifinal de la Copa Oro contra el ganador de Estados Unidos vs Costa Rica",
           "snippet": "",
-          "url": "https://as.com/us/futbol/clint-dempsey-para-mi-nunca-hubo-dudas-si-iba-a-jugar-con-el-usmnt-n/",
-          "source": "Diario AS"
+          "url": "https://www.goal.com/es-cl/listados/guatemala-sorprende-canada-penales-semifinal-copa-oro-ganador-estados-unidos-costa-rica/blt8a2404e914c410f1",
+          "source": "Goal.com"
         },
         {
-          "title": "¿Por qué no juega Christian Pulisic en Estados Unidos vs. Costa Rica por la Copa Oro 2025?",
+          "title": "Luis Fernando Tena, campeón en Cruz Azul, hizo historia con Guatemala en la Copa Oro 2025",
           "snippet": "",
-          "url": "https://bolavip.com/mx/concacaf/por-que-no-juega-christian-pulisic-en-estados-unidos-vs-costa-rica-por-la-copa-oro-2025",
-          "source": "Bolavip"
+          "url": "https://vamoscruzazul.bolavip.com/noticias/luis-fernando-tena-campeon-en-cruz-azul-hizo-historia-con-guatemala-en-la-copa-oro-2025",
+          "source": "Vamos Azul"
         },
         {
-          "title": "Pulisic, Pochetinno y el ambiente tenso que rodea a EE. UU.",
+          "title": "Qué canal pasa Estados Unidos vs Costa Rica hoy: dónde ver el partido EN VIVO y GRATIS por la Copa Oro 2025",
           "snippet": "",
-          "url": "https://www.teletica.com/copa-oro/pulisic-pochetinno-y-el-ambiente-tenso-que-rodea-a-ee-uu_387343",
-          "source": "Teletica"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "harold mayne-nicholls",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 29 Jun 2025 15:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1XdC7le6-c96oU6WkFwR_SNjote5X6WOhAHniBhaHgtxMs1YDykJa-OESVz8",
-      "pictureSource": "Emol",
-      "relatedSearch": [
-        {
-          "title": "\"¿Por qué te ríes?\": Harold Mayne-Nicholls sorprende con su candidato para DT de la \"Roja\"",
-          "snippet": "",
-          "url": "https://www.emol.com/noticias/Deportes/2025/06/28/1170609/harold-mayne-nicholls-laroja-candidato.html",
-          "source": "Emol"
-        },
-        {
-          "title": "Mayne-Nicholls se explaya sobre su deseo de ver a Pep Guardiola en La Roja: \"Soy amigo de él\"",
-          "snippet": "",
-          "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2025/06/29/mayne-nicholls-se-explaya-sobre-su-deseo-de-ver-a-pep-guardiola-en-la-roja-soy-amigo-de-el.shtml",
-          "source": "BioBioChile"
-        },
-        {
-          "title": "“Después vemos el presupuesto”: Harold Mayne-Nicholls propone ambicioso nombre para dirigir a La Roja",
-          "snippet": "",
-          "url": "https://www.cnnchile.com/deportes/despues-vemos-presupuesto-harold-mayne-nicholls-propone-ambicioso-nombre-para-dirigir-a-la-roja_20250628/",
-          "source": "CNN Chile"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "kaiser",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 29 Jun 2025 15:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3uHRX0lGkj_2C812Z63An_DsvAJMB3x90s-ROX-M501LScJ8-v_boGqmVDBo",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Rod Stewart at Glastonbury: Old school charm from another era",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/cd0vlymky4ko",
-          "source": "BBC"
-        },
-        {
-          "title": "Olivia Rodrigo Brings Out The Cure’s Robert Smith as She Wraps Up Politically Charged Glastonbury",
-          "snippet": "",
-          "url": "https://www.hollywoodreporter.com/news/music-news/olivia-rodrigo-robert-smith-the-cure-headline-glastonbury-1236302415/",
-          "source": "The Hollywood Reporter"
-        },
-        {
-          "title": "Pulp’s secret Glastonbury set review – still the magnificently misshapen oddballs of British pop",
-          "snippet": "",
-          "url": "https://www.theguardian.com/music/2025/jun/29/pulps-secret-glastonbury-set-review",
-          "source": "The Guardian"
+          "url": "https://www.365scores.com/es/news/estados-unidos-vs-costa-rica-donde-ver/",
+          "source": "365Scores"
         }
       ],
       "link": "https://imtaqin.id/"

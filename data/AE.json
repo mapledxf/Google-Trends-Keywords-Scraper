@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-30 23:16:48",
+  "lastUpdate": "2025-06-30 23:32:46",
   "data": [
     {
       "title": "يوتيوب",
@@ -33,26 +33,26 @@
       "title": "thiago silva",
       "trafficCount": "100+",
       "pubDate": "Mon, 30 Jun 2025 14:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSVgbJjMlB881638tJ0WzckY1VXQHUqa7tPopNlwwgMdZHSkVZETj3cuMgDdQ",
-      "pictureSource": "GE",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXUMVbAUd4PDnoYPfxgy6K7CkhiwC_eozszsNtvNvenuAs3oZQv9273zdOmgQ",
+      "pictureSource": "CNN Brasil",
       "relatedSearch": [
+        {
+          "title": "Fluminense: conheça Hércules, autor de gol da vitória sobre Inter de Milão",
+          "snippet": "",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/fluminense/fluminense-conheca-hercules-autor-de-gol-da-vitoria-sobre-inter-de-milao/",
+          "source": "CNN Brasil"
+        },
+        {
+          "title": "Qual o caminho do Fluminense das quartas até uma hipotética final do Mundial de Clubes?",
+          "snippet": "",
+          "url": "https://www.espn.com.br/futebol/mundial-de-clubes/artigo/_/id/15374304/fluminense-caminho-das-quartas-ate-a-final-mundial-de-clubes",
+          "source": "ESPN Brasil"
+        },
         {
           "title": "Ao vivo: Internazionale x Fluminense | 8ª de final | Copa do Mundo de Clubes da FIFA™",
           "snippet": "",
           "url": "https://ge.globo.com/futebol/mundial-de-clubes/jogo/30-06-2025/interdemilao-fluminense.ghtml",
-          "source": "GE"
-        },
-        {
-          "title": "Dimarco quase que acordava a coruja (vídeo)",
-          "snippet": "",
-          "url": "https://www.abola.pt/futebol/video/dimarco-quase-que-acordava-a-coruja-video-2025063021203131943",
-          "source": "Abola.pt"
-        },
-        {
-          "title": "TV argentina se impressiona com histórico \"pegador\" de Renato Gaúcho; veja",
-          "snippet": "",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/fluminense/tv-argentina-se-impressiona-com-historico-pegador-de-renato-gaucho-veja/",
-          "source": "CNN Brasil"
+          "source": "ge"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -77,10 +77,10 @@
           "source": "صحيفة الخليج"
         },
         {
-          "title": "لاوتارو يقود تشكيل الإنتر ضد فلومينينسي في كأس العالم للأندية 2025",
+          "title": "موعد مباراة إنتر ميلان ضد فلومينينسي والقناة الناقلة",
           "snippet": "",
-          "url": "https://www.almasryalyoum.com/news/details/3488870",
-          "source": "المصري اليوم"
+          "url": "https://24.ae/article/904167/%D9%85%D9%88%D8%B9%D8%AF-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A5%D9%86%D8%AA%D8%B1-%D9%85%D9%8A%D9%84%D8%A7%D9%86-%D8%B6%D8%AF-%D9%81%D9%84%D9%88%D9%85%D9%8A%D9%86%D9%8A%D9%86%D8%B3%D9%8A-%D9%88%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9",
+          "source": "موقع 24"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,16 +99,16 @@
           "source": "BBC"
         },
         {
-          "title": "Internazionale 0-2 Fluminense: Club World Cup round of 16 – as it happened",
-          "snippet": "",
-          "url": "https://www.theguardian.com/football/live/2025/jun/30/internazionale-v-fluminense-club-world-cup-quarter-final-live",
-          "source": "The Guardian"
-        },
-        {
           "title": "Inter Milan vs Fluminense 0-2: FIFA Club World Cup 2025 – as it happened",
           "snippet": "",
           "url": "https://www.aljazeera.com/sports/liveblog/2025/6/30/live-inter-milan-vs-fluminense-fifa-club-world-cup-2025",
           "source": "Al Jazeera"
+        },
+        {
+          "title": "Internazionale 0-2 Fluminense: Club World Cup round of 16 – as it happened",
+          "snippet": "",
+          "url": "https://www.theguardian.com/football/live/2025/jun/30/internazionale-v-fluminense-club-world-cup-quarter-final-live",
+          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,7 +211,7 @@
           "source": "Olympics.com"
         },
         {
-          "title": "LIVE Wimbledon, Fognini-Alcaraz 0-3 al 5° set. Malore in tribuna: match sospeso. Berrettini vince il primo set, in campo Paolini",
+          "title": "LIVE Wimbledon: Paolini in rimonta. Sospesi i match di Arnaldi e Zeppieri. Zverev e Fritz inseguono",
           "snippet": "",
           "url": "https://www.gazzetta.it/Tennis/atp/slam/wimbledon/30-06-2025/wimbledon-le-partite-di-oggi-live-fognini-alcaraz-poi-paolini-e-berrettini-la-diretta.shtml",
           "source": "La Gazzetta dello Sport"
@@ -257,26 +257,26 @@
       "title": "aryna sabalenka",
       "trafficCount": "100+",
       "pubDate": "Mon, 30 Jun 2025 06:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReVw131MXopmrP5wWk4O_0svTs5EU45eV6eAXcFUx8kEUfskTzJ44TpzEfSz0",
-      "pictureSource": "ABC News - Breaking News, Latest News and Videos",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCEG97zPZTvD6y_ZktZ0tlUruLzuR04V6Kj90i0aoibxgks9amafw5JTJFuOY",
+      "pictureSource": "Punto de Break",
       "relatedSearch": [
         {
-          "title": "Wimbledon 2025 schedule: How to watch as singles matches begin",
+          "title": "Sabalenka: \"Women Are Not Ready to Play Five Sets\"",
           "snippet": "",
-          "url": "https://abcnews.go.com/GMA/Culture/wimbledon-2025-schedule-watch-singles-matches-begin/story?id=123336612",
-          "source": "ABC News - Breaking News, Latest News and Videos"
+          "url": "https://www.puntodebreak.com/en/2025/06/30/sabalenka-women-are-not-ready-to-play-five-sets",
+          "source": "Punto de Break"
         },
         {
-          "title": "Carson Branstine, the surprise of the Wimbledon qualifying who funds her career through modelling",
+          "title": "Aryna Sabalenka says whether she wants women's tennis to change to best of five sets at Grand Slams now",
           "snippet": "",
-          "url": "https://www.claytenis.com/features/carson-branstine-wimbledon-tenis-modeling/",
-          "source": "Clay Tenis"
+          "url": "https://www.thetennisgazette.com/news/aryna-sabalenka-says-whether-she-wants-womens-tennis-to-change-to-best-of-five-sets-at-grand-slams-now/",
+          "source": "The Tennis Gazette"
         },
         {
-          "title": "Wimbledon 2025 results: Aryna Sabalenka wins but Ons Jabeur retires",
+          "title": "No. 1 Aryna Sabalenka not interested in best-of-five-set matches in women's tennis",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/tennis/articles/cy8ggn8qdpjo",
-          "source": "BBC"
+          "url": "https://www.thederrick.com/ap/sports/no-1-aryna-sabalenka-not-interested-in-best-of-five-set-matches-in-womens-tennis/article_1d0d7b13-fac6-5bf2-badb-ee8aa98cb184.html",
+          "source": "thederrick.com"
         }
       ],
       "link": "https://imtaqin.id/"

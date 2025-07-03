@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2025-07-03 20:56:02",
+  "lastUpdate": "2025-07-03 21:13:56",
   "data": [
     {
       "title": "daisy hill",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 3 Jul 2025 13:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQuUw_A4r5EkgtwSGnLjiszieBJiC_AHdQ1SzJ2EhfPB-xyMLAiBp1NkS2Igg",
-      "pictureSource": "The Age",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTB0Vigd6X0Y48-s3yES8ns62oVD_r5CBPgI1AEhh1Oa5qkHtCMW0p0DGU87z0",
+      "pictureSource": "News.com.au",
       "relatedSearch": [
+        {
+          "title": "Man shot dead by cops during siege",
+          "snippet": "",
+          "url": "https://www.news.com.au/national/victoria/crime/man-shot-dead-by-cops-during-sevenhour-siege-in-daisy-hill-victoria/news-story/c281566ba86ba52a6fe2aab222eb3da7",
+          "source": "News.com.au"
+        },
         {
           "title": "Man shot dead by police after siege in regional Victoria",
           "snippet": "",
@@ -15,44 +21,10 @@
           "source": "The Age"
         },
         {
-          "title": "Man shot dead by police during exchange of gunfire in regional Victoria",
-          "snippet": "",
-          "url": "https://www.abc.net.au/news/2025-07-04/fatal-police-shooting-daisy-hill/105493268",
-          "source": "Australian Broadcasting Corporation"
-        },
-        {
           "title": "Man shot dead by police in regional Victoria siege lasting 'several hours'",
           "snippet": "",
           "url": "https://www.9news.com.au/national/daisy-hill-siege-man-shot-dead-by-police-in-regional-victoria-siege-lasting-several-hours/b0fad6ec-4a29-4e0c-ad44-762c60c89479",
           "source": "9News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "beau webster",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 3 Jul 2025 13:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhiy3r8x5kOF1hZxJFaJ3-tVEE-xxe91nPRz5AFUY-kNJ3_pVHoyRu5bEF1Eo",
-      "pictureSource": "The Sydney Morning Herald",
-      "relatedSearch": [
-        {
-          "title": "Webster, Carey rescue Australia after top order collapse and Green brain fade",
-          "snippet": "",
-          "url": "https://www.smh.com.au/sport/cricket/webster-carey-rescue-australia-after-top-order-collapse-and-green-brain-fade-20250704-p5mcfh.html",
-          "source": "The Sydney Morning Herald"
-        },
-        {
-          "title": "Carey half-century steadies Aussies in second Test",
-          "snippet": "",
-          "url": "https://www.canberratimes.com.au/story/9008032/carey-half-century-steadies-aussies-in-second-test/",
-          "source": "The Canberra Times"
-        },
-        {
-          "title": "While you were sleeping: Bizarre dagger in Smith’s nightmare return",
-          "snippet": "",
-          "url": "https://www.news.com.au/sport/what-you-missed-overnight-steve-smiths-nightmare-return-more-struggles-for-konstas-green/news-story/3a2cdbc52adab92c7d64cee2aa979cc2",
-          "source": "News.com.au"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -73,14 +45,42 @@
         {
           "title": "Oklahoma communities prepare for Fourth of July festivities",
           "snippet": "",
-          "url": "https://www.yahoo.com/news/oklahoma-communities-prepare-fourth-july-031910461.html",
-          "source": "Yahoo"
+          "url": "https://www.koco.com/article/oklahoma-communities-prepare-fourth-of-july-festivities/65281414",
+          "source": "KOCO"
         },
         {
-          "title": "City’s Fourth of July Celebration packs in full day of activities",
+          "title": "Red, white and BOOM: Fourth of July events in the OKC metro",
           "snippet": "",
-          "url": "https://www.enidnews.com/news/city-s-fourth-of-july-celebration-packs-in-full-day-of-activities/article_dd4426ba-4bd0-461d-a866-c4c8b929865a.html",
-          "source": "Enidnews.com"
+          "url": "https://www.velocityokc.com/blog/lifestyle/red-white-and-boom-fourth-of-july-events-in-the-okc-metro/?back=super_blog",
+          "source": "OKC VeloCity"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "beau webster",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 3 Jul 2025 13:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhiy3r8x5kOF1hZxJFaJ3-tVEE-xxe91nPRz5AFUY-kNJ3_pVHoyRu5bEF1Eo",
+      "pictureSource": "The Sydney Morning Herald",
+      "relatedSearch": [
+        {
+          "title": "Webster, Carey rescue Australia after top order collapse and Green brain fade",
+          "snippet": "",
+          "url": "https://www.smh.com.au/sport/cricket/webster-carey-rescue-australia-after-top-order-collapse-and-green-brain-fade-20250704-p5mcfh.html",
+          "source": "The Sydney Morning Herald"
+        },
+        {
+          "title": "Carey, Webster lead stunning Aussie rescue act after latest batting fail — LIVE",
+          "snippet": "",
+          "url": "https://www.foxsports.com.au/cricket/australia/cricket-2025-australia-vs-west-indies-second-test-live-updates-day-one-blog-scorecard-start-time-aest-and-how-to-watch/news-story/07bfb658c50a8f7e349bd67067e79957",
+          "source": "Fox Sports"
+        },
+        {
+          "title": "Bizarre scenes as Aussie loses his head",
+          "snippet": "",
+          "url": "https://www.news.com.au/sport/cricket/australian-top-order-collapse-in-latest-horror-show-vs-west-indies/news-story/610158edbe6518c40ec6f5039e9fbe47",
+          "source": "News.com.au"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -115,7 +115,7 @@
     },
     {
       "title": "indiana",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 3 Jul 2025 13:10:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9nD8hk1yQ24XGjGc0JWyhML7uQ1gmEZlIfIhXbJGARiWyjPjI4kFrTkX6UWA",
       "pictureSource": "WTHR",
@@ -127,44 +127,16 @@
           "source": "WTHR"
         },
         {
-          "title": "Heating up for the Fourth of July; staying steamy this weekend",
+          "title": "Heat and humidity build into and through the holiday weekend",
           "snippet": "",
-          "url": "https://cbs4indy.com/weather/heating-up-for-the-fourth-of-july-staying-steamy-this-weekend/",
-          "source": "WTTV CBS4Indy"
+          "url": "https://www.wrtv.com/weather/heat-and-humidity-build-into-and-through-the-holiday-weekend",
+          "source": "WRTV"
         },
         {
-          "title": "Hot and humid weekend in central Indiana; heat index pushes 100°, storms Sunday | July 3, 2025",
+          "title": "How Hot Will It Get in Indiana This Weekend? The National Weather Service Breaks It Down",
           "snippet": "",
-          "url": "https://www.wishtv.com/weather/hot-and-humid-weekend-in-central-indiana-heat-index-pushes-100-storms-sunday-july-3-2025/",
-          "source": "WISH-TV"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "dow",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 3 Jul 2025 13:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHaQquMlPhRjFGD9YlBhqf6-4fMfTSTIBIAgOMXB2-proju250FU-0_qtaDUs",
-      "pictureSource": "Yahoo Finance",
-      "relatedSearch": [
-        {
-          "title": "Stock market today: S&P 500, Nasdaq leap to fresh records as Vietnam trade deal boosts hopes ahead of key jobs report",
-          "snippet": "",
-          "url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-leap-to-fresh-records-as-vietnam-trade-deal-boosts-hopes-ahead-of-key-jobs-report-230021146.html",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "ASX set for gains as Wall Street rises on jobs surprise",
-          "snippet": "",
-          "url": "https://www.smh.com.au/business/markets/asx-set-for-gains-as-wall-street-rises-on-jobs-surprise-20250704-p5mcfq.html",
-          "source": "The Sydney Morning Herald"
-        },
-        {
-          "title": "Dow jumps more than 300 points, S&P 500 sets new record after strong June jobs report",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2025/07/02/stock-market-today-live-updates.html",
-          "source": "CNBC"
+          "url": "https://wibc.com/665881/how-hot-will-it-get-in-indiana-this-weekend-the-national-weather-service-breaks-it-down/",
+          "source": "WIBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,26 +173,54 @@
       "title": "louisiana",
       "trafficCount": "200+",
       "pubDate": "Thu, 3 Jul 2025 12:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBcCIT9zGH-mA8HrI1MJhlQIywKbH74gspRRZAQjpZOWFQUMj7y0GuoFbalKo",
-      "pictureSource": "DVIDS",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS90rrtdqdgAViWyzBJ7syrLfHD1MK5ZUezVThoE3OAIKJlE9DkHrFZKuioLi4",
+      "pictureSource": "MSNBC News",
       "relatedSearch": [
         {
-          "title": "News - Louisiana Guard Airlifts Sandbags in Oil Spill Response",
+          "title": "'DEVASTATING': Red state governor says 200,000 residents will lose health care because of bill",
           "snippet": "",
-          "url": "https://www.dvidshub.net/news/515845/louisiana-guard-airlifts-sandbags-oil-spill-response",
-          "source": "DVIDS"
+          "url": "https://www.msnbc.com/morning-joe/watch/-devastating-red-state-governor-says-200-000-residents-will-lose-health-care-because-of-bill-242651205546",
+          "source": "MSNBC News"
         },
         {
-          "title": "US expands On-Demand Pay framework",
+          "title": "La Congressional Delegation split on impacts of Big Beautiful Bill",
           "snippet": "",
-          "url": "https://ibsintelligence.com/ibsi-news/us-expands-on-demand-pay-framework/",
-          "source": "IBS Intelligence"
+          "url": "https://www.wafb.com/2025/07/02/la-congressional-delegation-split-impacts-big-beautiful-bill/",
+          "source": "WAFB"
         },
         {
-          "title": "Louisiana Joins Several Other States in Enacting On-Demand Pay Legislation",
+          "title": "What does Trump's 'big bill' have to do with Louisiana coastal protection? Here's why it could mean more money.",
           "snippet": "",
-          "url": "https://www.nbc4i.com/business/press-releases/ein-presswire/827699655/louisiana-joins-several-other-states-in-enacting-on-demand-pay-legislation",
-          "source": "www.nbc4i.com"
+          "url": "https://www.nola.com/news/business/louisiana-trump-big-beautiful-bill-congress-scalise-coastal-protection-hurricanes/article_4d9b2e6d-44b1-4046-aa8a-6b15e2d60f0c.html",
+          "source": "NOLA.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "rinky hijikata",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 3 Jul 2025 12:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSVWjdSqaf0HxohxcIe0IfIV34bsxvFWlSKvDqs4clneBI_szJtkaSrSWgpxcM",
+      "pictureSource": "The Washington Post",
+      "relatedSearch": [
+        {
+          "title": "Wimbledon: Ben Shelton is 1 game away from winning when his match is suspended because of darkness",
+          "snippet": "",
+          "url": "https://www.washingtonpost.com/sports/tennis/2025/07/03/wimbledon-shelton-hijikata-suspended/8a8eb8d0-584f-11f0-b45b-dc9aeb848c03_story.html",
+          "source": "The Washington Post"
+        },
+        {
+          "title": "Wimbledon clash suspended with fuming star about to serve for the MATCH as he is held back from umpire",
+          "snippet": "",
+          "url": "https://www.the-sun.com/sport/14623900/wimbledon-ben-shelton-suspended-umpire/",
+          "source": "The US Sun"
+        },
+        {
+          "title": "Ben Shelton demands Wimbledon match suspended as he calls supervisor on to court",
+          "snippet": "",
+          "url": "https://www.themirror.com/sport/tennis/ben-shelton-wimbledon-match-suspended-1243679",
+          "source": "The Mirror US"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -254,29 +254,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "rinky hijikata",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 3 Jul 2025 12:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuttkMvIR4Gb-0SplddM82ZcKFFppxU1GWzSt7zEOKNtqfcR9AuH8YY6mjET4",
-      "pictureSource": "The Canberra Times",
+      "title": "wimbledon 2025",
+      "trafficCount": "2000+",
+      "pubDate": "Thu, 3 Jul 2025 12:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjt_PsOtq5893qqWeiLWPKt9nru6zPCj2lwNUbkABpTs1VNUqwCw67wmnFbDU",
+      "pictureSource": "Nine",
       "relatedSearch": [
         {
-          "title": "Bad practice makes perfect for Wimbledon hope Rinky",
+          "title": "Seeds keep tumbling at Wimbledon as women's No.4 loses to underdog Russian in second round",
           "snippet": "",
-          "url": "https://www.canberratimes.com.au/story/9007150/bad-practice-makes-perfect-for-wimbledon-hope-rinky/",
-          "source": "The Canberra Times"
+          "url": "https://www.nine.com.au/sport/tennis/wimbledon-2025-results-day-three-seeds-lose-jasmine-paolini-loses-to-kamilla-rakhimova-20250703-p5mc4c.html",
+          "source": "Nine"
         },
         {
-          "title": "How shock Tomic loss sparked a savage Wimbledon breakthrough from young Aussie",
+          "title": "Paolini falls to Rakhimova, fourth Top 5 seed to lose at Wimbledon",
           "snippet": "",
-          "url": "https://www.foxsports.com.au/tennis/wimbledon/how-shock-tomic-loss-sparked-a-savage-wimbledon-breakthrough-from-young-aussie/news-story/5b4b7f92c85d610d33505e960de25e1f",
-          "source": "Fox Sports"
+          "url": "https://www.wtatennis.com/news/4300736/paolini-falls-to-rakhimova-fourth-top-5-seed-to-lose-at-wimbledon",
+          "source": "WTA Tennis"
         },
         {
-          "title": "Wimbledon 2025: Aussie delight as De Minaur, Vukic and Hijikata advance",
+          "title": "Joao Fonseca shows grit, another high seed falls, and Emma Raducanu gets ready for the spotlight",
           "snippet": "",
-          "url": "https://www.tennis.com.au/news/2025/07/01/wimbledon-2025-demon-delight-as-australian-no-1-advances",
-          "source": "Tennis Australia"
+          "url": "https://www.tennis.com/news/articles/joao-fonseca-emma-raducanu-jasmine-paolini-wimbledon-day-3",
+          "source": "Tennis.com"
         }
       ],
       "link": "https://imtaqin.id/"

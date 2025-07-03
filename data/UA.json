@@ -1,24 +1,52 @@
 {
-  "lastUpdate": "2025-07-03 05:56:59",
+  "lastUpdate": "2025-07-03 06:26:17",
   "data": [
+    {
+      "title": "новини полтави",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 2 Jul 2025 23:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9eoqDTeXbL1uJcyE3HJDl-LRNtQxqzUfTXNSin8Y6B98P-YRqCaZdgIFa8cw",
+      "pictureSource": "Інтернет-видання «Полтавщина",
+      "relatedSearch": [
+        {
+          "title": "Росіяни здійснили дроновий обстріл Полтавської громади",
+          "snippet": "",
+          "url": "https://poltava.to/news/81850/",
+          "source": "Інтернет-видання «Полтавщина"
+        },
+        {
+          "title": "ОВА: у Полтавській громаді пролунали вибухи",
+          "snippet": "",
+          "url": "https://www.telegraf.in.ua/around/10140960-u-poltavskij-gromadi-prolunav-vibuh.html",
+          "source": "Кременчуцький ТелеграфЪ"
+        },
+        {
+          "title": "Росіяни атакували центр Полтави",
+          "snippet": "",
+          "url": "https://zmist.pl.ua/news/rosiyany-atakuvaly-czentr-poltavy",
+          "source": "ЗМІСТ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "3 липня свято",
       "trafficCount": "200+",
       "pubDate": "Wed, 2 Jul 2025 20:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0G9Sus2bdeEuYNcdmXf09OeR3GNqvRxLJV_18Fyuv2s38AWlHGMVlJa_ZCds",
-      "pictureSource": "УНІАН",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpc2eV_hp3ot_5YKjZyOzCQcFm__BGFQaDGBGe41OPdiM-riZExQaC22TCi58",
+      "pictureSource": "ТСН",
       "relatedSearch": [
-        {
-          "title": "3 липня: церковне свято сьогодні, чому день вважається вкрай невдалим",
-          "snippet": "",
-          "url": "https://www.unian.ua/lite/holidays/yake-sogodni-cerkovne-svyato-3-lipnya-2025-roku-zaboroni-zvichaji-ta-prikmeti-dnya-13055349.html",
-          "source": "УНІАН"
-        },
         {
           "title": "День ангела 3 липня: кого та як вітати з іменинами",
           "snippet": "",
           "url": "https://tsn.ua/other/den-anhela-3-lypnia-koho-ta-iak-vitaty-z-imenynamy-2859050.html",
           "source": "ТСН"
+        },
+        {
+          "title": "3 липня: церковне свято сьогодні, чому день вважається вкрай невдалим",
+          "snippet": "",
+          "url": "https://www.unian.ua/lite/holidays/yake-sogodni-cerkovne-svyato-3-lipnya-2025-roku-zaboroni-zvichaji-ta-prikmeti-dnya-13055349.html",
+          "source": "УНІАН"
         },
         {
           "title": "Пам’ятні події 3 липня: історія в датах",
@@ -33,15 +61,9 @@
       "title": "главком",
       "trafficCount": "100+",
       "pubDate": "Wed, 2 Jul 2025 19:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnl7DAe3dATVa7SzeVL3UzBKuDDBiMrgHZdRTV5l8321BKdpbIJbeCwgQuyq0",
-      "pictureSource": "ТСН",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfAjfSqgEtfRMM1KWTPJRZFSw203E61uGMZqwVY3GzSVyIyKz3QsGQtsSFMI0",
+      "pictureSource": "Європейська правда",
       "relatedSearch": [
-        {
-          "title": "США припиняють постачання зброї: в ISW попередили про серйозні наслідки для ЗСУ",
-          "snippet": "",
-          "url": "https://tsn.ua/ato/ssha-prypyniaiut-postachannia-zbroyi-v-isw-poperedyly-pro-seryozni-naslidky-dlia-zsu-2862341.html",
-          "source": "ТСН"
-        },
         {
           "title": "Politico: зупинка поставок зброї Україні застала частину посадовців у США зненацька",
           "snippet": "",
@@ -49,10 +71,16 @@
           "source": "Європейська правда"
         },
         {
-          "title": "У Пентагоні заявили, що надають рекомендації Трампу щодо військової допомоги Україні",
+          "title": "США припиняють постачання зброї: в ISW попередили про серйозні наслідки для ЗСУ",
           "snippet": "",
-          "url": "https://www.pravda.com.ua/news/2025/07/3/7519946/",
-          "source": "Українська правда"
+          "url": "https://tsn.ua/ato/ssha-prypyniaiut-postachannia-zbroyi-v-isw-poperedyly-pro-seryozni-naslidky-dlia-zsu-2862341.html",
+          "source": "ТСН"
+        },
+        {
+          "title": "Польща відреагувала на зупинку поставок зброї США",
+          "snippet": "",
+          "url": "https://ua.korrespondent.net/world/worldabus/4795440-polscha-vidreahuvala-na-zupynku-postavok-zbroi-ssha",
+          "source": "Korrespondent.net"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,9 +89,15 @@
       "title": "курс доллара к гривне",
       "trafficCount": "500+",
       "pubDate": "Wed, 2 Jul 2025 19:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrzWEFTeZxsI09-6gMDnZbYrjqjzWeG1-xQ-6uDNSq3y6n8oqoYEicjysGSCY",
-      "pictureSource": "Мінфін",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6krbf-5nfwKhCkWqPs0ntBb6cvb97IoKXfkn2Za_OtgEvHmXuvEFWa4bvRmo",
+      "pictureSource": "Економічна правда",
       "relatedSearch": [
+        {
+          "title": "Курс евро уже выше 50 гривен. Что происходит?",
+          "snippet": "",
+          "url": "https://epravda.com.ua/rus/finances/pochemu-kurs-evro-rastet-i-chto-budet-dalshe-808767/",
+          "source": "Економічна правда"
+        },
         {
           "title": "Курс валют: доллар и евро резко подешевели на межбанке",
           "snippet": "",
@@ -75,12 +109,6 @@
           "snippet": "",
           "url": "https://prm.ua/ru/ystorycheskyy-rost-evro-v-obmennykakh-stoyt-okolo-50-hryven/",
           "source": "Прямий"
-        },
-        {
-          "title": "Курс валют на 2 июля: евро шестой раз за лето обновил рекорд",
-          "snippet": "",
-          "url": "https://epravda.com.ua/rus/finances/kurs-valyut-na-sredu-2-iyulya-evro-obnovil-rekord-808719/",
-          "source": "Економічна правда"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -108,16 +136,16 @@
           "source": "Українська правда"
         },
         {
-          "title": "В результате ночной атаки пострадали пять человек, двое из них - дети (фото, видео)",
-          "snippet": "",
-          "url": "https://dumskaya.net/news/v-rezultate-nochnoy-ataki-postradali-pyat-chelov-188352/",
-          "source": "Думская"
-        },
-        {
           "title": "В Одессе российский «шахед» попал в многоэтажку: есть пострадавшие (ДОПОЛНЕНО)",
           "snippet": "",
           "url": "https://hromadske.ua/ru/voyna/247443-v-odesse-rossiyskiy-shahed-popal-v-mnogoetazhku-est-postradavshie-dopolneno",
           "source": "Hromadske"
+        },
+        {
+          "title": "В Одессе на фоне атаки \"Шахедами\" прогремели взрывы: есть попадания",
+          "snippet": "",
+          "url": "https://www.rbc.ua/ukr/news/odesi-tli-ataki-shahedami-prolunali-vibuhi-1751501017.html",
+          "source": "РБК-Україна"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -136,10 +164,10 @@
           "source": "NDTV"
         },
         {
-          "title": "After restoration due to ‘technical error’, govt blocks Pak social media channels",
+          "title": "Pakistani actors Mawra Hocane, Saba Qamar, Danish Taimoor and others’ social media accounts banned again",
           "snippet": "",
-          "url": "https://www.hindustantimes.com/india-news/after-restoration-due-to-technical-error-govt-blocks-pak-social-media-channels-101751520347607.html",
-          "source": "Hindustan Times"
+          "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pakistani-actors-mawra-hocane-saba-qamar-danish-taimoor-and-others-social-media-accounts-banned-again-in-india-just-a-day-after-they-were-made-visible/articleshow/122218927.cms",
+          "source": "Times of India"
         },
         {
           "title": "Ban on Pak social media accounts reinstated again amid backlash",
@@ -164,9 +192,9 @@
           "source": "Українська правда"
         },
         {
-          "title": "В оккупированном Харцызске прогремели взрывы: что известно",
+          "title": "Партизаны анонсировали \"горячее лето\" оккупантам Донецкой области",
           "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/okupovanomu-hartsizku-progrimili-vibuhi-shcho-1751488964.html",
+          "url": "https://www.rbc.ua/ukr/news/partizani-anonsuvali-garyache-lito-okupantam-1751505743.html",
           "source": "РБК-Україна"
         },
         {
@@ -192,16 +220,16 @@
           "source": "Українська правда"
         },
         {
-          "title": "Вибухи в Харцизьку: OSINT вказує на склад зброї [відео] | The Page",
-          "snippet": "",
-          "url": "https://thepage.ua/ua/news/vibuhi-v-harcizku-osint-vkazuye-na-sklad-zbroyi-video",
-          "source": "The Page"
-        },
-        {
           "title": "В окупованому Харцизьку палає: повідомляють про атаку на склад боєприпасів (відео)",
           "snippet": "",
           "url": "https://tsn.ua/ato/v-okupovanomu-khartsyzku-palaye-povidomliaiut-pro-ataku-skladu-boyeprypasiv-video-2862281.html",
           "source": "ТСН"
+        },
+        {
+          "title": "В окупованому Харцизьку пролунали потужні вибухи з детонацією",
+          "snippet": "",
+          "url": "https://militarnyi.com/uk/news/v-okupovanomu-hartsyzku-prolunaly-potuzhni-vybuhy-z-detonatsiyeyu/",
+          "source": "Мілітарний"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -224,34 +252,6 @@
           "snippet": "",
           "url": "https://www.nur.kz/showbiz/image/2261739-vsegda-na-vysote-foto-brezhnevoy-iz-moldovy-voshitili-ee-fanatov/",
           "source": "NUR.KZ"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "твіч",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 2 Jul 2025 12:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0NY07HuX3ZFEHQmOzv-kInua8Wy97Qmv3Z09s5E-rFe3m8Q7UpkqwNYxqRZk",
-      "pictureSource": "Times of India",
-      "relatedSearch": [
-        {
-          "title": "'He asked me not to speak': Ludwig reveals Mang0 asked him not to speak on viral Beerio Kart controversy",
-          "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/sports/esports/news/he-asked-me-not-to-speak-ludwig-reveals-mang0-asked-him-not-to-speak-on-viral-beerio-kart-controversy/articleshow/122203110.cms",
-          "source": "Times of India"
-        },
-        {
-          "title": "Mang0 Unbanned on Twitch After 1 Week",
-          "snippet": "",
-          "url": "https://www.si.com/esports/news/mang0-unbanned-on-twitch",
-          "source": "Sports Illustrated"
-        },
-        {
-          "title": "mang0 loses contract with Cloud9 after Beerio Kart controversy",
-          "snippet": "",
-          "url": "https://www.sportsadda.com/esports/news-esports/cloud9-cuts-ties-with-mang0-after-beerio-kart-incident/",
-          "source": "SportsAdda"
         }
       ],
       "link": "https://imtaqin.id/"

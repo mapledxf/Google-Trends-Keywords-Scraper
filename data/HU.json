@@ -1,30 +1,86 @@
 {
-  "lastUpdate": "2025-07-07 04:19:42",
+  "lastUpdate": "2025-07-07 04:50:00",
   "data": [
     {
-      "title": "lottó",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 6 Jul 2025 20:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSupq0AxruyhM6dz5XVty4oTXMcFmf9RJG5fm4ZVr0b05v76XeXg4CEmH3xsiw",
+      "title": "weather",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 6 Jul 2025 21:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTee8YsGMnyIDM4NEz9tz5WhgnCePXJYzaQ-o4tbC9Ju1gTbWzgdBBfupM_keQ",
+      "pictureSource": "CNN",
+      "relatedSearch": [
+        {
+          "title": "At least 81 dead in catastrophic Texas floods as governor warns of more rain to come",
+          "snippet": "",
+          "url": "https://www.cnn.com/weather/live-news/texas-flooding-camp-mystic-07-06-25-hnk",
+          "source": "CNN"
+        },
+        {
+          "title": "Camp Mystic girls sob and sing campfire songs as they are evacuated from horrifying Texas flood zone: video",
+          "snippet": "",
+          "url": "https://nypost.com/2025/07/06/us-news/camp-mystic-girls-sob-and-sing-campfire-songs-as-they-are-evacuated-from-horrifying-texas-flood-zone-video/",
+          "source": "New York Post"
+        },
+        {
+          "title": "Flash floods have long haunted the Texas Hill Country",
+          "snippet": "",
+          "url": "https://www.kvue.com/article/news/history/flash-floods-texas-hill-country-guadalupe-river-history/269-aa40ee53-fab5-4ad6-8943-e5b089282399",
+          "source": "KVUE"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "időjárás",
+      "trafficCount": "20000+",
+      "pubDate": "Sun, 6 Jul 2025 21:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5Qrkaa2EPrtWgBmdMyWxivDja0z23Ep1kzcnSpzi1lW9sh0fyBMfMrGo6ILE",
       "pictureSource": "Index.hu",
       "relatedSearch": [
         {
-          "title": "Gazdaság - Kisorsolták a hatos lottó nyerőszámait",
+          "title": "Belföld - Záporokkal, zivatarokkal rúgja ránk az ajtót a hidegfront",
           "snippet": "",
-          "url": "https://index.hu/gazdasag/2025/07/06/hatos-lotto-hatoslotto-szerencsejatek-zrt-lotto-nyeroszamok/",
+          "url": "https://index.hu/belfold/2025/07/07/idojaras-radar-meteorologia-hidegfront-zapor-zivatar-szel/",
           "source": "Index.hu"
         },
         {
-          "title": "Tiéd lett az 580 millió forint? Ezek a Hatoslottó nyerőszámai",
+          "title": "Esővel, viharokkal érkezik a hidegfront – az ország nagy részére már kiadták a riasztást",
           "snippet": "",
-          "url": "https://ripost.hu/manimeker/2025/07/tied-lett-az-580-millio-forint-ezek-a-hatoslotto-szamai",
-          "source": "Ripost"
+          "url": "https://24.hu/belfold/2025/07/07/ido-idojaras-elorejelzes-vihar/",
+          "source": "24.hu"
         },
         {
-          "title": "Megugrott a főnyeremény: ezek a Hatoslottó eheti nyerőszámai",
+          "title": "Kiadták a másodfokú figyelmeztetéseket – térképes heti előrejelzés",
           "snippet": "",
-          "url": "https://www.blikk.hu/gazdasag/penz/hatoslotto-lotto-sorsolas-nyeroszamok/sp87508",
-          "source": "Blikk"
+          "url": "https://infostart.hu/eletmod/2025/07/07/kiadtak-a-masodfoku-figyelmezteteseket-terkepes-heti-elorejelzes",
+          "source": "Infostart"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "lottó",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 6 Jul 2025 20:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEi2G65I3-FDZVaX8a40fhg48R0rOd9GDYtUmWDPDgp0OiPnS_VUNBX0976hk",
+      "pictureSource": "24.hu",
+      "relatedSearch": [
+        {
+          "title": "Ötöslottó: itt vannak az e heti nyerőszámok",
+          "snippet": "",
+          "url": "https://24.hu/belfold/2025/07/05/otoslotto-nyeroszamok-2025-27-het-szerencsejatek/",
+          "source": "24.hu"
+        },
+        {
+          "title": "Gazdaság - Kihúzták az ötös lottó nyerőszámait",
+          "snippet": "",
+          "url": "https://index.hu/gazdasag/2025/07/05/otos-lotto-szerencsejatek-nyeremeny-nyeroszam/",
+          "source": "Index.hu"
+        },
+        {
+          "title": "Itthon: Megvannak az ötös lottó nyerőszámai",
+          "snippet": "",
+          "url": "https://hvg.hu/itthon/20250705_lotto-27-het-nyeroszamok-ebx",
+          "source": "| hvg.hu"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -71,44 +127,16 @@
           "source": "Index.hu"
         },
         {
-          "title": "Földrengések rázták meg Csongrádot – megjött a tudományos magyarázat, és nem túl megnyugtató",
-          "snippet": "",
-          "url": "https://naphire.hu/cikk/foldrenges-csongrad-magyarazat-kutatok",
-          "source": "Naphire.hu"
-        },
-        {
           "title": "Itthon: Ismét rengett a föld Csongrád környékén, ez erősebb volt mint az előző napi",
           "snippet": "",
           "url": "https://hvg.hu/itthon/20250705_csongrad-foldrenges-foldmozgas",
           "source": "| hvg.hu"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "vihar",
-      "trafficCount": "10000+",
-      "pubDate": "Sun, 6 Jul 2025 14:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxDwJU5dFOXpCCixt8n3M1qfuZ53_oIPeWm9kanW1kyRMVQA1HYouZgf-NGbE",
-      "pictureSource": "Infostart",
-      "relatedSearch": [
-        {
-          "title": "Kiadták a másodfokú figyelmeztetéseket – térképes heti előrejelzés",
-          "snippet": "",
-          "url": "https://infostart.hu/eletmod/2025/07/07/kiadtak-a-masodfoku-figyelmezteteseket-terkepes-heti-elorejelzes",
-          "source": "Infostart"
         },
         {
-          "title": "Belföld - Hidegfront söpör végig az országon: nagyot zuhan a hőmérséklet",
+          "title": "Ismét megremegett a föld Csongrád határában",
           "snippet": "",
-          "url": "https://index.hu/belfold/2025/07/06/idojaras-radar-meteorologia-zapor-zivatar-felho-eso-hidegfront-szel/",
-          "source": "Index.hu"
-        },
-        {
-          "title": "Indul a műsor: így törnek be Magyarországra a zivatarcellák, felvételek érkeztek",
-          "snippet": "",
-          "url": "https://www.portfolio.hu/gazdasag/20250706/indul-a-musor-igy-tornek-be-magyarorszagra-a-zivatarcellak-felvetelek-erkeztek-772725",
-          "source": "Portfolio.hu"
+          "url": "https://www.idokep.hu/hirek/ismet-megremegett-a-fold-csongrad-hataraban",
+          "source": "Időkép"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,14 +145,14 @@
       "title": "havas henrik",
       "trafficCount": "500+",
       "pubDate": "Sun, 6 Jul 2025 12:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcra7LZ4_X1D1zm-LLWhZL1SBR_Ni7HVJAy91RTIGBmGPnWayjBm4zQc0M-h8",
-      "pictureSource": "24.hu",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8_4yOy9P1jSacYM0RVtd08-2a3dgb12peDvrMAMEp-4YFhb5CpXPkWDY0QOo",
+      "pictureSource": "Index.hu",
       "relatedSearch": [
         {
-          "title": "Havas Henrik: A helyzet az, hogy prosztatarákom van",
+          "title": "Belföld - Havas Henrik: Prosztatarákom van, múlt pénteken fejeződött be a sugárterápia",
           "snippet": "",
-          "url": "https://24.hu/szorakozas/2025/07/06/havas-henrik-rakos-betegseg/",
-          "source": "24.hu"
+          "url": "https://index.hu/belfold/2025/07/06/havas-henrik-kuncze-gabor-daganat-rak-kemoterapia-sugarkezeles/",
+          "source": "Index.hu"
         },
         {
           "title": "Havas Henrik széllel szemben nem pisil, ezért inkább beleesett egy bokorba",
@@ -237,34 +265,6 @@
           "snippet": "",
           "url": "https://www.superherohype.com/guides/608702-fast-x-part-2-furious-11-paul-walker-brian-return-how-cgi",
           "source": "SuperHeroHype"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ines de ramon",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 6 Jul 2025 10:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLH27KnAHHqEIzhM-xRyM5_CO9l6GTbnsGcPivesZc0CR1VLz_TkFhMnEFCpg",
-      "pictureSource": "People.com",
-      "relatedSearch": [
-        {
-          "title": "Where Is the Army Wives Cast Now? See What the Stars Have Been Up to 12 Years Since the Series Wrapped",
-          "snippet": "",
-          "url": "https://people.com/where-is-the-army-wives-cast-now-11765516",
-          "source": "People.com"
-        },
-        {
-          "title": "Everything We Know About Ines de Ramon, Brad Pitt’s Girlfriend Of Two Years",
-          "snippet": "",
-          "url": "https://www.elle.com.au/culture/celebrity/who-is-ines-de-ramon-brad-pitt-girlfriend/",
-          "source": "ELLE Australia"
-        },
-        {
-          "title": "Scarlett Johansson and Colin Jost Match in All-White While in New York, Plus Brad Pitt, Prince William and More",
-          "snippet": "",
-          "url": "https://www.yahoo.com/entertainment/articles/brad-pitt-ines-ramon-date-100000330.html",
-          "source": "Yahoo"
         }
       ],
       "link": "https://imtaqin.id/"

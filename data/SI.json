@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2025-07-07 14:35:54",
+  "lastUpdate": "2025-07-07 14:51:08",
   "data": [
     {
       "title": "žurnal",
       "trafficCount": "200+",
       "pubDate": "Sun, 6 Jul 2025 22:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhLpbxEGE_xmvYIhF7mIpbcTIGhigvi6KfzqOFZXlL9vfgF5X_mRhosuT9Pcg",
-      "pictureSource": "Žurnal24",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT11YEeC9vuEfwKBma-7L1DpG0AFaXi1S77_HrH8ZqhjrrP6MMDkicChriskLY",
+      "pictureSource": "Info360",
       "relatedSearch": [
+        {
+          "title": "Pozor: Če vozite, katerega od teh vozil, pojdite na servis",
+          "snippet": "",
+          "url": "https://info360.si/aktualno/pozor-ce-vozite-katerega-od-teh-vozil-pojdite-na-servis/",
+          "source": "Info360"
+        },
         {
           "title": "Brez popravila teh avtov ne boste več mogli registrirati",
           "snippet": "",
@@ -19,12 +25,6 @@
           "snippet": "",
           "url": "https://www.slovenskenovice.si/novice/slovenija/je-vas-avto-na-seznamu-za-vpoklic/",
           "source": "Slovenske novice"
-        },
-        {
-          "title": "Znano, katera Volkswagnova vozila so del odpoklica",
-          "snippet": "",
-          "url": "https://info360.si/aktualno/znano-katera-volkswagnova-vozila-so-del-odpoklica/",
-          "source": "Info360"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,19 +33,13 @@
       "title": "rtvslo",
       "trafficCount": "200+",
       "pubDate": "Sun, 6 Jul 2025 21:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm8VIEoszWZKOotM_EggmemE8n5lmWTyVJ9L3vwsBXkJ1A7A0A2bUvE_2v7A0",
-      "pictureSource": "24ur.com",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgcCg9e6lJxrLbYAgw1OpCXPbVK64mMiGGdESS-Cx4MfhxC2LcpQulAgSEwNQ",
+      "pictureSource": "rtvslo.si",
       "relatedSearch": [
         {
-          "title": "Ponekod v le nekaj urah padla več kot mesečna količina dežja",
+          "title": "Padavine zajele tudi vzhod države, nočni nalivi povzročali težave na Ajdovskem",
           "snippet": "",
-          "url": "https://www.24ur.com/novice/slovenija/nevihtna-linija-od-trzaskega-zaliva-do-notranjosti-drzave.html",
-          "source": "24ur.com"
-        },
-        {
-          "title": "Največ dežja do zdaj padlo na zahodu, na vzhodu pa le za vzorec",
-          "snippet": "",
-          "url": "https://www.rtvslo.si/okolje/vreme/najvec-dezja-do-zdaj-padlo-na-zahodu-na-vzhodu-pa-le-za-vzorec/751129",
+          "url": "https://www.rtvslo.si/okolje/vreme/padavine-zajele-tudi-vzhod-drzave-nocni-nalivi-povzrocali-tezave-na-ajdovskem/751129",
           "source": "rtvslo.si"
         },
         {
@@ -53,6 +47,12 @@
           "snippet": "",
           "url": "https://www.slovenskenovice.si/novice/slovenija/arso-ponovno-prizgal-alarm-to-nam-grozi-v-noci-na-torek-foto/",
           "source": "Slovenske novice"
+        },
+        {
+          "title": "Poglejte, kako se nevihte premikajo po Sloveniji",
+          "snippet": "",
+          "url": "https://n1info.si/novice/slovenija/po-drzavi-nastajajo-manjse-nevihte-spremljajte-kako-se-premikajo/",
+          "source": "N1 Slovenija"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -71,10 +71,10 @@
           "source": "24ur.com"
         },
         {
-          "title": "Pozor: nesreča na primorki. Zamuda dve uri in pol.",
+          "title": "Nikar na primorsko avtocesto: kolona sega od Vrhnike do Ljubljane",
           "snippet": "",
-          "url": "https://siol.net/novice/slovenija/pozor-nesreca-na-primorki-zamuda-dev-uri-in-pol-666892",
-          "source": "Siol.net"
+          "url": "https://svet24.si/novice/slovenija/nikar-na-primorsko-avtocesto-kolona-sega-od-vrhnike-do-ljubljane-1831478",
+          "source": "Svet24.si"
         },
         {
           "title": "Primorska avtocesta zaprta pri razcepu Kozarje",
@@ -99,16 +99,16 @@
           "source": "24ur.com"
         },
         {
-          "title": "Novinar POP TV dokončno oddan, poglejte si to poročno fotografijo!",
-          "snippet": "",
-          "url": "https://www.zurnal24.si/magazin/novinar-pop-tv-stopil-pred-oltar-poglejte-si-to-porocno-fotografijo-443621",
-          "source": "Žurnal24"
-        },
-        {
           "title": "Poroka slovenskega novinarja v objemu gora #foto",
           "snippet": "",
           "url": "https://siol.net/sportal/drugi-sporti/sportni-novinar-poroka-dolomiti-666834",
           "source": "Siol.net"
+        },
+        {
+          "title": "Novinar POP TV dokončno oddan, poglejte si to poročno fotografijo!",
+          "snippet": "",
+          "url": "https://www.zurnal24.si/magazin/novinar-pop-tv-stopil-pred-oltar-poglejte-si-to-porocno-fotografijo-443621",
+          "source": "Žurnal24"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +127,16 @@
           "source": "Chicago Tribune"
         },
         {
-          "title": "Tuesday 7 Day Forecast",
+          "title": "Sunny weekend ahead with rising temps on the way across Arizona",
           "snippet": "",
-          "url": "https://www.kgns.tv/video/2025/07/01/tuesday-7-day-forecast/",
-          "source": "KGNS"
+          "url": "https://www.azfamily.com/2025/07/05/hotter-temps-ahead-phoenix-area/",
+          "source": "AZFamily"
         },
         {
-          "title": "Weather: 7-day forecast",
+          "title": "Hundreds of Thousands Told To Avoid Sun: 'Deadliest Weather Phenomenon'",
           "snippet": "",
-          "url": "https://www.ourmidland.com/news/article/weather-7-day-forecast-20758915.php",
-          "source": "Midland Daily News"
+          "url": "https://www.newsweek.com/extreme-heat-warning-california-arizona-thousands-told-avoid-sun-2095360",
+          "source": "Newsweek"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +183,16 @@
           "source": "The Guardian"
         },
         {
-          "title": "As It Happened: Uphill sprint sees the best riders in the world come to the fore on stage 2 of the Tour de France",
-          "snippet": "",
-          "url": "https://www.cyclingnews.com/races/tour-de-france-2025/stage-2/live-report/",
-          "source": "Cyclingnews"
-        },
-        {
           "title": "Tour de France: Mathieu van der Poel edges out Tadej Pogacar in sprint finish to win stage two",
           "snippet": "",
           "url": "https://www.bbc.com/sport/cycling/articles/cqx231j1njgo",
           "source": "BBC"
+        },
+        {
+          "title": "As It Happened: Uphill sprint sees the best riders in the world come to the fore on stage 2 of the Tour de France",
+          "snippet": "",
+          "url": "https://www.cyclingnews.com/races/tour-de-france-2025/stage-2/live-report/",
+          "source": "Cyclingnews"
         }
       ],
       "link": "https://imtaqin.id/"

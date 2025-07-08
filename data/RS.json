@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2025-07-08 08:35:27",
+  "lastUpdate": "2025-07-08 08:55:42",
   "data": [
+    {
+      "title": "dubovo",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 8 Jul 2025 01:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcoaweCNljok69mWcr4URN65QBtZ4XTKhfRxFaWtMvUJEDSj7Cfhsv4vX22aQ",
+      "pictureSource": "Južne vesti",
+      "relatedSearch": [
+        {
+          "title": "Požari u Toplici ugrozili sela, više kuća izgorelo, četiri osobe povređene, a vanredna situacija u Kuršumliji i Žitorađi",
+          "snippet": "",
+          "url": "https://www.juznevesti.com/hronika/pozari-u-toplici-ugrozili-sela-vise-kuca-izgorelo-cetiri-osobe-povredjene-a-vanredna-situacija-u-kursumliji-i-zitoradji/",
+          "source": "Južne vesti"
+        },
+        {
+          "title": "Hitan apel studenata iz Niša: Pomozimo stanovnicima Kuršumlijskog i Topličkog kraja koji se bore sa požarima",
+          "snippet": "",
+          "url": "https://nova.rs/vesti/drustvo/hitan-apel-studenata-iz-nisa-pomozimo-stanovnicima-kursumlijskog-i-toplickog-kraja-koji-se-bore-sa-pozarima/",
+          "source": "Nova"
+        },
+        {
+          "title": "Veliki broj požara u okolini Prokuplja, gore objekti, trava i nisko rastinje",
+          "snippet": "",
+          "url": "https://n1info.rs/vesti/veliki-broj-pozara-u-okolini-prokuplja-gore-objekti-trava-i-nisko-rastinje/",
+          "source": "N1"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "weather",
       "trafficCount": "2000+",
       "pubDate": "Mon, 7 Jul 2025 21:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpu1bs0Z3_aFNJQZgRZyTX3oIyqjQ2oZnLT0_3vecbEWpwE_vVGHZzIs2AzTQ",
-      "pictureSource": "NPR",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIjb0Tvits0K7nVFR13f6lTIVOAJaOUYur-O8ZgrJcCNKoCQqP8KqUcIVLUCM",
+      "pictureSource": "Big Island Now",
       "relatedSearch": [
         {
-          "title": "Floods are getting more dangerous around the country, not just in Texas",
+          "title": "Hawaii County Weather Forecast for July 08, 2025",
           "snippet": "",
-          "url": "https://www.npr.org/2025/07/07/nx-s1-5459755/texas-floods-climate-change",
-          "source": "NPR"
+          "url": "https://bigislandnow.com/2025/07/07/hawaii-county-weather-forecast-for-july-08-2025/",
+          "source": "Big Island Now"
         },
         {
-          "title": "What sets Texas floods apart: Kids died in heart-wrenching numbers",
+          "title": "Hawaii County Weather Forecast for July 03, 2025",
           "snippet": "",
-          "url": "https://www.washingtonpost.com/weather/2025/07/07/texas-floods-children-death-toll-disaster/",
-          "source": "The Washington Post"
+          "url": "https://bigislandnow.com/2025/07/02/hawaii-county-weather-forecast-for-july-03-2025/",
+          "source": "Big Island Now"
         },
         {
-          "title": "How much rain fell in Texas that caused the catastrophic flooding?",
+          "title": "Hawaii County Weather Forecast for July 06, 2025",
           "snippet": "",
-          "url": "https://www.cbsnews.com/news/texas-flooding-guadalupe-river-how-much-rain-fell-national-weather-service/",
-          "source": "CBS News"
+          "url": "https://bigislandnow.com/2025/07/05/hawaii-county-weather-forecast-for-july-06-2025/",
+          "source": "Big Island Now"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,26 +61,26 @@
       "title": "mts",
       "trafficCount": "500+",
       "pubDate": "Mon, 7 Jul 2025 21:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJ-ifjUK28CRjzf9pM978RqpuJjtoi7VkICqaJTGLv2OeqzLFU60mlKeM9wdo",
-      "pictureSource": "Moj Novi Sad",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWI8PcXyOVXXlljFc6JmeW3gGPCKodZ-aaC4WoQJBsGZGtsLwQYR-FCgakXD4",
+      "pictureSource": "B92",
       "relatedSearch": [
+        {
+          "title": "Nova SMS prevara kruži Srbijom: Obratite pažnju na ovo",
+          "snippet": "",
+          "url": "https://www.b92.net/biz/srbija/vesti/143574/nova-sms-prevara-kruzi-srbijom-obratite-paznju-na-ovo/vest",
+          "source": "B92"
+        },
+        {
+          "title": "Upozorenje za sve korisnike MTS-a: Velika prevara putem poruka, pripazite posebno u romingu",
+          "snippet": "",
+          "url": "https://www.blic.rs/biznis/moj-novcanik/upozorenje-za-sve-korisnike-mts-a-velika-prevara-putem-poruka-pripazite-posebno-u/k2pqgc1",
+          "source": "Blic"
+        },
         {
           "title": "Korisnici MTS-a na meti nove SMS prevare",
           "snippet": "",
           "url": "https://www.mojnovisad.com/vesti/korisnici-mts-a-na-meti-nove-sms-prevare-id70647.html",
           "source": "Moj Novi Sad"
-        },
-        {
-          "title": "24 sata o Obrenovcu - NOVA INTERNET PREVARA - STIŽU LAŽNE SMS PORUKE",
-          "snippet": "",
-          "url": "https://rtvmag.co.rs/24_sata_o_obrenovcu_objava.php?o=31898",
-          "source": "RTV Mag"
-        },
-        {
-          "title": "NOVA PREVARA VREBA GRAĐANE! Ukoliko vam stigne ova poruka, pazite gde klikćete - Stručnjaci upozorili na straš",
-          "snippet": "",
-          "url": "https://www.kurir.rs/vesti/drustvo/9717630/ukoliko-vam-stigne-ova-poruka-pazite-gde-klikcete-strucnjaci-upozorili-na-strasne-prevare",
-          "source": "Kurir"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,20 +89,20 @@
       "title": "užice",
       "trafficCount": "200+",
       "pubDate": "Mon, 7 Jul 2025 14:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2VIT9pxMb2P_ivGi9F5qo6F271OaaK3LR6gXd8Vtw6r226u6Rp2a7ONPXkBc",
-      "pictureSource": "N1",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7vtNqZEJTXS1nY32dFM6e113G8yMKdRmlIAYktT2393zx40n1b-Labt2XZcs",
+      "pictureSource": "Nova",
       "relatedSearch": [
         {
-          "title": "(BLOG) Deveti dan blokada: Protest u Užicu zbog hapšenja sedam osoba",
+          "title": "BLOG UŽIVO Protest ispred suda u Užicu zbog uhapšenih",
           "snippet": "",
-          "url": "https://n1info.rs/vesti/blog-najnovije-vesti-protesti-blokade-sirom-srbije-8-jul-2025-godine/",
-          "source": "N1"
+          "url": "https://nova.rs/vesti/drustvo/blog-uzivo-protest-ispred-suda-u-uzicu-zbog-uhapsenih/",
+          "source": "Nova"
         },
         {
-          "title": "Policija sprovodi advokata i odbornika Radovana Novakovića, Užičani skndiraju njegovo ime VIDEO",
+          "title": "Saobraćaj u Beogradu uglavnom prohodan, protesti na nekoliko raskrsnica; blokiran magistralni put kod Užica",
           "snippet": "",
-          "url": "https://nova.rs/vesti/politika/policija-sprovodi-advokata-i-odbornika-radovana-novakovica-uzicani-skndiraju-njegovo-ime-video/",
-          "source": "Nova"
+          "url": "https://www.rts.rs/lat/vesti/politika/5744787/saobracaj-u-beogradu-uglavnom-prohodan-protesti-na-nekoliko-raskrsnica-blokiran-magistralni-put-kod-uzica.html",
+          "source": "РТС :: Насловна"
         },
         {
           "title": "(FOTO, VIDEO) BLOKADE U BEOGRADU Oglasio se Dačić, uhapšeno više lica zbog probijanja kordona u Užicu",
@@ -133,10 +161,10 @@
           "source": "Nova"
         },
         {
-          "title": "Mari kritikovao organizatore neposredno pre povrede Dimitrova",
+          "title": "Novak Đoković se oglasio na bugarskom posle nezasluženog prolaska Sinera, ovo je poručio svom prijatelju",
           "snippet": "",
-          "url": "https://sportklub.n1info.rs/tenis/wimbledon/endi-mari-kritikovao-organizatore-vimbldona-povreda-grigor-dimitrov-janik-siner-sport-klub/",
-          "source": "Sportklub"
+          "url": "https://www.telegraf.rs/sport/vimbldon/4140347-novak-djokovic-se-oglasio-na-bugarskom-posle-nezasluzenog-prolaska-sinera-ovo-je-porucio-svom-prijatelju",
+          "source": "Telegraf.rs"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -217,10 +245,10 @@
           "source": "WTA Tennis"
         },
         {
-          "title": "Tennis prodigy leaves Wimbledon rival baffled after failing to realize match is over",
+          "title": "‘It was my dream, Andreeva starstruck as Federer attends her Wimbledon win",
           "snippet": "",
-          "url": "https://www.themirror.com/sport/tennis/mirra-andreeva-emma-navarro-wimbledon-1251271",
-          "source": "The Mirror US"
+          "url": "https://www.geosuper.tv/latest/46182-it-was-my-dream-andreeva-starstruck-as-federer-attends-her-wimbledon-win",
+          "source": "Geo Super"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,44 +267,16 @@
           "source": "The Guardian"
         },
         {
-          "title": "Ben Shelton issues complaint at Wimbledon umpire for what Lorenzo Sonego kept doing during their match",
+          "title": "Annabel Croft red-faced in Wimbledon interview as Ben Shelton corrects her",
           "snippet": "",
-          "url": "https://tennishead.net/ben-shelton-issues-complaint-at-wimbledon-umpire-for-what-lorenzo-sonego-kept-doing-during-their-match/",
-          "source": "Tennishead"
+          "url": "https://www.express.co.uk/sport/tennis/2078750/Annabel-Croft-Ben-Shelton-Wimbledon-interview",
+          "source": "Daily Express"
         },
         {
           "title": "Ben Shelton credits 1 amazing tennis skill to his football career as a quarterback",
           "snippet": "",
           "url": "https://sports.yahoo.com/article/ben-shelton-credits-1-amazing-195827233.html",
           "source": "Yahoo Sports"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "morrissey beograd",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 7 Jul 2025 10:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0nmeaSUqMojEX89dmb8NMzXhoWolMeHrdAmTnNwpcUlEL0GZI7rOYJfc-Jjs",
-      "pictureSource": "B92",
-      "relatedSearch": [
-        {
-          "title": "Morrissey otkazao koncert u Beogradu",
-          "snippet": "",
-          "url": "https://www.b92.net/kultura/muzika/144319/morrissey-otkazao-koncert-u-beogradu/vest",
-          "source": "B92"
-        },
-        {
-          "title": "Otkazan koncert britanskog muzičara Morisija u Beogradu",
-          "snippet": "",
-          "url": "https://www.blic.rs/kultura/otkazan-koncert-britanskog-muzicara-morisija-u-beogradu/ww9w4r1",
-          "source": "Blic"
-        },
-        {
-          "title": "Otkazan koncert Morisija na Kalemegdanu",
-          "snippet": "",
-          "url": "https://www.danas.rs/kultura/scena/otkazan-koncert-morisija/",
-          "source": "Danas"
         }
       ],
       "link": "https://imtaqin.id/"

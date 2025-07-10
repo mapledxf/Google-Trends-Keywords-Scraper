@@ -1,18 +1,46 @@
 {
-  "lastUpdate": "2025-07-10 21:59:23",
+  "lastUpdate": "2025-07-10 22:22:00",
   "data": [
+    {
+      "title": "비트코인",
+      "trafficCount": "1000+",
+      "pubDate": "Thu, 10 Jul 2025 14:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTb4suf8146tQNGEuUoz1x6SYemvNpk2Nk4mStbnbKNb-ECOlqemuE7AP4BrYk",
+      "pictureSource": "연합뉴스",
+      "relatedSearch": [
+        {
+          "title": "기술주 훈풍·우호 환경에 비트코인 연일 최고가…당분간 상승?",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20250711006800091",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "비트코인 파죽지세…11만6천 달러선도 사상 첫 돌파(종합)",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20250711002752091",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "사상 최고가 찍은 비트코인…코오롱·신성이엔지 12% 급등",
+          "snippet": "",
+          "url": "https://www.hankyung.com/article/2025071010771",
+          "source": "한국경제"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "금시세",
       "trafficCount": "100+",
       "pubDate": "Thu, 10 Jul 2025 13:50:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6oKeEeLq1i1LyhPFISUBnnu6PNbCLx8T5v79j537O0wvLGHx2tQYcnnl1Jsw",
-      "pictureSource": "네이트",
+      "pictureSource": "NATE",
       "relatedSearch": [
         {
           "title": "[뉴욕금값] 국제 금값 4거래일 만에 반등…미국 채권시장 장기 금리 하락 여파",
           "snippet": "",
           "url": "https://news.nate.com/view/20250710n04310",
-          "source": "네이트"
+          "source": "NATE"
         },
         {
           "title": "[뉴욕 금가격] 무역 긴장에 소폭 상승…달러 강세로 오름폭 제한",
@@ -21,10 +49,10 @@
           "source": "연합인포맥스"
         },
         {
-          "title": "[오늘의 금시세] 순금 1돈 살 때 63만6000원, 팔 때 54만2000원 外",
+          "title": "[오늘 금시세]국내·국제 금값 모두 상승세",
           "snippet": "",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=703118",
-          "source": "이코노믹리뷰"
+          "url": "https://www.namdonews.com/news/articleView.html?idxno=826018",
+          "source": "남도일보"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -58,36 +86,8 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "비트코인 시세",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 10 Jul 2025 12:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTb4suf8146tQNGEuUoz1x6SYemvNpk2Nk4mStbnbKNb-ECOlqemuE7AP4BrYk",
-      "pictureSource": "연합뉴스",
-      "relatedSearch": [
-        {
-          "title": "기술주 훈풍·우호 환경에 비트코인 연일 최고가…당분간 상승?",
-          "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20250711006800091",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "‘위험 감수’ 암호화폐 일제 랠리, 리플 5%↑-비트 신고가(상보)",
-          "snippet": "",
-          "url": "https://www.news1.kr/world/usa-canada/5842620",
-          "source": "뉴스1"
-        },
-        {
-          "title": "사상 최고가 찍은 비트코인…코오롱·신성이엔지 12% 급등",
-          "snippet": "",
-          "url": "https://www.hankyung.com/article/2025071010771",
-          "source": "한국경제"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "바이낸스",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 10 Jul 2025 10:00:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZrVhE7KxdX69XGZPx9DDBK6HHpEm49q0p3DRZjsjbw_Ifc5X8mbo2vfo2nH8",
       "pictureSource": "TokenPost",
@@ -99,16 +99,16 @@
           "source": "TokenPost"
         },
         {
-          "title": "익명 고래, $6111만 BTC 바이낸스 출금",
+          "title": "크로쓰, 7월 11일부터 바이낸스 선물 거래 지원",
           "snippet": "",
-          "url": "https://www.tokenpost.kr/news/breaking/263939",
-          "source": "토큰포스트"
+          "url": "https://zdnet.co.kr/view/?no=20250710173014",
+          "source": "지디넷코리아"
         },
         {
-          "title": "익명 고래, $1.68억 BTC 바이낸스 입금",
+          "title": "크로쓰, 바이낸스 선물 상장…거래 확장 속도 불붙었다",
           "snippet": "",
-          "url": "https://www.tokenpost.kr/news/breaking/262974",
-          "source": "TokenPost"
+          "url": "https://news.nate.com/view/20250710n33654",
+          "source": "네이트"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,13 +145,13 @@
       "title": "모건 깁스 화이트",
       "trafficCount": "2000+",
       "pubDate": "Thu, 10 Jul 2025 08:40:00 -0700",
-      "picture": "",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWBOTuwwxXIczziZAzEAoaWubho9BdpborSBfSOzl4OD03EKStJjg6LRkwQdQ",
       "pictureSource": "연합뉴스",
       "relatedSearch": [
         {
-          "title": "EPL 토트넘, 윙어 쿠두스 영입에 합의…\"이적료 1천27억원\"",
+          "title": "토트넘, 쿠두스 영입 공식 발표…BBC \"6년·이적료 1천25억원\"",
           "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20250710073800007?section=sports/football",
+          "url": "https://www.yna.co.kr/view/AKR20250711011600007",
           "source": "연합뉴스"
         },
         {
@@ -173,20 +173,20 @@
       "title": "라면",
       "trafficCount": "1000+",
       "pubDate": "Thu, 10 Jul 2025 08:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTu1cr1sM--uTd0Rb2Dc_y2JByKn0_GNpHb3bUZDbIztrf8Jd8OpobfqMbwtEI",
-      "pictureSource": "뉴스1",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShXCmAxGvcjh74nzsNuasXeYLAG2CRAvHpzzPX-UqAseX4OoroOUmWujVMrtY",
+      "pictureSource": "연합뉴스",
       "relatedSearch": [
-        {
-          "title": "‘원×꿈돌이 막걸리’ 주조 공정 살피는 이장우 대전시장",
-          "snippet": "",
-          "url": "https://www.news1.kr/photos/7384776",
-          "source": "뉴스1"
-        },
         {
           "title": "\"막걸리도 나왔다\" 대전시 꿈돌이 캐릭터 접목 상품 출시",
           "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20250709028200063?section=industry/all",
+          "url": "https://www.yna.co.kr/view/AKR20250709028200063",
           "source": "연합뉴스"
+        },
+        {
+          "title": "막걸리 생산 공정 살피는 이장우 대전시장",
+          "snippet": "",
+          "url": "https://www.news1.kr/photos/7384785",
+          "source": "뉴스1"
         },
         {
           "title": "대전 꿈돌이라면 잘나가네…출시 한 달 만에 50만개 판매",

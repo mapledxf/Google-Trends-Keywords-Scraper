@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-10 04:20:33",
+  "lastUpdate": "2025-07-10 04:49:34",
   "data": [
     {
       "title": "погода мурманск",
@@ -12,7 +12,7 @@
     },
     {
       "title": "новости курск",
-      "trafficCount": "500+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 9 Jul 2025 20:10:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCRdZgJ2IiDTI4npFP525yJDCcdSZWH8Gvx9B8H61Wt1HpeqbfEDNWdJD09ic",
       "pictureSource": "Meduza",
@@ -24,16 +24,16 @@
           "source": "Meduza"
         },
         {
-          "title": "СКР расследует удары БПЛА по пляжу в Курске и больнице в Рыльске как теракты",
-          "snippet": "",
-          "url": "https://www.interfax.ru/russia/1035288",
-          "source": "Интерфакс"
-        },
-        {
           "title": "Число жертв удара по пляжу в Курске увеличилось до четырех",
           "snippet": "",
           "url": "https://www.svoboda.org/a/chislo-zhertv-udara-po-plyazhu-v-kurske-uvelichilosj-do-chetyreh/33469739.html",
           "source": "Радио Свобода"
+        },
+        {
+          "title": "Раненный на пляже Курска пятилетний мальчик умер при перевозке в Москву",
+          "snippet": "",
+          "url": "https://www.interfax.ru/russia/1035389",
+          "source": "Интерфакс"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -80,16 +80,16 @@
           "source": "People.com"
         },
         {
-          "title": "‘F**k you’: Depp’s angry response to sacking",
-          "snippet": "",
-          "url": "https://www.news.com.au/entertainment/movies/fk-you-johnny-depps-angry-response-to-getting-fired-from-harry-potter-franchise/news-story/fe1377328822a9fa2d2109a89765a1e1",
-          "source": "News.com.au"
-        },
-        {
           "title": "Johnny Depp On ‘Fantastic Beasts’ Recasting: “They Wanted Me To Retire”",
           "snippet": "",
           "url": "https://deadline.com/2025/07/johnny-depp-fantastic-beasts-recasting-1236452582/",
           "source": "Deadline"
+        },
+        {
+          "title": "‘F**k you’: Depp’s angry response to sacking",
+          "snippet": "",
+          "url": "https://www.news.com.au/entertainment/movies/fk-you-johnny-depps-angry-response-to-getting-fired-from-harry-potter-franchise/news-story/fe1377328822a9fa2d2109a89765a1e1",
+          "source": "News.com.au"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -98,9 +98,28 @@
       "title": "нгс",
       "trafficCount": "200+",
       "pubDate": "Wed, 9 Jul 2025 19:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCXS0aKrfjxsG1foOMm72RgbAVLAKg6adPdxjGYUfr-dVitc7MAUzthVUHztw",
+      "pictureSource": "BFM-Новосибирск",
+      "relatedSearch": [
+        {
+          "title": "СМИ: в Новосибирске задержали начальника областной госжилинспекции Полищука",
+          "snippet": "",
+          "url": "https://nsk.bfm.ru/news/51111",
+          "source": "BFM-Новосибирск"
+        },
+        {
+          "title": "У начальника ГЖИ Новосибирской области прошли обыски — что случилось - 10 июля 2025",
+          "snippet": "",
+          "url": "https://ngs.ru/text/criminal/2025/07/10/75702257/",
+          "source": "НГС.ру"
+        },
+        {
+          "title": "В Новосибирске полиция пришла с обысками c главе ГЖИ Полищуку",
+          "snippet": "",
+          "url": "https://sib.fm/news/2025/07/10/v-novosibirske-politsiya-prishla-s-obyskami-c-glave-gzhi-polischuku",
+          "source": "Сиб.фм.."
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -179,9 +198,9 @@
           "source": "Рамблер"
         },
         {
-          "title": "В каком состоянии находится Тигран Кеосаян и правда ли, что у его жены начались проблемы со здоровьем?",
+          "title": "В каком состоянии находится Тигран Кеосаян и возможен ли его выход из комы в ближайшее время?",
           "snippet": "",
-          "url": "https://www.amic.ru/news/pravda-li-chto-u-simonyan-voznikli-problemy-so-zdorovem-iz-za-komy-tigrana-keosayana-564910",
+          "url": "https://www.amic.ru/news/polgoda-v-kome-chto-izvestno-o-sostoyanii-tigrana-keosayana-i-ego-shansah-na-vosstanovlenie-565080",
           "source": "Amic.ru"
         }
       ],
@@ -207,9 +226,9 @@
           "source": "Meduza"
         },
         {
-          "title": "Андрей Никитин назначен Министром транспорта России",
+          "title": "Встреча с Андреем Никитиным",
           "snippet": "",
-          "url": "http://kremlin.ru/events/president/news/77412",
+          "url": "http://kremlin.ru/events/president/news/77376",
           "source": "Президент России"
         }
       ],

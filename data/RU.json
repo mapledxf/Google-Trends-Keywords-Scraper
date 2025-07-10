@@ -1,13 +1,47 @@
 {
-  "lastUpdate": "2025-07-10 05:32:59",
+  "lastUpdate": "2025-07-10 05:49:44",
   "data": [
+    {
+      "title": "пенсии",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 9 Jul 2025 22:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTDCZrOVjztL1tayNpYwK15GFdnuX6YYbHpc3RKyx7fo9HEFnp-votFLdcSMUs",
+      "pictureSource": "Финансы Mail",
+      "relatedSearch": [
+        {
+          "title": "Эксперт: с 1 августа пенсии вырастут у шести категорий россиян",
+          "snippet": "",
+          "url": "https://finance.mail.ru/2025-07-08/s-1-avgusta-pensii-vyrastut-u-shesti-kategorij-rossiyan-66911614/",
+          "source": "Финансы Mail"
+        },
+        {
+          "title": "С 1 августа увеличатся пенсии работающих пенсионеров - ИА \"Финмаркет\"",
+          "snippet": "",
+          "url": "https://www.finmarket.ru/main/article/6431156",
+          "source": "Finmarket.ru"
+        },
+        {
+          "title": "С 1 августа пенсии увеличат для пожилых граждан, инвалидов, работников авиации и угольной отрасли",
+          "snippet": "",
+          "url": "https://kubnews.ru/obshchestvo/2025/07/09/s-1-avgusta-pensii-uvelichat-dlya-pozhilykh-grazhdan-invalidov-rabotnikov-aviatsii-i-ugolnoy-otrasli/",
+          "source": "Кубанские новости"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "grok 4",
       "trafficCount": "100+",
       "pubDate": "Wed, 9 Jul 2025 22:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAms-us_a0gwdfp6kawQOPi1HwBkrlccenvjM2M6k1QV8HYFhutdCA9WYyXII",
-      "pictureSource": "OfficeChai",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWJKqs3i03LLfMJdCc1Uv86j_FnQzK23I5OX8R25aOzzZupGgZDuVh6gj35oI",
+      "pictureSource": "TechEBlog -",
       "relatedSearch": [
+        {
+          "title": "Grok 4 Marks xAI’s Leap into AI Supremacy, Here’s How it Stacks Up",
+          "snippet": "",
+          "url": "https://www.techeblog.com/grok-4-xai-reveal-launch-features/",
+          "source": "TechEBlog -"
+        },
         {
           "title": "xAI Releases Grok4, Beats OpenAI And Google On Many Benchmarks",
           "snippet": "",
@@ -15,16 +49,10 @@
           "source": "OfficeChai"
         },
         {
-          "title": "Grok 4 launch: Check expected features and how to watch the launch",
+          "title": "Elon Musk says his new AI model ‘better than PhD level in everything’",
           "snippet": "",
-          "url": "https://www.livemint.com/gadgets-and-appliances/grok-4-launch-check-expected-features-and-how-to-watch-the-launch-11752040899452.html",
-          "source": "Mint"
-        },
-        {
-          "title": "Elon Musk-owned xAI to launch Grok 4: How to watch livestream, what is changing and more",
-          "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-owned-xai-to-launch-grok-4-how-to-watch-livestream-what-is-changing-and-more/articleshow/122315178.cms",
-          "source": "Times of India"
+          "url": "https://uk.finance.yahoo.com/news/elon-musk-says-ai-model-052846222.html",
+          "source": "Yahoo"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -36,34 +64,6 @@
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "новости курск",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 9 Jul 2025 20:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCRdZgJ2IiDTI4npFP525yJDCcdSZWH8Gvx9B8H61Wt1HpeqbfEDNWdJD09ic",
-      "pictureSource": "Meduza",
-      "relatedSearch": [
-        {
-          "title": "Число погибших при атаке дронов ВСУ на Курск увеличилось до четырех человек. Пятилетний мальчик умер от полученных ожогов",
-          "snippet": "",
-          "url": "https://meduza.io/news/2025/07/09/chislo-pogibshih-pri-atake-dronov-vsu-na-kursk-uvelichilos-do-chetyreh-chelovek-pyatiletniy-malchik-umer-ot-poluchennyh-ozhogov",
-          "source": "Meduza"
-        },
-        {
-          "title": "СКР расследует удары БПЛА по пляжу в Курске и больнице в Рыльске как теракты",
-          "snippet": "",
-          "url": "https://www.interfax.ru/russia/1035288",
-          "source": "Интерфакс"
-        },
-        {
-          "title": "Число жертв удара по пляжу в Курске увеличилось до четырех",
-          "snippet": "",
-          "url": "https://www.svoboda.org/a/chislo-zhertv-udara-po-plyazhu-v-kurske-uvelichilosj-do-chetyreh/33469739.html",
-          "source": "Радио Свобода"
-        }
-      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -248,16 +248,16 @@
           "source": "Forbes.ru"
         },
         {
-          "title": "Госдума единогласно утвердила Андрея Никитина на пост министра транспорта",
-          "snippet": "",
-          "url": "https://meduza.io/news/2025/07/08/gosduma-edinoglasno-utverdila-andreya-nikitina-na-post-ministra-transporta",
-          "source": "Meduza"
-        },
-        {
           "title": "Андрей Никитин назначен Министром транспорта России",
           "snippet": "",
           "url": "http://kremlin.ru/events/president/news/77412",
           "source": "Президент России"
+        },
+        {
+          "title": "Андрей Никитин назначен министром, но депутаты не спросили его о Старовойте",
+          "snippet": "",
+          "url": "https://www.vedomosti.ru/politics/articles/2025/07/09/1123050-andrei-nikitin-naznachen-no-deputati-ne-sprosili",
+          "source": "Ведомости"
         }
       ],
       "link": "https://imtaqin.id/"

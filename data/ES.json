@@ -1,37 +1,121 @@
 {
-  "lastUpdate": "2025-07-10 05:33:02",
+  "lastUpdate": "2025-07-10 05:49:48",
   "data": [
     {
-      "title": "aemet",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 9 Jul 2025 22:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRmLvKFK8gMABvwOYyIpEnYEGXputAU5vY7wrJUCOboWIRSg8VIE362LIM0Ock",
-      "pictureSource": "El Mundo",
+      "title": "aemet palma",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 9 Jul 2025 22:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQx_teD35MVYVPLQT5ZX5rXe9XDBxgwZc-MYAo_yn4psLGJFgUyS70VykwzD1E",
+      "pictureSource": "El Confidencial",
       "relatedSearch": [
         {
-          "title": "El tiempo en España: fuertes tormentas y el calor ponen en aviso a nueve comunidades",
+          "title": "AEMET: así será el tiempo en Palma mañana, jueves 10 de julio",
           "snippet": "",
-          "url": "https://www.elmundo.es/espana/2025/07/09/686e1451fc6c83a90a8b45c9.html",
+          "url": "https://www.elconfidencial.com/el-tiempo/2025-07-09/el-tiempo-en-palma-jueves_4169488/",
+          "source": "El Confidencial"
+        },
+        {
+          "title": "El tiempo hoy, miércoles 9 de julio, en Baleares",
+          "snippet": "",
+          "url": "https://www.europapress.es/illes-balears/noticia-tiempo-hoy-miercoles-julio-baleares-20250709084546.html",
+          "source": "Europa Press"
+        },
+        {
+          "title": "Prepárate antes de salir: conoce el pronóstico del tiempo en Palma",
+          "snippet": "",
+          "url": "https://www.elconfidencial.com/el-tiempo/2025-07-10/el-tiempo-en-palma-jueves_4169488/",
+          "source": "El Confidencial"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "aemet",
+      "trafficCount": "5000+",
+      "pubDate": "Wed, 9 Jul 2025 22:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmnqdLpXa8_cHbXO2K7m8zno8elrXUNx8KBx1umdAGf_7VQ1USOMZnndlnfaI",
+      "pictureSource": "El Tiempo",
+      "relatedSearch": [
+        {
+          "title": "Atentos a una posible DANA este fin de semana: tormentas fuertes y bajón de temperaturas",
+          "snippet": "",
+          "url": "https://www.eltiempo.es/noticias/atentos-a-una-posible-dana-este-fin-de-semana-tormentas-fuertes-y-bajon-de-temperaturas",
+          "source": "El Tiempo"
+        },
+        {
+          "title": "El viernes llegará una dana que dejará tormentas intensas y granizo en la mitad norte hasta el domingo",
+          "snippet": "",
+          "url": "https://www.elmundo.es/espana/2025/07/09/686e8d18e85ece31498b456f.html",
           "source": "El Mundo"
         },
         {
-          "title": "El tiempo hoy 9 de julio en España: avisos por altas temperaturas, lluvias y tormentas",
+          "title": "Alerta en zonas de Aragón por una dana intensa que podría dejar lluvia y granizo abundantes",
           "snippet": "",
-          "url": "https://www.rtve.es/play/videos/telediario-matinal/aragon-comunidad-valenciana-aviso-naranja-por-lluvias-tormentas/16657033/",
-          "source": "RTVE.es"
+          "url": "https://www.abc.es/espana/aragon/alerta-zonas-aragon-dana-intensa-dejar-lluvia-20250710204917-nt.html",
+          "source": "ABC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 9 Jul 2025 22:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6UGGERz-aQ4EjbLoXb5U6jGPeRiBDxs_D6i15Gw_eNlD_5lIQnv4CfFyWqug",
+      "pictureSource": "Hilton Head Island Packet",
+      "relatedSearch": [
+        {
+          "title": "Weather alert for Anderson County Wednesday night – gusts may reach 40 mph",
+          "snippet": "",
+          "url": "https://www.islandpacket.com/news/weather-news/article310349705.html",
+          "source": "Hilton Head Island Packet"
         },
         {
-          "title": "Se insta a los hogares españoles a cerrar cortinas y persianas a partir de esta hora: los expertos piden precaución en estas zonas",
+          "title": "UPDATE: Quarter-sized hail expected with thunderstorms in Catawba and Iredell counties",
           "snippet": "",
-          "url": "https://www.eleconomista.es/actualidad/noticias/13455390/07/25/se-insta-a-los-hogares-espanoles-a-cerrar-cortinas-y-persianas-a-partir-de-esta-hora-los-expertos-piden-precaucion-en-estas-zonas.html",
-          "source": "El Economista"
+          "url": "https://www.heraldsun.com/news/weather-news/article310340675.html",
+          "source": "Durham Herald Sun"
+        },
+        {
+          "title": "Update: Damaging winds and quarter-sized hail expected with thunderstorms in Union County Thursday",
+          "snippet": "",
+          "url": "https://www.nj.com/weather-alerts/2025/07/damaging-winds-and-quarter-sized-hail-forecast-with-thunderstorms-in-union-county-thursday-gusts-up.html",
+          "source": "NJ.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "meteocat",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 9 Jul 2025 22:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJvHS55KusOpEWC_wXdhx_OtRLiOQrFEzzBWPSS2Y1ezAOcWV4qEDUgf-5ZRg",
+      "pictureSource": "xcatalunya.cat",
+      "relatedSearch": [
+        {
+          "title": "Siguen las lluvias: El Meteocat confirma cuándo y dónde",
+          "snippet": "",
+          "url": "https://xcatalunya.cat/es/actualidad/siguen-las-lluvias-meteocat-confirma-cuando-y-donde",
+          "source": "xcatalunya.cat"
+        },
+        {
+          "title": "La Aemet activa avisos en diez comunidades, con Catalunya en naranja por lluvias",
+          "snippet": "",
+          "url": "https://www.publico.es/sociedad/m-ambiente/aemet-activa-avisos-diez-comunidades-catalunya-naranja-lluvias.html",
+          "source": "Diario Público"
+        },
+        {
+          "title": "Alerta por lluvia intensa y tormentas: ¿dónde y cuándo lloverá más según el Meteocat?",
+          "snippet": "",
+          "url": "https://elmon.cat/es/meteo-es/nueva-ronda-de-lluvias-y-descenso-de-temperaturas-prevision-de-hoy-7-de-julio-1027070/",
+          "source": "El Món"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "san cristobal",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 9 Jul 2025 21:50:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTB8kY8xyeS46hseRQq8P3DU0ykO2B96Wrk9pPbxiqpVCtg6Xy8HjM4QvW9YQ0",
       "pictureSource": "Faro de Vigo",
@@ -86,6 +170,28 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "cadena ser directo",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 9 Jul 2025 21:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcKwDrs3VslGfLCo2-9HE1o5N5f6WJPsQKmMhDuUaWAF2Z-SK-4qEhBbTdwas",
+      "pictureSource": "Córdoba Buenas Noticias",
+      "relatedSearch": [
+        {
+          "title": "6 heridos por diversos traumatismos tras el primer encierro de Sanfermines",
+          "snippet": "",
+          "url": "https://www.cordobabn.com/articulo/nacional/6-heridos-diversos-traumatismos-primer-encierro-sanfermines/20250707101600229788.html",
+          "source": "Córdoba Buenas Noticias"
+        },
+        {
+          "title": "El PSOE dice que \"la gente se va a sentir reconfortada\" con las medidas de Sánchez",
+          "snippet": "",
+          "url": "https://vivacadiz.es/andalucia/1908884/el-psoe-dice-que-la-gente-se-va-a-sentir-reconfortada-con-las-medidas-de-sanchez/",
+          "source": "Viva Cádiz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "horizonte",
       "trafficCount": "500+",
       "pubDate": "Wed, 9 Jul 2025 21:10:00 -0700",
@@ -114,6 +220,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "lafc - colorado",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 9 Jul 2025 21:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9ucWDZMZW5xphEJpw7wjHEaonABBNCMxYkWQq4-mUVrwbUiyyFMd2x5u1kM4",
+      "pictureSource": "beIN SPORTS",
+      "relatedSearch": [
+        {
+          "title": "Los Angeles FC v Colorado Rapids: Armas excited for ‘benchmark’ challenge",
+          "snippet": "",
+          "url": "https://www.beinsports.com/en-us/soccer/mls/articles/los-angeles-fc-v-colorado-rapids-armas-excited-for-benchmark-challenge-2025-07-09",
+          "source": "beIN SPORTS"
+        },
+        {
+          "title": "🚨 Messi propels Inter Miami to win against New England",
+          "snippet": "",
+          "url": "https://sports.yahoo.com/article/messi-propels-inter-miami-win-014000346.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Denis Bouanga scores, LAFC ties season-high with 22 shots in 3-0 win over Rapids",
+          "snippet": "",
+          "url": "https://www.cbsnews.com/losangeles/news/denis-bouanga-scores-lafc-ties-season-high-with-22-shots-in-3-0-win-over-rapids/",
+          "source": "CBS News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "expulsion vito quiles congreso",
       "trafficCount": "1000+",
       "pubDate": "Wed, 9 Jul 2025 21:10:00 -0700",
@@ -137,146 +271,6 @@
           "snippet": "",
           "url": "https://www.eldiario.es/politica/congreso-tumba-defensa-pp-vox-agitadores-extrema-derecha_1_12448488.html",
           "source": "elDiario.es"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "lafc - colorado",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 9 Jul 2025 21:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9ucWDZMZW5xphEJpw7wjHEaonABBNCMxYkWQq4-mUVrwbUiyyFMd2x5u1kM4",
-      "pictureSource": "beIN SPORTS",
-      "relatedSearch": [
-        {
-          "title": "Los Angeles FC v Colorado Rapids: Armas excited for ‘benchmark’ challenge",
-          "snippet": "",
-          "url": "https://www.beinsports.com/en-us/soccer/mls/articles/los-angeles-fc-v-colorado-rapids-armas-excited-for-benchmark-challenge-2025-07-09",
-          "source": "beIN SPORTS"
-        },
-        {
-          "title": "Denis Bouanga scores, LAFC ties season-high with 22 shots in 3-0 win over Rapids",
-          "snippet": "",
-          "url": "https://www.cbsnews.com/losangeles/news/denis-bouanga-scores-lafc-ties-season-high-with-22-shots-in-3-0-win-over-rapids/",
-          "source": "CBS News"
-        },
-        {
-          "title": "LAFC seeks consistency entering 2nd half of its MLS schedule",
-          "snippet": "",
-          "url": "https://www.dailynews.com/2025/07/08/lafc-seeks-consistency-entering-2nd-half-of-its-mls-schedule/",
-          "source": "Los Angeles Daily News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "s",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 9 Jul 2025 21:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTykeG_i9RDfP5Sr4RtiXQ5lTJiGVPJkxMBQqT_SFRcLIiNOlG_NyBSS9iUD44",
-      "pictureSource": "CNN",
-      "relatedSearch": [
-        {
-          "title": "Trump said he threatened to bomb Moscow if Putin attacked Ukraine, 2024 fundraiser tapes show",
-          "snippet": "",
-          "url": "https://www.cnn.com/2025/07/08/politics/trump-tape-putin-bomb-fundraiser",
-          "source": "CNN"
-        },
-        {
-          "title": "Ukraine war latest: Trump warned Putin he will bomb Moscow if Ukraine is attacked",
-          "snippet": "",
-          "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-threatens-putin-drones-news-b2786123.html",
-          "source": "The Independent"
-        },
-        {
-          "title": "Kremlin says it's unclear if CNN report that Trump threatened to bomb Moscow is fake or not",
-          "snippet": "",
-          "url": "https://www.reuters.com/business/media-telecom/kremlin-says-its-unclear-if-cnn-report-that-trump-threatened-bomb-moscow-is-fake-2025-07-09/",
-          "source": "Reuters"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "inter miami",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 9 Jul 2025 17:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpyj0Lm6D0DfaWxjV5VZpWsCsk-qlIRIePSxirofu-mSs-8zpN8MmAWH3BSLM",
-      "pictureSource": "MARCA",
-      "relatedSearch": [
-        {
-          "title": "Histórico Messi: otro doblete, cuarto seguido... y destroza las cifras de Pelé",
-          "snippet": "",
-          "url": "https://www.marca.com/futbol/futbol-internacional/2025/07/10/historico-messi-doblete-cuarto-seguido-destroza-cifras-pele.html",
-          "source": "MARCA"
-        },
-        {
-          "title": "En México, ¿Qué canal transmite New England Revolution vs Inter Miami, partido de la Temporada 2025 de MLS y a qué hora es?",
-          "snippet": "",
-          "url": "https://www.goal.com/es/noticias/en-mexico-que-canal-transmite-new-england-revolution-vs-inter-miami-partido-de-la-temporada-2025-de-mls-y-a-que-hora-es/blt3f66305a63442f64",
-          "source": "Goal.com"
-        },
-        {
-          "title": "Messi regresa a la MLS con un doblete en la goleada del Inter Miami al Montreal",
-          "snippet": "",
-          "url": "https://www.elperiodico.com/es/deportes/20250706/messi-regresa-mls-doblete-goleada-119413574",
-          "source": "El Periódico"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "james gunn",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 9 Jul 2025 17:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ55RVIPqskeKNKCOyWAfRokCMBmcDsbbj0z0lIrV3hGtrLvJqAE02lErpgeqA",
-      "pictureSource": "The Times",
-      "relatedSearch": [
-        {
-          "title": "James Gunn: Some people will take offence at my new Superman",
-          "snippet": "",
-          "url": "https://www.thetimes.com/culture/film/article/james-gunn-interview-superman-film-2025-david-corenswet-dhb3bw3rp",
-          "source": "The Times"
-        },
-        {
-          "title": "'Superwoke'? Director of 'Superman' draws immigration parallels to Krypton-born Man of Steel",
-          "snippet": "",
-          "url": "https://www.washingtontimes.com/news/2025/jul/9/superwoke-director-superman-draws-immigration-parallels-krypton-born/",
-          "source": "Washington Times"
-        },
-        {
-          "title": "'Superman' director reveals reboot will tackle politics and kindness, tells 'jerks' to 'screw' off",
-          "snippet": "",
-          "url": "https://www.foxnews.com/media/superman-director-reveals-reboot-tackle-politics-kindness-tells-jerks-screw-off",
-          "source": "Fox News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "guatemala",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 9 Jul 2025 16:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTND81enhkpYs4l8Ud1uT-46Ut-fcWvuN5FbBq8r0bsK0WoA7DR9qtHFhYSzcs",
-      "pictureSource": "CNN en Español",
-      "relatedSearch": [
-        {
-          "title": "Al menos cuatro muertos y daños en infraestructura tras sismo en Guatemala",
-          "snippet": "",
-          "url": "https://cnnespanol.cnn.com/2025/07/08/latinoamerica/derrumbes-casas-danadas-sismo-guatemala-orix",
-          "source": "CNN en Español"
-        },
-        {
-          "title": "Mapa: un terremoto de magnitud 5,7 sacude Guatemala",
-          "snippet": "",
-          "url": "https://www.nytimes.com/es/interactive/2025/07/08/espanol/temblor-guatemala.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Sismos en Guatemala: daños en viviendas y temor por nuevos movimientos",
-          "snippet": "",
-          "url": "https://www.abc.es/sociedad/sismos-guatemala-danos-viviendas-temor-nuevos-movimientos-20250710010313-vi_amp.html?next-page",
-          "source": "ABC"
         }
       ],
       "link": "https://imtaqin.id/"

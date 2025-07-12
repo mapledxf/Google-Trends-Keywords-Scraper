@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-12 06:25:19",
+  "lastUpdate": "2025-07-12 06:49:01",
   "data": [
     {
       "title": "tallinna lennujaam",
@@ -20,9 +20,9 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "radar",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 11 Jul 2025 10:10:00 -0700",
+      "title": "windy",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 11 Jul 2025 10:50:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIwda0qGRS8VvdOE-DkIkvb_52i2rb6uogrHDgHukniOzPNhVIzj0Jg1_SQHs",
       "pictureSource": "FOX 32 Chicago",
       "relatedSearch": [
@@ -48,6 +48,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "radar",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 11 Jul 2025 10:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLbg0JeiYAEgO5LxvZIfuFAF9pzJ8Rty_d6jRncAEfkhUaRLtB3D8pVlgz_FI",
+      "pictureSource": "KOSU",
+      "relatedSearch": [
+        {
+          "title": "News 9 radar damaged in apparent attack by anti-government militia group",
+          "snippet": "",
+          "url": "https://www.kosu.org/local-news/2025-07-09/news9-radar-damaged-in-apparent-attack-by-anti-government-militia-group",
+          "source": "KOSU"
+        },
+        {
+          "title": "Far-right extremist group threatens to take weather radars offline",
+          "snippet": "",
+          "url": "https://www.yahoo.com/news/far-extremist-group-threatens-weather-152014569.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Anti-government militia group claims responsibility for vandalism to News 9 radar",
+          "snippet": "",
+          "url": "https://www.news9.com/story/686f05493c7e238539083cd0/anti-government-miltia-group-claims-responsibility-for-vandalism-to-news-9-radar",
+          "source": "News 9"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "weather",
       "trafficCount": "200+",
       "pubDate": "Fri, 11 Jul 2025 09:20:00 -0700",
@@ -61,16 +89,16 @@
           "source": "Hindustan Times"
         },
         {
-          "title": "Is Oasis reunion tour on TV as BBC change confirmed",
+          "title": "In Flash Flood Hotspots, Many Federal Meteorologist Positions Remain Unfilled",
           "snippet": "",
-          "url": "https://www.liverpoolecho.co.uk/news/tv/oasis-reunion-tour-tv-bbc-32043756",
-          "source": "Liverpool Echo"
+          "url": "https://www.nytimes.com/interactive/2025/07/11/climate/flash-floods-nws-office-vacancies.html",
+          "source": "The New York Times"
         },
         {
-          "title": "’Cathedral of sound’",
+          "title": "How cuts at the National Weather Service will impact Georgians",
           "snippet": "",
-          "url": "https://www.taipeitimes.com/News/biz/archives/2025/07/12/2003840148",
-          "source": "Taipei Times"
+          "url": "https://www.atlantanewsfirst.com/2025/07/11/how-cuts-national-weather-service-will-impact-georgians/",
+          "source": "Atlanta News First"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -107,9 +135,16 @@
       "title": "merepäevad",
       "trafficCount": "200+",
       "pubDate": "Fri, 11 Jul 2025 06:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQzxbfiI9-2MAzq3UYwiiMBOQmd7yO24rq9aCb6sjh_lfw79uWRG9wUQsre9I",
+      "pictureSource": "tallinn.ee",
+      "relatedSearch": [
+        {
+          "title": "Tänavused merepäevad keskenduvad mereohutusele",
+          "snippet": "",
+          "url": "https://www.tallinn.ee/et/uudis/tanavused-merepaevad-keskenduvad-mereohutusele",
+          "source": "tallinn.ee"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]

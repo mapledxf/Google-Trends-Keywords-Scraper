@@ -1,6 +1,56 @@
 {
-  "lastUpdate": "2025-07-15 22:25:40",
+  "lastUpdate": "2025-07-15 22:44:03",
   "data": [
+    {
+      "title": "измаил",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 15 Jul 2025 15:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQd5isMYA80TBCmhs4rY02LKXRVP8CWUG4pvAEz91PZR0PhetHicU5-jBR4S_s",
+      "pictureSource": "Новости Бессарабии",
+      "relatedSearch": [
+        {
+          "title": "У місті Ізмаїл сталася пожежа в житловому будинку",
+          "snippet": "",
+          "url": "https://bessarabia.ua/kriminal/u-misti-izmayil-stalasya-pozhezha-v-zhytlovomu-budynku/",
+          "source": "Новости Бессарабии"
+        },
+        {
+          "title": "В Измаиле вспыхнул пожар в частном доме",
+          "snippet": "",
+          "url": "https://ru.bessarabiainform.com/2025/07/v-izmaili-spalahnula-pozhezha-u-pryvatnomu-budynku/",
+          "source": "Бессарабия ИНФОРМ"
+        },
+        {
+          "title": "В Ізмаїльській міській лікарні повністю оновлюють хірургічне відділення",
+          "snippet": "",
+          "url": "https://yug.today/v-izmailskiy-miskiy-likarni-povnistiu-onovliuiut-khirurhichne-viddilennia/",
+          "source": "Південь сьогодні"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "умань",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 15 Jul 2025 15:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCT1SQhoN7RTAsTKQdpod6ZMGQ0WEsGgllQT3JAkhXHmgF9Bn7qvO8H-oTRIs",
+      "pictureSource": "18000",
+      "relatedSearch": [
+        {
+          "title": "Для зруйнованого будинку в Умані шукають знову підрядника",
+          "snippet": "",
+          "url": "https://18000.com.ua/strichka-novin/dlya-zrujnovanogo-budinku-v-umani-shukayut-znovu-pidryadnika/",
+          "source": "18000"
+        },
+        {
+          "title": "Умань об’єднує: у місті провели ветеранський пікнік задля підтримки воїнів та їхніх родин",
+          "snippet": "",
+          "url": "https://www.ukr.net/ru/news/details/cherkasy/112408085.html",
+          "source": "UKR.NET"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "кит келлог",
       "trafficCount": "200+",
@@ -59,56 +109,28 @@
     },
     {
       "title": "кривий ріг",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 15 Jul 2025 13:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrBKTWj8hnb74cNnIhG_3VEPywuPdoezrJMkd2bWAGfSXZPZVCwuSPwXqlvlM",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhSdc5bqIdT2yTK4ENfYN_Zc2nibqqYU_h2shCOez8Z-XVT4dQ-y1jjWdHSWc",
       "pictureSource": "Українська правда",
       "relatedSearch": [
         {
-          "title": "Окупанти ракетами вдарили по Кривому Рогу: вирує пожежа, є постраждалі",
+          "title": "Около 20 попаданий \"Шахедов\" в Кривом Роге: в городе масштабные отключения электроэнергии",
           "snippet": "",
-          "url": "https://www.pravda.com.ua/news/2025/07/15/7521920/",
+          "url": "https://www.pravda.com.ua/rus/news/2025/07/16/7521929/",
           "source": "Українська правда"
         },
         {
-          "title": "У Кривому Розі унаслідок атаки РФ сталася пожежа та є перебої зі світлом",
+          "title": "В Кривом Роге массовые отключения электричества из-за атаки РФ",
           "snippet": "",
-          "url": "https://tsn.ua/ukrayina/u-kryvomu-rozi-unaslidok-ataky-rf-stalasia-pozeza-ta-ye-pereboyi-zi-svitlom-2870603.html",
-          "source": "ТСН"
-        },
-        {
-          "title": "Масована шахедна атака на Кривий Ріг. Що відомо",
-          "snippet": "",
-          "url": "https://svoi.kr.ua/novyny/masovana-shakhedna-ataka-na-kryvyy-rih-shcho-vidomo/",
-          "source": "СВОЇ Кривий Ріг"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "кривой рог",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 15 Jul 2025 13:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrBKTWj8hnb74cNnIhG_3VEPywuPdoezrJMkd2bWAGfSXZPZVCwuSPwXqlvlM",
-      "pictureSource": "Українська правда",
-      "relatedSearch": [
-        {
-          "title": "Оккупанты ракетами ударили по Кривому Рогу: бушует пожар, есть пострадавшие",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2025/07/15/7521920/",
-          "source": "Українська правда"
+          "url": "https://112.ua/ru/u-krivomu-rozi-masstabni-vidklucenna-svitla-cerez-ataku-rf-70653",
+          "source": "112.ua"
         },
         {
           "title": "Рой дронов на Харьков и ракета на Кривой Рог: все о последствиях атаки РФ по Украине",
           "snippet": "",
           "url": "https://www.rbc.ua/ukr/news/riy-droniv-harkiv-ta-raketa-kriviy-rig-naslidki-1752613550.html",
           "source": "РБК-Україна"
-        },
-        {
-          "title": "В Кривом Роге прозвучали взрывы",
-          "snippet": "",
-          "url": "https://112.ua/ru/u-krivomu-rozi-prolunali-vibuhi-70387",
-          "source": "112.ua"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +149,16 @@
           "source": "Champion.com.ua"
         },
         {
+          "title": "Результаты Q1 Лиги чемпионов. Определены пары Q2: Динамо полетит на Мальту",
+          "snippet": "",
+          "url": "https://sport.ua/news/778887-rezultaty-q1-ligi-chempionov-opredeleny-pary-q2-dinamo-poletit-na-maltu",
+          "source": "Sport.ua"
+        },
+        {
           "title": "Соперник Динамо в отборе Лиги чемпионов определился в невероятной серии пенальти",
           "snippet": "",
           "url": "https://sport.nv.ua/football/hamrun-spartans-stal-sopernikom-dinamo-v-otbore-ligi-chempionov-kogda-matchi-gde-sygrayut-50530057.html",
           "source": "NV Спорт"
-        },
-        {
-          "title": "В «Жальгирисе» напомнили, что ответная игра с мальтийцами состоится на юбилей Грюнвальдской битвы",
-          "snippet": "",
-          "url": "https://dynamo.kiev.ua/news/685572-vzhalgirise-napomnili-chto-otvetnaya-igra-smaltijtsami-sostoitsya-nayubilej-gryunvaldskoj-bitvyi",
-          "source": "Динамо Киев от Шурика"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -182,26 +204,26 @@
       "title": "мальта",
       "trafficCount": "100+",
       "pubDate": "Tue, 15 Jul 2025 09:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTt8QEID0uWcefmny7NxbxU3nUoFErAtcbOqS8ezZuWxh7OfWJDYbRxike8wdQ",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ53rhebZt4Cf3k6gIUhYGjX_2Epkobk6c3MEvvudaGOZ2LYqa1fxjFdlGxPao",
       "pictureSource": "Укрінформ",
       "relatedSearch": [
         {
-          "title": "Словаччина вимагає винятку на придбання російського газу в обмін на зняття вето з 18-го пакету санкцій ЄС",
+          "title": "Три країни Євросоюзу виступають проти зниження ціни на російську нафту - глава МЗС Данії",
           "snippet": "",
-          "url": "https://www.ukrinform.ua/rubric-world/4015384-slovaccina-vimagae-vinatku-na-pridbanna-rosijskogo-gazu-v-obmin-na-znatta-veto-z-18go-paketu-sankcij-es.html",
+          "url": "https://www.ukrinform.ua/rubric-world/4015134-tri-kraini-evrosouzu-vistupaut-proti-znizenna-cini-na-rosijsku-naftu-glava-mzs-danii.html",
           "source": "Укрінформ"
-        },
-        {
-          "title": "Словаччина і Мальта продовжують блокувати 18-й пакет санкцій ЄС проти Росії",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/news/2025/07/15/7521841/",
-          "source": "Українська правда"
         },
         {
           "title": "«Сьогодні або завтра». Каллас сподівається на швидке досягнення згоди щодо нових санкцій ЄС проти Росії",
           "snippet": "",
           "url": "https://www.radiosvoboda.org/a/news-kallas-sanktsiyi-rf-yes/33474635.html",
           "source": "Радіо Свобода"
+        },
+        {
+          "title": "Фіцо зізнався, які гарантії він отримав за підтримку нового пакета санкцій проти Росії",
+          "snippet": "",
+          "url": "https://www.unian.ua/world/fico-ziznavsya-yaki-garantiji-vin-otrimav-za-pidtrimku-novogo-paketa-sankciy-proti-rosiji-13067547.html",
+          "source": "УНІАН"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -230,34 +252,6 @@
           "snippet": "",
           "url": "https://www.ukr.net/ru/news/details/economics/112426359.html",
           "source": "UKR.NET"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "черноморск",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 15 Jul 2025 08:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqYZ4EXPZGg3ZiENsVw4S1WbNvPBdemQwFwgXyxdGYCKSop16P2b94-LM7M1I",
-      "pictureSource": "112.ua",
-      "relatedSearch": [
-        {
-          "title": "В Одесской области прогремел мощный взрыв — что известно",
-          "snippet": "",
-          "url": "https://112.ua/ru/na-odesini-prolunav-potuznij-vibuh-so-vidomo-70593",
-          "source": "112.ua"
-        },
-        {
-          "title": "Под Одессой прозвучал взрыв после пуска российской ракеты",
-          "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/pid-odesoyu-prolunav-vibuh-pislya-pusku-rosiyskoyi-1752595017.html",
-          "source": "РБК-Україна"
-        },
-        {
-          "title": "РФ атаковала Одессу: количество пострадавших возросло до 11",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2025/07/11/7521258/",
-          "source": "Українська правда"
         }
       ],
       "link": "https://imtaqin.id/"

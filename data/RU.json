@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-07-15 06:53:46",
+  "lastUpdate": "2025-07-15 07:13:51",
   "data": [
+    {
+      "title": "краматорск",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 14 Jul 2025 23:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCsWHI6nflRNaV7jPW1pJ_RABHRcc8sMpsZCpEMiKEnsq9HC7d6b0yJwX091Y",
+      "pictureSource": "Рамблер",
+      "relatedSearch": [
+        {
+          "title": "В России сделали заявление о сбежавших из украинского плена вагнеровцах",
+          "snippet": "",
+          "url": "https://news.rambler.ua/army/54981813-v-rossii-sdelali-zayavlenie-o-sbezhavshih-iz-ukrainskogo-plena-vagnerovtsah/",
+          "source": "Рамблер"
+        },
+        {
+          "title": "Появились подробности о якобы побеге бойцов ВС РФ из украинского плена",
+          "snippet": "",
+          "url": "https://ura.news/news/1052964189",
+          "source": "URA.RU"
+        },
+        {
+          "title": "Силовики оценили сообщения о побеге российских бойцов из плена",
+          "snippet": "",
+          "url": "https://www.bfm.ru/news/578249",
+          "source": "BFM.ru"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "янковский",
       "trafficCount": "200+",
@@ -99,16 +127,16 @@
           "source": "mos.ru"
         },
         {
+          "title": "Гроза и град ожидаются в Москве",
+          "snippet": "",
+          "url": "https://www.interfax.ru/moscow/1036221",
+          "source": "Интерфакс"
+        },
+        {
           "title": "В столичном регионе штормовое предупреждение: ливни, грозы, шквалы",
           "snippet": "",
           "url": "https://www.gismeteo.ru/news/weather/v-stolichnom-regione-shtormovoe-preduprezhdenie-livni-grozy-shkvaly/",
           "source": "GISMETEO.Новости"
-        },
-        {
-          "title": "В Москве в середине лета теплая погода с грозовыми дождями",
-          "snippet": "",
-          "url": "https://meteoinfo.ru/novosti/21301-v-moskve-v-seredine-leta-teplaya-pogoda-s-grozovymi-dozhdyami",
-          "source": "Гидрометцентр"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -152,28 +180,28 @@
     },
     {
       "title": "новости мира",
-      "trafficCount": "1000+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 14 Jul 2025 21:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSchwopf02eeodlR8cjkhfi8tS7sf5Uyg0217AvteYzV3dR-siOtpMhLhvEm3I",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTt_v-xNLNY1Bwhohv9I-zc3Mz54kTULAQISNRiyrKfO_FnGCV61tNp5K-z1f8",
+      "pictureSource": "Интерфакс",
       "relatedSearch": [
         {
-          "title": "Президент до ста лет. 92-летний Поль Бийя «по просьбам граждан» решил еще раз переизбраться в президенты Камеруна",
+          "title": "Генсек НАТО приветствовал заявление Трампа о России",
           "snippet": "",
-          "url": "https://www.bbc.com/russian/articles/cm20pr2z4llo",
-          "source": "BBC"
+          "url": "https://www.interfax.ru/world/1036191",
+          "source": "Интерфакс"
         },
         {
-          "title": "Президент Камеруна — старейший в мире глава государства (ему 92) — объявил, что выдвигается на новый срок",
+          "title": "Новый поворот для Украины? Заявление Трампа и его последствия",
           "snippet": "",
-          "url": "https://meduza.io/news/2025/07/14/prezident-kameruna-stareyshiy-v-mire-glava-gosudarstva-emu-92-ob-yavil-o-vydvizhenii-na-novyy-srok",
-          "source": "Meduza"
-        },
-        {
-          "title": "Президент Камеруна, которому 92 года, будет баллотироваться опять",
-          "snippet": "",
-          "url": "https://www.svoboda.org/a/prezident-kameruna-kotoromu-92-goda-budet-ballotirovatjsya-opyatj/33473605.html",
+          "url": "https://www.svoboda.org/a/novyy-povorot-dlya-ukrainy-zayavlenie-trampa-i-ego-posledstviya/33474550.html",
           "source": "Радио Свобода"
+        },
+        {
+          "title": "Трамп встретится с генсеком НАТО, формируется план продажи оружия Украине",
+          "snippet": "",
+          "url": "https://ru.euronews.com/2025/07/14/tramp-vstretitsya-s-gensekom-nato-formiruetsya-plan-prodazhi-oruzhiya-ukraine",
+          "source": "Euronews.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -198,10 +226,10 @@
           "source": "UN News"
         },
         {
-          "title": "Дом стоит, нужен ремонт: в ООН отчитались о средствах украинцам для восстановления поврежденного агрессором жилья",
+          "title": "Более 2,2 миллиона украинцев получили помощь ООН для восстановления жилья",
           "snippet": "",
-          "url": "https://unn.ua/ru/news/dom-stoit-nuzhen-remont-v-oon-otchitalis-o-sredstvakh-ukraintsam-dlya-vosstanovleniya-povrezhdennogo-agressorom-zhilya",
-          "source": "Українські Національні Новини"
+          "url": "https://resonance.ua/ru/bolee-22-milliona-ukraincev-poluchili-po/",
+          "source": "resonance.ua"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -224,34 +252,6 @@
           "snippet": "",
           "url": "https://nord-news.ru/news/2025/07/14/?newsid=195413",
           "source": "ИА Nord-News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "новости воронеж",
-      "trafficCount": "2000+",
-      "pubDate": "Mon, 14 Jul 2025 19:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ13cevk6x3cF7-gpYalFS6ebnBdqkFeGI9c197BtTzQ1r5iybAxxBWIQrrtuE",
-      "pictureSource": "Meduza",
-      "relatedSearch": [
-        {
-          "title": "В центре Воронежа упали обломки украинского беспилотника, есть пострадавшие",
-          "snippet": "",
-          "url": "https://meduza.io/news/2025/07/15/v-tsentre-voronezha-upali-oblomki-ukrainskogo-bespilotnika-est-postradavshie",
-          "source": "Meduza"
-        },
-        {
-          "title": "Силы ПВО сбили 55 украинских беспилотников над регионами России",
-          "snippet": "",
-          "url": "https://www.vedomosti.ru/politics/news/2025/07/15/1124381-sili-pvo-sbili",
-          "source": "Ведомости"
-        },
-        {
-          "title": "Несколько человек пострадали при атаке БПЛА в Воронеже",
-          "snippet": "",
-          "url": "https://www.interfax.ru/world/1036203",
-          "source": "Интерфакс"
         }
       ],
       "link": "https://imtaqin.id/"

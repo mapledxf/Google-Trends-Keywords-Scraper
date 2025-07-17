@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-17 10:21:30",
+  "lastUpdate": "2025-07-17 10:45:11",
   "data": [
     {
       "title": "euroleague",
@@ -15,16 +15,16 @@
           "source": "B92"
         },
         {
+          "title": "Konačno: Evo rasporeda Evrolige – 12. decembar važan dan",
+          "snippet": "",
+          "url": "https://sportklub.n1info.rs/kosarka/euroleague/raspored-evrolige-kad-je-veciti-derbi/",
+          "source": "Sportklub"
+        },
+        {
           "title": "Zvezda počinje Evroligu iz Beograda! Gudurić dolazi u Arenu na otvaranje, a u 4. kolu će sve da \"gori\"!",
           "snippet": "",
           "url": "https://www.telegraf.rs/sport/kosarka/4146370-zvezda-pocinje-evroligu-iz-beograda-guduric-dolazi-u-arenu-na-otvaranje-a-u-4-kolu-ce-sve-da-gori",
           "source": "Telegraf.rs"
-        },
-        {
-          "title": "Evroliga objavila raspored mečeva i prošireni format: Prvi derbi već u decembru, a beogradske klubove čeka pakao od samog starta",
-          "snippet": "",
-          "url": "https://nova.rs/sport/evroliga/evroliga-objavila-raspored-meceva-i-prosireni-format-prvi-derbi-vec-u-decembru-a-beogradske-klubove-ceka-pakao-od-samog-starta/",
-          "source": "Nova"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -59,7 +59,7 @@
     },
     {
       "title": "jovo bakić",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 16 Jul 2025 21:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSQUfgMFjYY7D8zdlUKFF7Rw73Lz4NfVq40TJJIWNxSfsRCmGVfExjSnvXhDg",
       "pictureSource": "N1",
@@ -89,26 +89,54 @@
       "title": "weather",
       "trafficCount": "5000+",
       "pubDate": "Wed, 16 Jul 2025 21:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRA8TasdY0lp3wZ49R49iI-WSPP0kaYI2aIM2Uj7q6xb8ECK3FmXd_oyoQs6jg",
-      "pictureSource": "Blic",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgPzqejpZygY4IIF7FeRaued-IaquE5Y7sfml2dwDk4ywYlp8MMZc6YzWHj2I",
+      "pictureSource": "Sumner County Source",
       "relatedSearch": [
         {
-          "title": "(MAPA) PRŽIĆEMO SE NA 40 STEPENI! Kiša pljušti širom Srbije, ali je RHMZ upravo izdao novo UPOZORENJE: Ovog dana počinje TOPLOTNI TALAS!",
+          "title": "7/17/25: Severe Weather Alert – Thunderstorms Possible Today",
           "snippet": "",
-          "url": "https://www.blic.rs/vremenska-prognoza/rhmz-upozorava-na-novi-toplotni-talas-od-subote-temperature-preko-40-stepeni/wfqjwbv",
+          "url": "https://sumnercountysource.com/7-17-25-severe-weather-alert-thunderstorms-possible-today/",
+          "source": "Sumner County Source"
+        },
+        {
+          "title": "Intense Heat Continues Across the South",
+          "snippet": "",
+          "url": "https://www.weatherbug.com/news/Intense-Heat-Continues-Across-the-South?source=news",
+          "source": "WeatherBug"
+        },
+        {
+          "title": "Another hot and humid day on tap for the Tennessee Valley",
+          "snippet": "",
+          "url": "https://www.local3news.com/local-weather/another-hot-and-humid-day-on-tap-for-the-tennessee-valley/article_398ef76b-4027-4291-b99d-4544dfd271ea.html",
+          "source": "Local 3 News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "vreme novi sad",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 16 Jul 2025 21:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3y-W5ywwpuKM18BgUGyxxVfzGwP4c3WTH6WnhiLedl5Ss4wRdnsoI9y4emUs",
+      "pictureSource": "B92",
+      "relatedSearch": [
+        {
+          "title": "Pljusak potopio delove Srbije – evo kada prestaju padavine MAPA",
+          "snippet": "",
+          "url": "https://www.b92.net/info/drustvo/147069/nevreme-u-srbiji-kada-prestaje-kisa-i-stize-razvedravanje/vest",
+          "source": "B92"
+        },
+        {
+          "title": "RHMZ IZDAO NAJNOVIJE UPOZORENJE! U nekim delovima Srbije već pljušti, a ovi će biti na UDARU NEVREMENA: Prete jaki naleti vetra, grmljavina i grad!",
+          "snippet": "",
+          "url": "https://www.blic.rs/vremenska-prognoza/rhmz-izdao-najnovije-upozorenje-pljuskovi-sa-grmljavinom-uz-jak-vetar-i-grad/0feg3cg",
           "source": "Blic"
         },
         {
-          "title": "DETALJNA PROGNOZA NEDELJKA TODOROVIĆA DO KRAJA LETA: Ovim danima pljuštaće kiša, a od ovog datuma opet 40 stepeni! Evo kako će biti u avgustu",
+          "title": "Kad stiže kiša i kakvo nas vreme danas očekuje",
           "snippet": "",
-          "url": "https://pink.rs/drustvo/709034/detaljna-prognoza-nedeljka-todorovica-do-kraja-leta-ovim-danima-pljustace-kisa-a-od-ovog-datuma-opet-40-stepeni-evo-kako-ce-biti-u-avgustu",
-          "source": "Pink.rs"
-        },
-        {
-          "title": "Spremite se za vremenski rolerkoster",
-          "snippet": "",
-          "url": "https://www.b92.net/info/drustvo/146372/spremite-se-za-vremenski-rolerkoster/vest",
-          "source": "B92"
+          "url": "https://n1info.rs/vesti/kad-stize-kisa-i-kakvo-nas-vreme-danas-ocekuje/",
+          "source": "N1"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,26 +201,26 @@
       "title": "vreme",
       "trafficCount": "2000+",
       "pubDate": "Wed, 16 Jul 2025 20:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3y-W5ywwpuKM18BgUGyxxVfzGwP4c3WTH6WnhiLedl5Ss4wRdnsoI9y4emUs",
-      "pictureSource": "B92",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKcfse8NKC2K92-DgiDxDe56038j9cxo5o4QAycTpKxTd-dawS9u7-e47oZqU",
+      "pictureSource": "Blic",
       "relatedSearch": [
         {
-          "title": "Pljusak potopio delove Srbije – evo kada stiže prestanak padavina MAPA",
+          "title": "(RADARSKE SLIKE) NEVREME STIGLO U SRBIJU! Evo kako će se hladni front kretati iz sata u sat: Ovaj deo zemlje posebno da SE SPREMI, oglasio se RHMZ: Vreme je opasno",
           "snippet": "",
-          "url": "https://www.b92.net/info/drustvo/147069/nevreme-u-srbiji-kada-prestaje-kisa-i-stize-razvedravanje/vest",
-          "source": "B92"
-        },
-        {
-          "title": "RHMZ IZDAO NAJNOVIJE UPOZORENJE! U nekim delovima Srbije već pljušti, a ovi će biti na UDARU NEVREMENA: Prete jaki naleti vetra, grmljavina i grad!",
-          "snippet": "",
-          "url": "https://www.blic.rs/vremenska-prognoza/rhmz-izdao-najnovije-upozorenje-pljuskovi-sa-grmljavinom-uz-jak-vetar-i-grad/0feg3cg",
+          "url": "https://www.blic.rs/vremenska-prognoza/radar-hladnog-fronta-u-srbiji-evo-kako-ce-se-nevreme-kretati-iz-sata-u-sat/2ye9x1h",
           "source": "Blic"
         },
         {
-          "title": "Kad stiže kiša i kakvo nas vreme danas očekuje",
+          "title": "Spremite se: Stiže nevreme, pa paklene vrućine",
           "snippet": "",
-          "url": "https://n1info.rs/vesti/kad-stize-kisa-i-kakvo-nas-vreme-danas-ocekuje/",
-          "source": "N1"
+          "url": "https://www.b92.net/info/drustvo/146919/spremite-se-stize-nevreme-pa-paklene-vrucine/vest",
+          "source": "B92"
+        },
+        {
+          "title": "Prete li Srbiji jake oluje? Snažan ciklon zahvatio zemlju, hladni front doneo OSVEŽENJE! Evo šta tek sledi",
+          "snippet": "",
+          "url": "https://www.telegraf.rs/vesti/srbija/4146296-prete-li-srbiji-jake-oluje-snazan-ciklon-zahvatio-zemlju-hladni-front-doneo-osvezenje-evo-sta-tek-sledi",
+          "source": "Telegraf.rs"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,38 +273,10 @@
           "source": "РТС :: Насловна"
         },
         {
-          "title": "Sve o novom sistemu ABA takmičenja, još se čeka odluka o F4",
+          "title": "Poznati sastavi grupa ABA lige: Partizan Mozzart Bet na Dubai, Crvena zvezda protiv Budućnosti",
           "snippet": "",
-          "url": "https://www.mozzartsport.com/kosarka/vesti/sve-o-novom-sistemu-aba-takmicenja-jos-se-ceka-odluka-o-f4/517944",
+          "url": "https://www.mozzartsport.com/kosarka/vesti/poznati-sastavi-grupa-aba-lige-partizan-mozzart-bet-na-dubai-crvena-zvezda-protiv-buducnosti/517930",
           "source": "Mozzart Sport"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "admiral",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 16 Jul 2025 15:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRG7_SyQg01WzoLmbA0qV1JXPZC_Bju_GF5jGuxOswV0zTXHIddkRwIhYYWWTQ",
-      "pictureSource": "E! Online",
-      "relatedSearch": [
-        {
-          "title": "King Charles III Gives Queen Camilla This New Royal Title in Unprecedented Move",
-          "snippet": "",
-          "url": "https://www.eonline.com/news/1419964/king-charles-new-title-for-queen-camilla-vice-admiral-of-u-k",
-          "source": "E! Online"
-        },
-        {
-          "title": "Queen receives ‘brilliant’ birthday gift during royal visit: A clingfilm holder",
-          "snippet": "",
-          "url": "https://www.independent.co.uk/news/uk/home-news/queen-camilla-clingfilm-gift-navy-b2790237.html",
-          "source": "The Independent"
-        },
-        {
-          "title": "Queen given household gift during visit to submarine",
-          "snippet": "",
-          "url": "https://jerseyeveningpost.com/morenews/uknews/2025/07/16/queen-given-household-gift-during-visit-to-submarine/",
-          "source": "Jersey Evening Post"
         }
       ],
       "link": "https://imtaqin.id/"

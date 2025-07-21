@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-21 15:16:17",
+  "lastUpdate": "2025-07-21 15:40:17",
   "data": [
     {
       "title": "пенсия",
@@ -33,9 +33,15 @@
       "title": "оренбург – цска москва",
       "trafficCount": "1000+",
       "pubDate": "Mon, 21 Jul 2025 07:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHn_Z2px2Bgfopk0k_kn7791aoRbejY-uMvFRodo-GcKHNybbVUgh1hY30eC0",
-      "pictureSource": "Спорт Mail",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpIWfFDQ2KKLtWAqRGE7DQSb16-0woYjs4GNh6hYw4htb_eszkRTR4ArRu2oI",
+      "pictureSource": "Матч ТВ",
       "relatedSearch": [
+        {
+          "title": "Оренбург - ЦСКА",
+          "snippet": "",
+          "url": "https://matchtv.ru/football/rpl/552400719-orenburg-tsska-18-07-2025",
+          "source": "Матч ТВ"
+        },
         {
           "title": "Матч «Оренбург» — ЦСКА 21 июля 2025 года: рискованные ставки с коэффициентами 10 и выше",
           "snippet": "",
@@ -47,12 +53,6 @@
           "snippet": "",
           "url": "https://www.euro-football.ru/article/29/1005968857_chelestini_sinteticheskoe_pokryitie_dlya_drugih_vidov_sporta_no_u_nas_net_drugogo_vyibora",
           "source": "Евро-Футбол"
-        },
-        {
-          "title": "Комментатор Генич объяснил свой прогноз на «Оренбург» — ЦСКА: «Не сыграют Дивеев, скорее всего, и Акинфеев»",
-          "snippet": "",
-          "url": "https://sport24.ru/football/news-768903-kommentator-genich-obyasnil-svoy-prognoz-na-orenburg-tsska-ne-sygrayet-diveyev-skoreye-vsego-i-akinfeyev",
-          "source": "Sport24.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -105,9 +105,9 @@
           "source": "Казинформ"
         },
         {
-          "title": "Пожар на складе по повышенному рангу тушат в Алматы",
+          "title": "Оперативный штаб развернут на месте крупного пожара в Алматы",
           "snippet": "",
-          "url": "https://kaztag.kz/ru/news/pozhar-na-sklade-po-povyshennomu-rangu-tushat-v-almaty",
+          "url": "https://kaztag.kz/ru/news/operativnyy-shtab-razvernut-na-meste-krupnogo-pozhara-v-almaty",
           "source": "КазТАГ"
         }
       ],
@@ -117,15 +117,9 @@
       "title": "хасанбой дусматов",
       "trafficCount": "100+",
       "pubDate": "Mon, 21 Jul 2025 03:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2saIpzHQIKxJjW-e_Lm9K1MqGJ9XaIoEedbCwMQ6H8K0QPxe2Cf9t0TZ9YbU",
-      "pictureSource": "NUR.KZ",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsElBlr3PKk_hdpE5bT16kSyCf5a_KF4FLIVY73IVLL37nkEqNRfzSq6fVcAM",
+      "pictureSource": "khabar.kz",
       "relatedSearch": [
-        {
-          "title": "Призер Олимпиады Сакен Бибосынов нокаутом выиграл дебютный бой на профессиональном ринге",
-          "snippet": "",
-          "url": "https://www.nur.kz/sport/boxing/2267019-prizer-olimpiady-saken-bibosynov-nokautom-vyigral-debyutnyy-boy-na-professionalnom-ringe/",
-          "source": "NUR.KZ"
-        },
         {
           "title": "Боксёр Сакен Бибосынов одержал первую победу на профессиональном ринге",
           "snippet": "",
@@ -133,9 +127,15 @@
           "source": "khabar.kz"
         },
         {
-          "title": "Решилась судьба дебютного боя в профи чемпиона мира из Казахстана",
+          "title": "Двукратный олимпийский чемпион из Узбекистана одержал очередную победу на профи-ринге",
           "snippet": "",
-          "url": "https://vesti.kz/profi/reshilas-sudba-debyutnogo-boya-profi-chempiona-mira-366566/",
+          "url": "https://www.nur.kz/sport/boxing/2267025-dvukratnyy-olimpiyskiy-chempion-iz-uzbekistana-oderzhal-ocherednuyu-pobedu-na-profi-ringe/",
+          "source": "NUR.KZ"
+        },
+        {
+          "title": "Бибосынов сделал заявление после дебюта с нокаутом в профи",
+          "snippet": "",
+          "url": "https://vesti.kz/profi/bibosyinov-sdelal-zayavlenie-debyuta-nokautom-profi-366628/",
           "source": "Vesti.kz"
         }
       ],
@@ -171,7 +171,7 @@
     },
     {
       "title": "данияр елеусинов",
-      "trafficCount": "200+",
+      "trafficCount": "100+",
       "pubDate": "Sun, 20 Jul 2025 20:30:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSD0PhHg08dq0U4wrIDNJx2KnJh3oXR7UtE7WO-8Ut-_F_9JYLTdeJ08_mZ65M",
       "pictureSource": "Казинформ",
@@ -211,10 +211,10 @@
           "source": "Новости Zakon.kz"
         },
         {
-          "title": "Новый Центр адаптации несовершеннолетних в Конаеве принял воспитанников",
+          "title": "Скандал в детдоме и забастовка водителей. О чем говорили СМИ сегодня",
           "snippet": "",
-          "url": "https://www.inform.kz/ru/noviy-tsentr-adaptatsii-nesovershennoletnih-v-konaeve-prinyal-vospitannikov-6f4729",
-          "source": "Казинформ"
+          "url": "https://tengrinews.kz/kazakhstan_news/skandal-detdome-zabastovka-voditeley-chem-govorili-smi-575909/",
+          "source": "Tengrinews"
         },
         {
           "title": "\"Публичная трагедия\": видео переезда детей из детдома в Алматы возмутило Аружан Саин",

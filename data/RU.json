@@ -1,30 +1,39 @@
 {
-  "lastUpdate": "2025-07-22 22:38:24",
+  "lastUpdate": "2025-07-22 22:52:07",
   "data": [
+    {
+      "title": "новости мира",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 22 Jul 2025 15:30:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "новочеркасск",
       "trafficCount": "200+",
       "pubDate": "Tue, 22 Jul 2025 15:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNKqMccR78DQ9epW3scI2s9IARp1bVmy2NFqrV00giuPVyRkKpTM_h700BeNM",
-      "pictureSource": "Privet-Rostov.ru",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyZBqWQFa-pOgTuDpMJ3GDxe7-_1qSH_Fwsl3Lbn1ksQCgQkDGf1LhSy9AwFM",
+      "pictureSource": "Новочеркасские ведомости",
       "relatedSearch": [
+        {
+          "title": "В Новочеркасске отремонтируют входную группу библиотеки Шолохова - Новости Новочеркасска",
+          "snippet": "",
+          "url": "https://novochvedomosti.ru/novosti-novocherkasska-2/v-novocherkasske-otremontiruyut-vhodnuyu-gruppu-biblioteki-sholohova/",
+          "source": "Новочеркасские ведомости"
+        },
+        {
+          "title": "Начат ремонт входной группы библиотеки Шолохова в Новочеркасске",
+          "snippet": "",
+          "url": "https://tuzlovgrad.ru/news/Nachat-remont-vhodnoj-gruppi-biblioteki-SHolohova-v-Novocherkasske",
+          "source": "Тузловград"
+        },
         {
           "title": "В Новочеркасске чиновник оказался под следствием за давление на бизнес",
           "snippet": "",
           "url": "https://privet-rostov.ru/incident/117421-v-novocherkasske-chinovnik-okazalsja-pod-sledstviem-za-davlenie-na-biznes.html",
           "source": "Privet-Rostov.ru"
-        },
-        {
-          "title": "Cотрудника администрации Новочеркасска подозревают в превышении должностных полномочий",
-          "snippet": "",
-          "url": "https://bloknot-rostov.ru/news/v-novocherkasske-sotrudnika-administratsii-podozre-1880165",
-          "source": "Блокнот Ростов"
-        },
-        {
-          "title": "СУ СКР: на Дону чиновник шантажом заставлял подрядчика убирать городские улицы",
-          "snippet": "",
-          "url": "https://www.yugopolis.ru/su-skr-na-donu-chinovnik-shantazhom-zastavlyal-podryadchika-ubirat-gorodskie-uliczy/",
-          "source": "Югополис"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,26 +70,26 @@
       "title": "стим",
       "trafficCount": "500+",
       "pubDate": "Tue, 22 Jul 2025 15:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTevnnQf6fUB-GVequGL0nTt4R28ox0CnIsAsYM-x7T4mUlydb2xv5X4TLTIZI",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdNLOWr3VmPBIZS7B2N7pokmxEU-AYFvK-RZTVdqPXXlFhNpBh6iiU_YsfSHU",
       "pictureSource": "iXBT.games",
       "relatedSearch": [
         {
-          "title": "Взломали Steam-аккаунт m0NESY — про-игрок в CS2 стал жертвой хакеров",
+          "title": "В Steam закрыли дорогу для многих взрослых игр? Valve запретила выпускать игры, которые нарушают правила платёжных систем и банков",
           "snippet": "",
-          "url": "https://ixbt.games/news/2025/07/20/vzlomali-steam-akkaunt-m0nesy-pro-igrok-v-cs2-stal-zertvoi-xakerov.html",
+          "url": "https://ixbt.games/news/2025/07/16/v-steam-zakroyut-dorogu-dlya-mnogix-vzroslyx-igr-valve-zapretila-vypuskat-igry-kotorye-narusayut-pra.html",
           "source": "iXBT.games"
         },
         {
-          "title": "M0NESY сообщил о взломе Steam-аккаунта и обратился к Valve за помощью",
+          "title": "Создатель NieR считает, что удаление взрослых игр из Steam под давлением платежных систем - это угроза самой демократии",
           "snippet": "",
-          "url": "https://cybersport.metaratings.ru/news/m0nesy-soobshil-o-vzlome-steam-akkaunta-i-obratilsya-k-valve-za-pomoshyu-502768/",
-          "source": "CyberMeta"
+          "url": "https://www.playground.ru/nier_automata/news/sozdatel_nier_schitaet_chto_udalenie_vzroslyh_igr_iz_steam_pod_davleniem_platezhnyh_sistem_eto_ugroza_samoj_demokratii-1782605",
+          "source": "PlayGround.ru"
         },
         {
-          "title": "Был взломан Steam-аккаунт Ильи «m0NESY» Осипова",
+          "title": "Steam неожиданно удалил популярный шутер Stalcraft X",
           "snippet": "",
-          "url": "https://www.sport-express.net/cybersport/esports/news/steam-akkaunt-znamenitogo-igroka-team-falcons-m0nesy-okazalsya-pod-ugrozoy-2344297/",
-          "source": "sport-express.net"
+          "url": "https://www.ixbt.com/live/games/steam-neozhidanno-udalil-populyarnyy-shuter-stalcraft-x.html",
+          "source": "iXBT.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,10 +170,10 @@
           "source": "Кино Mail"
         },
         {
-          "title": "Рената Литвинова рассказала об алкогольной диете «без подсчета бокалов»",
+          "title": "Так каждый может: 58-летняя Рената Литвинова раскрыла главный секрет моложавой внешности",
           "snippet": "",
-          "url": "https://news.rambler.ua/starlife/55019089-renata-litvinova-rasskazala-ob-alkogolnoy-diete-bez-podscheta-bokalov/",
-          "source": "Рамблер"
+          "url": "https://spbdnevnik.ru/news/2025-07-23/tak-kazhdyy-mozhet-58letnyaya-renata-litvinova-raskryla-glavnyy-sekret-molozhavoy-vneshnosti",
+          "source": "spbdnevnik.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +258,6 @@
           "snippet": "",
           "url": "https://metaratings.ru/prognozy/futbol/rieka-ludogorec-prognoz-na-match-1-4-finala-kvalifikacii-ligi-chempionov-22-iyulya-2025-goda/",
           "source": "Metaratings"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "сингапур",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 22 Jul 2025 11:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpK6n6QT5iMtOSr5T9BDAwBsUNvB4mAcyFaCo0Nxx0TuWRilNlQOjTA6OquNE",
-      "pictureSource": "Sportbox",
-      "relatedSearch": [
-        {
-          "title": "Наших девочек бессовестно обокрали на чемпионате мира. Золото просто подарили соперницам",
-          "snippet": "",
-          "url": "https://news.sportbox.ru/Vidy_sporta/synchronized_swimming/spbnews_NI2224260_Nashih_devochek_bessovestno_obokrali_na_chempionate_mira_Zoloto_prosto_podarili_sopernicam",
-          "source": "Sportbox"
-        },
-        {
-          "title": "Тренер Покровская — о «серебре» синхронисток на ЧМ: «Мы словно с дачи вернулись, на которой несколько лет жили»",
-          "snippet": "",
-          "url": "https://matchtv.ru/synchronised_swimming/matchtvnews_NI2224107_Trener_Pokrovskaja__o_serebre_sinkhronistok_na_ChM_My_slovno_s_dachi_vernulis_na_kotoroj_neskolko_let_zhili",
-          "source": "Матч ТВ"
-        },
-        {
-          "title": "Синхронное плавание. Чемпионат мира-2025. Гурбанбердиева и Мальцев выступят в технической программе микст-дуэтов",
-          "snippet": "",
-          "url": "https://sportmail.ru/news/others/67120936/",
-          "source": "Спорт Mail"
         }
       ],
       "link": "https://imtaqin.id/"

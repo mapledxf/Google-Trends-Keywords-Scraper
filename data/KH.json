@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-07-24 07:59:20",
+  "lastUpdate": "2025-07-24 08:33:47",
   "data": [
     {
       "title": "bbc",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 23 Jul 2025 22:50:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvWsgeTZbj-hE-E3q8BrPBaILJgWl4BdjKT64WHN964gsS1EQX0zcVp33QrEM",
       "pictureSource": "BBC",
@@ -49,10 +49,10 @@
           "source": "柬中時報"
         },
         {
-          "title": "洪森回应交火事件：泰军先动手！",
+          "title": "泰方出动F-16摧毁柬两处军事设施 冲突细节和伤亡情况发布",
           "snippet": "",
-          "url": "https://www.thaiheadlines.com/174366/",
-          "source": "泰国头条新闻- Thailand Headlines"
+          "url": "https://www.yzwb.net/news/txs/202507/t20250724_240842.html",
+          "source": "紫牛新闻"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,26 +61,26 @@
       "title": "bbc news",
       "trafficCount": "200+",
       "pubDate": "Wed, 23 Jul 2025 21:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSW9FD93kbmjPEashY5KJswGLKCrII_wzexCkBWlxONgBwZU7IeSyY3DS3MGE8",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXrl_rHvTBwD_7WPOemvXSdFcHYNkfv9rdWeE9SXfe4-5Rte-8EYk8d6sQaRE",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Some asylum seekers misusing payment cards for gambling",
+          "title": "Man in 40s killed in Plymouth crash",
           "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c9dgd1qyq29o",
+          "url": "https://www.bbc.co.uk/news/articles/cg757970pe9o",
           "source": "BBC"
         },
         {
-          "title": "Asylum seekers use taxpayer money for gambling",
+          "title": "Man in 40s killed in Plymouth crash",
           "snippet": "",
-          "url": "https://www.telegraph.co.uk/news/2025/07/24/asylum-seekers-taxpayer-money-gambling/",
-          "source": "The Telegraph"
+          "url": "https://www.aol.com/man-40s-killed-plymouth-crash-081637812.html",
+          "source": "AOL.com"
         },
         {
-          "title": "Home Office launches urgent probe into migrant payment cards after hotel asylum seekers caught gambling with taxpayer cash",
+          "title": "Guernsey short film qualifies for British Independent Film Awards",
           "snippet": "",
-          "url": "https://www.gbnews.com/politics/migrant-crisis-home-office-probe-payment-cards",
-          "source": "GB News"
+          "url": "https://www.bbc.co.uk/news/articles/c07d4jj5nvzo",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,16 +99,44 @@
           "source": "The Keyword"
         },
         {
-          "title": "Google Maps Media Controls Go Missing—'Working To Fix'",
-          "snippet": "",
-          "url": "https://www.newsweek.com/google-maps-media-controls-missing-fix-2102158",
-          "source": "Newsweek"
-        },
-        {
           "title": "Did Google just remove the music toggle from Maps? Android users are upset - Hindustan Times",
           "snippet": "",
           "url": "https://www.hindustantimes.com/world-news/us-news/did-google-just-remove-the-music-toggle-from-maps-android-users-are-upset-101753167338593.html",
           "source": "Hindustan Times"
+        },
+        {
+          "title": "Google Maps Update Bug Killed A Popular Function On Android",
+          "snippet": "",
+          "url": "https://hothardware.com/news/google-maps-update-killed-function-on-android",
+          "source": "HotHardware"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "cnn",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 23 Jul 2025 20:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRO82tgDLXmf9s3o3wiCem3yM_jlMH1qtHIsHnON2cepH5E1LaVtZNJ4tADM88",
+      "pictureSource": "CNN",
+      "relatedSearch": [
+        {
+          "title": "Trump’s Epstein nightmare worsens amid new revelations and a GOP revolt",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/07/24/politics/trumps-epstein-nightmare-worsens-amid-new-revelations-and-a-gop-revolt",
+          "source": "CNN"
+        },
+        {
+          "title": "Trump’s name ‘appears in Epstein files’, say DOJ in bombshell report: Live updates",
+          "snippet": "",
+          "url": "https://www.the-independent.com/news/world/americas/us-politics/trump-epstein-files-latest-news-b2795019.html",
+          "source": "The Independent"
+        },
+        {
+          "title": "Exclusive | Justice Department Told Trump in May That His Name Is Among Many in the Epstein Files - WSJ",
+          "snippet": "",
+          "url": "https://www.wsj.com/politics/justice-department-told-trump-name-in-epstein-files-727a8038?gaa_at=eafs&gaa_n=ASWzDAizPsFaV3nzxO3m6EAAiQGYcImmrnCPplFiwdqMZBrI263xHHr8wYn9&gaa_ts=6881f2d6&gaa_sig=6s66PNFmEyNqBjS4EVhmG6lXRmv94RHU7oe8eKMxKLIvt_eHJrDv2ikAXkcr2Hhdwn8Udj9jxuQKGQHaCbs08A%3D%3D",
+          "source": "The Wall Street Journal"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +155,16 @@
           "source": "The Guardian"
         },
         {
-          "title": "Thailand F-16 jet bombs Cambodian targets as border clash escalates",
+          "title": "Fighting continues along the Cambodia-Thailand border as Cambodia maintains control over the Ta Moan and Ta Krabei temples",
           "snippet": "",
-          "url": "https://www.reuters.com/world/asia-pacific/thailand-f-16-jet-bombs-cambodian-targets-border-clash-escalates-2025-07-24/",
-          "source": "Reuters"
+          "url": "https://www.khmertimeskh.com/501723765/fighting-continues-along-the-cambodia-thailand-border-as-cambodia-maintains-control-over-the-ta-moan-and-ta-krabei-temples/",
+          "source": "Khmer Times"
         },
         {
-          "title": "Thai and Cambodian troops exchange fire at disputed border",
+          "title": "Manet: ‘Cambodia has no choice but to respond with force against invasion’ as F-16 reported downed",
           "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c80p8z0y0eko",
-          "source": "BBC"
+          "url": "https://www.phnompenhpost.com/national/manet-cambodia-has-no-choice-but-to-respond-with-force-against-invasion-as-f-16-reported-downed",
+          "source": "Phnompenhpost"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,10 +189,10 @@
           "source": "Climate Central"
         },
         {
-          "title": "Massive heat dome strikes from Chicago to New Orleans; nearly 100 million suffer under extreme heat alerts",
+          "title": "Dangerously hot, humid weather returns tomorrow, peaking Friday with a 100-plus heat index",
           "snippet": "",
-          "url": "https://www.foxweather.com/weather-news/heat-dome-temperature-records-south-central-east",
-          "source": "FOX Weather"
+          "url": "https://www.bostonglobe.com/2025/07/23/metro/new-england-boston-forecast/",
+          "source": "The Boston Globe"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,9 +217,9 @@
           "source": "Báo Nhân Dân điện tử"
         },
         {
-          "title": "Bão số 3 Wipha vừa tan, gần Biển Đông lại xuất hiện áp thấp nhiệt đới",
+          "title": "Bão số 4 năm 2025 tên gì, đang ở đâu trên Biển Đông?",
           "snippet": "",
-          "url": "https://vtcnews.vn/bao-so-3-wipha-vua-tan-gan-bien-dong-lai-xuat-hien-ap-thap-nhiet-doi-ar955834.html",
+          "url": "https://vtcnews.vn/bao-so-4-nam-2025-ten-gi-dang-o-dau-tren-bien-dong-ar956102.html",
           "source": "Báo điện tử VTC News"
         }
       ],
@@ -211,10 +239,10 @@
           "source": "9to5Mac"
         },
         {
-          "title": "Apple iPhone 17 Release Date, Price In India, Design, Camera, Specs, Color Options, All You Need To Know",
+          "title": "Apple Has Tested Gray Color on iPhone 17",
           "snippet": "",
-          "url": "https://www.timesnownews.com/technology-science/apple-iphone-17-release-date-price-in-india-design-camera-specs-color-options-all-you-need-to-know-article-152335886",
-          "source": "Times Now"
+          "url": "https://majinbuofficial.com/apple-has-tested-gray-color-on-iphone-17/",
+          "source": "MajinBu Official"
         },
         {
           "title": "iPhone 17 Pro vs iPhone 17 Pro Max: Check prices in India, UAE, the USA, launch date, design, camera and more",
@@ -239,44 +267,16 @@
           "source": "The Telegraph"
         },
         {
-          "title": "Player Ratings: Arsenal 1-0 AC Milan – Torriani saves three penalties; a few flops",
+          "title": "Marli Salmon moment sparks Jakub Kiwior reaction, Martin Zubimendi praise and Kepa's classy touch",
           "snippet": "",
-          "url": "https://sempremilan.com/player-ratings-arsenal-1-0-ac-milan-torriani",
-          "source": "SempreMilan"
-        },
-        {
-          "title": "Havertz highlights Gyokeres problem, Martin Zubimendi stars and Arsenal's left-wing issue",
-          "snippet": "",
-          "url": "https://www.football.london/arsenal-fc/transfer-news/havertz-highlights-gyokeres-problem-martin-32122152",
+          "url": "https://www.football.london/arsenal-fc/fixtures-results/marli-salmon-moment-sparks-jakub-32123408",
           "source": "Football London"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "msc",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 23 Jul 2025 03:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3fC4L-qXZl0FLKDXf6o0SWBGt45VGFzeKPHCZmBUbQgQcNW2VbEo01sZlnhA",
-      "pictureSource": "Cruise Arabia & Africa",
-      "relatedSearch": [
-        {
-          "title": "MSC Cruises reveals new and redesigned entertainment aboard MSC World Asia",
-          "snippet": "",
-          "url": "https://cruise-arabia.com/2025/07/24/msc-cruises-reveals-new-and-redesigned-entertainment-aboard-msc-world-asia/",
-          "source": "Cruise Arabia & Africa"
         },
         {
-          "title": "MSC World Asia reveals next-gen entertainment venues",
+          "title": "Arsenal vs AC Milan in Singapore: Arsenal's manager 'would love to have a full stadium'; Toa Payoh flat fire: Male victim known to be a 'hoarder', say residents: Singapore live news",
           "snippet": "",
-          "url": "https://www.seatrade-cruise.com/hotel-operations-entertainment/new-and-enhanced-entertainment-spaces-coming-to-msc-world-asia",
-          "source": "Seatrade Cruise News"
-        },
-        {
-          "title": "Changes MSC Cruises Is Making to Their Next World Class Ship",
-          "snippet": "",
-          "url": "https://cruisefever.net/changes-msc-cruises-is-making-to-their-next-world-class-ship/",
-          "source": "Cruise Fever"
+          "url": "https://sg.news.yahoo.com/live/singapore-live-news-arsenal-vs-ac-milan-in-singapore-arsenals-manager-would-love-to-have-a-full-stadium-toa-payoh-flat-fire-male-victim-known-to-be-a-hoarder-say-residents-015055236.html",
+          "source": "Yahoo.co"
         }
       ],
       "link": "https://imtaqin.id/"

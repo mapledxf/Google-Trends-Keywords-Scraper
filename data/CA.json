@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-07-24 19:28:04",
+  "lastUpdate": "2025-07-24 19:40:17",
   "data": [
     {
       "title": "starlink",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 24 Jul 2025 12:20:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKBvpuXWSGRuZoIWKetCP2pVaSDqJnFplS_K155lO56DBcif2t_umnMcY543k",
       "pictureSource": "CNET",
@@ -31,28 +31,56 @@
     },
     {
       "title": "severe thunderstorm watch",
-      "trafficCount": "50000+",
+      "trafficCount": "10000+",
       "pubDate": "Thu, 24 Jul 2025 12:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPfJWC5gGgDDcCZFNFMuBqMn44tUz8p9vKXsKE_hsBK6rkOjmhPxIUoe3DnKY",
-      "pictureSource": "CBC",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWNzY1J-XRP6pOT7XvAJwdyeFDvkd808Wi65ROPkiC2phbL3mEm0Vk1lG4oKo",
+      "pictureSource": "Durham Radio News",
       "relatedSearch": [
         {
-          "title": "Tornado risk north, west of Ottawa-Gatineau on Thursday",
+          "title": "Parts of Durham Region under severe thunderstorm watch",
           "snippet": "",
-          "url": "https://www.cbc.ca/news/canada/ottawa/tornado-storm-ottawa-gatineau-weather-forecast-july24-1.7592778",
-          "source": "CBC"
+          "url": "https://www.durhamradionews.com/archives/200136",
+          "source": "Durham Radio News"
         },
         {
-          "title": "Tornado risk alert issued for portions of southern Ontario",
+          "title": "Severe thunderstorm watch in effect for most of the Kawarthas region for Thursday evening",
           "snippet": "",
-          "url": "https://www.insauga.com/tornado-risk-alert-issued-for-portions-of-southern-ontario/",
-          "source": "INsauga"
+          "url": "https://kawarthanow.com/2025/07/24/severe-thunderstorm-watch-in-effect-for-most-of-the-kawarthas-region-for-thursday-evening/",
+          "source": "kawarthaNOW"
         },
         {
-          "title": "Severe thunderstorm watch for North Bay area; threat of torrential rain and a tornado possible",
+          "title": "Severe thunderstorm watch issued in New Brunswick",
           "snippet": "",
-          "url": "https://www.baytoday.ca/local-news/severe-thunderstorm-watch-for-north-bay-area-10986367",
-          "source": "BayToday.ca"
+          "url": "https://www.ctvnews.ca/atlantic/new-brunswick/article/severe-thunderstorm-watch-issued-in-new-brunswick-further-risk-of-thunderstorms-friday/",
+          "source": "CTV News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "manitoulin island",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 24 Jul 2025 12:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzsUR58MZqtwH29I3zaBxSpotZ7GP6W97NHicpmflNEvIReBLzTPmFMBGVSi8",
+      "pictureSource": "Sudbury News",
+      "relatedSearch": [
+        {
+          "title": "Updated: Highway 6 reopened following serious collision",
+          "snippet": "",
+          "url": "https://www.sudbury.com/local-news/highway-6-closed-following-collision-10973548",
+          "source": "Sudbury News"
+        },
+        {
+          "title": "Serious crash near Manitoulin closes stretch of Highway 6",
+          "snippet": "",
+          "url": "https://www.thesudburystar.com/news/local-news/serious-crash-near-manitoulin-closes-stretch-of-highway-6",
+          "source": "Sudbury Star"
+        },
+        {
+          "title": "Highway 6 near swing bridge reopens following collision",
+          "snippet": "",
+          "url": "https://www.ctvnews.ca/northern-ontario/article/highway-6-near-swing-bridge-reopens-following-collision/",
+          "source": "CTV News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,7 +117,7 @@
       "title": "besiktas",
       "trafficCount": "100+",
       "pubDate": "Thu, 24 Jul 2025 11:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTm0PhW1avUJ3y14mCVf4zXzlLXa9wKz5UtoRAEatjIvYofX1G7_z2DgC1U7f8",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7hcfmlpLgCWIcCbQDatMjpoZECM0MJLAso4Y-1fsfI7ShHt5v4nU700yVsz8",
       "pictureSource": "Fanatik",
       "relatedSearch": [
         {
@@ -161,10 +189,10 @@
           "source": "CNBC"
         },
         {
-          "title": "iPadOS 26 preview: The rare software update that makes (most) old hardware feel new",
+          "title": "iOS 26’s Liquid Glass is fine, I guess",
           "snippet": "",
-          "url": "https://arstechnica.com/gadgets/2025/07/ipados-26-preview-the-rare-software-update-that-makes-most-old-hardware-feel-new/",
-          "source": "Ars Technica"
+          "url": "https://www.theverge.com/mobile/710980/apple-ios-26-preview-liquid-glass-ux",
+          "source": "The Verge"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,38 +273,10 @@
           "source": "Le Journal de Québec"
         },
         {
-          "title": "Décès de Hulk Hogan: Donald Trump rend hommage à un «grand ami»",
+          "title": "Hulk Hogan, superstar américaine du catch et supporter de Donald Trump, est mort",
           "snippet": "",
-          "url": "https://www.tvanouvelles.ca/2025/07/24/deces-de-hulk-hogan-donald-trump-rend-hommage-a-un-grand-ami",
-          "source": "TVA Nouvelles"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "3m open",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 24 Jul 2025 11:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJVA3Rt_mn6_5_vRV-Yuv5KTxS-xkdRjYw6ruXRZazr8APtElPcrab2hmlR4M",
-      "pictureSource": "TSN",
-      "relatedSearch": [
-        {
-          "title": "Canada's Svensson shoots 60 in brilliant opening round at 3M Open",
-          "snippet": "",
-          "url": "https://www.tsn.ca/golf/canada-s-adam-svensson-shoots-60-in-brilliant-opening-round-at-3m-open-1.2338752",
-          "source": "TSN"
-        },
-        {
-          "title": "Canadian Svensson drains long eagle putt to fire course-record 60 at 3M Open",
-          "snippet": "",
-          "url": "https://www.sportsnet.ca/golf/video/canadian-svensson-drains-long-eagle-putt-to-fire-course-record-60-at-3m-open/",
-          "source": "Sportsnet.ca"
-        },
-        {
-          "title": "3M Open live leaderboard updates for Thursday's first round at TPC Twin Cities",
-          "snippet": "",
-          "url": "https://golfweek.usatoday.com/story/sports/golf/pga/2025/07/24/3m-open-2025-first-round-leaderboard-scores-highlights-updates/85281631007/",
-          "source": "Golfweek"
+          "url": "https://www.lequipe.fr/Catch/Actualites/Hulk-hogan-superstar-americaine-du-catch-est-mort/1580513",
+          "source": "L'Équipe"
         }
       ],
       "link": "https://imtaqin.id/"

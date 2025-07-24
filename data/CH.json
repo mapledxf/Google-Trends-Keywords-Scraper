@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-24 10:43:41",
+  "lastUpdate": "2025-07-24 10:56:35",
   "data": [
     {
       "title": "thailand kambodscha konflikt",
@@ -31,7 +31,7 @@
     },
     {
       "title": "schattdorf",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 24 Jul 2025 00:40:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSysRhQt2jvrHd7CX117jTGLBfeufKZaxDo2HVTtqqFAx169e4NqWj5l9riqYA",
       "pictureSource": "Kanton Uri",
@@ -61,26 +61,26 @@
       "title": "an-24",
       "trafficCount": "500+",
       "pubDate": "Thu, 24 Jul 2025 00:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIpDonL-HzyMVXqyBCRX3RSe3z1VcisRKGnMkncR2wlTfDNmEkWOTd_K997VA",
-      "pictureSource": "CNN",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRC6rxxTGZzncDj03BB7qVpSokjowYy-ZOV8Y4wqca-cahkkaHVqJZlFNDn7ZI",
+      "pictureSource": "Reuters",
       "relatedSearch": [
         {
-          "title": "Dozens feared killed after plane crashes in Russia’s Far East, state media reports",
+          "title": "Russian plane crashes in Russia's far east, nearly 50 people on board feared dead",
           "snippet": "",
-          "url": "https://www.cnn.com/2025/07/24/world/russia-plane-missing-amur-region-intl-hnk",
-          "source": "CNN"
-        },
-        {
-          "title": "Plane with 49 people crashes in Russia's Far East",
-          "snippet": "",
-          "url": "https://www.wyff4.com/article/plane-crash-russia-far-east-tynda/65496438",
-          "source": "WYFF"
+          "url": "https://www.reuters.com/business/aerospace-defense/passenger-plane-crashes-russias-far-east-nearly-50-people-board-feared-dead-2025-07-24/",
+          "source": "Reuters"
         },
         {
           "title": "Wreckage found after Russian plane carrying dozens goes missing, officials say",
           "snippet": "",
           "url": "https://abcnews.go.com/International/russian-plane-carrying-dozens-reported-missing-east-local/story?id=124024643",
           "source": "ABC News"
+        },
+        {
+          "title": "Passenger plane with 49 people onboard crashes in Russia’s far east",
+          "snippet": "",
+          "url": "https://www.theguardian.com/world/2025/jul/24/passenger-plane-missing-russia-far-east-an-24-angara",
+          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,7 +145,7 @@
       "title": "nestle",
       "trafficCount": "200+",
       "pubDate": "Wed, 23 Jul 2025 23:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHxZaPczl9OpPUHI7zApMYxUsNDTJQzpfja8EvusZ2i2suJxxaiYWhvoYIZkQ",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgGTPom1MtzrBr3Q_nS_vz4HJDw6MpxgCiVzCAxALX_9O8KVWs5yoFmXu1EFs",
       "pictureSource": "SWI swissinfo.ch",
       "relatedSearch": [
         {
@@ -161,10 +161,10 @@
           "source": "blue News"
         },
         {
-          "title": "Nestle struggles amid weak China market",
+          "title": "Nestle sales down 1.8% to 44.2B Swiss francs in H1",
           "snippet": "",
-          "url": "https://www.france24.com/en/live-news/20250724-nestle-struggles-amid-weak-china-market",
-          "source": "France 24"
+          "url": "https://breakingthenews.net/Article/Nestle-sales-down-1.8-to-44.2B-Swiss-francs-in-H1/64511178",
+          "source": "Breaking The News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,9 +173,15 @@
       "title": "thailand",
       "trafficCount": "500+",
       "pubDate": "Wed, 23 Jul 2025 22:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNMsq3-4MPK8thWWegrWZP-uOhmh8lvCzT7ODPeZ7_otlhVTuDhnKQZzlqA0Q",
-      "pictureSource": "The Guardian",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdJAu_k1yu4FSgL6vcoOsrMkfBBbvaJyE6uO4Dab7JKdadzfTBdq6t6fD2dlM",
+      "pictureSource": "BBC",
       "relatedSearch": [
+        {
+          "title": "Thailand seals border with Cambodia after clashes kill at least nine civilians",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/c98j77zde86t",
+          "source": "BBC"
+        },
         {
           "title": "Thailand-Cambodia border dispute live: Thailand closes border with Cambodia as death toll from fighting rises",
           "snippet": "",
@@ -183,13 +189,7 @@
           "source": "The Guardian"
         },
         {
-          "title": "Thailand launches airstrikes on Cambodian military targets as deadly border dispute escalates",
-          "snippet": "",
-          "url": "https://www.cnn.com/world/live-news/thailand-cambodia-border-dispute-07-24-25-intl-hnk",
-          "source": "CNN"
-        },
-        {
-          "title": "Thailand deploys fighter jets against Cambodia",
+          "title": "Thai fighter jets strike Cambodia as border clashes erupt",
           "snippet": "",
           "url": "https://www.ft.com/content/0833b504-02e4-4c9e-93d4-d607ae3187f5",
           "source": "Financial Times"

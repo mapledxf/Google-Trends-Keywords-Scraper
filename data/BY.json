@@ -1,30 +1,30 @@
 {
-  "lastUpdate": "2025-07-24 14:57:29",
+  "lastUpdate": "2025-07-24 15:19:32",
   "data": [
     {
       "title": "крушение самолета",
-      "trafficCount": "500+",
+      "trafficCount": "100+",
       "pubDate": "Thu, 24 Jul 2025 07:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzN04Fngjyo7Ql83Q3k_RemR30ZInP5rkL8D2PXFYTMgMeVCYp-agFyt0T0fI",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeK0y-4fqALuTCPocfS0gg-54qE4EC-FauxFPJRIKSa1sJFhj7EI9p_P1cH2o",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "В Амурской области разбился пассажирский Ан-24, погибли 48 человек",
+          "title": "«Почему ты отключил двигатели?» Предварительный отчет крушения самолета Air India породил еще больше споров",
           "snippet": "",
-          "url": "https://www.bbc.com/russian/articles/cvg6g5zm76xo",
+          "url": "https://www.bbc.com/russian/articles/c4g2115768eo",
           "source": "BBC"
         },
         {
-          "title": "Пассажирский самолет в Амурской области не выходит на связь",
+          "title": "WSJ узнал возможные причины крушения самолета Boeing 787 в Индии",
           "snippet": "",
-          "url": "https://belta.by/world/view/passazhirskij-samolet-v-amurskoj-oblasti-ne-vyhodit-na-svjaz-728103-2025/",
-          "source": "БелТА"
+          "url": "https://rtvi.com/news/wsj-uznal-vozmozhnye-prichiny-krusheniya-samoleta-boeing-787-v-indii/",
+          "source": "RTVI"
         },
         {
-          "title": "В России потерпел крушение пассажирский самолет",
+          "title": "Видеорегистраторы в кабине пилота: вмешательство в частную жизнь или необходимость?",
           "snippet": "",
-          "url": "https://people.onliner.by/2025/07/24/v-rossii-poterpel-krushenie-passazhirskij-samolet",
-          "source": "Onlíner"
+          "url": "https://www.bfm.ru/news/578512",
+          "source": "BFM.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,15 +33,9 @@
       "title": "сочи атака дронов",
       "trafficCount": "200+",
       "pubDate": "Thu, 24 Jul 2025 06:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvFq08PiejEZyk4cdQYAWCBV9LxHqRIT273qUN1vHu4Grelu7P2GHcPwnBA34",
-      "pictureSource": "RTVI",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCWxt-P8lEhtPLk5zLuvWDGIk0euuHbqJ25dOskgBdjdCsvtgDpCjrNSUF_nA",
+      "pictureSource": "БелТА",
       "relatedSearch": [
-        {
-          "title": "«Прямо на меня летит, снижается»: жители Сочи рассказали о ночной атаке БПЛА",
-          "snippet": "",
-          "url": "https://rtvi.com/stories/pryamo-na-menya-letit-snizhaetsya-zhiteli-sochi-rasskazali-o-nochnoj-atake-bpla/",
-          "source": "RTVI"
-        },
         {
           "title": "В Сочи из-за падения обломков БПЛА погибла женщина, еще одна пострадала",
           "snippet": "",
@@ -49,10 +43,16 @@
           "source": "БелТА"
         },
         {
-          "title": "МИД России назвало терактом ночные бомбежки Сочи",
+          "title": "«Прямо на меня летит, снижается»: жители Сочи рассказали о ночной атаке БПЛА",
           "snippet": "",
-          "url": "https://ura.news/news/1052968978",
-          "source": "URA.RU"
+          "url": "https://rtvi.com/stories/pryamo-na-menya-letit-snizhaetsya-zhiteli-sochi-rasskazali-o-nochnoj-atake-bpla/",
+          "source": "RTVI"
+        },
+        {
+          "title": "РФ и Киев обменялись атаками БПЛА после раунда переговоров",
+          "snippet": "",
+          "url": "https://www.dw.com/ru/rf-i-ukraina-obmenalis-atakami-bpla-posle-raunda-peregovorov/a-73391427",
+          "source": "DW"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -109,6 +109,34 @@
           "snippet": "",
           "url": "https://www.vedomosti.ru/politics/articles/2025/07/24/1126589-o-boyah-tailanda-i-kambodzhi",
           "source": "Ведомости"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ан 24",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 24 Jul 2025 01:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzN04Fngjyo7Ql83Q3k_RemR30ZInP5rkL8D2PXFYTMgMeVCYp-agFyt0T0fI",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "В Амурской области разбился пассажирский Ан-24, погибли 48 человек",
+          "snippet": "",
+          "url": "https://www.bbc.com/russian/articles/cvg6g5zm76xo",
+          "source": "BBC"
+        },
+        {
+          "title": "В России потерпел крушение пассажирский самолет",
+          "snippet": "",
+          "url": "https://people.onliner.by/2025/07/24/v-rossii-poterpel-krushenie-passazhirskij-samolet",
+          "source": "Onlíner"
+        },
+        {
+          "title": "Пассажирский самолет в Амурской области не выходит на связь",
+          "snippet": "",
+          "url": "https://belta.by/world/view/passazhirskij-samolet-v-amurskoj-oblasti-ne-vyhodit-na-svjaz-728103-2025/",
+          "source": "БелТА"
         }
       ],
       "link": "https://imtaqin.id/"

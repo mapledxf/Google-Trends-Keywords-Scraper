@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2025-07-25 11:31:24",
+  "lastUpdate": "2025-07-25 11:44:43",
   "data": [
     {
-      "title": "درجة الحرارة اليوم",
+      "title": "طقس",
       "trafficCount": "2000+",
-      "pubDate": "Fri, 25 Jul 2025 02:40:00 -0700",
+      "pubDate": "Fri, 25 Jul 2025 04:10:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ7vYJNDl8di6GZ5qp2ABMet9e_BfgWmubpuJSgtJaXgJ8UD2MV3bgfRrhzv4A",
       "pictureSource": "بوابة الوسط",
       "relatedSearch": [
@@ -30,29 +30,38 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "درجة الحرارة اليوم",
+      "trafficCount": "10000+",
+      "pubDate": "Fri, 25 Jul 2025 02:40:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "weather",
       "trafficCount": "200+",
       "pubDate": "Fri, 25 Jul 2025 00:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTERS_fzxYqDvf9wzRJMa18vX9BcVb_4K0SP757Qsyl6872RhC1DlTTt_p-1Ws",
-      "pictureSource": "NBC10 Philadelphia",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRW5qf9qV3FjlbfF6B6cmdt46HiNHREaVpMeJ_J5hisQW-cIirNY8wMkFUv7Os",
+      "pictureSource": "CBS News",
       "relatedSearch": [
         {
-          "title": "Intense heat, strong storms for Friday",
+          "title": "Extreme heat triggers warnings for N.J and NYC area today. Map shows where it will be hottest.",
           "snippet": "",
-          "url": "https://www.nbcphiladelphia.com/video/weather/video-weather/intense-heat-strong-storms-for-friday/4242065/",
-          "source": "NBC10 Philadelphia"
+          "url": "https://www.cbsnews.com/newyork/news/extreme-heat-nj-heat-advisory-nyc/",
+          "source": "CBS News"
         },
         {
-          "title": "Sweltering heat envelops Mass. on Friday, with 'feels-like' temperatures to cross 100",
+          "title": "NJ beach weather & waves: Jersey Shore Report for Friday, July 25",
           "snippet": "",
-          "url": "https://www.masslive.com/weather/2025/07/mass-weather-much-of-bay-state-to-feel-like-100-or-warmer-as-heat-peaks-on-friday.html",
-          "source": "MassLive"
+          "url": "https://nj1015.com/jersey-shore-report-july-25-2025/",
+          "source": "New Jersey 101.5"
         },
         {
-          "title": "Small chance of a severe storm Friday",
+          "title": "Update: Extreme heat warning affecting Bucks County until Friday night – heat index values up to 107 degrees",
           "snippet": "",
-          "url": "https://www.wbng.com/2025/07/24/small-chance-severe-storm-friday/",
-          "source": "WBNG"
+          "url": "https://www.lehighvalleylive.com/weather-alerts/2025/07/update-extreme-heat-warning-affecting-bucks-county-until-friday-night-heat-index-values-up-to-107-de.html",
+          "source": "lehighvalleylive"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-26 19:49:17",
+  "lastUpdate": "2025-07-26 19:57:01",
   "data": [
     {
       "title": "gogi",
@@ -33,15 +33,9 @@
       "title": "helle ennätys",
       "trafficCount": "200+",
       "pubDate": "Sat, 26 Jul 2025 11:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-__ea1gWR0Hehoi7M2kl3niHEbUWN0H_Jzh-FzXzJWIMbPudul8TQIA-TaBM",
-      "pictureSource": "Ilta-Sanomat",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGQTpWEbrlYYSG-pDxjmvct2P_VZKENaRGkaPHa5Cl42p36ru2_W429GY_z9s",
+      "pictureSource": "Yle",
       "relatedSearch": [
-        {
-          "title": "Ilmatieteen laitokselta hurja tiedote ensi viikon säästä",
-          "snippet": "",
-          "url": "https://www.is.fi/kotimaa/art-2000011389005.html",
-          "source": "Ilta-Sanomat"
-        },
         {
           "title": "Kun kotona ja jopa baareissa on liian kuuma, helsinkiläiset pakenevat yöksi ulos",
           "snippet": "",
@@ -53,6 +47,12 @@
           "snippet": "",
           "url": "https://www.hs.fi/suomi/art-2000011388996.html",
           "source": "HS.fi"
+        },
+        {
+          "title": "Tämä on Suomen viilein paikka juuri nyt",
+          "snippet": "",
+          "url": "https://www.iltalehti.fi/saauutiset/a/c774d8cb-c6fb-484a-b060-7e455246d55b",
+          "source": "Iltalehti"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -114,6 +114,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "metsänomistaja",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 26 Jul 2025 10:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgE7XgwoY_hC6hynUFgY4OLFcZCeqtrbTtRtAlraghkX1MvGC5YHwt7j2h4GI",
+      "pictureSource": "Yle",
+      "relatedSearch": [
+        {
+          "title": "Metsänomistaja ihmettelee harventamattomia metsiä: ”Aivan hirveää”",
+          "snippet": "",
+          "url": "https://yle.fi/a/74-20172571",
+          "source": "Yle"
+        },
+        {
+          "title": "Metsää kaadetaan nyt lähes ennätysmäärä",
+          "snippet": "",
+          "url": "https://yle.fi/uutiset/lyhyesti/74-20172571",
+          "source": "Yle"
+        },
+        {
+          "title": "Tätä tarkoittaa työntekijän ”alisuoriutuminen” – voisi olla syy irtisanomiselle, jos hallituksen kiistelty esitys hyväksytään",
+          "snippet": "",
+          "url": "https://yle.fi/uutiset/lyhyesti/74-20174142",
+          "source": "Yle"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "weather tomorrow",
       "trafficCount": "1000+",
       "pubDate": "Sat, 26 Jul 2025 10:50:00 -0700",
@@ -142,34 +170,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "metsänomistaja",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 26 Jul 2025 10:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgE7XgwoY_hC6hynUFgY4OLFcZCeqtrbTtRtAlraghkX1MvGC5YHwt7j2h4GI",
-      "pictureSource": "Yle",
-      "relatedSearch": [
-        {
-          "title": "Metsänomistaja ihmettelee harventamattomia metsiä: ”Aivan hirveää”",
-          "snippet": "",
-          "url": "https://yle.fi/a/74-20172571",
-          "source": "Yle"
-        },
-        {
-          "title": "Joukko naamioituja ihmisiä hyökkäsi jalkapallofanien kimppuun Helsingissä",
-          "snippet": "",
-          "url": "https://yle.fi/uutiset/lyhyesti/74-20174364",
-          "source": "Yle"
-        },
-        {
-          "title": "Metsänomistaja ihmettelee harventamattomia metsiä: ”Aivan hirveää”",
-          "snippet": "",
-          "url": "https://www.maaseuduntulevaisuus.fi/metsa/74-20172571",
-          "source": "Maaseudun Tulevaisuus"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "kalajoen hiekkasärkät",
       "trafficCount": "500+",
       "pubDate": "Sat, 26 Jul 2025 09:40:00 -0700",
@@ -183,16 +183,16 @@
           "source": "Iltalehti"
         },
         {
+          "title": "Yksi yksityiskohta herätti naisen huomion Kalajoen turmarannalla – joutui puuttumaan lapsiperheen toimintaan",
+          "snippet": "",
+          "url": "https://www.is.fi/kotimaa/art-2000011388893.html",
+          "source": "Ilta-Sanomat"
+        },
+        {
           "title": "Kalajoen Hiekkasärkät ovat uima­taitoisellekin haastava ympäristö – nyt kaupunki pohtii rannan turvallisuuden lisäämistä",
           "snippet": "",
           "url": "https://yle.fi/a/74-20174459",
           "source": "Yle"
-        },
-        {
-          "title": "Kirkkoherra esitti vaimolleen toiveen Kalajoen uimarannalla – muutamaa tuntia myöhemmin karu totuus iski",
-          "snippet": "",
-          "url": "https://www.is.fi/kotimaa/art-2000011389330.html",
-          "source": "Ilta-Sanomat"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +211,16 @@
           "source": "Iltalehti"
         },
         {
+          "title": "Ennakko: IFK Mariehamn-AC Oulu",
+          "snippet": "",
+          "url": "https://www.veikkausliiga.com/tilastot/2025/veikkausliiga/ottelut/3747333/ennakko/",
+          "source": "Veikkausliiga"
+        },
+        {
           "title": "Veikkausliiga: IFK Mariehamn – AC Oulu 26.7.2025 - Vihje & kertoimet",
           "snippet": "",
           "url": "https://vedonlyonti.com/veikkausvihjeet/pitkavetovihjeet/veikkausliiga-ifk-mariehamn-ac-oulu-26-7-2025",
           "source": "Vedonlyonti.com"
-        },
-        {
-          "title": "\"Lähden AC Oulusta parempana pelaajana\" - Miika Koskelan viimeinen ottelu Laivastonsinisissä edessä",
-          "snippet": "",
-          "url": "https://www.veikkausliiga.com/uutiset/2025/07/25/lahden-ac-oulusta-parempana-pelaajana-miika-koskelan-viimeinen-ottelu-laivastonsinisissa-edessa",
-          "source": "Veikkausliiga"
         }
       ],
       "link": "https://imtaqin.id/"

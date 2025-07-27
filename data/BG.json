@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-07-27 08:42:45",
+  "lastUpdate": "2025-07-27 08:55:58",
   "data": [
     {
       "title": "severe thunderstorm warning",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 27 Jul 2025 00:40:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9k3N1WLmDR4UwrGjNlgdKLFYUTLGNrzY8T7tfYnogbUlR2OD-6vI8hTs_b9U",
       "pictureSource": "WGAL",
@@ -49,10 +49,10 @@
           "source": "DarikNews.bg"
         },
         {
-          "title": "Дара: Ервин ми помогна да преодолея детската си травма",
+          "title": "Дара РАЗКРИ ще има ли бебе",
           "snippet": "",
-          "url": "https://www.dunavmost.com/novini/dara-ervin-mi-pomogna-da-preodoleya-detskata-si-travma",
-          "source": "DUNAVMOST.com"
+          "url": "https://www.bgdnes.bg/shou/article/20991566",
+          "source": "bgdnes.bg"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -114,6 +114,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "weather",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 26 Jul 2025 21:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR25U56QHEvRfDHfjHhD4wMo8GOFB5zWfKEbRStf9pcFmxfEt_32c26XU5gYX0",
+      "pictureSource": "Climate Central",
+      "relatedSearch": [
+        {
+          "title": "Climate change intensifies midsummer U.S. heatwave for millions",
+          "snippet": "",
+          "url": "https://www.climatecentral.org/climate-shift-index-alert/us-july-2025",
+          "source": "Climate Central"
+        },
+        {
+          "title": "Late July's oppressive heat forecast isn't normal",
+          "snippet": "",
+          "url": "https://www.usatoday.com/story/news/nation/2025/07/26/eastern-us-july-heat-forecast/85355980007/",
+          "source": "USA Today"
+        },
+        {
+          "title": "Hot and above average temps!",
+          "snippet": "",
+          "url": "https://www.wdhn.com/weather/hot-and-above-average-temps/",
+          "source": "WDHN"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "никола цолов",
       "trafficCount": "100+",
       "pubDate": "Sat, 26 Jul 2025 21:40:00 -0700",
@@ -137,34 +165,6 @@
           "snippet": "",
           "url": "https://www.dnevnik.bg/sport/2025/07/27/4812346_otmeniha_sustezanieto_vuv_formula_3_nikola_colov/",
           "source": "Dnevnik"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "weather",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 26 Jul 2025 21:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR25U56QHEvRfDHfjHhD4wMo8GOFB5zWfKEbRStf9pcFmxfEt_32c26XU5gYX0",
-      "pictureSource": "Climate Central",
-      "relatedSearch": [
-        {
-          "title": "Climate change intensifies midsummer U.S. heatwave for millions",
-          "snippet": "",
-          "url": "https://www.climatecentral.org/climate-shift-index-alert/us-july-2025",
-          "source": "Climate Central"
-        },
-        {
-          "title": "Late July's oppressive heat forecast isn't normal",
-          "snippet": "",
-          "url": "https://www.usatoday.com/story/news/nation/2025/07/26/eastern-us-july-heat-forecast/85355980007/",
-          "source": "USA Today"
-        },
-        {
-          "title": "Heating up on Sunday and through early next week",
-          "snippet": "",
-          "url": "https://www.wdsu.com/article/new-orleans-weather-heat-forecast/65517713",
-          "source": "WDSU"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,26 +229,26 @@
       "title": "слави трифонов",
       "trafficCount": "1000+",
       "pubDate": "Sat, 26 Jul 2025 21:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxtm2oQ3bXkyDX16z64EQOJBNXAMIycMAvOUxcODoF6SGdiz5XrJO96uCVIjI",
-      "pictureSource": "Mediapool.bg",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwrHQnYTbj2e1mVIGfSueGP4j5nMjvNJ7HFEtxbyA3RhZWwbpfi7lBQC5jh1M",
+      "pictureSource": "Dnevnik",
       "relatedSearch": [
+        {
+          "title": "Денков: \"Продължаваме промяната\" няма да подкрепи закриването на антикорупционната комисия",
+          "snippet": "",
+          "url": "https://www.dnevnik.bg/politika/2025/07/27/4812349_denkov_produljavame_promianata_niama_da_podkrepi/",
+          "source": "Dnevnik"
+        },
+        {
+          "title": "Н. Денков: Пеевски иска да разбие коалицията ни с ДБ, но няма да стане",
+          "snippet": "",
+          "url": "https://www.segabg.com/hot/category-bulgaria/n-denkov-peevski-iska-da-razbie-koaliciyata-ni-db-no-nyama-da-stane",
+          "source": "Новини СЕГА"
+        },
         {
           "title": "ПП-ДБ дадоха сигнали, че няма да гласуват с Пеевски за закриване на КПК",
           "snippet": "",
           "url": "https://www.mediapool.bg/pp-db-dadoha-signali-che-nyama-da-glasuvat-s-peevski-za-zakrivane-na-kpk-news373737.html",
           "source": "Mediapool.bg"
-        },
-        {
-          "title": "Станислав Балабанов: Бутнахме ПП-ДБ, защото искаха да превърнат КОНПИ в бухалка",
-          "snippet": "",
-          "url": "https://www.24chasa.bg/bulgaria/article/20991217",
-          "source": "www.24chasa.bg"
-        },
-        {
-          "title": "Депутат от БСП: Правителството може да падне, ако не се разберем за антикорупционната комисия",
-          "snippet": "",
-          "url": "https://www.dnevnik.bg/politika/2025/07/26/4812291_deputat_ot_bsp_pravitelstvoto_moje_da_padne_ako_ne_se/",
-          "source": "Dnevnik"
         }
       ],
       "link": "https://imtaqin.id/"

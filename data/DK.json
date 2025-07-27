@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-27 20:40:19",
+  "lastUpdate": "2025-07-27 20:52:05",
   "data": [
     {
       "title": "luke littler",
@@ -31,7 +31,7 @@
     },
     {
       "title": "james bond",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 27 Jul 2025 13:20:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL9J1wOuigal8jO8tu7qiJz2GCuRB5F7yvHzL27g1rft0xh-jdwWeNe1k4CZQ",
       "pictureSource": "MSN",
@@ -59,7 +59,7 @@
     },
     {
       "title": "quinn simmons",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 27 Jul 2025 12:40:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTo99kpjMkiMGOaQrjbQWxFb2WMZiVKSJzimIatHVmSQGuZW14ijgoaYYBQ4Hw",
       "pictureSource": "NBC Sports",
@@ -117,14 +117,14 @@
       "title": "chloe kelly",
       "trafficCount": "500+",
       "pubDate": "Sun, 27 Jul 2025 11:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNj7QVfgGFztNjIQQiF8rzpgxvioOUJ3Aq25tL8FHTAEE4l1NYV05l30p3QSA",
-      "pictureSource": "Olympics.com",
+      "picture": "",
+      "pictureSource": "England Football",
       "relatedSearch": [
         {
-          "title": "Football, UEFA Women’s EURO 2025 final: European champions England vs world champions Spain - live updates",
+          "title": "Lionesses to celebrate EURO 2025 triumph at homecoming event in London on Tuesday 29 July",
           "snippet": "",
-          "url": "https://www.olympics.com/en/news/uefa-womens-euro-2025-final-england-vs-spain-live-updates",
-          "source": "Olympics.com"
+          "url": "https://www.englandfootball.com/articles/2025/Jul/27/england-women-euro-2025-homecoming-event-details-20252707",
+          "source": "England Football"
         },
         {
           "title": "Chloe Kelly the hero again as England beat Spain in Euro 2025 final shootout",
@@ -133,9 +133,9 @@
           "source": "The Guardian"
         },
         {
-          "title": "Kelly tops ratings as England win Euro 2025",
+          "title": "Euro 2025 Final highlights: England beat Spain 3-1 in penalty shootout",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/articles/c62821gzn4no",
+          "url": "https://www.bbc.com/sport/football/videos/clyjwy22pgko",
           "source": "BBC"
         }
       ],
@@ -145,9 +145,15 @@
       "title": "jonathan milan",
       "trafficCount": "200+",
       "pubDate": "Sun, 27 Jul 2025 11:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2D6n09i2vGZPc2WfqTiVg6jPCCi4bi-8rGoY4ULxlJmxlcYR6hlyV_37ubHA",
-      "pictureSource": "RTE.ie",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY18ZH5mRadFEy78a4kI-Dpd6C2xrFWymqpMFhrRqwNxd0LR4iuaLrSg9MeG0",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
+        {
+          "title": "Tadej Pogacar reigns in Paris after winning Tour de France for fourth time",
+          "snippet": "",
+          "url": "https://www.theguardian.com/sport/2025/jul/27/tour-de-france-tadej-pogacar-wins-fourth-title-cycling-paris",
+          "source": "The Guardian"
+        },
         {
           "title": "Healy top 10 as Arensman wins Tour de France stage 19",
           "snippet": "",
@@ -159,12 +165,6 @@
           "snippet": "",
           "url": "https://cyclingmole.com/2025/07/23/2025-tour-de-france-stage-18-preview/",
           "source": "Cycling Mole"
-        },
-        {
-          "title": "Team Visma | Lease a Bike safely through 17th stage in Tour de France",
-          "snippet": "",
-          "url": "https://www.teamvismaleaseabike.com/race-report/news/team-visma-lease-a-bike-safely-through-17th-stage-in-tour-de-france/",
-          "source": "Team Visma"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -267,10 +267,10 @@
           "source": "CNN"
         },
         {
-          "title": "EU and US agree trade deal, with 15% tariffs for European exports to America",
+          "title": "EU's von der Leyen: 15% the 'best we could get'",
           "snippet": "",
-          "url": "https://www.bbc.com/news/articles/cx2xylk3d07o",
-          "source": "BBC"
+          "url": "https://www.reuters.com/business/eus-von-der-leyen-15-best-we-could-get-2025-07-27/",
+          "source": "Reuters"
         },
         {
           "title": "Trump reaches agreement with E.U. to impose 15% tariff, with exceptions for key industries",

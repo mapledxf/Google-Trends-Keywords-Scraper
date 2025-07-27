@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-27 23:38:32",
+  "lastUpdate": "2025-07-27 23:50:10",
   "data": [
     {
       "title": "hudiksvall brand",
@@ -173,13 +173,13 @@
       "title": "norsjö",
       "trafficCount": "500+",
       "pubDate": "Sun, 27 Jul 2025 13:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQywV5fBlsQy5nEp8rMokC_pvUaP-otP2Bo-404QDm_WihSqp9QeWOrX_LTHS4",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbf_IWl8v86bIUceYNqGt_91XMJ07vKD9YB8g07eNTZ4M2kvz_fVs9Cxtg3TY",
       "pictureSource": "Aftonbladet",
       "relatedSearch": [
         {
-          "title": "VMA i Norsjö kommun – brand i husbil",
+          "title": "Husbilsbrand spred sig till villa – varnar för rök",
           "snippet": "",
-          "url": "https://www.aftonbladet.se/nyheter/a/bmVjBe/vma-i-norsjo-kommun-brand-i-villa",
+          "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1391587",
           "source": "Aftonbladet"
         },
         {
@@ -189,10 +189,10 @@
           "source": "Västerbottens-Kuriren"
         },
         {
-          "title": "JUST NU: Villa och garage brinner i Norsjö – VMA utfärdat",
+          "title": "VMA i Norsjö kommun – brand i husbil",
           "snippet": "",
-          "url": "https://www.norran.se/nyheter/norsjo/artikel/just-nu-villa-och-garage-brinner-i-norsjo-vma-utfardat/re7m6d5j",
-          "source": "Norran"
+          "url": "https://www.gp.se/nyheter/sverige/vma-i-norsjo-kommun-brand-i-husbil.6172890d-680a-5137-beea-0a2516b6b303",
+          "source": "GP"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,34 +226,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "seinabo sey",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 27 Jul 2025 12:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpAuFENUxgIYBMLOX5k7wDG6pEUnahvZAsFMrMdzilxm8s_dU9Zrw2ZdxAh4g",
-      "pictureSource": "GP",
-      "relatedSearch": [
-        {
-          "title": "Seinabo Sey ställde in – publiken får ingen återbetalning",
-          "snippet": "",
-          "url": "https://www.gp.se/kultur/seinabo-sey-stallde-in-publiken-far-inte-tillbaka-pengarna.896bc1fd-cc9a-49eb-a87b-35a727ca3d19",
-          "source": "GP"
-        },
-        {
-          "title": "Seinabo Sey ställde in konserten på Marstrand i sista stund",
-          "snippet": "",
-          "url": "https://www.kungalvsposten.se/nyheter/stjarnan-stallde-in-konsert-pa-marstrand-i-sista-stund.b38e70bf-070a-46a7-ad50-91d5d3a8f7af",
-          "source": "Kungälvs-Posten"
-        },
-        {
-          "title": "Seinabo Sey ställer in konsert – med kort varsel",
-          "snippet": "",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt/?post=f035862a-df8f-4e18-a811-a449898cfa52",
-          "source": "Expressen"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "tom lehrer",
       "trafficCount": "200+",
       "pubDate": "Sun, 27 Jul 2025 12:50:00 -0700",
@@ -277,6 +249,34 @@
           "snippet": "",
           "url": "https://apnews.com/article/tom-lehrer-son-satirist-mathematician-dies-9caa7ee01faf4fbfb793d7ba984c179d",
           "source": "AP News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "seinabo sey",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 27 Jul 2025 12:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpAuFENUxgIYBMLOX5k7wDG6pEUnahvZAsFMrMdzilxm8s_dU9Zrw2ZdxAh4g",
+      "pictureSource": "GP",
+      "relatedSearch": [
+        {
+          "title": "Seinabo Sey ställde in – publiken får ingen återbetalning",
+          "snippet": "",
+          "url": "https://www.gp.se/kultur/seinabo-sey-stallde-in-publiken-far-inte-tillbaka-pengarna.896bc1fd-cc9a-49eb-a87b-35a727ca3d19",
+          "source": "GP"
+        },
+        {
+          "title": "Seinabo Sey ställde in konserten på Marstrand i sista stund",
+          "snippet": "",
+          "url": "https://www.kungalvsposten.se/nyheter/stjarnan-stallde-in-konsert-pa-marstrand-i-sista-stund.b38e70bf-070a-46a7-ad50-91d5d3a8f7af",
+          "source": "Kungälvs-Posten"
+        },
+        {
+          "title": "Seinabo Sey ställer in konsert – med kort varsel",
+          "snippet": "",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt/?post=f035862a-df8f-4e18-a811-a449898cfa52",
+          "source": "Expressen"
         }
       ],
       "link": "https://imtaqin.id/"

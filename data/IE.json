@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-07-30 07:57:40",
+  "lastUpdate": "2025-07-30 08:28:26",
   "data": [
-    {
-      "title": "guardian",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 29 Jul 2025 23:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSGgctcxQuSVpvuGBm5MJdh33I-0RGCTGuOu26Q30xPJbOJghqCgb87jb-FMU",
-      "pictureSource": "The Guardian",
-      "relatedSearch": [
-        {
-          "title": "Sarah Jessica Parker in possible conflict of interest over Booker longlisted author",
-          "snippet": "",
-          "url": "https://www.theguardian.com/books/2025/jul/29/sarah-jessica-parker-booker-longlist-conflict-interest",
-          "source": "The Guardian"
-        },
-        {
-          "title": "British and Irish Lions 2025: Maro Itoje joins the list of Lions legends",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/rugby-union/articles/c3r4xw900lyo",
-          "source": "BBC"
-        },
-        {
-          "title": "The change in Maro Itoje spotted by Eddie Jones in Lions 2nd Test",
-          "snippet": "",
-          "url": "https://www.rugbypass.com/news/the-change-in-maro-itoje-spotted-by-eddie-jones-in-lions-2nd-test/",
-          "source": "Rugbypass.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "the guardian",
       "trafficCount": "200+",
@@ -71,9 +43,9 @@
           "source": "BBC"
         },
         {
-          "title": "Victims of New York City shooting include a police officer and an executive at investment firm",
+          "title": "Gunman kills 4, including police officer, in shooting at New York City office tower",
           "snippet": "",
-          "url": "https://apnews.com/article/victims-office-shooting-new-york-nfl-2869b5bb31e6480dc2c20175d270ad88",
+          "url": "https://apnews.com/article/new-york-city-shooting-nfl-building-274f8b4f6147d21298a08f8003ef13c1",
           "source": "AP News"
         }
       ],
@@ -83,9 +55,15 @@
       "title": "news headlines",
       "trafficCount": "100+",
       "pubDate": "Tue, 29 Jul 2025 22:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzsXEZhG8mMGwI16Er2Ev-9oaPeUxcmX38N1r9YzAVx_IlRem5Ic9y58eGjUc",
-      "pictureSource": "RTE.ie",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvVi2XPbTJIi5uCd6mGIcL1LyKBH813haadCXLejKpn9LWe1bky5KwmBu_53M",
+      "pictureSource": "The Irish Independent",
       "relatedSearch": [
+        {
+          "title": "Christy Bird, the iconic Dublin furniture shop, set to close its doors",
+          "snippet": "",
+          "url": "https://www.independent.ie/irish-news/christy-bird-the-iconic-dublin-furniture-shop-set-to-close-its-doors/a1228719009.html",
+          "source": "The Irish Independent"
+        },
         {
           "title": "'Weak' Wiffen survives Singapore scare to make final",
           "snippet": "",
@@ -97,12 +75,6 @@
           "snippet": "",
           "url": "https://www.irishtimes.com/sport/2025/07/29/daniel-wiffen-narrowly-qualifies-for-800m-freestyle-final-at-world-championships/",
           "source": "The Irish Times"
-        },
-        {
-          "title": "World Aquatics Championships LIVE: Follow live radio coverage of the World Aquatics Championships in Singapore",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/swimming/live/czjkl3vkv8kt",
-          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -111,33 +83,33 @@
       "title": "bbc news",
       "trafficCount": "1000+",
       "pubDate": "Tue, 29 Jul 2025 22:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLrtYKK7zb6dgOxDrtkLd134YfEOjSIohkMWy1906axYfS_JPndlmEyXOhU6o",
-      "pictureSource": "The Guardian",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJ1Nvq9Aqa141dUkigazqaFn96VRDaKNL6D5o1Dny8t_VDARFoaCMafKwgIY0",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Police seek Tommy Robinson after alleged assault at London station",
+          "title": "Bank of England: What will the new banknotes look like?",
           "snippet": "",
-          "url": "https://www.theguardian.com/uk-news/2025/jul/29/police-seek-tommy-robinson-alleged-assault-london-st-pancras",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Police seek to question Tommy Robinson after St Pancras assault",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c209p0v5plwo",
+          "url": "https://www.bbc.com/news/articles/ckgy7j02xzro",
           "source": "BBC"
         },
         {
-          "title": "Police investigate assault as video appears to show Tommy Robinson at station",
+          "title": "Britain’s banknotes – Should we go back to paper when considering new designs?",
           "snippet": "",
-          "url": "https://news.sky.com/story/police-investigate-assault-as-video-appears-to-show-tommy-robinson-at-station-13403457",
-          "source": "Sky News"
+          "url": "https://onthewight.com/time-for-a-fresh-look-at-britains-banknotes-new-designs-on-the-horizon/",
+          "source": "Isle of Wight News from OnTheWight"
+        },
+        {
+          "title": "Stonehenge and glitter: Inside the Bank of England’s new banknote consultation",
+          "snippet": "",
+          "url": "https://www.cityam.com/stonehenge-and-glitter-inside-the-bank-of-englands-new-banknote-consultation/",
+          "source": "City AM"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "michael kiwanuka",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 29 Jul 2025 21:20:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRt92jr4NOqct8e0PD9UYS2QxL306AQws_ea7inWAJn8f4OjXpnkDkpjsccdu4",
       "pictureSource": "waterford-news.ie",
@@ -177,16 +149,16 @@
           "source": "The Guardian"
         },
         {
-          "title": "Trump claims Epstein 'stole' Prince Andrew accuser Virginia Giuffre from his Mar-a-Lago resort",
-          "snippet": "",
-          "url": "https://news.sky.com/story/trump-claims-epstein-stole-prince-andrew-accuser-virginia-giuffre-from-his-mar-a-lago-resort-13403791",
-          "source": "Sky News"
-        },
-        {
           "title": "Trump says Epstein 'stole' young women from his Mar-a-Lago spa",
           "snippet": "",
           "url": "https://www.bbc.com/news/articles/cyvn7ee3539o",
           "source": "BBC"
+        },
+        {
+          "title": "Trump claims Epstein 'stole' Prince Andrew accuser Virginia Giuffre from his Mar-a-Lago resort",
+          "snippet": "",
+          "url": "https://news.sky.com/story/trump-claims-epstein-stole-prince-andrew-accuser-virginia-giuffre-from-his-mar-a-lago-resort-13403791",
+          "source": "Sky News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -195,37 +167,43 @@
       "title": "sky news",
       "trafficCount": "2000+",
       "pubDate": "Tue, 29 Jul 2025 21:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSf7t22jxshjt9hPDKs5lNu4DHG-rUiJJ5toMCxcoeMo_p0AMnxAS86cHWuSS4",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7R4-D5E_UwHeQcICdnZpOt5CH-91rKvqFbjDrqmgdLdhPAAXXacEcKGgiRyA",
       "pictureSource": "Sky News",
       "relatedSearch": [
         {
-          "title": "Money blog: Happiest places to retire in Britain listed - and first place isn't on the coast",
+          "title": "Lesotho: In the country that Trump claims 'nobody has ever heard of', his name evokes fear and panic",
           "snippet": "",
-          "url": "https://news.sky.com/story/money-latest-consumer-personal-finance-sky-news-13040934",
+          "url": "https://news.sky.com/story/lesotho-in-the-country-that-trump-claims-nobody-has-ever-heard-of-his-name-evokes-fear-and-panic-13403636",
           "source": "Sky News"
         },
         {
-          "title": "'Attractive market town' in Sussex named one of Britain’s best places to retire",
+          "title": "US tariffs: Lesotho factory that made Trump shirts hard hit by US tariffs",
           "snippet": "",
-          "url": "https://uk.news.yahoo.com/attractive-market-town-sussex-named-230100712.html",
-          "source": "Yahoo.co"
+          "url": "https://www.bbc.com/news/articles/cgeqe09wnn8o",
+          "source": "BBC"
         },
         {
-          "title": "This area of Powys is one of the best places to retire in Wales",
+          "title": "As Trump’s tariff deadline looms, a clothing factory in the African nation of Lesotho goes dark",
           "snippet": "",
-          "url": "https://www.countytimes.co.uk/news/25350878.brecon-radnor-cwm-tawe-among-wales-best-places-retire/",
-          "source": "County Times"
+          "url": "https://apnews.com/video/as-trumps-tariff-deadline-looms-a-clothing-factory-in-the-african-nation-of-lesotho-goes-dark-a2a58a8b10d34cd48b9fe94bc853d868",
+          "source": "AP News"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "tsunami",
-      "trafficCount": "5000+",
+      "trafficCount": "10000+",
       "pubDate": "Tue, 29 Jul 2025 19:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQLR45PDkgcQQ1-DH0yHrZejDvaLHdJcF1UMPsmr8NciLll3ZvMXQgYgXYeyM",
-      "pictureSource": "Sky News",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpiAiWUQYUXItuzYYh-2zNXpNywdvzVpFC7NVzoV8PCDJNRDfYVQGhLbtqG9c",
+      "pictureSource": "Euronews.com",
       "relatedSearch": [
+        {
+          "title": "First tsunami waves reach Hawaii after huge earthquake off Russia",
+          "snippet": "",
+          "url": "https://www.euronews.com/2025/07/30/huge-earthquake-off-russia-sends-tsunami-waves-across-pacific-live-updates",
+          "source": "Euronews.com"
+        },
         {
           "title": "Tsunami warnings latest: First waves hit Hawaii after massive earthquake triggers tsunami warnings around Pacific region",
           "snippet": "",
@@ -237,12 +215,6 @@
           "snippet": "",
           "url": "https://www.rte.ie/news/world/2025/0730/1526047-russia-earthquake/",
           "source": "RTE.ie"
-        },
-        {
-          "title": "Estimated Tsunami Timings For California, Washington, Oregon",
-          "snippet": "",
-          "url": "https://www.ndtv.com/world-news/when-hawaii-california-washington-may-witness-tsunami-arrival-8980343",
-          "source": "NDTV"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -251,7 +223,7 @@
       "title": "storm ireland",
       "trafficCount": "1000+",
       "pubDate": "Tue, 29 Jul 2025 17:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDpKevs0g1tcNLbAOf0KSehVMC8jmXWhxW54nLzAwCg9ZxBjngpKsOQAqbiJs",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqVEmZQ2wHi37IRzEeOcXB_nItABo3vcUpltSvxM0N55k8O2f7LALbojfToc",
       "pictureSource": "The Irish Independent",
       "relatedSearch": [
         {
@@ -271,6 +243,34 @@
           "snippet": "",
           "url": "https://www.limerickleader.ie/news/weather/1859562/will-ireland-be-hit-by-storm-latest-on-weather-risk-in-brutal-forecast.html",
           "source": "Limerick Leader"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "hhc drug",
+      "trafficCount": "2000+",
+      "pubDate": "Tue, 29 Jul 2025 13:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxSEeJ_YmXj7WfhS367Rtnz-VQ6UY4WuAmRDDGdfFXWeaQBEOascHdYt0dAig",
+      "pictureSource": "RTE.ie",
+      "relatedSearch": [
+        {
+          "title": "HHC drug banned by Govt over youth mental health concerns",
+          "snippet": "",
+          "url": "https://www.rte.ie/news/health/2025/0729/1525933-hhc-drug-ban/",
+          "source": "RTE.ie"
+        },
+        {
+          "title": "Semi-synthetic cannabinoid HHC reclassified as an illegal drug",
+          "snippet": "",
+          "url": "https://www.irishtimes.com/crime-law/2025/07/29/semi-synthetic-cannabinoid-hhc-reclassified-as-an-illegal-drug/",
+          "source": "The Irish Times"
+        },
+        {
+          "title": "Ireland finally bans HCC 'but we must be vigilant about new drugs’",
+          "snippet": "",
+          "url": "https://www.irishexaminer.com/news/arid-41678819.html",
+          "source": "Irish Examiner"
         }
       ],
       "link": "https://imtaqin.id/"

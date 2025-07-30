@@ -1,30 +1,30 @@
 {
-  "lastUpdate": "2025-07-30 07:33:52",
+  "lastUpdate": "2025-07-30 07:49:46",
   "data": [
     {
-      "title": "news",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 29 Jul 2025 23:30:00 -0700",
-      "picture": "",
-      "pictureSource": "The White House (.gov)",
+      "title": "guardian",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 29 Jul 2025 23:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSGgctcxQuSVpvuGBm5MJdh33I-0RGCTGuOu26Q30xPJbOJghqCgb87jb-FMU",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
         {
-          "title": "WHAT THEY ARE SAYING: Landmark U.S.-EU Trade Deal Is Another Big Win for Americans",
+          "title": "Sarah Jessica Parker in possible conflict of interest over Booker longlisted author",
           "snippet": "",
-          "url": "https://www.whitehouse.gov/articles/2025/07/what-they-are-saying-landmark-u-s-eu-trade-deal-is-another-big-win-for-americans/",
-          "source": "The White House (.gov)"
+          "url": "https://www.theguardian.com/books/2025/jul/29/sarah-jessica-parker-booker-longlist-conflict-interest",
+          "source": "The Guardian"
         },
         {
-          "title": "US confirms 15% tariff for EU includes pharmaceuticals and semiconductors",
+          "title": "British and Irish Lions 2025: Maro Itoje joins the list of Lions legends",
           "snippet": "",
-          "url": "https://www.rte.ie/news/business/2025/0729/1525825-trade-forum-meeting/",
-          "source": "RTE.ie"
+          "url": "https://www.bbc.com/sport/rugby-union/articles/c3r4xw900lyo",
+          "source": "BBC"
         },
         {
-          "title": "Denis Staunton: Ursula von der Leyen stooped to conquer with the EU-US trade deal",
+          "title": "The Gregan verdict on Itoje's behaviour, comparing him to Bok great",
           "snippet": "",
-          "url": "https://www.irishtimes.com/opinion/2025/07/28/denis-staunton-ursula-von-der-leyen-stooped-to-conquer-with-the-eu-us-trade-deal/",
-          "source": "The Irish Times"
+          "url": "https://www.rugbypass.com/news/the-george-gregan-verdict-on-maro-itojes-behaviour-comparing-him-to-bok-great/",
+          "source": "Rugbypass.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -80,29 +80,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "news headlines",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 29 Jul 2025 22:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzsXEZhG8mMGwI16Er2Ev-9oaPeUxcmX38N1r9YzAVx_IlRem5Ic9y58eGjUc",
+      "pictureSource": "RTE.ie",
+      "relatedSearch": [
+        {
+          "title": "'Weak' Wiffen survives Singapore scare to make final",
+          "snippet": "",
+          "url": "https://www.rte.ie/sport/swimming/2025/0729/1525850-world-aquatics-championships/",
+          "source": "RTE.ie"
+        },
+        {
+          "title": "Daniel Wiffen narrowly qualifies for 800m freestyle final at World Championships",
+          "snippet": "",
+          "url": "https://www.irishtimes.com/sport/2025/07/29/daniel-wiffen-narrowly-qualifies-for-800m-freestyle-final-at-world-championships/",
+          "source": "The Irish Times"
+        },
+        {
+          "title": "World Aquatics Championships LIVE: Follow live radio coverage of the World Aquatics Championships in Singapore",
+          "snippet": "",
+          "url": "https://www.bbc.com/sport/swimming/live/czjkl3vkv8kt",
+          "source": "BBC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "bbc news",
       "trafficCount": "1000+",
       "pubDate": "Tue, 29 Jul 2025 22:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJ1Nvq9Aqa141dUkigazqaFn96VRDaKNL6D5o1Dny8t_VDARFoaCMafKwgIY0",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLrtYKK7zb6dgOxDrtkLd134YfEOjSIohkMWy1906axYfS_JPndlmEyXOhU6o",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
         {
-          "title": "Bank of England: What will the new banknotes look like?",
+          "title": "Police seek Tommy Robinson after alleged assault at London station",
           "snippet": "",
-          "url": "https://www.bbc.com/news/articles/ckgy7j02xzro",
+          "url": "https://www.theguardian.com/uk-news/2025/jul/29/police-seek-tommy-robinson-alleged-assault-london-st-pancras",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Police seek to question Tommy Robinson after St Pancras assault",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c209p0v5plwo",
           "source": "BBC"
         },
         {
-          "title": "Britain’s banknotes – Should we go back to paper when considering new designs?",
+          "title": "Police investigate assault as video appears to show Tommy Robinson at station",
           "snippet": "",
-          "url": "https://onthewight.com/time-for-a-fresh-look-at-britains-banknotes-new-designs-on-the-horizon/",
-          "source": "Isle of Wight News from OnTheWight"
-        },
-        {
-          "title": "Stonehenge and glitter: Inside the Bank of England’s new banknote consultation",
-          "snippet": "",
-          "url": "https://www.cityam.com/stonehenge-and-glitter-inside-the-bank-of-englands-new-banknote-consultation/",
-          "source": "City AM"
+          "url": "https://news.sky.com/story/police-investigate-assault-as-video-appears-to-show-tommy-robinson-at-station-13403457",
+          "source": "Sky News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -137,7 +165,7 @@
     },
     {
       "title": "cnn",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 29 Jul 2025 21:20:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0Y6ZOfTsT7eUYMe8pFfpLQk1z7ie60vk3CucDtODIQxYNgkmRbSJBVFKsU_s",
       "pictureSource": "The Guardian",
@@ -167,26 +195,26 @@
       "title": "sky news",
       "trafficCount": "2000+",
       "pubDate": "Tue, 29 Jul 2025 21:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWxOnjGeya2ikWND2uanIQZoy0uV-Q-hFLRqbzjXUJw3ZsTqA7UKUybGR5MGU",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSf7t22jxshjt9hPDKs5lNu4DHG-rUiJJ5toMCxcoeMo_p0AMnxAS86cHWuSS4",
       "pictureSource": "Sky News",
       "relatedSearch": [
         {
-          "title": "Gary Neville hits out at national insurance rise - and makes prediction for Manchester United's season",
+          "title": "Money blog: Happiest places to retire in Britain listed - and first place isn't on the coast",
           "snippet": "",
-          "url": "https://news.sky.com/story/gary-neville-hits-out-at-national-insurance-rise-and-makes-prediction-for-manchester-uniteds-season-13403349",
+          "url": "https://news.sky.com/story/money-latest-consumer-personal-finance-sky-news-13040934",
           "source": "Sky News"
         },
         {
-          "title": "Gary Neville slams Rachel Reeves's National Insurance tax rise: 'Could've been held back'",
+          "title": "'Attractive market town' in Sussex named one of Britain’s best places to retire",
           "snippet": "",
-          "url": "https://www.express.co.uk/news/politics/2088554/gary-neville-rachel-reeves-national-insurance",
-          "source": "Daily Express"
+          "url": "https://uk.news.yahoo.com/attractive-market-town-sussex-named-230100712.html",
+          "source": "Yahoo.co"
         },
         {
-          "title": "Gary Neville: National insurance rise 'could have been held back'",
+          "title": "This area of Powys is one of the best places to retire in Wales",
           "snippet": "",
-          "url": "https://news.sky.com/video/gary-neville-national-insurance-rise-could-have-been-held-back-13403596",
-          "source": "Sky News"
+          "url": "https://www.countytimes.co.uk/news/25350878.brecon-radnor-cwm-tawe-among-wales-best-places-retire/",
+          "source": "County Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -195,15 +223,9 @@
       "title": "tsunami",
       "trafficCount": "5000+",
       "pubDate": "Tue, 29 Jul 2025 19:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0U7I6q8uSheugI9IC6ZiLqLLkqlywV0Qk-Zem4vly6OPr_zApg8ebHNHbHUY",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQLR45PDkgcQQ1-DH0yHrZejDvaLHdJcF1UMPsmr8NciLll3ZvMXQgYgXYeyM",
+      "pictureSource": "Sky News",
       "relatedSearch": [
-        {
-          "title": "Tsunami waves hit Hawaii as earthquake off Russia triggers evacuations across Pacific - live updates",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/live/c3r4x9yrrg4t",
-          "source": "BBC"
-        },
         {
           "title": "Tsunami warnings latest: First waves hit Hawaii after massive earthquake triggers tsunami warnings around Pacific region",
           "snippet": "",
@@ -215,6 +237,12 @@
           "snippet": "",
           "url": "https://www.rte.ie/news/world/2025/0730/1526047-russia-earthquake/",
           "source": "RTE.ie"
+        },
+        {
+          "title": "Estimated Tsunami Timings For California, Washington, Oregon",
+          "snippet": "",
+          "url": "https://www.ndtv.com/world-news/when-hawaii-california-washington-may-witness-tsunami-arrival-8980343",
+          "source": "NDTV"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -227,50 +255,22 @@
       "pictureSource": "The Irish Independent",
       "relatedSearch": [
         {
-          "title": "Damp but humid day on the cards as warm temperatures to continue into bank holiday weekend",
+          "title": "Damp and humid day on the cards as warm temperatures to continue into bank holiday weekend",
           "snippet": "",
-          "url": "https://www.independent.ie/irish-news/damp-but-humid-day-on-the-cards-as-warm-temperatures-to-continue-into-bank-holiday-weekend/a1965930110.html",
+          "url": "https://www.independent.ie/irish-news/damp-and-humid-day-on-the-cards-as-warm-temperatures-to-continue-into-bank-holiday-weekend/a1965930110.html",
           "source": "The Irish Independent"
+        },
+        {
+          "title": "Met Éireann updates 'unsettled' verdict for Bank Holiday as forecasters keep eye on potential storm",
+          "snippet": "",
+          "url": "https://www.corkbeo.ie/news/local-news/met-eireann-updates-unsettled-verdict-32163562",
+          "source": "Cork Beo"
         },
         {
           "title": "Will Ireland be hit by storm? Latest on weather risk in brutal forecast",
           "snippet": "",
           "url": "https://www.limerickleader.ie/news/weather/1859562/will-ireland-be-hit-by-storm-latest-on-weather-risk-in-brutal-forecast.html",
           "source": "Limerick Leader"
-        },
-        {
-          "title": "Latest long weekend weather forecast as expert warns of 'potential storm'",
-          "snippet": "",
-          "url": "https://www.corkbeo.ie/news/local-news/latest-long-weekend-forecast-weather-32157258",
-          "source": "Cork Beo"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "hhc drug",
-      "trafficCount": "2000+",
-      "pubDate": "Tue, 29 Jul 2025 13:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxSEeJ_YmXj7WfhS367Rtnz-VQ6UY4WuAmRDDGdfFXWeaQBEOascHdYt0dAig",
-      "pictureSource": "RTE.ie",
-      "relatedSearch": [
-        {
-          "title": "HHC drug banned by Govt over youth mental health concerns",
-          "snippet": "",
-          "url": "https://www.rte.ie/news/health/2025/0729/1525933-hhc-drug-ban/",
-          "source": "RTE.ie"
-        },
-        {
-          "title": "Ministers for Health announce that HHC is now classified as an illegal drug",
-          "snippet": "",
-          "url": "https://gov.ie/en/department-of-health/press-releases/ministers-for-health-announce-that-hhc-is-now-classified-as-an-illegal-drug/",
-          "source": "gov.ie"
-        },
-        {
-          "title": "Semi-synthetic cannabinoid HHC reclassified as an illegal drug",
-          "snippet": "",
-          "url": "https://www.irishtimes.com/crime-law/2025/07/29/semi-synthetic-cannabinoid-hhc-reclassified-as-an-illegal-drug/",
-          "source": "The Irish Times"
         }
       ],
       "link": "https://imtaqin.id/"

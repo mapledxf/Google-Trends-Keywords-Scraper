@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-31 07:30:25",
+  "lastUpdate": "2025-07-31 07:46:21",
   "data": [
     {
       "title": "wrc",
@@ -30,23 +30,51 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "secto rally",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 30 Jul 2025 22:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1YcBVmc8SYnVqJ6Q_vnAyymwpiTyecWRbJL-gS4WUYLuiLLmLQNMThrrhIZo",
+      "pictureSource": "Yle",
+      "relatedSearch": [
+        {
+          "title": "Ralliruuhka alkoi heti – Ruuhimäen testierikoiskoe keskeytettiin tuoreeltaan yleisön käyttäytymisen vuoksi",
+          "snippet": "",
+          "url": "https://yle.fi/a/74-20175190",
+          "source": "Yle"
+        },
+        {
+          "title": "MM-ralli tuo muutoksia liikennejärjestelyihin Jyväskylässä – eniten vaikutuksia keskustassa, Mäki-Matissa, Harjulla ja Lutakossa",
+          "snippet": "",
+          "url": "https://www.ksml.fi/paikalliset/8725393",
+          "source": "Keskisuomalainen"
+        },
+        {
+          "title": "Toyotan rallitalli esitteli uuden vetyautonsa – \"Se on ihan makee peli ajaa\", totesi Juha Kankkunen",
+          "snippet": "",
+          "url": "https://www.ess.fi/urheilu/8726342",
+          "source": "Etelä-Suomen Sanomat"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "aarne talvitie",
       "trafficCount": "200+",
       "pubDate": "Wed, 30 Jul 2025 22:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTulQarh6vZIc-3ZxmwURA8_QL6pgjNM1-hehr6hN15_gB72OWVBfEtg4QJdbg",
-      "pictureSource": "SuomiKiekko",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTs6556N4xOmTVujZQcaxPHCCX76lzKBrYLlz9OR5aKJxU16gpIfPicTnxw9fA",
+      "pictureSource": "Jatkoaika.com",
       "relatedSearch": [
-        {
-          "title": "Liiga-hyökkääjä Aarne Talvitiestä karmea uutinen",
-          "snippet": "",
-          "url": "https://www.suomikiekko.com/2025/07/liiga-hyokkaaja-aarne-talvitiesta-karmea-uutinen/",
-          "source": "SuomiKiekko"
-        },
         {
           "title": "Kiekko-Espooseen palanneelle Aarne Talvitielle karuja uutisia − edessä yli puolen vuoden huili",
           "snippet": "",
           "url": "https://www.jatkoaika.com/Uutiset/Kiekko-Espooseen-palanneelle-Aarne-Talvitielle-karuja-uutisia-%E2%88%92-edess%C3%A4-yli-puolen-vuoden-huili/264417",
           "source": "Jatkoaika.com"
+        },
+        {
+          "title": "SM-liigahyökkääjä Aarne Talvitiestä karu uutinen",
+          "snippet": "",
+          "url": "https://www.mtvuutiset.fi/artikkeli/sm-liigahyokkaaja-aarne-talvitiesta-karu-uutinen/9196998",
+          "source": "mtvuutiset.fi"
         },
         {
           "title": "Kiekko-Espoolta surullinen uutinen",
@@ -61,15 +89,9 @@
       "title": "etyj",
       "trafficCount": "200+",
       "pubDate": "Wed, 30 Jul 2025 22:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGMa3Hxp0MOwH_2xE19p-pW6RZzZ_ECslnFYSJLas6jnneVsU0TkRYl_UzqYw",
-      "pictureSource": "Iltalehti",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEkc48jIb4c-UgT5kmy5jCFawuNyTqSy9GKNB_MZ5aPSOJpaYBCjqfpKgC9u8",
+      "pictureSource": "Ilta-Sanomat",
       "relatedSearch": [
-        {
-          "title": "Näin Finlandia-taloon saapuva venäläisdiplomaatti pilkkasi Suomea",
-          "snippet": "",
-          "url": "https://www.iltalehti.fi/ulkomaat/a/0a8cbfe8-5a56-4a16-a14d-0d5d7328e8f9",
-          "source": "Iltalehti"
-        },
         {
           "title": "Suora lähetys: Valtoselle kysymys Venäjän ja Valko-Venäjän osallistumisesta – näin hän vastasi",
           "snippet": "",
@@ -77,10 +99,16 @@
           "source": "Ilta-Sanomat"
         },
         {
-          "title": "Etyj-konferenssi käynnistyy Helsingissä – Valtonen viimeöisistä iskuista: Venäjä on erittäin paha",
+          "title": "IL: Venäjän diplomaatti pilkkasi Suomea",
           "snippet": "",
-          "url": "https://yle.fi/a/74-20175176",
-          "source": "Yle"
+          "url": "https://www.verkkouutiset.fi/a/il-helsinkiin-saapuva-venajan-diplomaatti-pilkkasi-suomea/",
+          "source": "Verkkouutiset"
+        },
+        {
+          "title": "Näin Finlandia-taloon saapuva venäläisdiplomaatti pilkkasi Suomea",
+          "snippet": "",
+          "url": "https://www.iltalehti.fi/ulkomaat/a/0a8cbfe8-5a56-4a16-a14d-0d5d7328e8f9",
+          "source": "Iltalehti"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,15 +155,15 @@
           "source": "Yle"
         },
         {
-          "title": "Kanada suunnittelee Palestiinan valtion tunnustamista – Israel tuomitsee",
+          "title": "Trump suuttui Kanadalle – uhkailee",
           "snippet": "",
-          "url": "https://www.iltalehti.fi/ulkomaat/a/d459bc11-6b4f-4b5e-9cc1-32288a7ed307",
-          "source": "Iltalehti"
+          "url": "https://www.is.fi/ulkomaat/art-2000011397993.html",
+          "source": "Ilta-Sanomat"
         },
         {
-          "title": "Etyk 50 vuotta | Palestiinan pitää olla suvereeni, sanoo Suomi-faniksi tunnustautuva brittiministeri Stephen Doughty",
+          "title": "Pääkirjoitus | Suomen on aika lopettaa kuurupiilo Palestiinan tunnustamisessa",
           "snippet": "",
-          "url": "https://www.hs.fi/politiikka/art-2000011392049.html",
+          "url": "https://www.hs.fi/paakirjoitukset/art-2000011395975.html",
           "source": "HS.fi"
         }
       ],
@@ -183,10 +211,10 @@
           "source": "The Hindu"
         },
         {
-          "title": "500 waterlogging points identified",
+          "title": "Waterlogging in corridor draws criticism, Safdarjung Hospital says result of ‘construction work’",
           "snippet": "",
-          "url": "https://www.newindianexpress.com/cities/delhi/2025/Jul/31/500-waterlogging-points-identified",
-          "source": "The New Indian Express"
+          "url": "https://indianexpress.com/article/cities/delhi/safdarjung-hospital-waterlogging-corridor-delhi-rains-10160450/",
+          "source": "The Indian Express"
         },
         {
           "title": "Video | Delhi Rain | Rain Havoc In Delhi-NCR | Overnight Rain Causes Traffic Jams On Roads",
@@ -245,38 +273,10 @@
           "source": "Iltalehti"
         },
         {
-          "title": "Helleputki jatkuu: Kuopiossa mitattiin 32 asteen helle",
+          "title": "Pirkanmaalla voimassa torstaina kolme säävaroitusta – trombi teki keskiviikkona tuhoja Kurussa",
           "snippet": "",
-          "url": "https://yle.fi/a/74-20175140",
-          "source": "Yle"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "secto rally 2025",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 30 Jul 2025 20:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1YcBVmc8SYnVqJ6Q_vnAyymwpiTyecWRbJL-gS4WUYLuiLLmLQNMThrrhIZo",
-      "pictureSource": "Yle",
-      "relatedSearch": [
-        {
-          "title": "Ralliruuhka alkoi heti – torstaina ajetaan Ruuhimäen testierikoiskoe ja kaupunkierikoiskoe Jyväskylän Harjulla",
-          "snippet": "",
-          "url": "https://yle.fi/a/74-20175190",
-          "source": "Yle"
-        },
-        {
-          "title": "Toyotan rallitalli esitteli uuden vetyautonsa – \"Se on ihan makee peli ajaa\", totesi Juha Kankkunen | Urheilu",
-          "snippet": "",
-          "url": "https://www.ksml.fi/urheilu/8726342",
-          "source": "Keskisuomalainen"
-        },
-        {
-          "title": "Seuraamme | Jyväskylän MM-rallin testierikoiskoe jatkuu keskeytyksen jälkeen – Pajarille pohja-aika",
-          "snippet": "",
-          "url": "https://www.savonsanomat.fi/urheilu/8723888",
-          "source": "Savon Sanomat"
+          "url": "https://www.aamulehti.fi/saa/art-2000011397552.html",
+          "source": "Aamulehti"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-08-02 13:04:53",
+  "lastUpdate": "2025-08-02 13:37:45",
   "data": [
+    {
+      "title": "bayern – lyon",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 2 Aug 2025 06:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRy_YzhYTHlsB6RMMeTrAjOw_cXrYRVtyoA_MpYibhHuQvHPWTSSo6aRtllXW0",
+      "pictureSource": "Olympique & Lyonnais",
+      "relatedSearch": [
+        {
+          "title": "L'OL avec son 11 presque \"type\" face au Bayern Munich",
+          "snippet": "",
+          "url": "https://www.olympique-et-lyonnais.com/lol-avec-son-11-presque-type-face-au-bayern-munich,373951.html",
+          "source": "Olympique & Lyonnais"
+        },
+        {
+          "title": "Amical : Bayern-Lyon, les compos",
+          "snippet": "",
+          "url": "https://news.maxifoot.fr/amical/bayern-lyon-les-compos-foot-438170.htm",
+          "source": "Maxifoot"
+        },
+        {
+          "title": "Bayern-OL : un vrai test pour les Lyonnais",
+          "snippet": "",
+          "url": "https://www.lequotidiendusport.fr/bayern-ol-un-vrai-test-pour-les-lyonnais/",
+          "source": "Le Quotidien du Sport"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "nuklearna podmornica",
       "trafficCount": "200+",
@@ -31,11 +59,17 @@
     },
     {
       "title": "milanović",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 2 Aug 2025 03:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRS2vIJJ_HZRvwkop6wFeL5sQLjZawp6DUDx_5RRFoo_gREAz3N-iDKOnABpGU",
-      "pictureSource": "Jutarnji list",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnpBvKPEFxXGNcnoEpaYtaYbkM50LESXua9F-9RfNW8uM_Ct03SJuehprEUL8",
+      "pictureSource": "Index.hr",
       "relatedSearch": [
+        {
+          "title": "Bulj zbog Pupovčeve izjave za srpske medije žestoko napao Plenkovića",
+          "snippet": "",
+          "url": "https://www.index.hr/vijesti/clanak/bulj-pupovcu-nasa-vojska-moze-izazvati-nespokoj-samo-onima-koji-zele-veliku-srbiju/2695794.aspx",
+          "source": "Index.hr"
+        },
         {
           "title": "Pogledajte spektakularni video: Zagreb iz perspektive hrvatskih pilota tijekom preleta na mimohodu!",
           "snippet": "",
@@ -43,16 +77,38 @@
           "source": "Jutarnji list"
         },
         {
-          "title": "Anušić: Želimo profilirati našu vojnu industriju kao novu granu, da drugi kupuju hrvatske vojne proizvode",
+          "title": "Najveći vojni mimohod u povijesti Hrvatske završio preletom devet Rafalea",
           "snippet": "",
-          "url": "https://www.vecernji.hr/vijesti/ivan-anusic-o-modernizaciji-vojske-i-ciljevima-nato-a-nema-zaduzivanja-zbog-vecih-davanja-za-obranu-1881119",
-          "source": "Večernji.hr"
+          "url": "https://www.morh.hr/najveci-vojni-mimohod-u-povijesti-hrvatske-zavrsio-preletom-devet-rafalea/",
+          "source": "MORH"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "osijek dinamo",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 2 Aug 2025 02:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3_-IFL04gKjjjoQRj2IFDkadkr19dxqImDDGib658kxkN-nAEfCqU73yPhCU",
+      "pictureSource": "Index.hr",
+      "relatedSearch": [
+        {
+          "title": "OD 21:00 Kovačevićev Dinamo debitira protiv Osijeka. Evo gdje gledati",
+          "snippet": "",
+          "url": "https://www.index.hr/sport/clanak/od-2100-kovacevicev-dinamo-debitira-protiv-osijeka-evo-gdje-gledati/2694118.aspx",
+          "source": "Index.hr"
         },
         {
-          "title": "VIDEO Trenutak na mimohodu koji nisu uhvatile televizijske kamere: \"Orilo gorilo, je*e se nami!\"...",
+          "title": "Debitanata kao u priči! Evo kako će izgledati Dinamo na Opus Areni, za jednog čovjeka ovo će biti posebna utakmica",
           "snippet": "",
-          "url": "https://dnevnik.hr/vijesti/hrvatska/pauci-u-vukovarskoj-vikali-orilo-gorilo-jebe-se-nami-a-vukovi-na-pitanje-hocemo-zaje-at-kazali-da-hoce---927306.html",
-          "source": "Dnevnik.hr"
+          "url": "https://sportske.jutarnji.hr/sn/nogomet/hnl/klubovi/osijek/debitanata-kao-u-prici-evo-kako-ce-izgledati-dinamo-na-opus-areni-za-jednog-covjeka-ovo-ce-biti-posebna-utakmica-15609576",
+          "source": "Sportske novosti"
+        },
+        {
+          "title": "Dinamo danas kreće u HNL-u, Kovačević: Dogodile su se velike promjene, a Bakrar nema prava nastupa",
+          "snippet": "",
+          "url": "https://www.vecernji.hr/sport/dinamo-danas-krece-u-hnl-u-kovacevic-dogodile-su-se-velike-promjene-a-bakrar-nema-prava-nastupa-1881031",
+          "source": "Večernji.hr"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -133,10 +189,10 @@
           "source": "24sata.hr"
         },
         {
-          "title": "Lokomotivin mladić je oduševio sve: Pogledajte prvi gol u novoj sezoni SHNL-a",
+          "title": "Nikica Jelavić podario debi nepoznatom tinejdžeru iz Senegala, uopće nije bio loš",
           "snippet": "",
-          "url": "https://www.tportal.hr/sport/clanak/lokomotivin-mladic-je-odusevio-sve-pogledajte-prvi-gol-u-novoj-sezoni-shnl-a-20250801",
-          "source": "tportal.hr"
+          "url": "https://www.telegram.hr/telesport/na-prvu/nikica-jelavic-podario-seniorski-debi-nepoznatom-tinejdzeru-iz-senegala-uopce-nije-odigrao-lose/",
+          "source": "Telegram.hr"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -193,34 +249,6 @@
           "snippet": "",
           "url": "https://www.cpfc.co.uk/news/match-reports/match-report-highlights-crystal-palace-augsburg-first-friendly/",
           "source": "Crystal Palace F.C."
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "hnl",
-      "trafficCount": "2000+",
-      "pubDate": "Fri, 1 Aug 2025 06:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3_-IFL04gKjjjoQRj2IFDkadkr19dxqImDDGib658kxkN-nAEfCqU73yPhCU",
-      "pictureSource": "Index.hr",
-      "relatedSearch": [
-        {
-          "title": "OD 21:00 Kovačevićev Dinamo debitira protiv Osijeka. Evo gdje gledati",
-          "snippet": "",
-          "url": "https://www.index.hr/sport/clanak/od-2100-kovacevicev-dinamo-debitira-protiv-osijeka-evo-gdje-gledati/2694118.aspx",
-          "source": "Index.hr"
-        },
-        {
-          "title": "Debitanata kao u priči! Evo kako će izgledati Dinamo na Opus Areni, za jednog čovjeka ovo će biti posebna utakmica",
-          "snippet": "",
-          "url": "https://sportske.jutarnji.hr/sn/nogomet/hnl/klubovi/osijek/debitanata-kao-u-prici-evo-kako-ce-izgledati-dinamo-na-opus-areni-za-jednog-covjeka-ovo-ce-biti-posebna-utakmica-15609576",
-          "source": "Sportske novosti"
-        },
-        {
-          "title": "Dinamo danas kreće u HNL-u, Kovačević: Dogodile su se velike promjene, a Bakrar nema prava nastupa",
-          "snippet": "",
-          "url": "https://www.vecernji.hr/sport/dinamo-danas-krece-u-hnl-u-kovacevic-dogodile-su-se-velike-promjene-a-bakrar-nema-prava-nastupa-1881031",
-          "source": "Večernji.hr"
         }
       ],
       "link": "https://imtaqin.id/"

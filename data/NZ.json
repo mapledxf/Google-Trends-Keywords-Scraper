@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-08-03 18:55:52",
+  "lastUpdate": "2025-08-03 19:12:02",
   "data": [
-    {
-      "title": "f1 news",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 3 Aug 2025 10:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYgYM6pRa8gM5DkIxksDFqvlY0jDRrDQ1PzUaVdw7qCiq0ljOqQS6cI5UKhOU",
-      "pictureSource": "Formula 1",
-      "relatedSearch": [
-        {
-          "title": "Norris beats Piastri to win thrilling Hungarian GP",
-          "snippet": "",
-          "url": "https://www.formula1.com/en/latest/article/norris-holds-of-piastri-in-thrilling-battle-to-win-hungarian-grand-prix.3nguaFMU2JVNsT9QWopwzK",
-          "source": "Formula 1"
-        },
-        {
-          "title": "Lawson qualifies ninth in Hungary as Ferrari claim shock pole position",
-          "snippet": "",
-          "url": "https://www.stuff.co.nz/sport/360771592/liam-lawson-qualifies-ninth-formula-1s-hungarian-grand-prix",
-          "source": "Stuff"
-        },
-        {
-          "title": "Hungarian GP: Charles Leclerc takes surprise pole position",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/formula1/articles/cqledzx1wgno",
-          "source": "BBC"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "lpga",
       "trafficCount": "100+",
@@ -71,9 +43,9 @@
           "source": "BBC"
         },
         {
-          "title": "England v India: fifth men’s cricket Test, day four – as it happened",
+          "title": "England and India ready for cliffhanger on final day in dramatic fifth Test",
           "snippet": "",
-          "url": "https://www.theguardian.com/sport/live/2025/aug/03/england-v-india-fifth-mens-cricket-test-day-four-live",
+          "url": "https://www.theguardian.com/sport/2025/aug/03/england-india-fifth-test-day-four-match-report",
           "source": "The Guardian"
         },
         {
@@ -143,7 +115,7 @@
     },
     {
       "title": "f1 results",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Sun, 3 Aug 2025 08:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTYrCm3L6T3Bn1_o-yTFswtkO2i14SnWH_jaHZ7cbgrtl8_K_nY3WYAKgu10c",
       "pictureSource": "Auto Action",
@@ -161,21 +133,27 @@
           "source": "GPblog"
         },
         {
-          "title": "Liam Lawson holds off Max Verstappen for eighth at Hungarian Grand Prix",
+          "title": "Lawson beats Verstappen, finishes as Red Bull’s best car in Hungary",
           "snippet": "",
-          "url": "https://www.stuff.co.nz/sport/360771593/liam-lawson-holds-max-verstappen-eighth-formula-1s-hungarian-grand-prix",
-          "source": "Stuff"
+          "url": "https://www.nzherald.co.nz/sport/motorsport/formula-1/formula-1-result-liam-lawson-in-the-points-again-finishes-eighth-as-red-bulls-best-car-in-hungarian-grand-prix/K5CVJ7U3AZELZGTIHGR6Y5N3RQ/",
+          "source": "NZ Herald"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "f1",
-      "trafficCount": "2000+",
-      "pubDate": "Sun, 3 Aug 2025 07:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSjnY_GwWzvCKlg5rBqLwx3pW5z4_UOkf-Na8vqji71f_jSBFI2t8aptptkZA",
-      "pictureSource": "Stuff",
+      "title": "f1 standings",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 3 Aug 2025 07:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJQkpCTEMfK-oCAhLZOnsCmnbebwfNjKNz7EtyupHrKFVyzkwMkq2b4zmp7yA",
+      "pictureSource": "NZ Herald",
       "relatedSearch": [
+        {
+          "title": "Lawson beats Verstappen, finishes as Red Bull’s best car in Hungary",
+          "snippet": "",
+          "url": "https://www.nzherald.co.nz/sport/motorsport/formula-1/formula-1-result-liam-lawson-in-the-points-again-finishes-eighth-as-red-bulls-best-car-in-hungarian-grand-prix/K5CVJ7U3AZELZGTIHGR6Y5N3RQ/",
+          "source": "NZ Herald"
+        },
         {
           "title": "Liam Lawson holds off Max Verstappen for eighth at Hungarian Grand Prix",
           "snippet": "",
@@ -187,19 +165,41 @@
           "snippet": "",
           "url": "https://www.rnz.co.nz/news/sport/568873/norris-wins-in-hungary-lawson-in-the-points-again",
           "source": "RNZ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "f1",
+      "trafficCount": "2000+",
+      "pubDate": "Sun, 3 Aug 2025 07:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6LfxVDxs9dF1-_UpdX7OwcFJ5dU8KUoV2yYjAVm9ovlFOf-KwZq08RYI_NBQ",
+      "pictureSource": "Formula 1",
+      "relatedSearch": [
+        {
+          "title": "Leclerc explains ‘extremely frustrating’ loss of pace in Hungary after losing out on ‘one opportunity to win’",
+          "snippet": "",
+          "url": "https://www.formula1.com/en/latest/article/leclerc-explains-extremely-frustrating-loss-of-pace-in-hungary-after-losing.4CvcuJTWwwDSFtRh7W6KFL",
+          "source": "Formula 1"
         },
         {
-          "title": "F1: Norris wins battle with McLaren teammate Piastri to take Hungarian GP",
+          "title": "Russell suspects Ferrari were “close to being illegal” with Leclerc’s car",
           "snippet": "",
-          "url": "https://www.theguardian.com/sport/2025/aug/03/lando-norris-wins-battle-with-mclaren-teammate-oscar-piastri-to-win-hungarian-gp-f1",
-          "source": "The Guardian"
+          "url": "https://www.racefans.net/2025/08/03/russell-suspects-ferrari-were-close-to-being-illegal-with-leclercs-car/",
+          "source": "RaceFans"
+        },
+        {
+          "title": "George Russell airs Charles Leclerc disqualification avoidance theory",
+          "snippet": "",
+          "url": "https://racingnews365.com/george-russell-airs-charles-leclerc-disqualification-avoidance-theory",
+          "source": "RacingNews365"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "hungarian gp",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 3 Aug 2025 05:50:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnfoyInw9Wf9GmpjpUc5Qa6V0t84aQouf-ZKwXdwNVzCb_KYKUt2mdr4Z4Fb0",
       "pictureSource": "Australian Broadcasting Corporation",
@@ -227,7 +227,7 @@
     },
     {
       "title": "tottenham",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 3 Aug 2025 04:40:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRm8yzfw3V_60Fh9bERmPMOB9X_tdqkwsx65EbIOmk8jFU-n_U9vvbr_6dm6Fk",
       "pictureSource": "ESPN",
@@ -239,16 +239,16 @@
           "source": "ESPN"
         },
         {
-          "title": "Tottenham 1-1 Newcastle commentary",
-          "snippet": "",
-          "url": "https://www.skysports.com/football/live-blog/12040/13406151/tottenham-vs-newcastle-live-heung-min-son-in-farewell-friendly-in-seoul",
-          "source": "Sky Sports"
-        },
-        {
           "title": "Tottenham: Son Heung-min says farewell in Newcastle friendly in Seoul",
           "snippet": "",
           "url": "https://www.bbc.com/sport/football/articles/c79ld2n9d4qo",
           "source": "BBC"
+        },
+        {
+          "title": "Tottenham need to find a way to capitalise on legacy of trailblazer Son | John Duerden",
+          "snippet": "",
+          "url": "https://www.theguardian.com/football/2025/aug/03/tottenham-need-to-find-a-way-to-capitalise-on-legacy-of-trailblazer-son",
+          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"

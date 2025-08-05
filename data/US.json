@@ -1,11 +1,123 @@
 {
-  "lastUpdate": "2025-08-05 17:15:43",
+  "lastUpdate": "2025-08-05 17:40:06",
   "data": [
     {
-      "title": "anthropic",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 5 Aug 2025 10:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdgZg1pbA_FcvBE0KHhAk2xwvpS6ucYwoKDrnodBrsnLCCFINbcuC4FEqGPB4",
+      "title": "openai",
+      "trafficCount": "2000+",
+      "pubDate": "Tue, 5 Aug 2025 10:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAlIrarKhxnS5jB6KsOXedvycyqCEblcQxfo1Gjc2k1GGm5r24RhBx2cDLv4I",
+      "pictureSource": "About Amazon",
+      "relatedSearch": [
+        {
+          "title": "OpenAI open weight models available today on AWS",
+          "snippet": "",
+          "url": "https://www.aboutamazon.com/news/aws/openai-models-amazon-bedrock-sagemaker",
+          "source": "About Amazon"
+        },
+        {
+          "title": "OpenAI Just Released Its First Open-Weight Models Since GPT-2",
+          "snippet": "",
+          "url": "https://www.wired.com/story/openai-just-released-its-first-open-weight-models-since-gpt-2/",
+          "source": "WIRED"
+        },
+        {
+          "title": "OpenAI releases lower-cost models to rival Meta, Mistral and DeepSeek",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/08/05/openai-open-weight-meta-mistral-deepseek-ai.html",
+          "source": "CNBC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "immunizations",
+      "trafficCount": "2000+",
+      "pubDate": "Tue, 5 Aug 2025 10:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQovZPZ2HufTWE9aOpzQj_6lAv3Jb7kHUp5OA7Yp2Rzf_J6Fn4k-W_ZxyL1HSs",
+      "pictureSource": "ABC11",
+      "relatedSearch": [
+        {
+          "title": "Back to school vaccine list | Wake County Public Health Department hosting first back-to-school immunization clinic",
+          "snippet": "",
+          "url": "https://abc11.com/post/back-school-vaccine-list-wake-county-public-health-department-hosting-first-immunization-clinic/17440019/",
+          "source": "ABC11"
+        },
+        {
+          "title": "Do students need to be vaccinated to go to school in SLO County? What to know",
+          "snippet": "",
+          "url": "https://www.sanluisobispo.com/news/health-and-medicine/article311553203.html",
+          "source": "San Luis Obispo Tribune"
+        },
+        {
+          "title": "Former CDC director encourages vaccines as children head back to school",
+          "snippet": "",
+          "url": "https://www.kcra.com/article/former-cdc-director-encourages-vaccines-children-back-to-school/65592657",
+          "source": "KCRA"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "vaccinations",
+      "trafficCount": "2000+",
+      "pubDate": "Tue, 5 Aug 2025 10:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRk7qj90jiYeKLoBEOKaRPWnFbNGkZ1s7t94F9zNjixlnRJBHvbkw9eJlj7G7w",
+      "pictureSource": "The Guardian",
+      "relatedSearch": [
+        {
+          "title": "Covid cases rising in US as officials plan to restrict booster vaccines",
+          "snippet": "",
+          "url": "https://www.theguardian.com/world/2025/aug/05/us-covid-cases-rising",
+          "source": "The Guardian"
+        },
+        {
+          "title": "KFF Tracking Poll on Health Information and Trust: COVID-19 Vaccine Update",
+          "snippet": "",
+          "url": "https://www.kff.org/health-information-trust/poll-finding/kff-tracking-poll-on-health-information-and-trust-covid-19-vaccine-update/",
+          "source": "KFF"
+        },
+        {
+          "title": "KFF poll shows most Americans plan to skip fall COVID booster",
+          "snippet": "",
+          "url": "https://www.cidrap.umn.edu/covid-19/kff-poll-shows-most-americans-plan-skip-fall-covid-booster",
+          "source": "CIDRAP"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "flu shots",
+      "trafficCount": "2000+",
+      "pubDate": "Tue, 5 Aug 2025 10:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRF8FQwLSTceOLODZma_MW4MVI55U60PAk4Li5AsPm9JNz2ZUFmTamFkqZ_IFg",
+      "pictureSource": "FOX 13 News Utah",
+      "relatedSearch": [
+        {
+          "title": "RFK Jr. signs off on thimerosal-free flu vaccines, despite no evidence of harm from preservative",
+          "snippet": "",
+          "url": "https://www.fox13now.com/news/national-news/rfk-jr-signs-off-on-thimerosal-free-flu-vaccines-despite-no-evidence-of-harm-from-preservative",
+          "source": "FOX 13 News Utah"
+        },
+        {
+          "title": "US bans vaccine ingredient targeted by anti-vaxxers",
+          "snippet": "",
+          "url": "https://www.elpasoinc.com/news/national/us-bans-vaccine-ingredient-targeted-by-anti-vaxxers/article_6505cd73-4fdb-51d0-af3d-6bd0b7ee40ff.html",
+          "source": "El Paso Inc."
+        },
+        {
+          "title": "A Badly-Needed Mercury Chemistry Lesson for RFK Jr.",
+          "snippet": "",
+          "url": "https://www.realclearhealth.com/2025/07/30/a_badly-needed_mercury_chemistry_lesson_for_rfk_jr_1125899.html",
+          "source": "RealClearHealth"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "claude opus 4.1",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 5 Aug 2025 10:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRy-SEakX8YcmmgrjeRWklbPuK5nbQlrLR8RcVNSRK25mdlCyi_AAKRC3aB9hc",
       "pictureSource": "Anthropic",
       "relatedSearch": [
         {
@@ -15,16 +127,72 @@
           "source": "Anthropic"
         },
         {
-          "title": "Anthropic Unveils New AI Model Ahead Of OpenAI’s GPT-5 Release – Here’s What It Can Do",
+          "title": "Anthropic Claude Opus 4.1 is now in public preview in GitHub Copilot",
           "snippet": "",
-          "url": "https://stocktwits.com/news-articles/markets/equity/anthropic-unveils-new-ai-model-ahead-of-openai-gpt-5-release/chrLxidRd2q",
-          "source": "Stocktwits"
+          "url": "https://github.blog/changelog/2025-08-05-anthropic-claude-opus-4-1-is-now-in-public-preview-in-github-copilot/",
+          "source": "The GitHub Blog"
         },
         {
           "title": "Claude Opus 4.1 likely in internal testing by Anthropic",
           "snippet": "",
           "url": "https://www.testingcatalog.com/claude-4-1-likely-in-internal-testing-as-anthropic-prepares-safety-checks/",
           "source": "TestingCatalog"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "bill clinton",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 5 Aug 2025 10:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-uXKgQk-WU4Up6H6fwX6ZLFG0njOktY8gQ4yMAiJ_PYPa3XALeSBSbkffSSw",
+      "pictureSource": "AP News",
+      "relatedSearch": [
+        {
+          "title": "Live updates: House committee issues subpoenas for Epstein files, depositions with Clintons and other officials",
+          "snippet": "",
+          "url": "https://apnews.com/live/donald-trump-news-updates-8-5-2025",
+          "source": "AP News"
+        },
+        {
+          "title": "House Republicans issue subpoena for Jeffrey Epstein files",
+          "snippet": "",
+          "url": "https://www.washingtonpost.com/politics/2025/08/05/epstein-files-house-subpoena/",
+          "source": "The Washington Post"
+        },
+        {
+          "title": "Trump tells reporters to look at Clinton, former Treasury Secretary Larry Summers when asked about Epstein",
+          "snippet": "",
+          "url": "https://www.foxnews.com/politics/comer-subpoenas-clintons-trumps-doj-house-oversights-epstein-probe",
+          "source": "Fox News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "grocery store",
+      "trafficCount": "2000+",
+      "pubDate": "Tue, 5 Aug 2025 09:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpQyFIc0R3FUYIBsKN6CPRM_RIbJruEdCwD7R6uCvYO2fQ5pxSzB_r5lhV7Wg",
+      "pictureSource": "ABC News",
+      "relatedSearch": [
+        {
+          "title": "Video Half of American families cite grocery prices as 'major stress'",
+          "snippet": "",
+          "url": "https://abcnews.go.com/GMA/Food/video/half-american-families-cite-grocery-prices-major-stress-124371148",
+          "source": "ABC News"
+        },
+        {
+          "title": "The vast majority of US adults are stressed about grocery costs, an AP-NORC poll finds",
+          "snippet": "",
+          "url": "https://apnews.com/article/poll-cost-living-groceries-expense-stress-worry-cd183c59f034f6e87525675f3ca04864",
+          "source": "AP News"
+        },
+        {
+          "title": "Most U.S. adults stressed by grocery costs: poll",
+          "snippet": "",
+          "url": "https://www.axios.com/2025/08/04/grocery-prices-tariffs-buy-now-pay-later-poll",
+          "source": "Axios"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -55,13 +223,13 @@
       "title": "alianza universidad vs universitario",
       "trafficCount": "500+",
       "pubDate": "Tue, 5 Aug 2025 09:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJ_5Neq_Szkk0l_WItorGVSY_ysDqstgtHGu43U2TD4oUgiZvj5fh764M8toc",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-boN9YeaNS8bYz6FcfRNGk3HLYBMh0KVrXbbqQJORn_IFI5HBDTMcFV4QD8g",
       "pictureSource": "Infobae",
       "relatedSearch": [
         {
-          "title": "Universitario vs Alianza Universidad EN VIVO HOY: minuto a minuto en Huánuco por Torneo Clausura de la Liga 1 2025",
+          "title": "Golazo de José Rivera con perfecto gesto técnico de cabeza en Universitario vs Alianza Universidad por Liga 1 2025",
           "snippet": "",
-          "url": "https://www.infobae.com/peru/deportes/2025/08/05/universitario-vs-alianza-universidad-en-vivo-hoy-l1max-huanuco-fecha-4-torneo-clausura-liga-1-2025-goles-resumen-resultado/",
+          "url": "https://www.infobae.com/peru/deportes/2025/08/05/gol-jose-tunche-rivera-universitario-de-deportes-vs-alianza-universidad-fecha-4-torneo-clausura-liga-1-2025-video-hoy/",
           "source": "Infobae"
         },
         {
@@ -71,10 +239,10 @@
           "source": "RPP"
         },
         {
-          "title": "Jorge Fossati sobre el choque con Alianza UDH: «Sera un partido duro»",
+          "title": "Ver Liga 1 MAX EN VIVO: Universitario - Alianza Universidad por internet",
           "snippet": "",
-          "url": "https://tudiariohuanuco.pe/deporte/jorge-fossati-sobre-el-choque-con-alianza-udh-sera-un-partido-duro/",
-          "source": "Tu Diario Huánuco"
+          "url": "https://elcomercio.pe/deporte-total/futbol-peruano/liga-1-max-en-vivo-por-internet-donde-ver-universitario-vs-alianza-universidad-online-gratis-hoy-via-futbol-libre-tv-online-video-noticia/",
+          "source": "El Comercio Perú"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -93,172 +261,16 @@
           "source": "ESPN"
         },
         {
-          "title": "NFL insider hints that Buffalo Bills, James Cook extension is almost done",
+          "title": "Brandon Beane: James Cook Update, Early Camp Standouts",
           "snippet": "",
-          "url": "https://sports.yahoo.com/article/nfl-insider-hints-buffalo-bills-151439021.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Top 3 things to know from Day 10 of Bills Training Camp 2025",
-          "snippet": "",
-          "url": "https://www.buffalobills.com/news/top-3-things-to-know-from-day-10-of-bills-training-camp-2025",
+          "url": "https://www.buffalobills.com/video/brandon-beane-james-cook-update-early-camp-standouts",
           "source": "Buffalo Bills"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "earthquake nj",
-      "trafficCount": "50000+",
-      "pubDate": "Tue, 5 Aug 2025 09:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6_9FcrhZ3_W2Rvv9Afz6irmVQK07vtjUTp7lUeQhG1dccyE30_EsvaGtM3PY",
-      "pictureSource": "FOX 5 New York",
-      "relatedSearch": [
-        {
-          "title": "Earthquake reported in NJ, just miles outside of NYC",
-          "snippet": "",
-          "url": "https://www.fox5ny.com/news/earthquake-reported-nj-miles-outside-nyc",
-          "source": "FOX 5 New York"
         },
         {
-          "title": "Earthquake felt in New Jersey on Aug. 5. See magnitude, epicenter",
+          "title": "James Cook sits out Bills practices amid contract negotiations, calls it ‘business’",
           "snippet": "",
-          "url": "https://www.northjersey.com/story/news/new-jersey/2025/08/05/earthquake-nj-aug-5-magnitude-epicenter/85525987007/",
-          "source": "Bergen Record"
-        },
-        {
-          "title": "Magnitude 2.7 earthquake rattles New Jersey days after similar quake rocked Northeast",
-          "snippet": "",
-          "url": "https://www.foxweather.com/weather-news/new-jersey-new-york-northeast-earthquake-august-5-2025",
-          "source": "FOX Weather"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "senegal vs nigeria",
-      "trafficCount": "2000+",
-      "pubDate": "Tue, 5 Aug 2025 09:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnBNMQa9Dkhjg5MYMC8wXzZ6q_4xZw6S6P-I4_J3lKZGHtBZ19qvkU0vYY_TI",
-      "pictureSource": "Olympics.com",
-      "relatedSearch": [
-        {
-          "title": "2024 African Nations Championships in 2025: Full schedule, all results, scores and standings - full list",
-          "snippet": "",
-          "url": "https://www.olympics.com/en/news/2024-african-nations-championships-2025-full-schedule-all-results-scores-standings-full-list",
-          "source": "Olympics.com"
-        },
-        {
-          "title": "Nduka, Chelle draw on Nigerian sporting excellence ahead of blockbuster Senegal clash",
-          "snippet": "",
-          "url": "https://www.cafonline.com/caf-african-nations-championship/news/nduka-chelle-draw-on-nigerian-sporting-excellence-ahead-of-blockbuster-senegal-clash/",
-          "source": "CAFOnline.com"
-        },
-        {
-          "title": "CHAN 2024: Home-based Eagles Eager To Maintain Falcons, D'Tigress' Winning Momentum",
-          "snippet": "",
-          "url": "https://www.sports247.ng/chan-2024-home-based-eagles-eager-to-maintain-falcons-dtigress-winning-momentum/",
-          "source": "Sports247 Nigeria"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "acapulco",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 5 Aug 2025 09:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjNy488m2vjeayz5wudLpkrE70k3L1pbFvHNFVDqdp4RJCvwP12woWkb_lupw",
-      "pictureSource": "H. Ayuntamiento de Acapulco",
-      "relatedSearch": [
-        {
-          "title": "Respalda Gobierno de Acapulco iniciativas de comercio juvenil",
-          "snippet": "",
-          "url": "https://acapulco.gob.mx/2025/08/respalda-gobierno-de-acapulco-iniciativas-de-comercio-juvenil/",
-          "source": "H. Ayuntamiento de Acapulco"
-        },
-        {
-          "title": "Acapulco: se ampara Marina Diamante contra clausura por contaminar laguna",
-          "snippet": "",
-          "url": "https://guerrero.quadratin.com.mx/acapulco-se-ampara-marina-diamante-contra-clausura-por-contaminar-laguna/",
-          "source": "Quadratín Guerrero"
-        },
-        {
-          "title": "Peligra laguna de Pie de la Cuesta por gran contaminación de aguas negras",
-          "snippet": "",
-          "url": "https://oem.com.mx/elsoldeacapulco/local/peligra-laguna-de-pie-de-la-cuesta-por-gran-contaminacion-de-aguas-negras-25056289",
-          "source": "El Sol de México"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "trump roof",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 5 Aug 2025 09:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFruAgmqBsHfZgRWuR1YqjnaaPMc2IZrUr66B5zIhHpsKM2DDjfCYvyQFALfY",
-      "pictureSource": "Fox News",
-      "relatedSearch": [
-        {
-          "title": "Trump fires back at 'low-IQ' Jasmine Crockett in CNBC interview",
-          "snippet": "",
-          "url": "https://www.foxnews.com/politics/trump-appears-white-house-roof-amid-talks-historic-renovations",
-          "source": "Fox News"
-        },
-        {
-          "title": "The White House Announces White House Ballroom Construction to Begin",
-          "snippet": "",
-          "url": "https://www.whitehouse.gov/briefings-statements/2025/07/the-white-house-announces-white-house-ballroom-construction-to-begin/",
-          "source": "The White House (.gov)"
-        },
-        {
-          "title": "Opinion | Trump’s Gilded Age White House Ballroom Classicism",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2025/08/04/opinion/trump-gilded-age-ballroom.html",
+          "url": "https://www.nytimes.com/athletic/6533534/2025/08/03/bills-james-cook-practice-contract/",
           "source": "The New York Times"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "kyren williams",
-      "trafficCount": "2000+",
-      "pubDate": "Tue, 5 Aug 2025 08:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRy7VuunZoUgH2cwzlXeD9FwKxypFWP4iRiFGmI_G7NjLz7kWF9nvPPn1pECy4",
-      "pictureSource": "ESPN",
-      "relatedSearch": [
-        {
-          "title": "Rams RB Williams signs 3-year, $33M extension",
-          "snippet": "",
-          "url": "https://www.espn.com/nfl/story/_/id/45907889/rams-top-rb-kyren-williams-signs-three-year-33m-extension",
-          "source": "ESPN"
-        },
-        {
-          "title": "Kyren Williams contract: Rams star running back gets three-year, $33 million extension",
-          "snippet": "",
-          "url": "https://www.cbssports.com/nfl/news/kyren-williams-contract-rams-star-running-back-gets-three-year-33-million-extension/",
-          "source": "CBS Sports"
-        },
-        {
-          "title": "Kyren Williams, Rams agree to three-year extension",
-          "snippet": "",
-          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyren-williams-rams-agree-to-three-year-extension",
-          "source": "NBC Sports"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "jeremy renner accident",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 5 Aug 2025 08:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSvCJqx7mXwPGfUVVBHFnitVSwU9_J9C7YfBjEPiQQBCiO46vOmaxUWjzCIQc",
-      "pictureSource": "Popverse",
-      "relatedSearch": [
-        {
-          "title": "Marvel’s Jeremy Renner binged History’s Alone after his snowplow accident",
-          "snippet": "",
-          "url": "https://www.thepopverse.com/tv-jeremy-renner-history-alone-binge-watch-accident-recovery",
-          "source": "Popverse"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-05 14:25:55",
+  "lastUpdate": "2025-08-05 14:50:46",
   "data": [
     {
       "title": "tormenta tropical dexter",
@@ -14,14 +14,14 @@
       "title": "earthquake today",
       "trafficCount": "500+",
       "pubDate": "Tue, 5 Aug 2025 02:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6tHC6X1w61u7qYplVAy-N4N82xKKZCCsPeYgq4JcZ37YpGs5dKIdTGgQK4Q",
-      "pictureSource": "ABC News",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjXiqiBtUCPGwGcBv5Qnu7TXj65Tt7W-UhJrwoph3YGZFmTkVH1M6mRam7XAg",
+      "pictureSource": "AP News",
       "relatedSearch": [
         {
-          "title": "Small earthquake rattles parts of New York City area, New Jersey",
+          "title": "What to know about the earthquake that shook the New York area Saturday night",
           "snippet": "",
-          "url": "https://abcnews.go.com/US/News/small-earthquake-rattles-parts-new-york-city-area/story?id=124319551",
-          "source": "ABC News"
+          "url": "https://apnews.com/article/earthquake-new-jersey-magnitude-history-f8b8af56e358a0e057b308231eeb92d1",
+          "source": "AP News"
         },
         {
           "title": "Recent New Jersey earthquakes not cause for concern, seismologist says",
@@ -58,10 +58,10 @@
           "source": "El Vocero de Puerto Rico"
         },
         {
-          "title": "Se sintió hasta Humacao: Sismo de magnitud 5.7 saca de la cama a los boricuas",
+          "title": "“It was widely felt”: a 5.7 magnitude earthquake shook western Puerto Rico",
           "snippet": "",
-          "url": "https://www.primerahora.com/noticias/puerto-rico/notas/se-sintio-hasta-humacao-sismo-de-magnitud-57-saca-de-la-cama-a-los-boricuas/",
-          "source": "Primera Hora"
+          "url": "https://www.elnuevodia.com/english/news/story/it-was-widely-felt-a-57-magnitude-earthquake-shook-western-puerto-rico/",
+          "source": "El Nuevo Día"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -70,15 +70,9 @@
       "title": "earthquake",
       "trafficCount": "500+",
       "pubDate": "Tue, 5 Aug 2025 02:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-K9Nw5_CvTtKt8Fnu38LvDWbUi3MvCEmzyVMDwdk0jDShPQveyGscrxWgX5g",
-      "pictureSource": "Volcano Discovery",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJvmy9VMP-mdE_znsJSNmoxHfl-KDodU7q0a5kxi3SwwKMji_vFf243YmCVAg",
+      "pictureSource": "Sunny 106.5",
       "relatedSearch": [
-        {
-          "title": "Seismic-like event, possible earthquake, reported few minutes ago near San Juan, San Juan, Puerto Rico",
-          "snippet": "",
-          "url": "https://www.volcanodiscovery.com/fr/seismes/news/277287/Seismic-like-event-possible-earthquake-reported-few-minutes-ago-near-San-Juan-San-Juan-Puerto-Rico.html",
-          "source": "Volcano Discovery"
-        },
         {
           "title": "5.7 Magnitude Earthquake Reported",
           "snippet": "",
@@ -90,6 +84,12 @@
           "snippet": "",
           "url": "https://www.local10.com/news/world/2025/08/05/57-magnitude-earthquake-hits-near-dominican-republic/",
           "source": "WPLG Local 10"
+        },
+        {
+          "title": "5.7 Magnitude Earthquake Reported",
+          "snippet": "",
+          "url": "https://majic959.iheart.com/content/2025-08-05-57-magnitude-earthquake-reported/",
+          "source": "iHeart"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -123,29 +123,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "windy",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 4 Aug 2025 17:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTd7Z4a-ekN_MtMsp_jjr3YF6XotlwC1umL8ZLyHrEEtGId_CzmDZA9msjAFtk",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Storm Floris aftermath: Thousands in Scotland still without power",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c0j9g25q5eyo",
+          "source": "BBC"
+        },
+        {
+          "title": "Storm Floris: Scottish government holds emergency meeting amid warnings of more UK travel disruption",
+          "snippet": "",
+          "url": "https://www.theguardian.com/uk-news/2025/aug/05/storm-floris-scottish-government-holds-emergency-meeting-amid-warnings-of-more-uk-travel-disruption",
+          "source": "The Guardian"
+        },
+        {
+          "title": "A plane coming in to land was forced to U-turn and fly 400 miles back to where it started in the middle of a major storm",
+          "snippet": "",
+          "url": "https://www.businessinsider.com/easyjet-flight-to-nowhere-storm-floris-prevented-landing-in-scotland-2025-8",
+          "source": "Business Insider"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "weather tomorrow",
       "trafficCount": "2000+",
       "pubDate": "Mon, 4 Aug 2025 17:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnJ15W7IX15gItt9qUQZ7dBtn66-JLzGsPlTehR97sPKrvMPx12ZyEv0pSruY",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShOr7q1AxYS5mRvEIn6zOcpHflrMagp5cyXb8D_bJkIf6vuFvlWzQKsK33FBY",
       "pictureSource": "FOX 56 News",
       "relatedSearch": [
         {
-          "title": "Kentucky weather tomorrow: A few more spotty showers",
+          "title": "Kentucky weather today: Storms for some ahead of midweek warm-up",
           "snippet": "",
-          "url": "https://fox56news.com/weather/forecast/kentucky-weather-tomorrow-a-few-more-spotty-showers/",
+          "url": "https://fox56news.com/weather/forecast/kentucky-weather-today-storms-for-some-ahead-of-midweek-warm-up/",
           "source": "FOX 56 News"
         },
         {
-          "title": "Shower chances to start the new week",
+          "title": "Daily storm chances stick around the next few days",
           "snippet": "",
-          "url": "https://www.wlky.com/article/shower-chances-to-start-the-new-week/65589621",
-          "source": "WLKY"
+          "url": "https://www.wtvq.com/daily-storm-chances-stick-around-the-next-few-days/",
+          "source": "WTVQ"
         },
         {
-          "title": "Our pattern of seasonal days with scattered showers and storms continues",
+          "title": "Jim Caldwell’s Forecast | Temperatures will slowly climb",
           "snippet": "",
-          "url": "https://www.lex18.com/weather/daily-forecast/our-pattern-of-subseasonal-days-with-scattered-showers-and-storms-continues",
-          "source": "LEX18"
+          "url": "https://www.wkyt.com/2025/08/05/jim-caldwells-forecast-temperatures-will-slowly-climb/",
+          "source": "WKYT"
         }
       ],
       "link": "https://imtaqin.id/"

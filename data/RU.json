@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-08-07 08:17:51",
+  "lastUpdate": "2025-08-07 08:48:18",
   "data": [
     {
       "title": "прекращение огня",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 7 Aug 2025 01:00:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1j9RgaZkAUzvVNxXv-7-h2CuU-cP0yenFflS2IIIOYzic8VxB1UqIEBwmqTE",
       "pictureSource": "Meduza",
@@ -33,9 +33,15 @@
       "title": "уральские авиалинии",
       "trafficCount": "500+",
       "pubDate": "Thu, 7 Aug 2025 01:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST4be2IEvB9RdY-YYxt4H4PhZWEqNnh3oqdn-ZhvsZosgAdBZH3lL8z3Qb2iQ",
-      "pictureSource": "Е1.ру",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrsr300dT25ReIastsPW9wKfK7Vj3UAlnl1MAcSio_D0RkJGYarRTdBaeepag",
+      "pictureSource": "Кубанские новости",
       "relatedSearch": [
+        {
+          "title": "Самолет Москва - Сочи приземлился в Астрахани из-за сработавшей сигнализации",
+          "snippet": "",
+          "url": "https://kubnews.ru/obshchestvo/2025/08/07/samolet-moskva-sochi-prizemlilsya-v-astrakhani-iz-za-srabotavshey-signalizatsii/",
+          "source": "Кубанские новости"
+        },
         {
           "title": "Самолет «Уральских авиалиний» передал код о серьёзном происшествии на борту",
           "snippet": "",
@@ -43,15 +49,9 @@
           "source": "Е1.ру"
         },
         {
-          "title": "Самолет рейса Москва-Сочи экстренно приземлился в Астрахани из-за сигнализации",
+          "title": "На борту самолета «Уральских авиалиний» сработала сигнализация",
           "snippet": "",
-          "url": "https://www.evening-kazan.ru/proisshestviya/news/samolet-reysa-moskva-sochi-ekstrenno-prizemlilsya-v-astrahani-iz-za-signalizacii",
-          "source": "Вечерняя Казань"
-        },
-        {
-          "title": "Самолет, вылетевший из Домодедово в Сочи, подал сигнал об опасности",
-          "snippet": "",
-          "url": "https://ura.news/news/1052976564",
+          "url": "https://ura.news/news/1052976566",
           "source": "URA.RU"
         }
       ],
@@ -99,16 +99,16 @@
           "source": "Матч ТВ"
         },
         {
+          "title": "«Матч ТВ»: «Куньлунь» прекратит существование в КХЛ",
+          "snippet": "",
+          "url": "https://sport.business-gazeta.ru/news/308110",
+          "source": "БО Спорт"
+        },
+        {
           "title": "В Петербурге снова один клуб. «Куньлунь Ред Стар» прекратит свое существование в КХЛ",
           "snippet": "",
           "url": "https://www.fontanka.ru/2025/08/07/75807243/",
           "source": "ФОНТАНКА.ру"
-        },
-        {
-          "title": "«Куньлунь» — болельщикам: «9 сезонов, 557 матчей, где бы мы ни играли — в Пекине и Шанхае, Шэньчжэне и Челябинске, Новосибирске и Мытищах — всегда чувствовали поддержку&",
-          "snippet": "",
-          "url": "https://sportmail.ru/news/hockey/67334518/",
-          "source": "Спорт Mail"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -170,51 +170,23 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "крымский мост",
-      "trafficCount": "2000+",
-      "pubDate": "Wed, 6 Aug 2025 22:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzU88oxy8Dkd7vW5soHWwtlu5fIEIGrbHIRHAVcfS5hqqrqoWof1hpSMiqj4g",
-      "pictureSource": "Интерфакс",
-      "relatedSearch": [
-        {
-          "title": "Более 3 тысяч машин скопилось в очередях перед Крымским мостом",
-          "snippet": "",
-          "url": "https://www.interfax.ru/russia/1040044",
-          "source": "Интерфакс"
-        },
-        {
-          "title": "Ждут по 5 часов: у Крымского моста скопилось почти 3,5 тысячи машин",
-          "snippet": "",
-          "url": "https://www.fontanka.ru/2025/08/07/75808131/",
-          "source": "ФОНТАНКА.ру"
-        },
-        {
-          "title": "Движение транспорта по Крымскому мосту возобновлено",
-          "snippet": "",
-          "url": "https://kubnews.ru/obshchestvo/2025/08/07/dvizhenie-transporta-po-krymskomu-mostu-vozobnovleno/",
-          "source": "Кубанские новости"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "афипский нпз",
       "trafficCount": "1000+",
       "pubDate": "Wed, 6 Aug 2025 22:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTKXGwVZ_rrNrs9DfVs6Gn4HU3mT-2wBjIPzVCZAI0leKsldekzw7C_VUIhQ8",
-      "pictureSource": "DW",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3VxZIOX9Ymt8pdrvTAnJWxa6tGtNFMudxWMNDQRWr41dFrZRYnjSRlrbk6bM",
+      "pictureSource": "Meduza",
       "relatedSearch": [
-        {
-          "title": "Дроны атаковали Афипский НПЗ в Краснодарском крае",
-          "snippet": "",
-          "url": "https://www.dw.com/ru/drony-atakovali-afipskij-npz-v-krasnodarskom-krae-i-drugie-obekty/a-73554848",
-          "source": "DW"
-        },
         {
           "title": "Дроны ВСУ атаковали Краснодарский край. Произошел пожар на нефтеперерабатывающем заводе",
           "snippet": "",
           "url": "https://meduza.io/news/2025/08/07/drony-vsu-atakovali-krasnodarskiy-kray-proizoshel-pozhar-na-neftepererabatyvayuschemzavode",
           "source": "Meduza"
+        },
+        {
+          "title": "Дроны атаковали Афипский НПЗ в Краснодарском крае",
+          "snippet": "",
+          "url": "https://www.dw.com/ru/drony-atakovali-afipskij-npz-v-krasnodarskom-krae-i-drugie-obekty/a-73554848",
+          "source": "DW"
         },
         {
           "title": "Украинские дроны атаковали НПЗ в Краснодарском крае и две железнодорожные станции под Волгоградом",
@@ -277,6 +249,34 @@
           "snippet": "",
           "url": "https://www.hibiny.ru/murmanskaya-oblast/news/item-porazitelnoe-shodstvo-syn-rastorgueva-izlyube-okazalsya-bolshe-pohoj-naotca-chem-sam-otec-zacenite-krasavca-423170/",
           "source": "Хибины.ру"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "заседание по ключевой ставке",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 6 Aug 2025 22:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyBseADBVzExGHjeqH3dCvwBSApkB3r_7GYl87rQhtycuG-3t3b8ONOLi7_i0",
+      "pictureSource": "Банки.ру",
+      "relatedSearch": [
+        {
+          "title": "Как ЦБ поступит со ставкой в сентябре, во вкладах наметился новый тренд. Главные события рынка сбережений",
+          "snippet": "",
+          "url": "https://www.banki.ru/news/lenta/?id=11016517",
+          "source": "Банки.ру"
+        },
+        {
+          "title": "ЦБ сохранит жесткие условия ДКП для достижения цели по инфляции",
+          "snippet": "",
+          "url": "https://finance.mail.ru/article/cb-sohranit-zhestkie-usloviya-dkp-dlya-dostizheniya-celi-po-inflyacii-67329026/",
+          "source": "Финансы Mail"
+        },
+        {
+          "title": "ЦБ предупредил, что может взять паузу в снижении ключевой ставки",
+          "snippet": "",
+          "url": "https://www.moscowtimes.ru/2025/08/07/tsbpredupredil-chto-mozhet-vzyat-pauzu-vsnizhenii-klyuchevoi-stavki-a171000",
+          "source": "Русская служба The Moscow Times"
         }
       ],
       "link": "https://imtaqin.id/"

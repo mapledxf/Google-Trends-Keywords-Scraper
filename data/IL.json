@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-08-11 23:50:06",
+  "lastUpdate": "2025-08-11 23:57:40",
   "data": [
+    {
+      "title": "כאן 11",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 11 Aug 2025 16:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd8UEKPMAfbmNNAmhWRBp5XLQCCqbOlySb7kFSimwJH7ALAPjV2usgvg9ZIxI",
+      "pictureSource": "הארץ",
+      "relatedSearch": [
+        {
+          "title": "הליהוק פגז והעריכה קצבית, אך \"ארבע חתונות\" חסרה רכיב מהותי בדרך לקאלט",
+          "snippet": "",
+          "url": "https://www.haaretz.co.il/gallery/television/tv-review/2025-08-11/ty-article-review/.premium/00000198-9516-d0f9-afbe-df9f57410000",
+          "source": "הארץ"
+        },
+        {
+          "title": "\"ארבע חתונות\": חתונות בישראל הן מתנת אבסורד שלא מפסיקה לתת",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/entertainment/article/r1q8f0sugl",
+          "source": "ynet"
+        },
+        {
+          "title": "הגודל כן קובע: הכי חשוב זה כסף, כבוד - וכמובן שופוני",
+          "snippet": "",
+          "url": "https://www.israelhayom.co.il/culture/tv/article/18605450",
+          "source": "ישראל היום"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "תחזית",
       "trafficCount": "5000+",
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://www.globes.co.il/news/article.aspx?did=1001518646",
           "source": "גלובס"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "4 חתונות",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 11 Aug 2025 12:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd8UEKPMAfbmNNAmhWRBp5XLQCCqbOlySb7kFSimwJH7ALAPjV2usgvg9ZIxI",
-      "pictureSource": "הארץ",
-      "relatedSearch": [
-        {
-          "title": "הליהוק פגז והעריכה קצבית, אך \"ארבע חתונות\" חסרה רכיב מהותי בדרך לקאלט",
-          "snippet": "",
-          "url": "https://www.haaretz.co.il/gallery/television/tv-review/2025-08-11/ty-article-review/.premium/00000198-9516-d0f9-afbe-df9f57410000",
-          "source": "הארץ"
-        },
-        {
-          "title": "\"ארבע חתונות\": חתונות בישראל הן מתנת אבסורד שלא מפסיקה לתת",
-          "snippet": "",
-          "url": "https://www.ynet.co.il/entertainment/article/r1q8f0sugl",
-          "source": "ynet"
-        },
-        {
-          "title": "הגודל כן קובע: הכי חשוב זה כסף, כבוד - וכמובן שופוני",
-          "snippet": "",
-          "url": "https://www.israelhayom.co.il/culture/tv/article/18605450",
-          "source": "ישראל היום"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -130,7 +130,7 @@
           "title": "N12 - כ\"ץ חושף את \"רשימת החיסול\" האיראנית - ומגחך על טעויות...",
           "snippet": "",
           "url": "https://www.mako.co.il/news-world/2025_q3/Article-f48deb698899891026.htm",
-          "source": "mako"
+          "source": "Mako"
         },
         {
           "title": "איראן פרסמה \"רשימת חיסול\" של בכירים בישראל",
@@ -245,10 +245,10 @@
           "source": "PR Newswire"
         },
         {
-          "title": "Crypto SWOT: Fundstrat co-founder Tom Lee predicts that Ethereum may eventually overtake Bitcoin",
+          "title": "Interview with Wall Street Bull Tom Lee: Is Ethereum on the Verge of a Bitcoin-like Surge?",
           "snippet": "",
-          "url": "https://www.kitco.com/opinion/2025-08-11/crypto-swot-fundstrat-co-founder-tom-lee-predicts-ethereum-may-eventually",
-          "source": "KITCO"
+          "url": "https://news.futunn.com/en/post/60370221/interview-with-wall-street-bull-tom-lee-is-ethereum-on",
+          "source": "富途牛牛"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -267,10 +267,10 @@
           "source": "גלובס"
         },
         {
-          "title": "Why Monday.com Stock Plunged Today",
+          "title": "Monday.com Stock Dives Despite Strong Earnings",
           "snippet": "",
-          "url": "https://finance.yahoo.com/news/why-monday-com-stock-plunged-160654072.html",
-          "source": "Yahoo Finance"
+          "url": "https://www.investors.com/news/technology/monday-earnings-mndy-stock-news-q22025/",
+          "source": "Investor's Business Daily"
         },
         {
           "title": "Monday.com shares plunge as rising R&D costs push it back to a loss",

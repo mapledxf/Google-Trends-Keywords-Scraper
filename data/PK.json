@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2025-08-11 05:58:57",
+  "lastUpdate": "2025-08-11 06:36:00",
   "data": [
     {
+      "title": "palermo fc",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 10 Aug 2025 23:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_Cbb_iu2LDVF39sJ6JitGvCPcF5TxIjnQqBq4sHEuhi9hZQLinsF7X5cpKnA",
+      "pictureSource": "Sky Sports",
+      "relatedSearch": [
+        {
+          "title": "Palermo 0-3 Man City: Tijjani Reijnders scores twice as Pep Guardiola's team win only pre-season game of the summer",
+          "snippet": "",
+          "url": "https://www.skysports.com/football/news/11095/13408692/palermo-0-3-man-city-tijjani-reijnders-scores-twice-as-pep-guardiolas-team-win-only-pre-season-game-of-the-summer",
+          "source": "Sky Sports"
+        },
+        {
+          "title": "Rodri cover, Cherki, Wolves spot - things noticed from Man City friendly win in Palermo",
+          "snippet": "",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/rodri-cover-cherki-wolves-spot-32235758",
+          "source": "Manchester Evening News"
+        },
+        {
+          "title": "Anglo Palermitan Trophy test was great for everyone, says Bobb",
+          "snippet": "",
+          "url": "https://ca.sports.yahoo.com/news/anglo-palermitan-trophy-test-great-100000235.html",
+          "source": "Yahoo Canada Sports"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "punjab university",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 10 Aug 2025 22:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQf1LkyPWTUQ-E4bmoDdevALFWw5jHNKc8FO-mFOOc9LDH5TFVkOQxuguTSFk0",
       "pictureSource": "The Express Tribune",
@@ -24,34 +52,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "al jazeera",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 10 Aug 2025 22:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVnPIDPpeg5za1pflgLUWWbBsCcAp6zYMRhDuCDyB9M-EKybHla56_8udVuoI",
-      "pictureSource": "Al Jazeera",
-      "relatedSearch": [
-        {
-          "title": "Anas al-Sharif among five Al Jazeera journalists killed by Israel in Gaza",
-          "snippet": "",
-          "url": "https://www.aljazeera.com/news/2025/8/10/al-jazeera-journalist-anas-al-sharif-killed-in-israeli-attack-in-gaza-city",
-          "source": "Al Jazeera"
-        },
-        {
-          "title": "Five Al Jazeera journalists killed in Israeli strike near Al-Shifa hospital",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/ceqyyrp3yq9o",
-          "source": "BBC"
-        },
-        {
-          "title": "Israel kills Al Jazeera journalists in targeted Gaza City airstrike",
-          "snippet": "",
-          "url": "https://cpj.org/2025/08/israel-kills-al-jazeera-journalists-in-targeted-gaza-city-airstrike/",
-          "source": "Committee to Protect Journalists"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "chatgpt 4",
       "trafficCount": "100+",
       "pubDate": "Sun, 10 Aug 2025 21:50:00 -0700",
@@ -65,16 +65,44 @@
           "source": "OpenAI"
         },
         {
+          "title": "OpenAI’s latest step towards advanced artificial intelligence",
+          "snippet": "",
+          "url": "https://www.economist.com/science-and-technology/2025/08/08/openais-latest-step-towards-advanced-artificial-intelligence",
+          "source": "The Economist"
+        },
+        {
           "title": "Release of ChatGPT-5 'Beginning of a New Era For Humanity'",
           "snippet": "",
           "url": "https://www.sciencealert.com/release-of-chatgpt-5-beginning-of-a-new-era-for-humanity",
           "source": "ScienceAlert"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "anas al sharif",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 10 Aug 2025 21:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVnPIDPpeg5za1pflgLUWWbBsCcAp6zYMRhDuCDyB9M-EKybHla56_8udVuoI",
+      "pictureSource": "Al Jazeera",
+      "relatedSearch": [
+        {
+          "title": "Anas al-Sharif among five Al Jazeera staff killed by Israel in Gaza",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/2025/8/10/al-jazeera-journalist-anas-al-sharif-killed-in-israeli-attack-in-gaza-city",
+          "source": "Al Jazeera"
         },
         {
-          "title": "Sam Altman: OpenAI will bring back GPT-4o after user backlash",
+          "title": "Five Al Jazeera journalists killed in Israeli strike near Al-Shifa hospital",
           "snippet": "",
-          "url": "https://mashable.com/article/sam-altman-openai-bring-back-gpt-4o-user-backlash",
-          "source": "Mashable"
+          "url": "https://www.bbc.com/news/articles/ceqyyrp3yq9o",
+          "source": "BBC"
+        },
+        {
+          "title": "Israel kills Al Jazeera journalist it says was Hamas leader",
+          "snippet": "",
+          "url": "https://www.reuters.com/world/middle-east/israel-kills-al-jazeera-journalist-it-says-was-hamas-leader-2025-08-11/",
+          "source": "Reuters"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -137,7 +165,7 @@
     },
     {
       "title": "14 august",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 10 Aug 2025 21:10:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4tV8kJHrqk8xy1DLW9LlEyTIrKIzlO9Yx818rcmENEEq6lPzSEjP0nokHOwA",
       "pictureSource": "The Plumas Sun",
@@ -165,7 +193,7 @@
     },
     {
       "title": "taarak mehta ka ooltah chashmah",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 10 Aug 2025 20:20:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmkYMuLwd7YM5JeocV_1fT1VECWaRyzVQ1SHsrihCCYSu4MJq_e33SCKzPUAA",
       "pictureSource": "Times of India",
@@ -183,10 +211,10 @@
           "source": "The Daily Jagran"
         },
         {
-          "title": "Taarak Mehta producer Asit Modi touches Disha Vakani’s feet, celebrates Raksha Bandhan with OG Dayaben’s family. Watch",
+          "title": "Taarak Mehta's Disha Vakani reunites with producer Asit Kumarr Modi as she celebrates Raksha Bandhan with him",
           "snippet": "",
-          "url": "https://indianexpress.com/article/entertainment/television/taarak-mehta-producer-asit-modi-touches-disha-vakanis-feet-celebrates-raksha-bandhan-with-og-dayabens-family-watch-10182120/",
-          "source": "The Indian Express"
+          "url": "https://www.mid-day.com/entertainment/television-news/article/taarak-mehta-ka-ooltah-chashmah-disha-vakani-dayaben-raksha-bandhan-2025-asit-kumarr-modi-23588980",
+          "source": "Mid-day"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -205,16 +233,16 @@
           "source": "BBC"
         },
         {
-          "title": "Magnitude 6.1 earthquake in Turkey causes buildings to collapse, killing 1",
-          "snippet": "",
-          "url": "https://www.pbs.org/newshour/world/magnitude-6-1-earthquake-in-turkey-causes-about-a-dozen-buildings-to-collapse",
-          "source": "PBS"
-        },
-        {
           "title": "Earthquake of magnitude 6.1 strikes western Turkey, disaster authority says",
           "snippet": "",
           "url": "https://www.reuters.com/business/environment/earthquake-magnitude-61-strikes-western-turkey-disaster-authority-says-2025-08-10/",
           "source": "Reuters"
+        },
+        {
+          "title": "Magnitude 6.1 earthquake in Turkey causes buildings to collapse, killing 1",
+          "snippet": "",
+          "url": "https://www.pbs.org/newshour/world/magnitude-6-1-earthquake-in-turkey-causes-about-a-dozen-buildings-to-collapse",
+          "source": "PBS"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -243,34 +271,6 @@
           "snippet": "",
           "url": "https://www.cricbuzz.com/cricket-news/135240/haider-ali-suspended-by-pcb-amid-criminal-investigation-in-england-cricbuzzcom",
           "source": "Cricbuzz.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "mls",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 10 Aug 2025 19:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3I_U167ttmIv_93QGtpnZe8V6jV1M0s5V7UvxU4aI4yurc0a84X0Utatd7QA",
-      "pictureSource": "LAFC",
-      "relatedSearch": [
-        {
-          "title": "Recap | LAFC at Chicago Fire - 2025 MLS Season",
-          "snippet": "",
-          "url": "https://www.lafc.com/news/recap-lafc-at-chicago-fire-2025-mls-season-august-9",
-          "source": "LAFC"
-        },
-        {
-          "title": "Son Heung-min’s LAFC debut: Instant impact on the pitch and a vow to ‘make this league big’ - The Athletic",
-          "snippet": "",
-          "url": "https://www.nytimes.com/athletic/6544663/2025/08/10/son-heung-min-lafc-debut-mls-chicago-fire/",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Son makes instant impact, wins PK on LAFC debut",
-          "snippet": "",
-          "url": "https://www.espn.in/football/story/_/id/45935038/son-heung-min-lafc-debut-chicago-fire-penalty",
-          "source": "ESPN India"
         }
       ],
       "link": "https://imtaqin.id/"

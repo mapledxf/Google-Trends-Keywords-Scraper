@@ -1,11 +1,39 @@
 {
-  "lastUpdate": "2025-08-12 05:58:20",
+  "lastUpdate": "2025-08-12 06:32:21",
   "data": [
+    {
+      "title": "שחר חיון",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 11 Aug 2025 22:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRn8UByBB_EfnQsgoaX_7yF0qjgczuOs7X56uUocD1wh9nKb-EzcM2IdQHzjWQ",
+      "pictureSource": "ישראל היום",
+      "relatedSearch": [
+        {
+          "title": "סערת הסידורים: שחר חיון תחת מתקפה ברשת",
+          "snippet": "",
+          "url": "https://www.israelhayom.co.il/forreal/localy/article/18615014",
+          "source": "ישראל היום"
+        },
+        {
+          "title": "שחר חיון נתבעת על סך 240 אלף שקל: \"כפוית טובה, נצלנית, תככנית\"",
+          "snippet": "",
+          "url": "https://www.ice.co.il/law/news/article/1079013",
+          "source": "ice (אייס)"
+        },
+        {
+          "title": "פרסום ראשון: שחר חיון נתבעת ברבע מיליון ש\"ח",
+          "snippet": "",
+          "url": "https://www.israelhayom.co.il/forreal/localy/article/18612776",
+          "source": "ישראל היום"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "רכבת ישראל",
       "trafficCount": "200+",
       "pubDate": "Mon, 11 Aug 2025 21:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMy8S90BnMtjqQQfPc84hrHWBkUAeuaH2mxK_6wkeTk2MpFgKkM0McRSHMask",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiCfMjI8-ateWPw9yaKiCl1Ahxu3TKD4SjX4nYeAjNCzENWrWo1yV47t5pl9Q",
       "pictureSource": "TheMarker",
       "relatedSearch": [
         {
@@ -33,26 +61,54 @@
       "title": "חדשות",
       "trafficCount": "100+",
       "pubDate": "Mon, 11 Aug 2025 21:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0d2pKak_ykmHmOUbPH-btyMKMBkIaPoWbv3CnxGqZxs2QG5e6p5YDvtNhvLs",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxxETmnY_MGFTXsDD3zT5BGgSisC2N9FIiZFez3mI-_WZSag54m2CQ9qGTx-g",
+      "pictureSource": "זמן ישראל",
+      "relatedSearch": [
+        {
+          "title": "עמיחי זבולוני: בין \"רעב\" ל\"הרעבה\"",
+          "snippet": "",
+          "url": "https://www.zman.co.il/613015/",
+          "source": "זמן ישראל"
+        },
+        {
+          "title": "הקרב על האמת: מה הסיכויים של ישראל באמת לנצח? \"אנחנו לא במגרש אובייקטיבי\"",
+          "snippet": "",
+          "url": "https://www.maariv.co.il/news/politics/article-1223198",
+          "source": "מעריב"
+        },
+        {
+          "title": "הנתונים לא תומכים בתיאוריית ההרעבה המכוונת של תושבי עזה",
+          "snippet": "",
+          "url": "https://www.haaretz.co.il/opinions/2025-08-07/ty-article-opinion/.premium/00000198-84ac-d9db-a9be-87af9d810000",
+          "source": "הארץ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "וואלה חדשות",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 11 Aug 2025 21:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqtpMnRsMrsUWiDKVaiGyOeBEdI9KLRzydU5gOsxqJbFJsPRHVj20-qzLZuWE",
       "pictureSource": "ynet",
       "relatedSearch": [
         {
-          "title": "מאדם שנכשל לא מעט מותר היה לצפות לשמץ צניעות",
+          "title": "בצה\"ל תוקפים את שר הביטחון: \"סחיטה חסרת תקדים, מתנהג לרמטכ\"ל כמו לרב\"ט\"",
           "snippet": "",
-          "url": "https://www.ynet.co.il/news/article/yokra14471671",
+          "url": "https://www.ynet.co.il/news/article/bjg6as0000gl",
           "source": "ynet"
         },
         {
-          "title": "אחרי הערכת מצב: צה\"ל בהתרעה חמורה",
+          "title": "להלן המינויים: סיכום דיון איוש",
           "snippet": "",
-          "url": "https://www.srugim.co.il/1160249-%D7%90%D7%97%D7%A8%D7%99-%D7%94%D7%A2%D7%A8%D7%9B%D7%AA-%D7%9E%D7%A6%D7%91-%D7%A6%D7%94%D7%9C-%D7%91%D7%94%D7%AA%D7%A8%D7%A2%D7%94-%D7%97%D7%9E%D7%95%D7%A8%D7%94",
-          "source": "סרוגים"
+          "url": "https://www.idf.il/%D7%90%D7%AA%D7%A8%D7%99-%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA/%D7%99%D7%95%D7%9E%D7%9F-%D7%94%D7%9E%D7%9C%D7%97%D7%9E%D7%94/%D7%9B%D7%9C-%D7%94%D7%9B%D7%AA%D7%91%D7%95%D7%AA/%D7%94%D7%A4%D7%A6%D7%95%D7%AA/%D7%A1%D7%99%D7%9B%D7%95%D7%9D-%D7%93%D7%99%D7%95%D7%9F-%D7%90%D7%99%D7%95%D7%A9-2025/",
+          "source": "את\"צ"
         },
         {
-          "title": "דואר היום ליום שני, 11 אוגוסט 2025: תוכנית ההכרעה וההשתלטות",
+          "title": "כץ: לא אאשר קידומים בצבא כי הם לא תואמו איתי; צה\"ל: הרמטכ\"ל הוא שמחליט",
           "snippet": "",
-          "url": "https://www.zman.co.il/newsletter/2025-08-11/",
-          "source": "זמן ישראל"
+          "url": "https://www.haaretz.co.il/news/politics/2025-08-12/ty-article/.premium/00000198-9b50-d1fc-a3d8-fffc4aa20000",
+          "source": "הארץ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,14 +117,14 @@
       "title": "taylor swift",
       "trafficCount": "200+",
       "pubDate": "Mon, 11 Aug 2025 20:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQInEtP_gxBnhzd72UnHuruBRFxPTnH77lIqsH_vjsc0G_r_eE979_qPpwcKr4",
-      "pictureSource": "Fox News",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRG6zBSBupS4c57j9_zMq7v3MtHxnNnBIhtpXOeWM1tqoQEfRLLlg3QuieNj_4",
+      "pictureSource": "CNN",
       "relatedSearch": [
         {
-          "title": "Taylor Swift announces TS12 album 'The Life of a Showgirl' on Travis Kelce podcast",
+          "title": "Taylor Swift announces new album, ‘The Life of a Showgirl’",
           "snippet": "",
-          "url": "https://www.foxnews.com/entertainment/taylor-swift-makes-flirty-appearance-boyfriend-travis-kelces-podcast-preview",
-          "source": "Fox News"
+          "url": "https://www.cnn.com/2025/08/12/entertainment/taylor-swift-life-of-a-showgirl-album-hnk",
+          "source": "CNN"
         },
         {
           "title": "Hey, Taylor Swift—Why Orange?",
@@ -77,10 +133,10 @@
           "source": "Marie Claire"
         },
         {
-          "title": "Taylor Swift’s Team Teases New Music and Fans Are Losing It",
+          "title": "Taylor Swift announces TS12 album 'The Life of a Showgirl' on Travis Kelce podcast",
           "snippet": "",
-          "url": "https://parade.com/news/taylor-swifts-team-teases-new-music-and-fans-are-losing-it",
-          "source": "Parade Magazine"
+          "url": "https://www.foxnews.com/entertainment/taylor-swift-makes-flirty-appearance-boyfriend-travis-kelces-podcast-preview",
+          "source": "Fox News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,9 +145,15 @@
       "title": "weather",
       "trafficCount": "200+",
       "pubDate": "Mon, 11 Aug 2025 20:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZOMM_Q1d2DsY_iqPIWxyh_vtSSPrNYo1uni9qX2ZkRtqufv7mlYYZA4dM4wQ",
-      "pictureSource": "News 9",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTS8lEq5S-HncrrPa1Nv6n_yznaC8qSoOWa88wec6IKnwfy_R3095Dfh2eDVa4",
+      "pictureSource": "WINK News",
       "relatedSearch": [
+        {
+          "title": "Sanibel Island community watches weather closely as storm season peaks",
+          "snippet": "",
+          "url": "https://www.winknews.com/news/lee/sanibel-island-community-watches-weather-closely-as-storm-season-peaks/article_77fb6f87-42f7-4d65-b497-4d80ec8e4c21.html",
+          "source": "WINK News"
+        },
         {
           "title": "Historic Jim Norick Arena roof implosion set for Tuesday",
           "snippet": "",
@@ -103,12 +165,6 @@
           "snippet": "",
           "url": "https://kvia.com/news/2025/08/11/okc-to-bid-farewell-to-historic-jim-norick-arena-with-roof-implosion/",
           "source": "KVIA"
-        },
-        {
-          "title": "OKC to bid farewell to historic Jim Norick Arena with roof implosion",
-          "snippet": "",
-          "url": "https://ca.news.yahoo.com/okc-bid-farewell-historic-jim-223611456.html",
-          "source": "Yahoo News Canada"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -198,15 +254,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "walla",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 11 Aug 2025 14:50:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "gpt",
       "trafficCount": "100+",
       "pubDate": "Mon, 11 Aug 2025 14:30:00 -0700",
@@ -230,34 +277,6 @@
           "snippet": "",
           "url": "https://techcrunch.com/2025/08/08/sam-altman-addresses-bumpy-gpt-5-rollout-bringing-4o-back-and-the-chart-crime/",
           "source": "TechCrunch"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "מותק בול באמצע",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 11 Aug 2025 12:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7C0CVv5Tnl7XUgeL1VwyieQuW11OgQ3UEJDaLEqFry0CeKONFkosPD0LTjSk",
-      "pictureSource": "ynet",
-      "relatedSearch": [
-        {
-          "title": "המציאות שלנו יותר הזויה מכל סאטירה - ועדיין \"מותק בול באמצע\" עושה את זה נכון",
-          "snippet": "",
-          "url": "https://www.ynet.co.il/entertainment/article/b1gtfbv00ll",
-          "source": "ynet"
-        },
-        {
-          "title": "הפוליטיקה הישראלית על סטרואידים: \"מותק\" קולעת בול למציאות",
-          "snippet": "",
-          "url": "https://www.israelhayom.co.il/culture/tv/article/18605682",
-          "source": "ישראל היום"
-        },
-        {
-          "title": "דווקא \"מותק בול באמצע\" הייתה זקוקה לדיקטטור",
-          "snippet": "",
-          "url": "https://www.mako.co.il/tvbee-tv-review/Article-94ce16e159f6891026.htm",
-          "source": "Mako"
         }
       ],
       "link": "https://imtaqin.id/"

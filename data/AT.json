@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-12 15:48:05",
+  "lastUpdate": "2025-08-12 15:57:34",
   "data": [
     {
       "title": "tankstelle",
@@ -31,7 +31,7 @@
     },
     {
       "title": "real madrid wsg tirol",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 12 Aug 2025 08:30:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8yEnmeuL8p5ommu1FpDtBcsyAaaLelk-a1fKY_Ehj5xtvzXst2Msta_l9uOE",
       "pictureSource": "tirol.ORF.at",
@@ -59,22 +59,22 @@
     },
     {
       "title": "grasshoppers – bayern",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Tue, 12 Aug 2025 08:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGqywn4tY2o1EMpRSWpOxckG52LUKhID25U2A3tkKr29qsQ1mYu66dHYqpEGs",
-      "pictureSource": "FC Bayern Munich",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdlsVxq0rCT8OaOMTdU9_iiErNEYjKP53hFPgKzvcdwbRLXxZFKMJyV34JoWo",
+      "pictureSource": "SPORT1",
       "relatedSearch": [
-        {
-          "title": "Vorbericht Testspiel: Grasshoppers Zürich",
-          "snippet": "",
-          "url": "https://fcbayern.com/de/spiele/profis/friendly/2025-2026/testspiel-grasshopper-club-zuerich-fc-bayern-12-08-25/vorbericht",
-          "source": "FC Bayern Munich"
-        },
         {
           "title": "Grasshoppers Zürich vs. FC Bayern heute LIVE im TV, Stream & Ticker",
           "snippet": "",
           "url": "https://www.sport1.de/news/fussball/2025/08/grasshoppers-zurich-vs-fc-bayern-heute-live-im-tv-stream-ticker",
           "source": "SPORT1"
+        },
+        {
+          "title": "Vorbericht Testspiel: Grasshoppers Zürich",
+          "snippet": "",
+          "url": "https://fcbayern.com/de/spiele/profis/friendly/2025-2026/testspiel-grasshopper-club-zuerich-fc-bayern-12-08-25/vorbericht",
+          "source": "FC Bayern Munich"
         },
         {
           "title": "FC Bayern: Testspiel bei den Grasshoppers Zürich heute im Live-Ticker",
@@ -99,16 +99,16 @@
           "source": "Diario AS"
         },
         {
+          "title": "El inicio ‘poco amistoso’ de Xabi Alonso en el Real Madrid",
+          "snippet": "",
+          "url": "https://elpais.com/deportes/futbol/2025-08-12/el-inicio-poco-amistoso-de-xabi-alonso-en-el-real-madrid.html",
+          "source": "EL PAÍS"
+        },
+        {
           "title": "Convocatoria del Real Madrid contra el WSG Tirol",
           "snippet": "",
           "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/convocatorias/convocatoria-del-real-madrid-contra-el-wsg-tirol-11-08-2025",
           "source": "Real Madrid"
-        },
-        {
-          "title": "Último ensayo para el Madrid... y primer problema",
-          "snippet": "",
-          "url": "https://www.marca.com/futbol/real-madrid/2025/08/12/ultimo-ensayo-madrid-primer-problema.html",
-          "source": "MARCA"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,20 +145,20 @@
       "title": "ukraine krieg",
       "trafficCount": "200+",
       "pubDate": "Tue, 12 Aug 2025 06:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwlOYfWdKlXmk3EBtY08nuKPB5QzBq4KrAmGmLLrEyyTqplMxgz8lA-6Bws0A",
-      "pictureSource": "DiePresse.com",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlvLcTHdCIYjQOl0eujEXYguujXNkVmr0FJm-dFplD4UaAUyBJo4XnFKVBDnA",
+      "pictureSource": "tagesschau.de",
       "relatedSearch": [
-        {
-          "title": "Orbán will Gipfel mit Putin und isoliert Ungarn erneut innerhalb der EU",
-          "snippet": "",
-          "url": "https://www.diepresse.com/19991345/orban-will-gipfel-mit-putin-und-isoliert-ungarn-erneut-innerhalb-der-eu",
-          "source": "DiePresse.com"
-        },
         {
           "title": "Ungarn boykottiert Erklärung der EU-Staaten zum Ukraine-Krieg",
           "snippet": "",
           "url": "https://www.tagesschau.de/ausland/europa/eu-ukraine-142.html",
           "source": "tagesschau.de"
+        },
+        {
+          "title": "Orbán will Gipfel mit Putin und isoliert Ungarn erneut innerhalb der EU",
+          "snippet": "",
+          "url": "https://www.diepresse.com/19991345/orban-will-gipfel-mit-putin-und-isoliert-ungarn-erneut-innerhalb-der-eu",
+          "source": "DiePresse.com"
         },
         {
           "title": "Ukraine News: Russland setzt „Schläferdrohnen“ ein und Drohnen zur Minenverlegung ein - Politik - SZ.de",

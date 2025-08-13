@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-08-13 07:15:41",
+  "lastUpdate": "2025-08-13 07:34:02",
   "data": [
-    {
-      "title": "kermis rosmalen",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 12 Aug 2025 23:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI5yDSDwMklBsuXsdThXzBi4zeQljw8-2tjeZac4X0dHnvn-nK7jeJDdPFP2o",
-      "pictureSource": "Brabants Dagblad",
-      "relatedSearch": [
-        {
-          "title": "Massale vechtpartij tussen groepen jongeren op kermis Rosmalen: ‘Zeker tien arrestaties’",
-          "snippet": "",
-          "url": "https://www.bd.nl/den-bosch/massale-vechtpartij-tussen-groepen-jongeren-op-kermis-rosmalen-zeker-tien-arrestaties~a0490bc3/",
-          "source": "Brabants Dagblad"
-        },
-        {
-          "title": "Vechtpartij tussen jongeren op de kermis, twee mensen opgepakt",
-          "snippet": "",
-          "url": "https://www.omroepbrabant.nl/nieuws/4734446/vechtpartij-tussen-jongeren-op-de-kermis-twee-mensen-opgepakt",
-          "source": "Omroep Brabant"
-        },
-        {
-          "title": "Grote vechtpartij op kermis in Rosmalen, twee aanhoudingen",
-          "snippet": "",
-          "url": "https://www.hartvannederland.nl/112/crime/videos/grote-vechtpartij-op-kermis-in-rosmalen-twee-aanhoudingen",
-          "source": "Hart van Nederland"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "camping de paal",
       "trafficCount": "100+",
@@ -53,6 +25,34 @@
           "snippet": "",
           "url": "https://www.ad.nl/bergeijk/kinderen-ouder-dan-elf-niet-welkom-bij-animatie-en-zwembad-camping-de-paal-geen-nieuw-beleid-wel-duidelijker-benadrukt~ad51c9b5/",
           "source": "AD.nl"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "kermis rosmalen",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 12 Aug 2025 23:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI5yDSDwMklBsuXsdThXzBi4zeQljw8-2tjeZac4X0dHnvn-nK7jeJDdPFP2o",
+      "pictureSource": "Brabants Dagblad",
+      "relatedSearch": [
+        {
+          "title": "Massale vechtpartij tussen groepen jongeren op kermis Rosmalen: ‘Zeker tien arrestaties’",
+          "snippet": "",
+          "url": "https://www.bd.nl/den-bosch/massale-vechtpartij-tussen-groepen-jongeren-op-kermis-rosmalen-zeker-tien-arrestaties~a0490bc3/",
+          "source": "Brabants Dagblad"
+        },
+        {
+          "title": "Vechtpartij tussen jongeren op de kermis, twee mensen opgepakt",
+          "snippet": "",
+          "url": "https://www.omroepbrabant.nl/nieuws/4734446/vechtpartij-tussen-jongeren-op-de-kermis-twee-mensen-opgepakt",
+          "source": "Omroep Brabant"
+        },
+        {
+          "title": "Grote vechtpartij op kermis in Rosmalen, twee aanhoudingen",
+          "snippet": "",
+          "url": "https://www.hartvannederland.nl/112/crime/videos/grote-vechtpartij-op-kermis-in-rosmalen-twee-aanhoudingen",
+          "source": "Hart van Nederland"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -105,10 +105,10 @@
           "source": "NU"
         },
         {
-          "title": "Teruggeroepen kazen mogelijk oorzaak voedselinfecties Frankrijk, twee mensen overleden",
+          "title": "Twee doden in Frankrijk door kaas besmet met Listeria-bacterie",
           "snippet": "",
-          "url": "https://www.ad.nl/buitenland/teruggeroepen-kazen-mogelijk-oorzaak-voedselinfecties-frankrijk-twee-mensen-overleden~a3f0136f/",
-          "source": "AD.nl"
+          "url": "https://www.telegraaf.nl/buitenland/twee-doden-in-frankrijk-door-kaas-besmet-met-listeria-bacterie/83344824.html",
+          "source": "De Telegraaf"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +155,16 @@
           "source": "The Telegraph"
         },
         {
-          "title": "Tennis Player Emma Raducanu Stops Match Because of a Crying Child at Cincinnati Open",
-          "snippet": "",
-          "url": "https://people.com/tennis-player-emma-raducanu-stops-match-over-crying-child-at-cincinnati-open-11789923",
-          "source": "People.com"
-        },
-        {
           "title": "Emma Raducanu edged out by Aryna Sabalenka in Cincinnati Open classic",
           "snippet": "",
           "url": "https://www.bbc.com/sport/tennis/articles/cz600zzy6yno",
           "source": "BBC"
+        },
+        {
+          "title": "Tennis Player Emma Raducanu Stops Match Because of a Crying Child at Cincinnati Open",
+          "snippet": "",
+          "url": "https://people.com/tennis-player-emma-raducanu-stops-match-over-crying-child-at-cincinnati-open-11789923",
+          "source": "People.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -273,10 +273,10 @@
           "source": "The Guardian"
         },
         {
-          "title": "The thing Trump’s generals feared about him could now be arriving",
+          "title": "RESTORING LAW AND ORDER IN THE DISTRICT OF COLUMBIA",
           "snippet": "",
-          "url": "https://www.cnn.com/2025/08/12/politics/trump-generals-national-guard-analysis",
-          "source": "CNN"
+          "url": "https://www.whitehouse.gov/presidential-actions/2025/08/restoring-law-and-order-in-the-district-of-columbia/",
+          "source": "The White House (.gov)"
         }
       ],
       "link": "https://imtaqin.id/"

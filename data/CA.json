@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-08-13 10:52:21",
+  "lastUpdate": "2025-08-13 11:00:05",
   "data": [
+    {
+      "title": "nb fires",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 13 Aug 2025 03:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR958j3cr4PMlkWhu9r_C3QrP9FHQFFyQEXHhmQJCt1O_j6ze9cy5PqHorXCuI",
+      "pictureSource": "CBC",
+      "relatedSearch": [
+        {
+          "title": "Out-of-control wildfires burn on, with slight relief from heat expected Thursday",
+          "snippet": "",
+          "url": "https://www.cbc.ca/news/canada/new-brunswick/wildfire-heat-new-brunswick-1.7607564",
+          "source": "CBC"
+        },
+        {
+          "title": "New Brunswick wildfires: Irishtown residents on ‘pins and needles’ as blaze persists",
+          "snippet": "",
+          "url": "https://globalnews.ca/news/11331787/new-brunswick-wildfires-irishtown/",
+          "source": "Global News"
+        },
+        {
+          "title": "New Brunswick urges residents to plan for possible wildfire evacuations",
+          "snippet": "",
+          "url": "https://www.ctvnews.ca/atlantic/new-brunswick/article/new-brunswick-urges-residents-to-plan-for-possible-wildfire-evacuations/",
+          "source": "CTV News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "weather",
       "trafficCount": "10000+",
@@ -31,7 +59,7 @@
     },
     {
       "title": "météo",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Wed, 13 Aug 2025 03:40:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMfuKsRgoOS7HLvM5i_tuXmDgvLnPEyd_7b5DcIBSapCHR65O_Boc-6ebygo4",
       "pictureSource": "La République du Centre",
@@ -80,34 +108,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "meteo media",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 13 Aug 2025 03:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqyua93HeZHSCy7HvhMhVj-5tTfmouOHW8QqXUhUkIiZWwLTIpX6LNWgIA4cc",
-      "pictureSource": "MétéoMédia",
-      "relatedSearch": [
-        {
-          "title": "Orages violents mercredi : Montréal dans la mire",
-          "snippet": "",
-          "url": "https://www.meteomedia.com/fr/nouvelles/meteo/previsions/orages-violents-mercredi-montreal-dans-la-mire",
-          "source": "MétéoMédia"
-        },
-        {
-          "title": "Météo: un temps plus frais et sans doute des orages",
-          "snippet": "",
-          "url": "https://www.lequotidien.com/actualites/environnement/2025/08/13/meteo-un-temps-plus-frais-et-sans-doute-des-orages-PSWTCL5JQRG3HABV5ZVHHBKA54/",
-          "source": "Le Quotidien"
-        },
-        {
-          "title": "Un début de semaine actif pour ces secteurs",
-          "snippet": "",
-          "url": "https://www.meteomedia.com/fr/nouvelles/meteo/previsions/un-debut-de-semaine-actif-pour-ces-secteurs",
-          "source": "MétéoMédia"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "environnement canada",
       "trafficCount": "100+",
       "pubDate": "Wed, 13 Aug 2025 03:40:00 -0700",
@@ -137,22 +137,22 @@
     },
     {
       "title": "ottawa weather",
-      "trafficCount": "5000+",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 13 Aug 2025 03:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhbEt3-BMhI8ZGJygyCgYIhwuUe3lLTOPWosFm9hhVgFZDQeDo3zaQj6zpyC0",
-      "pictureSource": "CityNews Halifax",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPcA-xo8bUpF-6pTcw8485m8aAaG5fX0dEQBZR9OBO5zH6hrRLnF4mLX31JBo",
+      "pictureSource": "Toronto Star",
       "relatedSearch": [
-        {
-          "title": "Atlantic Canada sees more sweltering temperatures, relief expected in Ontario",
-          "snippet": "",
-          "url": "https://halifax.citynews.ca/2025/08/13/atlantic-canada-sees-more-sweltering-temperatures-relief-expected-in-ontario/",
-          "source": "CityNews Halifax"
-        },
         {
           "title": "Toronto’s multi-day heat warning to end this week with cooler temperatures and possible rain ahead",
           "snippet": "",
           "url": "https://www.thestar.com/news/gta/torontos-multi-day-heat-warning-to-end-this-week-with-cooler-temperatures-and-possible-rain/article_dc3a7617-f1ea-484a-bf9a-e5b5fd752c43.html",
           "source": "Toronto Star"
+        },
+        {
+          "title": "Atlantic Canada sees more sweltering temperatures, relief expected in Ontario",
+          "snippet": "",
+          "url": "https://halifax.citynews.ca/2025/08/13/atlantic-canada-sees-more-sweltering-temperatures-relief-expected-in-ontario/",
+          "source": "CityNews Halifax"
         },
         {
           "title": "Up to 60 mm of rain could fall in southern Ontario downpours",
@@ -165,7 +165,7 @@
     },
     {
       "title": "ttc",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 13 Aug 2025 03:30:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPy0bP6bdfz0avX15B7Mh_EQgbl9E6bxl32c1Fp224rn1fyuXjfPfTCgXoLVA",
       "pictureSource": "Toronto Star",

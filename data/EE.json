@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-15 23:15:54",
+  "lastUpdate": "2025-08-15 23:31:58",
   "data": [
     {
       "title": "bbc",
@@ -31,28 +31,56 @@
     },
     {
       "title": "cnn",
-      "trafficCount": "1000+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 15 Aug 2025 12:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxGxz_sOD3uE5SOBsguQwpr7X0fFWrdITZpP1oAXv3YNkDXKPuLNFPvaVK-E4",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdhuF-uHYhO0d8fdsMKgPs0p1-tEl4Kcfxb-vhDVz_tXwERYxpwV8w3i8ZTC0",
+      "pictureSource": "CNN",
       "relatedSearch": [
         {
-          "title": "Live updates: Trump meets Putin in Alaska for Ukraine talks",
+          "title": "Spanberger and Earle-Sears still at odds over when to debate in Virginia governor’s race",
           "snippet": "",
-          "url": "https://www.bbc.com/news/live/c2kzn1nw1d4t",
-          "source": "BBC"
+          "url": "https://www.cnn.com/2025/08/13/politics/cnn-debate-virginia-earle-sears-spanberger",
+          "source": "CNN"
         },
         {
-          "title": "Trump and Putin hold news conference after discussing war in Ukraine",
+          "title": "Virginia governor’s race highlights decline in candidate debates",
           "snippet": "",
-          "url": "https://www.cbc.ca/news/world/livestory/trump-and-putin-hold-news-conference-after-discussing-war-in-ukraine-9.6867437",
-          "source": "CBC"
+          "url": "https://www.29news.com/2025/08/14/virginia-governors-race-highlights-decline-candidate-debates/",
+          "source": "WVIR"
         },
+        {
+          "title": "In bellwether US state, candidates for governor at odds over debate",
+          "snippet": "",
+          "url": "https://www.aa.com.tr/en/middle-east/in-bellwether-us-state-candidates-for-governor-at-odds-over-debate/3660476",
+          "source": "Anadolu Ajansı"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "alaska",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 15 Aug 2025 11:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmlwbZq4DMrLZwFYYLi9O4WjYC4Wj49yyLSR6_V-mqeVUzEOr8qSa8ljIb8z4",
+      "pictureSource": "The New York Times",
+      "relatedSearch": [
         {
           "title": "Trump and Putin Meet at Alaska Summit to Discuss Russia-Ukraine War: Live Updates",
           "snippet": "",
           "url": "https://www.nytimes.com/live/2025/08/15/world/trump-putin-meeting-alaska",
           "source": "The New York Times"
+        },
+        {
+          "title": "Trump says Putin meeting was ‘productive,’ but ‘there’s no deal until there’s a deal’",
+          "snippet": "",
+          "url": "https://www.cbc.ca/news/world/livestory/trump-says-putin-meeting-was-productive-but-theres-no-deal-until-theres-a-deal-9.6867437",
+          "source": "CBC"
+        },
+        {
+          "title": "Trump says he 'won't be happy' if Putin does not agree to a ceasefire in Ukraine during Alaska summit",
+          "snippet": "",
+          "url": "https://www.foxnews.com/politics/trump-wont-happy-putin-does-not-agree-ceasefire-ukraine-during-alaska-summit",
+          "source": "Fox News"
         }
       ],
       "link": "https://imtaqin.id/"

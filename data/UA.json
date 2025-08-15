@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-08-15 07:12:23",
+  "lastUpdate": "2025-08-15 07:31:05",
   "data": [
     {
       "title": "порт оля",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 14 Aug 2025 23:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRj1nMVRwkKSdROvB0T4_V1dGZ_S2RXq0gNTsOGTawv2rCyZ6lhP0cS5F3c2vY",
       "pictureSource": "Українська правда",
@@ -86,9 +86,18 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "свято сьогодні",
-      "trafficCount": "2000+",
-      "pubDate": "Thu, 14 Aug 2025 21:20:00 -0700",
+      "title": "який сьогодні празник",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 14 Aug 2025 21:10:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "яке сьогодні свято",
+      "trafficCount": "5000+",
+      "pubDate": "Thu, 14 Aug 2025 21:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStokVi1zifEvhMCvseeIsUDESimNw6zw7q86xUoZ58Kwmt_HV3M5PoOVYOh9U",
       "pictureSource": "УНІАН",
       "relatedSearch": [
@@ -105,47 +114,10 @@
           "source": "Суспільне | Новини"
         },
         {
-          "title": "Успіння Пресвятої Богородиці: яскраві листівки, привітання у прозі та віршах",
+          "title": "Успіння Богородиці: красиві щиросердечні привітання з великим святом",
           "snippet": "",
-          "url": "https://glavcom.ua/country/society/uspinnja-presvjatoji-bohoroditsi-jaskravi-listivki-privitannja-u-prozi-ta-virshakh-1073439.html",
-          "source": "Главком"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "який сьогодні празник",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 14 Aug 2025 21:10:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "яке сьогодні свято",
-      "trafficCount": "5000+",
-      "pubDate": "Thu, 14 Aug 2025 21:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeYiT_W3WGzxJhwpEMRMnUWKndAS14F9Eqqdr62PtZ_M6OAvPubzojKE1HEIU",
-      "pictureSource": "ТСН",
-      "relatedSearch": [
-        {
-          "title": "Яке завтра, 16 серпня, свято — все про цей день, яке церковне свято, що не можна робити",
-          "snippet": "",
-          "url": "https://tsn.ua/other/iake-zavtra-16-serpnia-sviato-vse-pro-tsey-den-iake-tserkovne-sviato-shcho-ne-mozna-robyty-2877842.html",
-          "source": "ТСН"
-        },
-        {
-          "title": "Святкування Горіхового Спасу на Полтавщині: чого не можна робити у цей день",
-          "snippet": "",
-          "url": "https://suspilne.media/poltava/1090606-svatkuvanna-gorihovogo-spasu-na-poltavsini-cogo-ne-mozna-robiti-u-cej-den/",
-          "source": "Суспільне | Новини"
-        },
-        {
-          "title": "Цю обрядову страву обов'язково готують на Горіховий Спас: елементарний рецепт",
-          "snippet": "",
-          "url": "https://www.unian.ua/recipes/baking/unsweetened-pastries/vypechka-i-pechene-s-orehami-na-orehovyy-spas-chto-nuzhno-prigotovit-13096779.html",
-          "source": "УНІАН"
+          "url": "https://www.rbc.ua/rus/news/uspinnya-bogoroditsi-krasivi-shchiroserdechni-1755209906.html",
+          "source": "РБК-Україна"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -207,16 +179,44 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "яке сьогодні церковне свято",
+      "trafficCount": "2000+",
+      "pubDate": "Thu, 14 Aug 2025 20:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeYiT_W3WGzxJhwpEMRMnUWKndAS14F9Eqqdr62PtZ_M6OAvPubzojKE1HEIU",
+      "pictureSource": "ТСН",
+      "relatedSearch": [
+        {
+          "title": "Яке завтра, 16 серпня, свято — все про цей день, яке церковне свято, що не можна робити",
+          "snippet": "",
+          "url": "https://tsn.ua/other/iake-zavtra-16-serpnia-sviato-vse-pro-tsey-den-iake-tserkovne-sviato-shcho-ne-mozna-robyty-2877842.html",
+          "source": "ТСН"
+        },
+        {
+          "title": "Святкування Горіхового Спасу на Полтавщині: чого не можна робити у цей день",
+          "snippet": "",
+          "url": "https://suspilne.media/poltava/1090606-svatkuvanna-gorihovogo-spasu-na-poltavsini-cogo-ne-mozna-robiti-u-cej-den/",
+          "source": "Суспільне | Новини"
+        },
+        {
+          "title": "Цю обрядову страву обов'язково готують на Горіховий Спас: елементарний рецепт",
+          "snippet": "",
+          "url": "https://www.unian.ua/recipes/baking/unsweetened-pastries/vypechka-i-pechene-s-orehami-na-orehovyy-spas-chto-nuzhno-prigotovit-13096779.html",
+          "source": "УНІАН"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "успение пресвятой богородицы",
       "trafficCount": "1000+",
       "pubDate": "Thu, 14 Aug 2025 20:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6oLuPbQt1Kcl0fbBEOa5yLINRyOq6gSiiVKOwpkfgRmoo7PxldOUzj60140w",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8nUpsk3itBRwM4q9Pi8Lo3V3Ak9dEzyGe2phCKZOMgKjAZ1-8lpzQ68GWeYc",
       "pictureSource": "РБК-Україна",
       "relatedSearch": [
         {
-          "title": "Один из 12 важнейших праздников ПЦУ: чем особенный день Успения и как отметить его завтра",
+          "title": "\"Бой против зла\": ПЦУ раскрыла смысл праздника Успения для каждого украинца",
           "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/odne-12-nayvazhlivishih-svyat-ptsu-chim-osobliviy-1755161504.html",
+          "url": "https://www.rbc.ua/ukr/news/biy-proti-zla-ptsu-rozkrila-sens-svyata-uspinnya-1755241103.html",
           "source": "РБК-Україна"
         },
         {
@@ -226,9 +226,9 @@
           "source": "1+1"
         },
         {
-          "title": "Успение Пресвятой Богородицы: яркие открытки, поздравления в прозе и стихах",
+          "title": "15 августа: какой сегодня праздник, приметы и запреты",
           "snippet": "",
-          "url": "https://glavcom.ua/ru/news/uspenie-presvjatoj-bohoroditsy-jarkie-otkrytki-pozdravlenija-v-proze-i-stikhakh-1073497.html",
+          "url": "https://glavcom.ua/ru/news/15-avhusta-kakoj-sehodnja-prazdnik-primety-i-zaprety-1073454.html",
           "source": "Главком"
         }
       ],

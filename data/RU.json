@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-08-15 04:03:35",
+  "lastUpdate": "2025-08-15 04:38:46",
   "data": [
+    {
+      "title": "новости дня",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 14 Aug 2025 21:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRgYhiRcXJ0-MFHcHelLDwdAm4azr1duwf-Td1UBac3TfThVtizlupcUPq9JY",
+      "pictureSource": "UN News",
+      "relatedSearch": [
+        {
+          "title": "Главные новости дня | четверг: Украина, Газа, Афганистан, сексуальное насилие",
+          "snippet": "",
+          "url": "https://news.un.org/ru/story/2025/08/1466208",
+          "source": "UN News"
+        },
+        {
+          "title": "15 августа ожидаются следующие события – Челябинск",
+          "snippet": "",
+          "url": "https://newdaynews.ru/chelyabinsk/859174.html",
+          "source": "РИА Новый День"
+        },
+        {
+          "title": "События и мероприятия на 14 августа",
+          "snippet": "",
+          "url": "https://uralpress.ru/sobytiya-i-meropriyatiya-na-14-avgusta",
+          "source": "Урал-пресс-информ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "новости краснодар",
       "trafficCount": "100+",
@@ -15,16 +43,16 @@
           "source": "BFM Кубань"
         },
         {
-          "title": "Сбои в работе мобильного интернета: как приспосабливаются жители Кубани",
-          "snippet": "",
-          "url": "https://kuban24.tv/item/sboi-v-rabote-mobilnogo-interneta-kak-prisposablivayutsya-zhiteli-kubani",
-          "source": "Кубань 24"
-        },
-        {
           "title": "В Краснодаре снова много жалоб на отключение мобильного интернета. Власти уверяют, что снижают скорость до 2G",
           "snippet": "",
           "url": "https://www.yuga.ru/news/478865-v-krasnodare-snova-mnogo-zhalob-na-otklyuchenie-mobilnogo-interneta-vlasti-uveryayut-chto-snizhayut-skorost-do-2g/",
           "source": "Юга.ру"
+        },
+        {
+          "title": "Сбои в работе мобильного интернета: как приспосабливаются жители Кубани",
+          "snippet": "",
+          "url": "https://kuban24.tv/item/sboi-v-rabote-mobilnogo-interneta-kak-prisposablivayutsya-zhiteli-kubani",
+          "source": "Кубань 24"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -49,10 +77,10 @@
           "source": "Интерфакс"
         },
         {
-          "title": "Путин прилетел в Магадан перед встречей с президентом США на Аляске",
+          "title": "Путин перед Аляской посетил Магадан",
           "snippet": "",
-          "url": "https://www.vedomosti.ru/politics/news/2025/08/15/1131758-putin-priletel-v",
-          "source": "Ведомости"
+          "url": "https://m.business-gazeta.ru/news/680215",
+          "source": "БИЗНЕС Online — Новости Казани"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -80,23 +108,23 @@
           "source": "БИЗНЕС Online — Новости Казани"
         },
         {
-          "title": "Трамп пообещал Зеленскому не обсуждать вопрос территорий Украины на встрече с Путиным",
-          "snippet": "",
-          "url": "https://meduza.io/news/2025/08/14/tramp-poobeschal-zelenskomu-ne-obsuzhdat-vopros-territoriy-ukrainy-na-vstreche-s-putinym",
-          "source": "Meduza"
-        },
-        {
           "title": "Трамп полагает, что Путин в итоге пойдёт на соглашение по Украине",
           "snippet": "",
           "url": "https://www.svoboda.org/a/tramp-polagaet-chto-putin-v-itoge-poydyot-na-soglashenie-po-ukraine/33503261.html",
           "source": "Радио Свобода"
+        },
+        {
+          "title": "Трамп оценил шансы на успешные переговоры с Путиным",
+          "snippet": "",
+          "url": "https://www.vedomosti.ru/politics/articles/2025/08/14/1131677-tramp-otsenil-shansi",
+          "source": "Ведомости"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "сызрань",
-      "trafficCount": "500+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 14 Aug 2025 19:30:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfI1D1swb6ZqtnfdY9WB1tNA2lbu6XTi4C9bscWwLuo3wOKNLhdzJPFg9LL5g",
       "pictureSource": "Взгляд-инфо",
@@ -142,10 +170,10 @@
           "source": "Финансы Mail"
         },
         {
-          "title": "Банк России незначительно повысил курс доллара на 15 августа",
+          "title": "Официальные курсы доллара США и евро к рублю РФ, действующие в России с 15 августа",
           "snippet": "",
-          "url": "https://www.vedomosti.ru/finance/news/2025/08/14/1131675-bank-povisil-kurs",
-          "source": "Ведомости"
+          "url": "https://lug-info.ru/news/oficialnye-kursy-dollara-ssha-i-evro-k-rublju-rf-dejstvujuschie-v-rossii-s-15-7/",
+          "source": "Луганский Информационный Центр"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,34 +239,6 @@
           "snippet": "",
           "url": "https://astv.ru/news/society/2025-08-14-socseti-nazvana-predvaritel-naya-prichina-krusheniya-an-24-v-tynde",
           "source": "Astv.ru"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "задержка рейсов в аэропорту сочи сегодня",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 14 Aug 2025 18:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJ9XApvjcFcf_a1ywzONjmSzZ-sZftKNEUG5J1TGP3Slym73i34pXxusJv26U",
-      "pictureSource": "Администрация города Сочи -",
-      "relatedSearch": [
-        {
-          "title": "В Сочи продолжается обследование и организация укрытий в многоквартирных домах",
-          "snippet": "",
-          "url": "https://sochi.ru/press-sluzhba/novosti/66/285149/",
-          "source": "Администрация города Сочи -"
-        },
-        {
-          "title": "В аэропортах снова массовые задержки рейсов",
-          "snippet": "",
-          "url": "https://www.bfm.ru/news/580766",
-          "source": "BFM.ru"
-        },
-        {
-          "title": "В аэропорту Сочи утром 14 августа на вылет и прилет задерживаются 13 рейсов",
-          "snippet": "",
-          "url": "https://kuban24.tv/item/v-aeroportu-sochi-utrom-14-avgusta-na-vylet-i-prilet-zaderzhivayutsya-13-rejsov",
-          "source": "Кубань 24"
         }
       ],
       "link": "https://imtaqin.id/"

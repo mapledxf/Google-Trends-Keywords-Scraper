@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-15 07:50:38",
+  "lastUpdate": "2025-08-15 07:58:15",
   "data": [
     {
       "title": "nobody movie",
@@ -61,20 +61,20 @@
       "title": "pl",
       "trafficCount": "100+",
       "pubDate": "Thu, 14 Aug 2025 22:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMs9he-MBQtwk07HugpP7rTym9RCiYm8owC9yVxYTgr0fqN2S1KifY6tKRGyo",
-      "pictureSource": "Infor.pl",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyNJAix9JR3zZoMCw7IZf91mBI8W-vLawdHz7t_jS125dBAt_vqLpImKzgCtE",
+      "pictureSource": "PIT.pl",
       "relatedSearch": [
+        {
+          "title": "Święto 15 sierpnia. Czy w tym roku dostaniemy dodatkowy wolny dzień od pracy?",
+          "snippet": "",
+          "url": "https://www.pit.pl/aktualnosci/swieto-15-sierpnia-czy-w-tym-roku-dostaniemy-dodatkowy-wolny-dzien-od-pracy-1011542",
+          "source": "PIT.pl"
+        },
         {
           "title": "Zakupy w długi weekend: co z piątkiem 15.08.2025 i niedzielą 17.08.2025 – otwarty Lidl, Biedronka i galerie handlowe czy tylko Żabka",
           "snippet": "",
           "url": "https://www.infor.pl/twoje-pieniadze/zakupy/7026326,czy-tylko-zabka-gdzie-zrobisz-zakupy-w-piatek-15082025-i-pozostale-dni-dlugiego-weekendu.html",
           "source": "Infor.pl"
-        },
-        {
-          "title": "15 sierpnia – jeden dzień, dwa święta!",
-          "snippet": "",
-          "url": "https://nikidw.edu.pl/15-sierpnia-jeden-dzien-dwa-swieta/",
-          "source": "NIKiDW"
         },
         {
           "title": "Dwa ważne święta jednego dnia. Czy sklepy w Olsztynie będą otwarte?",
@@ -117,9 +117,15 @@
       "title": "azad kashmir",
       "trafficCount": "500+",
       "pubDate": "Thu, 14 Aug 2025 21:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCHWiVCmWjmcmccTVF9qUL2YWqiped2slsGmENrHzjiBSP-6IhRHn3fBLgV00",
-      "pictureSource": "Geo.tv",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR4Ci2BMms1KXkrQwwwMKDybJ0Ojq3x26PjpR-VkyC1k6bnRKDGApZc6TNRj5Y",
+      "pictureSource": "Dawn",
       "relatedSearch": [
+        {
+          "title": "Two killed, 6 feared dead in Muzaffarabad as flooding wreaks havoc across AJK",
+          "snippet": "",
+          "url": "https://www.dawn.com/news/1930883/two-killed-6-feared-dead-in-muzaffarabad-as-flooding-wreaks-havoc-across-ajk",
+          "source": "Dawn"
+        },
         {
           "title": "At least 25 killed as floods, landslides wreak havoc in northern areas, KP's Bajaur",
           "snippet": "",
@@ -131,12 +137,6 @@
           "snippet": "",
           "url": "https://tribune.com.pk/story/2561239/thousands-marooned-in-g-b-as-floods-halt-kkh-repairs-1",
           "source": "The Express Tribune"
-        },
-        {
-          "title": "10 killed as cloudbursts, torrential rains wreak havoc in GB, Kashmir",
-          "snippet": "",
-          "url": "https://www.brecorder.com/news/40377915",
-          "source": "Business Recorder"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -204,20 +204,20 @@
       "title": "nbp",
       "trafficCount": "100+",
       "pubDate": "Thu, 14 Aug 2025 21:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGwrOxLYQUagKgq54_-jD1Eoni9oIvyuOkXlS5MiY-nppj3dL1EH10zT0XlKY",
-      "pictureSource": "Gazeta Prawna",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2PaTjdve_xMTtDxTmpEOJA2DbZLxoktiKffipKubVWx741aV9dA3AkT8mIdw",
+      "pictureSource": "Business Insider Polska",
       "relatedSearch": [
-        {
-          "title": "Polska z ujemnym bilansem handlowym. Import rośnie, eksport spada",
-          "snippet": "",
-          "url": "https://biznes.gazetaprawna.pl/artykuly/9862459,coraz-wiecej-kupujemy-za-granica-a-coraz-mniej-sprzedajemy-per-saldo.html",
-          "source": "Gazeta Prawna"
-        },
         {
           "title": "Kapitał już nie odpływa z Polski. Wszystko dzięki spadkowi cen ropy",
           "snippet": "",
           "url": "https://businessinsider.com.pl/gospodarka/bilans-handlowy-w-koncu-na-plusie-kapital-juz-nie-odplywa-z-polski/1jp58xl",
           "source": "Business Insider Polska"
+        },
+        {
+          "title": "Polska z ujemnym bilansem handlowym. Import rośnie, eksport spada",
+          "snippet": "",
+          "url": "https://biznes.gazetaprawna.pl/artykuly/9862459,coraz-wiecej-kupujemy-za-granica-a-coraz-mniej-sprzedajemy-per-saldo.html",
+          "source": "Gazeta Prawna"
         },
         {
           "title": "NBP zaskoczył danymi ws. polskiej gospodarki. Eksport przewyższył import",

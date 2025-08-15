@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-08-15 20:23:38",
+  "lastUpdate": "2025-08-15 20:39:42",
   "data": [
     {
       "title": "bbc",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 15 Aug 2025 12:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBNKmujboL0m7jVO8qrbc_FQT_o31UaZck7WVpKujc5sEhMMYSoOm4HvUz2TU",
       "pictureSource": "BBC",
@@ -33,20 +33,20 @@
       "title": "cnn",
       "trafficCount": "500+",
       "pubDate": "Fri, 15 Aug 2025 12:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLvPCe3D6OuH4488lKD2HRTQPQx4kEIs8ybFc7_PsVh111OSz4tjs38f3e_zE",
-      "pictureSource": "CNN",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGOidolE1IvaNC54SA5YkrBBBO4faJtXwAkikRart850Z8GakrAk1xgSdJ53I",
+      "pictureSource": "Fox News",
       "relatedSearch": [
-        {
-          "title": "Trump and Putin meet in Alaska at start of high-stakes summit",
-          "snippet": "",
-          "url": "https://www.cnn.com/politics/live-news/trump-putin-meeting-news-08-15-25",
-          "source": "CNN"
-        },
         {
           "title": "Trump-Putin meeting starts, what we know so far",
           "snippet": "",
           "url": "https://www.foxnews.com/world/trump-putin-meeting-starts-what-we-know-so-far",
           "source": "Fox News"
+        },
+        {
+          "title": "Trump greets Putin in Alaska for Russia-Ukraine talks",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/15/trump-greets-putin-in-alaska-for-russia-ukraine-talks",
+          "source": "Al Jazeera"
         },
         {
           "title": "Trump: ‘I’m not here to negotiate for Ukraine’",

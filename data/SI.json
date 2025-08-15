@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-15 20:23:58",
+  "lastUpdate": "2025-08-15 20:40:10",
   "data": [
     {
       "title": "liverpool",
@@ -42,20 +42,20 @@
       "title": "cnn",
       "trafficCount": "100+",
       "pubDate": "Fri, 15 Aug 2025 12:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLvPCe3D6OuH4488lKD2HRTQPQx4kEIs8ybFc7_PsVh111OSz4tjs38f3e_zE",
-      "pictureSource": "CNN",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGOidolE1IvaNC54SA5YkrBBBO4faJtXwAkikRart850Z8GakrAk1xgSdJ53I",
+      "pictureSource": "Fox News",
       "relatedSearch": [
-        {
-          "title": "Trump and Putin meet in Alaska at start of high-stakes summit",
-          "snippet": "",
-          "url": "https://www.cnn.com/politics/live-news/trump-putin-meeting-news-08-15-25",
-          "source": "CNN"
-        },
         {
           "title": "Trump-Putin meeting starts, what we know so far",
           "snippet": "",
           "url": "https://www.foxnews.com/world/trump-putin-meeting-starts-what-we-know-so-far",
           "source": "Fox News"
+        },
+        {
+          "title": "Trump greets Putin in Alaska for Russia-Ukraine talks",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/15/trump-greets-putin-in-alaska-for-russia-ukraine-talks",
+          "source": "Al Jazeera"
         },
         {
           "title": "Trump: ‘I’m not here to negotiate for Ukraine’",
@@ -95,10 +95,38 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "radomlje – primorje",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 15 Aug 2025 11:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSaXHHTos8xqkHtSX12WkE6EEpHeUPzRr5OayzGVwpn8775UtcgybNuA_RiVcc",
+      "pictureSource": "rtvslo.si",
+      "relatedSearch": [
+        {
+          "title": "Kalcer Radomlje - Primorje 0:0",
+          "snippet": "",
+          "url": "https://www.rtvslo.si/sport/nogomet/prva-liga/kalcer-radomlje-primorje-0-0/754795",
+          "source": "rtvslo.si"
+        },
+        {
+          "title": "Pred tekmo: Olimpija - Koper",
+          "snippet": "",
+          "url": "https://www.nzs.si/novica/Pred_tekmo_Olimpija_-_Koper?id=61557&id_landing=&id_objekta=3",
+          "source": "www.nzs.si"
+        },
+        {
+          "title": "PLT: Koper k utrujeni Olimpiji, Maribor gosti Bravo",
+          "snippet": "",
+          "url": "https://sportklub.n1info.si/nogomet/prva-liga-telemach-peti-krog-25-26-v-zivo/",
+          "source": "N1 Slovenija"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "liverpool – bournemouth",
       "trafficCount": "1000+",
       "pubDate": "Fri, 15 Aug 2025 11:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8H8JH06B8aZj55eaxIY5SLd10i3__-WIY1cJf2y04Ed3xMkse7ehNMrs54x4",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqH9Os_VhnQ5sUXTpO4AT73U7wmabyVecm7gWy1yDH2e5BbASViuAdk41S3vg",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
@@ -136,10 +164,10 @@
           "source": "Srpskainfo"
         },
         {
-          "title": "Drugi tim Zvezde i Katai prejaki za superligaše",
+          "title": "Deca šutirala, čika Stameni držao čas, ali profesor je - Katai",
           "snippet": "",
-          "url": "https://meridiansport.rs/fudbal/superliga-srbije-domaci-fudbal/drugi-tim-zvezde-i-katai-prejaki-za-superligase/",
-          "source": "Meridian Sport Srbija"
+          "url": "https://www.mozzartsport.com/fudbal/vesti/deca-sutirala-cika-stameni-drzao-cas-ali-profesor-je-katai/520576",
+          "source": "Mozzart Sport"
         },
         {
           "title": "Vladan Milojević kratko pričao o Pafosu, a onda izustio jednu reč: \"Samo ću reći Magiko i ništa više...\"",
@@ -164,15 +192,15 @@
           "source": "Maribor24.si"
         },
         {
-          "title": "Minister Sajovic: 'EU je obrambno 70-odstotno samozadostna, mi pa 10'",
-          "snippet": "",
-          "url": "https://si.bloombergadria.com/intervju/novice/85250/intervju-z-ministrom-sajovicem/news",
-          "source": "Bloomberg Adria"
-        },
-        {
           "title": "(REKLI SO) Leon Magdalenc: Boljše sodobna kalašnikovka kot polica s knjigami?",
           "snippet": "",
           "url": "https://vecer.com/pogledi/rekli-so-leon-magdalenc-boljse-sodobna-kalasnikovka-kot-polica-s-knjigami-10389747",
+          "source": "Večer.com"
+        },
+        {
+          "title": "(ANALIZA) Nas mora ustanavljanje obrambnega holdinga skrbeti? Kaj bi lahko proizvajala slovenska obrambna industrija",
+          "snippet": "",
+          "url": "https://vecer.com/v-soboto/analiza-nas-mora-ustanavljanje-obrambnega-holdinga-skrbeti-kaj-bi-lahko-proizvajala-slovenska-obrambna-industrija-10389560",
           "source": "Večer.com"
         }
       ],

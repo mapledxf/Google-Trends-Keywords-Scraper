@@ -1,6 +1,62 @@
 {
-  "lastUpdate": "2025-08-16 08:20:02",
+  "lastUpdate": "2025-08-16 08:41:24",
   "data": [
+    {
+      "title": "погода минск",
+      "trafficCount": "2000+",
+      "pubDate": "Sat, 16 Aug 2025 01:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS09A4HpVMeGIaG2YBc4l-hNHIBhdL61PR1J6HJysXkB7kzLkX0VZ7jxq5xTic",
+      "pictureSource": "Myfin.by",
+      "relatedSearch": [
+        {
+          "title": "Грозы и оранжевый уровень из-за жары: белорусам рассказали о погоде в субботу",
+          "snippet": "",
+          "url": "https://myfin.by/article/zhizn/grozy-i-oranzevyj-uroven-iz-za-zary-belorusam-rasskazali-o-pogode-v-subbotu-39637",
+          "source": "Myfin.by"
+        },
+        {
+          "title": "В субботу до +33, потом резко похолодает. Но не везде",
+          "snippet": "",
+          "url": "https://people.onliner.by/2025/08/15/do-33-potom-poxolodaet",
+          "source": "Onlíner"
+        },
+        {
+          "title": "В Беларуси 16 августа ожидается контрастная погода: жара и дожди с грозами",
+          "snippet": "",
+          "url": "https://www.gismeteo.by/news/klimat/v-belarusi-16-avgusta-ozhidaetsya-kontrastnaya-pogoda-zhara-i-dozhdi-s-grozami/",
+          "source": "Gismeteo"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "брест",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 16 Aug 2025 00:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXCv4teNcRDQesXCA2YQ1Wx_PGeQg9h0_Oe-peKLTOHfwexy-Gkvkdpi_DzfY",
+      "pictureSource": "БелТА",
+      "relatedSearch": [
+        {
+          "title": "Брестские спасатели ликвидировали пожар в административном здании",
+          "snippet": "",
+          "url": "https://belta.by/incident/view/brestskie-spasateli-likvidirovali-pozhar-v-administrativnom-zdanii-732093-2025/",
+          "source": "БелТА"
+        },
+        {
+          "title": "Cпасатели ликвидировали пожар в административном здании в Бресте на улице Красногвардейской",
+          "snippet": "",
+          "url": "https://virtualbrest.ru/pda/news.php?pdaid=161689",
+          "source": "Виртуальный Брест"
+        },
+        {
+          "title": "Пожар в здании на Красногвардейской в Бресте. Что известно",
+          "snippet": "",
+          "url": "https://brestcity.com/blog/pozhar-v-zdanii",
+          "source": "БрестСИТИ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "маргарита симоньян",
       "trafficCount": "100+",
@@ -89,7 +145,7 @@
       "title": "конор макгрегор",
       "trafficCount": "200+",
       "pubDate": "Fri, 15 Aug 2025 21:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ1xac0qCHpf_rBuqDrHd1W4XIaTA-dPsuTqw197dDaqR13KbU4uvIlYDwOfM4",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSNQ-xrvf19QCobehfVrQp0brHrjJ00IQqngrEVj9FWABoUQJOknJD4hDQ5k4",
       "pictureSource": "Valetudo.ru",
       "relatedSearch": [
         {
@@ -142,6 +198,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "новости беларуси",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 15 Aug 2025 20:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRddHQFjPud9742QtZAhq7FdMXqhIenLKsTaB0eQTuuTrrwUuY_BCfD5lNS5sw",
+      "pictureSource": "БелТА",
+      "relatedSearch": [
+        {
+          "title": "Кто инициировал разговор Лукашенко и Трампа? Рыбаков раскрыл подробности беседы",
+          "snippet": "",
+          "url": "https://belta.by/politics/view/kto-initsiiroval-razgovor-lukashenko-i-trampa-rybakov-raskryl-podrobnosti-besedy-732214-2025/",
+          "source": "БелТА"
+        },
+        {
+          "title": "Состоялся телефонный разговор Александра Лукашенко и Дональда Трампа",
+          "snippet": "",
+          "url": "https://www.sb.by/articles/sostoyalsya-telefonnyy-razgovor-aleksandra-lukashenko-i-donalda-trampa.html",
+          "source": "Беларусь сегодня"
+        },
+        {
+          "title": "Тихановская о разговоре Трампа и Лукашенко: Мы теперь ожидаем, что Лукашенко прекратит репрессии",
+          "snippet": "",
+          "url": "https://ru.belsat.eu/88350680/tihanovskaya-o-razgovore-trampa-i-lukashenko-my-teper-ozhidaem-chto-lukashenko-prekratit-repressii",
+          "source": "Белсат"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "очередь на границе брест",
       "trafficCount": "100+",
       "pubDate": "Fri, 15 Aug 2025 19:50:00 -0700",
@@ -171,112 +255,28 @@
     },
     {
       "title": "новости мира",
-      "trafficCount": "1000+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 15 Aug 2025 18:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRddHQFjPud9742QtZAhq7FdMXqhIenLKsTaB0eQTuuTrrwUuY_BCfD5lNS5sw",
-      "pictureSource": "БелТА",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl5WeyfcujuaHpF6d9Q0b-yd-eI0TD9a_JymG_W1JnnBWk00U2vzurioA3bcQ",
+      "pictureSource": "Ореанда-Новости",
       "relatedSearch": [
         {
-          "title": "Кто инициировал разговор Лукашенко и Трампа? Рыбаков раскрыл подробности беседы",
+          "title": "Russia named the purpose of the meeting between Putin and Trump",
           "snippet": "",
-          "url": "https://belta.by/politics/view/kto-initsiiroval-razgovor-lukashenko-i-trampa-rybakov-raskryl-podrobnosti-besedy-732214-2025/",
-          "source": "БелТА"
+          "url": "https://www.oreanda-news.com/en/gosudarstvo/russia-named-the-purpose-of-the-meeting-between-putin-and-trump/article1569100/",
+          "source": "Ореанда-Новости"
         },
         {
-          "title": "Лукашенко и Трамп провели телефонный разговор",
+          "title": "Lavrov joked in response to a question about mandraj before the summit with the United States",
           "snippet": "",
-          "url": "https://people.onliner.by/2025/08/15/lukashenko-i-tramp",
-          "source": "Onlíner"
+          "url": "https://www.oreanda-news.com/en/gosudarstvo/lavrov-joked-in-response-to-a-question-about-mandraj-before-the-summit-with-the-/article1569101/",
+          "source": "Ореанда-Новости"
         },
         {
-          "title": "Состоялся телефонный разговор Александра Лукашенко и Дональда Трампа",
+          "title": "Lavrov, Ushakov, Belousov, Siluanov and Dmitriev will travel to Alaska with Putin",
           "snippet": "",
-          "url": "https://www.sb.by/articles/sostoyalsya-telefonnyy-razgovor-aleksandra-lukashenko-i-donalda-trampa.html",
-          "source": "Беларусь сегодня"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ушаков",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 15 Aug 2025 13:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-Hcr71wVCba83DORdVd-BoMo4uilYNZrsgHxiCT0IQmyq8PEGjFxtqORSHQw",
-      "pictureSource": "БелТА",
-      "relatedSearch": [
-        {
-          "title": "Ушаков пока не знает, когда состоится следующая встреча Путина и Трампа",
-          "snippet": "",
-          "url": "https://belta.by/world/view/ushakov-poka-ne-znaet-kogda-sostoitsja-sledujuschaja-vstrecha-putina-i-trampa-732289-2025/",
-          "source": "БелТА"
-        },
-        {
-          "title": "В Киеве прокомментировали встречу Трампа и Путина на Аляске",
-          "snippet": "",
-          "url": "https://eadaily.com/ru/news/2025/08/16/v-kieve-prokommentirovali-vstrechu-trampa-i-putina-na-alyaske",
-          "source": "EADaily"
-        },
-        {
-          "title": "Стало известно, почему Трамп отказался звать Зеленского на встречу с Путиным",
-          "snippet": "",
-          "url": "https://rtvi.com/news/stalo-izvestno-pochemu-tramp-otkazalsya-zvat-zelenskogo-na-vstrechu-s-putinym/",
-          "source": "RTVI"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "путин",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 15 Aug 2025 12:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfjxj62HHG_rEpD_ey7FqFYQkDLOzXF5DQJWX00qOY9RmbVmZlRiQAeVcOH7k",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Атрибуты вместо смыслов. Каковы итоги встречи Трампа и Путина на Аляске",
-          "snippet": "",
-          "url": "https://www.bbc.com/russian/articles/cd9jz0yj7e7o",
-          "source": "BBC"
-        },
-        {
-          "title": "Саммит Трампа и Путина в Анкоридже в фотографиях",
-          "snippet": "",
-          "url": "https://ru.euronews.com/2025/08/16/photogalery-summit-in-alaska",
-          "source": "Euronews.com"
-        },
-        {
-          "title": "Встреча Путина и Трампа на Аляске",
-          "snippet": "",
-          "url": "https://www.interfax.ru/chronicle/vstrecha-putina-i-trampa-na-alyaske.html",
-          "source": "Интерфакс"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ла лига",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 15 Aug 2025 11:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsdLZK_fHyf9l4EAWhJESfUKTxRwKbGQnG2YQc9hKTRsDXgrkBSYA_GSoef28",
-      "pictureSource": "Спорт Mail",
-      "relatedSearch": [
-        {
-          "title": "«Мальорка» — «Барселона». Онлайн-трансляция начнется в 20:30",
-          "snippet": "",
-          "url": "https://sportmail.ru/news/football/67467913/",
-          "source": "Спорт Mail"
-        },
-        {
-          "title": "\"Мальорка\" — \"Барселона\". Прогноз и варианты ставок на матч чемпионата Испании 16 августа",
-          "snippet": "",
-          "url": "https://football.by/news/206296",
-          "source": "Football.by"
-        },
-        {
-          "title": "«Мальорка» – «Барселона»: Вариант стартовых составов на матч стартового тура Ла Лиги",
-          "snippet": "",
-          "url": "https://www.euro-football.ru/article/35/1005989224_malorka__barselona_variant_startovyih_sostavov_na_match_startovogo_tura_la_ligi",
-          "source": "Евро-Футбол"
+          "url": "https://www.oreanda-news.com/en/gosudarstvo/lavrov-ushakov-belousov-siluanov-and-dmitriev-will-travel-to-alaska-with-putin/article1569040/",
+          "source": "Ореанда-Новости"
         }
       ],
       "link": "https://imtaqin.id/"

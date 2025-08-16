@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2025-08-16 19:01:50",
+  "lastUpdate": "2025-08-16 19:21:13",
   "data": [
     {
+      "title": "malaga",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 16 Aug 2025 12:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyYTmiW5wQ8MghLfm8f1S4maZs9L-n2LGgLvKdb7-mO_hoZrLK8oTy9vOwxcI",
+      "pictureSource": "Radio Marca Málaga",
+      "relatedSearch": [
+        {
+          "title": "Murillo entra por Puga previo al reinicio del juego (0-0)",
+          "snippet": "",
+          "url": "https://www.merchanendirecto.es/malaga-cf/sigue-en-directo-el-partido-inaugural-malaga-vs-eibar-21/",
+          "source": "Radio Marca Málaga"
+        },
+        {
+          "title": "Vídeo | El himno del Málaga estrena el curso en La Rosaleda",
+          "snippet": "",
+          "url": "https://www.malagahoy.es/malaga_cf/video-himno-malaga-estrena-curso-rosaleda_8_2004575538.html",
+          "source": "Málaga Hoy"
+        },
+        {
+          "title": "Málaga - Eibar, en directo: LaLiga Hypermotion, hoy en vivo",
+          "snippet": "",
+          "url": "https://as.com/futbol/segunda/malaga-eibar-en-directo-laliga-hypermotion-hoy-en-vivo-n-3/",
+          "source": "Diario AS"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "juventus",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 16 Aug 2025 11:50:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK1TY6tTXLaey7LzxqhnuqVRg1raEhX0MySdrX29sxO3tf7sxtHPvLW1tkDCc",
       "pictureSource": "Juventus.com",
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://www.atalanta.it/news/trofeo-bortolotti-atalanta-juventus-le-formazioni",
           "source": "Atalanta"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "cagliari",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 16 Aug 2025 11:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWhRRHIZUGAxQ1EK72IXiNCbN-3tWyq_zHXhjcJYARZeVc-kI7Hy79zAoEV6I",
-      "pictureSource": "Sportmediaset",
-      "relatedSearch": [
-        {
-          "title": "Coppa Italia, Cagliari-Virtus Entella: le formazioni ufficiali",
-          "snippet": "",
-          "url": "https://www.sportmediaset.mediaset.it/calcio/coppa-italia-cagliari-virtus-entella-le-formazioni-ufficiali_102273787-202502k.shtml",
-          "source": "Sportmediaset"
-        },
-        {
-          "title": "Cagliari, i convocati per la Coppa Italia: Pisacane ne chiama 25, out Luperto",
-          "snippet": "",
-          "url": "https://www.centotrentuno.com/news/cagliari-i-convocati-per-la-coppa-italia-pisacane-ne-chiama-25-out-luperto/",
-          "source": "Centotrentuno"
-        },
-        {
-          "title": "Calcio: Virtus Entella in campo questa sera a Cagliari per il primo turno di Coppa Italia",
-          "snippet": "",
-          "url": "https://radioaldebaran.it/calcio-virtus-entella-in-campo-questa-sera-a-cagliari-per-il-primo-turno-di-coppa-italia/300591",
-          "source": "Radio Aldebaran"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -81,6 +81,34 @@
           "snippet": "",
           "url": "https://harian.fajar.co.id/2025/08/15/bosan-tunggu-lookman-inter-milan-ganggu-as-roma-coba-bajak-kone/",
           "source": "FAJAR"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "cagliari",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 16 Aug 2025 11:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWhRRHIZUGAxQ1EK72IXiNCbN-3tWyq_zHXhjcJYARZeVc-kI7Hy79zAoEV6I",
+      "pictureSource": "Sportmediaset",
+      "relatedSearch": [
+        {
+          "title": "Coppa Italia, Cagliari-Virtus Entella: le formazioni ufficiali",
+          "snippet": "",
+          "url": "https://www.sportmediaset.mediaset.it/calcio/coppa-italia-cagliari-virtus-entella-le-formazioni-ufficiali_102273787-202502k.shtml",
+          "source": "Sportmediaset"
+        },
+        {
+          "title": "Cagliari, i convocati per la Coppa Italia: Pisacane ne chiama 25, out Luperto",
+          "snippet": "",
+          "url": "https://www.centotrentuno.com/news/cagliari-i-convocati-per-la-coppa-italia-pisacane-ne-chiama-25-out-luperto/",
+          "source": "Centotrentuno"
+        },
+        {
+          "title": "Calcio: Virtus Entella in campo questa sera a Cagliari per il primo turno di Coppa Italia",
+          "snippet": "",
+          "url": "https://radioaldebaran.it/calcio-virtus-entella-in-campo-questa-sera-a-cagliari-per-il-primo-turno-di-coppa-italia/300591",
+          "source": "Radio Aldebaran"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -123,7 +151,7 @@
         {
           "title": "Fotbal ONLINE: Jablonec - Slavia 1:0. Sledujte duel 5. kola Chance Ligy živě",
           "snippet": "",
-          "url": "https://isport.blesk.cz/clanek/fotbal-chance-liga/465168/online-jablonec-slavia-1-0-chramosta-uderil-schranz-upadl-ve-vapne-sudi-nepiskal.html",
+          "url": "https://isport.blesk.cz/clanek/fotbal-chance-liga/465168/online-jablonec-slavia-1-0-chramosta-uderil-mistr-vystridal-zimu-i-ogbua.html",
           "source": "iSport.cz"
         },
         {
@@ -137,6 +165,34 @@
           "snippet": "",
           "url": "https://www.efotbal.cz/article/fotbal-chance-liga-ceka-nas-zapas-proti-mozna-nejlepsimu-tymu-v-cesku-rika-kozel-jsme-ale-v-pozici-ze-se-nemusime-bat-nikoho-fe4810f1-ed96-4251-b434-c362beb47a6a",
           "source": "eFotbal"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "estrela amadora vs benfica",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 16 Aug 2025 11:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxay1BDmPDDnK_fR6UCKtNb0nzWF0bKlMZxYYe675FJk1G_iY6QXBpqXnimiI",
+      "pictureSource": "TVI",
+      "relatedSearch": [
+        {
+          "title": "Estrela-Benfica (ONZES): Lage aposta no mesmo onze pelo terceiro jogo seguido",
+          "snippet": "",
+          "url": "https://tvi.iol.pt/noticias/liga/benfica/estrela-benfica-onzes-lage-aposta-no-mesmo-onze-pelo-terceiro-jogo-seguido",
+          "source": "TVI"
+        },
+        {
+          "title": "Revista de imprensa: Uns querem a quarta, outros querem o todo...basta ajustar as contas",
+          "snippet": "",
+          "url": "https://sportinforma.sapo.pt/atualidade/artigos/revista-de-imprensa-uns-querem-a-quarta-outros-querem-o-todo-basta-ajustar-as-contas",
+          "source": "Sportinforma"
+        },
+        {
+          "title": "Bruno Lage acusa Sporting de falsidade",
+          "snippet": "",
+          "url": "https://www.cmjornal.pt/desporto/futebol/detalhe/bruno-lage-acusa-sporting-de-falsidade",
+          "source": "Correio da Manhã"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -170,44 +226,16 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "estrela amadora vs benfica",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 16 Aug 2025 11:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzre38i7xry_VLCPLL6iWQtukeY8OVxN3bBDlOtYtE8rK60CmyRGcflwrhqd4",
-      "pictureSource": "TVI",
-      "relatedSearch": [
-        {
-          "title": "Estrela-Benfica (ONZES): Lage aposta no mesmo onze pelo terceiro jogo seguido",
-          "snippet": "",
-          "url": "https://tvi.iol.pt/noticias/liga/benfica/estrela-benfica-onzes-lage-aposta-no-mesmo-onze-pelo-terceiro-jogo-seguido",
-          "source": "TVI"
-        },
-        {
-          "title": "Revista de imprensa: Uns querem a quarta, outros querem o todo...basta ajustar as contas",
-          "snippet": "",
-          "url": "https://sportinforma.sapo.pt/atualidade/artigos/revista-de-imprensa-uns-querem-a-quarta-outros-querem-o-todo-basta-ajustar-as-contas",
-          "source": "Sportinforma"
-        },
-        {
-          "title": "Bruno Lage acusa Sporting de falsidade",
-          "snippet": "",
-          "url": "https://www.cmjornal.pt/desporto/futebol/detalhe/bruno-lage-acusa-sporting-de-falsidade",
-          "source": "Correio da Manhã"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "nice vs toulouse",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 16 Aug 2025 11:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMBBHPSDhPvFGZS9_IHTCqvTty6-2VInoDI1xvgtvYCXXUvZL9Wr2efaKrpSk",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStDHqvJQYf6KtMHIF2YKGWc4TbQ1-K_IN9c2E6FxMf50dkeI0SCurHdE3Td5Q",
       "pictureSource": "LesViolets.Com",
       "relatedSearch": [
         {
-          "title": "OGC Nice - TFC : le 11 de départ de Nice",
+          "title": "OGC Nice - TFC : une composition probable avec \"une surprise\" en préparation",
           "snippet": "",
-          "url": "https://www.lesviolets.com/actu/ogc-nice-tfc-le-11-de-depart-de-nice,78495.html",
+          "url": "https://www.lesviolets.com/actu/ogc-nice-tfc-une-composition-probable-avec-une-surprise-en-preparation,78492.html",
           "source": "LesViolets.Com"
         },
         {
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.getfootballnewsfrance.com/2025/monacos-folarin-balogun-a-doubt-to-face-le-havre-in-ligue-1-opener/",
           "source": "Get French Football News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "diego kochen",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 16 Aug 2025 11:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRB8iOFmK4fj3xjBltP62faXNLl-9FkrE7bnnf8U3bhfTfZMKIppQ8993CmHXY",
-      "pictureSource": "ESPN",
-      "relatedSearch": [
-        {
-          "title": "Rashford set for Barça debut as registration settled",
-          "snippet": "",
-          "url": "https://www.espn.com/soccer/story/_/id/45971944/marcus-rashford-set-barcelona-debut-registration-confirmed",
-          "source": "ESPN"
-        },
-        {
-          "title": "Barcelona's Rashford, Garcia registered by LaLiga in time for opener",
-          "snippet": "",
-          "url": "https://www.reuters.com/sports/soccer/barcelonas-rashford-garcia-registered-by-laliga-time-opener-2025-08-16/",
-          "source": "Reuters"
-        },
-        {
-          "title": "Marcus Rashford BENCHED for Barcelona’s La Liga opener at Mallorca",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/article/marcus-rashford-benched-barcelona-la-163000609.html",
-          "source": "Yahoo Sports"
         }
       ],
       "link": "https://imtaqin.id/"

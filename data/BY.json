@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-08-16 09:10:45",
+  "lastUpdate": "2025-08-16 09:29:55",
   "data": [
     {
       "title": "погода минск",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Sat, 16 Aug 2025 01:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS09A4HpVMeGIaG2YBc4l-hNHIBhdL61PR1J6HJysXkB7kzLkX0VZ7jxq5xTic",
       "pictureSource": "Myfin.by",
@@ -31,7 +31,7 @@
     },
     {
       "title": "брест",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 16 Aug 2025 00:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXCv4teNcRDQesXCA2YQ1Wx_PGeQg9h0_Oe-peKLTOHfwexy-Gkvkdpi_DzfY",
       "pictureSource": "БелТА",
@@ -217,10 +217,10 @@
           "source": "Беларусь сегодня"
         },
         {
-          "title": "Тихановская о разговоре Трампа и Лукашенко: Мы теперь ожидаем, что Лукашенко прекратит репрессии",
+          "title": "Лукашенко и Трамп провели телефонный разговор",
           "snippet": "",
-          "url": "https://ru.belsat.eu/88350680/tihanovskaya-o-razgovore-trampa-i-lukashenko-my-teper-ozhidaem-chto-lukashenko-prekratit-repressii",
-          "source": "Белсат"
+          "url": "https://people.onliner.by/2025/08/15/lukashenko-i-tramp",
+          "source": "Onlíner"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -255,11 +255,18 @@
     },
     {
       "title": "новости мира",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 15 Aug 2025 18:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhlcbOYb20n_W9jYyWJ7vrlfGOyrpte8RV95tPvVE2G0JbdjiEIGyoJ_DEPYY",
+      "pictureSource": "Вот Так",
+      "relatedSearch": [
+        {
+          "title": "Трамп заявил, что пока сделки по Украине нет",
+          "snippet": "",
+          "url": "https://vot-tak.tv/88354380/sdelki-net",
+          "source": "Вот Так"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]

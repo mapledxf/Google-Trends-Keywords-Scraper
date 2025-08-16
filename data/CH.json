@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2025-08-15 23:59:32",
+  "lastUpdate": "2025-08-16 01:48:15",
   "data": [
+    {
+      "title": "bbc news",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 15 Aug 2025 16:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaQSuWA40enEhw6NpUFuNVxK6tGQjGNfbvf8lkX41-I1Kj49orbuFUmXQlat8",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Iceland supermarket offering £1 reward for reporting shoplifters",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c707rzen2zvo",
+          "source": "BBC"
+        },
+        {
+          "title": "Iceland offering £1 reward scheme for customers who report a shoplifter",
+          "snippet": "",
+          "url": "https://www.theguardian.com/business/2025/aug/15/iceland-pay-customers-1-report-shoplifter",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Supermarket to reward customers for pointing out shoplifters",
+          "snippet": "",
+          "url": "https://www.telegraph.co.uk/money/consumer-affairs/iceland-to-reward-customers-for-pointing-out-shoplifters/",
+          "source": "The Telegraph"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "fox news",
       "trafficCount": "100+",
       "pubDate": "Fri, 15 Aug 2025 15:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTm1HEitmWUvivBYYpK85sfbtqBLc6reDXs7gbG3XwM3kKAUFdtWRJxSN8UVoo",
-      "pictureSource": "RealRadio804",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaoHEL_9QZ45Ld0UqtgKWeHSsOBqTC2rbObjdh3XwwyL1zg-K-N1IDipmvG3k",
+      "pictureSource": "Politico",
       "relatedSearch": [
         {
-          "title": "Spanberger’s K-12 plan calls for boosting funding, modernizing tests",
+          "title": "Poll: California voters back independent congressional maps, complicating Gavin Newsom’s redistricting push",
           "snippet": "",
-          "url": "https://realradio804.com/spanbergers-k-12-plan-calls-for-boosting-funding-modernizing-tests/",
-          "source": "RealRadio804"
+          "url": "https://www.politico.com/news/2025/08/14/california-redistricting-newsom-poll-00508930",
+          "source": "Politico"
         },
         {
-          "title": "Democrats gathered in Portsmouth to talk education",
+          "title": "Newsom: California redistricting push will counter Texas Republicans",
           "snippet": "",
-          "url": "https://www.virginiascope.com/democrats-gathered-in-portsmouth-to-talk-education/",
-          "source": "Virginia Scope"
+          "url": "https://www.bbc.com/news/articles/cr4e33w6446o",
+          "source": "BBC"
         },
         {
-          "title": "The Spanberger strategy: Can this Virginia Democrat reset the politics of public education?",
+          "title": "Newsom says California will push to redraw maps in riposte to Texas plan",
           "snippet": "",
-          "url": "https://vadogwood.com/2025/08/12/abigail-spanberger-virginia-education/",
-          "source": "VA Dogwood"
+          "url": "https://www.theguardian.com/us-news/2025/aug/14/california-redistricting-map-gavin-newsom",
+          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -59,35 +87,63 @@
     },
     {
       "title": "khamzat chimaev",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 15 Aug 2025 14:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQa6b2fZNTGr-HV9rV1yT0BAqcc-GwD60vONd7PHymnDAHWTLlMVNAK1NCHDKQ",
-      "pictureSource": "htxt.africa",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRN724u551P-FItpdtuYHDAehQ7JCLVehDaV61TZx3FszRz8EA6QzvsuAI9d3g",
+      "pictureSource": "ESPN",
       "relatedSearch": [
         {
-          "title": "How South Africans can watch UFC 319 this weekend",
+          "title": "UFC 319 PPV event loses 3 fights in 2 days",
           "snippet": "",
-          "url": "https://htxt.co.za/2025/08/how-south-africans-can-watch-ufc-319-this-weekend/",
-          "source": "htxt.africa"
+          "url": "https://www.espn.com.au/mma/story/_/id/45988908/ufc-319-losses-3rd-bout-2-days-battle-ruziboev",
+          "source": "ESPN"
         },
         {
-          "title": "Dricus du Plessis was ‘really pissed off’ over weight cut confusion at UFC 319",
+          "title": "Dana White separates Dricus du Plessis and Khamzat Chimaev after tense faceoff ahead of UFC 319",
           "snippet": "",
-          "url": "https://www.mmafighting.com/ufc-events-ppv/399105/dricus-du-plessis-was-really-pissed-off-over-weight-cut-confusion-at-ufc-319",
+          "url": "https://www.mmafighting.com/ufc/399021/dana-white-separates-dricus-du-plessis-and-khamzat-chimaev-after-tense-faceoff-ahead-of-ufc-319",
           "source": "MMA Fighting"
         },
         {
-          "title": "Who is Khamzat Chimaev? Meet the UFC 319 main eventer who is looking to take Dricus Du Plessis’ middleweight title",
+          "title": "Ceremonial Weigh-Ins | UFC 319: Du Plessis vs Chimaev",
           "snippet": "",
-          "url": "https://www.thesportreview.com/mma/who-is-khamzat-chimaev-meet-the-ufc-319-main-eventer-who-is-looking-to-take-dricus-du-plessis-middleweight-title/",
-          "source": "The Sport Review"
+          "url": "https://www.ufc.com/video/150261",
+          "source": "UFC.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "atp cincinnati",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 15 Aug 2025 14:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHqjG6fWWWuheRMzZGNXGwJ6tPB5QR8lVVTBGzYt-HMtpmAPus4bSkYkuEVFQ",
+      "pictureSource": "Yahoo Sports",
+      "relatedSearch": [
+        {
+          "title": "2025 Cincinnati Open quarterfinals: How to watch, full TV schedule, where to stream free and more",
+          "snippet": "",
+          "url": "https://sports.yahoo.com/tennis/article/2025-cincinnati-open-quarterfinals-how-to-watch-full-tv-schedule-where-to-stream-free-and-more-215808089.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Alcaraz suffers new lapse, recovers to down Rublev in Cincinnati",
+          "snippet": "",
+          "url": "https://www.atptour.com/en/news/alcaraz-rublev-cincinnati-2025-qf",
+          "source": "ATP Tour"
+        },
+        {
+          "title": "WATCH Carlos Alcaraz vs Andrey Rublev Live 𝐒𝐭𝐫𝐞𝐚𝐦 Free Tennis Game Online TV Channe",
+          "snippet": "",
+          "url": "https://www.griceconnect.com/classifieds/homes-rentals-and-real-estate/wanted-to-buy-or-rent/1997496",
+          "source": "Grice Connect"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "cincinnati open 2025",
-      "trafficCount": "200+",
+      "trafficCount": "100+",
       "pubDate": "Fri, 15 Aug 2025 14:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHqjG6fWWWuheRMzZGNXGwJ6tPB5QR8lVVTBGzYt-HMtpmAPus4bSkYkuEVFQ",
       "pictureSource": "Yahoo Sports",
@@ -115,7 +171,7 @@
     },
     {
       "title": "bbc",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 15 Aug 2025 14:00:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBNKmujboL0m7jVO8qrbc_FQT_o31UaZck7WVpKujc5sEhMMYSoOm4HvUz2TU",
       "pictureSource": "BBC",
@@ -142,44 +198,16 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "alcaraz",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 15 Aug 2025 13:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6W6Cm65Y2bI1_nV2po86dSihaEXcXZAWBaSy1zE-lluVICsJwxVLL1khL2kk",
-      "pictureSource": "Eurosport",
-      "relatedSearch": [
-        {
-          "title": "¿Corre peligro el dobles mixto de Alcaraz y Raducanu? El conflicto que podría separar a la pareja",
-          "snippet": "",
-          "url": "https://www.eurosport.es/tenis/us-open-doble-mixto/2025/alcaraz-raducanu-corre-peligro-calendario-cincinnati-nueva-pareja_sto23211257/story.shtml",
-          "source": "Eurosport"
-        },
-        {
-          "title": "Emma Raducanu sale a la pregunta ‘terrible’ sobre la relación Carlos Alcaraz",
-          "snippet": "",
-          "url": "https://masmma.com.mx/noticias/emma-raducanu-sale-a-la-pregunta-terrible-sobre-la-relacion-carlos-alcaraz/70986/",
-          "source": "MMA"
-        },
-        {
-          "title": "La dupla Alcaraz- Raducanu, bautizada como 'Alcaranu', corre peligro de debutar en el dobles mixto del próximo US Open",
-          "snippet": "",
-          "url": "https://www.elespanol.com/deportes/tenis/20250815/dupla-alcaraz-raducanu-bautizada-alcaranu-corre-peligro-debutar-dobles-mixto-proximo-us-open/1003743888282_0.html",
-          "source": "El Español"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "putin trump treffen",
       "trafficCount": "100+",
       "pubDate": "Fri, 15 Aug 2025 13:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPh3nZNdD9Cic_Qk3Vm2VmVjnfFkA-LBZMleLTpjGYYqKO-M_HGvSuGSh_DVY",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT59YKfcUXRG5pBk8GUqTK4lu6Nn7wldGGjYlOKrhqCilCmIaO4SINUgqvYRpM",
       "pictureSource": "Schweizer Radio und Fernsehen",
       "relatedSearch": [
         {
-          "title": "Krieg in der Ukraine - Trump und Putin in Alaska zum Gipfel eingetroffen",
+          "title": "Krieg in der Ukraine - Gipfeltreffen zwischen Trump und Putin ergebnislos",
           "snippet": "",
-          "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-trump-und-putin-in-alaska-zum-gipfel-eingetroffen",
+          "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-gipfeltreffen-zwischen-trump-und-putin-ergebnislos",
           "source": "Schweizer Radio und Fernsehen"
         },
         {
@@ -189,10 +217,10 @@
           "source": "Neue Zürcher Zeitung"
         },
         {
-          "title": "15. August 2025: Das Wichtigste des Tages",
+          "title": "Trump und Putin bringen ihre Atomkoffer mit: Gipfel-Treffen in Anchorage",
           "snippet": "",
-          "url": "https://www.tagesanzeiger.ch/15-august-2025-das-wichtigste-des-tages-258377677951",
-          "source": "Tages-Anzeiger"
+          "url": "https://www.bild.de/politik/ausland-und-internationales/trump-und-putin-bringen-ihre-atomkoffer-mit-gipfel-treffen-in-anchorage-689ecc87cf5f0271ccd53871",
+          "source": "BILD"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,82 +229,54 @@
       "title": "om",
       "trafficCount": "200+",
       "pubDate": "Fri, 15 Aug 2025 13:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5_zZviIZAQ-i4r95_KrXY0FqzwR04Fmu26-tQuY3WjfzjwI1N5H08Cobs_Mw",
-      "pictureSource": "Brabants Dagblad",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI7xLKGCRE8Tmk8hfumYA_snE0jUDdCYgQdX78jHnGh6A8sn8n4zpwJHeVWQQ",
+      "pictureSource": "Voetbalkrant.com",
       "relatedSearch": [
         {
-          "title": "Spits Austyn Jones (17) start met PSV sterk in de strijd om de Otten Cup: ‘Ik wil topscorer worden’",
+          "title": "Beveren doet prima zaak, Patro Eisden loopt ferm blauwtje bij Bouchez",
           "snippet": "",
-          "url": "https://www.bd.nl/eindhoven/spits-austyn-jones-17-start-met-psv-sterk-in-de-strijd-om-de-otten-cup-ik-wil-topscorer-worden~aa71fca8/",
-          "source": "Brabants Dagblad"
+          "url": "https://www.voetbalkrant.com/nieuws/2025-08-15/beveren-doet-prima-zaak-patro-eisden-loopt-ferm-blauwtje-bij-bouchez",
+          "source": "Voetbalkrant.com"
         },
         {
-          "title": "Spits Austyn Jones (17) start met PSV sterk in de strijd om de Otten Cup: ‘Ik wil topscorer worden’",
+          "title": "“We moeten nog wel leren om onze kansen beter af te maken”: SK Beveren wint ook van Jong Genk en kent prima seizoenstart",
           "snippet": "",
-          "url": "https://www.ad.nl/eindhoven/spits-austyn-jones-17-start-met-psv-sterk-in-de-strijd-om-de-otten-cup-ik-wil-topscorer-worden~aa71fca8/",
-          "source": "AD.nl"
+          "url": "https://www.nieuwsblad.be/sport/sportregio/we-moeten-nog-wel-leren-om-onze-kansen-beter-af-te-maken-sk-beveren-wint-ook-van-jong-genk-en-kent-prima-seizoenstart/82972944.html",
+          "source": "Nieuwsblad"
         },
         {
-          "title": "Spits Austyn Jones (17) start met PSV sterk in de strijd om de Otten Cup: ‘Ik wil topscorer worden’",
+          "title": "SK Beveren wint nipt van Jong Genk, ook Francs Borains houdt de drie punten thuis",
           "snippet": "",
-          "url": "https://www.ed.nl/psv/spits-austyn-jones-17-start-met-psv-sterk-in-de-strijd-om-de-otten-cup-ik-wil-topscorer-worden~aa71fca8/",
-          "source": "Eindhovens Dagblad"
+          "url": "https://www.voetbalprimeur.be/nieuws/1683158/sk-beveren-wint-nipt-van-jong-genk-ook-francs-borains-houdt-de-drie-punten-thuis.html",
+          "source": "VoetbalPrimeur.be"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "carlos alcaraz",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 15 Aug 2025 12:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPPAJoZZqMZ4J5-TntTyV1OCLe4CT53LJAa2f_o9f_sb3ZqyTltcSrPsRqG3M",
-      "pictureSource": "Diario AS",
+      "title": "ekitike",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 15 Aug 2025 12:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT30YCdn1qQlb6v124mMHhVxpA2PUrT-ZWIfhzg_WhJEXcrGGVCevAvnwiEsPA",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Resumen, resultado y ganador del Rublev - Alcaraz: cuartos de final del Masters 1.000 de Cincinnati",
+          "title": "'Ekitike is instant Anfield hero but defence brutally exposed'",
           "snippet": "",
-          "url": "https://as.com/tenis/masters_1000/rublev-alcaraz-en-directo-cuartos-de-final-del-masters-1000-de-cincinnati-en-vivo-n/",
-          "source": "Diario AS"
+          "url": "https://www.bbc.com/sport/football/articles/cy985dxw33jo",
+          "source": "BBC"
         },
         {
-          "title": "Masters 1000 & WTA 1000 Cincinnati 2025: programación del viernes 15 de agosto",
+          "title": "Britain Soccer Premier League",
           "snippet": "",
-          "url": "https://matchtenis.com/masters-1000-wta-1000-cincinnati-2025-programacion-del-viernes-15-de-agosto/",
-          "source": "Match Tenis"
+          "url": "https://www.wvnews.com/sports/pro/britain-soccer-premier-league/image_a3686eb8-4e9a-5727-910e-3de665f02d1a.html",
+          "source": "WV News"
         },
         {
-          "title": "Pronósticos Rublev vs. Alcaraz: cuartos de final en Cincinnati 2025",
+          "title": "Gary Neville says Liverpool now have the second coming of Luis Suarez at Anfield, 'real talent''...",
           "snippet": "",
-          "url": "https://es.cointelegraph.com/juegos/noticias/pronosticos-rublev-vs-alcaraz-cuartos-de-final-cincinnati-2025/",
-          "source": "Cointelegraph"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "la liga",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 15 Aug 2025 12:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNydnqpzFJrWKYWcXoMtJFxqLLgnx3NIU-89q97hKbAQfYKhf6n6bB9DQGYrM",
-      "pictureSource": "blue News",
-      "relatedSearch": [
-        {
-          "title": "Five Swiss players want to shake up the Spanish league - Barça go into the race as title favorites",
-          "snippet": "",
-          "url": "https://www.bluewin.ch/en/sport/football/five-swiss-players-want-to-shake-up-the-spanish-league-barca-go-into-the-race-as-title-favorites-2826594.html",
-          "source": "blue News"
-        },
-        {
-          "title": "Why Barcelona Will Win La Liga 2025-26 and Real Madrid and Atletico Won't",
-          "snippet": "",
-          "url": "https://bleacherreport.com/articles/25236173-why-barcelona-will-win-la-liga-2025-26-and-real-madrid-and-atletico-wont",
-          "source": "Bleacher Report"
-        },
-        {
-          "title": "Which Team Is the Casino’s Favorite to Win Laliga 2025-26?",
-          "snippet": "",
-          "url": "https://www.beinsports.com/en-us/soccer/la-liga/articles/which-team-is-the-casino-s-favorite-to-win-laliga-2025-26-2025-08-15",
-          "source": "beIN SPORTS"
+          "url": "https://tbrfootball.com/gary-neville-says-liverpool-now-have-the-second-coming-of-luis-suarez-at-anfield-real-talent/",
+          "source": "TBR Football"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-17 10:20:13",
+  "lastUpdate": "2025-08-17 10:39:48",
   "data": [
     {
       "title": "toluca - pumas",
@@ -15,16 +15,16 @@
           "source": "TUDN"
         },
         {
-          "title": "Toluca hoy: Formación confirmada vs Pumas por el Apertura MX",
+          "title": "Antonio Mohamed asegura que Toluca llegará con plantel casi completo para la Leagues Cup",
           "snippet": "",
-          "url": "https://www.365scores.com/es/news/toluca-hoy-formacion-confirmada/",
-          "source": "365Scores"
+          "url": "https://www.clarosports.com/futbol/liga-mx/antonio-mohamed-asegura-que-toluca-llegara-con-plantel-casi-completo-para-la-leagues-cup/",
+          "source": "ClaroSports"
         },
         {
-          "title": "Toluca lanza mensaje con Alexis Vega previo al juego vs Pumas, pero también indirecta para Chivas",
+          "title": "Intenso empate entre Toluca y Pumas en el 'infierno'",
           "snippet": "",
-          "url": "https://www.marca.com/mx/futbol/liga-mx/2025/08/17/68a105c922601ddf358b458a.html",
-          "source": "MARCA"
+          "url": "https://www.reforma.com/intenso-empate-entre-toluca-y-pumas-en-el-infierno/ar3057038",
+          "source": "Reforma"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,46 +161,18 @@
           "source": "OneFootball"
         },
         {
-          "title": "El Tijuana del 'loco' Abreu vence al líder Pachuca y le estropea el paso perfecto",
+          "title": "Los Tuzos pierden el invicto en casa",
           "snippet": "",
-          "url": "https://es-us.noticias.yahoo.com/deportes/tijuana-loco-abreu-vence-l%C3%ADder-033634100.html",
-          "source": "Yahoo Deportes"
+          "url": "https://www.vavel.com/mx/futbol-mexicano/2025/08/17/pachuca/1230714-los-tuzos-pierden-el-invicto-en-casa.html",
+          "source": "VAVEL.com"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "tigres - américa",
-      "trafficCount": "2000+",
-      "pubDate": "Sat, 16 Aug 2025 17:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYu5mteeus1HEevQ5_vNjwLYj6cQGxb408WuHE4IpZQlcQXlrWUCbUH2bsxdk",
-      "pictureSource": "Mediotiempo",
-      "relatedSearch": [
-        {
-          "title": "¿Crisis? América sorprende a Tigres gracias al Chiquito Sánchez y Alejandro Zendejas",
-          "snippet": "",
-          "url": "https://www.mediotiempo.com/futbol/liga-mx/resumen-del-partido-tigres-vs-america-jornada-5-apertura-2025",
-          "source": "Mediotiempo"
-        },
-        {
-          "title": "Aclara Jardine roce con Brunetta",
-          "snippet": "",
-          "url": "https://www.reforma.com/aclara-jardine-roce-con-brunetta/ar3057040",
-          "source": "Reforma"
-        },
-        {
-          "title": "América le quita el invicto a Tigres con doblete de Erick Sánchez",
-          "snippet": "",
-          "url": "https://www.espn.com.ar/futbol/mexico/nota/_/id/15554974/tigres-vs-america-erick-sanchez-goles-jornada-5-invicto-resultado",
-          "source": "ESPN Argentina"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "guadalajara - juárez",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 16 Aug 2025 16:50:00 -0700",
+      "title": "liga mx",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 16 Aug 2025 17:50:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwKYGw5fjEnN9iR5W6gtIQAXCRBpWevYKlrhRFgBLWyyIfgbAcqMf3jNJLkzE",
       "pictureSource": "OneFootball",
       "relatedSearch": [
@@ -226,18 +198,40 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "tigres - américa",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 16 Aug 2025 17:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYu5mteeus1HEevQ5_vNjwLYj6cQGxb408WuHE4IpZQlcQXlrWUCbUH2bsxdk",
+      "pictureSource": "Mediotiempo",
+      "relatedSearch": [
+        {
+          "title": "¿Crisis? América sorprende a Tigres gracias al Chiquito Sánchez y Alejandro Zendejas",
+          "snippet": "",
+          "url": "https://www.mediotiempo.com/futbol/liga-mx/resumen-del-partido-tigres-vs-america-jornada-5-apertura-2025",
+          "source": "Mediotiempo"
+        },
+        {
+          "title": "Video: el gol de Juan Brunetta con el que Tigres UANL se adelanta frente al América",
+          "snippet": "",
+          "url": "https://www.si.com/es-us/futbol/video-el-gol-de-juan-brunetta-con-el-que-tigres-uanl-se-adelanta-frente-al-america",
+          "source": "Sports Illustrated"
+        },
+        {
+          "title": "América le quita el invicto a Tigres con doblete de Erick Sánchez",
+          "snippet": "",
+          "url": "https://www.espn.com.ar/futbol/mexico/nota/_/id/15554974/tigres-vs-america-erick-sanchez-goles-jornada-5-invicto-resultado",
+          "source": "ESPN Argentina"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "ufc",
       "trafficCount": "2000+",
       "pubDate": "Sat, 16 Aug 2025 16:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCwCJFm7kkLQ-_11IDfPqprxVw-I33b6x5j91kuFE211iZ0NT3J7-RcUc0ZGc",
-      "pictureSource": "UFC.com",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSry-gXHH35zdEu_tlFQX4fBM2rDv5t9_lMeEc3k9QNziEXYIr7aN9rX93hi5E",
+      "pictureSource": "Bloody Elbow",
       "relatedSearch": [
-        {
-          "title": "Dricus Du Plessis | ‘There’s No Man That Can Break Me’",
-          "snippet": "",
-          "url": "https://www.ufc.com/news/dricus-du-plessis-theres-no-man-that-can-break-me-ufc-319",
-          "source": "UFC.com"
-        },
         {
           "title": "Dana White names potential Khamzat Chimaev fight date just moments after Dricus Du Plessis win at UFC 319",
           "snippet": "",
@@ -245,10 +239,16 @@
           "source": "Bloody Elbow"
         },
         {
-          "title": "UFC 319: Chimaev dominates Du Plessis to win middleweight championship",
+          "title": "Watch UFC 319 post-fight press conference live stream video | Du Plessis vs. Chimaev",
           "snippet": "",
-          "url": "https://www.aljazeera.com/sports/2025/8/17/ufc-319-chimaev-dominates-du-plessis-to-win-middleweight-championship",
-          "source": "Al Jazeera"
+          "url": "https://sports.yahoo.com/article/watch-ufc-319-post-fight-033000848.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "DDP vs. Chimaev tonight: $150 Bet365 bonus code “DIMERS” upgraded for UFC 319",
+          "snippet": "",
+          "url": "https://www.dimers.com/betting/action/ddp-vs-chimaev-tonight-150-bet365-bonus-code-dimers-upgraded-for-ufc-319",
+          "source": "Dimers.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -267,16 +267,16 @@
           "source": "ESPN"
         },
         {
-          "title": "We’re calling it now – Lionel Messi has produced the greatest assist of all-time",
+          "title": "MLS: Lionel Messi makes a fiery comeback with Inter Miami",
           "snippet": "",
-          "url": "https://www.planetfootball.com/mls/lionel-messi-backheel-assist-inter-miami-best-ever",
-          "source": "Planet Football"
+          "url": "https://foot-africa.com/en/news/mls-lionel-messi-makes-a-fiery-comeback-with-inter-miami-841260/",
+          "source": "Foot Africa"
         },
         {
-          "title": "🎥 Messi scores stunner on return, deepens Reus and co's crisis",
+          "title": "Lionel Messi has goal and assist in return from injury",
           "snippet": "",
-          "url": "https://onefootball.com/en/news/messi-scores-stunner-on-return-deepens-reus-and-cos-crisis-41523468",
-          "source": "OneFootball"
+          "url": "https://www.arabnews.com/node/2612064/sport",
+          "source": "Arab News"
         }
       ],
       "link": "https://imtaqin.id/"

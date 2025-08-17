@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-17 23:14:40",
+  "lastUpdate": "2025-08-17 23:31:17",
   "data": [
     {
       "title": "天氣報告",
@@ -11,9 +11,37 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "hk observatory",
+      "title": "weather",
       "trafficCount": "1000+",
-      "pubDate": "Sun, 17 Aug 2025 15:40:00 -0700",
+      "pubDate": "Sun, 17 Aug 2025 15:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyH0BNmBdz1qdIGf0uYdHYMdwq34VSIlYKh17XW2a4mdvml8Qgoae9SMLyF_A",
+      "pictureSource": "ABC11",
+      "relatedSearch": [
+        {
+          "title": "Hurricane Erin | Tracking Erin's path, system expected to bring coastal hazards to North Carolina next week",
+          "snippet": "",
+          "url": "https://abc11.com/post/hurricane-erin-tracking-erins-path-expected-bring-coastal-hazards-north-carolina-week/17546004/",
+          "source": "ABC11"
+        },
+        {
+          "title": "Hurricane Erin downgrades into category 4 storm",
+          "snippet": "",
+          "url": "https://www.telegraph.co.uk/us/news/2025/08/16/hurricane-erin-category-five-storm/",
+          "source": "The Telegraph"
+        },
+        {
+          "title": "Hurricane Erin is one of the fastest rapidly intensifying storms in Atlantic history",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/08/17/weather/hurricane-erin-tracking-atlantic-climate",
+          "source": "CNN"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "hong kong observatory",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 17 Aug 2025 15:10:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-u65BzUznFYO3zMuLjO-fMqPqhZ2JTIThdaS-2sh-cgM5p-cFzFNz9LW_lxM",
       "pictureSource": "South China Morning Post",
       "relatedSearch": [
@@ -34,34 +62,6 @@
           "snippet": "",
           "url": "https://news.rthk.hk/rthk/en/component/k2/1818589-20250817.htm",
           "source": "香港電台"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "weather",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 17 Aug 2025 15:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRM3ncZO7ujsQUtab5Ymf4s4kNsivipiT9WP708LWbVHeMMH74GxHo6d_rfHSQ",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Hurricane Erin grows in size as it barrels towards Caribbean",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/cdxyezqx4r5o",
-          "source": "BBC"
-        },
-        {
-          "title": "Hurricane Erin | Tracking Erin's path, system expected to bring coastal hazards to North Carolina next week",
-          "snippet": "",
-          "url": "https://abc11.com/post/hurricane-erin-tracking-erins-path-expected-bring-coastal-hazards-north-carolina-week/17546004/",
-          "source": "ABC11"
-        },
-        {
-          "title": "Hurricane Erin downgrades into category 4 storm",
-          "snippet": "",
-          "url": "https://www.telegraph.co.uk/us/news/2025/08/16/hurricane-erin-category-five-storm/",
-          "source": "The Telegraph"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -95,10 +95,10 @@
           "source": "香港電台"
         },
         {
-          "title": "熱帶低氣壓相關雨帶靠近本港 未來一兩小時料有狂風驟雨及強陣風",
+          "title": "天氣｜一號信號至少維持至正午12時",
           "snippet": "",
-          "url": "https://hk.on.cc/hk/bkn/cnt/weather/20250817/bkn-20250817123321585-0817_00942_001.html",
-          "source": "on.cc東網"
+          "url": "https://news.tvb.com/tc/local/68a0051298fc21abcaf3a931/%E6%B8%AF%E6%BE%B3-%E5%A4%A9%E6%B0%A3%EF%BD%9C%E4%B8%80%E8%99%9F%E4%BF%A1%E8%99%9F%E8%87%B3%E5%B0%91%E7%B6%AD%E6%8C%81%E8%87%B3%E6%AD%A3%E5%8D%8812%E6%99%82",
+          "source": "news.tvb.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -151,10 +151,10 @@
           "source": "Yahoo Sports"
         },
         {
-          "title": "Atletico Madrid squanders lead and loses its opening Spanish league match for 1st time under Simeone",
+          "title": "Nico Williams leads Athletic Bilbao to a 3-2 win over Sevilla in their Spanish league opener",
           "snippet": "",
-          "url": "https://www.mankatofreepress.com/ap/sports/atletico-madrid-squanders-lead-and-loses-its-opening-spanish-league-match-for-1st-time-under/article_40c0f4b1-9f3e-5cb5-bf6a-599eefb19b54.html",
-          "source": "Mankato Free Press"
+          "url": "https://www.beaumontenterprise.com/sports/article/nico-williams-leads-athletic-bilbao-to-a-3-2-win-20821428.php",
+          "source": "Beaumont Enterprise"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -163,26 +163,26 @@
       "title": "法甲",
       "trafficCount": "100+",
       "pubDate": "Sun, 17 Aug 2025 10:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBmnCZx4BdOOzPtltn8jNpRn9XyjtMMwa3A6TyA3XeaQ7DZTuIp2rYgIVDdJU",
-      "pictureSource": "腾讯新闻",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYJEQA5ZGEQ5ckJbeMDzqy3eA02TGTXK4iakMw--3bBt3eFJfd-WZN0O9Sizs",
+      "pictureSource": "懂球帝",
       "relatedSearch": [
         {
-          "title": "3-1，31岁拜仁旧将戴尔利剑出鞘：助法甲8冠王开门红+排名第一",
+          "title": "7场1-0，新赛季法甲首轮场均仅1.9球，为近10个赛季首轮最低",
           "snippet": "",
-          "url": "https://news.qq.com/rain/a/20250817A00XH500",
-          "source": "腾讯新闻"
+          "url": "https://m.dongqiudi.com/article/5314200.html",
+          "source": "懂球帝"
         },
         {
-          "title": "【法甲联赛】摩纳哥打响头炮博格巴坐壁观战| 体育 | 2025-08-17",
+          "title": "巴黎vs南特大名单出炉：主力门神落选 多位新援入围",
           "snippet": "",
-          "url": "https://guangming.com.my/%E3%80%90%E6%B3%95%E7%94%B2%E8%81%94%E8%B5%9B%E3%80%91%E6%91%A9%E7%BA%B3%E5%93%A5%E6%89%93%E5%93%8D%E5%A4%B4%E7%82%AE-%E5%8D%9A%E6%A0%BC%E5%B7%B4%E5%9D%90%E5%A3%81%E8%A7%82%E6%88%98",
-          "source": "光明日报"
+          "url": "https://cj.sina.cn/articles/view/7857263935/1d454553f06801abes?froms=ggmp",
+          "source": "新浪财经"
         },
         {
-          "title": "分别挫退勒阿弗尔朗斯 摩纳哥里昂旗开得胜 - 体育 - 足球 - 法甲",
+          "title": "卢卡斯：我想尽可能做好准备，争取进入26年世界杯的大名单",
           "snippet": "",
-          "url": "https://www.sinchew.com.my/news/20250817/sports/6788349",
-          "source": "Sin Chew Daily"
+          "url": "https://www.dongqiudi.com/articles/5314153.html",
+          "source": "懂球帝"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,9 +201,9 @@
           "source": "新浪财经"
         },
         {
-          "title": "每体：亚马尔射门越来越精准，相信本赛季会跻身最佳射手之列",
+          "title": "马略卡主帅：第四官员就在我面前告诉主裁停下，他却没有吹哨",
           "snippet": "",
-          "url": "https://m.dongqiudi.com/article/5312630.html",
+          "url": "https://www.dongqiudi.com/articles/5311498.html",
           "source": "懂球帝"
         },
         {
@@ -229,16 +229,16 @@
           "source": "Jornal da Paraíba"
         },
         {
-          "title": "Estreia de Matheus Cunha pelo United na Premier League; veja",
-          "snippet": "",
-          "url": "https://www.365scores.com/pt-br/news/magazine/matheus-cunha-estreia-united/",
-          "source": "365Scores"
-        },
-        {
           "title": "Matheus Cunha é elogiado em estreia pelo Manchester United na Premier League",
           "snippet": "",
           "url": "https://www.umdoisesportes.com.br/coritiba/matheus-cunha-elogiado-estreia-premier-league-manchester-united/",
           "source": "UmDois Esportes"
+        },
+        {
+          "title": "Estreia de Matheus Cunha pelo United na Premier League; veja",
+          "snippet": "",
+          "url": "https://www.365scores.com/pt-br/news/magazine/matheus-cunha-estreia-united/",
+          "source": "365Scores"
         }
       ],
       "link": "https://imtaqin.id/"

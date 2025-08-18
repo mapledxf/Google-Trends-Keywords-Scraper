@@ -1,13 +1,47 @@
 {
-  "lastUpdate": "2025-08-18 05:53:58",
+  "lastUpdate": "2025-08-18 06:17:55",
   "data": [
+    {
+      "title": "news",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 17 Aug 2025 22:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtD2P7tlBYSsWXzas98e9k8W84ZlbdyeMc19ERSn-GrNTSwDUsfTmQCRlgJHc",
+      "pictureSource": "RTE.ie",
+      "relatedSearch": [
+        {
+          "title": "Lawyer: 'Extraordinary' if DNA test links Bailey to death",
+          "snippet": "",
+          "url": "https://www.rte.ie/news/ireland/2025/0817/1528861-ian-bailey-dna/",
+          "source": "RTE.ie"
+        },
+        {
+          "title": "‘We await with interest’: Family of Sophie Toscan du Plantier supportive of fresh DNA tests in murder inquiry",
+          "snippet": "",
+          "url": "https://www.irishtimes.com/crime-law/2025/08/16/we-await-with-interest-family-of-sophie-toscan-du-plantier-supportive-of-fresh-dna-tests-in-murder-inquiry/",
+          "source": "The Irish Times"
+        },
+        {
+          "title": "Ian Bailey’s solicitor welcomes any breakthroughs from advanced DNA testing in Sophie Tuscan du Plantier case",
+          "snippet": "",
+          "url": "https://www.independent.ie/irish-news/ian-baileys-solicitor-welcomes-any-breakthroughs-from-advanced-dna-testing-in-sophie-tuscan-du-plantier-case/a2088930699.html",
+          "source": "The Irish Independent"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "cork weather",
       "trafficCount": "200+",
       "pubDate": "Sun, 17 Aug 2025 22:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSJLho5wSAApy_tqoqDPBFeHE7xU24B21NbDDKxojB1j_BxM4Z3YwEXkWVkXA",
-      "pictureSource": "The Irish Times",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYpefK1jcw9b08e_klrNfEGrjSI1irojuDiQ_IKKQB9J-H6-W6P6JKBcvD-W4",
+      "pictureSource": "RTE.ie",
       "relatedSearch": [
+        {
+          "title": "Thunderstorm warning for Cork, Kerry and Limerick",
+          "snippet": "",
+          "url": "https://www.rte.ie/news/munster/2025/0818/1528903-weather-warning-munster/",
+          "source": "RTE.ie"
+        },
         {
           "title": "Status yellow thunderstorm alert for three counties, with possible flooding and power outages",
           "snippet": "",
@@ -15,72 +49,38 @@
           "source": "The Irish Times"
         },
         {
-          "title": "Thunderstorm warning issued for three counties tomorrow",
+          "title": "Temperatures stay above average but thunderstorms likely this week",
           "snippet": "",
-          "url": "https://www.thejournal.ie/thunderstorm-tomorrow-6792621-Aug2025/",
-          "source": "The Journal"
-        },
-        {
-          "title": "Thunderstorm warning for Cork, Kerry, Limerick tomorrow",
-          "snippet": "",
-          "url": "https://www.rte.ie/news/regional/2025/0817/1528865-thunderstorm-warning/",
-          "source": "RTE.ie"
+          "url": "https://www.independent.ie/weather/temperatures-stay-above-average-but-thunderstorms-likely-this-week/a1447764209.html",
+          "source": "The Irish Independent"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "news",
+      "title": "the journal",
       "trafficCount": "100+",
-      "pubDate": "Sun, 17 Aug 2025 22:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS0plk2UxNwEHs9g-KU_NBZe_32juIjZls7UqBGy8bvdRIJeeVxKthJMFeBFrM",
-      "pictureSource": "RTE.ie",
+      "pubDate": "Sun, 17 Aug 2025 22:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmBjTalcrJGBD4BOcrMGtTm6nL8c0MrPN4DUACuduxJs7z-sLPnVzRRG_olWk",
+      "pictureSource": "The Wall Street Journal",
       "relatedSearch": [
         {
-          "title": "Officials warned of 'unmanageable levels' in IPAS system",
+          "title": "Intel’s Move Toward Nationalization Won’t Work—at Least for the Long Haul",
           "snippet": "",
-          "url": "https://www.rte.ie/news/ireland/2025/0817/1528839-international-protection/",
-          "source": "RTE.ie"
+          "url": "https://www.wsj.com/tech/intels-move-toward-nationalization-wont-workat-least-for-the-long-haul-de403b16?gaa_at=eafs&gaa_n=ASWzDAhDeSVp12DeSBtMbyqPs9UTfVbcvFHwrEvduvCkWa99oIAXCo-9sZIl&gaa_ts=68a2c917&gaa_sig=mcqdsuU6T3lcIfuRV9vN-cElaNSMwVMYmBxffgrK_DqrMl1lnviTiSGGAijuaSKf5WvF6kfbP979cvMc0Z9dSw%3D%3D",
+          "source": "The Wall Street Journal"
         },
         {
-          "title": "Irish asylum system was MONTHS from buckling under record surge in applications",
+          "title": "What might Trumpian meddling mean for Intel?",
           "snippet": "",
-          "url": "https://www.thesun.ie/news/15698838/irelands-asylum-system-buckling-record-surge-applications/",
-          "source": "The Irish Sun"
+          "url": "https://www.economist.com/business/2025/08/15/what-might-trumpian-meddling-mean-for-intel",
+          "source": "The Economist"
         },
         {
-          "title": "BMW Championship: MacIntyre 'wants to smash up clubs' as Scheffler wins",
+          "title": "Trump Administration Eyeing Chips Act Funds for Intel Stake",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/golf/articles/czxy10n1j2do",
-          "source": "BBC"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "oasis concert croke park",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 17 Aug 2025 20:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvZlD_BDRvZ383rs7hdy3AmDhYetRF6QLTAjmkGILtAGwYL0W2AxU_ITgN3dY",
-      "pictureSource": "Billboard",
-      "relatedSearch": [
-        {
-          "title": "Oasis Takes Over Dublin for Triumphant First Ireland Live Show Since 2009",
-          "snippet": "",
-          "url": "https://www.billboard.com/music/rock/oasis-ireland-review-recap-croke-park-1236045919/",
-          "source": "Billboard"
-        },
-        {
-          "title": "Mother from Mayo, father from Meath: How Irish are Oasis?",
-          "snippet": "",
-          "url": "https://www.irishtimes.com/culture/music/2025/08/16/were-irish-catholics-and-were-that-kind-of-family-the-gallaghers-boyhoods-in-manchester/",
-          "source": "The Irish Times"
-        },
-        {
-          "title": "Oasis in Dublin: Everything you need to know",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c5yppj1p0jdo",
-          "source": "BBC"
+          "url": "https://www.bloomberg.com/news/articles/2025-08-15/trump-administration-eyeing-chips-act-funds-for-intel-stake",
+          "source": "Bloomberg.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,19 +145,13 @@
       "title": "fedex cup standings",
       "trafficCount": "200+",
       "pubDate": "Sun, 17 Aug 2025 14:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYkxDtmhZtQLcXBjF0BvAlW7RIdf0YzWt_rljOFsSqGSToCFrw6PbIzFqz_dc",
-      "pictureSource": "ESPN",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8ke1HeJqTQbYpDAS3Y9Iy9FBChIXn6sgpx1h3la4xtWD-wmmhgTX-E153H5I",
+      "pictureSource": "PGA Tour",
       "relatedSearch": [
         {
-          "title": "Scheffler wins BMW, fifth PGA Tour crown of '25",
+          "title": "Inside the field: See 30 players heading to season-ending TOUR Championship",
           "snippet": "",
-          "url": "https://www.espn.com/golf/story/_/id/46003726/scottie-scheffler-completes-comeback-wins-bmw-championship",
-          "source": "ESPN"
-        },
-        {
-          "title": "See how bubble drama unfolded for FedExCup top 30 at BMW Championship",
-          "snippet": "",
-          "url": "https://www.pgatour.com/article/news/latest/2025/08/17/fedexcup-live-blog-track-race-for-top-30-spots-bmw-championship-tour-championship-updates-projections-scenarios-bubble-rickie-fowler-chris-gotterup",
+          "url": "https://www.pgatour.com/article/news/inside-the-field/2025/08/17/see-whos-playing-tour-championship-atlanta-east-lake-fedexcup-playoffs-scottie-scheffler-rory-mcilroy",
           "source": "PGA Tour"
         },
         {
@@ -165,6 +159,12 @@
           "snippet": "",
           "url": "https://sports.yahoo.com/article/tour-championship-2025-field-qualified-220831360.html",
           "source": "Yahoo Sports"
+        },
+        {
+          "title": "BMW Championship: Scottie Scheffler chases down Robert MacIntyre heading into final round",
+          "snippet": "",
+          "url": "https://www.skysports.com/golf/news/12176/13413260/bmw-championship-scottie-scheffler-chases-down-robert-macintyre-heading-into-final-round",
+          "source": "Sky Sports"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -177,9 +177,9 @@
       "pictureSource": "GE",
       "relatedSearch": [
         {
-          "title": "Neymar chora na saída de campo após histórica goleada sofrida pelo Santos contra o Vasco",
+          "title": "Neymar desabafa após goleada sofrida pelo Santos: \"Foi tudo uma m...\"",
           "snippet": "",
-          "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2025/08/17/neymar-chora-na-saida-de-campo-apos-historica-goleada-sofrida-pelo-santos-contra-o-vasco.ghtml",
+          "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2025/08/17/neymar-desabafa-apos-goleada-sofrida-pelo-santos-sentimento-de-muita-vergonha.ghtml",
           "source": "GE"
         },
         {
@@ -189,10 +189,10 @@
           "source": "UOL"
         },
         {
-          "title": "⚠️ Cleber Xavier não resiste à derrota humilhante e é demitido do Santos",
+          "title": "Santos comunica saída do treinador meia-hora depois de derrota humilhante",
           "snippet": "",
-          "url": "https://onefootball.com/pt-br/noticias/cleber-xavier-nao-resiste-a-derrota-humilhante-e-e-demitido-do-santos-41526503",
-          "source": "OneFootball"
+          "url": "https://tvi.iol.pt/noticias/brasil/internacional/santos-comunica-saida-do-treinador-meia-hora-depois-de-derrota-humilhante",
+          "source": "TVI"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,9 +229,15 @@
       "title": "sporting vs arouca",
       "trafficCount": "200+",
       "pubDate": "Sun, 17 Aug 2025 13:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4fCrbiWBBjbk3rsgmZPXv0LiFeiBkUk2mXw6f4nVEREreo7vrGfoiTyldssc",
-      "pictureSource": "A Bola",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTA-JOEJn20qmW_T_YBm-IQ8Hg17LyJQwBENRFq5MxdLsvNcDpGZeM5qGWD68Y",
+      "pictureSource": "Record",
       "relatedSearch": [
+        {
+          "title": "Sporting-Arouca: duelo em 5 factos",
+          "snippet": "",
+          "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/sporting-arouca-duelo-em-5-factos",
+          "source": "Record"
+        },
         {
           "title": "Bicampeão com 'upgrade' deliciou Alvalade 2.0 (crónica)",
           "snippet": "",
@@ -243,12 +249,6 @@
           "snippet": "",
           "url": "https://tvi.iol.pt/noticias/liga/sporting/rui-borges-st-juste-estou-feliz-com-os-centrais-que-tenho",
           "source": "TVI"
-        },
-        {
-          "title": "Vasco Seabra: \"Queremos sempre jogar, mas também queremos ganhar, às vezes as pessoas confundem\"",
-          "snippet": "",
-          "url": "https://www.flashscore.pt/noticias/futebol-liga-portugal-betclic-vasco-seabra-queremos-sempre-jogar-mas-tambem-queremos-ganhar-as-vezes-as-pessoas-confundem/MajduEOp/",
-          "source": "Flashscore.pt"
         }
       ],
       "link": "https://imtaqin.id/"

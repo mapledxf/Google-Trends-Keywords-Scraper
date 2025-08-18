@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-08-18 14:48:22",
+  "lastUpdate": "2025-08-18 14:58:50",
   "data": [
     {
       "title": "goran vesić",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 18 Aug 2025 04:40:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxi31ndwExBMyxTbQ0XpQbAyqh-7UaQ4ArkdpJ1Nnv0blJFrOSQpg0L0WSAmQ",
       "pictureSource": "N1",
@@ -33,9 +33,15 @@
       "title": "tickets",
       "trafficCount": "100+",
       "pubDate": "Mon, 18 Aug 2025 03:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQipUuTSFGzFPVYxJCmdWZ-BbAHo-bF9rEIbgSSLuCll5yP2mLX1YFJnLQDr1U",
-      "pictureSource": "LADbible",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaPTIUjcEb05mnJhlRPHO82E9rNJKIo_QWODhMxKw7yETNbiLfBJB3mamd63Q",
+      "pictureSource": "BBC",
       "relatedSearch": [
+        {
+          "title": "Coldplay's world tour hits the UK in Hull",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/cdd3rz9j0d3t",
+          "source": "BBC"
+        },
         {
           "title": "Coldplay fans given ‘second chance’ with new drop of Wembley tickets ahead of sold-out UK tour",
           "snippet": "",
@@ -47,12 +53,6 @@
           "snippet": "",
           "url": "https://www.hulldailymail.co.uk/news/hull-east-yorkshire-news/weather-forecast-coldplays-concerts-hull-10433768",
           "source": "Hull Live"
-        },
-        {
-          "title": "Coldplay Set for Epic 10-Night Run at London’s Wembley Stadium",
-          "snippet": "",
-          "url": "https://globelynews.com/entertainment/coldplay-set-for-epic-10-night-run-at-londons-wembley-stadium/",
-          "source": "Globely News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,26 +145,26 @@
       "title": "telegraf",
       "trafficCount": "200+",
       "pubDate": "Sun, 17 Aug 2025 22:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjNn2wmp2g40LdRZImcvGPGrjpNBaJbGl_8uEtdtWLvEPMeSql0Vz3pA_C2TU",
-      "pictureSource": "Blic",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGvSbmBVDN_HwWppLhDu-h70VNjqPWCioHdgwjolwbjRu3UYVYOcGJxCtaJ9c",
+      "pictureSource": "Радио Телевизија Србије",
       "relatedSearch": [
-        {
-          "title": "PUTIN U EKSTAZI, TRAMP UDARIO NA ZELENSKOG KAO NIKAD PRE! Rusi provociraju, Evropi stigla MISTERIOZNA PORUKA: Haos pred sastanak veka, ceo svet na nogama (FOTO, VIDEO)",
-          "snippet": "",
-          "url": "https://www.blic.rs/vesti/svet/tramp-i-zelenski-nova-runda-pregovora-uzivo-putin-ceka-vesti-ceo-svet-na-nogama/m7h1l9x",
-          "source": "Blic"
-        },
-        {
-          "title": "Доналд Трамп: Зеленски мора да се одрекне Крима и чланства у НАТО",
-          "snippet": "",
-          "url": "https://www.politika.rs/scc/clanak/692559/donald-tramp-zelenski-mora-da-se-odrekne-krima-i-clanstva-u-nato",
-          "source": "Politika"
-        },
         {
           "title": "Zelenski i evropski lideri u Beloj kući; Tramp: Ništa od Krima i NATO-a, setite se kako je sve počelo",
           "snippet": "",
           "url": "https://www.rts.rs/lat/vesti/ratu-u-ukrajini/5771745/zelenski-i-evropski-lideri-u-beloj-kuci-tramp-nista-od-krima-i-nato-a-setite-se-kako-je-sve-pocelo.html",
           "source": "Радио Телевизија Србије"
+        },
+        {
+          "title": "Zelenski stigao: Moraće da se odrekne teritorija?",
+          "snippet": "",
+          "url": "https://www.b92.net/info/svet/155746/zelenski-stigao-u-vasington-na-sastanak-sa-trampom/vest",
+          "source": "B92"
+        },
+        {
+          "title": "Rezigniranost i izdaja: Šta bi predaja Donbasa Rusiji značila za Ukrajinu",
+          "snippet": "",
+          "url": "https://www.021.rs/story/BBC/418348/Rezigniranost-i-izdaja-Sta-bi-predaja-Donbasa-Rusiji-znacila-za-Ukrajinu.html",
+          "source": "021.rs"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -193,6 +193,34 @@
           "snippet": "",
           "url": "https://pescanik.net/spremte-se-spremte/",
           "source": "Peščanik"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "novosti",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 17 Aug 2025 22:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSARE11K4HpJqBqjp6RXiOesc1tOuHFXPUVIP6VZQ07fUf4T6hgBkasljtUbgY",
+      "pictureSource": "Antena M",
+      "relatedSearch": [
+        {
+          "title": "Poljsku u razgovorima sa Trampom predstavlja Navrocki, a ne Tusk, saopštio kabinet predsjednika",
+          "snippet": "",
+          "url": "https://www.antenam.net/svijet/377245-poljsku-u-razgovorima-sa-trampom-predstavlja-navrocki-a-ne-tusk-saopstio-kabinet-predsjednika",
+          "source": "Antena M"
+        },
+        {
+          "title": "KO FALI NA SAMITU? Zašto ova moćna država nije u Vašingtonu",
+          "snippet": "",
+          "url": "https://www.novosti.rs/planeta/svet/1519255/fali-samitu-zasto-ova-mocna-drzava-nije-vasingtonu",
+          "source": "Novosti"
+        },
+        {
+          "title": "ŠOK IZ VARŠAVE Umesto Tuska, na video-konferenciji sa TRAMPOM, Poljsku predstavlja ON",
+          "snippet": "",
+          "url": "https://www.alo.rs/vesti/svet/1101446/sok-iz-varsave-umesto-tuska-na-video-konferenciji-sa-trampom-poljsku-predstavlja-on/vest",
+          "source": "Alo.rs"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,10 +267,10 @@
           "source": "Blic"
         },
         {
-          "title": "Сутра променљиво облачно са сунчаним интервалима, понегде киша",
+          "title": "Временска прогноза 18. август 2025.",
           "snippet": "",
-          "url": "https://www.politika.rs/scc/clanak/692626/sutra-promenljivo-oblacno-sa-suncanim-intervalima-ponegde-kisa",
-          "source": "Politika"
+          "url": "https://www.rts.rs/vesti/vreme/5771628/vremenska-prognoza-18-avgust-2025.html",
+          "source": "Радио Телевизија Србије"
         },
         {
           "title": "RHMZ objavio prognozu za sedam dana",
@@ -251,15 +279,6 @@
           "source": "B92"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "princ filip karađorđević",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 17 Aug 2025 14:10:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]

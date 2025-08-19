@@ -1,6 +1,62 @@
 {
-  "lastUpdate": "2025-08-19 04:28:45",
+  "lastUpdate": "2025-08-19 04:45:09",
   "data": [
+    {
+      "title": "inews",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 18 Aug 2025 21:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTW6JWIz0f-MKoErfEanf4lbJUbZoXHJpj6xkNWaxuMGxX2lafAKL2bSvbk5Lg",
+      "pictureSource": "Fox News",
+      "relatedSearch": [
+        {
+          "title": "Zelenskyy returns to White House flanked by European allies as Trump pressures land deal with Putin",
+          "snippet": "",
+          "url": "https://www.foxnews.com/live-news/trump-zelenskyy-white-house-meeting-ukraine-russia-peace-deal",
+          "source": "Fox News"
+        },
+        {
+          "title": "Zelensky says he's ready for Putin talks as Europe welcomes Trump's security guarantees",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/cz93ve1p952t",
+          "source": "BBC"
+        },
+        {
+          "title": "American Leadership Is Back Under President Trump",
+          "snippet": "",
+          "url": "https://www.whitehouse.gov/articles/2025/08/american-leadership-is-back-under-president-trump/",
+          "source": "The White House (.gov)"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "الطقس",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 18 Aug 2025 21:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSP19a2xVV3jgr70LaNAqseQWV7ad16b_--BvXqya1MshMzSsSjnS9l3yNvCyg",
+      "pictureSource": "المشهد اليمني",
+      "relatedSearch": [
+        {
+          "title": "حالة الطقس في مصر اليوم الإثنين 18 -8- 2025",
+          "snippet": "",
+          "url": "https://www.almashhad.news/335204",
+          "source": "المشهد اليمني"
+        },
+        {
+          "title": "طقس حار ورطب اليوم.. الأرصاد تحذر من شبورة مائية واضطراب في الملاحة البحرية",
+          "snippet": "",
+          "url": "http://www.newsroom.info/136601",
+          "source": "نيوز رووم"
+        },
+        {
+          "title": "انقلاب مفاجئ في الطقس.. نهاية الموجة الحارة غدًا وأمطار رعدية تضرب هذه المناطق",
+          "snippet": "",
+          "url": "https://mansheet.net/130023/%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-%D9%85%D9%81%D8%A7%D8%AC%D8%A6-%D9%81%D9%8A-%D8%A7%D9%84%D8%B7%D9%82%D8%B3-%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%AC%D8%A9-%D8%A7%D9%84%D8%AD/",
+          "source": "جريدة مانشيت"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "συναντηση τραμπ ζελενσκι",
       "trafficCount": "500+",
@@ -15,23 +71,23 @@
           "source": "Kathimerini"
         },
         {
-          "title": "Ουκρανία: 5 πράγματα που μάθαμε από το μαραθώνιο θρίλερ στον Λευκό Οίκο",
-          "snippet": "",
-          "url": "https://www.news247.gr/kosmos/oukrania-5-pragmata-pou-mathame-apo-to-marathonio-thriler-ston-lefko-oiko/",
-          "source": "News 24/7"
-        },
-        {
           "title": "Ο Τραμπ διέκοψε τη συνάντηση στον Λευκό Οίκο για να τηλεφωνήσει στον Πούτιν – Οι συνομιλίες θα συνεχιστούν μετά την επικοινωνία τους (Live Blog)",
           "snippet": "",
           "url": "https://www.ertnews.gr/eidiseis/diethni/o-tramp-diekopse-ti-synantisi-ston-leyko-oiko-gia-na-tilefonisei-ston-poutin-oi-synomilies-tha-synexistoun-meta-tin-epikoinonia-tous-live-blog/",
           "source": "ertnews.gr"
+        },
+        {
+          "title": "Συνάντηση Πούτιν - Ζελένσκι (και Τραμπ) και οι εγγυήσεις ασφαλείας - Το φιλικό κλίμα στον Λευκό Οίκο άφησε πολλά ερωτήματα",
+          "snippet": "",
+          "url": "https://www.skai.gr/news/world/synantisi-poutin-zelenski-kai-tramp-kai-oi-eggyiseis-asfaleias-to-thermo-klima-ston-leyko",
+          "source": "Skai.gr"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "τραμπ",
-      "trafficCount": "200+",
+      "trafficCount": "100+",
       "pubDate": "Mon, 18 Aug 2025 20:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVVuj9NqA5e06_msXcVniFWPNuZbeqg7lg2RwxjBz8dlSYe55vALkOg6OJJb0",
       "pictureSource": "CNN",
@@ -49,10 +105,10 @@
           "source": "The New York Times"
         },
         {
-          "title": "Outline emerges of Putin's offer to end his war in Ukraine",
+          "title": "Why is Donbas region becoming a defining faultline in Ukraine talks?",
           "snippet": "",
-          "url": "https://www.reuters.com/world/china/outline-emerges-putins-offer-end-his-war-ukraine-2025-08-17/",
-          "source": "Reuters"
+          "url": "https://www.theguardian.com/world/2025/aug/18/donbas-faultline-ukraine-russia-talks-putin-trump-zelenskyy",
+          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,7 +117,7 @@
       "title": "σάκησ αρναούτογλου",
       "trafficCount": "20000+",
       "pubDate": "Mon, 18 Aug 2025 14:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfvc3d02eabvbgvkqO7p_iL_ywHKuSYUhqkRrSi0OVHNPIKDVtjG3_klRJ-IA",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqPOwcxmjDcqGm2nUtJkxK26gQTIPoqeRn3_6R5K2n5nxlRGSP3ypuo4_pJ_Q",
       "pictureSource": "Kathimerini",
       "relatedSearch": [
         {
@@ -77,10 +133,38 @@
           "source": "ertnews.gr"
         },
         {
-          "title": "Αλλάζει το σκηνικό του καιρού – Πού θα σημειωθούν βροχές και καταιγίδες",
+          "title": "Καιρός: Βροχές, καταιγίδες και μετά καύσωνας – Από πότε και πού «χτυπάει»",
           "snippet": "",
-          "url": "https://www.news247.gr/kairos/allazei-to-skiniko-tou-kairou-pou-tha-simeiothoun-vroxes-kai-kataigides/",
-          "source": "News 24/7"
+          "url": "https://www.tovima.gr/2025/08/18/society/kairos-vroxes-kataigides-kai-meta-kaysonas-apo-pote-kai-pou-xtypaei/",
+          "source": "ΤΟ ΒΗΜΑ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "cnn",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 18 Aug 2025 14:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWah_jVvlJfD7GO2-qursBPPEdxbl9RL1xNAHeGN2obn1dF3NdrIoVA2IE_NU",
+      "pictureSource": "CNN",
+      "relatedSearch": [
+        {
+          "title": "Trump’s remarkable statement against states’ rights",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/08/18/politics/mail-voting-trump-states-rights-analysis",
+          "source": "CNN"
+        },
+        {
+          "title": "Trump says lawyers are drafting executive order to end mail-in voting",
+          "snippet": "",
+          "url": "https://www.theguardian.com/us-news/2025/aug/18/trump-mail-in-ballots-voting-machines-2016-midterms",
+          "source": "The Guardian"
+        },
+        {
+          "title": "No, President Trump Can't Ban Mail in Ballots or Voting Machines, as His Truth Social Post Suggests He Might Try to Do",
+          "snippet": "",
+          "url": "https://electionlawblog.org/?p=151633",
+          "source": "Election Law Blog"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,26 +173,26 @@
       "title": "bbc",
       "trafficCount": "200+",
       "pubDate": "Mon, 18 Aug 2025 14:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTR3M83j1Hg4a8GzaLtZ5vKNrDfzWohBf1kFr5NP8XekRMgP0f992gtNOTyp8k",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwDB5MXZruCJDBczfNWRu-ZsddAI7yjyG3kvmAUnqGIhRPZEhfoWFmeRZJNaQ",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Pakistan floods: Hundreds killed within days in rain-related incidents",
+          "title": "BBC News Pidgin launches on TikTok",
           "snippet": "",
-          "url": "https://www.bbc.com/news/articles/ce3jeed2798o",
+          "url": "https://www.bbc.co.uk/mediacentre/bbc-news-pidgin-tik-tok",
           "source": "BBC"
         },
         {
-          "title": "Pakistan resumes relief work after heavy rains disrupted emergency efforts",
+          "title": "BBC postpones Ozzy Osbourne documentary Coming Home",
           "snippet": "",
-          "url": "https://www.vaticannews.va/en/world/news/2025-08/pakistan-resumes-relief-work-after-heavy-rains-disrupted-efforts.html",
-          "source": "Vatican News"
+          "url": "https://www.bbc.com/news/articles/cly41jzxxmpo",
+          "source": "BBC"
         },
         {
-          "title": "Pakistan: Help slow to arrive after deadly monsoon",
+          "title": "Ozzy Osbourne Doc Covering Final Years Pulled Hours Before Premiere",
           "snippet": "",
-          "url": "https://www.dw.com/en/pakistan-help-slow-to-arrive-after-deadly-monsoon/video-73675474",
-          "source": "DW"
+          "url": "https://www.rollingstone.com/music/music-news/ozzy-osbourne-coming-home-documentary-postponed-bbc-1235410369/",
+          "source": "Rolling Stone"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,10 +245,10 @@
           "source": "ProtoThema"
         },
         {
-          "title": "Προβάδισμα ποιότητας & εμπειρίας",
+          "title": "Προγνωστικά Κιαπεκάκης | Το άΧαστο της Δευτέρας",
           "snippet": "",
-          "url": "https://www.bethome.gr/provadiasma-poiothtas-kai-empeirias/",
-          "source": "Bethome"
+          "url": "https://www.foxbet.gr/author/panos-kiapekakis/314349-to-achasto-tis-defteras",
+          "source": "Foxbet.gr"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -193,90 +277,6 @@
           "snippet": "",
           "url": "https://hellasjournal.com/2025/08/o-trab-echei-tin-ischy-na-anagkasei-ton-poutin-se-eirini-leei-o-zelenski-epimenei-gia-amerikanikes-engyiseis-asfaleias-prin-ti-synantisi-me-ton-amerikano-proedro/",
           "source": "Hellasjournal.com -"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "μαρία σάκκαρη",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 18 Aug 2025 13:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_Nbm1OUDonNUhK2pmtOMWOnMMYvo5JTeOFagybiQlFoOnkVSZmmzE1js0Tgs",
-      "pictureSource": "Μακεδονικό Πρακτορείο Ειδήσεων",
-      "relatedSearch": [
-        {
-          "title": "Η Σάκκαρη ξεκινάει με Βέκιτς στο τουρνουά του Μοντερέι",
-          "snippet": "",
-          "url": "https://www.amna.gr/sport/article/926449/I-Sakkari-xekinaei-me-Bekits-sto-tournoua-tou-Monterei",
-          "source": "Μακεδονικό Πρακτορείο Ειδήσεων"
-        },
-        {
-          "title": "Μαρία Σάκκαρη: Πρεμιέρα τα ξημερώματα της Τρίτης στο Μοντερέι απέναντι στη Βέκιτς",
-          "snippet": "",
-          "url": "https://www.protothema.gr/sports/article/1683947/maria-sakkari-premiera-sto-moderei-apenadi-sti-vekits/",
-          "source": "ProtoThema"
-        },
-        {
-          "title": "Μαρία Σάκκαρη – Ντόνα Βέκιτς: Ξημερώματα Τρίτης η πρεμιέρα στο Μεξικό",
-          "snippet": "",
-          "url": "https://www.newsit.gr/athlitika/maria-sakkari-ntona-vekits-ksimeromata-tritis-i-premiera-sto-meksiko/4453198/",
-          "source": "NewsIT"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "φωτια λαρισα",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 18 Aug 2025 13:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYoFf_L9TQLQxjLAewCRKXixa0rQSzPzDnvVV8THkheGOeRU3bJw-EzQucmQM",
-      "pictureSource": "ProtoThema",
-      "relatedSearch": [
-        {
-          "title": "Μεγάλη φωτιά στο Αμύγδαλο Τυρνάβου - Ορατός στη Λάρισα ο καπνός, δείτε βίντεο και φωτογραφίες",
-          "snippet": "",
-          "url": "https://www.protothema.gr/greece/article/1684033/fotia-tora-sto-amugdalo-turnavou/",
-          "source": "ProtoThema"
-        },
-        {
-          "title": "Σε εξέλιξη η φωτιά στον Τύρναβο – Ενισχύθηκαν οι πυροσβεστικές δυνάμεις",
-          "snippet": "",
-          "url": "https://www.in.gr/2025/08/18/greece/se-ekseliksi-fotia-ston-tyrnavo-enisxythikan-oi-pyrosvestikes-dynameis/",
-          "source": "In.gr"
-        },
-        {
-          "title": "Εκτός ελέγχου η φωτιά στον Τύρναβο",
-          "snippet": "",
-          "url": "https://www.dnews.gr/eidhseis/ellada/541577/ektos-elegxou-i-fotia-ston-tyrnavo",
-          "source": "Dnews"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "paolini",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 18 Aug 2025 13:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5O6Vs9gPGxkdr8_2J8ZRSuX6xouFvz3J0FncahBWnbPfQcc8DQ1bnA3d1dzA",
-      "pictureSource": "Sky Sport",
-      "relatedSearch": [
-        {
-          "title": "Sinner si ritira, Alcaraz vince a Cincinnati",
-          "snippet": "",
-          "url": "https://sport.sky.it/tennis/2025/08/18/sinner-alcaraz-atp-cincinnati-risultato",
-          "source": "Sky Sport"
-        },
-        {
-          "title": "E' una Paolini da applausi, ma la Swiatek è troppo forte e si prende Cincinnati",
-          "snippet": "",
-          "url": "https://www.gazzetta.it/Tennis/WTA/19-08-2025/tennis-la-paolini-perde-in-finale-a-cincinnati-con-la-swiatek.shtml",
-          "source": "La Gazzetta dello Sport"
-        },
-        {
-          "title": "Jasmine lotta e incanta, ma Swiatek vince il titolo",
-          "snippet": "",
-          "url": "https://lavocedinewyork.com/lifestyles/sport/2025/08/18/jasmine-lotta-e-incanta-ma-swiatek-vince-il-titolo/",
-          "source": "La Voce di New York"
         }
       ],
       "link": "https://imtaqin.id/"

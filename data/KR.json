@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-08-20 19:53:48",
+  "lastUpdate": "2025-08-20 20:10:25",
   "data": [
     {
       "title": "에제",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 20 Aug 2025 11:50:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzpmLcbWybZ3_uTSdMdB_qY9GbXDJpiKmrFesI0QUucmrdNEeul4d-omu4vuI",
       "pictureSource": "네이트 스포츠",
@@ -89,26 +89,54 @@
       "title": "nasdaq",
       "trafficCount": "100+",
       "pubDate": "Wed, 20 Aug 2025 07:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSn2lgxbdpkmPKoSIG2WllWKhrnZPrxiYvgSDLhILWL2VK7PL9qpq07tDeKyfk",
-      "pictureSource": "Yahoo Finance",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpGzOtFR7Q4jiLVaWkXfx-mVTZ1QouZV3L1o6vLmS89mFeJnqZj1deaocjk5c",
+      "pictureSource": "MSN",
       "relatedSearch": [
+        {
+          "title": "If You'd Invested $10,000 in Apple Stock 30 Years Ago, Here's How Much You'd Have Today",
+          "snippet": "",
+          "url": "https://www.msn.com/en-us/money/topstocks/if-you-d-invested-10-000-in-apple-stock-30-years-ago-here-s-how-much-you-d-have-today/ar-AA1KS7Mu?ocid=finance-verthp-feeds",
+          "source": "MSN"
+        },
+        {
+          "title": "If You'd Invested $10,000 in Apple Stock 30 Years Ago, Here's How Much You'd Have Today",
+          "snippet": "",
+          "url": "https://www.aol.com/youd-invested-10-000-apple-112300080.html",
+          "source": "AOL.com"
+        },
         {
           "title": "Stock market today: Nasdaq leads market decline as tech stocks get hammered for second day",
           "snippet": "",
           "url": "https://finance.yahoo.com/news/live/stock-market-today-nasdaq-leads-market-decline-as-tech-stocks-get-hammered-for-second-day-230802628.html",
           "source": "Yahoo Finance"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "fomc",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 20 Aug 2025 07:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8BYb3RQ-mPu6534NzlHHsVhJ9q75AOx7xqtX4rJQt0-oMWM-JEs-VWlk_WA4",
+      "pictureSource": "CNBC",
+      "relatedSearch": [
+        {
+          "title": "Divided Fed worried about tariffs, inflation and the labor market, minutes show",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/08/20/fed-minutes-august-2025.html",
+          "source": "CNBC"
         },
         {
-          "title": "Nasdaq 100 Falls 1.5% as Tech-Led Selloff Picks Up: Markets Wrap",
+          "title": "Fed Officials Split Over How to Read Economic Signals",
           "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2025-08-19/stock-market-today-dow-s-p-live-updates",
-          "source": "Bloomberg"
+          "url": "https://www.nytimes.com/2025/08/20/business/federal-reserve-july-minutes.html",
+          "source": "The New York Times"
         },
         {
-          "title": "Wall Street falls further from its records as Nvidia, Palantir and other AI stars dim",
+          "title": "Fed dissenters appeared alone in favoring rate cut at July meeting, minutes show",
           "snippet": "",
-          "url": "https://apnews.com/article/stocks-markets-intel-trump-rates-0a2f07987dabb74a8da0927023a92610",
-          "source": "AP News"
+          "url": "https://www.reuters.com/business/fed-dissenters-appeared-alone-favoring-rate-cut-july-meeting-minutes-show-2025-08-20/",
+          "source": "Reuters"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -137,34 +165,6 @@
           "snippet": "",
           "url": "https://news.nate.com/view/20250821n00335",
           "source": "네이트"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "fomc",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 20 Aug 2025 07:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8BYb3RQ-mPu6534NzlHHsVhJ9q75AOx7xqtX4rJQt0-oMWM-JEs-VWlk_WA4",
-      "pictureSource": "CNBC",
-      "relatedSearch": [
-        {
-          "title": "Divided Fed worried about tariffs, inflation and the labor market, minutes show",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2025/08/20/fed-minutes-august-2025.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Watch Fed Minutes Show Majority of FOMC Saw Inflation as Greater Risk",
-          "snippet": "",
-          "url": "https://www.bloomberg.com/news/videos/2025-08-20/fed-minutes-show-majority-saw-inflation-as-greater-risk-video",
-          "source": "Bloomberg"
-        },
-        {
-          "title": "Fed Officials Split Over How to Read Economic Signals",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2025/08/20/business/federal-reserve-july-minutes.html",
-          "source": "The New York Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +211,16 @@
           "source": "CNN"
         },
         {
-          "title": "CNBC Daily Open: Trump's expanded tariffs mean putting out home fires could be more expensive",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2025/08/20/cnbc-daily-open-expanded-tariffs-mean-extinguishing-fires-could-be-costlier.html",
-          "source": "CNBC"
-        },
-        {
           "title": "U.S. hikes steel, aluminum tariffs on imported appliances, railcars, EV parts",
           "snippet": "",
           "url": "https://www.cbc.ca/news/canada/windsor/united-states-steel-aluminum-appliances-railcars-electric-vehicle-tariffs-1.7613645",
           "source": "CBC"
+        },
+        {
+          "title": "CNBC Daily Open: Trump's expanded tariffs mean putting out home fires could be more expensive",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/08/20/cnbc-daily-open-expanded-tariffs-mean-extinguishing-fires-could-be-costlier.html",
+          "source": "CNBC"
         }
       ],
       "link": "https://imtaqin.id/"

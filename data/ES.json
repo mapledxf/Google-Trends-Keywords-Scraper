@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-08-20 05:10:51",
+  "lastUpdate": "2025-08-20 05:32:31",
   "data": [
-    {
-      "title": "weather",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 19 Aug 2025 22:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhXRYggYH4Jq6nw_ri8-k6r2ivppx-dUQkzUNFKZIocWR7meWDIMg9z-ZrN5A",
-      "pictureSource": "KOAT",
-      "relatedSearch": [
-        {
-          "title": "Flash flood warning includes Bernalillo County",
-          "snippet": "",
-          "url": "https://www.koat.com/article/albuquerque-flood-warning-aug-19-2025/65824117",
-          "source": "KOAT"
-        },
-        {
-          "title": "Drier air moves into parts of New Mexico to end the week",
-          "snippet": "",
-          "url": "https://www.krqe.com/weather/video-forecast/drier-air-moves-into-parts-of-new-mexico-to-end-the-week/",
-          "source": "KRQE"
-        },
-        {
-          "title": "Albuquerque Weather: Thunderstorm Chances Increase Tuesday Night With Highs in the 90s",
-          "snippet": "",
-          "url": "https://countryherald.com/news/albuquerque-weather-thunderstorm-chances-increase-tuesday-night-with-highs-in-the-90s/",
-          "source": "Country Herald"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "temps",
       "trafficCount": "1000+",
@@ -53,6 +25,34 @@
           "snippet": "",
           "url": "https://www.gov.ca.gov/2025/08/19/with-heat-and-fire-weather-incoming-governor-newsom-pre-deploys-resources-to-los-angeles-county/",
           "source": "Governor of California (.gov)"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 19 Aug 2025 22:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhXRYggYH4Jq6nw_ri8-k6r2ivppx-dUQkzUNFKZIocWR7meWDIMg9z-ZrN5A",
+      "pictureSource": "KOAT",
+      "relatedSearch": [
+        {
+          "title": "Flash flood warning includes Bernalillo County",
+          "snippet": "",
+          "url": "https://www.koat.com/article/albuquerque-flood-warning-aug-19-2025/65824117",
+          "source": "KOAT"
+        },
+        {
+          "title": "Drier air moves into parts of New Mexico to end the week",
+          "snippet": "",
+          "url": "https://www.krqe.com/weather/video-forecast/drier-air-moves-into-parts-of-new-mexico-to-end-the-week/",
+          "source": "KRQE"
+        },
+        {
+          "title": "Albuquerque Weather: Thunderstorm Chances Increase Tuesday Night With Highs in the 90s",
+          "snippet": "",
+          "url": "https://countryherald.com/news/albuquerque-weather-thunderstorm-chances-increase-tuesday-night-with-highs-in-the-90s/",
+          "source": "Country Herald"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,20 +117,20 @@
       "title": "incendio jarilla",
       "trafficCount": "200+",
       "pubDate": "Tue, 19 Aug 2025 21:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWykvdXsCg8GRNYG3oB1mqg-EsCm9upzv9-etyJmMbFA242JTZQrcMhXUv-h0",
-      "pictureSource": "El Mundo",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyYP4wntRX1eikJ8FVwNGYjFxJNXAtUUVjQ6YE4ukxQLfbrNMBetLMnarlmM8",
+      "pictureSource": "RTVE.es",
       "relatedSearch": [
         {
-          "title": "El fuego de Jarilla (Cáceres) se encuentra \"totalmente descontrolado\" y penetra en el Valle del Jerte",
+          "title": "Castilla y León Informativos",
           "snippet": "",
-          "url": "https://www.elmundo.es/espana/2025/08/16/68a06162e4d4d8cc2e8b4581.html",
-          "source": "El Mundo"
+          "url": "https://www.rtve.es/play/audios/castilla-y-leon-informativos/informativo-salamanca-13-45-19-08-25-informativo-salamanca-13-45-19-08-25/16700916/",
+          "source": "RTVE.es"
         },
         {
-          "title": "Extremadura Informativos - RNE | RNE Audio",
+          "title": "Trabajos de la UME y BRIF en el incendio de Jarilla (Cáceres)",
           "snippet": "",
-          "url": "https://www.rtve.es/play/audios/extremadura-informativos/informativo-extremadura-manana-19-08-2025/16700599/",
-          "source": "RTVE.es"
+          "url": "https://www.abc.es/sociedad/trabajos-ume-brif-incendio-jarilla-caceres-20250819100906-vi.html",
+          "source": "ABC"
         },
         {
           "title": "Efectivos creen que hoy puede ser el día clave en la extinción del incendio de Jarilla",
@@ -145,9 +145,15 @@
       "title": "incendios activos",
       "trafficCount": "100+",
       "pubDate": "Tue, 19 Aug 2025 21:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyMZP0YUydtmoEyLq1XYkHsQLaD3-gb7FeJsiz8oHpKrde_8PFptygrhcRqQ",
-      "pictureSource": "EL PAÍS",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOzzP1Igm_tTYQuLB6tUbVhBcbS0sC2FZJRyKtDIS9TCyS6sFluSysJao3OBc",
+      "pictureSource": "El Mundo",
       "relatedSearch": [
+        {
+          "title": "Incendios graves hoy en España, última hora en directo | Siguen sin control 21 incendios de nivel 2, sobre todo en Castilla y León, Galicia y Extremadura, mientras la cifra de desalojados asciende a 33.750",
+          "snippet": "",
+          "url": "https://www.elmundo.es/espana/2025/08/19/68a411cca75cca894112042f-directo.html",
+          "source": "El Mundo"
+        },
         {
           "title": "Qué está pasando con los incendios en Galicia, Extremadura y Castilla y León",
           "snippet": "",
@@ -159,12 +165,6 @@
           "snippet": "",
           "url": "https://www.eldiario.es/sociedad/ola-incendios-directo-evolucion-fuego-comunidad-comunidad_1_12542776.html",
           "source": "elDiario.es"
-        },
-        {
-          "title": "Un total de 382.607 hectáreas han ardido en España en lo que va de año, según Copernicus",
-          "snippet": "",
-          "url": "https://www.abc.es/sociedad/total-382607-hectareas-ardido-espana-ano-segun-20250819111807-vi.html",
-          "source": "ABC"
         }
       ],
       "link": "https://imtaqin.id/"

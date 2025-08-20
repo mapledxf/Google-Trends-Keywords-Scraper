@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-20 06:37:59",
+  "lastUpdate": "2025-08-20 06:56:04",
   "data": [
     {
       "title": "narodna banka srbije",
@@ -33,9 +33,15 @@
       "title": "mozzart sport",
       "trafficCount": "200+",
       "pubDate": "Tue, 19 Aug 2025 14:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXvJrOsU35lHNiagJZXnYnstVA1SU7yO6_30o1U3YjEH3UmcU8OkQhaxUQu0o",
-      "pictureSource": "Mozzart Sport",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzUErhnjgh-0gaPuP6LRieIOQaA6k_v-0gSYXDyGIOqvHsSXmZxZ1W1L547Ig",
+      "pictureSource": "B92",
       "relatedSearch": [
+        {
+          "title": "Partizan odbio premijerligaša – \"neprihvatljivo\" mala ponuda",
+          "snippet": "",
+          "url": "https://www.b92.net/sport/fudbal/evrokupovi/156378/partizan-odbio-ponudu-fulama-za-dusana-jovanovica/vest",
+          "source": "B92"
+        },
         {
           "title": "Fulam poslao zvaničnu ponudu Partizanu: Hoće da kupi Dušana Jovanovića",
           "snippet": "",
@@ -43,24 +49,18 @@
           "source": "Mozzart Sport"
         },
         {
-          "title": "Fulam krenuo po Partizanovo dete!",
+          "title": "STIGLA PONUDA IZ PREMIJER LIGE! Partizanov biser uskoro oblači dres slavnog kluba?",
           "snippet": "",
-          "url": "https://www.b92.net/sport/fudbal/lige-petice/156295/fulam-krenuo-po-partizanovo-dete/vest",
-          "source": "B92"
-        },
-        {
-          "title": "Premijerligaš zagrizao za mladog igrača Partizana!",
-          "snippet": "",
-          "url": "https://sportal.blic.rs/prica/dusan-jovanovic-napusta-partizana-i-ide-u-fulam-2025081917264727479",
-          "source": "Sportal.rs"
+          "url": "https://sportissimo.republika.rs/fudbal/fk-partizan/49958/fk-fulam-dusan-jovanovic-partizan",
+          "source": "Sportissimo Republika"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "uefa champions league",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 19 Aug 2025 14:10:00 -0700",
+      "title": "fc pafos",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 19 Aug 2025 14:00:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB9RlF1AeW0epLflGHmdmy82QDfbeqo9TisWecHgZ6RA0koW0wLtZKDYGMvQ",
       "pictureSource": "UEFA.com",
       "relatedSearch": [
@@ -155,16 +155,16 @@
           "source": "Sunderland AFC"
         },
         {
+          "title": "Sunderland adds second bookie shirt sponsor with LiveScore Bet taking sleeve patch",
+          "snippet": "",
+          "url": "https://www.insideworldfootball.com/2025/08/15/sunderland-adds-second-bookie-shirt-sponsor-livescore-bet-taking-sleeve-patch/",
+          "source": "Inside World Football"
+        },
+        {
           "title": "LiveScore Bet joins Sunderland AFC as official sleeve partner for 2025/26 Premier League season",
           "snippet": "",
           "url": "https://africa.businessinsider.com/local/lifestyle/livescore-bet-joins-sunderland-afc-as-official-sleeve-partner-for-202526-premier/1fgjz9m",
           "source": "Business Insider Africa"
-        },
-        {
-          "title": "How live scores are changing the way Kenyan fans follow football in 2025",
-          "snippet": "",
-          "url": "https://www.pulselive.co.ke/articles/news/news-sports/how-live-scores-are-changing-the-way-kenyan-fans-follow-football-in-2025-2025081913573030210",
-          "source": "Pulselive Kenya"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -198,8 +198,36 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "pafos fc",
-      "trafficCount": "2000+",
+      "title": "kipar",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 19 Aug 2025 12:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhx9adlat_v0s7B-3bTxK3eKz57JmimrtSIMRS27yllN5dYzYSBW-fTLmXIdo",
+      "pictureSource": "Blic",
+      "relatedSearch": [
+        {
+          "title": "Skoro 400 kamiona pomoći ušlo u Gazu, stižu i isporuke iz vazduha: Svaka paleta sadrži tonu hrane",
+          "snippet": "",
+          "url": "https://www.blic.rs/vesti/svet/skoro-400-kamiona-pomoci-uslo-u-gazu-stizu-i-isporuke-iz-vazduha/dywtph3",
+          "source": "Blic"
+        },
+        {
+          "title": "Strašan broj: Skoro 19.000 dece je ubijeno",
+          "snippet": "",
+          "url": "https://www.b92.net/info/svet/156368/strasan-broj-skoro-19000-dece-je-ubijeno/vest",
+          "source": "B92"
+        },
+        {
+          "title": "UNICEF: Svakog meseca u Pojasu Gaze je ubijeno više od 540 dece",
+          "snippet": "",
+          "url": "https://www.rtv.rs/sr_lat/svet/unicef-svakog-meseca-u-pojasu-gaze-je-ubijeno-vise-od-540-dece_1651128.html",
+          "source": "Радио-телевизија Војводине"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "zvezda utakmica",
+      "trafficCount": "500+",
       "pubDate": "Tue, 19 Aug 2025 12:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShVfQXVUl4EWsGoc6NpiN4wTXWqI7V-AHy5vvktcKvn1pTpzKVPmowGXCj-54",
       "pictureSource": "Mozzart Sport",
@@ -217,10 +245,10 @@
           "source": "Politika"
         },
         {
-          "title": "Navijači Pafosa oduševili Marakanu zastavama koje su okačili na ogradu",
+          "title": "Šta se to dešava?! Milojević izveo Olajinku posle pola sata",
           "snippet": "",
-          "url": "https://www.telegraf.rs/sport/fudbal/4166050-navijaci-pafosa-odusevili-marakanu-zastavama-koje-su-okacili-na-ogradu",
-          "source": "Telegraf.rs"
+          "url": "https://sportal.blic.rs/prica/piter-olajinka-izasao-posle-31-minuta-na-mecu-crvena-zvezda-pafos-2025081919402839102",
+          "source": "Sportal.rs"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "http://english.news.cn/20250820/1e41d83cd77f4c41a3b0fa3cbca0e357/c.html",
           "source": "Xinhua"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "us open",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 19 Aug 2025 11:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoj9oabPYcFvpIEt9cLGfCW1FeT_f6ZL8u3_qa2A57sdRy6OOpTW2qZudzCRQ",
-      "pictureSource": "Sportklub",
-      "relatedSearch": [
-        {
-          "title": "Poraz Olge Danilović i Novaka Đokovića na startu US Opena",
-          "snippet": "",
-          "url": "https://sportklub.n1info.rs/tenis/us-open/uzivo-novak-djokovic-olga-danilovic-us-open-live-stream-izvestaj-sport-klub/",
-          "source": "Sportklub"
-        },
-        {
-          "title": "Kraj za Novaka i Olgu na Ju-Es openu",
-          "snippet": "",
-          "url": "https://www.danas.rs/sport/kraj-za-novaka-i-olgu-na-ju-es-openu/",
-          "source": "Danas"
-        },
-        {
-          "title": "Đoković i Danilovićeva izgubili od ruskog para u Njujorku | Tenis | RTS",
-          "snippet": "",
-          "url": "https://www.rts.rs/lat/sport/tenis/5772690/djokovic-danilovic-medvedev-andrejeva-miks-dubl-ju-es-open-2025-prvo-kolo.html",
-          "source": "www.rts.rs"
         }
       ],
       "link": "https://imtaqin.id/"

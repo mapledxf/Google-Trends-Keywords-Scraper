@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-08-22 15:49:23",
+  "lastUpdate": "2025-08-22 15:57:14",
   "data": [
+    {
+      "title": "羅明才",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 22 Aug 2025 08:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHQaTmjj6m3PZOimh08MhmaU3eEdH9rXovZIgbrZdlkjBGR-hzorDcoNXuj74",
+      "pictureSource": "中央社 CNA",
+      "relatedSearch": [
+        {
+          "title": "藍白大咖挺羅明才反罷綠營與罷團催同意票| 政治",
+          "snippet": "",
+          "url": "https://www.cna.com.tw/news/aipl/202508220342.aspx",
+          "source": "中央社 CNA"
+        },
+        {
+          "title": "羅明才新店舉辦反惡罷之夜 男子衝台潑冥紙遭警方壓制送辦",
+          "snippet": "",
+          "url": "https://www.cdns.com.tw/articles/1273561",
+          "source": "中華新聞雲"
+        },
+        {
+          "title": "藍營重量級人物站台反惡罷之夜 侯友宜：羅明才被罷掉我就沒戲唱了",
+          "snippet": "",
+          "url": "https://udn.com/news/story/124323/8957180",
+          "source": "聯合新聞網"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "美元指數",
       "trafficCount": "200+",
@@ -59,7 +87,7 @@
     },
     {
       "title": "美債殖利率",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 22 Aug 2025 07:50:00 -0700",
       "picture": "",
       "pictureSource": "",
@@ -104,34 +132,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "eth",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 22 Aug 2025 07:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWs1BRTkZrYXtegA-krjrQmOR-9WPM7M4lDs-DU-hZvHbc7FfiFVMFxAU_y0U",
-      "pictureSource": "Cointelegraph",
-      "relatedSearch": [
-        {
-          "title": "ETH futures data reflects traders’ fear, while onchain data points to a price recovery",
-          "snippet": "",
-          "url": "https://cointelegraph.com/news/eth-futures-data-reflects-traders-fear-while-onchain-data-points-to-a-price-recovery",
-          "source": "Cointelegraph"
-        },
-        {
-          "title": "Ethereum Price Watch: Bulls Eye $4,550 as Support Holds Steady at $4,300",
-          "snippet": "",
-          "url": "https://news.bitcoin.com/ethereum-price-watch-bulls-eye-4550-as-support-holds-steady-at-4300/",
-          "source": "Bitcoin.com News"
-        },
-        {
-          "title": "Is the 2025 Bull Run Dead? ETH/USD Plummets Below $4150 Overnight, Rebound in Sight?",
-          "snippet": "",
-          "url": "https://cryptonews.com/news/is-the-2025-bull-run-dead-eth-usd-plummets-below-4150-overnight-rebound-in-sight/",
-          "source": "Cryptonews"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "道瓊",
       "trafficCount": "200+",
       "pubDate": "Fri, 22 Aug 2025 07:30:00 -0700",
@@ -160,6 +160,62 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "eth",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 22 Aug 2025 07:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWs1BRTkZrYXtegA-krjrQmOR-9WPM7M4lDs-DU-hZvHbc7FfiFVMFxAU_y0U",
+      "pictureSource": "Cointelegraph",
+      "relatedSearch": [
+        {
+          "title": "ETH futures data reflects traders’ fear, while onchain data points to a price recovery",
+          "snippet": "",
+          "url": "https://cointelegraph.com/news/eth-futures-data-reflects-traders-fear-while-onchain-data-points-to-a-price-recovery",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Ethereum Price Watch: Bulls Eye $4,550 as Support Holds Steady at $4,300",
+          "snippet": "",
+          "url": "https://news.bitcoin.com/ethereum-price-watch-bulls-eye-4550-as-support-holds-steady-at-4300/",
+          "source": "Bitcoin.com News"
+        },
+        {
+          "title": "Is the 2025 Bull Run Dead? ETH/USD Plummets Below $4150 Overnight, Rebound in Sight?",
+          "snippet": "",
+          "url": "https://cryptonews.com/news/is-the-2025-bull-run-dead-eth-usd-plummets-below-4150-overnight-rebound-in-sight/",
+          "source": "Cryptonews"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "cnn",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 22 Aug 2025 07:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSM9N3EiKKOBaf88REVp6ZvO6T56hkiY8jtXvGiBB_WrCz8pNFGf3XNRGc7_CA",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Famine confirmed in Gaza City for first time, UN-backed report says",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/ckgj0yn3dzjt",
+          "source": "BBC"
+        },
+        {
+          "title": "Malnourished kids arrive daily at a Gaza hospital as Netanyahu denies hunger",
+          "snippet": "",
+          "url": "https://apnews.com/article/palestinians-gaza-children-starvation-israel-netanyahu-0549e843c24fe7f20f1e7ce085502450",
+          "source": "AP News"
+        },
+        {
+          "title": "FBI Executes Court-Authorized Search at Former National Security Adviser John Bolton's Home",
+          "snippet": "",
+          "url": "https://uk.news.yahoo.com/fbi-executes-court-authorized-search-150000040.html",
+          "source": "Yahoo News UK"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "btc",
       "trafficCount": "200+",
       "pubDate": "Fri, 22 Aug 2025 07:20:00 -0700",
@@ -183,62 +239,6 @@
           "snippet": "",
           "url": "https://www.marketscreener.com/news/microbit-capital-launches-bitcoin-ether-spot-etf-in-hong-kong-ce7c50dada88f621",
           "source": "MarketScreener"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "powell",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 22 Aug 2025 07:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8_sMgOXCgYLUq_KyUeb-NWu3Y0YaOiU4pAVd2v6MOBbziLmqFpWPtjHEDu1Y",
-      "pictureSource": "CNBC",
-      "relatedSearch": [
-        {
-          "title": "Dow soars 900 points to record as Powell speech sparks broad market rally: Live updates",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2025/08/21/stock-market-today-live-updates.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Jerome Powell hints long-awaited rate cuts are coming soon — the first during Trump’s term",
-          "snippet": "",
-          "url": "https://www.cnn.com/2025/08/22/economy/fed-powell-jackson-hole-speech",
-          "source": "CNN"
-        },
-        {
-          "title": "Wall Street closes down as investors brace for Powell's speech",
-          "snippet": "",
-          "url": "https://www.reuters.com/business/wall-street-closes-down-investors-brace-powells-speech-2025-08-21/",
-          "source": "Reuters"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "張洺瑀",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 22 Aug 2025 07:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSZAq0Y0E-AeBfCo4LwcpllOBRoIrNWED6YRNsW8nvAaRpSTRtyRliKe9A6fI",
-      "pictureSource": "自由體育",
-      "relatedSearch": [
-        {
-          "title": "中職》富邦悍將逆轉味全龍 進職棒9年的張洺瑀生涯首獲MVP",
-          "snippet": "",
-          "url": "https://sports.ltn.com.tw/news/breakingnews/5153322",
-          "source": "自由體育"
-        },
-        {
-          "title": "悍將賞龍隊4連敗 張洺瑀超前安打9年來首奪MVP",
-          "snippet": "",
-          "url": "https://www.cna.com.tw/news/aspt/202508220351.aspx",
-          "source": "中央社 CNA"
-        },
-        {
-          "title": "張洺瑀代打敲超前安助隊勝 生涯首度獲選MVP (圖)",
-          "snippet": "",
-          "url": "https://tw.sports.yahoo.com/news/%E5%BC%B5%E6%B4%BA%E7%91%80%E4%BB%A3%E6%89%93%E6%95%B2%E8%B6%85%E5%89%8D%E5%AE%89%E5%8A%A9%E9%9A%8A%E5%8B%9D-%E7%94%9F%E6%B6%AF%E9%A6%96%E5%BA%A6%E7%8D%B2%E9%81%B8mvp-%E5%9C%96-144435132.html",
-          "source": "奇摩運動"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-22 07:18:40",
+  "lastUpdate": "2025-08-22 07:31:22",
   "data": [
     {
       "title": "leonardo vaca diez gentile",
@@ -33,15 +33,9 @@
       "title": "lanus",
       "trafficCount": "500+",
       "pubDate": "Thu, 21 Aug 2025 18:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqJRbyNbFD-Z9OV49pmNvNATs_o8DD6PvzWFeeLEj7O2dPGnm2OLFLTXtCG5w",
-      "pictureSource": "Olé",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ67EOcVezH1ml4naVBoqz2sN1NCTy-cTmuva_1qZ8ABkwUUpPJZkjFAy6hZT4",
+      "pictureSource": "OneFootball",
       "relatedSearch": [
-        {
-          "title": "Copa Sudamericana: la llave de cuartos de final, ya con Lanús clasificado",
-          "snippet": "",
-          "url": "https://www.ole.com.ar/futbol-internacional/sudamericana/copa-sudamericana-2025-llave-cuartos-final_0_yVqvF2axTn.html",
-          "source": "Olé"
-        },
         {
           "title": "Con ventaja mínima, Central Córdoba va por la clasificación",
           "snippet": "",
@@ -49,10 +43,16 @@
           "source": "OneFootball"
         },
         {
-          "title": "Lanús avanza a cuartos en los penales con José Canale en sus filas",
+          "title": "Lanús, a cuartos de la Copa Sudamericana: gol agónico, penales y victoria sobre Central Córdoba de Santiago del Estero",
           "snippet": "",
-          "url": "https://www.abc.com.py/deportes/futbol/sudamericana/2025/08/22/lanus-avanza-a-cuartos-en-los-penales-con-jose-canale-en-sus-filas/",
-          "source": "ABC Color"
+          "url": "https://www.clarin.com/deportes/lanus-vs-central-cordoba-sde-octavos-final-copa-sudamericana-minuto-minuto-directo_0_DoXCWHLAzy.html",
+          "source": "Clarin.com"
+        },
+        {
+          "title": "En la 'Fortaleza' Lanús iguala sin goles ante Central Córdoba",
+          "snippet": "",
+          "url": "https://www.dobleamarilla.com.ar/america/en-la--fortaleza--lanus-iguala-sin-goles-ante-central-cordoba-_a68a62dcdb94820bd70764b63",
+          "source": "Doble Amarilla"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,9 +86,65 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "palmeiras",
-      "trafficCount": "1000+",
-      "pubDate": "Thu, 21 Aug 2025 17:00:00 -0700",
+      "title": "river plate - libertad",
+      "trafficCount": "10000+",
+      "pubDate": "Thu, 21 Aug 2025 16:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSiSaH3o9e5embPYx6aEGPyOg5CsqG7ZKia4bapvWUGoX2vIcR_TBAPRpZLqm8",
+      "pictureSource": "Olé",
+      "relatedSearch": [
+        {
+          "title": "River sufrió con Libertad, pasó por penales y está en cuartos de la Libertadores",
+          "snippet": "",
+          "url": "https://www.ole.com.ar/futbol-internacional/libertadores/river-vs-libertad-partido-vuelta-copa-libertadores-2025-minuto-minuto_0_x0oP3DzCRL.html",
+          "source": "Olé"
+        },
+        {
+          "title": "En qué canal pasan River vs. Libertad por la Copa Libertadores 2025 hoy",
+          "snippet": "",
+          "url": "https://www.lanacion.com.ar/deportes/futbol/en-que-canal-pasan-river-vs-libertad-por-la-copa-libertadores-2025-hoy-nid21082025/",
+          "source": "La Nación"
+        },
+        {
+          "title": "River buscará destrabar la serie ante Libertad de Paraguay",
+          "snippet": "",
+          "url": "https://www.cadena3.com/noticia/futbol/river-buscara-destrabar-la-serie-ante-libertad-de-paraguay_456159",
+          "source": "Cadena 3 Argentina"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "palmeiras - universitario",
+      "trafficCount": "5000+",
+      "pubDate": "Thu, 21 Aug 2025 16:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvYPxu9LQqLl7QN4chesHzTEKjxeKlq19LfNGopLquZUlwNMG363aranGaqpg",
+      "pictureSource": "El Deber",
+      "relatedSearch": [
+        {
+          "title": "Palmeiras avanza a cuartos tras superar a Universitario de Perú",
+          "snippet": "",
+          "url": "https://eldeber.com.bo/futbol/palmeiras-avanza-cuartos-tras-superar-universitario-de-peru_527406",
+          "source": "El Deber"
+        },
+        {
+          "title": "Universitario rescató un empate en Brasil por CONMEBOL Libertadores luego de quince años",
+          "snippet": "",
+          "url": "https://www.espn.com.ar/futbol/copa-libertadores/nota/_/id/15575312/universitario-rescato-un-empate-en-brasil-por-conmebol-libertadores-luego-de-quince-anos",
+          "source": "ESPN Argentina"
+        },
+        {
+          "title": "Palmeiras y Universitario de Deportes empataron 0-0 en la Copa Libertadores",
+          "snippet": "",
+          "url": "https://www.lanacion.com.ar/deportes/futbol/palmeiras-y-universitario-de-deportes-empataron-0-0-en-la-copa-libertadores-nid21082025/",
+          "source": "La Nación"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "libertadores",
+      "trafficCount": "2000+",
+      "pubDate": "Thu, 21 Aug 2025 16:00:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtXBG2jtbSBsaU6i2wmY_Vbs-iDiNf9cfP0ndxLEaZCvlxgHtStZvtF4DekJU",
       "pictureSource": "Estadão",
       "relatedSearch": [
@@ -109,62 +165,6 @@
           "snippet": "",
           "url": "https://ge.globo.com/sportv/programas/troca-de-passes/video/mansur-analisa-a-escalacao-do-palmeiras-contra-o-universitario-nao-tinha-muita-coisa-em-disputa-foi-mais-para-algumas-observacoes-13862832.ghtml",
           "source": "ge"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "river plate - libertad",
-      "trafficCount": "10000+",
-      "pubDate": "Thu, 21 Aug 2025 16:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSiSaH3o9e5embPYx6aEGPyOg5CsqG7ZKia4bapvWUGoX2vIcR_TBAPRpZLqm8",
-      "pictureSource": "Olé",
-      "relatedSearch": [
-        {
-          "title": "River sufrió con Libertad, pasó por penales y está en cuartos de la Libertadores",
-          "snippet": "",
-          "url": "https://www.ole.com.ar/futbol-internacional/libertadores/river-vs-libertad-partido-vuelta-copa-libertadores-2025-minuto-minuto_0_x0oP3DzCRL.html",
-          "source": "Olé"
-        },
-        {
-          "title": "Tres dedos de Acuña, remate de Colidio al travesaño y Driussi de rebote para que River destrabe la serie",
-          "snippet": "",
-          "url": "https://www.tycsports.com/river-plate/gol-driussi-river-libertad-copa-libertadores-id681336.html",
-          "source": "TyC Sports"
-        },
-        {
-          "title": "En qué canal pasan River vs. Libertad por la Copa Libertadores 2025 hoy",
-          "snippet": "",
-          "url": "https://www.lanacion.com.ar/deportes/futbol/en-que-canal-pasan-river-vs-libertad-por-la-copa-libertadores-2025-hoy-nid21082025/",
-          "source": "La Nación"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "palmeiras - universitario",
-      "trafficCount": "5000+",
-      "pubDate": "Thu, 21 Aug 2025 16:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvYPxu9LQqLl7QN4chesHzTEKjxeKlq19LfNGopLquZUlwNMG363aranGaqpg",
-      "pictureSource": "El Deber",
-      "relatedSearch": [
-        {
-          "title": "Palmeiras avanza a cuartos tras superar a Universitario de Perú",
-          "snippet": "",
-          "url": "https://eldeber.com.bo/futbol/palmeiras-avanza-cuartos-tras-superar-universitario-de-peru_527406/",
-          "source": "El Deber"
-        },
-        {
-          "title": "Universitario rescató un empate en Brasil por CONMEBOL Libertadores luego de quince años",
-          "snippet": "",
-          "url": "https://www.espn.com.ar/futbol/copa-libertadores/nota/_/id/15575312/universitario-rescato-un-empate-en-brasil-por-conmebol-libertadores-luego-de-quince-anos",
-          "source": "ESPN Argentina"
-        },
-        {
-          "title": "Palmeiras y Universitario de Deportes empataron 0-0 en la Copa Libertadores",
-          "snippet": "",
-          "url": "https://www.lanacion.com.ar/deportes/futbol/palmeiras-y-universitario-de-deportes-empataron-0-0-en-la-copa-libertadores-nid21082025/",
-          "source": "La Nación"
         }
       ],
       "link": "https://imtaqin.id/"

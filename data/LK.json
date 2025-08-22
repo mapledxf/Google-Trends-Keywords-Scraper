@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "2025-08-22 10:50:50",
+  "lastUpdate": "2025-08-22 10:58:45",
   "data": [
     {
       "title": "news",
       "trafficCount": "100+",
       "pubDate": "Fri, 22 Aug 2025 01:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTirtF679GNRrVJcJgSGMcbKK-KfJNlaBsHNPP8zEDi7IqWb4r_vZfUoeV4E5Q",
-      "pictureSource": "The New York Times",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5-DEs_KjCtG7DVvQ26p-StaiPGGqW2PaosqFShe9HTnlkAKU0mAmSc8btCqc",
+      "pictureSource": "Axios",
       "relatedSearch": [
         {
-          "title": "Gaza City and Surrounding Areas Officially Hit by Famine, Global Group Says",
+          "title": "Famine in Gaza confirmed by hunger monitor for first time since war started",
           "snippet": "",
-          "url": "https://www.nytimes.com/2025/08/22/world/middleeast/famine-gaza-city-israel.html",
-          "source": "The New York Times"
+          "url": "https://www.axios.com/2025/08/22/gaza-famine-international-aid-israel-hamas",
+          "source": "Axios"
         },
         {
           "title": "U.N.-backed panel confirms famine in Gaza. And, DOJ to send Congress some Epstein docs",
@@ -30,15 +30,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "gossip lanka",
-      "trafficCount": "2000+",
-      "pubDate": "Fri, 22 Aug 2025 01:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "hiru news",
       "trafficCount": "500+",
       "pubDate": "Fri, 22 Aug 2025 01:30:00 -0700",
@@ -52,18 +43,27 @@
           "source": "Hiru News"
         },
         {
-          "title": "Hiru News 09:55 PM | 2025-08-21",
-          "snippet": "",
-          "url": "https://hirunews.lk/hirutvnews/12557",
-          "source": "Hiru News"
-        },
-        {
           "title": "Hiru News 09:55 PM | 2025-08-19",
           "snippet": "",
           "url": "https://hirunews.lk/hirutvnews/12551",
           "source": "Hiru News"
+        },
+        {
+          "title": "Hiru News 09:55 PM | 2025-08-21",
+          "snippet": "",
+          "url": "https://hirunews.lk/hirutvnews/12557",
+          "source": "Hiru News"
         }
       ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "gossip lanka",
+      "trafficCount": "2000+",
+      "pubDate": "Fri, 22 Aug 2025 01:30:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -126,14 +126,14 @@
       "title": "matthew breetzke",
       "trafficCount": "1000+",
       "pubDate": "Thu, 21 Aug 2025 23:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR86oWwW_EoPxGDqpBfA3y-gp2BE0ZtzqnCgwxm5QE42v0ztrLxA-Odi-1RbVA",
-      "pictureSource": "NDTVSports",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKoAqzBUD00SMVpepfVENBcUsg3OiV9efOoZh54LHOU-v-n7bgQhjElyxCMiw",
+      "pictureSource": "Fox Sports",
       "relatedSearch": [
         {
-          "title": "1st Time In ODI History: SA Star Achieves Huge Feat",
+          "title": "Marnus inspires Aussie fightback as rising star breaks astonishing ODI record — LIVE",
           "snippet": "",
-          "url": "https://sports.ndtv.com/webstories/sports/1st-time-in-odi-history-sa-star-achieves-huge-feat-45453",
-          "source": "NDTVSports"
+          "url": "https://www.foxsports.com.au/cricket/aussies-not-dwelling-on-proteas-thumping-after-off-day-in-cairns-live/news-story/9772fc446a8ca11a8f79073f081bdd5e",
+          "source": "Fox Sports"
         },
         {
           "title": "South Africa’s young gun equals world record, joins Navjot Singh Sidhu in rare ODI feat",
@@ -142,10 +142,10 @@
           "source": "Firstpost"
         },
         {
-          "title": "Tristan Stubbs slams his third 50-plus score in ODIs: Stats",
+          "title": "More history for Matthew Breetzke, even as he misses out on century against Australia",
           "snippet": "",
-          "url": "https://www.newsbytesapp.com/news/sports/tristan-stubbs-gets-to-his-second-odi-fifty/story",
-          "source": "NewsBytes"
+          "url": "https://indianexpress.com/article/sports/cricket/history-matthew-breetzke-misses-out-century-australia-10204430/",
+          "source": "The Indian Express"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -170,10 +170,10 @@
           "source": "The Daily Jagran"
         },
         {
-          "title": "Springboks v Wallabies Game Two: How to watch in Australia, teams, fixtures and more",
+          "title": "Breetzke and Stubbs shine but South Africa slide to 277",
           "snippet": "",
-          "url": "https://www.rugby.com.au/news/wallabies-springboks-cape-town-how-to-watch-australia-where-to-watch-channel-teams-2025821",
-          "source": "RUGBY.com.au"
+          "url": "https://www.espncricinfo.com/series/south-africa-in-australia-2025-1478879/australia-vs-south-africa-2nd-odi-1478902/match-report",
+          "source": "ESPNcricinfo"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -192,16 +192,16 @@
           "source": "ESPNcricinfo"
         },
         {
-          "title": "Springboks v Wallabies Game Two: How to watch in Australia, teams, fixtures and more",
-          "snippet": "",
-          "url": "https://www.rugby.com.au/news/wallabies-springboks-cape-town-how-to-watch-australia-where-to-watch-channel-teams-2025821",
-          "source": "RUGBY.com.au"
-        },
-        {
           "title": "Chance to impress as Australia prepare to counter Maharaj challenge again",
           "snippet": "",
           "url": "https://www.cricbuzz.com/cricket-news/135358/chance-to-impress-as-australia-prepare-to-counter-keshav-maharaj-challenge-again-vs-south-afria-cricbuzzcom",
           "source": "Cricbuzz.com"
+        },
+        {
+          "title": "Maharaj reacts to reclaiming top spot in ODI Bowler Rankings",
+          "snippet": "",
+          "url": "https://www.icc-cricket.com/news/maharaj-reacts-to-reclaiming-top-spot-in-odi-bowler-rankings",
+          "source": "ICC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -248,16 +248,16 @@
           "source": "Hindustan Times"
         },
         {
-          "title": "War 2 Worldwide Box Office Day 7: Hrithik Roshan & Jr NTR’s Film Axes Every Single Bollywood Film Of 2025 Except Two!",
-          "snippet": "",
-          "url": "https://www.koimoi.com/box-office/war-2-worldwide-box-office-day-7-hrithik-roshan-jr-ntrs-film-axes-every-single-bollywood-film-of-2025-except-two/",
-          "source": "Koimoi"
-        },
-        {
           "title": "The earnings are continuously decreasing ..?",
           "snippet": "",
           "url": "https://www.indiaherald.com/Movies/Read/994842710/-The-earnings-are-continuously-decreasing--",
           "source": "indiaherald.com"
+        },
+        {
+          "title": "Indian Revenge Thriller Breaks Records, Cracks US Top 10 Box Office",
+          "snippet": "",
+          "url": "https://www.imdb.com/pt/news/ni65437458/?ref_=ttnw_art_perm",
+          "source": "IMDb"
         }
       ],
       "link": "https://imtaqin.id/"

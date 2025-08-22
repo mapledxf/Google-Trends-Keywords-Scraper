@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-22 06:46:26",
+  "lastUpdate": "2025-08-22 06:58:26",
   "data": [
     {
       "title": "台灣地震",
@@ -96,7 +96,7 @@
     },
     {
       "title": "電腦節",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 21 Aug 2025 17:10:00 -0700",
       "picture": "",
       "pictureSource": "",
@@ -107,9 +107,15 @@
       "title": "jackson hole",
       "trafficCount": "100+",
       "pubDate": "Thu, 21 Aug 2025 17:00:00 -0700",
-      "picture": "",
-      "pictureSource": "Kansas City - Federal Reserve",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTr3FTirN0mJt08gS5PljW-Oou8d67nAbZPrSNblQHGgXf0qKbvxKDxtLxRO4M",
+      "pictureSource": "Reuters",
       "relatedSearch": [
+        {
+          "title": "Wall Street closes down as investors brace for Powell's speech",
+          "snippet": "",
+          "url": "https://www.reuters.com/business/wall-street-closes-down-investors-brace-powells-speech-2025-08-21/",
+          "source": "Reuters"
+        },
         {
           "title": "Federal Reserve Bank of Kansas City to Host Annual Jackson Hole Economic Policy Symposium Aug. 21-23",
           "snippet": "",
@@ -117,16 +123,10 @@
           "source": "Kansas City - Federal Reserve"
         },
         {
-          "title": "Fed Chair Powell set to deliver big Jackson Hole speech Friday. Here's what Wall Street expects",
+          "title": "‘There’s no hiding’: Powell faces daunting options in pivotal speech",
           "snippet": "",
-          "url": "https://www.cnbc.com/2025/08/21/powell-to-deliver-jackson-hole-speech-friday-what-wall-street-expects.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Fed’s Jackson Hole Conference Is Underway: Here’s What to Expect",
-          "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2025-08-22/fed-s-jackson-hole-conference-is-underway-here-s-what-to-expect",
-          "source": "Bloomberg.com"
+          "url": "https://www.politico.com/news/2025/08/21/powell-trump-fed-inflation-jackson-hole-00517488",
+          "source": "Politico"
         }
       ],
       "link": "https://imtaqin.id/"

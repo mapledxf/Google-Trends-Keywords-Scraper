@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-23 07:51:05",
+  "lastUpdate": "2025-08-23 07:58:45",
   "data": [
     {
       "title": "juárez - santos",
@@ -49,10 +49,10 @@
           "source": "Le Parisien"
         },
         {
-          "title": "Football | Ligue 1+ et ses insides, un pari à la Française que l'on ne retrouve nulle part ailleurs dans le football",
+          "title": "Foot : \"On est apte à montrer certaines choses\", les clubs bretons prêts à jouer le jeu de la nouvelle chaine Ligue 1+",
           "snippet": "",
-          "url": "https://www.eurosport.fr/football/ligue-1/2025-2026/football-ligue-1-et-ses-insides-un-pari-a-la-francaise-que-lon-ne-retrouve-nulle-part-ailleurs-dans-le-football_sto23213405/story.shtml",
-          "source": "Eurosport"
+          "url": "https://www.francebleu.fr/emissions/l-info-d-ici-ici-breizh-izel/foot-on-est-apte-a-montrer-certaines-choses-les-clubs-bretons-prets-a-jouer-le-jeu-de-la-nouvelle-chaine-ligue-1-7182788",
+          "source": "France Bleu"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -105,18 +105,46 @@
           "source": "SportsChosun"
         },
         {
-          "title": "Football Tracker: Bayern and Chelsea dish out thrashings, PSG edge past Angers",
+          "title": "Football Tracker: Olise and Diaz dazzling for Bayern, Chelsea leading West Ham",
           "snippet": "",
-          "url": "https://www.flashscore.com/news/football-tracker-bayern-and-chelsea-dish-out-thrashings-psg-edge-past-angers/dxcQag6t/",
+          "url": "https://www.flashscore.com/news/football-tracker-olise-and-diaz-dazzling-for-bayern-chelsea-leading-west-ham/dxcQag6t/",
           "source": "Flashscore.com"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "chelsea",
-      "trafficCount": "500+",
+      "title": "bayern",
+      "trafficCount": "200+",
       "pubDate": "Fri, 22 Aug 2025 12:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYawAl-isUM8vSN5fdRHIn9ihbS90MoAuWDhYNANC5ErS1Jx6TX_DAfIj7ZlM",
+      "pictureSource": "Spiegel",
+      "relatedSearch": [
+        {
+          "title": "Eberl, Hoeneß und das 6:0 des FC Bayern: Der Handschlag von München",
+          "snippet": "",
+          "url": "https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-muenchen-beim-sieg-ueber-rb-leipzig-der-handschlag-von-muenchen-a-30f7b8f2-f049-4e29-9baa-e6a0e5f71c06",
+          "source": "Spiegel"
+        },
+        {
+          "title": "\"Wahrscheinlich noch nicht komplett\": Eberl stellt Transfer in Aussicht",
+          "snippet": "",
+          "url": "https://www.giessener-anzeiger.de/sport/fussball/aussicht-wahrscheinlich-noch-nicht-komplett-eberl-stellt-transfer-in-zr-93896934.html",
+          "source": "Giessener Anzeiger"
+        },
+        {
+          "title": "\"Vorsichtige Kaufleute\": Hainer erklärt Leih-Ansage beim FC Bayern",
+          "snippet": "",
+          "url": "https://www.fnp.de/sport/fussball/bayern-vorsichtige-kaufleute-hainer-erklaert-leih-ansage-beim-fc-zr-93896931.html",
+          "source": "fnp.de"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "west ham - chelsea",
+      "trafficCount": "5000+",
+      "pubDate": "Fri, 22 Aug 2025 11:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrxklZe2mkXyFzaemn1lNiwHZZOzp9WHUxmaUbhR9f-jRpJHWVxUB2scaI1f4",
       "pictureSource": "Sky Sports",
       "relatedSearch": [
@@ -142,79 +170,23 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "bayern",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 22 Aug 2025 12:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYawAl-isUM8vSN5fdRHIn9ihbS90MoAuWDhYNANC5ErS1Jx6TX_DAfIj7ZlM",
-      "pictureSource": "Spiegel",
-      "relatedSearch": [
-        {
-          "title": "Eberl, Hoeneß und das 6:0 des FC Bayern: Der Handschlag von München",
-          "snippet": "",
-          "url": "https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-muenchen-beim-sieg-ueber-rb-leipzig-der-handschlag-von-muenchen-a-30f7b8f2-f049-4e29-9baa-e6a0e5f71c06",
-          "source": "Spiegel"
-        },
-        {
-          "title": "\"Wahrscheinlich noch nicht komplett\": Eberl stellt Transfer in Aussicht",
-          "snippet": "",
-          "url": "https://www.giessener-anzeiger.de/sport/fussball/aussicht-wahrscheinlich-noch-nicht-komplett-eberl-stellt-transfer-in-zr-93896934.html",
-          "source": "Giessener Anzeiger"
-        },
-        {
-          "title": "Vorgabe des Aufsichtsrats? Max Eberl begründet Bayerns Transferpolitik",
-          "snippet": "",
-          "url": "https://www.sport1.de/tv-video/video/vorgabe-des-aufsichtsrats-eberl-begrundet-bayerns-transferpolitik__69674935-5DA4-4897-A4A0-7E5A5E9EF1BB",
-          "source": "SPORT1"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "west ham - chelsea",
-      "trafficCount": "2000+",
-      "pubDate": "Fri, 22 Aug 2025 11:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVjQbxxZt3bViMKHBYlDgCC8t8BxeA5xoS31FxjWfXiHuldnXDMExohhL_IOE",
-      "pictureSource": "Destino Panamá",
-      "relatedSearch": [
-        {
-          "title": "1-5. El Chelsea ‘despide’ a Potter",
-          "snippet": "",
-          "url": "https://www.destinopanama.com.pa/2025/08/1-5-el-chelsea-despide-a-potter/",
-          "source": "Destino Panamá"
-        },
-        {
-          "title": "El Chelsea aplastó al West Ham en el Estadio de Londres",
-          "snippet": "",
-          "url": "https://www.rpctv.com/futbol-internacional/futbol/el-chelsea-aplasto-al-west-ham-el-estadio-londres-n6051664",
-          "source": "RPCTV"
-        },
-        {
-          "title": "Live Commentary - West Ham vs Chelsea | 22.08.2025",
-          "snippet": "",
-          "url": "https://www.skysports.com/football/west-ham-vs-chelsea/live/531148",
-          "source": "Sky Sports"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "psg - angers",
       "trafficCount": "5000+",
       "pubDate": "Fri, 22 Aug 2025 11:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVxRJDobGuypWsSBpwrC1f8Swhmd9LN19YUvdPDVNnin7HJgT8AKOShH6Rw8w",
-      "pictureSource": "Foot Mercato",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM5l0xHBRIyh8iBEjt1LCKkZ16gFgS0VByjGfdwoE4-U0AhxXdhJOyOq5Wk8M",
+      "pictureSource": "RMC Sport",
       "relatedSearch": [
         {
-          "title": "PSG : l’incroyable raté d’Ousmane Dembélé sur penalty contre Angers",
+          "title": "PSG-Angers: \"Je suis le boss\", Luis Enrique reste flou sur le choix du tireur de penalty",
           "snippet": "",
-          "url": "https://www.footmercato.net/a6965684117562330557-psg-lincroyable-rate-dousmane-dembele-sur-penalty-contre-angers",
-          "source": "Foot Mercato"
+          "url": "https://rmcsport.bfmtv.com/football/clubs/paris-saint-germain/psg-angers-je-suis-le-boss-luis-enrique-reste-flou-sur-le-choix-du-tireur-de-penalty_AV-202508230092.html",
+          "source": "RMC Sport"
         },
         {
-          "title": "PSG - Dembélé : La «connerie» de Luis Enrique dénoncée en direct !",
+          "title": "Penalty manqué, aucun tir cadré... Ousmane Dembélé est passé à côté face à Angers",
           "snippet": "",
-          "url": "https://le10sport.com/football/ligue1/psg/psg-dembele-la-connerie-de-luis-enrique-denoncee-en-direct-755299",
-          "source": "Le10Sport"
+          "url": "https://www.lequipe.fr/Football/Actualites/Penalty-manque-aucun-tir-cadre-ousmane-dembele-est-passe-a-cote-face-a-angers/1586928",
+          "source": "L'Équipe"
         },
         {
           "title": "Ousmane Dembélé loupe son pénalty contre Angers",
@@ -239,16 +211,16 @@
           "source": "DIE ZEIT"
         },
         {
-          "title": "Rückfall in alte Muster: Ole Werner steht bei RB vor einem „Berg voller Arbeit”",
+          "title": "RB-Coach Werner sieht \"Berg von Arbeit\" vor sich",
           "snippet": "",
-          "url": "https://rblive.de/news/rueckfall-in-alte-muster-ole-werner-steht-bei-rb-vor-einem-berg-voller-arbeit-4102753",
-          "source": "RBLive"
+          "url": "https://www.sport.de/video/en587357/rb-coach-werner-sieht-berg-von-arbeit-vor-sich/",
+          "source": "sport.de"
         },
         {
-          "title": "Deutliche Worte von Raum nach Debakel",
+          "title": "RB Leipzig: Welcher Profi war beim 0:6 beim FC Bayern der Beste? Jetzt abstimmen!",
           "snippet": "",
-          "url": "https://www.ran.de/sports/fussball/bundesliga/news/deutliche-worte-von-raum-nach-debakel-580575",
-          "source": "RAN"
+          "url": "https://www.lvz.de/sport/regional/rb-leipzig-welcher-profi-war-beim-0-6-beim-fc-bayern-der-beste-jetzt-abstimmen-66X7GYGLZBC7VND5PNLHK3ZS6I.html",
+          "source": "Leipziger Volkszeitung"
         }
       ],
       "link": "https://imtaqin.id/"

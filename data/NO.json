@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-25 17:27:56",
+  "lastUpdate": "2025-08-25 17:40:21",
   "data": [
     {
       "title": "sarpsborg mot kbk",
@@ -33,9 +33,15 @@
       "title": "filter nyheter",
       "trafficCount": "200+",
       "pubDate": "Mon, 25 Aug 2025 09:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBUh2SNSGBdiLApFrauHfwpb68h2SoZiX_LG22wyF7pu05D7LD5avoj5mg6Sc",
-      "pictureSource": "VG",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-LDHNnhoo0bQ96A-88YN2SVyoFmMvGtQmFI8JQoUSBjLEjQAyBDdGpfyPtF4",
+      "pictureSource": "Filter Nyheter",
       "relatedSearch": [
+        {
+          "title": "Chattet med nynazister fire måneder før drapet – oppga støtte til høyreekstremt parti",
+          "snippet": "",
+          "url": "https://filternyheter.no/chattet-med-nynazister-fire-maneder-for-drapet-oppga-stotte-til-hoyreekstremt-parti/",
+          "source": "Filter Nyheter"
+        },
         {
           "title": "siste: PST fikk tips om terrorsiktede i februar i fjor",
           "snippet": "",
@@ -47,12 +53,6 @@
           "snippet": "",
           "url": "https://www.dagbladet.no/nyheter/djordje-wilms-18-siktet-for-drap-og-terror/83501956",
           "source": "Dagbladet"
-        },
-        {
-          "title": "Tamima (34) ble drept på Kampen: – Familien er i dyp sorg",
-          "snippet": "",
-          "url": "https://www.nrk.no/norge/tamima-nibras-juhar-ble-drept-pa-kampen-i-oslo-1.17540559",
-          "source": "NRK"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,13 +61,13 @@
       "title": "jostein flo",
       "trafficCount": "200+",
       "pubDate": "Mon, 25 Aug 2025 08:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-uS5GRrzsUcWDb5WlLXyAryjJTPbGZzBgI9fmkVJHwgsPeLhMXijT-qj800Q",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXv7sHhlum08w6Jtmen8wzUW9iOWMgQIZdetdvXGIkoTqdO85UCBPzUEhZqIo",
       "pictureSource": "Drammens Tidende",
       "relatedSearch": [
         {
-          "title": "Strømsgodset, Fotball | Jostein Flo gir seg: – Det er en tid for alt",
+          "title": "Strømsgodset, Sport | Hyller Flo: – En ganske heftig nyhet",
           "snippet": "",
-          "url": "https://www.dt.no/jostein-flo-gir-seg-det-er-en-tid-for-alt/s/5-57-2680374",
+          "url": "https://www.dt.no/hyller-flo-en-ganske-heftig-nyhet/s/5-57-2680675",
           "source": "Drammens Tidende"
         },
         {
@@ -105,10 +105,10 @@
           "source": "TV2.no"
         },
         {
-          "title": "Markus Rooth haste­innkaller til presse­konferanse.",
+          "title": "VM glipper",
           "snippet": "",
-          "url": "https://sol.no/nyheter/rooth-hasteinnkaller-til-pressekonferanse/83502572",
-          "source": "Sol.no samler de viktigste nyhetene for deg!"
+          "url": "https://www.dagbladet.no/sport/vm-glipper/83502339",
+          "source": "Dagbladet"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -227,56 +227,56 @@
     },
     {
       "title": "frp",
-      "trafficCount": "2000+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 25 Aug 2025 00:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY-QAp8mn3kJZ6wnBAsNNEeBGaOee9NquOSBKz1YdKVFeH_ZXQdSdbxyfmq2g",
-      "pictureSource": "VG",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkwykFzSdXzYTDCBMxTDtK34atuoyiB5Rslmw4-G6WLaMQjuVWZoZ-arfdegA",
+      "pictureSource": "nyss.no",
       "relatedSearch": [
         {
-          "title": "Listhaug advarer om «kaosregjering»: –⁠ Oppskrift på utrygghet",
+          "title": "Å lytte til Brunstads feilaktige påstander gir ingenting av verdi",
           "snippet": "",
-          "url": "https://www.vg.no/nyheter/i/lwG3ze/frp-leder-sylvi-listhaug-advarer-om-sosialistisk-kaos-dersom-stoere-vinner-valget",
-          "source": "VG"
+          "url": "https://www.nyss.no/meiningar/i/vgMk65/med-frp-i-regjering-blir-kommuneoekonomien-i-sykkylven-bedre",
+          "source": "nyss.no"
         },
         {
-          "title": "Støre har gitt opp flertall med SV og Sp. Nå har han endret regjeringsplanen.",
+          "title": "(+) Nesten kvar femte halling betaler formuesskatt - Oddbjørn betaler over ein million",
           "snippet": "",
-          "url": "https://www.aftenposten.no/norge/politikk/i/GyklvV/stoere-har-gitt-opp-flertall-med-sv-og-sp-naa-har-han-endret-regjeringsplanen",
-          "source": "Aftenposten"
+          "url": "https://www.hallingdolen.no/nyheiter/i/632m7r/nesten-kvar-femte-halling-betaler-formuesskatt-oddbjoern-betaler-over-ein-million",
+          "source": "hallingdolen.no"
         },
         {
-          "title": "“Kaos” eller demokrati i praksis?",
+          "title": "Når dei rikaste får skattelette, blir rekninga velta over på vanlege lønsmottakarar",
           "snippet": "",
-          "url": "https://www.lofotposten.no/kaos-eller-demokrati-i-praksis/o/5-29-1221264",
-          "source": "Lofotposten"
+          "url": "https://www.smp.no/meninger/kronikk/i/jQ4BMo/naar-dei-rikaste-faar-skattelette-blir-rekninga-velta-over-paa-vanlege-loensmottakarar",
+          "source": "smp.no"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "rødt",
+      "title": "arbeiderpartiet",
       "trafficCount": "500+",
       "pubDate": "Mon, 25 Aug 2025 00:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKrjnwcUygM-AHF-fA_ZWgapiiXhplVOa99wqtQxXc03JQJFU6358M4iiR7jM",
-      "pictureSource": "Stavanger Aftenblad",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc1h0_2LAe5zrH9ytXu_U537R5MgLW5n48O7DW0dfhohbbMcbQMGFkwAeitUU",
+      "pictureSource": "FriFagbevegelse",
       "relatedSearch": [
         {
-          "title": "Støre til Aftenbladet: – Vi skal bli størst i Rogaland",
+          "title": "Rik, rikere, kjipest",
           "snippet": "",
-          "url": "https://www.aftenbladet.no/lokalt/i/25rBwG/stoere-til-aftenbladet-vi-skal-bli-stoerst-i-rogaland",
-          "source": "Stavanger Aftenblad"
+          "url": "https://frifagbevegelse.no/debatt/rik-rikere-kjipest-6.490.1158199.17569122bd",
+          "source": "FriFagbevegelse"
         },
         {
-          "title": "Politikk, Klepp | Krisemåling for SP og SV: Pollestad og Fiskaa kan mista plassen på Stortinget",
+          "title": "«Det er, som ofte før, overklasse mot underklasse»",
           "snippet": "",
-          "url": "https://www.jbl.no/krisemaling-for-sp-og-sv-pollestad-og-fiskaa-kan-mista-plassen-pa-stortinget/s/5-103-1185661",
-          "source": "Jærbladet"
+          "url": "https://www.lister24.no/meninger/leserinnlegg/i/LMwMwx/valg-er-aa-velge",
+          "source": "lister24.no"
         },
         {
-          "title": "Valg 2025, Frp | Blodfersk meningsmåling – sjekk hvem som er inne fra Sandnes",
+          "title": "Lover at alle skal få bedre råd",
           "snippet": "",
-          "url": "https://www.sandnesposten.no/blodfersk-meningsmaling-sjekk-hvem-som-er-inne-fra-sandnes/s/5-105-1213572",
-          "source": "Sandnesposten"
+          "url": "https://www.smp.no/meninger/kronikk/i/GykPlJ/spoersmaalet-arbeiderpartiet-nekter-aa-svare-paa",
+          "source": "smp.no"
         }
       ],
       "link": "https://imtaqin.id/"

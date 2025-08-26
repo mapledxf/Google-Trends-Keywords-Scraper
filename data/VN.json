@@ -1,18 +1,102 @@
 {
-  "lastUpdate": "2025-08-25 23:54:23",
+  "lastUpdate": "2025-08-26 00:47:28",
   "data": [
     {
-      "title": "vov giao thông",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 25 Aug 2025 16:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1ZVXFsBUcqGnqdO7VOPinbGkiSK0hRHITNbqyfcm4asP1MpOoZ3bMkTzK4VE",
-      "pictureSource": "Báo Dân trí",
+      "title": "dự báo thời tiết tphcm",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 25 Aug 2025 17:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5emTjmYS8Ik3XW3yHnNLHSbCobAzHFkewt3HgkvRqM7GXRX2ynXnlkol5hZA",
+      "pictureSource": "Laodong.vn",
       "relatedSearch": [
         {
-          "title": "Bắc Bộ và Bắc Trung Bộ mưa lớn trên diện rộng",
+          "title": "Dự báo mưa giảm ở khu vực Nam Bộ trong 2-3 ngày tới",
           "snippet": "",
-          "url": "https://dantri.com.vn/xa-hoi/bac-bo-va-bac-trung-bo-mua-lon-tren-dien-rong-20250825170756398.htm",
-          "source": "Báo Dân trí"
+          "url": "https://laodong.vn/xa-hoi/du-bao-mua-giam-o-khu-vuc-nam-bo-trong-2-3-ngay-toi-1563317.ldo",
+          "source": "Laodong.vn"
+        },
+        {
+          "title": "Hà Nội mưa bão số 5 cả đêm đến sáng, nhiều tuyến đường ngập sâu",
+          "snippet": "",
+          "url": "https://tuoitre.vn/ha-noi-mua-bao-so-5-ca-dem-den-sang-nhieu-tuyen-duong-ngap-sau-20250826064554044.htm",
+          "source": "Báo Tuổi Trẻ"
+        },
+        {
+          "title": "Thời tiết TP HCM hôm nay, 25-8: Có nơi mưa to đến rất to",
+          "snippet": "",
+          "url": "https://nld.com.vn/thoi-tiet-tp-hcm-hom-nay-25-8-co-noi-mua-to-den-rat-to-196250825071241544.htm",
+          "source": "Báo Người Lao Động"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "teams",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 25 Aug 2025 17:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTq75cw2Nyba03ttYXKU5Gw1QHpabHVMMZayfYUT8ErSe-efwqc_RULOGAig6U",
+      "pictureSource": "ESPN",
+      "relatedSearch": [
+        {
+          "title": "Live tracking NFL cuts, trades and final roster moves around the league",
+          "snippet": "",
+          "url": "https://www.espn.com/nfl/story/_/id/46008028/2025-nfl-preseason-live-updates-roster-cuts-trades-signings",
+          "source": "ESPN"
+        },
+        {
+          "title": "2025 NFL roster cuts tracker: Player releases ahead of 53-man roster deadline",
+          "snippet": "",
+          "url": "https://www.nfl.com/news/nfl-roster-cuts-tracking-player-releases-ahead-of-the-2025-roster-deadline",
+          "source": "NFL.com"
+        },
+        {
+          "title": "NFL roster cuts tracker: Full list of players released before deadline",
+          "snippet": "",
+          "url": "https://sports.yahoo.com/nfl/article/nfl-roster-cuts-tracker-full-list-of-players-released-before-deadline-201441658.html",
+          "source": "Yahoo Sports"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather",
+      "trafficCount": "1000+",
+      "pubDate": "Mon, 25 Aug 2025 16:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2nGw6LzBnnxGEIlKRyv6Tq01Ye47yaHn4n0nplSjYtgHvhMIN_0e3ohUpqhg",
+      "pictureSource": "Fresno Bee",
+      "relatedSearch": [
+        {
+          "title": "UPDATE: Weather alert issued for Shasta Lake early Monday evening, says the NWS",
+          "snippet": "",
+          "url": "https://www.fresnobee.com/news/weather-news/article311847725.html",
+          "source": "Fresno Bee"
+        },
+        {
+          "title": "Thunderstorms with pea-sized hail in Klamath Basin Sunday – winds gusting up to 30 mph",
+          "snippet": "",
+          "url": "https://www.oregonlive.com/weather-alerts/2025/08/thunderstorms-with-pea-sized-hail-in-klamath-basin-sunday-winds-gusting-up-to-30-mph.html",
+          "source": "OregonLive.com"
+        },
+        {
+          "title": "Increased lightning risk across region triggers red flag warning for Monday",
+          "snippet": "",
+          "url": "https://ashland.news/increased-lightning-risk-across-region-triggers-red-flag-warning-for-monday/",
+          "source": "Ashland News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "vov giao thông",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 25 Aug 2025 16:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdTHp0tRg7grw5ykArDoWARd3-sz_ch44rZwWk5hktn2KpPzXZSR3hHyaGAtc",
+      "pictureSource": "Laodong.vn",
+      "relatedSearch": [
+        {
+          "title": "Bản tin dự báo thời tiết đêm nay và ngày mai 26.8",
+          "snippet": "",
+          "url": "https://laodong.vn/video/ban-tin-du-bao-thoi-tiet-dem-nay-va-ngay-mai-268-1563060.ldo",
+          "source": "Laodong.vn"
         },
         {
           "title": "Sau bão, lo ứng phó lũ quét và sạt lở",
@@ -21,17 +105,17 @@
           "source": "BÁO SÀI GÒN GIẢI PHÓNG"
         },
         {
-          "title": "Bản tin dự báo thời tiết đêm nay và ngày mai 26.8",
+          "title": "Bắc Bộ và Bắc Trung Bộ mưa lớn trên diện rộng",
           "snippet": "",
-          "url": "https://laodong.vn/video/ban-tin-du-bao-thoi-tiet-dem-nay-va-ngay-mai-268-1563060.ldo",
-          "source": "Laodong.vn"
+          "url": "https://dantri.com.vn/xa-hoi/bac-bo-va-bac-trung-bo-mua-lon-tren-dien-rong-20250825170756398.htm",
+          "source": "Báo Dân trí"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "bang xep hang anh",
-      "trafficCount": "1000+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 25 Aug 2025 16:30:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOXZIaCeNaP33gNo7ChQjTAXTWWSR6ZSnXVWmjRXPgCbL9sRr1cy44cKQH9BU",
       "pictureSource": "Tin tức 24h",
@@ -59,7 +143,7 @@
     },
     {
       "title": "flamengo đấu với vitória",
-      "trafficCount": "200+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 25 Aug 2025 16:20:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8SB_bm1N3ULrkwHMxrSaQsly3-lkGMwFtLKZ8RX6crM1dGh7WfTA712GNBU",
       "pictureSource": "Thể Thao 247",
@@ -83,25 +167,25 @@
       "title": "날씨",
       "trafficCount": "500+",
       "pubDate": "Mon, 25 Aug 2025 16:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToBETl4rJooBhzXk8k1IpQloGgmHSD5wm5UihfVEPugSMJPqkwbTi-Oyn9hUA",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTOi17u8v0A4tTiweYn_kRH0PjRBt8dRjpQObZHPLTDsUYGuxkIeb5CCKCRmU",
       "pictureSource": "네이트",
       "relatedSearch": [
         {
-          "title": "밤 사이 경기북부 최대 136.5㎜ 폭우…낙뢰로 화재 등 피해",
+          "title": "강원 화천에 호우주의보…양양 등 6곳 폭염주의보 유지",
           "snippet": "",
-          "url": "https://news.nate.com/view/20250826n08386",
+          "url": "https://news.nate.com/view/20250826n07023?mid=n0412&isq=11312",
           "source": "네이트"
         },
         {
-          "title": "[출근길 YTN 날씨 8/26] 중부 시간당 최대 50㎜ 폭우...오전까지 강한 비 집중",
+          "title": "[날씨] 강원·전북 시간당 30mm↑ 호우...교통안전 유의",
           "snippet": "",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0108_202508260650583521_005.html",
+          "url": "https://www.ytn.co.kr/_ln/0108_202508260904361212",
           "source": "YTN"
         },
         {
-          "title": "연천 연천읍·청산면에 산사태 경보 발령",
+          "title": "오후까지 전국 곳곳에 비…낮 최고 34도 무더위 지속",
           "snippet": "",
-          "url": "https://news.nate.com/view/20250826n07018?mid=n0100",
+          "url": "https://news.nate.com/view/20250826n09299",
           "source": "네이트"
         }
       ],
@@ -111,20 +195,20 @@
       "title": "việt nam!",
       "trafficCount": "10000+",
       "pubDate": "Mon, 25 Aug 2025 15:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRl2cuzc9kEoViPm4MT8TgVkL6CG7-z__lBRkcmNnIbdW32HyV9WM4AwABNKgY",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpNxlEKCXBWsCRL9C3m7kMvhYeX0kbDQ9LP40OwfdWMbC_DaA0TmkLMQWXSGo",
       "pictureSource": "Báo Dân trí",
       "relatedSearch": [
+        {
+          "title": "FIVB bình luận khi bóng chuyền nữ Việt Nam bị loại tại giải thế giới",
+          "snippet": "",
+          "url": "https://dantri.com.vn/the-thao/fivb-binh-luan-khi-bong-chuyen-nu-viet-nam-bi-loai-tai-giai-the-gioi-20250825230016693.htm",
+          "source": "Báo Dân trí"
+        },
         {
           "title": "Báo Đức bình luận khi đội nhà đánh bại tuyển bóng chuyền nữ Việt Nam",
           "snippet": "",
           "url": "https://dantri.com.vn/the-thao/bao-duc-binh-luan-khi-doi-nha-danh-bai-tuyen-bong-chuyen-nu-viet-nam-20250826002408565.htm",
           "source": "Báo Dân trí"
-        },
-        {
-          "title": "Lịch trực tiếp Giải bóng chuyền nữ vô địch thế giới ngày 26-8",
-          "snippet": "",
-          "url": "https://tuoitre.vn/lich-truc-tiep-giai-bong-chuyen-nu-vo-dich-the-gioi-ngay-26-8-20250825231028629.htm",
-          "source": "Báo Tuổi Trẻ"
         },
         {
           "title": "ĐT bóng chuyền nữ Việt Nam không thể gây bất ngờ trước Đức",
@@ -139,26 +223,26 @@
       "title": "xổ số thứ ba",
       "trafficCount": "200+",
       "pubDate": "Mon, 25 Aug 2025 15:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNbQfpyhTYjCYdirJ3KoyttoqEDG9c7vTsUiwAcKWZPV-om7ir0c2He0a83eM",
-      "pictureSource": "Báo VietNamNet",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6qfZGoCJW-hhUFGyCtBMQqcFLWLHGpGXlZFSw9a_EuwbZ-ip-C9j-y8B2sqI",
+      "pictureSource": "thethaovanhoa.vn",
       "relatedSearch": [
         {
-          "title": "Vietlott lại tìm được 2 vé số trúng độc đắc tiền tỷ",
+          "title": "XSBL 26/8 - Kết quả xổ số Bạc Liêu hôm nay 26/8/2025 - Trực tiếp xổ số hôm nay ngày 26 tháng 8",
           "snippet": "",
-          "url": "https://vietnamnet.vn/vietlott-lai-tim-duoc-2-ve-so-trung-doc-dac-hon-3-2-ty-dong-2434573.html",
-          "source": "Báo VietNamNet"
+          "url": "https://thethaovanhoa.vn/xsbl-26-8-ket-qua-xo-so-bac-lieu-hom-nay-26-8-2025-truc-tiep-xo-so-hom-nay-ngay-26-thang-8-20250826072206112.htm",
+          "source": "thethaovanhoa.vn"
         },
         {
-          "title": "Kết quả xổ số Vietlott hôm nay 21/8/2025 - Vietlott 21/8 - Xổ số Power 6/55 ngày 21/8",
+          "title": "xổ số bạc liêu ngày 10 tháng 05",
           "snippet": "",
-          "url": "https://suckhoedoisong.vn/ket-qua-xo-so-vietlott-hom-nay-21-8-2025-vietlott-21-8-xo-so-power-6-55-ngay-21-8-169250821171857045.htm",
-          "source": "Báo Sức Khỏe và Đời Sống"
+          "url": "https://moha.gov.vn/app/202508/b-sports",
+          "source": "BỘ NỘI VỤ"
         },
         {
-          "title": "Kết quả Vietlott Mega 6/45 ngày 20/08/2025: Jackpot hơn 35,4 tỷ đồng vô chủ",
+          "title": "XSVT 26/8, Kết quả xổ số Vũng Tàu hôm nay 26/8/2025, Trực tiếp XSVT ngày 26 tháng 8",
           "snippet": "",
-          "url": "https://vietnambiz.vn/ket-qua-vietlott-mega-645-ngay-20082025-jackpot-hon-354-ty-dong-vo-chu-2025820191559420.htm",
-          "source": "VietnamBiz"
+          "url": "https://doanhnghiephoinhap.vn/xsvt-268-ket-qua-xo-so-vung-tau-hom-nay-2682025-truc-tiep-xsvt-ngay-26-thang-8-113501.html",
+          "source": "Tạp chí Doanh nghiệp và Hội nhập"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,65 +273,6 @@
           "source": "VOV"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "palmeiras đấu với sport recife",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 25 Aug 2025 14:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNnDeZ2EoVoOchu-bGt-gHweOxp3nriu900Ods22i4at15aiTr2_tYSeCxpGo",
-      "pictureSource": "Thể Thao 247",
-      "relatedSearch": [
-        {
-          "title": "Nhận định Palmeiras vs Sport Recife: Nối dài mạch thắng",
-          "snippet": "",
-          "url": "https://thethao247.vn/441-nhan-dinh-palmeiras-vs-sport-recife-noi-dai-mach-thang-5h00-ngay-26-08-2025-d382821.html",
-          "source": "Thể Thao 247"
-        },
-        {
-          "title": "Nhận định bóng đá Palmeiras vs Sport Recife VĐQG Brazil",
-          "snippet": "",
-          "url": "https://bongda24h.vn/nhan-dinh-bong-da/du-doan-palmeiras-vs-sport-recife-hom-nay-344-429238.html",
-          "source": "Bongda24h"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "rio ngumoha",
-      "trafficCount": "2000+",
-      "pubDate": "Mon, 25 Aug 2025 14:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH1nd0WDwv5bsN7_kO5VfyfR0zoXHQ8YLcuTRM42aDknpWtlnTaaCfP9Ty9ig",
-      "pictureSource": "Liverpool FC",
-      "relatedSearch": [
-        {
-          "title": "Rio Ngumoha becomes Liverpool's youngest ever goalscorer",
-          "snippet": "",
-          "url": "https://www.liverpoolfc.com/news/rio-ngumoha-becomes-liverpools-youngest-ever-goalscorer",
-          "source": "Liverpool FC"
-        },
-        {
-          "title": "16-year-old Rio Ngumoha stuns 10-man Newcastle with 100th-minute Liverpool winner",
-          "snippet": "",
-          "url": "https://www.theguardian.com/football/2025/aug/25/newcastle-united-liverpool-premier-league-match-report",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Newcastle v Liverpool: Alexander Isak transfer saga sets tone for 'huge' Premier League game",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/articles/cgerpn2z483o",
-          "source": "BBC"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "bxh anh",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 25 Aug 2025 14:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]

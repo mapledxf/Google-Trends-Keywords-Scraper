@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-08-27 05:59:23",
+  "lastUpdate": "2025-08-27 06:31:28",
   "data": [
     {
       "title": "wellington",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 26 Aug 2025 21:20:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4mrqpNavxJ9hsYgu1_WPsuzVyyWFIgGrl0i0cPinJEIo1xRoDuqfuymkEl34",
       "pictureSource": "NZ Herald",
@@ -59,7 +59,7 @@
     },
     {
       "title": "classroom",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 26 Aug 2025 21:10:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShZwdPtSK2WPj93AcBcdl647xRjnCQ4vD0-MHxSHq3cMseQUkK-daD-57JMmk",
       "pictureSource": "Valley News",
@@ -220,6 +220,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "pmd",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 26 Aug 2025 17:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8URsrH5lSFuvA_YtzzTXTQVIRbVJOTAz_8eGxp1HIykdse_tWvTjfX2cYbE",
+      "pictureSource": "TechJuice",
+      "relatedSearch": [
+        {
+          "title": "PMD Removes Advisory After Crediting ChatGPT in Real-Time Rain Warning",
+          "snippet": "",
+          "url": "https://www.techjuice.pk/pmd-removes-advisory-after-crediting-chatgpt-in-real-time-rain-warning/",
+          "source": "TechJuice"
+        },
+        {
+          "title": "Islamabad trails to remain closed today due to heavy rainfall forecast",
+          "snippet": "",
+          "url": "https://ptv.com.pk/ptvworld/newsdetail/10958",
+          "source": "ptv.com.pk"
+        },
+        {
+          "title": "Heavy rains triggers urban flooding alert",
+          "snippet": "",
+          "url": "https://tribune.com.pk/story/2563384/heavy-rains-triggers-urban-flooding-alert",
+          "source": "The Express Tribune"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "zillow",
       "trafficCount": "200+",
       "pubDate": "Tue, 26 Aug 2025 15:50:00 -0700",
@@ -243,34 +271,6 @@
           "snippet": "",
           "url": "https://www.marketscreener.com/news/zillow-berkshire-hathaway-s-homeservices-team-up-to-offer-ai-powered-listings-to-us-agents-ce7c50d9df8dfe21",
           "source": "MarketScreener"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "apple",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 26 Aug 2025 14:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStSaVRmVO7C6fDghj4aA1akp9mPNX1Bsvt5WLZhUhdRAikGP2g9dSyx637SwI",
-      "pictureSource": "CNN",
-      "relatedSearch": [
-        {
-          "title": "Apple’s big iPhone launch is coming on September 9. What to expect",
-          "snippet": "",
-          "url": "https://edition.cnn.com/2025/08/26/tech/apples-iphone-17-launch-september-9-what-to-expect",
-          "source": "CNN"
-        },
-        {
-          "title": "Apple iPhone 17, iPhone 17 Pro Release Date Latest Schedule: What To Expect When",
-          "snippet": "",
-          "url": "https://www.forbes.com/sites/davidphelan/2025/08/24/iphone-17-release-date-latest-schedule-what-to-expect-when/",
-          "source": "Forbes"
-        },
-        {
-          "title": "iPhone 17 Release Date, September Apple Event and Launch Day",
-          "snippet": "",
-          "url": "https://www.cnet.com/tech/mobile/the-iphone-17-release-date-is-coming-up-fast-but-when-leaks-hint-at-an-exact-date/",
-          "source": "CNET"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,6 +1,62 @@
 {
-  "lastUpdate": "2025-08-28 03:43:35",
+  "lastUpdate": "2025-08-28 03:54:45",
   "data": [
+    {
+      "title": "자동차",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 27 Aug 2025 19:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUBVA9tYZJ5q_zBr9rkatp78H3CTTrqk_PPMpQEKom3wjULAJO8QJgn5RcBug",
+      "pictureSource": "뉴스1",
+      "relatedSearch": [
+        {
+          "title": "한국토요타, 렉서스·도요타 안동 전시장 개소…경북 거점 확대",
+          "snippet": "",
+          "url": "https://www.news1.kr/industry/auto-industry/5893328",
+          "source": "뉴스1"
+        },
+        {
+          "title": "한국토요타자동차, 안동 전시장 및 서비스센터 오픈…경북 지역 접점 넓혀",
+          "snippet": "",
+          "url": "https://news.nate.com/view/20250828n06860",
+          "source": "네이트"
+        },
+        {
+          "title": "한국토요타, 렉서스·토요타 안동 전시장 개소…고객 접점 확대",
+          "snippet": "",
+          "url": "https://news.tf.co.kr/read/economy/2238113.htm",
+          "source": "더팩트"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "프랑스",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 27 Aug 2025 19:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2qMeOCMwXxEuvsA8MCDeovleqiTMNu0fxEGoRTnca4mMfV7xeboa55O_82g",
+      "pictureSource": "조선일보",
+      "relatedSearch": [
+        {
+          "title": "“그리스보다 나빠”… ‘IMF 구제금융 경고등’ 켜진 복지천국 프랑스",
+          "snippet": "",
+          "url": "https://www.chosun.com/international/international_general/2025/08/27/O57WUZYLLFWX6M54T7ZIMCLTJU/",
+          "source": "조선일보"
+        },
+        {
+          "title": "'공휴일도 줄이며 긴축' 佛정부의 신임투표 승부수…'자멸' 우려",
+          "snippet": "",
+          "url": "https://www.news1.kr/world/international-economy/5892481",
+          "source": "뉴스1"
+        },
+        {
+          "title": "佛총리 ‘긴축재정’ 승부수...정부 9개월만에 붕괴 위기",
+          "snippet": "",
+          "url": "https://www.mk.co.kr/news/world/11404207",
+          "source": "매일경제"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "고양이",
       "trafficCount": "200+",
@@ -31,7 +87,7 @@
     },
     {
       "title": "박태준",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 27 Aug 2025 19:30:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2kd1iqiPdSOclAESfNlpUrLK93iRLgdnP4RdifFWlOSF7un_hzO_xUoI-fVs",
       "pictureSource": "네이트",
@@ -49,9 +105,9 @@
           "source": "세계일보"
         },
         {
-          "title": "\"'얼짱시대' 박태준, 최수정과 이혼 맞다\"..현재 재산분할 소송 중",
+          "title": "[단독] 박태준, 최수정과 재산분할 소송 아니었다..\"작년 8월 합의이혼\" (인터뷰)",
           "snippet": "",
-          "url": "https://www.chosun.com/entertainments/broadcast/2025/08/28/N5U4URMTGPURXRADKGHS6FT4XY/",
+          "url": "https://www.chosun.com/entertainments/broadcast/2025/08/28/CIQ3IOLJABBPMQD3YYOXKVPYPU/",
           "source": "조선일보"
         }
       ],
@@ -61,15 +117,9 @@
       "title": "헌법",
       "trafficCount": "100+",
       "pubDate": "Wed, 27 Aug 2025 19:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpSvRkTRblx-0C5fMg3jkFy9qyvqrYaEy-Gc_OI1aRK-nY8UWw7DS-hWMP7rw",
-      "pictureSource": "경향신문",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcgG_cSX6ut96RSYWYbMAbzsGxihWyBhiFPl78d24zvuwOae7EbmPQhIdAP20",
+      "pictureSource": "뉴시스",
       "relatedSearch": [
-        {
-          "title": "기후헌법소원 1년 “헌재가 열어준 길, 정부·국회가 막았다”",
-          "snippet": "",
-          "url": "https://www.khan.co.kr/article/202508271554001",
-          "source": "경향신문"
-        },
         {
           "title": "\"헌법이 보장한 권리, 정부와 국회는 응답하라\"",
           "snippet": "",
@@ -81,6 +131,12 @@
           "snippet": "",
           "url": "https://www.yna.co.kr/view/PYH20250827101300013",
           "source": "연합뉴스"
+        },
+        {
+          "title": "기후 헌법소원 결정 1주년 기자회견, \"국가는 헌법상 권리에 책임 다해야\"",
+          "snippet": "",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=409319",
+          "source": "비즈니스포스트"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -109,34 +165,6 @@
           "snippet": "",
           "url": "https://www.news1.kr/life-culture/book/5893035",
           "source": "뉴스1"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "크로노스",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 27 Aug 2025 18:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2B74aCif3vCy39F9DAGIsiw01cdjuomNbYyi7gAxS63fx2vvm6GUm9rDrvZM",
-      "pictureSource": "매일경제",
-      "relatedSearch": [
-        {
-          "title": "트럼프 가족 딱 찍으니 순식간에 32% 급등…“코인 ‘크로노스’를 다시 위대하게”",
-          "snippet": "",
-          "url": "https://www.mk.co.kr/news/stock/11404567",
-          "source": "매일경제"
-        },
-        {
-          "title": "트럼프 미디어도 암호화폐 매집 선언, 주가 5% 급등",
-          "snippet": "",
-          "url": "https://www.news1.kr/world/usa-canada/5891725",
-          "source": "뉴스1"
-        },
-        {
-          "title": "트럼프 미디어, 크립토닷컴과 합작사 설립…스팩 합병방식 상장",
-          "snippet": "",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4371671",
-          "source": "연합인포맥스"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +211,16 @@
           "source": "동아일보"
         },
         {
-          "title": "울릉도 독도 서식한 바다사자(강치) 게놈 해독 성공···세계 최초 독립 계통 확인",
+          "title": "독도맨 “독도는 우리땅이 아니다. 독도는 한국땅이다”",
           "snippet": "",
-          "url": "https://www.kbmaeil.com/article/20250826500280",
-          "source": "경북매일"
+          "url": "https://www.youthassembly.kr/news/871588",
+          "source": "유스연합"
         },
         {
-          "title": "수과원, 멸종된 독도 '강치' 세계 최초 게놈 해독 성공",
+          "title": "독도연예인홍보단, (주)워니스초이스와 업무협약 체결",
           "snippet": "",
-          "url": "https://www.iusm.co.kr/news/articleView.html?idxno=1053855",
-          "source": "울산매일"
+          "url": "https://news.nate.com/view/20250826n37197",
+          "source": "네이트"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +239,16 @@
           "source": "세상을 바꾸는 시민언론 민들레"
         },
         {
-          "title": "웰비즈인터내셔날, 미국·영국에 자사 화장품 제품 등록",
+          "title": "영국 反이민 확산… 강경 우파 “집권 땐 모조리 추방”",
           "snippet": "",
-          "url": "http://www.hitnews.co.kr/news/articleView.html?idxno=68335",
-          "source": "히트뉴스"
+          "url": "https://www.chosun.com/international/international_general/2025/08/28/B7JJ34BVZNC6FAI26MRYSCQF6Y/",
+          "source": "조선일보"
         },
         {
-          "title": "웰비즈인터내셔날, 런던·LA 플래그십 스튜디오 9월 동시 오픈…글로벌 뷰티 바이오 거점 강화",
+          "title": "탈레반 \"英개혁당과 아프간 난민 송환 협력할 용의\"",
           "snippet": "",
-          "url": "https://news.nate.com/view/20250828n11605",
-          "source": "네이트"
+          "url": "https://www.yna.co.kr/view/AKR20250828001300081",
+          "source": "연합뉴스"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,9 +257,15 @@
       "title": "inter miami vs orlando city",
       "trafficCount": "500+",
       "pubDate": "Wed, 27 Aug 2025 17:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuAHucuYwouf6c0DirZUGMB1ALaIgI8ed2ZriYlvyzTla7OgJ5FpD1HclJM5E",
-      "pictureSource": "Mundo Albiceleste",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStHGv5N2ab-E4oEK3jdz45SBXuHUvJHBx1uh2HZrBlvwyFzlbQwiBmFap4UiM",
+      "pictureSource": "MLSsoccer.com",
       "relatedSearch": [
+        {
+          "title": "Leagues Cup: LA Galaxy look to flip the script on Seattle Sounders",
+          "snippet": "",
+          "url": "https://www.mlssoccer.com/news/leagues-cup-la-galaxy-look-to-flip-the-script-on-seattle-sounders",
+          "source": "MLSsoccer.com"
+        },
         {
           "title": "Lionel Messi holds record 46 career trophies, will play in Leagues Cup final",
           "snippet": "",
@@ -239,44 +273,10 @@
           "source": "Mundo Albiceleste"
         },
         {
-          "title": "📹 Inter Miami get revenge for MLS defeats, beat Orlando to reach the final",
+          "title": "Marco Reus proved right as Lionel Messi puts Inter Miami in another final",
           "snippet": "",
-          "url": "https://sports.yahoo.com/article/inter-miami-revenge-mls-defeats-025900128.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "'Showed once again why he’s the greatest' - Rodrigo De Paul hails Lionel Messi after Inter Miami's 3-1 win over Orlando City in Leagues Cup",
-          "snippet": "",
-          "url": "https://www.goal.com/en-us/lists/rodrigo-de-paul-lionel-messi-inter-miami-orlando-city/bltdf477e2a11bab135",
-          "source": "Goal.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "달",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 27 Aug 2025 17:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBTczmvL9HEOxYmfovRQxC6s2_50S6lTSFWCNa2Gg5IPiBPHDZh5l-5MkM9o8",
-      "pictureSource": "뉴스1",
-      "relatedSearch": [
-        {
-          "title": "부산교육청 10개 공공도서관, 9월 독서의 달 기념행사 '풍성'",
-          "snippet": "",
-          "url": "https://www.news1.kr/local/busan-gyeongnam/5893445",
-          "source": "뉴스1"
-        },
-        {
-          "title": "평창군, 독서의 달 맞아 '세대별 맞춤형 프로그램' 운영",
-          "snippet": "",
-          "url": "https://www.newsis.com/view/NISX20250827_0003305224",
-          "source": "뉴시스"
-        },
-        {
-          "title": "'9월은 독서의 달' 익산시, 공공도서관 문화 프로그램 다채",
-          "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20250826140600055",
-          "source": "연합뉴스"
+          "url": "https://onefootball.com/en/news/marco-reus-proved-right-as-lionel-messi-puts-inter-miami-in-another-final-41576727",
+          "source": "OneFootball"
         }
       ],
       "link": "https://imtaqin.id/"

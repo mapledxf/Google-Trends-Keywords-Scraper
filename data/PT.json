@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-08-28 19:49:40",
+  "lastUpdate": "2025-08-28 19:57:16",
   "data": [
     {
       "title": "nadador",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 28 Aug 2025 12:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6KzxtVVzZI2k4mjQVVTqLYWi-doEg1kqNkSaBhMUtEB-6nGeq6E4L1rdYk8w",
       "pictureSource": "Prefeitura de Jaraguá do Sul",
@@ -31,7 +31,7 @@
     },
     {
       "title": "byd",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 28 Aug 2025 12:20:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsqfeCBzI1yQU5ZYOJ8vonuDuM6kkObiiRb239W72dgjHNFcNcHfbY9G5ze68",
       "pictureSource": "Jornal de Negócios",
@@ -117,15 +117,9 @@
       "title": "salmonella",
       "trafficCount": "100+",
       "pubDate": "Thu, 28 Aug 2025 12:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwtRSeVGHFWHslHx6gbqVBzLQIh8EE44xwK0gyWWI6aGNLfHCTdG_h9ufZW0w",
-      "pictureSource": "NBC News",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSUH9_jRjKZVtLIhDoEgrmJNox-DFiR7nriKJx26gd913vKXEmvcEP3kmAeSI",
+      "pictureSource": "Centers for Disease Control and Prevention | CDC (.gov)",
       "relatedSearch": [
-        {
-          "title": "Salmonella outbreak linked to eggs sickens 95 people, CDC says",
-          "snippet": "",
-          "url": "https://www.nbcnews.com/health/recall/salmonella-eggs-outbreak-hospitalized-cdc-rcna227818",
-          "source": "NBC News"
-        },
         {
           "title": "Salmonella Outbreak Linked to Eggs",
           "snippet": "",
@@ -137,6 +131,12 @@
           "snippet": "",
           "url": "https://www.seattletimes.com/business/salmonella-outbreak-tied-to-recalled-eggs-has-sickened-95-people-since-january/",
           "source": "The Seattle Times"
+        },
+        {
+          "title": "Salmonella outbreak linked to recalled eggs spreads across 14 states, 3 sick in Washington",
+          "snippet": "",
+          "url": "https://www.kiro7.com/news/local/salmonella-outbreak-linked-recalled-eggs-spreads-across-14-states-3-sick-washington/PCHJDP5X2JFDFC6JZKRAELZPIA/",
+          "source": "KIRO 7 News Seattle"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,10 +189,10 @@
           "source": "TVI Player"
         },
         {
-          "title": "Jéssica intromete-se na massagem de Miranda a Afonso e a concorrente ignora-a",
+          "title": "Um beijo de Afonso rouba um sorriso a Miranda «Estou a ver o fim a aproximar-se»",
           "snippet": "",
-          "url": "https://tvi.iol.pt/bigbrother/videos/jessica-intromete-se-na-massagem-de-miranda-a-afonso-e-a-reporter-ignora-a/68b0742a0cf2ba9f720f1d3f",
-          "source": "TVI"
+          "url": "https://tviplayer.iol.pt/programa/big-brother/5eb3f47e0cf2a58834209072/video/68b0a2950cf28cf887684269",
+          "source": "TVI Player"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +211,16 @@
           "source": "SIC Notícias"
         },
         {
-          "title": "Fogo em Vinhais tem três frentes activas e avança em direcção a aldeia",
-          "snippet": "",
-          "url": "https://www.publico.pt/2025/08/28/sociedade/noticia/fogo-vinhais-activo-dez-aeronaves-combate-chamas-2145262",
-          "source": "Público"
-        },
-        {
           "title": "Fogo de Vinhais continua \"muito ativo\" com vento a dificultar combate",
           "snippet": "",
           "url": "https://portocanal.sapo.pt/noticia/366933",
           "source": "Porto Canal"
+        },
+        {
+          "title": "Três frentes ativas no incêndio de Vinhais que lavra em direção a Ervedosa",
+          "snippet": "",
+          "url": "https://www.jn.pt/pais/artigo/fogo-de-vinhais-continua-muito-ativo-com-vento-a-dificultar-combate/17868048",
+          "source": "Jornal de Notícias"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,10 +245,10 @@
           "source": "Cumhuriyet"
         },
         {
-          "title": "Dolmabahçe'de taraftarlardan Beşiktaş'a protesto! - Beşiktaş Haberleri",
+          "title": "Dolmabahçe’de taraftarlardan protesto",
           "snippet": "",
-          "url": "https://www.haberturk.com/dolmabahce-de-taraftarlardan-besiktas-a-protesto-3818319-spor",
-          "source": "Habertürk"
+          "url": "https://www.sonses.tv/dolmabahcede-taraftarlardan-protesto",
+          "source": "Sonses TV"
         }
       ],
       "link": "https://imtaqin.id/"

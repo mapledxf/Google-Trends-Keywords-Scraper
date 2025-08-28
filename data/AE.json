@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-08-28 07:00:34",
+  "lastUpdate": "2025-08-28 07:23:43",
   "data": [
     {
       "title": "lokah chapter 1",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 27 Aug 2025 22:50:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-2itXUtCYFBPgsNkEG51CbvGLtE5wWhrXsITXyGr-FdOMUtWXiYzCi9R4PAw",
       "pictureSource": "The Times of India",
@@ -49,10 +49,10 @@
           "source": "BBC"
         },
         {
-          "title": "Nvidia beats revenue expectations in boost to AI investment and US stock markets",
+          "title": "NVIDIA Announces Financial Results for Second Quarter Fiscal 2026",
           "snippet": "",
-          "url": "https://news.sky.com/story/nvidia-beats-revenue-expectations-in-boost-to-ai-investment-and-us-stock-markets-13419541",
-          "source": "Sky News"
+          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2026",
+          "source": "NVIDIA Newsroom"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -87,7 +87,7 @@
     },
     {
       "title": "games",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 27 Aug 2025 21:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCeb8VBYHqqcj2jpQZofSehHZxdkicRPsbCYYlgRnJEAn1V0lgGtt5k-rIVUw",
       "pictureSource": "ESPN",
@@ -114,6 +114,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "gemini",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 27 Aug 2025 21:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8_bm-dM95HS6bIExVvlzv0jU0DZ_EYnGCFbuq_dVyNNmqn-pIqTU1XWDUdA",
+      "pictureSource": "Google for Developers Blog",
+      "relatedSearch": [
+        {
+          "title": "Introducing Gemini 2.5 Flash Image, our state-of-the-art image model",
+          "snippet": "",
+          "url": "https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/",
+          "source": "Google for Developers Blog"
+        },
+        {
+          "title": "Nano Banana! Image editing in Gemini just got a major upgrade",
+          "snippet": "",
+          "url": "https://blog.google/intl/en-mena/product-updates/explore-get-answers/nano-banana-image-editing-in-gemini-just-got-a-major-upgrade/",
+          "source": "The Keyword"
+        },
+        {
+          "title": "Create and edit images with Gemini 2.5 Flash Image",
+          "snippet": "",
+          "url": "https://deepmind.google/models/gemini/image/",
+          "source": "Google DeepMind"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "شات جي بي تي",
       "trafficCount": "200+",
       "pubDate": "Wed, 27 Aug 2025 21:20:00 -0700",
@@ -127,16 +155,16 @@
           "source": "BBC"
         },
         {
-          "title": "بعد حادثة مأساوية.. \"أوبن أيه أي\" تجري تغييرات عاجلة في \"شات جي بي تي\"",
-          "snippet": "",
-          "url": "https://www.albayan.ae/technology/tech-radar/411576",
-          "source": "البيان"
-        },
-        {
           "title": "عائلة تتهم الذكاء الاصطناعي.. \"شجع فتى على الانتحار\"",
           "snippet": "",
           "url": "https://www.skynewsarabia.com/technology/1816317-%D8%B9%D8%A7%D9%8A%D9%94%D9%84%D8%A9-%D8%AA%D8%AA%D9%87%D9%85-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D8%B4%D8%AC%D8%B9-%D9%81%D8%AA%D9%89-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D8%B1",
           "source": "سكاي نيوز عربية"
+        },
+        {
+          "title": "بعد حادثة مأساوية.. \"أوبن أيه أي\" تجري تغييرات عاجلة في \"شات جي بي تي\"",
+          "snippet": "",
+          "url": "https://www.albayan.ae/technology/tech-radar/411576",
+          "source": "البيان"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,9 +229,15 @@
       "title": "epic",
       "trafficCount": "100+",
       "pubDate": "Wed, 27 Aug 2025 20:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5OJAAGW5HC9pPC-LGK4ubEj9sPhIUtmFhUAthrppVS5YeMVJjQlcBTWAcdA",
-      "pictureSource": "TipRanks",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHjk4H1g9lz2TyWOWpSS6UV1U6n3_y2bAUHVVWd4AomA8U6COY_cZ_pKB_qqc",
+      "pictureSource": "80 Level",
       "relatedSearch": [
+        {
+          "title": "Epic Games CEO Links Unreal Engine 5's Optimization Issues to Developer Practices",
+          "snippet": "",
+          "url": "https://80.lv/articles/epic-games-ceo-links-unreal-engine-5-s-optimization-issues-to-developer-practices",
+          "source": "80 Level"
+        },
         {
           "title": "‘Optimization Should Begin Early’ Epic Games CEO Tim Sweeney Defends Unreal Engine 5",
           "snippet": "",
@@ -215,12 +249,6 @@
           "snippet": "",
           "url": "https://www.pcgamesn.com/unreal-development-kit/unreal-engine-5-issues-addressed-by-epic-ceo",
           "source": "PCGamesN"
-        },
-        {
-          "title": "Epic Games CEO Links Unreal Engine 5's Optimization Issues to Developer Practices",
-          "snippet": "",
-          "url": "https://80.lv/articles/epic-games-ceo-links-unreal-engine-5-s-optimization-issues-to-developer-practices",
-          "source": "80 Level"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://gulfnews.com/lifestyle/emirati-women-are-shaping-every-part-of-dubai-says-maha-gorton-of-expo-city-dubai-on-emirati-womens-day-1.500246893",
           "source": "Gulf News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "teams",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 27 Aug 2025 20:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfmQud9dzJPXtZ0uGp-5YUnZnwdEFMPk5Wfx3gjKBv18jrr4q616ZjPcTySos",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Champions League draw 2025-26: How will Premier League clubs fare?",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/articles/cn0rn9n0wkzo",
-          "source": "BBC"
-        },
-        {
-          "title": "The Champions League: All 36 teams ranked and reviewed",
-          "snippet": "",
-          "url": "https://www.nytimes.com/athletic/6578769/2025/08/28/champions-league-teams-ranked/",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Pots set for 2025-26 UCL league phase draw",
-          "snippet": "",
-          "url": "https://www.espn.com/soccer/story/_/id/46085464/pots-set-2025-26-champions-league-group-draw",
-          "source": "ESPN"
         }
       ],
       "link": "https://imtaqin.id/"

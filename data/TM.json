@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-30 17:51:23",
+  "lastUpdate": "2025-08-30 17:58:52",
   "data": [
     {
       "title": "реал овьедо – реал сосьедад",
@@ -31,7 +31,7 @@
     },
     {
       "title": "augsburg - bayern münih",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 30 Aug 2025 09:50:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVn0k2tlhT49kc5YxLulVAEjkT0P_uaJ_rBwaQgv_eFxFJUcnMDGa0ClMnPFU",
       "pictureSource": "BILD",
@@ -145,9 +145,15 @@
       "title": "аугсбург – бавария",
       "trafficCount": "1000+",
       "pubDate": "Sat, 30 Aug 2025 08:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwpwf_1vj_-YOssBgZLww5cqG6Ad3MjSildiZKdasJbduvTzEa1KrwQbL5LiQ",
-      "pictureSource": "Soccer.ru",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ01Lv4DYgSBnNm-M170eFtkA6tP3ZXpF_U_OfWkyqS3qEGPNpEythqR7uiBDI",
+      "pictureSource": "Евро-Футбол",
       "relatedSearch": [
+        {
+          "title": "Кейн – в основе: «Бавария» объявила состав на матч против «Аугсбурга»",
+          "snippet": "",
+          "url": "https://www.euro-football.ru/article/32/1006009667_keyn__v_osnove_bavariya_obyyavila_sostav_na_match_protiv_augsburga",
+          "source": "Евро-Футбол"
+        },
         {
           "title": "«Аугсбург» – «Бавария»: прогноз и ставки от БК Pinnacle888",
           "snippet": "",
@@ -155,16 +161,10 @@
           "source": "Soccer.ru"
         },
         {
-          "title": "Прогноз и ставка от Эльвина Керимова на матч Аугсбург – Бавария Бундеслиги – 30 августа 2025",
+          "title": "Экспресс на футбол с большим коэффициентом — 30 августа 2025",
           "snippet": "",
-          "url": "https://www.euro-football.ru/prognozy/1006009215_prognoz_i_stavka_ot_elvina_kerimova_na_match_augsburg__bavariya_bundesligi__30_avgusta_2025",
-          "source": "Евро-Футбол"
-        },
-        {
-          "title": "«Аугсбург» под руководством Сандро Вагнера готовится к встрече с «Баварией»",
-          "snippet": "",
-          "url": "https://stavkiprognozy.ru/novosti/football/augsburg_bavariya_vozvrashchenie_sandro_vagnera",
-          "source": "Stavkiprognozy.ru"
+          "url": "https://www.liveresult.ru/tips/football/tip294647-Ekspress-na-futbol-s-bolshim-koeffitsientom",
+          "source": "LiveResult"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,26 +173,54 @@
       "title": "alavés - atletico madrid",
       "trafficCount": "200+",
       "pubDate": "Sat, 30 Aug 2025 08:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpJCQhUQK7veg0CC66wXL-LagRM069Ed4EaY8Mh01WOnfVFh1dQA1FdJLQHcg",
-      "pictureSource": "MARCA",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_kmbVLaa3gK9HtPOdqRMB1eWGM1mhBccolG2CVV1JaaRlxkGfuVU5g76RkTg",
+      "pictureSource": "LaSexta",
       "relatedSearch": [
-        {
-          "title": "Alavés - Atlético, en directo: resumen, resultado y goles del partido de LaLiga EA Sports",
-          "snippet": "",
-          "url": "https://www.marca.com/futbol/laliga-ea-sports/alaves-atletico/2025/08/30/01_0101_20250830_173_175-directo.html",
-          "source": "MARCA"
-        },
-        {
-          "title": "Susto en Mendizorroza: el Alavés-Atlético se detuvo más de 10 minutos por el desvanecimiento de un hincha",
-          "snippet": "",
-          "url": "https://okdiario.com/deportes/susto-mendizorroza-alaves-atletico-detuvo-mas-10-minutos-desvanecimiento-hincha-15325386",
-          "source": "OkDiario"
-        },
         {
           "title": "Detienen durante más de 10 minutos el Alavés - Atlético por una urgencia sanitaria en las gradas de Mendizorro",
           "snippet": "",
           "url": "https://www.lasexta.com/noticias/deportes/futbol/detienen-mas-10-minutos-alaves-atletico-urgencia-sanitaria-gradas-mendizorroza_2025083068b32ac9fb354e4b3d274e69.html",
           "source": "LaSexta"
+        },
+        {
+          "title": "Evacúan a un aficionado de Mendizorroza",
+          "snippet": "",
+          "url": "https://www.marca.com/futbol/atletico/2025/08/30/evacuan-aficionado-mendizorroza.html",
+          "source": "MARCA"
+        },
+        {
+          "title": "La llamativa imagen de Mendizorroza: una urgencia médica en la grada hace que los dos equipos calienten entre ellos",
+          "snippet": "",
+          "url": "https://www.elconfidencial.com/deportes/futbol/liga/2025-08-30/imagen-alaves-atletico-de-madrid-urgencia-medica-calienten-jugadores-mendizorroza_4199504/",
+          "source": "El Confidencial"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "английская премьер-лига",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 30 Aug 2025 08:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRHNw1YWtNoVuIt5FNKTQ2LOY3FuFQPCVdcs2xlwQHhgp-vn9Iau01lf7TsoU",
+      "pictureSource": "Евро-Футбол",
+      "relatedSearch": [
+        {
+          "title": "«Наша задача – превзойти их»: Артета высказался о «Ливерпуле»",
+          "snippet": "",
+          "url": "https://www.euro-football.ru/article/31/1006008867_nasha_zadacha__prevzoyti_ih_arteta_vyiskazalsya_o_liverpule",
+          "source": "Евро-Футбол"
+        },
+        {
+          "title": "Обзор матча «Ливерпуль» — «Арсенал», 22:30, 31 августа: битва за первое место в турнирной таблице",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/ru/nhan-dinh-tran-dau-liverpool-vs-arsenal-22h30-ngay-31-8-dai-chien-dinh-bang",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "«Ливерпуль» много пропускает, «Арсенал» – царь стандартов. В АПЛ сыграют фавориты сезона",
+          "snippet": "",
+          "url": "https://www.soccer.ru/blogs/record/1416709/liverpul-arsenal",
+          "source": "Soccer.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,38 +273,10 @@
           "source": "allsport-news.net"
         },
         {
-          "title": "Миколенко приложился почти ко всем голам в матче Эвертона, Ярмолюк проиграл Сандерленду, МЮ спас победу над Бернли — Футбол 24",
+          "title": "Миколенко – в старте на «Вулверхэмптон»",
           "snippet": "",
-          "url": "https://football24.ua/ru/mikolenko_prisoedinilsja_pochti_ko_vsem_golam_v_matche_jevertona_jarmoljuk_proigral_sanderlendu_mju_spas_pobedu_nad_bernli_n896627/",
-          "source": "Футбол 24"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "tottenham - bournemouth",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 30 Aug 2025 07:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIjJQnKgcJ1qww0wUPdFkWoPCRS86YE9lFWLawQADE9JBfXsLdwJ6FWx16gUk",
-      "pictureSource": "ESPN",
-      "relatedSearch": [
-        {
-          "title": "Bournemouth 1-0 Spurs (Aug 30, 2025) Game Analysis",
-          "snippet": "",
-          "url": "https://www.espn.com/soccer/report/_/gameId/740620",
-          "source": "ESPN"
-        },
-        {
-          "title": "Evanilson’s early strike secures Bournemouth victory at Tottenham",
-          "snippet": "",
-          "url": "https://www.theguardian.com/football/2025/aug/30/tottenham-bournemouth-premier-league-match-report",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Thomas Frank reaction: What did Spurs boss say after awful showing vs Bournemouth?",
-          "snippet": "",
-          "url": "https://www.nbcsports.com/soccer/news/thomas-frank-reaction-what-did-spurs-boss-say-after-awful-showing-vs-bournemouth",
-          "source": "NBC Sports"
+          "url": "https://ua.tribuna.com/football/1000000275075-mykolenko-v-starti-na-vulverhempton/",
+          "source": "Tribuna.com"
         }
       ],
       "link": "https://imtaqin.id/"

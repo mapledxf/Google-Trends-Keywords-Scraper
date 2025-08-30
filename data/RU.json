@@ -1,15 +1,6 @@
 {
-  "lastUpdate": "2025-08-30 19:48:06",
+  "lastUpdate": "2025-08-30 19:55:41",
   "data": [
-    {
-      "title": "дмитрий губерниев",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 30 Aug 2025 12:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "французская лига 1",
       "trafficCount": "200+",
@@ -39,8 +30,17 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "кадышева",
+      "title": "дмитрий губерниев",
       "trafficCount": "100+",
+      "pubDate": "Sat, 30 Aug 2025 12:30:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "кадышева",
+      "trafficCount": "200+",
       "pubDate": "Sat, 30 Aug 2025 12:30:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsG9MatrETqP7VvMyb-vANLy5j55afqM3dKOtGITnu0Pu3wyxqrwMpw-wyoiw",
       "pictureSource": "7Дней.ру",
@@ -58,10 +58,10 @@
           "source": "Рамблер"
         },
         {
-          "title": "Концерт Кадышевой превратился в хаос: как зрители спасались от давки",
+          "title": "В Госдуме прокомментировали новости о билетах на концерт Кадышевой за 60 тысяч рублей: «Не хочешь — не бери»",
           "snippet": "",
-          "url": "https://www.newsinfo.ru/news/concert-crowd-chaos/916680/",
-          "source": "NewsInfo.Ru"
+          "url": "https://www.hibiny.ru/murmanskaya-oblast/news/item-vgosdume-prokommentirovali-novosti-obiletah-nakoncert-kadyshevoy-za60-tysyach-rubley-nehochesh-neberi-427364/",
+          "source": "Хибины.ру"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -151,34 +151,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "лещенко",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 30 Aug 2025 12:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvcR7-hTO95huqMLR5LYgcuzkzYUXt8BImt8wn1v0UeTww7haYTw--dAxdPmw",
-      "pictureSource": "RUTUBE.Sport",
-      "relatedSearch": [
-        {
-          "title": "«Крылья Советов» — «Динамо»: обзор матча FONBET Кубок России 26.08.2025",
-          "snippet": "",
-          "url": "https://rutube.sport/news/football-news/krylia-sovetov-dinamo-obzor-matcha-fonbet-kubok-rossii-26-08-2025/",
-          "source": "RUTUBE.Sport"
-        },
-        {
-          "title": "Дьяков о «Динамо»: по матчу с «Крыльями» не скажешь, что игра выправляется",
-          "snippet": "",
-          "url": "https://metaratings.ru/news/dyakov-o-dinamo-po-matchu-s-krylyami-ne-skazhesh-chto-igra-vypravlyaetsya-517446/",
-          "source": "Metaratings"
-        },
-        {
-          "title": "У московского «Динамо» один из худших стартов в истории РПЛ — как это использовать?",
-          "snippet": "",
-          "url": "https://bookmaker-ratings.ru/news/u-moskovskogo-dinamo-odin-iz-hudshih-startov-v-istorii-rpl-kak-e-to-ispol-zovat/",
-          "source": "Рейтинг Букмекеров"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "майли сайрус",
       "trafficCount": "100+",
       "pubDate": "Sat, 30 Aug 2025 12:10:00 -0700",
@@ -207,12 +179,46 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "лещенко",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 30 Aug 2025 12:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvcR7-hTO95huqMLR5LYgcuzkzYUXt8BImt8wn1v0UeTww7haYTw--dAxdPmw",
+      "pictureSource": "RUTUBE.Sport",
+      "relatedSearch": [
+        {
+          "title": "«Крылья Советов» — «Динамо»: обзор матча FONBET Кубок России 26.08.2025",
+          "snippet": "",
+          "url": "https://rutube.sport/news/football-news/krylia-sovetov-dinamo-obzor-matcha-fonbet-kubok-rossii-26-08-2025/",
+          "source": "RUTUBE.Sport"
+        },
+        {
+          "title": "Дьяков о «Динамо»: по матчу с «Крыльями» не скажешь, что игра выправляется",
+          "snippet": "",
+          "url": "https://metaratings.ru/news/dyakov-o-dinamo-po-matchu-s-krylyami-ne-skazhesh-chto-igra-vypravlyaetsya-517446/",
+          "source": "Metaratings"
+        },
+        {
+          "title": "У московского «Динамо» один из худших стартов в истории РПЛ — как это использовать?",
+          "snippet": "",
+          "url": "https://bookmaker-ratings.ru/news/u-moskovskogo-dinamo-odin-iz-hudshih-startov-v-istorii-rpl-kak-e-to-ispol-zovat/",
+          "source": "Рейтинг Букмекеров"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "басков",
       "trafficCount": "500+",
       "pubDate": "Sat, 30 Aug 2025 12:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqt6W4PgzcYA46f9UvPlRThWdE2SAeqF2OK00K8usFHXqknTu7sOMRtVBDp5w",
-      "pictureSource": "Леди Mail",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgAGXedztArtyswU8g-MUGeC3pK8zJds2cZzJlrSt5im5WdHNSelKCx98JL8M",
+      "pictureSource": "Рамблер/новости",
       "relatedSearch": [
+        {
+          "title": "Пригожин ответил Садальскому, раскритиковавшему звезд эстрады",
+          "snippet": "",
+          "url": "https://news.rambler.ua/starlife/55221841-prigozhin-otvetil-sadalskomu-raskritikovavshemu-zvezd-estrady/",
+          "source": "Рамблер/новости"
+        },
         {
           "title": "Садальский о Баскове: «Драная попса и попрошайка»",
           "snippet": "",
@@ -224,12 +230,6 @@
           "snippet": "",
           "url": "https://muz-tv.ru/news/prigozhin-posovetoval-sadalskomu-zanyatsya-soboy-vmesto-togo-kritiki-kolleg/",
           "source": "muz-tv.ru"
-        },
-        {
-          "title": "Садальский разнёс Баскова и усомнился в славе Валерии",
-          "snippet": "",
-          "url": "https://www.newsinfo.ru/news/russian-pop-criticism/916679/",
-          "source": "NewsInfo.Ru"
         }
       ],
       "link": "https://imtaqin.id/"

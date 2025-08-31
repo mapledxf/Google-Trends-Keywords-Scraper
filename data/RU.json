@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-31 13:55:14",
+  "lastUpdate": "2025-08-31 14:10:07",
   "data": [
     {
       "title": "f1",
@@ -31,15 +31,21 @@
     },
     {
       "title": "формула 1",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Sun, 31 Aug 2025 05:50:00 -0700",
-      "picture": "",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3y1TB0rJbQrrgB5qISpapieG5-FWYAOxJzTnp0O9aKdBVPyelMiLK7KQomDM",
       "pictureSource": "F1News",
       "relatedSearch": [
         {
-          "title": "Гран При Нидерландов: Стартовое поле",
+          "title": "70 минут до старта: Комментарий Макса Ферстаппена",
           "snippet": "",
-          "url": "https://www.f1news.ru/Championship/2025/netherlands/grid.shtml",
+          "url": "https://www.f1news.ru/news/f1-183794.html",
+          "source": "F1News"
+        },
+        {
+          "title": "80 минут до старта: Комментарий Ландо Норриса",
+          "snippet": "",
+          "url": "https://www.f1news.ru/news/f1-183796.html",
           "source": "F1News"
         },
         {
@@ -47,12 +53,6 @@
           "snippet": "",
           "url": "https://auto.mail.ru/article/110730-piastri-vyiigral-kvalifikatsiyu-gran-pri-niderlandov-formulyi-1/",
           "source": "Авто Mail"
-        },
-        {
-          "title": "Стартовая решётка Гран При Нидерландов",
-          "snippet": "",
-          "url": "https://autosport.com.ru/f1/99859-startovaya-reshyotka-gran-pri-niderlandov",
-          "source": "Autosport.com.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -233,16 +233,16 @@
           "source": "Спорт Mail"
         },
         {
-          "title": "«Брайтон» - «Манчестер Сити»: прямая трансляция, составы, онлайн - 0:0",
-          "snippet": "",
-          "url": "https://www.liveresult.ru/football/matches/match1646205_Brighton_and_Hove_Albion-Manchester_City-live-online",
-          "source": "LiveResult"
-        },
-        {
           "title": "Брайтон – Манчестер Сити прогноз на матч АПЛ 31 августа 2025 года. Ставка с коэффициентом 2,45",
           "snippet": "",
           "url": "https://metaratings.ru/prognozy/futbol/brajton-manchester-siti-prognoz-na-match-apl-31-avgusta-2025-goda/",
           "source": "Metaratings"
+        },
+        {
+          "title": "«Брайтон» - «Манчестер Сити»: прямая трансляция, составы, онлайн - 0:0",
+          "snippet": "",
+          "url": "https://www.liveresult.ru/football/matches/match1646205_Brighton_and_Hove_Albion-Manchester_City-live-online",
+          "source": "LiveResult"
         }
       ],
       "link": "https://imtaqin.id/"

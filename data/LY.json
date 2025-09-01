@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-01 10:41:23",
+  "lastUpdate": "2025-09-01 10:51:19",
   "data": [
     {
       "title": "منظومة حجز مصرف ليبيا المركزي 2025",
@@ -31,7 +31,7 @@
     },
     {
       "title": "سوندرز ضد إنتر ميامي",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Sun, 31 Aug 2025 16:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFA8XmI1zXaBxrpnk91Io91GQdI30Zad1OLWzv1n508Uwi4YOalW_ryl2ICbw",
       "pictureSource": "Kooora",
@@ -70,9 +70,15 @@
       "title": "معمر القذافي",
       "trafficCount": "200+",
       "pubDate": "Sun, 31 Aug 2025 15:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSm6YrmeTb0PIsnH9Jq715NFGBvB56cZtWRQHTF5gJVez_eVhceg2bQtlVCjew",
-      "pictureSource": "الشرق الأوسط",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXkuumj7XJfWkz-X8oyVxMuNJmbkLLMl6pOumnVKo0ndtBlEzLB1Frm6R1oOo",
+      "pictureSource": "BBC",
       "relatedSearch": [
+        {
+          "title": "محمد إدريس السنوسي: ملك ليبيا الذي أنهى القذافي حكمه",
+          "snippet": "",
+          "url": "https://www.bbc.com/arabic/articles/cd7y1vvdd74o",
+          "source": "BBC"
+        },
         {
           "title": "لبنان: لا نية شيعية لتحريك الشارع أو مقاطعة مجلس الوزراء",
           "snippet": "",
@@ -84,12 +90,6 @@
           "snippet": "",
           "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20250831-%D8%A8%D8%B1%D9%8A-%D9%8A%D8%B7%D8%B1%D8%AD-%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%B1-%D8%AA%D8%AD%D8%AA-%D8%B3%D9%82%D9%81-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D9%85%D9%86-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9",
           "source": "France 24"
-        },
-        {
-          "title": "هاني: حصر السلاح على رأس أولويات الحكومة ويمضي وفق المخطط الموضوع",
-          "snippet": "",
-          "url": "https://almarkazia.com/ar/%D9%87%D8%A7%D9%86%D9%8A-%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D8%B9%D9%84%D9%89-%D8%B1%D8%A3%D8%B3-%D8%A3%D9%88%D9%84%D9%88%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-1",
-          "source": "المركزية"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -151,17 +151,45 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "ترتيب الدوري الاسباني",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 31 Aug 2025 14:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtSeeLxUglHViafT2FDeX9KBYvv5kKvXdTe_v4VH5uafMrhUYNsJzZpxGaHfM",
+      "pictureSource": "SportsLeb",
+      "relatedSearch": [
+        {
+          "title": "فوز ريال مدريد وتعثر برشلونة وتألق هيثم حسن في ملخص الجولة الثالثة للدوري الإسباني اليوم الإثنين 01/09/2025",
+          "snippet": "",
+          "url": "https://sports-leb.com/175972/%D9%81%D9%88%D8%B2-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%88%D8%AA%D8%B9%D8%AB%D8%B1-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D9%88%D8%AA%D8%A3%D9%84%D9%82-%D9%87%D9%8A%D8%AB/",
+          "source": "SportsLeb"
+        },
+        {
+          "title": "برشلونة يتعادل مع فاليكانو ويمنح ريال مدريد فرصة الانفراد بالصدارة",
+          "snippet": "",
+          "url": "https://twaslnews.com/%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC/1864775/",
+          "source": "شبكة تواصل الإخبارية"
+        },
+        {
+          "title": "تعثر برشلونة وصدارة مدريد .. تعرف على ترتيب الدوري الإسباني بعد انتهاء الجولة الثالثة",
+          "snippet": "",
+          "url": "https://www.korabia.net/news/28716/%D8%AA%D8%B9%D8%AB%D8%B1-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D9%88%D8%B5%D8%AF%D8%A7%D8%B1%D8%A9-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D8%A1-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9/%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1",
+          "source": "كورابيا"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "inter vs udinese",
       "trafficCount": "100+",
       "pubDate": "Sun, 31 Aug 2025 13:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmGyUMhDU0dRaDYphFjDULza2fd_8_JYcI5WxK7-Z8dv5Us4oeVocke-R_1vk",
-      "pictureSource": "Football Italia",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeVwnaDK1_0fvJYzFwc85Tw-0mpD4zA4gbo-krkLXqZZUi0BA4n_Q45Keogkg",
+      "pictureSource": "Sportingpedia",
       "relatedSearch": [
         {
-          "title": "Serie A | Inter 1-2 Udinese: Shocking home defeat for Chivu's men",
+          "title": "Udinese Halt Inter with Stunning Comeback at San Siro",
           "snippet": "",
-          "url": "https://football-italia.net/serie-a-inter-1-2-udinese-shock-home-defeat/",
-          "source": "Football Italia"
+          "url": "https://www.sportingpedia.com/2025/09/01/udinese-halt-inter-with-stunning-comeback-at-san-siro/",
+          "source": "Sportingpedia"
         },
         {
           "title": "Decisive Spot Kick In Inter Milan 1-2 Udinese Serie A Clash Deemed ‘Clear Penalty’",
@@ -174,34 +202,6 @@
           "snippet": "",
           "url": "https://www.beinsports.com/en-nz/football/serie-a/articles/chivu-demands-inter-be-ready-to-play-dirty-after-udinese-upset-2025-09-01",
           "source": "beIN SPORTS"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "الزمالك",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 31 Aug 2025 12:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5eepApwxZuO7s5s_13AinkhoGnWrZ716ebasSFC11uehM8vLKPdQk6lcsXgo",
-      "pictureSource": "موقع 24",
-      "relatedSearch": [
-        {
-          "title": "\"ريمونتادا\" وادي دجلة تطيح بالزمالك في الدوري المصري",
-          "snippet": "",
-          "url": "https://24.ae/article/915512/-%D8%B1%D9%8A%D9%85%D9%88%D9%86%D8%AA%D8%A7%D8%AF%D8%A7-%D9%88%D8%A7%D8%AF%D9%8A-%D8%AF%D8%AC%D9%84%D8%A9-%D8%AA%D8%B7%D9%8A%D8%AD-%D8%A8%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A",
-          "source": "موقع 24"
-        },
-        {
-          "title": "طرد بهنسى لاعب وادى دجلة فى مباراة الزمالك.. والأبيض يتأخر 2-1",
-          "snippet": "",
-          "url": "https://www.youm7.com/story/2025/8/31/%D8%B7%D8%B1%D8%AF-%D8%A8%D9%87%D9%86%D8%B3%D9%89-%D9%84%D8%A7%D8%B9%D8%A8-%D9%88%D8%A7%D8%AF%D9%89-%D8%AF%D8%AC%D9%84%D8%A9-%D9%81%D9%89-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83-%D9%88%D8%A7%D9%84%D8%A3%D8%A8%D9%8A%D8%B6-%D9%8A%D8%AA%D8%A3%D8%AE%D8%B1/7106939",
-          "source": "اليوم السابع"
-        },
-        {
-          "title": "ألبومات | قلب الطاولة في أبرز صور انتصار وادي دجلة على الزمالك",
-          "snippet": "",
-          "url": "https://www.filgoal.com/albums/12001",
-          "source": "فى الجول"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,10 +226,10 @@
           "source": "Sports Illustrated"
         },
         {
-          "title": "Lamine Yamal decepcionado después del empate del Barcelona: \"No estoy...\"",
+          "title": "La defensa sigue sin funcionar",
           "snippet": "",
-          "url": "https://www.sportingnews.com/us-es/futbol/barcelona/news/lamine-yamal-decepcionado-despues-del-empate-barcelona-no-estoy/3a1b84bc96bf83aca5d30189",
-          "source": "Sporting News"
+          "url": "https://onefootball.com/en/news/la-defensa-sigue-sin-funcionar-41598321",
+          "source": "OneFootball"
         }
       ],
       "link": "https://imtaqin.id/"

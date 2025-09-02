@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-09-02 20:56:47",
+  "lastUpdate": "2025-09-02 21:13:12",
   "data": [
+    {
+      "title": "netflix",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 2 Sep 2025 13:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCb40HJgekBjNSHQd4VjWVvO7AVtt47aLhCWRNX7iDdyMeyFvy4J_lujSbF0k",
+      "pictureSource": "Netflix",
+      "relatedSearch": [
+        {
+          "title": "Yeehaw! My Life with the Walter Boys Season 3: Everything to Know",
+          "snippet": "",
+          "url": "https://www.netflix.com/tudum/articles/my-life-with-the-walter-boys-season-3",
+          "source": "Netflix"
+        },
+        {
+          "title": "‘My Life with the Walter Boys’ EP Teases Show's Future Beyond Season 3",
+          "snippet": "",
+          "url": "https://www.swooon.com/1223611/my-life-with-the-walter-boys-future-season-3-plans-college/",
+          "source": "Swooon"
+        },
+        {
+          "title": "Netflix viewers share the same 'disappointing' complaint about return of romance drama",
+          "snippet": "",
+          "url": "https://www.hellomagazine.com/film/853207/netflix-viewers-share-disappointing-complaint-about-my-life-with-the-walter-boys/",
+          "source": "HELLO! Magazine"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "radares psp setembro",
       "trafficCount": "100+",
@@ -198,34 +226,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "white house",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 2 Sep 2025 11:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRucyUtb98lPIEC9dCPw-aoqfo-_7qcSLJYa3jFSweQAa97JQAAtM5yy1wCUc4",
-      "pictureSource": "Time Magazine",
-      "relatedSearch": [
-        {
-          "title": "Trump Says Video of Object Tossed Out of Window Was ‘Probably A.I.’—After White House Implied Otherwise",
-          "snippet": "",
-          "url": "https://time.com/7313902/white-house-video-window/",
-          "source": "Time Magazine"
-        },
-        {
-          "title": "Trump says AI-generated content is 'a little bit scary'",
-          "snippet": "",
-          "url": "https://www.businessinsider.com/trump-ai-generated-content-scary-black-bag-white-house-2025-9",
-          "source": "Business Insider"
-        },
-        {
-          "title": "President Trump reacts to viral video",
-          "snippet": "",
-          "url": "https://www.foxnews.com/video/6378208992112",
-          "source": "Fox News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "carlos alcaraz",
       "trafficCount": "500+",
       "pubDate": "Tue, 2 Sep 2025 11:10:00 -0700",
@@ -239,16 +239,16 @@
           "source": "EL PAÍS"
         },
         {
-          "title": "Resumen, resultado y ganador del Alcaraz - Lehecka: cuartos de final del US Open hoy en vivo online",
-          "snippet": "",
-          "url": "https://as.com/tenis/us_open/alcaraz-lehecka-en-directo-cuartos-de-final-del-us-open-hoy-en-vivo-online-n/",
-          "source": "Diario AS"
-        },
-        {
           "title": "Carlos Alcaraz llega intocable a su octava semifinal consecutiva",
           "snippet": "",
           "url": "https://www.marca.com/tenis/us-open/2025/09/02/carlos-alcaraz-llega-intocable-octava-semifinal-consecutiva.html",
           "source": "MARCA"
+        },
+        {
+          "title": "Alcaraz vence a Lehecka y vuelve a unas semifinales en Nueva York",
+          "snippet": "",
+          "url": "https://quepasamedia.com/noticias/deportes/alcaraz-vence-a-lehecka-y-vuelve-a-unas-semifinales-en-nueva-york/",
+          "source": "Qué Pasa"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,15 +257,9 @@
       "title": "trump announcement",
       "trafficCount": "500+",
       "pubDate": "Tue, 2 Sep 2025 11:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZpBhoD_TJfA2X-KI8Ll2gruYeQIYZ30POJGViKu7XLuh93XCkZsMUM7OOQag",
-      "pictureSource": "CNN",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlaeicDu-IuQH290jkWuhhxC_YIQ6sviF0ZRdZgzEsZ1SyudmAfgpZXgRSBCc",
+      "pictureSource": "BBC",
       "relatedSearch": [
-        {
-          "title": "Trump to make Oval Office announcement as Congress returns after recess",
-          "snippet": "",
-          "url": "https://www.cnn.com/politics/live-news/trump-administration-news-09-02-25",
-          "source": "CNN"
-        },
         {
           "title": "Trump addresses online health rumours in Oval Office",
           "snippet": "",
@@ -273,10 +267,16 @@
           "source": "BBC"
         },
         {
-          "title": "Trump to make Oval Office announcement amid speculation about health: Live updates",
+          "title": "‘Trump loses again’: California governor reacts to judge ruling that national guard in LA violated federal law – live",
           "snippet": "",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-announcement-today-health-live-updates-b2818546.html",
-          "source": "The Independent"
+          "url": "https://www.theguardian.com/us-news/live/2025/sep/02/congress-returns-government-shutdown-funding-trump-announcement-us-politics-live-latest-updates",
+          "source": "The Guardian"
+        },
+        {
+          "title": "President Trump Makes Defense Announcement",
+          "snippet": "",
+          "url": "https://www.c-span.org/event/white-house-event/president-trump-makes-defense-announcement/436065",
+          "source": "C-SPAN"
         }
       ],
       "link": "https://imtaqin.id/"

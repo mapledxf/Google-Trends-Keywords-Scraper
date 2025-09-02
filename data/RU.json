@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-02 19:42:52",
+  "lastUpdate": "2025-09-02 19:50:19",
   "data": [
     {
       "title": "fox news",
@@ -59,7 +59,7 @@
     },
     {
       "title": "выступление трампа",
-      "trafficCount": "1000+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 2 Sep 2025 11:40:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUT3oiLFBhvjT7BN8pjBS5w4IRy8dVM9Sg_Wp392GIY1kVwzzBTuOCeE41Vp8",
       "pictureSource": "Интерфакс",
@@ -143,28 +143,28 @@
     },
     {
       "title": "трамп последние новости",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 2 Sep 2025 11:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw6W-jtT8U8wblAdxF3c3btZwROyPn2x3AMiw5zhSw_R0kGDKK35rRZOIxbOc",
-      "pictureSource": "Эксперт",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI7oyAvciRnjeFKGpywqb3gWazAE3FM8HeIGMAPUtTvXYeJa51OkxYYTQHlqk",
+      "pictureSource": "Радио Свобода",
       "relatedSearch": [
+        {
+          "title": "Дональд Трамп опроверг слухи о своём нездоровье",
+          "snippet": "",
+          "url": "https://www.svoboda.org/a/donaljd-tramp-oproverg-sluhi-o-svoyom-nezdorovje-/33519938.html",
+          "source": "Радио Свобода"
+        },
+        {
+          "title": "Трамп впервые появился на публике на фоне слухов о его смерти",
+          "snippet": "",
+          "url": "https://ura.news/news/1052989557",
+          "source": "URA.RU"
+        },
         {
           "title": "Дональд Трамп впервые прокомментировал слухи о своей смерти",
           "snippet": "",
           "url": "https://expert.ru/news/donald-tramp-vpervye-prokommentiroval-slukhi-o-svoey-smerti/",
           "source": "Эксперт"
-        },
-        {
-          "title": "Трамп впервые появился на публике на фоне слухов о его смерти",
-          "snippet": "",
-          "url": "https://www.vedomosti.ru/politics/news/2025/09/02/1136104-tramp-poyavilsya",
-          "source": "Ведомости"
-        },
-        {
-          "title": "Духовник Трампа сделал тревожное заявление на фоне слухов о смерти президента США",
-          "snippet": "",
-          "url": "https://ura.news/news/1052989531",
-          "source": "URA.RU"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,10 +189,10 @@
           "source": "NBC News"
         },
         {
-          "title": "Letter to the Editor: Actions to take to resist Trump's attempts to steal elections",
+          "title": "The Campaign to Undermine the Midterms",
           "snippet": "",
-          "url": "https://azdailysun.com/news/local/letter-to-the-editor-actions-to-take-to-resist-trumps-attempts-to-steal-elections/article_54c5e4dd-d74d-4568-a79f-4962c216396e.html",
-          "source": "Arizona Daily Sun"
+          "url": "https://www.brennancenter.org/events/campaign-undermine-midterms",
+          "source": "Brennan Center for Justice"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,10 +245,10 @@
           "source": "Politico"
         },
         {
-          "title": "Trump announces Space Command headquarters moving from Colorado to Alabama",
+          "title": "Live updates: US military carries out strike on vessel carrying drugs from Venezuela",
           "snippet": "",
-          "url": "https://www.cbsnews.com/live-updates/trump-announce-space-command-headquarters-location/",
-          "source": "CBS News"
+          "url": "https://www.reuters.com/world/us/donald-trump/updates-trump-expected-make-announcement-moving-space-command-2025-09-02/",
+          "source": "Reuters"
         }
       ],
       "link": "https://imtaqin.id/"

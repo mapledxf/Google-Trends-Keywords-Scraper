@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2025-09-02 04:44:21",
+  "lastUpdate": "2025-09-02 04:53:16",
   "data": [
+    {
+      "title": "earthquakes",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 1 Sep 2025 21:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz4SMRodclirK0RdNb-NtR9IyzCGHHG8e2SSx9awlYdL5ziJRAEo4lVkPJS-Y",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Afghanistan: Helicopter teams lead rescue after earthquake kills more than 800 - follow live",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/cd7y7d1248zt",
+          "source": "BBC"
+        },
+        {
+          "title": "Afghanistan earthquake: Taliban appeals for international aid as rescue teams search for survivors",
+          "snippet": "",
+          "url": "https://www.theguardian.com/world/2025/sep/02/afghanistan-earthquake-taliban-appeals-for-international-aid-as-rescue-teams-search-for-survivors",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Foreign Ministry: No Malaysians among victims of deadly 6.0 quake in Afghanistan",
+          "snippet": "",
+          "url": "https://www.malaymail.com/news/malaysia/2025/09/01/foreign-ministry-no-malaysians-among-victims-of-deadly-60-quake-in-afghanistan/189684",
+          "source": "Malay Mail"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "nestle ceo laurent freixe",
       "trafficCount": "1000+",
       "pubDate": "Mon, 1 Sep 2025 19:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEnPW4sPI6ybFb3HHY8KnV6KZ7-o1xRvtloFTT2IG25Gk1qBJQVX4UnHT6LbQ",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN4pYrSqrOLM0pN8hdTDDgZKdUZiqD4lNmV7xakianUtES2b6_F5JIcPxxlh0",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
+        {
+          "title": "Nestlé sacks CEO over ‘undisclosed romantic relationship’",
+          "snippet": "",
+          "url": "https://www.theguardian.com/business/2025/sep/01/nestle-fires-ceo-after-investigation-into-undisclosed-romantic-relationship",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Nestle abruptly removes CEO Freixe over undisclosed relationship with subordinate",
+          "snippet": "",
+          "url": "https://www.reuters.com/sustainability/boards-policy-regulation/nestle-abruptly-removes-ceo-freixe-over-undisclosed-relationship-with-2025-09-01/",
+          "source": "Reuters"
+        },
         {
           "title": "Nestle fires boss after romantic relationship with employee",
           "snippet": "",
           "url": "https://www.bbc.com/news/articles/c1mpm9ee9p9o",
           "source": "BBC"
-        },
-        {
-          "title": "Nestlé dismisses CEO Laurent Freixe after probe into ‘romantic relationship’",
-          "snippet": "",
-          "url": "https://www.ft.com/content/c541820a-3922-4d23-b87b-4f2eb197c6b6",
-          "source": "Financial Times"
-        },
-        {
-          "title": "Nestle dismisses CEO Freixe after romantic relationship with staffer",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2025/09/01/nestle-dismisses-ceo-laurent-freixe-after-code-of-conduct-breach.html",
-          "source": "CNBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,34 +114,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "afghanistan earthquake",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 1 Sep 2025 17:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz4SMRodclirK0RdNb-NtR9IyzCGHHG8e2SSx9awlYdL5ziJRAEo4lVkPJS-Y",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Afghanistan: Rescue efforts resume after earthquake kills more than 800 - follow live",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/live/cd7y7d1248zt",
-          "source": "BBC"
-        },
-        {
-          "title": "‘There is death in every home’, families say, after at least 800 killed in Afghanistan earthquake – as it happened",
-          "snippet": "",
-          "url": "https://www.theguardian.com/world/live/2025/sep/01/afghanistan-earthquake-live-hundreds-after-shallow-quake-strikes-countrys-east-state-media-reports",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Foreign Ministry: No Malaysians among victims of deadly 6.0 quake in Afghanistan",
-          "snippet": "",
-          "url": "https://www.malaymail.com/news/malaysia/2025/09/01/foreign-ministry-no-malaysians-among-victims-of-deadly-60-quake-in-afghanistan/189684",
-          "source": "Malay Mail"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "radio",
       "trafficCount": "100+",
       "pubDate": "Mon, 1 Sep 2025 17:40:00 -0700",
@@ -161,10 +161,10 @@
           "source": "Malwarebytes"
         },
         {
-          "title": "WhatsApp patches vulnerability exploited in zero-day attacks",
+          "title": "WhatsApp Patches Zero-Day, Zero-Click Flaw",
           "snippet": "",
-          "url": "https://www.bleepingcomputer.com/news/security/whatsapp-patches-vulnerability-exploited-in-zero-day-attacks/",
-          "source": "BleepingComputer"
+          "url": "https://www.infosecurity-magazine.com/news/whatsapp-patches-zeroday-zeroclick/",
+          "source": "Infosecurity Magazine"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -233,10 +233,10 @@
           "source": "NBC News"
         },
         {
-          "title": "Amazon's Outlet Has the Best Hidden Labor Day Deals on Kitchen Essentials, from $7",
+          "title": "Here's what's open and closed on Labor Day 2025",
           "snippet": "",
-          "url": "https://www.allrecipes.com/best-amazon-outlet-labor-day-deals-11799485",
-          "source": "Allrecipes"
+          "url": "https://abc7.com/post/heres-whats-open-closed-labor-day-2025/17710141/",
+          "source": "ABC7 Los Angeles"
         }
       ],
       "link": "https://imtaqin.id/"

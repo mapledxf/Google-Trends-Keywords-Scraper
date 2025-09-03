@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2025-09-03 19:26:17",
+  "lastUpdate": "2025-09-03 19:35:45",
   "data": [
     {
-      "title": "lissabon",
+      "title": "carlos moedas",
       "trafficCount": "100+",
-      "pubDate": "Wed, 3 Sep 2025 12:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnjm9fNMUB9aKnQsfPnKXvLR_eoM6i5om1rzn32QQ8sMDlGEoSD9698c2JSZY",
-      "pictureSource": "Luxemburger Wort",
+      "pubDate": "Wed, 3 Sep 2025 12:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtlF8V9X19WEhcfc6nlCHILTdQTWFf0OdYbC5jkAmZ83pXeVYaprlCuye815Y",
+      "pictureSource": "Executive Digest",
       "relatedSearch": [
         {
-          "title": "Tote und Verletzte: Touristenattraktion in Lissabon entgleist",
+          "title": "Livro pessoal de Carlos Moedas abre polémica: autarca usou meios da Câmara de Lisboa para promover obra",
           "snippet": "",
-          "url": "https://www.wort.lu/panorama/tote-und-verletzte-touristenattraktion-in-lissabon-entgleist/87993935.html",
-          "source": "Luxemburger Wort"
+          "url": "https://executivedigest.sapo.pt/noticias/livro-pessoal-de-carlos-moedas-abre-polemica-autarca-usa-meios-da-camara-de-lisboa-para-divulgar-obra/",
+          "source": "Executive Digest"
         },
         {
-          "title": "Touristen-Attraktion - Unfall mit Standseilbahn in Lissabon fordert drei Todesopfer",
+          "title": "Moedas usou meios da câmara para o seu livro pessoal",
           "snippet": "",
-          "url": "https://www.srf.ch/news/international/touristen-attraktion-unfall-mit-standseilbahn-in-lissabon-fordert-drei-todesopfer",
-          "source": "Schweizer Radio und Fernsehen"
+          "url": "https://www.sabado.pt/portugal/detalhe/moedas-usou-meios-da-camara-para-o-seu-livro-pessoal",
+          "source": "SÁBADO"
         },
         {
-          "title": "3 Tote und 20 Verletzte bei Standseilbahn-Unfall in Lissabon",
+          "title": "Moedas usou meios da Câmara de Lisboa para promover livro pessoal",
           "snippet": "",
-          "url": "https://www.bluewin.ch/de/news/medien-tote-bei-standseilbahn-unfall-in-lissabon-2854992.html",
-          "source": "blue News"
+          "url": "https://zap.aeiou.pt/moedas-livro-pessoal-cml-698399",
+          "source": "ZAP Notícias"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "sky news",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 3 Sep 2025 12:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYbWqyhnBtzpVKAkBlb05Celc1G0Q4lp0faU3KLv_GPxa9-NMdqnF6BJzBrc0",
+      "pictureSource": "The Guardian",
+      "relatedSearch": [
+        {
+          "title": "Nigel Farage called a ‘Putin-loving free speech impostor’ during bumpy US congressional hearing",
+          "snippet": "",
+          "url": "https://www.theguardian.com/politics/2025/sep/03/nigel-farage-called-a-putin-loving-free-speech-imposter-during-bumpy-us-congressional-hearing",
+          "source": "The Guardian"
+        },
+        {
+          "title": "UK politics and markets live: Nigel Farage addresses US Congress on free speech",
+          "snippet": "",
+          "url": "https://www.ft.com/content/aa726689-60c8-447a-bfee-3614798305ff",
+          "source": "Financial Times"
+        },
+        {
+          "title": "Linehan arrest example of what is 'going wrong' - Farage",
+          "snippet": "",
+          "url": "https://www.rte.ie/news/uk/2025/0903/1531602-linehan-arrest/",
+          "source": "RTE.ie"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -58,8 +86,36 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "lissabon",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 3 Sep 2025 12:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwhI49TQtrFFif9R8PLdO-owq4r1KkE9YBUW7s5-CoK95OJuUjlo-6syoa5eg",
+      "pictureSource": "tagesschau.de",
+      "relatedSearch": [
+        {
+          "title": "Standseilbahn in Lissabon entgleist - drei Tote",
+          "snippet": "",
+          "url": "https://www.tagesschau.de/ausland/europa/portugal-lissabon-unfall-100.html",
+          "source": "tagesschau.de"
+        },
+        {
+          "title": "Mindestens 20 Verletzte: Drei Tote bei Seilbahn-Unglück in Lissabon",
+          "snippet": "",
+          "url": "https://www.n-tv.de/panorama/Drei-Tote-bei-Seilbahn-Unglueck-in-Lissabon-article26008796.html",
+          "source": "Ntv"
+        },
+        {
+          "title": "Schwerer Unfall in Lissabon: Tote bei Seilbahn-Unglück",
+          "snippet": "",
+          "url": "https://www.zdfheute.de/panorama/lissabon-standseilbahn-unfall-100.html",
+          "source": "ZDFheute"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "el pais",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 3 Sep 2025 12:00:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTS0N0LEqdjvUmUb1EKiuHbMItGobIyvDkIrOxgDpfvVwWEOu4yR2QHKSzG90s",
       "pictureSource": "EL PAÍS",
@@ -89,14 +145,14 @@
       "title": "funiculaire lisbonne",
       "trafficCount": "500+",
       "pubDate": "Wed, 3 Sep 2025 11:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLs2JwJVjCrtmYQtacRWBUsmtoVg5z8k8CIOTOzj2uilQI0rE_4jSkIijIFig",
-      "pictureSource": "Le Monde.fr",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROtqWqvyHzkUmjsiZZqiNKeDOpM5fPAEH64Vkx7PqSjZXZlJuKrcIkYfe9Ktc",
+      "pictureSource": "Euronews.com",
       "relatedSearch": [
         {
-          "title": "Le funiculaire de Gloria à Lisbonne déraille, faisant plusieurs morts",
+          "title": "Lisbonne : le déraillement du funiculaire de Glória, au moins 3 morts et une vingtaine de blessés",
           "snippet": "",
-          "url": "https://www.lemonde.fr/international/article/2025/09/03/le-funiculaire-de-gloria-a-lisbonne-deraille-faisant-plusieurs-morts_6638815_3210.html",
-          "source": "Le Monde.fr"
+          "url": "https://fr.euronews.com/2025/09/03/lisbonne-le-deraillement-du-funiculaire-de-gloria-au-moins-3-morts-et-une-vingtaine-de-ble",
+          "source": "Euronews.com"
         },
         {
           "title": "Portugal: au moins trois morts et une vingtaine de blessés après le déraillement du funiculaire de Lisbonne",
@@ -105,10 +161,38 @@
           "source": "BFMTV"
         },
         {
-          "title": "Lisbonne : le déraillement du funiculaire de Glória, au moins 3 morts et une vingtaine de blessés",
+          "title": "Le funiculaire de Gloria à Lisbonne déraille, faisant plusieurs morts",
           "snippet": "",
-          "url": "https://fr.euronews.com/2025/09/03/lisbonne-le-deraillement-du-funiculaire-de-gloria-au-moins-3-morts-et-une-vingtaine-de-ble",
-          "source": "Euronews.com"
+          "url": "https://www.lemonde.fr/international/article/2025/09/03/le-funiculaire-de-gloria-a-lisbonne-deraille-faisant-plusieurs-morts_6638815_3210.html",
+          "source": "Le Monde.fr"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "rtp",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 3 Sep 2025 11:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtqEZivqXa1Xaj1KC_D9eJ7-rFUvHBciznVZUjpvNpOx8MAC0uz4tltE_6U30",
+      "pictureSource": "RTP",
+      "relatedSearch": [
+        {
+          "title": "Orçamento do Estado. Governo disponível para negociar com todos",
+          "snippet": "",
+          "url": "https://www.rtp.pt/noticias/economia/orcamento-do-estado-governo-disponivel-para-negociar-com-todos_n1681051",
+          "source": "RTP"
+        },
+        {
+          "title": "“Início feliz” de conversações para OE2026 com estimativa de dívida pública abaixo dos 90% do PIB",
+          "snippet": "",
+          "url": "https://www.publico.pt/2025/09/03/politica/noticia/chega-quer-parceiro-preferencial-oe-lei-nacionalidade-fica-outubro-2145837",
+          "source": "Público"
+        },
+        {
+          "title": "O que já se sabe sobre o Orçamento do Estado para 2026?",
+          "snippet": "",
+          "url": "https://expresso.pt/podcasts/economia-expresso/2025-09-03-o-que-ja-se-sabe-sobre-o-orcamento-do-estado-para-2026--e2f39316",
+          "source": "Expresso"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -133,38 +217,10 @@
           "source": "CNN"
         },
         {
-          "title": "Several injured as Lisbon’s Gloria funicular derails",
+          "title": "At least three people killed, many injured in Lisbon funicular crash",
           "snippet": "",
-          "url": "https://www.telegraph.co.uk/world-news/2025/09/03/several-injured-as-lisbons-gloria-funicular-derails/",
-          "source": "The Telegraph"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "sic noticias",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 3 Sep 2025 10:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6wPP5BqKi0yNKCdDyvKfB6d5T-nBv_Zh6ot8UpO45Gv1yhpE5-wxFAWTab9c",
-      "pictureSource": "Correio da Manhã",
-      "relatedSearch": [
-        {
-          "title": "NOW com melhor resultado de sempre em agosto",
-          "snippet": "",
-          "url": "https://www.cmjornal.pt/tv-media/detalhe/now-com-melhor-resultado-de-sempre-em-agosto",
-          "source": "Correio da Manhã"
-        },
-        {
-          "title": "NOW à frente da SIC Notícias no dia da cimeira entre Trump, Zelensky e líderes europeus",
-          "snippet": "",
-          "url": "https://www.jornaldenegocios.pt/empresas/media/detalhe/now-a-frente-da-sic-noticias-no-dia-da-cimeira-entre-trump-zelensky-e-lideres-europeus",
-          "source": "Jornal de Negócios"
-        },
-        {
-          "title": "NOW com melhor mês de sempre faz história e ganha à SIC Notícias",
-          "snippet": "",
-          "url": "https://www.sabado.pt/dinheiro/detalhe/now-com-melhor-mes-de-sempre-faz-historia-e-ganha-a-sic-noticias",
-          "source": "SÁBADO"
+          "url": "https://www.theguardian.com/world/2025/sep/03/at-least-three-people-killed-many-injured-in-lisbon-funicular-crash",
+          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -198,85 +254,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "cmtv direto",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 3 Sep 2025 10:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGJ18QdW2CiSzVUhSfYvMfi9A_iZ8WStuFQV4a5FOEZ6odNpeRdnaqkR3mex4",
-      "pictureSource": "Correio da Manhã",
-      "relatedSearch": [
-        {
-          "title": "António Leal e Silva e Diogo Bordin comparados a Carlos Castro e Renato Seabra. Comentador já reagiu",
-          "snippet": "",
-          "url": "https://www.cmjornal.pt/vidas/ultimas/detalhe/antonio-leal-e-silva-e-diogo-bordin-comparados-a-carlos-castro-e-renato-seabra-comentador-ja-reagiu",
-          "source": "Correio da Manhã"
-        },
-        {
-          "title": "António Leal e Silva quebra silêncio e fala de Diogo Bordin",
-          "snippet": "",
-          "url": "https://tvi.iol.pt/doisas10/video/antonio-leal-e-silva-quebra-silencio-e-fala-de-diogo-bordin/68b566460cf216cd3ad3a945",
-          "source": "TVI"
-        },
-        {
-          "title": "Alvo de comparações com caso de Renato Seabra, comentador reage de forma inesperada: “Quando abro o vinho...”",
-          "snippet": "",
-          "url": "https://www.novagente.pt/antonio-leal-silva-alvo-de-comparacoes-com-caso-de-renato-seabra-comentador-reage-de-forma",
-          "source": "Nova Gente"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "cmtv",
-      "trafficCount": "2000+",
-      "pubDate": "Wed, 3 Sep 2025 10:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkRBh1L0lbpoHWYdBTu4oFNKn6iV9G6FX-AABJJD09Q0ngMSihRf0pYXzGOPI",
-      "pictureSource": "Correio da Manhã",
-      "relatedSearch": [
-        {
-          "title": "Saiba como é reaproveitada a madeira queimada dos incêndios",
-          "snippet": "",
-          "url": "https://www.cmjornal.pt/cmtv/videos/detalhe/20250903-170449-saiba-como-e-reaproveitada-a-madeira-queimada-dos-incendios",
-          "source": "Correio da Manhã"
-        },
-        {
-          "title": "A quantidade de ódio e a quantidade de armas",
-          "snippet": "",
-          "url": "https://www.sabado.pt/opiniao/cronistas/goncalo-m--tavares/detalhe/a-quantidade-de-odio-e-a-quantidade-de-armas",
-          "source": "SÁBADO"
-        },
-        {
-          "title": "Harper e Fletcher: quem são as duas crianças que morreram no tiroteio em Minneapolis",
-          "snippet": "",
-          "url": "https://sicnoticias.pt/mundo/2025-08-29-harper-e-fletcher-quem-sao-as-duas-criancas-que-morreram-no-tiroteio-em-minneapolis-96794176",
-          "source": "SIC Notícias"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "prédio ruiu em lisboa",
+      "title": "sic notícias",
       "trafficCount": "1000+",
-      "pubDate": "Wed, 3 Sep 2025 10:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQebvl87YjGoSInMKnCrM_-I2KgPA4hqTbi1CyiwLOoPP_n3TJeOwoMnxHjqbo",
-      "pictureSource": "Público",
+      "pubDate": "Wed, 3 Sep 2025 10:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6wPP5BqKi0yNKCdDyvKfB6d5T-nBv_Zh6ot8UpO45Gv1yhpE5-wxFAWTab9c",
+      "pictureSource": "Correio da Manhã",
       "relatedSearch": [
         {
-          "title": "Prédio que provocou derrocada na Graça será mais um empreendimento de luxo",
+          "title": "NOW com melhor resultado de sempre em agosto",
           "snippet": "",
-          "url": "https://www.publico.pt/2025/09/03/local/noticia/predio-provocou-derrocada-graca-sera-empreendimento-luxo-2145916",
-          "source": "Público"
+          "url": "https://www.cmjornal.pt/tv-media/detalhe/now-com-melhor-resultado-de-sempre-em-agosto",
+          "source": "Correio da Manhã"
         },
         {
-          "title": "Desabamento de prédio deixa oito pessoas desalojadas em Lisboa, Moedas anuncia vistoria",
+          "title": "NOW à frente da SIC Notícias no dia da cimeira entre Trump, Zelensky e líderes europeus",
           "snippet": "",
-          "url": "https://expresso.pt/sociedade/2025-09-03-video-desabamento-de-predio-deixa-oito-pessoas-desalojadas-em-lisboa-moedas-anuncia-vistoria-61b17e9a",
-          "source": "Expresso"
+          "url": "https://www.jornaldenegocios.pt/empresas/media/detalhe/now-a-frente-da-sic-noticias-no-dia-da-cimeira-entre-trump-zelensky-e-lideres-europeus",
+          "source": "Jornal de Negócios"
         },
         {
-          "title": "Sócrates tinha o número de Ricardo Salgado no telemóvel",
+          "title": "NOW com melhor mês de sempre faz história e ganha à SIC Notícias",
           "snippet": "",
-          "url": "https://www.rtp.pt/noticias/pais/socrates-tinha-o-numero-de-ricardo-salgado-no-telemovel_v1681005",
-          "source": "RTP"
+          "url": "https://www.sabado.pt/dinheiro/detalhe/now-com-melhor-mes-de-sempre-faz-historia-e-ganha-a-sic-noticias",
+          "source": "SÁBADO"
         }
       ],
       "link": "https://imtaqin.id/"

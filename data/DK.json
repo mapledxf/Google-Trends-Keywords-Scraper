@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-03 09:53:30",
+  "lastUpdate": "2025-09-03 10:09:20",
   "data": [
     {
       "title": "mette østergaard",
@@ -23,8 +23,8 @@
         {
           "title": "Mette Østergaard stopper i Dansk Industri",
           "snippet": "",
-          "url": "https://viborg-folkeblad.dk/erhverv/mette-oestergaard-stopper-i-dansk-industri",
-          "source": "viborg-folkeblad.dk"
+          "url": "https://www.msn.com/da-dk/nyheder/other/mette-%C3%B8stergaard-stopper-i-dansk-industri/ar-AA1LMc4x",
+          "source": "MSN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -43,16 +43,16 @@
           "source": "OpenAI"
         },
         {
-          "title": "OpenAI to acquire Statsig in $1.1bn deal",
+          "title": "OpenAI to buy Bellevue-based product testing startup Statsig for $1.1B",
           "snippet": "",
-          "url": "https://finance.yahoo.com/news/openai-acquire-statsig-1-1bn-091254805.html",
-          "source": "Yahoo Finance"
+          "url": "https://www.seattletimes.com/business/openai-to-buy-product-testing-startup-statsig-for-1-1-billion/",
+          "source": "The Seattle Times"
         },
         {
-          "title": "OpenAI to Buy Product Testing Startup Statsig for $1.1 Billion",
+          "title": "OpenAI acquires Statsig for $1.1 billion, brings on CEO as applications executive",
           "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2025-09-02/openai-to-buy-product-testing-startup-statsig-for-1-1-billion",
-          "source": "Bloomberg.com"
+          "url": "https://www.cnbc.com/2025/09/02/openai-buys-statsig-for-1point1-billion-hires-ceo-as-applications-exec.html",
+          "source": "CNBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,29 +86,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "chat gpt",
+      "trafficCount": "5000+",
+      "pubDate": "Wed, 3 Sep 2025 00:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwcc3DFLJK2BjwLrMUYxRl-EPDbUYJZcpbkfVvyvCyMT-R6ExcslrZWs-igyU",
+      "pictureSource": "The New York Times",
+      "relatedSearch": [
+        {
+          "title": "A Teen Was Suicidal. ChatGPT Was the Friend He Confided In.",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "The family of teenager who died by suicide alleges OpenAI's ChatGPT is to blame",
+          "snippet": "",
+          "url": "https://www.nbcnews.com/tech/tech-news/family-teenager-died-suicide-alleges-openais-chatgpt-blame-rcna226147",
+          "source": "NBC News"
+        },
+        {
+          "title": "OpenAI outlines new mental health guardrails for ChatGPT",
+          "snippet": "",
+          "url": "https://www.axios.com/2025/09/02/chatgpt-openai-mental-health-teens",
+          "source": "Axios"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "gemini",
       "trafficCount": "1000+",
       "pubDate": "Wed, 3 Sep 2025 00:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_yIuOlsrPB3J7-UuqKfV89QBRWneqhtU6ZhZAPo5eTxjXrWSB0kRAamlEEIQ",
-      "pictureSource": "RouteNote",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZG16P7UINfM2e3e-cpvTzaCyLG0AMvsFMXDiQN9UyZ4VuD19-yesYND6I2ZE",
+      "pictureSource": "Reuters",
       "relatedSearch": [
         {
-          "title": "Google just leaked their upcoming Gemini-powered Nest smart speaker",
+          "title": "Winklevoss twins-backed Gemini targets $2.2 billion valuation in US IPO",
           "snippet": "",
-          "url": "https://routenote.com/blog/google-leaked-their-upcoming-speaker/",
-          "source": "RouteNote"
+          "url": "https://www.reuters.com/business/winklevoss-twins-backed-gemini-targets-22-billion-valuation-us-ipo-2025-09-02/",
+          "source": "Reuters"
         },
         {
-          "title": "Google is finally launching new Nest devices – but I think it might have already lost the smart home race to Amazon",
+          "title": "Gemini Space Station Launches IPO",
           "snippet": "",
-          "url": "https://www.techradar.com/home/smart-home/google-has-a-mountain-of-obstacles-to-overcome-with-its-new-nest-speaker-cameras-and-doorbell-and-one-of-those-is-amazons-budget-friendly-echo-devices",
-          "source": "TechRadar"
+          "url": "https://www.morningstar.com/news/dow-jones/202509026411/gemini-space-station-launches-ipo",
+          "source": "Morningstar"
         },
         {
-          "title": "Exclusive: Google prepping new Nest Cameras, Doorbell & Gemini Speaker",
+          "title": "Gemini Announces Launch of Initial Public Offering",
           "snippet": "",
-          "url": "https://www.androidheadlines.com/google-nest-cam-indoor-2025",
-          "source": "Android Headlines"
+          "url": "https://www.prnewswire.com/news-releases/gemini-announces-launch-of-initial-public-offering-302543703.html",
+          "source": "PR Newswire"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,26 +145,26 @@
       "title": "ai",
       "trafficCount": "1000+",
       "pubDate": "Wed, 3 Sep 2025 00:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQW89Xy-afliKqpuKSyiu_f2R94YxVpCU3y0r_9SQGuGYf-p2jVl6cNHt3_GHw",
-      "pictureSource": "Time Magazine",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThwH9f3PMshvBGohE7B8_8MeD8igrmx28akTduGZXYQu6ieBrA1XWAY1MKtRk",
+      "pictureSource": "Quanta Magazine",
       "relatedSearch": [
         {
-          "title": "Trump Says Video of Object Tossed Out of Window Was ‘Probably A.I.’—After White House Implied Otherwise",
+          "title": "‘World Models,’ an Old Idea in AI, Mount a Comeback",
           "snippet": "",
-          "url": "https://time.com/7313902/white-house-video-window/",
-          "source": "Time Magazine"
+          "url": "https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/",
+          "source": "Quanta Magazine"
         },
         {
-          "title": "Trump calls video of bag being thrown from White House an ‘AI-generated’ fake",
+          "title": "Meet the Guys Betting Big on AI Gambling Agents",
           "snippet": "",
-          "url": "https://www.cnn.com/2025/09/02/politics/white-house-black-bag-video-mystery",
-          "source": "CNN"
+          "url": "https://www.wired.com/story/sports-betting-crypto-artificial-intelligence-agents/",
+          "source": "WIRED"
         },
         {
-          "title": "Trump addresses bizarre viral video of mystery items tossed from White House window",
+          "title": "AI Model Betting Is the New Fantasy Football",
           "snippet": "",
-          "url": "https://www.foxnews.com/politics/trump-addresses-viral-video-mysterious-items-being-tossed-out-white-house-window",
-          "source": "Fox News"
+          "url": "https://www.pymnts.com/artificial-intelligence-2/2025/ai-model-betting-is-the-new-fantasy-football/",
+          "source": "PYMNTS.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +183,16 @@
           "source": "Politiken"
         },
         {
-          "title": "82-årig anholdt - sigtet for drab på 79-årig",
-          "snippet": "",
-          "url": "https://www.tv2kosmopol.dk/helsingoer/82-arig-fremstilles-i-grundlovsforhor-sigtet-for-drab-pa-79-arig-cdf0a",
-          "source": "TV 2 Kosmopol"
-        },
-        {
           "title": "Politiet er talstærkt til stede ved statsministerens embedsbolig",
           "snippet": "",
           "url": "https://www.dr.dk/nyheder/seneste/politiet-er-talstaerkt-til-stede-ved-statsministerens-embedsbolig",
           "source": "DR"
+        },
+        {
+          "title": "Politiopbud ved Marienborg er planlagt indsats",
+          "snippet": "",
+          "url": "https://www.tv2kosmopol.dk/lyngby-taarbaek/politiopbud-ved-marienborg-er-planlagt-indsats-4c68f",
+          "source": "TV 2 Kosmopol"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -185,7 +213,7 @@
         {
           "title": "Taylor Swift and Tariffs Can Both Help Sell Diamonds - WSJ",
           "snippet": "",
-          "url": "https://www.wsj.com/finance/stocks/taylor-swift-and-tariffs-can-both-help-sell-diamonds-a659daa1?gaa_at=eafs&gaa_n=ASWzDAgc4hnvMY3wtkNTmnEX5o5LyQtXcA1Qq7ttNXOWpPNoEc1N0pzzANiw&gaa_ts=68b8136b&gaa_sig=RvVNRxcE1ibkOuw6eiwQ3MqppnJnsz8ZKnET1eD1rU8piOOIv6ivmaFDzkZlvZW0db4lX3Cwae2c-kEQ3uoHJw%3D%3D",
+          "url": "https://www.wsj.com/finance/stocks/taylor-swift-and-tariffs-can-both-help-sell-diamonds-a659daa1?gaa_at=eafs&gaa_n=ASWzDAgEBO9ifcDkfa0W-qfoxGdyTU_f8N22QPA95CRxQ8mDBrJmDJUqGmhA&gaa_ts=68b81696&gaa_sig=Sfr5oLnqiid3UxHoZ1ZoC3Uhs3K6ZZ4MZOvEKpYuGmUfWAuJ9y8FQH7TVCadpc1j4mQh9Do2h77TTrmxiaCFjQ%3D%3D",
           "source": "The Wall Street Journal"
         },
         {
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.theguardian.com/sport/2025/sep/03/novak-djokovic-taylor-fritz-us-open-quarter-final-match-report",
           "source": "The Guardian"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "kasper dolberg",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 2 Sep 2025 14:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYS_VJdCStE9dddjGaY96xUPEDpePM21wcNEuZi_fQirTxlSgWf2x5_VSSrT8",
-      "pictureSource": "Politiken",
-      "relatedSearch": [
-        {
-          "title": "Overblik: Dolberg og Bischoff skifter klub",
-          "snippet": "",
-          "url": "https://politiken.dk/sport/fodbold/art10531697/Dolberg-og-Bischoff-skifter-klub",
-          "source": "Politiken"
-        },
-        {
-          "title": "Dolberg vender tilbage til hollandsk storklub",
-          "snippet": "",
-          "url": "https://www.dr.dk/sporten/fodbold/dolberg-vender-tilbage-til-hollandsk-storklub",
-          "source": "DR"
-        },
-        {
-          "title": "Kasper Dolberg gør comeback i Ajax",
-          "snippet": "",
-          "url": "https://www.tv3sport.dk/sport/fodbold/nyheder/dolbergs-skifte-til-ajax-peter-sorensen-reagerer",
-          "source": "TV3 SPORT »"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-03 15:47:00",
+  "lastUpdate": "2025-09-03 15:54:59",
   "data": [
     {
       "title": "severe thunderstorm warning",
@@ -59,7 +59,7 @@
     },
     {
       "title": "wednesday",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 3 Sep 2025 07:40:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYT0ZFuJgy27SJojJ7kS4HKMBmuGPl5FmLu-5xtyVLSDmYz6EV_PbC8VoLQMI",
       "pictureSource": "Netflix",
@@ -117,14 +117,14 @@
       "title": "rhmz",
       "trafficCount": "2000+",
       "pubDate": "Wed, 3 Sep 2025 06:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3y-W5ywwpuKM18BgUGyxxVfzGwP4c3WTH6WnhiLedl5Ss4wRdnsoI9y4emUs",
-      "pictureSource": "B92",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTp2vCfSu6t-xczrG_sWTLnCB0FydVHf8EgFqxgygO9J9bn3U9snmkppnk5O0",
+      "pictureSource": "Blic",
       "relatedSearch": [
         {
-          "title": "Hitno upozorenje za Beograd: Stiže jako nevreme",
+          "title": "Opasno nevreme stiglo u Srbiju: RHMZ izdao hitno upozorenje, evo kuda će se kretati",
           "snippet": "",
-          "url": "https://www.b92.net/info/drustvo/160630/hitno-upozorenje-za-beograd-stize-jako-nevreme/vest",
-          "source": "B92"
+          "url": "https://www.blic.rs/vremenska-prognoza/opasno-nevreme-stiglo-u-srbiju-rhmz-izdao-hitno-upozorenje-evo-kuda-ce-se-kretati/2wrhjh9",
+          "source": "Blic"
         },
         {
           "title": "Hitno upozorenje RHMZ: Oluja već stigla u Srbiju, Beograd sledeći na udaru",
@@ -133,10 +133,10 @@
           "source": "Nova"
         },
         {
-          "title": "Opasno nevreme stiglo u Srbiju: RHMZ izdao hitno upozorenje, evo kuda će se kretati",
+          "title": "Hitno upozorenje za Beograd: Stiže jako nevreme",
           "snippet": "",
-          "url": "https://www.blic.rs/vremenska-prognoza/opasno-nevreme-stiglo-u-srbiju-rhmz-izdao-hitno-upozorenje-evo-kuda-ce-se-kretati/2wrhjh9",
-          "source": "Blic"
+          "url": "https://www.b92.net/info/drustvo/160630/hitno-upozorenje-za-beograd-stize-jako-nevreme/vest",
+          "source": "B92"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,20 +145,20 @@
       "title": "vijesti",
       "trafficCount": "100+",
       "pubDate": "Wed, 3 Sep 2025 05:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSlEsvnT0H_-ZBSRQ__Fp_UZEH1cjNcMlLK37-dS7gKrgSfMesg36cyGkmZOeQ",
-      "pictureSource": "Sportklub",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2XSpmWe_r0jf72ncsfX6ysTTAJJhfX0UvlGzDcbfhoa1QOiIpOx5sZBg5jh0",
+      "pictureSource": "Danas",
       "relatedSearch": [
-        {
-          "title": "Crna Gora je izgubila, evo šta to znači za Srbiju",
-          "snippet": "",
-          "url": "https://sportklub.n1info.rs/kosarka/eurobasket/crna-gora-je-izgubila-evo-sta-to-znaci-za-srbiju/",
-          "source": "Sportklub"
-        },
         {
           "title": "Bruka Crne Gore na Evrobasketu, posle senzacije poznat rival pobednika meča Srbija – Turska u osmini finala",
           "snippet": "",
           "url": "https://www.danas.rs/sport/crna-gora-svedska-srbija-evrobasket-2/",
           "source": "Danas"
+        },
+        {
+          "title": "Crna Gora je izgubila, evo šta to znači za Srbiju",
+          "snippet": "",
+          "url": "https://sportklub.n1info.rs/kosarka/eurobasket/crna-gora-je-izgubila-evo-sta-to-znaci-za-srbiju/",
+          "source": "Sportklub"
         },
         {
           "title": "Srbija dobila potencijalnog rivala u 1/8 finala Evrobasketa",
@@ -245,10 +245,10 @@
           "source": "Hindustan Times"
         },
         {
-          "title": "ChatGPT down worldwide, problems reported in Israel",
+          "title": "ChatGPT outage - OpenAI has found root cause and working on fix",
           "snippet": "",
-          "url": "https://www.jpost.com/business-and-innovation/article-866173",
-          "source": "The Jerusalem Post"
+          "url": "https://www.techradar.com/news/live/chatgpt-down-september-3",
+          "source": "TechRadar"
         }
       ],
       "link": "https://imtaqin.id/"

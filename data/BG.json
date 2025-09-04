@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-04 07:52:02",
+  "lastUpdate": "2025-09-04 07:59:48",
   "data": [
     {
       "title": "gmail",
@@ -15,10 +15,10 @@
           "source": "The Keyword"
         },
         {
-          "title": "What are ShinyHunters, the hackers that attacked Google? Should we all be worried?",
+          "title": "Google issues emergency warning for all Gmail users",
           "snippet": "",
-          "url": "https://theconversation.com/what-are-shinyhunters-the-hackers-that-attacked-google-should-we-all-be-worried-264271",
-          "source": "The Conversation"
+          "url": "https://www.yahoo.com/news/articles/google-issues-emergency-warning-gmail-121037539.html",
+          "source": "Yahoo"
         },
         {
           "title": "Hackers Issue Ultimatum to Google After Data Breach Warning",
@@ -31,7 +31,7 @@
     },
     {
       "title": "google",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 4 Sep 2025 00:20:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1w_Irhx_i7dH2090jJvU15xDe_bcX4dX4Mhg52d7BgjxhCfLePOnJDWRvsCc",
       "pictureSource": "Yahoo Finance",
@@ -89,9 +89,15 @@
       "title": "народно събрание",
       "trafficCount": "100+",
       "pubDate": "Wed, 3 Sep 2025 23:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjkXGye5GbRxu0eULEo5Ou2wJw0yrxd9MGZiytjyfpW_my0tx6hJlxd2p1Uio",
-      "pictureSource": "offnews.bg",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoB2sYwMPzqDVc47YfDBwe-21rm2qIGMPQFrjBMlWOdwgdoON2HNVoZ-NlHrI",
+      "pictureSource": "News.bg",
       "relatedSearch": [
+        {
+          "title": "\"Левъ с Русия\" и \"Оставка\": Лозунги и протест с печено агне под прозорците на НС",
+          "snippet": "",
+          "url": "https://news.bg/politics/leva-s-rusiya-i-ostavka-lozungi-i-protest-pod-prozortsite-na-ns.html",
+          "source": "News.bg"
+        },
         {
           "title": "Протестиращи опитаха да нахлуят в сградата на НС, полицията ги спря",
           "snippet": "",
@@ -103,12 +109,6 @@
           "snippet": "",
           "url": "https://www.dnevnik.bg/bulgaria/2025/09/03/4825293_poddrujnici_na_velichie_protestiraha_pred_parlamenta/",
           "source": "Dnevnik"
-        },
-        {
-          "title": "\"Левъ с Русия\" и \"Оставка\": Лозунги и протест с печено агне под прозорците на НС",
-          "snippet": "",
-          "url": "https://news.bg/politics/leva-s-rusiya-i-ostavka-lozungi-i-protest-pod-prozortsite-na-ns.html",
-          "source": "News.bg"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,15 +201,9 @@
       "title": "фуникуляр",
       "trafficCount": "1000+",
       "pubDate": "Wed, 3 Sep 2025 14:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjk5_Dn-RR7eQAcq8Nb5YXGBqEyDgnu8oegCdkH1n4X-ROz1_zhZ2Bvyj1JR4",
-      "pictureSource": "БНТ Новини",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiVDjRLqqSZwekon9mlNjLm-hZl0GmtP7m_1iU9UgoHXUluxDEWsCy1AB85qE",
+      "pictureSource": "offnews.bg",
       "relatedSearch": [
-        {
-          "title": "Ден на траур в Португалия след тежкия инцидент в Лисабон с 15 жертви",
-          "snippet": "",
-          "url": "https://bntnews.bg/news/den-na-traur-v-portugaliya-sled-tezhkiya-incident-v-lisabon-s-15-zhertvi-1354380news.html",
-          "source": "БНТ Новини"
-        },
         {
           "title": "Кошмар в Лисабон: Най-малко 15 загинали при катастрофа на легендарен фуникуляр (снимки)",
           "snippet": "",
@@ -221,6 +215,12 @@
           "snippet": "",
           "url": "https://frognews.bg/novini/tragediia-lisabon-funikulerat-elevador-gloriia-derailira-15-jertvi-18-raneni-obnovena.html",
           "source": "Frognews"
+        },
+        {
+          "title": "Ден на траур в Португалия след тежкия инцидент в Лисабон с 15 жертви",
+          "snippet": "",
+          "url": "https://bntnews.bg/news/den-na-traur-v-portugaliya-sled-tezhkiya-incident-v-lisabon-s-15-zhertvi-1354380news.html",
+          "source": "БНТ Новини"
         }
       ],
       "link": "https://imtaqin.id/"

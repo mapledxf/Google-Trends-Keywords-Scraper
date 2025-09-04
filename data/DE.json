@@ -1,6 +1,90 @@
 {
-  "lastUpdate": "2025-09-04 05:56:18",
+  "lastUpdate": "2025-09-04 06:22:11",
   "data": [
+    {
+      "title": "flughafen münster osnabrück",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 3 Sep 2025 23:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTannrKkPlni2fV2BYCbsbmQrbOa0B9FmCDdOAhrZkvTlmFZsvYSIZ1yNKFlRM",
+      "pictureSource": "WELT",
+      "relatedSearch": [
+        {
+          "title": "Zu spät aufgesetzt – Flugzeug fährt in Münster über die Landebahn hinaus",
+          "snippet": "",
+          "url": "https://www.welt.de/vermischtes/article68b8eb2b01ad191d1ad5e8d9/Zu-spaet-aufgesetzt-Flugzeug-faehrt-in-Muenster-ueber-die-Landebahn-hinaus.html",
+          "source": "WELT"
+        },
+        {
+          "title": "Flughafen Münster/Osnabrück: Passagierflugzeug rollt fast über Landebahn hinaus",
+          "snippet": "",
+          "url": "https://www.spiegel.de/panorama/flughafen-muenster-osnabrueck-passagierflugzeug-rollt-fast-ueber-landebahn-hinaus-a-882e0dba-5d38-49d0-bdc9-270b0c0f37ff",
+          "source": "Spiegel"
+        },
+        {
+          "title": "Zwischenfall ohne Verletzte: Flugzeug kommt bei Landung in NRW zu spät zum Stehen",
+          "snippet": "",
+          "url": "https://www.n-tv.de/panorama/Flugzeug-kommt-bei-Landung-in-NRW-zu-spaet-zum-Stehen-article26009069.html",
+          "source": "Ntv"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "sachsen anhalt",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 3 Sep 2025 23:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzVs6pxdk4gA_O707_1-pBrTm9_2L9coDDjwQYsSziERNFvykaTeh7XYYd8UA",
+      "pictureSource": "Spiegel",
+      "relatedSearch": [
+        {
+          "title": "AfD laut Umfrage in Sachsen-Anhalt weit vor CDU",
+          "snippet": "",
+          "url": "https://www.spiegel.de/politik/deutschland/afd-laut-umfrage-in-sachsen-anhalt-weit-vor-cdu-a-d5add677-582a-4887-9a2d-fd389402d88c",
+          "source": "Spiegel"
+        },
+        {
+          "title": "Aktuelle Umfrage: AfD überholt CDU in Sachsen-Anhalt",
+          "snippet": "",
+          "url": "https://www.bild.de/politik/inland/aktuelle-umfrage-afd-ueberholt-cdu-in-sachsen-anhalt-68b91d54ac39c02fb0f4ec2b",
+          "source": "BILD"
+        },
+        {
+          "title": "Umfrage Infratest Dimap: AfD in Sachsen-Anhalt bei 39 Prozent, CDU bei 27 Prozent",
+          "snippet": "",
+          "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/infratest-dimap-umfrage-stimmung-100.html",
+          "source": "MDR"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "boris palmer",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 3 Sep 2025 22:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBUvtlrxo6YPvRpiSv6EXKVq_sybEtPTDZcYI7vR3Lc887axlfvvogSUPTJoI",
+      "pictureSource": "SWR",
+      "relatedSearch": [
+        {
+          "title": "Veranstalter von Tübinger Anti-AfD-Demo: Palmer soll bei ihnen nicht reden",
+          "snippet": "",
+          "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/klagen-am-verwaltungsgericht-wegen-streitgespraech-zwischen-palmer-und-frohnmaier-in-tuebingen-100.html",
+          "source": "SWR"
+        },
+        {
+          "title": "Vor AfD-Experiment sagt mir Boris Palmer, wie er die Rechten entzaubern will",
+          "snippet": "",
+          "url": "https://www.focus.de/politik/briefing/vor-seinem-afd-experiment-sagt-mir-boris-palmer-was-ihn-von-anderen-unterscheidet_6515c312-6ff5-4564-aea1-a06b6c83866d.html",
+          "source": "FOCUS online"
+        },
+        {
+          "title": "„Bei vielen Themen inkompetent“ – Palmer streitet mit AfD-Landeschef vor Publikum",
+          "snippet": "",
+          "url": "https://www.welt.de/politik/deutschland/article68b5c336861a6b0577ff7296/Bei-vielen-Themen-inkompetent-Palmer-streitet-mit-AfD-Landeschef-vor-Publikum.html",
+          "source": "WELT"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "natascha ochsenknecht",
       "trafficCount": "200+",
@@ -59,7 +143,7 @@
     },
     {
       "title": "matthew perry",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 3 Sep 2025 22:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQE9zkCQLfuTGazokcGQO3-c7j7Q2BnbnvIfW7F2AJLOLFiYJEZ0555LeTJouE",
       "pictureSource": "BBC",
@@ -105,38 +189,10 @@
           "source": "The Telegraph"
         },
         {
-          "title": "Rosie O’Donnell apologizes for suggesting Minneapolis school shooter was Republican ‘MAGA person’",
+          "title": "Rosie O'Donnell Apologizes for LIES About Minneapolis Shooter | 9/2/25 | iHeartRadio | The Glenn Beck Program",
           "snippet": "",
-          "url": "https://www.independent.co.uk/arts-entertainment/tv/news/rosie-o-donnell-minneapolis-school-shooter-b2817741.html",
-          "source": "The Independent"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "gea group",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 3 Sep 2025 22:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7sbWJ7ebk_EBgMwP8sOIZ-pCpvcy0ZnGkh1-jksXmTQyFdvep7OS2vNGiuKM",
-      "pictureSource": "WELT",
-      "relatedSearch": [
-        {
-          "title": "Daimler Truck-Aktie: Gleichbleibend",
-          "snippet": "",
-          "url": "https://www.welt.de/finanzen/boerse/article68b811e001ad191d1ad5dc31/daimler-truck-aktie-unternehmen-erholt-sich.html",
-          "source": "WELT"
-        },
-        {
-          "title": "RBC: GEA Group \"hold\" - boerse.de",
-          "snippet": "",
-          "url": "https://www.boerse.de/nachrichten/RBC-GEA-Group-hold/37842461",
-          "source": "boerse.de"
-        },
-        {
-          "title": "Besonders beachtet!: Daimler Truck Holding Aktie leidet unter Verkäufen - 03.09.2025",
-          "snippet": "",
-          "url": "https://www.wallstreet-online.de/nachricht/19854624-beachtet-daimler-truck-holding-aktie-leidet-verkaeufen-03-09-2025",
-          "source": "Wallstreet Online"
+          "url": "https://news.iheart.com/featured/glenn-beck/content/2025-09-02-175-the-glenn-beck-program-rosie-odonnell-apologizes-for-lies-about-minneap/",
+          "source": "iHeart"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -165,34 +221,6 @@
           "snippet": "",
           "url": "https://www.handelsblatt.com/unternehmen/it-medien/popkultur-wie-weckte-die-yps-zeitschrift-den-forschergeist-einer-generation/100150657.html",
           "source": "Handelsblatt"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ed sheeran düsseldorf",
-      "trafficCount": "2000+",
-      "pubDate": "Wed, 3 Sep 2025 22:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFhkuWA4KMLD9sGPfRP1YmVVXwkV-2_BAuq5cGayeH1c90QXqt7p0ucAJcv50",
-      "pictureSource": "SZ.de",
-      "relatedSearch": [
-        {
-          "title": "Ed Sheeran kommt am 3. Dezember 2025 für Deutschland-Konzert nach München",
-          "snippet": "",
-          "url": "https://www.sueddeutsche.de/muenchen/ed-sheeran-muenchen-olympiahalle-2025-li.3307488",
-          "source": "SZ.de"
-        },
-        {
-          "title": "Drei Konzerte in Düsseldorf: Wer auf Messeplätzen parkt, muss für Ed Sheeran einen Spurt einlegen",
-          "snippet": "",
-          "url": "https://rp-online.de/nrw/staedte/duesseldorf/freizeit/duesseldorf-tipps-fuer-die-anreise-zu-ed-sheeran-in-der-arena_aid-133686925",
-          "source": "RP Online"
-        },
-        {
-          "title": "Ed Sheeran kommt im Dezember nach München",
-          "snippet": "",
-          "url": "https://www.muenchen.de/veranstaltungen/konzerte/rock-pop/ed-sheeran-muenchen-tickets",
-          "source": "muenchen.de"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -232,34 +260,6 @@
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ehec symptome",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 3 Sep 2025 21:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5gb2IMO_lFWCt8s2UrgzcC1iiylaOCEUXtqQbnuzxB8F6ZaK7HDuMiyWdtQk",
-      "pictureSource": "rbb24",
-      "relatedSearch": [
-        {
-          "title": "Ehec-Ausbruch in Mecklenburg-Vorpommern: Fünf Kinder aus Berlin und Brandenburg erkrankt",
-          "snippet": "",
-          "url": "https://www.rbb24.de/panorama/beitrag/2025/09/berlin-ein-kind-ehec-hus-syndrom-infektion-erreger-mecklenburg-vorpommern.html",
-          "source": "rbb24"
-        },
-        {
-          "title": "20 Monate altes Kind in Schwerin mit EHEC infiziert",
-          "snippet": "",
-          "url": "https://www.ndr.de/nachrichten/info/NDR-Info-1600,ndrinfo-3334.html",
-          "source": "NDR.de"
-        },
-        {
-          "title": "Ehec-Ausbruch in MV: Weitere Ehec-Fälle in MV - Behörden sprechen von Ausbruch",
-          "snippet": "",
-          "url": "https://www.zeit.de/news/2025-09/03/weitere-ehec-faelle-in-mv-behoerden-sprechen-von-ausbruch",
-          "source": "DIE ZEIT"
-        }
-      ],
       "link": "https://imtaqin.id/"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-05 06:42:36",
+  "lastUpdate": "2025-09-05 06:53:56",
   "data": [
     {
       "title": "день опозданий",
@@ -31,22 +31,22 @@
     },
     {
       "title": "владивосток",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 4 Sep 2025 23:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcYZHdzN92JnWO51V1o-nYbNLNr7J78wcYGuUI3IlB0M-vxGRxVKEmKz0s404",
-      "pictureSource": "Финансы Mail",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTv2WDBPu_PgXzsPv39D2kZTRCvZ-OP30kA79Om1UGWToJ3fqb9g8R5RFMDr8",
+      "pictureSource": "Президент России",
       "relatedSearch": [
-        {
-          "title": "Песков озвучил главную тему выступления Путина на ВЭФ-2025",
-          "snippet": "",
-          "url": "https://finance.mail.ru/article/peskov-ozvuchil-glavnuyu-temu-vystupleniya-putina-na-vef-2025-67750517/",
-          "source": "Финансы Mail"
-        },
         {
           "title": "Пленарное заседание X Восточного экономического форума",
           "snippet": "",
-          "url": "http://kremlin.ru/events/president/transcripts/77927/videos",
+          "url": "http://kremlin.ru/events/president/news/77927",
           "source": "Президент России"
+        },
+        {
+          "title": "Путин считает, что деньги — не главное",
+          "snippet": "",
+          "url": "https://finance.mail.ru/article/putin-schitaet-chto-dengi-ne-glavnoe-67753106/",
+          "source": "Финансы Mail"
         },
         {
           "title": "Путин примет участие в ВЭФ",
@@ -127,16 +127,44 @@
           "source": "Финансы Mail"
         },
         {
+          "title": "Путин на ВЭФ рассказал о планах развития Дальнего Востока",
+          "snippet": "",
+          "url": "https://www.forbes.ru/finansy/545324-putin-na-vef-rasskazal-o-planah-razvitia-dal-nego-vostoka",
+          "source": "Forbes.ru"
+        },
+        {
           "title": "Вся территория Дальнего Востока с 2027 года станет единой территорией опережающего развития",
           "snippet": "",
           "url": "https://www.newsvl.ru/eef/2025/09/05/233770/",
           "source": "Новости Владивостока на VL.ru"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "центробанк",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 4 Sep 2025 22:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtq7vmyjo1fX3KvQcRoCyVgbXnUF36wIKtHZy9piuSrgCzvCGlQsk2kzevTeo",
+      "pictureSource": "Финансы Mail",
+      "relatedSearch": [
+        {
+          "title": "В ЦБ перечислили поводы для блокировки личных переводов",
+          "snippet": "",
+          "url": "https://finance.mail.ru/article/v-cb-perechislili-povody-dlya-blokirovki-lichnyh-perevodov-67745335/",
+          "source": "Финансы Mail"
         },
         {
-          "title": "Путин поручил подготовить стратегию развития ДФО до 2036 года",
+          "title": "Что делать, если заблокировали карту: рекомендации ЦБ 04.09.2025",
           "snippet": "",
-          "url": "https://www.interfax.ru/russia/1045800",
-          "source": "Интерфакс"
+          "url": "https://www.banki.ru/news/lenta/?id=11017368",
+          "source": "Банки.ру"
+        },
+        {
+          "title": "Россиян предупредили о неожиданных рисках при переводах: Социальная сфера: Экономика",
+          "snippet": "",
+          "url": "https://tve24.ru/news/2025/09/05/rossiyan-predupredili-o-neozhidannyh-riskah-pri-perevodah/",
+          "source": "Lenta.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +183,16 @@
           "source": "BBC"
         },
         {
-          "title": "Встреча с Председателем Государственных дел КНДР Ким Чен Ыном",
-          "snippet": "",
-          "url": "http://kremlin.ru/events/president/news/77909",
-          "source": "Президент России"
-        },
-        {
           "title": "Ушаков: визит Ким Чен Ына в Россию не определен",
           "snippet": "",
           "url": "https://www.vedomosti.ru/politics/news/2025/09/05/1136901-vizit-kim",
           "source": "Ведомости"
+        },
+        {
+          "title": "Сроки визита главы КНДР в РФ пока не известны",
+          "snippet": "",
+          "url": "https://www.interfax.ru/russia/1045779",
+          "source": "Интерфакс"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,15 +211,15 @@
           "source": "nevadm.ru"
         },
         {
-          "title": "Общегородской субботник состоится в Невинномысске 5 сентября",
+          "title": "«Это просто!»: Невинномысск зовет на субботник завтра, 5 сентября",
           "snippet": "",
-          "url": "https://atvmedia.ru/news/social/70852",
-          "source": "АТВ-Ставрополь"
+          "url": "https://invest26.ru/news/12963",
+          "source": "Информационно-инвестиционный портал Невинномысска"
         },
         {
-          "title": "Невинномысцев пригласили на субботник креативным видеороликом",
+          "title": "Невинномысцев приглашают участвовать в общегородском субботнике",
           "snippet": "",
-          "url": "https://www.nevworker.ru/articles/society/nevinnomystsev_priglasili_na_subbotnik_kreativnym_videorolikom/",
+          "url": "https://www.nevworker.ru/articles/society/nevinnomystsev_priglashayut_uchastvovat_v_obshchegorodskom_subbotnike_/",
           "source": "Невинномысский рабочий"
         }
       ],
@@ -201,20 +229,20 @@
       "title": "ключевая ставка сбербанка",
       "trafficCount": "1000+",
       "pubDate": "Thu, 4 Sep 2025 21:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHhrwl4vKOgepDMLN1Pp3VZG7_g1gNMALOCXVohWdbk1FRcVDitzzN74k_yKE",
-      "pictureSource": "БКС Экспресс",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVCPKgw6thgXe0ZdvT9bVC37-knBgcEcYrH_2_FtBt9CG9sLnGytY1AX5mNSI",
+      "pictureSource": "Банки.ру",
       "relatedSearch": [
-        {
-          "title": "Ведомости: понизит ли ЦБ ключевую ставку на грядущем заседании",
-          "snippet": "",
-          "url": "https://bcs-express.ru/novosti-i-analitika/vedomosti-ponizit-li-tsb-kliuchevuiu-stavku-na-griadushchem-zasedanii",
-          "source": "БКС Экспресс"
-        },
         {
           "title": "В Сбербанке предсказали, как ЦБ поступит с ключевой ставкой в сентябре 05.09.2025",
           "snippet": "",
           "url": "https://www.banki.ru/news/lenta/?id=11017375",
           "source": "Банки.ру"
+        },
+        {
+          "title": "Ведомости: понизит ли ЦБ ключевую ставку на грядущем заседании",
+          "snippet": "",
+          "url": "https://bcs-express.ru/novosti-i-analitika/vedomosti-ponizit-li-tsb-kliuchevuiu-stavku-na-griadushchem-zasedanii",
+          "source": "БКС Экспресс"
         },
         {
           "title": "Эксперт сообщил, как изменение ключевой ставки повлияет на рубль",
@@ -229,54 +257,26 @@
       "title": "саратов новости",
       "trafficCount": "100+",
       "pubDate": "Thu, 4 Sep 2025 21:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcMPi318LWEgu6V2bY9WH8BNyPREFqLRNtwzRv4kI0wPl5vQ2119gkaOl-7Bw",
-      "pictureSource": "Взгляд-инфо",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBrjXBg2xeiKbZA-ZSSpSx1pFTurfTd_hs-Mx1DWxcRx6mbzCOGNTswVfBB1M",
+      "pictureSource": "Новости Саратова — Регион 64",
       "relatedSearch": [
         {
-          "title": "В пятницу в Саратове погода не изменится",
+          "title": "На создание в Саратове автомобильного завода выделено 1,5 миллиарда рублей",
           "snippet": "",
-          "url": "https://www.vzsar.ru/news/2025/09/05/v-pyatnicy-v-saratove-pogoda-ne-izmenitsya.html",
-          "source": "Взгляд-инфо"
-        },
-        {
-          "title": "Саратовцам обещают дождь и температуру не выше 22 градусов тепла",
-          "snippet": "",
-          "url": "https://sarnovosti.ru/news/saratovtsam-obeshchayut-dozhd-i-temperaturu-ne-vyshe-22-gradusov-tepla-/",
+          "url": "https://sarnovosti.ru/news/na-sozdanie-v-saratove-avtomobilnogo-zavoda-vydeleno-1-5-milliarda-rubley-/",
           "source": "Новости Саратова — Регион 64"
         },
         {
-          "title": "Жителей Саратовской области ждёт дождливый и пасмурный день",
+          "title": "В Саратове построят цифровой завод запчастей за 20 млрд рублей: там будут работать роботы",
           "snippet": "",
-          "url": "https://nversia.ru/news/zhiteley-saratovskoy-oblasti-zhdet-dozhdlivyy-i-pasmurnyy-den/",
-          "source": "ИА «Версия-Саратов"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "us open 2025",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 4 Sep 2025 21:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIpT9TyXaUgTzSeNGwIVF2gyXYuTQ2Y2rhC5by1Ec8dN4DR4PtKiSVLa6u2-g",
-      "pictureSource": "US Open Tennis",
-      "relatedSearch": [
-        {
-          "title": "Sabalenka tops Pegula to reach 2025 US Open women's final",
-          "snippet": "",
-          "url": "https://www.usopen.org/en_US/news/articles/2025-09-04/sabalenka_tops_pegula_to_reach_2025_us_open_womens_final.html",
-          "source": "US Open Tennis"
+          "url": "https://sarinform.ru/news/economics/v-saratove-postroyat-tsifrovoy-zavod-zapchastey-za-20-mlrd-rubley-tam-budut-rabotat-roboty",
+          "source": "Саринформ"
         },
         {
-          "title": "Amanda Anisimova reaches US Open final after beating Naomi Osaka in epic match",
+          "title": "В Саратове будут производить раздаточные коробки для \"Камаза\"",
           "snippet": "",
-          "url": "https://nypost.com/2025/09/05/sports/amanda-anisimova-reaches-us-open-final-after-beating-naomi-osaka/",
-          "source": "New York Post"
-        },
-        {
-          "title": "Keep an eye on Osaka’s forehand",
-          "snippet": "",
-          "url": "https://www.nytimes.com/athletic/live-blogs/us-open-2025-live-updates-semifinals-scores-results/BWoZVB22M2kb/WOzog3ZgNb6j/",
-          "source": "The New York Times"
+          "url": "https://om-saratov.ru/social/05-september-2025-i161552-v-saratove-budut-proizvo",
+          "source": "om-saratov"
         }
       ],
       "link": "https://imtaqin.id/"

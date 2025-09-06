@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-06 12:43:00",
+  "lastUpdate": "2025-09-06 13:01:42",
   "data": [
     {
       "title": "jutarnji list",
@@ -42,15 +42,9 @@
       "title": "informer",
       "trafficCount": "100+",
       "pubDate": "Fri, 5 Sep 2025 15:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5y7QBuKvTJpLau_b1wN3zgKacfV-xM9RbJgSwumjwGTZIX_hQv7J1kdBGx0s",
-      "pictureSource": "Informer",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvdmV4FJX9cDW09IEBgUZbTAzjxh8LEsMsEBoEia2njbvPKkVVH4jSrsoyK2U",
+      "pictureSource": "Klix.ba",
       "relatedSearch": [
-        {
-          "title": "Drama ukrajinskih snaga kod Harkova: Komanda dala jezivo naređenje - da li je ovo moguće?!",
-          "snippet": "",
-          "url": "https://informer.rs/planeta/vesti/1049079/ukrajinska-vojska-dezerteri-likvidacija",
-          "source": "Informer"
-        },
         {
           "title": "Vučić nastavlja da gradi mit o ugroženoj Srbiji: Znamo zašto Zagreb, Tirana i Priština prave savez",
           "snippet": "",
@@ -62,6 +56,12 @@
           "snippet": "",
           "url": "https://www.blic.rs/vesti/politika/vucic-o-vojnim-savezima-i-protestu-u-novom-sadu-sakupilo-se-oko-7000-ljudi-pronadjeni/bdh7ww6",
           "source": "Blic"
+        },
+        {
+          "title": "Srbija najviše izdvaja za vojsku u regionu, Vučić opravdava 'novim pretnjama iz susedstva'",
+          "snippet": "",
+          "url": "https://www.slobodnaevropa.org/a/srbija-naoruzavanje-vucic-zapadni-balkan/33521792.html",
+          "source": "Radio Slobodna Evropa"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -98,9 +98,15 @@
       "title": "n1 srbija",
       "trafficCount": "200+",
       "pubDate": "Fri, 5 Sep 2025 13:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThjtSZxNw13Oq1Gay2-THr7I7-vz0qqk6psi9SxbsJlhidMQvpg2L6_WiYn98",
-      "pictureSource": "Blic",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1ksLyux4vR-PdJLyXEW8Kewoi-SvDsZCUWjOzSx6LUVJSbxh2wmqrzsHZ46M",
+      "pictureSource": "N1",
       "relatedSearch": [
+        {
+          "title": "(BLOG) Studenti i građani napustili Rektorat, dekan sprečio ulazak policije u PMF, privedeno više osoba oko kampusa",
+          "snippet": "",
+          "url": "https://n1info.rs/vesti/najnovije-vesti-protesti-u-vise-gradova-5-septembar/",
+          "source": "N1"
+        },
         {
           "title": "Dačić o neredima u Novom Sadu: Desio se masovan napad na policiju i zaprepašćujuće nasilje",
           "snippet": "",
@@ -112,12 +118,6 @@
           "snippet": "",
           "url": "https://www.nezavisne.com/novosti/ex-yu/Macut-Srbija-moze-da-napreduje-samo-putem-dijaloga-i-u-miru/925789",
           "source": "Nezavisne novine"
-        },
-        {
-          "title": "Protest u Novom Sadu: Devet zaključaka",
-          "snippet": "",
-          "url": "https://vreme.com/vesti/protest-u-novom-sadu-devet-zakljucaka/",
-          "source": "Vreme"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -151,8 +151,36 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "novak djokovic",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 5 Sep 2025 12:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPrhDaLRrsn1qddrxhPR2F4Oae6RwJQCUOqUTWrQZ6ExDzSvw6zByHXfgSvzo",
+      "pictureSource": "Town & Country Magazine",
+      "relatedSearch": [
+        {
+          "title": "Is Novak Djokovic Planning to Retire Anytime Soon?",
+          "snippet": "",
+          "url": "https://www.townandcountrymag.com/leisure/sporting/a65993255/novak-djokovic-quotes-on-retirement/",
+          "source": "Town & Country Magazine"
+        },
+        {
+          "title": "Djokovic’s Eventual Farewell Will Be “Big,” Says Aussie Open Boss",
+          "snippet": "",
+          "url": "https://rg.org/news/tennis/djokovic-melbourne-farewell-will-be-big-says-australian-open-boss",
+          "source": "Rg.org"
+        },
+        {
+          "title": "Djokovic quashes retirement buzz after US Open exit: Want to play majors in 2026",
+          "snippet": "",
+          "url": "https://www.indiatoday.in/sports/tennis/story/novak-djokovic-targets-2026-grand-slam-season-after-us-open-2025-exit-2782809-2025-09-06",
+          "source": "India Today"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "djokovic",
-      "trafficCount": "2000+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 5 Sep 2025 12:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7kDKYx_gFyJscDScsZsTtftAqY5Lrl-eeiFY-VdkTXppGMc1mtf286sqTVIw",
       "pictureSource": "BBC",
@@ -170,10 +198,10 @@
           "source": "Yahoo Sports"
         },
         {
-          "title": "Alcaraz gains Djokovic revenge, returns to US Open final",
+          "title": "US Open men’s final 2025: When is it and how to watch Carlos Alcaraz vs Jannik Sinner on TV",
           "snippet": "",
-          "url": "https://www.atptour.com/en/news/alcaraz-djokovic-us-open-2025-sf-friday",
-          "source": "ATP Tour"
+          "url": "https://www.telegraph.co.uk/tennis/0/us-open-mens-final-when-is-it-how-to-watch-alcaraz-sinner/",
+          "source": "The Telegraph"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -182,26 +210,26 @@
       "title": "us open",
       "trafficCount": "500+",
       "pubDate": "Fri, 5 Sep 2025 12:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjUs74fjJllGdtidjc4KgG2FyT3FuVZ66Hfu70KCiucg7lzG8NxwBaVCSEnNg",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp5CRXtA1p2Qou323DaWdDllnRiYODjsIICn_OdLgDLCavT1TH61KaqR0TcNw",
+      "pictureSource": "ESPN",
       "relatedSearch": [
         {
-          "title": "US Open semi-finals LIVE: Jannik Sinner and Carlos Alcaraz wins as they happened",
+          "title": "US Open 2025: Tennis schedule, how to watch on ESPN",
           "snippet": "",
-          "url": "https://www.bbc.co.uk/sport/tennis/live/crkzj2d7x1lt",
-          "source": "BBC"
+          "url": "https://www.espn.com/tennis/story/_/page/usopen*/us-open-2025-tennis-schedule-how-watch-espn",
+          "source": "ESPN"
         },
         {
-          "title": "2025 U.S. Open: How to watch Jannik Sinner vs. Felix Auger-Aliassime in the tennis tournament tonight",
+          "title": "No regrets for Auger-Aliassime after loss to Sinner at 2025 US Open: 'I played my way'",
           "snippet": "",
-          "url": "https://sports.yahoo.com/tennis/article/2025-us-open-how-to-watch-jannik-sinner-vs-felix-auger-aliassime-in-the-tennis-tournament-tonight-150512573.html",
-          "source": "Yahoo Sports"
+          "url": "https://www.usopen.org/en_US/news/articles/2025-09-06/no_regrets_for_augeraliassime_after_loss_to_sinner_at_2025_us_open_i_played_my_way.html",
+          "source": "US Open.org"
         },
         {
-          "title": "Resurgent Osaka exits US Open inspired not sad",
+          "title": "US Open semi-finals: Novak Djokovic out to disrupt tennis' new 'dominant forces' Carlos Alcaraz and Jannik Sinner in New York",
           "snippet": "",
-          "url": "https://www.chinadailyasia.com/article/619339",
-          "source": "chinadailyhk"
+          "url": "https://www.skysports.com/tennis/news/32833/13424896/us-open-semi-finals-novak-djokovic-aims-to-disrupt-tennis-new-dominant-forces-carlos-alcaraz-and-jannik-sinner-in-new-york",
+          "source": "Sky Sports"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -220,15 +248,15 @@
           "source": "Sportklub"
         },
         {
-          "title": "Hrvatska jednom nogom već u Americi? Matematičari objavili, Daliću i društvu ogromne šanse za plasman na SP",
+          "title": "Nogometaši Hrvatske slavili na dalekom gostovanju i zadržali maksimalan učinak u kvalifikacijama",
           "snippet": "",
-          "url": "https://sportske.jutarnji.hr/sn/nogomet/sp2026/hrvatska-jednom-nogom-vec-u-americi-matematicari-objavili-dalicu-i-drustvu-ogromne-sanse-za-plasman-na-sp-15619877",
-          "source": "Sportske novosti"
+          "url": "https://www.klix.ba/sport/nogomet/nogometasi-hrvatske-slavili-na-dalekom-gostovanju-i-zadrzali-maksimalan-ucinak-u-kvalifikacijama/250905166",
+          "source": "Klix.ba"
         },
         {
-          "title": "Farski otoci skoro zabili u zadnjim sekundama. Kamera je pokazala Dalića",
+          "title": "Dalić nakon mučenja protiv Farskih otoka: Kao da igramo protiv top 5 momčadi svijeta",
           "snippet": "",
-          "url": "https://www.index.hr/sport/clanak/farski-otoci-skoro-zabili-u-zadnjim-sekundama-kamera-je-pokazala-dalica/2707033.aspx",
+          "url": "https://www.index.hr/sport/clanak/dalic-nakon-mucenja-protiv-farskih-otoka-kao-da-igramo-protiv-top-5-momcadi-svijeta/2707024.aspx",
           "source": "Index.hr"
         }
       ],

@@ -1,30 +1,151 @@
 {
-  "lastUpdate": "2025-09-07 01:01:43",
+  "lastUpdate": "2025-09-07 02:38:33",
   "data": [
     {
-      "title": "us open",
+      "title": "авангард",
       "trafficCount": "200+",
-      "pubDate": "Sat, 6 Sep 2025 17:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpOyVyU3qu4iwwBEy-S6KJaUBG-5A6kODUcHAMQJqF9F5FW2GCT1BdDNeZ1Hk",
-      "pictureSource": "CBS Sports",
+      "pubDate": "Sat, 6 Sep 2025 18:40:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "новини київ",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 6 Sep 2025 18:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvFuU6X1fKP8UovCWkWMykxkjAeQQQ3eyugLNhOW4I3CGuAi6Mrl49Zt342_Q",
+      "pictureSource": "РБК-Україна",
       "relatedSearch": [
         {
-          "title": "2025 US Open tennis payouts, prize money: Aryna Sabalenka claims $5 million after second straight win",
+          "title": "Кількість постраждалих у Києві перевищила 10, є жертва і в укритті померла жінка",
           "snippet": "",
-          "url": "https://www.cbssports.com/tennis/news/2025-us-open-tennis-payouts-prize-money-aryna-sabalenka-claims-5-million-after-second-straight-win/",
-          "source": "CBS Sports"
+          "url": "https://www.rbc.ua/rus/news/odnomu-rayoniv-kieva-ukritti-pomerla-litnya-1757211496.html",
+          "source": "РБК-Україна"
         },
         {
-          "title": "By the numbers: Facts and figures from the semifinals at the 2025 US Open",
+          "title": "У Святошинському та Дарницькому районах уламки шахедів впали на житлові будинки, є постраждалі, — Кличко. ОНОВЛЕНО",
           "snippet": "",
-          "url": "https://www.usopen.org/en_US/news/articles/2025-09-06/2025-09-06_by_the_numbers_facts_and_figures_from_the_semifinals_at_the_2025_us_open.html",
-          "source": "US Open.org"
+          "url": "https://vechirniy.kyiv.ua/news/117062/",
+          "source": "Вечірній Київ"
         },
         {
-          "title": "US Open women’s final: Can Amanda Anisimova bounce back from Wimbledon final nightmare against the defending champion?",
+          "title": "Російські дрони цілеспрямовано бʼють по багатоповерхівках Києва – КМВА",
           "snippet": "",
-          "url": "https://www.cnn.com/2025/09/06/sport/tennis-us-open-womens-final-preview-intl",
-          "source": "CNN"
+          "url": "https://www.pravda.com.ua/news/2025/09/7/7529682/",
+          "source": "Українська правда"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "новости одессы",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 6 Sep 2025 18:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStS0pN5DKOToW1kSQ-nGbo8A10tBKAAGIH8RuFmgVPqVJ-HbDr9miSVxA-RXg",
+      "pictureSource": "Українська правда",
+      "relatedSearch": [
+        {
+          "title": "В Одессе прогремели взрывы – мэр",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/rus/news/2025/09/4/7529255/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "Взрывы прогремели в Одессе",
+          "snippet": "",
+          "url": "https://eadaily.com/ru/news/2025/09/07/vzryvy-progremeli-v-odesse",
+          "source": "EADaily"
+        },
+        {
+          "title": "Враг ударил по Одесской области баллистикой: пострадал мужчина, повреждены склады с зерном",
+          "snippet": "",
+          "url": "https://dumskaya.net/news/vrag-udaril-po-odesskoy-oblasti-ballistikoy-post-188840/",
+          "source": "Думская"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "повітряна тривога київ",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 6 Sep 2025 18:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1j6R21A-SyR8OcerMpQRF_jFdCwMJDF9eJB5lQV-qpFXBD2hQ_hD0nZtFCqI",
+      "pictureSource": "ТСН",
+      "relatedSearch": [
+        {
+          "title": "Росія здійснює масовану ракетно-дронову атаку на Україну",
+          "snippet": "",
+          "url": "https://tsn.ua/ukrayina/rosiia-zdiysniuye-masovanu-raketno-dronovu-ataku-na-ukrayinu-2907395.html",
+          "source": "ТСН"
+        },
+        {
+          "title": "У Києві та низці областей по російських дронах працює ППО",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/news/2025/09/7/7529658/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "Україну атакують російські безпілотники, у більшості регіонів - повітряна тривога",
+          "snippet": "",
+          "url": "https://www.ukrinform.ua/rubric-ato/4033728-ukrainu-atakuut-rosijski-bezpilotniki-u-bilsosti-regioniv-povitrana-trivoga.html",
+          "source": "Укрінформ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "тревога украина",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 6 Sep 2025 17:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr47v-JqVcbB8OqwnbO-jyCNG_1d5lazOkqtPznCRuw4nkl0N1HrhdjFE2x2Y",
+      "pictureSource": "Українська правда",
+      "relatedSearch": [
+        {
+          "title": "Российские дроны \"целенаправленно бьют\" по многоэтажкам Киева: есть пострадавшие – КГВА",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/rus/news/2025/09/7/7529682/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "В Киеве в результате атаки частично разрушена многоэтажка",
+          "snippet": "",
+          "url": "https://www.rbc.ua/ukr/news/kievi-vnaslidok-ataki-chastkovo-zruynovano-1757209722.html",
+          "source": "РБК-Україна"
+        },
+        {
+          "title": "В Киеве прогремели мощные взрывы — что известно",
+          "snippet": "",
+          "url": "https://kyiv.novyny.live/ru/u-kiievi-prolunali-potuzhni-vibukhi-shcho-vidomo-279326.html",
+          "source": "Новини Live"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "кривой рог",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 6 Sep 2025 17:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSlG7k5CtinVhnn5g8pkLOItLNWohBkogzWzrLuCMf5HkVESSgEcgatCK_GLtM",
+      "pictureSource": "Українська правда",
+      "relatedSearch": [
+        {
+          "title": "Россия наносит массированный удар по Кривому Рогу ракетами и дронами – Вилкул",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/rus/news/2025/09/7/7529685/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "В Кривом Роге звучат взрывы, город атакуют ракеты и дроны",
+          "snippet": "",
+          "url": "https://www.rbc.ua/ukr/news/krivomu-rozi-lunayut-vibuhi-misto-atakuyut-1757206879.html",
+          "source": "РБК-Україна"
+        },
+        {
+          "title": "В Кривом Роге и Кременчуге мощные взрывы",
+          "snippet": "",
+          "url": "https://korrespondent.net/ukraine/4813786-v-kryvom-rohe-y-kremenchuhe-moschnye-vzryvy",
+          "source": "Korrespondent.net"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,54 +154,54 @@
       "title": "кривий ріг",
       "trafficCount": "500+",
       "pubDate": "Sat, 6 Sep 2025 17:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuncbbFXo15yNwuzMUcPSaY-gw6ecLaoWftxsAKhun_s0agrweNY_Net079Ik",
-      "pictureSource": "24 Канал",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwX3h6Zb568khSkArVyDgj9cMj-5dmHJyGzyDKyNMcgmwH__5R5yjwtj2nwAI",
+      "pictureSource": "Українська правда",
       "relatedSearch": [
         {
-          "title": "Кривой Рог атаковали дроны и баллистика, прогремели взрывы",
+          "title": "Росія завдає масованого удару по Кривому Рогу ракетами і дронами – Вілкул",
           "snippet": "",
-          "url": "https://24tv.ua/ru/krivoj-rog-atakovali-drony-i-ballistika-progremeli-vzryvy_n2909347",
-          "source": "24 Канал"
+          "url": "https://www.pravda.com.ua/news/2025/09/7/7529685/",
+          "source": "Українська правда"
         },
         {
-          "title": "Вибухи на Дніпропетровщині 6 вересня чує все місто",
+          "title": "Після 3.20 росіяни масовано атакували Кривий Ріг балістикою і шахедами",
           "snippet": "",
-          "url": "https://region.dp.ua/vybukhy-na-dnipropetrovshchyni-6-veresnia-chuie-vse-misto/",
-          "source": "Дніпро Регіон"
+          "url": "https://rudana.com.ua/news/pislya-320-rosiyany-masovano-atakuvaly-kryvyy-rig-balistykoyu-i-shahedamy",
+          "source": "РУДАНА"
         },
         {
-          "title": "4 вересня у Кривому Розі буде чутно планові вибухи",
+          "title": "У Кривому Розі і Кременчуці потужні вибухи",
           "snippet": "",
-          "url": "https://1kr.ua/ua/news-105209.html",
-          "source": "Первый Криворожский"
+          "url": "https://ua.korrespondent.net/ukraine/4813786-u-kryvomu-rozi-i-kremenchutsi-potuzhni-vybukhy",
+          "source": "Korrespondent.net"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "кременчук",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 6 Sep 2025 15:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ_kZdvJHCHcpo4JPKiFUV3R5b2ZoW60gV6rsC9NTKI5YIMFUa4CZxps-eZCs",
-      "pictureSource": "Кременчуцький ТелеграфЪ",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOjLcqnirJia6Xm1Kn6deqEmG-HTjobj3DPS0rMcu-dkYTw3Ro8YkBVIgGMJc",
+      "pictureSource": "РБК-Україна",
       "relatedSearch": [
         {
-          "title": "У Кременчуці було чутно серію вибухів",
+          "title": "Десятки вибухів і знеструмлення: РФ обстріляла \"Шахедами\" Кременчук",
           "snippet": "",
-          "url": "https://www.telegraf.in.ua/topnews/10142841-u-kremenchuci-bulo-chutno-vibuhi.html",
-          "source": "Кременчуцький ТелеграфЪ"
+          "url": "https://www.rbc.ua/rus/news/desyatki-vibuhiv-i-znestrumlennya-rf-obstrilyala-1757208547.html",
+          "source": "РБК-Україна"
         },
         {
-          "title": "У Кременчуці чутно вибухи (Доповнено)",
+          "title": "Десятки вибухів у Кременчуці: частина міста залишилася без світла",
           "snippet": "",
-          "url": "https://kg.ua/news/kremenchuk-ta-regioni/u-kremenchuci-chutno-vibuhi",
-          "source": "Кременчуцька газета"
+          "url": "https://unn.ua/news/desiatky-vybukhiv-u-kremenchutsi-misto-zalyshylosia-bez-svitla",
+          "source": "Українські Національні Новини"
         },
         {
-          "title": "У Кременчуці вибухи лунають одне за одним",
+          "title": "Кременчук під масовим обстрілом: десятки вибухів і часткове знеструмлення міста – мер",
           "snippet": "",
-          "url": "https://kremen.today/2025/09/07/u-kremenchutsi-vybuhy-lunayut-odne-za-odnym/",
-          "source": "Кременчук Тудей"
+          "url": "https://www.pravda.com.ua/news/2025/09/7/7529684/",
+          "source": "Українська правда"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,33 +210,33 @@
       "title": "deepstate",
       "trafficCount": "100+",
       "pubDate": "Sat, 6 Sep 2025 14:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNbbBBMuxk--o7jUVk5PQYs2H31XjaZDOUMguw_lPsQ8nkAFwnaxlxN7ZhkeE",
-      "pictureSource": "Українська правда",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRK-Kem-Y70TG7FyZlxQQbqcmTo_P1hnVdbZrVouzY_zqPXdZ0Cv4NvguNZLBk",
+      "pictureSource": "Суспільне | Новини",
       "relatedSearch": [
         {
-          "title": "DeepState: Росіяни просунулися у трьох областях",
+          "title": "Російські війська обстріляли Слов'янськ вночі та зранку: що відомо",
           "snippet": "",
-          "url": "https://www.pravda.com.ua/news/2025/09/6/7529619/",
-          "source": "Українська правда"
+          "url": "https://suspilne.media/donbas/1108446-rosijski-vijska-obstrilali-slovansk-vnoci-ta-zranku-so-vidomo/",
+          "source": "Суспільне | Новини"
         },
         {
-          "title": "Ворог просунувся на Сумщині, Луганщині та Дніпропетровщині",
+          "title": "РФ почала атакувати трасу Слов'янськ-Ізюм: Попович розкрив причини",
           "snippet": "",
-          "url": "https://argumentua.com/novini/vorog-prosunuvsya-na-sumshchini-luganshchini-ta-dnipropetrovshchini",
-          "source": "АРГУМЕНТ"
+          "url": "https://www.unian.ua/war/rf-pochala-atakuvati-trasu-slov-yansk-izyum-popovich-rozkriv-prichini-13122033.html",
+          "source": "УНІАН"
         },
         {
-          "title": "Російська армія просунулася в населених пунктах трьох областей, - DeepState",
+          "title": "DeepState: ворог здійснює ураження FPV-дронами на трасі Слов'янськ-Ізюм",
           "snippet": "",
-          "url": "https://espreso.tv/viyna-z-rosiyeyu-rosiyska-armiya-prosunulasya-v-naselenikh-punktakh-trokh-oblastey-deepstate",
-          "source": "Espreso.tv"
+          "url": "https://lb.ua/society/2025/09/06/694985_deepstate_vorog_zdiysnyuie_urazhennya.html",
+          "source": "LB.ua"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "купянск",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 6 Sep 2025 14:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyxjTEhw0nJWN4iUhkky3AcLzpi8xhk-UF890h9BkGYcX8mrZVTnYf1YgD-uk",
       "pictureSource": "Українська правда",
@@ -137,146 +258,6 @@
           "snippet": "",
           "url": "https://112.ua/ru/rosijski-okupanti-v-kupansku-ak-vorog-znimae-fejki-dla-propagandi-86680",
           "source": "112.ua"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "буданов",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 6 Sep 2025 14:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhzjyiq0JzDKNYUSGGxuf7vPd7FMQlD-a1k7hJVue0qPLiCswmVLS-fC07Pl4",
-      "pictureSource": "РБК-Україна",
-      "relatedSearch": [
-        {
-          "title": "Россия может провести мобилизацию. Это серьезная угроза, - Буданов",
-          "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/rosiya-mozhe-provesti-mobilizatsiyu-tse-seryozna-1757197693.html",
-          "source": "РБК-Україна"
-        },
-        {
-          "title": "Буданов: Россия может снова провести мобилизацию, это серьезная угроза",
-          "snippet": "",
-          "url": "https://nv.ua/ukraine/events/mobilizaciya-v-rossii-budanov-ocenil-ugrozu-novoy-volny-i-posledstviya-dlya-armii-50542908.html",
-          "source": "NV.ua"
-        },
-        {
-          "title": "Ждать ли новой волны мобилизации осенью 2025 года",
-          "snippet": "",
-          "url": "https://donetsk-dr.ru/2025/09/zhdat-li-novoj-volny-mobilizaczii-osenyu-2025-goda/",
-          "source": "Донецкий Рабочий"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "соболенко",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 6 Sep 2025 13:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRXkaPfOrX1IWAWILX8tn1WyTBCIphqQj5iwVqlmnJSTyTBcyAhzdE7CiaR3M",
-      "pictureSource": "Olympics.com",
-      "relatedSearch": [
-        {
-          "title": "Теннис. US Open 2025. Мужчины. Финал: где смотреть и что ждать",
-          "snippet": "",
-          "url": "https://www.olympics.com/ru/news/tennis-us-open-2025-muzhchiny-final-gde-smotret-i-chto-zhdat",
-          "source": "Olympics.com"
-        },
-        {
-          "title": "Арина Соболенко – Аманда Анисимова. Прогноз и анонс на финал US Open 2025",
-          "snippet": "",
-          "url": "https://sport.ua/news/794964-arina-sobolenko-amanda-anisimova-prognoz-i-anons-na-final-us-open-2025",
-          "source": "Sport.ua"
-        },
-        {
-          "title": "Анисимова против Соболенко в финале US Open",
-          "snippet": "",
-          "url": "https://ua.tribuna.com/tennis/1000000276875-anisimova-proty-sobolenko-u-finali-us-open-pochatok-o-23/",
-          "source": "Tribuna.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "білорусь",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 6 Sep 2025 12:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDGzVTXxusKJVWETN0BkvO7EhLTHjS2JtuHThiNknCeka7EhzxdWUSjNK8el4",
-      "pictureSource": "Європейська правда",
-      "relatedSearch": [
-        {
-          "title": "Польща закликала своїх громадян негайно покинути Білорусь",
-          "snippet": "",
-          "url": "https://www.eurointegration.com.ua/news/2025/09/5/7219562/",
-          "source": "Європейська правда"
-        },
-        {
-          "title": "Навчання «Захід-2025»: Польща закликала своїх громадян негайно покинути Білорусь",
-          "snippet": "",
-          "url": "https://tsn.ua/svit/navchannia-zakhid-2025-polshcha-zaklykala-svoyikh-hromadian-nehayno-pokynuty-bilorus-2906873.html",
-          "source": "ТСН"
-        },
-        {
-          "title": "Туск заявив, що Польща готова до заходів у відповідь через затримання поляка в Білорусі",
-          "snippet": "",
-          "url": "https://www.ukrinform.ua/rubric-world/4033316-tusk-zaaviv-so-polsa-gotova-do-zahodiv-u-vidpovid-cerez-zatrimanna-polaka-v-bilorusi.html",
-          "source": "Укрінформ"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "7 вересня свято",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 6 Sep 2025 12:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRg692EEIMTiksw__a1XQ7bDivh4SR-_3zBHCyqsu2J2XMFpEK-9poHdgQ_ibA",
-      "pictureSource": "ТСН",
-      "relatedSearch": [
-        {
-          "title": "День ангела 7 вересня: кого та як вітати з іменинами",
-          "snippet": "",
-          "url": "https://tsn.ua/other/den-anhela-7-veresnia-koho-ta-iak-vitaty-z-imenynamy-2905424.html",
-          "source": "ТСН"
-        },
-        {
-          "title": "7 вересня: церковне свято сьогодні, що потрібно зробити, щоб весь рік бути здоровим",
-          "snippet": "",
-          "url": "https://www.unian.ua/lite/holidays/yake-sogodni-cerkovne-svyato-7-veresnya-2025-roku-zaboroni-zvichaji-ta-prikmeti-dnya-13108281.html",
-          "source": "УНІАН"
-        },
-        {
-          "title": "Яке релігійне свято відзначається 7 вересня 2025: традиції та молитва",
-          "snippet": "",
-          "url": "https://glavcom.ua/country/society/jake-relihijne-svjato-vidznachajetsja-7-veresnja-2025-traditsiji-ta-molitva-1077213.html",
-          "source": "Главком"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "юфс",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 6 Sep 2025 11:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0NjIwjDOUxphR8wKlGXKr62mTK5Vj3FzPbIBo_wBG78I71KlZS7g1MGel-mk",
-      "pictureSource": "Sport.ua",
-      "relatedSearch": [
-        {
-          "title": "Претендент на титул? Имавов одолел Борральо в зрелищном поединке в Париже",
-          "snippet": "",
-          "url": "https://sport.ua/news/795121-pretendent-na-titul-imavov-odolel-borralyo-v-zrelishchnom-poedinke-v-parizhe",
-          "source": "Sport.ua"
-        },
-        {
-          "title": "Каїо Боральо против Имава в UFC Париж: победитель станет претендентом на титул",
-          "snippet": "",
-          "url": "https://112.ua/ru/caio-borralho-hellbent-on-earning-khamzat-chimaev-fight-with-undeniable-ufc-paris-win-over-nassourdine-imavov-86698",
-          "source": "112.ua"
-        },
-        {
-          "title": "Дагестанец готов нанести первое поражение Чимаеву: «Я отличаюсь от других парней»",
-          "snippet": "",
-          "url": "https://sport24.ru/mma/news-781727-dagestanets-gotov-nanesti-pervoye-porazheniye-chimayevu-ya-otlichayus-ot-drugikh-parney",
-          "source": "Sport24.ru"
         }
       ],
       "link": "https://imtaqin.id/"

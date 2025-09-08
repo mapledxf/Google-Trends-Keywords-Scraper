@@ -1,19 +1,13 @@
 {
-  "lastUpdate": "2025-09-08 05:53:34",
+  "lastUpdate": "2025-09-08 06:15:45",
   "data": [
     {
       "title": "новости",
       "trafficCount": "100+",
       "pubDate": "Sun, 7 Sep 2025 20:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZcz9jQ41rLAg6_y_F6Y0F_7NlP2yFutnWy5hsvqpXldq1RTFTk0yg9HFOr80",
-      "pictureSource": "БелТА",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyPEFLZ7kMZuVrPWxfGrRH5bL2E1cp2qmdFQHLqtN8jIpPFnuM_C3LO3q4gO4",
+      "pictureSource": "Onlíner",
       "relatedSearch": [
-        {
-          "title": "Поиски пропавшего в Кабардино-Балкарии белорусского туриста продолжатся 7 сентября",
-          "snippet": "",
-          "url": "https://belta.by/society/view/poiski-propavshego-v-kabardino-balkarii-belorusskogo-turista-prodolzhatsja-7-sentjabrja-735921-2025/",
-          "source": "БелТА"
-        },
         {
           "title": "Нашли тело белорусского туриста, пропавшего на Эльбрусе",
           "snippet": "",
@@ -21,10 +15,16 @@
           "source": "Onlíner"
         },
         {
-          "title": "Пропавшего в Приэльбрусье туриста из Беларуси нашли мертвым",
+          "title": "Поиски пропавшего в Кабардино-Балкарии белорусского туриста продолжатся 7 сентября",
           "snippet": "",
-          "url": "https://officelife.media/news/65388-propavshego-v-prielbruse-turista-iz-belarusi-nashli-mertvym/",
-          "source": "officelife.media"
+          "url": "https://belta.by/society/view/poiski-propavshego-v-kabardino-balkarii-belorusskogo-turista-prodolzhatsja-7-sentjabrja-735921-2025/",
+          "source": "БелТА"
+        },
+        {
+          "title": "Туриста из Белоруссии нашли погибшим в горах Эльбруса",
+          "snippet": "",
+          "url": "https://www.interfax.ru/russia/1046035",
+          "source": "Интерфакс"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -49,10 +49,10 @@
           "source": "URA.RU"
         },
         {
-          "title": "Пока в Якутии была ночь: состояние Маргариты Симоньян, сокращенная рабочая неделя, пенсии",
+          "title": "Маргарита Симоньян рассказала, что ей диагностировали «страшную тяжелую болезнь»",
           "snippet": "",
-          "url": "https://ysia.ru/poka-v-yakutii-byla-noch-sostoyanie-margarity-simonyan-sokrashhennaya-rabochaya-nedelya-pensii/",
-          "source": "ЯСИА"
+          "url": "https://nashaniva.com/ru/376439",
+          "source": "Наша Ніва"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -71,9 +71,9 @@
           "source": "Кино-Театр.Ру"
         },
         {
-          "title": "Мария Аронова эмоционально отреагировала на задержание Аглаи Тарасовой",
+          "title": "СМИ: задержанная с наркотиками Тарасова отдыхала в Израиле со Слепаковым",
           "snippet": "",
-          "url": "https://kino.mail.ru/news/100404-mariya-aronova-emocionalno-otreagirovala-na-zaderzhanie-aglai-tarasovoj/",
+          "url": "https://kino.mail.ru/news/100438-smi-zaderzhannaya-s-narkotikami-tarasova-otdyihala-v-izraile-so-slepakovyim/",
           "source": "Кино Mail"
         },
         {
@@ -81,6 +81,34 @@
           "snippet": "",
           "url": "https://people.onliner.by/2025/09/05/aglayu-tarasovu-zaderzhali",
           "source": "Onlíner"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "синнер",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 7 Sep 2025 14:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQY8ATgP0D6gz317zT-wAJSSACXJWZP2de3XUhGkUaemjaHFC2bZhAf_A6JEQ",
+      "pictureSource": "БелТА",
+      "relatedSearch": [
+        {
+          "title": "Лукашенко поздравил теннисистку Арину Соболенко с победой на US Open",
+          "snippet": "",
+          "url": "https://belta.by/president/view/lukashenko-pozdravil-tenesistku-arinu-sobolenko-s-pobedoj-na-us-open-735949-2025/",
+          "source": "БелТА"
+        },
+        {
+          "title": "Арина Соболенко второй год подряд выигрывает US Open",
+          "snippet": "",
+          "url": "https://people.onliner.by/2025/09/07/arina-sobolenko-vtoroj-god",
+          "source": "Onlíner"
+        },
+        {
+          "title": "Арина Соболенко - чемпионка US Open",
+          "snippet": "",
+          "url": "https://smartpress.by/idea/sport/arina-sobolenko-chempionka-us-oipen/",
+          "source": "Smartpress.by"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -96,7 +124,7 @@
     },
     {
       "title": "карлос алькарас",
-      "trafficCount": "1000+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 7 Sep 2025 12:40:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb84DrjoehiXfIWI2XOUVzFp8ABNH3BaeM4zpwZJAJT5Pq1mjZwQ-RWrcfFmM",
       "pictureSource": "Беларусь сегодня",
@@ -230,34 +258,6 @@
           "snippet": "",
           "url": "https://yandex.by/pogoda/ru/blog/krasnaya-luna-2025",
           "source": "Яндекс"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "катар – россия",
-      "trafficCount": "2000+",
-      "pubDate": "Sun, 7 Sep 2025 07:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSiGGiRN5o_cmslgu5--tNWQYJSVfa3xFsl01wbj564bb874JWtG9ZDEbsQdYc",
-      "pictureSource": "Спорт Mail",
-      "relatedSearch": [
-        {
-          "title": "Сборная России по футболу разгромила команду Катара в товарищеском матче",
-          "snippet": "",
-          "url": "https://sportmail.ru/news/football-national/67783491/",
-          "source": "Спорт Mail"
-        },
-        {
-          "title": "Катар — Россия: где смотреть прямую трансляцию товарищеского матча по футболу 7 сентября",
-          "snippet": "",
-          "url": "https://matchtv.ru/football/matchtvnews_NI2241220_Katar__Rossija_gde_smotret_pramuju_translaciju_tovarishheskogo_matcha_po_futbolu_7_sentabra",
-          "source": "Матч ТВ"
-        },
-        {
-          "title": "Сборная России одержала разгромную победу над сборной Катара",
-          "snippet": "",
-          "url": "https://sport5.by/news/football/sbornye/Sbornaya-Rossii-na-vyezde-razgromila-Katar-v-kontrolnom-matche/",
-          "source": "Sport5.by"
         }
       ],
       "link": "https://imtaqin.id/"

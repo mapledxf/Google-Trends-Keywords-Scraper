@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-08 17:43:02",
+  "lastUpdate": "2025-09-08 17:50:49",
   "data": [
     {
       "title": "ouganda – somalie",
@@ -31,7 +31,7 @@
     },
     {
       "title": "guinée – algérie",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 8 Sep 2025 08:30:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTa5h6QKi4AswGSA2iSrnZDryvrgVlS-r8o3Be275BbE3EIIeKUv9M6rgqAIs",
       "pictureSource": "RMC Sport",
@@ -89,18 +89,31 @@
       "title": "senegal vs congo",
       "trafficCount": "500+",
       "pubDate": "Mon, 8 Sep 2025 05:20:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe9-Ddnh-53wPMEuQe6w3BQjri5IWE-53HbbdgBQJmat7LtYfPkaZycApf8hs",
+      "pictureSource": "Le Quotidien",
+      "relatedSearch": [
+        {
+          "title": "TANIÈRE",
+          "snippet": "",
+          "url": "https://lequotidien.sn/taniere-54/",
+          "source": "Le Quotidien"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "jean baptiste tine",
       "trafficCount": "100+",
       "pubDate": "Mon, 8 Sep 2025 02:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS12Uc0LRkaoBZaXaDefdvHKpEwzttCxr6eb_tzRXj1JiumhsSgmW2OTuc2q5A",
-      "pictureSource": "Le Quotidien",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhNJsi2GzkHPOym4KVmtBcVqjjgxxjNFlOS7qDg23JupF_NcWHVDwHZOXNbXs",
+      "pictureSource": "Le Monde.fr",
       "relatedSearch": [
+        {
+          "title": "Au Sénégal, un nouveau gouvernement qui consolide l’autorité d’Ousmane Sonko",
+          "snippet": "",
+          "url": "https://www.lemonde.fr/afrique/article/2025/09/08/au-senegal-un-nouveau-gouvernement-qui-consolide-l-autorite-d-ousmane-sonko_6640004_3212.html",
+          "source": "Le Monde.fr"
+        },
         {
           "title": "Évictions d’Ousmane Diagne et du Général Tine : Sonko place ses hommes",
           "snippet": "",
@@ -112,12 +125,6 @@
           "snippet": "",
           "url": "https://xalimasn.com/2025/09/08/cheikh-niang-le-diplomate-chevronne-qui-prend-les-renes-de-la-diplomatie-senegalaise/",
           "source": "Xalima"
-        },
-        {
-          "title": "Remaniement - Voici la composition complète du nouveau Gouvernement : Khady Diène Gaye recentrée sur la Jeunesse et les Sports",
-          "snippet": "",
-          "url": "https://wiwsport.com/2025/09/06/remaniement-khady-diene-gaye-recentree-sur-la-jeunesse-et-les-sports/",
-          "source": "wiwsport"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -248,16 +255,16 @@
           "source": "US Open.org"
         },
         {
-          "title": "US Open 2025: Full order of play, Sunday 7 September - all matches, complete daily schedule at Grand Slam tennis tournament",
-          "snippet": "",
-          "url": "https://www.olympics.com/en/news/us-open-2025-full-order-of-play-sunday-7-september-all-matches-complete-daily-schedule-at-grand-slam-tennis-tournament",
-          "source": "Olympics.com"
-        },
-        {
           "title": "What is Carlos Alcaraz and Jannik Sinner's head-to-head record?",
           "snippet": "",
           "url": "https://www.bbc.com/sport/tennis/articles/cz087r9er13o",
           "source": "BBC"
+        },
+        {
+          "title": "Tennis - Jannik Sinner vs Carlos Alcaraz at the US Open 2025: Head-to-head and rivalry breakdown ahead of third consecutive major final",
+          "snippet": "",
+          "url": "https://www.olympics.com/en/news/jannik-sinner-carlos-alcaraz-us-open-2025-head-to-head-rivalry",
+          "source": "Olympics.com"
         }
       ],
       "link": "https://imtaqin.id/"

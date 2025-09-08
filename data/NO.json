@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2025-09-08 22:31:48",
+  "lastUpdate": "2025-09-08 22:42:36",
   "data": [
     {
       "title": "bbc news",
       "trafficCount": "100+",
       "pubDate": "Mon, 8 Sep 2025 15:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuo6dMc7aOf8JyWw7BsTnSxyaoTw-knSSqsZRZAa_Tro6jPvmmcyfr0DYYCHo",
-      "pictureSource": "Sky News",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4y7R62pxp1t7YyYUkUR9t4LMnwNgyQzXDczM8tSTRU3-VQi-wvzZYcBCiKgM",
+      "pictureSource": "BBC",
       "relatedSearch": [
+        {
+          "title": "Great North Run medals show Sunderland instead of Newcastle",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c4gq2gdlnygo",
+          "source": "BBC"
+        },
         {
           "title": "Great North Run organisers apologise after glaring error on 2025 medals",
           "snippet": "",
@@ -19,12 +25,6 @@
           "snippet": "",
           "url": "https://www.telegraph.co.uk/athletics/2025/09/08/great-north-run-medal-depicts-the-wrong-river/",
           "source": "The Telegraph"
-        },
-        {
-          "title": "When maps go wrong: from the Great North Run to a phantom Aldi",
-          "snippet": "",
-          "url": "https://www.theguardian.com/lifeandstyle/2025/sep/08/when-maps-go-wrong-from-the-great-north-run-to-a-phantom-aldi",
-          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,36 +86,8 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "nyheter",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 8 Sep 2025 14:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQH3PPh-7Wka0RoMGQ6plAkP4v-2d-vAxbhQb-O1-n-10brth2_hcwo_gY8ZGo",
-      "pictureSource": "SVT Nyheter",
-      "relatedSearch": [
-        {
-          "title": "Stora problem för godstågen – landet avskuret på mitten",
-          "snippet": "",
-          "url": "https://www.svt.se/nyheter/inrikes/stora-problem-for-godstagen-landet-avskuret-pa-mitten",
-          "source": "SVT Nyheter"
-        },
-        {
-          "title": "SMHI utreder sin egen varning: Kollar på det nu",
-          "snippet": "",
-          "url": "https://www.aftonbladet.se/nyheter/a/73W3Lo/stopp-i-tagtrafiken-efter-regn",
-          "source": "Aftonbladet"
-        },
-        {
-          "title": "Risk för dieselläckage efter urspårning i Västernorrland",
-          "snippet": "",
-          "url": "https://www.dn.se/sverige/kraftiga-skyfall-i-vasternorrland-flera-vagar-bortspolade/",
-          "source": "DN"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "valgdeltakelse 2025",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 8 Sep 2025 14:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRiB1NHvZzDnqbC28QkP7EolCRelbMXYhDIl9n_vDS11cLXp1q8G2EY5zEHgXA",
       "pictureSource": "Tønsbergs Blad",
@@ -127,16 +99,16 @@
           "source": "Tønsbergs Blad"
         },
         {
-          "title": "Høyeste deltagelse siden 1980-tallet",
+          "title": "Dette er spenningen i Østfold: – Borgerlig lyspunkt",
           "snippet": "",
-          "url": "https://www.adressa.no/nyheter/innenriks/i/8qnqeA/stortingsvalget-2025",
-          "source": "adressa.no"
+          "url": "https://www.nrk.no/ostfold/dette-er-spenningen-i-ostfold_-_-borgerlig-lyspunkt-1.17559660",
+          "source": "NRK"
         },
         {
-          "title": "Sigurd og Marianne inne – Pasientfokus ute når forhåndsstemmene er talt",
+          "title": "Ikke så hemmelig valg lenger: – Kan godt si hva jeg stemmer",
           "snippet": "",
-          "url": "https://www.nrk.no/tromsogfinnmark/sigurd-og-ap-inne-med-to-_-pasientfokus-ute-nar-forhandsstemmene-er-talt-1.17560754",
-          "source": "NRK"
+          "url": "https://www.aftenbladet.no/lokalt/i/KMovB7/ikke-saa-hemmelig-valg-lenger-kan-godt-si-hva-jeg-stemmer",
+          "source": "Stavanger Aftenblad"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,10 +127,10 @@
           "source": "Bergens Tidende"
         },
         {
-          "title": "Val 2025, Voss | – Eg kan konstatera at eg ikkje kjem inn",
+          "title": "Stortingsvalet 2025, Politikk | Hun er blant de minst ukjente: – Dette er rett og slett bedrøvelig",
           "snippet": "",
-          "url": "https://www.avisa-hordaland.no/eg-kan-konstatera-at-eg-ikkje-kjem-inn/s/5-132-981279",
-          "source": "Hordaland"
+          "url": "https://www.ba.no/hun-er-blant-de-minst-ukjente-dette-er-rett-og-slett-bedrovelig/s/5-8-3146663",
+          "source": "Bergensavisen"
         },
         {
           "title": "(+) Kjersti Toppe: Siste sjanse for politisk overlevelse",
@@ -173,19 +145,13 @@
       "title": "bbc",
       "trafficCount": "500+",
       "pubDate": "Mon, 8 Sep 2025 13:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTf04_1rdzst96_zuJdfRZjujaKiuJDqUPGlkjFFUgDX8DZNFgZUixtiAiKIaw",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6gtvIJqHftOV_8DlgynuQtl6665qUfKeUpnwcxtBseUY-CPNQGIcWQpJrL9U",
+      "pictureSource": "CNN",
       "relatedSearch": [
         {
-          "title": "Nepal: 19 dead in Gen Z protests at corruption and social media ban",
+          "title": "Nepal lifts social media ban that sparked deadly Gen Z protests",
           "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c78nd2zy9jgo",
-          "source": "BBC"
-        },
-        {
-          "title": "Police in Nepal open fire on protesters outside parliament, killing 17",
-          "snippet": "",
-          "url": "https://www.cnn.com/2025/09/08/asia/nepal-social-media-ban-protesters-killed-intl",
+          "url": "https://www.cnn.com/2025/09/08/asia/nepal-social-media-ban-protesters-killed-latam-intl",
           "source": "CNN"
         },
         {
@@ -193,34 +159,12 @@
           "snippet": "",
           "url": "https://www.newsonair.gov.in/nepal-bans-26-unregistered-social-media-sites-including-facebook-whatsapp-instagram/",
           "source": "Newsonair"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "svenneby",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 8 Sep 2025 13:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsTpA-4JNJ0Iq-wgkGuLfEzwrSBQHkH7UmBcld3y3__2PxjsFMtk9ZU7mp39U",
-      "pictureSource": "Dagbladet",
-      "relatedSearch": [
-        {
-          "title": "- Må starte å snakke sant",
-          "snippet": "",
-          "url": "https://borsen.dagbladet.no/nyheter/ma-starte-a-snakke-sant/83563007",
-          "source": "Dagbladet"
         },
         {
-          "title": "Løgn-anklager: –⁠ Bråket gjør det vanskeligere å ha tillit",
+          "title": "Nepal: 19 dead in Gen Z protests at corruption and social media ban",
           "snippet": "",
-          "url": "https://www.vg.no/nyheter/i/4BMz3q/marte-23-synes-anklager-om-loegn-gjoer-stortingsvalget-vanskeligere",
-          "source": "VG"
-        },
-        {
-          "title": "Stikk mot Listhaug",
-          "snippet": "",
-          "url": "https://e24.no/i/zAalRK/stikk-mot-listhaug",
-          "source": "E24"
+          "url": "https://www.bbc.com/news/articles/c78nd2zy9jgo",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -254,9 +198,9 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "kirsti bergstø",
-      "trafficCount": "2000+",
-      "pubDate": "Mon, 8 Sep 2025 13:10:00 -0700",
+      "title": "sosialistisk venstreparti",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 8 Sep 2025 13:20:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQG7XSX3mlFNGwBM9GtsdgJqng3bOvE57ecHONUg0-il873hFnHXbjsB3VdwJw",
       "pictureSource": "NRK",
       "relatedSearch": [
@@ -267,16 +211,72 @@
           "source": "NRK"
         },
         {
+          "title": "(+) – Det er helt utrolig bra. Det er så gøy!",
+          "snippet": "",
+          "url": "https://www.lister24.no/nyheter/i/1MKkVB/lister24s-valgstudio",
+          "source": "lister24.no"
+        },
+        {
           "title": "– Jeg skulle ønske vi hadde en større andel av det",
           "snippet": "",
           "url": "https://www.fosna-folket.no/nyheter/n/qPjOO0/jeg-skulle-oenske-vi-hadde-en-stoerre-andel-av-det",
           "source": "fosna-folket.no"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "kirsti bergstø",
+      "trafficCount": "2000+",
+      "pubDate": "Mon, 8 Sep 2025 13:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnWRgwyAGbUga37yOvZmuFecpWtM2xUAa1Nfaf602vu3siBwm0QpRY9047uLI",
+      "pictureSource": "adressa.no",
+      "relatedSearch": [
+        {
+          "title": "SV: Vil ta oljefondet ut av folkemord",
+          "snippet": "",
+          "url": "https://www.adressa.no/nyheter/innenriks/i/kwlMxj/sv-vil-ta-oljefondet-ut-av-folkemord",
+          "source": "adressa.no"
         },
         {
-          "title": "Følg valget med BT her - SVs Marthe Hammer: – Skuffet",
+          "title": "Vil ha passivt Oljefond: – Mye bråk kunne vært unngått",
           "snippet": "",
-          "url": "https://www.bt.no/i/LMw8w1/?pinnedEntry=320188",
-          "source": "Bergens Tidende"
+          "url": "https://e24.no/boers-og-finans/i/93PvBp/vil-ha-passivt-oljefond-mye-braak-kunne-vaert-unngaatt",
+          "source": "E24"
+        },
+        {
+          "title": "Amerikansk senator ber om å sanksjonere Noreg etter salet av Caterpillar",
+          "snippet": "",
+          "url": "https://www.nrk.no/norge/amerikansk-senator-ber-om-a-sanksjonere-noreg-etter-salet-av-caterpillar-1.17556829",
+          "source": "NRK"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "mimir kristjansson",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 8 Sep 2025 13:00:00 -0700",
+      "picture": "",
+      "pictureSource": "Aftenposten",
+      "relatedSearch": [
+        {
+          "title": "Hvem vinner stortingsvalget 2025? Følg valgdagen her.",
+          "snippet": "",
+          "url": "https://www.aftenposten.no/norge/politikk/i/alm2QA/foelg-valgnatten-her",
+          "source": "Aftenposten"
+        },
+        {
+          "title": "Mímir Kristjánsson har mistet moren sin",
+          "snippet": "",
+          "url": "https://www.vg.no/rampelys/i/JbjQw8/mimir-kristjansson-har-mistet-moren-sin",
+          "source": "VG"
+        },
+        {
+          "title": "Her stemmer Mímir, tre dager etter at moren gikk bort",
+          "snippet": "",
+          "url": "https://www.aftenbladet.no/lokalt/i/B0g08G/her-stemmer-mimir-tre-dager-etter-at-moren-gikk-bort",
+          "source": "Stavanger Aftenblad"
         }
       ],
       "link": "https://imtaqin.id/"

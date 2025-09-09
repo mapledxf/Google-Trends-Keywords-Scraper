@@ -1,6 +1,90 @@
 {
-  "lastUpdate": "2025-09-09 14:10:17",
+  "lastUpdate": "2025-09-09 14:32:00",
   "data": [
+    {
+      "title": "sky news",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 9 Sep 2025 07:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRf85eLbm1R5xBldUZL1TZP5hv9gpSU1TVE-ITsZ6kkTI6bwaMC09pBk6EVhmE",
+      "pictureSource": "Sky News",
+      "relatedSearch": [
+        {
+          "title": "Israel-Hamas latest: IDF launches strikes on group leaders in Doha - as Qatar condemns 'cowardly' attack",
+          "snippet": "",
+          "url": "https://news.sky.com/story/doha-strikes-hamas-latest-israel-idf-qatar-gaza-live-updates-13427415",
+          "source": "Sky News"
+        },
+        {
+          "title": "Greta Thunberg's Gaza flotilla hit by drone, organisers claim",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/cly67g7pdlko",
+          "source": "BBC"
+        },
+        {
+          "title": "Gaza aid flotilla says boat struck by drone at Tunisian port",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/09/09/middleeast/gaza-flotilla-tunisia-drone-strike-intl",
+          "source": "CNN"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "al jazeera",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 9 Sep 2025 07:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqF9UEwXQJ2VxRV8DQyUXwPk5s580C-0l9Xg5LlVGvm1Ps1pITRvNjWMnREUs",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Syria accuses Israel of carrying out air strikes",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c79v1351ello",
+          "source": "BBC"
+        },
+        {
+          "title": "Syria condemns attacks by Israeli warplanes on cities of Homs and Latakia",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/2025/9/9/syrian-government-blasts-attacks-by-israeli-warplanes-on-two-cities-report",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Israeli strike hits near Syrian city of Homs: state media",
+          "snippet": "",
+          "url": "https://www.thehindu.com/incoming/israeli-strike-hits-near-syrian-city-of-homs-state-media/article70028301.ece",
+          "source": "The Hindu"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "qatar airways",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 9 Sep 2025 07:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwv5ZPVfyEe9fpZM-2WJ8F2ZrHf3qI2Vm1f2KPT3ca024_DXErgk5lDeVNePE",
+      "pictureSource": "AeroRoutes",
+      "relatedSearch": [
+        {
+          "title": "Qatar Airways Adds Red Sea Service in 4Q25",
+          "snippet": "",
+          "url": "https://www.aeroroutes.com/eng/250905-qrnw25rsi",
+          "source": "AeroRoutes"
+        },
+        {
+          "title": "Red Sea International Airport unlocks global connection with three weekly Qatar Airways’ flights from Doha",
+          "snippet": "",
+          "url": "https://www.routesonline.com/airports/20374/the-red-sea-international-airport/news/299665075/red-sea-international-airport-unlocks-global-connection-with-three-weekly-qatar-airways-flights-from-doha/",
+          "source": "Routesonline"
+        },
+        {
+          "title": "Qatar Airways Expands its Network with New Red Sea Route to Saudi Arabia, Offering Unmatched Access to Stunning Coastal Destinations",
+          "snippet": "",
+          "url": "https://www.travelandtourworld.com/news/article/qatar-airways-expands-its-network-with-new-red-sea-route-to-saudi-arabia-offering-unmatched-access-to-stunning-coastal-destinations/",
+          "source": "Travel And Tour World"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "doha",
       "trafficCount": "2000+",
@@ -15,16 +99,16 @@
           "source": "BBC"
         },
         {
+          "title": "Several blasts heard in Qatar’s Doha, Israeli media says Hamas leadership targeted",
+          "snippet": "",
+          "url": "https://www.irishtimes.com/world/middle-east/2025/09/09/several-blasts-heard-in-qatars-doha-israeli-media-says-hamas-leadership-targeted/",
+          "source": "The Irish Times"
+        },
+        {
           "title": "Israel carries out attack against Hamas leadership in Qatar, Israeli source says",
           "snippet": "",
           "url": "https://www.cnn.com/2025/09/09/middleeast/qatar-hamas-israel-strike-intl",
           "source": "CNN"
-        },
-        {
-          "title": "LIVE: Israel targets Hamas leadership in attack on Qatar’s Doha",
-          "snippet": "",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/9/live-israel-pounds-gaza-city-as-netanyahu-tells-residents-to-leave-now",
-          "source": "Al Jazeera"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -105,9 +189,9 @@
           "source": "RTE.ie"
         },
         {
-          "title": "Senan Molony: Why Billy Kelleher’s big result signals end is nigh for Micheál Martin as Fianna Fáil leader",
+          "title": "Senan Molony: Why Billy Kelleher’s big result signals end is in sight for Micheál Martin as Fianna Fáil leader",
           "snippet": "",
-          "url": "https://www.independent.ie/irish-news/politics/senan-molony-why-billy-kellehers-big-result-signals-end-is-nigh-for-micheal-martin-as-fianna-fail-leader/a327024317.html",
+          "url": "https://www.independent.ie/irish-news/politics/senan-molony-why-billy-kellehers-big-result-signals-end-is-in-sight-for-micheal-martin-as-fianna-fail-leader/a327024317.html",
           "source": "The Irish Independent"
         }
       ],
@@ -145,7 +229,7 @@
       "title": "apple iphone 17 pro max",
       "trafficCount": "2000+",
       "pubDate": "Tue, 9 Sep 2025 04:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2U9n0rLbDP8BfbX5tgV1KZvMF6osJqkH5Kj6ek7vg4rV8LOEPFhkGpfWvlN0",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSq5XOmJTzPZjf_d0kuHTcyKEatyi4BhmEI1rGKBn2-CiB6NNtYCpeyJrFOXU8",
       "pictureSource": "The Guardian",
       "relatedSearch": [
         {
@@ -189,94 +273,10 @@
           "source": "Time Out Worldwide"
         },
         {
-          "title": "The Weeknd is set to headline Croke Park next summer - how much do you know about him?",
+          "title": "The Weeknd announces concert at Croke Park",
           "snippet": "",
-          "url": "https://www.thejournal.ie/the-weeknd-quiz-6808259-Sep2025/",
-          "source": "The Journal"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "d4vd",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 9 Sep 2025 03:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpQ-0IOYf4T1AiM3IGo5PMvayaQ0jvgDMu9ia-01mEZW-pXPnL8_YnEoZPydA",
-      "pictureSource": "ABC7 Los Angeles",
-      "relatedSearch": [
-        {
-          "title": "Body found inside impounded Tesla that's registered to singer D4vd",
-          "snippet": "",
-          "url": "https://abc7.com/post/human-remains-found-hollywood-impound-lot-foul-odor-reported-lapd-says/17774490/",
-          "source": "ABC7 Los Angeles"
-        },
-        {
-          "title": "Police discover dead body inside car at Hollywood tow yard",
-          "snippet": "",
-          "url": "https://www.cbsnews.com/losangeles/video/police-discover-dead-body-inside-car-at-hollywood-tow-yard/",
-          "source": "CBS News"
-        },
-        {
-          "title": "Decomposing Corpse Discovered In The Trunk Of Tesla Registered To D4VD",
-          "snippet": "",
-          "url": "https://www.hotnewhiphop.com/943535-corpse-discovered-trunk-tesla-d4vd-hip-hop-news",
-          "source": "HotNewHipHop"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "russell crowe",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 9 Sep 2025 02:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyOFKI1QY96Hw8Rx5Tvpx4vvHgDVjkXfzqit9ars9Eze9nO-ojQL5weuYip6o",
-      "pictureSource": "Soap Central",
-      "relatedSearch": [
-        {
-          "title": "Who is Britney Theriot? All about Russel Crowe’s fiance amid rare red carpet appearance",
-          "snippet": "",
-          "url": "https://www.soapcentral.com/entertainment/news-who-britney-theriot-all-russel-crowe-s-fiance-amid-rare-red-carpet-appearance",
-          "source": "Soap Central"
-        },
-        {
-          "title": "Russell Crowe Shows Off Slim Figure as He Makes Rare Red Carpet Appearance With Girlfriend Britney Theriot",
-          "snippet": "",
-          "url": "https://www.aol.com/entertainment/russell-crowe-shows-off-slim-111148637.html",
-          "source": "AOL.com"
-        },
-        {
-          "title": "Russell Crowe and Girlfriend Britney Theriot Make Rare Red Carpet Appearance at Toronto Premiere",
-          "snippet": "",
-          "url": "https://people.com/russell-crowe-britney-theriot-rare-red-carpet-toronto-film-festival-11805328",
-          "source": "People.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ange postecoglou",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 9 Sep 2025 02:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRIjXtLZarDkKe_WuWZ4OiuWsQQVhnJX7hUfCoKegs3APr7mJ425pSKkspgMM",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Nottingham Forest: Ange Postecoglou appointed manager",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/articles/cvgq6495gd6o",
-          "source": "BBC"
-        },
-        {
-          "title": "Ange Postecoglou appointed Nottingham Forest head coach after Nuno’s sacking",
-          "snippet": "",
-          "url": "https://www.theguardian.com/football/2025/sep/09/ange-postecoglou-appointed-nottingham-forest-head-coach-after-nuno-sacked",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Nuno Espirito Santo sacked by Nottingham Forest after falling out with Ange Postecoglou favourite to take over",
-          "snippet": "",
-          "url": "https://www.independent.ie/sport/soccer/premier-league/nuno-espirito-santo-sacked-by-nottingham-forest-after-falling-out-with-ange-postecoglou-favourite-to-take-over/a966336764.html",
-          "source": "The Irish Independent"
+          "url": "https://www.meathchronicle.ie/2025/09/04/the-weeknd-announces-concert-at-croke-park-2/",
+          "source": "Meath Chronicle"
         }
       ],
       "link": "https://imtaqin.id/"

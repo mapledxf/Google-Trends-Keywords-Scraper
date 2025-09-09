@@ -1,37 +1,205 @@
 {
-  "lastUpdate": "2025-09-09 17:12:31",
+  "lastUpdate": "2025-09-09 17:29:29",
   "data": [
     {
-      "title": "apple",
+      "title": "breaking news",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 9 Sep 2025 10:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOFbB2yJgTAstfVHEzrTSwi06sK8D9w25V7SK7N6RoYLc7hCQ_yy8OjCiTkB4",
+      "pictureSource": "CNBC",
+      "relatedSearch": [
+        {
+          "title": "JPMorgan CEO Jamie Dimon says the economy 'is weakening'",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/09/09/jpmorgan-jamie-dimon-economy.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Job market cracks are bigger than they originally looked",
+          "snippet": "",
+          "url": "https://www.axios.com/2025/09/09/trump-jobs-report-revisions",
+          "source": "Axios"
+        },
+        {
+          "title": "BLS revision shows hiring was overstated by 911,000 jobs in past year",
+          "snippet": "",
+          "url": "https://www.npr.org/2025/09/09/nx-s1-5527000/bls-us-job-growth-numbers-revised",
+          "source": "NPR"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "nba",
       "trafficCount": "100+",
+      "pubDate": "Tue, 9 Sep 2025 10:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGTrMrdGxNoROCJe3mB2dkHvYqpOafYr6cqCCoUBrHwbAadZyvaGrqelDOWuo",
+      "pictureSource": "Yahoo Sports",
+      "relatedSearch": [
+        {
+          "title": "Fantasy Basketball 2025-26: NBA offseason moves you might've missed, EuroBasket observations and more",
+          "snippet": "",
+          "url": "https://sports.yahoo.com/fantasy/article/fantasy-basketball-2025-26-nba-offseason-moves-you-mightve-missed-eurobasket-observations-and-more-190232826.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "2025-26 Fantasy Basketball Dynasty Rankings: Round 9",
+          "snippet": "",
+          "url": "https://lastwordonsports.com/basketball/2025/08/31/2025-26-fantasy-basketball-dynasty-rankings-round-9/",
+          "source": "Last Word On Sports"
+        },
+        {
+          "title": "Fantasy Basketball’s Elite Multi-Cat Players Ranked | Draft Smarter in 2025",
+          "snippet": "",
+          "url": "https://www.firstcoastnews.com/video/sports/locked-on/lo-national/fantasy-basketball-show/fantasy-basketballs-elite-multi-cat-players-ranked-draft-smarter-in-2025/535-08654525-8c9d-49e3-98ab-1a92c73a10e4",
+          "source": "firstcoastnews.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "bitcoin",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 9 Sep 2025 10:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw-c_fu7cYKWZOcFJbr6jLMIM5lro1npA4u040Lw2YwHvcGngonN72I4aqwqM",
+      "pictureSource": "CoinDesk",
+      "relatedSearch": [
+        {
+          "title": "Bitcoin (BTC) Doesn’t Cheer Fed Cut Bets. What Next?",
+          "snippet": "",
+          "url": "https://www.coindesk.com/markets/2025/09/06/bitcoin-doesn-t-cheer-fed-cut-bets-what-next",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "3 Things That Could Influence Crypto Markets in Big Week for Inflation Data",
+          "snippet": "",
+          "url": "https://cryptopotato.com/3-things-that-could-influence-crypto-markets-in-big-week-for-inflation-data/",
+          "source": "CryptoPotato"
+        },
+        {
+          "title": "Analysts Anticipate Cryptocurrency Market Volatility Ahead of US Economic Data Release",
+          "snippet": "",
+          "url": "https://forklog.com/en/analysts-anticipate-cryptocurrency-market-volatility-ahead-of-us-economic-data-release/",
+          "source": "ForkLog"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tesla",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 9 Sep 2025 10:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpQ-0IOYf4T1AiM3IGo5PMvayaQ0jvgDMu9ia-01mEZW-pXPnL8_YnEoZPydA",
+      "pictureSource": "ABC7 Los Angeles",
+      "relatedSearch": [
+        {
+          "title": "Body found inside impounded Tesla that's registered to singer D4vd",
+          "snippet": "",
+          "url": "https://abc7.com/post/human-remains-found-hollywood-impound-lot-foul-odor-reported-lapd-says/17774490/",
+          "source": "ABC7 Los Angeles"
+        },
+        {
+          "title": "Singer D4vd’s Tesla found in LA impound lot with putrid, plastic-wrapped body inside",
+          "snippet": "",
+          "url": "https://nypost.com/2025/09/09/us-news/dead-body-found-inside-singer-d4vds-abandoned-tesla/",
+          "source": "New York Post"
+        },
+        {
+          "title": "Body found in bag inside impounded car at LA tow yard",
+          "snippet": "",
+          "url": "https://www.nbclosangeles.com/news/local/body-in-trunk-hollywood-tow-yard/3775492/",
+          "source": "NBC Los Angeles"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "jobs",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 9 Sep 2025 10:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-KX7U6byo0BII5RLTww67zSfkCw__uruHSqMyr4DaR0J3ES4zcsoRiGZIcs4",
+      "pictureSource": "The Star, Kenya",
+      "relatedSearch": [
+        {
+          "title": "Kwale County announces 41 job vacancies in health department",
+          "snippet": "",
+          "url": "https://www.the-star.co.ke/news/2025-09-09-kwale-county-announces-41-job-vacancies",
+          "source": "The Star, Kenya"
+        },
+        {
+          "title": "Job growth revised down by 911,000 through March, signaling economy on shakier footing than realized",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/09/09/jobs-report-revisions-september-2025-.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Nonfarm Payrolls benchmark revision points to 911,000 decrease in March 2025",
+          "snippet": "",
+          "url": "https://www.fxstreet.com/news/will-nonfarm-payrolls-revisions-hint-at-a-50-bps-fed-cut-next-week-202509081244",
+          "source": "FXStreet"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "iphone",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 9 Sep 2025 10:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-JBwstsQ5iho8MT12EOcr9JO-LXBSMjv5Fe4RgHNj7ESMPznJxQxquZrqga8",
+      "pictureSource": "CNBC",
+      "relatedSearch": [
+        {
+          "title": "Apple event live updates: iPhone 17 launch kicks off",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/09/09/live-updates-apple-event-iphone17-airpods-ios26.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Apple event 2025 live – get all the iPhone 17, AirPods Pro 3 and Apple Watch 11 news as it happens",
+          "snippet": "",
+          "url": "https://www.techradar.com/phones/live/apple-event-2025-live-get-all-the-iphone-17-airpods-pro-3-and-apple-watch-11-news-as-it-happens",
+          "source": "TechRadar"
+        },
+        {
+          "title": "Live: Apple iPhone and Product Event",
+          "snippet": "",
+          "url": "https://www.bloomberg.com/news/live-blog/2025-09-09/apple-s-iphone-17-introduction",
+          "source": "Bloomberg.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "apple",
+      "trafficCount": "200+",
       "pubDate": "Tue, 9 Sep 2025 09:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8hi4IMi5O2a-hqYTqgWOr5zbOZYFLrkgbTCRM645uXGB2ygvdJ83DhO6XuZw",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9Wj_tXuhMy0__2eWcQwUYYG3Fh9sgll-YbezYWIFIMDN7nUYTt3HfeSzBaJw",
       "pictureSource": "Bloomberg.com",
       "relatedSearch": [
         {
-          "title": "Everything Apple Plans to Show at Tuesday’s ‘Awe Dropping’ iPhone 17 Event",
+          "title": "Live: Apple iPhone and Product Event",
           "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2025-09-05/what-apple-is-planning-to-introduce-at-sept-9-awe-dropping-iphone-17-event",
+          "url": "https://www.bloomberg.com/news/live-blog/2025-09-09/apple-s-iphone-17-introduction",
           "source": "Bloomberg.com"
         },
         {
-          "title": "Apple’s biggest announcement of the year is happening today. Here’s what to expect",
+          "title": "Rumor: AirPods Pro 3 features may not all arrive at launch",
           "snippet": "",
-          "url": "https://www.cnn.com/2025/09/09/tech/new-apple-devices-announcement-event",
-          "source": "CNN"
+          "url": "https://9to5mac.com/2025/09/01/airpods-pro-3-sensors-live-translation/",
+          "source": "9to5Mac"
         },
         {
-          "title": "All iPhone 17 and iPhone 17 Pro Battery Capacities Allegedly Leaked",
+          "title": "New AirPods Pro tomorrow? These 3 features would be so worth upgrading for",
           "snippet": "",
-          "url": "https://www.macrumors.com/2025/09/08/iphone-17-battery-capacities-allegedly-leaked/",
-          "source": "MacRumors"
+          "url": "https://www.zdnet.com/article/new-airpods-pro-tomorrow-these-3-features-would-be-so-worth-upgrading-for/",
+          "source": "ZDNET"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "movies",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 9 Sep 2025 09:50:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQN206AMSolf-GA9EKXWglOracCisD7QW_y1KalvRGmN9dBfdqx-d-4JkuUvLM",
       "pictureSource": "Yahoo Entertainment",
@@ -58,17 +226,45 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "microsoft",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 9 Sep 2025 09:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2UsBHB2dLIlNyg7gh7KBRrVD-G6rYFQJyXpcZg3CxY0X3Y0ZAL0ONWCPrpd8",
+      "pictureSource": "CNBC",
+      "relatedSearch": [
+        {
+          "title": "Nebius shares soar 40% on Microsoft AI deal",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/09/09/nebius-nbis-soars-after-ai-infrastructure-deal-with-microsoft-msft.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Social Buzz: Wallstreetbets Stocks Mixed Premarket Tuesday; Nebius to Rise, Planet Labs to Fall",
+          "snippet": "",
+          "url": "https://www.marketscreener.com/news/social-buzz-wallstreetbets-stocks-mixed-premarket-tuesday-nebius-to-rise-planet-labs-to-fall-ce7d59dfdf8ff723",
+          "source": "MarketScreener"
+        },
+        {
+          "title": "Why Nebius Group Stock Went to the Moon Today",
+          "snippet": "",
+          "url": "https://finance.yahoo.com/news/why-nebius-group-stock-went-143011768.html",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "news",
       "trafficCount": "100+",
       "pubDate": "Tue, 9 Sep 2025 09:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKPcUYCGjhF8WP4WEWzOTDunFnfdsPXGZcf5WWzCDhNZvmkfBKP64lnUexx7s",
-      "pictureSource": "the-star.co.ke",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9dZwglZbSQp_y-hPT5KebqyO66NtRm-_tKD_6wskler-8m5KJEBvI_wAzj6U",
+      "pictureSource": "The Star, Kenya",
       "relatedSearch": [
         {
           "title": "News Brief: Wash wash; How Juba dirty cash is laundered in Kenya",
           "snippet": "",
           "url": "https://www.the-star.co.ke/news/2025-09-08-briefs-how-juba-dirty-cash-is-laundered-in-kenya",
-          "source": "the-star.co.ke"
+          "source": "The Star, Kenya"
         },
         {
           "title": "Wash wash paradise: How Juba’s dirty cash is laundered in Kenya",
@@ -77,206 +273,10 @@
           "source": "The Star, Kenya"
         },
         {
-          "title": "LIVE: Hamas leadership survives Israeli attack on Qatar’s Doha – official",
+          "title": "Israel carries out strike on senior Hamas leaders in Qatari capital",
           "snippet": "",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/9/live-israel-pounds-gaza-city-as-netanyahu-tells-residents-to-leave-now",
-          "source": "Al Jazeera"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "microsoft",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 9 Sep 2025 09:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8wIfLfNa12T6SMGnf9oNQ7iYh7pF6NWTth4sIFsRa7rdxY5O8FOIvTGE5KGI",
-      "pictureSource": "The Verge",
-      "relatedSearch": [
-        {
-          "title": "Microsoft mandates a return to office",
-          "snippet": "",
-          "url": "https://www.theverge.com/report/774414/microsoft-return-to-office-policy-announcement",
-          "source": "The Verge"
-        },
-        {
-          "title": "Microsoft sets new RTO policy, requiring employees in the office 3 days per week",
-          "snippet": "",
-          "url": "https://www.geekwire.com/2025/microsoft-sets-new-rto-policy-requiring-employees-in-the-office-3-days-per-week/",
-          "source": "GeekWire"
-        },
-        {
-          "title": "Microsoft calls Seattle-area workers back to the office",
-          "snippet": "",
-          "url": "https://www.seattletimes.com/business/microsoft-issues-return-to-office-mandate-for-seattle-area-workers/",
-          "source": "The Seattle Times"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "cape verde vs cameroon",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 9 Sep 2025 08:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzR7pUsBZbgmNBMcNJY8WMLLfK3kVs0NzZVFqzPYdYvKDNa1Sdx7HkwbfD55w",
-      "pictureSource": "VAVEL.com",
-      "relatedSearch": [
-        {
-          "title": "Cape Verde vs Cameroon LIVE Score Updates: Halftime (0-0)",
-          "snippet": "",
-          "url": "https://www.vavel.com/en-us/soccer/2025/09/09/1232915-cape-verde-vs-cameroon-live-score-2026-qualifiers.html",
-          "source": "VAVEL.com"
-        },
-        {
-          "title": "Cape Verde islanders win to stay on course for World Cup debut",
-          "snippet": "",
-          "url": "https://www.rfi.fr/en/sports/20250904-cape-verde-islanders-win-to-stay-on-course-for-world-cup-debut",
-          "source": "RFI"
-        },
-        {
-          "title": "Cameroon eliminated from the 2026 World Cup?",
-          "snippet": "",
-          "url": "https://frenchfootballweekly.com/2025/09/09/cameroon-eliminated-from-the-2026-world-cup/",
-          "source": "French Football Weekly"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "dr congo vs senegal",
-      "trafficCount": "5000+",
-      "pubDate": "Tue, 9 Sep 2025 08:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSv6ljX6d_X0fZi5-ejtvGT6vEMijZN-3M7sBXNwLfOt-a793od-Fgv-k4JMI",
-      "pictureSource": "Sports Mole",
-      "relatedSearch": [
-        {
-          "title": "Preview: Congo DR vs Senegal - prediction, team news, lineups",
-          "snippet": "",
-          "url": "https://www.sportsmole.co.uk/football/congo-dr/world-cup/preview/congo-dr-vs-senegal-prediction-team-news-lineups_581025.html",
-          "source": "Sports Mole"
-        },
-        {
-          "title": "How to watch today's DR Congo vs Senegal World Cup qualification game: Live stream, TV channel, and start time",
-          "snippet": "",
-          "url": "https://www.goal.com/en-us/news/watch-congo-vs-senegal-world-cup-qualification-live-stream-tv/blt3ed75ac03f3c0e7d",
-          "source": "Goal.com"
-        },
-        {
-          "title": "Lions of Teranga: Niakhaté injured, Seyni Mbaye Ndiaye called up as reinforcement against DR Congo",
-          "snippet": "",
-          "url": "https://onefootball.com/en/news/lions-of-teranga-niakhate-injured-seyni-mbaye-ndiaye-called-up-as-reinforcement-against-dr-congo-41626909",
-          "source": "OneFootball"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "togo vs sudan",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 9 Sep 2025 08:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVi7mvXb7EPjcKPLAsDktqRXrmelCp0jBKVs2VRUT4HChjsTRu7Z_vsFHnZ6I",
-      "pictureSource": "Yahoo Canada Sports",
-      "relatedSearch": [
-        {
-          "title": "Sudan Strengthen Squad With Star Duo Back for Togo Decider",
-          "snippet": "",
-          "url": "https://ca.sports.yahoo.com/news/sudan-strengthen-squad-star-duo-173500127.html",
-          "source": "Yahoo Canada Sports"
-        },
-        {
-          "title": "World Cup 2026 qualifiers – Togo vs Sudan: date, time, TV channels and head-to-head history",
-          "snippet": "",
-          "url": "https://foot-africa.com/en/news/world-cup-2026-qualifiers-togo-vs-sudan-date-time-tv-channels-and-head-to-head-history-871263/",
-          "source": "Foot Africa"
-        },
-        {
-          "title": "FIFA World Cup FIFAWCQ:Togo and Sudan confirmed lineup",
-          "snippet": "",
-          "url": "https://en.africatopsports.com/2025/09/09/fifawcqtogo-and-sudan-confirmed-lineup/",
-          "source": "Africa Top Sports"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "burkina faso vs egypt",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 9 Sep 2025 08:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMdhd_Y02rDfaa2Y5bQyU4eJvKb6Lm3crpxVwA2ro1J-ZEPJH3nLxp5ZQaSRQ",
-      "pictureSource": "SuperSport",
-      "relatedSearch": [
-        {
-          "title": "Salah-inspired Egypt can seal World Cup slot by beating Burkina Faso",
-          "snippet": "",
-          "url": "https://supersport.com/football/wc-qualification-africa/news/e869a248-53cd-4ead-ae75-f9ae191eb141/salah-inspired-egypt-can-seal-world-cup-slot-by-beating-burkina-faso",
-          "source": "SuperSport"
-        },
-        {
-          "title": "Burkina Faso vs Egypt LIVE Score Updates: Balanced match (0-0)",
-          "snippet": "",
-          "url": "https://www.vavel.com/en-us/soccer/2025/09/09/1233219-burkina-faso-vs-egypt-live-score-2026-qualifiers.html",
-          "source": "VAVEL.com"
-        },
-        {
-          "title": "Worry for Marmoush, taken off with a knee injury 🚑",
-          "snippet": "",
-          "url": "https://ca.sports.yahoo.com/news/worry-marmoush-taken-off-knee-163900845.html",
-          "source": "Yahoo Canada Sports"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "armenia vs ireland",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 9 Sep 2025 08:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0rd0z0ovyRb0GDlTBd_1x9ndRILjSk4jL6nN3R0L7xnvcMMVAlDJ1ov5Q_1w",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "World Cup Qualifiers: Armenia v Republic of Ireland in Group F - text updates",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cy85x8g3v7et",
+          "url": "https://www.bbc.com/news/live/c78m71vl91vt",
           "source": "BBC"
-        },
-        {
-          "title": "Armenia vs Ireland predictions, team news, betting tips, odds and Bet Builder",
-          "snippet": "",
-          "url": "https://www.racingpost.com/sport/football-tips/world-cup/armenia-vs-ireland-predictions-team-news-betting-tips-odds-and-bet-builder-aTHCu6N2p30F/",
-          "source": "Racing Post"
-        },
-        {
-          "title": "Football Daily | 'Really good effort, really good character...' Heimir exudes positivity in Yerevan, the North come up short and is Guéhi going to get a January move?",
-          "snippet": "",
-          "url": "https://www.offtheball.com/podcasts/otb-football/football-daily-really-good-effort-really-good-character-heimir-exudes-positivity-in-yerevan-the-north-come-up-short-and-is-guehi-going-to-get-a-january-move",
-          "source": "OffTheBall"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "azerbaijan vs ukraine",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 9 Sep 2025 08:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Azerbaijan vs Ukraine: UEFA World Cup Qualifiers stats & head-to-head",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cvg43gnj4ykt",
-          "source": "BBC"
-        },
-        {
-          "title": "Preview: Azerbaijan vs Ukraine - prediction, team news, lineups",
-          "snippet": "",
-          "url": "https://www.sportsmole.co.uk/football/azerbaijan/world-cup/preview/azerbaijan-vs-ukraine-prediction-team-news-lineups_580995.html",
-          "source": "Sports Mole"
-        },
-        {
-          "title": "Press conference. Azerbaijan national team coach Eyubov: \"I believe we have the strength and quality to show a good game against",
-          "snippet": "",
-          "url": "https://dynamo.kiev.ua/en/news/694627-press-conference-azerbaijan-national-team-coach-eyubov-i-believe-we-have-the-strength-and-quality-to-show-a-good-game-against",
-          "source": "Динамо Киев от Шурика"
         }
       ],
       "link": "https://imtaqin.id/"

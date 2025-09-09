@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-09 02:36:54",
+  "lastUpdate": "2025-09-09 03:22:59",
   "data": [
     {
       "title": "smartone",
@@ -40,7 +40,7 @@
     },
     {
       "title": "typhoon signal no. 8",
-      "trafficCount": "1000+",
+      "trafficCount": "100+",
       "pubDate": "Mon, 8 Sep 2025 18:20:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8Ysg0nfOIAwS43qszwZi6tHVubay1kTOu3SEyF7aJCRZQPYHxGhE39O_xW5Y",
       "pictureSource": "South China Morning Post",
@@ -95,8 +95,36 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "classroom",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 8 Sep 2025 17:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQZNsCAn6siWbbrDHsvEVi8S_-NPHQSTizFhGQA6v7grHVC518GZsH7wbqgio",
+      "pictureSource": "WTVG",
+      "relatedSearch": [
+        {
+          "title": "$20,000 in grants available for area teachers to purchase school supplies",
+          "snippet": "",
+          "url": "https://www.13abc.com/2025/09/03/20000-grants-available-area-teachers-purchase-school-supplies/",
+          "source": "WTVG"
+        },
+        {
+          "title": "Credit union offering K-12 teachers classroom grants of up to $500",
+          "snippet": "",
+          "url": "https://www.toledoblade.com/local/education/2025/09/08/credit-union-offering-k-12-teachers-classroom-grants-of-up-to-500/stories/20250907044",
+          "source": "Toledo Blade"
+        },
+        {
+          "title": "Shen school district explores therapeutic classroom program",
+          "snippet": "",
+          "url": "https://www.kmaland.com/news/shen-school-district-explores-therapeutic-classroom-program/article_12a1c8cc-323b-4bab-95ed-3a6c1889deb9.html",
+          "source": "KMAland.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "即時交通消息",
-      "trafficCount": "10000+",
+      "trafficCount": "5000+",
       "pubDate": "Mon, 8 Sep 2025 17:30:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP__8NIq7qsKY020E3S4htaK4uRBJTWi-7m0nzMM0kSOdShaN7GqFLZ4ERiPU",
       "pictureSource": "Hong Kong Observatory",
@@ -118,34 +146,6 @@
           "snippet": "",
           "url": "https://news.tvb.com/tc/local/68ba65793e8e1a2fb694ad31/%E6%B8%AF%E6%BE%B3-%E9%A2%A8%E6%9A%B4%E5%A1%94%E5%B7%B4%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0%EF%BD%9C%E6%89%80%E6%9C%89%E7%86%B1%E5%B8%B6%E6%B0%A3%E6%97%8B%E8%AD%A6%E5%91%8A%E4%BF%A1%E8%99%9F%E5%8F%96%E6%B6%88-%E6%96%99%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8%E5%8F%8A%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4",
           "source": "news.tvb.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "classroom",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 8 Sep 2025 17:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtw5g0rTTvANu_sqx5ZTpg3VM-ZeZC4nca2cTx2pIzJL0puVYhvFNQ2Cebq7Q",
-      "pictureSource": "WCVB",
-      "relatedSearch": [
-        {
-          "title": "Mass. school district embraces AI to help students learn responsibly",
-          "snippet": "",
-          "url": "https://www.wcvb.com/article/mendon-upton-schools-artificial-intelligence-to-help-students-learn-responsibly/65990954",
-          "source": "WCVB"
-        },
-        {
-          "title": "Back to School: Artificial intelligence usage in schools",
-          "snippet": "",
-          "url": "https://whdh.com/news/back-to-school-artificial-intelligence-usage-in-schools/",
-          "source": "WHDH"
-        },
-        {
-          "title": "AI in schools: Perspective from a Minnesota teacher turned AI education consultant",
-          "snippet": "",
-          "url": "https://www.mprnews.org/episode/2025/09/08/ai-in-schools-perspective-from-a-minnesota-teacher-turned-ai-education-consultant",
-          "source": "MPR News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -220,16 +220,16 @@
           "source": "奇摩運動"
         },
         {
-          "title": "白俄羅斯0-2蘇格蘭",
-          "snippet": "",
-          "url": "https://citytimes.tw/%E9%81%8B%E5%8B%95%E7%9A%84/%E7%99%BD%E4%BF%84%E7%BE%85%E6%96%AF0-2%E8%98%87%E6%A0%BC%E8%98%AD/100077/",
-          "source": "市民時報"
-        },
-        {
           "title": "足球智庫／丹麥近年客場戰績不佳 看好希臘世界盃資格賽2連勝",
           "snippet": "",
           "url": "https://gogoal.com.tw/archives/69177",
           "source": "GoGoal 勁球網"
+        },
+        {
+          "title": "世盃外｜守勢風格已除 希臘力足「主勝」",
+          "snippet": "",
+          "url": "https://www.stheadline.com/football-betting/3496501/%E4%B8%96%E7%9B%83%E5%A4%96%E5%AE%88%E5%8B%A2%E9%A2%A8%E6%A0%BC%E5%B7%B2%E9%99%A4-%E5%B8%8C%E8%87%98%E5%8A%9B%E8%B6%B3%E4%B8%BB%E5%8B%9D",
+          "source": "星島頭條"
         }
       ],
       "link": "https://imtaqin.id/"

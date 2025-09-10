@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-09-10 17:00:57",
+  "lastUpdate": "2025-09-10 17:20:31",
   "data": [
+    {
+      "title": "strasbourg",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 10 Sep 2025 10:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4fZ51VTC-4YfsINfKKqR_GdcYxGJafQ6rmo0Zh_bBfp_asQyRgfmvRmqkfQc",
+      "pictureSource": "BFMTV",
+      "relatedSearch": [
+        {
+          "title": "DIRECT. 10 septembre: 175.000 participants et 262 blocages dans tout le pays",
+          "snippet": "",
+          "url": "https://www.bfmtv.com/societe/manifestations/direct-10-septembre-blocages-transports-manifestations-suivez-le-mouvement-bloquons-tout-a-paris-lyon-marseille_LN-202509100070.html",
+          "source": "BFMTV"
+        },
+        {
+          "title": "« Bloquons tout » : tentative de portrait-robot d’un mouvement nébuleux",
+          "snippet": "",
+          "url": "https://www.jean-jaures.org/publication/bloquons-tout-tentative-de-portrait-robot-dun-mouvement-nebuleux/",
+          "source": "Fondation Jean-Jaurès"
+        },
+        {
+          "title": "EN DIRECT - Blocages du 10 septembre dans le Puy-de-Dôme : des tensions entre manifestants et forces de l'ordre à Clermont",
+          "snippet": "",
+          "url": "https://www.lamontagne.fr/clermont-ferrand-63000/actualites/blocages-du-10-septembre-de-premieres-actions-dans-le-puy-de-dome-circulation-perturbee-a-riom-et-clermont_14746316/",
+          "source": "La Montagne"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "larry ellison",
       "trafficCount": "1000+",
@@ -21,10 +49,38 @@
           "source": "CNN"
         },
         {
-          "title": "Larry Ellison overtakes Elon Musk to become world’s richest person",
+          "title": "Larry Ellison dislodges Elon Musk as world’s richest person",
           "snippet": "",
-          "url": "https://www.ft.com/content/d467e51e-8e03-4390-9f91-6874bd48a7f2",
-          "source": "Financial Times"
+          "url": "https://www.theguardian.com/technology/2025/sep/10/larry-ellison-dislodges-elon-musk-as-worlds-richest-person",
+          "source": "The Guardian"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "oracle",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 10 Sep 2025 08:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcCY0kR3bSh9oQsuDSALwHoOi3EmN85jRHKTXvUDAG1kFVAQA1S4UTBhWXb0Y",
+      "pictureSource": "CNBC",
+      "relatedSearch": [
+        {
+          "title": "Oracle stock booms 40%, on pace for best day since 1992",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/09/10/oracle-stock-cloud-backlog-ai.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Oracle stock soars after CEO says AI-fueled cloud revenue set to jump to $144 billion",
+          "snippet": "",
+          "url": "https://finance.yahoo.com/news/oracle-stock-soars-after-ceo-says-ai-fueled-cloud-revenue-set-to-jump-to-144-billion-154530523.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Oracle Sets the Date for its First Quarter Fiscal Year 2026 Earnings Announcement",
+          "snippet": "",
+          "url": "https://investor.oracle.com/investor-news/news-details/2025/Oracle-Sets-the-Date-for-its-First-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx",
+          "source": "Oracle - Investor Relations"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -43,16 +99,16 @@
           "source": "Digi24"
         },
         {
-          "title": "Tragedie lângă Baia Mare: Un bărbat și fiul său de 14 ani au murit după ce mașina lor s-a izbit de un TIR",
-          "snippet": "",
-          "url": "https://adevarul.ro/stiri-locale/baia-mare/tragedie-langa-baia-mare-un-barbat-si-fiul-sau-de-2471081.html",
-          "source": "Adevarul"
-        },
-        {
           "title": "Un poliţist şi fiul său au murit într-un accident de maşină îngrozitor, pe DN 1C, în Maramureș....",
           "snippet": "",
           "url": "https://www.antena3.ro/actualitate/locale/un-politist-si-fiul-sau-au-murit-intr-un-accident-de-masina-ingrozitor-pe-dn-1c-in-maramures-cum-s-a-intamplat-tragedia-759151.html",
           "source": "Antena 3 CNN"
+        },
+        {
+          "title": "Tragedie lângă Baia Mare: Un bărbat și fiul său de 14 ani au murit după ce mașina lor s-a izbit de un TIR",
+          "snippet": "",
+          "url": "https://adevarul.ro/stiri-locale/baia-mare/tragedie-langa-baia-mare-un-barbat-si-fiul-sau-de-2471081.html",
+          "source": "Adevarul"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -87,11 +143,17 @@
     },
     {
       "title": "uae vs india",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 10 Sep 2025 08:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRn34tQs6dTumo7ncRqBg-cepVdveL32jfWULuciYPQxA6OxSI_M8TZRIrCKQ8",
-      "pictureSource": "The Hindu",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMNCGM8qFabg2DBWldT7VY_NAa-SvthhgmrLOBqALRY7nzwbzxiapa8KgqpSc",
+      "pictureSource": "NDTV Sports",
       "relatedSearch": [
+        {
+          "title": "India vs UAE LIVE Streaming, Asia Cup 2025 LIVE Telecast: When And Where To Watch",
+          "snippet": "",
+          "url": "https://sports.ndtv.com/asia-cup-2025/india-vs-uae-live-streaming-asia-cup-2025-live-telecast-when-and-where-to-watch-9251579",
+          "source": "NDTV Sports"
+        },
         {
           "title": "Asia Cup 2025 Twenty20 tournament: the continental rivalry kicks off on September 9",
           "snippet": "",
@@ -103,12 +165,6 @@
           "snippet": "",
           "url": "https://www.espncricinfo.com/series/men-s-t20-asia-cup-2025-1496919/united-arab-emirates-vs-india-2nd-match-group-a-1496921/match-preview",
           "source": "ESPNcricinfo"
-        },
-        {
-          "title": "Explained: Why The 2025 Asia Cup Is Taking Place In UAE Despite India Being The Hosts",
-          "snippet": "",
-          "url": "https://www.timesnownews.com/sports/cricket/explained-why-the-2025-asia-cup-is-taking-place-in-uae-despite-india-being-the-hosts-article-152746752",
-          "source": "Times Now"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,26 +173,26 @@
       "title": "betano",
       "trafficCount": "2000+",
       "pubDate": "Wed, 10 Sep 2025 07:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2mmyMArUCJBnvO8d_oHoQ1jnMS0VBCWvV4dQ1HpuqPA9hKnZnrqN-aJeCqfY",
-      "pictureSource": "Portugal Resident",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaV5D_jpxZ8Pzwu8rGH3JAce6bnFnH-pJGS4ROW5oM5wR4hCmXyxsqbmWbmvc",
+      "pictureSource": "SBC News",
       "relatedSearch": [
         {
-          "title": "Football legends to face off in charity match in Lisbon",
+          "title": "Betano Powers Legends Charity Match As Football Icons Unite In Portugal",
           "snippet": "",
-          "url": "https://www.portugalresident.com/football-legends-to-face-off-in-charity-match-in-lisbon/",
-          "source": "Portugal Resident"
+          "url": "https://sbcnews.co.uk/featurednews/2025/09/10/betano-legends-charity-match/",
+          "source": "SBC News"
         },
         {
-          "title": "Flashscore named strategic partner of Legends Charity Game",
+          "title": "Flashscore Named Strategic Partner of Legends Charity Game",
           "snippet": "",
-          "url": "https://europeangaming.eu/portal/latest-news/2025/09/09/191120/flashscore-named-strategic-partner-of-legends-charity-game/",
-          "source": "European Gaming Industry News"
+          "url": "https://igamingfuture.com/flashscore-named-strategic-partner-of-legends-charity-game/",
+          "source": "iGamingFuture"
         },
         {
-          "title": "Football Icons Unite in Portugal: Betano Powers Legends Charity Match",
+          "title": "Football Stars Unite in Lisbon: Alea Drives iGaming's Commitment to Social Responsibility at Legends",
           "snippet": "",
-          "url": "https://www.igamingtoday.com/football-icons-unite-in-portugal-betano-powers-legends-charity-match/",
-          "source": "iGaming Today"
+          "url": "https://igamingexpert.com/regions/europe/football-stars-unite-lisbon-alea-legends-charity-game/",
+          "source": "iGaming Expert"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,26 +229,26 @@
       "title": "charlie sheen",
       "trafficCount": "100+",
       "pubDate": "Wed, 10 Sep 2025 07:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTj4nPeGBQ0xlupCx1S7oknAtpwP1gyptm-8bH8jRVkfXXIoUl27Fp_i0Pb_vE",
-      "pictureSource": "Yahoo Entertainment",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTQJkLSfnWxicp_qmYyyEWHlJCLnMB9pK3LhmYZk7nKyeZNKo2lbleLw1trSs",
+      "pictureSource": "People.com",
       "relatedSearch": [
         {
-          "title": "Charlie Sheen Breaks Down What Really Happened in 1st Marriage to Ex Donna Peele",
+          "title": "Charlie Sheen Says Having Dad Martin Sheen Turn Him in After Violating Probation Felt Like 'Biggest Betrayal'",
           "snippet": "",
-          "url": "https://www.yahoo.com/entertainment/celebrity/articles/charlie-sheen-breaks-down-really-205011930.html",
-          "source": "Yahoo Entertainment"
+          "url": "https://people.com/charlie-sheen-calls-dad-martin-sheen-turning-him-in-amid-probation-the-biggest-betrayal-11806488",
+          "source": "People.com"
         },
         {
-          "title": "Meet Charlie Sheen's three former wives: Donna Peele, Denise Richards and Brooke Mueller",
+          "title": "Who is Charlie Sheen’s mom Janet Templeton? All about parents as actor opens up about dad Martin Sheen’s biggest betrayal",
           "snippet": "",
-          "url": "https://www.livemint.com/us/hollywood/meet-charlie-sheens-three-former-wives-donna-peele-denise-richards-and-brooke-mueller-11757516334214.html",
-          "source": "Mint"
+          "url": "https://www.soapcentral.com/entertainment/news-who-charlie-sheen-s-mom-janet-templeton-all-parents-actor-opens-dad-martin-sheen-s-biggest-betrayal",
+          "source": "Soap Central"
         },
         {
-          "title": "Meet Charlie Sheen's five kids with three different wives",
+          "title": "'View' star Joy Behar slams Martin Sheen for turning son Charlie Sheen in over addiction",
           "snippet": "",
-          "url": "https://www.hellomagazine.com/celebrities/855016/meet-charlie-sheens-five-kids-with-three-different-wives/",
-          "source": "HELLO! Magazine"
+          "url": "https://ew.com/the-view-joy-behar-slams-martin-sheen-reporting-charlie-sheen-11807190",
+          "source": "Entertainment Weekly"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -204,62 +260,6 @@
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "cutremur grecia atena",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 10 Sep 2025 07:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6u6tvte66mT6frzEjBOT7Od_qWtU88aOZGTmnx-28ZHQ3-GLR9uiW4eDWKxY",
-      "pictureSource": "Agerpres",
-      "relatedSearch": [
-        {
-          "title": "Seism de magnitudine 5,3, resimțit puternic la Atena",
-          "snippet": "",
-          "url": "https://agerpres.ro/planeta/2025/09/09/seism-de-magnitudine-5-3-resimtit-puternic-la-atena--1482503",
-          "source": "Agerpres"
-        },
-        {
-          "title": "Grecia: Un cutremur puternic a lovit insula Evia. A fost resimțit și în Atena",
-          "snippet": "",
-          "url": "https://www.mediafax.ro/externe/grecia-un-cutremur-puternic-a-lovit-insula-evia-a-fost-resimtit-si-in-atena-23607683",
-          "source": "Mediafax"
-        },
-        {
-          "title": "Cutremur cu magnitudinea 5,3 aproape de Atena. A fost resimțit puternic în capitala Greciei",
-          "snippet": "",
-          "url": "https://stirileprotv.ro/stiri/international/un-cutremur-de-5-3-grade-pe-scara-richter-s-a-produs-in-largul-insulei-evia-seismul-s-a-resimtit-puternic-la-atena.html",
-          "source": "Știrile Pro TV"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "islam slimani",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 10 Sep 2025 06:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQd26uhVoeNTDh9_U7RAlNsiDu1scugYZYozOe7R5DbyEwpMg3AWo9uR0-MDsM",
-      "pictureSource": "GSP",
-      "relatedSearch": [
-        {
-          "title": "Așa l-a convins CFR Cluj pe Islam Slimani, golgheterul all-time al Algeriei: iată detaliile din contract",
-          "snippet": "",
-          "url": "https://www.gsp.ro/fotbal/liga-1/cfr-cluj-islam-slimani-salariu-840405.html",
-          "source": "GSP"
-        },
-        {
-          "title": "Au bătut palma! Cel mai bun marcator din istoria naționalei sale vine la CFR Cluj. EXCLUSIV",
-          "snippet": "",
-          "url": "https://www.prosport.ro/fotbal-intern/superliga/au-batut-palma-cel-mai-bun-marcator-din-istoria-nationalei-sale-vine-la-cfr-cluj-exclusiv-20266684",
-          "source": "Prosport"
-        },
-        {
-          "title": "A cerut un milion de euro ca să semneze în SuperLigă, apoi a devenit viral în Anglia! ”Cea mai tare din istorie”",
-          "snippet": "",
-          "url": "https://www.digisport.ro/special/a-cerut-un-milion-de-euro-ca-sa-semneze-in-superliga-apoi-a-devenit-viral-in-anglia-cea-mai-tare-din-istorie-3797055",
-          "source": "Digi Sport"
-        }
-      ],
       "link": "https://imtaqin.id/"
     }
   ]

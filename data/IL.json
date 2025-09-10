@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-09-10 19:52:52",
+  "lastUpdate": "2025-09-10 20:00:20",
   "data": [
+    {
+      "title": "new york times",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 10 Sep 2025 12:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPJtesLSE1ShAngWOS6TqIUgv6eTMpMHTIZVXkvjvHd5ZyXeLba_m7oJ-4p1E",
+      "pictureSource": "The New York Times",
+      "relatedSearch": [
+        {
+          "title": "Our Favorite Restaurants and Industry Trends of 2025",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/09/09/dining/staff-favorite-restaurants-trends.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Two Boston restaurants we also like are named to the NYT’s best in the country list",
+          "snippet": "",
+          "url": "https://www.bostonglobe.com/2025/09/10/lifestyle/nyt-best-restaurant-list/",
+          "source": "The Boston Globe"
+        },
+        {
+          "title": "Sanders BBQ Supply Co. makes list of New York Times top 50 American restaurants",
+          "snippet": "",
+          "url": "https://www.cbsnews.com/chicago/video/sanders-bbq-supply-co-makes-list-of-new-york-times-top-50-american-restaurants/",
+          "source": "CBS News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "تشارلي كيرك",
       "trafficCount": "200+",
@@ -15,10 +43,10 @@
           "source": "القدس العربي"
         },
         {
-          "title": "مقتل ناشط يميني مؤيد لإسرائيل بإطلاق نار خلال محاضرة في جامعة أمريكية",
+          "title": "اغتيال ناشط يميني أمريكي مؤيد لإسرائيل خلال مؤتمر جماهيري في ولاية يوتا",
           "snippet": "",
-          "url": "https://www.elbalad.news/6693815",
-          "source": "صدى البلد"
+          "url": "https://www.cairo24.com/2278332",
+          "source": "القاهرة 24"
         },
         {
           "title": "إطلاق نار على ناشط يميني من الحزب الجمهوري بأمريكا",
@@ -58,34 +86,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "האח הגדול",
-      "trafficCount": "5000+",
-      "pubDate": "Wed, 10 Sep 2025 12:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQngQ2gjbjDu84XUflkcyDRPe4kR4vqwoVvcrpynqFdlY6lXAVbZJIuPTbo37w",
-      "pictureSource": "ynet",
-      "relatedSearch": [
-        {
-          "title": "אם \"לעבור תהליך\" זאת דרישה בסיסית לגמר \"האח הגדול\" - אנחנו נהיה בבעיה",
-          "snippet": "",
-          "url": "https://www.ynet.co.il/entertainment/article/rybh1sa5ll",
-          "source": "ynet"
-        },
-        {
-          "title": "סקר \"האח הגדול\": מי לא יגיע לחמישיית הגמר?",
-          "snippet": "",
-          "url": "https://www.israelhayom.co.il/forreal/15_minutes/article/18816750",
-          "source": "ישראל היום"
-        },
-        {
-          "title": "יוכי חתמה ליובל לוי על הצ'ק למיליון - והובילה אותו לזכייה ב\"אח הגדול\"",
-          "snippet": "",
-          "url": "https://tmi.maariv.co.il/celebs-news/article-1231358",
-          "source": "TMI"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "чарли кирк",
       "trafficCount": "1000+",
       "pubDate": "Wed, 10 Sep 2025 12:00:00 -0700",
@@ -114,12 +114,46 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "האח הגדול",
+      "trafficCount": "5000+",
+      "pubDate": "Wed, 10 Sep 2025 12:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQngQ2gjbjDu84XUflkcyDRPe4kR4vqwoVvcrpynqFdlY6lXAVbZJIuPTbo37w",
+      "pictureSource": "ynet",
+      "relatedSearch": [
+        {
+          "title": "אם \"לעבור תהליך\" זאת דרישה בסיסית לגמר \"האח הגדול\" - אנחנו נהיה בבעיה",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/entertainment/article/rybh1sa5ll",
+          "source": "ynet"
+        },
+        {
+          "title": "סקר \"האח הגדול\": מי לא יגיע לחמישיית הגמר?",
+          "snippet": "",
+          "url": "https://www.israelhayom.co.il/forreal/15_minutes/article/18816750",
+          "source": "ישראל היום"
+        },
+        {
+          "title": "יוכי חתמה ליובל לוי על הצ'ק למיליון - והובילה אותו לזכייה ב\"אח הגדול\"",
+          "snippet": "",
+          "url": "https://tmi.maariv.co.il/celebs-news/article-1231358",
+          "source": "TMI"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "charlie kirk",
       "trafficCount": "20000+",
       "pubDate": "Wed, 10 Sep 2025 11:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRvkEstV7CVT6YOho6SV69d4Ah8aLW3aAeFu3_tqpLZ1dAcaRIKCVORVKb_Po",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsA--a6b8kNRkVCTm1NeBnht9TQlOXoYY6IRrr2CVh_Nt3y72viSFLMs_xrm4",
+      "pictureSource": "CNN",
       "relatedSearch": [
+        {
+          "title": "Live updates: Charlie Kirk shot at Utah Valley University event",
+          "snippet": "",
+          "url": "https://www.cnn.com/us/live-news/charlie-kirk-shot-utah-09-10-25",
+          "source": "CNN"
+        },
         {
           "title": "Charlie Kirk: Trump ally shot at campus event in Utah",
           "snippet": "",
@@ -127,13 +161,7 @@
           "source": "BBC"
         },
         {
-          "title": "Developing story: Charlie Kirk shot at Utah Valley University event",
-          "snippet": "",
-          "url": "https://www.foxnews.com/live-news/charlie-kirk-shot-utah-valley-university",
-          "source": "Fox News"
-        },
-        {
-          "title": "Charlie Kirk shot at Utah event, status of suspect unknown",
+          "title": "Charlie Kirk shot at Utah event, suspect not in custody",
           "snippet": "",
           "url": "https://www.deseret.com/utah/2025/09/10/charlie-kirk-shot/",
           "source": "Deseret News"
@@ -149,7 +177,7 @@
       "pictureSource": "ynet",
       "relatedSearch": [
         {
-          "title": "דרמה בארה\"ב: פעיל הימין הפרו-ישראלי צ'רלי קירק נורה ביוטה",
+          "title": "דרמה בארה\"ב: פעיל הימין הפרו-ישראלי צ'רלי קירק נורה בצווארו, מצבו קשה מאוד",
           "snippet": "",
           "url": "https://www.ynet.co.il/news/article/rkpe5r1ogl",
           "source": "ynet"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.ice.co.il/tv/news/article/1082763",
           "source": "ice (אייס)"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "הפטריוטים",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 10 Sep 2025 11:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLQchmNARgoqbub-37mYCDiXL9065wAdD5nL08pSQCkS7g37PGnCdrwPWSF1I",
-      "pictureSource": "ynet",
-      "relatedSearch": [
-        {
-          "title": "\"העם דורש הפסיקו את האש\": פעילות התפרצו בשידור חי לאולפן \"הפטריוטים\" בערוץ 14",
-          "snippet": "",
-          "url": "https://www.ynet.co.il/entertainment/article/b1mmss1slg",
-          "source": "ynet"
-        },
-        {
-          "title": "בשידור חי: מפגינות פרצו לאולפן הפטריוטים - ינון מגל לא נותר אדיש | צפו",
-          "snippet": "",
-          "url": "https://www.maariv.co.il/culture/tv/article-1231876",
-          "source": "מעריב"
-        },
-        {
-          "title": "\"העם דורש הפסיקו את האש\": פעילות התפרצו בשידור חי לאולפן \"הפטריוטים\" בערוץ 14",
-          "snippet": "",
-          "url": "https://www.msn.com/he-il/news/other/%D7%94%D7%A2%D7%9D-%D7%93%D7%95%D7%A8%D7%A9-%D7%94%D7%A4%D7%A1%D7%99%D7%A7%D7%95-%D7%90%D7%AA-%D7%94%D7%90%D7%A9-%D7%A4%D7%A2%D7%99%D7%9C%D7%95%D7%AA-%D7%94%D7%AA%D7%A4%D7%A8%D7%A6%D7%95-%D7%91%D7%A9%D7%99%D7%93%D7%95%D7%A8-%D7%97%D7%99-%D7%9C%D7%90%D7%95%D7%9C%D7%A4%D7%9F-%D7%94%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%98%D7%99%D7%9D-%D7%91%D7%A2%D7%A8%D7%95%D7%A5-14/ar-AA1Miumy",
-          "source": "MSN"
         }
       ],
       "link": "https://imtaqin.id/"

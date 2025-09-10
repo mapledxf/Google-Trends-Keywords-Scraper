@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-10 05:49:50",
+  "lastUpdate": "2025-09-10 05:57:17",
   "data": [
     {
       "title": "weather",
@@ -15,16 +15,16 @@
           "source": "Yahoo Life UK"
         },
         {
-          "title": "Brace for intense monsoon as IMD Hyderabad forecasts heavy rains for 5 days",
+          "title": "Magnolia Three-Day Weather/Sky Forecast: Warming trend",
           "snippet": "",
-          "url": "https://www.siasat.com/brace-for-intense-monsoon-as-imd-hyderabad-forecasts-heavy-rains-for-5-days-3269620/",
-          "source": "Siasat.com"
+          "url": "https://www.magnoliareporter.com/news_and_business/local_news/article_ec4a5562-0e6c-440f-8846-e8ddd071b311.html",
+          "source": "Magnolia Reporter"
         },
         {
-          "title": "Weather Warning Issued for Andhra Pradesh and Telangana Amid Cyclonic Activity",
+          "title": "Magnolia Three-Day Weather/Sky Forecast: Seasonable weather",
           "snippet": "",
-          "url": "https://www.thehansindia.com/andhra-pradesh/weather-warning-issued-for-andhra-pradesh-and-telangana-amid-cyclonic-activity-1005010",
-          "source": "The Hans India"
+          "url": "https://www.magnoliareporter.com/news_and_business/local_news/article_2e0c1dbe-6711-4458-9a7e-c05a149281d9.html",
+          "source": "Magnolia Reporter"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,15 +33,9 @@
       "title": "vrijeme",
       "trafficCount": "200+",
       "pubDate": "Tue, 9 Sep 2025 21:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSri0BuTwMtRyHKk7BNU56tBj_PPVCTm_rtPGvo0Zc6AJ8NWu26I8b0_ceAq90",
-      "pictureSource": "Radio Televizija Crne Gore",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsVuulfFFW3OUW8ylgYk3ON98jlkJcp6NcdlOLP2G_bIyzLmdwNtoJznkr5VE",
+      "pictureSource": "PCNEN",
       "relatedSearch": [
-        {
-          "title": "Sjutra postepeno naoblačenje, krajem dana kiša",
-          "snippet": "",
-          "url": "https://rtcg.me/vijesti/servisne-informacije/752180/sjutra-postepeno-naoblacenje-krajem-dana-kisa.html",
-          "source": "Radio Televizija Crne Gore"
-        },
         {
           "title": "Popodne i naveče kiša",
           "snippet": "",
@@ -53,6 +47,12 @@
           "snippet": "",
           "url": "https://rtnk.me/drustvo/danas-umjereno-oblacno/",
           "source": "Radio televizija Nikšić"
+        },
+        {
+          "title": "Pretežno sunčano, do 32 stepena",
+          "snippet": "",
+          "url": "https://gradski.me/pretezno-suncano-do-32-stepena-4/",
+          "source": "Gradski portal"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -114,9 +114,9 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "vremenska prognoza",
+      "title": "vremenska prognoza belgrade",
       "trafficCount": "2000+",
-      "pubDate": "Tue, 9 Sep 2025 21:20:00 -0700",
+      "pubDate": "Tue, 9 Sep 2025 21:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTG25XHIc5JD1kwvFxse3t0cBVtOif86BqlVYYP0nTxQWSHv65a-x-FM482jTY",
       "pictureSource": "Blic",
       "relatedSearch": [
@@ -133,10 +133,38 @@
           "source": "Politika"
         },
         {
-          "title": "Pljuskovi sa grmljavinom stižu u Srbiju: Evo kada se očekuje jaka promena vremena, temperatura u padu",
+          "title": "Toplo ali i kiša: RHMZ objavio kakvo će vreme biti do kraja sedmice",
           "snippet": "",
-          "url": "https://nsuzivo.rs/srbija/pljuskovi-sa-grmljavinom-stizu-u-srbiju-evo-kada-se-ocekuje-jaka-promena-vremena-temperatura-u-padu/",
-          "source": "NS Uživo"
+          "url": "https://www.danas.rs/vesti/drustvo/rhmz-vreme-danas-vikend/",
+          "source": "Danas"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "vreme",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 9 Sep 2025 21:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSPe9qrm8QuGtCu7QopbeRdVaAihuR0PUpH1sSHP7sKkBYgdpavgKaGlIjPXU",
+      "pictureSource": "Blic",
+      "relatedSearch": [
+        {
+          "title": "(Mapa) Čak 20 letnjih i 8 tropskih dana u septembru! A kad će konačno zahlađenje?!",
+          "snippet": "",
+          "url": "https://www.blic.rs/vremenska-prognoza/mapa-cak-20-letnjih-i-8-tropskih-dana-u-septembru-a-kad-ce-konacno-zahladjenje/w7hdgml",
+          "source": "Blic"
+        },
+        {
+          "title": "Poznato kada se završava leto, ali i kada će pasti prvi sneg",
+          "snippet": "",
+          "url": "https://www.b92.net/info/drustvo/162130/vremenska-prognoza-za-septembar-oktobar-i-novembar/vest",
+          "source": "B92"
+        },
+        {
+          "title": "\"Tranzicija iz leta u jesen doneće obilne padavine\": Čubrilo otkrio kakvo nas vreme čeka narednih dana",
+          "snippet": "",
+          "url": "https://mondo.rs/Info/Drustvo/a2118753/marko-cubrilo-otkrio-gde-se-ocekuju-nepogode-narednih-dana.html",
+          "source": "Mondo"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -251,15 +279,6 @@
           "source": "Andy's Bet Club"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "magyarország–portugália",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 9 Sep 2025 12:10:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]

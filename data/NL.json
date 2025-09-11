@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2025-09-11 05:32:20",
+  "lastUpdate": "2025-09-11 05:43:00",
   "data": [
+    {
+      "title": "gas",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 10 Sep 2025 22:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi-03bxcbGcA9MHK2DHPjcor--6dyoNdQcNJJ_E4VZveqw9FwsvQKir5CGROU",
+      "pictureSource": "CNN",
+      "relatedSearch": [
+        {
+          "title": "Gas truck explosion injures 57 in Mexico City",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/09/10/americas/mexico-gas-tanker-explosion-latam-intl",
+          "source": "CNN"
+        },
+        {
+          "title": "Tanker truck explodes on Mexican highway, killing 3 and injuring 70",
+          "snippet": "",
+          "url": "https://www.reuters.com/world/us/tanker-truck-explodes-mexican-highway-killing-3-injuring-70-2025-09-11/",
+          "source": "Reuters"
+        },
+        {
+          "title": "3 dead, 70 injured in Mexico City gas tank explosion",
+          "snippet": "",
+          "url": "https://breakingthenews.net/Article/3-dead-70-injured-in-Mexico-City-gas-tank-explosion/64797009",
+          "source": "breakingthenews.net"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "gaslek",
       "trafficCount": "200+",
       "pubDate": "Wed, 10 Sep 2025 22:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxZsIuhooFAjjbpuyaQA7U-_rp0hLWGBW9pSqxUwlAuuSAdq_C5Ls7ZNJKjfM",
-      "pictureSource": "AD.nl",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFZlHGA0JImo1g6x9imFAJvJgvkuPBJj_I3bRkYYWXLU_yH7CiMvmqGYXkKJE",
+      "pictureSource": "HBVL",
       "relatedSearch": [
+        {
+          "title": "Klanten van Casa Papa Giovanni in Genk geëvacueerd na gaslek",
+          "snippet": "",
+          "url": "https://www.hbvl.be/regio/limburg/genk/klanten-van-casa-papa-giovanni-in-genk-geevacueerd-na-gaslek/89528184.html",
+          "source": "HBVL"
+        },
+        {
+          "title": "Klanten van Casa Papa Giovanni in Genk geëvacueerd na gaslek",
+          "snippet": "",
+          "url": "https://www.nieuwsblad.be/regio/limburg/genk/klanten-van-casa-papa-giovanni-in-genk-geevacueerd-na-gaslek/89536515.html",
+          "source": "Nieuwsblad"
+        },
         {
           "title": "Gaslekkage op President Kennedylaan in Roosendaal",
           "snippet": "",
           "url": "https://www.ad.nl/112-nieuws-roosendaal/gaslekkage-op-president-kennedylaan-in-roosendaal~a7cc6312/",
           "source": "AD.nl"
-        },
-        {
-          "title": "Gaslekkage op Valeriuslaan in Roosendaal",
-          "snippet": "",
-          "url": "https://www.bndestem.nl/112-nieuws-roosendaal/gaslekkage-op-valeriuslaan-in-roosendaal~a55e82c38/",
-          "source": "BN DeStem"
-        },
-        {
-          "title": "Gasleiding geraakt bij graafwerkzaamheden President Kennedylaan",
-          "snippet": "",
-          "url": "https://www.internetbode.nl/roosendaal/112-nieuws/457246/gasleiding-geraakt-bij-graafwerkzaamheden-president-kennedylaan",
-          "source": "De bode"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -77,10 +105,10 @@
           "source": "Omroep Brabant"
         },
         {
-          "title": "Gaslucht ruikbaar in groot deel van Brabant door lek net over de grens, NL Alert gestuurd",
+          "title": "Sterke gasgeur in Balen en Mol door lek bij Tessenderlo Chemie, maar: \"Geen enkel gevaar\"",
           "snippet": "",
-          "url": "https://www.bd.nl/112-nieuws-brabant/gaslucht-ruikbaar-in-groot-deel-van-brabant-door-lek-net-over-de-grens-nl-alert-gestuurd~a0f7b0ec/",
-          "source": "Brabants Dagblad"
+          "url": "https://www.vrt.be/vrtnws/nl/2025/09/11/gasgeur-balen-mol-tessenderlo-chemie-lek/",
+          "source": "VRT"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +155,16 @@
           "source": "Omroep Brabant"
         },
         {
+          "title": "Sterke gasgeur in Balen en Mol door lek bij Tessenderlo Chemie, maar: \"Geen enkel gevaar\"",
+          "snippet": "",
+          "url": "https://www.vrt.be/vrtnws/nl/2025/09/11/gasgeur-balen-mol-tessenderlo-chemie-lek/",
+          "source": "VRT"
+        },
+        {
           "title": "Gaslucht ruikbaar in groot deel van Brabant door lek net over de grens, NL Alert gestuurd",
           "snippet": "",
           "url": "https://www.bd.nl/112-nieuws-brabant/gaslucht-ruikbaar-in-groot-deel-van-brabant-door-lek-net-over-de-grens-nl-alert-gestuurd~a0f7b0ec/",
           "source": "Brabants Dagblad"
-        },
-        {
-          "title": "Gaslucht ruikbaar in groot deel van Brabant door lek net over de grens",
-          "snippet": "",
-          "url": "https://www.ad.nl/bergeijk/gaslucht-ruikbaar-in-groot-deel-van-brabant-door-lek-net-over-de-grens~a0f7b0ec/",
-          "source": "AD.nl"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -152,7 +180,7 @@
     },
     {
       "title": "belgie",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 10 Sep 2025 21:40:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAiDQP4O8WPhExi0AG3W6fFdYbe4m_HHIPxsGre-RxiNN6gDdKzV9bJolk7Kg",
       "pictureSource": "De Telegraaf",
@@ -207,34 +235,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "alert",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 10 Sep 2025 21:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoaXSor7D5e6K0sWKAuYrCxNTHSCRCaH4u6RvbpELUasQevfaxqqUUHIhAq0A",
-      "pictureSource": "USEmbassy.gov",
-      "relatedSearch": [
-        {
-          "title": "Alert – September 8, 2025",
-          "snippet": "",
-          "url": "https://es.usembassy.gov/alert-september-8-2025/",
-          "source": "USEmbassy.gov"
-        },
-        {
-          "title": "Schools close early as heavy rain prompts red alerts in southern Catalonia",
-          "snippet": "",
-          "url": "https://www.catalannews.com/society-science/item/schools-close-early-as-heavy-rain-prompts-red-alerts-in-southern-catalonia",
-          "source": "Catalan News"
-        },
-        {
-          "title": "Skincare company recalls more products over infection risk",
-          "snippet": "",
-          "url": "https://www.usatoday.com/story/money/2025/09/10/dermarite-soap-recall-skincare-products/86076522007/",
-          "source": "USA Today"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "ed",
       "trafficCount": "500+",
       "pubDate": "Wed, 10 Sep 2025 21:40:00 -0700",
@@ -254,10 +254,10 @@
           "source": "E! Online"
         },
         {
-          "title": "Ed Sheeran reveals he is moving to the US with wife and kids",
+          "title": "Ed Sheeran to miss Ipswich Town games after move to America",
           "snippet": "",
-          "url": "https://www.goodmorningamerica.com/culture/story/ed-sheeran-reveals-moving-us-wife-kids-125412050",
-          "source": "Good Morning America"
+          "url": "https://www.bbc.co.uk/news/articles/crrjwnw4rqko",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"

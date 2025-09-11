@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-11 10:45:38",
+  "lastUpdate": "2025-09-11 10:53:08",
   "data": [
     {
       "title": "федієнко",
@@ -21,10 +21,10 @@
           "source": "News Telegraf"
         },
         {
-          "title": "Нардеп Федієнко запропонував підвищити зарплати працівникам ТЦК",
+          "title": "Для ефективності роботи ТЦК її співробітникам пропонують підвищити зарплати",
           "snippet": "",
-          "url": "https://ukranews.com/ua/news/1104938-nardep-fediyenko-zaproponuvav-pidvyshhyty-zarplaty-pratsivnykam-ttsk",
-          "source": "Українські Новини"
+          "url": "https://socportal.info/ua/news/spivrobitnikam-ttck-proponuiut-platiti-60-150-tisyach-griven-zarplati-shchob-voni-krashche-pratciuvali/",
+          "source": "socportal.info"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -49,10 +49,10 @@
           "source": "АрміяInform – Інформаційне агентство АрміяInform"
         },
         {
-          "title": "Генштаб повідомив про нові втрати російської армії: знищені майже 900 окупантів",
+          "title": "Генштаб ЗСУ: армія Росії втратила близько 890 військових і 22 артилерійські системи за добу",
           "snippet": "",
-          "url": "https://suspilne.media/1112064-genstab-povidomiv-pro-novi-vtrati-rosijskoi-armii-zniseni-majze-900-okupantiv/",
-          "source": "Суспільне | Новини"
+          "url": "https://www.radiosvoboda.org/a/news-henshtab-zsu-armia-rosii-vtraty-za-dobu/33527417.html",
+          "source": "Радіо Свобода"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -198,34 +198,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "weather",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 10 Sep 2025 21:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_ziiV4IPoIEC9hW5inQ1MTvEUKLsWA5I9TAyRRk2BfpWuY2tcon0uulGf1l8",
-      "pictureSource": "The Commercial Appeal",
-      "relatedSearch": [
-        {
-          "title": "Memphis weekend weather: False fall over, late summer heat wave to continue into next week",
-          "snippet": "",
-          "url": "https://www.commercialappeal.com/story/news/local/2025/09/11/memphis-weekend-weather-september12-13-14-15/85989706007/",
-          "source": "The Commercial Appeal"
-        },
-        {
-          "title": "First Alert: Hotter temperatures build over the Mid-South",
-          "snippet": "",
-          "url": "https://www.actionnews5.com/2025/09/10/first-alert-hotter-temperatures-build-over-mid-south/",
-          "source": "Action News 5"
-        },
-        {
-          "title": "Sunshine, warm temps persist across the Mid-South over next few days",
-          "snippet": "",
-          "url": "https://www.fox13memphis.com/weather/sunshine-warm-temps-persist-across-the-mid-south-over-next-few-days/article_5e86bb3e-0aae-11ee-ab9c-77bb6f469502.html",
-          "source": "FOX13 Memphis"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "11 вересня",
       "trafficCount": "1000+",
       "pubDate": "Wed, 10 Sep 2025 21:10:00 -0700",
@@ -260,6 +232,34 @@
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "погода київ",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 10 Sep 2025 20:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_8kWMzAQBLNMMM6yMzsYHz3ldmbGOUeSOOyZOa2ca9u-HF4tXunzORhY59hc",
+      "pictureSource": "УНІАН",
+      "relatedSearch": [
+        {
+          "title": "Київ затопило: столицю накрила гроза зі зливою (відео, інфографіка)",
+          "snippet": "",
+          "url": "https://www.unian.ua/pogoda/news/pogoda-kijiv-9-veresnya-ochikuyetsya-groza-ogolosheno-shtormove-poperedzhennya-novini-kiyeva-13123755.html",
+          "source": "УНІАН"
+        },
+        {
+          "title": "Синоптики прогнозують погіршення погоди: жителів Київщини попереджають про грозу",
+          "snippet": "",
+          "url": "https://suspilne.media/kyiv/1110876-sinoptiki-prognozuut-pogirsenna-pogodi-ziteliv-kiivsini-poperedzaut-pro-grozu/",
+          "source": "Суспільне | Новини"
+        },
+        {
+          "title": "Попередження про небезпечні метеорологічні явища в Київській області",
+          "snippet": "",
+          "url": "https://dsns.gov.ua/news/ostanni-novini/poperedzennia-pro-nebezpecni-meteorologicni-iavishha-v-kiyivskii-oblasti-4",
+          "source": "Державна служба України з надзвичайних ситуацій"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]

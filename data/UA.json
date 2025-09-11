@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-11 07:46:31",
+  "lastUpdate": "2025-09-11 07:54:20",
   "data": [
     {
       "title": "федієнко",
@@ -171,7 +171,7 @@
     },
     {
       "title": "какой сегодня праздник",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Wed, 10 Sep 2025 21:40:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJZXgO1jnfH0MJwv6zAvGzOXq1GUihDb2K87lISH8wQunpLIvSRMXFrzXLDGw",
       "pictureSource": "РБК-Україна",
@@ -254,12 +254,31 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "погода львів",
-      "trafficCount": "2000+",
+      "title": "11 вересня",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 10 Sep 2025 21:10:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNb-dTu_9NbSy0U2ztBMiQQygXQmGeUMS4YytQtbT06rAAkJrugFUPH1ylsGI",
+      "pictureSource": "Суспільне | Новини",
+      "relatedSearch": [
+        {
+          "title": "Армія РФ атакувала навчальний заклад у Сумах",
+          "snippet": "",
+          "url": "https://suspilne.media/sumy/1112038-armia-rf-atakuvala-navcalnij-zaklad-u-sumah/",
+          "source": "Суспільне | Новини"
+        },
+        {
+          "title": "Рятувальники показали наслідки російського удару по навчальному закладу в Сумах",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/news/2025/09/11/7530306/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "У Сумах вночі пролунaли вибухи",
+          "snippet": "",
+          "url": "https://tsn.ua/ato/u-sumakh-vnochi-prolunaly-vybukhy-2910146.html",
+          "source": "ТСН"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]

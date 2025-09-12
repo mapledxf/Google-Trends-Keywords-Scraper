@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-12 22:15:13",
+  "lastUpdate": "2025-09-12 22:30:28",
   "data": [
     {
       "title": "arcelormittal",
@@ -143,11 +143,17 @@
     },
     {
       "title": "benfica - santa clara",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 12 Sep 2025 11:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcd_iolcjsp3YKcxdKJEDlALtfau_XsM4rZ_Qq0vlQvNK2NXK8vLjHa5di9Kk",
-      "pictureSource": "SAPO",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBzEr6NdD9jwo70xtQ5R60XY-XjOKHsBoUj7da6WsBnxT0AUSGhHTEsY3cN8c",
+      "pictureSource": "A Bola",
       "relatedSearch": [
+        {
+          "title": "A vida e o futebol são assim, caro Nico...",
+          "snippet": "",
+          "url": "https://www.abola.pt/noticias/a-vida-e-o-futebol-sao-assim-caro-nico-2025091222010259250",
+          "source": "A Bola"
+        },
         {
           "title": "VÍDEO: O golo de Pavlidis que inaugurou o marcador na Luz",
           "snippet": "",
@@ -159,12 +165,6 @@
           "snippet": "",
           "url": "https://www.flashscore.pt/noticias/futebol-liga-portugal-betclic-ao-vivo-os-onzes-oficiais-de-benfica-e-santa-clara/tSBND2wI/",
           "source": "Flashscore.pt"
-        },
-        {
-          "title": "Bruno Lage: \"A responsabilidade é do treinador\"",
-          "snippet": "",
-          "url": "https://www.jn.pt/desporto/artigo/bruno-lage-a-responsabilidade-e-do-treinador/17954598",
-          "source": "Jornal de Notícias"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +183,16 @@
           "source": "Kicker"
         },
         {
-          "title": "Fussball aus den Topligen - Grimaldo brilliert bei Leverkusen – Vargas mit nächstem Assist",
+          "title": "🧐 Wer war eigentlich ten Hag? Leverkusen dreht auf einmal richtig auf",
           "snippet": "",
-          "url": "https://www.srf.ch/sport/fussball/internationale-ligen/fussball-aus-den-topligen-grimaldo-brilliert-bei-leverkusen-vargas-mit-naechstem-assist",
-          "source": "Schweizer Radio und Fernsehen"
+          "url": "https://onefootball.com/de/news/wer-war-eigentlich-ten-hag-leverkusen-dreht-auf-einmal-richtig-auf-41653562",
+          "source": "OneFootball"
         },
         {
-          "title": "„Vielleicht hört der Sch*** jetzt auf“",
+          "title": "Grimaldos Zauber-Freistöße sorgen für Bayers ersten Sieg",
           "snippet": "",
-          "url": "https://www.sport1.de/news/fussball/bundesliga/2025/09/hjulmand-debut-gegluckt-bayer-schlagt-lieblingsgast-frankfurt",
-          "source": "SPORT1"
+          "url": "https://sport.sky.de/fussball/artikel/grimaldos-zauber-freistoesse-sorgen-fuer-bayers-ersten-sieg/13429673/34376",
+          "source": "Sky.de"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,9 +257,28 @@
       "title": "protv live",
       "trafficCount": "200+",
       "pubDate": "Fri, 12 Sep 2025 10:50:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgykFHCdqWgE2taFHGFxhdIhfYLgDVtC_zuI8TXUKEhMQkc4FwG2iFAK1tWnQ",
+      "pictureSource": "Știrile Pro TV",
+      "relatedSearch": [
+        {
+          "title": "Masa caldă promisă de Guvern întârzie să apară în şcoli. În unele unităţi nu mai ajung nici cornul şi laptele",
+          "snippet": "",
+          "url": "https://stirileprotv.ro/stiri/actualitate/masa-calda-promisa-de-guvern-intarzie-sa-apara-in-scoli-in-unele-unitati-nu-mai-ajung-nici-cornul-si-laptele.html",
+          "source": "Știrile Pro TV"
+        },
+        {
+          "title": "Nu doar de burse nu sunt bani, nici de fructe şi legume pentru elevi nu sunt: „Peste 1,8 milioane de elevi",
+          "snippet": "",
+          "url": "https://www.zf.ro/companii/retail-agrobusiness/burse-bani-nici-fructe-legume-elevi-peste-1-8-milioane-elevi-22899720",
+          "source": "Ziarul Financiar"
+        },
+        {
+          "title": "Masa sănătoasă pentru elevi întârzie, iar în unele locuri nu se mai oferă nici corn și lapte sau...",
+          "snippet": "",
+          "url": "https://ziare.com/masa-sanatoasa/elevi-intarziere-fonduri-aprobare-guvern-corn-lapte-fructe-1963882",
+          "source": "Ziare.com"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]

@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2025-09-12 05:58:25",
+  "lastUpdate": "2025-09-12 06:28:25",
   "data": [
+    {
+      "title": "สภาพอากาศ",
+      "trafficCount": "20000+",
+      "pubDate": "Thu, 11 Sep 2025 22:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKFVBdnr4Ag1mPG7cnE5uNl6fajbGvxVEDsMBGjqXyPHbtuaNa5J_3o-t5DVU",
+      "pictureSource": "Thairath",
+      "relatedSearch": [
+        {
+          "title": "เตือนไทยยังคงมีฝนฟ้าคะนอง ภาคเหนือฝนตกหนักบางแห่ง อาจเกิดน้ำท่วมฉับพลัน",
+          "snippet": "",
+          "url": "https://www.thairath.co.th/news/local/2882085",
+          "source": "Thairath"
+        },
+        {
+          "title": "เช็กด่วน! วันนี้ 23 จังหวัด เสี่ยงดินถล่ม-น้ำป่าไหลหลาก | The Bangkok Insight",
+          "snippet": "",
+          "url": "https://today.line.me/th/v3/article/1Dr8We2",
+          "source": "LINE TODAY"
+        },
+        {
+          "title": "สภาพอากาศวันนี้ 35 จังหวัด ยังรับมือฝนถล่ม กรุงเทพปริมณฑล ตก 60%",
+          "snippet": "",
+          "url": "https://www.khaosod.co.th/breaking-news/news_9933819",
+          "source": "ข่าวสด"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "weather",
       "trafficCount": "2000+",
       "pubDate": "Thu, 11 Sep 2025 22:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6iLkB4tU5LE7kh5-YodUYvWqP12VWhuKfRFnqCs_fzBtlvrY32ECKa3MEyCg",
-      "pictureSource": "Ynetnews",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnUmk1Dw-CLrX3iNIkOYWdrmTMhFNnBLaLw3_DzEngHnKjCliTjKM0OW3Cewg",
+      "pictureSource": "CBS News",
       "relatedSearch": [
         {
-          "title": "Weather forcast: Temperatures rise, sweltering conditions ahead",
+          "title": "Beautifully boring, classically calm stretch of weather expected in Philadelphia area",
           "snippet": "",
-          "url": "https://www.ynetnews.com/environment/article/hj2urxwole",
-          "source": "Ynetnews"
+          "url": "https://www.cbsnews.com/philadelphia/video/beautifully-boring-classically-calm-stretch-of-weather-expected-in-philadelphia-area/",
+          "source": "CBS News"
         },
         {
-          "title": "Mild temperatures, coastal breezes continue through the weekend!",
+          "title": "Clear skies over Philly as temps warm up",
           "snippet": "",
-          "url": "https://www.live5news.com/2025/09/12/mild-temperatures-coastal-breezes-continue-through-weekend/",
-          "source": "Live 5 News"
+          "url": "https://www.nbcphiladelphia.com/video/weather/clear-skies-over-philly-as-temps-warm-up/4267520/",
+          "source": "NBC10 Philadelphia"
         },
         {
-          "title": "Cool, dry weekend weather ahead for the Carolinas",
+          "title": "Thursday midday weather forecast",
           "snippet": "",
-          "url": "https://www.wyff4.com/article/sunny-cool-south-carolina-weather-greenville-september/66048118",
-          "source": "WYFF News 4"
+          "url": "https://www.fox5atlanta.com/video/1702458",
+          "source": "FOX 5 Atlanta"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -59,7 +87,7 @@
     },
     {
       "title": "south korea",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 11 Sep 2025 21:50:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ63Nqw8xxn2B4_P9aokkeFJ2DQxBVOEsfmrlTGSca2dWhV83MV3vQwtDmpFJM",
       "pictureSource": "BBC",
@@ -117,15 +145,9 @@
       "title": "สิงโตสวนสัตว์",
       "trafficCount": "100+",
       "pubDate": "Thu, 11 Sep 2025 21:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqOlV0kbd10MIET0U1XlHj2KU4blPK76QVhEBwhd7-d9JowL0HSsG9qkvofnw",
-      "pictureSource": "LINE TODAY",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnEf1Xg340ANvzqrKnF6kpeW8kQGL7NfNZSHIR9XzISO1-fWCprUrQAYyo3Cw",
+      "pictureSource": "Thai PBS",
       "relatedSearch": [
-        {
-          "title": "เปิดจำนวนเงิน ซาฟารีเวิลด์ เยียวยาเบื้องต้น ครอบครัวพี่เจียน รอผลชันสูตรชัด | มุมข่าว",
-          "snippet": "",
-          "url": "https://today.line.me/th/v3/article/DRkyZKX",
-          "source": "LINE TODAY"
-        },
         {
           "title": "กรมอุทยานฯ ตรวจซาฟารีเวิลด์ สั่งแก้ 23 ข้อบกพร่องภายใน 30 วัน",
           "snippet": "",
@@ -137,13 +159,19 @@
           "snippet": "",
           "url": "https://www.thairath.co.th/news/local/bangkok/2882231",
           "source": "Thairath"
+        },
+        {
+          "title": "เปิดจำนวนเงิน ซาฟารีเวิลด์ เยียวยาเบื้องต้น ครอบครัวพี่เจียน รอผลชันสูตรชัด | มุมข่าว",
+          "snippet": "",
+          "url": "https://today.line.me/th/v3/article/DRkyZKX",
+          "source": "LINE TODAY"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "สหพันธ์วอลเลย์บอลเวียดนาม",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 11 Sep 2025 20:30:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWkWcpxdOGWDXcP8yNTOC9KEx3LzDsHMp7bDmtF4AkdSHogmOsq4YwWvCYS1Q",
       "pictureSource": "pptvhd36.com",
@@ -171,7 +199,7 @@
     },
     {
       "title": "spx",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 11 Sep 2025 20:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRctQRkZn3XqgPzzRGJvPVGkVe1JT_44CbBifwaCKqyhqfj8ca-Jnz4mewon2E",
       "pictureSource": "Yahoo Finance",
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.thsport.live/vision/vision-11272.html",
           "source": "thsport"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ทายาทหมายเลข 1 ep 8",
-      "trafficCount": "2000+",
-      "pubDate": "Thu, 11 Sep 2025 17:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpDHIXu2GmCPKbXXlFDIvdpS8-In3pIEJsEmNkX5x7wAXx4wl07u_kbvpUwk0",
-      "pictureSource": "LINE TODAY",
-      "relatedSearch": [
-        {
-          "title": "เปิดวาร์ป “ต้นข้าว ชยุตม์” หรือ “ทะเลหลวง” ใน “ทายาทหมายเลข 1” หล่อสดใสมาก | daradaily",
-          "snippet": "",
-          "url": "https://today.line.me/th/v3/article/mWVEBXm",
-          "source": "LINE TODAY"
-        },
-        {
-          "title": "รีวิว ทายาทหมายเลข 1 ep 5 ดราม่าดุเดือดเข้มข้น ห้ามพลาดเลย",
-          "snippet": "",
-          "url": "https://entertainment.trueid.net/detail/gp4XqdYO00Vp",
-          "source": "TrueID"
-        },
-        {
-          "title": "เรื่องย่อละคร ทายาทหมายเลข 1 EP.8 วันพฤหัสบดีที่ 11 กันยายน 2568",
-          "snippet": "",
-          "url": "https://www.one31.net/news/detail/76748",
-          "source": "one31.net"
         }
       ],
       "link": "https://imtaqin.id/"

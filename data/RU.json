@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-09-13 04:38:23",
+  "lastUpdate": "2025-09-13 04:46:05",
   "data": [
+    {
+      "title": "новости украина",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 12 Sep 2025 21:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNWEwKIH83OS8hVIb8q5w1GWPwHVBs2Hf-WPxaA_1lB61tcp_5y9GNo1eKTH0",
+      "pictureSource": "Ведомости",
+      "relatedSearch": [
+        {
+          "title": "В МИД Польши признали украинское происхождение некоторых БПЛА, сбитых ночью 10 сентября",
+          "snippet": "",
+          "url": "https://www.vedomosti.ru/politics/news/2025/09/12/1139033-mid-polshi-priznali",
+          "source": "Ведомости"
+        },
+        {
+          "title": "Российские дроны в Польше: как проявила себя ПВО стран НАТО?",
+          "snippet": "",
+          "url": "https://www.bbc.com/russian/articles/c4gz3y8wqqlo",
+          "source": "BBC"
+        },
+        {
+          "title": "НАТО в связи с дронами РФ над Польшей начинает операцию \"Восточный страж\"",
+          "snippet": "",
+          "url": "https://www.svoboda.org/a/nato-v-svyazi-s-dronami-rf-nad-poljshey-nachinaet-operatsiyu-vostochnyy-strazh-/33528947.html",
+          "source": "Радио Свобода"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "матч тв программа",
       "trafficCount": "100+",
@@ -30,23 +58,51 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "13 сентября",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 12 Sep 2025 21:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT36hCOrHaeMBoF8Y15qutcJlFsNqQCCmit583tEXQ2H52ED8DNlHjsZqVhOw4",
+      "pictureSource": "7Дней.ру",
+      "relatedSearch": [
+        {
+          "title": "Глоба составил прогноз для всех знаков на выходные, 13 и 14 сентября — делайте что хотите",
+          "snippet": "",
+          "url": "https://7days.ru/news/globa-sostavil-prognoz-dlya-vsekh-znakov-na-vykhodnye-13-i-14-sentyabrya-delayte-chto-khotite.htm",
+          "source": "7Дней.ру"
+        },
+        {
+          "title": "- Ежедневный гороскоп на субботу 13 сентября 2025",
+          "snippet": "",
+          "url": "https://sakhalife.ru/ezhednevnyj-goroskop-na-subbotu-13-sentyabrya-2025/",
+          "source": "sakhalife"
+        },
+        {
+          "title": "Гороскоп для всех знаков зодиака на выходные дни, 13 и 14 сентября",
+          "snippet": "",
+          "url": "https://ysia.ru/goroskop-dlya-vseh-znakov-zodiaka-na-vyhodnye-dni-13-i-14-sentyabrya/",
+          "source": "ЯСИА"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "магнитные бури в сентябре 2025",
       "trafficCount": "100+",
       "pubDate": "Fri, 12 Sep 2025 20:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUHVZeAHgfdCMu9VhAtMBGwTvkNoELYroCnib-JPpvVcMEOSy4f6Rmc6zcg24",
-      "pictureSource": "Интерфакс",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKoyPA0GG_0qT0tbZbAzHHR5iVpY7HRGshiwwPmyZPZxphsnIWCu3ubByRRu0",
+      "pictureSource": "Наука Mail",
       "relatedSearch": [
-        {
-          "title": "Магнитные бури ожидаются на Земле в выходные",
-          "snippet": "",
-          "url": "https://www.interfax.ru/russia/1046744",
-          "source": "Интерфакс"
-        },
         {
           "title": "Ученые предупредили о геомагнитных бурях длительностью до 6 суток",
           "snippet": "",
           "url": "https://science.mail.ru/news/8412-uchenyie-predupredili-o-geomagnitnyih-buryah-dlitelnostyu-do-6-sutok/",
           "source": "Наука Mail"
+        },
+        {
+          "title": "Магнитные бури ожидаются на Земле в выходные",
+          "snippet": "",
+          "url": "https://www.interfax.ru/russia/1046744",
+          "source": "Интерфакс"
         },
         {
           "title": "Ученый оценила вероятность полярных сияний над Москвой после магнитных бурь",
@@ -96,7 +152,7 @@
     },
     {
       "title": "землетрясение на камчатке",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 12 Sep 2025 20:10:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHgcoBoDeQ8WLuZ7WIx9E6wVxUWG8BJJPQxaJwHy6YIQMkramF3nWQ_E8VDuk",
       "pictureSource": "Mail.ru",
@@ -118,34 +174,6 @@
           "snippet": "",
           "url": "https://ura.news/news/1052994988",
           "source": "URA.RU"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "землетрясение сегодня",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 12 Sep 2025 20:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSlmAr8xFtLrd6BcOUybh5NSw2dGRZqMufWgzE_IMirvXNyw9Nj-arr5GBaLr8",
-      "pictureSource": "Блокнот Краснодар",
-      "relatedSearch": [
-        {
-          "title": "Мощные подземные толчки напугали жителей Кубани и Адыгеи",
-          "snippet": "",
-          "url": "https://bloknot-krasnodar.ru/news/moshchnye-podzemnye-tolchki-napugali-zhiteley-kuba-1897389",
-          "source": "Блокнот Краснодар"
-        },
-        {
-          "title": "Новость: Жители Сочи почувствовали толчки при землетрясении",
-          "snippet": "",
-          "url": "https://sochi.com/news/2090/529233/",
-          "source": "sochi.com"
-        },
-        {
-          "title": "«Два землетрясения почти одновременно»: ученый Подымов прокомментировал подземные толчки в Краснодарском крае",
-          "snippet": "",
-          "url": "https://kubnews.ru/obshchestvo/2025/09/10/dva-zemletryaseniya-pochti-odnovremenno-uchenyy-podymov-prokommentiroval-podzemnye-tolchki-v-krasnod/",
-          "source": "Кубанские новости"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -230,34 +258,6 @@
           "snippet": "",
           "url": "https://www.nn.ru/text/incidents/2025/09/11/76024219/",
           "source": "Новости Нижнего Новгорода – nn.ru"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "бабье лето 2025",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 12 Sep 2025 19:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTYS1__1Uw8kT-OTmGLDftQmEfVS9JuEzYQ97tqz2Ng1iN76KqNOE9IDCJsNg",
-      "pictureSource": "Яндекс",
-      "relatedSearch": [
-        {
-          "title": "Бабье лето в 2025: когда начинается и сколько продлится в России",
-          "snippet": "",
-          "url": "https://yandex.ru/pogoda/ru/blog/babye-leto-2025",
-          "source": "Яндекс"
-        },
-        {
-          "title": "Дату второго бабьего лета в сентябре-2025 назвали синоптики Новосибирска",
-          "snippet": "",
-          "url": "https://vn.ru/news-datu-vtorogo-babego-leta-v-sentyabre-2025-nazvali-sinoptiki-novosibirska/",
-          "source": "Все новости Новосибирской области"
-        },
-        {
-          "title": "Когда ждать бабье лето в Новосибирской области — отвечает гидрометцентр",
-          "snippet": "",
-          "url": "https://nsknews.info/materials/kogda-zhdat-babe-leto-v-novosibirskoy-oblasti-otvechaet-gidromettsentr/",
-          "source": "Новосибирские новости"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,58 +1,114 @@
 {
-  "lastUpdate": "2025-09-13 01:09:03",
+  "lastUpdate": "2025-09-13 02:19:13",
   "data": [
+    {
+      "title": "uber",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 12 Sep 2025 18:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR__gOrrQOTCl9MqpSFz6CW68uq6iqMwSLSGFsOcwSVKBRYR-ZW1NwUtUeY9BA",
+      "pictureSource": "The Guardian",
+      "relatedSearch": [
+        {
+          "title": "US government sues Uber, alleging discrimination against disabled passengers",
+          "snippet": "",
+          "url": "https://www.theguardian.com/technology/2025/sep/11/us-government-uber-lawsuit",
+          "source": "The Guardian"
+        },
+        {
+          "title": "US sues Uber, alleging disability discrimination",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/09/11/tech/us-sues-uber-alleging-disability-discrimination",
+          "source": "CNN"
+        },
+        {
+          "title": "How Does Disability Compliance Impact Uber’s Global Expansion?",
+          "snippet": "",
+          "url": "https://www.techinasia.com/question/how-do-disability-compliance-requirements-affect-ubers-expansion-strategy-in-different-countries",
+          "source": "Tech in Asia"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "taxi",
       "trafficCount": "200+",
       "pubDate": "Fri, 12 Sep 2025 17:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsIRuO_f7b8Sf98hpaaUgm1QpoY7QDCYSLpDhVr0lEgwMMqcyiAesBXMh4o7s",
-      "pictureSource": "Báo VietNamNet",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhfxfuL1RjzMle2Nzvxp5GcuzrLR1rf2bLN95jpFE-oY0i6STavt0Rk5qF00k",
+      "pictureSource": "Báo Pháp Luật TP. Hồ Chí Minh",
       "relatedSearch": [
         {
-          "title": "Vụ người phụ nữ bị 'chặt chém' 2,5 triệu: Đưa tài xế taxi ra dựng lại hiện trường",
+          "title": "Giữ người trong trường hợp khẩn cấp với tài xế chặt chém 2,5 triệu đồng cuốc xe 70km",
           "snippet": "",
-          "url": "https://vietnamnet.vn/vu-nguoi-phu-nu-bi-chat-chem-2-5-trieu-dua-tai-xe-taxi-ra-dung-lai-hien-truong-2441970.html",
-          "source": "Báo VietNamNet"
-        },
-        {
-          "title": "Người phụ nữ đi rửa bát thuê bị “chặt chém” 2,5 triệu đồng cho cuốc xe 70 km: Tạm giữ tài xế",
-          "snippet": "",
-          "url": "https://nld.com.vn/nguoi-phu-nu-di-rua-bat-thue-bi-chat-chem-25-trieu-dong-cho-cuoc-xe-70-km-tam-giu-tai-xe-196250913055620598.htm",
-          "source": "Báo Người Lao Động"
+          "url": "https://plo.vn/giu-nguoi-trong-truong-hop-khan-cap-voi-tai-xe-chat-chem-25-trieu-dong-cuoc-xe-70km-post870225.html",
+          "source": "Báo Pháp Luật TP. Hồ Chí Minh"
         },
         {
           "title": "Người phụ nữ bị ép trả 2,5 triệu cho quãng đường 70km: Gia đình nghèo lắm, mất cả tháng lương của tôi",
           "snippet": "",
           "url": "https://cafebiz.vn/nguoi-phu-nu-bi-ep-tra-25-trieu-cho-quang-duong-70km-gia-dinh-ngheo-lam-mat-ca-thang-luong-cua-toi-176250912215236839.chn",
           "source": "CafeBiz"
+        },
+        {
+          "title": "Bắt tài xế Nguyễn Trường Giang 'chặt chém' 2,5 triệu đồng của người phụ nữ rửa bát thuê",
+          "snippet": "",
+          "url": "https://tuoitre.vn/video/bat-tai-xe-nguyen-truong-giang-chat-chem-25-trieu-dong-cua-nguoi-phu-nu-rua-bat-thue-186760.htm",
+          "source": "Báo Tuổi Trẻ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "mcdonalds",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 12 Sep 2025 17:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBff1h0aXuJkrCZf9Mb03SFphrA2Q3c4Tx58Xc2z5InRLqbtTafpyWdnLDX7w",
+      "pictureSource": "Newsweek",
+      "relatedSearch": [
+        {
+          "title": "McDonald's Changes Rules On Happy Meal Orders",
+          "snippet": "",
+          "url": "https://www.newsweek.com/mcdonalds-changes-rules-happy-meal-orders-2128879",
+          "source": "Newsweek"
+        },
+        {
+          "title": "McDonald's Is Cracking Down on Happy Meal Scalpers in Japan",
+          "snippet": "",
+          "url": "https://www.businessinsider.com/mcdonalds-japan-sanrio-happy-meal-scalpers-toys-resale-pokemon-lines-2025-9",
+          "source": "Business Insider"
+        },
+        {
+          "title": "McDonald's customers share photos of disturbing scenes after recent promotion: 'We take this matter seriously'",
+          "snippet": "",
+          "url": "https://www.yahoo.com/news/articles/mcdonalds-customers-share-photos-disturbing-094500008.html",
+          "source": "Yahoo"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "ps5",
-      "trafficCount": "500+",
+      "trafficCount": "100+",
       "pubDate": "Fri, 12 Sep 2025 17:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRWE2-KCmLz5X9T-aJ5yHgTIgZO0H4t5Q9VsVYDwESDp4ikDosW6STXOGkaQo",
-      "pictureSource": "www.square-enix-games.com",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5RODPoLU9P5ZDqQA5PzNs5zBLExGPpaq2kVnVUQOIidyKrJKxbhqA5L6Zqyk",
+      "pictureSource": "Sortir à Paris",
       "relatedSearch": [
         {
-          "title": "What is DRAGON QUEST VII Reimagined?",
+          "title": "Resident Evil 7 Biohazard bientôt sur Nintendo Switch 2",
           "snippet": "",
-          "url": "https://www.square-enix-games.com/en_EU/news/dragon-quest-vii-reimagined",
-          "source": "www.square-enix-games.com"
+          "url": "https://www.sortiraparis.com/loisirs/gaming/articles/332704-resident-evil-7-biohazard-nintendo-switch-2",
+          "source": "Sortir à Paris"
         },
         {
-          "title": "DRAGON QUEST VII REIMAGINED , A BOLD NEW REMAKE OF THE RPG CLASSIC, LAUNCHES ON FEB. 5, 2026",
+          "title": "Resident Evil Requiem, Monster Hunter Stories 3: Twisted Reflection et Mega Man Star Force Legacy Collection s’invitent dans le Nintendo Direct",
           "snippet": "",
-          "url": "https://press.na.square-enix.com/DRAGON-QUEST-VII-REIMAGINED-A-BOLD-NEW-REMAKE-OF-THE-RPG-CLASSIC-LAUNC",
-          "source": "Square Enix press site"
+          "url": "https://www.nintendo-town.fr/2025/09/12/resident-evil-requiem-monster-hunter-stories-3-twisted-reflection-et-mega-man-star-force-legacy-collection-sinvitent-dans-le-nintendo-direct/",
+          "source": "Nintendo-Town"
         },
         {
-          "title": "Dragon Quest VII and Fatal Frame II Remakes Revealed During Nintendo Direct",
+          "title": "Nouveau trailer de Resident Evil Requiem : c’est toujours aussi terrifiant que mystérieux",
           "snippet": "",
-          "url": "https://www.cinelinx.com/games/game-news/dragon-quest-vii-and-fatal-frame-ii-remakes-revealed-during-nintendo-direct/",
-          "source": "Cinelinx"
+          "url": "https://www.xboxygen.com/News/nouveau-trailer-de-resident-evil-requiem-cest-toujours-aussi-terrifiant-que-mysterieux",
+          "source": "Xboxygen"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -98,15 +154,9 @@
       "title": "taylor swift",
       "trafficCount": "200+",
       "pubDate": "Fri, 12 Sep 2025 15:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQGqXCyeg9bDMKRaOUck2nxO0vRyYYZ3dJtv1YkLEjwLFR143S4-zBFYZnCBA",
-      "pictureSource": "The Times of India",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTqSR41cztsUq5MExuK9sPZS3UgwBBQgZBhvpvT2fezCMrV-XXh1FGaFy-SVw",
+      "pictureSource": "BBC",
       "relatedSearch": [
-        {
-          "title": "“She’s not obsessed”: Blake Lively shuts the door on Taylor Swift's friendship after her engagement with",
-          "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/sports/nfl/news/shes-not-obsessed-blake-lively-shuts-the-door-on-taylor-swift-friendship-after-her-engagement-with-travis-kelce/articleshow/123812271.cms",
-          "source": "The Times of India"
-        },
         {
           "title": "Taylor Swift denies agreeing to be deposed in Lively-Baldoni case",
           "snippet": "",
@@ -118,6 +168,12 @@
           "snippet": "",
           "url": "https://www.cnn.com/2025/09/12/entertainment/taylor-swift-blake-lively-justin-baldoni",
           "source": "CNN"
+        },
+        {
+          "title": "Taylor Swift's Lawyer Says She 'Did Not Agree' to Blake Lively, Justin Baldoni Deposition but Will Do If 'Forced'",
+          "snippet": "",
+          "url": "https://people.com/taylor-swift-lawyer-says-she-did-not-agree-to-blake-lively-justin-baldoni-deposition-11809094",
+          "source": "People.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -146,34 +202,6 @@
           "snippet": "",
           "url": "https://www.lepoint.fr/pop-culture/conjuring-4-l-epouvantable-histoire-vraie-qui-a-inspire-ce-nouveau-volet-10-09-2025-2598303_2920.php",
           "source": "Le Point"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "amazon prime video",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 12 Sep 2025 15:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8NVN4TOmQtUkzE3EfpQU9gQI1k-v3TMawjw3p7KKy-y5POVvV9YGCyeNq4fM",
-      "pictureSource": "Le Monde.fr",
-      "relatedSearch": [
-        {
-          "title": "Un apéro avec Mister V : « Je suis le mec à 12/20, ni très drôle ni très beau »",
-          "snippet": "",
-          "url": "https://www.lemonde.fr/m-perso/article/2025/09/12/un-apero-avec-mister-v-je-suis-le-mec-a-12-20-ni-tres-drole-ni-tres-beau_6640658_4497916.html",
-          "source": "Le Monde.fr"
-        },
-        {
-          "title": "“McWalter”, sur Prime Video : Mister V en agent secret empêtré dans un réjouissant foutoir",
-          "snippet": "",
-          "url": "https://www.telerama.fr/cinema/mcwalter-sur-prime-video-mister-v-en-agent-secret-empetre-dans-un-rejouissant-foutoir_cri-7040555.php",
-          "source": "Télérama"
-        },
-        {
-          "title": "Prime Video : c’est quoi McWalter, le film français avec Mister V dont vous allez entendre parler tout le week-end ?",
-          "snippet": "",
-          "url": "https://www.allocine.fr/article/fichearticle_gen_carticle=1000164145.html",
-          "source": "AlloCiné"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -230,34 +258,6 @@
           "snippet": "",
           "url": "https://www.ladepeche.fr/2025/09/12/mask-singer-2025-nouveau-jury-premier-candidat-demasque-costumes-ce-qui-vous-attend-cette-saison-12924759.php",
           "source": "ladepeche.fr"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "prince",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 12 Sep 2025 15:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXD7aBGGnmeRhZq9rYKb9uzmU8p7VpygPL_ly3qlJ_VAMW8VI5OGHGftgrG8E",
-      "pictureSource": "The New York Times",
-      "relatedSearch": [
-        {
-          "title": "The All-Consuming Question Hanging Over Prince Harry’s U.K. Visit",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2025/09/08/world/europe/prince-harry-uk-visit.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Prince William Blindsided After King Charles Froze Him Out Over Prince Harry Reunion, Says Insider",
-          "snippet": "",
-          "url": "https://www.yahoo.com/entertainment/celebrity/articles/prince-william-blindsided-king-charles-145024318.html",
-          "source": "Yahoo Entertainment"
-        },
-        {
-          "title": "Prince Harry addresses surprise reunion with father King Charles III",
-          "snippet": "",
-          "url": "https://www.usatoday.com/story/entertainment/celebrities/2025/09/11/prince-harry-comments-king-charles-iii-reunion/86091122007/",
-          "source": "USA Today"
         }
       ],
       "link": "https://imtaqin.id/"

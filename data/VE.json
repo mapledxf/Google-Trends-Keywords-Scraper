@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2025-09-14 13:44:21",
+  "lastUpdate": "2025-09-14 13:52:22",
   "data": [
     {
+      "title": "losc - toulouse",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 14 Sep 2025 06:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIUN5739ZFTCBAOeq-9mMt_V9LN0WQ-XiI-HHR-HUuQ0CNqAtO7hooE6nwrsE",
+      "pictureSource": "Le11hdf",
+      "relatedSearch": [
+        {
+          "title": "LOSC – TFC : le onze de Bruno Genesio, Haraldsson absent !",
+          "snippet": "",
+          "url": "https://le11hdf.fr/losc-tfc-le-onze-de-bruno-genesio/",
+          "source": "Le11hdf"
+        },
+        {
+          "title": "Lille OSC - Toulouse FC en direct - Ligue 1 2025/2026 : Football Scores & Résultats - 14/09/2025",
+          "snippet": "",
+          "url": "https://www.eurosport.fr/football/ligue-1/2025-2026/live-lille-osc-toulouse-fc_mtc1609317/live-commentary.shtml",
+          "source": "Eurosport"
+        },
+        {
+          "title": "Composition de Lille : Hakon Haraldsson forfait contre Toulouse pour une blessure mineure",
+          "snippet": "",
+          "url": "https://www.lequipe.fr/Football/Actualites/Composition-de-lille-hakon-haraldsson-forfait-contre-toulouse-pour-une-blessure-mineure/1593277",
+          "source": "L'Équipe"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "levante - betis",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 14 Sep 2025 06:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYxPgRaARtQHH3STZs5sGyYA35jez5IgetPujmO-M4Y1_HtQnTkktGL1NDRDI",
       "pictureSource": "MARCA",
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://www.teleprensa.com/articulo/deportes/pre-betis-busca-reconducir-camino-celta-girona-quieren-estrenar-casillero-victorias/202509131402172215483.html",
           "source": "Teleprensa"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "atalanta - lecce",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 14 Sep 2025 06:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzYZerZaIMOA_K9rhuJ0ulfXILBORjoBnLUuoC013SBK9tHlJLIiysBen17Y4",
-      "pictureSource": "Diretta",
-      "relatedSearch": [
-        {
-          "title": "Calcio Live News: le probabili di oggi",
-          "snippet": "",
-          "url": "https://www.diretta.it/news/calcio-live-news-in-campo-atalanta-lecce-0-0-e-pisa-udinese-0-1/K8XzzWrp/",
-          "source": "Diretta"
-        },
-        {
-          "title": "FORMAZIONI UFFICIALI – La scelta su Maldini, Djimsiti, Stulic, Pierotti, Nzola, Tramoni e Bravo",
-          "snippet": "",
-          "url": "https://www.sosfanta.com/probabili-formazioni/formazioni-ufficiali-la-scelta-su-maldini-djimsiti-stulic-pierotti-nzola-tramoni-e-bravo/",
-          "source": "SOS Fanta"
-        },
-        {
-          "title": "Il Lecce a Bergamo nel ricordo di Graziano Fiorita",
-          "snippet": "",
-          "url": "https://www.lecceoggi.com/il-lecce-a-bergamo-nel-ricordo-di-graziano-fiorita/",
-          "source": "LecceOggi"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -81,6 +81,34 @@
           "snippet": "",
           "url": "https://www.skysports.com/football/video/30998/13430867/sam-kerr-grabs-late-goal-on-first-game-back-in-nearly-two-years",
           "source": "Sky Sports"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "atalanta - lecce",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 14 Sep 2025 06:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzYZerZaIMOA_K9rhuJ0ulfXILBORjoBnLUuoC013SBK9tHlJLIiysBen17Y4",
+      "pictureSource": "Diretta",
+      "relatedSearch": [
+        {
+          "title": "Calcio Live News: le probabili di oggi",
+          "snippet": "",
+          "url": "https://www.diretta.it/news/calcio-live-news-in-campo-atalanta-lecce-0-0-e-pisa-udinese-0-1/K8XzzWrp/",
+          "source": "Diretta"
+        },
+        {
+          "title": "LIVE, Atalanta-Lecce 0-0: la cronaca",
+          "snippet": "",
+          "url": "https://www.trnews.it/2025/09/14/live-atalanta-lecce-la-cronaca-2/",
+          "source": "Telerama News"
+        },
+        {
+          "title": "FORMAZIONI UFFICIALI – La scelta su Maldini, Djimsiti, Stulic, Pierotti, Nzola, Tramoni e Bravo",
+          "snippet": "",
+          "url": "https://www.sosfanta.com/probabili-formazioni/formazioni-ufficiali-la-scelta-su-maldini-djimsiti-stulic-pierotti-nzola-tramoni-e-bravo/",
+          "source": "SOS Fanta"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,9 +173,15 @@
       "title": "burnley - liverpool",
       "trafficCount": "2000+",
       "pubDate": "Sun, 14 Sep 2025 05:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsz7MccacmXd-V_haFGcMXLE-JJBpaQ3Nn4-fB39ohbITHNDQo0HotqBp3z38",
-      "pictureSource": "Flashscore.com",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlszsrIJ740VgLenqQMDbMaQd6pOpXKcQweBJrPt2bynrF732tJciPdYtCJc4",
+      "pictureSource": "Liverpool FC",
       "relatedSearch": [
+        {
+          "title": "Confirmed Liverpool line-up v Burnley",
+          "snippet": "",
+          "url": "https://www.liverpoolfc.com/news/confirmed-liverpool-line-v-burnley-3",
+          "source": "Liverpool FC"
+        },
         {
           "title": "Football Tracker: Liverpool facing Burnley in Premier League, Lille and Atalanta in action",
           "snippet": "",
@@ -159,12 +193,6 @@
           "snippet": "",
           "url": "https://www.goal.com/en/lists/no-debut-for-alexander-isak-liverpool-leave-new-striker-out-of-squad-burnley-fitness-concerns/blt3972d33c9424d899",
           "source": "Goal.com"
-        },
-        {
-          "title": "Scott Parker has bold plan to make Liverpool feel 'uncomfortable' vs Burnley",
-          "snippet": "",
-          "url": "https://www.liverpool.com/liverpool-fc-news/features/scott-parker-burnley-uncomfortable-plan-32472815",
-          "source": "Liverpool.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,7 +229,7 @@
       "title": "barquisimeto",
       "trafficCount": "200+",
       "pubDate": "Sun, 14 Sep 2025 04:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQz8F-ccvlCW3Nh7INV3A8EbB4l5Fx5CxMQnSqPcV2MfqK6fwxJn6d1C7uQeIE",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcego0T8-KsleAU5KwDSpNCrUYjim_zWUBpyi8-K57FpOfvYqAQNICpTeJHvY",
       "pictureSource": "El Impulso",
       "relatedSearch": [
         {
@@ -239,44 +267,16 @@
           "source": "Il Messaggero"
         },
         {
-          "title": "Risentimento per Dybala, Gasp: 'Non sembra grave'",
+          "title": "Dybala infortunio, come sta, le sue condizioni e se può saltare il derby",
           "snippet": "",
-          "url": "https://sport.sky.it/calcio/serie-a/2025/09/14/dybala-infortunio-roma-torino-news-oggi",
-          "source": "Sky Sport"
+          "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2025/09/14-143137477/dybala_infortunio_come_sta_le_sue_condizioni_e_se_pu_saltare_il_derby",
+          "source": "Corriere dello Sport"
         },
         {
-          "title": "Calcio, risultati e classifica serie A. Scatto Torino",
+          "title": "Il Toro batte la Roma, Sonego esulta: il messaggio per Cobolli sui social è virale!",
           "snippet": "",
-          "url": "https://askanews.it/2025/09/14/calcio-risultati-e-classifica-serie-a-scatto-torino/",
-          "source": "Askanews"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "espn",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 13 Sep 2025 21:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0_T45PrgCa_biCJLEugsHl-dlEhYeOOjh1BTs-4ZCIaYiR9viDZs3v02KUSY",
-      "pictureSource": "The Big Lead",
-      "relatedSearch": [
-        {
-          "title": "NFL: Bold Predictions For Sunday Night Football Week Two",
-          "snippet": "",
-          "url": "https://lists.thebiglead.com/sports/nfl-bold-predictions-for-sunday-night-football-week-two/",
-          "source": "The Big Lead"
-        },
-        {
-          "title": "Justin Jefferson, Bijan Robinson, and 3 More Underdog Props For Vikings vs. Falcons",
-          "snippet": "",
-          "url": "https://www.si.com/onsi/fantasy/dfs/justin-jefferson-bijan-robinson-underdog-props-vikings-falcons",
-          "source": "Sports Illustrated"
-        },
-        {
-          "title": "McCarthy-Penix Is A Primetime-Worthy QB Matchup",
-          "snippet": "",
-          "url": "https://zonecoverage.com/2025/minnesota-vikings-news/mccarthy-penix-is-a-primetime-worthy-qb-matchup/",
-          "source": "Zone Coverage"
+          "url": "https://www.tuttosport.com/news/tennis/2025/09/14-143138107/il_toro_batte_la_roma_sonego_esulta_il_messaggio_per_cobolli_sui_social_virale_",
+          "source": "Tuttosport"
         }
       ],
       "link": "https://imtaqin.id/"

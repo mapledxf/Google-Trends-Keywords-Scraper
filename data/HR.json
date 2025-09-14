@@ -1,30 +1,30 @@
 {
-  "lastUpdate": "2025-09-14 07:35:59",
+  "lastUpdate": "2025-09-14 07:43:43",
   "data": [
     {
       "title": "weather",
       "trafficCount": "1000+",
       "pubDate": "Sat, 13 Sep 2025 22:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHCUT7TXBHmlqwz8r5IzJWmnDFodMyMpF8aR376ZQKw5Qdzt-Hrgh0NuAnEFo",
-      "pictureSource": "KTVN",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTwuB-xCNHaN4yjIu1PrbLMm2IJjiQ-AjN0IwJ6cJwI5Av7SOqVbcZePtrrr0",
+      "pictureSource": "North Wales Live",
       "relatedSearch": [
         {
-          "title": "Evening Forecast for September 13",
+          "title": "Met Office 'uncomfortable' warning for Wales as weather changes",
           "snippet": "",
-          "url": "https://www.2news.com/video/weathercast/evening-forecast-for-september-13/video_1a6fae7a-c995-5ef5-a7c3-aa4e057ccef9.html",
-          "source": "KTVN"
+          "url": "https://www.dailypost.co.uk/news/north-wales-news/met-office-uncomfortable-warning-wales-32429183",
+          "source": "North Wales Live"
         },
         {
-          "title": "NEXT Weather: 10 p.m. weather report for Saturday, Sept. 13, 2025",
+          "title": "Flood alerts in place for Pendine and Hendy, east of Llanelli",
           "snippet": "",
-          "url": "https://www.cbsnews.com/minnesota/video/next-weather-10-p-m-weather-report-for-saturday-sept-13-2025/",
-          "source": "CBS News"
+          "url": "https://www.southwalesguardian.co.uk/news/25461144.flood-alerts-place-pendine-hendy-east-llanelli/",
+          "source": "southwalesguardian.co.uk"
         },
         {
-          "title": "09/13/2025: The Coolest and Cloudiest on the 7-Day",
+          "title": "Three-day flood alert enforced across Anglesey and Gwynedd",
           "snippet": "",
-          "url": "https://www.news10.com/forecast/09-13-2025-the-coolest-and-cloudiest-on-the-7-day/",
-          "source": "NEWS10 ABC"
+          "url": "https://www.northwaleschronicle.co.uk/news/25456351.three-day-flood-alert-place-across-anglesey-gwynedd/",
+          "source": "North Wales Chronicle"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,15 +33,9 @@
       "title": "vrijeme",
       "trafficCount": "20000+",
       "pubDate": "Sat, 13 Sep 2025 22:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-vOX7DB2E_dGtjRHJwXb4mTaxsROoMDeGD_glb07lCX7M_hr2cfBFhs-mld8",
-      "pictureSource": "Slobodna Dalmacija",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7wMWgOODb6iPu8KFR94KR8XKqYxg4FxhR6Ov7ybhrqy0X0CpzrawEt1bG_U8",
+      "pictureSource": "24sata.hr",
       "relatedSearch": [
-        {
-          "title": "Danas mogući pljuskovi s grmljavinom, evo kakvo nas vrijeme čeka idućeg tjedna i kada padaju temperature",
-          "snippet": "",
-          "url": "https://slobodnadalmacija.hr/vijesti/hrvatska/danas-moguci-pljuskovi-s-grmljavinom-evo-kakvo-nas-vrijeme-ceka-iduceg-tjedna-i-kada-padaju-temperature-1502908",
-          "source": "Slobodna Dalmacija"
-        },
         {
           "title": "STIŽE NEVRIJEME! DHMZ upalio žuti alarm za cijelu Hrvatsku!",
           "snippet": "",
@@ -53,6 +47,12 @@
           "snippet": "",
           "url": "https://vrijeme-i-promet.hrt.hr/vrijeme/vremenska-prognoza-za-14-9-2025-12320482",
           "source": "Vrijeme i promet - HRT"
+        },
+        {
+          "title": "Nevrijeme prijeti većini Hrvatske: Zahladit će, stižu olujna bura i obilna kiša",
+          "snippet": "",
+          "url": "https://www.tportal.hr/vijesti/clanak/nevrijeme-prijeti-vecini-hrvatske-zahladit-ce-stizu-olujna-bura-i-obilna-kisa-20250913",
+          "source": "tportal.hr"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,9 +161,9 @@
           "source": "Mediotiempo"
         },
         {
-          "title": "Terrence Crafford Top Tihasik es undesi",
+          "title": "CANLLO vs. CRFORD Live Actualización, resultados, análisis de combate",
           "snippet": "",
-          "url": "https://noticiashuesca.com/mas-actualidad/terrence-crafford-top-tihasik-es-undesi/27122/",
+          "url": "https://noticiashuesca.com/mas-actualidad/canllo-vs-crford-live-actualizacion-resultados-analisis-de-combate/26619/",
           "source": "Noticias Huesca"
         }
       ],
@@ -183,10 +183,10 @@
           "source": "Netflix"
         },
         {
-          "title": "Canelo Alvarez vs. Terence Crawford prediction, odds, line, time: Picks from boxing expert who's up $1,500",
+          "title": "Canelo vs. Crawford: What the stats, numbers tell us about the fight",
           "snippet": "",
-          "url": "https://www.cbssports.com/boxing/news/canelo-alvarez-vs-terence-crawford-boxing-odds-picks-prediction/",
-          "source": "CBS Sports"
+          "url": "https://www.espn.com.au/boxing/story/_/id/46225489/boxing-stats-key-numbers-canelo-alvarez-vs-terence-crawford",
+          "source": "ESPN"
         },
         {
           "title": "Canelo vs Crawford: History-making American becomes three-weight undisputed champion",
@@ -211,16 +211,16 @@
           "source": "24sata.hr"
         },
         {
+          "title": "Indira i Scooter na Velesajmu, Prljavci na Šalati: Sinoć je Zagreb gorio! Pogledajte prizore",
+          "snippet": "",
+          "url": "https://net.hr/hot/glazba/indira-i-scooter-na-velesajmu-prljavci-na-salati-sinoc-je-zagreb-gorio-pogledajte-prizore-2e70e0c2-9135-11f0-aa13-9600040c8f8e",
+          "source": "Net.hr"
+        },
+        {
           "title": "FOTO/VIDEO Scooter napokon u Hrvatskoj: Techno spektakl za pamćenje",
           "snippet": "",
           "url": "https://dalmatinskiportal.hr/zivot/foto-video-scooter-napokon-u-hrvatskoj--techno-spektakl-za-pamcenje/247770",
           "source": "Dalmatinski portal"
-        },
-        {
-          "title": "Vatreno otvaranje Fair Festa: Na prvom nastupu u Zagrebu Steve Aoki fanovima servirao tortu u lice i poručio „Hrvatska, volim te“",
-          "snippet": "",
-          "url": "https://prigorski.hr/vatreno-otvaranje-fair-festa-na-prvom-nastupu-u-zagrebu-steve-aoki-fanovima-servirao-tortu-u-lice-i-porucio-hrvatska-volim-te/",
-          "source": "Prigorski.hr"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,16 +239,16 @@
           "source": "La Gazzetta dello Sport"
         },
         {
+          "title": "Il commento. La difficoltà di diventare una squadra",
+          "snippet": "",
+          "url": "https://sport.quotidiano.net/calcio/fiorentina/il-commento-la-difficolta-di-172583e6",
+          "source": "Quotidiano Sportivo"
+        },
+        {
           "title": "Conte: 'Bene per la vittoria, ma il finale della gara non mi è piaciuto'",
           "snippet": "",
           "url": "https://www.firenzedintorni.it/it/conte-parole-post-fiorentina-napoli.html",
           "source": "Firenze e dintorni"
-        },
-        {
-          "title": "Calcio Live News: le probabili formazioni di oggi, il Napoli vince a Firenze",
-          "snippet": "",
-          "url": "https://www.diretta.it/news/calcio-live-news-le-probabili-formazioni-di-oggi-il-napoli-vince-a-firenze/K8XzzWrp/",
-          "source": "Diretta"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -273,9 +273,9 @@
           "source": "OneFootball"
         },
         {
-          "title": "Nico González, llegar y besar el santo",
+          "title": "2-0. La pegada alivia a Simeone",
           "snippet": "",
-          "url": "https://es-us.noticias.yahoo.com/deportes/nico-gonz%C3%A1lez-llegar-besar-santo-210736802.html",
+          "url": "https://es-us.noticias.yahoo.com/deportes/2-0-pegada-alivia-simeone-210357282.html",
           "source": "Yahoo Deportes"
         }
       ],

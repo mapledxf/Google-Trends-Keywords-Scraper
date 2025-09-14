@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-14 09:58:18",
+  "lastUpdate": "2025-09-14 10:16:23",
   "data": [
     {
       "title": "zemunski polumaraton",
@@ -59,7 +59,7 @@
     },
     {
       "title": "pink rs zadruga",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 13 Sep 2025 22:20:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfQAYtzLkH4VeFGWYXN7Hw84i2J3veZC6hyfHTMjTvfhkNjkWmvnBbfLQUIZs",
       "pictureSource": "Pink.rs",
@@ -89,11 +89,17 @@
       "title": "weather",
       "trafficCount": "5000+",
       "pubDate": "Sat, 13 Sep 2025 22:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-bfkwCIgBihYbfQTijvozCltdgqkwM64DtgLmsjttCiXFtxKbRKXyClcImSk",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTML0FyScVUh5lgkJg6t3Rx0OdGHC4OzrgM1-r1iZFuHL-nutM196JDNJu8XMs",
+      "pictureSource": "Liverpool Echo",
       "relatedSearch": [
         {
-          "title": "Wind and rain to hit UK as weather warnings issued",
+          "title": "Liverpool hour-by-hour weather forecast as Met Office issue warning",
+          "snippet": "",
+          "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/liverpool-hour-hour-weather-forecast-32470313",
+          "source": "Liverpool Echo"
+        },
+        {
+          "title": "Strong winds and heavy rain forecast as stormy weather to hit the UK",
           "snippet": "",
           "url": "https://www.bbc.co.uk/weather/articles/c5ykrp2436eo",
           "source": "BBC"
@@ -103,40 +109,6 @@
           "snippet": "",
           "url": "https://www.independent.co.uk/bulletin/news/weather-warning-met-office-wind-b2826147.html",
           "source": "The Independent"
-        },
-        {
-          "title": "Met Office updates weather warning across Conwy and Denbighshire this weekend",
-          "snippet": "",
-          "url": "https://www.rhyljournal.co.uk/news/25462065.met-office-issues-weather-warning-conwy-denbighshire/?ref=rss",
-          "source": "Rhyl Journal"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "vrijeme",
-      "trafficCount": "1000+",
-      "pubDate": "Sat, 13 Sep 2025 21:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRV4pgSM5CLtI0S2L_KAVgloRXEUjXG1_cwHU_MS8XUeVXpvdYguiPNim3v0as",
-      "pictureSource": "RTRS",
-      "relatedSearch": [
-        {
-          "title": "Већи дио дана сунчан, увече наоблачење",
-          "snippet": "",
-          "url": "https://www.rtrs.tv/vijesti/vijest.php?id=614342",
-          "source": "RTRS"
-        },
-        {
-          "title": "Vrijeme sutra: Sunčano i toplije",
-          "snippet": "",
-          "url": "https://srpskacafe.com/2025/09/vrijeme-sutra-suncano-i-toplije-9/",
-          "source": "Srpskacafe"
-        },
-        {
-          "title": "Poslije kiše, stiže sunce: Danas pretežno sunčano i toplo",
-          "snippet": "",
-          "url": "https://www.bl-portal.com/drustvo/poslije-kise-stize-sunce-danas-pretezno-suncano-i-toplo/",
-          "source": "BL Portal"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -165,6 +137,34 @@
           "snippet": "",
           "url": "https://www.rfi.fr/es/m%C3%A1s-noticias/20250914-me-sigo-sintiendo-un-campe%C3%B3n-y-voy-a-seguir-dice-canelo-tras-derrota",
           "source": "RFI"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "vrijeme",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 13 Sep 2025 21:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRV4pgSM5CLtI0S2L_KAVgloRXEUjXG1_cwHU_MS8XUeVXpvdYguiPNim3v0as",
+      "pictureSource": "RTRS",
+      "relatedSearch": [
+        {
+          "title": "Већи дио дана сунчан, увече наоблачење",
+          "snippet": "",
+          "url": "https://www.rtrs.tv/vijesti/vijest.php?id=614342",
+          "source": "RTRS"
+        },
+        {
+          "title": "Vrijeme sutra: Sunčano i toplije",
+          "snippet": "",
+          "url": "https://srpskacafe.com/2025/09/vrijeme-sutra-suncano-i-toplije-9/",
+          "source": "Srpskacafe"
+        },
+        {
+          "title": "Poslije kiše, stiže sunce: Danas pretežno sunčano i toplo",
+          "snippet": "",
+          "url": "https://www.bl-portal.com/drustvo/poslije-kise-stize-sunce-danas-pretezno-suncano-i-toplo/",
+          "source": "BL Portal"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -223,54 +223,54 @@
       "title": "canelo vs crawford",
       "trafficCount": "500+",
       "pubDate": "Sat, 13 Sep 2025 16:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhKWPrxEyI3MRQ2RJrfIi53UN65TapfOQjdUyTUBpAfzIMtRqC77EaNs5UKYU",
-      "pictureSource": "ESPN",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXHEXBrLwd8cT1SCxNnVbUPfB37IanO4SPUIoUOTY4n3RrB7lWQ2SM82kc2A8",
+      "pictureSource": "Netflix",
       "relatedSearch": [
+        {
+          "title": "Canelo vs. Crawford Weigh-In Results: Final Weights Revealed in Las Vegas",
+          "snippet": "",
+          "url": "https://www.netflix.com/tudum/features/canelo-crawford-weigh-in-start-time-how-to-watch",
+          "source": "Netflix"
+        },
+        {
+          "title": "Canelo Alvarez vs. Terence Crawford prediction, odds, line, time: Picks from boxing expert who's up $1,500",
+          "snippet": "",
+          "url": "https://www.cbssports.com/boxing/news/canelo-alvarez-vs-terence-crawford-boxing-odds-picks-prediction/",
+          "source": "CBS Sports"
+        },
         {
           "title": "Canelo vs. Crawford: What the stats, numbers tell us about the fight",
           "snippet": "",
           "url": "https://www.espn.com.au/boxing/story/_/id/46225489/boxing-stats-key-numbers-canelo-alvarez-vs-terence-crawford",
           "source": "ESPN"
-        },
-        {
-          "title": "Canelo vs Crawford: History-making Terence Crawford becomes three-weight undisputed champion",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/boxing/articles/c62nz9w1kl0o",
-          "source": "BBC"
-        },
-        {
-          "title": "Results + Scorecards | Canelo vs Crawford",
-          "snippet": "",
-          "url": "https://www.ufc.com/news/live-results-official-scorecards-match-recaps-interviews-canelo-vs-crawford-las-vegas",
-          "source": "UFC.com"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "dusko todorovic",
+      "title": "elita 9 ucesnici",
       "trafficCount": "1000+",
-      "pubDate": "Sat, 13 Sep 2025 16:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXm1iroBLp6ejds2mWbXdm1Cy9RoogN8Z5sWH2KX4bS5WxrZHpEyii3toF1n4",
-      "pictureSource": "Sportal.rs",
+      "pubDate": "Sat, 13 Sep 2025 14:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyi7de-76Vvzm_pl5LV-TElIRGl0MMN1bJX_-yW1BHG1wYA5MrBOA0wgOr81o",
+      "pictureSource": "Blic",
       "relatedSearch": [
         {
-          "title": "Velika UFC pobeda srpskog borca: Todorović \"ugušio\" protivnika, sve je završio već u prvoj rundi /VIDEO/",
+          "title": "POČELA \"ZADRUGA - ELITA 9\" Uroš sa ogromnim noktima, ASMIN DURDŽIĆ MEĐU TAKMIČARIMA! Janjuševa bivša devojka Sara u rijalitiju, a tu je i TINEJDŽERKA IZ ITALIJE (VIDEO)",
           "snippet": "",
-          "url": "https://sportal.blic.rs/prica/dusko-todorovic-zabelezio-veliku-pobedu-u-ufc-2025091406402763552",
-          "source": "Sportal.rs"
+          "url": "https://www.blic.rs/zabava/pocela-zadruga-elita-9-ovo-su-ucesnici-poznata-imena-i-ove-godine-u-rijalitiju/93dkqb6",
+          "source": "Blic"
         },
         {
-          "title": "Monstrum - Pogledajte kako je Srbin \"ugušio\" protivnika, Ameri na nogama (VIDEO)",
+          "title": "NOVI DETALJI! Učesnici saznali kada će birati vođu i omiljenog, a evo gde će sve moći da spavaju večeras (VIDEO)",
           "snippet": "",
-          "url": "http://sportinjo.informer.rs/mma/vesti/1738/dusko-todorovic-mma-ufc-pobeda/vest",
-          "source": "Informer"
+          "url": "https://pink.rs/zadruga/721640/novi-detalji-ucesnici-saznali-kada-ce-birati-vodu-i-omiljenog-a-evo-gde-ce-sve-moci-da-spavaju-veceras-video",
+          "source": "Pink.rs"
         },
         {
-          "title": "Todorović \"udavio\" protivnika – prekinuo negativan niz u UFC VIDEO",
+          "title": "Ovo je novi raspored prostorija kuće u kojoj će boraviti učesnici Elite 9",
           "snippet": "",
-          "url": "https://www.b92.net/sport/borilacki-sportovi/mma/163583/todorovic-udavio-protivnika-prekinuo-negativan-niz-u-ufc-video/vest",
-          "source": "B92"
+          "url": "https://www.pulsonline.rs/rijaliti/ovo-je-novi-raspored-prostorija-kuce-u-kojoj-ce-boraviti-ucesnici-elite-9/pgr2cxt",
+          "source": "Puls Online"
         }
       ],
       "link": "https://imtaqin.id/"

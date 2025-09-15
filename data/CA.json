@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-15 11:26:04",
+  "lastUpdate": "2025-09-15 11:35:33",
   "data": [
     {
       "title": "tsla",
@@ -31,37 +31,56 @@
     },
     {
       "title": "journal de québec",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 15 Sep 2025 04:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_3SgKchdkqFn3_5JDioSO606ttqOYQMn7sokalKUujXMZEiSPvaemtQRwI_w",
+      "pictureSource": "Le Journal de Québec",
+      "relatedSearch": [
+        {
+          "title": "Un homme de 75 ans meurt en fonçant dans une maison à Sainte-Foy",
+          "snippet": "",
+          "url": "https://www.journaldequebec.com/2025/09/14/un-vehicule-fonce-de-plein-fouet-dans-une-maison-dans-sainte-foy-un-homme-de-75-ans-perd-la-vie",
+          "source": "Le Journal de Québec"
+        },
+        {
+          "title": "Un automobiliste perd la vie après avoir percuté une résidence de Sainte-Foy",
+          "snippet": "",
+          "url": "https://ici.radio-canada.ca/nouvelle/2192319/accident-mortel-vehicule-residence-sainte-foy",
+          "source": "Radio-Canada"
+        },
+        {
+          "title": "Accident mortel dans Sainte-Foy",
+          "snippet": "",
+          "url": "https://www.lesoleil.com/actualites/justice-et-faits-divers/2025/09/14/accident-mortel-dans-sainte-foy-VVA426NTFJB7DPUU36GHX4MMPE/",
+          "source": "Le Soleil"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "zach bryan gavin adcock fight",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 15 Sep 2025 03:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_l74xwuRX2sMkL-HArQ6pY9L0R7KIcZNw1NzoqlU-uTaEDXor9wJbSQe9-yc",
-      "pictureSource": "People.com",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTy8mhz8vKWY0zK22DnOTnfXxOMcQcdro-PfFr4oO6ZASQXdnQI53EHaBQyK80",
+      "pictureSource": "Fox News",
       "relatedSearch": [
         {
-          "title": "Country Singers Zach Bryan and Gavin Adcock Get into a Fight at Music Festival amid Their Ongoing Feud",
+          "title": "Gavin Adcock says Zach Bryan isn't a 'very good person' after country singer scaled festival fence to fight",
           "snippet": "",
-          "url": "https://people.com/zach-bryan-gavin-adcock-get-into-fight-at-country-music-festival-amid-feud-11809592",
-          "source": "People.com"
+          "url": "https://www.foxnews.com/entertainment/gavin-adcock-says-zach-bryan-isnt-very-good-person-country-singer-scaled-festival-fence-fight",
+          "source": "Fox News"
+        },
+        {
+          "title": "Country singers Zach Bryan and Gavin Adcock get into heated argument at Oklahoma music festival",
+          "snippet": "",
+          "url": "https://www.nbcnews.com/news/us-news/zach-bryan-gavin-adcock-heated-argument-oklahoma-rcna231181",
+          "source": "NBC News"
         },
         {
           "title": "Country singer Gavin Adcock calls out Zach Bryan, who scaled fence to fight him",
           "snippet": "",
           "url": "https://www.usatoday.com/story/entertainment/celebrities/2025/09/14/zach-bryan-gavin-adcock-fight-fence/86152633007/",
           "source": "USA Today"
-        },
-        {
-          "title": "Country Singers Zach Bryan and Gavin Adcock Escalate Feud With Verbal Altercation at Music Festival | Video",
-          "snippet": "",
-          "url": "https://ca.news.yahoo.com/country-singers-zach-bryan-gavin-233052255.html",
-          "source": "Yahoo News Canada"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -207,6 +226,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "ukraine news",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 15 Sep 2025 03:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRI0jEulGVkQB69gkjlmpSK_e6LJmLqAJaYVrb7px_pfPuqk1axSvj99A9enls",
+      "pictureSource": "Українська правда",
+      "relatedSearch": [
+        {
+          "title": "Trump's envoy Kellogg: 19 drones in Poland can't have been an accident, Putin is pushing boundaries",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/eng/news/2025/09/13/7530746/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "China Reacts to Trump Admin's Russia War Claim",
+          "snippet": "",
+          "url": "https://www.newsweek.com/trump-russia-ukraine-war-china-kellogg-2129861",
+          "source": "Newsweek"
+        },
+        {
+          "title": "If China cut off its aid to Russia, the war would have already ended - Kellogg",
+          "snippet": "",
+          "url": "https://unn.ua/en/news/if-china-cut-off-its-aid-to-russia-the-war-would-have-already-ended-kellogg",
+          "source": "Українські Національні Новини"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "world news",
       "trafficCount": "200+",
       "pubDate": "Mon, 15 Sep 2025 03:20:00 -0700",
@@ -220,44 +267,16 @@
           "source": "CBC"
         },
         {
+          "title": "Oil edges up after attacks on Russian energy facilities",
+          "snippet": "",
+          "url": "https://www.reuters.com/business/energy/oil-edges-up-after-attacks-russian-energy-facilities-2025-09-15/",
+          "source": "Reuters"
+        },
+        {
           "title": "Ukraine strikes one of Russia's top oil refineries, causing explosions and sparking fire",
           "snippet": "",
           "url": "https://www.euronews.com/2025/09/14/ukraine-strikes-one-of-russias-top-oil-refineries-causing-explosions-and-sparking-fire",
           "source": "Euronews.com"
-        },
-        {
-          "title": "Ukraine targets key Russian oil refinery as Moscow tests hypersonic missile",
-          "snippet": "",
-          "url": "https://www.aljazeera.com/news/2025/9/14/ukraine-targets-key-russian-oil-refinery-as-moscow-tests-hypersonic-missile",
-          "source": "Al Jazeera"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "apple ios 26 release date",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 15 Sep 2025 03:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWxaUlchZlEw3rbrcHVFRqDWKn9RYSPoeeSX-7Op3l5zJxu-xC7Ckx3vvxVBs",
-      "pictureSource": "USA Today",
-      "relatedSearch": [
-        {
-          "title": "What's coming to Apple CarPlay with iOS 26? What you'll see when you update your iPhone",
-          "snippet": "",
-          "url": "https://www.usatoday.com/story/cars/technology/2025/09/12/apple-carplay-upgrades-ios-26-release-date/86092587007/",
-          "source": "USA Today"
-        },
-        {
-          "title": "Apple's New iPhone 17 Lineup Has Wall Street Already Looking to Next Year",
-          "snippet": "",
-          "url": "https://www.investopedia.com/apple-s-new-iphone-17-lineup-has-wall-street-already-looking-to-next-year-11808956",
-          "source": "Investopedia"
-        },
-        {
-          "title": "Before iOS 26 Drops, Make Sure You've Changed These 10 iPhone Settings",
-          "snippet": "",
-          "url": "https://www.cnet.com/tech/mobile/before-ios-26-drops-make-sure-youve-changed-these-10-iphone-settings/",
-          "source": "CNET"
         }
       ],
       "link": "https://imtaqin.id/"

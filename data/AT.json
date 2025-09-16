@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-16 08:19:01",
+  "lastUpdate": "2025-09-16 08:41:56",
   "data": [
     {
       "title": "office 365",
@@ -49,10 +49,10 @@
           "source": "MeinBezirk.at"
         },
         {
-          "title": "Chaos im Frühverkehr: U1-Betrieb wegen Defekt eingestellt",
+          "title": "Mega-Störung: U1 ausgefallen – Feuerwehreinsatz",
           "snippet": "",
-          "url": "https://www.kosmo.at/chaos-im-fruehverkehr-u1-station-wegen-defekt-eingestellt/",
-          "source": "KOSMO | Eine starke Verbindung!"
+          "url": "https://www.weekend.at/bundesland/wien/u1-stoerung-feuerwehreinsatz-donauinsel",
+          "source": "weekend.at"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,15 +89,9 @@
       "title": "weather",
       "trafficCount": "500+",
       "pubDate": "Mon, 15 Sep 2025 21:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqY-nEz4GcCgzR0s-tCsSV6JJ-sFCnTjlgsVSFvmcQXiXJTCX751GKAYcmXfg",
-      "pictureSource": "Live 5 News",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZNK1ZF3jsWCbDrMszZIZUvvriNx9u_QM3cOcQu6JA53Xv6P4htF8buQcAEms",
+      "pictureSource": "WLTX",
       "relatedSearch": [
-        {
-          "title": "Warm, mainly dry this week as a disturbance passes nearby!",
-          "snippet": "",
-          "url": "https://www.live5news.com/2025/09/16/warm-mainly-dry-this-week-disturbance-passes-nearby/",
-          "source": "Live 5 News"
-        },
         {
           "title": "Midlands enjoys comfortable start with cooler temperatures and clear skies",
           "snippet": "",
@@ -109,6 +103,12 @@
           "snippet": "",
           "url": "https://www.wyff4.com/article/rain-chances/66108964",
           "source": "WYFF News 4"
+        },
+        {
+          "title": "New week starts breezy and cloudy with warming ahead of weekend",
+          "snippet": "",
+          "url": "https://wpde.com/newsletter-daily/september-temperature-low-pressure-clouds-rain-carolinas-grandstrand-peedee-borderbelt-fall-autumn-forecast",
+          "source": "WPDE"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -137,34 +137,6 @@
           "snippet": "",
           "url": "https://www.deutschlandfunkkultur.de/grosse-kostuemparade-in-bath-zu-ehren-von-jane-austen-100.html",
           "source": "Deutschlandfunk Kultur"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "champions league",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 15 Sep 2025 21:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrBd_1EiuBQiMCF7wpnvt4dnYEdUk-ZhN84LYtYo44O_oDbxvO3Q2DdmIVO1k",
-      "pictureSource": "The Chelsea Chronicle",
-      "relatedSearch": [
-        {
-          "title": "Estevao Willian update ahead of Bayern Munich vs Chelsea in the Champions League",
-          "snippet": "",
-          "url": "https://www.thechelseachronicle.com/news/estevao-willian-update-ahead-of-bayern-munich-vs-chelsea-in-the-champions-league/",
-          "source": "The Chelsea Chronicle"
-        },
-        {
-          "title": "Kimmich opens up on Chelsea clash, summer transfers and Bundesliga concerns",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/article/kimmich-opens-chelsea-clash-summer-055600153.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "UEFA Champions League Matchday 1 Predictions Including Bayern Munich vs Chelsea",
-          "snippet": "",
-          "url": "https://lastwordonsports.com/football/2025/09/16/uefa-champions-league-matchday-1-predictions-bayern-munich-vs-chelsea/",
-          "source": "Last Word On Sports"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +183,16 @@
           "source": "Der Standard"
         },
         {
-          "title": "Tesla-Aktie mit Kurssprung: Elon Musk kauft für eine Milliarde Dollar Tesla und sorgt für Kursrallye",
-          "snippet": "",
-          "url": "https://www.manager-magazin.de/finanzen/tesla-aktie-mit-kurssprung-elon-musk-kauft-fuer-eine-milliarde-dollar-tesla-und-sorgt-fuer-kursrallye-a-5bf4e1cc-4f46-4d1f-8e3f-b8539f56f84a",
-          "source": "Manager Magazin"
-        },
-        {
           "title": "Musks Milliarden-Kauf befeuert Tesla: Das sagen jetzt die Analysten",
           "snippet": "",
           "url": "https://www.deraktionaer.de/artikel/deraktionaerplus/musks-milliarden-kauf-befeuert-tesla-das-sagen-jetzt-die-analysten-20386535.html",
           "source": "Der Aktionär"
+        },
+        {
+          "title": "Tesla-Aktien - Das ist Musks Billionärs-Plan - Wirtschaft",
+          "snippet": "",
+          "url": "https://www.sueddeutsche.de/wirtschaft/tesla-aktien-das-ist-musks-billionaers-plan-li.3313086",
+          "source": "SZ.de"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,9 +229,15 @@
       "title": "uefa champions league 2025",
       "trafficCount": "20000+",
       "pubDate": "Mon, 15 Sep 2025 15:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTusu0x6clALIyqJM1hkn1kIfCVj_oMFvFVwpFmT-6GJxnxquRHbmSIIMr9M00",
-      "pictureSource": "talkSPORT",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNdRk3JrPm7aXU2XMOpIPb-5l1NHbV0ffmOdPyNztxzVGzv11SlQtbFnax-dw",
+      "pictureSource": "BBC",
       "relatedSearch": [
+        {
+          "title": "Champions League returns & Phil McNulty Q&A coming up",
+          "snippet": "",
+          "url": "https://www.bbc.com/sport/football/live/c3e75850nddt",
+          "source": "BBC"
+        },
         {
           "title": "talkSPORT betting tips – Best football bets and expert advice for Tuesday 16 September",
           "snippet": "",
@@ -267,16 +245,38 @@
           "source": "talkSPORT"
         },
         {
-          "title": "UEFA Champions League 2025-26 table — Standings for the UCL league phase",
-          "snippet": "",
-          "url": "https://www.nbcsports.com/soccer/news/uefa-champions-league-2025-26-league-phase-table",
-          "source": "NBC Sports"
-        },
-        {
           "title": "Five stars ready to take the Champions League by storm",
           "snippet": "",
           "url": "https://www.dazn.com/en-US/news/soccer/five-stars-ready-to-take-the-champions-league-by-storm/1vnrb2xqnz5zo1qltrlrsrsdh8",
           "source": "DAZN"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "unicef",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 15 Sep 2025 13:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTN9bydszd67kcu6azFxJPXh5luRNcFb3L8C1P6hSHYdFwGS0_QzhaMD-mlTwk",
+      "pictureSource": "ReliefWeb",
+      "relatedSearch": [
+        {
+          "title": "UNICEF Republic of Congo Humanitarian Flash Update No. 2 (Cholera Outbreak Response), 15 September 2025",
+          "snippet": "",
+          "url": "https://reliefweb.int/report/congo/unicef-republic-congo-humanitarian-flash-update-no-2-cholera-outbreak-response-15-september-2025",
+          "source": "ReliefWeb"
+        },
+        {
+          "title": "A world map of childhood obesity",
+          "snippet": "",
+          "url": "https://www.economist.com/graphic-detail/2025/09/10/a-world-map-of-childhood-obesity",
+          "source": "The Economist"
+        },
+        {
+          "title": "Junk food leads to more children being obese than underweight for first time",
+          "snippet": "",
+          "url": "https://www.theguardian.com/global-development/2025/sep/10/junk-food-upf-more-children-obese-than-underweight-unicef",
+          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2025-09-16 06:48:47",
+  "lastUpdate": "2025-09-16 06:56:57",
   "data": [
     {
       "title": "clima hermosillo",
       "trafficCount": "2000+",
       "pubDate": "Mon, 15 Sep 2025 23:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSu72XMkoBiEml031Pb4wDOVmunSBdVeIIe7NOYcDUSTHg8M_PXPRFK48IuEFA",
-      "pictureSource": "El Imparcial",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRm_-lNt5T_jpKDvBAYTifW2sX6C6jDtsU-n0rUy7Uzn09U-O1Q5MZ0lVXbjLQ",
+      "pictureSource": "MSN",
       "relatedSearch": [
+        {
+          "title": "Traerá “Mario” precipitaciones a Hermosillo",
+          "snippet": "",
+          "url": "https://www.msn.com/es-mx/noticias/mexico/traer%C3%A1-mario-precipitaciones-a-hermosillo/ar-AA1MBxHu",
+          "source": "MSN"
+        },
         {
           "title": "Sonora bajo amenaza: tormentas eléctricas, calor sofocante y posible ciclón activan alerta climática este lunes",
           "snippet": "",
@@ -19,19 +25,13 @@
           "snippet": "",
           "url": "https://oem.com.mx/elsoldehermosillo/local/clima-hermosillo-conagua-preve-lluvias-para-el-15-y-16-de-septiembre-25772681",
           "source": "El Sol de México"
-        },
-        {
-          "title": "Registra Sonora inicio de semana lluvioso",
-          "snippet": "",
-          "url": "https://www.uniradioinforma.com/sociedad/registra-sonora-inicio-semana-lluvioso-n842738",
-          "source": "Uniradio Informa"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "mexico independence day",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Mon, 15 Sep 2025 23:10:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTF0X1CteSlE3MwsrbRHz6jxNoSAAgB7qvPi9TjC9Jpuc-D5JMavDNxVZ--7UE",
       "pictureSource": "WFAA",
@@ -99,7 +99,7 @@
           "source": "Guioteca"
         },
         {
-          "title": "\"A sanar\": Fran Virgilio también dejó Chile tras mediático quiebre con Karol Lucero",
+          "title": "MSN",
           "snippet": "",
           "url": "https://www.msn.com/es-cl/noticias/other/a-sanar-fran-virgilio-tambi%C3%A9n-dej%C3%B3-chile-tras-medi%C3%A1tico-quiebre-con-karol-lucero/ar-AA1MjkkL",
           "source": "MSN"
@@ -142,29 +142,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "guanajuato",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 15 Sep 2025 22:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTy0WYmOIu71sob_TRuaJhyJUfxutHfxrOPS6vci_y_jtVaxRrRTVwJ6jDjB14",
-      "pictureSource": "El Universal",
+      "title": "samuel garcía",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 15 Sep 2025 22:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7McA2u1tMqHwUNs-9794v-efmGsrKVXf1GI1WXEZKeyEpuxlv6aZmYwDjaX4",
+      "pictureSource": "El Norte",
       "relatedSearch": [
         {
-          "title": "Dolores Hidalgo celebra el Grito de Independencia con Los Tigres del Norte, Grupo Firme y Pepe Aguilar",
+          "title": "Cancelan participación grupos en Santa Catarina",
           "snippet": "",
-          "url": "https://www.eluniversal.com.mx/estados/dolores-hidalgo-celebra-el-grito-de-independencia-con-los-tigres-del-norte-grupo-firme-y-pepe-aguilar/",
-          "source": "El Universal"
+          "url": "https://www.elnorte.com/cancelan-participacion-grupos-en-santa-catarina/ar3073120",
+          "source": "El Norte"
         },
         {
-          "title": "Dará Libia Dennise el Grito en Dolores Hidalgo por primera vez",
+          "title": "Protesta por maltrato animal revienta el Grito en Santa Catarina",
           "snippet": "",
-          "url": "https://jalisco.quadratin.com.mx/Nacional/dara-libia-dennise-el-grito-en-dolores-hidalgo-por-primera-vez/",
-          "source": "Quadratin Jalisco"
+          "url": "https://www.jornada.com.mx/noticia/2025/09/15/estados/protesta-por-maltrato-animal-revienta-el-grito-en-santa-catarina",
+          "source": "La Jornada"
         },
         {
-          "title": "Desde Inglaterra, Filipinas y Estados Unidos llegan para presenciar el Grito de Independencia en Dolores Hidal",
+          "title": "División Ambiental y Fiscalía de Nuevo León aseguran animales del Centro de Bienestar de Santa Catarina",
           "snippet": "",
-          "url": "https://www.milenio.com/comunidad/grito-de-independencia-en-dolores-hidalgo-extranjeros-presentes",
-          "source": "Milenio"
+          "url": "https://www.nl.gob.mx/es/boletines/division-ambiental-y-fiscalia-de-nuevo-leon-aseguran-animales-del-centro-de-bienestar-de",
+          "source": "Gobierno del Estado de Nuevo León"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -198,34 +198,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "samuel garcía",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 15 Sep 2025 22:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7McA2u1tMqHwUNs-9794v-efmGsrKVXf1GI1WXEZKeyEpuxlv6aZmYwDjaX4",
-      "pictureSource": "El Norte",
-      "relatedSearch": [
-        {
-          "title": "Cancelan participación grupos en Santa Catarina",
-          "snippet": "",
-          "url": "https://www.elnorte.com/cancelan-participacion-grupos-en-santa-catarina/ar3073120",
-          "source": "El Norte"
-        },
-        {
-          "title": "Protesta por maltrato animal revienta el Grito en Santa Catarina",
-          "snippet": "",
-          "url": "https://www.jornada.com.mx/noticia/2025/09/15/estados/protesta-por-maltrato-animal-revienta-el-grito-en-santa-catarina",
-          "source": "La Jornada"
-        },
-        {
-          "title": "División Ambiental y Fiscalía de Nuevo León aseguran animales del Centro de Bienestar de Santa Catarina",
-          "snippet": "",
-          "url": "https://www.nl.gob.mx/es/boletines/division-ambiental-y-fiscalia-de-nuevo-leon-aseguran-animales-del-centro-de-bienestar-de",
-          "source": "Gobierno del Estado de Nuevo León"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "aguascalientes",
       "trafficCount": "100+",
       "pubDate": "Mon, 15 Sep 2025 22:30:00 -0700",
@@ -239,16 +211,16 @@
           "source": "es-us.noticias.yahoo.com"
         },
         {
+          "title": "Inversión extranjera rompe récord en Ags con más de 394 mdd",
+          "snippet": "",
+          "url": "https://www.reforma.com/inversion-extranjera-rompe-record-en-ags-con-mas-de-394-mdd/gr/ar3071860?md5=ea413a538886164e18c1adad8b64e3a3&ta=0dfdbac11765226904c16cb9ad1b2efe",
+          "source": "Reforma"
+        },
+        {
           "title": "Aguascalientes capta 394.6 mdd de Inversión Extranjera Directa en primer semestre de 2025",
           "snippet": "",
           "url": "https://www.elfinanciero.com.mx/estados/2025/09/12/aguascalientes-capta-3946-mdd-de-inversion-extranjera-directa-en-primer-semestre-de-2025/",
           "source": "El Financiero"
-        },
-        {
-          "title": "Inversión Extranjera en Aguascalientes rompe récord: más de 394 mdd en 6 meses",
-          "snippet": "",
-          "url": "https://www.liderempresarial.com/inversion-extranjera-en-aguascalientes-rompe-record-mas-de-394-mdd-en-6-meses/",
-          "source": "Líder Empresarial"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -277,6 +249,34 @@
           "snippet": "",
           "url": "https://enlineadirecta.info/2025/09/15/implementan-operativo-de-vialidad-por-las-fiestas-patrias/",
           "source": "EnLíneaDirecta.info"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "las muertas miniserie",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 15 Sep 2025 22:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSu44DgG5lD2BsLoyeNRMMVL13YuXprAT6vpSqpjhKdyiUUhGnVksShOKKbv8o",
+      "pictureSource": "EL PAÍS",
+      "relatedSearch": [
+        {
+          "title": "Las Poquianchis: las claves del caso real que inspira ‘Las Muertas’, la nueva serie de Netflix",
+          "snippet": "",
+          "url": "https://elpais.com/mexico/2025-09-12/las-poquianchis-el-caso-real-que-inspira-las-muertas-la-nueva-serie-de-netflix.html",
+          "source": "EL PAÍS"
+        },
+        {
+          "title": "Las Muertas’ en Netflix: ¿Cuáles son las diferencias entre la serie y la historia de ‘Las Poquianchis’?",
+          "snippet": "",
+          "url": "https://www.elfinanciero.com.mx/entretenimiento/2025/09/11/cuales-son-las-diferencias-entre-serie-las-muertas-e-historia-real-de-las-poquianchis/",
+          "source": "El Financiero"
+        },
+        {
+          "title": "Así era la esclavitud en México en 1960 durante el tiempo de ‘Las Poquianchis’",
+          "snippet": "",
+          "url": "https://www.infobae.com/mexico/2025/09/14/asi-era-la-esclavitud-en-mexico-en-1960-durante-el-tiempo-de-las-poquianchis/",
+          "source": "Infobae"
         }
       ],
       "link": "https://imtaqin.id/"

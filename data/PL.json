@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-16 07:48:09",
+  "lastUpdate": "2025-09-16 07:56:02",
   "data": [
     {
       "title": "prezydent nawrocki w berlinie",
@@ -33,11 +33,17 @@
       "title": "gaza",
       "trafficCount": "200+",
       "pubDate": "Tue, 16 Sep 2025 00:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgX5Xc2GPs2LcfXxweGl-un9zvW4mCSt8f_YMKUXiWHOdpg6KNEYcWAQgUzvY",
-      "pictureSource": "The Guardian",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGf_Jo8gkWZj-QFtV5-0zpUmDy0gIyAcorqvVycjKukRN5jYyPOmna3wsrtyw",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Israel-Gaza war: Israel’s defence minister says ‘Gaza is burning’ amid escalation in bombardment - latest updates",
+          "title": "Israel escalates bombardment as defence minister says 'Gaza is burning'",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/cd72grrl0pxt",
+          "source": "BBC"
+        },
+        {
+          "title": "Israel launches ‘significant operation’, says Netanyahu as Gaza City residents are warned to evacuate - latest updates",
           "snippet": "",
           "url": "https://www.theguardian.com/world/live/2025/sep/16/israel-gaza-war-israels-defence-minister-says-gaza-is-burning-amid-escalation-in-bombardment-latest-updates",
           "source": "The Guardian"
@@ -47,12 +53,6 @@
           "snippet": "",
           "url": "https://www.aljazeera.com/news/liveblog/2025/9/16/live-israel-pounds-gaza-city-muslim-leaders-condemn-strike-on-qatar",
           "source": "Al Jazeera"
-        },
-        {
-          "title": "Israel escalates bombardment as defence minister says 'Gaza is burning'",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/live/cd72grrl0pxt",
-          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,20 +173,20 @@
       "title": "koleje mazowieckie",
       "trafficCount": "500+",
       "pubDate": "Mon, 15 Sep 2025 21:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwnAN0h2ZTon-gsXQqKOVXk7J6XvFgWxFwNjWi3evGpjtbdivVk1cwkTbUbqs",
-      "pictureSource": "Onet",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsYa7UOJwemZ5TqzpDMRqa1sptsaDwjwn2DmAGxggTwB7YrD0uq3JLPOB-krY",
+      "pictureSource": "TVN24",
       "relatedSearch": [
-        {
-          "title": "Utrudnienia w ruchu pociągów w Warszawie. Awaria urządzeń sterowania ruchem",
-          "snippet": "",
-          "url": "https://wiadomosci.onet.pl/warszawa/awaria-urzadzen-sterowania-ruchem-paraliz-na-kolei-w-warszawie/8lkj0c5",
-          "source": "Onet"
-        },
         {
           "title": "Warszawa. Awaria urządzeń sterowania ruchem. Pociągi złapały opóźnienia | TVN Warszawa",
           "snippet": "",
           "url": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-awaria-urzadzen-sterowania-ruchem-pociagi-zlapaly-opoznienia-st8651349",
           "source": "TVN24"
+        },
+        {
+          "title": "Utrudnienia w ruchu pociągów w Warszawie. Awaria urządzeń sterowania ruchem",
+          "snippet": "",
+          "url": "https://wiadomosci.onet.pl/warszawa/awaria-urzadzen-sterowania-ruchem-paraliz-na-kolei-w-warszawie/8lkj0c5",
+          "source": "Onet"
         },
         {
           "title": "Awaria na podmiejskiej linii średnicowej. Duże utrudnienia w ruchu pociągów",

@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-09-16 06:28:32",
+  "lastUpdate": "2025-09-16 06:49:01",
   "data": [
     {
       "title": "газа",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 15 Sep 2025 22:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPrKynCFJCAaijEyENcoVWViMEbUzWKiC4rbOTvgwzkB_P0j9egozrw3wQmis",
       "pictureSource": "Українська правда",
@@ -33,15 +33,9 @@
       "title": "16 вересня",
       "trafficCount": "200+",
       "pubDate": "Mon, 15 Sep 2025 22:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSG2FJwYD0UabvckdH91lmRkiIrXVkHCQZsjCtedh4LsIDY74bY2EOfN2HKqlk",
-      "pictureSource": "ТСН",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-Q32JtYubiTZmGLu_V_B3MMXhW8yU5g_pgshf-C3ALZqe-P3NrUyKehQteCo",
+      "pictureSource": "УНІАН",
       "relatedSearch": [
-        {
-          "title": "Синоптики попередили про зміну погоди в Україні",
-          "snippet": "",
-          "url": "https://tsn.ua/exclusive/synoptyky-poperedyly-pro-zminu-pohody-v-ukrayini-2912957.html",
-          "source": "ТСН"
-        },
         {
           "title": "16 вересня Україну розігріє до +26°: куди повернеться літо",
           "snippet": "",
@@ -49,10 +43,16 @@
           "source": "УНІАН"
         },
         {
-          "title": "Сьогодні в Україні переважно без опадів, вдень прогріє до +27°",
+          "title": "Синоптики попередили про зміну погоди в Україні",
           "snippet": "",
-          "url": "https://www.ukrinform.ua/rubric-regions/4036654-sogodni-v-ukraini-perevazno-bez-opadiv-vden-progrie-do-27.html",
-          "source": "Укрінформ"
+          "url": "https://tsn.ua/exclusive/synoptyky-poperedyly-pro-zminu-pohody-v-ukrayini-2912957.html",
+          "source": "ТСН"
+        },
+        {
+          "title": "Осінь набирає обертів: де сьогодні в Україні дощитиме, а де - сонце",
+          "snippet": "",
+          "url": "https://www.rbc.ua/rus/news/osin-nabirae-obertiv-de-sogodni-ukrayini-1757859049.html",
+          "source": "РБК-Україна"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,9 +99,9 @@
           "source": "ТСН"
         },
         {
-          "title": "Яку обрядову страву обов'язково приготувати 16 вересня: прикмети на свято сьогодні",
+          "title": "16 вересня: церковне свято сьогодні, що треба зробити, щоб бути здоровим і з грошима",
           "snippet": "",
-          "url": "https://www.unian.ua/lite/holidays/kakoy-segodnya-prazdnik-16-sentyabrya-2025-primety-tradicii-zaprety-13131060.html",
+          "url": "https://www.unian.ua/lite/holidays/yake-sogodni-cerkovne-svyato-16-veresnya-2025-roku-zaboroni-zvichaji-ta-prikmeti-dnya-13131012.html",
           "source": "УНІАН"
         },
         {
@@ -201,20 +201,20 @@
       "title": "ямполь",
       "trafficCount": "200+",
       "pubDate": "Mon, 15 Sep 2025 19:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbTOzIahphDipoMTSyp4j6Srmt-NZ-41MeDDkszXfSfGK4mSMGtcL9NujpzWk",
-      "pictureSource": "АрміяInform – Інформаційне агентство АрміяInform",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_XJBU4iCvKVL2Il0WMWjD8A8T6NdT6YC5p7weKMiEL0q7Kyjdr5yKY8jD7kk",
+      "pictureSource": "Українська правда",
       "relatedSearch": [
-        {
-          "title": "Диверсанти в цивільному одязі намагалися проникнути в Ямпіль",
-          "snippet": "",
-          "url": "https://armyinform.com.ua/2025/09/16/dyversanty-v-czyvilnomu-namagalysya-pronyknuty-v-yampil/",
-          "source": "АрміяInform – Інформаційне агентство АрміяInform"
-        },
         {
           "title": "Росіяни проникли в Ямпіль на Донеччині, у селі йдуть бої",
           "snippet": "",
           "url": "https://www.pravda.com.ua/news/2025/09/15/7530999/",
           "source": "Українська правда"
+        },
+        {
+          "title": "Диверсанти в цивільному одязі намагалися проникнути в Ямпіль",
+          "snippet": "",
+          "url": "https://armyinform.com.ua/2025/09/16/dyversanty-v-czyvilnomu-namagalysya-pronyknuty-v-yampil/",
+          "source": "АрміяInform – Інформаційне агентство АрміяInform"
         },
         {
           "title": "росіяни під виглядом цивільних проникли в Ямпіль на Донеччині і використовували місцевих як «живий щит» — Генштаб",

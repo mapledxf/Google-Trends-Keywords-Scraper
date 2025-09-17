@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2025-09-17 03:56:23",
+  "lastUpdate": "2025-09-17 04:17:29",
   "data": [
     {
+      "title": "день рятувальника",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 16 Sep 2025 21:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0LxXVhtRXYGkFDqnBUiB5nvOQhQutGvSLbFIW0V7s74UV_z2A3Ky_gnG3CMk",
+      "pictureSource": "Укрінформ",
+      "relatedSearch": [
+        {
+          "title": "У Києві відкрили стінопис до Дня рятівника України",
+          "snippet": "",
+          "url": "https://www.ukrinform.ua/rubric-regions/4037228-u-kievi-vidkrili-stinopis-do-dna-rativnika-ukraini.html",
+          "source": "Укрінформ"
+        },
+        {
+          "title": "У Києві відкрили мурал на честь українських рятувальників (відео)",
+          "snippet": "",
+          "url": "https://dsns.gov.ua/news/ostanni-novini/u-kijevi-vidkrili-mural-na-cest-ukrayinskix-riatuvalnikiv-video",
+          "source": "Державна служба України з надзвичайних ситуацій"
+        },
+        {
+          "title": "Обстріли України день за днем 09-17-2025",
+          "snippet": "",
+          "url": "https://www.kyivpost.com/uk/thread/60264",
+          "source": "Kyiv Post"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "погода",
-      "trafficCount": "20000+",
+      "trafficCount": "50000+",
       "pubDate": "Tue, 16 Sep 2025 20:30:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZb6B-cnJkMkOhEp15K6Wq9-bN3djtwXaLZyUXyfEF7SmvzzDTPiac8hlR_lU",
       "pictureSource": "Патріот Донбасу",
@@ -30,37 +58,9 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "weather",
-      "trafficCount": "100+",
+      "title": "погода київ",
+      "trafficCount": "5000+",
       "pubDate": "Tue, 16 Sep 2025 20:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKuixk9tLxS2zm3dNbc59_-XxjODdFlGKrTIcKetKnHNzJUJqLE953cduZOOo",
-      "pictureSource": "Times of India",
-      "relatedSearch": [
-        {
-          "title": "Bengaluru weather: High humidity, moderate rain expected today; AQI improves",
-          "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-weather-update-rain-humidity-and-air-quality-insights-for-september-16-2025/articleshow/123911257.cms",
-          "source": "Times of India"
-        },
-        {
-          "title": "Karnataka IMD ALERT: Heavy rainfall for Mysuru, Kodagu, Shivamogga, coastal districts",
-          "snippet": "",
-          "url": "https://english.mathrubhumi.com/news/india/karnataka-rain-alert-september-2024-vh9fa77u",
-          "source": "Mathrubhumi English"
-        },
-        {
-          "title": "Karnataka weather update: Heavy rains predicted till September 18, alert issued for several regions",
-          "snippet": "",
-          "url": "https://www.indiatvnews.com/karnataka/karnataka-weather-update-today-heavy-rains-predicted-till-september-18-alert-issued-for-several-regions-2025-09-16-1008356",
-          "source": "India TV News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "погода киев",
-      "trafficCount": "2000+",
-      "pubDate": "Tue, 16 Sep 2025 20:10:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLHmuaQzSuw8GGfoQ8lEyRcfIl74MLsUSTrTKTmegZCF1EZnAREUMQpZheh1Q",
       "pictureSource": "Українська правда",
       "relatedSearch": [
@@ -86,6 +86,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "weather",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 16 Sep 2025 20:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKW9JgtYN8-flgSr48LbCCnG6A-055S9mvQyRCXpCXqBlKpv81aWB8NH5uf_o",
+      "pictureSource": "The National Environment Agency",
+      "relatedSearch": [
+        {
+          "title": "Thundery Showers Expected On Most Days For The Rest Of September 2025",
+          "snippet": "",
+          "url": "https://www.nea.gov.sg/media/news/advisories/index/thundery-showers-expected-on-most-days-for-the-rest-of-september-2025",
+          "source": "The National Environment Agency"
+        },
+        {
+          "title": "Expect morning showers with thunder and wind until end-September, says weatherman",
+          "snippet": "",
+          "url": "https://www.straitstimes.com/singapore/expect-morning-showers-with-thunder-and-wind-until-end-september-says-weatherman",
+          "source": "The Straits Times"
+        },
+        {
+          "title": "Thundery showers, gusty winds expected to continue into second half of September: Met Service",
+          "snippet": "",
+          "url": "https://www.asiaone.com/singapore/thundery-showers-gusty-winds-expected-continue-second-half-september-met-service",
+          "source": "AsiaOne"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "курс валют",
       "trafficCount": "200+",
       "pubDate": "Tue, 16 Sep 2025 19:40:00 -0700",
@@ -99,16 +127,16 @@
           "source": "TrueUA"
         },
         {
-          "title": "Євро пішов вгору, а долар дешевшає: офіційний курс валют на середу",
+          "title": "Нацбанк оголосив офіційний курс гривні на 17 вересня",
           "snippet": "",
-          "url": "https://www.unian.ua/economics/finance/oficiyniy-kurs-nbu-yevro-pishov-vgoru-a-dolar-padaye-kurs-valyut-17-veresnya-13132491.html",
-          "source": "УНІАН"
+          "url": "https://www.ukrinform.ua/rubric-economy/4037086-nacbank-ogolosiv-oficijnij-kurs-grivni-na-17-veresna.html",
+          "source": "Укрінформ"
         },
         {
-          "title": "Курси долара та євро на 16 вересня",
+          "title": "Обмінники оновили курси валют: скільки коштують долар і євро",
           "snippet": "",
-          "url": "https://www.ukrinform.ua/rubric-economy/4036914-kursi-dolara-ta-evro-na-16-veresna.html",
-          "source": "Укрінформ"
+          "url": "https://www.rbc.ua/rus/news/obminniki-onovili-kursi-valyut-skilki-koshtuyut-1758006623.html",
+          "source": "РБК-Україна"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -142,6 +170,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "інтер маямі – саундерс",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 16 Sep 2025 18:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRmAnD6aIjAIR-XREqS3Zz7Vu1Qd7Db-M1--q88jPi5MT-wAPUf7pCKf6xnUY0",
+      "pictureSource": "Tribuna.com",
+      "relatedSearch": [
+        {
+          "title": "Интер Майами – Сиэтл (LIVE): Смотреть онлайн трансляцию матча МЛС 17 сентября 2025",
+          "snippet": "",
+          "url": "https://ua.tribuna.com/betting/1000000279559-inter-mayami-sietl-live-dyvytys-onlayn-translyatsiyu-mat/",
+          "source": "Tribuna.com"
+        },
+        {
+          "title": "Интер Майами – Сиэтл Саундерс – 3:1. Перфоманс Месси и Альбы. Видео голов",
+          "snippet": "",
+          "url": "https://sport.ua/news/798315-inter-mayami-sietl-saunders-3-1-perfomans-messi-i-alby-video-golov",
+          "source": "Sport.ua"
+        },
+        {
+          "title": "Актуальный прогноз и ставка на точный счёт матча Интер Майами – Сиэтл Саундерс регулярки МЛС – 17 сентября 2025",
+          "snippet": "",
+          "url": "https://www.euro-football.ru/prognozy/1006022367_aktualnyiy_prognoz_i_stavka_na_tochnyiy_schet_matcha_inter_mayami__sietl_saunders_regulyarki_mls__17_sentyabrya_2025",
+          "source": "Евро-Футбол"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "погода чернівці",
       "trafficCount": "200+",
       "pubDate": "Tue, 16 Sep 2025 18:00:00 -0700",
@@ -165,34 +221,6 @@
           "snippet": "",
           "url": "https://acc.cv.ua/news/chernivtsi/sinoptiki-prognozuyut-grozu-v-nayblizhchu-godinu-na-bukovini-114179",
           "source": "агентство АСС."
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "интер майами – сиэтл саундерс",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 16 Sep 2025 17:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRmAnD6aIjAIR-XREqS3Zz7Vu1Qd7Db-M1--q88jPi5MT-wAPUf7pCKf6xnUY0",
-      "pictureSource": "Tribuna.com",
-      "relatedSearch": [
-        {
-          "title": "Интер Майами – Сиэтл (LIVE): Смотреть онлайн трансляцию матча МЛС 17 сентября 2025",
-          "snippet": "",
-          "url": "https://ua.tribuna.com/betting/1000000279559-inter-mayami-sietl-live-dyvytys-onlayn-translyatsiyu-mat/",
-          "source": "Tribuna.com"
-        },
-        {
-          "title": "Интер Майами – Сиэтл Саундерс – 3:1. Перфоманс Месси и Альбы. Видео голов",
-          "snippet": "",
-          "url": "https://sport.ua/news/798315-inter-mayami-sietl-saunders-3-1-perfomans-messi-i-alby-video-golov",
-          "source": "Sport.ua"
-        },
-        {
-          "title": "Актуальный прогноз и ставка на точный счёт матча Интер Майами – Сиэтл Саундерс регулярки МЛС – 17 сентября 2025",
-          "snippet": "",
-          "url": "https://www.euro-football.ru/prognozy/1006022367_aktualnyiy_prognoz_i_stavka_na_tochnyiy_schet_matcha_inter_mayami__sietl_saunders_regulyarki_mls__17_sentyabrya_2025",
-          "source": "Евро-Футбол"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -227,7 +255,7 @@
     },
     {
       "title": "картопля",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 16 Sep 2025 16:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOPftYZoHIMZro2EwmlkVJ0TjSCNaIYcteMKuyzqq-ewjgBRR26-3NgNa-2lg",
       "pictureSource": "УНІАН",
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://agravery.com/uk/posts/show/cini-na-kartoplu-pocnut-zrostati-u-zovtni",
           "source": "Agravery.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "real madrid",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 16 Sep 2025 13:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwcoJ60X0o_m0fl1AkKfrgN53X7h8heVjfmXwxk36vaCu4kFFJ_jXJB4c5Mo8",
-      "pictureSource": "RFI",
-      "relatedSearch": [
-        {
-          "title": "Mbappé activa el 'modo Champions', lluvia de goles en el Juve-Dortmund",
-          "snippet": "",
-          "url": "https://www.rfi.fr/es/m%C3%A1s-noticias/20250916-mbapp%C3%A9-activa-el-modo-champions-lluvia-de-goles-en-el-juve-dortmund",
-          "source": "RFI"
-        },
-        {
-          "title": "Mastantuono, el jugador más joven en ser titular con el Real Madrid en la Champions",
-          "snippet": "",
-          "url": "https://apnews.com/article/real-madrid-liga-campeones-franco-mastantuono-b9a7e4fffc9f20ec59b7b5d5b61546fe",
-          "source": "AP News"
-        },
-        {
-          "title": "Tensión en la llegada de los Ultras del Marsella al Bernabéu",
-          "snippet": "",
-          "url": "https://colombia.as.com/futbol/tension-en-la-llegada-de-los-ultras-del-marsella-al-bernabeu-v/?pbsvideo=top",
-          "source": "AS Colombia"
         }
       ],
       "link": "https://imtaqin.id/"

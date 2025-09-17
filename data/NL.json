@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-17 10:22:15",
+  "lastUpdate": "2025-09-17 10:38:50",
   "data": [
     {
       "title": "modaal inkomen",
@@ -31,7 +31,7 @@
     },
     {
       "title": "vv musselkanaal",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 17 Sep 2025 01:40:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4sgETWcOzHA4_xjAXYQvGTgWU3Af07DBh82nZXB8CUf6m8wq7m7XKJKNbKrU",
       "pictureSource": "De Telegraaf",
@@ -86,6 +86,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "tweede kamer live",
+      "trafficCount": "2000+",
+      "pubDate": "Wed, 17 Sep 2025 01:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5ZYUoqruUKLz9fqDYwKSGCQJ7GvNO8QKnNkIuHGvNbzhvWbEUbipQuwn1KV8",
+      "pictureSource": "NU",
+      "relatedSearch": [
+        {
+          "title": "Live politiek | Timmermans: 'Wilders geeft vals beeld van ons land'",
+          "snippet": "",
+          "url": "https://www.nu.nl/politiek/6369271/live-politiek-timmermans-wilders-geeft-vals-beeld-van-ons-land.html",
+          "source": "NU"
+        },
+        {
+          "title": "LIVE DEBAT | Jetten valt Wilders aan: ‘U bent de grootste toetsenbordridder van het land’",
+          "snippet": "",
+          "url": "https://www.ad.nl/politiek/live-debat-jetten-valt-wilders-aan-u-bent-de-grootste-toetsenbordridder-van-het-land~a646de90/",
+          "source": "AD.nl"
+        },
+        {
+          "title": "Partijen verwijten Wilders weglopen uit kabinet: 'De hemel beloven, maar niets leveren'",
+          "snippet": "",
+          "url": "https://www.rtl.nl/nieuws/politiek/artikel/5528739/kamerdebat-algemene-politieke-beschouwingen-liveblog-dag-na",
+          "source": "RTL.nl"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "jennifer lopez",
       "trafficCount": "100+",
       "pubDate": "Wed, 17 Sep 2025 00:40:00 -0700",
@@ -109,34 +137,6 @@
           "snippet": "",
           "url": "https://www.hola.com/us/celebrities/20250916856211/jennifer-lopez-unrecognizable-after-glam-transformation/",
           "source": "HOLA"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "tweede kamer",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 17 Sep 2025 00:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTtj00kf6W-hcDgsnTQK76yE6L_zpcwVE01cvoW0Bdk2xhw-WyjkIx-hoyid3s",
-      "pictureSource": "NOS",
-      "relatedSearch": [
-        {
-          "title": "Wilders en Timmermans: u bent een wegloper • Twee dagen debat over de Miljoenennota",
-          "snippet": "",
-          "url": "https://nos.nl/liveblog/2582824-wilders-en-timmermans-u-bent-een-wegloper-twee-dagen-debat-over-de-miljoenennota",
-          "source": "NOS"
-        },
-        {
-          "title": "Wilders grapt naar Timmermans: ‘Blijf vooral dromen’",
-          "snippet": "",
-          "url": "https://www.telegraaf.nl/video/wilders-grapt-naar-timmermans-blijf-vooral-dromen/91032910.html",
-          "source": "De Telegraaf"
-        },
-        {
-          "title": "Live politiek | Wilders trapt debat af met verhaal over onveiligheid op straat",
-          "snippet": "",
-          "url": "https://www.nu.nl/politiek/6369271/live-politiek-wilders-trapt-debat-af-met-verhaal-over-onveiligheid-op-straat.html",
-          "source": "NU"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,16 +239,16 @@
           "source": "NOS"
         },
         {
-          "title": "Niels Laros is volgens wedkantoren dé grote favoriet voor WK-goud op 1500 meter atletiek",
-          "snippet": "",
-          "url": "https://www.ad.nl/oosterhout/niels-laros-is-volgens-wedkantoren-de-grote-favoriet-voor-wk-goud-op-1500-meter-atletiek~a87ab1c1/",
-          "source": "AD.nl"
-        },
-        {
           "title": "Dagprogramma WK atletiek: Laros kan einde maken aan 12 jaar medailledroogte",
           "snippet": "",
           "url": "https://www.nu.nl/sport-overig/6369264/dagprogramma-wk-atletiek-laros-kan-einde-maken-aan-12-jaar-medailledroogte.html",
           "source": "NU"
+        },
+        {
+          "title": "Schrijft Niels Laros vandaag Nederlandse atletiekhistorie? ‘Ik verwacht een hele hoop van mezelf’",
+          "snippet": "",
+          "url": "https://www.ad.nl/andere-sporten/schrijft-niels-laros-vandaag-nederlandse-atletiekhistorie-ik-verwacht-een-hele-hoop-van-mezelf~a29e1d8e/",
+          "source": "AD.nl"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -273,10 +273,10 @@
           "source": "NU"
         },
         {
-          "title": "Van heimwee in een hotelkamer naar soldaat op slagveld: de bijzondere Ajax-jaren van Inter-coach Cristian Chivu",
+          "title": "Van der Meijde ziet oude teamgenoten tegen elkaar: 'wil bewijzen dat hij beter is'",
           "snippet": "",
-          "url": "https://www.ad.nl/voetbal/van-heimwee-in-een-hotelkamer-naar-soldaat-op-slagveld-de-bijzondere-ajax-jaren-van-inter-coach-cristian-chivu~a7f9db1c/",
-          "source": "AD.nl"
+          "url": "https://www.voetbalprimeur.nl/nieuws/1693057/van-der-meijde-chivu-wil-laten-zien-dat-hij-beter-is-dat-heitinga.html",
+          "source": "VoetbalPrimeur.nl"
         }
       ],
       "link": "https://imtaqin.id/"

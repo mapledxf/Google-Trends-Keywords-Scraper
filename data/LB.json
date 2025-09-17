@@ -1,19 +1,13 @@
 {
-  "lastUpdate": "2025-09-17 19:52:35",
+  "lastUpdate": "2025-09-17 20:00:11",
   "data": [
     {
       "title": "psg",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 17 Sep 2025 12:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Fc7sa87dHWY0YYuygSoKRF5ghGQKbvi2ZbzmNmLErl60wDn8ISE1ihQJjOc",
-      "pictureSource": "Ouest-France",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfA3Ky8t81nZuV3zi8recAw9wYImedjKV2wOShBCJeCSPhONM33R84wPxFyFc",
+      "pictureSource": "Le Parisien",
       "relatedSearch": [
-        {
-          "title": "PSG en Ligue des Champions : à quelle heure et sur quelle chaîne voir les matchs en direct ?",
-          "snippet": "",
-          "url": "https://www.ouest-france.fr/sport/football/paris-sg/psg-en-ligue-des-champions-a-quelle-heure-et-sur-quelle-chaine-voir-les-matchs-en-direct-f9b8b194-92d7-11f0-ba23-92c6f4a2bc09",
-          "source": "Ouest-France"
-        },
         {
           "title": "PSG-Atalanta Bergame : 19 supporters du club italien interpellés et placés en garde à vue après des affrontements",
           "snippet": "",
@@ -25,6 +19,12 @@
           "snippet": "",
           "url": "https://www.lequipe.fr/Football/Video/Ligue-des-champions-mayulu-titulaire-face-a-l-atalanta/20217068",
           "source": "L'Équipe"
+        },
+        {
+          "title": "LdC : le but de Marquinhos pour lancer la saison européenne du PSG",
+          "snippet": "",
+          "url": "https://www.footmercato.net/a4098001195686107603-ldc-le-premier-but-de-la-saison-du-psg-signe-marquinhos",
+          "source": "Foot Mercato"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -58,6 +58,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "liverpool",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 17 Sep 2025 12:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCSAHdK1aoeaKh8oN5J5_GB4DsCqBlOfOi4IXGy_SnHL934_EU5j_CWblExP0",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Champions League LIVE: Liverpool vs Atletico Madrid & Bayern Munich vs Chelsea - scores & radio",
+          "snippet": "",
+          "url": "https://www.bbc.com/sport/football/live/c0e9vvq5vq9t",
+          "source": "BBC"
+        },
+        {
+          "title": "Newcastle's Howe on Isak: Relationship changed after strike",
+          "snippet": "",
+          "url": "https://www.espn.com/soccer/story/_/id/46232283/newcastle-united-eddie-howe-alexander-isak-liverpool-strike",
+          "source": "ESPN"
+        },
+        {
+          "title": "Alexander Isak Given Green Light by Slot Ahead of Atletico Clash",
+          "snippet": "",
+          "url": "https://foot-africa.com/en/news/alexander-isak-given-green-light-by-slot-ahead-of-atletico-clash-881925/",
+          "source": "Foot Africa"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "psg vs atalanta",
       "trafficCount": "200+",
       "pubDate": "Wed, 17 Sep 2025 12:00:00 -0700",
@@ -77,45 +105,17 @@
           "source": "VAVEL.com"
         },
         {
-          "title": "PSG's record against Italian sides 📊",
+          "title": "PSG-Atalanta, the fair-play soirée",
           "snippet": "",
-          "url": "https://sports.yahoo.com/article/psgs-record-against-italian-sides-151500032.html",
-          "source": "Yahoo Sports"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "liverpool",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 17 Sep 2025 12:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVGQWS6hOsmatT90P6sVgK4LIFik9Uz34xgIG-jUhbhrelxiljIG1tlGzFUlo",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Liverpool vs Atlético de Madrid: UEFA Champions League stats & head-to-head",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/c99gnj2d7j3t",
-          "source": "BBC"
-        },
-        {
-          "title": "Alexander Isak STARTS! Liverpool's new £125m striker named in lineup to face Atletico Madrid for debut in Champions League opener",
-          "snippet": "",
-          "url": "https://www.goal.com/en-in/lists/alexander-isak-starts-liverpool-lineup-atletico-madrid-debut-champions-league/blt33151cbc045acc23",
-          "source": "Goal.com"
-        },
-        {
-          "title": "Arne Slot Calls On Fans to Make a Difference Against Atletico Madrid",
-          "snippet": "",
-          "url": "https://liverpooloffside.sbnation.com/liverpool-fc-news-coverage/75582/arne-slot-calls-on-fans-to-make-a-difference-against-atletico-madrid",
-          "source": "The Liverpool Offside"
+          "url": "https://en.atalanta.it/news/psg-atalanta-the-fair-play-soiree-2025-26-ucl-league-phase-md-1",
+          "source": "Atalanta"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "بي اس جي ضد أتالانتا",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 17 Sep 2025 11:50:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJZnBB5krAeQk6i0DM3fZ8G7Qh9-ySO48laF6ltsnTSmwG_ZfUDC2VxSvmIW0",
       "pictureSource": "annahar.com",
@@ -161,10 +161,10 @@
           "source": "annahar.com"
         },
         {
-          "title": "قمة الليلة في ميونخ.. مباراة بايرن ميونخ وتشيلسي اللي هيتواجهوا في دوري الأبطال وكل التفاصيل قبل ما المباراة تبدأ",
+          "title": "هل بايرن ميونخ مرشح لحصد لقب دوري أبطال أوروبا هذا الموسم؟",
           "snippet": "",
-          "url": "https://msdrna.com/5032/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A8%D8%A7%D9%8A%D8%B1%D9%86-%D9%85%D9%8A%D9%88%D9%86%D8%AE-%D9%88%D8%AA%D8%B4%D9%8A%D9%84%D8%B3%D9%8A/",
-          "source": "msdrna.com"
+          "url": "https://hihi2.com/2025/09/16/p3384116.html",
+          "source": "هاي كورة"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,15 +201,9 @@
       "title": "ليفربول ضد أتلتيكو مدريد",
       "trafficCount": "1000+",
       "pubDate": "Wed, 17 Sep 2025 11:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ6EYg1UHiMLDZhBB-ctCXcagZ7CPICWhgfiK-rUn9D9Ew-2a-E3e6pTE0vDQ",
-      "pictureSource": "Kooora",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIiThUuunK52de0oSO5g2CPWkanLdQsyC4AQvEqAc63kaBgbIjayb0OwQl54w",
+      "pictureSource": "annahar.com",
       "relatedSearch": [
-        {
-          "title": "إيزاك يقود هجوم ليفربول لأول مرة أمام أتلتيكو مدريد",
-          "snippet": "",
-          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D9%95%D9%8A%D8%B2%D8%A7%D9%83-%D9%8A%D9%82%D9%88%D8%AF-%D9%87%D8%AC%D9%88%D9%85-%D9%84%D9%8A%D9%81%D8%B1%D8%A8%D9%88%D9%84-%D9%84%D9%84%D9%85%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D9%94%D9%88%D9%84%D9%89-%D8%A7%D9%94%D9%85%D8%A7%D9%85-%D8%A7%D9%94%D8%AA%D9%84%D8%AA%D9%8A%D9%83%D9%88-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF/blt0ec97347a5ea1bcd",
-          "source": "Kooora"
-        },
         {
           "title": "صراع الأرقام بين صلاح وغريزمان في دوري أبطال أوروبا",
           "snippet": "",
@@ -217,10 +211,16 @@
           "source": "annahar.com"
         },
         {
-          "title": "صلاح ثالث من يفعلها بعد ميسي ومبابي..!",
+          "title": "ليفربول ضد أتلتيكو مدريد.. الموعد والتشكيلتان المتوقعتان والقنوات الناقلة للبث المباشر",
           "snippet": "",
-          "url": "https://hihi2.com/2025/09/17/p3385899.html",
-          "source": "هاي كورة"
+          "url": "https://www.aljazeera.net/sport/2025/9/16/%D9%84%D9%8A%D9%81%D8%B1%D8%A8%D9%88%D9%84-%D8%B6%D8%AF-%D8%A3%D8%AA%D9%84%D8%AA%D9%8A%D9%83%D9%88-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF",
+          "source": "الجزيرة نت"
+        },
+        {
+          "title": "ليفربول وأتلتيكو مدريد يكرمان جوتا وشقيقه قبل مواجهة دوري أبطال أوروبا",
+          "snippet": "",
+          "url": "https://www.almasryalyoum.com/news/details/3551772",
+          "source": "المصري اليوم"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,15 +257,9 @@
       "title": "bayern vs chelsea",
       "trafficCount": "1000+",
       "pubDate": "Wed, 17 Sep 2025 11:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmtmVNPCfTAWKH-fFvQJOke29XzfzVy5f3iLN8xABD03ncukT5nder6Qm-WVM",
-      "pictureSource": "Bavarian Football Works",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnJaMg2K8LoiyhTXH1QnqEa_r2ozlE33t43xcT_QgQhgT6jFWsiUnc3o-LE54",
+      "pictureSource": "Chelsea News",
       "relatedSearch": [
-        {
-          "title": "Bayern Munich vs. Chelsea: Live stream, game time thread, odds, prediction, how to watch",
-          "snippet": "",
-          "url": "https://www.bavarianfootballworks.com/bayern-munich-gamethreads-discussion/137602/bayern-munich-vs-chelsea-live-stream-game-time-thread-odds-prediction-how-to-watch",
-          "source": "Bavarian Football Works"
-        },
         {
           "title": "Maresca has told us one starter tonight – here’s what happens with his alternate",
           "snippet": "",
@@ -273,9 +267,15 @@
           "source": "Chelsea News"
         },
         {
+          "title": "How to watch Bayern Munich vs Chelsea for *FREE* on Virgin Media Play",
+          "snippet": "",
+          "url": "https://www.techradar.com/how-to-watch/football/bayern-munich-vs-chelsea-champions-league-free",
+          "source": "TechRadar"
+        },
+        {
           "title": "'Maybe the fans don't like me' - Harry Kane 'motivated' to silence Chelsea faithful after previous Tottenham battles with Bayern Munich set to host Enzo Maresca's side in Champions League opener",
           "snippet": "",
-          "url": "https://www.goal.com/en/lists/fans-don-t-like-harry-kane-motivated-silence-chelsea-faithful-tottenham-battles-bayern-munich-host-enzo-maresca-s-side-champions-league/bltd54bca3aa68154c8",
+          "url": "https://www.goal.com/en-in/lists/fans-don-t-like-harry-kane-motivated-silence-chelsea-faithful-tottenham-battles-bayern-munich-host-enzo-maresca-s-side-champions-league/bltd54bca3aa68154c8",
           "source": "Goal.com"
         }
       ],

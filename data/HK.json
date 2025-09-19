@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2025-09-19 23:15:02",
+  "lastUpdate": "2025-09-19 23:27:21",
   "data": [
     {
-      "title": "天氣報告",
-      "trafficCount": "5000+",
-      "pubDate": "Fri, 19 Sep 2025 14:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEm_yZ4unhPMV5R1Cm1oSE_0V53HqUhgyMlHNFewM5Ywy3D8sr-Ur9fkJI0Xw",
-      "pictureSource": "YAHOO HK - NEWS",
+      "title": "天氣",
+      "trafficCount": "10000+",
+      "pubDate": "Fri, 19 Sep 2025 16:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT20V64u-rh1ixhl_s8qdgkWfSSAGITuGZ1YHcmDi9kw0Gj3SIrvA1nOw5Gnow",
+      "pictureSource": "Hong Kong Observatory",
       "relatedSearch": [
         {
-          "title": "打風・樺加沙｜下周三風力達八號波標準 天文台：風暴潮可能相當顯著｜不斷更新｜Yahoo",
+          "title": "一個接一個｜香港天文台(HKO)｜天氣隨筆",
           "snippet": "",
-          "url": "https://hk.news.yahoo.com/%E6%89%93%E9%A2%A8%E3%83%BB%E6%A8%BA%E5%8A%A0%E6%B2%99%EF%BD%9C%E4%B8%8B%E5%91%A8%E4%B8%89%E9%A2%A8%E5%8A%9B%E9%81%94%E5%85%AB%E8%99%9F%E6%B3%A2%E6%A8%99%E6%BA%96-%E5%A4%A9%E6%96%87%E5%8F%B0%EF%BC%9A%E9%A2%A8%E6%9A%B4%E6%BD%AE%E5%8F%AF%E8%83%BD%E7%9B%B8%E7%95%B6%E9%A1%AF%E8%91%97%EF%BD%9C%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0%EF%BD%9Cyahoo-210738165.html",
-          "source": "YAHOO HK - NEWS"
+          "url": "https://www.hko.gov.hk/tc/%E5%A4%A9%E6%B0%A3%E9%9A%A8%E7%AD%86/109822/%E4%B8%80%E5%80%8B%E6%8E%A5%E4%B8%80%E5%80%8B",
+          "source": "Hong Kong Observatory"
+        },
+        {
+          "title": "米娜風球｜3號風球生效 幼稚園上午班今日停課",
+          "snippet": "",
+          "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60277335/%E7%B1%B3%E5%A8%9C%E6%9C%80%E6%96%B0%E6%89%93%E9%A2%A8%E6%B6%88%E6%81%AF-3%E8%99%9F%E9%A2%A8%E7%90%83%E7%B6%AD%E6%8C%81%E8%87%B3%E5%91%A8%E5%85%AD%E6%97%A9%E4%B8%8A9%E9%BB%9E-%E6%94%B9%E7%99%BC8%E8%99%9F%E6%A9%9F%E6%9C%83%E8%BC%83%E4%BD%8E",
+          "source": "香港01"
         },
         {
           "title": "幼稚園上午班及全日班、肢體傷殘兒童學校及智障兒童學校今日停課",
           "snippet": "",
           "url": "https://news.rthk.hk/rthk/ch/component/k2/1823709-20250920.htm",
           "source": "香港電台新聞網"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 19 Sep 2025 16:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvrrw9DIqCALvjrCBzEUFdqNdJom2YMZj4bRfrQwdU_yeFIUW2hPXKOMVfLaI",
+      "pictureSource": "Yahoo News Canada",
+      "relatedSearch": [
+        {
+          "title": "Rain chances rise in Albuquerque for Friday",
+          "snippet": "",
+          "url": "https://ca.news.yahoo.com/rain-chances-rise-albuquerque-friday-233213044.html",
+          "source": "Yahoo News Canada"
         },
         {
-          "title": "一個接一個｜香港天文台(HKO)｜天氣隨筆",
+          "title": "Scattered showers, storms in New Mexico on Friday",
           "snippet": "",
-          "url": "https://www.hko.gov.hk/tc/%E5%A4%A9%E6%B0%A3%E9%9A%A8%E7%AD%86/109822/%E4%B8%80%E5%80%8B%E6%8E%A5%E4%B8%80%E5%80%8B",
-          "source": "Hong Kong Observatory"
+          "url": "https://www.krqe.com/weather/video-forecast/scattered-showers-storms-in-new-mexico-on-friday/",
+          "source": "KRQE"
+        },
+        {
+          "title": "Impact day ahead, high storm chances in play with a flood watch issued for part of the state",
+          "snippet": "",
+          "url": "https://www.koat.com/article/impact-day-ahead-high-storm-chances-in-play-with-a-flood-watch-issued-for-part-of-the-state/67959232",
+          "source": "KOAT"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -232,15 +260,6 @@
           "source": "TVB"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "明道",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 19 Sep 2025 07:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]

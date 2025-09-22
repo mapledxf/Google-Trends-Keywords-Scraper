@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-09-22 20:10:22",
+  "lastUpdate": "2025-09-22 20:31:03",
   "data": [
     {
       "title": "나폴리",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 22 Sep 2025 11:10:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdkqk-bEudBhZWY9Xy3Qt6x1_DxaU-sGa-05sHaphfefkor4jabqE0nK8vFgo",
       "pictureSource": "Goal.com",
@@ -31,7 +31,7 @@
     },
     {
       "title": "psg",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 22 Sep 2025 10:50:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTo31O2P_WeJ5N3Ka1-n34hf2QCqWEy0OaRBcmmLj4teaz7yvhOfrFE1gZuPOs",
       "pictureSource": "L'Équipe",
@@ -49,10 +49,10 @@
           "source": "RMC Sport"
         },
         {
-          "title": "Ligue 1 McDonald’s : « Il faut improviser », relative Rafel Pol après le report du Classique Olympique de Marseille - Paris Saint-Germain",
+          "title": "Le Paris Saint-Germain chute face à Marseille, une première depuis 14 ans",
           "snippet": "",
-          "url": "https://www.dazn.com/fr-FR/news/football/ligue-1-mcdonalds-il-faut-improviser-relative-rafel-pol-apres-le-report-du-classique-olympique-de-marseille-paris-saint-germain/s8xti0gki84e1uvz6kp7iaccf",
-          "source": "DAZN"
+          "url": "https://www.france24.com/fr/sports/20250922-le-paris-saint-germain-chute-face-%C3%A0-marseille-une-premi%C3%A8re-depuis-14-ans",
+          "source": "France 24"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,14 +117,14 @@
       "title": "nvda",
       "trafficCount": "100+",
       "pubDate": "Mon, 22 Sep 2025 09:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ1PlFoMXnzMfePCudIQWxghoTXHLJcNYgrntiQwwx3-Y3eBFI_OkoilezDlw8",
-      "pictureSource": "OpenAI",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWig7RTpuCh3zk8M28ZPdWpbLFo0DemTyEW4pSeFh6tbtx0he08wlbj3FrK0Y",
+      "pictureSource": "NVIDIA Newsroom",
       "relatedSearch": [
         {
-          "title": "OpenAI and NVIDIA announce strategic partnership to deploy 10 gigawatts of NVIDIA systems",
+          "title": "OpenAI and NVIDIA Announce Strategic Partnership to Deploy 10 Gigawatts of NVIDIA Systems",
           "snippet": "",
-          "url": "https://openai.com/index/openai-nvidia-systems-partnership/",
-          "source": "OpenAI"
+          "url": "https://nvidianews.nvidia.com/news/openai-and-nvidia-announce-strategic-partnership-to-deploy-10gw-of-nvidia-systems",
+          "source": "NVIDIA Newsroom"
         },
         {
           "title": "Nvidia plans to invest up to $100 billion in OpenAI as part of data center buildout",
@@ -133,10 +133,38 @@
           "source": "CNBC"
         },
         {
-          "title": "S&P 500 Holds at Record Amid Calls For a Breather: Markets Wrap",
+          "title": "Nvidia stock jumps on $100 billion OpenAI investment as Huang touts 'biggest AI infrastructure project in history'",
           "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2025-09-21/us-futures-slip-as-traders-gauge-h-1b-visa-fallout-markets-wrap",
-          "source": "Bloomberg.com"
+          "url": "https://finance.yahoo.com/news/nvidia-stock-jumps-on-100-billion-openai-investment-as-huang-touts-biggest-ai-infrastructure-project-in-history-171740509.html",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "유엑스링크",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 22 Sep 2025 09:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkw64a3losZ-ElKdwzC2LQ7elZ8M7omjvPymcC1GZQREw-LizYzQAoMwh3MbA",
+      "pictureSource": "bloomingbit",
+      "relatedSearch": [
+        {
+          "title": "업비트, 유엑스링크(UXLINK) 출금 재개",
+          "snippet": "",
+          "url": "https://bloomingbit.io/feed/news/97418",
+          "source": "bloomingbit"
+        },
+        {
+          "title": "웹3 소셜미디어 ‘유엑스링크’, 1100만 달러 해킹 피해",
+          "snippet": "",
+          "url": "https://kr.beincrypto.com/uxlink-web3-social-app-hack-token-crash/",
+          "source": "BeInCrypto"
+        },
+        {
+          "title": "유엑스링크(UXLINK), 보안 사고 발생…거래소에 의심 입금 동결 요청",
+          "snippet": "",
+          "url": "https://bloomingbit.io/feed/news/97415",
+          "source": "bloomingbit"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,9 +183,9 @@
           "source": "뉴시스"
         },
         {
-          "title": "엔비디아, 오픈AI에 최대 138조원 투자…AI 데이터센터 확충 나선다",
+          "title": "이번엔 엔비디아가 끌었다…뉴욕증시 사흘째 최고치",
           "snippet": "",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01282486642303072",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01561286642303072",
           "source": "마켓인"
         },
         {
@@ -239,44 +267,16 @@
           "source": "조선일보"
         },
         {
-          "title": "'참어머님' 한학자 통일교 총재 구속… '통일교-尹정권 커넥션' 수사 활로",
+          "title": "[속보] ‘김건희에 청탁’ 한학자 총재 구속…국힘·통일교 유착 수사 탄력",
           "snippet": "",
-          "url": "https://www.hankookilbo.com/News/Read/A2025092217440005071",
-          "source": "한국일보"
+          "url": "https://www.hani.co.kr/arti/society/society_general/1220139.html",
+          "source": "한겨레"
         },
         {
-          "title": "[속보]한학자 ‘구속’···특검, 통일교 청탁 ‘최종 결재자’까지 신병확보",
+          "title": "세계일보, 한학자 통일교 총재 구속 영장심사 당일 “구속이 능사냐”",
           "snippet": "",
-          "url": "https://www.khan.co.kr/article/202509230333001",
-          "source": "경향신문"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "불꽃야구",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 22 Sep 2025 07:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTchwE677AluFVM6n8jTtIIY_1zK3hftW_Fo2oKDuEuzyf6rI4RlAX873rsiw4",
-      "pictureSource": "조선일보",
-      "relatedSearch": [
-        {
-          "title": "'불꽃야구' 어쩌다 이런 취급까지…\"쉬워\" 고등학생 상대로 굴욕",
-          "snippet": "",
-          "url": "https://www.chosun.com/entertainments/broadcast/2025/09/21/KEI57G3F7Y4ZFD44MXJG3MVJQQ/",
-          "source": "조선일보"
-        },
-        {
-          "title": "정성훈, 그라운드 위의 낚시꾼 등극 ‘서울고 잡아라’ (불꽃야구)",
-          "snippet": "",
-          "url": "https://sports.donga.com/ent/article/all/20250922/132438410/1",
-          "source": "스포츠동아"
-        },
-        {
-          "title": "김성근, 모두를 놀라게 한 초강수에 '혼돈'(불꽃야구)",
-          "snippet": "",
-          "url": "https://sports.news.nate.com/view/20250922n06456",
-          "source": "네이트"
+          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=328989",
+          "source": "미디어오늘"
         }
       ],
       "link": "https://imtaqin.id/"

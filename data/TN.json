@@ -1,6 +1,62 @@
 {
-  "lastUpdate": "2025-09-22 05:32:11",
+  "lastUpdate": "2025-09-22 05:43:14",
   "data": [
+    {
+      "title": "météo",
+      "trafficCount": "2000+",
+      "pubDate": "Sun, 21 Sep 2025 22:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgN6wdhirxEvG0JTJFLRk4onIsmyDIl9isBK2qhi7JSgaT9C7vUE6UlUyIGu4",
+      "pictureSource": "Mosaique FM",
+      "relatedSearch": [
+        {
+          "title": "La météo du lundi 22 septembre 2025",
+          "snippet": "",
+          "url": "https://www.mosaiquefm.net/fr/national-tunisie/1459923/la-meteo-du-lundi-22-septembre-2025",
+          "source": "Mosaique FM"
+        },
+        {
+          "title": "Allier – Météo – La pluie sera-t-elle toujours présente ce lundi 22 septembre 2025 ?",
+          "snippet": "",
+          "url": "https://www.lasemainedelallier.fr/allier-meteo-lundi-22-septembre-2025/",
+          "source": "La Semaine de l'Allier"
+        },
+        {
+          "title": "Météo en Seine-Maritime. Quel temps fera-t-il en cette première semaine d'automne ?",
+          "snippet": "",
+          "url": "https://actu.fr/meteo/meteo-en-seine-maritime-quel-temps-fera-t-il-en-cette-premiere-semaine-d-automne_63193179.html",
+          "source": "Actu.fr"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "الطقس",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 21 Sep 2025 22:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnQh9tdNTGslZZJSdo-YTKKgrAmjhSm7aEt3RvjEA12aGsAoMMVtaI9sUEmGQ",
+      "pictureSource": "Mosaique FM",
+      "relatedSearch": [
+        {
+          "title": "طقس السبت 20 سبتمبر 2025",
+          "snippet": "",
+          "url": "https://www.mosaiquefm.net/ar/%D8%AA%D9%88%D9%86%D8%B3-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/1459446/%D8%B7%D9%82%D8%B3-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA-20-%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1-2025",
+          "source": "Mosaique FM"
+        },
+        {
+          "title": "حالة الطقس تحذير جوي عاجل أمطار خفيفة واضطراب ملاحي يطالان البلاد في آخر أيام الصيف",
+          "snippet": "",
+          "url": "https://tawusal.com/%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B7%D9%82%D8%B3-%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%AC%D9%88%D9%8A-%D8%B9%D8%A7%D8%AC%D9%84-%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D8%AE%D9%81%D9%8A%D9%81%D8%A9-%D9%88/",
+          "source": "تواصل نيوز"
+        },
+        {
+          "title": "الصيف مستمر: درجات الحرارة تلامس الـ40 في عدد من المدن العربية",
+          "snippet": "",
+          "url": "https://www.newsroom.info/163393",
+          "source": "نيوز رووم"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "weather",
       "trafficCount": "200+",
@@ -30,34 +86,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "الطقس غدًا",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 21 Sep 2025 12:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnQh9tdNTGslZZJSdo-YTKKgrAmjhSm7aEt3RvjEA12aGsAoMMVtaI9sUEmGQ",
-      "pictureSource": "Mosaique FM",
-      "relatedSearch": [
-        {
-          "title": "طقس السبت 20 سبتمبر 2025",
-          "snippet": "",
-          "url": "https://www.mosaiquefm.net/ar/%D8%AA%D9%88%D9%86%D8%B3-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/1459446/%D8%B7%D9%82%D8%B3-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA-20-%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1-2025",
-          "source": "Mosaique FM"
-        },
-        {
-          "title": "حالة الطقس تحذير جوي عاجل أمطار خفيفة واضطراب ملاحي يطالان البلاد في آخر أيام الصيف",
-          "snippet": "",
-          "url": "https://tawusal.com/%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B7%D9%82%D8%B3-%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%AC%D9%88%D9%8A-%D8%B9%D8%A7%D8%AC%D9%84-%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D8%AE%D9%81%D9%8A%D9%81%D8%A9-%D9%88/",
-          "source": "تواصل نيوز"
-        },
-        {
-          "title": "الصيف مستمر: درجات الحرارة تلامس الـ40 في عدد من المدن العربية",
-          "snippet": "",
-          "url": "https://www.newsroom.info/163393",
-          "source": "نيوز رووم"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "برشلونة",
       "trafficCount": "1000+",
       "pubDate": "Sun, 21 Sep 2025 12:50:00 -0700",
@@ -71,44 +99,16 @@
           "source": "Mosaique FM"
         },
         {
-          "title": "تشكيل خيتافي الرسمي ضد برشلونة في الدوري الإسباني.. تأمين دفاعي بـ5 لاعبين",
+          "title": "هانز فليك يفرض عقوبته.. راشفورد يتلقى العقاب في مباراة برشلونة وخيتافي بالدوري الإسباني 2025-2026",
           "snippet": "",
-          "url": "https://alwatannews.net/watan-sports/article/4058187/%D8%AA%D8%B4%D9%83%D9%8A%D9%84-%D8%AE%D9%8A%D8%AA%D8%A7%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A-%D8%B6%D8%AF-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A-%D8%AA%D8%A3%D9%85%D9%8A%D9%86-%D8%AF%D9%81%D8%A7%D8%B9%D9%8A-%D8%A85-%D9%84%D8%A7%D8%B9%D8%A8%D9%8A%D9%86",
-          "source": "صحيفة الوطن"
+          "url": "https://arabsport.org/2025/09/22/%D9%87%D8%A7%D9%86%D8%B2-%D9%81%D9%84%D9%8A%D9%83-%D9%8A%D9%81%D8%B1%D8%B6-%D8%B9%D9%82%D9%88%D8%A8%D8%AA%D9%87-%D8%B1%D8%A7%D8%B4%D9%81%D9%88%D8%B1%D8%AF-%D9%8A%D8%AA%D9%84%D9%82%D9%89-%D8%A7%D9%84/",
+          "source": "arabsport.org"
         },
         {
-          "title": "قدم.. برشلونة يواصل ملاحقة ريال مدريد في صدارة الليغا",
+          "title": "من هو معلق مباراة برشلونة وخيتافي؟.. هنا تردد القنوات الناقلة لمباراة برشلونة وخيتافي اليوم في الدوري الاسباني",
           "snippet": "",
-          "url": "https://www.aa.com.tr/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D9%82%D8%AF%D9%85-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D9%85%D9%84%D8%A7%D8%AD%D9%82%D8%A9-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%81%D9%8A-%D8%B5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%84%D9%8A%D8%BA%D8%A7/3694363",
-          "source": "Anadolu Ajansı"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "fcb",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 21 Sep 2025 12:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDmwOxEgzMu8aNf3jGwF4WuJ-G9zpA_ZPyv6UOZVf6n9_oOtQXF9uMnjYtdmU",
-      "pictureSource": "beIN SPORTS",
-      "relatedSearch": [
-        {
-          "title": "Flick calls for united front in Barca squad ahead of busy fixture schedule",
-          "snippet": "",
-          "url": "https://www.beinsports.com/en-asia/football/primera-divisin/articles/flick-calls-for-united-front-in-barca-squad-ahead-of-busy-fixture-schedule-2025-09-21",
-          "source": "beIN SPORTS"
-        },
-        {
-          "title": "How did Hansi Flick instill so much confidence in Barcelona?",
-          "snippet": "",
-          "url": "https://foot-africa.com/en/news/how-did-hansi-flick-instill-so-much-confidence-in-barcelona-888645/",
-          "source": "Foot Africa"
-        },
-        {
-          "title": "Hansi Flick fires squad demand as Barcelona face demanding schedule",
-          "snippet": "",
-          "url": "https://www.football-espana.net/2025/09/21/hansi-flick-squad-demand-barcelona-schedule",
-          "source": "Football Espana"
+          "url": "https://egnews.in/123899/%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D9%88%D8%AE%D9%8A%D8%AA/",
+          "source": "egnews.in"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +127,16 @@
           "source": "BBC"
         },
         {
-          "title": "Barcelona 3-0 Getafe (Sep 21, 2025) Game Analysis",
+          "title": "Torres brace lifts Barca, Atletico drop points again",
           "snippet": "",
-          "url": "https://www.espn.com/soccer/report/_/gameId/748191",
-          "source": "ESPN"
+          "url": "http://www.china.org.cn/2025-09/22/content_118090486.shtml",
+          "source": "China.org.cn"
         },
         {
-          "title": "European roundup: Ferran Torres at the double as Barcelona cruise past Getafe",
+          "title": "Why is Lamine Yamal not playing for Barcelona vs Getafe today, September 21? – Bolavip",
           "snippet": "",
-          "url": "https://www.theguardian.com/football/2025/sep/21/european-football-roma-pellegrini-lazio-barcelona-inter-marseille-psg-report",
-          "source": "The Guardian"
+          "url": "https://beritasriwijaya.co.id/en/why-is-lamine-yamal-not-playing-for-barcelona-vs-getafe-today-september-21-bolavip/",
+          "source": "Beritasriwijaya.co.id"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +183,16 @@
           "source": "Sports Illustrated"
         },
         {
-          "title": "Asi ha narrado la radio el doblete de Ferran Torres",
+          "title": "3-0. El Barça se acostumbra a ganar sin Lamine Yamal",
           "snippet": "",
-          "url": "https://www.sport.es/es/videos/barca/20250921/narrado-radio-doblete-ferran-torres/121817147.shtml",
-          "source": "SPORT"
+          "url": "https://es-us.noticias.yahoo.com/deportes/3-0-bar%C3%A7a-acostumbra-ganar-210351364.html",
+          "source": "Yahoo"
         },
         {
-          "title": "El FC Barcelona GOLEÓ EN LA LIGA de España para no perderle la pisada al líder Real Madrid",
+          "title": "El 'Tiburón' se reivindica con dos mordiscos más y una gran actuación",
           "snippet": "",
-          "url": "https://onefootball.com/id/berita/el-fc-barcelona-goleo-en-la-liga-de-espana-para-no-perderle-la-pisada-al-lider-real-madrid-41698284",
-          "source": "OneFootball"
+          "url": "https://www.elnacional.cat/es/deportes/tiburon-reivindica-dos-mordiscos-mas-gran-actuacion_1488323_102.html",
+          "source": "El Nacional.cat"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,10 +239,10 @@
           "source": "Absolut Fussball"
         },
         {
-          "title": "Kovac: Das macht das Schlotterbeck-Comeback \"umso beeindruckender\" | \"Gesund, und voll fit\" | Video",
+          "title": "Bundesliga: Schlotterbeck blickt nach Comeback auf „harte Zeit“ zurück",
           "snippet": "",
-          "url": "https://www.kicker.de/kovac-das-macht-das-schlotterbeck-comeback-umso-beeindruckender-1148513/video",
-          "source": "Kicker"
+          "url": "https://www.tagesspiegel.de/sport/bundesliga-schlotterbeck-blickt-nach-comeback-auf-harte-zeit-zuruck-14365529.html",
+          "source": "Tagesspiegel"
         },
         {
           "title": "Borussia Dortmund gegen VfL Wolfsburg heute live im TV und Stream: Hier läuft die Bundesliga",

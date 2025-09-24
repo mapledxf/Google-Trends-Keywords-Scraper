@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-24 06:56:22",
+  "lastUpdate": "2025-09-24 07:15:12",
   "data": [
     {
       "title": "météo",
@@ -31,28 +31,28 @@
     },
     {
       "title": "weather",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 23 Sep 2025 22:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJmsDaSkYqb69osfWNW4u5xEyKiKoZRxQ-i5NMHqCtilSzzsR9WRuGYM7EThE",
-      "pictureSource": "Twickenham Nub News",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2fM4AOj6zlw3EgzfHZJmKnc-1oZuylOFuxxztFjJGo5IHVROIYu9xtxYAQE",
+      "pictureSource": "Dublin Live",
       "relatedSearch": [
         {
-          "title": "Today's weather in Twickenham - 24 September",
+          "title": "Met Eireann confirms exact date of impact of Hurricane Gabrielle",
           "snippet": "",
-          "url": "https://twickenham.nub.news/news/weather-news/todays-weather-in-twickenham-24-september-273062",
-          "source": "Twickenham Nub News"
+          "url": "https://www.dublinlive.ie/news/dublin-news/met-eireann-confirms-exact-date-32529352",
+          "source": "Dublin Live"
         },
         {
-          "title": "Weather forecast for this week in Teddington - 22 Sep to 28 Sep",
+          "title": "Cork Weather: Latest update from Met Eireann as weather expert says don't stress Hurricane Gabrielle",
           "snippet": "",
-          "url": "https://teddington.nub.news/news/weather-news/weather-forecast-for-this-week-in-teddington-22-sep-to-28-sep-272798",
-          "source": "Teddington Nub News"
+          "url": "https://www.corkbeo.ie/news/local-news/cork-weather-latest-update-met-32538183",
+          "source": "Cork Beo"
         },
         {
-          "title": "Today's weather in Teddington - 24 September",
+          "title": "'Cold Arctic air mass' to bring frost again with temps dropping to 0C & 'uncertainty' amid Hurricane Gabrielle watch",
           "snippet": "",
-          "url": "https://teddington.nub.news/news/weather-news/todays-weather-in-teddington-24-september-273064",
-          "source": "Teddington Nub News"
+          "url": "https://www.thesun.ie/news/15871905/arctic-air-frost-hurricane-gabrielle-watch-ireland-weather/",
+          "source": "The Irish Sun"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,9 +89,15 @@
       "title": "claudia cardinale",
       "trafficCount": "1000+",
       "pubDate": "Tue, 23 Sep 2025 14:20:00 -0700",
-      "picture": "",
-      "pictureSource": "The New York Times",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcToAxiBl91ZpHDMT85WU4unZFyIT879H1AQjdfBeR64wMvfbkaZEOM2yXmuzdU",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
+        {
+          "title": "Claudia Cardinale, glamorous star of The Leopard and Once Upon a Time in the West, dies aged 87",
+          "snippet": "",
+          "url": "https://www.theguardian.com/film/2025/sep/23/claudia-cardinale-dies",
+          "source": "The Guardian"
+        },
         {
           "title": "Claudia Cardinale, Actress Who Was ‘Italy’s Girlfriend,’ Is Dead at 87",
           "snippet": "",
@@ -103,12 +109,34 @@
           "snippet": "",
           "url": "https://www.bbc.com/news/articles/c237elg3rr3o",
           "source": "BBC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "la liga",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 23 Sep 2025 14:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuU2k03yWcxa6Yds2Lh08rwcP5Z12GnHDkiBsDwICbD7gW1kWmK8rTWvlw_KE",
+      "pictureSource": "Real Madrid",
+      "relatedSearch": [
+        {
+          "title": "Xabi Alonso: \"It was a solid victory, rather than a brilliant one, but it was good\"",
+          "snippet": "",
+          "url": "https://www.realmadrid.com/en-US/news/football/first-team/press-conference/xabi-alonso-rueda-de-prensa-20-09-2025",
+          "source": "Real Madrid"
         },
         {
-          "title": "Claudia Cardinale: a life in pictures",
+          "title": "Sports - La Liga: Real Madrid and Kylian Mbappé keep perfect start alive",
           "snippet": "",
-          "url": "https://www.theguardian.com/film/gallery/2025/sep/23/claudia-cardinale-a-life-in-pictures",
-          "source": "The Guardian"
+          "url": "https://www.france24.com/en/tv-shows/sports/20250924-la-liga-real-madrid-and-kylian-mbapp%C3%A9-keep-perfect-start-alive",
+          "source": "France 24"
+        },
+        {
+          "title": "(VIDEO) All the Goals From Real Madrid vs Espanyol in LaLiga",
+          "snippet": "",
+          "url": "https://www.beinsports.com/en-us/soccer/la-liga/articles/-video-all-the-goals-from-real-madrid-vs-espanyol-in-laliga-2025-09-20",
+          "source": "beIN SPORTS"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +239,16 @@
           "source": "BBC"
         },
         {
+          "title": "'Modric taught me to shoot like that; we miss him'",
+          "snippet": "",
+          "url": "https://www.besoccer.com/new/modric-taught-me-to-shoot-like-that-we-miss-him-1374670",
+          "source": "BeSoccer"
+        },
+        {
           "title": "Vini Jr.: \"It's one of my most beautiful goals\"",
           "snippet": "",
           "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/vini-jr-es-uno-de-los-goles-mas-bonitos-que-he-hecho-22-09-2025",
           "source": "Real Madrid"
-        },
-        {
-          "title": "Taking notes, Xabi Alonso? Vini nets a cracking goal in Real win, watch 🎥",
-          "snippet": "",
-          "url": "https://onefootball.com/en/news/taking-notes-xabi-alonso-vini-nets-a-cracking-goal-in-real-win-watch-41708446",
-          "source": "OneFootball"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,15 +257,9 @@
       "title": "levante – real madrid",
       "trafficCount": "10000+",
       "pubDate": "Tue, 23 Sep 2025 11:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIKqpCOj3u0Lyj-pys8f6PptHnx5DpVglm3MVDdq0FFmRSNhlTy-a79Rr7jEU",
-      "pictureSource": "El Comercio Perú",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpWmopiLqimQ-1TyJpXZIHfvhf9jb1v14hMtFMxOQaSbjz6MiwVhHkmliKJRg",
+      "pictureSource": "Sports Illustrated",
       "relatedSearch": [
-        {
-          "title": "VIDEO: Real Madrid derrotó a Levante y mantiene paso perfecto en LaLiga",
-          "snippet": "",
-          "url": "https://elcomercio.pe/deporte-total/futbol-mundial/espn-en-vivo-futbol-libre-tv-real-madrid-vs-levante-hoy-gratis-via-disney-plus-por-laliga-online-video-noticia/",
-          "source": "El Comercio Perú"
-        },
         {
           "title": "Lesionados y sancionados del Real Madrid para enfrentarse al Levante",
           "snippet": "",
@@ -245,38 +267,16 @@
           "source": "Sports Illustrated"
         },
         {
-          "title": "Levante UD – Real Madrid: horario y canal de TV del partido de LaLiga",
+          "title": "Levante - Real Madrid, en directo La Liga: resultado y goleadores con Vinicius, Mastantuono y Mbappé de protagonistas",
           "snippet": "",
-          "url": "https://madridistareal.com/levante-real-madrid-horario-tv-laliga/",
-          "source": "madridistaReal"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ac milan – lecce",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 23 Sep 2025 11:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjAT6EsoEbx96s_I6WureUuZx7n1ls7XNwNyJ3GzrZwnoP7ONcJsSXP3mMz-0",
-      "pictureSource": "ESPN",
-      "relatedSearch": [
-        {
-          "title": "U.S.'s Pulisic nets third goal of week for Milan",
-          "snippet": "",
-          "url": "https://www.espn.com/soccer/story/_/id/46358752/christian-pulisic-goal-puts-ac-milan-lecce-coppa-action",
-          "source": "ESPN"
+          "url": "https://www.elespanol.com/deportes/20250923/levante-real-madrid-directo-liga-resultado-goleadores-vinicius-mastantuono-protagonistas/1003743937592_10.html",
+          "source": "El Español"
         },
         {
-          "title": "De Winter discusses ‘do-or-die game’ and playing from start: “I’m pretty calm”",
+          "title": "Valverde y el Real Madrid buscan extender su racha perfecta ante el Levante",
           "snippet": "",
-          "url": "https://sempremilan.com/de-winter-do-die-playing-start-calm",
-          "source": "SempreMilan"
-        },
-        {
-          "title": "Who will stand in as Milan head coach in absence of Allegri against Lecce",
-          "snippet": "",
-          "url": "https://football-italia.net/who-will-stand-in-as-milan-head-coach-vs-lecce/",
-          "source": "Football Italia"
+          "url": "https://www.debate.com.uy/deporte/Valverde-y-el-Real-Madrid-buscan-extender-su-racha-perfecta-ante-el-Levante-20250923-0105.html",
+          "source": "El Debate - Uruguay"
         }
       ],
       "link": "https://imtaqin.id/"

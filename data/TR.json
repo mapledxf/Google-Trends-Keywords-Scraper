@@ -1,30 +1,86 @@
 {
-  "lastUpdate": "2025-09-26 00:40:34",
+  "lastUpdate": "2025-09-26 02:13:20",
   "data": [
+    {
+      "title": "bbc",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 25 Sep 2025 17:50:00 -0700",
+      "picture": "",
+      "pictureSource": "Nature",
+      "relatedSearch": [
+        {
+          "title": "Huntington’s disease treated for first time using gene therapy",
+          "snippet": "",
+          "url": "https://www.nature.com/articles/d41586-025-03139-9",
+          "source": "Nature"
+        },
+        {
+          "title": "Huntington's disease successfully treated for first time",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/cevz13xkxpro",
+          "source": "BBC"
+        },
+        {
+          "title": "Huntington's disease successfully treated for 1st time in UK",
+          "snippet": "",
+          "url": "https://www.aa.com.tr/en/europe/huntingtons-disease-successfully-treated-for-1st-time-in-uk/3697996",
+          "source": "Anadolu Ajansı"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "amazon",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 25 Sep 2025 17:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQm4PdgEOWS1OBLlebXTxrpvtwsli5hZ0gMViuBBof9OvGw2fbBbVDtmx3D9ac",
+      "pictureSource": "The New York Times",
+      "relatedSearch": [
+        {
+          "title": "Amazon to Pay $2.5 Billion in Prime Membership Settlement",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/09/25/technology/amazon-ftc-settlement.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "After Amazon agrees to $2.5B settlement, here's how to know if you're eligible",
+          "snippet": "",
+          "url": "https://www.nbcchicago.com/news/business/amazon-prime-settlement-ftc-tricked-refund-payment-are-you-eligible/3829691/",
+          "source": "NBC 5 Chicago"
+        },
+        {
+          "title": "Amazon to pay historic $2.5 billion settlement for allegedly tricking customers into signing up for Prime",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/09/25/tech/amazon-ftc-prime-settlement",
+          "source": "CNN"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "dolar",
       "trafficCount": "500+",
       "pubDate": "Thu, 25 Sep 2025 17:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPKOO4ICD3aPw1eyPCJgS7ZE1SR9R4xjBGE8xUVYLfntHzChOSfCwfnc0DNMw",
-      "pictureSource": "Investing.com Türkiye",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6k-lIjRxGZ62PKBbQ6yCkq2Tv6zA6jRlO07TBNuaWvgjf0YRJ03pAiS5R_oA",
+      "pictureSource": "Bloomberght",
       "relatedSearch": [
         {
-          "title": "Kurdaki Son Durum: Dolar/TL’de Yukarı Baskı Sürüyor",
+          "title": "TL mevduat faizi 2023'ten beri en düşük seviyede | Son dakika ekonomi haberleri",
           "snippet": "",
-          "url": "https://tr.investing.com/analysis/kurdaki-son-durum-dolartlde-yukar-bask-suruyor-200501402",
+          "url": "https://www.bloomberght.com/tl-mevduat-faizi-2023-ten-beri-en-dusuk-seviyede-3757945",
+          "source": "Bloomberght"
+        },
+        {
+          "title": "Yurt içi yerleşiklerin döviz mevduatı 2,16 milyar dolar artı Yazar ForInvest Haber",
+          "snippet": "",
+          "url": "https://tr.investing.com/news/economy-news/yurt-ici-yerlesiklerin-doviz-mevduat-216-milyar-dolar-art-3554080",
           "source": "Investing.com Türkiye"
         },
         {
-          "title": "Piyasada Devalüasyon Baskısı Arttı",
+          "title": "Bankacılık sektörünün mevduatı arttı",
           "snippet": "",
-          "url": "https://www.paramedya.com/devami/135738/piyasada-devaluasyon-baskisi-artti/",
-          "source": "ParaMedya"
-        },
-        {
-          "title": "Türk Lirası değerli mi? Bu nereden baktığınıza bağlı...",
-          "snippet": "",
-          "url": "https://www.ekonomim.com/kose-yazisi/turk-lirasi-degerli-mi-bu-nereden-baktiginiza-bagli/844618",
-          "source": "Ekonomim"
+          "url": "https://www.msn.com/tr-tr/haber/other/bankac%C4%B1l%C4%B1k-sekt%C3%B6r%C3%BCn%C3%BCn-mevduat%C4%B1-artt%C4%B1/ar-AA1NhBkv",
+          "source": "MSN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,26 +89,26 @@
       "title": "sao paulo",
       "trafficCount": "100+",
       "pubDate": "Thu, 25 Sep 2025 16:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmErgdzk_yVUxaPqCBLqxVELpRn_YoQfjkFcK3DA4s4KymQmfyIbvBiL5rzCA",
-      "pictureSource": "Gazeta Esportiva",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9WkDuMq9g-D1yN3Q6RD8FQB84Jgx2IFdsYOQ277KBgzWQUdV-QYq_H2Wi-SA",
+      "pictureSource": "Arquibancada Tricolor",
       "relatedSearch": [
         {
-          "title": "Rafael reconhece eficiência da LDU e lamenta eliminação: “Tínhamos potencial”",
+          "title": "Fracasso internacional marca mais um capítulo da gestão Casares no São Paulo",
           "snippet": "",
-          "url": "https://www.gazetaesportiva.com/times/sao-paulo/rafael-reconhece-eficiencia-da-ldu-e-lamenta-eliminacao-tinhamos-potencial/",
+          "url": "https://www.arqtricolor.com/ultimas/fracasso-internacional-marca-mais-um-capitulo-da-gestao-casares-no-sao-paulo/",
+          "source": "Arquibancada Tricolor"
+        },
+        {
+          "title": "“Foi a lesão mais desafiadora da minha carreira”, diz Lucas após esforço para enfrentar LDU",
+          "snippet": "",
+          "url": "https://www.gazetaesportiva.com/times/sao-paulo/foi-a-lesao-mais-desafiadora-da-minha-carreira-diz-lucas-apos-esforco-para-enfrentar-ldu/",
           "source": "Gazeta Esportiva"
         },
         {
-          "title": "São Paulo deixa Libertadores 2025 com marcas ruins no Morumbis",
+          "title": "São Paulo 0 x 1 LDU Quito: veja os melhores momentos da Libertadores",
           "snippet": "",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/sao-paulo-deixa-libertadores-2025-com-marcas-ruins-no-morumbis/",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/sao-paulo-0-x-1-ldu-quito-veja-os-melhores-momentos-da-libertadores/",
           "source": "CNN Brasil"
-        },
-        {
-          "title": "VÍDEOS: GR2 de quinta-feira, 25 de setembro",
-          "snippet": "",
-          "url": "https://g1.globo.com/pe/petrolina-regiao/playlist/videos-gr2-de-quinta-feira-25-de-setembro-de-2025.ghtml",
-          "source": "G1"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -114,29 +170,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "لا ليغا",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 25 Sep 2025 14:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRt6bgBxAYS_9OV_qC1G_Ct_qSJOdon0Jqd5IqDJyspCpAlmnItwrN8hkaiPaE",
-      "pictureSource": "Goal.com",
+      "title": "elektrik kesintisi",
+      "trafficCount": "2000+",
+      "pubDate": "Thu, 25 Sep 2025 14:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSO3WHS8owiLyL1AFGBCE6ZD2D1FCToBATxCm6Li5uLyyPU0UNcMaRpTh-m6UY",
+      "pictureSource": "NTV Haber",
       "relatedSearch": [
         {
-          "title": "\"عندما يساء لنادينا يجب أن نقول كفى\" .. رد حاسم من لاعب ليفانتي على استفزازات فينيسيوس جونيور",
+          "title": "İstanbul’un 23 ilçesinde elektrik kesintisi: 10 saat sürecek (26 Eylül 2025 BEDAŞ kesinti programı)",
           "snippet": "",
-          "url": "https://www.goal.com/ar/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%A6%D9%85/%D8%A3%D9%88%D9%86%D8%A7%D9%8A-%D8%A5%D9%84%D8%AC%D9%8A%D8%B2%D8%A7%D8%A8%D8%A7%D9%84-%D9%84%D8%A7%D8%B9%D8%A8-%D9%84%D9%8A%D9%81%D8%A7%D9%86%D8%AA%D9%8A-%D8%A7%D8%B3%D8%AA%D9%81%D8%B2%D8%A7%D8%B2%D8%A7%D8%AA-%D9%81%D9%8A%D9%86%D9%8A%D8%B3%D9%8A%D9%88%D8%B3-%D8%AC%D9%88%D9%86%D9%8A%D9%88%D8%B1-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF/blte6dfcf2c0e54e102",
-          "source": "Goal.com"
+          "url": "https://www.ntv.com.tr/galeri/turkiye/istanbulun-23-ilcesinde-elektrik-kesintisi-10-saat-surecek-26-eylul-2025-bedas-kesinti-programi,GrjJPpv6aEa9haOcq3zBeQ",
+          "source": "NTV Haber"
         },
         {
-          "title": "القائد فينيسيوس يخطف الأضواء",
+          "title": "26 Eylül Cuma Elektrik Kesintisi: İstanbul’un 23 İlçesinde 10 Saat Sürecek Büyük Elektrik Kesintisi Olacak",
           "snippet": "",
-          "url": "https://hihi2.com/2025/09/25/p3397181.html",
-          "source": "هاي كورة"
+          "url": "https://onedio.com/haber/26-eylul-cuma-elektrik-kesintisi-istanbul-un-23-ilcesinde-10-saat-surecek-buyuk-elektrik-kesintisi-olacak-1316102",
+          "source": "Onedio"
         },
         {
-          "title": "شاهد أردا جولر يحاول تقليد رقصة فينيسيوس جونيور.. والنتيجة مضحكة للغاية",
+          "title": "İstanbul’da 26 Eylül’de 23 ilçede elektrik kesintisi",
           "snippet": "",
-          "url": "https://tribuna.com/ar/blogs/shhd-rd-jwlr-yhwl-tqlyd-rqs-fynysyws-jwnywr-wlntyj-mdhk-llgh/",
-          "source": "Tribuna.com"
+          "url": "https://www.yenisafak.com/foto-galeri/gundem/istanbul-elektrik-kesintisi-26-eylul-2025-hangi-ilcelerde-ve-saat-kacta-kesilecek-4752272",
+          "source": "Yeni Şafak"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -170,6 +226,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "billy vigar neden öldü",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 25 Sep 2025 14:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfDKQjaYo5A0r1-2IzmbpShgC6-uQ6FXP4-_tDtZ-xHyT835aYwOFvzYIng2g",
+      "pictureSource": "Milliyet",
+      "relatedSearch": [
+        {
+          "title": "Eski Arsenalli Billy Vigar, 21 yaşında vefat etti! - Futbol - Spor Haberleri",
+          "snippet": "",
+          "url": "https://www.milliyet.com.tr/skorer/eski-arsenalli-billy-vigar-21-yasinda-vefat-etti-7452813",
+          "source": "Milliyet"
+        },
+        {
+          "title": "Eski Arsenal futbolcusu, maç sırasında hayatını kaybetti",
+          "snippet": "",
+          "url": "https://www.gozlemgazetesi.com/haber/eski-arsenal-futbolcusu-mac-sirasinda-hayatini-kaybetti",
+          "source": "Gözlem Gazetesi"
+        },
+        {
+          "title": "Futbol dünyasını derinden sarsan ölüm: Genç futbolcu 21 yaşında hayatını kaybetti",
+          "snippet": "",
+          "url": "https://www.ntvspor.net/foto-galeri/futbol-dunyasini-derinden-sarsan-olum-genc-futbolcu-21-yasinda-hayatini-kaybetti-410235",
+          "source": "NTVSpor"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "güntekin onay",
       "trafficCount": "100+",
       "pubDate": "Thu, 25 Sep 2025 14:20:00 -0700",
@@ -183,100 +267,16 @@
           "source": "Fanatik"
         },
         {
-          "title": "Orkun-N'Didi ve Rafa Silva!",
+          "title": "Kayserispor-Beşiktaş maçını Güntekin Onay yazdı: Sergen Yalçın, Süper Lig'e yeniden başladı!",
           "snippet": "",
-          "url": "https://www.hurriyet.com.tr/sporarena/yazarlar/guntekin-onay/orkun-ndidi-ve-rafa-silva-42960660",
+          "url": "https://www.hurriyet.com.tr/sporarena/kayserispor-besiktas-macini-guntekin-onay-yazdi-sergen-yalcin-super-lige-yeniden-basladi-42960703",
           "source": "Hürriyet"
         },
         {
-          "title": "Gülengül Altınsay yazdı : Rafa ve Devrim",
+          "title": "Beşiktaş için Kayseri'de ilklerin gecesi! - Beşiktaş Haberleri",
           "snippet": "",
-          "url": "https://www.cumhuriyet.com.tr/yazarlar/gulengul-altinsay/rafa-ve-devrim-2438079",
-          "source": "Cumhuriyet"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "emin bayram",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 25 Sep 2025 14:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_-AI_VYFnWkLvietStphH8l7HnX4FSptyT23VdWSEh4RrXyHJxULy0MF-KMk",
-      "pictureSource": "beinsports.com.tr",
-      "relatedSearch": [
-        {
-          "title": "10 gollü çılgın maça 90+8'de Emin Bayram damgası",
-          "snippet": "",
-          "url": "https://beinsports.com.tr/haber/10-gollu-cilgin-maca-908de-emin-bayram-damgasi",
-          "source": "beinsports.com.tr"
-        },
-        {
-          "title": "Belçika’da 10 gollü maç! Sosyal medya Galatasaray’ın eski oyuncusunu konuşuyor…",
-          "snippet": "",
-          "url": "https://www.gzt.com/foto-galeri/zpor/emin-bayram-club-brugge-mucadelesinde-kac-gol-atti-2046639",
-          "source": "GZT"
-        },
-        {
-          "title": "10 gol atılan maç 5-5 bitti! Türk oyuncu iki kaleye de gol attı",
-          "snippet": "",
-          "url": "https://spor.haber7.com/avrupa-ligleri/haber/3566143-10-gol-atilan-mac-5-5-bitti-turk-oyuncu-iki-kaleye-de-gol-atti",
-          "source": "Haber7"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "boeing uçak",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 25 Sep 2025 14:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQc2AW1KJ2338HD14kHgXyhQk636n5mUugODByRKaH71t63Irrn0GTmOqEW_m4",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Boeing: THY filosunda kaç uçak var, satın alma planları neler?",
-          "snippet": "",
-          "url": "https://www.bbc.com/turkce/articles/c4gwpjj4pkdo",
-          "source": "BBC"
-        },
-        {
-          "title": "250 uçak ve ötesi",
-          "snippet": "",
-          "url": "https://www.birgun.net/makale/250-ucak-ve-otesi-656155",
-          "source": "birgun.net"
-        },
-        {
-          "title": "Tom Barrack duyurdu: THY ile Boeing anlaşması tamam",
-          "snippet": "",
-          "url": "https://www.haber7.com/dunya/haber/3566449-tom-barrack-duyurdu-thy-ile-boeing-anlasmasi-tamam",
-          "source": "Haber7"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "van de beek",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 25 Sep 2025 14:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRC56iNkByYxxCSxOxd8PVAa-cC9P9FxDuy8hm7SiVowLuEp0sTH4INiNHRegM",
-      "pictureSource": "VoetbalPrimeur.nl",
-      "relatedSearch": [
-        {
-          "title": "'Blessure van Van de Beek lijkt nog erger dan gedacht: horrorscenario overtroffen'",
-          "snippet": "",
-          "url": "https://www.voetbalprimeur.nl/nieuws/1695293/van-de-beek-lijkt-zware-achillespeesblessure-te-hebben-opgelopen.html",
-          "source": "VoetbalPrimeur.nl"
-        },
-        {
-          "title": "‘Enorme klap voor 28-jarige Oranje-international’",
-          "snippet": "",
-          "url": "https://www.voetbal4u.com/2025/09/24/enorme-klap-voor-28-jarige-oranje-international/",
-          "source": "Voetbal4u.com"
-        },
-        {
-          "title": "Zware achillespeesblessure dreigt voor Donny van de Beek: ‘Ik ben erg verdrietig en teleurgesteld’",
-          "snippet": "",
-          "url": "https://www.bd.nl/voetbal/zware-achillespeesblessure-dreigt-voor-donny-van-de-beek-ik-ben-erg-verdrietig-en-teleurgesteld~a43238d1/",
-          "source": "Brabants Dagblad"
+          "url": "https://www.haberturk.com/besiktas-icin-kayseri-de-ilklerin-gecesi-3825186-spor",
+          "source": "Habertürk"
         }
       ],
       "link": "https://imtaqin.id/"

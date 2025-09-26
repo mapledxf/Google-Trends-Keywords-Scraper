@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-26 15:58:19",
+  "lastUpdate": "2025-09-26 16:23:38",
   "data": [
     {
       "title": "ministerio de trabajo",
@@ -15,16 +15,16 @@
           "source": "Presidencia de la República Dominicana"
         },
         {
-          "title": "MINERD suspende docencia en escuelas vulnerables por lluvias; anuncio salió a las 8:23 a. m.",
-          "snippet": "",
-          "url": "https://www.diariolibre.com/actualidad/educacion/2025/09/26/clima-en-rd-minerd-suspende-docencia-en-escuelas-vulnerables/3258219",
-          "source": "Diario Libre"
-        },
-        {
           "title": "Despachan algunos empleados públicos y a otros los instruyen a trabajar remoto por las lluvias",
           "snippet": "",
           "url": "https://listindiario.com/la-republica/20250926/despachan-empleados-publicos-otros-instruyen-trabajar-remoto-lluvias_875784.html",
           "source": "Listín Diario"
+        },
+        {
+          "title": "Gobierno reduce jornada laboral en las provincias bajo alerta roja",
+          "snippet": "",
+          "url": "https://almomento.net/gobierno-reduce-jornada-laboral-en-las-provincias-bajo-alerta-roja/",
+          "source": "AlMomento.net"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,35 +33,54 @@
       "title": "noticias de hoy",
       "trafficCount": "100+",
       "pubDate": "Fri, 26 Sep 2025 04:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRL_xyyb4fMBJtIySOCvm0_DLOFMkwqbrTAmp7J1sLPtcPssUngFXNCKIR_DDs",
+      "pictureSource": "Diario Libre",
+      "relatedSearch": [
+        {
+          "title": "Se reduce la cantidad de empleadores y trabajadores en el mercado laboral",
+          "snippet": "",
+          "url": "https://www.diariolibre.com/economia/empleo/2025/09/26/cuanto-se-redujo-la-cantidad-de-empleadores-y-empleados-en-la-tss/3257547",
+          "source": "Diario Libre"
+        },
+        {
+          "title": "Última hora del conflicto en Oriente Próximo, en directo | Netanyahu acusa en la ONU a los líderes mundiales que han reconocido al Estado palestino de enviar un mensaje antisemita: “Asesinar judíos tiene recompensa”",
+          "snippet": "",
+          "url": "https://elpais.com/internacional/2025-09-26/ultima-hora-del-conflicto-en-oriente-proximo-en-directo.html",
+          "source": "EL PAÍS"
+        },
+        {
+          "title": "Asamblea General de la ONU, en vivo: discurso de Netanyahu, noticias y más",
+          "snippet": "",
+          "url": "https://cnnespanol.cnn.com/mundo/live-news/netanyahu-onu-trump-rechaza-anexion-ribera-occidental-trax",
+          "source": "CNN en Español"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "weather",
       "trafficCount": "1000+",
       "pubDate": "Fri, 26 Sep 2025 03:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtv3BLW_HgfIfIl8GMMKOf2lLtznmu1B6h1VJKg6cvW0eJ1O_APxxXSWNLAeM",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7N7dXCNhkno6Po6XSkWhfz_XZf9Dm14cKhhBohLQi_hwAYC7U7hsMxNb887k",
+      "pictureSource": "Belfast Telegraph",
       "relatedSearch": [
         {
-          "title": "Hurricane Gabrielle to hit Azores with torrential rain and enormous waves",
+          "title": "Weather warning issued for Northern Ireland with heavy rain and risk of flooding",
           "snippet": "",
-          "url": "https://www.bbc.com/weather/articles/cp8j40ledn3o",
-          "source": "BBC"
+          "url": "https://www.belfasttelegraph.co.uk/news/northern-ireland/weather-warning-issued-for-northern-ireland-with-heavy-rain-and-risk-of-flooding/a297103908.html",
+          "source": "Belfast Telegraph"
         },
         {
-          "title": "Heavy rain continues to track east for Atlantic Canada",
+          "title": "Exactly when ‘band of rain and strengthening wind’ sweeps Scotland this weekend",
           "snippet": "",
-          "url": "https://ca.news.yahoo.com/heavy-rain-continues-track-east-115609845.html",
-          "source": "Yahoo News Canada"
+          "url": "https://www.dailyrecord.co.uk/news/scottish-news/exactly-band-rain-strengthening-wind-35968904",
+          "source": "Daily Record"
         },
         {
-          "title": "Met Office issues Hurricane Gabrielle verdict as UK braces for wet weather",
+          "title": "Storm maps turn purple as 742-mile rain wall and 90mph gales smash UK - 29 counties hit",
           "snippet": "",
-          "url": "https://newswav.com/article/met-office-issues-hurricane-gabrielle-verdict-as-uk-braces-for-wet-weather-A2509_pfYlnB",
-          "source": "Newswav"
+          "url": "https://www.express.co.uk/news/weather/2113607/storm-maps-rain-gales-hit-uk",
+          "source": "Daily Express"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -114,10 +133,10 @@
           "source": "Yahoo Sports"
         },
         {
-          "title": "Photos: Seattle Mariners take on Colorado Rockies",
+          "title": "Rockies Mariners Baseball",
           "snippet": "",
-          "url": "https://www.seattletimes.com/sports/mariners/photos-seattle-mariners-take-on-colorado-rockies/",
-          "source": "The Seattle Times"
+          "url": "https://lakegenevanews.net/sports/professional/mlb/image_3c8e6b56-53c6-5533-bac6-371372051e0f.html",
+          "source": "Lake Geneva News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -154,26 +173,26 @@
       "title": "new york city fc – inter miami",
       "trafficCount": "100+",
       "pubDate": "Thu, 25 Sep 2025 18:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTb4xWccvoZ8vd_LkSdqw0ruOnd-nCupJpQtVTl7xuCZph0rokK7DqHwF1HkGs",
-      "pictureSource": "ESPN",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDZEbCed5LD1Ri6Efq_BQ30O1u11MFOH-ATHdWvouJHzs3vcQgv_oRi6oL-f0",
+      "pictureSource": "beIN SPORTS",
       "relatedSearch": [
-        {
-          "title": "Messi scores twice, Miami clinches playoff berth",
-          "snippet": "",
-          "url": "https://www.espn.com/soccer/story/_/id/46371808/lionel-messi-brace-helps-inter-miami-clinch-playoff-spot",
-          "source": "ESPN"
-        },
-        {
-          "title": "🎥 Flashback to peak Barça: Busquets and Messi dazzle in MLS",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/article/flashback-peak-bar-busquets-messi-052800302.html",
-          "source": "Yahoo Sports"
-        },
         {
           "title": "Mascherano: Miami 'achieved their first goal' after sealing playoff spot",
           "snippet": "",
           "url": "https://www.beinsports.com/en-us/soccer/mls/articles/mascherano-miami-achieved-their-first-goal-after-sealing-playoff-spot-2025-09-25",
           "source": "beIN SPORTS"
+        },
+        {
+          "title": "Miami destroys NYCFC with Messi’s brilliant double strike",
+          "snippet": "",
+          "url": "https://rollingout.com/2025/09/25/miami-destroys-nycfc-with-messi-strike/",
+          "source": "Rolling Out"
+        },
+        {
+          "title": "Messi Shines Again With Two Goals and an Assist as Inter Miami Cruise Past NYCFC",
+          "snippet": "",
+          "url": "https://borna.news/en/news/1339/messi-shines-again-with-two-goals-and-an-assist-as-inter-miami-cruise-past-nycfc",
+          "source": "خبرگزاری برنا"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -238,20 +257,20 @@
       "title": "guardians - tigers",
       "trafficCount": "100+",
       "pubDate": "Thu, 25 Sep 2025 16:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRs_g-XlRtieG2lLIJBMT2iXU_WMhrWbraCw8sxhFYO78t9YJp8-05IlhIikOI",
-      "pictureSource": "ESPN",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvDlabJ0X-NW7rlOu8ky3XKnqJTmOPWh8gRt6xcXNi7SIfL61Lb8tYgN9Y67c",
+      "pictureSource": "MLB.com",
       "relatedSearch": [
+        {
+          "title": "Postseason bracket, tiebreakers, clinch scenarios, more",
+          "snippet": "",
+          "url": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2025",
+          "source": "MLB.com"
+        },
         {
           "title": "From unsettled playoff races to home run records: What to watch in MLB's final weekend",
           "snippet": "",
           "url": "https://www.espn.com/mlb/story/_/id/46346881/mlb-2025-regular-season-final-weekend-guide-watch-playoffs",
           "source": "ESPN"
-        },
-        {
-          "title": "What is Cleveland Guardians magic number after Thursday's games?",
-          "snippet": "",
-          "url": "https://www.beaconjournal.com/story/sports/mlb/cleveland-guardians/2025/09/25/cleveland-guardians-magic-number-mlb-playoffs/86356346007/",
-          "source": "Akron Beacon Journal"
         },
         {
           "title": "Guardians playoff race 2025: MLB clinching scenarios and what you need to know today, Friday, Sept. 26",

@@ -1,18 +1,37 @@
 {
-  "lastUpdate": "2025-09-26 06:57:10",
+  "lastUpdate": "2025-09-26 07:16:09",
   "data": [
     {
       "title": "мьянма",
       "trafficCount": "100+",
       "pubDate": "Thu, 25 Sep 2025 23:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXoE0dhkPWN5ev6isgFtjjSrq6aJvnaPSNb7-yIQXWWIXHJj7p4AuUxKDXcqY",
+      "pictureSource": "Президент России",
+      "relatedSearch": [
+        {
+          "title": "Встреча с исполняющим обязанности Президента Мьянмы Мин Аун Хлайном",
+          "snippet": "",
+          "url": "http://www.kremlin.ru/events/president/news/78073",
+          "source": "Президент России"
+        },
+        {
+          "title": "Путин встретился с главой Мьянмы для «сверки часов»",
+          "snippet": "",
+          "url": "https://www.vedomosti.ru/politics/news/2025/09/25/1142151-putin-vstretilsya",
+          "source": "Ведомости"
+        },
+        {
+          "title": "Во Владивостоке откроют генконсульство ещё одной страны",
+          "snippet": "",
+          "url": "https://otvprim.tv/news/ofitsialno/vo_vladivostoke_otkroyut_genkonsulstvo_eshchye_odnoy_strany/",
+          "source": "Общественное телевидение Приморья"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "божена рынска",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 25 Sep 2025 22:50:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7tnJjdf1hp85V3lGDdVTVz2iUf0-flC-_P_LHz5Le0LX5ds5XWy_U8dgROHk",
       "pictureSource": "Ведомости",
@@ -124,7 +143,7 @@
     },
     {
       "title": "александр збруев",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Thu, 25 Sep 2025 21:50:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJ65BZEQCBztUKQrJQRWuKLzZBx7wsGMu4e45WPrZlnZ71zq1TR60zQaIvoIw",
       "pictureSource": "muz-tv.ru",
@@ -152,7 +171,7 @@
     },
     {
       "title": "афипский нпз",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 25 Sep 2025 21:50:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyIImYUI4I1HMO8_FsqzswMqQyhPNyYXQItnHRoA2W_iNycwxIP0lQcFhCY6U",
       "pictureSource": "Интерфакс",
@@ -164,16 +183,16 @@
           "source": "Интерфакс"
         },
         {
-          "title": "Украинские беспилотники атаковали НПЗ в Краснодарском крае, обломки упали на одну из установок, начался пожар",
-          "snippet": "",
-          "url": "https://newtimes.ru/articles/detail/252165/",
-          "source": "New Times.Ru"
-        },
-        {
           "title": "В Краснодарском крае из-за атаки беспилотников произошел пожар на нефтеперерабатывающем заводе",
           "snippet": "",
           "url": "https://meduza.io/news/2025/09/26/v-krasnodarskom-krae-iz-za-ataki-bespilotnikov-proizoshel-pozhar-na-neftepererabatyvayuschem-zavode",
           "source": "Meduza"
+        },
+        {
+          "title": "ВСУ снова атаковали юг России – горит НПЗ в Краснодарском крае",
+          "snippet": "",
+          "url": "https://m.business-gazeta.ru/news/683791",
+          "source": "БИЗНЕС Online — Новости Казани"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -210,26 +229,26 @@
       "title": "starlink",
       "trafficCount": "100+",
       "pubDate": "Thu, 25 Sep 2025 21:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbN-nLOTVF6acquI_SbNL9-45xwsv-Nv_1Lc7StIOiHmOxd1mIrODkg_Hk2VI",
-      "pictureSource": "gorod-kimry.ru",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYg8lDznU8BV2_ZV7dho8qlUiL_SCDRU91pS4PVZmFHJzq26QlhN3UJ3LUHFA",
+      "pictureSource": "Высота 102.0",
       "relatedSearch": [
         {
-          "title": "Спутниковый интернет в любой стране на любом телефоне: SpaceX планирует запустить 15 000 спутников Starlink Direct to Cell, сообщают информированные источники издания",
+          "title": "Волгоградцев предупредили о пролёте в небе «загадочных» светящихся объектов",
           "snippet": "",
-          "url": "https://gorod-kimry.ru/press/one/?id=3527860",
+          "url": "https://v102.ru/news/148369.html",
+          "source": "Высота 102.0"
+        },
+        {
+          "title": "В Австралии не исключают возможное падение космического мусора из-за запуска Starlink",
+          "snippet": "",
+          "url": "https://gorod-kimry.ru/press/one/?id=3524658",
           "source": "gorod-kimry.ru"
         },
         {
-          "title": "SpaceX подала заявку на запуск 15 000 спутников V3 для создания глобальной сети 5G",
+          "title": "Волгоградцы увидят в небе кортеж из спутников Илона Маска",
           "snippet": "",
-          "url": "https://www.ixbt.com/live/science/spacex-podala-zayavku-na-zapusk-15-000-sputnikov-v3-dlya-sozdaniya-globalnoy-seti-5g.html",
-          "source": "iXBT.com"
-        },
-        {
-          "title": "SpaceX хочет запустить ещё 15 тыс. спутников с поддержкой прямого соединения со смартфонами",
-          "snippet": "",
-          "url": "https://3dnews.ru/1129592/spacex-hochet-zapustit-eshchyo-15-tis-sputnikov-s-poddergkoy-pryamogo-soedineniya-so-smartfonami",
-          "source": "3DNews"
+          "url": "https://gorvesti.ru/amazing/volgogradtsy-uvidyat-v-nebe-kortezh-iz-sputnikov-ilona-maska-206300.html",
+          "source": "Городские вести"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -238,9 +257,16 @@
       "title": "погода сочи",
       "trafficCount": "1000+",
       "pubDate": "Thu, 25 Sep 2025 21:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRa1svja963w5fvAhkp1fWq1uayRZKP0JtJ26Dx7pShV03PGU9NEunCvb1VwdE",
+      "pictureSource": "Sochi24.tv",
+      "relatedSearch": [
+        {
+          "title": "Игра стихий: над Сочи взошло кровавое солнце, рождающее смерч",
+          "snippet": "",
+          "url": "https://sochi24.tv/igra-stihij-nad-sochi-vzoshlo-krovavoe-solnce-rozhdajushhee-smerch/",
+          "source": "Sochi24.tv"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]

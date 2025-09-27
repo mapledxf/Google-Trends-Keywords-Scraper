@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-09-27 07:09:07",
+  "lastUpdate": "2025-09-27 07:23:22",
   "data": [
+    {
+      "title": "vreme beograd",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 26 Sep 2025 22:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWbj-4sSU4OpxNGQUgra5SFJmkFFc5tOiqiaywm2xEAgwOzivxPp9sX31d_F4",
+      "pictureSource": "N1",
+      "relatedSearch": [
+        {
+          "title": "FAZ pitao Vučića zašto ne pokaže dokaze \"da nemačke fondacije plaćaju proteste\"",
+          "snippet": "",
+          "url": "https://n1info.rs/vesti/vucic-za-frankfurter-algemajne-cajtung/",
+          "source": "N1"
+        },
+        {
+          "title": "Vučić: Studenti jedu triput dnevno, to plaća inostranstvo",
+          "snippet": "",
+          "url": "https://vreme.com/vesti/vucic-studenti-jedu-triput-dnevno-to-placa-inostranstvo/",
+          "source": "Vreme"
+        },
+        {
+          "title": "„Razumeo sam poruku pristojnih demonstranata“",
+          "snippet": "",
+          "url": "https://naslovi.net/2025-09-26/dw/razumeo-sam-poruku-pristojnih-demonstranata/40555837",
+          "source": "Naslovi.net"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "weather",
       "trafficCount": "1000+",
@@ -31,7 +59,7 @@
     },
     {
       "title": "krstovdan 2025",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 26 Sep 2025 21:50:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGxW0bmqjkeHinn45Z07GU688Hdf_X7HzM0N2VF4LlqH3cF6sj7L9vlgt3mEY",
       "pictureSource": "N1",
@@ -86,34 +114,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "vreme danas",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 26 Sep 2025 21:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT83qdCXLe6jAmxxoNIU7ngZURmS7lOR4FS9-cdjFA1KTwVwa_pJHD9eUxNGV8",
-      "pictureSource": "Blic",
-      "relatedSearch": [
-        {
-          "title": "(MAPE) HLADAN TALAS PRODIRE SVOM SNAGOM Za vikend smrzavanje, udari jake košave i OVE NEPOGODE: RHMZ upozorava na rizike, a evo šta nas čeka od nedelje",
-          "snippet": "",
-          "url": "https://www.blic.rs/vremenska-prognoza/mape-rhmz-upozorava-za-vikendf-hladan-talas-jaka-kosava-i-grmljavinske-nepogode/6jhxly5",
-          "source": "Blic"
-        },
-        {
-          "title": "Vremenska prognoza 27. septembar 2025.",
-          "snippet": "",
-          "url": "https://www.rts.rs/lat/vesti/vreme/5794236/vremenska-prognoza-27-septembar-2025.html",
-          "source": "РТС"
-        },
-        {
-          "title": "Danas promenljivo i vetrovito, mestimično s kišom, do 22 stepena",
-          "snippet": "",
-          "url": "https://www.tanjug.rs/srbija/drustvo/195145/danas-promenljivo-i-vetrovito-mestimicno-s-kisom-do-22-stepena/vest",
-          "source": "tanjug.rs"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "vreme novi sad",
       "trafficCount": "100+",
       "pubDate": "Fri, 26 Sep 2025 20:20:00 -0700",
@@ -145,9 +145,16 @@
       "title": "nove cene goriva",
       "trafficCount": "200+",
       "pubDate": "Fri, 26 Sep 2025 19:10:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsIjk-UpgftnBdCxC-5bjxe9mu1KWFff6Qealscgp6uFnRQFn9wCwns9bWuzY",
+      "pictureSource": "Naslovi.net",
+      "relatedSearch": [
+        {
+          "title": "Objavljene nove cene goriva: Poznato koliko će koštati benzin i dizel u narednih sedam dana",
+          "snippet": "",
+          "url": "https://naslovi.net/2025-09-19/euronews/objavljene-nove-cene-goriva-poznato-koliko-ce-kostati-benzin-i-dizel-u-narednih-sedam-dana/40508039",
+          "source": "Naslovi.net"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -170,10 +177,10 @@
           "source": "B92"
         },
         {
-          "title": "24 sata o Obrenovcu - ZIMSKO RAČUNANJE VREMENA",
+          "title": "POMERANJE SATA Kazaljke vraćamo već u noći 25/26. 10: Evo zašto zimsko računanje vremena počinje ranije ove godine",
           "snippet": "",
-          "url": "https://www.rtvmag.co.rs/24_sata_o_obrenovcu_objava.php?o=32719",
-          "source": "RTV Mag"
+          "url": "https://www.blic.rs/vesti/drustvo/pomeranje-sata-2025-zasto-ove-godine-kazaljke-pomeramo-tako-rano/3622s7q",
+          "source": "Blic"
         }
       ],
       "link": "https://imtaqin.id/"

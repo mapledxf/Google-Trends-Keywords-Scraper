@@ -1,30 +1,30 @@
 {
-  "lastUpdate": "2025-09-27 03:17:33",
+  "lastUpdate": "2025-09-27 03:40:00",
   "data": [
     {
       "title": "weather",
       "trafficCount": "100+",
       "pubDate": "Fri, 26 Sep 2025 19:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLicO_LkbeKSVIkOC1DEfWOmV5SaNl1sKWBBh1iNjeFrHKHeO118xilfiDOUI",
-      "pictureSource": "WCCB Charlotte",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTDCPhRFvgw5HAL8Ra60URapPG6cS-cIQ-Xich2mjVQxTEYTR82R0t71canL6A",
+      "pictureSource": "FOX 32 Chicago",
       "relatedSearch": [
         {
-          "title": "Scattered Storms Saturday, Watching the Tropics",
+          "title": "Chicago weather: Sunshine and warm temps persist through the weekend",
           "snippet": "",
-          "url": "https://www.wccbcharlotte.com/2025/09/26/scattered-storms-saturday-watching-the-tropics/",
-          "source": "WCCB Charlotte"
+          "url": "https://www.fox32chicago.com/weather/chicago-weather-sunshine-warm-temps-persist-through-weekend",
+          "source": "FOX 32 Chicago"
         },
         {
-          "title": "Rounds of rain and thunderstorms to soak the Southeast for days to come",
+          "title": "Conversations with Demetrius: We’ve been warmer than normal",
           "snippet": "",
-          "url": "https://www.msn.com/en-us/weather/topstories/rounds-of-rain-and-thunderstorms-to-soak-the-southeast-for-days-to-come/vi-AA1Nofni",
-          "source": "MSN"
+          "url": "https://wgnradio.com/lisa-dent/conversations-with-demetrius-weve-been-warmer-than-normal/",
+          "source": "WGN Radio 720"
         },
         {
-          "title": "First Warning Forecast: Unsettled through the end of next week",
+          "title": "Chicago weather: Clear and mild",
           "snippet": "",
-          "url": "https://www.wtkr.com/weather/todays-forecast/first-warning-forecast-unsettled-through-the-end-of-next-week",
-          "source": "WTKR"
+          "url": "https://www.cbsnews.com/chicago/video/chicago-weather-clear-and-mild/",
+          "source": "CBS News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -59,11 +59,17 @@
     },
     {
       "title": "погода астана",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 26 Sep 2025 18:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIE46sU-ocYmxONgKdrRaBmA35OwU5P5BM1IxQ3RIId4pUd7T8lvXSD6ftF68",
-      "pictureSource": "Tengrinews",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF2aP9KTbgtVl87hgj_jS8kcRUG8IWyt9uDs0Qkt3M_hxHyNlX4p0HmLqcMqw",
+      "pictureSource": "Новости Zakon.kz",
       "relatedSearch": [
+        {
+          "title": "Дожди и похолодание: погода в Алматы на последние дни сентября",
+          "snippet": "",
+          "url": "https://www.zakon.kz/sobytiia/6492256-dozhdi-i-pokholodanie-pogoda-v-almaty-na-poslednie-dni-sentyabrya.html",
+          "source": "Новости Zakon.kz"
+        },
         {
           "title": "От гроз до заморозков: циклон принесёт резкое похолодание в Казахстан",
           "snippet": "",
@@ -71,16 +77,10 @@
           "source": "Tengrinews"
         },
         {
-          "title": "Дождь, но тепло до +28°C: что ждать от погоды в Алматы",
+          "title": "Какая погода ожидает Атырау на выходных",
           "snippet": "",
-          "url": "https://www.zakon.kz/obshestvo/6492243-dozhd-no-teplo-do-28C-chto-zhdat-ot-pogody-v-almaty.html",
-          "source": "Новости Zakon.kz"
-        },
-        {
-          "title": "До 30 градусов и дождь: какой будет погода в мегаполисах Казахстана в субботу",
-          "snippet": "",
-          "url": "https://www.nur.kz/society/2291046-do-30-gradusov-i-dozhd-kakoy-budet-pogoda-v-megapolisah-kazahstana-v-subbotu/",
-          "source": "NUR.KZ"
+          "url": "https://azh.kz/ru/news/view/120081",
+          "source": "Ак Жайык"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,38 +99,66 @@
           "source": "Новости Zakon.kz"
         },
         {
-          "title": "Джеки Чан в Алматы: стали известны подробности",
-          "snippet": "",
-          "url": "https://www.inform.kz/ru/dzheki-chan-v-almati-stali-izvestni-podrobnosti-935893",
-          "source": "Казинформ"
-        },
-        {
           "title": "Стало известно, зачем Джеки Чан приехал в Казахстан",
           "snippet": "",
           "url": "https://orda.kz/stalo-izvestno-zachem-dzheki-chan-priehal-v-kazahstan-407162/",
           "source": "Orda.kz"
+        },
+        {
+          "title": "Джеки Чан отобрал локации для съемок своего будущего фильма в Алматы",
+          "snippet": "",
+          "url": "https://kaztag.kz/ru/news/dzheki-chan-otobral-lokatsii-dlya-semok-svoego-budushchego-filma-v-almaty",
+          "source": "КазТАГ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "вест бромвич альбион – лестер сити",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 26 Sep 2025 17:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkLu6uADUSugPkhFqD3N_UbvImlBW0e6bEftOwCrnm4wk_IBZe4audsSeQOo",
+      "pictureSource": "Soccer365",
+      "relatedSearch": [
+        {
+          "title": "Вест Бромвич — Лестер Сити: превью",
+          "snippet": "",
+          "url": "https://soccer365.ru/news/24145/",
+          "source": "Soccer365"
+        },
+        {
+          "title": "«Вест Бромвич» - «Лестер»: смогут ли гости переиграть соперника?",
+          "snippet": "",
+          "url": "https://www.vseprosport.ru/news/2025/09/25/vest-bromvich-lester-prognoz-i-stavki-na-match-chempionata-anglii-26-sentjabrja-2025-goda-ot-vps",
+          "source": "ВсеПроСпорт"
+        },
+        {
+          "title": "Вест Бромвич — Лестер: прогноз и ставка на точный счёт в матче Чемпионшип — 26 сентября 2025",
+          "snippet": "",
+          "url": "https://www.liveresult.ru/tips/football/England/tip303562-West-Bromwich-Leicester",
+          "source": "LiveResult"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "бенфика – жил висенте",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 26 Sep 2025 12:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUBXEJgIn3DyfmIE9bxM5srnLq0ddcMN7PZM4PiiCdDS3cC0tzMpUF4lT4Sko",
-      "pictureSource": "ВсеПроСпорт",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRmGqkJqXVOpZIXl739imVejPnlCVecB3patkut9tf1Edr0qSi9LIWfSEE4Tjo",
+      "pictureSource": "LiveSport.Ru",
       "relatedSearch": [
-        {
-          "title": "«Бенфика» — «Жил Висенте»: хозяева возьмут три очка",
-          "snippet": "",
-          "url": "https://www.vseprosport.kz/news/2025/09/26/benfika-zhil-visente-prognoz-i-stavki-na-match-chempionata-portugalii-26-sentjabrja-2025-goda-ot-vps",
-          "source": "ВсеПроСпорт"
-        },
         {
           "title": "Бенфика — Жил-Висенте: онлайн, прямая трансляция матча португальской Примейра-Лиги",
           "snippet": "",
           "url": "https://www.livesport.ru/football/2025/09/26/benfica-gil-vicente-multionline/",
           "source": "LiveSport.Ru"
+        },
+        {
+          "title": "Центральный матч 7 тура Чемпионата Португалии. Где и во сколько смотреть игру «Бенфика» - «Жил Висенте»",
+          "snippet": "",
+          "url": "https://sportplustv.kz/ru/news/centralnyi-matc-7-tura-cempionata-portugalii-gde-i-vo-skolko-smotret-igru-benfika-zil-visente",
+          "source": "Sport Plus Qazaqstan"
         },
         {
           "title": "«Бенфика» обыграл «Жил Висенте» благодаря дублю Павлидиса",
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://football.kulichki.net/germany/2026/5/1-Bavarija-Verder-obzor-matcha-germany-2026.htm",
           "source": "Футбол на Куличках"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "динамо мн – северсталь",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 26 Sep 2025 10:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhmvMa_GjrSVqE1JaUv0e1kYxBwUxBtVn2fz_xLLk5HTvZ47sWjeefwuVTHok",
-      "pictureSource": "Спорт Mail",
-      "relatedSearch": [
-        {
-          "title": "Квартальнов о матче с «Северсталью»: в начале нас переигрывали, но мы выстояли и довели до победы",
-          "snippet": "",
-          "url": "https://sportmail.ru/news/hockey-khl/68072403/",
-          "source": "Спорт Mail"
-        },
-        {
-          "title": "Шипачев оформил дубль в победном матче \"Динамо\" против \"Северстали\"",
-          "snippet": "",
-          "url": "https://belta.by/sport/view/shipachev-oformil-dubl-v-pobednom-matche-dinamo-protiv-severstali-739651-2025/",
-          "source": "Новости Беларуси | БелТА"
-        },
-        {
-          "title": "«Будет большая, красивая, серьёзная игра»: Джошуа Брук — о предстоящем матче с «Локомотивом»",
-          "snippet": "",
-          "url": "https://belarushockey.com/khl/news/2025/09/26/dzhoshua-bruk-o-predstojaschem-matche-s-lokomotivom/",
-          "source": "Новости Хоккея Беларуси"
         }
       ],
       "link": "https://imtaqin.id/"

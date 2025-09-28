@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2025-09-28 15:27:40",
+  "lastUpdate": "2025-09-28 15:36:13",
   "data": [
     {
+      "title": "amuzu",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 28 Sep 2025 08:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbnHyhzBPlzqUAsAGRFtoPq55DMwknxnJe3DFQQGowoZIlzIgS6veVmEuItPM",
+      "pictureSource": "GE",
+      "relatedSearch": [
+        {
+          "title": "Contratações mudam hierarquia no grupo do Grêmio, e antigos titulares perdem espaço",
+          "snippet": "",
+          "url": "https://ge.globo.com/rs/futebol/times/gremio/noticia/2025/09/27/contratacoes-mudam-hierarquia-no-grupo-do-gremio-e-antigos-titulares-perdem-espaco.ghtml",
+          "source": "GE"
+        },
+        {
+          "title": "Grêmio se manifesta sobre o que vem acontecendo com Amuzu: \"Teve algumas dificuldades\"",
+          "snippet": "",
+          "url": "https://zonamista.com.br/gremio-se-manifesta-sobre-amuzu/",
+          "source": "Zona Mista"
+        },
+        {
+          "title": "Direção do Grêmio acredita em crescimento de atacante",
+          "snippet": "",
+          "url": "https://www.diogorossireporter.com.br/2025/09/27/direcao-do-gremio-acredita-em-crescimento-de-atacante/",
+          "source": "Diogo Rossi"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "newcastle",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Sun, 28 Sep 2025 08:10:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxR14Ug_EbLRMpoLYHmy0Nv43t0nQV9Mv3M5TfMeHVlI1SkNKQvSBJoAVQAWA",
       "pictureSource": "BBC",
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://onefootball.com/pt-br/noticias/newcastle-strong-at-the-back-yet-toothless-in-attack-a-chance-for-arsenal-41730156",
           "source": "OneFootball"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "basel",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 28 Sep 2025 08:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyU97eZdTXsqEFmg1LyOXH6RtMdw4PJi9glkOcHOrnw_Y7wGJl2BlmOHeGlqg",
-      "pictureSource": "Schweizer Radio und Fernsehen",
-      "relatedSearch": [
-        {
-          "title": "Es tut sich was: Basel-Stadt bekommt neue Kunstrasenfelder",
-          "snippet": "",
-          "url": "https://www.srf.ch/audio/regionaljournal-basel-baselland/es-tut-sich-was-basel-stadt-bekommt-neue-kunstrasenfelder?id=AUDI20250925_NR_0036",
-          "source": "Schweizer Radio und Fernsehen"
-        },
-        {
-          "title": "Abstimmung in Basel-Stadt: Klares Ja zur Europa-Initiative: Basel will stabile Beziehungen zur EU",
-          "snippet": "",
-          "url": "https://www.bazonline.ch/basel-stadt-sagt-ja-zur-initiative-zaemme-in-europa-442065173207",
-          "source": "Basler Zeitung"
-        },
-        {
-          "title": "«Mit einer grossen Kampagne hätten wir dieses Resultat nicht kippen können»",
-          "snippet": "",
-          "url": "https://bajour.ch/a/pascal-messerli-europa-abstimmung-kampagne",
-          "source": "Bajour"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,29 +86,85 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "basel",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 28 Sep 2025 08:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyU97eZdTXsqEFmg1LyOXH6RtMdw4PJi9glkOcHOrnw_Y7wGJl2BlmOHeGlqg",
+      "pictureSource": "Schweizer Radio und Fernsehen",
+      "relatedSearch": [
+        {
+          "title": "Es tut sich was: Basel-Stadt bekommt neue Kunstrasenfelder",
+          "snippet": "",
+          "url": "https://www.srf.ch/audio/regionaljournal-basel-baselland/es-tut-sich-was-basel-stadt-bekommt-neue-kunstrasenfelder?id=AUDI20250925_NR_0036",
+          "source": "Schweizer Radio und Fernsehen"
+        },
+        {
+          "title": "Es tut sich was: Basel-Stadt kommt neue Kunstrasenfelder",
+          "snippet": "",
+          "url": "https://www.srf.ch/audio/regionaljournal-basel-baselland/es-tut-sich-was-basel-stadt-kommt-neue-kunstrasenfelder?id=AUDI20250925_NR_0036",
+          "source": "Schweizer Radio und Fernsehen"
+        },
+        {
+          "title": "Abstimmung in Basel-Stadt: Klares Ja zur Europa-Initiative: Basel will stabile Beziehungen zur EU",
+          "snippet": "",
+          "url": "https://www.bazonline.ch/basel-stadt-sagt-ja-zur-initiative-zaemme-in-europa-442065173207",
+          "source": "Basler Zeitung"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "nick woltemade",
       "trafficCount": "200+",
       "pubDate": "Sun, 28 Sep 2025 08:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpJwoBGLToItEFsOj8wLMVWYLtcYCvqqFMCTYjsdMjHDrvJ0vOJ5ADjTgVVeU",
-      "pictureSource": "SPORT1",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSsolojoY-u-2CCB-EVW0ozXbxxkEeM_zDrbBqszlo3D6VQlXqTzqPsFSf5Nc8",
+      "pictureSource": "SPOX.com",
       "relatedSearch": [
         {
-          "title": "Premier-League-Kracher gegen Arsenal: Woltemade kehrt zurück",
+          "title": "Nach hitzigem Transferpoker um Nick Woltemade: Nächster Zoff zwischen dem FC Bayern und dem VfB Stuttgart?",
           "snippet": "",
-          "url": "https://www.sport1.de/news/internationaler-fussball/premier-league/2025/09/premier-league-kracher-gegen-arsenal-woltemade-kehrt-zuruck",
-          "source": "SPORT1"
-        },
-        {
-          "title": "\"Er spielt anders als andere Stürmer\": Trainer von Newastle United erklärt, warum Nick Woltemade nicht wie beim VfB Stuttgart spielt",
-          "snippet": "",
-          "url": "https://www.spox.com/fussball/listen/er-spielt-anders-als-andere-stuermer-trainer-von-newastle-united-erklaert-warum-nick-woltemade-nicht-wie-beim-vfb-stuttgart-spielt/blt8431e7d3e12cda68",
+          "url": "https://www.spox.com/fussball/listen/nach-hitzigem-transferpoker-um-nick-woltemade-naechster-zoff-zwischen-dem-fc-bayern-und-dem-vfb-stuttgart/bltb39c20baf2b3c6de",
           "source": "SPOX.com"
         },
         {
-          "title": "„Rudi Völler auf Stelzen“",
+          "title": "Fußball-Bundesliga: Nächster Wechselpoker? Gerüchte um Bayern und VfB-Funktionär",
           "snippet": "",
-          "url": "https://www.magazin-forum.de/de/rudi-voeller-auf-stelzen",
-          "source": "Forum - Das Wochenmagazin"
+          "url": "https://www.zeit.de/news/2025-09/26/naechster-wechselpoker-geruechte-um-bayern-und-vfb-funktionaer",
+          "source": "DIE ZEIT"
+        },
+        {
+          "title": "Neuer Ablösezoff? VfB-Boss Rouven Kasper drängt auf Bayern-Wechsel",
+          "snippet": "",
+          "url": "https://www.ovb-online.de/sport/mehr-sport/wechsel-neuer-abloesezoff-vfb-boss-rouven-kasper-draengt-auf-bayern-zr-93956477.html",
+          "source": "OVB online"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "malmo",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 28 Sep 2025 08:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdyU_1fVad69YIxPKwzK_8UKHx3DGGifrX3Ms1SnJCiiPF3VhdGZNWAag0fi4",
+      "pictureSource": "Sveriges Radio",
+      "relatedSearch": [
+        {
+          "title": "Cyklist till sjukhus efter krock med bil – lindrigt skadad",
+          "snippet": "",
+          "url": "https://www.sverigesradio.se/artikel/cyklist-till-sjukhus-efter-krock-med-bil-skadelaget-oklart",
+          "source": "Sveriges Radio"
+        },
+        {
+          "title": "Kommunen aktiverar krisstödet efter dödsolyckan",
+          "snippet": "",
+          "url": "https://www.sverigesradio.se/artikel/kommunen-aktiverar-krisstodet-efter-dodsolyckan",
+          "source": "Sveriges Radio"
+        },
+        {
+          "title": "Missräkning för Hammarby – tappar greppet om guldstriden: ”Tungt nu”",
+          "snippet": "",
+          "url": "https://www.sverigesradio.se/artikel/missrakning-for-hammarby-tappar-greppet-om-guldstriden",
+          "source": "Sveriges Radio"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -142,64 +198,36 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "malmo",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 28 Sep 2025 08:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5Tt_kmQc_FNNgVUvKaMXTH-olIswzF51tDfgBupPDZiwAZHiCxj9zVQ-KyUk",
-      "pictureSource": "Sveriges Radio",
-      "relatedSearch": [
-        {
-          "title": "Svenska flickan hittad död i Lofoten",
-          "snippet": "",
-          "url": "https://www.sverigesradio.se/artikel/svenska-flickan-hittad-dod-i-lofoten",
-          "source": "Sveriges Radio"
-        },
-        {
-          "title": "Kommunen aktiverar krisstödet efter dödsolyckan",
-          "snippet": "",
-          "url": "https://www.sverigesradio.se/artikel/kommunen-aktiverar-krisstodet-efter-dodsolyckan",
-          "source": "Sveriges Radio"
-        },
-        {
-          "title": "Kommunen satsar på nya gräsklippare: Alpackor",
-          "snippet": "",
-          "url": "https://www.sverigesradio.se/artikel/kommunen-satsar-pa-nya-grasklippare-alpackor",
-          "source": "Sveriges Radio"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "jogo do vitória",
       "trafficCount": "2000+",
       "pubDate": "Sun, 28 Sep 2025 07:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhqnNCOZ07rk1SE3g1T-2nq1rbbhe2iVS3wWc4lhyNeTR0c7XThcQMAdQgx3g",
-      "pictureSource": "LANCE!",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFuPfwc9W_yUz5FAyCDzCnVykQvt1sE1sn9hSjgB2RnIlk-jMH-3AwgmAYRw0",
+      "pictureSource": "GE",
       "relatedSearch": [
+        {
+          "title": "Aos 46 min do 1º tempo - gol de dentro da área de André Henrique do Grêmio contra o Vitória",
+          "snippet": "",
+          "url": "https://ge.globo.com/futebol/video/aos-46-min-do-1o-tempo-gol-de-dentro-da-area-de-andre-henrique-do-gremio-contra-o-vitoria-13967679.ghtml",
+          "source": "GE"
+        },
+        {
+          "title": "Ao vivo: Grêmio x Vitória | Rodada 25 | Campeonato Brasileiro",
+          "snippet": "",
+          "url": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/jogo/28-09-2025/gremio-vitoria.ghtml",
+          "source": "ge"
+        },
         {
           "title": "Maiores invencibilidades da história do Grêmio",
           "snippet": "",
           "url": "https://www.lance.com.br/lancepedia/maiores-invencibilidades-da-historia-do-gremio.html",
           "source": "LANCE!"
-        },
-        {
-          "title": "Grêmio campeão: 10 anos de títulos e Arena imbatível",
-          "snippet": "",
-          "url": "https://theplayoffs.news/noticias/gremio/gremio-campeao-10-anos-de-titulos-e-arena-imbativel/",
-          "source": "The Playoffs"
-        },
-        {
-          "title": "Grêmio 1 x 1 Botafogo | Campeonato Brasileiro: melhores momentos",
-          "snippet": "",
-          "url": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/jogo/24-09-2025/gremio-botafogo.ghtml",
-          "source": "GE"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "losc x lyon",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Sun, 28 Sep 2025 07:40:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQe-voeypyO0hS1d8YMFSKFG8HWpN5uAfYTXV0G8DO1cbqgVzu-uv6wGwPYY4k",
       "pictureSource": "ESPN India",
@@ -211,16 +239,16 @@
           "source": "ESPN India"
         },
         {
-          "title": "Lille predicted XI v Lyon: Hamza Igamane to drop to bench amid swathe of absences",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/article/lille-predicted-xi-v-lyon-082400348.html",
-          "source": "Yahoo Sports"
-        },
-        {
           "title": "Nabil Bentaleb vs. Olympique Lyon – Player props & odds to score a goal on September 28",
           "snippet": "",
           "url": "https://prosoccerwire.usatoday.com/story/sports/2025/09/27/nabil-bentaleb-soccer-player-props-9-28-2025/86397467007/",
           "source": "Pro Soccer Wire"
+        },
+        {
+          "title": "Lyon predicted XI v Lille: Corentin Tolisso to return",
+          "snippet": "",
+          "url": "https://www.getfootballnewsfrance.com/2025/lyon-predicted-xi-v-lille-corentin-tolisso-to-return/",
+          "source": "Get French Football News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.diretta.it/news/calcio-live-news-in-campo-roma-verona-1-0-e-pisa-fiorentina-0-0-gol-di-dovbyk/GptPz7Hi/",
           "source": "Diretta"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "colônia x vfb stuttgart",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 28 Sep 2025 07:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvOtPC4lqivLhJPll0-e8_iFat5jbjLmMtrQDinOTOfCpxVhqN2EzwokbHmcw",
-      "pictureSource": "DAZN",
-      "relatedSearch": [
-        {
-          "title": "Livestream: Hier seht Ihr Köln vs. Stuttgart",
-          "snippet": "",
-          "url": "https://www.dazn.com/de-AT/news/fussball/livestream-hier-seht-ihr-koeln-vs-stuttgart/1w0relyk3eyt419b3j6x8a1h8d",
-          "source": "DAZN"
-        },
-        {
-          "title": "5 Fakten vor #KOEVFB",
-          "snippet": "",
-          "url": "https://fc.de/aktuelles/news/5-fakten-vor-koevfb",
-          "source": "1. FC Köln"
-        },
-        {
-          "title": "Liveticker | 1. FC Köln - VfB Stuttgart : | 5. Spieltag | Bundesliga 2025/26",
-          "snippet": "",
-          "url": "https://www.kicker.de/koeln-gegen-stuttgart-2025-bundesliga-5050794/ticker",
-          "source": "Kicker"
         }
       ],
       "link": "https://imtaqin.id/"

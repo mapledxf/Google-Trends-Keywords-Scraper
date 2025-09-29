@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-29 04:26:35",
+  "lastUpdate": "2025-09-29 04:42:39",
   "data": [
     {
       "title": "meteo",
@@ -33,9 +33,15 @@
       "title": "weather",
       "trafficCount": "2000+",
       "pubDate": "Sun, 28 Sep 2025 20:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAyy1C3ViCoGmtNM8XAPnrRdzDRjBv_MUNnBw3EoXE508lt4YLCpuP95tNDbE",
-      "pictureSource": "indiacom",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeBvgm_bXM6qy-CRKiUX7m0ARbv_2KTy_vo4mpoAhgWm6-cs6ak6h5LJA4ZWo",
+      "pictureSource": "Farnham Herald",
       "relatedSearch": [
+        {
+          "title": "Partly cloudy morning, cloudy afternoon: Sunny tomorrow",
+          "snippet": "",
+          "url": "https://www.farnhamherald.com/weather-forecasts/partly-cloudy-skies-today-and-tomorrow-with-mild-conditions-834136",
+          "source": "Farnham Herald"
+        },
         {
           "title": "Mumbai Rain live updates: Heavy rainfall in city after orange alert, check local train, traffic status",
           "snippet": "",
@@ -47,19 +53,13 @@
           "snippet": "",
           "url": "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-rains-remain-on-alert-shift-citizens-from-flood-prone-areas-deputy-cm-eknath-shinde-directs-thane-district-officials/articleshow/124199415.cms",
           "source": "The Times of India"
-        },
-        {
-          "title": "IMD Forecasts Heavy Rain, Thunderstorms Across Northeast, Central, and Southern India",
-          "snippet": "",
-          "url": "https://www.heraldgoa.in/globe-nation/imd-forecasts-heavy-rain-thunderstorms-across-northeast-central-and-southern-india/446574/",
-          "source": "Herald Goa"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "cand se schimba ora",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 28 Sep 2025 20:30:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZcVfE4XRleUcOmFZ5D863EhYbReCKMCSVLc61Y7JO7-bNkgPWa0u_EMrcb1E",
       "pictureSource": "Știrile Pro TV",
@@ -115,7 +115,7 @@
     },
     {
       "title": "hotnews",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 28 Sep 2025 17:20:00 -0700",
       "picture": "",
       "pictureSource": "",

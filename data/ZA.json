@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2025-09-29 13:20:11",
+  "lastUpdate": "2025-09-29 13:43:00",
   "data": [
     {
+      "title": "cartel",
+      "trafficCount": "2000+",
+      "pubDate": "Mon, 29 Sep 2025 06:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxMs6Kf0xzK2-O4rC4vgb7XHZJ6cglUy_5FA98ImSdZGeI1m-ENaVA6O0aapQ",
+      "pictureSource": "Daily Maverick",
+      "relatedSearch": [
+        {
+          "title": "Follow live: Suspended police criminal intelligence head takes stand at Madlanga Commission",
+          "snippet": "",
+          "url": "https://www.dailymaverick.co.za/article/2025-09-29-live-madlanga-commission-mkhwanazi/",
+          "source": "Daily Maverick"
+        },
+        {
+          "title": "SAPS turmoil | Top officials face corruption allegations",
+          "snippet": "",
+          "url": "https://www.enca.com/news/saps-turmoil-top-officials-face-corruption-allegations",
+          "source": "eNCA"
+        },
+        {
+          "title": "Madlanga Commission hears how political killings came down since PKTT’s establishment",
+          "snippet": "",
+          "url": "https://www.news24.com/southafrica/crime-and-courts/madlanga-commission-hears-how-political-killings-came-down-since-pktts-establishment-20250929-0764",
+          "source": "News24"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "nasaf vs al-hilal",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 29 Sep 2025 06:00:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShoceFhv3tPrFo8h0k7fEpny2lAL7_h5HZTjRJWKphTUXoJRyZXJYPhWUruIs",
       "pictureSource": "الموقع الرسمي لنادي الهلال السعودي",
@@ -31,15 +59,21 @@
     },
     {
       "title": "roscoe hamilton",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 29 Sep 2025 05:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSr2PlojlDqq9h2vBIiK6FIf2Y72s2b_nsMzFxqq5iYOfrPOLCTGfCIhGsBsmc",
-      "pictureSource": "Formula 1",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsq7wm_XVZc5-oBBLn_Hwo76YGzl-kuPt6SwQ2A6Bk5yAwQ39YgkUHxYU5Q6Q",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Lewis Hamilton announces passing of beloved dog Roscoe after health battle",
+          "title": "Hamilton pays tribute as his dog Roscoe dies",
           "snippet": "",
-          "url": "https://www.formula1.com/en/latest/article/hamilton-announces-passing-of-beloved-dog-roscoe-after-health-battle.50aLr9qGdrrCc7BFM7DWLx",
+          "url": "https://www.bbc.com/sport/formula1/articles/c4g5deyy3dpo",
+          "source": "BBC"
+        },
+        {
+          "title": "Lewis Hamilton shares health update on his dog Roscoe after withdrawing from tyre test",
+          "snippet": "",
+          "url": "https://www.formula1.com/en/latest/article/hamilton-shares-health-update-on-his-dog-roscoe-after-withdrawing-from-tyre.5sPelPIYdjqGeb0LJTGehe",
           "source": "Formula 1"
         },
         {
@@ -47,12 +81,6 @@
           "snippet": "",
           "url": "https://www.skysports.com/f1/news/12433/13440951/lewis-hamilton-ferrari-driver-mourns-death-of-pet-dog-roscoe-with-heartfelt-tribute-after-painful-experience",
           "source": "Sky Sports"
-        },
-        {
-          "title": "Lewis Hamilton reveals his beloved vegan bulldog Roscoe, 12, has been put down after four days on life support",
-          "snippet": "",
-          "url": "https://www.dailymail.co.uk/sport/formulaone/article-15144539/Lewis-Hamilton-beloved-dog-Roscoe-dies-emotional-statement.html",
-          "source": "Daily Mail"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,20 +89,20 @@
       "title": "tembisa hospital",
       "trafficCount": "500+",
       "pubDate": "Mon, 29 Sep 2025 04:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTADQDZDHB-d29BlxnkExPCVQRt4EC2tmYOngzpSxgrUuHWXvzmMDP8azM80b8",
-      "pictureSource": "Daily Maverick",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCR4aiEmDE0nxmHtmG74r1E8_KVXNa8uHus2mILHOy-7LVLZHVsfyX2B8aohE",
+      "pictureSource": "News24",
       "relatedSearch": [
-        {
-          "title": "SIU reveals scale of Tembisa Hospital’s devastating R2-billion fraud network",
-          "snippet": "",
-          "url": "https://www.dailymaverick.co.za/article/2025-09-29-siu-reveals-scale-of-tembisa-hospitals-devastating-r2-billion-fraud-network/",
-          "source": "Daily Maverick"
-        },
         {
           "title": "SIU finds R2bn was extracted from Tembisa Hospital",
           "snippet": "",
           "url": "https://www.news24.com/investigations/siu-finds-r2bn-was-extracted-from-tembisa-hospital-20250929-0554",
           "source": "News24"
+        },
+        {
+          "title": "SIU reveals scale of Tembisa Hospital’s devastating R2-billion fraud network",
+          "snippet": "",
+          "url": "https://www.dailymaverick.co.za/article/2025-09-29-siu-reveals-scale-of-tembisa-hospitals-devastating-r2-billion-fraud-network/",
+          "source": "Daily Maverick"
         },
         {
           "title": "SIU to release interim report into alleged Tembisa Hospital corruption",
@@ -89,26 +117,26 @@
       "title": "binance",
       "trafficCount": "200+",
       "pubDate": "Mon, 29 Sep 2025 04:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSad1AGftiy0r4JJaUOz9MAc_nDkR3Ug_qUmlUqbtW8RAA5S-bQLXMbbA3Fhy8",
-      "pictureSource": "Stocktwits",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRyCmCYijGOuypRjWioRtiW_0Fbi8UFk5E47WFKYiXZF_Td0ActLx-hVwhnG6c",
+      "pictureSource": "Binance",
       "relatedSearch": [
         {
-          "title": "Binance To Debut Swarm Network’s TRUTH Token On Alpha Platform",
+          "title": "Introducing OpenEden (EDEN) on Binance HODLer Airdrops! Earn EDEN With Retroactive BNB Simple Earn Subscriptions",
           "snippet": "",
-          "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/binance-to-debut-swarm-network-s-truth-token-on-alpha-platform/chDMCCVR37w",
-          "source": "Stocktwits"
-        },
-        {
-          "title": "Swarm Network (TRUTH) Will Be Available on Binance Alpha and Binance Futures (2025-10-01)",
-          "snippet": "",
-          "url": "https://www.binance.com/en/support/announcement/detail/5559a6615fd9448bad12a1ceda130428",
+          "url": "https://www.binance.com/en/support/announcement/detail/feec6071453d4433bf251e8e17438c7c",
           "source": "Binance"
         },
         {
-          "title": "Binance Alpha to Feature Sui-backed Swarm Network’s TRUTH Token Soon",
+          "title": "Binance Announces Spot Listing of OpenEden (EDEN)",
           "snippet": "",
-          "url": "https://coincentral.com/binance-alpha-to-feature-sui-backed-swarm-networks-truth-token-soon/",
-          "source": "CoinCentral"
+          "url": "https://bloomingbit.io/en/feed/news/97836",
+          "source": "bloomingbit"
+        },
+        {
+          "title": "Binance Confirms OpenEden (EDEN) as 47th HODLer Airdrop with 15M Tokens",
+          "snippet": "",
+          "url": "https://coinfomania.com/binance-eden-47th-hodler-airdrop-15m-tokens/",
+          "source": "Coinfomania"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -118,13 +146,13 @@
       "trafficCount": "2000+",
       "pubDate": "Mon, 29 Sep 2025 02:50:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFZdz4NOmODsbeT9jx1gtYgtKLmZTuV8qQ1EM-vnYTJuJHRTd34D6s4gAG41Y",
-      "pictureSource": "Marca",
+      "pictureSource": "MARCA",
       "relatedSearch": [
         {
           "title": "Carlos Alcaraz come en la mesa del 'Big Three' y llega a su décima final de la temporada",
           "snippet": "",
           "url": "https://www.marca.com/tenis/2025/09/29/carlos-alcaraz-come-mesa-big-three-llega-decima-final-temporada.html",
-          "source": "Marca"
+          "source": "MARCA"
         },
         {
           "title": "Japan Archives",
@@ -145,14 +173,14 @@
       "title": "garuda yaksa vs psps pekanbaru",
       "trafficCount": "100+",
       "pubDate": "Mon, 29 Sep 2025 02:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSK16KVo8Ve3s9tgHdSs_MvMgPbL1VAri98sEGbKErv6hQNPY-mchBoiMUf4ZU",
-      "pictureSource": "Singgalang Riau",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlnatvHlF-9ZHEOAYuIt-byValChi6s6jsaLv0EHcxrqGubQLOu87_AFy3CdA",
+      "pictureSource": "BeritaSatu.com",
       "relatedSearch": [
         {
-          "title": "Ini Starting XI PSPS Pekanbaru vs Garudayaksa FC di Stadion Pakansari Bogor",
+          "title": "PSPS Curi Poin di Kandang Garudayaksa, Penalti di Akhir Laga Jadi Sorotan",
           "snippet": "",
-          "url": "https://riau.hariansinggalang.co.id/berita/224124/ini-starting-xi-psps-pekanbaru-vs-garudayaksa-fc-di-stadion-pakansari-bogor",
-          "source": "Singgalang Riau"
+          "url": "https://www.beritasatu.com/network/riauaktual/686965/psps-curi-poin-di-kandang-garudayaksa-penalti-di-akhir-laga-jadi-sorotan",
+          "source": "BeritaSatu.com"
         },
         {
           "title": "Babak Pertama, Gol Asir Asiz dan Christian Santos Bawa PSPS Unggul 2-1 dari Garudayaksa FC",
@@ -171,7 +199,7 @@
     },
     {
       "title": "andrew chauke",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 29 Sep 2025 02:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQT4y-Q-3JfE2W1YAdrIj2C_zrEUs5zyD09ZVbrs4rcwy3Q_SvteaJBdN0SbuE",
       "pictureSource": "Daily Maverick",
@@ -199,7 +227,7 @@
     },
     {
       "title": "malema",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Mon, 29 Sep 2025 02:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXjvxNiRu5V2qBuhrJkXJ2f0TkHgb8Tze9nee0c9rCIWKcopm60Kh3lrWsTxA",
       "pictureSource": "eNCA",
@@ -211,72 +239,44 @@
           "source": "eNCA"
         },
         {
-          "title": "EFF supporters gather outside court where Malema awaits judgment in firearm discharge case",
+          "title": "Magistrate reviews evidence in Julius Malema firearms case",
           "snippet": "",
-          "url": "https://www.ewn.co.za/2025/09/29/eff-supporters-gather-outside-court-where-malema-awaits-judgment-in-firearm-discharge-case",
+          "url": "https://www.ewn.co.za/2025/09/29/in-the-case-of-malemas-firearms-discharge-presiding-magistrate-is-reviewing-evidence-presented-by-witnesses",
           "source": "EWN"
         },
         {
-          "title": "Julius Malema and ex-bodyguard await verdict in 2018 EFF rally gun case",
+          "title": "WATCH LIVE | Judgment in Malema firearm discharge case",
           "snippet": "",
-          "url": "https://iol.co.za/news/crime-and-courts/2025-09-29-julius-malema-and-ex-bodyguard-await-verdict-in-2018-eff-rally-gun-case/",
-          "source": "IOL"
+          "url": "https://www.timeslive.co.za/politics/2025-09-29-watch-live-judgment-in-malema-firearm-discharge-case/",
+          "source": "TimesLIVE"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "zinedine zidane",
+      "title": "weather warning",
       "trafficCount": "500+",
-      "pubDate": "Mon, 29 Sep 2025 01:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlZMn0Q-21ONMFlvP_8a2wtHpPzHeyZkWlrVsrFBtwSnSwMae9BChDvx6-F0o",
-      "pictureSource": "Radio France",
+      "pubDate": "Mon, 29 Sep 2025 02:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5u0W_Xs8AyJYJnefHuxIUPdpbnc_GXZTK5PaTz87HiknFhiNCRYl-E5xp548",
+      "pictureSource": "Daily Express",
       "relatedSearch": [
         {
-          "title": "Zizou, icône de mode des nouvelles générations",
+          "title": "UK weather maps show 603-mile Atlantic storm blast crashing into Britain",
           "snippet": "",
-          "url": "https://www.radiofrance.fr/franceinter/podcasts/un-monde-nouveau/un-monde-nouveau-du-lundi-22-septembre-2025-5749026",
-          "source": "Radio France"
-        },
-        {
-          "title": "Son exposition a fait venir Zinédine Zidane : le drôle de parcours du consultant styliste drômois Landry Thomas",
-          "snippet": "",
-          "url": "https://www.ledauphine.com/sport/2025/09/29/son-exposition-a-fait-venir-zinedine-zidane-le-drole-de-parcours-du-consultant-styliste-dromois-landry-thomas",
-          "source": "Le Dauphiné Libéré"
-        },
-        {
-          "title": "Comment Zizou est devenu une icône mode sur les réseaux sociaux ?",
-          "snippet": "",
-          "url": "https://www.20minutes.fr/tempo/style/4174467-20250922-comment-zinedine-zidane-devenu-icone-mode-reseaux-sociaux",
-          "source": "20 Minutes"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "emma raducanu",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 29 Sep 2025 01:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLgUJpwYqz8zytY3TmtHVf8idEfd6anEol7kYjtoAbD9uUwa-TGrUuZ65HiL0",
-      "pictureSource": "Sky Sports",
-      "relatedSearch": [
-        {
-          "title": "Emma Raducanu: British No 1 spurns three match points in China Open defeat to American Jessica Pegula",
-          "snippet": "",
-          "url": "https://www.skysports.com/tennis/news/12110/13440857/emma-raducanu-british-no-1-spurns-three-match-points-in-china-open-defeat-to-american-jessica-pegula",
-          "source": "Sky Sports"
-        },
-        {
-          "title": "Jessica Pegula explains where she got 'really lucky' during China Open win over Emma Raducanu",
-          "snippet": "",
-          "url": "https://www.thetennisgazette.com/news/jessica-pegula-explains-where-she-got-really-lucky-during-china-open-win-over-emma-raducanu/",
-          "source": "The Tennis Gazette"
-        },
-        {
-          "title": "Jessica Pegula shows true colours with ‘lucky’ Emma Raducanu comment at China Open",
-          "snippet": "",
-          "url": "https://www.express.co.uk/sport/tennis/2114813/Jessica-Pegula-Emma-Raducanu-interview-China-Open",
+          "url": "https://www.express.co.uk/news/weather/2114502/uk-weather-maps-show-603-mile",
           "source": "Daily Express"
+        },
+        {
+          "title": "Scotland to be lashed with three days of torrential downpours & flooding as Met Office issues yellow weather warning",
+          "snippet": "",
+          "url": "https://www.thescottishsun.co.uk/news/15398386/scotland-torrential-downpours-flooding-met-office-warning/",
+          "source": "The Scottish Sun"
+        },
+        {
+          "title": "Mixed conditions are forecast",
+          "snippet": "",
+          "url": "https://www.facebook.com/ManchesterEveningNews/photos/mixed-conditions-are-forecast/1249260657236297/",
+          "source": "Facebook"
         }
       ],
       "link": "https://imtaqin.id/"

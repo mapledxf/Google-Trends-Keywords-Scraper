@@ -1,24 +1,24 @@
 {
-  "lastUpdate": "2025-10-01 05:44:28",
+  "lastUpdate": "2025-10-01 05:52:25",
   "data": [
     {
       "title": "us government shutdown",
       "trafficCount": "100+",
       "pubDate": "Tue, 30 Sep 2025 20:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG2FKscxFSbotwc4O-dFWh5Tg81gfj-oJQtbyREb9qxZBn4JkjEQQK1ky8Mo4",
-      "pictureSource": "The Guardian",
+      "picture": "",
+      "pictureSource": "The White House (.gov)",
       "relatedSearch": [
+        {
+          "title": "Government Shutdown Clock",
+          "snippet": "",
+          "url": "https://www.whitehouse.gov/government-shutdown-clock/",
+          "source": "The White House (.gov)"
+        },
         {
           "title": "US government shuts down after Democrats refuse to back Republican funding plan",
           "snippet": "",
           "url": "https://www.theguardian.com/us-news/2025/oct/01/us-government-shuts-down",
           "source": "The Guardian"
-        },
-        {
-          "title": "Government shutdown live updates: Funding ends after Trump, GOP, Democrats fail to cut deal",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2025/10/01/government-shutdown-trump-live-updates.html",
-          "source": "CNBC"
         },
         {
           "title": "It’s official: White House orders federal agencies to shut down",
@@ -59,17 +59,11 @@
     },
     {
       "title": "flotilla tracker",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 30 Sep 2025 16:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ44i7GghyFWC8P10dS4TIYv8ZFNoDe8zNCSleuX95PI5_fxl4sqwKhzSZqPCw",
-      "pictureSource": "The Guardian",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhg4bxcPx1ray8EIHEhUIEZlvT_0BuXhLNRViH3s-vfAOru8YM6Bm3mO_RZfM",
+      "pictureSource": "RTE.ie",
       "relatedSearch": [
-        {
-          "title": "Italy to end support for international Gaza flotilla as it nears destination",
-          "snippet": "",
-          "url": "https://www.theguardian.com/world/2025/oct/01/gaza-aid-flotilla-sumud-update-location-tracker-greta-thunberg-israel-blockade",
-          "source": "The Guardian"
-        },
         {
           "title": "Gaza flotilla activists report increased drone activity in 'high-risk' zone",
           "snippet": "",
@@ -81,6 +75,12 @@
           "snippet": "",
           "url": "https://www.bbc.com/news/articles/cwyr2lwg1rjo",
           "source": "BBC"
+        },
+        {
+          "title": "Labour calls on Naval Service to send vessel as support for Gaza-bound flotilla",
+          "snippet": "",
+          "url": "https://www.irishtimes.com/politics/2025/09/30/labour-calls-on-naval-service-to-send-vessel-as-support-for-gaza-bound-flotilla/",
+          "source": "The Irish Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -119,6 +119,12 @@
           "snippet": "",
           "url": "https://www.limerickleader.ie/news/motoring/1907119/partial-opening-of-limerick-dual-carriageway-marks-step-towards-connected-northside.html",
           "source": "Limerick Leader"
+        },
+        {
+          "title": "Limerick's Coonagh to Knockalisheen Road opens to facilitate road closure",
+          "snippet": "",
+          "url": "https://www.live95fm.ie/news/live95-news/limericks-coonagh-to-knockalisheen-road-opens-to-facilitate-road-closure/",
+          "source": "Limerick's Live 95"
         }
       ],
       "link": "https://imtaqin.id/"

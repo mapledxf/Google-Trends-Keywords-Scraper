@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-10-02 06:20:53",
+  "lastUpdate": "2025-10-02 06:44:12",
   "data": [
     {
       "title": "петрохан",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 1 Oct 2025 23:00:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQSKH_-qhk0hkRoBNf7LIAenvlE0HXX5S1jpxjnBFXqq1zEx-dFQ-rj4ALLztM",
       "pictureSource": "Dnes.bg",
@@ -15,16 +15,16 @@
           "source": "Dnes.bg"
         },
         {
-          "title": "Сняг заваля на хижа \"Алеко\" на Витоша",
+          "title": "Честит първи сняг: Бяла покривка натрупа в части от страната (СНИМКИ)",
           "snippet": "",
-          "url": "https://www.focus-news.net/novini/regioni/Snyag-zavalya-na-hizha-Aleko-na-Vitosha-2728412",
-          "source": "ФОКУС"
+          "url": "https://dariknews.bg/novini/bylgariia/chestit-pyrvi-sniag-biala-pokrivka-natrupa-v-chasti-ot-stranata-snimki-2432571",
+          "source": "DarikNews.bg"
         },
         {
-          "title": "Сняг заваля в части от страната (СНИМКИ)",
+          "title": "Сняг вали на Петрохан, ниска е видимостта, има опасност от паднали дървета (ВИДЕО)",
           "snippet": "",
-          "url": "https://dariknews.bg/novini/bylgariia/sniag-zavalia-v-chasti-ot-stranata-snimki-2432571",
-          "source": "DarikNews.bg"
+          "url": "https://btvnovinite.bg/bulgaria/snjag-vali-na-petrohan-niska-e-vidimostta-ima-opasnost-ot-padnali-darveta.html",
+          "source": "bTV Новините"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -58,29 +58,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "сащ",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 1 Oct 2025 20:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRiJLhDd0SMoPtzMxHDQqjUnVMRGNI6ukliExkw_LXPqQNdaF-BHjTqhazfy4s",
+      "pictureSource": "News.bg",
+      "relatedSearch": [
+        {
+          "title": "WSJ: Тръмп е дал зелена светлина Украйна да удря по дълбокия руски тил",
+          "snippet": "",
+          "url": "https://news.bg/int-politics/wsj-tramp-e-dal-zelena-svetlina-ukrayna-da-udrya-po-dalbokiya-ruski-til.html",
+          "source": "News.bg"
+        },
+        {
+          "title": "Небензя: Ракетите \"Томахоук\" няма да променят ситуацията на бойното поле за Украйна",
+          "snippet": "",
+          "url": "https://www.focus-news.net/novini/mejdunarodni/Nebenzya-Raketite-Tomahouk-nyama-dapromenyat-situaciyata-na-boinoto-pole-za-Ukraina-2728181",
+          "source": "ФОКУС"
+        },
+        {
+          "title": "Томахоук за удари по Москва. Фронтова линия с Камен Невенкин 01.10.2025",
+          "snippet": "",
+          "url": "https://offnews.bg/analizi-i-komentari/tomahouk-za-udari-po-moskva-frontova-linia-s-kamen-nevenkin-01-10-202-852618.html",
+          "source": "offnews.bg"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "времето варна",
       "trafficCount": "200+",
       "pubDate": "Wed, 1 Oct 2025 20:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSl5v7uEwNABlFZmg1Mpn7yXiBN9T8VBVKV8uZQ50bWNot_xG33aMRiEJ-qU1M",
-      "pictureSource": "БНР",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdJbgY-OfRoALh3CNoAYTnWRVxwgVRa3bebQLIdcBtRH68wcp7XdtI6o8EBNM",
+      "pictureSource": "Frognews",
       "relatedSearch": [
         {
-          "title": "Дъжд и силен вятър днес",
+          "title": "Опасност от горолом на Витоша, очаква се силен снеговалеж",
           "snippet": "",
-          "url": "https://bnr.bg/shumen/post/102219143/dajd-i-silen-vatar-v-chetvartak",
-          "source": "БНР"
+          "url": "https://frognews.bg/novini/opasnost-gorolom-vitosha-ochakva-silen-snegovalej.html",
+          "source": "Frognews"
         },
         {
-          "title": "Хладен четвъртък с облаци и дъжд в много райони",
+          "title": "Мокър сняг в Западна България, температурите падат",
           "snippet": "",
-          "url": "https://www.bgonair.bg/a/187-vremeto-on-air/396367-hladen-chetvartak-s-oblatsi-i-dazhd-v-mnogo-rayoni",
-          "source": "Bgonair"
+          "url": "https://offnews.bg/obshtestvo/mokar-sniag-v-zapadna-balgaria-temperaturite-padat-852577.html",
+          "source": "offnews.bg"
         },
         {
-          "title": "Времето във Варна на 2 октомври 2025",
+          "title": "Много лошо време в цялата страна",
           "snippet": "",
-          "url": "https://www.chernomore.bg/a/2-varna/294307-vremeto-vav-varna-na-2-oktomvri-2025",
-          "source": "Chernomore"
+          "url": "https://www.plovdiv24.bg/novini/Bylgaria/Mnogo-losho-vreme-v-cyalata-strana-2728276",
+          "source": "Plovdiv24"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -109,6 +137,34 @@
           "snippet": "",
           "url": "https://www.manchestereveningnews.co.uk/sport/football/man-city-clear-dressing-room-32592575",
           "source": "Manchester Evening News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ергенът любов в рая епизод 19",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 1 Oct 2025 13:40:00 -0700",
+      "picture": "",
+      "pictureSource": "Lupa BG",
+      "relatedSearch": [
+        {
+          "title": "Ана-Шермин и Краси си ги търкат (ШОК КАДРИ)",
+          "snippet": "",
+          "url": "https://lupa.bg/news/ana-shermin-i-krasi-si-gi-tarkat-shok-kadri_373234news.html",
+          "source": "Lupa BG"
+        },
+        {
+          "title": "Певица попари Шермин: Плува в егото си",
+          "snippet": "",
+          "url": "https://petel.bg/Pevitsa-popari-SHermin--Pluva-v-egoto-si__613278",
+          "source": "Petel.bg"
+        },
+        {
+          "title": "Ергенката Теа скочи на Шермин: Държи се с Краси като с чехъл!",
+          "snippet": "",
+          "url": "https://show.blitz.bg/rialiti/ergenkata-tea-skochi-na-shermin-darzhi-se-s-krasi-kato-s-chehal",
+          "source": "Show.blitz.bg"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,26 +201,26 @@
       "title": "champions league",
       "trafficCount": "500+",
       "pubDate": "Wed, 1 Oct 2025 12:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG8Ys2EgzCQi_-ozUyP6_xdAfmC90662PhmhL4s7d93V4QF0b2CQncd9bCMEM",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXLiszaONt8b5rx1u0V6fR3HJ1XVZLW43lpG_1Gt--_qrP1gdwB7EpSD12DeI",
+      "pictureSource": "UEFA.com",
       "relatedSearch": [
         {
-          "title": "Champions League highlights, plus reaction as Arsenal win & Man City draw",
+          "title": "Monaco vs Man City",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cq65pr6vn2zt",
+          "url": "https://www.uefa.com/uefachampionsleague/match/2045934--monaco-vs-man-city/",
+          "source": "UEFA.com"
+        },
+        {
+          "title": "Newcastle 4-0 Union Saint-Gilloise: Anthony Gordon and Nick Woltemade score in Champions League",
+          "snippet": "",
+          "url": "https://www.bbc.com/sport/football/live/c1jze125z4zt",
           "source": "BBC"
         },
         {
-          "title": "UCL: Arsenal Gun Down Olympiacos, Man City Held By Monaco Despite Haaland Brace",
+          "title": "Howe on 4-0 win, big positives from Belgium, belief and Newcastle’s penalty call",
           "snippet": "",
-          "url": "https://www.news18.com/sports/ucl-arsenal-gun-down-olympiacos-man-city-held-by-monaco-despite-haaland-brace-ws-l-9609603.html",
-          "source": "News18"
-        },
-        {
-          "title": "Thursday’s briefing: Euro joy for Arsenal and Newcastle but Man City drop points",
-          "snippet": "",
-          "url": "https://www.bicesteradvertiser.net/sport/national/25510967.thursdays-briefing-euro-joy-arsenal-newcastle-man-city-drop-points/",
-          "source": "Bicester Advertiser"
+          "url": "https://www.nufcblog.co.uk/2025/10/02/howe-on-4-0-win-big-positives-from-belgium-belief-and-newcastles-penalty-call/",
+          "source": "NUFC Blog"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +239,16 @@
           "source": "CNN"
         },
         {
-          "title": "Renowned climatologist Jane Goodall, who shaped world's knowledge of chimpanzees, dies at 91",
+          "title": "Jane Goodall worked into her 90s. Here are 5 lifestyle habits that might explain how she stayed 'fit as a fiddle' for so long.",
           "snippet": "",
-          "url": "https://www.cbsnews.com/losangeles/video/renowned-climatologist-jane-goodall-who-shaped-worlds-knowledge-of-chimpanzees-dies-at-91/",
-          "source": "CBS News"
+          "url": "https://www.businessinsider.com/jane-goodall-longevity-tips-plant-based-diet-stress-work-habits-2025-10",
+          "source": "Business Insider"
         },
         {
-          "title": "Prince Harry and Meghan Markle Recall Jane Goodall Holding Their Son Archie in Tribute After Her Death at 91",
+          "title": "Jane Goodall, Revered Chimpanzee Expert and Conservationist, Dies at 91",
           "snippet": "",
-          "url": "https://people.com/prince-harry-and-meghan-markle-pay-tribute-to-jane-goodall-after-her-death-at-91-11822828",
-          "source": "People.com"
+          "url": "https://www.nytimes.com/2025/10/01/obituaries/jane-goodall-dead.html",
+          "source": "The New York Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -217,66 +273,10 @@
           "source": "Евроком"
         },
         {
-          "title": "Конте: Загубата от Милан ни помогна да победим Спортинг",
+          "title": "Антонио Конте доволен: Загубата от Милан ни помогна да победим Спортинг Лисабон",
           "snippet": "",
-          "url": "https://sportal.bg/news-2025100122495904751",
-          "source": "Sportal.bg"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "psg",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 1 Oct 2025 12:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiheylP1MRtYa3wphbaN5eQEFKGSBMP57wP113MFBhfb-tP_hZ7YeO8I4Eglc",
-      "pictureSource": "L'Équipe",
-      "relatedSearch": [
-        {
-          "title": "FC Barcelone 1-2 PSG, Ligue des champions : résumé du match (01/10/2025)",
-          "snippet": "",
-          "url": "https://www.lequipe.fr/Football/match-direct/ligue-des-champions/2025-2026/fc-barcelone-psg-live/685519",
-          "source": "L'Équipe"
-        },
-        {
-          "title": "PSG : Luis Enrique - \"Mendes et Hakimi sont les meilleurs latéraux du monde\"",
-          "snippet": "",
-          "url": "https://madeinfoot.ouest-france.fr/infos/article-psg-luis-enrique-mendes-et-hakimi-sont-les-meilleurs-lateraux-du-monde-497633.html",
-          "source": "MadeinFoot.com"
-        },
-        {
-          "title": "Barça – PSG : Les mots du Titi Mayulu, encore buteur en Ligue des champions",
-          "snippet": "",
-          "url": "https://www.canalplus.com/articles/sports/barca-psg-les-mots-du-titi-mayulu-encore-buteur-en-ligue-des-champions",
-          "source": "CANAL+"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "bet365",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 1 Oct 2025 12:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxt1EfEp4mjdK9q8vbt0ZZDC_bN1WkkorwcVvF3LQjDJdjrD-ntGTzCKMb8WI",
-      "pictureSource": "Evrim Ağacı",
-      "relatedSearch": [
-        {
-          "title": "DraftKings And Bet365 Launch Massive Bonuses For Monday Night Football Doubleheader",
-          "snippet": "",
-          "url": "https://evrimagaci.org/gpt/draftkings-and-bet365-launch-massive-bonuses-for-monday-night-football-doubleheader-505242",
-          "source": "Evrim Ağacı"
-        },
-        {
-          "title": "Top MNF Sportsbook Promos and Bonus Codes for Dolphins-Jets and Broncos-Bengals",
-          "snippet": "",
-          "url": "https://www.foxsports.com/stories/betting/caesars-sportsbook-promo-code-bet-1-mnf-jets-vs-dolphins-double-your-winnings-your-next-20-bets",
-          "source": "FOX Sports"
-        },
-        {
-          "title": "Bet365 Bonus Code WTOP365: Claim $200 Bonus for Rams-49ers TNF",
-          "snippet": "",
-          "url": "https://wtop.com/sports/2025/10/bet365-bonus-code-wtop365-claim-200-bonus-for-rams-49ers-tnf/",
-          "source": "WTOP"
+          "url": "https://fakti.bg/sport/1004208-antonio-konte-dovolen-zagubata-ot-milan-ni-pomogna-da-pobedim-sporting-lisabon",
+          "source": "Fakti.bg"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,19 +1,13 @@
 {
-  "lastUpdate": "2025-10-04 07:56:40",
+  "lastUpdate": "2025-10-04 08:18:09",
   "data": [
     {
       "title": "weather",
       "trafficCount": "200+",
       "pubDate": "Fri, 3 Oct 2025 21:00:00 -0700",
-      "picture": "",
-      "pictureSource": "Police Service of Northern Ireland",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnYO1n7s2jrkDZy4aoCyYqGKvXyvNEVVt6VbQl0loa53qSAuZhusD8imPvW6U",
+      "pictureSource": "BBC",
       "relatedSearch": [
-        {
-          "title": "Storm Amy update: Caution urged as weather alert moves from Amber to Yellow",
-          "snippet": "",
-          "url": "https://www.psni.police.uk/latest-news/storm-amy-update-caution-urged-weather-alert-moves-amber-yellow",
-          "source": "Police Service of Northern Ireland"
-        },
         {
           "title": "Storm Amy hits UK with heavy rain and strong winds",
           "snippet": "",
@@ -23,8 +17,14 @@
         {
           "title": "9 flood alerts and warnings in place across Wales",
           "snippet": "",
-          "url": "https://www.walesonline.co.uk/news/wales-news/9-flood-alerts-warnings-place-32609753",
-          "source": "Wales Online"
+          "url": "https://uk.news.yahoo.com/9-flood-alerts-warnings-place-071022130.html",
+          "source": "Yahoo News UK"
+        },
+        {
+          "title": "Storm Amy:Yellow weather warning remains in place",
+          "snippet": "",
+          "url": "https://www.impartialreporter.com/news/25517344.storm-amy-yellow-weather-warning-place-fermanagh/",
+          "source": "The Impartial Reporter"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +127,16 @@
           "source": "BBC"
         },
         {
+          "title": "Kluivert: Bournemouth proving we're a great team with great players",
+          "snippet": "",
+          "url": "https://www.tribalfootball.com/article/soccer-premier-league-kluivert-bournemouth-proving-we-re-a-great-team-with-great-players-32a0143d-70d1-4b4e-bc3f-832cdc9f9bb6",
+          "source": "TribalFootball"
+        },
+        {
           "title": "Cherries up to second after late comeback",
           "snippet": "",
           "url": "https://onefootball.com/en/news/cherries-up-to-second-after-late-comeback-41757797",
           "source": "OneFootball"
-        },
-        {
-          "title": "Silva suggests ‘individual moments’ were the difference in battle\nwith Bournemouth",
-          "snippet": "",
-          "url": "https://www.vavel.com/en/football/2025/10/03/fulham/1236318-silva-suggests-individual-moments-were-the-difference-in-battlewith-bournemouthfulham-ended-up-empty-handed-despite-their-display.html",
-          "source": "VAVEL.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,9 +145,15 @@
       "title": "hoffenheim – köln",
       "trafficCount": "500+",
       "pubDate": "Fri, 3 Oct 2025 11:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgNOFeCjCTzcHlj2wvMC-7-bGKBr-eo7DFaHxePEo15BMxHjDgKs_z5b7qLjk",
-      "pictureSource": "FussballTransfers.com",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzdXCyphX6GOycIGukyn_GCuiBhgRb0VPDjEIl0oIVegZlPhWei6mC04IJoag",
+      "pictureSource": "Kicker",
       "relatedSearch": [
+        {
+          "title": "El-Mala-Solo entscheidet: Köln erkämpft sich Dreier in Sinsheim",
+          "snippet": "",
+          "url": "https://www.kicker.de/hoffenheim-gegen-koeln-2025-bundesliga-5050802/ticker",
+          "source": "Kicker"
+        },
         {
           "title": "Kölns clevere Millionen-Entscheidung im Sommer",
           "snippet": "",
@@ -159,12 +165,6 @@
           "snippet": "",
           "url": "https://www.faszination-fankurve.de/news/108893/ueber-15000-gaestefans-samt-pyro-und-spruchbaendern-impressionen-vom-auswaertsspiel-des-1-fc-koeln-in-hoffenheim",
           "source": "Faszination Fankurve"
-        },
-        {
-          "title": "Starker FC-Sieg und lautstarke Unterstützung in Hoffenheim",
-          "snippet": "",
-          "url": "https://www.radiokoeln.de/artikel/starker-fc-sieg-und-lautstarke-unterstuetzung-in-hoffenheim-2458117.html",
-          "source": "Radio Köln"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -174,13 +174,13 @@
       "trafficCount": "2000+",
       "pubDate": "Fri, 3 Oct 2025 11:30:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ4_vQAumOeYTswBECkcHA5niGYu-lOBwR9yu-Vkr9LbNGAX3xfO6A9iryqj8",
-      "pictureSource": "Noticias de Navarra",
+      "pictureSource": "Diario de Noticias de Navarra",
       "relatedSearch": [
         {
           "title": "Osasuna - Getafe, el análisis | 'La épica y la estética'",
           "snippet": "",
           "url": "https://www.noticiasdenavarra.com/osasuna/2025/10/04/osasuna-getafe-analisis-epica-estetica-10167331.html",
-          "source": "Noticias de Navarra"
+          "source": "Diario de Noticias de Navarra"
         },
         {
           "title": "Lisci: “El equipo ha sabido competir y creer”",
@@ -255,22 +255,22 @@
     },
     {
       "title": "malta",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 3 Oct 2025 10:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPI1CuBzr76XY9cCkAI5frD5bglC18FvDMsoyA5zRnmCFFf_1wT_M0jr8Xv5w",
-      "pictureSource": "The Malta Independent",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXzIKxt5_XeTAnw1j9tYQhjzJtrxHpU26voNZSmAGKOFxn4Ulqkn84KzBOirA",
+      "pictureSource": "Times of Malta",
       "relatedSearch": [
+        {
+          "title": "What we fund becomes our culture – Malta must choose wisely",
+          "snippet": "",
+          "url": "https://timesofmalta.com/article/what-fund-becomes-culture-malta-choose-wisely.1117099",
+          "source": "Times of Malta"
+        },
         {
           "title": "GENE campaign launched to promote and safeguard biodiversity in Malta",
           "snippet": "",
           "url": "https://www.independent.com.mt/articles/2025-10-04/local-news/GENE-campaign-launched-to-promote-and-safeguard-biodiversity-in-Malta-6736273666",
           "source": "The Malta Independent"
-        },
-        {
-          "title": "Elena Gabrielle brings her storytelling comedy back to Malta",
-          "snippet": "",
-          "url": "https://timesofmalta.com/article/elena-gabrielle-brings-storytelling-comedy-back-malta.1117138",
-          "source": "Times of Malta"
         },
         {
           "title": "Maltese Teen Represents Malta in Prestigious Chinese Proficiency Competition",

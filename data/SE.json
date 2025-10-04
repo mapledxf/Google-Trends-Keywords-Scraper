@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-04 08:18:37",
+  "lastUpdate": "2025-10-04 08:35:18",
   "data": [
     {
       "title": "catharina amalia",
@@ -31,7 +31,7 @@
     },
     {
       "title": "amanda lind",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 4 Oct 2025 00:20:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzT4oDOfFob6pLfkvKsLwH-ANY171X47MEugGmbUhSiqo0N1A8Yr6331sAa4",
       "pictureSource": "Aftonbladet",
@@ -59,7 +59,7 @@
     },
     {
       "title": "anna karin hatt",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 4 Oct 2025 00:20:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqyNj7K1lQJO5kOR4QF9DSp2VW3A58lC5EgNds9sC7jDmBAPdBXu1UBSW0wd8",
       "pictureSource": "Dagens Arena",
@@ -86,8 +86,36 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "eon strömavbrott",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 4 Oct 2025 00:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoYt0WrraS4syStx7mjW7GhsuSau98XmubKqhQQQgyQVdtlpVJfo1CZwDIvyQ",
+      "pictureSource": "Trelleborgs Allehanda",
+      "relatedSearch": [
+        {
+          "title": "Strömavbrott – 259 kunder drabbade",
+          "snippet": "",
+          "url": "https://www.trelleborgsallehanda.se/nyheter/stromavbrott-259-kunder-drabbade/",
+          "source": "Trelleborgs Allehanda"
+        },
+        {
+          "title": "Stormen Amy drar in över Sverige – orange varning utfärdad",
+          "snippet": "",
+          "url": "https://www.svt.se/nyheter/inrikes/stormen-amy-drar-in-over-sverige-orange-varning-utfardad",
+          "source": "SVT Nyheter"
+        },
+        {
+          "title": "Så var natten med Amy – Mattias råd till Sverige",
+          "snippet": "",
+          "url": "https://www.aftonbladet.se/nyheter/a/B0AJ6E/sa-var-natten-med-amy-mattias-rad-till-sverige",
+          "source": "Aftonbladet"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "ebba busch",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 3 Oct 2025 23:50:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDoQNU6LGGbeW3mnS6IHYyMUMwhmC_CJecDAAyb0XoUl2cH1TTZNsiKwZbq_U",
       "pictureSource": "SVT Nyheter",
@@ -201,82 +229,54 @@
       "title": "venezuela",
       "trafficCount": "100+",
       "pubDate": "Fri, 3 Oct 2025 23:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgaqAMsbJ6AonUUKmHJeMh_VmRpig8YHHhM--wJoqfhPdJNDd35ORJ9fGWSo",
-      "pictureSource": "EL PAÍS",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTURtXpWMQ_WZ3DIRXIPEa4zSZl_YmuehwNPvVK2534dq0CcVZOBeUty0gdX1w",
+      "pictureSource": "The New York Times",
       "relatedSearch": [
         {
-          "title": "Los temores a un ataque inminente de Estados Unidos encienden todas las alarmas en Venezuela",
+          "title": "El ejército de EE. UU. ataca otro barco cerca de Venezuela, según Hegseth",
           "snippet": "",
-          "url": "https://elpais.com/america/2025-10-03/los-temores-a-un-ataque-inminente-de-estados-unidos-encienden-todas-las-alarmas-en-venezuela.html",
-          "source": "EL PAÍS"
+          "url": "https://www.nytimes.com/es/2025/10/03/espanol/estados-unidos/usa-ataque-venezuela.html",
+          "source": "The New York Times"
         },
         {
-          "title": "EE.UU. está en un \"conflicto armado\" contra los carteles de la droga, informa Donald Trump al Congreso de su país",
+          "title": "EEUU dinamita otra lancha con cuatro tripulantes en el Caribe",
           "snippet": "",
-          "url": "https://www.bbc.com/mundo/articles/c4gvypxknp0o",
-          "source": "BBC"
+          "url": "https://ipsnoticias.net/2025/10/eeuu-dinamita-otra-lancha-con-cuatro-tripulantes-en-el-caribe/",
+          "source": "IPS Agencia de Noticias"
         },
         {
-          "title": "Trump declara la guerra a los “cárteles” y se prepara para atacar “objetivos terrestres” en Venezuela",
+          "title": "Presidente Petro: En las lanchas no van narcoterroristas. Los narcos viven en EE.UU",
           "snippet": "",
-          "url": "https://izquierdaweb.com/trump-declara-la-guerra-a-los-carteles-y-se-prepara-para-atacar-objetivos-terrestres-en-venezuela/",
-          "source": "Izquierda Web"
+          "url": "https://fusernews.com/presidente-petro-en-las-lanchas-no-van-narcoterroristas-los-narcos-viven-en-ee-uu/",
+          "source": "Fuser News"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "skjutning gävle",
-      "trafficCount": "5000+",
+      "trafficCount": "2000+",
       "pubDate": "Fri, 3 Oct 2025 22:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOsAwH52y5WtksbH682i-DPWZg-LoRXme_-kbKfXCaTLy955P2lfn6KsV3PXY",
-      "pictureSource": "Aftonbladet",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHvolrRFLCseKhVgTzgxJzMk2XebUeVYTBRU3j9PrvyMLSNgltQfKFsrD7ZmU",
+      "pictureSource": "Gefle Dagblad",
       "relatedSearch": [
         {
-          "title": "Sex skadade efter skottlossning – sökte skydd på krog",
+          "title": "Så är läget på Söder efter skjutningen – vi är på plats",
           "snippet": "",
-          "url": "https://www.aftonbladet.se/nyheter/a/kwAWVQ/stor-polisinsats",
-          "source": "Aftonbladet"
+          "url": "https://www.gd.se/2025-10-04/sa-ar-laget-pa-soder-efter-skjutningen-vi-ar-pa-plats/",
+          "source": "Gefle Dagblad"
         },
         {
-          "title": "Skadade sökte skydd på pub: ”Folk var panikslagna”",
+          "title": "Kroganställd om skjutning på Söder: ”Väldigt kaosartat”",
           "snippet": "",
-          "url": "https://www.sverigesradio.se/artikel/skadade-sokte-skydd-pa-pub-folk-var-panikslagna",
-          "source": "Sveriges Radio"
-        },
-        {
-          "title": "Skottlossning i centrala Gävle – sex personer till sjukhus",
-          "snippet": "",
-          "url": "https://www.svt.se/nyheter/lokalt/gavleborg/stor-polisinsats-i-gavle-tva-till-sjukhus",
-          "source": "SVT Nyheter"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "bohusläningen",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 3 Oct 2025 22:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-ps2zzTU7K0gsmAIvCBnXN9HApcj8wlBykrDl2cWm4Bc_yA9uFI-kSqJXPcQ",
-      "pictureSource": "SVT Nyheter",
-      "relatedSearch": [
-        {
-          "title": "Marinoperation i Öresund: ”Ser ryska skuggfartyg varje dag”",
-          "snippet": "",
-          "url": "https://www.svt.se/nyheter/lokalt/helsingborg/marinoperation-i-oresund-ser-ryska-skuggfartyg-varje-dag",
+          "url": "https://www.svt.se/nyheter/lokalt/gavleborg/kroganstalld-om-skjutning-pa-soder-valdigt-kaosartat",
           "source": "SVT Nyheter"
         },
         {
-          "title": "Därför syns fler militärer i Bohuslän kommande vecka",
+          "title": "Sex skadade i skottlossning i Gävle – barn misstänks",
           "snippet": "",
-          "url": "https://www.bohuslaningen.se/nyheter/tio-dagar-lang-militarovning-i-bohuslan-vi-syns-och-hors-.4e7dee6a-fea3-4eed-9a54-d2c2a8cdc594",
-          "source": "Bohusläningen"
-        },
-        {
-          "title": "Marinen genomför sjöövervakningsoperation i Öresundsområdet",
-          "snippet": "",
-          "url": "https://www.forsvarsmakten.se/sv/aktuellt/2025/09/marinen-genomfor-sjoovervakningsoperation-i-oresundsomradet/",
-          "source": "Försvarsmakten"
+          "url": "https://www.sydsvenskan.se/sverige/sex-skadade-i-skottlossning-i-gavle-barn-misstanks/",
+          "source": "Sydsvenskan"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,37 +1,121 @@
 {
-  "lastUpdate": "2025-10-04 03:59:19",
+  "lastUpdate": "2025-10-04 04:23:46",
   "data": [
     {
-      "title": "последние новости",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 3 Oct 2025 20:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWuLiKrtJjzHVwOBtu7afTB9l-owoT0AGmbjl5knImget0q7AHxJeYVC59KdY",
-      "pictureSource": "BK55.ru",
+      "title": "атака беспилотников березники",
+      "trafficCount": "5000+",
+      "pubDate": "Fri, 3 Oct 2025 21:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS189XNufK-tZHV95HW5nACSDCZiC4XMLn81OA2yih_RnlM1NUC4lAg0e6-Pws",
+      "pictureSource": "БИЗНЕС Online — Новости Казани",
       "relatedSearch": [
         {
-          "title": "В Омске нашли погибшим пропавшего мальчика",
+          "title": "ВСУ атаковали химзавод в Пермском крае",
           "snippet": "",
-          "url": "https://bk55.ru/news/article/249407/",
-          "source": "BK55.ru"
+          "url": "https://m.business-gazeta.ru/news/684362",
+          "source": "БИЗНЕС Online — Новости Казани"
         },
         {
-          "title": "В Омске полиция и волонтеры разыскивают 15-летнего школьника",
+          "title": "Беспилотники атаковали Березники и Орск",
           "snippet": "",
-          "url": "https://newsomsk.ru/news/155792-v_omske_politsiya_i_volonter_razskivayut_15_letneg/amp/",
-          "source": "Новый Омск"
+          "url": "https://www.svoboda.org/a/bespilotniki-atakovali-berezniki-zavod-azot-ostanavlival-rabotu/33547835.html",
+          "source": "Радио Свобода"
         },
         {
-          "title": "Следком назвал возможную причину гибели пропавшего в Омске школьника",
+          "title": "Украинские дроны атаковали химзавод \"Азот\" в Пермском крае",
           "snippet": "",
-          "url": "https://omskinform.ru/news/212233",
-          "source": "Новости Омска и Омской области"
+          "url": "https://www.dw.com/ru/ukrainskie-drony-atakovali-himiceskij-zavod-azot-v-permskom-krae/a-74225777",
+          "source": "DW"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "доллар",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 3 Oct 2025 20:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnVMFvT02cxx2zDpQjcUHHywVGNlXVedINFG5-AO4M6oimtYb35iXIYAKVNH0",
+      "pictureSource": "Центральный банк Российской Федерации",
+      "relatedSearch": [
+        {
+          "title": "Официальные курсы валют на заданную дату, устанавливаемые ежедневно",
+          "snippet": "",
+          "url": "https://www.cbr.ru/currency_base/daily/",
+          "source": "Центральный банк Российской Федерации"
+        },
+        {
+          "title": "Официальные курсы доллара США и евро к рублю РФ, действующие в России с 4 октября",
+          "snippet": "",
+          "url": "https://lug-info.ru/news/oficialnye-kursy-dollara-ssha-i-evro-k-rublju-rf-dejstvujuschie-v-rossii-s-4-6/",
+          "source": "Луганский Информационный Центр"
+        },
+        {
+          "title": "Банк России повысил официальный курс доллара на субботу",
+          "snippet": "",
+          "url": "https://finance.mail.ru/article/oficialnyj-kurs-dollara-na-4-oktyabrya-2025-68168533/",
+          "source": "Финансы Mail"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "новости краснодар",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 3 Oct 2025 20:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRL55JKVx0iLR83BLI0dphFEBZsm69fOOuKBKEG1qV_WcyCUlte5Unydonsk_o",
+      "pictureSource": "Кубанские новости",
+      "relatedSearch": [
+        {
+          "title": "Где будут работать ярмарки выходного дня в Краснодаре в первую субботу октября",
+          "snippet": "",
+          "url": "https://kubnews.ru/obshchestvo/2025/10/03/gde-budut-rabotat-yarmarki-vykhodnogo-dnya-v-krasnodare-v-pervuyu-subbotu-oktyabrya/",
+          "source": "Кубанские новости"
+        },
+        {
+          "title": "Ярмарки выходного дня в Краснодаре: свежие фермерские продукты — Независимое СМИ Кубани",
+          "snippet": "",
+          "url": "https://krasnodar.bz/news/8633-jarmarki-vyhodnogo-dnja-v-krasnodare-svezhie-fermerskie-produkty.html",
+          "source": "Краснодар .BZ независимое СМИ Кубани"
+        },
+        {
+          "title": "Фрукты, ягоды, орехи: четыре ярмарки выходного дня откроются в Краснодаре 4 октября",
+          "snippet": "",
+          "url": "https://kub-inform.ru/news/frukty-yagody-orekhi-chetyre-yarmarki-vykhodnogo-dnya-otkroyutsya-v-krasnodare-4-oktyabrya/",
+          "source": "Кубань Информ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "последние новости",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 3 Oct 2025 20:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOoLog1PM1AkbgArVOVYUmfmBDfiXTh14B3m-kVNKBek7nZ6osvK7rYk5mEG8",
+      "pictureSource": "Go31",
+      "relatedSearch": [
+        {
+          "title": "На выходных в Белгородской области заметно потеплеет",
+          "snippet": "",
+          "url": "https://www.go31.ru/news/obshchestvo/na-vykhodnykh-v-belgorodskoy-oblasti-zametno-potepleet/",
+          "source": "Go31"
+        },
+        {
+          "title": "В день брусники в Белгороде будет тепло",
+          "snippet": "",
+          "url": "https://moe-belgorod.ru/news/weather/1238245",
+          "source": "МОЁ! Online. Белгород"
+        },
+        {
+          "title": "В Белгородскую область возвращается тёплая погода. Новости общества",
+          "snippet": "",
+          "url": "https://www.belpressa.ru/society/drugoe/71694.html",
+          "source": "БелПресса"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "утильсбор авто",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 3 Oct 2025 19:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRiBY0hOOdDUAeIgSDfkw-qn4-hWzAUfYecFlIgB6_0UJpVKs4HUFuCWygGxyE",
       "pictureSource": "Новости Владивостока на VL.ru",
@@ -53,6 +137,34 @@
           "snippet": "",
           "url": "https://www.gismeteo.ru/news/auto/proekt-novogo-utilsbora-sobral-rekordnoe-kolichestvo-dizlajkov/",
           "source": "GISMETEO.Новости"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "новости спб",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 3 Oct 2025 18:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSiyVvmy5AbJCtLv1yLK5d196E-D7K7xEUo_lFgdIMwwTzF0DjmjTKrHQRFZNw",
+      "pictureSource": "ФОНТАНКА.ру",
+      "relatedSearch": [
+        {
+          "title": "В Новой Ижоре появился уличный свет после обращений в прокуратуру и публикации на «Фонтанке»",
+          "snippet": "",
+          "url": "https://www.fontanka.ru/2025/10/03/76059754/",
+          "source": "ФОНТАНКА.ру"
+        },
+        {
+          "title": "Под Петербургом в Новой Ижоре все остались без света",
+          "snippet": "",
+          "url": "https://spbdnevnik.ru/news/2025-10-02/pod-peterburgom-v-novoy-izhore-vse-ostalis-bez-svet",
+          "source": "spbdnevnik.ru"
+        },
+        {
+          "title": "Как микрорайон остался без света и что помогло вернуть уличное освещение",
+          "snippet": "",
+          "url": "https://peterburg2.ru/news/v-novoy-izhore-vosstanovili-osveschenie-posle-zhalob-zhiteley-i-vmeshatelstva-vlastey-192420.html",
+          "source": "Peterburg2"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -87,7 +199,7 @@
     },
     {
       "title": "кириши",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 3 Oct 2025 18:20:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOrpvgtiuX4Ms10g80vQjizdXP-QEuSLWXykyHvTTrSWLNvwJ56u_ZtzDq7tE",
       "pictureSource": "DW",
@@ -99,16 +211,16 @@
           "source": "DW"
         },
         {
-          "title": "В Ленобласти объявлена опасность БПЛА",
+          "title": "ПВО отражает атаку БПЛА в Киришах. В промзоне начался пожар",
           "snippet": "",
-          "url": "https://www.fontanka.ru/2025/10/04/76060180/",
+          "url": "https://www.fontanka.ru/2025/10/04/76060183/",
           "source": "ФОНТАНКА.ру"
         },
         {
-          "title": "Украинский БПЛА сбили в Ленобласти",
+          "title": "Беспилотники поразили один из крупнейших нефтеперерабатывающий заводов России в Ленинградской области",
           "snippet": "",
-          "url": "https://ura.news/news/1053005794",
-          "source": "URA.RU"
+          "url": "https://www.pravda.com.ua/rus/news/2025/10/04/8001177/",
+          "source": "Українська правда"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -165,118 +277,6 @@
           "snippet": "",
           "url": "https://www.loveradio.ru/news/news/kit-urban-izmenil-tekst-pesni-o-nikol-kidman",
           "source": "Love Radio"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "полтава",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 3 Oct 2025 17:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3TmWxWFBdO_IUmQCSpk-4-mqz_IhoRbVuK1evxkS9I2v0TsQBg10yLBXXBEI",
-      "pictureSource": "Bombardir.ru",
-      "relatedSearch": [
-        {
-          "title": "«Полесье» – «Полтава»: прогноз и ставки на матч 4 октября 2025 с коэффициентом 1.67",
-          "snippet": "",
-          "url": "https://bombardir.ru/prognozy/787577-polese-poltava-prognoz-i-stavki-na-match-4-oktyabrya-2025-s-koefficientom-167",
-          "source": "Bombardir.ru"
-        },
-        {
-          "title": "Полесье - Полтава. Анонс и прогноз матча УПЛ на 4.10.2025",
-          "snippet": "",
-          "url": "https://www.ua-football.com/predictions/upl/1759502360-polese-poltava-anons-i-prognoz-matcha-upl-na-4-10-2025.html",
-          "source": "UA-Football"
-        },
-        {
-          "title": "Полесье – Полтава. Текстовая трансляция матча",
-          "snippet": "",
-          "url": "https://sport.ua/news/803412-polesye-poltava-tekstovaya-translyatsiya-matcha",
-          "source": "Sport.ua"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "новости украина",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 3 Oct 2025 17:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTorr0jbdRwXhIVikMUyeBFmT59KtWUhtPwhX9CSAUufXBk6Fz5uubb1ibEVbM",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Что известно о потерях России в Украине к октябрю",
-          "snippet": "",
-          "url": "https://www.bbc.com/russian/articles/c20zy463wpqo",
-          "source": "BBC"
-        },
-        {
-          "title": "За последние сутки Россия потеряла еще 950 военных в войне против Украины – Генштаб",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2025/10/04/8001179/",
-          "source": "Українська правда"
-        },
-        {
-          "title": "Подтвержденные потери России в Украине превысили 134 тысячи человек убитыми",
-          "snippet": "",
-          "url": "https://www.moscowtimes.ru/2025/10/03/podtverzhdennie-poteri-rossii-v-ukraine-previsili-134-tisyachi-chelovek-ubitimi-a176286",
-          "source": "Русская служба The Moscow Times"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ржд пассажирам",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 3 Oct 2025 16:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSA_McZ8Bddxxq1OYDtXZaLVuEtUVrpsD7qzNaEh86GTuSXbXMaYhrgGBpDaeg",
-      "pictureSource": "Банки.ру",
-      "relatedSearch": [
-        {
-          "title": "РЖД открыли продажу билетов на поезда на Новый год",
-          "snippet": "",
-          "url": "https://www.banki.ru/news/lenta/?id=11018134",
-          "source": "Банки.ру"
-        },
-        {
-          "title": "РЖД открыли продажи билетов на поезда с отправ­лением 31 декабря",
-          "snippet": "",
-          "url": "https://t-j.ru/news/rzd-novyj-god/",
-          "source": "Т—Ж"
-        },
-        {
-          "title": "Выяснилось, сколько стоят билеты на поезда Москва — Петербург под Новый год",
-          "snippet": "",
-          "url": "https://www.rosbalt.ru/news/2025-10-03/vyyasnilos-skolko-stoyat-bilety-na-poezda-moskva-peterburg-pod-novyy-god-5484952",
-          "source": "Росбалт"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "иркутск",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 3 Oct 2025 16:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9fbYCQbI2TIZrslOlFonyz7NcpWL3SH3Qb9zxizoP3BCiVEfxhWyI_0PTXN4",
-      "pictureSource": "Твой Иркутск",
-      "relatedSearch": [
-        {
-          "title": "До +13 градусов прогнозируется в выходные в Иркутске",
-          "snippet": "",
-          "url": "https://www.irk.ru/news/20251003/weekend/",
-          "source": "Твой Иркутск"
-        },
-        {
-          "title": "Снег плотным ковром накрыл Саянск 2 октября",
-          "snippet": "",
-          "url": "https://pogoda.mail.ru/news/68161365/",
-          "source": "Mail.ru"
-        },
-        {
-          "title": "Прогноз погоды в Ангарске на выходные, 4 и 5 октября",
-          "snippet": "",
-          "url": "https://angarsk-38.ru/news/prognoz-pogody-v-angarske-na-vykhodnye-4-i-5-oktyabrya-2/",
-          "source": "Сайт города Ангарск"
         }
       ],
       "link": "https://imtaqin.id/"

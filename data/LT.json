@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-05 10:56:35",
+  "lastUpdate": "2025-10-05 11:10:53",
   "data": [
     {
       "title": "weather",
@@ -21,10 +21,10 @@
           "source": "ElliotLakeToday.com"
         },
         {
-          "title": "Didenko told where rains are expected on Monday, and where one can get by without an umbrella",
+          "title": "Warm and mainly dry in the Triad before rain chances midweek",
           "snippet": "",
-          "url": "https://unn.ua/en/news/didenko-told-where-rains-are-expected-on-monday-and-where-one-can-get-by-without-an-umbrella",
-          "source": "Українські Національні Новини"
+          "url": "https://www.wxii12.com/article/nice-weather-to-end-the-weekend-rain-chances-return-midweek/68831762",
+          "source": "WXII"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,15 +117,9 @@
       "title": "vilniaus oro uostas",
       "trafficCount": "10000+",
       "pubDate": "Sat, 4 Oct 2025 12:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2uxqYNJ-UaUfXhZDSZW8ZQn2qhu8eniSHkNk1pt19gK5vJWAl9WYpWRz-1eY",
-      "pictureSource": "Vilniaus oro uostas",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsA0wFghz5X7kykdXnFw2kwBms3p8vBkSh5TFT3gY4l_CVidLmUokvQrSIT7E",
+      "pictureSource": "Delfi",
       "relatedSearch": [
-        {
-          "title": "Sekmadienį ryte Vilniaus oro uoste skrydžiai ir operacijos atnaujintos visa apimtimi, galimi skrydžių vėlavimai dienos eigoje",
-          "snippet": "",
-          "url": "https://www.vilnius-airport.lt/lt/naujienos/sekmadieni-ryte-vilniaus-oro-uoste-skrydziai-ir-operacijos-atnaujintos-visa-apimtimi-galimi-skrydziu-velavimai-dienos-eigoje",
-          "source": "Vilniaus oro uostas"
-        },
         {
           "title": "NKVC vadovas: kontrabandiniai balionai nuskrido iki Rokiškio rajono",
           "snippet": "",
@@ -133,10 +127,16 @@
           "source": "Delfi"
         },
         {
-          "title": "Lietuvos oro erdvę naktį pažeidė 25 meteorologiniai balionai",
+          "title": "NKVC vadovas: iš 25 Lietuvos oro erdvę pažeidusių meteorologinių balionų kol kas surasti 8",
           "snippet": "",
-          "url": "https://www.vz.lt/verslo-aplinka/2025/10/05/lietuvos-oro-erdve-nakti-pazeide-25-meteorologiniai-balionai-573892",
-          "source": "vz.lt"
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2702161/nkvc-vadovas-is-25-lietuvos-oro-erdve-pazeidusiu-meteorologiniu-balionu-kol-kas-surasti-8",
+          "source": "LRT"
+        },
+        {
+          "title": "Sekmadienį ryte Vilniaus oro uoste skrydžiai ir operacijos atnaujintos visa apimtimi, galimi skrydžių vėlavimai dienos eigoje",
+          "snippet": "",
+          "url": "https://www.vilnius-airport.lt/lt/naujienos/sekmadieni-ryte-vilniaus-oro-uoste-skrydziai-ir-operacijos-atnaujintos-visa-apimtimi-galimi-skrydziu-velavimai-dienos-eigoje",
+          "source": "Vilniaus oro uostas"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +211,16 @@
           "source": "Delfi"
         },
         {
-          "title": "FK „Kauno Žalgiris“ iškovojo pergalę Alytuje",
-          "snippet": "",
-          "url": "https://zalgiris.lt/naujienos/fk-kauno-zalgiris-iskovojo-pergale-alytuje",
-          "source": "Žalgiris"
-        },
-        {
           "title": "Lyderių ir autsaiderių akistata A lygoje: „Dainava“ – „Kauno Žalgiris“",
           "snippet": "",
           "url": "https://www.lrt.lt/naujienos/sportas/10/2701233/lyderiu-ir-autsaideriu-akistata-a-lygoje-dainava-kauno-zalgiris",
           "source": "LRT"
+        },
+        {
+          "title": "FK „Kauno Žalgiris“ iškovojo pergalę Alytuje",
+          "snippet": "",
+          "url": "https://zalgiris.lt/naujienos/fk-kauno-zalgiris-iskovojo-pergale-alytuje",
+          "source": "Žalgiris"
         }
       ],
       "link": "https://imtaqin.id/"

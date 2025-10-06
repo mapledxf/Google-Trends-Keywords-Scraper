@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-06 03:52:23",
+  "lastUpdate": "2025-10-06 03:59:57",
   "data": [
     {
       "title": "porto – benfica",
@@ -73,7 +73,7 @@
         {
           "title": "Atletico Draw At Celta Vigo After Lenglet Red Card",
           "snippet": "",
-          "url": "https://www.barrons.com/news/atletico-draw-at-celta-vigo-after-lenglet-red-card-113fba2d?gaa_at=eafs&gaa_n=ASWzDAgeO37gC0k4rfLGadYBfpNUHHM5WxddfyrgVW191OkCXqucRYxPUis0&gaa_ts=68e3407a&gaa_sig=s1VQ8uwofmifPwbdozhYaTtvYvodCobBc9yR-_8AOvIT4cRnCjw6L897R5qA3pel9FrkJYjE5T7yD3mRMxYktg%3D%3D",
+          "url": "https://www.barrons.com/news/atletico-draw-at-celta-vigo-after-lenglet-red-card-113fba2d?gaa_at=eafs&gaa_n=ASWzDAgbaVDCTnL7RdzKsCcGCnEUlhaiiPSwCZmdEiKzt0Wef0MGvo35WLuB&gaa_ts=68e34186&gaa_sig=hhQuEbd-0tqAHUxBdxA0yqePbuBZmsKBg-vRF_oLRgtPuBfnRNrlfXtwb3mrFrOl9P7p9Py6N2tKpSn_zNC9lA%3D%3D",
           "source": "Barron's"
         },
         {
@@ -89,15 +89,9 @@
       "title": "lille – paris-sg",
       "trafficCount": "2000+",
       "pubDate": "Sun, 5 Oct 2025 10:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWQ9Ipa9LUYswLSjeAWL67Tf9U4J8PfApmaTn3PYOnJg1hyCR70cH73aVDGuA",
-      "pictureSource": "L'Équipe",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvfmb9pwFs0J1Bx1mL-Zcb5kRQEtPck_XxZLJ9TI-hZcgQNhVG0F587V5TZ7w",
+      "pictureSource": "Foot Mercato",
       "relatedSearch": [
-        {
-          "title": "Lille 1-1 PSG, Ligue 1 : résumé du match (05/10/2025)",
-          "snippet": "",
-          "url": "https://www.lequipe.fr/Football/match-direct/ligue-1/2025-2026/lille-psg-live/675856",
-          "source": "L'Équipe"
-        },
         {
           "title": "LOSC : les mots forts de Luis Enrique sur Ethan Mbappé",
           "snippet": "",
@@ -105,10 +99,16 @@
           "source": "Foot Mercato"
         },
         {
-          "title": "Une banderole cinglante des supporters lillois pour contester l'arbitrage d'Anthony Gautier",
+          "title": "Ligue 1. « On a priorisé la santé des joueurs », explique Enrique après le match nul du PSG à Lille",
           "snippet": "",
-          "url": "https://madeindogues.ouest-france.fr/infos/article-losc-une-banderole-cinglante-des-supporters-lillois-pour-contester-l-arbitrage-d-anthony-gautier-498103.html",
-          "source": "MadeInDogues"
+          "url": "https://www.ouest-france.fr/sport/football/ligue-1/ligue-1-on-a-priorise-la-sante-des-joueurs-explique-enrique-apres-le-match-nul-du-psg-a-lille-e1cda112-a235-11f0-a698-dbf3ac8f3cb6",
+          "source": "Ouest-France"
+        },
+        {
+          "title": "La majorité des supporters lillois pessimiste avant LOSC – PSG",
+          "snippet": "",
+          "url": "https://lepetitlillois.com/2025/10/05/la-majorite-des-supporters-lillois-pessimiste-avant-losc-psg/",
+          "source": "Le petit Lillois"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -198,6 +198,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "barça",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 5 Oct 2025 09:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQx8SKSIfe0EpNT7qpVC3s72b84Q8DriQRuC0ag28Hd1obkep6NlWduJy9hbWY",
+      "pictureSource": "Sports Illustrated",
+      "relatedSearch": [
+        {
+          "title": "La última vez que el FC Barcelona recibió cuatro goles",
+          "snippet": "",
+          "url": "https://www.si.com/es-us/futbol/la-ultima-vez-que-el-fc-barcelona-recibio-cuatro-goles",
+          "source": "Sports Illustrated"
+        },
+        {
+          "title": "Hansi Flick: \"No estamos contentos por la derrota\"",
+          "snippet": "",
+          "url": "https://onefootball.com/en/news/hansi-flick-no-estamos-contentos-por-la-derrota-41765697",
+          "source": "OneFootball"
+        },
+        {
+          "title": "Pedri: \"Hay que hacer autocrítica\"",
+          "snippet": "",
+          "url": "https://es-us.noticias.yahoo.com/deportes/pedri-autocr%C3%ADtica-171002821.html",
+          "source": "Yahoo"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "real sociedad – rayo",
       "trafficCount": "1000+",
       "pubDate": "Sun, 5 Oct 2025 08:50:00 -0700",
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://foot-africa.com/en/news/liga-without-lamine-yamal-barca-collapses-in-seville-906954/",
           "source": "Foot Africa"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "brentford – manchester city",
-      "trafficCount": "2000+",
-      "pubDate": "Sun, 5 Oct 2025 07:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5FRNZJ7W18zJBNDQ0F1KLiIM3-YamDWcD0Xr6jAnesQ2WmVfRMvQdCyTes2k",
-      "pictureSource": "OC Today-Dispatch",
-      "relatedSearch": [
-        {
-          "title": "Haaland fires Man City to win at Brentford, Everton end Palace's unbeaten run",
-          "snippet": "",
-          "url": "https://www.octodaydispatch.com/news/national/haaland-fires-man-city-to-win-at-brentford-everton-end-palaces-unbeaten-run/article_5400ab17-3ab8-5fd9-be61-9d1f7bd86583.html",
-          "source": "OC Today-Dispatch"
-        },
-        {
-          "title": "Guardiola wants to dine with Ferguson and Wenger after hitting 250 Premier League wins",
-          "snippet": "",
-          "url": "https://www.beinsports.com/en-us/soccer/premier-league/articles/guardiola-wants-to-dine-with-ferguson-and-wenger-after-hitting-250-premier-league-wins-2025-10-05",
-          "source": "beIN SPORTS"
-        },
-        {
-          "title": "Guardiola with 250 Premier League wins, the fastest coach to reach this record",
-          "snippet": "",
-          "url": "https://telegrafi.com/en/Guardiola-with-250-wins-in-the-Premier-League--the-fastest-coach-to-reach-this-record/",
-          "source": "Telegrafi"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-07 20:24:19",
+  "lastUpdate": "2025-10-07 20:37:43",
   "data": [
     {
       "title": "เชสเตอร์ฟิลด์",
@@ -71,10 +71,10 @@
           "source": "Cybernews"
         },
         {
-          "title": "Steam is recovering from intermittent downtime on Tuesday",
+          "title": "Steam is back online after outage",
           "snippet": "",
-          "url": "https://www.pcgamer.com/gaming-industry/steam-is-down-oct-7/",
-          "source": "PC Gamer"
+          "url": "https://www.engadget.com/gaming/pc/steam-is-back-online-after-outage-170514965.html",
+          "source": "Engadget"
         },
         {
           "title": "Steam, Lumen experience widespread outages impacting thousands of users",
@@ -117,13 +117,19 @@
       "title": "yahoo finance",
       "trafficCount": "100+",
       "pubDate": "Tue, 7 Oct 2025 08:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSF8SHescObcClntjiB92hGIhiiRGOPlyiUT-AowiDYUM0Z2HWxsfq3y5Muf4M",
-      "pictureSource": "Yahoo Finance",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7rQ3A5T9e_I6VC_7fbHmangwe7jNHty9_EppgaYskQeXMmsLJJ5Btj28NIA0",
+      "pictureSource": "Bloomberg",
       "relatedSearch": [
         {
-          "title": "Stock market today: Dow, S&P 500, Nasdaq slide as Oracle leads tech stocks lower",
+          "title": "Stocks Halt Record-Breaking Run as Oracle Tumbles: Markets Wrap",
           "snippet": "",
-          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-oracle-leads-tech-stocks-lower-161751382.html",
+          "url": "https://www.bloomberg.com/news/articles/2025-10-06/stock-market-today-dow-s-p-live-updates",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "Stock market today: S&P 500, Nasdaq tick higher after records as gold tops $4,000",
+          "snippet": "",
+          "url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-tick-higher-after-records-as-gold-tops-4000-133157872.html",
           "source": "Yahoo Finance"
         },
         {
@@ -131,12 +137,6 @@
           "snippet": "",
           "url": "https://www.nasdaq.com/articles/stocks-settle-mostly-higher-ai-frenzy-boosts-chipmakers",
           "source": "Nasdaq"
-        },
-        {
-          "title": "Stocks Halt Record-Breaking Run as Oracle Tumbles: Markets Wrap",
-          "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2025-10-06/stock-market-today-dow-s-p-live-updates",
-          "source": "Bloomberg"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,10 +183,10 @@
           "source": "뉴스1"
         },
         {
-          "title": "오늘도 전국 대부분 비…일부 내일까지 계속",
+          "title": "절기상 한로에 곳곳 가을비…귀경길 빗길 유의",
           "snippet": "",
-          "url": "https://news.zum.com/articles/101360103/%EC%98%A4%EB%8A%98%EB%8F%84-%EC%A0%84%EA%B5%AD-%EB%8C%80%EB%B6%80%EB%B6%84-%EB%B9%84-%EC%9D%BC%EB%B6%80-%EB%82%B4%EC%9D%BC%EA%B9%8C%EC%A7%80-%EA%B3%84%EC%86%8D",
-          "source": "ZUM 뉴스"
+          "url": "https://m.news.nate.com/view/20251008n00975?mid=m03&list=recent&cpcd=",
+          "source": "네이트"
         },
         {
           "title": "[날씨] 연휴 닷새째 전국 곳곳 비…한글날 되어서야 하늘 쾌청",

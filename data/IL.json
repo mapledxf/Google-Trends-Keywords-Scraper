@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-09 07:57:06",
+  "lastUpdate": "2025-10-09 08:22:19",
   "data": [
     {
       "title": "מדד תל אביב 35",
@@ -143,7 +143,7 @@
     },
     {
       "title": "מאקו",
-      "trafficCount": "1000+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 8 Oct 2025 21:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-JK1zvqBhFpqN8DDlMChWiTrDCTFHaj19C12Rt0TVpuqBg_JSfD16Smr33v0",
       "pictureSource": "ynet",
@@ -155,44 +155,16 @@
           "source": "ynet"
         },
         {
-          "title": "\"חזרה של 20 חיים ועוד 28 חללים בפרק זמן קצר - זה מבצע לוגיסטי מורכב\"",
-          "snippet": "",
-          "url": "https://www.mako.co.il/health-news/local/Article-80c31e470b7c991027.htm",
-          "source": "mako"
-        },
-        {
           "title": "3 אוגדות של צה\"ל שלוחמות בעיר עזה החלו לפנות את הכוחות",
           "snippet": "",
           "url": "https://www.kan.org.il/content/kan-news/defense/live-958109/",
           "source": "כאן 11"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "מזג אוויר",
-      "trafficCount": "20000+",
-      "pubDate": "Wed, 8 Oct 2025 20:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8wI85If43Hj2u1hKnyI4Vo6nRsseGghFQnpJyFAfERiFE_HoGERDYIMJJF5E",
-      "pictureSource": "ynet",
-      "relatedSearch": [
-        {
-          "title": "גשמים מקומיים בצפון ובמרכז - והתקררות | התחזית והמכ\"ם",
-          "snippet": "",
-          "url": "https://www.ynet.co.il/news/article/g76l8qq5n",
-          "source": "ynet"
         },
         {
-          "title": "גשם, רוחות וטמפ' שלא היו פה הרבה זמן: תחזית מזג אוויר",
+          "title": "\"חזרה של 20 חיים ועוד 28 חללים בפרק זמן קצר - זה מבצע לוגיסטי מורכב\"",
           "snippet": "",
-          "url": "https://www.srugim.co.il/1251547-%D7%92%D7%A9%D7%9D-%D7%A8%D7%95%D7%97%D7%95%D7%AA-%D7%95%D7%98%D7%9E%D7%A4-%D7%A9%D7%9C%D7%90-%D7%94%D7%99%D7%95-%D7%A4%D7%94-%D7%94%D7%A8%D7%91%D7%94-%D7%96%D7%9E%D7%9F-%D7%AA%D7%97%D7%96%D7%99",
-          "source": "סרוגים"
-        },
-        {
-          "title": "התחזית: התקררות וגשם מקומי | בסוף השבוע: עליה בטמפרטורות",
-          "snippet": "",
-          "url": "https://www.kikar.co.il/israel-news/svvh8s-40",
-          "source": "כיכר השבת"
+          "url": "https://www.mako.co.il/health-news/local/Article-80c31e470b7c991027.htm",
+          "source": "mako"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,6 +198,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "מזג אוויר תל אביב",
+      "trafficCount": "20000+",
+      "pubDate": "Wed, 8 Oct 2025 20:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNbz7t_ZN6-qf6wNkFJhZDHS2lSnbMga73zA2cYerP-FIohcUMbOXfLbQ8vmU",
+      "pictureSource": "ynet",
+      "relatedSearch": [
+        {
+          "title": "גשמים מקומיים בצפון ובמרכז, \"כמות גשם חריגה\" והפסקות חשמל בנתניה | התחזית והמכ\"ם",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/news/article/g76l8qq5n",
+          "source": "ynet"
+        },
+        {
+          "title": "הנחלים זורמים לים, גשמים ירדו בצפון ובמרכז; מה צפוי מחר?",
+          "snippet": "",
+          "url": "https://www.jdn.co.il/news/2494265/",
+          "source": "JDN"
+        },
+        {
+          "title": "מזל שיש סוכה - צפי לגשמים מקומיים בצפון הארץ ובמרכזה | תחזית מזג האוויר",
+          "snippet": "",
+          "url": "https://www.maariv.co.il/news/weather/article-1239659",
+          "source": "מעריב"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "שער הדולר",
       "trafficCount": "5000+",
       "pubDate": "Wed, 8 Oct 2025 20:00:00 -0700",
@@ -245,26 +245,38 @@
           "source": "גלובס"
         },
         {
-          "title": "אחרי ההסכם בין ישראל לחמאס — הדולר יורד ב-0.6% מול השקל",
+          "title": "הבשורות הטובות דוחפות את השקל, הדולר נסוג ל-3.25 שקלים",
           "snippet": "",
-          "url": "https://www.themarker.com/markets/2025-10-09/ty-article/00000199-c545-d7d2-add9-f5fdf7910000",
-          "source": "TheMarker"
+          "url": "https://www.calcalist.co.il/market/article/s6lma5kul",
+          "source": "calcalist"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "מעריב",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 8 Oct 2025 20:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHDQuDfdUfKzmXK0riU9SppkXRNTkxn4T72kSwQjY3Tne6K7hPQMaf_OOhOOc",
-      "pictureSource": "חרדים10",
+      "title": "חדשות 13",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 8 Oct 2025 19:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxovN7guGyWYlBYDIh1_c6VvHx1xvK_mGeNSTUpGO9ha4WVcVK8Kdl206aMHA",
+      "pictureSource": "ynet",
       "relatedSearch": [
         {
-          "title": "בכיר בחמאס: שחרור החטוף האחרון - רק עם תום נסיגת צה\"ל • טראמפ: במו\"מ רציני - רוצים שחרור מיידי של כל החטופים",
+          "title": "\"בוקר של תקווה. ושבו בנים לגבולם\": תגובות הפוליטיקאים - והתודות לטראמפ",
           "snippet": "",
-          "url": "https://ch10.co.il/en/news/1017716/",
-          "source": "חרדים10"
+          "url": "https://www.ynet.co.il/news/article/rjmllp4axg",
+          "source": "ynet"
+        },
+        {
+          "title": "\"יש תקווה לאור גדול\": בעולם התרבות מגיבים על עסקת החטופים",
+          "snippet": "",
+          "url": "https://www.kan.org.il/content/kan-news/culture/958267/",
+          "source": "כאן 11"
+        },
+        {
+          "title": "בעולם מגיבים להסכם: \"טראמפ עושה שלום, הפרס שלו - מלמעלה\"",
+          "snippet": "",
+          "url": "https://www.i24news.tv/he/news/international/artc-68243eda",
+          "source": "i24NEWS"
         }
       ],
       "link": "https://imtaqin.id/"

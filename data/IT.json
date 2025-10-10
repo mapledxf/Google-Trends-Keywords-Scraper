@@ -1,8 +1,92 @@
 {
-  "lastUpdate": "2025-10-10 15:55:49",
+  "lastUpdate": "2025-10-10 16:17:22",
   "data": [
     {
-      "title": "sole 24 ore",
+      "title": "il sole 24 ore",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 10 Oct 2025 08:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHBr6P2WLVtP13jTUjPHF6hj_oFTg_fP-Xy8sTNEJ6CwKUz2DdctCz_QKJLkk",
+      "pictureSource": "Corriere della Sera",
+      "relatedSearch": [
+        {
+          "title": "L'ira di Trump sulla Cina: «È ostile, valuto un massiccio aumento dei dazi». Cancellato l'incontro con Xi. Wall Street in calo",
+          "snippet": "",
+          "url": "https://www.corriere.it/economia/finanza/25_ottobre_10/trump-ira-cina-dazi-13897fea-09f7-4988-9520-b7657e0bfxlk.shtml",
+          "source": "Corriere della Sera"
+        },
+        {
+          "title": "Usa, Trump: \"Cina ostile, valuto un massiccio aumento dei dazi. E non c'è più motivo per incontrare Xi Jinping\"",
+          "snippet": "",
+          "url": "https://www.tgcom24.mediaset.it/mondo/donald-trump-live-venerdi-10-ottobre_104484475-202502k.shtml",
+          "source": "Tgcom24"
+        },
+        {
+          "title": "L’asso nella manica di Pechino",
+          "snippet": "",
+          "url": "https://www.ispionline.it/it/pubblicazione/lasso-nella-manica-di-pechino-219508",
+          "source": "ISPI"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "sp500",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 10 Oct 2025 08:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0KRQ_BXj2decA6N8_d5MrAZVzhrqBThnjW0sg1Zu_lGn0xc0QqC-I2aDm420",
+      "pictureSource": "FashionNetwork.com",
+      "relatedSearch": [
+        {
+          "title": "金価格の記録的高騰が、投資家のルールブックを書き換える",
+          "snippet": "",
+          "url": "https://jp.fashionnetwork.com/news/%E9%87%91%E4%BE%A1%E6%A0%BC%E3%81%AE%E8%A8%98%E9%8C%B2%E7%9A%84%E9%AB%98%E9%A8%B0%E3%81%8C-%E6%8A%95%E8%B3%87%E5%AE%B6%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%AB%E3%83%96%E3%83%83%E3%82%AF%E3%82%92%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E3%82%8B,1772503.html",
+          "source": "FashionNetwork.com"
+        },
+        {
+          "title": "金は４０００ドル付近に再び買われて始まる＝ＮＹ金オープン(みんかぶ（FX）)",
+          "snippet": "",
+          "url": "https://finance.yahoo.co.jp/news/detail/5f9db252a6fa9b08ff70a9186f02c573baaed74e",
+          "source": "Yahoo!ファイナンス"
+        },
+        {
+          "title": "金相場は横ばい、8週連続の上昇へ",
+          "snippet": "",
+          "url": "https://jp.reuters.com/markets/japan/GIMLKRKREFNUNNXKIKRLK5ZQP4-2025-10-10/",
+          "source": "Reuters"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "dow jones",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 10 Oct 2025 08:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMigmnT9vhM0Cue6GHLwNNgZJhed2S7Mc2MYAYPwS07F3LNcxLF72ue3Tc4go",
+      "pictureSource": "CNBC",
+      "relatedSearch": [
+        {
+          "title": "Dow drops 500 points in sudden move after Trump's China tariff threat: Live updates",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/10/09/stock-market-today-live-updates.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Trump threatens ‘massive’ China tariffs as Beijing restricts rare-earth exports",
+          "snippet": "",
+          "url": "https://www.theguardian.com/us-news/2025/oct/10/trump-china-tariffs",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Stock Market Today: Trump Threatens 'Massive' China Tariffs; Dow Falls — Live Updates",
+          "snippet": "",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-10-2025",
+          "source": "The Wall Street Journal"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "milano finanza",
       "trafficCount": "500+",
       "pubDate": "Fri, 10 Oct 2025 08:40:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX7IqPMAHJjvzfZZ9LqTZfQQRLzyvemkUciwHMaX-2TYBso8T8M5gO_W4qqMU",
@@ -15,16 +99,16 @@
           "source": "Borsa Italiana"
         },
         {
-          "title": "Borsa: Milano chiude pesante (-1,74%), giù Stellantis",
+          "title": "Borse oggi in diretta | Ftse Mib in calo con Leonardo e i titoli petroliferi. Bene Italgas",
           "snippet": "",
-          "url": "https://www.ansa.it/sito/notizie/topnews/2025/10/10/borsa-milano-chiude-pesante-174-giu-stellantis_a91927ca-f381-48a5-a02f-c97b5a6aedea.html",
-          "source": "ANSA"
+          "url": "https://www.milanofinanza.it/news/borse-oggi-diretta-10-ottobre-2025-chiusura-apertura-europee-borsa-milano-ftse-mib-piazza-affari-202510100745481132",
+          "source": "Milano Finanza"
         },
         {
-          "title": "Borsa, Asia negativa in scia alla frenata di Wall Street",
+          "title": "A Piazza Affari tonfo Ferrari: -15% dopo il Capital Market Day",
           "snippet": "",
-          "url": "https://www.ilsole24ore.com/art/borsa-asia-negativa-scia-frenata-wall-street-AHJ9l55C",
-          "source": "Il Sole 24 ORE"
+          "url": "https://www.rainews.it/articoli/2025/10/a-piazza-affari-tonfo-ferrari-15-dopo-il-capital-market-day-1c48e8f1-c290-4260-ae99-394589759866.html",
+          "source": "RaiNews"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -43,44 +127,16 @@
           "source": "www.getmidas.com"
         },
         {
+          "title": "Borsa İstanbul'da en çok işlem yapan Aracı Kurumlar",
+          "snippet": "",
+          "url": "https://www.borsagundem.com.tr/borsa-istanbulda-en-cok-islem-yapan-araci-kurumlar-263",
+          "source": "Borsa Gundem"
+        },
+        {
           "title": "PİYASAYA BAKIŞ- Borsa haftanın son işlem gününü -6,62 puan düşüşle 10720,36 puandan kapattı",
           "snippet": "",
           "url": "https://tr.investing.com/news/stock-market-news/piyasaya-bakis-borsa-haftann-son-islem-gununu-662-puan-dususle-1072036-puandan-kapatt-3576098",
           "source": "Investing.com Türkiye"
-        },
-        {
-          "title": "'Patlamaya hazır bomba gibi!' Ekonomist isimden dikkat çeken yorum…",
-          "snippet": "",
-          "url": "https://www.hakimiyet.com/patlamaya-hazir-bomba-gibi-ekonomist-isimden-dikkat-ceken-yorum/110636/",
-          "source": "Konya Hakimiyet Gazetesi"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "milano finanza",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 10 Oct 2025 08:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqOGxK54P0hH0MH9X42cRa-zufsAod7YL3YA9ENB5BKeoo7mVxrk_0tz0T67w",
-      "pictureSource": "Milano Finanza",
-      "relatedSearch": [
-        {
-          "title": "Cina e Stati Uniti, al via la guerra dei porti. Dal 14 ottobre Pechino impone tariffe di attracco alle navi americane",
-          "snippet": "",
-          "url": "https://www.milanofinanza.it/news/cina-e-stati-uniti-al-via-la-guerra-dei-porti-dal-14-ottobre-pechino-impone-tariffe-di-attracco-alle-202510101619049073",
-          "source": "Milano Finanza"
-        },
-        {
-          "title": "Pechino annuncia nuove tariffe sulle navi Usa che attraccano nei porti cinesi",
-          "snippet": "",
-          "url": "https://www.borsaitaliana.it/borsa/notizie/teleborsa/economia/pechino-annuncia-nuove-tariffe-sulle-navi-usa-che-attraccano-nei-porti-cinesi-113_2025-10-10_TLB.html",
-          "source": "Borsa Italiana"
-        },
-        {
-          "title": "Nuove tariffe USA sullo shipping cinese: a rischio il 35% della flotta mondiale",
-          "snippet": "",
-          "url": "https://www.messaggeromarittimo.it/nuove-tariffe-usa-sullo-shipping-cinese-a-rischio-il-35-della-flotta-mondiale/",
-          "source": "Messaggero Marittimo"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -105,10 +161,10 @@
           "source": "RaiNews"
         },
         {
-          "title": "Borsa: Milano incerta con l'Europa in attesa di Wall street",
+          "title": "Francia in crisi, Macron ha 48 ore per scegliere il nuovo premier. Investitori esteri pronti a uscire dagli Oat: i rischi per l’Europa",
           "snippet": "",
-          "url": "https://www.ansa.it/sito/notizie/economia/2025/10/10/borsa-milano-incerta-con-leuropa-in-attesa-di-wall-street_99060e5b-2ef1-476b-aa1f-689888d3323e.html",
-          "source": "ANSA"
+          "url": "https://www.milanofinanza.it/news/francia-in-crisi-macron-ha-48-ore-per-scegliere-il-nuovo-premier-investitori-esteri-pronti-a-uscire-dagli-202510091306019616",
+          "source": "Milano Finanza"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -143,50 +199,50 @@
     },
     {
       "title": "atlético madrid - inter",
-      "trafficCount": "20000+",
+      "trafficCount": "50000+",
       "pubDate": "Fri, 10 Oct 2025 08:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSn9JmCiIuXFJQImEbopnGNEXhOXU3lWTlpAX-j4YaSPGonNVcw7xy4A4osnXU",
-      "pictureSource": "Sportmediaset",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSoQ6V8Dlv_9X4ZfJBx1k3mBHlknfeoLu1O3ZsuHxTSvRRl_GW9_I8pvY_6-Ho",
+      "pictureSource": "Inter.it",
       "relatedSearch": [
+        {
+          "title": "Atletico Madrid - Inter alle 18:20 LIVE",
+          "snippet": "",
+          "url": "https://www.inter.it/it/notizie/atletico-madrid-inter-amichevole-10-ottobre-2025",
+          "source": "Inter.it"
+        },
+        {
+          "title": "LIVE Alle 18.20 amichevole Inter-Atletico Madrid: Chivu affida l'attacco a Spinaccé e Bonny",
+          "snippet": "",
+          "url": "https://www.gazzetta.it/Calcio/Serie-A/Inter/10-10-2025/inter-atletico-madrid-live-amichevole-in-diretta.shtml",
+          "source": "La Gazzetta dello Sport"
+        },
         {
           "title": "Inter, contro l'Atletico è antipasto Champions: occasione per Diouf e Luis Henrique. Forfait di Sommer",
           "snippet": "",
           "url": "https://www.sportmediaset.mediaset.it/calcio/inter/inter-contro-l-atletico-e-antipasto-champions-occasione-per-diouf-e-luis-henrique-forfait-di-sommer_104440436-202502k.shtml",
           "source": "Sportmediaset"
-        },
-        {
-          "title": "Atletico Madrid-Inter: alle ore 18 in diretta su Inter TV e YouTube",
-          "snippet": "",
-          "url": "https://www.inter.it/it/notizie/atletico-madrid-inter-amichevole-diretta-inter-tv-youtube",
-          "source": "Inter.it"
-        },
-        {
-          "title": "Blitz Inter in Libia: oggi l'amichevole con l'Atletico Madrid e il ritorno a Milano",
-          "snippet": "",
-          "url": "https://www.gazzetta.it/Calcio/Serie-A/Inter/10-10-2025/inter-oggi-l-amichevole-con-l-atletico-madrid-in-libia-e-il-ritorno-a-milano.shtml",
-          "source": "La Gazzetta dello Sport"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "lesotho vs nigeria",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 10 Oct 2025 08:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2bLf-VXtqLuUOT19KTq61OPopHf7jx0Dr7-KsHjdw3-6qBj6olM2ZV2a-ql0",
-      "pictureSource": "London Evening Standard",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6oLxl2h18OzNj8ow6qM581oM3LUSzuKQYYrwio5jvBFN-j2igufqcxaaw_gA",
+      "pictureSource": "OneFootball",
       "relatedSearch": [
-        {
-          "title": "What Nigeria and South Africa need to qualify for the World Cup",
-          "snippet": "",
-          "url": "https://www.standard.co.uk/sport/football/what-nigeria-south-africa-need-qualify-world-cup-b1252096.html",
-          "source": "London Evening Standard"
-        },
         {
           "title": "How Eritrea pulling out could boost Zaidu’s World Cup 2026 hopes",
           "snippet": "",
           "url": "https://onefootball.com/en/news/how-eritrea-pulling-out-could-boost-zaidus-world-cup-2026-hopes-41786953",
           "source": "OneFootball"
+        },
+        {
+          "title": "World Cup (Q): Adams ready to give all for Nigeria’s final push",
+          "snippet": "",
+          "url": "https://www.panafricafootball.com/post/world-cup-adams-ready-nigeria/",
+          "source": "Pan Africa Football"
         },
         {
           "title": "Troost-Ekong Inspires Team Ahead of Lesotho Clash: “We’ll Fight for Every Point”",
@@ -201,82 +257,26 @@
       "title": "nasdaq",
       "trafficCount": "200+",
       "pubDate": "Fri, 10 Oct 2025 08:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMigmnT9vhM0Cue6GHLwNNgZJhed2S7Mc2MYAYPwS07F3LNcxLF72ue3Tc4go",
-      "pictureSource": "CNBC",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvRfdQXa0gapEM1ZbuLQ_UFNmlKubhphxIGgb1j72anC3pTP43q5LD7cww2Io",
+      "pictureSource": "Yahoo Finance",
       "relatedSearch": [
         {
-          "title": "Dow drops 500 points as sell-off intensifies after Trump's critical comments about China",
+          "title": "Stock market today: Dow, S&P 500, Nasdaq inch higher as shutdown drags on",
           "snippet": "",
-          "url": "https://www.cnbc.com/2025/10/09/stock-market-today-live-updates.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Trump threatens ‘massive’ tariffs on China amid critical minerals dispute",
-          "snippet": "",
-          "url": "https://www.ft.com/content/328e3195-909a-45fb-b118-9dafbd41262b",
-          "source": "Financial Times"
-        },
-        {
-          "title": "Trump's trade agenda has a new flashpoint: The humble soybean",
-          "snippet": "",
-          "url": "https://www.nbcnews.com/business/economy/trump-trade-argentina-china-soybeans-rcna235257",
-          "source": "NBC News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "investing",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 10 Oct 2025 08:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTDwqc7WgiWbHsfOj50cq5JjL545UX93mZG5KcPfZCef1Gj81Kv_nLwttOFnxU",
-      "pictureSource": "CNBC",
-      "relatedSearch": [
-        {
-          "title": "This is the 'biggest mistake' young investors make, Josh Brown says",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2025/10/10/this-is-the-biggest-mistake-young-investors-make-josh-brown-says.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Meet the Low-Cost Vanguard ETF That Has 20% of Its Holdings in Nvidia, Broadcom, and AMD",
-          "snippet": "",
-          "url": "https://finance.yahoo.com/news/meet-low-cost-vanguard-etf-113200616.html",
+          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-inch-higher-as-shutdown-drags-on-232721490.html",
           "source": "Yahoo Finance"
         },
         {
-          "title": "Meet the Brilliant Vanguard ETF With 59.3% of Its Portfolio Invested in the \"Magnificent Seven\" Stocks",
+          "title": "Stock Market Today: Nasdaq brushes intraday record high as stocks head for another winning week; gold retakes $4,000",
           "snippet": "",
-          "url": "https://www.fool.com/investing/2025/10/09/meet-vanguard-etf-59-in-magnificent-seven-stocks/",
-          "source": "The Motley Fool"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "italia u-21 - svezia u-21",
-      "trafficCount": "5000+",
-      "pubDate": "Fri, 10 Oct 2025 08:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNyqXyY3iyTJz5FIK1PP6ObNePkqE5PiJygcmFSFefrG5AfN9rVVUSt0Wt1dk",
-      "pictureSource": "Sky Sport",
-      "relatedSearch": [
-        {
-          "title": "Italia Svezia, il risultato in diretta live della gara di qualificazioni agli Europei Under 21",
-          "snippet": "",
-          "url": "https://sport.sky.it/calcio/europei/2025/10/10/italia-svezia-under-21-risultato-gol",
-          "source": "Sky Sport"
+          "url": "https://www.marketwatch.com/livecoverage/stock-markets-today-dow-s-p-500-and-nasdaq-poised-for-cautious-session-after-selloff",
+          "source": "MarketWatch"
         },
         {
-          "title": "LIVE Alle 18.15 Italia U21-Svezia U21: Baldini con il tridente Cherubini-Camarda-Koleosho",
+          "title": "Stocks tick higher, S&P 500 and Nasdaq head for weekly gains: Live updates",
           "snippet": "",
-          "url": "https://www.gazzetta.it/calcio/nazionali/eurou21/10-10-2025/italia-u21-svezia-u21-live-diretta-qualificazioni-europei.shtml",
-          "source": "La Gazzetta dello Sport"
-        },
-        {
-          "title": "Under 21, Baldini: \"I miei giovani sono già adulti\"",
-          "snippet": "",
-          "url": "https://www.sportmediaset.mediaset.it/calcio/under-21-baldini-i-miei-giovani-sono-gia-adulti_104454431-202502k.shtml",
-          "source": "Sportmediaset"
+          "url": "https://www.cnbc.com/2025/10/09/stock-market-today-live-updates.html",
+          "source": "CNBC"
         }
       ],
       "link": "https://imtaqin.id/"

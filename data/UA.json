@@ -1,24 +1,145 @@
 {
-  "lastUpdate": "2025-10-10 03:38:39",
+  "lastUpdate": "2025-10-10 03:52:03",
   "data": [
     {
-      "title": "новини дніпра",
+      "title": "бородянка",
       "trafficCount": "500+",
-      "pubDate": "Thu, 9 Oct 2025 19:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRixOFfac6QOfbdspX9c_g4ENdxbBYEYvGAY_mpoyo5_INp886zBs49Pk1_jN0",
+      "pubDate": "Thu, 9 Oct 2025 20:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOrXiEPk3p4g4gsA5ggZvA0mU2APlCK3YFw4WX3WOfHDev-H_pX86NqUmZlPk",
       "pictureSource": "Суспільне | Новини",
       "relatedSearch": [
+        {
+          "title": "На Київщині в ДТП загинув пішохід: поліція розслідує обставини",
+          "snippet": "",
+          "url": "https://suspilne.media/kyiv/1134658-na-kiivsini-v-dtp-zaginuv-pisohid-policia-rozslidue-obstavini/",
+          "source": "Суспільне | Новини"
+        },
+        {
+          "title": "У Бородянці сталася смертельна ДТП: 19-річний водій наїхав на пішохіда (фото)",
+          "snippet": "",
+          "url": "https://glavcom.ua/kyiv/news/u-borodjantsi-stalas-smertelna-dtp-19-richnij-vodij-najikhav-na-pishokhida-foto-1082494.html",
+          "source": "Главком"
+        },
+        {
+          "title": "У Бородянці сталася смертельна ДТП",
+          "snippet": "",
+          "url": "https://itvua.tv/news/u-borodiantsi-stalasia-smertelna-dtp/",
+          "source": "ITV — Інформаційне агентство"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "коростень",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 9 Oct 2025 20:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSL1Prco-w-YHR1BOZEp9WsKhtKrVd6LtOm3eUNfuUQnak-LF_-SpswM_PXofo",
+      "pictureSource": "Коростень today",
+      "relatedSearch": [
+        {
+          "title": "В управлінні ЖКГ назвали офіційну дату початку опалювального сезону в Коростені — Новини Коростеня і району",
+          "snippet": "",
+          "url": "https://korosten.today/korosten/anonsy/v-upravlinni-zhkg-nazvali-ofitsijnu-datu-pochatku-opalyuvalnogo-sezonu-v-korosteni.html",
+          "source": "Коростень today"
+        },
+        {
+          "title": "Опалювальний сезон на старті: у місті заповнюють тепломережі",
+          "snippet": "",
+          "url": "https://korostenmedia.news/%D0%BE%D0%BF%D0%B0%D0%BB%D1%8E%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9-%D1%81%D0%B5%D0%B7%D0%BE%D0%BD-%D0%BD%D0%B0-%D1%81%D1%82%D0%B0%D1%80%D1%82%D1%96-%D1%83-%D0%BC%D1%96%D1%81%D1%82%D1%96-%D0%B7/",
+          "source": "Коростеньмедіа"
+        },
+        {
+          "title": "У Коростені в міській лікарні встановлять другу сонячну електростанцію потужністю 150 кіловат",
+          "snippet": "",
+          "url": "https://suspilne.media/zhytomyr/1134174-u-korosteni-v-miskij-likarni-vstanovlat-drugu-sonacnu-elektrostanciu-potuznistu-150-kilovat/",
+          "source": "Суспільне | Новини"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "переяслав",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 9 Oct 2025 20:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGTyfPX5qInJlBFe4LVa765Kw1t5j9EF_yMsIAjFiwOCYvyL91RAX3wHZtk50",
+      "pictureSource": "Переяслав.City",
+      "relatedSearch": [
+        {
+          "title": "\"Добрі справи єднають\": як переяславець Ігор Янчук творить \"толоку\" в Одесі. Приклад спільнотворення",
+          "snippet": "",
+          "url": "https://pereiaslav.city/articles/438091/pereyaslavec-igor-yanchuk-tvorit-toloku-v-odesi-priklad-spilnotvorennya",
+          "source": "Переяслав.City"
+        },
+        {
+          "title": "У Переяславі зіткнулися автомобіль Honda та мотоцикл Geon",
+          "snippet": "",
+          "url": "https://ps.informator.ua/2025/10/09/u-pereyaslavi-zitknulysya-avtomobil-honda-ta-motoczykl-geon/",
+          "source": "Інформатор (Переяслав)"
+        },
+        {
+          "title": "На Переяславщині нетверезий водій в’їхав у стовп і залишив без світла місцевих мешканців – дайджест поліції",
+          "snippet": "",
+          "url": "https://proslav.info/na-pereiaslavshchyni-netverezyj-vodij-v-ikhav-u-stovp-i-zalyshyv-bez-svitla-mistsevykh-meshkantsiv-dajdzhest-politsii/",
+          "source": "Proslav"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "кинжал ракета",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 9 Oct 2025 20:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3a4otdhca2RYheX7tn8KbEdXzWOJbrC-gcbNlAIbcnSXby0j30opKp0LKv84",
+      "pictureSource": "Українська правда",
+      "relatedSearch": [
+        {
+          "title": "В Липецкой области РФ разбился самолет МиГ-31",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/rus/news/2025/10/09/8002074/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "В России разбился истребитель МиГ-31К",
+          "snippet": "",
+          "url": "https://www.rbc.ua/ukr/news/rosiyi-rozbivsya-vinishchuvach-mig-31k-shcho-1760043061.html",
+          "source": "РБК-Україна"
+        },
+        {
+          "title": "В Липецкой области РФ разбился МиГ-31 — росСМИ",
+          "snippet": "",
+          "url": "https://nv.ua/world/countries/mig-31-v-lipeckoy-oblasti-razbilsya-nositel-raket-kinzhal-50551493.html",
+          "source": "NV.ua"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "тривога львів",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 9 Oct 2025 20:30:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "новини дніпра",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 9 Oct 2025 19:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJN5OM7cF6p2pBD3GcAkPHHhV98_36KaAsF83oPJnmCsLtnbvSM16xeolDduM",
+      "pictureSource": "ТСН",
+      "relatedSearch": [
+        {
+          "title": "«Кинджали», балістика та авіабомби: ворог зранку завдав масованого ракетного удару по Україні",
+          "snippet": "",
+          "url": "https://tsn.ua/ukrayina/kyndzaly-balistyka-ta-aviabomby-voroh-zranku-zavdav-masovanoho-raketnoho-udaru-po-ukrayini-2931089.html",
+          "source": "ТСН"
+        },
         {
           "title": "Удар КАБом по Дніпру, суд по справі нардепа Тищенка, опалювальний сезон. Головні новини Дніпра та області 9 жовтня",
           "snippet": "",
           "url": "https://suspilne.media/dnipro/1134428-golovni-novini-dnipra-ta-oblasti-9-zovtna-2/",
           "source": "Суспільне | Новини"
-        },
-        {
-          "title": "Серія вибухів у Дніпрі 10 жовтня: місто атакують ворожі дрони",
-          "snippet": "",
-          "url": "https://www.ukr.net/news/details/dnipro/113908747.html",
-          "source": "UKR.NET"
         },
         {
           "title": "У Дніпрі пролунав вибух після попередження Повітряних сил про рух КАБа",
@@ -30,12 +151,46 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "цензор",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 9 Oct 2025 19:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK2X9GaFmxIxTDL7HXNUl7YB3swrwtnKfxxSIp2xOXH5_bdaNwBYLvtuhpv0w",
+      "pictureSource": "Укрінформ",
+      "relatedSearch": [
+        {
+          "title": "Росіяни завдають ударів по українській енергетичній інфраструктурі - Гринчук",
+          "snippet": "",
+          "url": "https://www.ukrinform.ua/rubric-economy/4045751-rosiani-zavdaut-udariv-po-ukrainskij-energeticnij-infrastrukturi-grincuk.html",
+          "source": "Укрінформ"
+        },
+        {
+          "title": "Росія завдає масованого удару по енергосистемі України",
+          "snippet": "",
+          "url": "https://tsn.ua/ukrayina/rosiia-zavdaye-masovanoho-udaru-po-enerhosystemi-ukrayiny-2931071.html",
+          "source": "ТСН"
+        },
+        {
+          "title": "Через російські удари по Полтавщині та Харківщині Україна втратила 60% видобутку газу — Bloomberg",
+          "snippet": "",
+          "url": "https://suspilne.media/poltava/1134786-cerez-rosijski-udari-po-poltavsini-ukraina-vtratila-60-vidobutku-gazu-bloomberg/",
+          "source": "Суспільне | Новини"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "метро киев",
       "trafficCount": "200+",
       "pubDate": "Thu, 9 Oct 2025 19:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-wtZ1zbmYQ_Bq-_8tDmE0K5-J7DMC729PK-2dF2Y-4XNOmtKsj7RpchQ9Itg",
-      "pictureSource": "РБК-Україна",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSglqnWA8xyC7PNWdyv4jg94sTT_4B7UT9HLntI0GxZ66q0ed5s0K2CxxgwKVk",
+      "pictureSource": "НВ",
       "relatedSearch": [
+        {
+          "title": "В Киеве из-за сложной ситуации с энергетикой изменено движение поездов метро — КГГА",
+          "snippet": "",
+          "url": "https://nv.ua/kyiv/udar-po-kievu-10-oktyabrya-est-izmeneniya-v-rabote-kievskogo-metropolitena-posle-ataki-novosti-kieva-50551503.html",
+          "source": "НВ"
+        },
         {
           "title": "Без движения на левый берег не только из-за тревоги: метро Киева заработает с ограничениями",
           "snippet": "",
@@ -47,12 +202,6 @@
           "snippet": "",
           "url": "https://www.pravda.com.ua/rus/news/2025/10/10/8002089/",
           "source": "Українська правда"
-        },
-        {
-          "title": "В Киеве из-за сложной ситуации с энергетикой изменено движение поездов метро — КГГА",
-          "snippet": "",
-          "url": "https://nv.ua/kyiv/udar-po-kievu-10-oktyabrya-est-izmeneniya-v-rabote-kievskogo-metropolitena-posle-ataki-novosti-kieva-50551503.html",
-          "source": "НВ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,14 +210,14 @@
       "title": "метро київ",
       "trafficCount": "200+",
       "pubDate": "Thu, 9 Oct 2025 19:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTy5Bbun_8kDz432E9kHtQvIdG02tcyy-RTHj7Q83G3PGCjoIiwZh1YO56YUZs",
-      "pictureSource": "Українська правда",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZYrivsLatLQn70cnJ03UU6XoaqgAGvzF-O48Dlmtlp5U7oZdfvMU8umDFQRA",
+      "pictureSource": "УНІАН",
       "relatedSearch": [
         {
-          "title": "КМДА попередила про зміни в роботі метро через складну енергетичну ситуацію",
+          "title": "У Києві після нічної атаки обмежено рух метро",
           "snippet": "",
-          "url": "https://www.pravda.com.ua/news/2025/10/10/8002088/",
-          "source": "Українська правда"
+          "url": "https://www.unian.ua/economics/transport/metro-kijiv-vlada-povidomila-pro-obmezhennya-ruhu-novini-kiyeva-13157949.html",
+          "source": "УНІАН"
         },
         {
           "title": "У Києві через складну ситуацію з енергетикою змінено рух поїздів метро — КМДА",
@@ -77,10 +226,10 @@
           "source": "NV.ua"
         },
         {
-          "title": "Київська кільцева електричка сьогодні курсуватиме за планом",
+          "title": "КМДА попередила про зміни в роботі метро через складну енергетичну ситуацію",
           "snippet": "",
-          "url": "https://www.ukrinform.ua/rubric-regions/4045764-kiivska-kilceva-elektricka-sogodni-kursuvatime-za-planom.html",
-          "source": "Укрінформ"
+          "url": "https://www.pravda.com.ua/news/2025/10/10/8002088/",
+          "source": "Українська правда"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -109,174 +258,6 @@
           "snippet": "",
           "url": "https://zpravda.ru/news/novosti/v-zelenodolske-zaderzali-voditelia-sbivsego-rebenka-na-pesexodnom-perexode",
           "source": "газета Зеленодольская правда"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "воронеж",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 9 Oct 2025 19:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsM3WXw3NpCzOD9md_DklGpYMZYHRMLrvur3_niuKtziJUbD3tD80hvL45nPU",
-      "pictureSource": "Mail.ru",
-      "relatedSearch": [
-        {
-          "title": "Воронежскую область ночью накроет густым туманом",
-          "snippet": "",
-          "url": "https://pogoda.mail.ru/news/68240469/",
-          "source": "Mail.ru"
-        },
-        {
-          "title": "После обильных дождей Черноземье окутал туман",
-          "snippet": "",
-          "url": "https://www.gismeteo.ru/news/weather/posle-obilnyh-dozhdej-chernozeme-okutal-tuman/",
-          "source": "GISMETEO.Новости"
-        },
-        {
-          "title": "Пелена тумана скоро накроет Воронеж",
-          "snippet": "",
-          "url": "https://bloknot-voronezh.ru/news/pelena-tumana-skoro-nakroet-voronezh--1907604",
-          "source": "Блокнот Воронеж"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "запоріжжя",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 9 Oct 2025 19:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2iyCQrQKUiPe_ftPbg_Q15oYuwk4-KcObFhEoxME3z-_WIiN25AcmKfMNbkQ",
-      "pictureSource": "Укрінформ",
-      "relatedSearch": [
-        {
-          "title": "По всій Україні масштабна повітряна тривога через зліт Міг-31",
-          "snippet": "",
-          "url": "https://www.ukrinform.ua/rubric-ato/4045761-po-vsij-ukraini-masstabna-povitrana-trivoga-cerez-zlit-mig31.html",
-          "source": "Укрінформ"
-        },
-        {
-          "title": "Атака російських БпЛА на Запоріжжя: загинула дитина, є потерпілі",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/news/2025/10/10/8002080/",
-          "source": "Українська правда"
-        },
-        {
-          "title": "РФ масовано атакувала Запоріжжя: у місті пожежі",
-          "snippet": "",
-          "url": "https://ua.korrespondent.net/city/zaporozhye/4822544-rf-masovano-atakuvala-zaporizhzhia-u-misti-pozhezhi",
-          "source": "Korrespondent.net"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "каменское",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 9 Oct 2025 19:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAxFZIdU1IeM-_HhO5G0L0SAC4CbhWDPtypEKr8bw9fD3KsN6Yz6l76O_PNqU",
-      "pictureSource": "MIC",
-      "relatedSearch": [
-        {
-          "title": "Каменское посетил Председатель Координационного офиса ООН по гуманитарным делам в Украине Андреа Де Доменико вместе с командой",
-          "snippet": "",
-          "url": "https://mis.dp.ua/ru/gorod/kamenskoe-posetil-predsedatel-koordinaczionnogo-ofisa-oon-po-gumanitarnym-delam-v-ukraine-andrea-de-domeniko-vmeste-s-komandoj",
-          "source": "MIC"
-        },
-        {
-          "title": "У центрі Кам’янського незабаром відкриється магазин Sinsay",
-          "snippet": "",
-          "url": "https://nashreporter.com/dovidnyk/u-czentri-kamyanskogo-nezabarom-vidkryyetsya-magazyn-sinsay-259482",
-          "source": "Наш Репортер"
-        },
-        {
-          "title": "Кам’янський район: рятувальники долучились до акції «Запобігти, врятувати, допомогти»",
-          "snippet": "",
-          "url": "https://dp.dsns.gov.ua/news/ostanni-novini/kamianskii-raion-riatuvalniki-dolucilis-do-akciyi-zapobigti-vriatuvati-dopomogti",
-          "source": "ДСНС України у Дніпропетровській області"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "кривий ріг",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 9 Oct 2025 19:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpHh_AOjrojtfYCLPqF5nP4lugtyrHenHmtSRhXf2zHTv5xzpAFt3_OsJC-ho",
-      "pictureSource": "com1.org.ua",
-      "relatedSearch": [
-        {
-          "title": "Кривой Рог: 5 миллионов мимо бюджета?",
-          "snippet": "",
-          "url": "https://com1.org.ua/kryvoj-roh-5-myllyonov-mymo-biudzheta/",
-          "source": "com1.org.ua"
-        },
-        {
-          "title": "Кривой Рог – 5 миллионов мимо бюджета: судят ТОВ \"Форпартнерс\" за безоплатное пользование землей",
-          "snippet": "",
-          "url": "https://dnepr.news/news/krivoy-rog-5-millionov-mimo-byudzheta-sudyat-tov-forpartners-za-bezoplatnoe-pol-zovanie-zemley",
-          "source": "Dnepr.news"
-        },
-        {
-          "title": "Опалювальний сезон у Кривому Розі: чи загрожує місту \"тепловий колапс\" та як готують тепломережі до зими",
-          "snippet": "",
-          "url": "https://suspilne.media/dnipro/1135138-opaluvalnij-sezon-u-krivomu-rozi-ci-zagrozue-mistu-teplovij-kolaps-ta-ak-gotuut-teplomerezi-do-zimi/",
-          "source": "Суспільне | Новини"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ясно",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 9 Oct 2025 19:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThD15e8z8vnWMddVvX2vzVKYdOKiJ1gjkL54GiF8-H4EdkeRzE6kGR-W_ijac",
-      "pictureSource": "Ведомости",
-      "relatedSearch": [
-        {
-          "title": "Импичмент Пашиняна поддержали 34 депутата",
-          "snippet": "",
-          "url": "https://www.vedomosti.ru/politics/news/2025/10/09/1145463-impichment-pashinyana",
-          "source": "Ведомости"
-        },
-        {
-          "title": "Мамиджанян: Для импичмента Пашиняна собрано 34 из 36 необходимых голосов",
-          "snippet": "",
-          "url": "https://life.ru/p/1797186",
-          "source": "Life.ru"
-        },
-        {
-          "title": "В России оценили вероятность импичмента Пашиняна",
-          "snippet": "",
-          "url": "https://rtvi.com/news/v-rossii-oczenili-veroyatnost-impichmenta-pashinyana/",
-          "source": "RTVI"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "кривой рог",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 9 Oct 2025 19:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6tUEYtO6Q1j7jxTovFgRjFbb0xQMQmODoeGWA6EU7iIRTdkOZfFEaGBdV42M",
-      "pictureSource": "Українська правда",
-      "relatedSearch": [
-        {
-          "title": "\"Пытали паяльником, кипятком и требовали полмиллиона долларов\": в Кривом Роге задержали банду",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2025/10/07/8001683/",
-          "source": "Українська правда"
-        },
-        {
-          "title": "Правоохранители задержали скандально известного \"авторитета\" Квасова (\"Фармазона\")",
-          "snippet": "",
-          "url": "https://www.dsnews.ua/society/pravoohraniteli-zaderzhali-skandalno-izvestnogo-avtoriteta-kvasova-farmazona-07102025-529869",
-          "source": "DSNews"
-        },
-        {
-          "title": "Криминальный \"сериал\" по-украински: похищение, пытки и подпольный цех",
-          "snippet": "",
-          "url": "https://korabelov.info/ru/2025/10/556637/kriminalnyj-serial-po-ukrainski-pohishhenie-pytki-i-podpolnyj-ceh/",
-          "source": "Корабелов.ИНФО"
         }
       ],
       "link": "https://imtaqin.id/"

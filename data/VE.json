@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2025-10-10 08:53:46",
+  "lastUpdate": "2025-10-10 09:10:38",
   "data": [
     {
       "title": "peru",
       "trafficCount": "100+",
       "pubDate": "Thu, 9 Oct 2025 22:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNW4xZzigYeTtSOz0ORoHTKRbV4cme-htTnXeh4IOX2eLt5G_p8psgvNCesK8",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbNptmkB-tOAbUq9pRBBjli7aK0WE6k2SsD71a5CY1lmUswI2zzGHo_jgeTBU",
+      "pictureSource": "Congreso",
       "relatedSearch": [
+        {
+          "title": "José Jerí Oré asume como presidente de la república tras la vacancia de Dina Boluarte",
+          "snippet": "",
+          "url": "https://comunicaciones.congreso.gob.pe/noticias/jose-jeri-ore-asume-como-presidente-de-la-republica-tras-la-vacancia-de-dina-boluarte/",
+          "source": "Congreso"
+        },
         {
           "title": "El Congreso de Perú destituye a Dina Boluarte como presidenta en medio de la crisis de violencia que azota el país",
           "snippet": "",
@@ -19,12 +25,6 @@
           "snippet": "",
           "url": "https://elpais.com/america/2025-10-10/el-congreso-de-peru-reune-los-votos-para-para-destituir-a-dina-boluarte.html",
           "source": "EL PAÍS"
-        },
-        {
-          "title": "José Jerí asume como presidente interino de Perú",
-          "snippet": "",
-          "url": "https://www.dw.com/es/jos%C3%A9-jer%C3%AD-asume-como-presidente-interino-de-per%C3%BA-tras-destituci%C3%B3n-de-boluarte/a-74301283",
-          "source": "DW"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -43,16 +43,16 @@
           "source": "BBC"
         },
         {
-          "title": "Peru Ousts President Amid Crime Surge",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2025/10/10/world/americas/peru-president-boluarte-impeached.html",
-          "source": "The New York Times"
-        },
-        {
           "title": "Peru Congress ousts president, successor vows 'war on crime'",
           "snippet": "",
           "url": "https://www.reuters.com/world/americas/peru-lawmakers-make-fresh-push-remove-unpopular-president-office-2025-10-09/",
           "source": "Reuters"
+        },
+        {
+          "title": "Peru's Congress votes to initiate impeachment trial of President Boluarte",
+          "snippet": "",
+          "url": "https://www.npr.org/2025/10/10/nx-s1-5570600/perus-impeachment-trial-boluarte",
+          "source": "NPR"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,34 +86,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "once caldas - atlético nacional",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 9 Oct 2025 17:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSe77RFYvuhEwrqX7nUPvQ6a3qfxvjMVCfVfx4No_iKrXMtQL3w4VegY-VGszo",
-      "pictureSource": "ESPN Venezuela",
-      "relatedSearch": [
-        {
-          "title": "Once Caldas inicia en casa la serie ante Nacional por los cuartos de final de la Copa BetPlay",
-          "snippet": "",
-          "url": "https://www.espn.com.ve/futbol/colombia/nota/_/id/15790406/once-caldas-vs-nacional-copa-betplay-equipo-fecha-hora-tv-en-vivo",
-          "source": "ESPN Venezuela"
-        },
-        {
-          "title": "🔥Triunfo en Palogrande: Atlético Nacional da el GOLPE en la ida",
-          "snippet": "",
-          "url": "https://onefootball.com/pt-br/noticias/triunfo-en-palogrande-atletico-nacional-da-el-golpe-en-la-ida-41785723",
-          "source": "OneFootball"
-        },
-        {
-          "title": "Nacional sufrió ante Once Caldas, pero ganó con gol de penalti de Edwin Cardona en los cuartos de Copa | El Colombiano",
-          "snippet": "",
-          "url": "https://www.elcolombiano.com/deportes/futbol/en-vivo-atletico-nacional-vs-once-caldas-cuartos-de-final-copa-betplay-2025-PE29879723",
-          "source": "El Colombiano"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "dodgers vs. phillies",
       "trafficCount": "1000+",
       "pubDate": "Thu, 9 Oct 2025 17:40:00 -0700",
@@ -142,6 +114,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "once caldas - atlético nacional",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 9 Oct 2025 17:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSe77RFYvuhEwrqX7nUPvQ6a3qfxvjMVCfVfx4No_iKrXMtQL3w4VegY-VGszo",
+      "pictureSource": "ESPN Venezuela",
+      "relatedSearch": [
+        {
+          "title": "Once Caldas inicia en casa la serie ante Nacional por los cuartos de final de la Copa BetPlay",
+          "snippet": "",
+          "url": "https://www.espn.com.ve/futbol/colombia/nota/_/id/15790406/once-caldas-vs-nacional-copa-betplay-equipo-fecha-hora-tv-en-vivo",
+          "source": "ESPN Venezuela"
+        },
+        {
+          "title": "🔥Triunfo en Palogrande: Atlético Nacional da el GOLPE en la ida",
+          "snippet": "",
+          "url": "https://onefootball.com/pt-br/noticias/triunfo-en-palogrande-atletico-nacional-da-el-golpe-en-la-ida-41785723",
+          "source": "OneFootball"
+        },
+        {
+          "title": "Nacional sufrió ante Once Caldas, pero ganó con gol de penalti de Edwin Cardona en los cuartos de Copa | El Colombiano",
+          "snippet": "",
+          "url": "https://www.elcolombiano.com/deportes/futbol/en-vivo-atletico-nacional-vs-once-caldas-cuartos-de-final-copa-betplay-2025-PE29879723",
+          "source": "El Colombiano"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "cristopher sánchez",
       "trafficCount": "1000+",
       "pubDate": "Thu, 9 Oct 2025 16:10:00 -0700",
@@ -161,10 +161,10 @@
           "source": "CBS Sports"
         },
         {
-          "title": "Cristopher Sanchez joins Curt Schilling in Phillies’ postseason history",
+          "title": "With 3 more K's of Ohtani, Sánchez proving to have slugger's number",
           "snippet": "",
-          "url": "https://sports.yahoo.com/article/cristopher-sanchez-joins-curt-schilling-002903079.html",
-          "source": "Yahoo Sports"
+          "url": "https://www.mlb.com/news/cristopher-sanchez-strikes-out-shohei-ohtani-3-times-nlds-game-1",
+          "source": "MLB.com"
         }
       ],
       "link": "https://imtaqin.id/"

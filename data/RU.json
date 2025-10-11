@@ -1,9 +1,59 @@
 {
-  "lastUpdate": "2025-10-11 09:11:20",
+  "lastUpdate": "2025-10-11 09:26:47",
   "data": [
     {
+      "title": "константин ганич",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 11 Oct 2025 02:10:00 -0700",
+      "picture": "",
+      "pictureSource": "NEWS.ru",
+      "relatedSearch": [
+        {
+          "title": "Одного из крупнейших криптобизнесменов Украины нашли мертвым",
+          "snippet": "",
+          "url": "https://news.ru/europe/odnogo-iz-krupnejshih-kriptobiznesmenov-ukrainy-nashli-mertvym",
+          "source": "NEWS.ru"
+        },
+        {
+          "title": "В Киеве застрелился известный криптопредприниматель Костантин Кудо",
+          "snippet": "",
+          "url": "https://radio1.ru/news/proisshestviya/v-kieve-zastrelilsya-izvestnii-kriptopredprinimatel-kostantin-kudo/",
+          "source": "Radio1.ru"
+        },
+        {
+          "title": "Стало известно, кому написал блогер Ганич перед смертью: после этого он застрелился. Фото",
+          "snippet": "",
+          "url": "https://incident.obozrevatel.com/kiyany/crime/stalo-izvestno-napisal-bloger-ganich-pered-smertyu-posle-etogo-on-zastrelilsya-foto.htm",
+          "source": "Obozrevatel"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "постановление правительства российской федерации",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 11 Oct 2025 02:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAqJFpRhJZAmCMcQIEosxOau0r0wFqtOwMKO2tfTy3_Pad7lLLmwSb0VroLf4",
+      "pictureSource": "ГАРАНТ",
+      "relatedSearch": [
+        {
+          "title": "Правительство РФ выпустило постановление об оптимизации бюджетных процедур",
+          "snippet": "",
+          "url": "https://www.garant.ru/news/1884603/",
+          "source": "ГАРАНТ"
+        },
+        {
+          "title": "Постановление правительства № 302 изменит жизнь 269 жителей Марий Эл",
+          "snippet": "",
+          "url": "https://www.marimedia.ru/news/society/item/202674/",
+          "source": "МариМедиа"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "новак джокович",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 11 Oct 2025 01:50:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBmjMZWdovYnw_BM8Vgv14_w7cDBPQN1-GzA37oKYGbDap2Eu5BHa2Y8FUOUE",
       "pictureSource": "Metaratings",
@@ -59,7 +109,7 @@
     },
     {
       "title": "ливан",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 11 Oct 2025 01:10:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgj6pLTQHbM1S1TVurKfQFq68ZUaJTWz_yFV8HmyjQVjbJ1bqnS8-74nPcnSQ",
       "pictureSource": "Интерфакс",
@@ -86,6 +136,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "прогноз погоды спб",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 11 Oct 2025 01:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFIcUXkRwMdItudUeBqjZpECGCcp8erjht2qEXXDtF08lgSLyfOfJwPaJ6hvY",
+      "pictureSource": "Собака.ru",
+      "relatedSearch": [
+        {
+          "title": "Ветрено: прогноз петербургских синоптиков на выходные",
+          "snippet": "",
+          "url": "https://m.sobaka.ru/city/city/205903",
+          "source": "Собака.ru"
+        },
+        {
+          "title": "Типично осенняя погода ждет петербуржцев в субботу",
+          "snippet": "",
+          "url": "https://www.fontanka.ru/2025/10/11/76070532/",
+          "source": "ФОНТАНКА.ру"
+        },
+        {
+          "title": "В Петербурге ожидается смена погоды: придут дожди и ветер",
+          "snippet": "",
+          "url": "https://vecherka-spb.ru/2025/10/09/v-peterburge-ozhidaetsya-smena-pogodi-pridut-dozhdi-i-veter",
+          "source": "Вечерний Санкт-Петербург"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "литвин",
       "trafficCount": "200+",
       "pubDate": "Sat, 11 Oct 2025 00:50:00 -0700",
@@ -99,16 +177,16 @@
           "source": "URA.RU"
         },
         {
+          "title": "СМИ: Блогеру Михаилу Литвину грозит уголовное дело из-за уклонения от армии",
+          "snippet": "",
+          "url": "https://nsn.fm/society/smi-blogeru-mihailu-litvinu-grozit-ugolovnoe-delo-iz-za-ukloneniya-ot-armii",
+          "source": "Национальная Служба Новостей"
+        },
+        {
           "title": "Стал известен ещё один кандидат на службу в армии вслед за актёром Калюжным и рэпером Macan",
           "snippet": "",
           "url": "https://gorod-kimry.ru/press/one/?id=3582342",
           "source": "gorod-kimry.ru"
-        },
-        {
-          "title": "Блогеру-миллионнику из России грозит срок за уклонение от службы",
-          "snippet": "",
-          "url": "https://news.ru/society/blogeru-millionniku-iz-rossii-grozit-ugolovka-za-uklonenie-ot-sluzhby",
-          "source": "NEWS.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,20 +195,20 @@
       "title": "сергей безруков",
       "trafficCount": "200+",
       "pubDate": "Sat, 11 Oct 2025 00:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeouzixaJi5DKFyOtqH_tIM_Kmy-S1p1kc8zqH1Tcm5YTjtTwuWqfqHv0go4M",
-      "pictureSource": "53 Новости",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJImCyjHA8mQRVT2Zmbtu5S5M1gytZHzrej8_lxcS2dL0vHKHONT40DNCQvo0",
+      "pictureSource": "Культура.РФ",
       "relatedSearch": [
         {
-          "title": "Новгородцев приглашают на лекцию о Сергее Есенине",
+          "title": "Поэтический час «Я душу выплесну в слова»",
           "snippet": "",
-          "url": "https://53news.ru/novosti/novgorodczev-priglashayut-na-lekcziyu-o-sergee-esenine.html",
-          "source": "53 Новости"
+          "url": "https://www.culture.ru/live/broadcast/139305/poeticheskii-chas-ya-dushu-vyplesnu-v-slova",
+          "source": "Культура.РФ"
         },
         {
-          "title": "В Алешинской библиотеке состоялась акция «Поэтической тропой Есенина»",
+          "title": "К юбилею Сергея Есенина в Тайшете для школьников работало литературное кафе «Стойло Пегаса»",
           "snippet": "",
-          "url": "https://znamya-truda32.ru/culture/2025/10/11/v-aleshinskoj-biblioteke-sostoyalas-akcziya-poeticheskoj-tropoj-esenina/",
-          "source": "Знамя труда"
+          "url": "https://www.t24.su/k-yubileyu-sergeya-esenina-v-tayshete-dlya-shkolnikov-rabotalo-literaturnoe-kafe-stoylo-pegasa/",
+          "source": "Тайшет24 — Новости Тайшетского района Иркутской области"
         },
         {
           "title": "В Рязанском художественном училище прошел концерт «Есенин в музыке» |",
@@ -193,90 +271,6 @@
           "snippet": "",
           "url": "https://stolicaonego.ru/news/nash-dima-bolshe-ne-s-nami-nazvana-data-proschanija-s-pogibshim-v-petrozavodske-bajkerom/",
           "source": "СТОЛИЦА на Онего"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "башар асад",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 11 Oct 2025 00:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwCpQYkkSR3wzqIopmwUWe5RAEcUiEtbE1xusK0C83-u7USiqAPXL3CFr8kEc",
-      "pictureSource": "URA.RU",
-      "relatedSearch": [
-        {
-          "title": "Башар Асад увлекся онлайн-играми в России",
-          "snippet": "",
-          "url": "https://ura.news/news/1053009338",
-          "source": "URA.RU"
-        },
-        {
-          "title": "\"Наслаждаются награбленным\". Немецкое издание выяснило, где живет Асад и чем он занимается",
-          "snippet": "",
-          "url": "https://gordonua.com/news/worldnews/naslazhdajutsja-nahrablennym-nemetskoe-izdanie-vyjasnilo-hde-zhivet-asad-i-chem-on-zanimaetsja-1759238.html",
-          "source": "Гордон"
-        },
-        {
-          "title": "Вечеринки, онлайн-игры и охрана ФСБ: как диктатор Асад и его семья живут в Москве / Мой BY",
-          "snippet": "",
-          "url": "https://moyby.com/news/642246/",
-          "source": "Moyby.Com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "трактор локомотив прогноз",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 10 Oct 2025 23:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxYXGV-SRSCH9PFgFa7A3FyhXalrjeuJGRc8mwBzdLIXluW0Kvi7-eiytLuWM",
-      "pictureSource": "KHL",
-      "relatedSearch": [
-        {
-          "title": "«Трактор» против «Локомотива», минчане снова сыграют с «Шанхайским Драконами». Превью 11 октября",
-          "snippet": "",
-          "url": "https://www.khl.ru/news/2025/10/11/551524.html",
-          "source": "KHL"
-        },
-        {
-          "title": "Прогноз на матч Трактор – Локомотив. Челябинцы уступят в шестой очной встрече подряд",
-          "snippet": "",
-          "url": "https://metaratings.ru/prognozy/hokkey/traktor-lokomotiv-prognoz-na-match-kkhl-11-oktyabrya-2025-goda/",
-          "source": "Metaratings"
-        },
-        {
-          "title": "Артем Гаев спрогнозировал победителя матча «Трактор» — «Локомотив»: «Шансы ярославцев выглядят предпочтительней»",
-          "snippet": "",
-          "url": "https://sport24.ru/hockey/news-791588-artem-gayev-sprognoziroval-pobeditelya-matcha-traktor-lokomotiv-shansy-yaroslavtsev-vyglyadyat-predpochtitelney",
-          "source": "Sport24.ru"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "безруков",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 10 Oct 2025 23:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2maKINRs3j-EuWSlcH1Y-0fZnq2FpjdmtCYHqY85jVcd2LlOpdyeV1ZGfkLk",
-      "pictureSource": "ФедералПресс",
-      "relatedSearch": [
-        {
-          "title": "Сергей Безруков усомнился в официальной версии гибели Есенина",
-          "snippet": "",
-          "url": "https://fedpress.ru/news/62/society/3405110",
-          "source": "ФедералПресс"
-        },
-        {
-          "title": "Актер Сергей Безруков заявил, что убежден в убийстве Сергея Есенина — Новости за 07.10.2025",
-          "snippet": "",
-          "url": "https://www.rzn.info/news/2025/10/7/akter-sergej-bezrukov-zayavil-chto-ubezhden-v-ubijstve-sergeya-esenina-328555.html",
-          "source": "RZN.info"
-        },
-        {
-          "title": "Загадка смерти Есенина: почему Сергей Безруков требует нового расследования гибели поэта",
-          "snippet": "",
-          "url": "https://cinema.pravda.ru/news/2288435-esenin-death-mystery/",
-          "source": "Правда.Ру"
         }
       ],
       "link": "https://imtaqin.id/"

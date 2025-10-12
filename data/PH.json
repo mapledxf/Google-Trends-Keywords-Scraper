@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-12 20:52:38",
+  "lastUpdate": "2025-10-12 21:00:30",
   "data": [
     {
       "title": "recent earthquake",
@@ -43,10 +43,10 @@
           "source": "Yahoo!ニュース"
         },
         {
-          "title": "ミンダナオ島沖Ｍ７・４の地震 ６人死亡",
+          "title": "フィリピンでマグニチュード7.5の地震、津波警報発令",
           "snippet": "",
-          "url": "https://www.okinawatimes.co.jp/articles/-/1689403",
-          "source": "沖縄タイムス社"
+          "url": "https://www.vietnam.vn/ja/dong-dat-manh-7-5-do-richter-o-philippines-canh-bao-song-than",
+          "source": "Vietnam.vn"
         },
         {
           "title": "【News】ダバオ沖でM7.4の地震発生―死者3人、津波警報と広域停電も",
@@ -133,10 +133,10 @@
           "source": "GMA Network"
         },
         {
-          "title": "Davao Oriental 7.4 quake linked to Philippine trench, unrelated to recent tremors",
+          "title": "Geologist: Expect ‘the big one’ coming",
           "snippet": "",
-          "url": "https://www.bworldonline.com/the-nation/2025/10/10/704476/davao-oriental-7-4-quake-linked-to-philippine-trench-unrelated-to-recent-tremors/",
-          "source": "BusinessWorld - BusinessWorld Online"
+          "url": "https://tribune.net.ph/2025/10/12/geologist-expect-the-big-one-coming",
+          "source": "Daily Tribune"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +155,16 @@
           "source": "Volcano Discovery"
         },
         {
-          "title": "'When I stand, I feel dizzy': Deadly earthquake leaves Filipinos struggling in ghost towns",
+          "title": "Philippines: 6.9M Cebu Earthquake Flash Update No.2 (as of 03 October 2025, 8:00 p.m. local time)",
           "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c80g9ng3ed4o",
-          "source": "BBC"
+          "url": "https://reliefweb.int/report/philippines/philippines-69m-cebu-earthquake-flash-update-no2-03-october-2025-800-pm-local-time",
+          "source": "ReliefWeb"
         },
         {
-          "title": "Tsunami threat lifted after Philippine earthquake – as it happened",
+          "title": "7.6-magnitude quake in Davao Oriental felt widely in Mindanao",
           "snippet": "",
-          "url": "https://www.theguardian.com/world/live/2025/oct/10/philippines-earthquake-tsunami-warning-issued-after-7-quake-hits-mindanao",
-          "source": "The Guardian"
+          "url": "https://newsinfo.inquirer.net/2122662/7-6-magnitude-quake-in-davao-oriental-felt-widely-in-mindanao",
+          "source": "Inquirer.net"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,19 +257,13 @@
       "title": "earthquake alert",
       "trafficCount": "2000+",
       "pubDate": "Sun, 12 Oct 2025 10:00:00 -0700",
-      "picture": "",
-      "pictureSource": "ABS-CBN",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQtpScmjN2l5pQqnX48A3ilrkGHzJcl62MzUHPVTqE-84wT7XhFfJzQhY7hpF4",
+      "pictureSource": "GMA Network",
       "relatedSearch": [
         {
-          "title": "Magnitude 7.4 quake strikes off Davao Oriental; 2 reported dead",
+          "title": "Gov’t to set up tent cities, speed up infra repairs in quake-hit Davao Oriental",
           "snippet": "",
-          "url": "https://www.abs-cbn.com/news/regions/2025/10/10/powerful-quake-strikes-off-davao-oriental-0955",
-          "source": "ABS-CBN"
-        },
-        {
-          "title": "Caraga, Davao Oriental under state of calamity after twin quakes",
-          "snippet": "",
-          "url": "https://www.gmanetwork.com/regionaltv/news/110729/caraga-davao-oriental-under-state-of-calamity-after-twin-quakes/story/",
+          "url": "https://www.gmanetwork.com/regionaltv/news/110726/govt-to-set-up-tent-cities-speed-up-infra-repairs-in-quakehit-davao-oriental/story/",
           "source": "GMA Network"
         },
         {
@@ -277,6 +271,12 @@
           "snippet": "",
           "url": "https://www.bomboradyo.com/ndrrmc-in-activate-ang-mga-response-clusters-matapos-ang-davao-quake",
           "source": "Bombo Radyo News"
+        },
+        {
+          "title": "Phivolcs: Magkasunod na lindol sa Davao Oriental, isang ‘doublet earthquake’",
+          "snippet": "",
+          "url": "https://bandera.inquirer.net/429564/phivolcs-magkasunod-na-lindol-sa-davao-oriental-isang-doublet-earthquake",
+          "source": "Inquirer.net"
         }
       ],
       "link": "https://imtaqin.id/"

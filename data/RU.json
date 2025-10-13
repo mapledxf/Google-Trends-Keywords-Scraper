@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2025-10-13 03:02:05",
+  "lastUpdate": "2025-10-13 03:45:50",
   "data": [
     {
       "title": "зима",
       "trafficCount": "2000+",
       "pubDate": "Sun, 12 Oct 2025 19:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkXh6hXsL328Rm8VKv-_q88WJAMR18mX1Ct-RA40A82d8qrcBFtm-w7-UFJDc",
-      "pictureSource": "Кубанские новости",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbbKAr_luvlKFzAUTyCk9rVuiA3mQKZsp_xAI2qswGEhW2pY0BdTQPeCQMVoI",
+      "pictureSource": "ТНВ",
       "relatedSearch": [
+        {
+          "title": "Синоптики оценили прогноз Миллера об аномально морозной зиме по всей России",
+          "snippet": "",
+          "url": "https://tnv.ru/news/pogoda/491315-sinoptiki-otsenili-prognoz-millera-ob-anomalno-moroznoy-zime-po-vsey-rf/",
+          "source": "ТНВ"
+        },
         {
           "title": "«Это не прогноз, а климатическая статистика»: синоптик Тишковец опроверг информацию об аномально холодной зиме",
           "snippet": "",
@@ -19,34 +25,28 @@
           "snippet": "",
           "url": "https://m.business-gazeta.ru/news/685015",
           "source": "БИЗНЕС Online — Новости Казани"
-        },
-        {
-          "title": "Готовьте унты: рязанцам предрекли аномальную зиму",
-          "snippet": "",
-          "url": "https://62info.ru/news/obshchestvo/141659-gotovte-unty-ryazantsam-predrekli-anomalnuyu-zimu/",
-          "source": "62ИНФО"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "погода ижевск",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 12 Oct 2025 19:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXB_a4PkKIEtgUvrBPaB9cYF27WCFuYuBbsUt1WmOeKxCsvukEPzAZtDT6oLA",
-      "pictureSource": "Izhlife",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrdqop0UXefFuEi-w3QERX28GyicEhJPjqovUr-1mI4Od1GuTHc-RauolfP3E",
+      "pictureSource": "ИА «Сусанин",
       "relatedSearch": [
+        {
+          "title": "Дождь и мокрый снег ожидаются в Удмуртии 13 октября",
+          "snippet": "",
+          "url": "https://susanin.news/udmurtia/other/20251013-332482/",
+          "source": "ИА «Сусанин"
+        },
         {
           "title": "Жителей Удмуртии предупредили о снеге и гололедице 13 октября",
           "snippet": "",
           "url": "https://izhlife.ru/weather/zhiteley-udmurtii-predupredili-o-snege-i-gololeditse-13-oktyabrya.html",
           "source": "Izhlife"
-        },
-        {
-          "title": "10 октября в Удмуртии осадков не ожидается",
-          "snippet": "",
-          "url": "https://susanin.news/udmurtia/society/20251010-331136/",
-          "source": "ИА «Сусанин"
         },
         {
           "title": "Уже сегодня вечером в Глазове может пройти первый снег",
@@ -59,11 +59,17 @@
     },
     {
       "title": "новости екатеринбург",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 12 Oct 2025 19:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWB0wbcfk4rwiqqSMdBSFUr6fkey_6Ub9jkMOnHlLxf-pbwv_g_4veJ5FcrGM",
-      "pictureSource": "Mail.ru",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKKaKhFPXKY1Z7uoj_Etkix05JgFo58ZsZ4eRYqi33Y_Ov9OdfhSmn6jrJNKw",
+      "pictureSource": "Е1.ру",
       "relatedSearch": [
+        {
+          "title": "На Свердловскую область обрушатся снегопады и ледяной дождь - 13 октября 2025 | Е1.ру",
+          "snippet": "",
+          "url": "https://www.e1.ru/text/autumn/2025/10/13/76071420/",
+          "source": "Е1.ру"
+        },
         {
           "title": "Стало известно, когда Екатеринбург накроет снегопад",
           "snippet": "",
@@ -71,44 +77,10 @@
           "source": "Mail.ru"
         },
         {
-          "title": "В Екатеринбурге потеплеет, но при этом выпадет снег. Публикуем прогноз",
-          "snippet": "",
-          "url": "https://www.e1.ru/text/autumn/2025/10/12/76071005/",
-          "source": "Е1.ру"
-        },
-        {
           "title": "Жителей Екатеринбурга ожидает потепление в начале недели",
           "snippet": "",
           "url": "https://tagilcity.ru/news/2025-10-12/zhiteley-ekaterinburga-ozhidaet-poteplenie-v-nachale-nedeli-5489767",
           "source": "TagilCity"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ставка цб",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 12 Oct 2025 18:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsUhtEq4jXKiv1Mrurg7FlafOR1_3HDnKKAqI3mkVv8DuPVqbgfHxMPj4YB8g",
-      "pictureSource": "Банки.ру",
-      "relatedSearch": [
-        {
-          "title": "Эксперты спрогнозировали решение Банка России по ключевой ставке в октябре",
-          "snippet": "",
-          "url": "https://www.banki.ru/news/lenta/?id=11018374",
-          "source": "Банки.ру"
-        },
-        {
-          "title": "Аксаков: несмотря на сложные решения по бюджету, ставку ЦБ в этом году еще снизят",
-          "snippet": "",
-          "url": "https://m.business-gazeta.ru/news/685031",
-          "source": "БИЗНЕС Online — Новости Казани"
-        },
-        {
-          "title": "Глава ЦБ заявила, что решения по ключевой ставке до конца года не предопределены",
-          "snippet": "",
-          "url": "https://www.interfax.ru/business/1051750",
-          "source": "Интерфакс"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,9 +99,9 @@
           "source": "Проспект Мира"
         },
         {
-          "title": "«Я прямо предвкушаю»: стало известно, как семья Усольцевых собиралась в роковой поход в «место силы»",
+          "title": "Оперативные мероприятия по поиску пропавшей под Красноярском семьи продолжатся",
           "snippet": "",
-          "url": "https://ura.news/news/1053009395",
+          "url": "https://ura.news/news/1053009989",
           "source": "URA.RU"
         },
         {
@@ -152,27 +124,27 @@
     },
     {
       "title": "новости томск",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 12 Oct 2025 18:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZXGrtbH8Bkh7jyRAk8u1qbrttB01A0ALGoh_DxC3d-rjjwz0c8AwxuD_En5U",
-      "pictureSource": "Tomsk.ru",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSlZ5sW2sSVqyMHOcJHercALj9uqmR2U_8FiG_E6SRWSI0tsirWSOizeEWMxv8",
+      "pictureSource": "vtomske.ru",
       "relatedSearch": [
         {
-          "title": "Четыре исторических дома в Томске выставлены на торги по рублю",
+          "title": "Часть домов Октябрьского района Томска останется без холодной воды на сутки",
           "snippet": "",
-          "url": "https://www.tomsk.ru/news/view/chetyre-istoricheskih-doma-v-tomske-vystavleny-na-torgi-po-rublyu",
-          "source": "Tomsk.ru"
-        },
-        {
-          "title": "Мэрия заключила контракт на восстановление двух домов в центре Томска",
-          "snippet": "",
-          "url": "https://vtomske.ru/news/211890-meriya-zaklyuchila-kontrakt-na-vosstanovlenie-dvuh-domov-v-centre-tomska",
+          "url": "https://vtomske.ru/news/211806-chast-domov-oktyabrskogo-raiona-tomska-ostanetsya-bez-holodnoi-vody-na-sutki",
           "source": "vtomske.ru"
         },
         {
-          "title": "Мэрия Томска хочет выставить на торги еще 20 \"домов за рубль\" в 2025г",
+          "title": "Более 400 домов останутся без воды в Томске — будет подвоз",
           "snippet": "",
-          "url": "https://www.riatomsk.ru/article/20251009/dom-za-rubl-v-2025g-tomsk",
+          "url": "https://www.tomsk.ru/news/view/bolee-400-domov-ostanutsya-bez-vody-v-tomske-budet-podvoz",
+          "source": "Tomsk.ru"
+        },
+        {
+          "title": "Более 400 домов на томских \"Шариках\" на сутки останутся без воды",
+          "snippet": "",
+          "url": "https://www.riatomsk.ru/article/20251013/vodosnabzhenie-tomsk",
           "source": "РИА Томск"
         }
       ],
@@ -258,6 +230,34 @@
           "snippet": "",
           "url": "https://metaratings.ru/prognozy/hokkey/reindzhers-vashington-prognoz-na-match-nkhl-13-oktyabrya-2025-goda/",
           "source": "Metaratings"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tomahawk",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 12 Oct 2025 15:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgFA1mIve38eaMu-APnLqOzFdjsqdTG7Ada7tcUqT7q32Zwvjh_KZwMjd5BDI",
+      "pictureSource": "Fox News",
+      "relatedSearch": [
+        {
+          "title": "Trump mulls Tomahawk deliveries to Ukraine if Russia keeps war going",
+          "snippet": "",
+          "url": "https://www.foxnews.com/politics/trump-mulls-tomahawk-deliveries-ukraine-russia-keeps-war-going",
+          "source": "Fox News"
+        },
+        {
+          "title": "Trump warns Russia he may send Ukraine long-range Tomahawks if Moscow doesn't settle war soon",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/10/12/trump-russia-ukraine-long-range-tomahawks.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Trump says he may tell Putin to settle war or he'll give Ukraine Tomahawks",
+          "snippet": "",
+          "url": "https://www.axios.com/2025/10/11/zelensky-trump-tomahawk-missiles-ukraine",
+          "source": "Axios"
         }
       ],
       "link": "https://imtaqin.id/"

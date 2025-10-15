@@ -1,6 +1,62 @@
 {
-  "lastUpdate": "2025-10-15 22:58:16",
+  "lastUpdate": "2025-10-15 23:17:08",
   "data": [
+    {
+      "title": "나는솔로",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 15 Oct 2025 15:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAFIaGV6kH3ee2nUgf4EezbPrpaxTzoSZkgJnwTmXbsxGKsKAwXXVqJNHnir0",
+      "pictureSource": "조선일보",
+      "relatedSearch": [
+        {
+          "title": "극대노한 28기 정숙..오열하는 영숙에 “영수 가지세요” (‘나솔’)",
+          "snippet": "",
+          "url": "https://www.chosun.com/entertainments/broadcast/2025/10/16/LMTXWMRT2R2DOGQUR6LQMBMPHM/",
+          "source": "조선일보"
+        },
+        {
+          "title": "28기 현숙, 상철-영수 정리했다…\"이제부턴 영식\" 직진",
+          "snippet": "",
+          "url": "https://v.daum.net/v/20251015234712561?f=p",
+          "source": "Daum"
+        },
+        {
+          "title": "광수에게 거절당하고 눈물 흘리는 영숙 \"내 마음은 영수인데…\" - 머니투데이",
+          "snippet": "",
+          "url": "https://www.mt.co.kr/entertainment/2025/10/16/2025101600564730025",
+          "source": "머니투데이"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "오늘 날씨",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 15 Oct 2025 15:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRY_ELUKB93FgYXtqvWLNzDL4PnPqGQO6Q22EZNA0bljZqfKxBNNhhIFU-0V50",
+      "pictureSource": "조선일보",
+      "relatedSearch": [
+        {
+          "title": "‘가을 장마’ 생긴 한국… 수도권, 역대 최다 비",
+          "snippet": "",
+          "url": "https://www.chosun.com/national/transport-environment/2025/10/15/WYRZUNO235GQBJNIUZYZR2EOIM/",
+          "source": "조선일보"
+        },
+        {
+          "title": "[출근길 날씨] 오전까지 전국 대부분 비…제주 서귀포 열대야",
+          "snippet": "",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8382237",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "길어지는 ‘가을장마’…주말부터 강풍에 아침 기온 ‘뚝’",
+          "snippet": "",
+          "url": "https://www.khan.co.kr/article/202510152105015",
+          "source": "경향신문"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "thời tiết",
       "trafficCount": "2000+",
@@ -21,10 +77,10 @@
           "source": "VOV"
         },
         {
-          "title": "Dự báo thời tiết TP. Hồ Chí Minh ngày 16/10/2025:",
+          "title": "[Video] Dự báo thời tiết ngày 16/10/2025: Bắc Bộ có nắng gián đoạn",
           "snippet": "",
-          "url": "https://htv.com.vn/du-bao-thoi-tiet-tp-ho-chi-minh-ngay-16-10-2025-co-may-co-mua-rao-va-dong-vai-noi-222251015152135027.htm",
-          "source": "HTV"
+          "url": "https://nhandan.vn/video-du-bao-thoi-tiet-ngay-16102025-bac-bo-co-nang-gian-doan-post915568.html",
+          "source": "Báo Nhân Dân điện tử"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,54 +89,26 @@
       "title": "weather",
       "trafficCount": "1000+",
       "pubDate": "Wed, 15 Oct 2025 14:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwYruBXKx8ZgvnvIE_XwmA46-gUmEYXRJlLdMlb79XkMDbgqzEiohK9VnYE9s",
-      "pictureSource": "South Muskoka Doppler",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6fAdyjJ22KVgkbZYHeNlBG7bdaqxYsH0Ugzr5gfjqrDiW63w_U2P5FpYjHOw",
+      "pictureSource": "WMUR",
       "relatedSearch": [
         {
-          "title": "Daily weather report",
+          "title": "Video: Dry, windy, chilly weather ahead in New Hampshire",
           "snippet": "",
-          "url": "https://southmuskoka.doppleronline.ca/daily-weather-report-124/",
-          "source": "South Muskoka Doppler"
+          "url": "https://www.wmur.com/article/new-hampshire-weather-video-evening-101525/69048807",
+          "source": "WMUR"
         },
         {
-          "title": "Daily weather report",
+          "title": "Freeze Warning Issued, Chilly Weekend Temperatures, Autumn Arrives In New Hampshire",
           "snippet": "",
-          "url": "https://southmuskoka.doppleronline.ca/daily-weather-report-123/",
-          "source": "South Muskoka Doppler"
+          "url": "https://patch.com/new-hampshire/concord-nh/freeze-warning-issued-chilly-weekend-temperatures-autumn-arrives-new",
+          "source": "Patch"
         },
         {
-          "title": "NCWLIFE Weather 10-15-25",
+          "title": "New Hampshire Weather Alert: Fall Frost Risk Builds by Friday Morning Across Hills and Valleys",
           "snippet": "",
-          "url": "https://www.ncwlife.com/news/weather/ncwlife-weather-10-15-25/video_899ef44d-cd05-576f-9a5f-505f182d184e.html",
-          "source": "ncwlife.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "오클로 주가",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 15 Oct 2025 14:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRk2JbVXt86u9Ff6dtZ6G4Q2BmLSHCL27PvqB_BEylBBXVLQupGLtff0bsSSPk",
-      "pictureSource": "뉴스1",
-      "relatedSearch": [
-        {
-          "title": "미국 전체 미군 기지에 소형원자로 설치…원전주 또 폭등할 듯",
-          "snippet": "",
-          "url": "https://www.news1.kr/world/usa-canada/5941913",
-          "source": "뉴스1"
-        },
-        {
-          "title": "미, 2028년부터 본토 육군 기지에 '초소형원자로' 설치 추진",
-          "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20251015134100009",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "원전株, 美육군 ‘차세대 소형원자로 개발’ 추진 소식에 강세",
-          "snippet": "",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01331686642333576",
-          "source": "마켓인"
+          "url": "https://countryherald.com/news/new-hampshire-weather-alert-fall-frost-risk-builds-by-friday-morning-across-hills-and-valleys/",
+          "source": "Country Herald"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,13 +117,13 @@
       "title": "일기예보",
       "trafficCount": "100+",
       "pubDate": "Wed, 15 Oct 2025 14:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHImZTRZGYdXQ7DtyJDkU8CwaubR9a4looJ8Tltp7MX0eAvvu1SQysk3mMAjI",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOZub-MfadfgY1Sr8m-hyhYtjNhHM2YP9ETJzPBVgc4qp87xrwTbe6kGWeXRU",
       "pictureSource": "연합뉴스",
       "relatedSearch": [
         {
-          "title": "대구·경북 흐리고 일부지역 비…낮 최고 23도",
+          "title": "대구·경북 흐리고 비…낮 기온 21∼23도",
           "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20251013006451053",
+          "url": "https://www.yna.co.kr/view/AKR20251016009600053",
           "source": "연합뉴스"
         },
         {
@@ -114,34 +142,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "동네예보",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 15 Oct 2025 14:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-KHieOssApG7poh0ObgC6JeZsQz696rg6S0wv3nsBki59yo-Uo3xVK64d310",
-      "pictureSource": "더페어",
-      "relatedSearch": [
-        {
-          "title": "[강원도 날씨예보] 12일까지 최대 60mm 비",
-          "snippet": "",
-          "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=57736",
-          "source": "더페어"
-        },
-        {
-          "title": "서울날씨 \"수도권 60mm 비\" 낮최고 22도 선선한 주말날씨",
-          "snippet": "",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3397719",
-          "source": "gukjenews.com"
-        },
-        {
-          "title": "토요일 전국 곳곳 비…수도권 최대 40㎜[오늘날씨]",
-          "snippet": "",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909552641876",
-          "source": "sportalkorea.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "부산날씨",
       "trafficCount": "500+",
       "pubDate": "Wed, 15 Oct 2025 13:10:00 -0700",
@@ -155,16 +155,16 @@
           "source": "연합뉴스"
         },
         {
-          "title": "울산, 오후까지 비…최고기온 21도",
+          "title": "[오늘의 날씨] 울산(16일, 목)… 곳곳에 가끔 비, 낮 최고 21도",
           "snippet": "",
-          "url": "https://www.newsis.com/view/NISX20251016_0003364403",
-          "source": "뉴시스"
+          "url": "https://www.news1.kr/local/ulsan/5942303",
+          "source": "뉴스1"
         },
         {
-          "title": "[오늘의 날씨] 부산·경남(16일, 목)…오후까지 가끔 비",
+          "title": "부산, 흐리고 가끔 비…예상강수량 10~50㎜",
           "snippet": "",
-          "url": "https://www.news1.kr/local/busan-gyeongnam/5942388",
-          "source": "뉴스1"
+          "url": "https://www.newsis.com/view/NISX20251016_0003364424",
+          "source": "뉴시스"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,9 +173,15 @@
       "title": "다우지수",
       "trafficCount": "100+",
       "pubDate": "Wed, 15 Oct 2025 13:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8pW-aTd--pwPYaOCL7h3rYeIyHclyuck6b65cRUwClG6KembykViraiS9us",
-      "pictureSource": "KBS 뉴스",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwHsKTe9yNRtaGDCbLr8zRCgOWyhGiqwB5vRIAhCIUoekmzcxNxFg5ajA-hZQ",
+      "pictureSource": "연합뉴스",
       "relatedSearch": [
+        {
+          "title": "뉴욕증시, 뒤엉킨 재료에 극도의 변동성…혼조 마감",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20251016008100009",
+          "source": "연합뉴스"
+        },
         {
           "title": "뉴욕증시, 트럼프 중국 비판에 혼조 마감…나스닥 0.8%↓",
           "snippet": "",
@@ -183,44 +189,10 @@
           "source": "KBS 뉴스"
         },
         {
-          "title": "은행 호실적+금리 인하 기대, 미증시 다우 제외 일제 상승(상보)",
+          "title": "뉴욕증시, 은행 호실적에 S&P 0.4% 상승 마감…다우는 약보합(종합)",
           "snippet": "",
-          "url": "https://v.daum.net/v/20251016051213804",
-          "source": "Daum"
-        },
-        {
-          "title": "JP모건 “S&P500 지수, 6551이 지지선”",
-          "snippet": "",
-          "url": "http://m.g-enews.com/view.php?ud=202510160231121177be84d87674_1",
-          "source": "글로벌이코노믹"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "스캠",
-      "trafficCount": "2000+",
-      "pubDate": "Wed, 15 Oct 2025 12:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQIVTwWsK0U1Od0QEUB0r5IvYd1KJojZDJFXPP2ZUas56P6m3ww7HktKetrp0",
-      "pictureSource": "조선일보",
-      "relatedSearch": [
-        {
-          "title": "“차 부품 거래하자” 캄보디아서 온 사업제안 역시 ‘덫’",
-          "snippet": "",
-          "url": "https://www.chosun.com/national/national_general/2025/10/16/JSALV2DCKNEZZFMPJYUEU6WBUU/",
-          "source": "조선일보"
-        },
-        {
-          "title": "캄보디아 사태에 '피끓는' 老형사…'MZ 경찰' 사이에선 냉소도",
-          "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20251015113400004",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "“캄보디아에 전쟁 선포” “중국인 무비자 재검토”···극언·혐오로 흐르는 정치권",
-          "snippet": "",
-          "url": "https://www.khan.co.kr/article/202510151748001",
-          "source": "경향신문"
+          "url": "https://www.newsis.com/view/NISX20251016_0003364415",
+          "source": "뉴시스"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,10 +217,10 @@
           "source": "Daum"
         },
         {
-          "title": "'백·임' 콤비는커녕 삐그덕? '李 지시' 이후 무슨 일이‥",
+          "title": "백해룡, 임은정에 “모욕적, 수사 말라는 것”···‘마약게이트’ 합수팀 파견 첫날 연차",
           "snippet": "",
-          "url": "https://imnews.imbc.com/news/2025/society/article/6765221_36718.html",
-          "source": "MBC 뉴스"
+          "url": "https://www.khan.co.kr/article/202510152108001",
+          "source": "경향신문"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -277,6 +249,34 @@
           "snippet": "",
           "url": "https://www.donga.com/news/Society/article/all/20251015/132567444/2",
           "source": "동아일보"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "s",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 15 Oct 2025 09:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEPFwYsLAq3X-kRr8KSpPtL1Z49OlYfj0lAhFf7JAh9kSg8dFbVAIq-i4XW1g",
+      "pictureSource": "USA Today",
+      "relatedSearch": [
+        {
+          "title": "Cheryl Hines Struggles To Defend Husband RFK Jr. On ‘The View’",
+          "snippet": "",
+          "url": "https://www.usatoday.com/videos/news/2025/10/15/cheryl-hines-struggles-to-defend-husband-rfk-jr-on-the-view/86703730007/",
+          "source": "USA Today"
+        },
+        {
+          "title": "‘The Five’: Cheryl Hines defends husband’s ‘MAHA’ movement",
+          "snippet": "",
+          "url": "https://www.foxnews.com/video/6382816917112",
+          "source": "Fox News"
+        },
+        {
+          "title": "Cheryl Hines on marriage to Robert F. Kennedy Jr. and life in Washington: \"I don't think I'll ever get used to being a political spouse\"",
+          "snippet": "",
+          "url": "https://www.cbsnews.com/news/cheryl-hines-marriage-to-robert-f-kennedy-jr-washington/",
+          "source": "CBS News"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-10-16 17:57:28",
+  "lastUpdate": "2025-10-16 18:25:33",
   "data": [
+    {
+      "title": "mtv",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 16 Oct 2025 11:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Ciro7iKej5FheecOFjqOVDO__aT9J1JzM-QnfBCKGzbapSmswUrgDz2qDUA",
+      "pictureSource": "ישראל היום",
+      "relatedSearch": [
+        {
+          "title": "עדן הראל נפרדת: \"רק זכרונות טובים\"",
+          "snippet": "",
+          "url": "https://www.israelhayom.co.il/forreal/localy/article/19036353",
+          "source": "ישראל היום"
+        },
+        {
+          "title": "אחרי כמעט 40 שנה: MTV תפסיק לשדר מוזיקה בבריטניה",
+          "snippet": "",
+          "url": "https://www.kan.org.il/content/kan-news/culture/959360/",
+          "source": "כאן 11"
+        },
+        {
+          "title": "לאחר 40 שנה: ערוץ הטלוויזיה הנוסטלגי מסיים את חייו ונסגר",
+          "snippet": "",
+          "url": "https://www.maariv.co.il/culture/tv/article-1240947",
+          "source": "מעריב"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "הרב דורון פרץ",
       "trafficCount": "100+",
@@ -33,7 +61,7 @@
       "title": "אלון נמרודי",
       "trafficCount": "100+",
       "pubDate": "Thu, 16 Oct 2025 10:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAwk-uf7R9s2kFlKGBjX_VNAFnLLLIfIyRR0x2embl84O1pbKViywi8lFNhWA",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTr-3qJ1Pdme5JLTBnQuXGI4fkhW2sjvvhLR33i9ojlX0R7LU0ZTFEzaHyiVII",
       "pictureSource": "ynet",
       "relatedSearch": [
         {
@@ -49,10 +77,10 @@
           "source": "הארץ"
         },
         {
-          "title": "מבצע \"שבים לגבולם\" - איתן לוי הי\"ד המשרד לשירותי דת",
+          "title": "ההספד קורע הלב של האב אלון לבנו תמיר נמרודי: \"עשיתי הכול אבל זה לא הספיק\"",
           "snippet": "",
-          "url": "https://www.gov.il/he/departments/news/el161025",
-          "source": "Gov.il"
+          "url": "https://www.mako.co.il/news-military/be11d799e08b8910/Article-c9bf7ebbb8ce991027.htm",
+          "source": "mako"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +183,16 @@
           "source": "ynet"
         },
         {
-          "title": "מיכאל וולדמן הוא ההרוג בתאונה בבית קפה בכפר סבא",
-          "snippet": "",
-          "url": "https://news.walla.co.il/item/3787567",
-          "source": "וואלה חדשות"
-        },
-        {
           "title": "תאונה קטלנית בכפר סבא: רכב התנגש בבית קפה, גבר כבן 50 נהרג",
           "snippet": "",
           "url": "https://13tv.co.il/item/news/domestic/internal/rkvon-904804197/",
           "source": "רשת 13"
+        },
+        {
+          "title": "נקבע מותו של האדם שנפגע בתאונה בכפ\"ס; בוחני תנועה פתחו בחקירת המקרה",
+          "snippet": "",
+          "url": "https://passportnews.co.il/article/200174",
+          "source": "PassportNews"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +211,16 @@
           "source": "ynet"
         },
         {
-          "title": "חקירת הרצח ב־443: עובר האורח שנהרג נורה בידי העבריינים שהתחזו לשוטרים",
-          "snippet": "",
-          "url": "https://www.haaretz.co.il/news/law/2025-10-16/ty-article/.premium/00000199-ecb5-dde4-a7bd-fcff265d0000",
-          "source": "הארץ"
-        },
-        {
           "title": "סרגיי נורה למוות בשוגג בכביש, המתנקשים התחזו לשוטרים",
           "snippet": "",
           "url": "https://www.kan.org.il/content/kan-news/local/960743/",
           "source": "כאן 11"
+        },
+        {
+          "title": "חקירת הרצח ב־443: עובר האורח שנהרג נורה בידי העבריינים שהתחזו לשוטרים",
+          "snippet": "",
+          "url": "https://www.haaretz.co.il/news/law/2025-10-16/ty-article/.premium/00000199-ecb5-dde4-a7bd-fcff265d0000",
+          "source": "הארץ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -217,10 +245,10 @@
           "source": "The Jerusalem Post"
         },
         {
-          "title": "Rabbi Moshe Hauer, ‘humble bridge-builder,’ Orthodox Union leader, dies at 60",
+          "title": "Rabbi Moshe Hauer, OU leader admired across Jewish world, is dead at 60",
           "snippet": "",
-          "url": "https://www.jns.org/tragic-sudden-loss-rabbi-moshe-hauer-ou-leader-dies-over-holiday/",
-          "source": "JNS.org"
+          "url": "https://jewishchronicle.timesofisrael.com/rabbi-moshe-hauer-ou-leader-admired-across-jewish-world-is-dead-at-60/",
+          "source": "The Pittsburgh Jewish Chronicle"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -237,34 +265,6 @@
           "snippet": "",
           "url": "https://www.israelhayom.co.il/news/local/article/19036771",
           "source": "ישראל היום"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ענבר היימן",
-      "trafficCount": "10000+",
-      "pubDate": "Wed, 15 Oct 2025 21:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyOskrwbY2PFupcrRluQjV3ELdyNjx_Tii9cjTXOxe3xcn97Z9v57fE3xQao0",
-      "pictureSource": "ynet",
-      "relatedSearch": [
-        {
-          "title": "החטופים החללים שהושבו - ענבר הימן ורס\"מ מוחמד אלאטרש",
-          "snippet": "",
-          "url": "https://www.ynet.co.il/news/article/rjdr7gapgx",
-          "source": "ynet"
-        },
-        {
-          "title": "גופותיהם של ענבר הימן ורס\"ם מוחמד אל־אטרש, שנהרגו ב־7.10, הוחזרו מעזה",
-          "snippet": "",
-          "url": "https://www.haaretz.co.il/news/politics/2025-10-16/ty-article/.premium/00000199-eb48-dde4-a7bd-fb7e8b180000",
-          "source": "הארץ"
-        },
-        {
-          "title": "עכשיו ניתן לספר: ענבר הימן ז\"ל הייתה מפקדת בקרקל ונלחמה במחבלים",
-          "snippet": "",
-          "url": "https://www.maariv.co.il/news/military/article-1241968",
-          "source": "מעריב"
         }
       ],
       "link": "https://imtaqin.id/"

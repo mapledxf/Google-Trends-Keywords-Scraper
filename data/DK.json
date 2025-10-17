@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-17 08:53:57",
+  "lastUpdate": "2025-10-17 09:11:48",
   "data": [
     {
       "title": "go morgen danmark",
@@ -17,7 +17,7 @@
         {
           "title": "Vært stopper på populært TV 2-program",
           "snippet": "",
-          "url": "https://www.berlingske.dk/kultur/vaert-stopper-paa-populaert-tv-2-program?gaa_at=eafs&gaa_n=AWEtsqfvmXsOtrYF1-LvCz8EbjiXxTX0XYM0oNklkHJ7V-4o0y-iXcYOR5TE&gaa_ts=68f20738&gaa_sig=VD0vl8PvPpcEAA3SvgjH0D_zHL9Pv-D1V9K74-2OWYouiZX0otzaqXEaQNdJfl-WCdaWrcGb5gt87goKOXRNAg%3D%3D",
+          "url": "https://www.berlingske.dk/kultur/vaert-stopper-paa-populaert-tv-2-program?gaa_at=eafs&gaa_n=AWEtsqcSwIZmo20MJb1QcATFhiiZDomvFnELurhzcPWku9M45SHNnyoA38IU&gaa_ts=68f20bd8&gaa_sig=ZHuHxqmUE1JaWMpALf_C6EPk89xCqkS_v1JRMpFUWxxmVBPlgZyySzDrqI88RCN12rHFUzjBbzUNGQLjhTGpug%3D%3D",
           "source": "Berlingske"
         },
         {
@@ -114,23 +114,51 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "strømafbrydelse i dag",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 16 Oct 2025 19:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwjbNAYjCXq1iBHth3vDi0nRDR--LcR-jim0sK0mtzEb0FTsEy4eBtDTSFuQM",
+      "pictureSource": "DR",
+      "relatedSearch": [
+        {
+          "title": "48.000 kunder var uden strøm i Jylland",
+          "snippet": "",
+          "url": "https://www.dr.dk/nyheder/seneste/48-000-kunder-var-uden-stroem-i-jylland",
+          "source": "DR"
+        },
+        {
+          "title": "Kometen Lemmon spottet fra Østjylland",
+          "snippet": "",
+          "url": "https://www.tv2ostjylland.dk/randers/kometen-lemmon-spottet-fra-ostjylland",
+          "source": "TV2 Østjylland"
+        },
+        {
+          "title": "48.000 elkunder i Aarhus-området har været ramt af strømsvigt",
+          "snippet": "",
+          "url": "https://www.berlingske.dk/danmark/48000-elkunder-i-aarhus-omraadet-har-vaeret-ramt-af-stroemsvigt?gaa_at=eafs&gaa_n=AWEtsqeYp2r-gCKeHglrYZVPODtIvAIERHpd1jAYS5JDwdoElk1Ptyqpkblz&gaa_ts=68f20bd8&gaa_sig=B-jgsXiiuu5EvhQDL6rPVrBGNd8t1iN0MllqYB744l-7cvu3pQbv86n2OVrtO6NoL2Ef_Ocs84nFJoKYD6Vy6g%3D%3D",
+          "source": "Berlingske"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "ace frehley",
       "trafficCount": "2000+",
       "pubDate": "Thu, 16 Oct 2025 14:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGVss9ZPJ-qzDnHpwU1Xxi4t_1IMQ1fhhvg-p890TgYdXh1Gckq4LBQ4_8fNc",
-      "pictureSource": "Variety",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzEdvQLy93rycpFBcinISbz38zaCTEIAHR4QzbztBJqUl_lmXrCAhWiLT6aV0",
+      "pictureSource": "CNN",
       "relatedSearch": [
         {
-          "title": "Ace Frehley, Kiss Lead Guitarist and Solo Artist, Dies at 74",
+          "title": "Ace Frehley, Kiss’ original lead guitarist and founding member, dies at 74",
           "snippet": "",
-          "url": "https://variety.com/2025/music/news/ace-frehley-kiss-lead-guitarist-dead-1236554943/",
-          "source": "Variety"
+          "url": "https://www.cnn.com/2025/10/16/entertainment/ace-frehley-kiss-death",
+          "source": "CNN"
         },
         {
-          "title": "Kiss Guitarist Ace Frehley Dead at 74",
+          "title": "Ace Frehley, Kiss Guitarist and Founding Member, Is Dead at 74",
           "snippet": "",
-          "url": "https://www.rollingstone.com/music/music-news/kiss-guitarist-ace-frehley-dead-1235448770/",
-          "source": "Rolling Stone"
+          "url": "https://www.nytimes.com/2025/10/16/arts/music/ace-frehley-dead.html",
+          "source": "The New York Times"
         },
         {
           "title": "Gene Simmons and Paul Stanley Pay Tribute to Kiss Guitarist Ace Frehley: “Irreplaceable Rock Soldier”",
@@ -149,9 +177,9 @@
       "pictureSource": "Politiken",
       "relatedSearch": [
         {
-          "title": "Alt for meget kultur og ånd er skyllet ud med det sekulære badevand",
+          "title": "Det hele handler om ånd",
           "snippet": "",
-          "url": "https://politiken.dk/debat/debatindlaeg/art10574478/Alt-for-meget-kultur-og-%C3%A5nd-er-skyllet-ud-med-det-sekul%C3%A6re-badevand",
+          "url": "https://politiken.dk/debat/debatindlaeg/art10574478/Det-hele-handler-om-%C3%A5nd",
           "source": "Politiken"
         },
         {
@@ -201,26 +229,26 @@
       "title": "sivas",
       "trafficCount": "500+",
       "pubDate": "Thu, 16 Oct 2025 11:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS353j03hIrFvUu1_J-Lt7yZQKr2fAg_XRAUutHcqKzG3bI-7hK1GqIMJlg6UM",
-      "pictureSource": "Miahaber",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY9tu8raXRQLf8hbGr6v6H7fzQy1rDNUOO1eNE7gTxIWUPH9q-zkLzlLigv0Q",
+      "pictureSource": "Sonsöz Gazetesi",
       "relatedSearch": [
         {
-          "title": "Vali Eldivan, ayçiçeği hasat etti: ''Üretim yapan her çiftçi toprağın bereketini alın teriyle yoğuruyor''",
+          "title": "Sivas’ta Bir İlk: Desenli Asfalt Uygulaması Başladı",
           "snippet": "",
-          "url": "https://miahaber.com.tr/haber/19099/vali-eldivan-aycicegi-hasat-etti-uretim-yapan-her-ciftci-topragin-bereketini-alin-teriyle-yoguruyor",
-          "source": "Miahaber"
+          "url": "https://sonsoz.com.tr/sivasta-bir-ilk-desenli-asfalt-uygulamasi-basladi",
+          "source": "Sonsöz Gazetesi"
         },
         {
-          "title": "Boynunu eğen günebakanlar, üreticinin yüzünü güldürdü",
+          "title": "(VİDEOLU HABER) Kaynaklarımızı verimli kullanıyoruz",
           "snippet": "",
-          "url": "https://www.sonses.tv/boynunu-egen-gunebakanlar-ureticinin-yuzunu-guldurdu",
-          "source": "Sonses TV"
+          "url": "https://www.sultansehirgazetesi.com/haber/_videolu_haber_kaynaklarimizi_verimli_kullaniyoruz_-36245.html",
+          "source": "Sultan Şehir Gazetesi"
         },
         {
-          "title": "Sivas’ta Ayçiçeği Hasadı Çiftçilerin Yüzünü Güldürdü",
+          "title": "Hem Hizmet Hem Tasarruf...",
           "snippet": "",
-          "url": "https://www.sivashaberler.com/sivasta-aycicegi-hasadi-ciftcilerin-yuzunu-guldurdu/",
-          "source": "www.sivashaberler.com"
+          "url": "https://sivas.bel.tr/haber/hem-hizmet-hem-tasarruf",
+          "source": "Sivas Belediyesi"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -235,42 +263,20 @@
         {
           "title": "Caroline Fleming afslører venskab med Bendtners ekskæreste: Skyldes særligt én person | Video",
           "snippet": "",
-          "url": "https://www.bt.dk/danske-kendte/caroline-fleming-afsloerer-venskab-med-bendtners-ekskaereste-skyldes-saerligt-en-person?gaa_at=eafs&gaa_n=AWEtsqejnOJqgPfMILRU1L78pHjQfjBBdg86-73cOta9p0gEkwYdYUwYISFI&gaa_ts=68f20738&gaa_sig=ll6bb-3Hr1MFIYSaHXxWYIxehVPSaiJOx022cwhtOpi5HerK641kggOem35x1za-Z8k4Ljj0zgcOyhtM6CjhUw%3D%3D",
+          "url": "https://www.bt.dk/danske-kendte/caroline-fleming-afsloerer-venskab-med-bendtners-ekskaereste-skyldes-saerligt-en-person?gaa_at=eafs&gaa_n=AWEtsqcTZpGBNbPwnQQ2PAXpT2LnLpiFmd-MZH0v7LRvVgsQO9bMORQlnBfT&gaa_ts=68f20bd8&gaa_sig=I9nJ-b-Hg1sE5JlM1XSCTnzppMgKgoDCWuTjO9WZddSEKpH9os5iAEmQZeaDDd26YzpPMNSQ5JFhIc7lEzXTyQ%3D%3D",
           "source": "B.T."
+        },
+        {
+          "title": "Caroline Fleming oplever det lige efter sin operation: Det, hendes børn gør, går lige i hjertet",
+          "snippet": "",
+          "url": "https://www.billedbladet.dk/kendte/danmark/tv/tv3/caroline-fleming-oplever-det-lige-efter-sin-operation-det-hendes-boern-goer",
+          "source": "BILLED-BLADET"
         },
         {
           "title": "Bendtners søn stiller særligt krav: Vil have penge for at medvirke i Caroline Flemings tv-program | Video",
           "snippet": "",
-          "url": "https://www.bt.dk/danske-kendte/bendtners-soen-stiller-saerligt-krav-vil-have-penge-for-at-medvirke-i-caroline-flemings-tv-program?gaa_at=eafs&gaa_n=AWEtsqfF4l4llFl6hSyEqdoSS7XDB33pQ_bUlAyszpQUpYUm-XllP3PveHsp&gaa_ts=68f20738&gaa_sig=5jebL3S8gMDv2nB217tOGBy96MLE16LncRby3l5dwrBB3biLlmIG8amOVN3PVGl8zP7rFLh_eTZcVSgwo6ngOQ%3D%3D",
+          "url": "https://www.bt.dk/danske-kendte/bendtners-soen-stiller-saerligt-krav-vil-have-penge-for-at-medvirke-i-caroline-flemings-tv-program?gaa_at=eafs&gaa_n=AWEtsqfR9gCYKNnfgyb11XdaGkUpuzNpEvZaie4ON3ck98dt90eVJ3ijZsB5&gaa_ts=68f20bd8&gaa_sig=idrNMQMDRi3La6-u9akDmwTx0zApV2UHCpnsOtwvtDIxsjlLSoirrWltr8cmm5JzJZG2L5iJkWQZ5kZUXiC9bg%3D%3D",
           "source": "B.T."
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "fucsovics",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 16 Oct 2025 11:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVwxgdEzzQxdIkjYRnFiETWWVPJBuSTnG66N7P0mdR3RhUSABUCBo9ilxZtbg",
-      "pictureSource": "ATP Tour",
-      "relatedSearch": [
-        {
-          "title": "Top seed Rune escapes late jam to win Stockholm opener",
-          "snippet": "",
-          "url": "https://www.atptour.com/en/news/rune-fucsovics-stockholm-2025-thursday",
-          "source": "ATP Tour"
-        },
-        {
-          "title": "ATP Stockholm Jesper De Jong vs Marton Fucsovics 🧠 Form & Context 🇳🇱 Jesper De Jong (No. 82, 25, right, 180 cm/70 kg) 2025: 35–30 | Hard 8–7 | Indoors 3–2 | Grass 2–5 | Clay 22–15. ✅ Strong summer on clay (Båstad F; QF wins over Griekspoor/Ugo Car",
-          "snippet": "",
-          "url": "https://x.com/Probahis/status/1978338107100426444",
-          "source": "X"
-        },
-        {
-          "title": "Holger Rune vs Tomas Martin Etcheverry Prediction: Rune's 76% Edge Ignites Martín Etcheverry's Upset Quest",
-          "snippet": "",
-          "url": "https://www.telecomasia.net/sports-betting/tips/tennis/holger-rune-vs-tomas-martin-etcheverry-prediction-for-the-match-on-october-17-2025/",
-          "source": "Telecom Asia Sport"
         }
       ],
       "link": "https://imtaqin.id/"

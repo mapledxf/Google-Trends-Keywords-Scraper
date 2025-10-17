@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-10-17 17:43:04",
+  "lastUpdate": "2025-10-17 17:51:08",
   "data": [
+    {
+      "title": "сериал офсайд",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 17 Oct 2025 10:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREFMhT-HdSHJklbMyBTzcwLLXxtYPq_PHQy-NkEaQSEPgqkT47XvXrIUfeUdg",
+      "pictureSource": "Tengrinews",
+      "relatedSearch": [
+        {
+          "title": "“Это катастрофа“: депутат возмутился бранью в казахстанских сериалах и потребовал мер",
+          "snippet": "",
+          "url": "https://tengrinews.kz/kazakhstan_news/eto-katastrofa-deputat-vozmutilsya-branyu-kazahstanskih-583269/",
+          "source": "Tengrinews"
+        },
+        {
+          "title": "\"Вряд ли за Вас кто-то голосовал\": актер Рустем Омаров ответил на критику депутата мажилиса",
+          "snippet": "",
+          "url": "https://www.nur.kz/showbiz/scandals/2298315-vryad-li-za-vas-kto-to-golosoval-akter-rustem-omarov-otvetil-na-kritiku-deputata-mazhilisa/",
+          "source": "NUR.KZ"
+        },
+        {
+          "title": "Депутат Кудайберген Бексултанов обеспокоен детскими матами",
+          "snippet": "",
+          "url": "https://www.zakon.kz/obshestvo/6494326-deputat-kudaybergen-beksultanov-obespokoen-detskimi-matami.html",
+          "source": "Новости Zakon.kz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "ставка на любовь",
       "trafficCount": "200+",
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://gpvn.ru/86626",
           "source": "Генплан Великого Новгорода"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "рустем омаров",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 17 Oct 2025 08:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREFMhT-HdSHJklbMyBTzcwLLXxtYPq_PHQy-NkEaQSEPgqkT47XvXrIUfeUdg",
-      "pictureSource": "Tengrinews",
-      "relatedSearch": [
-        {
-          "title": "“Это катастрофа“: депутат возмутился бранью в казахстанских сериалах и потребовал мер",
-          "snippet": "",
-          "url": "https://tengrinews.kz/kazakhstan_news/eto-katastrofa-deputat-vozmutilsya-branyu-kazahstanskih-583269/",
-          "source": "Tengrinews"
-        },
-        {
-          "title": "\"Вряд ли за Вас кто-то голосовал\": актер Рустем Омаров ответил на критику депутата мажилиса",
-          "snippet": "",
-          "url": "https://www.nur.kz/showbiz/scandals/2298315-vryad-li-za-vas-kto-to-golosoval-akter-rustem-omarov-otvetil-na-kritiku-deputata-mazhilisa/",
-          "source": "NUR.KZ"
-        },
-        {
-          "title": "Депутат Кудайберген Бексултанов обеспокоен детскими матами",
-          "snippet": "",
-          "url": "https://www.zakon.kz/obshestvo/6494326-deputat-kudaybergen-beksultanov-obespokoen-detskimi-matami.html",
-          "source": "Новости Zakon.kz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,16 +99,16 @@
           "source": "Новости Zakon.kz"
         },
         {
-          "title": "Потребители выиграют, а фермеры пострадают? Как ввоз дешёвого мяса в Казахстан повлияет на рынок",
-          "snippet": "",
-          "url": "https://informburo.kz/novosti/potrebiteli-vyigraiut-a-fermery-postradaiut-kak-vvoz-desevogo-miasa-v-kazaxstan-povliiaet-na-rynok",
-          "source": "Informburo.kz"
-        },
-        {
           "title": "Удешевленное мясо начнут поставлять во все регионы Казахстана",
           "snippet": "",
           "url": "https://ulysmedia.kz/news/60743-udeshevlennoe-miaso-nachnut-postavliat-vo-vse-regiony-kazakhstana/",
           "source": "Ulysmedia.kz"
+        },
+        {
+          "title": "Ограничить вывоз говядины за пределы Казахстана предложили в правительстве",
+          "snippet": "",
+          "url": "https://informburo.kz/novosti/ogranicit-vyvoz-goviadiny-za-predely-kazaxstana-predlozili-v-pravitelstve",
+          "source": "Informburo.kz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,10 +245,10 @@
           "source": "Новости Zakon.kz"
         },
         {
-          "title": "Анарбеков и Сатпаев сыграют за «Кайрат» впервые после травмы",
+          "title": "Путь к чемпионству? Где и во сколько смотреть матч Кызылжар – Кайрат",
           "snippet": "",
-          "url": "https://www.inform.kz/ru/anarbekov-isatpaev-sigrayut-zakayrat-vpervie-posle-travmi-b434eb",
-          "source": "Казинформ"
+          "url": "https://sportplustv.kz/ru/news/put-k-cempionstvu-gde-i-vo-skolko-smotret-matc-kyzylzar-kairat",
+          "source": "Sport Plus Qazaqstan"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,26 +257,26 @@
       "title": "даниил медведев",
       "trafficCount": "100+",
       "pubDate": "Fri, 17 Oct 2025 02:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIuL2tI3Vtu0r7ucb8J70j9zF5s4nF20YMVakqMYY7sSZ0hPG22LB10Y5cns4",
-      "pictureSource": "Спорт Mail",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHhmJrDNeeePoWr91f0u4x1MKZ3DS7BgZEVoViibQmG1rRYf4XK_UlRq3TluM",
+      "pictureSource": "Новости Zakon.kz",
       "relatedSearch": [
         {
-          "title": "Теннисист Даниил Медведев назвал худший для себя момент в сезоне",
+          "title": "На Almaty Open-2025 определились первые полуфиналисты в одиночке",
           "snippet": "",
-          "url": "https://sportmail.ru/article/tennis/68354362/",
+          "url": "https://www.zakon.kz/sport/6494612-na-Almaty-Open2025-opredelilis-pervye-polufinalisty-v-odinochke.html",
+          "source": "Новости Zakon.kz"
+        },
+        {
+          "title": "Медведев оценил реванш над австралийцем на турнире в Алма-Ате",
+          "snippet": "",
+          "url": "https://sportmail.ru/article/tennis/68335802/",
           "source": "Спорт Mail"
         },
         {
-          "title": "Даниил Медведев - об игре: Всё уже на хорошем уровне, ведь я был первой ракеткой мира. Но в некоторых небольших аспектах надо прибавить",
+          "title": "Даниил Медведев: В Алматы приятно играть – это самый близкий к дому турнир",
           "snippet": "",
-          "url": "https://gotennis.ru/read/news/daniil_medvedev_-_ob_igre_vsyo_uzhe_na_horoshem_urovne_ved_ya_byl_pervoji_raketkoji_mira__no_v_nekot.html",
-          "source": "GoTennis.ru"
-        },
-        {
-          "title": "Медведев: «Если бы я в жизни был такой же, как на корте, со мной никто бы не стал работать»",
-          "snippet": "",
-          "url": "https://www.sport-express.net/tennis/atp/news/rossiyskiy-tennisist-daniil-medvedev-rasskazal-o-vliyanii-pressy-na-kareru-2368008/",
-          "source": "sport-express.ru"
+          "url": "https://informburo.kz/novosti/daniil-medvedev-v-almaty-priiatno-igrat-eto-samyi-blizkii-k-domu-turnir",
+          "source": "Informburo.kz"
         }
       ],
       "link": "https://imtaqin.id/"

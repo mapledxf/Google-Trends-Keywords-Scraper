@@ -1,65 +1,93 @@
 {
-  "lastUpdate": "2025-10-20 08:40:05",
+  "lastUpdate": "2025-10-20 08:56:34",
   "data": [
+    {
+      "title": "test",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 20 Oct 2025 01:30:00 -0700",
+      "picture": "",
+      "pictureSource": "The Guardian",
+      "relatedSearch": [
+        {
+          "title": "Truce resumes after Israeli airstrikes on Gaza amid scramble to shore up ceasefire – Middle East crisis live",
+          "snippet": "",
+          "url": "https://www.theguardian.com/world/live/2025/oct/20/gaza-ceasefire-israel-hamas-palestine-hostages-middle-east-crisis-live-news-updates",
+          "source": "The Guardian"
+        },
+        {
+          "title": "IDF says soldiers fired on several terror operatives who approached troops in eastern Gaza",
+          "snippet": "",
+          "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-soldiers-fired-on-several-terror-operatives-who-approached-troops-in-eastern-gaza/",
+          "source": "The Times of Israel"
+        },
+        {
+          "title": "Israel resumes ceasefire in Gaza and says aid deliveries will restart Monday",
+          "snippet": "",
+          "url": "https://apnews.com/article/israel-palestinians-hamas-war-news-10-19-2025-f3d95cf76018541ff824853d1bcd3356",
+          "source": "AP News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "coinbase",
       "trafficCount": "200+",
       "pubDate": "Mon, 20 Oct 2025 01:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYQoehawuJPcQ97YZH-5BEW1xYa79JCEtcEi57yEj0rgHE7OjSmjzMMHRP82k",
-      "pictureSource": "Crypto News",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeslG8Z9Mt89E3PBWB3Z66D0HUVHahqd5DV0Z1s_ov3pBQqgRvvchEV6irzcU",
+      "pictureSource": "breakingthenews.net",
       "relatedSearch": [
         {
-          "title": "U.S. Democratic lawmakers to hold crypto roundtable on Oct. 22",
+          "title": "Coinbase: Issues with login, buying, selling",
           "snippet": "",
-          "url": "https://crypto.news/u-s-democratic-lawmakers-crypto-roundtable-2025/",
-          "source": "Crypto News"
+          "url": "https://breakingthenews.net/Article/Coinbase:-Issues-with-login-buying-selling/65008323",
+          "source": "breakingthenews.net"
         },
         {
-          "title": "Crypto’s new Capitol Hill headache",
+          "title": "Snapchat and Duolingo among major apps down in Amazon Web Services outage - live updates",
           "snippet": "",
-          "url": "https://www.politico.com/live-updates/2025/10/15/congress/cryptos-senate-breakdown-00608878",
-          "source": "Politico"
+          "url": "https://www.bbc.com/news/live/c5y8k7k6v1rt",
+          "source": "BBC"
         },
         {
-          "title": "Ripple, Coinbase, Among Others Meeting Democrats Ahead of Crypto ETF Approvals",
+          "title": "A lot of the internet just stopped working",
           "snippet": "",
-          "url": "https://coingape.com/ripple-coinbase-among-others-meeting-democrats-ahead-crypto-etf-approvals/",
-          "source": "CoinGape"
+          "url": "https://www.independent.co.uk/tech/snapchat-roblox-duolingo-fortnite-down-not-working-b2848289.html",
+          "source": "The Independent"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "snapchat",
-      "trafficCount": "5000+",
+      "trafficCount": "10000+",
       "pubDate": "Mon, 20 Oct 2025 00:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBjrhdlQGA1SS3jzzkOm-PeKIBMQcO4Jr0Md5QsZZOGZi8UsgmViUPiFnNyr8",
-      "pictureSource": "The Independent",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSklL3VQC4Cx7vrTixBYi_e2Ew3iY3mCCbFT1cdEUgK1OLSC7-WVw59jTV0j74",
+      "pictureSource": "Dataconomy",
       "relatedSearch": [
-        {
-          "title": "A lot of the internet just stopped working",
-          "snippet": "",
-          "url": "https://www.independent.co.uk/tech/snapchat-roblox-duolingo-fortnite-down-not-working-b2848289.html",
-          "source": "The Independent"
-        },
-        {
-          "title": "Internet latest: Huge outage knocks out Amazon, Snapchat and multiple other websites, apps and games",
-          "snippet": "",
-          "url": "https://news.sky.com/story/huge-internet-outage-knocks-out-snapchat-amazon-and-multiple-other-websites-and-apps-13453810",
-          "source": "Sky News"
-        },
         {
           "title": "Amazon Down: Widespread AWS Outage Takes Down Internet",
           "snippet": "",
           "url": "https://dataconomy.com/2025/10/20/amazon-down-widespread-aws-outage-takes-down-internet/",
           "source": "Dataconomy"
+        },
+        {
+          "title": "A lot of the internet just stopped working",
+          "snippet": "",
+          "url": "https://www.the-independent.com/tech/snapchat-roblox-duolingo-fortnite-down-not-working-b2848289.html",
+          "source": "The Independent"
+        },
+        {
+          "title": "Breaking: Amazon cloud platform and other websites experiencing outages",
+          "snippet": "",
+          "url": "https://www.abc.net.au/news/2025-10-20/amazon-aws-experiencing-online-outage/105913856",
+          "source": "Australian Broadcasting Corporation"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "snapchat storing",
-      "trafficCount": "10000+",
+      "trafficCount": "20000+",
       "pubDate": "Mon, 20 Oct 2025 00:20:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRT-qVuIu-no5AKwumjEBakjNwB5mhgj0L99JlTYp1wr3ANkfvfNaI0KlN87g",
       "pictureSource": "Tweakers",
@@ -77,10 +105,10 @@
           "source": "De Telegraaf"
         },
         {
-          "title": "Storing bij Roblox zorgt voor valse start van de week",
+          "title": "Geen Snapchat, Signal of Roblox. Apps liggen eruit door storing bij servers Amazon Web Services",
           "snippet": "",
-          "url": "https://www.xgn.nl/nieuws/storing-bij-roblox-zorgt-voor-valse-start-van-de-week",
-          "source": "XGN.nl"
+          "url": "https://dvhn.nl/meer/tech/geen-snapchat-signal-of-roblox.-apps-liggen-eruit-door-storing-bij-servers-amazon-web-services-47584585.html",
+          "source": "Dagblad van het Noorden"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,9 +145,15 @@
       "title": "file a12",
       "trafficCount": "100+",
       "pubDate": "Sun, 19 Oct 2025 23:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRs2vNheu4_Ar9YRsYs6HqvmmdhIiSOU-Rv0A1ekIUSrZfXfpkOg4lqRAVZX4U",
-      "pictureSource": "Omroep Gelderland",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTt1nQ-L9v4U9aDLMkqg6gxQogzp-28uDaUxT2Uzxq6HdRHuPdVFYOUQVJbqeM",
+      "pictureSource": "De Gelderlander",
       "relatedSearch": [
+        {
+          "title": "Zeer lange file A12 door ongeluk",
+          "snippet": "",
+          "url": "https://www.gelderlander.nl/home/zeer-lange-file-a12-door-ongeluk~a4c452e9/",
+          "source": "De Gelderlander"
+        },
         {
           "title": "Megafile op A12, verkeer muurvast",
           "snippet": "",
@@ -129,14 +163,8 @@
         {
           "title": "Kapotte vrachtwagen: wéér lange file A12",
           "snippet": "",
-          "url": "https://www.gelderlander.nl/nieuws/kapotte-vrachtwagen-weer-lange-file-a12~a3d1353b/",
-          "source": "De Gelderlander"
-        },
-        {
-          "title": "Verkeer loopt vast op A12 richting Arnhem",
-          "snippet": "",
-          "url": "https://www.rtvconnect.nl/nieuws/artikel/verkeer-loopt-vast-op-a12-richting-arnhem",
-          "source": "RTV Connect"
+          "url": "https://www.ad.nl/arnhem/kapotte-vrachtwagen-weer-lange-file-a12~a3d1353b/",
+          "source": "AD.nl"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,10 +183,10 @@
           "source": "ESPNcricinfo"
         },
         {
-          "title": "Maharaj returns for South Africa. Pakistan wins toss and elects to bat in 2nd cricket test",
+          "title": "Spinner Maharaj to return for South Africa against Pakistan | Tap to know more | Inshorts",
           "snippet": "",
-          "url": "https://ca.sports.yahoo.com/news/maharaj-returns-south-africa-pakistan-051048663.html",
-          "source": "Yahoo"
+          "url": "https://inshorts.com/en/news/spinner-maharaj-to-return-for-south-africa-against-pakistan-1760896714773",
+          "source": "Inshorts"
         },
         {
           "title": "Over 5,500 police officials deployed for Test match",
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.bnr.nl/podcast/thebigfive/10585281/eddy-van-hijum-nsc-ik-vraag-de-kiezer-om-een-tweede-kans",
           "source": "bnr.nl"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "weeronline",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 19 Oct 2025 21:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbtyCfBkmpkK_w9jirLIMmx7X1H0-eDygI6ZD-mMGPchji7owa7REwqrnr96M",
-      "pictureSource": "NU",
-      "relatedSearch": [
-        {
-          "title": "Het is nu écht voorbij die mooie zomer: reeks zacht weer na 175 dagen ten einde",
-          "snippet": "",
-          "url": "https://www.nu.nl/binnenland/6372875/het-is-nu-echt-voorbij-die-mooie-zomer-reeks-zacht-weer-na-175-dagen-ten-einde.html",
-          "source": "NU"
-        },
-        {
-          "title": "Voor het eerst in bijna een halfjaar nergens warmer dan 15 graden",
-          "snippet": "",
-          "url": "https://www.bd.nl/binnenland/voor-het-eerst-in-bijna-een-halfjaar-nergens-warmer-dan-15-graden~ae82c960/",
-          "source": "Brabants Dagblad"
-        },
-        {
-          "title": "Voor het eerst sinds 24 april nergens 15 graden in het land",
-          "snippet": "",
-          "url": "https://www.weeronline.nl/nieuws/18-10-2025-voor-het-eerst-sinds-24-april-nergens-15-graden",
-          "source": "Weeronline"
         }
       ],
       "link": "https://imtaqin.id/"

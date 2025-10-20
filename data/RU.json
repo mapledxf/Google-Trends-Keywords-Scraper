@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-10-20 02:44:00",
+  "lastUpdate": "2025-10-20 03:39:40",
   "data": [
+    {
+      "title": "новости украина",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 19 Oct 2025 19:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7r-CUHZoZqE3U04rsdeIwQPSrPIIk6WADUeiUrjI3NhaK2g2tPauQQrwvSt0",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Война в Украине: на встрече в Вашингтоне Трамп убеждал Зеленского принять условия Кремля, сообщает FT",
+          "snippet": "",
+          "url": "https://www.bbc.com/russian/live/c306m63vp68t",
+          "source": "BBC"
+        },
+        {
+          "title": "Что пишут о переговорах Трампа и Зеленского западные СМИ",
+          "snippet": "",
+          "url": "https://www.bbc.com/russian/articles/ce3k2y7gww8o",
+          "source": "BBC"
+        },
+        {
+          "title": "Трамп на встрече с Зеленским убеждал его согласиться на уступки РФ",
+          "snippet": "",
+          "url": "https://www.interfax.ru/world/1053499",
+          "source": "Интерфакс"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "болид",
       "trafficCount": "200+",
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://nsk.bfm.ru/news/55215",
           "source": "BFM-Новосибирск"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "новости украина",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 19 Oct 2025 19:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgmhyZ7k_ca6EwoztrirbwG5LXV2kmteaJn9kO_kw_x5-WVOIOsJ6hfDVHZ24",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Что пишут о переговорах Трампа и Зеленского западные СМИ",
-          "snippet": "",
-          "url": "https://www.bbc.com/russian/articles/ce3k2y7gww8o",
-          "source": "BBC"
-        },
-        {
-          "title": "Трамп на встрече с Зеленским убеждал его согласиться на уступки РФ",
-          "snippet": "",
-          "url": "https://www.interfax.ru/world/1053499",
-          "source": "Интерфакс"
-        },
-        {
-          "title": "Попытка номер два",
-          "snippet": "",
-          "url": "https://www.svoboda.org/a/popytka-nomer-dva/33562963.html",
-          "source": "Радио Свобода"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -87,56 +87,28 @@
     },
     {
       "title": "самолёт",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 19 Oct 2025 18:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFk1fOhE_ooi_YJrNWwblxXIuJ-Glv9H_24vDgLy4MjQM8DDFElAjpGld0hbo",
-      "pictureSource": "Интерфакс",
-      "relatedSearch": [
-        {
-          "title": "Самолет AZAL выкатился за пределы ВВП после экстренной посадки в Пулково",
-          "snippet": "",
-          "url": "https://www.interfax.ru/russia/1053507",
-          "source": "Интерфакс"
-        },
-        {
-          "title": "В Пулково временно приостанавливали работу из-за выкатившегося за ВПП самолета",
-          "snippet": "",
-          "url": "https://www.bfm.ru/news/587275",
-          "source": "BFM.ru"
-        },
-        {
-          "title": "Пассажирский самолет готовится к аварийной посадке в Пулково",
-          "snippet": "",
-          "url": "https://spbdnevnik.ru/news/2025-10-20/passazhirskiy-samolet-gotovitsya-k-avariynoy-posadke-v-pulkovo",
-          "source": "spbdnevnik.ru"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "как отдыхаем в ноябре 2025",
       "trafficCount": "1000+",
-      "pubDate": "Sun, 19 Oct 2025 18:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZiC-TRbeXigFt4M3tJ9LFUt-FbkVViqDpQpDfWVxUZ44emKoOeViUstC4yck",
-      "pictureSource": "Улправда",
+      "pubDate": "Sun, 19 Oct 2025 18:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3eRcLaZd8oPesSt2gPfkyYvmMSoCB64bhXRpTtchrJtvEclJ50S_Q7M25DTE",
+      "pictureSource": "Gismeteo",
       "relatedSearch": [
         {
-          "title": "В какие числа ульяновцы отдохнут в ноябре",
+          "title": "Катастрофа в Гонконге: самолёт Emirates укатился в море после посадки",
           "snippet": "",
-          "url": "https://ulpravda.ru/rubrics/soc/v-kakie-chisla-ulianovtsy-otdokhnut-v-noiabre",
-          "source": "Улправда"
+          "url": "https://www.gismeteo.ru/news/science/katastrofa-v-gonkonge-samoljot-emirates-ukatilsya-v-more-posle-posadki/",
+          "source": "Gismeteo"
         },
         {
-          "title": "Шестидневка с нюансиком: приморцам предстоит усердно потрудится — когда?",
+          "title": "Число погибших из-за выкатившегося с ВПП самолета в Гонконге увеличилось до двух",
           "snippet": "",
-          "url": "https://vostokmedia.com/news/2025-10-19/shestidnevka-s-nyuansikom-primortsam-predstoit-userdno-potruditsya-kogda-5493277",
-          "source": "Восток-Медиа"
+          "url": "https://news.rambler.ua/incidents/55487299-chislo-pogibshih-iz-za-vykativshegosya-s-vpp-samoleta-v-gonkonge-uvelichilos-do-dvuh/",
+          "source": "Рамблер"
         },
         {
-          "title": "Как законно отказаться от шестидневной рабочей недели в октябре и продлить отдых",
+          "title": "Грузовой Boeing выкатился за пределы взлетной полосы в Гонконге и упал в море",
           "snippet": "",
-          "url": "https://magadanmedia.ru/news/2263893/",
-          "source": "MagadanMedia"
+          "url": "https://www.inform.kz/ru/gruzovoy-boeing-vikatilsya-za-predeli-vzletnoy-polosi-v-gonkonge-i-upal-v-more",
+          "source": "Казинформ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,14 +117,14 @@
       "title": "взломали мессенджер max",
       "trafficCount": "5000+",
       "pubDate": "Sun, 19 Oct 2025 17:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHbDeN8IjR8wguRIDuyWVCc5wc1NEbgcL8D6MNP7oa3Ct8XX-AJr-MCTnCQbY",
-      "pictureSource": "Forbes.ru",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzChKtdxz8PZhiRm9B_3zYe9dnJu3c71sOroZlIR3EUOW6Cl-UUUGN2iaBOHk",
+      "pictureSource": "Москвич Mag",
       "relatedSearch": [
         {
-          "title": "В Max назвали фейком информацию об утечке данных пользователей мессенджера",
+          "title": "В пресс-службе Max отрицают взлом мессенджера и утечку данных всех пользователей",
           "snippet": "",
-          "url": "https://www.forbes.ru/tekhnologii/548176-v-max-nazvali-fejkom-informaciu-ob-utecke-dannyh-pol-zovatelej-messendzera",
-          "source": "Forbes.ru"
+          "url": "https://moskvichmag.ru/gorod/v-press-sluzhbe-max-otritsayut-vzlom-messendzhera-i-utechku-dannyh-vseh-polzovatelej/",
+          "source": "Москвич Mag"
         },
         {
           "title": "В интернете распространились фейковые публикации о взломе мессенджера МАХ",
@@ -208,7 +180,7 @@
     },
     {
       "title": "день народного единства",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 19 Oct 2025 16:20:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0uvnJqiYDpU_kpGoCkPguhwNshHyJX-ITcXdPwOnC9ONguLMxkOrgllMdzNU",
       "pictureSource": "Учительская газета",
@@ -238,26 +210,54 @@
       "title": "kick",
       "trafficCount": "200+",
       "pubDate": "Sun, 19 Oct 2025 15:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6n90RdM820aBuc1oQoiICXh2YeCYOfKw-7tHHCEx_avaWrHH02pZnPT1p28E",
-      "pictureSource": "WRIC ABC 8News",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpXGLwnMZXywlKkIgy1tPQdwIzPtuUxf3JYuiUaEkO2gRYxDi4rVYeDmWOPTo",
+      "pictureSource": "Jakarta Globe",
       "relatedSearch": [
         {
-          "title": "Richmond’s Resturaunt week is set to kick off",
+          "title": "From Wall Street to Jakarta: Stocks Kick Off the Week Up 1 Percent",
           "snippet": "",
-          "url": "https://www.wric.com/news/local-news/richmond/richmonds-resturaunt-week-is-set-to-kick-off/",
-          "source": "WRIC ABC 8News"
+          "url": "https://jakartaglobe.id/business/from-wall-street-to-jakarta-stocks-kick-off-the-week-up-1-percent",
+          "source": "Jakarta Globe"
         },
         {
-          "title": "JUST AS GOOD AS A WIN: Lavelle's late goal lifts Gotham FC to 2-2 draw and into NWSL playoffs",
+          "title": "Indonesia's Purbaya Says Market Fluctuations Benefit Investors",
           "snippet": "",
-          "url": "https://www.frontrowsoccer.com/2025/10/19/just-as-good-as-a-win-lavelles-late-goal-lifts-gotham-fc-to-2-2-draw-and-into-nwsl-playoffs/",
-          "source": "Front Row Soccer"
+          "url": "https://en.tempo.co/read/2058278/indonesias-purbaya-says-market-fluctuations-benefit-investors",
+          "source": "Tempo.co English"
         },
         {
-          "title": "Lavelle goal helps Gotham seal NWSL playoff spot",
+          "title": "Indonesia stocks lower at close of trade; IDX Composite Index down 2.45%",
           "snippet": "",
-          "url": "https://www.espn.com/soccer/story/_/id/46654388/gotham-clinches-nwsl-playoff-spot-draw-louisville",
-          "source": "ESPN"
+          "url": "https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-245-4293881",
+          "source": "Investing.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "шумахер",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 19 Oct 2025 15:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiOs2kjog44DpJ8B1BMrFqM3iaBiTnogxUQPM4UyzsYpkCjtimBFPaG6tEQEY",
+      "pictureSource": "Autosport.com.ru",
+      "relatedSearch": [
+        {
+          "title": "Стали известны новые подробности инцидента в доме Михаэля Шумахера",
+          "snippet": "",
+          "url": "https://autosport.com.ru/f1/100709-stali-izvestny-novye-podrobnosti-incidenta-v-dome-mihaelya-shumahera",
+          "source": "Autosport.com.ru"
+        },
+        {
+          "title": "Дом семьи Шумахера мог стать местом преступления",
+          "snippet": "",
+          "url": "https://www.f1news.ru/news/f1-184963.html",
+          "source": "F1News"
+        },
+        {
+          "title": "Медсестру Шумахера изнасиловали в его доме после вечеринки",
+          "snippet": "",
+          "url": "https://oxu.az/ru/v-mire/medsestru-shumahera-iznasilovali-v-ego-dome-posle-vecherinki",
+          "source": "Oxu.Az"
         }
       ],
       "link": "https://imtaqin.id/"

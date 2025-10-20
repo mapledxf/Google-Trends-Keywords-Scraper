@@ -1,24 +1,24 @@
 {
-  "lastUpdate": "2025-10-20 08:56:34",
+  "lastUpdate": "2025-10-20 09:04:59",
   "data": [
     {
       "title": "test",
       "trafficCount": "500+",
       "pubDate": "Mon, 20 Oct 2025 01:30:00 -0700",
-      "picture": "",
-      "pictureSource": "The Guardian",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVaqXDdTHsyivK5_SvSUVFHKEU_sA61F7xv6rj_v_ao5mU-mIxbHcD12zfoZo",
+      "pictureSource": "The New York Times",
       "relatedSearch": [
+        {
+          "title": "Israel Strikes Gaza and Temporarily Halts Aid, Saying Hamas Broke Truce",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/10/19/world/middleeast/israel-gaza-ceasefire.html",
+          "source": "The New York Times"
+        },
         {
           "title": "Truce resumes after Israeli airstrikes on Gaza amid scramble to shore up ceasefire – Middle East crisis live",
           "snippet": "",
           "url": "https://www.theguardian.com/world/live/2025/oct/20/gaza-ceasefire-israel-hamas-palestine-hostages-middle-east-crisis-live-news-updates",
           "source": "The Guardian"
-        },
-        {
-          "title": "IDF says soldiers fired on several terror operatives who approached troops in eastern Gaza",
-          "snippet": "",
-          "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-soldiers-fired-on-several-terror-operatives-who-approached-troops-in-eastern-gaza/",
-          "source": "The Times of Israel"
         },
         {
           "title": "Israel resumes ceasefire in Gaza and says aid deliveries will restart Monday",
@@ -30,18 +30,12 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "coinbase",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 20 Oct 2025 01:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeslG8Z9Mt89E3PBWB3Z66D0HUVHahqd5DV0Z1s_ov3pBQqgRvvchEV6irzcU",
-      "pictureSource": "breakingthenews.net",
+      "title": "snapchat",
+      "trafficCount": "10000+",
+      "pubDate": "Mon, 20 Oct 2025 00:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqeoXwgLD312YNk2Wd-Lf-wVr39hLupZPjDpvjQ0y8tHpF4kPUDVaS5U9tBrA",
+      "pictureSource": "BBC",
       "relatedSearch": [
-        {
-          "title": "Coinbase: Issues with login, buying, selling",
-          "snippet": "",
-          "url": "https://breakingthenews.net/Article/Coinbase:-Issues-with-login-buying-selling/65008323",
-          "source": "breakingthenews.net"
-        },
         {
           "title": "Snapchat and Duolingo among major apps down in Amazon Web Services outage - live updates",
           "snippet": "",
@@ -49,38 +43,16 @@
           "source": "BBC"
         },
         {
-          "title": "A lot of the internet just stopped working",
+          "title": "AWS Suffers Service Disruption With Thousands Reporting Issues",
           "snippet": "",
-          "url": "https://www.independent.co.uk/tech/snapchat-roblox-duolingo-fortnite-down-not-working-b2848289.html",
-          "source": "The Independent"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "snapchat",
-      "trafficCount": "10000+",
-      "pubDate": "Mon, 20 Oct 2025 00:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSklL3VQC4Cx7vrTixBYi_e2Ew3iY3mCCbFT1cdEUgK1OLSC7-WVw59jTV0j74",
-      "pictureSource": "Dataconomy",
-      "relatedSearch": [
-        {
-          "title": "Amazon Down: Widespread AWS Outage Takes Down Internet",
-          "snippet": "",
-          "url": "https://dataconomy.com/2025/10/20/amazon-down-widespread-aws-outage-takes-down-internet/",
-          "source": "Dataconomy"
+          "url": "https://www.bloomberg.com/news/articles/2025-10-20/aws-suffers-service-disruption-with-thousands-reporting-issues",
+          "source": "Bloomberg.com"
         },
         {
           "title": "A lot of the internet just stopped working",
           "snippet": "",
           "url": "https://www.the-independent.com/tech/snapchat-roblox-duolingo-fortnite-down-not-working-b2848289.html",
           "source": "The Independent"
-        },
-        {
-          "title": "Breaking: Amazon cloud platform and other websites experiencing outages",
-          "snippet": "",
-          "url": "https://www.abc.net.au/news/2025-10-20/amazon-aws-experiencing-online-outage/105913856",
-          "source": "Australian Broadcasting Corporation"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,16 +71,44 @@
           "source": "Tweakers"
         },
         {
-          "title": "Snapchat en Signal kampen met fikse storing: duizenden meldingen van gebruikers",
+          "title": "Snapchat en Signal kampen met fikse cloudstoring: duizenden meldingen van gebruikers wereldwijd",
           "snippet": "",
-          "url": "https://www.telegraaf.nl/binnenland/snapchat-en-signal-kampen-met-fikse-storing-duizenden-meldingen-van-gebruikers/98664446.html",
+          "url": "https://www.telegraaf.nl/binnenland/snapchat-en-signal-kampen-met-fikse-cloudstoring-duizenden-meldingen-van-gebruikers-wereldwijd/98664446.html",
           "source": "De Telegraaf"
         },
         {
-          "title": "Geen Snapchat, Signal of Roblox. Apps liggen eruit door storing bij servers Amazon Web Services",
+          "title": "Grote storing bij Amazon legt sites en apps als Snapchat en Signal plat",
           "snippet": "",
-          "url": "https://dvhn.nl/meer/tech/geen-snapchat-signal-of-roblox.-apps-liggen-eruit-door-storing-bij-servers-amazon-web-services-47584585.html",
-          "source": "Dagblad van het Noorden"
+          "url": "https://www.nu.nl/tech/6373010/grote-storing-bij-amazon-legt-sites-en-apps-als-snapchat-en-signal-plat.html",
+          "source": "NU"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "canva",
+      "trafficCount": "10000+",
+      "pubDate": "Mon, 20 Oct 2025 00:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQK0lSifCJVedKUpufwra7vCWzsZND09uLufbRTvoUDpx5tBphlOaFheMicd2A",
+      "pictureSource": "Mashable India",
+      "relatedSearch": [
+        {
+          "title": "Canva Down For Indian Users Amid Diwali Fervor Triggering Memefest On X; Here's What Happened",
+          "snippet": "",
+          "url": "https://in.mashable.com/tech/101296/canva-down-for-indian-users-amid-diwali-fervor-triggering-memefest-on-x-heres-what-happened",
+          "source": "Mashable India"
+        },
+        {
+          "title": "Canva Suffers Major Outage, Users Unable to Access Platform",
+          "snippet": "",
+          "url": "https://punchng.com/canva-suffers-major-outage-users-unable-to-access-platform/",
+          "source": "Punch Newspapers"
+        },
+        {
+          "title": "Canva Down In India: Users Report Technical Glitch In Photo Editing App",
+          "snippet": "",
+          "url": "https://www.news18.com/tech/canva-down-in-india-users-report-technical-glitch-in-photo-editing-app-ws-e-9647902.html",
+          "source": "News18"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +183,16 @@
           "source": "ESPNcricinfo"
         },
         {
+          "title": "Pakistan win toss and bat in Rawalpindi",
+          "snippet": "",
+          "url": "https://supersport.com/cricket/pakistan-v-south-africa-202526/news/b7f87f9f-0ea7-49c7-b2fc-48a4977514fb/pakistan-win-toss-and-bat-in-rawalpindi",
+          "source": "supersport.com"
+        },
+        {
           "title": "Spinner Maharaj to return for South Africa against Pakistan | Tap to know more | Inshorts",
           "snippet": "",
           "url": "https://inshorts.com/en/news/spinner-maharaj-to-return-for-south-africa-against-pakistan-1760896714773",
           "source": "Inshorts"
-        },
-        {
-          "title": "Over 5,500 police officials deployed for Test match",
-          "snippet": "",
-          "url": "https://www.dawn.com/news/1950003/over-5500-police-officials-deployed-for-test-match",
-          "source": "Dawn"
         }
       ],
       "link": "https://imtaqin.id/"

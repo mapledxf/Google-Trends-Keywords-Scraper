@@ -1,9 +1,18 @@
 {
-  "lastUpdate": "2025-10-20 08:56:42",
+  "lastUpdate": "2025-10-20 09:05:10",
   "data": [
     {
-      "title": "docker",
+      "title": "李聖傑",
       "trafficCount": "100+",
+      "pubDate": "Mon, 20 Oct 2025 01:50:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "docker",
+      "trafficCount": "200+",
       "pubDate": "Mon, 20 Oct 2025 01:40:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRR-12qh04V-XHU0hQxdHE6_uw7ku2e1hS4GyYPtj0HotKnQwxMFdeQPhAYsJA",
       "pictureSource": "XDA",
@@ -67,68 +76,12 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "淡江大學",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 20 Oct 2025 01:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh0viJlfbe0k_8kynFaZLkjOWubLD7TEDSmXileooK_hPFmoe-3H0fS_EoE8w",
-      "pictureSource": "中央社 CNA",
-      "relatedSearch": [
-        {
-          "title": "張家宜引領淡江推動未來素養 榮獲亞太未來學聯盟個人獎",
-          "snippet": "",
-          "url": "https://www.cna.com.tw/postwrite/chi/415776",
-          "source": "中央社 CNA"
-        },
-        {
-          "title": "亞太未來學聯盟年會10/16淡江登場 逾130名國際學者探討AI與永續未來",
-          "snippet": "",
-          "url": "https://www.cna.com.tw/postwrite/chi/415312",
-          "source": "中央社 CNA"
-        },
-        {
-          "title": "文化大學下午3時起停課 明改採遠距教學",
-          "snippet": "",
-          "url": "https://tw.news.yahoo.com/%E6%96%87%E5%8C%96%E5%A4%A7%E5%AD%B8%E4%B8%8B%E5%8D%883%E6%99%82%E8%B5%B7%E5%81%9C%E8%AA%B2-%E6%98%8E%E6%94%B9%E6%8E%A1%E9%81%A0%E8%B7%9D%E6%95%99%E5%AD%B8-061059470.html",
-          "source": "奇摩新聞"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "員山子分洪道",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 20 Oct 2025 00:50:00 -0700",
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "aws",
-      "trafficCount": "2000+",
-      "pubDate": "Mon, 20 Oct 2025 00:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSklL3VQC4Cx7vrTixBYi_e2Ew3iY3mCCbFT1cdEUgK1OLSC7-WVw59jTV0j74",
-      "pictureSource": "Dataconomy",
-      "relatedSearch": [
-        {
-          "title": "Amazon Down: Widespread AWS Outage Takes Down Internet",
-          "snippet": "",
-          "url": "https://dataconomy.com/2025/10/20/amazon-down-widespread-aws-outage-takes-down-internet/",
-          "source": "Dataconomy"
-        },
-        {
-          "title": "A lot of the internet just stopped working",
-          "snippet": "",
-          "url": "https://www.the-independent.com/tech/snapchat-roblox-duolingo-fortnite-down-not-working-b2848289.html",
-          "source": "The Independent"
-        },
-        {
-          "title": "Breaking: Amazon cloud platform and other websites experiencing outages",
-          "snippet": "",
-          "url": "https://www.abc.net.au/news/2025-10-20/amazon-aws-experiencing-online-outage/105913856",
-          "source": "Australian Broadcasting Corporation"
-        }
-      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -207,10 +160,38 @@
           "source": "電腦領域HKEPC Hardware"
         },
         {
-          "title": "大範圍互聯網中斷影響使用亞馬遜網絡服務的網站 —— 《華爾街日報》",
+          "title": "AWS 大規模故障，Perplexity、Canva 等服務受波及",
           "snippet": "",
-          "url": "https://news.futunn.com/hk/post/63502379/widespread-internet-outage-hits-sites-using-amazon-web-services-wsj",
-          "source": "富途牛牛"
+          "url": "https://technews.tw/2025/10/20/aws-is-experiencing-a-major-us-east-1-outage/",
+          "source": "TechNews 科技新報"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "canva",
+      "trafficCount": "20000+",
+      "pubDate": "Mon, 20 Oct 2025 00:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqeoXwgLD312YNk2Wd-Lf-wVr39hLupZPjDpvjQ0y8tHpF4kPUDVaS5U9tBrA",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Snapchat and Duolingo among major apps down in Amazon Web Services outage - live updates",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/c5y8k7k6v1rt",
+          "source": "BBC"
+        },
+        {
+          "title": "AWS Suffers Service Disruption With Thousands Reporting Issues",
+          "snippet": "",
+          "url": "https://www.bloomberg.com/news/articles/2025-10-20/aws-suffers-service-disruption-with-thousands-reporting-issues",
+          "source": "Bloomberg.com"
+        },
+        {
+          "title": "A lot of the internet just stopped working",
+          "snippet": "",
+          "url": "https://www.the-independent.com/tech/snapchat-roblox-duolingo-fortnite-down-not-working-b2848289.html",
+          "source": "The Independent"
         }
       ],
       "link": "https://imtaqin.id/"

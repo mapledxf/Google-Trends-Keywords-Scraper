@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-20 11:55:49",
+  "lastUpdate": "2025-10-20 12:27:49",
   "data": [
     {
       "title": "росстат",
@@ -31,7 +31,7 @@
     },
     {
       "title": "как отдыхаем в ноябре",
-      "trafficCount": "5000+",
+      "trafficCount": "10000+",
       "pubDate": "Mon, 20 Oct 2025 04:20:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUZ6kzeNt-3d3mVbN73XsYU8E0123UJPHrsQu81yvK6dLXdpnmZqBt0QCGojE",
       "pictureSource": "ДОМ.РФ",
@@ -61,37 +61,56 @@
       "title": "кая каллас",
       "trafficCount": "100+",
       "pubDate": "Mon, 20 Oct 2025 04:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRAf5dXXZ0vFLi4_gneW2uvVBSBM6IiN8fJuTeuDsO-QkGuw2GDhe1VB9247LE",
-      "pictureSource": "Интерфакс",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyFuQTih_Q1hmzRk-arexqMHVeCh6k4LEm2dCuuUq9R84-lTJnyx-ZXEIdzTY",
+      "pictureSource": "BFM.ru",
       "relatedSearch": [
         {
-          "title": "Каллас ожидает принятия 19-го пакета санкций ЕС против РФ на этой неделе",
+          "title": "Составить повестку для саммита в Будапеште будет непросто. Комментарий Георгия Бовта",
           "snippet": "",
-          "url": "https://www.interfax.ru/world/1053554",
+          "url": "https://www.bfm.ru/news/587022",
+          "source": "BFM.ru"
+        },
+        {
+          "title": "Песков: Путин и Орбан поддерживают конструктивные отношения",
+          "snippet": "",
+          "url": "https://www.vedomosti.ru/politics/news/2025/10/20/1148215-peskov-putin-i-orban",
+          "source": "Ведомости"
+        },
+        {
+          "title": "У Кремля пока нет деталей формата саммита РФ-США в Венгрии",
+          "snippet": "",
+          "url": "https://www.interfax.ru/russia/1053572",
           "source": "Интерфакс"
-        },
-        {
-          "title": "APA: Австрия намерена одобрить 19-й пакет санкций против России",
-          "snippet": "",
-          "url": "https://finance.mail.ru/article/apa-avstriya-namerena-odobrit-19-y-paket-sankciy-protiv-rossii-68364686/",
-          "source": "Финансы Mail"
-        },
-        {
-          "title": "Австрия поддержала 19-й пакет санкций ЕС против России",
-          "snippet": "",
-          "url": "https://www.dw.com/ru/avstria-podderzala-19j-paket-evropejskih-sankcij-protiv-rossii/a-74410766",
-          "source": "DW"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "дом рф",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 20 Oct 2025 03:50:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyI-_uXujH6VAQpxKOEY1sRS11Jr0dGcLTU1Bbgy8MBvfMmPNGXitiNLEFnz4",
+      "pictureSource": "Финансы Mail",
+      "relatedSearch": [
+        {
+          "title": "Путин провел встречу с главой «Дом.РФ» Мутко",
+          "snippet": "",
+          "url": "https://finance.mail.ru/article/putin-vstretilsya-s-glavoy-dom-rf-mutko-68381291/",
+          "source": "Финансы Mail"
+        },
+        {
+          "title": "Встреча с генеральным директором «ДОМ.РФ» Виталием Мутко",
+          "snippet": "",
+          "url": "http://kremlin.ru/events/president/news/78248",
+          "source": "Президент России"
+        },
+        {
+          "title": "\"ДОМ.РФ\" планирует привлечь через IPO 15-30 млрд руб, разместив 10% акций",
+          "snippet": "",
+          "url": "https://www.interfax.ru/business/1053588",
+          "source": "Интерфакс"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -182,9 +201,15 @@
       "title": "docker",
       "trafficCount": "200+",
       "pubDate": "Mon, 20 Oct 2025 01:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8mPma-zUEa9gr-RnuM0lfBLSZ88aP8yMhOxGZ86Xkf58JL7jUwCeLZz02xzo",
-      "pictureSource": "Analytics Insight",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb6pRBgwfqg350twLTJygd_9XuqVeerpl2wTbNafsVoEcSU2dIl-8xfHKFmAs",
+      "pictureSource": "KDnuggets",
       "relatedSearch": [
+        {
+          "title": "5 Docker Containers for Your AI Infrastructure",
+          "snippet": "",
+          "url": "https://www.kdnuggets.com/5-docker-containers-for-your-ai-infrastructure",
+          "source": "KDnuggets"
+        },
         {
           "title": "Top Docker Courses on Coursera to Take in 2025",
           "snippet": "",
@@ -196,12 +221,6 @@
           "snippet": "",
           "url": "https://thenewstack.io/vert-is-a-file-format-converter-you-can-quickly-deploy-with-docker/",
           "source": "The New Stack"
-        },
-        {
-          "title": "Docker makes Hardened Images Catalog affordable for small businesses",
-          "snippet": "",
-          "url": "https://www.bleepingcomputer.com/news/security/docker-makes-hardened-images-catalog-affordable-for-small-businesses/",
-          "source": "BleepingComputer"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -220,44 +239,44 @@
           "source": "Поиск — Новости науки, технологий и техники"
         },
         {
+          "title": "Europa Clipper и Hera пересекут межзвездный след кометы 3I/ATLAS",
+          "snippet": "",
+          "url": "https://science.mail.ru/news/38288-dva-kosmicheskih-apparata-mogut-proletet-cherez-hvost-komety-3iatlas/",
+          "source": "Наука Mail"
+        },
+        {
           "title": "Один из самых чувствительных в истории оптических инструментов не смог рассмотреть межзвездную комету 3I/ATLAS",
           "snippet": "",
           "url": "https://naked-science.ru/community/1124728",
           "source": "Naked Science"
-        },
-        {
-          "title": "3I/ATLAS: что это за объект, где сейчас находится, траектория и скорость полета, последние новости",
-          "snippet": "",
-          "url": "https://science.mail.ru/articles/38150-3i-atlas/",
-          "source": "Mail.ru"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "ограбление лувра 2025",
+      "title": "perplexity не работает",
       "trafficCount": "500+",
       "pubDate": "Mon, 20 Oct 2025 01:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUc-sjWADUXaPIIsl8hcc054Em069osrU-phN5LXxurxde0RnWXWjoNhWjR1A",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNNu7g0Pg6b30ygVBbK3w0Q11ll0AOTaO9fxY8rPnzq4F9VKIrJvL7-VToQKQ",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Из Лувра средь бела дня украли драгоценности. Часть уже найдена",
+          "title": "Глобальный сбой в работе хостинга AWS: множество приложений, в том числе Zoom, Slack и Duolingo, работают с перебоями",
           "snippet": "",
-          "url": "https://www.bbc.com/russian/articles/ce8zxej0g56o",
+          "url": "https://www.bbc.com/russian/articles/cx2p453jyxjo",
           "source": "BBC"
         },
         {
-          "title": "«Самая дерзкая и, вероятно, самая дорогостоящая кража в истории Лувра»: что известно об ограблении века в главном музее Франции?",
+          "title": "Из-за сбоя в Amazon Web Services оказались недоступны десятки сайтов и приложений, включая Snapchat, Signal и Roblox",
           "snippet": "",
-          "url": "https://m.sobaka.ru/entertainment/art/206411",
-          "source": "Собака.ru"
+          "url": "https://meduza.io/news/2025/10/20/iz-za-sboya-v-amazon-web-services-okazalis-nedostupny-desyatki-saytov-i-prilozheniy-vklyuchaya-snapchat-signal-i-roblox",
+          "source": "Meduza"
         },
         {
-          "title": "Ограбление Лувра. Главное",
+          "title": "Криптобиржи, нейросети и сайты рухнули по всему миру из-за сбоя Amazon",
           "snippet": "",
-          "url": "https://meduza.io/feature/2025/10/19/ograblenie-luvra-glavnoe",
-          "source": "Meduza"
+          "url": "https://www.moscowtimes.ru/2025/10/20/kriptobirzhi-neiroseti-i-saiti-ruhnuli-po-vsemu-miru-iz-za-sboya-amazon-a177663",
+          "source": "Русская служба The Moscow Times"
         }
       ],
       "link": "https://imtaqin.id/"

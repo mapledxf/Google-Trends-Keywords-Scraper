@@ -1,10 +1,47 @@
 {
-  "lastUpdate": "2025-10-20 06:33:32",
+  "lastUpdate": "2025-10-20 06:52:58",
   "data": [
     {
-      "title": "ไอซ์รักชนก",
+      "title": "ธนาคารออมสิน",
       "trafficCount": "200+",
-      "pubDate": "Sun, 19 Oct 2025 23:10:00 -0700",
+      "pubDate": "Sun, 19 Oct 2025 23:00:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "กระทรวง",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 19 Oct 2025 22:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5h7LWyW0hXaZdNP6yYzBuT7aHHAdXurZf9UpGvgKC02Ak6ijPXYrxHgswonU",
+      "pictureSource": "Thairath",
+      "relatedSearch": [
+        {
+          "title": "\"กระทรวงการต่างประเทศ\" เร่งประสานรับร่าง \"สนธยา อัครศรี\" กลับประเทศไทย",
+          "snippet": "",
+          "url": "https://www.thairath.co.th/news/local/2890113",
+          "source": "Thairath"
+        },
+        {
+          "title": "อิสราเอลถล่มกาซาอีกระลอกหลังอ้างฮามาสละเมิดหยุดยิง",
+          "snippet": "",
+          "url": "https://www.thaipbs.or.th/program/clip/watch/d8tvolanh1dt",
+          "source": "Thai PBS"
+        },
+        {
+          "title": "กต. เร่งประสานรับร่างตัวประกันคนไทย ประกอบพิธีกรรมทางศาสนา หลังกลุ่มฮามาสส่งคืนอิสราเอล",
+          "snippet": "",
+          "url": "https://www.prachachat.net/politics/news-1904244",
+          "source": "ประชาชาติธุรกิจ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ธรรมนัส",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 19 Oct 2025 22:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRt53bd5qVPIdOfh-Q7vW8h3cAlH1GFwc13vBks0k6cJs0ViZWcHo2NpByLMlo",
       "pictureSource": "Thairath",
       "relatedSearch": [
@@ -24,43 +61,6 @@
           "title": "สงครามน้ำลาย \"รักชนก\" ฟาด \"กันจอมพลัง\" พรรคส้มสกัดธรรมนัส",
           "snippet": "",
           "url": "https://mgronline.com/news1/detail/9680000099976",
-          "source": "ผู้จัดการออนไลน์"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ธนาคารออมสิน",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 19 Oct 2025 23:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "กระทรวง",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 19 Oct 2025 22:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtg5DEKwAQc_BpY0cyvBV0Q1uO2Lo0oEj0G_AI_jf9a9s3udeBGms9Duu9g2M",
-      "pictureSource": "Thairath",
-      "relatedSearch": [
-        {
-          "title": "อิสราเอลยืนยัน ฮามาสคืนศพ “สนธยา อัครศรี” ตัวประกันชาวไทยแล้ว",
-          "snippet": "",
-          "url": "https://www.thairath.co.th/news/foreign/2890050",
-          "source": "Thairath"
-        },
-        {
-          "title": "กต. เร่งประสานรับร่างตัวประกันคนไทย ประกอบพิธีกรรมทางศาสนา หลังกลุ่มฮามาสส่งคืนอิสราเอล",
-          "snippet": "",
-          "url": "https://www.prachachat.net/politics/news-1904244",
-          "source": "ประชาชาติธุรกิจ"
-        },
-        {
-          "title": "ยิวสั่งปิดจุดผ่านแดนราฟาห์ไม่มีกำหนด อ้างฮามาสเตะถ่วงไม่คืนร่างตัวประกัน",
-          "snippet": "",
-          "url": "https://mgronline.com/around/detail/9680000099903",
           "source": "ผู้จัดการออนไลน์"
         }
       ],
@@ -124,11 +124,17 @@
     },
     {
       "title": "มหาสมปอง",
-      "trafficCount": "500+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 19 Oct 2025 21:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwo--HbkBIUV6NNEiKvz2e-gZmnWXKC4sO-9EgDLGdOndkb_E88e5piDeyI_8",
-      "pictureSource": "Thairath",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqtnTk0fQE676W2noe1ABkq4hyZ6KPtbujZp6U6D3FxTimwHN9vi0T-K_Isv0",
+      "pictureSource": "ผู้จัดการออนไลน์",
       "relatedSearch": [
+        {
+          "title": "เจอตัวแล้ว! “มหาสมปอง” หลังประกาศตามหาวุ่น หลงกับทัวร์ที่ลิเวอร์พูล",
+          "snippet": "",
+          "url": "https://mgronline.com/entertainment/detail/9680000099877",
+          "source": "ผู้จัดการออนไลน์"
+        },
         {
           "title": "เจอตัวแล้ว \"ทิดสมปอง\" พลัดหลงกับคณะทัวร์ที่เมืองลิเวอร์พูล ขณะเดินตามหาแว่นตา",
           "snippet": "",
@@ -140,12 +146,6 @@
           "snippet": "",
           "url": "https://today.line.me/th/v3/article/aGQ6rxG",
           "source": "LINE TODAY"
-        },
-        {
-          "title": "เจอตัวแล้ว! “มหาสมปอง” หลังประกาศตามหาวุ่น หลงกับทัวร์ที่ลิเวอร์พูล",
-          "snippet": "",
-          "url": "https://mgronline.com/entertainment/detail/9680000099877",
-          "source": "ผู้จัดการออนไลน์"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -186,16 +186,16 @@
           "source": "LINE TODAY"
         },
         {
-          "title": "ATLAS มั่นใจเทรดวันแรกคึก! รุกขยายธุรกิจ LPG ทั่วไทย กลุ่มพีทีจีล็อกอัพหุ้น 100%",
-          "snippet": "",
-          "url": "https://www.kaohoon.com/news/789690",
-          "source": "ข่าวหุ้นธุรกิจออนไลน์"
-        },
-        {
           "title": "เรื่องเล่าโจ๋ปากซอย : 20 ตุลาคม 2568",
           "snippet": "",
           "url": "https://thunhoon.com/story-of-in-the-alley-201025",
           "source": "Thunhoon"
+        },
+        {
+          "title": "“สุวัชชัย พิทักษ์วงศาภรณ์” จากเซลส์น้ำมัน สู่ “ครีเอทีฟ เอ็นเนอยี่ รีเทล”",
+          "snippet": "",
+          "url": "https://hoonsmart.com/archives/383023",
+          "source": "Hoonsmart"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -230,10 +230,10 @@
           "source": "InterGold"
         },
         {
-          "title": "ราคาทองวันนี้ 20 ต.ค.68 ประกาศครั้งที่ 8 ดีดแรงต่อเนื่อง รีบตัดสินใจ",
+          "title": "ราคาทองวันนี้ (20 ต.ค. 68) คงที่ รูปพรรณขายออก 66,800 บาท",
           "snippet": "",
-          "url": "https://www.khaosod.co.th/breaking-news/news_9984969",
-          "source": "ข่าวสด"
+          "url": "https://www.prachachat.net/finance/news-1904165",
+          "source": "ประชาชาติธุรกิจ"
         },
         {
           "title": "ราคาทองวันนี้ 20 ตุลาคม 2568 ล่าสุด ราคาปรับเพิ่มขึ้น 100 บาท ราคาทองรูปพรรณ บาทละ 66,900 บาท",

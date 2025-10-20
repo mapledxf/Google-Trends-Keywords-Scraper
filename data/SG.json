@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-10-20 17:31:11",
+  "lastUpdate": "2025-10-20 17:42:48",
   "data": [
     {
       "title": "pinterest",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 20 Oct 2025 08:30:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuDn82InIIRADZYeFKBRFYY-mHPid5bTWrlF60TsrY2eBu_7Te57euy6KHtdE",
       "pictureSource": "TechCrunch",
@@ -142,6 +142,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "seoul weather",
+      "trafficCount": "1000+",
+      "pubDate": "Mon, 20 Oct 2025 06:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvC7HLUfCq-xRtrjuBGsfer8HvG4kv0U6BLFnNzH1XTeEyhNwU1I6zkKtMXK8",
+      "pictureSource": "The Straits Times",
+      "relatedSearch": [
+        {
+          "title": "South Korea’s cold spell set to continue into the week",
+          "snippet": "",
+          "url": "https://www.straitstimes.com/asia/east-asia/south-koreas-cold-spell-set-to-continue-into-the-week",
+          "source": "The Straits Times"
+        },
+        {
+          "title": "S. Korea abruptly transitions to late fall chill",
+          "snippet": "",
+          "url": "https://www.koreaherald.com/article/10597129",
+          "source": "The Korea Herald"
+        },
+        {
+          "title": "Korea records first snowfall of season, temperatures to drop further Tuesday",
+          "snippet": "",
+          "url": "https://koreajoongangdaily.joins.com/news/2025-10-20/national/environment/Korea-records-first-snowfall-of-season-temperatures-to-drop-Tuesday/2424086",
+          "source": "Korea JoongAng Daily"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "li chenggang wto removal",
       "trafficCount": "200+",
       "pubDate": "Mon, 20 Oct 2025 04:40:00 -0700",
@@ -165,34 +193,6 @@
           "snippet": "",
           "url": "https://www.taipeitimes.com/News/world/archives/2025/10/21/2003845853",
           "source": "Taipei Times"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "seoul snow",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 20 Oct 2025 04:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvC7HLUfCq-xRtrjuBGsfer8HvG4kv0U6BLFnNzH1XTeEyhNwU1I6zkKtMXK8",
-      "pictureSource": "The Straits Times",
-      "relatedSearch": [
-        {
-          "title": "South Korea’s cold spell set to continue into the week",
-          "snippet": "",
-          "url": "https://www.straitstimes.com/asia/east-asia/south-koreas-cold-spell-set-to-continue-into-the-week",
-          "source": "The Straits Times"
-        },
-        {
-          "title": "S. Korea abruptly transitions to late fall chill",
-          "snippet": "",
-          "url": "https://www.koreaherald.com/article/10597129",
-          "source": "The Korea Herald"
-        },
-        {
-          "title": "Korea records first snowfall of season, temperatures to drop further Tuesday",
-          "snippet": "",
-          "url": "https://koreajoongangdaily.joins.com/news/2025-10-20/national/environment/Korea-records-first-snowfall-of-season-temperatures-to-drop-Tuesday/2424086",
-          "source": "Korea JoongAng Daily"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,20 +257,20 @@
       "title": "aws outage",
       "trafficCount": "20000+",
       "pubDate": "Mon, 20 Oct 2025 01:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaOajM_k5vwm8SQRQ1TvV4ZLVYjBmaQXa1d0QH8Tv_TTGisu8Uql9sZfECSII",
-      "pictureSource": "CNN",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRcQIS6VniaIL8tXhd7Ff9DplePUZwCcC0H15MOkAWchTnUeZphw7zpKNpE808",
+      "pictureSource": "BBC",
       "relatedSearch": [
-        {
-          "title": "Huge global outage impacts Amazon, Fortnite and Snapchat | CNN Business",
-          "snippet": "",
-          "url": "https://www.cnn.com/business/live-news/amazon-tech-outage-10-20-25-intl",
-          "source": "CNN"
-        },
         {
           "title": "Snapchat, Roblox and Lloyds bank hit by Amazon Web Services internet outage - live updates",
           "snippet": "",
           "url": "https://www.bbc.com/news/live/c5y8k7k6v1rt",
           "source": "BBC"
+        },
+        {
+          "title": "Huge global outage impacts Amazon, Fortnite and Snapchat | CNN Business",
+          "snippet": "",
+          "url": "https://www.cnn.com/business/live-news/amazon-tech-outage-10-20-25-intl",
+          "source": "CNN"
         },
         {
           "title": "Amazon’s cloud unit recovering after major outage disrupts apps, services worldwide",

@@ -1,10 +1,38 @@
 {
-  "lastUpdate": "2025-10-21 03:57:32",
+  "lastUpdate": "2025-10-21 04:21:02",
   "data": [
     {
-      "title": "الطقس الان",
+      "title": "weather",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 20 Oct 2025 21:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzrSG2nP-asQPcr648hsyK41g8MuCYkwZETvbU4ab33b9o-KHS6so6BZ33JrI",
+      "pictureSource": "KJCT",
+      "relatedSearch": [
+        {
+          "title": "Tuesday starts chilly, then warming leads to our next opportunity for rain",
+          "snippet": "",
+          "url": "https://www.kjct8.com/2025/10/21/tuesday-starts-chilly-then-warming-leads-our-next-opportunity-rain/",
+          "source": "KJCT"
+        },
+        {
+          "title": "Strong winds ease, freeze warning follows for the Front Range",
+          "snippet": "",
+          "url": "https://www.denver7.com/weather/denver-weather/strong-winds-ease-freeze-warning-follows-for-the-front-range",
+          "source": "Denver7"
+        },
+        {
+          "title": "Warm temps, fire watch in the forecast following first freeze of the season",
+          "snippet": "",
+          "url": "https://gazette.com/2025/10/19/colorado-springs-weather-warm-temps-fire-watch-in-the-forecast-following-first-freeze-of-the-season/",
+          "source": "Colorado Springs Gazette"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "الطقس اليوم",
       "trafficCount": "10000+",
-      "pubDate": "Mon, 20 Oct 2025 20:40:00 -0700",
+      "pubDate": "Mon, 20 Oct 2025 20:50:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyN8Fz0GKzDHtYLOw42uVbC8TLGAjUEudS5mVEVlje5sN_HrZ4bSTnJWBWwY8",
       "pictureSource": "نيوز رووم",
       "relatedSearch": [

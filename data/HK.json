@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-21 22:57:23",
+  "lastUpdate": "2025-10-21 23:16:48",
   "data": [
     {
       "title": "天氣",
@@ -21,9 +21,9 @@
           "source": "Hong Kong Observatory"
         },
         {
-          "title": "3號風球仍然生效 將在上午維持",
+          "title": "多雲有幾陣雨 氣溫徘徊在23°C左右 逐步下降至晚上最低19°C",
           "snippet": "",
-          "url": "https://hk.on.cc/hk/bkn/cnt/news/20251021/bkn-20251021064758096-1021_00822_001.html",
+          "url": "https://hk.on.cc/hk/bkn/cnt/news/20251021/bkn-20251021080128805-1021_00822_001.html",
           "source": "on.cc東網"
         }
       ],
@@ -31,28 +31,56 @@
     },
     {
       "title": "weather",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 21 Oct 2025 15:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUQYOG89mbCFI5alDpdu4BBEVenSHUcjyxjuY9vL4IM0WiljELYacCVEBUaH0",
-      "pictureSource": "Hoodline",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRshMw_zyKyI0BZITxde_sBZNONe2lI8AtUJjUriF-vvMBP3eSYF5APUE_hUz4",
+      "pictureSource": "Australian Broadcasting Corporation",
       "relatedSearch": [
         {
-          "title": "Miami Forecast: Warm and Humid Week Ahead with Occasional Showers",
+          "title": "36 hours of record heat, winds, storms predicted for south-east Australia",
           "snippet": "",
-          "url": "https://hoodline.com/2025/10/miami-forecast-warm-and-humid-week-ahead-with-occasional-showers/",
-          "source": "Hoodline"
+          "url": "https://www.abc.net.au/news/2025-10-21/winds-wild-storms-record-heat-for-south-east-australia-weather/105912462",
+          "source": "Australian Broadcasting Corporation"
         },
         {
-          "title": "Dry with above-average highs for South Florida Tuesday",
+          "title": "Three states hit record temps as Aus swelters in heatwave",
           "snippet": "",
-          "url": "https://www.wpbf.com/article/dry-with-above-average-highs-for-south-florida-today/69103498",
-          "source": "WPBF"
+          "url": "https://www.odt.co.nz/news/australia/three-states-hit-record-temps-aus-swelters-heatwave",
+          "source": "Otago Daily Times"
         },
         {
-          "title": "Rainy season ends with a deficit across most of Tampa Bay",
+          "title": "Sydney weather LIVE: Extreme fire danger, dangerous winds, heat records expected to fall",
           "snippet": "",
-          "url": "https://www.wtsp.com/article/weather/weather-explainer/rainy-season-tampa-bay-end-forecast-weather/67-cfdcca7a-9365-41b9-8c88-fe6af436a0a8",
-          "source": "wtsp.com"
+          "url": "https://www.watoday.com.au/national/nsw/sydney-weather-live-extreme-fire-danger-dangerous-winds-heat-records-expected-to-fall-20251022-p5n4b0.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "source": "WAtoday"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather hong kong",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 21 Oct 2025 15:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv6_Ofjbe8V1pb50uQduwTlITzR718kehaqZPhqARAtrwTTlhTMQKL3S5uA9k",
+      "pictureSource": "chinadailyhk",
+      "relatedSearch": [
+        {
+          "title": "Typhoon alerts lifted as Fengshen moves away from HK",
+          "snippet": "",
+          "url": "https://www.chinadailyasia.com/article/622054",
+          "source": "chinadailyhk"
+        },
+        {
+          "title": "Typhoon Fengshen disrupts transport across multiple regions in China",
+          "snippet": "",
+          "url": "https://www.bastillepost.com/global/article/5295528-typhoon-fengshen-disrupts-transport-across-multiple-regions-in-china",
+          "source": "巴士的報"
+        },
+        {
+          "title": "Relief at last? Cooler weather forecast for HK",
+          "snippet": "",
+          "url": "https://www.thestandard.com.hk/hong-kong-news/article/313859/Relief-at-last-Cooler-weather-forecast-for-HK",
+          "source": "The Standard (HK)"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,57 +114,17 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "hk observatory",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 21 Oct 2025 15:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKU_660wG7UtCKyMV1yhIcG1SrmID7iUk58ttnyceh0NwgvsjqKDIJIf7GMp0",
-      "pictureSource": "香港電台",
-      "relatedSearch": [
-        {
-          "title": "Typhoon signals to be dropped at 6.20pm",
-          "snippet": "",
-          "url": "https://news.rthk.hk/rthk/en/component/k2/1828110-20251021.htm",
-          "source": "香港電台"
-        },
-        {
-          "title": "Severe Tropical Storm Fengshen gradually moves away after skirting Hong Kong",
-          "snippet": "",
-          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3329732/severe-tropical-storm-fengshen-gradually-moves-away-after-skirting-hong-kong",
-          "source": "South China Morning Post"
-        },
-        {
-          "title": "Tropical Storm Fengshen: Hong Kong to raise T3 storm signal at 5.20pm",
-          "snippet": "",
-          "url": "https://hongkongfp.com/2025/10/20/tropical-storm-fengshen-hong-kong-to-raise-t3-storm-signal-at-5-20pm-cooler-weather-due-after-record-breaking-heat/",
-          "source": "Hong Kong Free Press HKFP"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "勒沃庫森 對 巴黎聖日耳曼",
       "trafficCount": "200+",
       "pubDate": "Tue, 21 Oct 2025 14:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Va7gyY-A_cR0GEFlEkPes7N5UCIjxCh_TLvX01EPR0wVqIHVvIPj9VHzfv0",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4IJo9JB3BAITzljqpHrmoEZ8-Q6YnDXqDQSXf6JMabPI4EDSWpwv3rIsgsk0",
+      "pictureSource": "巴士的報",
       "relatedSearch": [
         {
-          "title": "Bayer Leverkusen 2-7 PSG: Desire Doue and Khvicha Kvaratskhelia run riot in Champions League",
+          "title": "Leverkusen vs. PSG turns into chaos after 5 goals, two red cards and two penalties in the first half",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cd9knkq248xt",
-          "source": "BBC"
-        },
-        {
-          "title": "Leverkusen 2-7 PSG (Oct 21, 2025) Game Analysis",
-          "snippet": "",
-          "url": "https://www.espn.com/soccer/report/_/gameId/757693",
-          "source": "ESPN"
-        },
-        {
-          "title": "Bayer Leverkusen vs. PSG live stream, odds: How to watch Champions League, predicted lineups, pick",
-          "snippet": "",
-          "url": "https://www.cbssports.com/soccer/news/bayer-leverkusen-vs-psg-live-stream-odds-how-to-watch-champions-league-predicted-lineups-pick/",
-          "source": "CBS Sports"
+          "url": "https://www.bastillepost.com/global/article/5299399-leverkusen-vs-psg-turns-into-chaos-after-5-goals-two-red-cards-and-two-penalties-in-the-first-half",
+          "source": "巴士的報"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +171,16 @@
           "source": "MTGamer"
         },
         {
-          "title": "阿迪達欽敬施蒙尼：教一隊波14年不易",
+          "title": "阿仙奴下半場發力贈馬體會4蛋",
           "snippet": "",
-          "url": "https://hk.sports.yahoo.com/news/%E9%98%BF%E8%BF%AA%E9%81%94%E6%AC%BD%E6%95%AC%E6%96%BD%E8%92%99%E5%B0%BC-%E6%95%99-%E9%9A%8A%E6%B3%A214%E5%B9%B4%E4%B8%8D%E6%98%93-032749262.html",
-          "source": "Yahoo! HK Sports"
+          "url": "https://sports.now.com/home/news/details?id=39346998605",
+          "source": "Now.com"
         },
         {
-          "title": "劉嘉瑋：歐聯焦點大戰 槍手主場求破馬體會",
+          "title": "五連勝僅失一球阿仙奴主場報捷機「會」高 - 體育 - 香港文匯網",
           "snippet": "",
-          "url": "https://sports.now.com/home/news/details?id=39346010449",
-          "source": "Now.com"
+          "url": "https://www.wenweipo.com/a/202510/21/AP68f69523e4b0014d6f4952d3.html",
+          "source": "香港文匯網"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,11 +189,11 @@
       "title": "man city",
       "trafficCount": "100+",
       "pubDate": "Tue, 21 Oct 2025 12:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnrJxUoM5o5wWjARtzYOZEP3A26KhJoI32O_2SA0ez8wXEkeLfph1utk19VYU",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1UgSkuZYxAJKISR4jh_v2b2F0rdEiy-jJ2Tua7VzbSGvEGBfLAPiya2uSdgw",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Villarreal vs Manchester City: UEFA Champions League stats & head-to-head",
+          "title": "Haaland scores again as Man City end winless away run",
           "snippet": "",
           "url": "https://www.bbc.com/sport/football/live/clykvkez43yt",
           "source": "BBC"
@@ -229,19 +217,13 @@
       "title": "兵工廠 對 馬德里競技",
       "trafficCount": "2000+",
       "pubDate": "Tue, 21 Oct 2025 11:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBSvQym548qaRHuWo8DiOLyKcDO4FNPoJSmG6j2k_S3lvIGsdyx31vY9L2evM",
-      "pictureSource": "Yahoo! HK Sports",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeiXwKtckE4bewC_sF3x_TdHewZf5DNz7uhxs0BHzAgC8zmcQjgqmIlQ-aCQU",
+      "pictureSource": "Now.com",
       "relatedSearch": [
         {
-          "title": "阿迪達欽敬施蒙尼：教一隊波14年不易",
+          "title": "阿仙奴下半場發力贈馬體會4蛋",
           "snippet": "",
-          "url": "https://hk.sports.yahoo.com/news/%E9%98%BF%E8%BF%AA%E9%81%94%E6%AC%BD%E6%95%AC%E6%96%BD%E8%92%99%E5%B0%BC-%E6%95%99-%E9%9A%8A%E6%B3%A214%E5%B9%B4%E4%B8%8D%E6%98%93-032749262.html",
-          "source": "Yahoo! HK Sports"
-        },
-        {
-          "title": "劉嘉瑋：歐聯焦點大戰 槍手主場求破馬體會",
-          "snippet": "",
-          "url": "https://sports.now.com/home/news/details?id=39346010449",
+          "url": "https://sports.now.com/home/news/details?id=39346998605",
           "source": "Now.com"
         },
         {
@@ -249,34 +231,40 @@
           "snippet": "",
           "url": "https://www.wenweipo.com/a/202510/21/AP68f69523e4b0014d6f4952d3.html",
           "source": "香港文匯網"
+        },
+        {
+          "title": "英超榜首雙雄歐聯分途出擊 阿仙奴曼城乘勇鬥西甲雙雄 - 20251021 - 體育",
+          "snippet": "",
+          "url": "https://news.mingpao.com/pns/%E9%AB%94%E8%82%B2/article/20251021/s00015/1760977441652/%E8%8B%B1%E8%B6%85%E6%A6%9C%E9%A6%96%E9%9B%99%E9%9B%84%E6%AD%90%E8%81%AF%E5%88%86%E9%80%94%E5%87%BA%E6%93%8A-%E9%98%BF%E4%BB%99%E5%A5%B4%E6%9B%BC%E5%9F%8E%E4%B9%98%E5%8B%87%E9%AC%A5%E8%A5%BF%E7%94%B2%E9%9B%99%E9%9B%84",
+          "source": "明報新聞網"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "barcelona vs olympiacos",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 21 Oct 2025 10:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6hle8Upbj1vapCwgFc9EhqoSHVR_5vT1rlxh2c8IPLJ_KcyYArtADIAoT8gk",
-      "pictureSource": "BBC",
+      "title": "gold price",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 21 Oct 2025 10:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRcQr7gKoabZTsEO3yXkNQpnBVDIgOuLU98M-LUw160RxoYuinKuLZuEDfSc2s",
+      "pictureSource": "Yahoo Finance",
       "relatedSearch": [
         {
-          "title": "Lopez treble and Rashford double as Barca hit six",
+          "title": "Gold, silver tumble in biggest daily drop in years as stunning precious metals rally comes to a halt",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cqjw0wvdx5zt",
-          "source": "BBC"
+          "url": "https://finance.yahoo.com/news/gold-silver-tumble-in-biggest-daily-drop-in-years-as-stunning-precious-metals-rally-comes-to-a-halt-155953734.html",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "THE PLAYERS TAKE THE FIELD!",
+          "title": "Gold and Silver Stabilize After Massive Drops as Rally Cools",
           "snippet": "",
-          "url": "https://www.besoccer.com/new/live-barcelona-v-olympiacos-1378116",
-          "source": "BeSoccer EN"
+          "url": "https://www.bloomberg.com/news/articles/2025-10-21/gold-xauusd-and-silver-stabilize-after-massive-drops-as-rally-cools",
+          "source": "Bloomberg.com"
         },
         {
-          "title": "🎥 El Clásico next: Barça run riot, record red card in Champions League",
+          "title": "Gold Bars, Gold Necklaces, Gold Earrings: The Rush to Cash In",
           "snippet": "",
-          "url": "https://onefootball.com/id/berita/el-clasico-next-barca-run-riot-record-red-card-in-champions-league-41837854",
-          "source": "OneFootball"
+          "url": "https://www.nytimes.com/2025/10/19/nyregion/diamond-district-gold-rush.html",
+          "source": "The New York Times"
         }
       ],
       "link": "https://imtaqin.id/"

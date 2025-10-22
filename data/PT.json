@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-10-22 10:00:14",
+  "lastUpdate": "2025-10-22 10:27:20",
   "data": [
+    {
+      "title": "cmtv",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 22 Oct 2025 03:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREqIwlRwEw3T4R-55YKorwNKN1wtNs8NC4Pg8ODMXGHOV719pwZHDqOfLjQm0",
+      "pictureSource": "TVI Player",
+      "relatedSearch": [
+        {
+          "title": "Vera expõe atitude de Zé com Liliana e Cláudio Ramos reage: «Ele está bom da cabeça?»",
+          "snippet": "",
+          "url": "https://tviplayer.iol.pt/programa/dois-as-10/5fe219a40cf2cc9de7ef9590/video/68f766ad0cf29d28d8297956",
+          "source": "TVI Player"
+        },
+        {
+          "title": "Casa dos Segredos: Cristina Ferreira desmente Zé em direto sobre camisola enviada a Liliana? “No domingo…”",
+          "snippet": "",
+          "url": "https://sapo.pt/artigo/casa-dos-segredos-cristina-ferreira-desmente-ze-em-direto-sobre-camisola-enviada-a-liliana-no-domingo-68f79fb3a94618b0c210dded",
+          "source": "SAPO"
+        },
+        {
+          "title": "Casa dos Segredos O gesto de Zé que deixou Liliana derretida e com dúvidas sobre Fábio: “Mexeu com a cabeça”",
+          "snippet": "",
+          "url": "https://www.impala.pt/famosos/nacionais/casa-dos-segredos-o-gesto-de-ze-que-deixou-liliana-derretida-e-com-duvidas-sobre-fabio-mexeu-com-a-cabeca/",
+          "source": "Portal Impala"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "cartas de condução",
       "trafficCount": "2000+",
@@ -43,9 +71,9 @@
           "source": "Observador"
         },
         {
-          "title": "Greves marcadas para as escolas na quinta e sexta-feira podem paralisar o setor do ensino",
+          "title": "Sindicatos da Função Pública apelam à greve na sexta-feira",
           "snippet": "",
-          "url": "https://sapo.pt/artigo/greves-marcadas-para-as-escolas-na-quinta-e-sexta-feira-podem-paralisar-o-setor-do-ensino-68f88ac5a94618b0c2593eab",
+          "url": "https://sapo.pt/artigo/sindicatos-da-funcao-publica-apelam-a-greve-na-sexta-feira-68f89a984080a2b6f4c23d6a",
           "source": "SAPO"
         },
         {
@@ -127,16 +155,16 @@
           "source": "Correio da Manhã"
         },
         {
+          "title": "Chegou a Hora de Dizer Adeus à Mudança da Hora",
+          "snippet": "",
+          "url": "https://observador.pt/opiniao/chegou-a-hora-de-dizer-adeus-a-mudanca-da-hora/",
+          "source": "Observador"
+        },
+        {
           "title": "Fim da mudança da hora volta à discussão no Parlamento Europeu",
           "snippet": "",
           "url": "https://www.publico.pt/2025/10/20/ciencia/noticia/fim-mudanca-hora-volta-discussao-parlamento-europeu-2151277",
           "source": "Público"
-        },
-        {
-          "title": "A hora vai mudar e isso implica com o nosso ritmo circadiano. Aprenda a adaptar-se para dormir melhor",
-          "snippet": "",
-          "url": "https://expresso.pt/podcasts/expresso-da-manha/2025-10-21-a-hora-vai-mudar-e-isso-implica-com-o-nosso-ritmo-circadiano.-aprenda-a-adaptar-se-para-dormir-melhor-c5de0047",
-          "source": "Expresso"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -179,85 +207,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "meteorologia",
+      "trafficCount": "20000+",
+      "pubDate": "Tue, 21 Oct 2025 22:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgzXPalOW82iNzlamac19tFmSkYxhRGJnSNfAjrSaUL6lZqV2jmz8qtgSZIpw",
+      "pictureSource": "Correio da Manhã",
+      "relatedSearch": [
+        {
+          "title": "Oito distritos do continente sob aviso amarelo devido à chuva e vento forte",
+          "snippet": "",
+          "url": "https://www.cmjornal.pt/sociedade/clima/detalhe/oito-distritos-do-continente-sob-aviso-amarelo-devido-a-chuva-e-vento-forte",
+          "source": "Correio da Manhã"
+        },
+        {
+          "title": "Chuva e vento forte levam aviso amarelo a oito distritos em Portugal continental",
+          "snippet": "",
+          "url": "https://www.publico.pt/2025/10/22/sociedade/noticia/chuva-vento-forte-levam-aviso-amarelo-oito-distritos-portugal-continental-2151709",
+          "source": "Público"
+        },
+        {
+          "title": "Chuva intensa e vento forte marcam o arranque de três dias (pelo menos) de mau tempo em Portugal",
+          "snippet": "",
+          "url": "https://executivedigest.sapo.pt/chuva-intensa-e-vento-forte-marcam-o-arranque-de-tres-dias-pelo-menos-de-mau-tempo-em-portugal/",
+          "source": "Executive Digest"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "weather",
       "trafficCount": "2000+",
       "pubDate": "Tue, 21 Oct 2025 22:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcQh3DCRLZkrGuI2TDKR1cMVdXl8BLajagTtD2anWtN7m4CG572n3K7W7GaDw",
-      "pictureSource": "Big Rapids Pioneer",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6BHgti_7rZTqHWfVFoUtqCCBCNEHIC_SrU4jcf25u7gN96zHRV-vt9asExVY",
+      "pictureSource": "Newsweek",
       "relatedSearch": [
         {
-          "title": "Local weather for Oct. 22, 2025",
+          "title": "Map Shows States Facing Frost Advisories as Temperatures to Plunge",
           "snippet": "",
-          "url": "https://www.bigrapidsnews.com/news/article/manistee-rain-thunderstorms-forecast-21112443.php",
-          "source": "Big Rapids Pioneer"
+          "url": "https://www.newsweek.com/map-shows-states-facing-frost-advisories-as-temperatures-to-plunge-10916984",
+          "source": "Newsweek"
         },
         {
-          "title": "Weather Words: Supercell",
+          "title": "Sunny skies dominate ahead of a cooler, wetter start to next week",
           "snippet": "",
-          "url": "https://www.aol.com/articles/weather-words-supercell-161024619.html",
-          "source": "AOL.com"
+          "url": "https://www.knopnews2.com/2025/10/22/sunny-skies-dominate-ahead-cooler-wetter-start-next-week/",
+          "source": "KNOP"
         },
         {
-          "title": "McLaren W1 Completes Hot Weather Testing In Arizona's 'Torture Chamber'",
+          "title": "Wednesday Forecast: Coldest morning of the season thus far",
           "snippet": "",
-          "url": "https://www.ndtv.com/auto/mclaren-w1-completes-hot-weather-testing-in-arizonas-torture-chamber-9496806",
-          "source": "NDTV"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "previsão do tempo",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 21 Oct 2025 22:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzKd8M4q1UYtfi7FmpR21jYHarvBjQ5GE___P0tMn-nyMBgxR4PVx-EA78iro",
-      "pictureSource": "TVI Player",
-      "relatedSearch": [
-        {
-          "title": "Chuva faz-se sentir em todo o país. No fim de semana, o sol pode regressar",
-          "snippet": "",
-          "url": "https://tviplayer.iol.pt/programa/tvi-jornal/63ef5eb50cf2665294d5f87a/video/68f77ead0cf285ab53a6aefb",
-          "source": "TVI Player"
-        },
-        {
-          "title": "Entre quarta-feira e domingo um rio de humidade permanecerá sobre Portugal, alimentando as frentes de chuva",
-          "snippet": "",
-          "url": "https://www.tempo.pt/noticias/previsao/entre-quarta-feira-e-domingo-um-rio-de-humidade-permanecera-sobre-portugal-alimentando-as-frentes-de-chuva.html",
-          "source": "Tempo.pt"
-        },
-        {
-          "title": "Chuva está de regresso e temperaturas a descer",
-          "snippet": "",
-          "url": "https://sapo.pt/artigo/chuva-esta-de-regresso-e-temperaturas-a-descer-68f61c3cd18a660f394b55b5",
-          "source": "SAPO"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "mo",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 21 Oct 2025 22:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRA9bUFXXraFkDrrneB97woUoQroxN2TlIpH_Yex3dZkfxlSC-CzssDW921Cls",
-      "pictureSource": "SeeNews",
-      "relatedSearch": [
-        {
-          "title": "Romania's One United 9-mo residential sales, pre-sales fall y/y",
-          "snippet": "",
-          "url": "https://seenews.com/news/romanias-one-united-9-mo-residential-sales-pre-sales-fall-yy-1283656",
-          "source": "SeeNews"
-        },
-        {
-          "title": "It's a line-up for the first game of the Korean Series. The last lineu",
-          "snippet": "",
-          "url": "https://en.sportschosun.com/sports/2025/10/its-line-up-for-first-game-of-118644",
-          "source": "SportsChosun"
-        },
-        {
-          "title": "LG starts Gu Bon-hyeok in left as Moon Sung-ju returns at DH for Korean Series tune-up - CHOSUNBIZ",
-          "snippet": "",
-          "url": "https://biz.chosun.com/en/en-sports/2025/10/22/JHS2E6BFFBGEVNFV6WC67ZRT3Q/",
-          "source": "Chosun Biz"
+          "url": "https://www.1011now.com/2025/10/21/wednesday-forecast-coldest-morning-season-thus-far/",
+          "source": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE"
         }
       ],
       "link": "https://imtaqin.id/"

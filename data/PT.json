@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-22 07:59:47",
+  "lastUpdate": "2025-10-22 08:31:48",
   "data": [
     {
       "title": "ryan adams",
@@ -33,20 +33,20 @@
       "title": "greve dia 23 outubro 2025",
       "trafficCount": "200+",
       "pubDate": "Tue, 21 Oct 2025 23:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzfgzE6ovvsmdlQavAhY5sebypDMKhig2Lip0FJJl2cwbYetMf0O0PzRwpIlM",
-      "pictureSource": "RTP",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBVQh13n-DwkJJaagr9ZEDpGnnvrzT4A7X5ZxmFpt88hZ16BDpyGLq8pbreC8",
+      "pictureSource": "Observador",
       "relatedSearch": [
-        {
-          "title": "FNAM acusa Ministério da Saúde de impor mobilização forçada de médicos para urgências regionais",
-          "snippet": "",
-          "url": "https://www.rtp.pt/noticias/pais/fnam-acusa-ministerio-da-saude-de-impor-mobilizacao-forcada-de-medicos-para-urgencias-regionais_n1692727",
-          "source": "RTP"
-        },
         {
           "title": "Governo quer autorizar os hospitais a mobilizar médicos ‘à força’ para urgências regionais",
           "snippet": "",
           "url": "https://observador.pt/2025/10/21/governo-quer-autorizar-os-hospitais-a-mobilizar-medicos-a-forca-para-urgencias-regionais/",
           "source": "Observador"
+        },
+        {
+          "title": "Governo acusado de impor “mobilização forçada” de médicos para novas urgências regionais",
+          "snippet": "",
+          "url": "https://sapo.pt/artigo/governo-acusado-de-impor-mobilizacao-forcada-de-medicos-para-novas-urgencias-regionais-68f88f67a94618b0c25aff93",
+          "source": "SAPO"
         },
         {
           "title": "Afinal, equipas de obstetrícia vão mesmo poder ir ‘à força’ para as Urgências",
@@ -143,39 +143,11 @@
     },
     {
       "title": "aima empresária indiana",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 21 Oct 2025 22:50:00 -0700",
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "previsão do tempo",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 21 Oct 2025 22:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzKd8M4q1UYtfi7FmpR21jYHarvBjQ5GE___P0tMn-nyMBgxR4PVx-EA78iro",
-      "pictureSource": "TVI Player",
-      "relatedSearch": [
-        {
-          "title": "Chuva faz-se sentir em todo o país. No fim de semana, o sol pode regressar",
-          "snippet": "",
-          "url": "https://tviplayer.iol.pt/programa/tvi-jornal/63ef5eb50cf2665294d5f87a/video/68f77ead0cf285ab53a6aefb",
-          "source": "TVI Player"
-        },
-        {
-          "title": "Especialista Joana Campos revela o dia mais chuvoso desta semana em Portugal: \"prevê-se chuva intensa e persistente\"",
-          "snippet": "",
-          "url": "https://www.tempo.pt/noticias/previsao/especialista-joana-campos-revela-o-dia-mais-chuvoso-desta-semana-em-portugal-preve-se-chuva-intensa-e-persistente.html",
-          "source": "Tempo.pt"
-        },
-        {
-          "title": "Outono continua tímido: Previsão para esta semana (e para o próximo mês)",
-          "snippet": "",
-          "url": "https://www.noticiasaominuto.com/pais/2873887/outono-continua-timido-previsao-para-esta-semana-e-para-o-proximo-mes",
-          "source": "Notícias ao Minuto"
-        }
-      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -198,10 +170,38 @@
           "source": "Sky News"
         },
         {
-          "title": "More downpours are needed",
+          "title": "Disruptions in travel expected in Bristol as Met Office issues rain warning",
           "snippet": "",
-          "url": "https://www.thetimes.com/comment/register/article/more-downpours-are-needed-d2pd5nb0v",
-          "source": "The Times"
+          "url": "https://www.bristolworld.com/news/weather/bristol-travel-disruptions-rain-warning-5369719",
+          "source": "BristolWorld"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "previsão do tempo",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 21 Oct 2025 22:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzKd8M4q1UYtfi7FmpR21jYHarvBjQ5GE___P0tMn-nyMBgxR4PVx-EA78iro",
+      "pictureSource": "TVI Player",
+      "relatedSearch": [
+        {
+          "title": "Chuva faz-se sentir em todo o país. No fim de semana, o sol pode regressar",
+          "snippet": "",
+          "url": "https://tviplayer.iol.pt/programa/tvi-jornal/63ef5eb50cf2665294d5f87a/video/68f77ead0cf285ab53a6aefb",
+          "source": "TVI Player"
+        },
+        {
+          "title": "Outono continua tímido: Previsão para esta semana (e para o próximo mês)",
+          "snippet": "",
+          "url": "https://www.noticiasaominuto.com/pais/2873887/outono-continua-timido-previsao-para-esta-semana-e-para-o-proximo-mes",
+          "source": "Notícias ao Minuto"
+        },
+        {
+          "title": "Chuva está de regresso e temperaturas a descer",
+          "snippet": "",
+          "url": "https://sapo.pt/artigo/chuva-esta-de-regresso-e-temperaturas-a-descer-68f61c3cd18a660f394b55b5",
+          "source": "SAPO"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -210,26 +210,26 @@
       "title": "mo",
       "trafficCount": "200+",
       "pubDate": "Tue, 21 Oct 2025 22:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmtY9QQL6H2T6-x7oGLLPPrE85ijbS9Q0_obn4LWsWy1IfNeUEV6nT0iZpERI",
-      "pictureSource": "Sky Sports",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJ6BeY_JWoh6v8LipcE6bZrmmKAtTzndgfNCMdyBAaCcx0ifIuJ5J63Unf3IQ",
+      "pictureSource": "Cybersecurity Insiders",
       "relatedSearch": [
         {
-          "title": "Liverpool, Nottingham Forest, West Ham and Wolves in crisis, so what's going wrong for them? - Between the Lines",
+          "title": "Active Ransomware Gangs in the Current Cyber Landscape",
           "snippet": "",
-          "url": "https://www.skysports.com/football/news/11095/13453840/liverpool-nottingham-forest-wolves-and-west-ham-in-crisis-so-whats-going-wrong-for-them-between-the-lines",
-          "source": "Sky Sports"
+          "url": "https://www.cybersecurity-insiders.com/active-ransomware-gangs-in-the-current-cyber-landscape/",
+          "source": "Cybersecurity Insiders"
         },
         {
-          "title": "Father Time may be catching up with Salah but write him off at your peril",
+          "title": "ExtraHop® Report Finds Ransomware Payouts Hit Record Highs as Attackers Adapt",
           "snippet": "",
-          "url": "https://www.telegraph.co.uk/football/2025/10/17/mohamed-salah-liverpool-man-utd-role-kryptonite/",
-          "source": "The Telegraph"
+          "url": "https://www.businesswire.com/news/home/20251021431252/en/ExtraHop-Report-Finds-Ransomware-Payouts-Hit-Record-Highs-as-Attackers-Adapt",
+          "source": "Business Wire"
         },
         {
-          "title": "Chris Sutton says one Liverpool player looks like he's got his boots on the wrong feet when he plays",
+          "title": "Global Ransomware Attacks Against Critical Industries Surge 34% in 2025",
           "snippet": "",
-          "url": "https://www.rousingthekop.com/2025/10/21/chris-sutton-says-one-liverpool-player-looks-like-hes-got-his-boots-on-the-wrong-feet-when-he-plays/",
-          "source": "Rousing The Kop"
+          "url": "https://finance.yahoo.com/news/global-ransomware-attacks-against-critical-123200218.html",
+          "source": "Yahoo Finance"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -248,16 +248,16 @@
           "source": "UOL"
         },
         {
+          "title": "Análise: Atlético-MG busca empate com brilho de Hulk e Dudu e está a uma vitória de final para salvar ano",
+          "snippet": "",
+          "url": "https://ge.globo.com/futebol/times/atletico-mg/noticia/2025/10/22/analise-atletico-mg-busca-empate-com-brilho-de-hulk-e-dudu-e-esta-a-uma-vitoria-de-final-para-salvar-ano.ghtml",
+          "source": "GE"
+        },
+        {
           "title": "Independiente DV x Atlético-MG: onde assistir e escalações do jogo hoje (21) pela Copa Sudamericana | Futebol | O Liberal",
           "snippet": "",
           "url": "https://www.oliberal.com/esportes/futebol/independiente-dv-x-atletico-mg-onde-assistir-e-escalacoes-do-jogo-hoje-21-pela-copa-sudamericana-1.1038891",
           "source": "O Liberal"
-        },
-        {
-          "title": "Atlético marca no fim contra o Del Valle e ganha confiança por final da Sul-Americana",
-          "snippet": "",
-          "url": "https://noataque.com.br/futebol/copa-sul-americana/time/atletico-mg/noticia/2025/10/21/atletico-marca-no-fim-contra-o-del-valle-e-ganha-confianca-por-final-da-sul-americana/",
-          "source": "No Ataque"
         }
       ],
       "link": "https://imtaqin.id/"

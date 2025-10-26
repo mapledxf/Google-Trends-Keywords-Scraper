@@ -1,93 +1,46 @@
 {
-  "lastUpdate": "2025-10-26 16:12:03",
+  "lastUpdate": "2025-10-26 16:34:51",
   "data": [
+    {
+      "title": "مباراة الاهلي طرابلس",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 26 Oct 2025 09:00:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "la liga",
       "trafficCount": "100+",
       "pubDate": "Sun, 26 Oct 2025 08:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojpuIj8f1lSUSrqy1ZVe73-HBDi6FIM4WRbms27Z7YdUY25ClryqClv6naEg",
-      "pictureSource": "The Guardian",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUB5LdAh6Swkn0cCkJd66sjOfhTAUytDTDZbmjByyVfuu4JnnD92DnTfH6Ofk",
+      "pictureSource": "The Herald Journal",
       "relatedSearch": [
         {
-          "title": "Football Daily | El clásico is back with an English twist to a game thankfully on Spanish soil",
+          "title": "Spain Soccer La Liga",
           "snippet": "",
-          "url": "https://www.theguardian.com/football/2025/oct/24/el-clasico-real-madrid-barcelona-english-twist-spanish-soil-football-daily-newsletter",
-          "source": "The Guardian"
+          "url": "https://www.hjnews.com/sports/nation/spain-soccer-la-liga/image_79f9f08c-e4b0-559e-8cb0-5aa87d4844a4.html",
+          "source": "The Herald Journal"
         },
         {
-          "title": "Have two English players ever played against each other in the El Clasico before?",
+          "title": "Lamine Yamal sets another record in Barcelona vs Girona",
           "snippet": "",
-          "url": "https://www.thesun.co.uk/sport/37077045/have-two-english-players-played-in-el-clasico-before/",
-          "source": "The Sun"
+          "url": "https://ca.sports.yahoo.com/news/lamine-yamal-sets-another-record-145800541.html",
+          "source": "Yahoo"
         },
         {
-          "title": "Marcus Rashford and Jude Bellingham make instant El Clasico history",
+          "title": "APTOPIX Spain Soccer La Liga",
           "snippet": "",
-          "url": "https://talksport.com/football/3679139/marcus-rashford-jude-bellingham-el-clasico-history/",
-          "source": "talkSPORT"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "مباراة برشلونة",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 26 Oct 2025 08:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgwW3jagSX4UdlbUwcV_pQSUT3tJUqSfXx1QQfJFTYaOsO0IPrwLQmODROYf4",
-      "pictureSource": "Kooora",
-      "relatedSearch": [
-        {
-          "title": "من التصفيق إلى الاستهجان.. يامال يلعب بالنار مع جماهير ريال مدريد",
-          "snippet": "",
-          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%B5%D9%81%D9%8A%D9%82-%D8%A7%D9%95%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%87%D8%AC%D8%A7%D9%86--%D9%8A%D8%A7%D9%85%D8%A7%D9%84-%D9%8A%D9%84%D8%B9%D8%A8-%D8%A8%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D9%85%D8%B9-%D8%AC%D9%85%D8%A7%D9%87%D9%8A%D8%B1-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF/bltd5a680e7b8dfc295",
-          "source": "Kooora"
-        },
-        {
-          "title": "لامين جمال نجم برشلونة يرفع سقف تحدي ريال مدريد قبل الكلاسيكو",
-          "snippet": "",
-          "url": "https://www.aljazeera.net/sport/2025/10/26/%D9%84%D8%A7%D9%85%D9%8A%D9%86-%D8%AC%D9%85%D8%A7%D9%84-%D9%86%D8%AC%D9%85-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D9%8A%D8%B1%D9%81%D8%B9-%D8%B3%D9%82%D9%81-%D8%AA%D8%AD%D8%AF%D9%8A",
-          "source": "الجزيرة نت"
-        },
-        {
-          "title": "لامين يامال يُثير استياء غرفة ملابس ريال مدريد",
-          "snippet": "",
-          "url": "https://arabic.sport360.com/article/football/%D9%83%D8%B1%D8%A9-%D8%A7%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A9/1348698/%D9%84%D8%A7%D9%85%D9%8A%D9%86-%D9%8A%D8%A7%D9%85%D8%A7%D9%84-%D9%8A%D9%8F%D8%AB%D9%8A%D8%B1-%D8%A7%D8%B3%D8%AA%D9%8A%D8%A7%D8%A1-%D8%BA%D8%B1%D9%81%D8%A9-%D9%85%D9%84%D8%A7%D8%A8%D8%B3-%D8%B1%D9%8A",
-          "source": "Sport360"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "مباريات ريال مدريد",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 26 Oct 2025 08:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4Hb3f4gjTgLilQzMQOi-Hx8Y5XznaEejoaMgB4IJQnCjhq_lW9zuarRaLgDg",
-      "pictureSource": "الجزيرة نت",
-      "relatedSearch": [
-        {
-          "title": "مقارنة بين أرقام مبابي ولامين جمال قبل الكلاسيكو",
-          "snippet": "",
-          "url": "https://www.aljazeera.net/sport/2025/10/25/%D9%85%D9%82%D8%A7%D8%B1%D9%86%D8%A9-%D8%A8%D9%8A%D9%86-%D8%A3%D8%B1%D9%82%D8%A7%D9%85-%D9%85%D8%A8%D8%A7%D8%A8%D9%8A-%D9%88%D9%84%D8%A7%D9%85%D9%8A%D9%86-%D8%AC%D9%85%D8%A7%D9%84-%D9%82%D8%A8%D9%84",
-          "source": "الجزيرة نت"
-        },
-        {
-          "title": "مباشر.. ريال مدريد ضد برشلونة (1-0) في كلاسيكو الدوري الإسباني",
-          "snippet": "",
-          "url": "https://a5r5br.net/international/sports/6776660-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D8%B6%D8%AF-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-10-%D9%81%D9%8A-%D9%83%D9%84%D8%A7%D8%B3%D9%8A%D9%83%D9%88-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A",
-          "source": "آخر خبر"
-        },
-        {
-          "title": "الكلاسيكو | 4 أسلحة تكتيكية حاسمة في البرنابيو",
-          "snippet": "",
-          "url": "https://www.winwin.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D9%84%D9%83%D9%84%D8%A7%D8%B3%D9%8A%D9%83%D9%88-4-%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D8%AA%D9%83%D8%AA%D9%8A%D9%83%D9%8A%D8%A9-%D8%AD%D8%A7%D8%B3%D9%85%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9",
-          "source": "winwin"
+          "url": "https://www.couriernews.com/sports/aptopix-spain-soccer-la-liga/image_9a77bd26-6c70-517b-9fa9-da196341a8a0.html",
+          "source": "couriernews.com"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "لا ليغا",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 26 Oct 2025 08:00:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQr6MylvxAdhyQTNNOZW6bAMiJUjMB433Qhx0BeRmfsfhBlOgpEddBHgAxwzlY",
       "pictureSource": "الشرق الأوسط",
@@ -115,7 +68,7 @@
     },
     {
       "title": "رياضة",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 26 Oct 2025 08:00:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcCfnWZW3gjYpkKlHy5KG1tM3ou4An24HBOh9-uxTtbM1s-uEnMNsRVec7pLY",
       "pictureSource": "ESPN",
@@ -127,10 +80,10 @@
           "source": "ESPN"
         },
         {
-          "title": "Best NBA Prop Bets Today (Predictions for Victor Wembanyama, Ausar Thompson, Luka Doncic)",
+          "title": "3 Best NBA Player Prop Bets for Friday 10/24/25",
           "snippet": "",
-          "url": "https://www.si.com/betting/best-nba-prop-bets-today-predictions-for-victor-wembanyama-ausar-thompson-luka-doncic",
-          "source": "Sports Illustrated"
+          "url": "https://www.fanduel.com/research/3-best-nba-player-prop-bets-for-friday-10-24-25",
+          "source": "FanDuel"
         },
         {
           "title": "NBA odds, picks, predictions: This basketball parlay returns nearly +600 on Friday",
@@ -145,26 +98,26 @@
       "title": "aston villa vs man city",
       "trafficCount": "200+",
       "pubDate": "Sun, 26 Oct 2025 07:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoEBB6emn60mKB-54C4ZjAf-XhLI7bfxrcJpxCqmfLqJflzw_6yk3sCxEPh0o",
-      "pictureSource": "Sports Illustrated",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsjwGZcIqTMdwGOy8idtxHlCA3ilgEA68dMGubv_ybHARuCLFS_eEMyTEj6ew",
+      "pictureSource": "Azat TV",
       "relatedSearch": [
         {
-          "title": "How to Watch Aston Villa vs. Man City on TV, Live Stream",
+          "title": "Matty Cash’s Decisive Strike Lifts Aston Villa Over Manchester City: Premier League Showdown 2025-26",
           "snippet": "",
-          "url": "https://www.si.com/soccer/how-to-watch-aston-villa-vs-man-city-tv-live-stream-10-26-25",
-          "source": "Sports Illustrated"
-        },
-        {
-          "title": "Preview: Manchester City visit unhappy hunting ground Villa Park",
-          "snippet": "",
-          "url": "https://www.fotmob.com/topnews/23597-preview-manchester-city-visit-unhappy-hunting-ground-villa-park",
-          "source": "FotMob"
+          "url": "https://azat.tv/en/matty-cash-decisive-strike-aston-villa-manchester-city-premier-league-2025-26/",
+          "source": "Azat TV"
         },
         {
           "title": "Matty Cash puts Villa ahead against City; Burnley take the lead at Wolves",
           "snippet": "",
           "url": "https://onefootball.com/en/news/matty-cash-puts-villa-ahead-against-city-burnley-take-the-lead-at-wolves-41859809",
           "source": "OneFootball"
+        },
+        {
+          "title": "Pep Guardiola reaction — Manchester City boss speaks after loss at Aston Villa",
+          "snippet": "",
+          "url": "https://www.nbcsports.com/soccer/news/pep-guardiola-reaction-manchester-city-boss-speaks-after-loss-at-aston-villa",
+          "source": "NBC Sports"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +136,16 @@
           "source": "Arsenal.com"
         },
         {
-          "title": "Premier League's giant-killers head to the Emirates",
+          "title": "Law of the Ex at its finest - Eze scores first PL goal for Arsenal against Palace",
           "snippet": "",
-          "url": "https://www.besoccer.com/new/premier-league-s-giant-killers-head-to-the-emirates-1378162",
+          "url": "https://www.besoccer.com/new/law-of-the-ex-at-its-finest-eze-scores-first-pl-goal-for-arsenal-against-palace-1378831",
           "source": "BeSoccer"
         },
         {
-          "title": "Mikel Arteta handed second Arsenal injury concern vs Crystal Palace",
+          "title": "Top xG and shot stats show why Palace could cause Arsenal problems",
           "snippet": "",
-          "url": "https://www.football.london/arsenal-fc/news/breaking-arsenal-injury-declan-rice-32752802",
-          "source": "Football London"
+          "url": "https://onefootball.com/de/news/top-xg-and-shot-stats-show-why-palace-could-cause-arsenal-problems-41859303",
+          "source": "OneFootball"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,14 +182,14 @@
       "title": "real madrid – barcelone",
       "trafficCount": "500+",
       "pubDate": "Sun, 26 Oct 2025 07:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdrnXREw1GayMMDTdzVynM8sd9Ro_gdcNUOGhBsCpsWT_MCn-JPgTqXasIIng",
-      "pictureSource": "90min.com",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRi4Db51eT-RrptCKXCMlToGyg6kjRj-pjZmJ7oRjPFaAFZAIH3OWNp0kdZErw",
+      "pictureSource": "20 Minutes",
       "relatedSearch": [
         {
-          "title": "OFFICIEL : La compo du FC Barcelone pour le Clasico contre le Real Madrid est tombée, avec Lamine Yamal",
+          "title": "EN DIRECT Real Madrid - FC Barcelone : Bellingham du tac au tac, le Real re…",
           "snippet": "",
-          "url": "https://www.90min.com/fr/officiel-la-compo-du-fc-barcelone-pour-le-clasico-contre-le-real-madrid-est-tombee-avec-lamine-yamal-26-10-2025",
-          "source": "90min.com"
+          "url": "https://www.20minutes.fr/sport/football/liga/4181462-20251026-direct-real-madrid-fc-barcelone-clasico-revanche-mbappe-face-barca-lamine-yamal-suivez-match",
+          "source": "20 Minutes"
         },
         {
           "title": "Le démantèlement d’un reseau illégal de revente de billets au Bernabéu",
@@ -245,10 +198,10 @@
           "source": "OneFootball"
         },
         {
-          "title": "Real Madrid vs Barcelone : Rashford titulaire",
+          "title": "🎥 VIDÉO - Clasico : Revivez le but de Mbappé contre le Barça lors du Clasico",
           "snippet": "",
-          "url": "https://www.vietnam.vn/fr/real-madrid-vs-barcelona-rashford-da-chinh",
-          "source": "Vietnam.vn"
+          "url": "https://www.goal.com/fr/listes/video-clasico-revivez-le-but-de-mbappe-contre-le-barca-lors-du-clasico/blt249369462d4d8160",
+          "source": "Goal.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,26 +210,54 @@
       "title": "real madrid vs barcelona",
       "trafficCount": "2000+",
       "pubDate": "Sun, 26 Oct 2025 07:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqZ5otE-sodmD1_God7JgebTYgVnCQCVz50ruRX0i2YfY-szDMnwN5SOt8kck",
-      "pictureSource": "CNN en Español",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDPFavWUXUjBCnEs1Xkw7ZMNHR3kcXKpbbOYD5E8V_eFdKBtxZVBGlOwFJ2bs",
+      "pictureSource": "Sports Illustrated",
       "relatedSearch": [
         {
-          "title": "Clásico Real Madrid - Barcelona, en vivo: resultado, goles y más",
+          "title": "¿Era penalti de Lamine Yamal sobre Vinicius Junior?",
           "snippet": "",
-          "url": "https://cnnespanol.cnn.com/deportes/live-news/clasico-real-madrid-barcelona-en-vivo-resultado-goles-y-mas",
-          "source": "CNN en Español"
+          "url": "https://www.si.com/es-us/futbol/era-penalti-de-lamine-yamal-sobre-vinicius-junior",
+          "source": "Sports Illustrated"
         },
         {
-          "title": "¡Mbappé anota el primer gol del partido!",
+          "title": "Mbappé aprovechó el pase top de Bellingham y anotó el 1-0 de Real Madrid ante Barcelona",
           "snippet": "",
-          "url": "https://www.mundodeportivo.com/futbol/el-clasico-barca-real-madrid/20251026/1002557965/mbappe-anota-primer-gol-partido.html",
-          "source": "Mundo Deportivo"
+          "url": "https://onefootball.com/en/news/mbappe-aprovecho-el-pase-top-de-bellingham-y-anoto-el-1-0-de-real-madrid-ante-barcelona-41860608",
+          "source": "OneFootball"
         },
         {
-          "title": "Así fue el golazo anulado a Mbappé en El Clásico por un milimétrico fuera de juego",
+          "title": "Real Madrid - Barcelona, el clásico de la Liga en imágenes | Fotos | Fútbol | Deportes",
           "snippet": "",
-          "url": "https://www.elespanol.com/deportes/futbol/20251026/golazo-anulado-mbappe-clasico-milimetrico-juego/1003743986478_0.html",
-          "source": "El Español"
+          "url": "https://elpais.com/deportes/futbol/2025-10-26/real-madrid-barcelona-el-clasico-de-la-liga-en-imagenes.html",
+          "source": "EL PAÍS"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "الريال ضد برشلونة",
+      "trafficCount": "50000+",
+      "pubDate": "Sun, 26 Oct 2025 06:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR68XAKgQ97KK2UAnyofkolgxw0q5k89fBnxTQKZs9d8Pt-t1Akm3QfXUEVy3k",
+      "pictureSource": "بوابة الوسط",
+      "relatedSearch": [
+        {
+          "title": "كلاسيكو بنكهة إنجليزية.. مدريد وبرشلونة على موعد مع مواجهة تاريخية",
+          "snippet": "",
+          "url": "https://alwasat.ly/news/international-sports/495593",
+          "source": "بوابة الوسط"
+        },
+        {
+          "title": "تشكيلة ريال مدريد في مباراة اليوم ضد برشلونة",
+          "snippet": "",
+          "url": "https://arabic.sport360.com/article/%D9%83%D8%B1%D8%A9-%D8%A7%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A9/%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF/1348945/%D8%AA%D8%B4%D9%83%D9%8A%D9%84%D8%A9-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%81%D9%8A-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%B6%D8%AF-%D8%A8-24",
+          "source": "Sport360"
+        },
+        {
+          "title": "بث مباراة الكلاسيكو بين ريال مدريد وبرشلونة اليوم مباشر في الدوري الإسباني 2025/2026",
+          "snippet": "",
+          "url": "https://transfermercato.com/%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D9%83%D9%84%D8%A7%D8%B3%D9%8A%D9%83%D9%88-%D8%A8%D9%8A%D9%86-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%88%D8%A8%D8%B1/",
+          "source": "ترانسفير ميركاتو"
         }
       ],
       "link": "https://imtaqin.id/"

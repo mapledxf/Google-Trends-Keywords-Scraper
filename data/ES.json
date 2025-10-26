@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2025-10-26 07:50:22",
+  "lastUpdate": "2025-10-26 07:58:05",
   "data": [
     {
-      "title": "aemet malaga",
+      "title": "kamala harris",
       "trafficCount": "100+",
+      "pubDate": "Sun, 26 Oct 2025 00:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMEVwY-dpXZ5xIRtT7t0Lsh4HNgVed-vI9ZvI-KqpYwmLeSXa7H4mdabcY7YU",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Kamala Harris tells BBC she may run for president again",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/cx2n7k2veywo",
+          "source": "BBC"
+        },
+        {
+          "title": "Kamala Harris Suggests She Is Considering Another Presidential Run",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/10/25/us/politics/kamala-harris-presidential-race.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Kamala Harris says she may run for president again in 2028",
+          "snippet": "",
+          "url": "https://www.washingtonpost.com/politics/2025/10/25/kamala-harris-2028-election/",
+          "source": "The Washington Post"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "aemet malaga",
+      "trafficCount": "200+",
       "pubDate": "Sun, 26 Oct 2025 00:20:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlU7h3Wk9L6waj2imdCoxme2i77g9F1fKdbi7QfxG6Os5D5qhjNtZL5lIRKNM",
       "pictureSource": "Diario Sur",
@@ -30,37 +58,9 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "elecciones argentina",
-      "trafficCount": "100+",
+      "title": "maraton valencia 2025",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 26 Oct 2025 00:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVydriKGwK_iQaq78lXWGf1orTduiDZ6vTDmtQf0AQXI4dOf0fEJFJkClev6c",
-      "pictureSource": "EL PAÍS",
-      "relatedSearch": [
-        {
-          "title": "Milei se juega la gobernabilidad en las elecciones legislativas de Argentina",
-          "snippet": "",
-          "url": "https://elpais.com/expres/2025-10-26/milei-se-juega-la-gobernabilidad-en-las-elecciones-legislativas-de-argentina.html",
-          "source": "EL PAÍS"
-        },
-        {
-          "title": "Elecciones de mitad de mandato este domingo en Argentina: la prueba de fuego para un Milei que llega en su peor momento",
-          "snippet": "",
-          "url": "https://www.20minutos.es/internacional/elecciones-mitad-mandato-este-domingo-argentina-prueba-fuego-para-un-milei-que-llega-su-peor-momento_6660191_0.html",
-          "source": "20Minutos"
-        },
-        {
-          "title": "¿El principio del fin del experimento de Milei en Argentina? Lo veremos hoy",
-          "snippet": "",
-          "url": "https://www.elconfidencial.com/mundo/2025-10-26/milei-elecciones-argentina-trump-economia-1hms_4235421/",
-          "source": "El Confidencial"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "medio maraton valencia 2025",
-      "trafficCount": "2000+",
-      "pubDate": "Sun, 26 Oct 2025 00:00:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSX7KCcMRcEv-L78FFe8ABv-BxnjS8eY4xlCLZrX1e2DUP1rhCpZfPFf9SYrhU",
       "pictureSource": "Valencia Ciudad del Running",
       "relatedSearch": [
@@ -81,6 +81,34 @@
           "snippet": "",
           "url": "https://www.eldebate.com/espana/comunidad-valenciana/20251024/recorrido-medio-maraton-valencia-2025-40-calles-pasa-carrera_348124.html",
           "source": "El Debate"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "elecciones argentina",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 26 Oct 2025 00:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOESRYWjKbslAtc1xkks0o2ZFDLrZtnZc0IqqytR6hFF2jWEI0UJwIEvtJSgQ",
+      "pictureSource": "El Mundo",
+      "relatedSearch": [
+        {
+          "title": "Legislativas en Argentina: los votos que determinarán el futuro de Javier Milei",
+          "snippet": "",
+          "url": "https://www.elmundo.es/internacional/2025/10/26/68fb85ef21efa032438b4599.html",
+          "source": "El Mundo"
+        },
+        {
+          "title": "Elecciones de mitad de mandato este domingo en Argentina: la prueba de fuego para un Milei que llega en su peor momento",
+          "snippet": "",
+          "url": "https://www.20minutos.es/internacional/elecciones-mitad-mandato-este-domingo-argentina-prueba-fuego-para-un-milei-que-llega-su-peor-momento_6660191_0.html",
+          "source": "20Minutos"
+        },
+        {
+          "title": "¿El principio del fin del experimento de Milei en Argentina? Lo veremos hoy",
+          "snippet": "",
+          "url": "https://www.elconfidencial.com/mundo/2025-10-26/milei-elecciones-argentina-trump-economia-1hms_4235421/",
+          "source": "El Confidencial"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -164,10 +192,10 @@
           "source": "EL PAÍS"
         },
         {
-          "title": "José Antonio Rueda, evacuado tras un brutal accidente con Dettwiler en Moto3",
+          "title": "Brutal accidente en Moto3 entre el sevillano Rueda y Dettwiler que acaba con traslado en helicóptero",
           "snippet": "",
-          "url": "https://www.lavanguardia.com/deportes/20251026/11198042/jose-antonio-rueda-evacuado-brutal-accidente-dettwiler-moto3.html",
-          "source": "La Vanguardia"
+          "url": "https://www.elmundo.es/deportes/motociclismo/2025/10/26/68fdd0b8e4d4d8bb528b456d.html",
+          "source": "El Mundo"
         },
         {
           "title": "Furusato gana la carrera más triste del año",
@@ -230,34 +258,6 @@
           "snippet": "",
           "url": "https://hipertextual.com/cine-television/una-casa-llena-de-dinamita-final-explicado-netflix/",
           "source": "Hipertextual"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "cruz azul - monterrey",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 25 Oct 2025 22:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvWzSQJeSanq1qB4Fd0p0uFJ0YjElxjQI8wxByCAm-1fzlXBW48YDQwJ1A7Y8",
-      "pictureSource": "MARCA",
-      "relatedSearch": [
-        {
-          "title": "Goles y resumen Cruz Azul vs Monterrey: Orozco Chiquete vence al equipo de Sergio Ramos y mantiene a la Máquina en Liguilla directa",
-          "snippet": "",
-          "url": "https://www.marca.com/mx/futbol/liga-mx/cronica/2025/10/26/68fd952ce2704e9e088b4581.html",
-          "source": "MARCA"
-        },
-        {
-          "title": "Cruz Azul vs Monterrey en vivo minuto a minuto hoy | Liga MX Apertura",
-          "snippet": "",
-          "url": "https://www.mundodeportivo.com/us/futbol/liga-mx/20251025/732882/cruz-azul-vs-monterrey-vivo-minuto-minuto-hoy-liga-mx-apertura-drca1.html",
-          "source": "Mundo Deportivo"
-        },
-        {
-          "title": "Cruz Azul se queda con los tres puntos frente a Rayados",
-          "snippet": "",
-          "url": "https://onefootball.com/es/noticias/cruz-azul-se-queda-con-los-tres-puntos-frente-a-rayados-41858341",
-          "source": "OneFootball"
         }
       ],
       "link": "https://imtaqin.id/"

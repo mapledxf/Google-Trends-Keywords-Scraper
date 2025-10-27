@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-27 11:40:56",
+  "lastUpdate": "2025-10-27 11:48:35",
   "data": [
     {
       "title": "dunedin crash",
@@ -43,10 +43,10 @@
           "source": "BBC"
         },
         {
-          "title": "Hurricane Melissa Live Blog: Storm Reaches Category 5 Intensity",
+          "title": "Hurricane Melissa strengthens to a Category 5 storm, heads for Jamaica",
           "snippet": "",
-          "url": "https://weather.com/storms/hurricane/news/2025-10-27-hurricane-melissa-live-blog-updates-jamaica-haiti-cuba",
-          "source": "The Weather Channel"
+          "url": "https://www.usatoday.com/story/news/weather/2025/10/27/hurricane-melissa-strengthens-monday/86924987007/",
+          "source": "USA Today"
         },
         {
           "title": "Hurricane Melissa’s Increasing Intensity Prompts Dire Warnings for Jamaica and Haiti",
@@ -83,20 +83,20 @@
       "title": "thunderstorm warning",
       "trafficCount": "20000+",
       "pubDate": "Mon, 27 Oct 2025 00:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1QSyaZFvfvnocKqDHE4xSWhT9GjUghZuHznZrUV4Fki5_hQ2_iZzprj24o04",
-      "pictureSource": "Stuff",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqOcjo50gvxjV8V8yajNYvKsECvNDpbBy7p9uZkOUvNngiHjOZ6gHkAvAFYr0",
+      "pictureSource": "NZ Herald",
       "relatedSearch": [
-        {
-          "title": "‘Not a great day’: We’re in for a stormy Labour Day",
-          "snippet": "",
-          "url": "https://www.stuff.co.nz/nz-news/360866335/not-great-day-were-stormy-labour-day",
-          "source": "Stuff"
-        },
         {
           "title": "'Looks like it will intensify': Severe thunderstorm watch for upper North Island",
           "snippet": "",
           "url": "https://www.nzherald.co.nz/nz/labour-day-weather-metservice-warns-of-heavy-rain-and-thunderstorms-for-north-island/K7JWCDCNCRFVZCUG3S6QCDLOTE/",
           "source": "NZ Herald"
+        },
+        {
+          "title": "Live: Reports of cars 'trapped' in snow on two state highways",
+          "snippet": "",
+          "url": "https://www.stuff.co.nz/nz-news/360866335/not-great-day-were-stormy-labour-day",
+          "source": "Stuff"
         },
         {
           "title": "Severe Labour Day storm set to hit the South Island",
@@ -164,34 +164,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "welcome to derry",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 26 Oct 2025 23:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIXB44tMu_e254iIlP0UvHX_PEoellKg_QnEqdBdLdu9eP0Lhn2-NPtyU13ow",
-      "pictureSource": "The New York Times",
-      "relatedSearch": [
-        {
-          "title": "‘It: Welcome to Derry’ Season 1 Premiere Recap: Nuclear Family",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2025/10/26/arts/television/it-welcome-to-derry-recap-season-1-premiere.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "‘It: Welcome To Derry’ Episode 2 Gets Early Release On HBO Max For Halloween",
-          "snippet": "",
-          "url": "https://deadline.com/2025/10/it-welcome-to-derry-episode-2-premiere-date-hbo-max-1236598290/",
-          "source": "Deadline"
-        },
-        {
-          "title": "IT: Welcome to Derry First Reviews: A Total Monster Mash with Plenty of Easter Eggs",
-          "snippet": "",
-          "url": "https://editorial.rottentomatoes.com/article/it-welcome-to-derry-first-reviews/",
-          "source": "Rotten Tomatoes"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "measles",
       "trafficCount": "2000+",
       "pubDate": "Sun, 26 Oct 2025 22:00:00 -0700",
@@ -215,6 +187,34 @@
           "snippet": "",
           "url": "https://www.thepost.co.nz/nz-news/360866715/wellington-measles-cases-confirmed-two-schools-some-pupils-may-isolate",
           "source": "Thepost"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "it welcome to derry",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 26 Oct 2025 21:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIXB44tMu_e254iIlP0UvHX_PEoellKg_QnEqdBdLdu9eP0Lhn2-NPtyU13ow",
+      "pictureSource": "The New York Times",
+      "relatedSearch": [
+        {
+          "title": "‘It: Welcome to Derry’ Season 1 Premiere Recap: Nuclear Family",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/10/26/arts/television/it-welcome-to-derry-recap-season-1-premiere.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "‘It: Welcome To Derry’ Episode 2 Gets Early Release On HBO Max For Halloween",
+          "snippet": "",
+          "url": "https://deadline.com/2025/10/it-welcome-to-derry-episode-2-premiere-date-hbo-max-1236598290/",
+          "source": "Deadline"
+        },
+        {
+          "title": "‘It: Welcome to Derry’ Creators on the Premiere’s Shocking (and Disgusting!) Twists and Their Three-Season Plan for Pennywise",
+          "snippet": "",
+          "url": "https://variety.com/2025/tv/news/it-welcome-to-derry-director-andy-muschietti-kidding-the-kids-1236560839/",
+          "source": "Variety"
         }
       ],
       "link": "https://imtaqin.id/"

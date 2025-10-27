@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-10-27 19:27:52",
+  "lastUpdate": "2025-10-27 19:37:13",
   "data": [
     {
       "title": "gmail passwords exposed data leak",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 27 Oct 2025 11:20:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ__0Mi8Zb6Ais4sdjj92Ahfw54AKnkI_cm0AsE-ZPO9CcEJLkX-Hd2FUyctiE",
       "pictureSource": "Forbes",
@@ -33,9 +33,15 @@
       "title": "hurricane melissa",
       "trafficCount": "20000+",
       "pubDate": "Mon, 27 Oct 2025 10:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2dbwuNBgmUJOfCj417Pd9tjfOd6fbT-wR5T577Lhsak8lfpqSQaxC3HLoCKk",
-      "pictureSource": "The Guardian",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYDkngjE3e8vJNHsS7sgvpUGHVRxl_0LB6y8OMaD-34f_teO1XVcfd_88f4kU",
+      "pictureSource": "BBC",
       "relatedSearch": [
+        {
+          "title": "Hurricane Melissa could be strongest to ever hit Jamaica",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c2dr0z57nygo",
+          "source": "BBC"
+        },
         {
           "title": "Warming oceans probably fueling Hurricane Melissa’s rapid intensification",
           "snippet": "",
@@ -43,16 +49,10 @@
           "source": "The Guardian"
         },
         {
-          "title": "Here is the latest on the storm.",
+          "title": "Jamaica braces for Category 5 hurricane",
           "snippet": "",
-          "url": "https://www.nytimes.com/live/2025/10/21/weather/tropical-storm-melissa-hurricane/here-is-the-latest-on-the-storm",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Hurricane Melissa could be strongest to ever hit Jamaica",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c2dr0z57nygo",
-          "source": "BBC"
+          "url": "https://www.1news.co.nz/2025/10/28/jamaica-braces-for-category-5-hurricane/",
+          "source": "1News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -171,17 +171,11 @@
     },
     {
       "title": "nz news",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 27 Oct 2025 08:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgE1DVAuBC50e0AYIkPZAyx2gZ2rgyzQpijkQv-tXI7NuBdE9F3QxjWy4me3Q",
-      "pictureSource": "NZ Herald",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSNOXF-xMovE9EpzPzBKH_PdWfttuzu3Ylc-G2Sy4xZKMqlcNJFuY0QTmwTuQ",
+      "pictureSource": "RNZ",
       "relatedSearch": [
-        {
-          "title": "'He no longer has power over me': Victim confronts 'predator', saying she'll never forgive him",
-          "snippet": "",
-          "url": "https://www.nzherald.co.nz/nz/huntly-man-robert-manu-tukiri-jnr-jailed-for-sexual-assaults-on-four-young-victims/FDVQWY6IUFD3TPSLZSANUPIEZU/",
-          "source": "NZ Herald"
-        },
         {
           "title": "Labour to campaign on narrow capital gains tax, no wealth tax",
           "snippet": "",
@@ -189,10 +183,16 @@
           "source": "RNZ"
         },
         {
-          "title": "Labour proposes capital gains tax to fund free GP visits",
+          "title": "Labour to campaign on capital gains tax, but there are several exemptions",
           "snippet": "",
           "url": "https://www.nzherald.co.nz/nz/politics/labour-unveils-targeted-capital-gains-tax-to-fund-free-doctor-visits/644ZQX6QDFGFXAPO2O4FDSKELE/",
           "source": "NZ Herald"
+        },
+        {
+          "title": "Breaking news: Labour locks in capital gains tax on investment property - Read more",
+          "snippet": "",
+          "url": "https://www.interest.co.nz/public-policy/135890/28-tax-investment-property-transactions-after-2027-will-fund-free-gp-visits",
+          "source": "Interest.co.nz"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-10-28 07:19:56",
+  "lastUpdate": "2025-10-28 07:33:28",
   "data": [
+    {
+      "title": "grokipedia",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 28 Oct 2025 00:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUtw7oAGE6mqIruhh53AYD938FU1Psf9Aico7JdutqiuOsj6vkuqpURcXjGo4",
+      "pictureSource": "The New York Times",
+      "relatedSearch": [
+        {
+          "title": "Elon Musk Challenges Wikipedia With His Own A.I. Encyclopedia",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/10/27/technology/grokipedia-launch-elon-musk.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Elon Musk's Grokipedia Pushes Far-Right Talking Points",
+          "snippet": "",
+          "url": "https://www.wired.com/story/elon-musk-launches-grokipedia-wikipedia-competitor/",
+          "source": "WIRED"
+        },
+        {
+          "title": "X's Grokipedia is online after it briefly crashed out",
+          "snippet": "",
+          "url": "https://www.engadget.com/social-media/xs-grokipedia-is-online-after-it-briefly-crashed-out-231108836.html",
+          "source": "Engadget"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "енпф",
       "trafficCount": "500+",
@@ -33,20 +61,20 @@
       "title": "tengrinews",
       "trafficCount": "200+",
       "pubDate": "Mon, 27 Oct 2025 20:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTy1yvCmiSiRiiR3j_8TTjq2R2goxJQqXm55W4h7RJguMFFaVhtG3prnS6GcxI",
-      "pictureSource": "Новости Zakon.kz",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-OOV8jTZoWZNoN2OXeUSwTOCt8q515it-4ciGY3xYiRM4GQm4mvjnY7QaviI",
+      "pictureSource": "Tengrinews",
       "relatedSearch": [
-        {
-          "title": "5 иностранцев готовили теракт в Алматы – КНБ",
-          "snippet": "",
-          "url": "https://www.zakon.kz/proisshestviia/6495795-5-inostrantsev-gotovili-terakt-v-almaty--knb.html",
-          "source": "Новости Zakon.kz"
-        },
         {
           "title": "КНБ предотвратил теракт в Алматы",
           "snippet": "",
           "url": "https://tengrinews.kz/events/knb-predotvratil-terakt-v-almatyi-584215/",
           "source": "Tengrinews"
+        },
+        {
+          "title": "5 иностранцев готовили теракт в Алматы – КНБ",
+          "snippet": "",
+          "url": "https://www.zakon.kz/proisshestviia/6495795-5-inostrantsev-gotovili-terakt-v-almaty--knb.html",
+          "source": "Новости Zakon.kz"
         },
         {
           "title": "В Алматы предотвратили теракт",
@@ -61,26 +89,26 @@
       "title": "новости казахстана",
       "trafficCount": "200+",
       "pubDate": "Mon, 27 Oct 2025 20:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeGBcFw-B958sbGJgCqzzptyzQDwpVb2oFHZGL0JKlSRdneWztp2BV2FBH67k",
-      "pictureSource": "Tengrinews",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCOagnxM5Npsgc_SxTrNMqW4AN5C2JjOf9e3IAV5pzM-6ZBbE6YGCqd6QuaSI",
+      "pictureSource": "Казинформ",
       "relatedSearch": [
         {
-          "title": "Строительство АЭС: “Росатом“ начал предварительные работы в Улкене",
+          "title": "Астана—Хельсинки: почему страна Суоми видит в Казахстане надежного партнера",
           "snippet": "",
-          "url": "https://tengrinews.kz/kazakhstan_news/stroitelstvo-aes-rosatom-nachal-predvaritelnyie-rabotyi-584224/",
-          "source": "Tengrinews"
+          "url": "https://www.inform.kz/ru/strana-suomi-pochemu-finlyandiya-vidit-v-kazahstane-nadezhnogo-partnera",
+          "source": "Казинформ"
         },
         {
-          "title": "Саткалиев назвал критерии при выборе названия первой АЭС в Казахстане",
+          "title": "Казахстанский уран могут начать продавать атомным станциям Финляндии",
           "snippet": "",
-          "url": "https://www.zakon.kz/obshestvo/6495813-satkaliev-nazval-kriterii-pri-vybore-nazvaniya-pervoy-aes-v-kazakhstane.html",
+          "url": "https://www.zakon.kz/ekonomika-biznes/6495820-kazakhstanskiy-uran-mogut-nachat-prodavat-atomnym-stantsiyam-finlyandii.html",
           "source": "Новости Zakon.kz"
         },
         {
-          "title": "Росатом приступил к проектно-изыскательским работам — Саткалиев о строительстве первой АЭС",
+          "title": "В Акорде состоялась церемония встречи Президента Финляндии",
           "snippet": "",
-          "url": "https://www.inform.kz/ru/rosatom-pristupil-k-proektno-iziskatelskim-rabotam-satkaliev-o-stroitelstve-pervoy-aes-2ce2c3",
-          "source": "Казинформ"
+          "url": "https://24.kz/ru/news/top-news/737261-v-akorde-sostoyalas-tseremoniya-vstrechi-prezidenta-finlyandii",
+          "source": "24.kz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,13 +117,19 @@
       "title": "погода алматы",
       "trafficCount": "1000+",
       "pubDate": "Mon, 27 Oct 2025 18:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZkgYeiPm5gdEwS4DokuvddrmrEzmNZ7r2Qnjg33xH-QX1AKDLHCycKyVgfv0",
-      "pictureSource": "Gismeteo",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFHGEXW4EvV9exjbqtSDHp9lATeCofeYOZKVP6BwkJfteaCboLWb5GJi0bIDM",
+      "pictureSource": "Новости Zakon.kz",
       "relatedSearch": [
         {
-          "title": "В Алматы 28 октября ожидается комфортная осенняя погода — до +17 °C",
+          "title": "От -7°C до +20°C: синоптики Казахстана представили температурный прогноз на вторник",
           "snippet": "",
-          "url": "https://www.gismeteo.kz/news/klimat/v-almaty-28-oktyabrya-ozhidaetsya-komfortnaya-osennyaya-pogoda-do-17-c/",
+          "url": "https://www.zakon.kz/sobytiia/6495736-ot-7C-do-20C-sinoptiki-kazakhstana-predstavili-temperaturnyy-prognoz-na-vtornik.html",
+          "source": "Новости Zakon.kz"
+        },
+        {
+          "title": "В Астане 28 октября без осадков, днем до +10 °C",
+          "snippet": "",
+          "url": "https://www.gismeteo.kz/news/klimat/v-astane-28-oktyabrya-bez-osadkov-dnem-do-10-c/",
           "source": "Gismeteo"
         },
         {
@@ -103,12 +137,6 @@
           "snippet": "",
           "url": "https://www.nur.kz/society/2301861-dozhdlivuyu-nedelyu-poobeshchali-sinoptiki-zhitelyam-almaty/",
           "source": "NUR.KZ"
-        },
-        {
-          "title": "Погода в Алматы с 27 октября по 2 ноября 2025 года",
-          "snippet": "",
-          "url": "https://ru.qaz365.kz/weather-forecast/16066-pogoda-v-almaty-s-27-oktiabria-po-2-noiabria-2025-goda/",
-          "source": "Qaz365.kz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -143,7 +171,7 @@
     },
     {
       "title": "погода шымкент",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Mon, 27 Oct 2025 18:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSTl-A-vt-YeHEeMNgpfblCRwYuw0hmQkqarjVgiL_G9Ariq5OhinERRmHlWw",
       "pictureSource": "Gismeteo",
@@ -189,9 +217,9 @@
           "source": "Meta-ratings.kz"
         },
         {
-          "title": "Чемпионат Испании. \"Атлетико\" добился первой выездной победы, обыграв \"Бетис\".",
+          "title": "Обзор матча Бетис - Атлетико. 27 октября 2025, Чемпионат Испании, 10 тур - на ФНК",
           "snippet": "",
-          "url": "https://football.kulichki.net/worldnews/news.htm?854400-Chempionat-Ispanii-Atletiko-dobilsja-pervoi-vyezdnoi-pobedy-obygrav-Betis",
+          "url": "https://football.kulichki.net/spain/2026/10/2-Betis-Atletiko-obzor-matcha-spain-2026.htm",
           "source": "Футбол на Куличках"
         }
       ],
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://metaratings.ru/news/forvard-ak-barsa-fisenko-staraemsya-kazhdyi-novyi-match-nachinat-s-chistogo-lista-541712/",
           "source": "Metaratings"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "газиантеп – фенербахче",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 27 Oct 2025 09:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPpTVy01355Rh0LF4BUqrafSl299Mcj7_9MPRBK8I1Sd19E7EjCY61IQTCP_M",
-      "pictureSource": "Спорт Mail",
-      "relatedSearch": [
-        {
-          "title": "«Фенербахче» Тедеско не проигрывает месяц: 5 побед и ничья. В сентябре писали о возможном увольнении экс-тренера «Спартака»",
-          "snippet": "",
-          "url": "https://sportmail.ru/news/football/68487935/",
-          "source": "Спорт Mail"
-        },
-        {
-          "title": "Газиантеп – Фенербахче прогноз на матч Суперлиги Турции 27 октября 2025 года. Ставка с коэффициентом 2,25",
-          "snippet": "",
-          "url": "https://metaratings.ru/prognozy/futbol/gaziantep-fenerbakhche-prognoz-na-match-superligi-turcii-27-oktyabrya-2025-goda/",
-          "source": "Metaratings"
-        },
-        {
-          "title": "Газиантеп — Фенербахче: прогноз на матч Суперлиги, ставка за 2.23",
-          "snippet": "",
-          "url": "https://www.livesport.ru/tips/football/2025/10/27/gazisehir-fenerbahce/",
-          "source": "LiveSport.Ru"
         }
       ],
       "link": "https://imtaqin.id/"

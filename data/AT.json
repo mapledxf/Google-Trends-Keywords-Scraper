@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-10-29 14:18:20",
+  "lastUpdate": "2025-10-29 14:41:17",
   "data": [
     {
       "title": "alexander zverev",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 29 Oct 2025 07:00:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoAX8ZCSbH922bNwZBfim32cfZiUdTBj2nKg7u8Qnjo_Z7_Xjd-gBeijmVW3Q",
       "pictureSource": "sport.ORF.at",
@@ -31,7 +31,7 @@
     },
     {
       "title": "russland ukraine krieg",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 29 Oct 2025 06:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKGr0zKI46-YpMwATGgfO9bjo59K0EksGcSfaccV6FTXiXzTE4vm_rtZNt4uA",
       "pictureSource": "Der Standard",
@@ -71,16 +71,16 @@
           "source": "ORF"
         },
         {
+          "title": "Systemversagen bei SOS-Kinderdorf: Missbrauchsvorwürfe weiten sich aus",
+          "snippet": "",
+          "url": "https://www.derstandard.at/story/3000000294167/systemversagen-bei-sos-kinderdorf-missbrauchsvorwuerfe-weiten-sich-aus",
+          "source": "Der Standard"
+        },
+        {
           "title": "Klasnic zu Missbrauchs-Vorwürfen: \"Habe mich auf Kutins Wort verlassen\"",
           "snippet": "",
           "url": "https://kurier.at/politik/inland/sos-kinderdorf-waltraud-klasnic-missbrauch/403097791",
           "source": "Kurier"
-        },
-        {
-          "title": "SOS-Kinderdorf-Causa weitet sich aus: Leitung in Altmünster nach Vorwürfen freigestellt",
-          "snippet": "",
-          "url": "https://www.derstandard.at/story/3000000294086/berichte-von-missbrauchsvorwuerfen-bei-sos-kinderdorf-nepal",
-          "source": "Der Standard"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -114,36 +114,8 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "prognose",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 29 Oct 2025 05:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTO4kIHMJCWmC9dpLAm7STp1dppV98NPy5010YH6hcoJQedaN9ZNktelDqNtQU",
-      "pictureSource": "Kronen Zeitung",
-      "relatedSearch": [
-        {
-          "title": "Bis zu 20 Grad - Nebel weicht Herbstsonne: Oktober endet mild",
-          "snippet": "",
-          "url": "https://www.krone.at/3941906",
-          "source": "Kronen Zeitung"
-        },
-        {
-          "title": "Winterlich: Bis zu 30 Zentimeter Neuschnee auf steirischen Bergen",
-          "snippet": "",
-          "url": "https://www.kleinezeitung.at/steiermark/20250357/bis-zu-30-zentimeter-neuschnee-auf-steirischen-bergen",
-          "source": "Kleine Zeitung"
-        },
-        {
-          "title": "Letzte Schauer, DANN erwarten uns wieder bis zu 18 Grad",
-          "snippet": "",
-          "url": "https://www.wetter.at/wetter/news/letzte-schauer-dann-erwarten-uns-wieder-bis-zu-18-grad/654220030",
-          "source": "Wetter.at"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "winterreifenpflicht",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 29 Oct 2025 05:10:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzF7dYbJk8sesyqiC75IOLp5eu-LZ8Q5UZiCbLH1meaWrPbhaUU-wqD8EeO_w",
       "pictureSource": "salzburg24",
@@ -165,6 +137,34 @@
           "snippet": "",
           "url": "https://www.heute.at/s/neue-regel-fix-was-sich-fuer-alle-autofahrer-aendert-120140105",
           "source": "Heute"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "prognose",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 29 Oct 2025 05:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTO4kIHMJCWmC9dpLAm7STp1dppV98NPy5010YH6hcoJQedaN9ZNktelDqNtQU",
+      "pictureSource": "Kronen Zeitung",
+      "relatedSearch": [
+        {
+          "title": "Bis zu 20 Grad - Nebel weicht Herbstsonne: Oktober endet mild",
+          "snippet": "",
+          "url": "https://www.krone.at/3941906",
+          "source": "Kronen Zeitung"
+        },
+        {
+          "title": "Winterlich: Bis zu 30 Zentimeter Neuschnee auf steirischen Bergen",
+          "snippet": "",
+          "url": "https://www.kleinezeitung.at/steiermark/20250357/bis-zu-30-zentimeter-neuschnee-auf-steirischen-bergen",
+          "source": "Kleine Zeitung"
+        },
+        {
+          "title": "Letzte Schauer, DANN erwarten uns wieder bis zu 18 Grad",
+          "snippet": "",
+          "url": "https://www.wetter.at/wetter/news/letzte-schauer-dann-erwarten-uns-wieder-bis-zu-18-grad/654220030",
+          "source": "Wetter.at"
         }
       ],
       "link": "https://imtaqin.id/"

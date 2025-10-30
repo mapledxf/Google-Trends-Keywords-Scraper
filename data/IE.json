@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-30 10:11:12",
+  "lastUpdate": "2025-10-30 10:35:45",
   "data": [
     {
       "title": "floyd roger myers jr",
@@ -59,7 +59,7 @@
     },
     {
       "title": "permanent tsb",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 30 Oct 2025 02:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRp_TyzdMORv8DT0PLew1SzYity-TSj_ZVaLO7sRQF2LPI9P7__W-ol2ucnpV4",
       "pictureSource": "RTE.ie",
@@ -114,9 +114,9 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "met eireann",
+      "title": "met éireann weather warnings",
       "trafficCount": "5000+",
-      "pubDate": "Thu, 30 Oct 2025 01:40:00 -0700",
+      "pubDate": "Thu, 30 Oct 2025 01:20:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSO3Nw7TzvcvLUqhb32CkIc0tFQG-T12HMhqzNiX6p9dZV-Zufu4cepXBNrJL0",
       "pictureSource": "The Irish Times",
       "relatedSearch": [
@@ -143,7 +143,7 @@
     },
     {
       "title": "dame street",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 30 Oct 2025 01:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOwnQqXv2dH7lr9MhilFnVQvmz5ahtLky3tOn_bBh3Cj6b6VBqB6eguyjopX8",
       "pictureSource": "The Irish Times",
@@ -198,37 +198,9 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "ptsb",
+      "title": "local property tax",
       "trafficCount": "2000+",
-      "pubDate": "Thu, 30 Oct 2025 00:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnRR00SkQN0L86RT68qN5sJE7L_4Ppgz5AKO-nR73i0b4agSXZajzoHOTPWMc",
-      "pictureSource": "RTE.ie",
-      "relatedSearch": [
-        {
-          "title": "PTSB looks for new owner to support 'next phase' of growth",
-          "snippet": "",
-          "url": "https://www.rte.ie/news/business/2025/1030/1541245-ptsb-looks-for-new-owner-to-support-next-phase-of-growth/",
-          "source": "RTE.ie"
-        },
-        {
-          "title": "State-controlled PTSB puts itself up for sale",
-          "snippet": "",
-          "url": "https://www.irishtimes.com/business/financial-services/2025/10/30/state-controlled-ptsb-puts-itself-up-for-sale/",
-          "source": "The Irish Times"
-        },
-        {
-          "title": "PTSB puts itself up for sale in major shakeup to Irish banking sector",
-          "snippet": "",
-          "url": "https://www.independent.ie/business/irish/ptsb-puts-itself-up-for-sale-in-major-shakeup-to-irish-banking-sector/a1533581387.html",
-          "source": "The Irish Independent"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "lpt",
-      "trafficCount": "1000+",
-      "pubDate": "Thu, 30 Oct 2025 00:20:00 -0700",
+      "pubDate": "Thu, 30 Oct 2025 00:40:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9yg-hUHl_dgxxU5QXaB6k-Tw0vTYC9wDb_Yw2LJbxsgWzBfRYuCnN6m3X1TM",
       "pictureSource": "RTE.ie",
       "relatedSearch": [
@@ -239,16 +211,44 @@
           "source": "RTE.ie"
         },
         {
-          "title": "LPT explained: how to self-assess the value of your Irish properties and avoid Revenue penalties",
-          "snippet": "",
-          "url": "https://www.irishexaminer.com/property/residential/arid-41729439.html",
-          "source": "Irish Examiner"
-        },
-        {
           "title": "Over 1.5 million households have not yet filed property tax valuation as deadline looms",
           "snippet": "",
           "url": "https://www.independent.ie/business/money/over-15-million-households-have-not-yet-filed-property-tax-valuation-as-deadline-looms/a1119790504.html",
           "source": "The Irish Independent"
+        },
+        {
+          "title": "Local property tax explained: how to self-assess the value of your Irish properties and avoid Revenue penalties",
+          "snippet": "",
+          "url": "https://www.irishexaminer.com/property/residential/arid-41729439.html",
+          "source": "Irish Examiner"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ptsb",
+      "trafficCount": "2000+",
+      "pubDate": "Thu, 30 Oct 2025 00:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnRR00SkQN0L86RT68qN5sJE7L_4Ppgz5AKO-nR73i0b4agSXZajzoHOTPWMc",
+      "pictureSource": "RTE.ie",
+      "relatedSearch": [
+        {
+          "title": "State-controlled PTSB puts itself up for sale",
+          "snippet": "",
+          "url": "https://www.rte.ie/news/business/2025/1030/1541245-ptsb-looks-for-new-owner-to-support-next-phase-of-growth/",
+          "source": "RTE.ie"
+        },
+        {
+          "title": "PTSB puts itself up for sale in major shakeup to Irish banking sector",
+          "snippet": "",
+          "url": "https://www.independent.ie/business/irish/ptsb-puts-itself-up-for-sale-in-major-shakeup-to-irish-banking-sector/a1533581387.html",
+          "source": "The Irish Independent"
+        },
+        {
+          "title": "State moves to exit its last shareholdings in any Irish bank as PTSB goes up for sale",
+          "snippet": "",
+          "url": "https://www.thejournal.ie/ptsb-is-up-for-sale-state-owned-6859899-Oct2025/",
+          "source": "The Journal"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,26 +257,26 @@
       "title": "rob jetten",
       "trafficCount": "200+",
       "pubDate": "Thu, 30 Oct 2025 00:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHBJvdCjpZI7zHGP_E7A8rG1Z_3NWvw8iq5OP2r6nevQKBu8ome8keRphAp0A",
-      "pictureSource": "NU",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCVvKdz3WHHMhKibN_8LMYHPkHLT_W_0h1HBFbW09h1Q9BBeaWV4SfqATbYe4",
+      "pictureSource": "NOS",
       "relatedSearch": [
         {
-          "title": "D66 koerst met Jetten af op eerste premier ooit, maar droomkabinet nog ver weg",
+          "title": "PVV haalt D66 in als grootste partij • Verschil nu 2341 stemmen",
           "snippet": "",
-          "url": "https://www.nu.nl/tweede-kamerverkiezingen/6374185/d66-koerst-met-jetten-af-op-eerste-premier-ooit-maar-droomkabinet-nog-ver-weg.html",
+          "url": "https://nos.nl/collectie/14006/liveblog/2588474-pvv-haalt-d66-in-als-grootste-partij-verschil-nu-2341-stemmen",
+          "source": "NOS"
+        },
+        {
+          "title": "Live verkiezingen | PVV nipt aan kop, pas na weekend duidelijk wie grootste wordt",
+          "snippet": "",
+          "url": "https://www.nu.nl/tweede-kamerverkiezingen/6374188/live-verkiezingen-pvv-nipt-aan-kop-pas-na-weekend-duidelijk-wie-grootste-wordt.html",
           "source": "NU"
         },
         {
-          "title": "Zie je hoe Rob Jetten zich presenteert? Premierwaardig!",
+          "title": "LIVE Verkiezingen | PVV streeft D66 voorbij, nu bijna alle stemmen zijn geteld is verschil miniem",
           "snippet": "",
-          "url": "https://universonline.nl/nieuws/2025/10/29/zie-je-hoe-rob-jetten-zich-presenteert-premierwaardig/",
-          "source": "Univers magazine"
-        },
-        {
-          "title": "Met een partijleider die transformeerde van klimaatdrammer naar positivo boekte D66 een grote verkiezingswinst",
-          "snippet": "",
-          "url": "https://www.groene.nl/artikel/het-land-van-jetten",
-          "source": "De Groene Amsterdammer"
+          "url": "https://www.telegraaf.nl/politiek/live-verkiezingen-pvv-streeft-d66-voorbij-nu-bijna-alle-stemmen-zijn-geteld-is-verschil-miniem/100884227.html",
+          "source": "De Telegraaf"
         }
       ],
       "link": "https://imtaqin.id/"

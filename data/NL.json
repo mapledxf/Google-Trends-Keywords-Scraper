@@ -1,69 +1,28 @@
 {
-  "lastUpdate": "2025-10-30 00:55:48",
+  "lastUpdate": "2025-10-30 02:28:51",
   "data": [
-    {
-      "title": "cnn",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 29 Oct 2025 17:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRS1Mo4Mud7pX-kIWpwmbCgk3XAKtEChUcnoWH7U9e5d_A78fboU_x8BI6F1mA",
-      "pictureSource": "CNN",
-      "relatedSearch": [
-        {
-          "title": "Four Senate Republicans vote with Democrats in effort to end Trump tariffs on Canada",
-          "snippet": "",
-          "url": "https://www.cnn.com/2025/10/29/politics/canada-tariffs-senate-vote-trump",
-          "source": "CNN"
-        },
-        {
-          "title": "Live updates: Senate weighs ending Donald Trump's Canada tariffs as he announces South Korea deal",
-          "snippet": "",
-          "url": "https://thehill.com/homenews/administration/5577345-live-updates-trump-south-korea-government-shutdown/",
-          "source": "The Hill"
-        },
-        {
-          "title": "Trump news at a glance: senators pass measure that would scrap Brazil tariffs in rare fightback against trade war",
-          "snippet": "",
-          "url": "https://www.theguardian.com/us-news/2025/oct/29/trump-news-at-a-glance-senators-pass-measure-that-would-scrap-brazil-tariffs-in-rare-fightback-against-trade-war",
-          "source": "The Guardian"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "telegraaf",
       "trafficCount": "500+",
       "pubDate": "Wed, 29 Oct 2025 17:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiYTF1wkBp2f1JqeMQ71dXJfc68lHIY_mAdmqQzE2xjhInMBKwwJI37P4JmGk",
-      "pictureSource": "De Telegraaf",
-      "relatedSearch": [
-        {
-          "title": "’Ismael Saibari kan mee in de Premier League, maar Jerdy Schouten en Joey Veerman niet’",
-          "snippet": "",
-          "url": "https://www.telegraaf.nl/sport/voetbal/ismael-saibari-kan-mee-in-de-premier-league-maar-jerdy-schouten-en-joey-veerman-niet/100589696.html",
-          "source": "De Telegraaf"
-        },
-        {
-          "title": "Van Marwijk waarschuwt PSV: 'Wordt door buitenlandse topclubs gezien'",
-          "snippet": "",
-          "url": "https://www.voetbalprimeur.nl/nieuws/1706516/van-marwijk-ontwikkeling-saibari-levert-psv-ook-probleem-op.html",
-          "source": "VoetbalPrimeur.nl"
-        },
-        {
-          "title": "Saibari-show in De Kuip: 'Dit trekt internationaal de aandacht'",
-          "snippet": "",
-          "url": "https://nos.nl/video/2588143-saibari-show-in-de-kuip-dit-trekt-internationaal-de-aandacht",
-          "source": "NOS"
-        }
-      ],
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "3i atlas",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 29 Oct 2025 17:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1cX-mws9G2gc8tAFN9sGqeBQkFqVdR1DPER7q156sLcA9DtCU7yGb65ueHEE",
-      "pictureSource": "BBC Sky at Night Magazine",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQL8-9md1iChR3i20SYhupce1w9VFPJwbYqIJx66WAgouSZzozAZtxf_Y3kb14",
+      "pictureSource": "Avi Loeb – Medium",
       "relatedSearch": [
+        {
+          "title": "The Acid Test of 3I/ATLAS at Perihelion",
+          "snippet": "",
+          "url": "https://avi-loeb.medium.com/the-acid-test-of-3i-atlas-at-perihelion-ce131eca8485",
+          "source": "Avi Loeb – Medium"
+        },
         {
           "title": "'Major breakthrough' at interstellar comet as scientists make unexpected detection",
           "snippet": "",
@@ -75,12 +34,34 @@
           "snippet": "",
           "url": "https://futurism.com/space/avi-loeb-3i-atlas-object-hidden-behind-sun",
           "source": "Futurism"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "cnn",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 29 Oct 2025 17:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQYc_N_OQgNksr_2F77ib87rynPgZ51E4vx5r2LF6iDI7-S1i1DdqSz15M1Sk",
+      "pictureSource": "Fox News",
+      "relatedSearch": [
+        {
+          "title": "CNN host clashes with Democratic lawmaker over government shutdown, SNAP funds",
+          "snippet": "",
+          "url": "https://www.foxnews.com/media/cnn-host-clashes-democratic-lawmaker-over-government-shutdown-snap-funds",
+          "source": "Fox News"
         },
         {
-          "title": "The Acid Test of 3I/ATLAS at Perihelion",
+          "title": "CNN’s Tapper, House Democrat spar over SNAP blame game",
           "snippet": "",
-          "url": "https://avi-loeb.medium.com/the-acid-test-of-3i-atlas-at-perihelion-ce131eca8485",
-          "source": "Avi Loeb – Medium"
+          "url": "https://thehill.com/homenews/media/5578544-tapper-stansbury-snap-shutdown/",
+          "source": "The Hill"
+        },
+        {
+          "title": "Democrats Lose CNN as Party Uses Food Stamps as Shutdown 'Leverage'",
+          "snippet": "",
+          "url": "https://freebeacon.com/media/democrats-lose-cnn-as-party-uses-food-stamps-as-shutdown-leverage/",
+          "source": "freebeacon.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,26 +70,54 @@
       "title": "ad",
       "trafficCount": "1000+",
       "pubDate": "Wed, 29 Oct 2025 16:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTX7MmUeL8TniEBYb3BRwd10kQx1e-bkNnU74nziD0uogxAyS4pLbNLPFdTJnw",
-      "pictureSource": "The Guardian",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEsaPJa9cQswcYso6Kntn2BZcT6CrVx84Q7FKOlnjkldwBwTnd8I5NwNEHLIY",
+      "pictureSource": "WWMT",
       "relatedSearch": [
         {
-          "title": "Trump is often angry but rarely hurt – yet Canada has managed to pull it off | Emma Brockes",
+          "title": "'Diversity is the Trojan horse of terrorism': St. Joseph County business' ad stirs outrage",
           "snippet": "",
-          "url": "https://www.theguardian.com/commentisfree/2025/oct/29/trump-angry-canada-ad-ronald-reagan-tariffs",
-          "source": "The Guardian"
+          "url": "https://wwmt.com/news/local/diversity-trojan-horse-terrorism-sturgis-michigan-journal-newspaper-bowersox-floor-center-business-advertisement-wwmt",
+          "source": "WWMT"
         },
         {
-          "title": "Trump Announces Tariff Increase on Canada Over Reagan Ad Spat",
+          "title": "YouTube Q3 Ad Sales Up 15% to $10.2B, Alphabet First Quarter Over $100B in Revenue",
           "snippet": "",
-          "url": "https://www.nytimes.com/2025/10/25/world/canada/trump-tariffs-reagan-ad.html",
-          "source": "The New York Times"
+          "url": "https://variety.com/2025/digital/news/youtube-ad-sales-q3-2025-alphabet-google-earnings-1236564829/",
+          "source": "Variety"
         },
         {
-          "title": "Donald Trump’s trade power is vast, but self-defeating",
+          "title": "Can Google's YouTube maintain its video dominance?",
           "snippet": "",
-          "url": "https://www.economist.com/international/2025/10/28/donald-trumps-trade-power-is-vast-but-self-defeating",
-          "source": "The Economist"
+          "url": "https://www.marketwatch.com/livecoverage/alphabet-earnings-google-stock-results-q3-ai/card/can-google-s-youtube-maintain-its-video-dominance--kDA45yqGje2cIlXkd4EL?mod=mw_FV",
+          "source": "MarketWatch"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "nederlandse verkiezingen",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 29 Oct 2025 16:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvAS9N9XAXUkb_Dqvk5G2eymm49IcIAEXxEMujmNBH__g2-6DX-Q5y8vkdwc4",
+      "pictureSource": "Trouw",
+      "relatedSearch": [
+        {
+          "title": "Live verkiezingen 2025: volg hier het laatste nieuws over de opkomst en de uitslagen",
+          "snippet": "",
+          "url": "https://www.trouw.nl/politiek/live-verkiezingen-2025-volg-hier-het-laatste-nieuws-over-de-opkomst-en-de-uitslagen~ba48d62a/",
+          "source": "Trouw"
+        },
+        {
+          "title": "Tweede Kamerverkiezingen: Gejuich in café Soestdijk in Stad, D66 de grootste in exitpoll",
+          "snippet": "",
+          "url": "https://www.rtvnoord.nl/politiek/1361224/tweede-kamerverkiezingen-opkomst-op-schiermonnikoog-boven-de-100-procent",
+          "source": "RTV Noord"
+        },
+        {
+          "title": "LIVE | D66 grootste in exitpoll met 27 zetels. PVV op 25 zetels",
+          "snippet": "",
+          "url": "https://dvhn.nl/binnenland/live-d66-grootste-in-exitpoll-met-27-zetels.-pvv-op-25-zetels-47647007.html",
+          "source": "Dagblad van het Noorden"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -170,34 +179,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "peilingen de hond",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 29 Oct 2025 15:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTg4gRQxNewBt69QW_GBtxrR18fnLC53rmrNZ0v8zmEP11H04HxL5mW1nsrDT8",
-      "pictureSource": "De Telegraaf",
-      "relatedSearch": [
-        {
-          "title": "LIVE | VVD in peiling De Hond gelijk met PVV, GL/PvdA en D66",
-          "snippet": "",
-          "url": "https://www.telegraaf.nl/binnenland/live-vvd-in-peiling-de-hond-gelijk-met-pvv-glpvda-en-d66/100690295.html",
-          "source": "De Telegraaf"
-        },
-        {
-          "title": "Nieuwste peilingen Maurice de Hond: ‘Het zou mij niets verbazen als we binnen anderhalf jaar weer verkiezingen hebben.’",
-          "snippet": "",
-          "url": "https://www.nporadio1.nl/fragmenten/goed-ingelichte-kring/019a1c8c-a0dd-711c-b0dc-0132322f1c81/2025-10-25-nieuwste-peilingen-maurice-de-hond-het-zou-mij-niets-verbazen-als-we-binnen-anderhalf-jaar-weer-verkiezingen-hebben",
-          "source": "NPO Radio 1"
-        },
-        {
-          "title": "Slotpeiling Maurice de Hond: PVV keldert flink naar 23 zetels",
-          "snippet": "",
-          "url": "https://revu.nl/artikel/667858/slotpeiling-maurice-de-hond-pvv-keldert-flink-naar-23-zetels",
-          "source": "Nieuwe Revu"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "esther ouwehand",
       "trafficCount": "500+",
       "pubDate": "Wed, 29 Oct 2025 15:30:00 -0700",
@@ -229,13 +210,13 @@
       "title": "lisse - telstar",
       "trafficCount": "200+",
       "pubDate": "Wed, 29 Oct 2025 15:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7wJNr6HSE2JxoeJC9NfDL-igE0SNRYOwl-OIOu9lBLtxHIw5dJTFIgtaqsfc",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVAWHZHYJmNSM71_L0kzVqsrjHby0leIP-IfiChkpVsgOcuwaoz3eXWfzIHMo",
       "pictureSource": "NH Nieuws",
       "relatedSearch": [
         {
-          "title": "🔴Hattrick Telstar-spits Zonneveld • FC Volendam schakelt reuzendoder uit",
+          "title": "Lees terug: Telstar boekt klinkende bekerzege • FC Volendam schakelt reuzendoder uit",
           "snippet": "",
-          "url": "https://www.nhnieuws.nl/nieuws/353791/hattrick-telstar-spits-zonneveld-fc-volendam-schakelt-reuzendoder-uit",
+          "url": "https://www.nhnieuws.nl/nieuws/353791/lees-terug-telstar-boekt-klinkende-bekerzege-fc-volendam-schakelt-reuzendoder-uit",
           "source": "NH Nieuws"
         },
         {

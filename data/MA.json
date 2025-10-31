@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-31 19:27:21",
+  "lastUpdate": "2025-10-31 19:36:52",
   "data": [
     {
       "title": "getafe – girona",
@@ -71,16 +71,16 @@
           "source": "The New York Times"
         },
         {
-          "title": "UN accuses US of breaching international law with deadly airstrikes on boats in Caribbean and Pacific",
-          "snippet": "",
-          "url": "https://abcnews.go.com/International/accuses-us-breaching-international-law-deadly-airstrikes-boats/story?id=127055548",
-          "source": "ABC News"
-        },
-        {
           "title": "U.S. boat strikes spread fear across the Caribbean",
           "snippet": "",
           "url": "https://www.washingtonpost.com/world/2025/10/31/united-states-boat-strikes-caribbean-trinidad/",
           "source": "The Washington Post"
+        },
+        {
+          "title": "DOD can’t say who it killed in military strikes against drug smugglers",
+          "snippet": "",
+          "url": "https://www.politico.com/news/2025/10/30/dod-military-strikes-drug-smugglers-00630267",
+          "source": "Politico"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,9 +117,15 @@
       "title": "aljazeera",
       "trafficCount": "200+",
       "pubDate": "Fri, 31 Oct 2025 12:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmCZ5GJx_qijm41bEY8d8Icxg2jknZpZWRKvWtZkLvF-XuiY09klFQGINSKYE",
-      "pictureSource": "ABC News",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3JBmTuwa0wgcQ0rTKKpMvDIzhIbruUGPEhrUItO2OwLOHN_DMGfDKXM6PyAY",
+      "pictureSource": "The Times of Israel",
       "relatedSearch": [
+        {
+          "title": "Hamas reportedly resumes search for hostages’ bodies in IDF-held parts of Gaza",
+          "snippet": "",
+          "url": "https://www.timesofisrael.com/liveblog-october-31-2025/",
+          "source": "The Times of Israel"
+        },
         {
           "title": "Aid worker in Gaza describes signs of alleged torture on bodies of dead Palestinians",
           "snippet": "",
@@ -127,23 +133,17 @@
           "source": "ABC News"
         },
         {
-          "title": "Hamas hands over more Israeli hostage remains as U.S. officials tour Gaza Strip",
+          "title": "Video Analysis Shows Staged Recovery of Israeli Hostage Remains",
           "snippet": "",
-          "url": "https://www.cbsnews.com/video/hamas-hands-over-more-israeli-hostage-remains-as-us-officials-tour-gaza-strip/",
-          "source": "CBS News"
-        },
-        {
-          "title": "Palestinian militants hand over remains of two more hostages to Red Cross in Gaza",
-          "snippet": "",
-          "url": "https://www.politico.com/news/2025/10/31/palestinian-militants-hand-over-remains-of-two-more-hostages-to-red-cross-in-gaza-00631217",
-          "source": "Politico"
+          "url": "https://www.nytimes.com/2025/10/29/world/europe/gaza-hamas-israel-remains.html",
+          "source": "The New York Times"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "al jazeera",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 31 Oct 2025 12:00:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2d_Q3jagnAhXqPvbjqJiQBrVt5O7AjThF3B3A-XiB_xZzpazg3ZCIdzoyVRo",
       "pictureSource": "The Guardian",

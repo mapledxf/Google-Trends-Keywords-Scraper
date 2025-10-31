@@ -1,13 +1,47 @@
 {
-  "lastUpdate": "2025-10-31 18:01:01",
+  "lastUpdate": "2025-10-31 18:36:55",
   "data": [
     {
-      "title": "trinidad news",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 31 Oct 2025 10:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-agK2uXdInd6gL80XK1Q0Q_9k4NBPPhMuPbDBy8SGORsB2_wwZ1Vn6ZtMvmI",
-      "pictureSource": "Trinidad and Tobago Newsday",
+      "title": "cnn news",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 31 Oct 2025 11:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTflRGjlDq8AbEFDr3l771ysoL1X4QJQ6E3Mu4NFls2sWgtDL1443ENPZ2qTcg",
+      "pictureSource": "CNN",
       "relatedSearch": [
+        {
+          "title": "Inside Barack Obama’s stepped-up plans to fight back against Donald Trump",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/10/31/politics/barack-obama-donald-trump",
+          "source": "CNN"
+        },
+        {
+          "title": "What’s Obama been up to?",
+          "snippet": "",
+          "url": "https://www.washingtonpost.com/podcasts/post-reports/whats-obama-been-up-to/",
+          "source": "The Washington Post"
+        },
+        {
+          "title": "Discover Obama’s Latest Activities and Initiatives",
+          "snippet": "",
+          "url": "https://emegypt.net/1026301",
+          "source": "Emegypt"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "trinidad news",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 31 Oct 2025 10:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBZzcxbJ3MKXsM-z2dfSiBKMFWXVfvSYCN2Ct9gHJnpF_S2n4rWlTuKktn3Gs",
+      "pictureSource": "Trinidad Express Newspapers",
+      "relatedSearch": [
+        {
+          "title": "'This is no drill' - State One Alert Level",
+          "snippet": "",
+          "url": "https://trinidadexpress.com/newsextra/this-is-no-drill---state-one-alert-level/article_2023c9c3-df04-4d3b-b21c-73e4086a9d68.html",
+          "source": "Trinidad Express Newspapers"
+        },
         {
           "title": "Back to base: Soldiers, sailors on high alert",
           "snippet": "",
@@ -15,15 +49,9 @@
           "source": "Trinidad and Tobago Newsday"
         },
         {
-          "title": "All Defence Force officers called to bases",
+          "title": "BREAKING NEWS",
           "snippet": "",
-          "url": "https://trinidadexpress.com/newsextra/all-defence-force-officers-called-to-bases/article_cb5bfbf5-94dd-4983-a692-9c6fc26d1568.html",
-          "source": "Trinidad Express Newspapers"
-        },
-        {
-          "title": "Defence Force to report for duty as State One posture in effect",
-          "snippet": "",
-          "url": "http://www.guardian.co.tt/news/defence-force-to-report-for-duty-as-state-one-posture-in-effect-6.2.2437513.2079e2900e",
+          "url": "http://www.guardian.co.tt/news/breaking-news-6.2.2437513.2079e2900e",
           "source": "Trinidad Guardian"
         }
       ],
@@ -31,35 +59,35 @@
     },
     {
       "title": "cnn",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 31 Oct 2025 10:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGbysI0g-zifn8rcZiSBw2qwRYbNNatpZldVV_dgrGqCwRmwFoez38TE5TdnA",
-      "pictureSource": "Bloomberg.com",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAavN-qE1DvmShUBTurTJHsJqXbZnG6R0tlEFGYXhYJHRfdgSSFK4Z2WWQosA",
+      "pictureSource": "CNN",
       "relatedSearch": [
         {
-          "title": "Hungry Americans Will Pay the Price for This Shutdown",
+          "title": "Trump just kneecapped the GOP’s shutdown strategy",
           "snippet": "",
-          "url": "https://www.bloomberg.com/opinion/articles/2025-10-30/end-the-government-shutdown-before-snap-funding-runs-out",
-          "source": "Bloomberg.com"
+          "url": "https://www.cnn.com/2025/10/31/politics/donald-trump-end-shutdown-filibuster",
+          "source": "CNN"
         },
         {
-          "title": "Here's how you can help stressed food pantries help low-income families",
+          "title": "What is the filibuster? Why does Trump hate it? Will it end? Here are answers",
           "snippet": "",
-          "url": "https://www.jacksonville.com/story/news/local/2025/10/31/canned-food-peanut-butter-pasta-among-items-sought-at-jacksonville-area-food-pantries/86993982007/",
-          "source": "The Florida Times-Union"
+          "url": "https://www.usatoday.com/story/news/politics/2025/10/31/trump-senate-what-is-filibuster/87011445007/",
+          "source": "USA Today"
         },
         {
-          "title": "42 million Americans facing hunger as shutdown enters second month",
+          "title": "Trump's push to nuke the Senate filibuster hits immediate Republican resistance",
           "snippet": "",
-          "url": "https://www.france24.com/en/video/20251031-42-million-americans-facing-hunger-as-shutdown-enters-second-month",
-          "source": "France 24"
+          "url": "https://www.nbcnews.com/politics/congress/trumps-push-nuke-senate-filibuster-hits-immediate-republican-resistanc-rcna241119",
+          "source": "NBC News"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "venezuela",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 31 Oct 2025 09:40:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRFKGRy5KMpHjY2Euk8YfImLgbAdwZ3NDhF573bc1AcYKUUzbqn_OFT9rJZh14",
       "pictureSource": "Miami Herald",
@@ -71,15 +99,15 @@
           "source": "Miami Herald"
         },
         {
-          "title": "Trump says he is not considering strikes within Venezuela",
+          "title": "Watch Trump Denies Reports He’s Planning Strikes on Venezuela",
           "snippet": "",
-          "url": "https://www.reuters.com/world/americas/trump-says-he-is-not-considering-strikes-within-venezuela-2025-10-31/",
-          "source": "Reuters"
+          "url": "https://www.bloomberg.com/news/videos/2025-10-31/trump-denies-reports-he-s-planning-strikes-on-venezuela-video",
+          "source": "Bloomberg.com"
         },
         {
           "title": "U.S. Eyes Striking Venezuelan Military Targets Used for Drug Trafficking",
           "snippet": "",
-          "url": "https://www.wsj.com/world/americas/u-s-eyes-striking-venezuelan-military-targets-used-for-drug-trafficking-cafcfe47",
+          "url": "https://www.wsj.com/world/americas/u-s-eyes-striking-venezuelan-military-targets-used-for-drug-trafficking-cafcfe47?gaa_at=eafs&gaa_n=AWEtsqdjRrHMRgOaTotL9ynDYPMw2lRuOYfx3_d6GlV1T4wYaSqhZkRCRtM8&gaa_ts=69050459&gaa_sig=jt04IRIm8xnYyjFrefzJAram9h9w1weiFVK3MVBnwmEoi122EN9ctO-cqiLxmRyk8c2y9ogx5HMLVd9QcoZDpQ%3D%3D",
           "source": "The Wall Street Journal"
         }
       ],
@@ -117,26 +145,26 @@
       "title": "bangladesh national cricket team vs west indies cricket team match scorecard",
       "trafficCount": "200+",
       "pubDate": "Fri, 31 Oct 2025 05:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBuT-g0YuNXZ8E1hMqS0gmuvT61mXD9rrhqM2HlfrJo4hHa8sg0wbMK5fSR_c",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk4LPQp-dATef01UCmyVvj6qapI6BedSsjqUX0JvI1z-C9d2dhiAXZYCtFmCg",
       "pictureSource": "ESPNcricinfo",
       "relatedSearch": [
         {
-          "title": "Changes galore as Bangladesh bat first in dead rubber",
+          "title": "Shepherd hat-trick and twin fifties complete WI's 3-0 sweep over Bangladesh",
           "snippet": "",
           "url": "https://www.espncricinfo.com/series/west-indies-in-bangladesh-2025-26-1505119/bangladesh-vs-west-indies-3rd-t20i-1505127/match-report",
           "source": "ESPNcricinfo"
         },
         {
-          "title": "Bangladesh vs West Indies Live Score Streaming, 3rd T20I: When and where to watch BAN vs WI LIVE?",
+          "title": "Recent Match Report - Bangladesh vs West Indies 3rd T20I 2025 | ESPNcricinfo.com",
           "snippet": "",
-          "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-west-indies-live-score-streaming-3rd-t20i-ban-vs-wi-10338174/",
-          "source": "The Indian Express"
+          "url": "https://www.espn.com/cricket/series/23957/report/1505127/bangladesh-vs-west-indies-3rd-t20i-west-indies-in-bangladesh-2025-26",
+          "source": "ESPN"
         },
         {
-          "title": "'Sky is the limit' - Chase impressed by Auguste's coming-of-age fifty",
+          "title": "Windies stagger to T20 series win over Bangladesh",
           "snippet": "",
-          "url": "https://africa.espn.com/cricket/story/_/id/46793604/wi-vs-ban-3rd-t20i-sky-limit-chase-impressed-auguste-coming-age-fifty",
-          "source": "ESPN"
+          "url": "https://www.jamaicaobserver.com/2025/10/30/windies-stagger-t20-series-win-bangladesh/",
+          "source": "Jamaica Observer"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -210,15 +238,9 @@
       "title": "bucks vs warriors",
       "trafficCount": "500+",
       "pubDate": "Thu, 30 Oct 2025 17:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQatX_S7sxjNG075Ug2iN2Cvx--ODyWvpHMOb3uLPQd8F1dyOYqLqQKWQXIwTI",
-      "pictureSource": "NBC Sports Bay Area & California",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZCiMHwfHVBlJrKVaJzER5EzPhHnsFjt96Wt0x-I8LaFd18lKUyq_0aHY6698",
+      "pictureSource": "NBA",
       "relatedSearch": [
-        {
-          "title": "Ryan Rollins reacts to Steph Curry signing jersey for him after Warriors' loss",
-          "snippet": "",
-          "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steph-curry-ryan-rollins-milwaukee-bucks-signed-jersey/1888428/",
-          "source": "NBC Sports Bay Area & California"
-        },
         {
           "title": "Game Recap: Bucks 120, Warriors 110",
           "snippet": "",
@@ -230,6 +252,12 @@
           "snippet": "",
           "url": "https://www.marca.com/en/basketball/nba/milwaukee-bucks/2025/10/31/6904cbf446163fdd098b459b.html",
           "source": "MARCA"
+        },
+        {
+          "title": "“Every NBA team is loaded with talent” – Steve Kerr on losing to a Giannis-less Milwaukee Bucks team",
+          "snippet": "",
+          "url": "https://www.basketballnetwork.net/latest-news/steve-kerr-on-losing-to-a-giannis-less-milwaukee-bucks-team",
+          "source": "Basketball Network"
         }
       ],
       "link": "https://imtaqin.id/"

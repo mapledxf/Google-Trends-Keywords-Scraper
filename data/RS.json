@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2025-10-31 19:00:23",
+  "lastUpdate": "2025-10-31 19:18:57",
   "data": [
     {
       "title": "dan zalosti",
       "trafficCount": "2000+",
       "pubDate": "Fri, 31 Oct 2025 11:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQQ9YwLyfh29i7YYAWTAGhpoR_FSwWE80gROR3wdPrstuC9Dul1mSobbpcuZA",
-      "pictureSource": "N1",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKz1QrDbJTp9aXyFx7Tc0STE6goqsb6QZ-K04c4-S7VO3PM3l4_gemontKUCQ",
+      "pictureSource": "Danas",
       "relatedSearch": [
+        {
+          "title": "Studenti se oglasili povodom Vučićevog izvinjenja",
+          "snippet": "",
+          "url": "https://www.danas.rs/vesti/drustvo/studenti-ftn-vucicevo-izvinjenje/",
+          "source": "Danas"
+        },
         {
           "title": "Vučić: Izvinjavam se zbog stvari koje sam govorio o studentima, demonstrantima, svima sa kojima se nisam slagao",
           "snippet": "",
@@ -15,16 +21,10 @@
           "source": "N1"
         },
         {
-          "title": "Studenti u blokadi o Vučićevom pozivu na dijalog: A pre mesec dana je naredio da nas sve prebiju i pohapse",
+          "title": "\"Neka sutra bude DAN KOJI NAS UJEDINJUJE, a ne dan koji nas dodatno razdire\" Vučić o godišnjici nesreće u Novom Sadu: Zapaliću sveće za svakoga od njih",
           "snippet": "",
-          "url": "https://www.021.rs/novi-sad/vesti/425438/studenti-u-blokadi-o-vucicevom-pozivu-na-dijalog-a-pre-mesec-dana-je-naredio-da-nas-sve-prebiju-i-pohapse",
-          "source": "021.rs"
-        },
-        {
-          "title": "Sutra Dan žalosti povodom godišnjice stradanja građana u padu nadstrešnice",
-          "snippet": "",
-          "url": "https://www.telegraf.rs/vesti/srbija/4207367-sutra-dan-zalosti-povodom-godisnjice-stradanja-gradjana-u-padu-nadstresnice",
-          "source": "Telegraf.rs"
+          "url": "https://www.blic.rs/vesti/politika/aleksandar-vucic-o-nesreci-u-novom-sadu-neka-sutra-bude-dan-koji-nas-ujedinjuje/qgt78y9",
+          "source": "Blic"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -59,28 +59,28 @@
     },
     {
       "title": "n1 uzivo",
-      "trafficCount": "2000+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 31 Oct 2025 08:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKYHvpc1ftViYP_JnTsM8pS_kflmwcjKQnuXRud9pIWjYxDIU5jzNqmEgVE6Q",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfTiF63AV5hCGY92U5kMZX-sQxWoXhHytnwbc_weZThzmDppLuy4GteXrZ2m4",
       "pictureSource": "N1",
       "relatedSearch": [
         {
-          "title": "(BLOG) Studenti, građani i biciklisti nadomak Novog Sada: Doček u Sremskim Karlovcima uz vatromet",
+          "title": "Dan uživo: Na korak do Novog Sada",
           "snippet": "",
-          "url": "https://n1info.rs/vesti/blog-studenti-pesacenje-31-oktobar-novi-sad/",
+          "url": "https://n1info.rs/najave-emisija/dan-uzivo-na-korak-do-novog-sada/",
           "source": "N1"
         },
         {
-          "title": "UŽIVO VIDEO: Studenti na pragu Novog Sada, hiljade građana ih dočekuje",
+          "title": "U ponedeljak počinje nova školska godina na fakultetima: Evo kako će izgledati",
           "snippet": "",
-          "url": "https://www.021.rs/novi-sad/vesti/425436/uzivo-video-studenti-na-pragu-novog-sada-hiljade-gradjana-ih-docekuje",
-          "source": "021.rs"
+          "url": "https://www.blic.rs/vesti/beograd/u-ponedeljak-pocinje-nova-skolska-godina-na-fakultetima-evo-kako-ce-izgledati/66kkg3e",
+          "source": "Blic"
         },
         {
-          "title": "Slike koje obilaze Srbiju i svet: Fotoreporteri Nova.rs sa studentima šetačima do Novog Sada FOTO",
+          "title": "Macut sa predstavnicima Univerziteta u Nišu o uslovima za početak nove školske godine",
           "snippet": "",
-          "url": "https://nova.rs/vesti/drustvo/fotoreporteri-nova-rs-sa-studentima-setacima-do-indjije/",
-          "source": "Nova"
+          "url": "https://www.telegraf.rs/vesti/politika/4206807-macut-sa-predstavnicima-univerziteta-u-nisu-o-uslovima-za-pocetak-nove-skolske-godine",
+          "source": "Telegraf.rs"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,10 +189,10 @@
           "source": "The Independent"
         },
         {
-          "title": "Ticket sales plummet at Kennedy Center after Trump takeover: WaPo Analysis",
+          "title": "Trump’s Takeover of Kennedy Center Leads to Stunning Sales Collapse",
           "snippet": "",
-          "url": "https://thehill.com/homenews/administration/5583213-kennedy-center-ticket-sales-trump-takeover/",
-          "source": "The Hill"
+          "url": "https://newrepublic.com/post/202525/trump-takeover-kennedy-center-sales-collapse",
+          "source": "The New Republic"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,6 +226,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "novi sad",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 31 Oct 2025 01:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSE-53Hcv7hc3q-XV-y4TerRKoOjXGmWHqLHliuBZhjtuH_ObzNgt7cr7toC8",
+      "pictureSource": "021.rs",
+      "relatedSearch": [
+        {
+          "title": "UŽIVO VIDEO: Studenti na pragu Novog Sada, hiljade građana ih dočekuje",
+          "snippet": "",
+          "url": "https://www.021.rs/novi-sad/vesti/425436/uzivo-video-studenti-na-pragu-novog-sada-hiljade-gradjana-ih-docekuje",
+          "source": "021.rs"
+        },
+        {
+          "title": "Hiljade ljudi u Novom Sadu čeka studente koji pešače ka tom gradu",
+          "snippet": "",
+          "url": "https://www.slobodnaevropa.org/a/novi-sad-studenti-docek-komemoracija-nesreca/33578224.html",
+          "source": "Radio Slobodna Evropa"
+        },
+        {
+          "title": "(BLOG) Studenti, građani i biciklisti nadomak Novog Sada: Doček u Sremskim Karlovcima uz vatromet",
+          "snippet": "",
+          "url": "https://n1info.rs/vesti/blog-studenti-pesacenje-31-oktobar-novi-sad/",
+          "source": "N1"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "minimalna zarada 2025",
       "trafficCount": "100+",
       "pubDate": "Fri, 31 Oct 2025 01:40:00 -0700",
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.alo.rs/biz/novac/1136034/drzava-povecala-plate-ovoj-grupi-gradana-od-oktobra-prelaze-106000-dinara-kao-deo-novih-ekonomskih-mera-za-bolje-sutra/vest",
           "source": "Alo.rs"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "wizz air",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 31 Oct 2025 01:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTudhEgHPIEAd7SnvuvlqQjcm99F2y0HNBmClGanJnncmDVyM6s5t768T_cvH4",
-      "pictureSource": "Aviation A2Z",
-      "relatedSearch": [
-        {
-          "title": "Wizz Air to Test New Business Class by End of This Year",
-          "snippet": "",
-          "url": "https://aviationa2z.com/index.php/2025/10/31/wizz-air-to-launch-business-class-in-december/",
-          "source": "Aviation A2Z"
-        },
-        {
-          "title": "Another low-cost airline is planning to offer blocked-off middle seats",
-          "snippet": "",
-          "url": "https://www.thestreet.com/travel/another-low-cost-airline-is-planning-to-offer-blocked-off-middle-seats",
-          "source": "TheStreet"
-        },
-        {
-          "title": "Wizz Air resumes unlimited flights: terms and conditions of the All You Can Fly program in 2025",
-          "snippet": "",
-          "url": "https://visitukraine.today/blog/7183/wizz-air-resumes-unlimited-flights-terms-and-conditions-of-the-all-you-can-fly-program-in-2025",
-          "source": "Visit Ukraine"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2025-11-19 03:51:04",
+  "lastUpdate": "2025-11-19 04:01:38",
   "data": [
+    {
+      "title": "nikkei 225",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 18 Nov 2025 19:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnwoQIu4xk8yIty6YNHAJB4R4lSsOecKqgaWZ2WOzQrC_FSbWAgdqNnx3OHSg",
+      "pictureSource": "Handelsblatt",
+      "relatedSearch": [
+        {
+          "title": "Nikkei, Yen, Hang Seng: Asien-Börsen schließen im Minus – Anleger warten auf US-Daten",
+          "snippet": "",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-yen-hang-seng-asien-boersen-schliessen-im-minus-anleger-warten-auf-us-daten/100175592.html",
+          "source": "Handelsblatt"
+        },
+        {
+          "title": "Der Börsen-Tag: An Tokioter Börse bröckeln die Kurse",
+          "snippet": "",
+          "url": "https://www.n-tv.de/wirtschaft/der_boersen_tag/An-Tokioter-Boerse-broeckeln-die-Kurse-id30034298.html",
+          "source": "nTV"
+        },
+        {
+          "title": "Aktien Asien: Wall Street und japanische Börse trüben die Stimmung deutlich",
+          "snippet": "",
+          "url": "https://www.boerse.de/nachrichten/Aktien-Asien-Wall-Street-und-japanische-Boerse-trueben-die-Stimmung-deutlich/38014075",
+          "source": "boerse.de"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "weather",
       "trafficCount": "200+",
       "pubDate": "Tue, 18 Nov 2025 19:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGc1WKhiv37g9kjao_bRMHlbs9bw_m2VvkQlX-KoZlgFk-59FTrY_nWayawX4",
-      "pictureSource": "WyomingNews.com",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_RRtFBRAZ4gLLk5jQJUmeqqtFnBdBM4Qcm11s5K6IZTX-Impn6rX5jxJaAmg",
+      "pictureSource": "News Channel 5 Nashville",
       "relatedSearch": [
         {
-          "title": "SE Wyoming weather video for Tuesday, Nov. 18 from WyomingNewsNow",
+          "title": "November 16, 2025: Cool Again Tomorrow",
           "snippet": "",
-          "url": "https://www.wyomingnews.com/news/local_news/se-wyoming-weather-video-for-tuesday-nov-18-from-wyomingnewsnow/video_57fb1e1b-a2ef-4db9-9cc9-ff773d4647e5.html",
-          "source": "WyomingNews.com"
+          "url": "https://www.newschannel5.com/weather/november-16-2025-cooler-but-still-above-average-temps-today",
+          "source": "News Channel 5 Nashville"
         },
         {
-          "title": "Partly sunny skies with warming temps for Tuesday",
+          "title": "Several Rounds of Rain Over the Next Week",
           "snippet": "",
-          "url": "https://county10.com/partly-sunny-skies-with-warming-temps-for-tuesday/",
-          "source": "County 10"
+          "url": "https://www.everythinglubbock.com/weather/several-rounds-of-rain-over-the-next-week/",
+          "source": "KLBK"
         },
         {
-          "title": "Slightly above average temperatures expected on Tuesday | 11/18 AM",
+          "title": "Spring-like temperatures again, chance of storms later this week",
           "snippet": "",
-          "url": "https://www.wyomingnewsnow.tv/weather/slightly-above-average-temperatures-expected-on-tuesday-11-18-am/article_4a58359a-3442-4147-b18a-5bd622bc130d.html",
-          "source": "wyomingnewsnow.tv"
+          "url": "https://www.fox34.com/2025/11/17/spring-like-temperatures-again-chance-storms-later-this-week/",
+          "source": "fox34.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -58,57 +86,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "aktien",
-      "trafficCount": "5000+",
-      "pubDate": "Tue, 18 Nov 2025 18:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpLKPXioEfkaZx6kEkRFYmc-HlqPPR89lznLijU9m0OI4FfKaQAlX68AEJmyY",
-      "pictureSource": "Spiegel",
-      "relatedSearch": [
-        {
-          "title": "Nvidia-KI: Tech-Milliardär Peter Thiel verkauft alle Anteile",
-          "snippet": "",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-ki-tech-milliardaer-peter-thiel-verkauft-alle-anteile-a-b4bbfa03-0e19-4939-ac79-a5b01053216c",
-          "source": "Spiegel"
-        },
-        {
-          "title": "Nvidia: Techmilliardär Peter Thiel verkauft alle seine Aktien am Chip-Riesen",
-          "snippet": "",
-          "url": "https://www.bild.de/leben-wissen/mein-geld-finanzportal/nvidia-techmilliardaer-peter-thiel-verkauft-alle-seine-aktien-am-chip-riesen-691c8a85bfb7cbd8b9c55324",
-          "source": "BILD"
-        },
-        {
-          "title": "Peter Thiel verkauft Nvidia-Aktien: Dax fällt, Anleger besorgt",
-          "snippet": "",
-          "url": "https://www.faz.net/aktuell/finanzen/peter-thiel-verkauft-nvidia-aktien-dax-faellt-anleger-besorgt-110785673.html",
-          "source": "FAZ"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "usa – uruguay",
       "trafficCount": "100+",
       "pubDate": "Tue, 18 Nov 2025 16:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKVuWVWN1Q8dkVSwS3ibRSP-LeymVTByMHYVY4xNKXkoGkn5TIRp_SaSU8PxI",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPurBlhy9NK-BZfyzXDEry93P5FcFKptPKMpEQ8Rmun1BpjDi1JgOUTi9dwa0",
       "pictureSource": "ESPN",
       "relatedSearch": [
         {
-          "title": "USA vs. Uruguay (Nov 18, 2025) Live Score",
+          "title": "USA 5-1 Uruguay (Nov 18, 2025) Game Analysis",
           "snippet": "",
-          "url": "https://www.espn.com/soccer/match/_/gameId/758377",
+          "url": "https://www.espn.com/soccer/report/_/gameId/758377",
           "source": "ESPN"
+        },
+        {
+          "title": "After struggling initially under Pochettino, US heads into 2026 on a high",
+          "snippet": "",
+          "url": "https://www.10tv.com/article/syndication/associatedpress/after-struggling-initially-under-pochettino-us-heads-into-2026-on-a-high/616-0688d95c-1e06-4fce-b4ca-2a4fafa627ee",
+          "source": "10tv.com"
         },
         {
           "title": "USMNT vs. Uruguay: Starting XI & Lineup Notes",
           "snippet": "",
           "url": "https://www.ussoccer.com/stories/2025/11/usmnt-vs-uruguay-starting-xi-lineup-notes-tampa-florida",
           "source": "US Soccer"
-        },
-        {
-          "title": "Freeman, Berhalter make World Cup case as USMNT rout Uruguay",
-          "snippet": "",
-          "url": "https://www.mlssoccer.com/news/freeman-berhalter-make-world-cup-case-as-usmnt-rout-uruguay",
-          "source": "MLSsoccer.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -133,10 +133,10 @@
           "source": "The Hollywood Reporter"
         },
         {
-          "title": "'Landman' returns this week. See Season 2 premiere date, cast, how to watch",
+          "title": "'Landman' Season 2 Marks Taylor Sheridan's Best Premiere Yet",
           "snippet": "",
-          "url": "https://www.usatoday.com/story/entertainment/tv/2025/11/15/landman-season-2-premiere/87255379007/",
-          "source": "USA Today"
+          "url": "https://www.esquire.com/entertainment/tv/a69441415/landman-season-2-episode-1-recap/",
+          "source": "Esquire"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,14 +145,14 @@
       "title": "magic – warriors",
       "trafficCount": "500+",
       "pubDate": "Tue, 18 Nov 2025 16:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXyCTOCIKfh9-ibCubthbJIgrtDaxLiHydIHsa1YruUBQ10mL3f9yXu_a6AKw",
-      "pictureSource": "NBA Analysis Network",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJ62z_Ys2fR9EndDX3eZFZ44dwTLshdPeWuipuehXC9dGfxAc8DqCwZzGwOVc",
+      "pictureSource": "NBC Sports Bay Area & California",
       "relatedSearch": [
         {
-          "title": "Worrisome Golden State Warriors trend continues in bad loss to shorthanded Orlando Magic",
+          "title": "Warriors vs. Magic highlights: Top plays in Golden State's 121-113 loss",
           "snippet": "",
-          "url": "https://nbaanalysis.net/worrisome-golden-state-warriors-trend-continues-in-bad-loss-to-shorthanded-orlando-magic/",
-          "source": "NBA Analysis Network"
+          "url": "https://www.nbcsportsbayarea.com/video/nba/golden-state-warriors/game-highlights-magic-watch/1892977/",
+          "source": "NBC Sports Bay Area & California"
         },
         {
           "title": "How to Watch Warriors vs Magic: Live Stream NBA, TV Channel",

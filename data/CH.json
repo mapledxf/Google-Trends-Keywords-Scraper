@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2025-11-20 06:58:25",
+  "lastUpdate": "2025-11-20 07:19:48",
   "data": [
     {
-      "title": "costco",
+      "title": "russland",
       "trafficCount": "100+",
+      "pubDate": "Wed, 19 Nov 2025 23:10:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR18QUTAp6LCRGrB-4CCK0gCsRbAltEwM6NjhCmogu1GeNoBOeuGDOg-XdgC18",
+      "pictureSource": "Schweizer Radio und Fernsehen",
+      "relatedSearch": [
+        {
+          "title": "Krieg in der Ukraine - Berichte: USA und Russland hecken Geheimplan für Kriegsende aus",
+          "snippet": "",
+          "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-berichte-usa-und-russland-hecken-geheimplan-fuer-kriegsende-aus",
+          "source": "Schweizer Radio und Fernsehen"
+        },
+        {
+          "title": "Kriegsexperten machen klar, wie mies der neue Trump-Putin-Deal für die Ukraine ist",
+          "snippet": "",
+          "url": "https://www.focus.de/politik/ausland/kriegsexperten-machen-klar-wie-mies-der-neue-trump-putin-deal-fuer-die-ukraine-ist_57027559-5c29-4914-89de-ad82dd5e620a.html",
+          "source": "FOCUS online"
+        },
+        {
+          "title": "Ukrainekrieg: USA unterbreiten Ukraine offenbar neuen Friedensplan",
+          "snippet": "",
+          "url": "https://www.zeit.de/politik/ausland/2025-11/usa-neuer-friedensplan-ukraine-gebietsabtretung-russland",
+          "source": "DIE ZEIT"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "costco",
+      "trafficCount": "200+",
       "pubDate": "Wed, 19 Nov 2025 22:10:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUO-HUtR1ogsyv4_1d1_mWXxrkPegVTeepFBrmL-FOaR6pong-VoFWEbg8IcY",
       "pictureSource": "Allrecipes",
@@ -86,34 +114,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "srf meteo",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 19 Nov 2025 21:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsN2ORrp580CVnWwgCj1A9M3orgzBxuzSz5X27uWSctpWjhJa7NAGmoDjYy3w",
-      "pictureSource": "Schweizer Radio und Fernsehen",
-      "relatedSearch": [
-        {
-          "title": "Winterzauber in Bildern: Raureif, Eisblumen und Haareis",
-          "snippet": "",
-          "url": "https://www.srf.ch/meteo/meteo-stories/raureif-eisblumen-und-haareis-die-schoensten-bilder-vom-frostigen-morgen",
-          "source": "Schweizer Radio und Fernsehen"
-        },
-        {
-          "title": "Frostplane auf Autos – Eisige Kälte, Schneefall – Winter zeigt seine Zähne",
-          "snippet": "",
-          "url": "https://www.heute.at/s/eisige-kaelte-schneefall-winter-zeigt-seine-zaehne-120144941",
-          "source": "Heute"
-        },
-        {
-          "title": "Auf Autoscheiben und im Vorgarten: Frostiger Vormittag",
-          "snippet": "",
-          "url": "https://meine.stimme.de/gueglingen/c-natur/frostiger-vormittag_a269817",
-          "source": "Stimme"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "wetter",
       "trafficCount": "10000+",
       "pubDate": "Wed, 19 Nov 2025 21:20:00 -0800",
@@ -145,14 +145,14 @@
       "title": "wetter schneefall",
       "trafficCount": "1000+",
       "pubDate": "Wed, 19 Nov 2025 21:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTn4xqI1V_gz2gC_iq_WpG1QgiNVogYwEN_Vjw-7YRXihJZ_OtAzeywhed4BfI",
-      "pictureSource": "Blick",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqAmyFZqtdcWmszIZ_gizb3rfTM99lop5tV8kUWfeCXoipsuQ-kqQ_4CEBngI",
+      "pictureSource": "20 Minuten",
       "relatedSearch": [
         {
-          "title": "Wintereinbruch: Schnee in der Schweiz erwartet",
+          "title": "Schnee in der Schweiz: Wo du ab Mittwochabend mit Schnee rechnen kannst",
           "snippet": "",
-          "url": "https://www.blick.ch/schweiz/gefahrenstufe-2-heute-gibt-es-schnee-im-flachland-und-es-kommt-noch-mehr-id21437758.html",
-          "source": "Blick"
+          "url": "https://www.20min.ch/story/schnee-im-flachland-erster-schnee-im-anmarsch-wo-es-in-den-naechsten-tagen-weiss-wird-103453624",
+          "source": "20 Minuten"
         },
         {
           "title": "Wetter in der Schweiz: Die Polarluft ist da, die Schneeregenschauer auch",
@@ -161,9 +161,9 @@
           "source": "Der Bund"
         },
         {
-          "title": "Wetter St. Gallen - Meteo",
+          "title": "Schnee im Flachland - Wintermärchen ja oder nein?",
           "snippet": "",
-          "url": "https://www.srf.ch/meteo/wetter/St.-Gallen/47.4233,9.3774?geolocationNameId=&date=2025-11-20",
+          "url": "https://www.srf.ch/meteo/meteo-stories/schnee-im-flachland-wintermaerchen-ja-oder-nein",
           "source": "Schweizer Radio und Fernsehen"
         }
       ],
@@ -183,16 +183,16 @@
           "source": "CNN"
         },
         {
-          "title": "Who is Clay Higgins, the only House member to vote against releasing the Epstein files?",
-          "snippet": "",
-          "url": "https://apnews.com/article/clay-higgins-epstein-files-124f8e8104f7d39b0b57d0e8b8305386",
-          "source": "AP News"
-        },
-        {
           "title": "Trump signs bill ordering release of Jeffrey Epstein files",
           "snippet": "",
           "url": "https://www.bbc.com/news/articles/cly2y40lj5go",
           "source": "BBC"
+        },
+        {
+          "title": "Opinion | The Three Republican Women Who Defied Trump on Epstein",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/11/18/opinion/trump-epstein-greene-boebert-mace.html",
+          "source": "The New York Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,26 +201,26 @@
       "title": "weather",
       "trafficCount": "1000+",
       "pubDate": "Wed, 19 Nov 2025 18:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-Ep1fxZ4BKPPsZkm8WSK9gEMJVu3Yj-fcT-BKO0BrUrrJPdqiQ0ou4ONjEnE",
-      "pictureSource": "India.com",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJwKbbaLksCGGabPHxWklE0wflHBn6o1YcAdnXEge2cZVPCxrHJzNiOA9FnNU",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Delhi-NCR Weather Live Updates: Cold wave intensifies in National Capital, temperature drops below 10°C in 16 districts of Rajasthan",
+          "title": "'A huge thrill to see my weather watchers images used to help'",
           "snippet": "",
-          "url": "https://www.india.com/news/india/delhi-national-capital-region-imd-weather-update-imd-cold-condition-noida-ghaziabad-faridabad-gurugram-rajasthan-bihar-winters-uttar-pradesh-madhya-pradesh-tamil-nadu-kerala-karnataka-8192930/",
-          "source": "India.com"
+          "url": "https://www.bbc.co.uk/news/articles/cx2dr990rv7o",
+          "source": "BBC"
         },
         {
-          "title": "Delhi Records Coldest November Morning In 3 Years At 8.7 Degrees Celsius",
+          "title": "Weather Watcher's photos developed into artworks",
           "snippet": "",
-          "url": "https://www.ndtv.com/delhi-news/delhi-weather-today-coldest-november-delhi-records-coldest-november-morning-in-3-years-at-8-7-degrees-celsius-9649403",
-          "source": "NDTV"
+          "url": "https://www.bbc.com/news/articles/cwyp4yl285lo",
+          "source": "BBC"
         },
         {
-          "title": "Delhi air quality remains very poor as temperatures dip with winter setting in",
+          "title": "BBC Weather Watchers add colour to Cornish forecasts",
           "snippet": "",
-          "url": "https://www.indiatoday.in/cities/story/delhi-air-quality-very-poor-temperatures-dip-winter-setting-coldest-day-2821567-2025-11-18",
-          "source": "India Today"
+          "url": "https://feeds.bbci.co.uk/news/articles/cy0yjy1xwnjo",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,13 +257,13 @@
       "title": "black friday",
       "trafficCount": "500+",
       "pubDate": "Wed, 19 Nov 2025 16:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTomfEFWgBmqj99Anzc8Qi8ykQDSDtQOxAarGYOdRYKVO2fOCTwSMOjiSqlf1Y",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8cvYR1c29RBdGOUDxuyIebYe4pP0tLKKQDBP5FDQtusGxJCzy-Vbr98WdIW8",
       "pictureSource": "Yahoo",
       "relatedSearch": [
         {
-          "title": "Amazon Black Friday 2025 officially starts tomorrow but deals from Apple, Dyson and more are live and up to 70% off — start shopping now",
+          "title": "Black Friday 2025 deals from Amazon, Walmart and Target are happening now: Here's what we're shopping during the biggest sale of the year",
           "snippet": "",
-          "url": "https://www.yahoo.com/lifestyle/deals/live/amazon-black-friday-2025-officially-starts-tomorrow-but-deals-from-apple-dyson-and-more-are-live-and-up-to-70-off--start-shopping-now-175241427.html",
+          "url": "https://www.yahoo.com/lifestyle/deals/article/black-friday-2025-deals-from-amazon-walmart-and-target-are-happening-now-heres-what-were-shopping-during-the-biggest-sale-of-the-year-175448806.html",
           "source": "Yahoo"
         },
         {

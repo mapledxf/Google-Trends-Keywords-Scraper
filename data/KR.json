@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2025-11-20 21:12:48",
+  "lastUpdate": "2025-11-20 21:29:02",
   "data": [
     {
-      "title": "nasdaq",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 20 Nov 2025 12:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAXSNFOWKdKdQDY1E21MLQJ2JkpqKapvqxXNFZ05qgeOL6vyD-glCIjqEDPrw",
-      "pictureSource": "NVIDIA",
+      "title": "나스닥 지수",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 20 Nov 2025 12:10:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJzIF5-44Utv2ULalo6T2q5oT_Q_svP6bMhKtEUD2f8tvmNDMvjfTvsLlLR0s",
+      "pictureSource": "KBS 뉴스",
       "relatedSearch": [
         {
-          "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2026",
+          "title": "뉴욕증시, 엔비디아 실적 ‘D-1’ 기술주 또 팔자…동반 하락",
           "snippet": "",
-          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2026",
-          "source": "NVIDIA"
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8411098",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "NVIDIA's Record Earnings Calm AI Fears, Lift Semiconductor Stocks",
+          "title": "[속보] 엔비디아도 못 막은 뉴욕증시...AI 거품론에 나스닥 2% 이상 하락",
           "snippet": "",
-          "url": "https://www.chosun.com/english/industry-en/2025/11/21/6ZZVYNUD3BCE5JA6WXFKDYZWCQ/",
+          "url": "https://www.chosun.com/international/international_general/2025/11/21/Z6YBRW34KVB4BGSJ2PWLZREXKE/",
           "source": "조선일보"
         },
         {
-          "title": "Stock Market Today: Dow Rallies; U.S. Added More Jobs Than Forecast in September — Live Updates",
+          "title": "뉴욕증시, 일제 하락 전환…12월 금리 인하 기대 후퇴에 기술주 상승폭 반납",
+          "snippet": "",
+          "url": "https://v.daum.net/v/20251121042712963",
+          "source": "Daum"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "nasdaq",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 20 Nov 2025 12:00:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL5OjCOOJ_DxUoogygATHkAw-5VUrtDxyHga_zjG2jhh4EIVnEluaAmmO1gX4",
+      "pictureSource": "The Wall Street Journal",
+      "relatedSearch": [
+        {
+          "title": "Stock Market Today: Dow, Nasdaq Sink as AI Fears Resurface — Live Updates",
           "snippet": "",
           "url": "https://www.wsj.com/livecoverage/jobs-report-bls-september-stock-market-today-11-20-2025",
           "source": "The Wall Street Journal"
+        },
+        {
+          "title": "US tech stocks slide as jolt of volatility hits Wall Street",
+          "snippet": "",
+          "url": "https://www.ft.com/content/2c0bb19c-7c64-453f-95ab-c0f54a184089",
+          "source": "Financial Times"
+        },
+        {
+          "title": "Big swings keep rocking Wall Street as S&P 500 erases a morning surge to fall",
+          "snippet": "",
+          "url": "https://www.koreatimes.co.kr/world/20251121/big-swings-keep-rocking-wall-street-as-sp-500-erases-a-morning-surge-to-fall",
+          "source": "The Korea Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -59,28 +87,28 @@
     },
     {
       "title": "연준",
-      "trafficCount": "200+",
+      "trafficCount": "100+",
       "pubDate": "Thu, 20 Nov 2025 09:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsCxUudgyqPekOck5dirADpEqcy5XSRtx-nD7CgppoQfadb6Xr4d1NxH1WMmQ",
-      "pictureSource": "조선일보",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_b85Jtd0vGxF1KXTP-bUiK1z2H8hQKOvIjFSwLDGXHKboLx9JJ24rvcUCSAw",
+      "pictureSource": "KBS 뉴스",
       "relatedSearch": [
         {
-          "title": "소폭 상승세로 마감한 뉴욕 증시…연준 “다수 위원 12월 금리 인하 부정적”",
+          "title": "미국 연준 쿡 이사 “자산 가격 고평가…하락 위험 커져”",
           "snippet": "",
-          "url": "https://www.chosun.com/international/international_general/2025/11/20/TKXAYPCPUBD2JNWCFBVVCJEC4E/",
-          "source": "조선일보"
-        },
-        {
-          "title": "커지는 12월 미 금리동결 전망…달러화 급등(종합)",
-          "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20251120008751072",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "10월 미 FOMC 의사록 “12월 ‘금리동결 바람직’ 의견 많아”",
-          "snippet": "",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8412245",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8413395",
           "source": "KBS 뉴스"
+        },
+        {
+          "title": "연준, 금리 인하 논쟁 속 ‘자산가격 급락·프라이빗 크레딧’ 금융불안 경고",
+          "snippet": "",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01577686642368016",
+          "source": "마켓인"
+        },
+        {
+          "title": "[속보] 뉴욕증시 엔비디아 \"돌연 급락\" 연준 FOMC \"AI 거품 위험\" 공개경고... 아이온큐 비트코인 리게티 급락",
+          "snippet": "",
+          "url": "https://www.g-enews.com/article/Global-Biz/2025/11/202511210434312239906806b77b_1",
+          "source": "글로벌이코노믹"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +155,10 @@
           "source": "매일경제"
         },
         {
-          "title": "Nature Factory Co., Ltd. (CEO Kim Jung-hyun Lee Chang-rim) and Korea Jusui Association (Vice Preside..",
+          "title": "Kyung Hee University Sports Marketing Academic Club Dreyforth (supervisor Lee Jung-hak) was honored",
           "snippet": "",
-          "url": "https://www.mk.co.kr/en/sports/11473614",
+          "url": "https://www.mk.co.kr/en/sports/11472825",
           "source": "매일경제"
-        },
-        {
-          "title": "'Disability is not a limitation': Judoka aims higher after Tokyo Deaflympics bronze",
-          "snippet": "",
-          "url": "https://www.koreatimes.co.kr/sports/20251120/disability-is-not-a-limitation-judoka-aims-higher-after-tokyo-deaflympics-bronze",
-          "source": "The Korea Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +205,16 @@
           "source": "뉴시스"
         },
         {
-          "title": "올해 최초로 선보인 가나 초콜릿 하우스",
+          "title": "\"여기 한국 맞아?\"…서울 한복판에 뜬 '13m 트리' 대박 [현장+]",
           "snippet": "",
-          "url": "https://news.nate.com/view/20251120n34493",
-          "source": "네이트"
+          "url": "https://www.hankyung.com/article/202511205617g",
+          "source": "한국경제"
         },
         {
-          "title": "롯데백화점, 잠실 롯데타운에 최대 규모 ‘크리스마스 마켓’ 연다",
+          "title": "[현장] 잠실 롯데타운 '크리스마스 마켓' 가보니, 놀거리 먹거리 즐비한 축제",
           "snippet": "",
-          "url": "https://www.etoday.co.kr/news/view/2527046",
-          "source": "이투데이"
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=420807",
+          "source": "비즈니스포스트"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +271,6 @@
           "snippet": "",
           "url": "https://www.newsbytesapp.com/news/sports/brad-evans-floors-sri-lanka-with-three-fer-in-t20i-tri-series/story",
           "source": "NewsBytes"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "에이밍",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 20 Nov 2025 05:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFfia5HiFhvwXUcuNumP6zpQmL5yYhyf3Wkcgc14NrBr5s7GE9UzBiwSTj9y4",
-      "pictureSource": "네이트",
-      "relatedSearch": [
-        {
-          "title": "KT, '고스트' 장용준 영입…2026 시즌 서포터로 복귀",
-          "snippet": "",
-          "url": "https://news.nate.com/view/20251119n38836",
-          "source": "네이트"
-        },
-        {
-          "title": "KT, ‘에이밍’ 김하람 원거리 딜러로 영입… 다시 KT 유니폼 입는다",
-          "snippet": "",
-          "url": "https://www.xportsnews.com/article/2079208",
-          "source": "www.xportsnews.com"
-        },
-        {
-          "title": "[오피셜] 월즈 우승 원딜러가 서포터로 LCK 돌아온다…‘고스트’ 장용준 KT 합류, ‘폴루’ 오동규와 주전 경쟁",
-          "snippet": "",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909552753175",
-          "source": "www.sportalkorea.com"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-11-21 07:36:59",
+  "lastUpdate": "2025-11-21 07:45:26",
   "data": [
+    {
+      "title": "עין עבדת",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 20 Nov 2025 22:20:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvtrWtXCLc6Si7OM4cegf0HjRy5TgjB6G0I3Tz0akhcxSlc-FYlfdtaE_s21o",
+      "pictureSource": "ynet",
+      "relatedSearch": [
+        {
+          "title": "טרגדיה לפני הגיוס: עופר נפל אל מותו בשמורת הטבע הפופולרית שבה התנדב",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/news/article/bk7wip2lze",
+          "source": "ynet"
+        },
+        {
+          "title": "עופר ברונר הוא הצעיר שטבע למוות בעין עבדת",
+          "snippet": "",
+          "url": "https://www.israelhayom.co.il/news/local/article/19293097",
+          "source": "ישראל היום"
+        },
+        {
+          "title": "טרגדיה לפני הגיוס: המתנדב נפל מצוק",
+          "snippet": "",
+          "url": "https://www.inn.co.il/news/683555",
+          "source": "ערוץ 7"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "בלאק פריידי 2025",
       "trafficCount": "200+",
@@ -114,34 +142,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "עופר ברונר",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 20 Nov 2025 13:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvtrWtXCLc6Si7OM4cegf0HjRy5TgjB6G0I3Tz0akhcxSlc-FYlfdtaE_s21o",
-      "pictureSource": "ynet",
-      "relatedSearch": [
-        {
-          "title": "טרגדיה לפני הגיוס: עופר נפל אל מותו בשמורת הטבע הפופולרית שבה התנדב",
-          "snippet": "",
-          "url": "https://www.ynet.co.il/news/article/bk7wip2lze",
-          "source": "ynet"
-        },
-        {
-          "title": "טרגדיה לפני הגיוס: המתנדב נפל מצוק",
-          "snippet": "",
-          "url": "https://www.inn.co.il/news/683555",
-          "source": "ערוץ 7"
-        },
-        {
-          "title": "נער בן 19 נהרג לאחר שנפל מצוק אל מאגר מים בשמורת הטבע עין עבדת",
-          "snippet": "",
-          "url": "https://news.walla.co.il/item/3795928",
-          "source": "וואלה חדשות"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "אבסנטיה",
       "trafficCount": "100+",
       "pubDate": "Thu, 20 Nov 2025 13:10:00 -0800",
@@ -217,10 +217,10 @@
           "source": "ONE"
         },
         {
-          "title": "הפועל תל אביב \"דרסה\" עוד יריבה, וסתמה את הפה למפקפקים",
+          "title": "\"הפועל ת\"א מפחידה, מסינה לא ידע מה נפל עליו\"",
           "snippet": "",
-          "url": "https://sports.walla.co.il/item/3795924",
-          "source": "וואלה ספורט"
+          "url": "https://www.sport5.co.il/articles.aspx?FolderID=405&docID=525474",
+          "source": "ספורט 5"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,16 +239,16 @@
           "source": "basketballsphere.com"
         },
         {
-          "title": "Hapoel Tel Aviv rolls past Olimpia Milano on the road",
+          "title": "Olimpia loses the Euroleague. Milan holds out for only one half. Tel Aviv puts in a strong showing.",
           "snippet": "",
-          "url": "https://www.eurohoops.net/en/euroleague/1897042/hapoel-tel-aviv-rolls-past-olimpia-milano-on-the-road/",
-          "source": "Eurohoops"
+          "url": "https://sport.quotidiano.net/en/basket/olimpia/stop-olimpia-in-eurolega-milano-b1d20700",
+          "source": "Quotidiano Sportivo"
         },
         {
-          "title": "Hapoel showed why it is the leader in the Euroleague, Panathinaikos defeated Dubai with a strong second half",
+          "title": "Hapoel is in town, Brooks: \"We have absences but will embrace the challenge\"",
           "snippet": "",
-          "url": "https://www.slobodenpecat.mk/en/hapoel-pokazha-zoshto-e-lider-vo-evroliga-panatinaikos-so-silno-vtoro-poluvreme-go-sovlada-dubai/",
-          "source": "Слободен печат"
+          "url": "https://www.olimpiamilano.com/en/hapoel-is-in-town-brooks-we-have-absences-but-will-embrace-the-challenge/",
+          "source": "Pallacanestro Olimpia Milano"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -273,10 +273,10 @@
           "source": "סרוגים"
         },
         {
-          "title": "\"מקווה שהוריי רואים אותי\": יהודה פוליקר הופיע לראשונה בסלוניקי",
+          "title": "\"הרגשת ניצחון\": יהודה פוליקר סוגר מעגל מרגש בסלוניקי",
           "snippet": "",
-          "url": "https://www.kan.org.il/content/kan-news/culture/972303/",
-          "source": "כאן 11"
+          "url": "https://www.mako.co.il/news-entertainment/2025_q4/Article-e2941ad3843aa91026.htm",
+          "source": "mako"
         }
       ],
       "link": "https://imtaqin.id/"

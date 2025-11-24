@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2025-11-24 04:06:29",
+  "lastUpdate": "2025-11-24 04:43:49",
   "data": [
     {
-      "title": "درجات الحرارة",
-      "trafficCount": "5000+",
-      "pubDate": "Sun, 23 Nov 2025 18:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIWqUlzhPNPi_AmnUXHm0gsfBqeTCRRxek_7oA30dB0YaNxYIgMwj3vIS-Ee0",
-      "pictureSource": "اليوم السابع",
+      "title": "weather today",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 23 Nov 2025 20:30:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHBf7n87PUgg9z_DU5ylWWT3rF2eVOpLkWJ_vevxKPg8aYcWs4oRkjuiTctbs",
+      "pictureSource": "The Weather Channel",
       "relatedSearch": [
         {
-          "title": "رعدية وتصل للسيول ببعض المناطق.. خرائط الأمطار المتوقعة غدا على أنحاء الجمهورية",
+          "title": "Thanksgiving Travel Forecast: Could Weather Delay Your Trip?",
           "snippet": "",
-          "url": "https://www.youm7.com/story/2025/11/23/%D8%B1%D8%B9%D8%AF%D9%8A%D8%A9-%D9%88%D8%AA%D8%B5%D9%84-%D9%84%D9%84%D8%B3%D9%8A%D9%88%D9%84-%D8%A8%D8%A8%D8%B9%D8%B6-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%AE%D8%B1%D8%A7%D8%A6%D8%B7-%D8%A7%D9%84%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%82%D8%B9%D8%A9-%D8%BA%D8%AF%D8%A7-%D8%B9%D9%84%D9%89/7208519",
+          "url": "https://weather.com/forecast/national/news/2025-11-17-thanksgiving-travel-outlook-weather-rain-snow-highways",
+          "source": "The Weather Channel"
+        },
+        {
+          "title": "Thanksgiving weather forecast shows snow, travel delays possible for parts of US",
+          "snippet": "",
+          "url": "https://www.usatoday.com/story/news/nation/2025/11/23/thanksgiving-weather-snow-travel-delays/87433473007/",
+          "source": "USA Today"
+        },
+        {
+          "title": "What Thanksgiving travelers should prepare for this week",
+          "snippet": "",
+          "url": "https://www.nbcnews.com/news/us-news/thanksgiving-weather-and-travel-rcna245421",
+          "source": "NBC News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "درجة الحرارة اليوم",
+      "trafficCount": "2000+",
+      "pubDate": "Sun, 23 Nov 2025 20:20:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5hBmCiGRbY-O8xb44_IywiLtt-7GMaq8rmESaZNtkvEjS3JfEDRtWBMYsiwo",
+      "pictureSource": "Masrawy",
+      "relatedSearch": [
+        {
+          "title": "أمطار رعدية بهذه المناطق.. الأرصاد تكشف حالة الطقس المتوقعة اليوم",
+          "snippet": "",
+          "url": "https://www.masrawy.com/news/news_egypt/details/2025/11/23/2895328/%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D8%B1%D8%B9%D8%AF%D9%8A%D8%A9-%D8%A8%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%AA%D9%83%D8%B4%D9%81-%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B7%D9%82%D8%B3-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%82%D8%B9%D8%A9-%D8%A7%D9%84%D9%8A%D9%88%D9%85-",
+          "source": "Masrawy"
+        },
+        {
+          "title": "صور الأقمار الصناعية.. ارتفاع بالحرارة اليوم والعظمى بالقاهرة 32 درجة",
+          "snippet": "",
+          "url": "https://www.youm7.com/story/2025/11/23/%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D8%A3%D9%82%D9%85%D8%A7%D8%B1-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A8%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%88%D8%A7%D9%84%D8%B9%D8%B8%D9%85%D9%89-%D8%A8%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-32-%D8%AF%D8%B1%D8%AC%D8%A9/7207567",
           "source": "اليوم السابع"
         },
         {
-          "title": "بيان عاجل بشأن حالة الطقس غدًا: أمطار تصل لحد السيول وعواصف رعدية",
+          "title": "درجات الحرارة اليوم.. طقس حار نهارًا يميل للبرودة ليلًا في جميع أنحاء مصر",
           "snippet": "",
-          "url": "https://www.almasryalyoum.com/news/details/4135757",
-          "source": "المصري اليوم"
-        },
-        {
-          "title": "الأرصاد: أمطار رعدية متفاوتة الشدة غدا على القاهرة والوجه البحري",
-          "snippet": "",
-          "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=23112025&id=be2f9a51-8172-468f-a075-a4fb339f28d8",
-          "source": "بوابة الشروق"
+          "url": "https://gate.ahram.org.eg/News/5338875.aspx",
+          "source": "بوابة الأهرام"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -77,66 +105,10 @@
           "source": "Avi Loeb – Medium"
         },
         {
-          "title": "NASA Watch as EU (ESA) Moves First in the 3I/ATLAS Planetary Defense Drill",
+          "title": "ATLAS: the asteroid hunter that caught an interstellar comet",
           "snippet": "",
-          "url": "https://blogs.timesofisrael.com/nasa-watch-as-eu-esa-moves-first-in-the-3i-atlas-planetary-defense-drill/",
-          "source": "The Times of Israel"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "انتر ميامي",
-      "trafficCount": "2000+",
-      "pubDate": "Sun, 23 Nov 2025 14:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScf4RZURfOr6k_GbfshCTBjDsUP7TRt2frOD9dpLE1c5DI5NiHkL2HDRrXJ7M",
-      "pictureSource": "Kooora",
-      "relatedSearch": [
-        {
-          "title": "موعد مباراة سينسيناتي وإنتر ميامي في ربع نهائي الدوري الأمريكي 2025 .. والقنوات الناقلة",
-          "snippet": "",
-          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%A6%D9%85/%D9%85%D9%88%D8%B9%D8%AF-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%B3%D9%8A%D9%86%D8%B3%D9%8A%D9%86%D8%A7%D8%AA%D9%8A-%D9%88%D8%A7%D9%95%D9%86%D8%AA%D8%B1-%D9%85%D9%8A%D8%A7%D9%85%D9%8A-%D9%81%D9%8A-%D8%B1%D8%A8%D8%B9-%D9%86%D9%87%D8%A7%D9%8A%D9%94%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A7%D9%94%D9%85%D8%B1%D9%8A%D9%83%D9%8A-2025-%D9%85%D9%8A%D8%B3%D9%8A-%D9%88%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9/blt144357276330ca7f",
-          "source": "Kooora"
-        },
-        {
-          "title": "ماسكيرانو: الإقصاء ليس واردًا في ذهني",
-          "snippet": "",
-          "url": "https://tribuna.com/ar/news/2025-11-23-mskyrnw-lqs-lys-wrd-fy-dhhny/",
-          "source": "Tribuna.com"
-        },
-        {
-          "title": "ملخص وأهداف ورجل مباراة إنتر ميامي وسينسيناتي في الدوري الأمريكي",
-          "snippet": "",
-          "url": "https://www.eremnews.com/sports/nvyielf",
-          "source": "إرم نيوز"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "دوري الأبطال",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 23 Nov 2025 14:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVR3pndTroAi_PKBtKSjl4Z3Cbx5jOUxSfy_P8cMpQUm55rR62XoPnAyWLvs4",
-      "pictureSource": "اليوم السابع",
-      "relatedSearch": [
-        {
-          "title": "صافرة سلوفينية لإدارة قمة برشلونة وتشيلسى فى دورى أبطال أوروبا",
-          "snippet": "",
-          "url": "https://www.youm7.com/story/2025/11/23/%D8%B5%D8%A7%D9%81%D8%B1%D8%A9-%D8%B3%D9%84%D9%88%D9%81%D9%8A%D9%86%D9%8A%D8%A9-%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D9%82%D9%85%D8%A9-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D9%88%D8%AA%D8%B4%D9%8A%D9%84%D8%B3%D9%89-%D9%81%D9%89-%D8%AF%D9%88%D8%B1%D9%89-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/7207894",
-          "source": "اليوم السابع"
-        },
-        {
-          "title": "موعد مباراة تشيلسي وبرشلونة في دوري أبطال أوروبا 2025-2026 والقنوات الناقلة",
-          "snippet": "",
-          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%A6%D9%85/%D9%85%D9%88%D8%B9%D8%AF-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%AA%D8%B4%D9%8A%D9%84%D8%B3%D9%8A-%D9%88%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D9%81%D9%8A-%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%94%D8%A8%D8%B7%D8%A7%D9%84-%D8%A7%D9%94%D9%88%D8%B1%D9%88%D8%A8%D8%A7-2025-2026-%D9%88%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9/bltb47e67a70572656d",
-          "source": "Kooora"
-        },
-        {
-          "title": "يويفا يعلن طاقم تحكيم مباراة برشلونة وتشيلسى بدورى أبطال أوروبا",
-          "snippet": "",
-          "url": "https://www.almasryalyoum.com/news/details/4135409",
-          "source": "المصري اليوم"
+          "url": "https://universemagazine.com/en/atlas-the-asteroid-hunter-that-caught-an-interstellar-comet/",
+          "source": "Universe Space Tech"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,9 +133,9 @@
           "source": "SportsChosun"
         },
         {
-          "title": "HIGHLIGHTS: Philadelphia Union vs. New York City FC | November 23, 2025 | MLSSoccer.com",
+          "title": "Nicolás Fernández Mercau shows his class for NYCFC in Union upset",
           "snippet": "",
-          "url": "https://www.mlssoccer.com/video/highlights-philadelphia-union-vs-new-york-city-fc-november-23-2025",
+          "url": "https://www.mlssoccer.com/video/nicolas-fernandez-mercau-shows-his-class-for-nycfc-in-union-upset",
           "source": "MLSsoccer.com"
         }
       ],
@@ -183,16 +155,16 @@
           "source": "La Gazzetta dello Sport"
         },
         {
-          "title": "I maestri del derby: gli allenatori che hanno dominato la stracittadina milanese",
+          "title": "Citofono-Sommer, Bonny sciagurato, certezza Thuram: le pagelle del derby perso secondo i tifosi",
           "snippet": "",
-          "url": "https://tribuna.com/it/blogs/i-maestri-del-derby-gli-allenatori-che-hanno-dominato-la-str/",
+          "url": "https://tribuna.com/it/blogs/thuram-65-calhanoglu-4-le-pagelle-dei-giocatori-dellinter-co/",
           "source": "Tribuna.com"
         },
         {
-          "title": "Calcio: Derby al Milan, Roma in vetta | blue News",
+          "title": "Costacurta: “Akanji lento sul gol di Pulisic. La mossa di Allegri in difesa…”",
           "snippet": "",
-          "url": "https://www.bluewin.ch/it/sport/calcio/derby-al-milan-roma-in-vetta-2976524.html",
-          "source": "blue News"
+          "url": "https://www.fcinter1908.it/ultimora/costacurta-akanji-pulisic-inter-milan/",
+          "source": "FC Inter 1908"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,6 +198,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "سينسيناتي ضد إنتر ميامي",
+      "trafficCount": "2000+",
+      "pubDate": "Sun, 23 Nov 2025 13:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScf4RZURfOr6k_GbfshCTBjDsUP7TRt2frOD9dpLE1c5DI5NiHkL2HDRrXJ7M",
+      "pictureSource": "Kooora",
+      "relatedSearch": [
+        {
+          "title": "موعد مباراة سينسيناتي وإنتر ميامي في ربع نهائي الدوري الأمريكي 2025 .. والقنوات الناقلة",
+          "snippet": "",
+          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%A6%D9%85/%D9%85%D9%88%D8%B9%D8%AF-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%B3%D9%8A%D9%86%D8%B3%D9%8A%D9%86%D8%A7%D8%AA%D9%8A-%D9%88%D8%A7%D9%95%D9%86%D8%AA%D8%B1-%D9%85%D9%8A%D8%A7%D9%85%D9%8A-%D9%81%D9%8A-%D8%B1%D8%A8%D8%B9-%D9%86%D9%87%D8%A7%D9%8A%D9%94%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A7%D9%94%D9%85%D8%B1%D9%8A%D9%83%D9%8A-2025-%D9%85%D9%8A%D8%B3%D9%8A-%D9%88%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9/blt144357276330ca7f",
+          "source": "Kooora"
+        },
+        {
+          "title": "ماسكيرانو: الإقصاء ليس واردًا في ذهني",
+          "snippet": "",
+          "url": "https://tribuna.com/ar/news/2025-11-23-mskyrnw-lqs-lys-wrd-fy-dhhny/",
+          "source": "Tribuna.com"
+        },
+        {
+          "title": "ملخص وأهداف ورجل مباراة إنتر ميامي وسينسيناتي في الدوري الأمريكي",
+          "snippet": "",
+          "url": "https://www.eremnews.com/sports/nvyielf",
+          "source": "إرم نيوز"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "ترتيب الدوري الايطالي",
       "trafficCount": "500+",
       "pubDate": "Sun, 23 Nov 2025 13:40:00 -0800",
@@ -254,29 +254,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "la liga",
-      "trafficCount": "2000+",
-      "pubDate": "Sun, 23 Nov 2025 13:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQveu5aNuxa0CvjTNLsXQ3P9IgjX7Ths5o-mKjlUFXuS8UwCpY2pwJ2AepYwVk",
-      "pictureSource": "BBC",
+      "title": "الوداد",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 23 Nov 2025 13:10:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjluoA9yNm5lvDF7ESns0auz-HuN5t-gdFvpTQEPgXJav4DPuUkt-uEWDDvGw",
+      "pictureSource": "اليوم السابع",
       "relatedSearch": [
         {
-          "title": "Elche 2-2 Real Madrid: Jude Bellingham shines as visitors go top of La Liga",
+          "title": "الوداد يهزم نيروبي يونايتد بثلاثية في مستهل مشواره بكأس الكونفدرالية",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/c7v82yep4z4t",
-          "source": "BBC"
+          "url": "https://www.youm7.com/story/2025/11/23/%D8%A7%D9%84%D9%88%D8%AF%D8%A7%D8%AF-%D9%8A%D9%87%D8%B2%D9%85-%D9%86%D9%8A%D8%B1%D9%88%D8%A8%D9%8A-%D9%8A%D9%88%D9%86%D8%A7%D9%8A%D8%AA%D8%AF-%D8%A8%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D8%B3%D8%AA%D9%87%D9%84-%D9%85%D8%B4%D9%88%D8%A7%D8%B1%D9%87-%D8%A8%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D9%83%D9%88%D9%86%D9%81%D8%AF%D8%B1%D8%A7%D9%84%D9%8A%D8%A9/7208662",
+          "source": "اليوم السابع"
         },
         {
-          "title": "Managing Madrid Podcast: Elche 2 - 2 Real Madrid, Post-game Reaction, La Liga 2025 - 2026",
+          "title": "الوداد يقسو على نيروبي الكيني.. واتحاد الجزائر يفلت من فخ سان بيدرو في الكونفدرالية",
           "snippet": "",
-          "url": "https://www.managingmadrid.com/managing-madrid-podcast/100913/managing-madrid-podcast-elche-2-2-real-madrid-post-game-reaction-la-liga-2025-2026",
-          "source": "Managing Madrid"
+          "url": "https://www.yallakora.com/african-confederation-cup/3000/news/531312/%D8%A7%D9%84%D9%88%D8%AF%D8%A7%D8%AF-%D9%8A%D9%82%D8%B3%D9%88-%D8%B9%D9%84%D9%89-%D9%86%D9%8A%D8%B1%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D9%83%D9%8A%D9%86%D9%8A-%D9%88%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D9%8A%D9%81%D9%84%D8%AA-%D9%85%D9%86-%D9%81%D8%AE-%D8%B3%D8%A7%D9%86-%D8%A8%D9%8A%D8%AF%D8%B1%D9%88-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D9%88%D9%86%D9%81%D8%AF%D8%B1%D8%A7%D9%84%D9%8A%D8%A9",
+          "source": "يلاكورة"
         },
         {
-          "title": "Rival Watch: Good news for Barcelona as Real Madrid drop points away at Elche",
+          "title": "عنْدنا فَريق نْقي وغادِي فالرّباحاتْ.. تصريحات ناسي وأونزو بعد الفوز على نيروبي في كأس الكونفدرالية",
           "snippet": "",
-          "url": "https://www.barcablaugranes.com/rest-of-la-liga/106554/good-news-barcelona-real-madrid-drop-points-elche-la-liga-rival-watch",
-          "source": "Barca Blaugranes"
+          "url": "https://m.elbotola.com/video/details/69238655a7f20fbff6e3a85a/",
+          "source": "Elbotola"
         }
       ],
       "link": "https://imtaqin.id/"

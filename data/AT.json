@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2025-11-25 13:18:21",
+  "lastUpdate": "2025-11-25 13:46:53",
   "data": [
+    {
+      "title": "google",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 25 Nov 2025 05:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-bcXWYc1ps0XcrLOW4X33okufkJ4oaD0gbTcEIELNrS6iM56FXgQMOOk_fzU",
+      "pictureSource": "CNBC",
+      "relatedSearch": [
+        {
+          "title": "Nvidia shares fall 3% on report Meta will use Google AI chips",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/11/25/nvidia-shares-today-google-meta-ai-chip-report.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Nvidia Stock Drops. Reported Meta Deal Shows Google Threat Isn’t Going Away.",
+          "snippet": "",
+          "url": "https://www.barrons.com/articles/nvidia-stock-price-google-meta-chip-deal-23c03837?gaa_at=eafs&gaa_n=AWEtsqcqk286ovP6gOdgGkblTJVfGr-aiBMfzCzuJzs0d-frR3sXogKTVoYC&gaa_ts=6925b662&gaa_sig=srHVluwlS7iNNaZqrQ8K4_DrTnR07ym3gdWPuf1NcsxXKx0pD2_ZwFniFdsP_-RKz3OlQQ3b8SZZfw8CzrGwtA%3D%3D",
+          "source": "Barron's"
+        },
+        {
+          "title": "Nvidia-Google AI Chip Rivalry Escalates on Report of Meta Talks",
+          "snippet": "",
+          "url": "https://finance.yahoo.com/news/nvidia-shares-dip-google-appears-014603931.html",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "weather",
       "trafficCount": "500+",
       "pubDate": "Mon, 24 Nov 2025 21:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTnFh1ig9LJRQYzx_6c_XbfeA2S1heaGzEWIjqLPr7H4Ic1KuzZUkHUJClxOc",
-      "pictureSource": "Business Insider",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEF9QOol2wnwoDENtcjHps4z4mHIrGQmn2_UZ0a_ZxEzZ_6nA7IyVY39p5_-k",
+      "pictureSource": "The Weather Channel",
       "relatedSearch": [
         {
-          "title": "Russian infiltration teams are exploiting bad weather to sneak past Ukrainian lines",
+          "title": "Thanksgiving Travel Weather Forecast: Any Impacts On Your Trip?",
           "snippet": "",
-          "url": "https://www.businessinsider.com/russian-infiltration-teams-exploit-bad-weather-sneak-past-ukrainian-lines-2025-11",
-          "source": "Business Insider"
+          "url": "https://weather.com/forecast/national/news/2025-11-24-thanksgiving-travel-weather-forecast-us-airports",
+          "source": "The Weather Channel"
         },
         {
-          "title": "Ukrainian 66th Brigade Holds Ground Against Russian Drone-Supported Assaults on Lyman Front",
+          "title": "Winter storm warning for Baraga and Houghton counties until Wednesday evening – as much as 21 inches of snow",
           "snippet": "",
-          "url": "https://mezha.net/eng/bukvy/ukrainian-66th-brigade-holds-ground-against-russian-drone-supported-assaults-on-lyman-front/",
-          "source": "#Mezha"
+          "url": "https://www.mlive.com/weather-alerts/2025/11/winter-storm-warning-for-baraga-and-houghton-counties-until-wednesday-evening-as-much-as-21-inches-o.html",
+          "source": "MLive.com"
         },
         {
-          "title": "November 15–22 live war map: Russia eyes northern bypass of Sloviansk while Pokrovsk, Kostiantynivka stand strong",
+          "title": "Video Severe storms in the South trigger delays, cancellations amid record travel",
           "snippet": "",
-          "url": "https://global.espreso.tv/ukraine-war-map-war-live-map-ukraine-russia-22-11-2025",
-          "source": "Espreso.tv"
+          "url": "https://abcnews.go.com/world-news-tonight-with-david-muirN/video/severe-storms-south-trigger-delays-cancellations-amid-record-127843487",
+          "source": "ABC News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,15 +89,9 @@
       "title": "wetter",
       "trafficCount": "20000+",
       "pubDate": "Mon, 24 Nov 2025 21:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSM0qIamkJtcSD51r5th6CvNs-SyDwd5au4nYtybvlZfnJlRBYDgYjHlFBwbq4",
-      "pictureSource": "WetterOnline",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQv3QdapRy-VYDrrz8Z1ok1lqGnNApJYlPsyV_oxaKW-3_OPArgWbgyYqX3IsQ",
+      "pictureSource": "ORF",
       "relatedSearch": [
-        {
-          "title": "14-Tage-Wetter: Zwischen Spätherbst und Winter",
-          "snippet": "",
-          "url": "https://www.wetteronline.de/wetterticker/14-tage-wetter-zwischen-spaetherbst-und-winter--8831e66a-b45b-4168-bfa1-d8eac41b323e",
-          "source": "WetterOnline"
-        },
         {
           "title": "Nacht auf Dienstag: Warnung vor großer Glatteisgefahr",
           "snippet": "",
@@ -81,6 +103,12 @@
           "snippet": "",
           "url": "https://www.wetter.at/wetter/oesterreich-wetter/jetzt-kommt-ein-halber-meter-neuschnee/657595791",
           "source": "Wetter.at"
+        },
+        {
+          "title": "Es wird wieder winterlich: Wo in Salzburg wie viel Schnee fallen wird",
+          "snippet": "",
+          "url": "https://www.sn.at/salzburg/chronik/es-wo-salzburg-schnee-188248270",
+          "source": "Salzburger Nachrichten"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,16 +127,16 @@
           "source": "ORF"
         },
         {
+          "title": "Nach 12.000 Jahren: Vulkan Hayli Gubbi wieder ausgebrochen",
+          "snippet": "",
+          "url": "https://kurier.at/chronik/welt/vulkan-spuckt-wieder-aktiv-hayli-gubbi/403106143",
+          "source": "Kurier"
+        },
+        {
           "title": "Seit 12.000 Jahren schlafender Vulkan in Äthiopien ausgebrochen",
           "snippet": "",
           "url": "https://www.tagesschau.de/ausland/afrika/vulkan-aethiopien-ausbruch-100.html",
           "source": "tagesschau.de"
-        },
-        {
-          "title": "Flugausfälle in Indien nach Vulkanausbruch in Äthiopien",
-          "snippet": "",
-          "url": "https://kurier.at/chronik/welt/vulkanausbruch-aethiopien-hayli-gubbi-indien-flugausfaelle/403106384",
-          "source": "Kurier"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -133,7 +161,7 @@
           "source": "Kronen Zeitung"
         },
         {
-          "title": "Heftige Schneefälle sorgen für Verkehrschaos im Westen",
+          "title": "Winter-Watsche schlägt zu – Heftige Schneefälle sorgen für Verkehrschaos im Westen",
           "snippet": "",
           "url": "https://www.heute.at/s/heftige-schneefaelle-sorgen-fuer-verkehrschaos-im-westen-120146232",
           "source": "Heute"
@@ -207,34 +235,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "wetter salzburg",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 24 Nov 2025 18:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQv3QdapRy-VYDrrz8Z1ok1lqGnNApJYlPsyV_oxaKW-3_OPArgWbgyYqX3IsQ",
-      "pictureSource": "ORF",
-      "relatedSearch": [
-        {
-          "title": "Nacht auf Dienstag: Warnung vor großer Glatteisgefahr",
-          "snippet": "",
-          "url": "https://orf.at/stories/3412421/",
-          "source": "ORF"
-        },
-        {
-          "title": "Jetzt kommt ein halber Meter Neuschnee",
-          "snippet": "",
-          "url": "https://www.wetter.at/wetter/oesterreich-wetter/jetzt-kommt-ein-halber-meter-neuschnee/657595791",
-          "source": "Wetter.at"
-        },
-        {
-          "title": "Es wird wieder winterlich: Wo in Salzburg wie viel Schnee fallen wird",
-          "snippet": "",
-          "url": "https://www.sn.at/salzburg/chronik/es-wo-salzburg-schnee-188248270",
-          "source": "Salzburger Nachrichten"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "youtuber jan zimmermann todesursache",
       "trafficCount": "10000+",
       "pubDate": "Mon, 24 Nov 2025 16:20:00 -0800",
@@ -248,16 +248,16 @@
           "source": "BILD"
         },
         {
-          "title": "Jan Zimmermann: Große Anteilnahme nach Tod von »Gewitter im Kopf«-Star",
+          "title": "„Gewitter im Kopf“: Influencer Jan Zimmermann starb an epileptischem Anfall",
           "snippet": "",
-          "url": "https://www.spiegel.de/netzwelt/web/jan-zimmermann-grosse-anteilnahme-nach-tod-von-gewitter-im-kopf-star-a-45649590-2fa9-44be-9dc6-8fd6af377e0b",
-          "source": "Spiegel"
+          "url": "https://www.faz.net/aktuell/gesellschaft/menschen/gewitter-im-kopf-influencer-jan-zimmermann-starb-an-epileptischem-anfall-accg-200261782.html",
+          "source": "FAZ"
         },
         {
-          "title": "Youtuber und Tourette-Aufklärer Jan Zimmermann mit 27 Jahren verstorben",
+          "title": "„Gewitter im Kopf“: YouTuber Jan Zimmermann stirbt mit 27 Jahren – Familie äußert sich zur Todesursache",
           "snippet": "",
-          "url": "https://www.derstandard.at/story/3000000297846/youtuber-und-tourette-aufklaerer-jan-zimmermann-mit-27-jahren-verstorben",
-          "source": "Der Standard"
+          "url": "https://www.welt.de/vermischtes/article692454b60f2241537f41ab3a/gewitter-im-kopf-youtuber-jan-zimmermann-stirbt-mit-27-jahren-familie-aeussert-sich-zur-todesursache.html",
+          "source": "WELT"
         }
       ],
       "link": "https://imtaqin.id/"

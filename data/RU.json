@@ -1,11 +1,95 @@
 {
-  "lastUpdate": "2025-11-25 23:58:45",
+  "lastUpdate": "2025-11-26 01:26:23",
   "data": [
+    {
+      "title": "новости россии",
+      "trafficCount": "2000+",
+      "pubDate": "Tue, 25 Nov 2025 16:30:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSO_fM31Tpbyjb2QXUxDDNzC_oJ0ss76UjGblj2wkXWDCydcl3N1Rg01U7DuGI",
+      "pictureSource": "Meduza",
+      "relatedSearch": [
+        {
+          "title": "Axios: в Абу-Даби идут переговоры с участием США, России и Украины",
+          "snippet": "",
+          "url": "https://meduza.io/news/2025/11/25/axios-v-abu-dabi-idut-peregovory-s-uchastiem-ssha-rossii-i-ukrainy",
+          "source": "Meduza"
+        },
+        {
+          "title": "«Главный по беспилотникам» и друг Вэнса. Кто такой новый спецпосланник США по Украине Дэн Дрисколл",
+          "snippet": "",
+          "url": "https://www.bbc.com/russian/articles/cwyg1p5exzdo",
+          "source": "BBC"
+        },
+        {
+          "title": "Как скорректированный мирный план США и Украины настигает Россию",
+          "snippet": "",
+          "url": "https://www.vedomosti.ru/politics/articles/2025/11/26/1158108-kak-skorrektirovannii-mirnii-plan-ssha-i-ukraini-nastigaet-rossiyu",
+          "source": "Ведомости"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "чебоксары",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 25 Nov 2025 16:00:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8oQqcyaFygy-ip7CVvSDamYnpgsBJE-KrjBwPr6fE6_bp4wzVfLWS4KLdftA",
+      "pictureSource": "СочиСтрим",
+      "relatedSearch": [
+        {
+          "title": "Над Чебоксарами ночью прогремела серия мощных взрывов, аэропорт закрыт",
+          "snippet": "",
+          "url": "https://sochistream.ru/novosti/proishestviya/nad-cheboksarami-nochyu-progremela-seriya-moshhnyh-vzryvov-aeroport-zakryt-183166/",
+          "source": "СочиСтрим"
+        },
+        {
+          "title": "Очевидцы сообщили о мощных взрывах в Чебоксарах",
+          "snippet": "",
+          "url": "https://news.ru/regions/ochevidcy-soobshili-o-moshnyh-vzryvah-v-cheboksarah",
+          "source": "NEWS.ru"
+        },
+        {
+          "title": "Baza: дрон врезался в многоэтажный жилой дом в Чебоксарах",
+          "snippet": "",
+          "url": "https://giport.ru/news/news-nnov/baza-dron-vrezalsya-v-mnogoetazhnyj-zhiloj-dom-v-cheboksarah",
+          "source": "ГИПОРТ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "комета 3i атлас",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 25 Nov 2025 15:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKP1YT0FIpx234uA-N4hxagr1rlZgu5_UG-Z2XUc4NKZP8wXo8TvcLE-F9ie8",
+      "pictureSource": "Новые Известия",
+      "relatedSearch": [
+        {
+          "title": "Комета-пришелец 3I/ATLAS «развернулась» к Земле. Когда ждать максимального сближения?",
+          "snippet": "",
+          "url": "https://newizv.ru/news/2025-11-25/kometa-prishelets-3i-atlas-razvernulas-k-zemle-kogda-zhdat-maksimalnogo-sblizheniya-438286",
+          "source": "Новые Известия"
+        },
+        {
+          "title": "Межзвездная комета могла быть «курьером» для доставки зондов к Юпитеру, заявил Гарвардский астроном",
+          "snippet": "",
+          "url": "https://naked-science.ru/community/1134961",
+          "source": "Naked Science"
+        },
+        {
+          "title": "3I/ATLAS стремительно приближается: редкий космический момент",
+          "snippet": "",
+          "url": "https://science.mail.ru/news/40219-kometa-3iatlas-vse-blizhe-k-zemle-poslednie-dannye/",
+          "source": "Наука Mail"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "nvidia",
       "trafficCount": "500+",
       "pubDate": "Tue, 25 Nov 2025 15:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9Dx-GKDTtDGUsvwVAsKd5-6TgKLH9-Xd94uCUJaSfN2Gj1irxqC2VpyoMFn4",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmBhoTpBi7mGX3InFn7PG3_kaqtIHqBT3BuHEYJgUaVXfCDTvsTjBxHWbaTr4",
       "pictureSource": "CNBC",
       "relatedSearch": [
         {
@@ -15,16 +99,44 @@
           "source": "CNBC"
         },
         {
-          "title": "Meta using Google AI chips is 'good news,' but not game changing",
+          "title": "Google’s Meta Talks Put the Ball in Nvidia’s Court",
           "snippet": "",
-          "url": "https://finance.yahoo.com/video/meta-using-google-ai-chips-231500899.html",
-          "source": "Yahoo Finance"
+          "url": "https://www.theinformation.com/articles/googles-meta-talks-put-ball-nvidias-court",
+          "source": "The Information"
         },
         {
           "title": "Google has pierced Nvidia’s aura of invulnerability",
           "snippet": "",
           "url": "https://www.economist.com/business/2025/11/25/google-has-pierced-nvidias-aura-of-invulnerability",
           "source": "The Economist"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "максим аверин",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 25 Nov 2025 15:10:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9wZBcgzw1OvQf6dSFJnVdxyEOsK_grok9srqo4Fw9msfVA2iG5kpVf_bYaMk",
+      "pictureSource": "Кино-Театр.Ру",
+      "relatedSearch": [
+        {
+          "title": "«Вы об этом узнаете из Википедии»: Максим Аверин о личной жизни",
+          "snippet": "",
+          "url": "https://www.kino-teatr.ru/lifestyle/news/y2025/11-21/39744/",
+          "source": "Кино-Театр.Ру"
+        },
+        {
+          "title": "«Я интересен, пока остаюсь завидным женихом»: актеру Максиму Аверину — 50",
+          "snippet": "",
+          "url": "https://ura.news/news/1053040168",
+          "source": "URA.RU"
+        },
+        {
+          "title": "Книга к юбилею, усталость от города, слова об эмиграции: как живет Аверин",
+          "snippet": "",
+          "url": "https://news.ru/culture/kniga-k-yubileyu-ustalost-ot-goroda-slova-ob-emigracii-kak-zhivet-averin",
+          "source": "NEWS.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -67,7 +179,7 @@
         {
           "title": "Матч Арсенал – Бавария 26 ноября 2025: где смотреть онлайн трансляцию",
           "snippet": "",
-          "url": "http://www.sportsdaily.ru/articles/match-arsenal-bavariya-26-noyabrya-2025-gde-smotret-besplatnuyu-onlayn-translyaciyu/",
+          "url": "https://www.sportsdaily.ru/articles/match-arsenal-bavariya-26-noyabrya-2025-gde-smotret-besplatnuyu-onlayn-translyaciyu/",
           "source": "Спорт день за днем"
         },
         {
@@ -127,16 +239,16 @@
           "source": "Foot Mercato"
         },
         {
-          "title": "\"Les deux équipes ont de la qualité\": Hansi Flick décrypte son approche avant le choc contre Chelsea",
+          "title": "Chelsea - FC Barcelone (3-0) : Hansi Flick pointe du doigt ce qui a manqué au Barça lors de cette défaite",
           "snippet": "",
-          "url": "https://tribuna.com/fr/news/2025-11-25-les-deux-equipes-ont-de-la-qualite-hansi-flick-decrypte-son-approche-avant-le-choc-contre/",
-          "source": "Tribuna.com"
+          "url": "https://www.90min.com/fr/chelsea-fc-barcelone-3-0-hansi-flick-pointe-du-doigt-ce-qui-a-manque-au-barca-lors-de-cette-defaite",
+          "source": "90Min.com"
         },
         {
-          "title": "Arrivée du Barça à Stamford Bridge",
+          "title": "Yamal – 6, Araújo – 1: Les notes des joueurs du Barça après la défaite humiliante face à Chelsea",
           "snippet": "",
-          "url": "https://fr.uefa.com/uefachampionsleague/video/029f-1f4a03013447-32148fc0003d-1000--arrivee-du-barca-a-stamford-bridge/",
-          "source": "UEFA.com"
+          "url": "https://tribuna.com/fr/blogs/yamal-6-araujo-1-les-notes-des-joueurs-du-barca-apres-la-def/",
+          "source": "Tribuna.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,138 +257,26 @@
       "title": "uefa champions league",
       "trafficCount": "200+",
       "pubDate": "Tue, 25 Nov 2025 12:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGSpdgTEnJfLsV6bOHRrn7bU6wz8YHbCJTy_ZzUybfvA1K5NqLS8pY4dkb4HA",
-      "pictureSource": "United In Focus",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyfbfodeqJiRVOtKlo0_wITkiu3VRBKGq4_2M1EwvfKHKUeRTonJqM5SK35fA",
+      "pictureSource": "Football London",
       "relatedSearch": [
         {
-          "title": "Rasmus Hojlund risks incurring Antonio Conte's wrath for Napoli, before Scott McTominay rescues him",
+          "title": "Harry Kane shares two brutal Arsenal truths as he makes feelings clear on Mikel Arteta",
           "snippet": "",
-          "url": "https://www.unitedinfocus.com/news/rasmus-hojlund-risks-incurring-antonio-contes-wrath-for-napoli-before-scott-mctominay-rescues-him/",
-          "source": "United In Focus"
+          "url": "https://www.football.london/arsenal-fc/news/harry-kane-mikel-arteta-arsenal-32944406",
+          "source": "Football London"
         },
         {
-          "title": "A Cordial Pre-Match Gathering in Naples",
+          "title": "\"The best defense in the world\": Lehmann sees Bayern as underdogs against Arsenal",
           "snippet": "",
-          "url": "https://www.ilmattino.it/en/a_cordial_pre_match_gathering_in_naples-9210465.html?next_page=1",
-          "source": "Il Mattino"
+          "url": "https://fcbinside.com/2025/11/25/the-best-defense-in-the-world-lehmann-sees-bayern-as-underdogs-against-arsenal/",
+          "source": "Bayern Munich News"
         },
         {
-          "title": "Napoli's Crucial Battle Against Qarabag",
+          "title": "Arsenal v Bayern Munich referee announced",
           "snippet": "",
-          "url": "https://www.ilmessaggero.it/en/napoli_s_crucial_battle_against_qarabag-9210066.html?next_page=1",
-          "source": "Il Messaggero"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "александр емельяненко",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 25 Nov 2025 12:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzfEb7imYPJumdKezf_jBb1-xSys_S2NpU774VtP6mQSru_SGBvLze39M_YTw",
-      "pictureSource": "Allhockey.ru",
-      "relatedSearch": [
-        {
-          "title": "Ротенберг и Александр Емельяненко вместе смотрели матч московского \"Динамо\"",
-          "snippet": "",
-          "url": "https://allhockey.ru/news/show/574997-Rotenberg_i_Aleksandr_Emel_yanenko_vmeste_smotreli_match_moskovskogo_Dinamo",
-          "source": "Allhockey.ru"
-        },
-        {
-          "title": "Роман Ротенберг выложил фото с Александром Емельяненко на фоне Тюкавина",
-          "snippet": "",
-          "url": "https://gorod-kimry.ru/press/one/?id=3708008",
-          "source": "gorod-kimry.ru"
-        },
-        {
-          "title": "Роман Ротенберг выложил фото с Александром Емельяненко в кепках Make Dynamo great again",
-          "snippet": "",
-          "url": "https://www.championat.ru/hockey/news-6255946-roman-rotenberg-vylozhil-foto-s-aleksandrom-emelyanenko-v-kepkah-make-dynamo-great-again.html",
-          "source": "https://www.championat.ru/"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "емельяненко",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 25 Nov 2025 12:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnXo6DEneoNHGOjKv7587xeL06YVJvnSs2c8DTOQSt5srbQnf6lkAZ5kRg1B0",
-      "pictureSource": "Meta MMA",
-      "relatedSearch": [
-        {
-          "title": "Шлеменко: в 2016 году была идея объединиться с командой Емельяненко под одним брендом",
-          "snippet": "",
-          "url": "https://mma.metaratings.ru/news/shlemenko-v-2016-godu-byla-ideya-obedinitsya-pod-s-komandoi-emelyanenko-pod-odnim-brendom-553233/",
-          "source": "Meta MMA"
-        },
-        {
-          "title": "Шлеменко рассказал, как Емельяненко убрал его из советников президента Союза ММА России",
-          "snippet": "",
-          "url": "https://mma.metaratings.ru/news/shlemenko-rasskazal-kak-emelyanenko-ubral-ego-iz-sovetnikov-prezidenta-soyuza-mma-rossii-553255/",
-          "source": "Meta MMA"
-        },
-        {
-          "title": "Возвращение Александра Емельяненко к боям возможно, если его восстановление не затянется, сообщил менеджер спортсмена",
-          "snippet": "",
-          "url": "https://matchtv.ru/edinoborstva/matchtvnews_NI2268893_Vozvrashhenije_Aleksandra_Jemeljanenko_k_bojam_vozmozhno_jesli_jego_vosstanovlenije_ne_zatanetsa_soobshhil_menedzher_sportsmena",
-          "source": "Матч ТВ"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "анна ковальчук",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 25 Nov 2025 12:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYDEU48ROeUbiFMe6p3qNgJZjvjBEZzOvtC1grc_ymyQNlJO03xyuyE8e9SV0",
-      "pictureSource": "Новости Мурманской области",
-      "relatedSearch": [
-        {
-          "title": "Жизнь Анны Ковальчук: перебирала мужей до богатого, нашла сестру и удачно выдала её замуж — никакое следствие не разберётся",
-          "snippet": "",
-          "url": "https://novosti-murmanskoy-oblasti.ru/67264-zhizn-anni-kovalchuk-perebirala-muzhey-do-bogatogo-nashla-sestru-i-udachno-vidala-eyo-zamuzh-nikakoe-sledstvie-ne-razberyotsya.html",
-          "source": "Новости Мурманской области"
-        },
-        {
-          "title": "Семейные тайны актрисы Анны Ковальчук: от первых браков до неожиданных родственников",
-          "snippet": "",
-          "url": "https://gpvn.ru/98060",
-          "source": "Генплан Великого Новгорода"
-        },
-        {
-          "title": "Дочь Анны Ковальчук выпустила клип, который лучше не показывать маме: смотрим на обольстительницу Злату",
-          "snippet": "",
-          "url": "https://www.maximonline.ru/entertainment/doch-anny-kovalchuk-vypustila-klip-kotoryi-luchshe-ne-pokazyvat-mame-smotrim-na-obolstitelnicu-zlatu-id6675663/",
-          "source": "журнал | MAXIM"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "sollers sp7",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 25 Nov 2025 12:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTslsm8wtohXeEqniZ296iEdvYwaS8r37oAtYwCnTMLoAOiwmZ8sutHwFyoKPc",
-      "pictureSource": "Авто.ру",
-      "relatedSearch": [
-        {
-          "title": "Sollers объявил цену российского минивэна SP7",
-          "snippet": "",
-          "url": "https://auto.ru/mag/article/obyavlena-stoimost-novogo-rossiyskogo-minivena-sollers-sp7/",
-          "source": "Авто.ру"
-        },
-        {
-          "title": "7 мест, мощный мотор, АКП — на рынок вышла новая модель нашей сборки",
-          "snippet": "",
-          "url": "https://www.zr.ru/content/news/974976-na-rynok-vkhodit-rossijskij-min/",
-          "source": "zr.ru"
-        },
-        {
-          "title": "Sollers представил SP7 — минивэн и бизнес-купе с уровнем премиума",
-          "snippet": "",
-          "url": "https://www.32cars.ru/posts/id-14758-sollers-predstavil-sp7-miniven-i-biznes-kupe-s-urovnem-premiuma",
-          "source": "Автомобильный портал 32CARS.RU"
+          "url": "https://dailycannon.com/2025/11/arsenal-bayern-referee/",
+          "source": "Daily Cannon"
         }
       ],
       "link": "https://imtaqin.id/"

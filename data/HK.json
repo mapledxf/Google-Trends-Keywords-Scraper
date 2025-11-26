@@ -1,9 +1,18 @@
 {
-  "lastUpdate": "2025-11-26 11:56:57",
+  "lastUpdate": "2025-11-26 12:37:10",
   "data": [
     {
-      "title": "星島日報",
+      "title": "星島",
       "trafficCount": "100+",
+      "pubDate": "Wed, 26 Nov 2025 04:00:00 -0800",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "星島日報",
+      "trafficCount": "200+",
       "pubDate": "Wed, 26 Nov 2025 03:40:00 -0800",
       "picture": "",
       "pictureSource": "",
@@ -12,11 +21,17 @@
     },
     {
       "title": "香港火灾",
-      "trafficCount": "100+",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 26 Nov 2025 03:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSR3ZlwbmbW4QJQ54R0WplgHCaza8A_toI_FrJCOcdS9eFvmhVVV7jqYKHxS58",
-      "pictureSource": "香港電台",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLcQYmmCM4dh-F34ulPjAb3H9CRC1opGF8TxnHf_E0QtV1irPi5GHE7GDZ11Y",
+      "pictureSource": "凤凰网",
       "relatedSearch": [
+        {
+          "title": "香港大火升至五级火警，预料扑救将极为困难甚至无法扑灭",
+          "snippet": "",
+          "url": "https://news.ifeng.com/c/8obLDkqTQQR",
+          "source": "凤凰网"
+        },
         {
           "title": "周思杰：按法例规定大厦维修外墙棚网需具备阻燃功能",
           "snippet": "",
@@ -24,51 +39,17 @@
           "source": "香港電台"
         },
         {
-          "title": "香港大埔火灾，一个月内第二起正在维修的大厦着火",
+          "title": "专题·香港大埔突发火灾",
           "snippet": "",
-          "url": "https://news.ifeng.com/c/8obHMNUun9x",
-          "source": "凤凰网"
-        },
-        {
-          "title": "大埔宏福苑发生四级火浓烟席卷半空传爆炸声｜即时新闻｜中港台｜on.cc东网",
-          "snippet": "",
-          "url": "https://hk.on.cc/hk/bkn/cnt/news/20251126/bkn-20251126145934804-1126_00822_001_cn.html",
-          "source": "on.cc東網"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "bbc news",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 26 Nov 2025 02:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQaRBW8y4BlZnGcJvwEcRebAP4IxOaXsP1BKdyxeKH4i7syMKU7biLj7NXNAgo",
-      "pictureSource": "Nature",
-      "relatedSearch": [
-        {
-          "title": "Topological turning points across the human lifespan",
-          "snippet": "",
-          "url": "https://www.nature.com/articles/s41467-025-65974-8",
-          "source": "Nature"
-        },
-        {
-          "title": "Four pivotal ages in your brain's development revealed in new scientific study",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/cgl6klez226o",
-          "source": "BBC"
-        },
-        {
-          "title": "Brain has five ‘eras’, scientists say – with adult mode not starting until early 30s",
-          "snippet": "",
-          "url": "https://www.theguardian.com/science/2025/nov/25/brain-human-cognitive-development-life-stages-cambridge-study",
-          "source": "The Guardian"
+          "url": "https://news.qq.com/rain/a/UTR2025112610431100",
+          "source": "QQ.COM"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "cnn",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 26 Nov 2025 02:50:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjNEtiyqeCWzXK89O5nHU-P3xhY6AtLU7MzSspaZffxtq0k5CsR6HaE0swIcM",
       "pictureSource": "Bloomberg.com",
@@ -90,6 +71,34 @@
           "snippet": "",
           "url": "https://www.theguardian.com/us-news/2025/nov/25/trump-envoy-on-russia-ukraine-peace-deal",
           "source": "The Guardian"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "bbc news",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 26 Nov 2025 02:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRric4ATYsp3bwj9TFbH3NM0z9wM5us8PdklTxIQw-k7yu6e93VHDcgc7YQcj4",
+      "pictureSource": "Reuters",
+      "relatedSearch": [
+        {
+          "title": "Trump's battle with the BBC could threaten its global reach",
+          "snippet": "",
+          "url": "https://www.reuters.com/business/media-telecom/trumps-battle-with-bbc-could-threaten-its-global-reach-2025-11-25/",
+          "source": "Reuters"
+        },
+        {
+          "title": "BBC Chair Tries to Calm Political ‘Firestorm’ Over Trump Edit",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/11/24/world/europe/uk-bbc-trump.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "BBC may not be in 'safe hands' under its chair, says committee head",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/cd74ne84lqdo",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -123,8 +132,36 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "tvb",
+      "title": "scmp",
       "trafficCount": "500+",
+      "pubDate": "Wed, 26 Nov 2025 02:10:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs25L9mVLc5lS-uUFGxZ5nIDJAdTkVsmzqZESVORnDSTPvE6qWbu2LIiZnF0M",
+      "pictureSource": "South China Morning Post",
+      "relatedSearch": [
+        {
+          "title": "Chinese husband splits from wife who squandered US$163,000, mostly on live-streamer",
+          "snippet": "",
+          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3333510/tearful-chinese-husband-divorces-wife-squandering-us163000-mostly-live-streamer",
+          "source": "South China Morning Post"
+        },
+        {
+          "title": "Man to Divorce Wife After She Spent $94,000 on Streamer",
+          "snippet": "",
+          "url": "https://www.complex.com/pop-culture/a/jaelaniturnerwilliams/man-to-divorce-wife-after-she-spent-94k-on-streamer",
+          "source": "Complex"
+        },
+        {
+          "title": "Chinese woman spends majority of husband’s $163,000 life savings on online streamer | Trending",
+          "snippet": "",
+          "url": "https://www.hindustantimes.com/trending/chinese-woman-spends-majority-of-husband-s-163-000-life-savings-on-online-streamer-101764138106311.html",
+          "source": "Hindustan Times"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tvb",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 26 Nov 2025 02:00:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbwbF1S8TljZBz7OAQFZ3vkYY20Ly0QcU31jRRQcO4sVZSr0X3cPDtMzEQqcg",
       "pictureSource": "香港01",
@@ -146,34 +183,6 @@
           "snippet": "",
           "url": "https://www.chinapress.com.my/20251122/%E7%BD%97%E5%AE%B6%E8%8B%B1%E8%87%AA%E7%88%86%E7%A6%81%E5%90%BB20%E5%B9%B4%E3%80%80-%E6%B1%AA%E6%98%8E%E8%8D%83%E5%A8%87%E5%97%94%E8%90%BD%E9%97%B8/",
           "source": "中國報 China Press"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "hk news",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 26 Nov 2025 01:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3taE2b2zqxpEIrjAuXoH4rgfx-K7PdfZ6_AwnErt0vDaUYVZN7vGxgtk102c",
-      "pictureSource": "South China Morning Post",
-      "relatedSearch": [
-        {
-          "title": "How a Beijing-Tokyo chill over Taiwan could solidify Takaichi’s power",
-          "snippet": "",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3334197/how-beijing-tokyo-deep-freeze-over-taiwan-could-harden-takaichis-grip-power",
-          "source": "South China Morning Post"
-        },
-        {
-          "title": "Japan’s Takaichi Says Didn’t Intend to Get Specific on Taiwan",
-          "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2025-11-26/japan-s-takaichi-says-didn-t-intend-to-get-specific-on-taiwan",
-          "source": "Bloomberg.com"
-        },
-        {
-          "title": "China warns it will 'crush' foreign efforts to interfere over Taiwan",
-          "snippet": "",
-          "url": "https://www.reuters.com/world/china/china-warns-it-will-crush-foreign-efforts-interfere-over-taiwan-2025-11-26/",
-          "source": "Reuters"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -232,15 +241,6 @@
           "source": "中國報 China Press"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "yahoo hk",
-      "trafficCount": "2000+",
-      "pubDate": "Wed, 26 Nov 2025 01:20:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]

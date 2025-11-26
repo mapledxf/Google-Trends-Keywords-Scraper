@@ -1,18 +1,30 @@
 {
-  "lastUpdate": "2025-11-26 16:34:47",
+  "lastUpdate": "2025-11-26 16:53:42",
   "data": [
     {
       "title": "martin šebestyán",
       "trafficCount": "200+",
       "pubDate": "Wed, 26 Nov 2025 06:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQT3M3jvsq6Zw8rbF8VUYkW2M-_wEr_evX7A_dzekfmJPMa5Ql0ILKNVzlmS88",
-      "pictureSource": "Reflex.cz",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNztPvkZva-05Lm_nTsJYHnHrw4jYZRfDf6RcNXCmjxHHk713I2fPaxLEOrII",
+      "pictureSource": "České noviny",
       "relatedSearch": [
+        {
+          "title": "Okamura odmítl jakékoli spojení Šebestyána s dotacemi pro Agrofert",
+          "snippet": "",
+          "url": "https://www.ceskenoviny.cz/zpravy/okamura-odmitl-jakekoli-spojeni-sebestyana-s-dotacemi-pro-agrofert/2752547",
+          "source": "České noviny"
+        },
         {
           "title": "Martin Bryś: Šebestyán? Kozel zahradníkem. Ve vládě může pomoct Agrofertu",
           "snippet": "",
           "url": "https://www.reflex.cz/clanek/komentare/132565/martin-brys-sebestyan-kozel-zahradnikem-ve-vlade-muze-pomoct-agrofertu.html",
           "source": "Reflex.cz"
+        },
+        {
+          "title": "Vlevo dole: Tohle jsou experti SPD, kteří ale mají blíž k Babišovi",
+          "snippet": "",
+          "url": "https://www.seznamzpravy.cz/clanek/audio-podcast-vlevo-dole-dva-ze-tri-ministru-za-spd-maji-bliz-k-babisovi-nez-k-okamurovi-292483",
+          "source": "Seznam Zprávy"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -74,34 +86,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "petr macinka",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 26 Nov 2025 05:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJ4bY9Fvz9t9wd4zrVDZWXONkn2Hx0RDogwiKj-DGbyKv5xlaYwKTYTTVJlU8",
-      "pictureSource": "Novinky",
-      "relatedSearch": [
-        {
-          "title": "Moje výhrady k Turkovi přetrvávají, řekl po jednání s Babišem Pavel",
-          "snippet": "",
-          "url": "https://www.novinky.cz/clanek/domaci-babis-nese-prezidentovi-seznam-kandidatu-na-ministry-40550560",
-          "source": "Novinky"
-        },
-        {
-          "title": "Macinka chce za Pavlem. O „právních překážkách“ Turkova jmenování neví",
-          "snippet": "",
-          "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-macinka-chce-za-pavlem-o-pravnich-prekazkach-turkova-jmenovani-nevi-292541",
-          "source": "Seznam Zprávy"
-        },
-        {
-          "title": "Prezident kontra Motoristé. Je to závod o to, kdo zabrzdí jako první, říká politolog",
-          "snippet": "",
-          "url": "https://www.idnes.cz/zpravy/domaci/politolog-skolnik-ustavni-pravnik-kysela-babis-turek-pavel.A251126_152600_domaci_mul",
-          "source": "iDNES.cz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "ivan bednárik",
       "trafficCount": "500+",
       "pubDate": "Wed, 26 Nov 2025 05:50:00 -0800",
@@ -125,6 +109,34 @@
           "snippet": "",
           "url": "https://www.ceskenoviny.cz/zpravy/byvali-ministri-dopravy-i-koncici-kupka-povazuji-bednarika-za-zkuseneho-manazera/2752502",
           "source": "České noviny"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "petr macinka",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 26 Nov 2025 05:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJ4bY9Fvz9t9wd4zrVDZWXONkn2Hx0RDogwiKj-DGbyKv5xlaYwKTYTTVJlU8",
+      "pictureSource": "Novinky",
+      "relatedSearch": [
+        {
+          "title": "Moje výhrady k Turkovi přetrvávají, řekl po jednání s Babišem Pavel",
+          "snippet": "",
+          "url": "https://www.novinky.cz/clanek/domaci-babis-nese-prezidentovi-seznam-kandidatu-na-ministry-40550560",
+          "source": "Novinky"
+        },
+        {
+          "title": "Macinka chce za Pavlem. O „právních překážkách“ Turkova jmenování neví",
+          "snippet": "",
+          "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-macinka-chce-za-pavlem-o-pravnich-prekazkach-turkova-jmenovani-nevi-292541",
+          "source": "Seznam Zprávy"
+        },
+        {
+          "title": "Prezident kontra Motoristé. Je to závod o to, kdo zabrzdí jako první, říká politolog",
+          "snippet": "",
+          "url": "https://www.idnes.cz/zpravy/domaci/politolog-skolnik-ustavni-pravnik-kysela-babis-turek-pavel.A251126_152600_domaci_mul",
+          "source": "iDNES.cz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,7 +173,7 @@
       "title": "hong kong",
       "trafficCount": "200+",
       "pubDate": "Wed, 26 Nov 2025 03:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOT1rbc9c_xjToMKsUa2iT5SdZKbUF8rHFGfY5IbU9zyca7meBUXvp6JS3lxA",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcStPFXO-C4RTlexvl3e0MM4mwJQyOR2pqEDuZmjE9GKnRhJdSayKGbCnYLo0ig",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
@@ -171,7 +183,7 @@
           "source": "BBC"
         },
         {
-          "title": "Breaking | 13 dead as searing heat hampers Hong Kong Tai Po blaze rescue efforts",
+          "title": "Developing | Xi Jinping sends condolences as at least 13 die in massive Hong Kong blaze",
           "snippet": "",
           "url": "https://www.scmp.com/news/hong-kong/society/article/3334217/major-fire-hong-kongs-tai-po-leaves-2-severely-burned-residents-trapped",
           "source": "South China Morning Post"
@@ -261,10 +273,10 @@
           "source": "The Guardian"
         },
         {
-          "title": "Richard Branson Announces the Death of His Wife Joan Templeman at 80: 'My World'",
+          "title": "Richard Branson confirms death of wife Joan: 'My best friend, my rock'",
           "snippet": "",
-          "url": "https://people.com/richard-branson-announces-the-death-of-wife-joan-templeman-at-80-11856887",
-          "source": "People.com"
+          "url": "https://www.foxbusiness.com/business-leaders/richard-branson-confirms-death-wife-joan-my-best-friend-my-rock",
+          "source": "Fox Business"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-11-27 05:13:19",
+  "lastUpdate": "2025-11-27 05:35:03",
   "data": [
+    {
+      "title": "vremenska prognoza",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 26 Nov 2025 21:20:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7rl1Hb-sF1j5Q5ODkVluqEdQeVwHMKpKIiJ2wk_RT2JhH-ptNaj3Z2TVROBI",
+      "pictureSource": "Danas",
+      "relatedSearch": [
+        {
+          "title": "Meteorolog Nedeljko Todorović otkriva kakvo će vreme biti do kraja novembra",
+          "snippet": "",
+          "url": "https://www.danas.rs/vesti/drustvo/meteorolog-vreme-nedeljko-todorovic-kraj-novembra-sneg/",
+          "source": "Danas"
+        },
+        {
+          "title": "(Mape) Kiša potapa ovaj deo Srbije, a stiže i snežni udar u jakim epizodama",
+          "snippet": "",
+          "url": "https://www.blic.rs/vremenska-prognoza/mape-kisa-potapa-ovaj-deo-srbije-a-stize-i-snezni-udar-u-jakim-epizodama/ldtklwb",
+          "source": "Blic"
+        },
+        {
+          "title": "Spremite kišobrane: Danas oblačno i hladnije, sa kišom i snegom",
+          "snippet": "",
+          "url": "https://nova.rs/vesti/drustvo/spremite-kisobrane-danas-oblacno-i-hladnije-sa-kisom-i-snegom/",
+          "source": "Nova"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "netflix",
       "trafficCount": "200+",
@@ -49,10 +77,10 @@
           "source": "BBC"
         },
         {
-          "title": "Get up to speed with Stranger Things with Netflix’s recap video",
+          "title": "Get Hyped with One Last Fiery Trailer Before Stranger Things 5 Is Upon Us",
           "snippet": "",
-          "url": "https://www.flickeringmyth.com/get-up-to-speed-with-stranger-things-with-netflixs-recap-video/",
-          "source": "Flickering Myth"
+          "url": "https://www.netflix.com/tudum/articles/stranger-things-5-hype-trailer",
+          "source": "Netflix"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -81,34 +109,6 @@
           "snippet": "",
           "url": "https://rmcsport.bfmtv.com/replay-emissions/rothen-regale/il-n-y-a-pas-de-quoi-s-inquieter-pour-le-psg-tottenham-n-est-pas-le-bayern-26-11_EN-202511260960.html",
           "source": "RMC Sport"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "liverpool",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 26 Nov 2025 13:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlqAL3GRIFyvYx9VcEUAIetcgzGbRV0q9IeridLAUPFDnhYMR-1c_13VvveNE",
-      "pictureSource": "Liverpool FC",
-      "relatedSearch": [
-        {
-          "title": "Liverpool FC statement",
-          "snippet": "",
-          "url": "https://www.liverpoolfc.com/news/liverpool-fc-statement-10",
-          "source": "Liverpool FC"
-        },
-        {
-          "title": "Man accused of driving into crowds at Liverpool soccer parade appears in court for trial",
-          "snippet": "",
-          "url": "https://apnews.com/article/liverpool-parade-crash-paul-doyle-trial-48fc9b4cafc306f2f61bf5d46b08a1b3",
-          "source": "AP News"
-        },
-        {
-          "title": "Paul Doyle's online presence reveals him to be a gamer, skateboarder and ‘ethical hacker’, as well as a follower of prominent right-wing ringleaders who was apparently swept up in a crypto scheme that declared bankruptcy amid major fraud allegation. Doyle",
-          "snippet": "",
-          "url": "https://www.facebook.com/theliverpoolecho/photos/paul-doyles-online-presence-reveals-him-to-be-a-gamer-skateboarder-and-ethical-h/1190582499834691/",
-          "source": "Facebook"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,10 +161,10 @@
           "source": "La Red 106.1 FM"
         },
         {
-          "title": "Mbappé anota 4, Arsenal derriba al Bayern y adolescentes brillan en la Liga de Campeones",
+          "title": "Mbappé: \"La gente habla mucho fuera, pero tenemos que protegernos, al entrenador y al staff\"",
           "snippet": "",
-          "url": "https://www.chicagotribune.com/2025/11/26/mbapp-anota-4-arsenal-derriba-al-bayern-y-adolescentes-brillan-en-la-liga-de-campeones/",
-          "source": "Chicago Tribune"
+          "url": "https://quepasamedia.com/deportes/mbappe-la-gente-habla-mucho-fuera-pero-tenemos-que-protegernos-al-entrenador-y-al-staff/",
+          "source": "Qué Pasa Noticias - Raleigh"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,9 +173,15 @@
       "title": "euroleague",
       "trafficCount": "2000+",
       "pubDate": "Wed, 26 Nov 2025 12:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmq72jUgk6N-FwX9FB4KrE8zlXZH3Oo0yHEefgYrluvsaAxKym54WxhRygbiA",
-      "pictureSource": "B92",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzNmpcmb6wK497zUixKYC5a7HfZFqP-ubEguQWTCqNmUxpAZhbi58JJB-SZ84",
+      "pictureSource": "Nova",
       "relatedSearch": [
+        {
+          "title": "Tabela Evrolige koju će želeti da sačuva svaki navijač Zvezde FOTO",
+          "snippet": "",
+          "url": "https://nova.rs/sport/evroliga/tabela-evrolige-koju-ce-zeleti-da-sacuva-svaki-navijac-zvezde-foto/",
+          "source": "Nova"
+        },
         {
           "title": "Novi presek: Zvezda na vrhu, Partizan na dva koraka do dna",
           "snippet": "",
@@ -187,19 +193,13 @@
           "snippet": "",
           "url": "https://sportklub.n1info.rs/kosarka/euroleague/tabela-evrolige-standings-partizan-crvena-zvezda-raspored/",
           "source": "Sportklub"
-        },
-        {
-          "title": "Tabela Evrolige koju će želeti da sačuva svaki navijač Zvezde FOTO",
-          "snippet": "",
-          "url": "https://nova.rs/sport/evroliga/tabela-evrolige-koju-ce-zeleti-da-sacuva-svaki-navijac-zvezde-foto/",
-          "source": "Nova"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "arsenal vs bayern",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 26 Nov 2025 12:30:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNChgD9oXEhD0WGjGCRmgt2KwvhJo9H6MJ25ZjNwUfHKbXYSuHPgk55-UY9h8",
       "pictureSource": "BBC",

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-27 18:58:07",
+  "lastUpdate": "2025-11-27 19:16:11",
   "data": [
     {
       "title": "динамо москва – зенит",
@@ -87,11 +87,30 @@
     },
     {
       "title": "астана тв",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 27 Nov 2025 08:40:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTOn6p8dMPIL2YS3syFscI7wnwfmS7Xa08wE0grUhGonXi3CEeyeN1Bvx5khQ",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Число жертв пожара в жилом комплексе в Гонконге продолжает расти. По делу о пожаре задержаны три человека",
+          "snippet": "",
+          "url": "https://www.bbc.com/russian/articles/c93ngg9n9wro",
+          "source": "BBC"
+        },
+        {
+          "title": "Пожар в жилом комплексе в Гонконге: не менее 55 жертв",
+          "snippet": "",
+          "url": "https://www.dw.com/ru/pozar-v-zilom-komplekse-v-gonkonge-pogibli-ne-menee-55-celovek/a-74912953",
+          "source": "DW"
+        },
+        {
+          "title": "Пожар в Гонконге не могут потушить более суток: число жертв выросло",
+          "snippet": "",
+          "url": "https://tengrinews.kz/asia/pojar-gonkonge-mogut-potushit-sutok-chislo-jertv-vyiroslo-586758/",
+          "source": "Tengrinews"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {

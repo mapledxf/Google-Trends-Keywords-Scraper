@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-27 10:43:23",
+  "lastUpdate": "2025-11-27 10:53:45",
   "data": [
     {
       "title": "fifa",
@@ -46,7 +46,7 @@
           "title": "وفاة المذيعة هبة الزياد بشكل مفاجئ يصدم الوسط الإعلامي",
           "snippet": "",
           "url": "https://www.lahamag.com/article/232371-%D9%88%D9%81%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D8%B0%D9%8A%D8%B9%D8%A9-%D9%87%D8%A8%D8%A9-%D8%A7%D9%84%D8%B2%D9%8A%D8%A7%D8%AF-%D8%A8%D8%B4%D9%83%D9%84-%D9%85%D9%81%D8%A7%D8%AC%D8%A6-%D9%8A%D8%B5%D9%8A%D8%A8-%D8%A7%D9%84%D9%88%D8%B3%D8%B7-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A-%D8%A8%D8%B5%D8%AF%D9%85%D8%A9",
-          "source": "مجلة لها"
+          "source": "Laha Magazine"
         },
         {
           "title": "لحظات مؤثرة: هبة زياد تعلن حبها للتلفزيون قبل وفاتها بأيام... وسر السكتة القلبية المفاجئة؟",
@@ -89,15 +89,9 @@
       "title": "hong kong",
       "trafficCount": "200+",
       "pubDate": "Wed, 26 Nov 2025 14:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpviUjwwuRdk8zPbEW5k3sCmluBJHV3iPl_EdT-cNxIN-EJ-tnwzdawBl8ckk",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTrKhX2x7CnKryZYJ3sA5Kaa703-Y0z0EXB_5u-BoiBuH6KvZU0j7zcK-6uVY",
+      "pictureSource": "South China Morning Post",
       "relatedSearch": [
-        {
-          "title": "Hong Kong fire death toll reaches 55 as firefighters battle last of public housing blazes",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/live/c2emg1kj1klt",
-          "source": "BBC"
-        },
         {
           "title": "Huge blaze in Hong Kong leaves at least 44 dead, 279 missing – as it happened",
           "snippet": "",
@@ -109,6 +103,12 @@
           "snippet": "",
           "url": "https://www.theguardian.com/news/2025/nov/27/how-hong-kong-fire-unfolded-apartment-block-blaze-wang-court",
           "source": "The Guardian"
+        },
+        {
+          "title": "3 arrested in Hong Kong, as a high-rise fire leaves at least 44 dead and 279 reported missing",
+          "snippet": "",
+          "url": "https://apnews.com/article/hong-kong-highrise-fire-tai-po-cf40065101b2b6f8ac7bc43d9f228022",
+          "source": "AP News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -142,8 +142,17 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "champions league 2025",
+      "title": "نتائج مباريات اليوم",
       "trafficCount": "200+",
+      "pubDate": "Wed, 26 Nov 2025 14:00:00 -0800",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "champions league standings",
+      "trafficCount": "100+",
       "pubDate": "Wed, 26 Nov 2025 14:00:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxDoj56AX7kcQ--LgssfSr7fS_lp55Ir-UERgXIFQfMB-fI4EEaIHvehGoLdk",
       "pictureSource": "The Independent",
@@ -170,12 +179,31 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "نتائج مباريات اليوم",
-      "trafficCount": "200+",
+      "title": "psv eindhoven",
+      "trafficCount": "100+",
       "pubDate": "Wed, 26 Nov 2025 14:00:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5peDuAaBqcEFuNZ4Z-2D6wAq-6SsQrpoHfg5nDnmgewcY_P3i76kMyAqmGJ8",
+      "pictureSource": "Nieuw-Volendam",
+      "relatedSearch": [
+        {
+          "title": "FC Volendam naar Eindhoven voor duel PSV",
+          "snippet": "",
+          "url": "https://www.nieuw-volendam.nl/fc-volendam-naar-eindhoven-voor-duel-psv/",
+          "source": "Nieuw-Volendam"
+        },
+        {
+          "title": "KNVB zet Van den Kerkhof op duel met Volendam",
+          "snippet": "",
+          "url": "https://psv.supporters.nl/nieuws/artikel/55084/KNVB-zet-Van-den-Kerkhof-op-duel-met-Volendam",
+          "source": "PSV.supporters.nl"
+        },
+        {
+          "title": "FC Volendam naar Eindhoven voor volgende test",
+          "snippet": "",
+          "url": "https://fcvolendam.nl/wedstrijdnieuws/fc-volendam-naar-eindhoven-voor-volgende-test/",
+          "source": "FC Volendam"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -192,16 +220,16 @@
           "source": "AD.nl"
         },
         {
+          "title": "Zo moet de gelukkigste man op aarde er dus ongeveer uitzien: dit zijn de hoogtepunten die PSV in Liverpool beleefde",
+          "snippet": "",
+          "url": "https://www.bd.nl/eindhoven/zo-moet-de-gelukkigste-man-op-aarde-er-dus-ongeveer-uitzien-dit-zijn-de-hoogtepunten-die-psv-in-liverpool-beleefde~abfc6685/",
+          "source": "Brabants Dagblad"
+        },
+        {
           "title": "'Niet Driouech, maar Schouten was de Man van de Wedstrijd'",
           "snippet": "",
           "url": "https://www.vi.nl/video/niet-driouech-maar-schouten-was-de-man-van-de-wedstrijd",
           "source": "vi.nl"
-        },
-        {
-          "title": "Bosz vertelt over grappig moment in PSV-kleedkamer: 'Waren ze minder blij mee'",
-          "snippet": "",
-          "url": "https://www.voetbalprimeur.nl/nieuws/1715993/bosz-trots-op-bizarre-overwinning-van-psv-op-liverpool.html",
-          "source": "VoetbalPrimeur.nl"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -230,34 +258,6 @@
           "snippet": "",
           "url": "https://www.elpueblo.pe/deportes/despues-de-marcar-contra-barcelona-y-real-madrid-ayoub-el-kaabi-hace-historia-en-el-futbol-arabe/139828/",
           "source": "elpueblo.pe"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "paris",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 26 Nov 2025 13:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSl9l_ICFXv2J0L9gEc2wWqVWfj7DuCPG5y7rymQ91ilWV5Tw-jW0w9BZsYAYE",
-      "pictureSource": "Mediapart",
-      "relatedSearch": [
-        {
-          "title": "Au Dôme de Paris, les médias Bolloré préparent leur guerre de civilisations",
-          "snippet": "",
-          "url": "https://www.mediapart.fr/journal/politique/261125/au-dome-de-paris-les-medias-bollore-preparent-leur-guerre-de-civilisations",
-          "source": "Mediapart"
-        },
-        {
-          "title": "Le rance soir des médias Bolloré",
-          "snippet": "",
-          "url": "https://lesjours.fr/obsessions/l-empire/ep236-soiree-dome/",
-          "source": "Les Jours"
-        },
-        {
-          "title": "La députée EPR Violette Spillebout assume de débattre chez l’extrême droite de Bolloré",
-          "snippet": "",
-          "url": "https://www.liberation.fr/politique/la-deputee-epr-violette-spillebout-assume-de-debattre-chez-lextreme-droite-de-bollore-20251126_4THIYW2G2RCKPE4SPYTI34LZDY/",
-          "source": "Libération"
         }
       ],
       "link": "https://imtaqin.id/"

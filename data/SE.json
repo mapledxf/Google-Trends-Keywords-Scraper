@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-12-01 05:45:23",
+  "lastUpdate": "2025-12-01 05:56:29",
   "data": [
     {
       "title": "svt play",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 30 Nov 2025 20:50:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9xaIT1EUnKLhYguWUorMA9ZSSQieVQf2y6ssuNaEO43cbpkmsfPJOX1Yhz48",
       "pictureSource": "Filmtopp.se",
@@ -58,6 +58,15 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "sveriges radio",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 30 Nov 2025 19:40:00 -0800",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "bitcoin",
       "trafficCount": "100+",
       "pubDate": "Sun, 30 Nov 2025 17:30:00 -0800",
@@ -81,6 +90,34 @@
           "snippet": "",
           "url": "https://www.coindesk.com/markets/2025/11/24/strategy-apparently-paused-bitcoin-accumulation-last-week",
           "source": "CoinDesk"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "polens president",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 30 Nov 2025 17:20:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIw5Fn2RxP4sWdOzvgwu629FVCmFy95987-9RFk7lA7e5KvaHYV0nm4o3_4NU",
+      "pictureSource": "Aftonbladet",
+      "relatedSearch": [
+        {
+          "title": "Efter Putin-möte: Polens president nobbar Orbán",
+          "snippet": "",
+          "url": "https://www.aftonbladet.se/nyheter/a/rrp6Ve/efter-putin-mote-polens-president-nobbar-orban",
+          "source": "Aftonbladet"
+        },
+        {
+          "title": "Orbán besökte Moskva – lovar att köpa mer olja",
+          "snippet": "",
+          "url": "https://omni.se/orban-besokte-moskva-lovar-att-kopa-mer-olja/a/QJRkBR",
+          "source": "Omni"
+        },
+        {
+          "title": "Direkt – Kriget i Ukraina – Putin till Orbán: Har gärna toppmöte i Budapest",
+          "snippet": "",
+          "url": "https://www.dn.se/direkt/ukraina/2025-11-28/putin-till-orban-har-garna-toppmote-i-budapest/",
+          "source": "Dagens Nyheter"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,20 +210,20 @@
       "title": "försäkringskassan",
       "trafficCount": "2000+",
       "pubDate": "Sun, 30 Nov 2025 15:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlXRcrIc7R0PzlkNuo3STAmTSVOWAsLVcXTV7YQsorP0VGf2YR11CFXBlA7t4",
-      "pictureSource": "SVT Nyheter",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0MO9U2k5eWPsuxO2PKmnA_oV1ybTKq6wK20GyWoYCtPx6aagRAMTePNQ_U7M",
+      "pictureSource": "Expressen",
       "relatedSearch": [
-        {
-          "title": "Försäkringskassan: Tusentals gängkriminella försörjer sig på bidrag",
-          "snippet": "",
-          "url": "https://www.svt.se/nyheter/inrikes/tusentals-gangkriminella-forsorjer-sig-pa-bidrag",
-          "source": "SVT Nyheter"
-        },
         {
           "title": "LEDARE: Sveriges sjukaste bluff – 3,6 miljarder till gängen",
           "snippet": "",
           "url": "https://www.expressen.se/ledare/ledare-sveriges-sjukaste-bluff-36-miljarder-till-gangen/",
           "source": "Expressen"
+        },
+        {
+          "title": "Försäkringskassan: Tusentals gängkriminella försörjer sig på bidrag",
+          "snippet": "",
+          "url": "https://www.svt.se/nyheter/inrikes/tusentals-gangkriminella-forsorjer-sig-pa-bidrag",
+          "source": "SVT Nyheter"
         },
         {
           "title": "LEDARE: Något är lurt i dessa siffror från Försäkringskassan.",
@@ -198,85 +235,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "jlc guldet",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 30 Nov 2025 14:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-Q1nstngUU9bQ1xbm9lG9fpLevUrBCFyIzQEoGLQ-yu8hoSv9uC57mO57dNA",
-      "pictureSource": "GP",
-      "relatedSearch": [
-        {
-          "title": "JLC-duon berättar om guldet – för första gången",
-          "snippet": "",
-          "url": "https://www.gp.se/krim/carl-deman-och-lucas-simonsson-berattar-om-jlc-guldet-for-forsta-gangen.b33c8ad6-849c-45d8-8060-61c0fd99aa74",
-          "source": "GP"
-        },
-        {
-          "title": "JLC bryter tystnaden om guldet: ”Något fuffens”",
-          "snippet": "",
-          "url": "https://www.aftonbladet.se/nojesbladet/a/43j4Bg/jlc-bryter-tystnaden-om-guldet",
-          "source": "Aftonbladet"
-        },
-        {
-          "title": "JLC bryter tystnaden om guldet ”Mycket är märkligt”",
-          "snippet": "",
-          "url": "https://www.expressen.se/noje/jlcs-forsta-ord-om-guldet-mycket-ar-markligt-/",
-          "source": "Expressen"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "napoli",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 30 Nov 2025 13:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk3Mt7XFyqjY29hIum727CQEjKnwMMKg4UGu6hz4ZuNdNpl3XoGw8WXIuizY",
-      "pictureSource": "La Gazzetta dello Sport",
-      "relatedSearch": [
-        {
-          "title": "Neres segna ancora e fa volare il Napoli: Roma battuta, Conte aggancia il Milan in testa",
-          "snippet": "",
-          "url": "https://www.gazzetta.it/Calcio/Serie-A/30-11-2025/roma-napoli-live-risultato-e-gol-in-diretta-serie-a.shtml",
-          "source": "La Gazzetta dello Sport"
-        },
-        {
-          "title": "Roma - Napoli (0-1) Serie A 2025",
-          "snippet": "",
-          "url": "https://www.repubblica.it/sport/dirette/calcio/serie-a-2025/diretta-roma-napoli-g2558637/",
-          "source": "la Repubblica"
-        },
-        {
-          "title": "Buongiorno: «Abbiamo vinto tanti duelli a centrocampo e altrove: è stata una delle chiavi della vittoria» In conferenza: «La differenza l'ha fatta l'intensità con cui abbiamo giocato per tutti i novanta minuti» https://www.ilnapolista.it/2025/11/buongiorno-abbiamo-",
-          "snippet": "",
-          "url": "https://www.facebook.com/story.php?story_fbid=1367481135390538&id=100063859936263",
-          "source": "Facebook"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "copper mountain",
+      "title": "ترتيب الدوري الاسباني",
       "trafficCount": "100+",
-      "pubDate": "Sun, 30 Nov 2025 12:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ27yzgrV_4bGmXTz9t13sAGKbxCNar0CHd0YpGt8RLD5ySLnUN20KMbKA4ftg",
-      "pictureSource": "The Guardian",
+      "pubDate": "Sun, 30 Nov 2025 14:20:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQU1TZ-0yu7XQ-g5DrvI5-t2UmZ5bm_VTvHAsv2rJSkBd82Wccmg37tENnI5RM",
+      "pictureSource": "Kooora",
       "relatedSearch": [
         {
-          "title": "Mikaela Shiffrin claims another slalom victory to stay perfect in Olympic season",
+          "title": "ركلات الجزاء تضع مبابي على عرش أوروبي",
           "snippet": "",
-          "url": "https://www.theguardian.com/sport/2025/nov/30/mikaela-shiffrin-claims-another-slalom-victory-to-stay-perfect-in-olympic-season",
-          "source": "The Guardian"
+          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%85%D8%A8%D8%A7%D8%A8%D9%8A-%D9%8A%D8%B9%D8%AA%D9%84%D9%8A-%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D8%A8%D8%B1%D9%89-%D9%81%D9%8A-%D8%A7%D9%94%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D8%A8%D8%B1%D9%82%D9%85-%D8%A7%D8%B3%D8%AA%D8%AB%D9%86%D8%A7%D9%8A%D9%94%D9%8A/bltfbc50bfb998ddba0",
+          "source": "Kooora"
         },
         {
-          "title": "Shiffrin cruises to Alpine Skiing World Cup win",
+          "title": "هدف مبابي في مرمي جيرونا بالدوري الاسباني",
           "snippet": "",
-          "url": "https://www.nbcsports.com/watch/olympics/mikaela-shiffrin-cruises-to-alpine-skiing-world-cup-slalom-win",
-          "source": "NBC Sports"
+          "url": "https://www.btolat.com/video/89422",
+          "source": "بطولات"
         },
         {
-          "title": "Mikaela Shiffrin claims 104th FIS Alpine Ski World Cup win with dominant performance in Copper Mountain",
+          "title": "داخل الملعب وخارجه.. كيليان مبابي قائد ريال مدريد الحقيقي",
           "snippet": "",
-          "url": "https://www.olympics.com/en/milano-cortina-2026/news/mikaela-shiffrin-104th-win-alpine-ski-world-cup-copper-mountain",
-          "source": "Olympics.com"
+          "url": "https://al-ain.com/article/mbappe-real-madrid-true-leader",
+          "source": "العين الإخبارية"
         }
       ],
       "link": "https://imtaqin.id/"

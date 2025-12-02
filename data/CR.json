@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-12-02 22:44:43",
+  "lastUpdate": "2025-12-02 22:52:25",
   "data": [
-    {
-      "title": "laliga",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 2 Dec 2025 14:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8n0dotsMQK_5nlF6Ib4hgPeEHqW2xMErbtOFbPha59OpE-_IsHp-v_Z8uwBM",
-      "pictureSource": "Foot Africa",
-      "relatedSearch": [
-        {
-          "title": "Liga: Probable lineups for the FC Barcelona – Atlético Madrid clash",
-          "snippet": "",
-          "url": "https://foot-africa.com/en/news/liga-probable-lineups-for-the-fc-barcelona-atletico-madrid-clash-985640/",
-          "source": "Foot Africa"
-        },
-        {
-          "title": "Barca make Atletico comeback to extend Liga lead",
-          "snippet": "",
-          "url": "https://www.france24.com/en/live-news/20251202-barca-make-atletico-comeback-to-extend-liga-lead",
-          "source": "France 24"
-        },
-        {
-          "title": "Preview: Barcelona meet inform Atlético in battle to stay top in LaLiga",
-          "snippet": "",
-          "url": "https://www.fotmob.com/id/topnews/24265-preview-barcelona-meet-inform-atletico-battle-stay-top-laliga?utm_source=fotmob",
-          "source": "FotMob"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "manchester city",
       "trafficCount": "100+",
@@ -86,6 +58,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "barca",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 2 Dec 2025 12:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8n0dotsMQK_5nlF6Ib4hgPeEHqW2xMErbtOFbPha59OpE-_IsHp-v_Z8uwBM",
+      "pictureSource": "Foot Africa",
+      "relatedSearch": [
+        {
+          "title": "Liga: Probable lineups for the FC Barcelona – Atlético Madrid clash",
+          "snippet": "",
+          "url": "https://foot-africa.com/en/news/liga-probable-lineups-for-the-fc-barcelona-atletico-madrid-clash-985640/",
+          "source": "Foot Africa"
+        },
+        {
+          "title": "Barca make Atletico comeback to extend Liga lead",
+          "snippet": "",
+          "url": "https://www.rfi.fr/en/sports/20251202-barca-make-atletico-comeback-to-extend-liga-lead",
+          "source": "RFI"
+        },
+        {
+          "title": "LIVE: Barcelona vs Atletico Madrid – La Liga",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/sports/liveblog/2025/12/2/live-barcelona-vs-atletico-madrid-la-liga?update=4146326",
+          "source": "Al Jazeera"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "tarjeta roja",
       "trafficCount": "200+",
       "pubDate": "Tue, 2 Dec 2025 12:10:00 -0800",
@@ -117,20 +117,20 @@
       "title": "newcastle - tottenham",
       "trafficCount": "1000+",
       "pubDate": "Tue, 2 Dec 2025 12:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXulO1xLjD9oznRSoe1e8pxCLm6DtnBVI7NszyT7RU_WbwdBj5FNOXUCdeKzk",
-      "pictureSource": "Last Word On Sports",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcZxGM1kjEI4_mdGZk-8XkaBka02M7SJ3mtPwENSAfxnSEX2-fqvvrsox5Uhw",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Newcastle vs Tottenham Confirmed Lineups for December 2",
+          "title": "Premier League LIVE: Bournemouth v Everton, Fulham v Man City & Newcastle v Tottenham",
           "snippet": "",
-          "url": "https://lastwordonsports.com/football/2025/12/02/newcastle-vs-tottenham-confirmed-lineups-december/",
-          "source": "Last Word On Sports"
+          "url": "https://www.bbc.com/sport/football/live/crl2w584lr1t",
+          "source": "BBC"
         },
         {
-          "title": "Spurs level late on; City beat Fulham in nine-goal thriller; Everton win",
+          "title": "Frank's Tottenham show signs of life as late Romero brace earns them point at Newcastle",
           "snippet": "",
-          "url": "https://onefootball.com/en/news/spurs-level-late-on-city-beat-fulham-in-nine-goal-thriller-everton-win-42038156",
-          "source": "OneFootball"
+          "url": "https://www.flashscore.com/news/newcastle-tottenham-premier-league-report/KUvHbzmC/",
+          "source": "Flashscore.com"
         },
         {
           "title": "Newcastle United player ratings vs Spurs as Bruno Guimaraes proves a point but 4/10 man disappoints",
@@ -151,14 +151,14 @@
         {
           "title": "OpenAI Declares ‘Code Red’ as Google Threatens AI Lead",
           "snippet": "",
-          "url": "https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6?gaa_at=eafs&gaa_n=AWEtsqf7J3zdys6qS6g-qyec4ynRqO5J8c5EPOUMx4VrYfgBDrY_vQH4k-QW&gaa_ts=692f6e4a&gaa_sig=1fU2zeWkevrtqmQ_6CPDg6slVQRpYopEd2qP2-OXNPlCif4ufcHfAi1wnZcnuWGqmpRUwrySmmdbtmLGj61k5Q%3D%3D",
+          "url": "https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6?gaa_at=eafs&gaa_n=AWEtsqdEIjNRbdvi5EWCydWjti5P7Ck5Fmo4YW9wxPfDS0tjiMdpVNfZfBeU&gaa_ts=692f712c&gaa_sig=XzpoANW4H9Of7TgFwMRbB_VXMPaJcZdVpSSxAmpiB0sZA60XUUlDh7aGu0ihAha6W9T0L0bxD1o6ge0nh-wsKg%3D%3D",
           "source": "The Wall Street Journal"
         },
         {
-          "title": "OpenAI Boss Gives Employees ‘Code Red’ Warning for ChatGPT",
+          "title": "OpenAI CEO declares “code red” as Gemini gains 200 million users in 3 months",
           "snippet": "",
-          "url": "https://www.mensjournal.com/news/openai-boss-gives-employees-code-red-warning-for-chatgpt",
-          "source": "Men's Journal"
+          "url": "https://arstechnica.com/ai/2025/12/openai-ceo-declares-code-red-as-gemini-gains-200-million-users-in-3-months/",
+          "source": "Ars Technica"
         },
         {
           "title": "Sam Altman issues ‘code red’ at OpenAI as ChatGPT contends with rivals",
@@ -183,16 +183,16 @@
           "source": "BILD"
         },
         {
-          "title": "Sportschau: Livestream - Interviews und Highlights - hier anschauen",
+          "title": "Bittere Pille: BVB scheitert im Achtelfinale an Bayer",
           "snippet": "",
-          "url": "https://www.ardmediathek.de/video/sportschau/livestream-interviews-und-analyse-nach-dem-bayer-sieg/das-erste/Y3JpZDovL3Nwb3J0c2NoYXUuZGUvZWU1N2E0NTEtYjczZS00MjJiLTg3ZGQtZTk0Njg4ZDNlYTRl",
-          "source": "ARD Mediathek"
+          "url": "https://www.bvb.de/de/de/aktuelles/news/news.html/2025/12/2/Bittere-Pille-BVB-scheitert-im-Achtelfinale-an-Bayer.html",
+          "source": "BVB.de"
         },
         {
-          "title": "BVB-Aufstellung gegen Leverkusen: Nur ein Wechsel im Verfolgerduell",
+          "title": "BVB vs. LEV 0:1: Kein Guirassy, kein Schick – und ein Schock",
           "snippet": "",
-          "url": "https://www.absolutfussball.com/deutschland/borussia-dortmund/gegen-leverkusen-beier-fragezeichen-bleibt-bvb-aufstellung-94059939.html",
-          "source": "Absolut Fußball"
+          "url": "https://www.fussballdaten.de/news/bvb-vs-lev-0-1-kein-guirassy-kein-schick-und-ein-schock-780af6fc/",
+          "source": "fussballdaten.de"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -217,10 +217,10 @@
           "source": "RSI Radiotelevisione svizzera"
         },
         {
-          "title": "Il gesto di Spalletti alla curva e la doppia partita di Locatelli: Juve-Udinese dentro lo Stadium",
+          "title": "Runjaic: “La chiave i troppi duelli persi”",
           "snippet": "",
-          "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2025/12/02-145006498/il_gesto_di_spalletti_alla_curva_e_la_doppia_partita_di_locatelli_juve-udinese_dentro_lo_stadium",
-          "source": "Tuttosport"
+          "url": "https://www.udinese.it/news/squadra/runjaic-la-chiave-i-troppi-duelli-persi",
+          "source": "Udinese"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,16 +239,16 @@
           "source": "Diario AS"
         },
         {
-          "title": "Líder también en remontadas",
+          "title": "El 1x1 del Barça ante el Atlético",
           "snippet": "",
-          "url": "https://www.marca.com/futbol/cronica/2025/12/02/lider-tambien-remontadas.html",
-          "source": "MARCA"
+          "url": "https://www.sport.es/es/noticias/barca/1x1-barca-atletico-124378408",
+          "source": "SPORT"
         },
         {
-          "title": "Barcelona - Atlético de Madrid, en directo hoy: partido de LaLiga EA Sports, en vivo",
+          "title": "Simeone vs. FC Barcelona: los entrenadores con menos victorias ante un mismo rival",
           "snippet": "",
-          "url": "https://www.sport.es/es/noticias/barca/barcelona-atletico-madrid-directo-hoy-vivo-124366979",
-          "source": "SPORT"
+          "url": "https://www.transfermarkt.es/simeone-vs-fc-barcelona-los-entrenadores-con-menos-victorias-ante-un-mismo-rival/view/news/463657",
+          "source": "Transfermarkt"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,26 +257,26 @@
       "title": "fulham - manchester city",
       "trafficCount": "2000+",
       "pubDate": "Tue, 2 Dec 2025 10:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGsD3Diz4kenhlIrTClmtir82idYEP0vj2OEUaHfecEAaxyGrZ5tKF0RiTFi8",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCF3P4_Ae1sdXVK0ih-nfBKzlQG0hLv3XOCfu_z1-ys5isPSQ0z9htRBmgBj4",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Fulham vs Manchester City: Premier League preview, team news, stats & head-to-head",
+          "title": "Fulham 4-5 Man City: Erling Haaland breaks 100 goals record in nine-goal thriller",
           "snippet": "",
           "url": "https://www.bbc.com/sport/football/live/clykgyyz474t",
           "source": "BBC"
-        },
-        {
-          "title": "Fulham-Man City and Bournemouth-Everton underway, Newcastle-Spurs to come",
-          "snippet": "",
-          "url": "https://onefootball.com/en/news/fulham-man-city-and-bournemouth-everton-underway-newcastle-spurs-to-come-42038156",
-          "source": "OneFootball"
         },
         {
           "title": "\"I'm just sick of Pep now\", \"We are losing\" - Manchester City fans react as star left out of XI for PL clash against Fulham",
           "snippet": "",
           "url": "https://www.sportskeeda.com/football/news-i-m-just-sick-pep-now-we-losing-manchester-city-fans-react-star-left-xi-pl-clash-fulham",
           "source": "Sportskeeda"
+        },
+        {
+          "title": "Fulham vs Man City predictions: Backing Pep’s Cityzens once again",
+          "snippet": "",
+          "url": "https://www.goal.com/en-ca/betting/fulham-vs-man-city-predictions-12-02/bltdafbb3b23f27831d",
+          "source": "Goal.com"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-12-02 04:33:14",
+  "lastUpdate": "2025-12-02 04:53:22",
   "data": [
+    {
+      "title": "прогноз погоды",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 1 Dec 2025 20:30:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMyFQIUHUc5hIpgQ693_g1XdkGsoQ7cCaoWh5tfrLmj27emQnbyOXs9uRiCKE",
+      "pictureSource": "Українська правда",
+      "relatedSearch": [
+        {
+          "title": "Во вторник в Украине будет дождливо, в дальнейшем – без осадков",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/rus/news/2025/12/01/8009770/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "Декабрьская аномалия. Какой погоды ждать в первую зимнюю неделю и принесет ли Святой Николай украинцам снег",
+          "snippet": "",
+          "url": "https://nv.ua/ukraine/events/pogoda-v-dekabre-2025-sinoptik-predupredila-ob-anomaliyah-i-gde-budet-12-na-nikolaya-v-ukraine-50564979.html",
+          "source": "NV.ua"
+        },
+        {
+          "title": "Аномально теплый декабрь в Украине: синоптики рассказали детали",
+          "snippet": "",
+          "url": "https://112.ua/ru/sucilna-anomalia-sinoptiki-sokuvali-prognozom-pogodi-na-persij-tizden-grudna-116684",
+          "source": "112.ua"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "отключение света днепр",
       "trafficCount": "500+",
@@ -39,46 +67,12 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "зимова 1000",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 1 Dec 2025 18:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqUG5rGiEzUxtDHWCeom0d0vgFnfq3ryGjdfkT9eaT9PMQUb7fGEmTdzMK3os",
-      "pictureSource": "Дія",
-      "relatedSearch": [
-        {
-          "title": "Зимова 1 000 грн: українці подали 11+ млн заяв у Дії",
-          "snippet": "",
-          "url": "https://diia.gov.ua/news/zymova-1-000-hrn-ukraintsi-podaly-11-mln-zaiav-u-dii",
-          "source": "Дія"
-        },
-        {
-          "title": "В Україні стартує друга хвиля виплат \"Зимової підтримки\": хто отримає 1000 гривень",
-          "snippet": "",
-          "url": "https://www.rbc.ua/rus/news/ukrayini-startue-druga-hvilya-viplat-zimovoyi-1764577100.html",
-          "source": "РБК-Україна"
-        },
-        {
-          "title": "Скільки українців отримали \"тисячу Зеленського\" та на що витрачають",
-          "snippet": "",
-          "url": "https://tsn.ua/groshi/skilky-ukrayintsiv-otrymaly-tysiachu-zelenskoho-ta-na-shcho-vytrachaiut-2968532.html",
-          "source": "ТСН"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "графіки відключень електроенергії",
       "trafficCount": "500+",
       "pubDate": "Mon, 1 Dec 2025 17:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdN354KTGsgFwfP3TfltSjch1Yl8hPVx1xZDu5OQYMjmghSBY1AooEYFUZXyU",
-      "pictureSource": "УНІАН",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThzmPGYJiuzQaYAOloeqxnaoadHnL-R_xTDN1Wnot_ULNOcgPqE1BrQ__piH0",
+      "pictureSource": "Суспільне | Новини",
       "relatedSearch": [
-        {
-          "title": "В Україні 2 грудня вимикатимуть світло: коли не буде електроенергії у вівторок",
-          "snippet": "",
-          "url": "https://www.unian.ua/economics/energetics/grafiki-2-grudnya-koli-vidklyuchatimut-svitlo-u-vivtorok-13213698.html",
-          "source": "УНІАН"
-        },
         {
           "title": "Графіки погодинних відключень електроенергії на Івано-Франківщині 2 грудня",
           "snippet": "",
@@ -86,9 +80,15 @@
           "source": "Суспільне | Новини"
         },
         {
-          "title": "Київщина: графіки відключення світла 2 грудня 2025 року",
+          "title": "В Україні 2 грудня вимикатимуть світло: коли не буде електроенергії у вівторок",
           "snippet": "",
-          "url": "https://glavcom.ua/kyiv/news/kijivshchina-hrafiki-vidkljuchennja-svitla-2-hrudnja-2025-roku-1091031.html",
+          "url": "https://www.unian.ua/economics/energetics/grafiki-2-grudnya-koli-vidklyuchatimut-svitlo-u-vivtorok-13213698.html",
+          "source": "УНІАН"
+        },
+        {
+          "title": "Київ: графіки відключення світла 2 грудня 2025 року",
+          "snippet": "",
+          "url": "https://glavcom.ua/kyiv/news/kijiv-hrafiki-vidkljuchennja-svitla-2-hrudnja-2025-roku-1091036.html",
           "source": "Главком"
         }
       ],
@@ -136,16 +136,16 @@
           "source": "Суспільне | Новини"
         },
         {
-          "title": "Багатскіс: Найважливіше, що ми розпочали спринт у відборі перемогами",
-          "snippet": "",
-          "url": "https://www.ukrinform.ua/rubric-sports/4064717-bagatskis-najvazlivise-so-mi-rozpocali-sprint-u-vidbori-dvoma-peremogami.html",
-          "source": "Укрінформ"
-        },
-        {
           "title": "Фантастичний Ковляр приніс Україні перемогу над Данією в другому турі відбору до ЧС-2027",
           "snippet": "",
           "url": "https://champion.com.ua/ukr/basketball/fantastichniy-kovlyar-prinis-ukrajini-peremogu-nad-daniyeyu-v-drugomu-turi-vidboru-do-chs-2027-1057278/",
           "source": "Champion.com.ua"
+        },
+        {
+          "title": "Багатскіс: Найважливіше, що ми розпочали спринт у відборі перемогами",
+          "snippet": "",
+          "url": "https://www.ukrinform.ua/rubric-sports/4064717-bagatskis-najvazlivise-so-mi-rozpocali-sprint-u-vidbori-dvoma-peremogami.html",
+          "source": "Укрінформ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -164,16 +164,16 @@
           "source": "Міністерство оборони України"
         },
         {
+          "title": "Генштаб ЗСУ: армія РФ втратила у війні близько 1 175 030 військових",
+          "snippet": "",
+          "url": "https://www.radiosvoboda.org/a/news-rosia-vtraty/33610626.html",
+          "source": "Радіо Свобода"
+        },
+        {
           "title": "Російська армія за добу втратила на війні проти України 1060 загарбників",
           "snippet": "",
           "url": "https://www.ukrinform.ua/rubric-ato/4064642-rosijska-armia-za-dobu-vtratila-na-vijni-proti-ukraini-1060-zagarbnikiv.html",
           "source": "Укрінформ"
-        },
-        {
-          "title": "Росія втратила за добу ще 1060 військових – Генштаб ЗСУ",
-          "snippet": "",
-          "url": "https://www.radiosvoboda.org/a/news-genshtab-zsu-vtraty-rf/33609688.html",
-          "source": "Радіо Свобода"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -238,26 +238,26 @@
       "title": "новости россии",
       "trafficCount": "200+",
       "pubDate": "Mon, 1 Dec 2025 16:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQojL6f1zj-Hvzc_W5MxdcMznR8zh4Layqs70_bBtw5SsyvwnHGcO3_ShIvCs",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdF1UdVlj_HkMla9nARAibZpL3PLTdOM1vrt38_cWTeSUl-rNz1uWfHDq9kJo",
       "pictureSource": "Українська правда",
       "relatedSearch": [
         {
-          "title": "Путин накануне визита Уиткоффа заявил о якобы оккупации Волчанска. В ЦПД опровергают",
+          "title": "ПВО обезвредила более 60 российских дронов, есть попадания на 9 локациях",
           "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2025/12/02/8009876/",
+          "url": "https://www.pravda.com.ua/rus/news/2025/12/01/8009726/",
           "source": "Українська правда"
         },
         {
-          "title": "РФ заявила о захвате Покровска и Волчанска, Украина отрицает",
+          "title": "Российские войска ночью атаковали Украину почти 90 дронами, есть попадания 26 БпЛА",
           "snippet": "",
-          "url": "https://www.dw.com/ru/rossia-zaavila-o-zahvate-pokrovska-i-volcanska-ukraina-otricaet/a-74975562",
-          "source": "DW"
+          "url": "https://nv.ua/ukraine/events/vozdushnye-sily-soobshchili-ob-atake-89-dronami-rf-i-popadanii-26-shahedov-1-dekabrya-50564811.html",
+          "source": "NV.ua"
         },
         {
-          "title": "Путин поручил создать \"зону безопасности\" вдоль границы с Украиной",
+          "title": "Россия атаковала Украину почти 90 БпЛА, часть из них запускали с мыса Чауда в Крыму – ВС ВСУ",
           "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/putin-doruchiv-stvoriti-zonu-bezpeki-vzdovzh-1764625238.html",
-          "source": "РБК-Україна"
+          "url": "https://ru.krymr.com/a/news-rossiya-ataka-ukraina-90-bpla-mys-chauda-krym/33609835.html",
+          "source": "Крым.Реалии"
         }
       ],
       "link": "https://imtaqin.id/"

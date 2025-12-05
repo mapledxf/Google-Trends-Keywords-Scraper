@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-12-05 14:19:39",
+  "lastUpdate": "2025-12-05 14:40:58",
   "data": [
     {
       "title": "warner bros",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 5 Dec 2025 05:30:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSoz5o9ne8dlJYrMOMoqtIDWIfuZeYPv250ecXlBAdUDR5eF8djt7GcuhJrgO8",
       "pictureSource": "BBC",
@@ -25,6 +25,34 @@
           "snippet": "",
           "url": "https://news.sky.com/story/netflix-agrees-blockbuster-72bn-deal-for-warner-bros-studios-13479683",
           "source": "Sky News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "dublin weather",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 5 Dec 2025 05:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3WOoRbQtrovDNGqvHcnMnEcB_KGuqoS-3NZdLJWI8FyISgGgUeWQeEQFrcjg",
+      "pictureSource": "The Irish Times",
+      "relatedSearch": [
+        {
+          "title": "Met Éireann forecasts colder weather to be replaced by mild and wet conditions",
+          "snippet": "",
+          "url": "https://www.irishtimes.com/ireland/2025/11/26/milder-days-forecast-with-widespread-rain-and-drizzle/",
+          "source": "The Irish Times"
+        },
+        {
+          "title": "Dublin weather rollercoaster as Met Eireann pinpoints exact moments of change",
+          "snippet": "",
+          "url": "https://www.dublinlive.ie/news/dublin-news/dublinweather-today-tomorrow-meteireann-forecast-32989309",
+          "source": "Dublin Live"
+        },
+        {
+          "title": "Cloudy and dull today, with outbreaks of rain and drizzle for Donegal today",
+          "snippet": "",
+          "url": "https://www.letterkennylive.ie/news/weather/1952447/cloudy-and-dull-today-with-outbreaks-of-rain-and-drizzle-for-donegal-today.html",
+          "source": "Letterkenny Live"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,20 +89,20 @@
       "title": "world cup draw",
       "trafficCount": "500+",
       "pubDate": "Fri, 5 Dec 2025 03:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLYDjxJ6jzpVxTfjbIvChfQm2VdSYOk2ibYqHIZ9IU1ZXCneGULXKg_ah2cM0",
-      "pictureSource": "The Guardian",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNqCXCgzg574EqwKZ5MSPRUzqMDNeQoPBH1M-y21AlojDQRCmSvWmfHvrzedY",
+      "pictureSource": "RTE.ie",
       "relatedSearch": [
-        {
-          "title": "World Cup 2026 draw: updates as the teams await fate in Washington DC – live",
-          "snippet": "",
-          "url": "https://www.theguardian.com/football/live/2025/dec/05/world-cup-2026-draw-updates-usa-mexico-canada",
-          "source": "The Guardian"
-        },
         {
           "title": "FIFA World Cup draw: All you need to know",
           "snippet": "",
           "url": "https://www.rte.ie/sport/2025/1204/1547253-world-cup-play-off-draw-explained/",
           "source": "RTE.ie"
+        },
+        {
+          "title": "World Cup 2026 draw: updates as the teams await fate in Washington DC – live",
+          "snippet": "",
+          "url": "https://www.theguardian.com/football/live/2025/dec/05/world-cup-2026-draw-updates-usa-mexico-canada",
+          "source": "The Guardian"
         },
         {
           "title": "USA, Australia and South Africa? The best and worst groups Ireland could get in Friday’s World Cup draw",
@@ -99,16 +127,16 @@
           "source": "BBC"
         },
         {
-          "title": "Edinburgh airport resumes flights after services suspended due to IT problem",
-          "snippet": "",
-          "url": "https://www.theguardian.com/world/2025/dec/05/edinburgh-airport-suspends-flights-it-problem-air-traffic-control",
-          "source": "The Guardian"
-        },
-        {
           "title": "Flights halted as IT issue hits air traffic control at Edinburgh Airport",
           "snippet": "",
           "url": "https://www.breakingnews.ie/world/flights-halted-as-it-issue-hits-air-traffic-control-at-edinburgh-airport-1838344.html",
           "source": "BreakingNews.ie"
+        },
+        {
+          "title": "Flights resume at Edinburgh Airport after IT issue",
+          "snippet": "",
+          "url": "https://www.rte.ie/news/2025/1205/1547439-edinburgh-airport-flights-suspended/",
+          "source": "RTE.ie"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,10 +155,10 @@
           "source": "The Irish Independent"
         },
         {
-          "title": "Rain and wind warnings issued for south and east throughout Friday",
+          "title": "Difficult driving conditions as rain, wind alerts issued",
           "snippet": "",
-          "url": "https://www.irishtimes.com/ireland/2025/12/05/rain-and-wind-warnings-issued-for-south-and-east-throughout-friday/",
-          "source": "The Irish Times"
+          "url": "https://www.rte.ie/news/regional/2025/1205/1547418-met-eireann/",
+          "source": "RTE.ie"
         },
         {
           "title": "Met Éireann issues dual weather warnings as heavy rain and strong winds hit south and east",
@@ -155,16 +183,16 @@
           "source": "CNBC"
         },
         {
-          "title": "Shopify outage disrupts some merchants on Cyber Monday",
+          "title": "Is Shopify down? Users report Cloudflare outage affecting big brands",
           "snippet": "",
-          "url": "https://www.cbsnews.com/news/shopify-outage-cyber-monday-shopping/",
-          "source": "CBS News"
+          "url": "https://uk.news.yahoo.com/shopify-down-users-report-massive-093308264.html",
+          "source": "Yahoo News UK"
         },
         {
-          "title": "Shopify Issues Black Friday E-Commerce Report, Hit With Outage On Cyber Monday",
+          "title": "Shopify resolves login issues that impacted thousands of users on Cyber Monday",
           "snippet": "",
-          "url": "https://www.investors.com/news/technology/shopify-stock-black-friday-ecommerce-report/",
-          "source": "Investor's Business Daily"
+          "url": "https://www.reuters.com/business/retail-consumer/shopify-down-thousands-users-cyber-monday-2025-12-01/",
+          "source": "Reuters"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,9 +211,9 @@
           "source": "RTE.ie"
         },
         {
-          "title": "RTÉ shuffles presenter roles with Sarah McInerney moving to Morning Ireland",
+          "title": "Elevation to Six One slot makes Tommy Meskill a big winner in latest RTÉ rejig",
           "snippet": "",
-          "url": "https://www.irishtimes.com/culture/tv-radio/2025/12/05/rte-shuffles-presenter-roles-with-sarah-mcinerney-moving-to-morning-ireland/",
+          "url": "https://www.irishtimes.com/culture/tv-radio/2025/12/05/elevation-to-six-one-slot-makes-tommy-meskill-a-big-winner-in-latest-rte-rejig/",
           "source": "The Irish Times"
         },
         {
@@ -245,38 +273,10 @@
           "source": "CBS Sports"
         },
         {
-          "title": "DraftKings Promo Code: Claim $200 Bonus For Cowboys-Lions, Get $300 MO Launch Offer",
+          "title": "Thursday Night Football tonight: FanDuel Missouri promo code extends $300 bonus for Lions vs. Cowboys",
           "snippet": "",
-          "url": "https://www.newsweek.com/sports/betting/draftkings-promo-code-claim-200-bonus-for-cowboys-lions-get-300-mo-launch-offer-11159344",
-          "source": "Newsweek"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "cloudflare",
-      "trafficCount": "5000+",
-      "pubDate": "Fri, 5 Dec 2025 00:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2cxKIQVFZdNtGx5s5TqlT-r-G-OkBSunk3k-QJeHST59tMDPmCAXFG_Ad80I",
-      "pictureSource": "RTE.ie",
-      "relatedSearch": [
-        {
-          "title": "Global websites down as Cloudflare probe fresh issues",
-          "snippet": "",
-          "url": "https://www.rte.ie/news/world/2025/1205/1547438-cloudflare/",
-          "source": "RTE.ie"
-        },
-        {
-          "title": "Cloudflare: 'Large number of empty pages' on several websites after internet outage",
-          "snippet": "",
-          "url": "https://news.sky.com/story/cloudflare-large-number-of-empty-pages-on-several-websites-after-internet-outage-13479620",
-          "source": "Sky News"
-        },
-        {
-          "title": "Cloudflare outage: Widespread disruption on a large number of websites",
-          "snippet": "",
-          "url": "https://www.independent.ie/business/technology/cloudflare-outage-widespread-disruption-on-a-large-number-of-websites/a1154080472.html",
-          "source": "The Irish Independent"
+          "url": "https://www.syracuse.com/betting/2025/12/thursday-night-football-tonight-fanduel-missouri-promo-code-extends-300-bonus-for-lions-vs-cowboys.html",
+          "source": "Syracuse.com"
         }
       ],
       "link": "https://imtaqin.id/"

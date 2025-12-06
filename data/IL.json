@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-06 05:34:18",
+  "lastUpdate": "2025-12-06 05:45:10",
   "data": [
     {
       "title": "מזג אוויר",
@@ -15,16 +15,16 @@
           "source": "ynet"
         },
         {
+          "title": "מזג אוויר טרופי: חם מהרגיל עם גשמים שירדו משעות הצהריים",
+          "snippet": "",
+          "url": "https://www.mako.co.il/news-weather/2025_q4/Article-8681a74ed61fa91026.htm",
+          "source": "mako"
+        },
+        {
           "title": "תחזית מזג האוויר לסוף השבוע: חם מהרגיל ויבש, גשם בשבת",
           "snippet": "",
           "url": "https://www.haaretz.co.il/news/weather/2025-12-04/ty-article/0000019a-e9a1-d578-a3bb-fdbfe4ad0000",
           "source": "הארץ"
-        },
-        {
-          "title": "לקראת הסערה: אלה הכבישים שייחסמו ממחר",
-          "snippet": "",
-          "url": "https://www.srugim.co.il/1272325-%D7%9C%D7%A7%D7%A8%D7%90%D7%AA-%D7%94%D7%A1%D7%A2%D7%A8%D7%94-%D7%90%D7%9C%D7%94-%D7%94%D7%9B%D7%91%D7%99%D7%A9%D7%99%D7%9D-%D7%A9%D7%99%D7%99%D7%97%D7%A1%D7%9E%D7%95-%D7%9E%D7%9E%D7%97%D7%A8",
-          "source": "סרוגים"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,9 +33,15 @@
       "title": "weather",
       "trafficCount": "2000+",
       "pubDate": "Fri, 5 Dec 2025 20:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1BmnO75mCdSmvrIuhJbvc13krlnxgSLP8we8U85ZzM6dXjGj2FkdHmPEbBUw",
-      "pictureSource": "Focus Taiwan",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQredjnqN4Y7av8xKjrutJX23Nxcn5ff8hsLpJKWCZcgbqifHnY3nTCn6r8bV0",
+      "pictureSource": "WLWT",
       "relatedSearch": [
+        {
+          "title": "Potential for wintry weather in Cincinnati Sunday",
+          "snippet": "",
+          "url": "https://www.wlwt.com/article/potential-for-wintry-weather-in-cincinnati-sunday/69649772",
+          "source": "WLWT"
+        },
         {
           "title": "Taiwan to warm up this weekend before cooler weather returns",
           "snippet": "",
@@ -47,12 +53,6 @@
           "snippet": "",
           "url": "https://www.taipeitimes.com/News/taiwan/archives/2025/12/04/2003848314",
           "source": "Taipei Times"
-        },
-        {
-          "title": "Taiwan’s Yushan records minus 4°C as cold front hits",
-          "snippet": "",
-          "url": "https://news.tvbs.com.tw/english/3062628",
-          "source": "TVBS新聞網"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -87,7 +87,7 @@
     },
     {
       "title": "deni avdija",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 5 Dec 2025 19:20:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgBZuYkYM1OaMGY33eaUC2KvCnNPavZI59y7027ui4NmrXHgtZSt-dDziNKmc",
       "pictureSource": "NBA",

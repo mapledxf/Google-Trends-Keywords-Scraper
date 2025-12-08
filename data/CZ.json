@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-12-08 09:01:53",
+  "lastUpdate": "2025-12-08 09:37:02",
   "data": [
     {
       "title": "pegasus",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 8 Dec 2025 00:00:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5Hm1ywq7XcwRR6Rjvgu4Oi68dQEku1SAxvf2QL-WdBAYIEPzF8GTb5qWTbLA",
       "pictureSource": "CNBC-e",
@@ -33,9 +33,15 @@
       "title": "smartwings",
       "trafficCount": "500+",
       "pubDate": "Sun, 7 Dec 2025 23:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1qDyney9c2Li8DZW43hZNqMHtV8DzQBdbVAEMREZmlJX5AuzeiaEbN7CF-bU",
-      "pictureSource": "Zdopravy.cz",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRx2N-66teuhEmy1hf8p4Tf_Lt_RDfOgiUZ-D6RbCBy9NDmuJErGKwlNpluY3U",
+      "pictureSource": "Novinky",
       "relatedSearch": [
+        {
+          "title": "Turci přebírají ČSA a Smartwings",
+          "snippet": "",
+          "url": "https://www.novinky.cz/clanek/ekonomika-firmu-csa-zrejme-koupi-turecke-aerolinky-pegasus-40552300",
+          "source": "Novinky"
+        },
         {
           "title": "Chaos kolem prodeje Smartwings. Nabídku LOTu měli na poslední chvíli přeplatit Turci, zní z Polska",
           "snippet": "",
@@ -47,12 +53,6 @@
           "snippet": "",
           "url": "https://www.idnes.cz/ekonomika/doprava/smartwings-pegasus-airlines.A251208_085844_eko-doprava_ven",
           "source": "iDNES.cz"
-        },
-        {
-          "title": "Šimáně neprodá Smartwings polskému LOT, ale turecké nízkonákladovce. Šokující obrat, píší polská média",
-          "snippet": "",
-          "url": "https://www.e15.cz/byznys/doprava-a-logistika/simane-neproda-smartwings-polskemu-lot-ale-turecke-nizkonakladovce-sokujici-obrat-pisi-polska-media-1429380",
-          "source": "E15.cz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -87,8 +87,36 @@
     },
     {
       "title": "evropa 2",
-      "trafficCount": "10000+",
+      "trafficCount": "5000+",
       "pubDate": "Sun, 7 Dec 2025 20:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_k5c3mhhFCDlCZoIMcqqUjKDJnxn-AmGuDoR6IXQf_Cspok-PnZZAkv8zeIU",
+      "pictureSource": "TN.cz",
+      "relatedSearch": [
+        {
+          "title": "Zdrcený Leoš Mareš nepřišel do práce. Chystá se pohřeb Hezuckého",
+          "snippet": "",
+          "url": "https://tn.nova.cz/zpravodajstvi/clanek/635814-zdrceny-leos-mares-neprisel-do-prace-chysta-se-pohreb-hezuckeho",
+          "source": "TN.cz"
+        },
+        {
+          "title": "První Ranní show po odchodu Hezuckého: Mareš nevysílá. Prozradili datum rozloučení",
+          "snippet": "",
+          "url": "https://cnn.iprima.cz/prvni-ranni-show-po-odchodu-hezuckeho-mares-nevysila-prozradili-datum-posledniho-rozlouceni-493900",
+          "source": "CNN Prima NEWS"
+        },
+        {
+          "title": "Ranní show Evropy 2 se vrátí v pátek, zařazuje i Mrázek, ústředna",
+          "snippet": "",
+          "url": "https://www.mediaguru.cz/clanky/2025/12/ranni-show-evropy-2-se-vrati-v-patek-zarazuje-i-mrazek-ustredna/",
+          "source": "MediaGuru"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "radio evropa 2",
+      "trafficCount": "2000+",
+      "pubDate": "Sun, 7 Dec 2025 20:40:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsU9303eCQ1IYcxEgyij4caEKdmnLipL61pmYg9vBdFKoni56DayH8Y8BhQrE",
       "pictureSource": "iDNES.cz",
       "relatedSearch": [
@@ -99,16 +127,16 @@
           "source": "iDNES.cz"
         },
         {
-          "title": "Kolegové ukázali prázdný stůl Patrika Hezuckého. Osiřelé místo vhání slzy do očí",
-          "snippet": "",
-          "url": "https://www.super.cz/clanek/celebrity-nejen-pieta-pred-radiem-kolegove-ukazali-prazdny-stul-patrika-hezuckeho-osirele-misto-se-svickou-a-ruzi-1520259",
-          "source": "Super.cz"
-        },
-        {
           "title": "Nádor našli na poslední chvíli. Hezucká prozradila příčinu Patrikovy smrti",
           "snippet": "",
           "url": "https://tn.nova.cz/zpravodajstvi/clanek/635770-nador-nasli-na-posledni-chvili-hezucka-prozradila-pricinu-patrikovy-smrti",
           "source": "TN.cz"
+        },
+        {
+          "title": "Loučení s Hezuckým: Kolegové vydali dojemné video, vzkaz poslala i manželka",
+          "snippet": "",
+          "url": "https://www.denik.cz/z_domova/patrik-hezucky-louceni-evropa-2-video-vzkaz-manzelka.html",
+          "source": "Deník.cz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,15 +229,9 @@
       "title": "реал мадрид – сельта",
       "trafficCount": "500+",
       "pubDate": "Sun, 7 Dec 2025 11:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTd5UKL__mdcIVUpZn0tZMYawVS_31AG1hyuSnyfV371SFMzMgIC9zPfFiuGHs",
-      "pictureSource": "Fondoruso.ru",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGO7QXyEKDXmGuWyObIW0bVk52E5K549ZNEcYl2eDzTMyK9EyVv699m5Am83o",
+      "pictureSource": "Smartpress.by",
       "relatedSearch": [
-        {
-          "title": "«Реал Мадрид» – «Сельта» 0-2. Ночь жарких споров",
-          "snippet": "",
-          "url": "https://fondoruso.ru/news/25483-real-madrid-selta-0-2-noch-zharkix-sporov/",
-          "source": "Fondoruso.ru"
-        },
         {
           "title": "“Реал” сенсационно проиграл и отпустил “Барселону” уже на четыре очка в чемпионате Испании",
           "snippet": "",
@@ -217,9 +239,15 @@
           "source": "Smartpress.by"
         },
         {
-          "title": "Хаби Алонсо резко раскритиковал решения судьи",
+          "title": "“Реал“ отпустил “Барселону“ после матча с тремя красными карточками",
           "snippet": "",
-          "url": "https://zamin.uz/ru/sport/174434-khabi-alonso-rezko-raskritikoval-resheniya-sudi.html",
+          "url": "https://tengrisport.kz/champions-league/real-otpustil-barselonu-matcha-tremya-krasnyimi-kartochkami-587480/",
+          "source": "Tengri Sport"
+        },
+        {
+          "title": "«Реал Мадрид» уступил «Сельте» (видео)",
+          "snippet": "",
+          "url": "https://zamin.uz/ru/sport/174394-real-madrid-ustupil-selte-video.html",
           "source": "Zamin.uz"
         }
       ],
@@ -247,36 +275,8 @@
         {
           "title": "Neapol zvládla šlágr proti Juventusu a vede Serii A, AS Řím nečekaně padlo na hřišti Cagliari",
           "snippet": "",
-          "url": "https://www.livesport.cz/zpravy/fotbal-serie-a-neapol-zvladla-slagr-proti-juventusu-a-vede-serii-a-as-rim-necekane-padlo-na-hristi-cagliari/SAxtu2o1/",
+          "url": "https://www.livesport.cz/zpravy/fotbal-serie-a-cremonese-v-serii-a-pridalo-druhou-vyhru-v-rade-as-necekane-padlo-na-hristi-cagliari/SAxtu2o1/",
           "source": "Livesport"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "slaven bilic",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 7 Dec 2025 11:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxHa6M5GooKihARrx70OSYrKF4ZldPTuNNQqg2p_Bl7umHCATUrFIflCtMmBo",
-      "pictureSource": "Sport.cz",
-      "relatedSearch": [
-        {
-          "title": "Fotbalová reprezentace má nového adepta na trenéra, Slavia nabízí pomoc",
-          "snippet": "",
-          "url": "https://www.sport.cz/clanek/fotbal-reprezentace-fotbalova-reprezentace-ma-noveho-adepta-na-trenera-slavia-nabizi-pomoc-5353232",
-          "source": "Sport.cz"
-        },
-        {
-          "title": "Adept pro fotbalovou reprezentaci: vedle Trpišovského je jím chorvatský kouč Bilič",
-          "snippet": "",
-          "url": "https://www.idnes.cz/fotbal/mistrovstvi-sveta-ve-fotbale/trener-slaven-bilic-ceska-reprezentace-spekulace.A251207_195039_ms-fotbal_min",
-          "source": "iDNES.cz"
-        },
-        {
-          "title": "Trpišovský, nebo utajený cizinec. Zjistili jsme druhé jméno z výběru kouče nároďáku",
-          "snippet": "",
-          "url": "https://sport.aktualne.cz/fotbal/trpisovsky-nebo-znamy-kouc-z-chorvatska-jak-vypada-utajeny-v/r~7e059014d1e611f0b553ac1f6b220ee8/",
-          "source": "Aktuálně"
         }
       ],
       "link": "https://imtaqin.id/"

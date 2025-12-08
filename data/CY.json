@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2025-12-08 04:38:10",
+  "lastUpdate": "2025-12-08 04:57:00",
   "data": [
     {
-      "title": "الطقس",
+      "title": "weather",
       "trafficCount": "1000+",
+      "pubDate": "Sun, 7 Dec 2025 20:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7A10bprtuG2tKLxjjmJBsB82Mr9TVPYgU89fsn0mjiHBqtMPJnxMhLuZAS9w",
+      "pictureSource": "WLKY",
+      "relatedSearch": [
+        {
+          "title": "Impact Weather: Chance for some light snow tonight",
+          "snippet": "",
+          "url": "https://www.wlky.com/article/impact-weather-chance-for-some-light-snow-tonight/69657399",
+          "source": "WLKY"
+        },
+        {
+          "title": "Is December starting off colder than normal?",
+          "snippet": "",
+          "url": "https://www.wkbn.com/weather/is-december-starting-off-colder-than-normal/",
+          "source": "WKBN.com"
+        },
+        {
+          "title": "From frigid air, to the potential for snow this weekend",
+          "snippet": "",
+          "url": "https://www.wfmj.com/story/53299506/from-frigid-air-to-the-potential-for-snow-this-weekend",
+          "source": "WFMJ.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "الطقس",
+      "trafficCount": "500+",
       "pubDate": "Sun, 7 Dec 2025 20:10:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJKWLLEFdjRVRcEwW3a4naTkQL2xcKfyTFqk_uk5aw18_kZalnp_2TXqE0APk",
       "pictureSource": "sports-leb",
@@ -21,10 +49,10 @@
           "source": "غربة نيوز"
         },
         {
-          "title": "الجو بكرة.. الأرصاد تحذر من أمطار رعدية ومتوسطة في مناطق معينة",
+          "title": "توقعات طقس الغد.. تراجع درجات الحرارة مع أمطار وشبورة والعظمى بالقاهرة 21 والصغرى 12",
           "snippet": "",
-          "url": "https://www.arabsvoice.net/main-news/%D8%A7%D9%84%D8%AC%D9%88-%D8%A8%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D8%B1%D8%B9%D8%AF%D9%8A%D8%A9/",
-          "source": "صوت العرب"
+          "url": "https://gateeg.com/news/%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D8%AA-%D8%B7%D9%82%D8%B3-%D8%A7%D9%84%D8%BA%D8%AF-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D9%85%D8%B9/",
+          "source": "بوابة مصر"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -43,16 +71,16 @@
           "source": "Diario AS"
         },
         {
-          "title": "Alerta Roja En El Madrid: Así Está El Panorama En La Liga De Las Estrellas",
+          "title": "Un doblete de Williot silenció al Santiago Bernabéu",
           "snippet": "",
-          "url": "https://www.lared1061.com/futbol-internacional/alerta-roja-en-el-madrid-asi-esta-el-panorama-en-la-liga-de-las-estrellas/",
-          "source": "La Red 106.1 FM"
+          "url": "https://fdpradio.com/un-doblete-de-williot-silencio-al-santiago-bernabeu/",
+          "source": "FDP Radio"
         },
         {
-          "title": "El Real Madrid se desangra en el Bernabéu y Xabi Alonso acaba desesperado: el Barça, más líder",
+          "title": "Otro pinchazo de Real Madrid en Liga española",
           "snippet": "",
-          "url": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20251207/real-madrid-bernabeu-desesperacion-xabi-alonso-barca/1003742714270_0.html",
-          "source": "Crónica Global"
+          "url": "https://www.prensa-latina.cu/2025/12/07/otro-pinchazo-de-real-madrid-en-liga-espanola/",
+          "source": "Prensa Latina"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -199,16 +227,16 @@
           "source": "PAOKFC"
         },
         {
-          "title": "Ισόπαλο 1-1 το ντέρμπι Άρη-ΠΑΟΚ για το Κύπελλο Ελλάδας",
-          "snippet": "",
-          "url": "https://www.cna.org.cy/article/9490013/isopalo-1-1-to-nterbi-ari-paok-gia-to-kypello-elladas",
-          "source": "ΚΥΠΕ"
-        },
-        {
           "title": "Δεν βλέπει τον Άρη, βλέπει μόνον τον τίτλο",
           "snippet": "",
           "url": "https://sportime.sigmalive.com/podosfairo/ellada/superleague/530670_den-vlepei-ton-ari-vlepei-monon-ton-titlo",
           "source": "Sigmalive"
+        },
+        {
+          "title": "Πετά εκτός τετράδας τον Άρη με απίθανο buzzer beater ο ΠΑΟΚ",
+          "snippet": "",
+          "url": "https://m.24sports.com.cy/gr/sports/podosfairo/ellada/soyper-ligk/ellada-aris/peta-ektos-tetradas-ton-ari-me-apithano-buzzer-beater-o-paok",
+          "source": "24Sports"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -237,34 +265,6 @@
           "snippet": "",
           "url": "https://sportime.sigmalive.com/podosfairo/kypros/a-katigoria/530633_otan-krinoyme-oti-den-yparhei-ayti-i-prooptiki-tha-tin-kopsoyme",
           "source": "Sigmalive"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "apollon vs anorthosis",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 7 Dec 2025 08:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaIwIxvNjbRiYVqF6QNd-zMph1quyWjIMbftLebgvyptZaUtqcJ5d6Ta9Z4zc",
-      "pictureSource": "24Sports",
-      "relatedSearch": [
-        {
-          "title": "Απόλλων: Με το βλέμμα στραμμένο στα υψηλά στρώματα",
-          "snippet": "",
-          "url": "https://m.24sports.com.cy/gr/sports/podosfairo/kypros/a-katigoria/apollonas/apollon-me-to-blemma-strammeno-sta-ypsila-strwmata",
-          "source": "24Sports"
-        },
-        {
-          "title": "Κόλλησαν στο… μηδέν και συμβιβάστηκαν με το βαθμό Απόλλωνας και Ανόρθωση (ΒΙΝΤΕΟ)",
-          "snippet": "",
-          "url": "https://www.alphanews.live/sports/oi-endekades-sto-apollonas-anorthosi-1500/",
-          "source": "AlphaNews"
-        },
-        {
-          "title": "Η Αστυνομία για το Απόλλων-Ανόρθωση",
-          "snippet": "",
-          "url": "https://www.offsite.com.cy/eidiseis/athlitika/i-astynomia-gia-apollon-anorthosi",
-          "source": "Offsite News"
         }
       ],
       "link": "https://imtaqin.id/"

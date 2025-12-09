@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-12-09 14:29:05",
+  "lastUpdate": "2025-12-09 14:49:26",
   "data": [
     {
       "title": "inigo pbb",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 9 Dec 2025 05:50:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_tyYzcdqniscCTsvcaQAyQI_2b_XUltvYtZfPly4NHIzLbs8jHU9vNB4UGhY",
       "pictureSource": "ABS-CBN",
@@ -25,7 +25,7 @@
     },
     {
       "title": "india vs south africa",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 9 Dec 2025 05:30:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_eqcg2hvULxh70kv82i59oiLUPNeF3FgQNVS88HNsVJO9UFjPPulka4BguqQ",
       "pictureSource": "ESPNcricinfo",
@@ -83,26 +83,82 @@
       "title": "sea games",
       "trafficCount": "200+",
       "pubDate": "Tue, 9 Dec 2025 04:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Z1Nyjkou_3EgJcPlfwyAPFy0DC_7L1mBLHTaL1x7RwhADOOwk7P6fiJQhHQ",
-      "pictureSource": "Philippine News Agency",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdCyXjwC2NzQBnaV9XrGN1E2yiPV8nnGMKt43LvU8Bfvm2Pyl83UCZZt3jWG4",
+      "pictureSource": "Inquirer.net",
       "relatedSearch": [
         {
-          "title": "Eala-led SEA Games squad out to finish stronger in Thailand",
+          "title": "SEA Games: PH beats Indonesia in men’s football, reaches semis",
           "snippet": "",
-          "url": "https://www.pna.gov.ph/articles/1264759",
+          "url": "https://sports.inquirer.net/652355/sea-games-ph-beats-indonesia-in-mens-football-reaches-semis",
+          "source": "Inquirer.net"
+        },
+        {
+          "title": "Semis-bound PH booters say mission isn’t finished sans medal",
+          "snippet": "",
+          "url": "https://www.pna.gov.ph/articles/1264896",
           "source": "Philippine News Agency"
         },
         {
-          "title": "MEDAL TALLY: SEA Games 2025",
+          "title": "Football: PH men overcome Myanmar for winning start to SEA Games",
           "snippet": "",
-          "url": "https://www.rappler.com/sports/southeast-asian-games/medal-tally-december-2025/",
-          "source": "Rappler"
+          "url": "https://www.abs-cbn.com/sports/othersports/2025/12/5/football-ph-men-overcome-myanmar-for-winning-start-to-sea-games-2104",
+          "source": "ABS-CBN"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "japan earthquakes tsunami warning",
+      "trafficCount": "10000+",
+      "pubDate": "Tue, 9 Dec 2025 04:20:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ6IBxhSDE2HHIPncGOUf6q2Lkk6FUooDosilufaCYNlCJQwoSBVZWzNC-360",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Dozens injured after magnitude 7.5 quake strikes northern Japan",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c7091k5pg31o",
+          "source": "BBC"
         },
         {
-          "title": "PHL off to promising start",
+          "title": "Japan tsunami live: First megaquake warning issued after rare 7.5-magnitude tremor",
           "snippet": "",
-          "url": "https://businessmirror.com.ph/2025/12/08/phl-off-to-promising-start/",
-          "source": "BusinessMirror"
+          "url": "https://www.independent.co.uk/asia/japan/japan-earthquake-tsunami-warning-live-b2880609.html",
+          "source": "The Independent"
+        },
+        {
+          "title": "Japan issues mega-quake advisory after M7.5 tremor | NHK WORLD-JAPAN News",
+          "snippet": "",
+          "url": "https://www3.nhk.or.jp/nhkworld/en/news/20251209_02/",
+          "source": "NHKニュース"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "reddit outage",
+      "trafficCount": "5000+",
+      "pubDate": "Tue, 9 Dec 2025 04:20:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn60wVtVvuRFY5ZBNlmgYaQYcv2tFcv6qi9sKbANQj82FJntfkVACRVabLNVc",
+      "pictureSource": "NewsBytes",
+      "relatedSearch": [
+        {
+          "title": "Reddit down? Users report issues with app and website",
+          "snippet": "",
+          "url": "https://www.newsbytesapp.com/news/science/reddit-is-not-working-for-users-worldwide/story",
+          "source": "NewsBytes"
+        },
+        {
+          "title": "Reddit Outage Triggers App Freezes And 'Internal Server Error' Confusion Among Users",
+          "snippet": "",
+          "url": "https://www.news18.com/tech/is-reddit-down-users-complain-website-internal-server-error-app-freezes-and-glitches-9758491.html",
+          "source": "News18"
+        },
+        {
+          "title": "Reddit Crashes Worldwide; Users Panic, Memes Explode On X: 'My Life Is Falling Apart'",
+          "snippet": "",
+          "url": "https://www.timesnownews.com/viral/reddit-crashes-worldwide-users-panic-memes-explode-on-x-my-life-is-falling-apart-article-153265755",
+          "source": "Times Now"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -215,62 +271,6 @@
           "snippet": "",
           "url": "https://newsinfo.inquirer.net/2148384/grand-lotto-6-55-lotto-6-42-draws-end-with-no-jackpot-winner",
           "source": "Inquirer.net"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "kuya g deported",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 8 Dec 2025 22:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOGlWmfCkk_taCNQJgfGkizYNIUIbLLuE0Xyw6Xc2Xztt4KcPOL2wdVr-0OSM",
-      "pictureSource": "Philippine News Agency",
-      "relatedSearch": [
-        {
-          "title": "DFA readies assistance for Filipino set to be deported from US",
-          "snippet": "",
-          "url": "https://www.pna.gov.ph/articles/1264789",
-          "source": "Philippine News Agency"
-        },
-        {
-          "title": "Pinoy detained by ICE loses fight to stay in US",
-          "snippet": "",
-          "url": "https://globalnation.inquirer.net/301900/pinoy-detained-by-ice-loses-fight-to-stay-in-us",
-          "source": "Inquirer.net"
-        },
-        {
-          "title": "Despite toe amputation, Filipino ‘Kuya G’ deported from U.S., DFA says",
-          "snippet": "",
-          "url": "https://businessmirror.com.ph/2025/12/09/despite-toe-amputation-filipino-kuya-g-deported-from-u-s-dfa-says/",
-          "source": "BusinessMirror"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "piso seat sale cebu pacific",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 8 Dec 2025 22:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTUyiR39TmuEAtwTgXDgGIs4FhjGyHYPQOxFTHlBVK69B6LF8h5wO67_RmWSnM",
-      "pictureSource": "Inquirer.net",
-      "relatedSearch": [
-        {
-          "title": "Cebu Pacific unveils 12.12 Piso seat sale",
-          "snippet": "",
-          "url": "https://business.inquirer.net/563176/cebu-pacific-unveils-12-12-piso-seat-sale",
-          "source": "Inquirer.net"
-        },
-        {
-          "title": "Cebu Pacific Rolls Out an Early Christmas Surprise with 12.12 Seat Sale",
-          "snippet": "",
-          "url": "https://www.manilatimes.net/2025/12/08/tmt-newswire/pr-newswire/cebu-pacific-rolls-out-an-early-christmas-surprise-with-1212-seat-sale/2238599",
-          "source": "The Manila Times"
-        },
-        {
-          "title": "Cebu Pacific launches ₱1 holiday sale",
-          "snippet": "",
-          "url": "https://mb.com.ph/2025/12/08/cebu-pacific-launches-1-holiday-sale",
-          "source": "Manila Bulletin"
         }
       ],
       "link": "https://imtaqin.id/"

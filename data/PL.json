@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-11 05:31:08",
+  "lastUpdate": "2025-12-11 05:48:26",
   "data": [
     {
       "title": "pogoda tarnów",
@@ -21,10 +21,10 @@
           "source": "Śrem Nasze Miasto"
         },
         {
-          "title": "Czy będzie dzisiaj padać śnieg w Stargardzie? Zobacz, czy dziś (11.12) będzie biało",
+          "title": "Sprawdź, czy spadnie dzisiaj (11.12) śnieg w Kielcach. Prognoza pogody na najbliższe dni",
           "snippet": "",
-          "url": "https://stargard.naszemiasto.pl/czy-bedzie-dzisiaj-padac-snieg-w-stargardzie-zobacz-czy-dzis-11-12-bedzie-bialo/ar/c1p1-20823145",
-          "source": "Stargard Nasze Miasto"
+          "url": "https://kielce.naszemiasto.pl/sprawdz-czy-spadnie-dzisiaj-11-12-snieg-w-kielcach-prognoza-pogody-na-najblizsze-dni/ar/c1p1-20823061",
+          "source": "Kielce Nasze Miasto"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -59,7 +59,7 @@
     },
     {
       "title": "ewa pajor",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 10 Dec 2025 21:00:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEU1atNSMNHlYaHjTIt_GthntFMbeSmGe68RUEjzNMJc5a8kfB3R-XEEfdwkE",
       "pictureSource": "Przegląd Sportowy Onet",
@@ -87,7 +87,7 @@
     },
     {
       "title": "horoskop dzienny",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 10 Dec 2025 20:40:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkdoyZ-PPvw6-1v3IWZOHg-5oRBZ-S0UyCkNDGHi2zU62qu9I64vAEv6A8orI",
       "pictureSource": "Vogue Polska",
@@ -143,37 +143,50 @@
     },
     {
       "title": "pogoda gdynia",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 10 Dec 2025 20:20:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKlpbvYcyKRzKOx1LEwXt0J60lzxHb3PRgxUDW5iJG228aeo3iKiXPwh9ZDHc",
+      "pictureSource": "Gdynia Nasze Miasto",
+      "relatedSearch": [
+        {
+          "title": "Pogoda tygodniowa dla Gdyni. Sprawdź, jaka pogoda będzie od jutra (12.12) do środy",
+          "snippet": "",
+          "url": "https://gdynia.naszemiasto.pl/pogoda-tygodniowa-dla-gdyni-sprawdz-jaka-pogoda-bedzie-od-jutra-12-12-do-srody/ar/c1p1-19943951",
+          "source": "Gdynia Nasze Miasto"
+        },
+        {
+          "title": "Prognoza pogody na dzisiaj (11.12) dla Gdyni. Jaka będzie temperatura?",
+          "snippet": "",
+          "url": "https://gdynia.naszemiasto.pl/prognoza-pogody-na-dzisiaj-11-12-dla-gdyni-jaka-bedzie-temperatura/ar/c1p1-19942881",
+          "source": "Gdynia Nasze Miasto"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "the game awards",
       "trafficCount": "200+",
       "pubDate": "Wed, 10 Dec 2025 15:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgDFDOyRpJsCvLgSh1wn8pZkGkKNRCxX5MLSqd9EzrFGPtZ1-St6aHnoPLFn8",
-      "pictureSource": "PurePC",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpoDnh7sM5SOpdMWytjU7Fm4gQ2XHV2AE8RcrjOAwPzU2_ncQJWRzeq0H9Cso",
+      "pictureSource": "Gry Interia",
       "relatedSearch": [
         {
-          "title": "Tajemnica posągu w końcu została wyjaśniona. Kolejna gra studia Larian ma zostać zapowiedziana podczas The Game Awards 2025",
+          "title": "Zniknęła na 7 lat, a teraz nadchodzi z hukiem. Wielki powrót Lary Croft!",
           "snippet": "",
-          "url": "https://www.purepc.pl/tajemniczy-posag-the-game-awards-2025-larian-divinity",
-          "source": "PurePC"
+          "url": "https://gry.interia.pl/newsy/aktualnosci/news-lara-croft-powraca-i-to-juz-za-kilka-dni,nId,22465680",
+          "source": "Gry Interia"
         },
         {
-          "title": "Divinity Original Sin 3 to już niemal pewniak? Nowe poszlaki z PS Store",
+          "title": "W serialu \"Tomb Raider\" usłyszymy jej krzyk? Wielka gwiazda kina u boku Sophie Turner",
           "snippet": "",
-          "url": "https://www.ppe.pl/news/391975/divinity-original-sin-3-to-juz-niemal-pewniak-nowe-poszlaki-z-ps-store.html",
+          "url": "https://www.filmweb.pl/news/Gwiazda+serii+%22Obcy%22+i+%22Avatar%22+Sigourney+Weaver+z+rol%C4%85+w+serialu+%22Tomb+Raider%22-164295",
+          "source": "Filmweb"
+        },
+        {
+          "title": "Nowy God of War, Tomb Raidery i Control 2 na The Game Awards? Znany insider przygotowuje graczy na atrakcje",
+          "snippet": "",
+          "url": "https://www.ppe.pl/news/392165/nowy-god-of-war-tomb-raidery-i-control-2-na-the-game-awards-znany-insider-przygotowuje-graczy-na-atrakcje.html",
           "source": "PPE"
-        },
-        {
-          "title": "Zagadka rzeźby z The Game Awards 2025 rozwiązana? Jest nowa teoria i solidne dowody",
-          "snippet": "",
-          "url": "https://naekranie.pl/aktualnosci/rzezba-the-game-awards-zagadka-rozwiazana-divinity-nowa-gra-larian-studios-1765316823",
-          "source": "naEKRANIE.pl"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-12-11 07:57:11",
+  "lastUpdate": "2025-12-11 08:27:56",
   "data": [
     {
       "title": "al wahda fc",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 10 Dec 2025 23:00:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPDM66U1ShzdT1G2GryacNZUq3_Cl2hFvRt9Pr-IupzTmWMA5juXXHFtaMSgI",
       "pictureSource": "Bolavip",
@@ -59,7 +59,7 @@
     },
     {
       "title": "google gemini ai",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 10 Dec 2025 20:50:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjggi3AOczJWuUuU-B6URAuSktwmzkTjokgVJJHLqoGSIyMaHxN5DcB_EnVSI",
       "pictureSource": "U.S. Department of War (.gov)",
@@ -87,7 +87,7 @@
     },
     {
       "title": "club brugge vs arsenal",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 10 Dec 2025 13:40:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8FIJVtH5HOdYiNUVaoWEDqHoZQNPLEP4em_-bXNN82KEQSr6RbjWZJ5qPk7Q",
       "pictureSource": "BBC",
@@ -105,10 +105,38 @@
           "source": "Arseblog News"
         },
         {
-          "title": "Why Jurrien Timber is not in Arsenal squad for Champions League clash against Club Brugge",
+          "title": "Arsenal reaction: Noni Madueke on victory over Club Brugge",
           "snippet": "",
-          "url": "https://www.football.london/arsenal-fc/news/jurrien-timber-arsenal-squad-reason-33036639",
-          "source": "Football London"
+          "url": "https://www.uefa.com/uefachampionsleague/video/02a0-1f6898935d12-b1a490b70148-1000--arsenal-reaction-noni-madueke-on-victory-over-club-brugge/",
+          "source": "UEFA.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "champions league",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 10 Dec 2025 13:30:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyqn3EHid1WXgG1HInVx40i4fmXPa6EBJGSSpezwuHg9lMwoVh29Bg64T37h8",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Champions League: Man City beat Real Madrid, Arsenal win as Newcastle held",
+          "snippet": "",
+          "url": "https://www.bbc.com/sport/football/live/cp3xrd72rvxt",
+          "source": "BBC"
+        },
+        {
+          "title": "Highlights of UEFA Champions League football matches",
+          "snippet": "",
+          "url": "https://english.news.cn/20251211/4f78a9ab2d2f497f9397d7161c94e070/c.html",
+          "source": "Xinhua"
+        },
+        {
+          "title": "Champions League: Wins for Man City and Arsenal, Newcastle held",
+          "snippet": "",
+          "url": "https://www.premierleague.com/en/news/4499906/champions-league-wins-for-man-city-and-arsenal-newcastle-held",
+          "source": "Premier League"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -137,34 +165,6 @@
           "snippet": "",
           "url": "https://www.lequipe.fr/Football/Article/Qu-est-il-arrive-a-ayman-kari-le-grand-espoir-du-psg-qui-etait-meilleur-que-joao-neves-et-zaire-emery-mais-qui-a-mis-sa-carriere-en-pause/1613887",
           "source": "L'Équipe"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "uefa champions league",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 10 Dec 2025 12:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyqn3EHid1WXgG1HInVx40i4fmXPa6EBJGSSpezwuHg9lMwoVh29Bg64T37h8",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Champions League: Man City beat Real Madrid, Arsenal win as Newcastle held",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cp3xrd72rvxt",
-          "source": "BBC"
-        },
-        {
-          "title": "Highlights of UEFA Champions League football matches",
-          "snippet": "",
-          "url": "https://english.news.cn/20251211/4f78a9ab2d2f497f9397d7161c94e070/c.html",
-          "source": "Xinhua"
-        },
-        {
-          "title": "Champions League: Wins for Man City and Arsenal, Newcastle held",
-          "snippet": "",
-          "url": "https://www.premierleague.com/en/news/4499906/champions-league-wins-for-man-city-and-arsenal-newcastle-held",
-          "source": "Premier League"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,14 +229,14 @@
       "title": "real madrid vs man city",
       "trafficCount": "2000+",
       "pubDate": "Wed, 10 Dec 2025 07:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqfxBjeZGcrqsE7BB9xDAYAFJcIyajPkE3BcOCUXOVVfkOlLa7tCD9p1OPrLQ",
-      "pictureSource": "Football Espana",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRORdkF1DttUwD5Uguu6e_W8TEE2YN3jMIenorbpACK5GcMRT5wSs4c49v83qQ",
+      "pictureSource": "Get Spanish Football News",
       "relatedSearch": [
         {
-          "title": "Kylian Mbappe remains serious injury doubt for Real Madrid",
+          "title": "‘He’s back’ – Real Madrid fans hail one player during Man City clash",
           "snippet": "",
-          "url": "https://www.football-espana.net/2025/12/11/kylian-mbappe-remains-serious-injury-doubt-for-real-madrid",
-          "source": "Football Espana"
+          "url": "https://getfootballnewsspain.com/hes-back-real-madrid-fans-hail-one-player-during-man-city-clash/",
+          "source": "Get Spanish Football News"
         },
         {
           "title": "Gonzalo García Steps Up: Real Madrid’s Young Forward Takes Center Stage Against Man City",
@@ -257,26 +257,26 @@
       "title": "japan earthquakes tsunami warning",
       "trafficCount": "200+",
       "pubDate": "Wed, 10 Dec 2025 05:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQa4E5gv07JNg1noKVZHUZd6gOn_D6H3E4I7JtIRBcmyh7ZzXUa-8FpXsBqQMY",
-      "pictureSource": "FOREX.com",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqqG66rvO7H4gPU-wfIUV5LV9C-i8HyauoL5k4GfLiQpFmxXxu5Jm3KfD9UBk",
+      "pictureSource": "NHKニュース",
       "relatedSearch": [
+        {
+          "title": "Japan issues mega-quake advisory after M7.5 tremor | NHK WORLD-JAPAN News",
+          "snippet": "",
+          "url": "https://www3.nhk.or.jp/nhkworld/en/news/20251209_02/",
+          "source": "NHKニュース"
+        },
+        {
+          "title": "Services on JR Hachinohe Line Suspended after Earthquake",
+          "snippet": "",
+          "url": "https://www.nippon.com/en/news/yjj2025121000528/",
+          "source": "nippon.com"
+        },
         {
           "title": "USD/JPY, DAX Forecast: Two trades to watch",
           "snippet": "",
           "url": "https://www.forex.com/en-au/news-and-analysis/usd-jpy-dax-forecast-two-trades-to-watch/",
           "source": "FOREX.com"
-        },
-        {
-          "title": "Magnitude 5.7 quake strikes off Japan’s Honshu",
-          "snippet": "",
-          "url": "https://english.alarabiya.net/News/world/2025/12/10/quake-of-65-magnitude-strikes-hokkaido-region-in-japan",
-          "source": "Al Arabiya English"
-        },
-        {
-          "title": "Old video shows tsunami experiment, not impact of northern Japan earthquake",
-          "snippet": "",
-          "url": "https://factcheck.afp.com/doc.afp.com.87L33KG",
-          "source": "AFP Fact Check"
         }
       ],
       "link": "https://imtaqin.id/"

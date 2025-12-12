@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-12 13:29:52",
+  "lastUpdate": "2025-12-12 13:53:46",
   "data": [
     {
       "title": "олександрія – кудрівка",
@@ -31,7 +31,7 @@
     },
     {
       "title": "александрия – кудровка",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 12 Dec 2025 05:00:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEmuXk2QwXzu4XK9A9mEVwvnxSc1Sr0Ibukxegjtm9YoEdnqbdvzUVhVbe-1Q",
       "pictureSource": "Champion.com.ua",
@@ -59,7 +59,7 @@
     },
     {
       "title": "шостка",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 12 Dec 2025 04:40:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3PY8IzEKTmcXwgnAaEPhkSfG8SNkUrgkHPuvW6i-Vshhp3ivpl7hKEtNlmB4",
       "pictureSource": "NV",
@@ -71,16 +71,16 @@
           "source": "NV"
         },
         {
-          "title": "РФ атаковала дронами в Шостке спортивную школу во время тренировки детей, - ОВА",
-          "snippet": "",
-          "url": "https://www.unian.net/war/sumshchina-novosti-drony-rf-atakovali-v-shostke-sportivnuyu-shkolu-13224297.html",
-          "source": "УНИАН"
-        },
-        {
           "title": "Россия атаковала дронами спортивную школу в Шостке",
           "snippet": "",
           "url": "https://korrespondent.net/ukraine/4839978-rossyia-atakovala-dronamy-sportyvnuui-shkolu-v-shostke",
           "source": "Korrespondent.net"
+        },
+        {
+          "title": "Россияне ударили по спортивной школе в Сумской области во время тренировки детей",
+          "snippet": "",
+          "url": "https://news.liga.net/region_news/news/rossiyane-udarili-po-sportivnoi-shkole-na-sumshtine-vo-vremya-trenirovki-detei",
+          "source": "LIGA.net"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -105,10 +105,10 @@
           "source": "Hromadske"
         },
         {
-          "title": "Генпрокурор Кравченко спростував чутки про відставку та пригрозив «прийти за кожним особисто»",
+          "title": "Генпрокурор Кравченко заперечив свою відставку",
           "snippet": "",
-          "url": "https://nv.ua/ukr/ukraine/politics/ruslan-kravchenko-zalishayetsya-na-posadi-genprokurora-oficiyna-zayava-ofisu-50568046.html",
-          "source": "NV"
+          "url": "https://www.radiosvoboda.org/a/news-genprokuror-kravchenko-zaperechyv-vidstavku/33621589.html",
+          "source": "Радіо Свобода"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,20 +117,20 @@
       "title": "шостка инфо",
       "trafficCount": "200+",
       "pubDate": "Fri, 12 Dec 2025 03:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8llFN2K6k9uHSK1ZbSUMayGcZ1KNMJuN0EzHTApxdVN83P5KhlBmnFPoftg",
-      "pictureSource": "Українська правда",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMd2LZlc4iMRuEMCTozX_2RvT24UzOcQ2hpWY6nMJGYTXkU_f9Bn6HMZTFa7U",
+      "pictureSource": "ТСН",
       "relatedSearch": [
-        {
-          "title": "РФ атакувала ударними дронами спортивну школу під час тренування дітей",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/news/2025/12/12/8011555/",
-          "source": "Українська правда"
-        },
         {
           "title": "РФ вдарила БпЛА по спортивній школі у Шостці, де тренувалися діти: деталі від влади (фото)",
           "snippet": "",
           "url": "https://tsn.ua/ukrayina/rf-prytsilno-vdaryla-bpla-po-sportyvniy-shkoli-u-shosttsi-de-trenuvalysia-dity-detali-vid-vlady-2976986.html",
           "source": "ТСН"
+        },
+        {
+          "title": "РФ атакувала ударними дронами спортивну школу під час тренування дітей",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/news/2025/12/12/8011555/",
+          "source": "Українська правда"
         },
         {
           "title": "РФ атакувала дронами у Шостці спортивну школу під час тренування дітей, - ОВА",

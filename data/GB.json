@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2025-12-17 07:46:38",
+  "lastUpdate": "2025-12-17 07:54:29",
   "data": [
     {
-      "title": "shortest day",
+      "title": "inflation",
       "trafficCount": "200+",
-      "pubDate": "Tue, 16 Dec 2025 23:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNwzZJVv4XDIgW7CuUONWIFXqTa0Faq9732IfGQ2FHdhxxyAPJPu8vfjfH1E8",
-      "pictureSource": "The Ticker",
+      "pubDate": "Tue, 16 Dec 2025 23:40:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy8ay3KOYZjzD7GlpwIHqqXT6O4UXllNnmD05NrSTlMiQOERE7A3XFrIogaLM",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Welcoming the Winter Solstice",
+          "title": "UK inflation rate falls to 3.2% - the lowest in eight months",
           "snippet": "",
-          "url": "https://www.traverseticker.com/news/welcoming-the-winter-solstice/",
-          "source": "The Ticker"
+          "url": "https://www.bbc.co.uk/news/live/cp9kmpl21x2t",
+          "source": "BBC"
         },
         {
-          "title": "Winter solstice brings shortest day to the Northern Hemisphere. Here’s why",
+          "title": "UK inflation falls more than expected to 3.2% in November",
           "snippet": "",
-          "url": "https://www.news4jax.com/weather/2025/12/16/the-winter-solstice-brings-shortest-day-to-the-northern-hemisphere-heres-why/",
-          "source": "News4JAX"
+          "url": "https://www.ft.com/content/8df2d884-f6c7-4f72-89fb-8906292ba08a",
+          "source": "Financial Times"
         },
         {
-          "title": "Starwatch: shortest day in reach as astronomical winter begins",
+          "title": "Sharp inflation slowdown leaves door to interest rate cut wide open",
           "snippet": "",
-          "url": "https://www.theguardian.com/science/2025/dec/15/starwatch-shortest-day-in-reach-as-astronomical-winter-begins",
-          "source": "The Guardian"
+          "url": "https://news.sky.com/story/sharp-inflation-slowdown-leaves-door-open-to-interest-rate-cut-13484594",
+          "source": "Sky News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "天氣",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 16 Dec 2025 23:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgfwus4OZzd-ekKh8_dz36tikzq3taj6gZ_oRDou_cWZ-auBRuPRrS5R0tc4E",
+      "pictureSource": "氣象應用推廣基金會",
+      "relatedSearch": [
+        {
+          "title": "迎風面水氣增明午起冷氣團南下",
+          "snippet": "",
+          "url": "http://www.metapp.org.tw/index.php/bossweathernews/3694-2025-12-11-21-11-31",
+          "source": "氣象應用推廣基金會"
+        },
+        {
+          "title": "好天氣掰了！明3地防大雨「週五雨區擴大」濕到下週 平安夜再迎降溫 | CTWANT",
+          "snippet": "",
+          "url": "https://today.line.me/tw/v3/article/1DnBmqB",
+          "source": "LINE TODAY"
+        },
+        {
+          "title": "最冷時段來了！極冷空氣發威 恐見「個位數」驚人低溫",
+          "snippet": "",
+          "url": "https://news.ebc.net.tw/news/living/527219",
+          "source": "東森新聞"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -45,42 +73,14 @@
         {
           "title": "Opinion | Ford Learns a Brutal EV Lesson",
           "snippet": "",
-          "url": "https://www.wsj.com/opinion/ford-electric-vehicle-writedown-jim-farley-government-subsidies-ef2c9b3c?gaa_at=eafs&gaa_n=AWEtsqdoZwuYDj_3pmE92M2JimqoYM0M_LX3q0HZadJjl4YDul6pLHMVicgb&gaa_ts=694262fc&gaa_sig=Mb46ITP0oLnvalDCeRNcz3ZpBkjFiS_CBJUKdcv9UScUrHgIigeBpseaoduOalr_hrgo_elonEXPaDG9qILHfA%3D%3D",
+          "url": "https://www.wsj.com/opinion/ford-electric-vehicle-writedown-jim-farley-government-subsidies-ef2c9b3c?gaa_at=eafs&gaa_n=AWEtsqcuDIz3MeuBw1wpsyR5coKenN3-IdD6ae-f7qpcUrXrRMiPra0dajQ2&gaa_ts=694264cd&gaa_sig=sRCTwZ2V04OxLWbvUUMaVqVTsML7TJuQsbYmRsZ-FiXuWYg9f5e1S71LYfLRfIMX7BWh-ctuwMvllJpI-eIBkg%3D%3D",
           "source": "The Wall Street Journal"
         },
         {
           "title": "Ford takes $20bn hit as it reverses out of electric vehicles",
           "snippet": "",
-          "url": "https://www.thetimes.com/business/companies-markets/article/ford-takes-20bn-hit-as-it-reverses-out-of-electric-vehicles-9bh52hpfs?gaa_at=eafs&gaa_n=AWEtsqfXbcb3Hp2boFLDKXa6FMcc9OJSPGU8z9kzVpXorE5vgOJAP9hRrFXH&gaa_ts=694262fc&gaa_sig=Xo0IfvznWTN5vIIIpG2tVDii7_BQxZs4FAuJ53ayi_83VjK3GoVat4x7aTk3WjIN1RK_PGoENBLflQfiQ7wP6A%3D%3D",
+          "url": "https://www.thetimes.com/business/companies-markets/article/ford-takes-20bn-hit-as-it-reverses-out-of-electric-vehicles-9bh52hpfs?gaa_at=eafs&gaa_n=AWEtsqcb_5Qef80ILC3xZST0vMJwd9aNZm9wiW-CtHCxth0At2z3TTMuqRzr&gaa_ts=694264cd&gaa_sig=mEOsOsXxbl5glX7FP0rTtyzqU1N3y5yWadbZRLjhc1TwOaGyTYqM7QH6xufjW6Q6aO9jkH6THJvSqDvL0QGSmQ%3D%3D",
           "source": "The Times"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "pilot",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 16 Dec 2025 23:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTAtdsUlpA5Yfd1j7o1Mv-u3I-i_260Y0D45QmrkKf_SHxR-Mkp0XpRA8320ek",
-      "pictureSource": "Glasgow Live",
-      "relatedSearch": [
-        {
-          "title": "What happens if you don't use airplane mode while on a flight – pilot explains",
-          "snippet": "",
-          "url": "https://www.glasgowlive.co.uk/news/world-news/what-happens-you-dont-use-33065570",
-          "source": "Glasgow Live"
-        },
-        {
-          "title": "Pilot explains what actually happens if you forget to put phone on airplane mode",
-          "snippet": "",
-          "url": "https://www.mirror.co.uk/travel/news/pilot-explains-what-actually-happens-36385347",
-          "source": "The Mirror"
-        },
-        {
-          "title": "Pilot outlines consequences of failing to put your phone on airplane mode during flight",
-          "snippet": "",
-          "url": "https://www.the-express.com/travel/travel-news/193554/pilot-outlines-consequences-failing-put-your-phone-airplane-mode-during-flight",
-          "source": "Daily Express US"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -109,6 +109,34 @@
           "snippet": "",
           "url": "https://www.reuters.com/sustainability/sustainable-finance-reporting/uk-wage-growth-slows-46-three-months-october-ons-says-2025-12-16/",
           "source": "Reuters"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "pilot",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 16 Dec 2025 23:10:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTAtdsUlpA5Yfd1j7o1Mv-u3I-i_260Y0D45QmrkKf_SHxR-Mkp0XpRA8320ek",
+      "pictureSource": "Glasgow Live",
+      "relatedSearch": [
+        {
+          "title": "What happens if you don't use airplane mode while on a flight – pilot explains",
+          "snippet": "",
+          "url": "https://www.glasgowlive.co.uk/news/world-news/what-happens-you-dont-use-33065570",
+          "source": "Glasgow Live"
+        },
+        {
+          "title": "Pilot explains what actually happens if you forget to put phone on airplane mode",
+          "snippet": "",
+          "url": "https://www.mirror.co.uk/travel/news/pilot-explains-what-actually-happens-36385347",
+          "source": "The Mirror"
+        },
+        {
+          "title": "Pilot outlines consequences of failing to put your phone on airplane mode during flight",
+          "snippet": "",
+          "url": "https://www.the-express.com/travel/travel-news/193554/pilot-outlines-consequences-failing-put-your-phone-airplane-mode-during-flight",
+          "source": "Daily Express US"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -198,36 +226,8 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "chris hoy",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 16 Dec 2025 22:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEDZ9QUrPCP3daxBFT8l6m6b2_1PyycC3SjC74eHjM3N7GhFATbWPWnat4kSs",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Sir Chris Hoy and Lady Sarra Hoy on how they have helped their children understand his terminal cancer diagnosis",
-          "snippet": "",
-          "url": "https://www.bbc.co.uk/sport/olympics/videos/c3w77z4l9jqo",
-          "source": "BBC"
-        },
-        {
-          "title": "Chris Hoy: The children thought they had caused my cancer",
-          "snippet": "",
-          "url": "https://www.thetimes.com/uk/scotland/article/chris-hoy-the-children-thought-they-had-caused-my-cancer-vlxtcfs0p?gaa_at=eafs&gaa_n=AWEtsqeddfWv_DfSsKZkPT6WeexPgbQtCAOz0t0_xbcPsX9ardDBv6b-BkGV&gaa_ts=69426362&gaa_sig=_N2-kbVVsYKVxJkZzAtftjG2BdBq2Tw5mdpH0W_yzPuZ_ds7OMfmKfgd3IzxCHVeOKJ2gOmUvu7v0pLJYeMjTQ%3D%3D",
-          "source": "The Times"
-        },
-        {
-          "title": "Chris Hoy’s wife shares children’s reaction to his terminal cancer diagnosis",
-          "snippet": "",
-          "url": "https://www.independent.co.uk/bulletin/sport/chris-hoy-cancer-children-bbc-b2884582.html",
-          "source": "The Independent"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "sally nugent",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 16 Dec 2025 22:40:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReeQvrNUrq9_U0setfo0WPt05X37W7gHLsZeG0r_xsjmTCrjVH4xy8zYRKgBA",
       "pictureSource": "Daily Express",
@@ -254,29 +254,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "venezuela",
-      "trafficCount": "200+",
+      "title": "chris hoy",
+      "trafficCount": "500+",
       "pubDate": "Tue, 16 Dec 2025 22:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvF5IPKZEQjl5AA3md58zks5o6inoWKkIG-85cXe39pTjPo6LS3BWAjUFA4r8",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEDZ9QUrPCP3daxBFT8l6m6b2_1PyycC3SjC74eHjM3N7GhFATbWPWnat4kSs",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "From Iran to China to Venezuela - how seized tanker hid location",
+          "title": "Sir Chris Hoy and Lady Sarra Hoy on how they have helped their children understand his terminal cancer diagnosis",
           "snippet": "",
-          "url": "https://www.bbc.co.uk/news/articles/cy8jvll9j81o",
+          "url": "https://www.bbc.co.uk/sport/olympics/videos/c3w77z4l9jqo",
           "source": "BBC"
         },
         {
-          "title": "Trump tanker LIVE: US seizes Venezuelan ship that 'carries oil to terrorists'",
+          "title": "Chris Hoy: The children thought they had caused my cancer",
           "snippet": "",
-          "url": "https://www.mirror.co.uk/news/us-news/trump-venezuela-oil-tanker-live-36383128",
-          "source": "The Mirror"
+          "url": "https://www.thetimes.com/uk/scotland/article/chris-hoy-the-children-thought-they-had-caused-my-cancer-vlxtcfs0p?gaa_at=eafs&gaa_n=AWEtsqc06lmpFXIGcj3-pkiB2cv9z8tQhnrlg7SMfkxnXUFpJotk-gGdD_Lu&gaa_ts=694264cc&gaa_sig=S591bVP6pHWLfVbm8UHigsztZ1Azz1lwZERp3sX09YVwlJ-JeQ5a7_xiAF2Ecib7lOVxZIplpBbtbBlg2da82Q%3D%3D",
+          "source": "The Times"
         },
         {
-          "title": "Venezuela accuses US of 'international piracy' over oil tanker seizure",
+          "title": "Chris Hoy’s wife shares children’s reaction to his terminal cancer diagnosis",
           "snippet": "",
-          "url": "https://www.gbnews.com/news/world/venezuela-oil-tanker-country-accuses-us-international-piracy-seizure",
-          "source": "GB News"
+          "url": "https://www.independent.co.uk/bulletin/sport/chris-hoy-cancer-children-bbc-b2884582.html",
+          "source": "The Independent"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-17 22:43:20",
+  "lastUpdate": "2025-12-17 22:52:40",
   "data": [
     {
       "title": "tucker carlson",
@@ -59,7 +59,7 @@
     },
     {
       "title": "final nacional medellin",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 17 Dec 2025 14:00:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSi7vWb69mkhGfKa6zJ_NNdJX7wyMNaKdrI0SZkY1o_aSPLZB19p646JVD2xoo",
       "pictureSource": "El Colombiano",
@@ -145,9 +145,15 @@
       "title": "taça de portugal",
       "trafficCount": "500+",
       "pubDate": "Wed, 17 Dec 2025 13:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMF5BsSyJuXOhZY-xcKdxYQ3_QqYPYX3S7S4FdjPJLW2zRIYgt3uVFkhv6TAc",
-      "pictureSource": "RTP",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXXI2JZIBrZQtZJadaJYWmBULoLSZI5-y-jk19wKUc6TS-Ch2c9cdBiy52MXo",
+      "pictureSource": "CNN Portugal",
       "relatedSearch": [
+        {
+          "title": "Armando Roriz: «Nunca deixámos de ser uma equipa perigosa»",
+          "snippet": "",
+          "url": "https://cnnportugal.iol.pt/taca-de-portugal/avs/armando-roriz-nunca-deixamos-de-ser-uma-equipa-perigosa",
+          "source": "CNN Portugal"
+        },
         {
           "title": "AVS vence em Guimarães e apura-se para os quartos de final",
           "snippet": "",
@@ -159,12 +165,6 @@
           "snippet": "",
           "url": "https://mag.sapo.pt/artigo/tunde-akinsola-assumiu-o-chicote-e-castigou-os-conquistadores-cronica-694330b84f5ac22a882099bb",
           "source": "SAPO"
-        },
-        {
-          "title": "Futebol: Simão defendeu tudo e coloca Vitória SC fora da Taça de Portugal",
-          "snippet": "",
-          "url": "https://e24.pt/futebol-simao-defendeu-vitoria-sc-fora-taca-de-portugal/",
-          "source": "e24.pt"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,20 +201,20 @@
       "title": "tiendas d1",
       "trafficCount": "500+",
       "pubDate": "Wed, 17 Dec 2025 13:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3qnmE2zKyB9s9vUFUY6pubcfOqUkyvU-gMA-rgydkIblJWMqoWihG5o5JpXY",
-      "pictureSource": "Noticias Caracol",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzzfdALaS-y-77nK9nsyOfoOkFoO9HTGufQhiX3JTgGfVw9ginY6DjmWyvSsw",
+      "pictureSource": "ELTIEMPO.COM",
       "relatedSearch": [
-        {
-          "title": "D1 confirma que cerrará todas sus tiendas durante estas fechas de fin de año: prográmese",
-          "snippet": "",
-          "url": "https://www.noticiascaracol.com/economia/d1-confirma-que-cerrara-sus-tiendas-durante-estas-fechas-de-fin-de-ano-programese-so35",
-          "source": "Noticias Caracol"
-        },
         {
           "title": "D1 y Ara cerrarán sus tiendas en todo Colombia en estas fechas de diciembre: ¿cuándo retoman servicio?",
           "snippet": "",
           "url": "https://www.eltiempo.com/cultura/gente/d1-y-ara-cerraran-sus-tiendas-en-todo-colombia-en-estas-fechas-de-diciembre-cuando-retoman-servicio-3517593",
           "source": "ELTIEMPO.COM"
+        },
+        {
+          "title": "Supermercados del país anuncian horarios de atención durante las festividades de final de año",
+          "snippet": "",
+          "url": "https://www.semana.com/economia/empresas/articulo/supermercados-del-pais-anuncian-horarios-de-atencion-durante-las-festividades-de-final-de-ano/202512/",
+          "source": "Semana.com"
         },
         {
           "title": "Tiendas D1 anunció que no abrirá durante dos días en Navidad y Año Nuevo 2025",

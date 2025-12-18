@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-18 15:41:39",
+  "lastUpdate": "2025-12-18 15:53:54",
   "data": [
     {
       "title": "jair pereira",
@@ -15,16 +15,16 @@
           "source": "Jornal de Notícias"
         },
         {
-          "title": "Encontrado morto na cela o alegado homicida de Oliveira do Bairro. Estava em preventiva a aguardar julgamento",
-          "snippet": "",
-          "url": "https://www.dn.pt/sociedade/encontrado-morto-na-cela-o-alegado-homicida-de-oliveira-do-bairro-estava-em-preventiva-a-aguardar-julgamento",
-          "source": "Diário de Notícias"
-        },
-        {
           "title": "Jair Pereira encontrado morto na cela do Estabelecimento Prisional anexo à PJ do Porto",
           "snippet": "",
           "url": "https://www.cmjornal.pt/portugal/detalhe/jair-pereira-encontrado-morto-na-cela-do-estabelecimento-prisional-anexo-a-pj-do-porto",
           "source": "Correio da Manhã"
+        },
+        {
+          "title": "Acusado do homicídio de Conceição Figueiredo encontrado morto na cadeia",
+          "snippet": "",
+          "url": "https://observador.pt/2025/12/18/acusado-do-homicidio-de-conceicao-figueiredo-encontrado-morto-na-cadeia/",
+          "source": "Observador"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -43,16 +43,16 @@
           "source": "Globo"
         },
         {
+          "title": "Fãs de Brad Pitt se dizem ‘enganados’ com nome real: entenda a origem",
+          "snippet": "",
+          "url": "https://caras.com.br/atualidades/fas-de-brad-pitt-se-dizem-enganados-com-nome-real-entenda-a-origem.phtml",
+          "source": "CARAS Brasil"
+        },
+        {
           "title": "Nome real de Brad Pitt causa surpresa entre fãs; saiba qual é",
           "snippet": "",
           "url": "https://www.agazeta.com.br/hz/tv-e-famosos/nome-real-de-brad-pitt-causa-surpresa-entre-fas-saiba-qual-e-1225",
           "source": "A Gazeta"
-        },
-        {
-          "title": "Nome verdadeiro de Brad Pitt é revelado e causa surpresa entre fãs",
-          "snippet": "",
-          "url": "https://terrabrasilnoticias.com/2025/12/nome-verdadeiro-de-brad-pitt-e-revelado-e-causa-surpresa-entre-fas/",
-          "source": "Terra Brasil Notícias"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,34 +86,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "joel branco",
-      "trafficCount": "1000+",
-      "pubDate": "Thu, 18 Dec 2025 05:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8fXBSvj51bDVGMKk1Jz4o_DEwOFzUIoNuW91QMuRtA8sSZ-Asw1YWO3Th7Kg",
-      "pictureSource": "Correio da Manhã",
-      "relatedSearch": [
-        {
-          "title": "Joel Branco acolhido pela Casa do Artista",
-          "snippet": "",
-          "url": "https://www.cmjornal.pt/vidas/ultimas/detalhe/joel-branco-acolhido-pela-casa-do-artista",
-          "source": "Correio da Manhã"
-        },
-        {
-          "title": "Recebe apoio da família? Novo relato choca: “Está numa situação…”",
-          "snippet": "",
-          "url": "https://sapo.pt/artigo/recebe-apoio-da-familia-novo-relato-choca-esta-numa-situacao-69427a38940db48798bbaec6",
-          "source": "SAPO"
-        },
-        {
-          "title": "Famoso ator português internado e sem a família para cuidar dele no momento da alta do hospital",
-          "snippet": "",
-          "url": "https://tvi.iol.pt/vmais/joel-branco/hospital/famoso-ator-portugues-internado-e-sem-a-familia-para-cuidar-dele-no-momento-da-alta-do-hospital",
-          "source": "TVI"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "eletricidade",
       "trafficCount": "200+",
       "pubDate": "Thu, 18 Dec 2025 05:10:00 -0800",
@@ -142,8 +114,36 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "joel branco",
+      "trafficCount": "1000+",
+      "pubDate": "Thu, 18 Dec 2025 05:10:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8fXBSvj51bDVGMKk1Jz4o_DEwOFzUIoNuW91QMuRtA8sSZ-Asw1YWO3Th7Kg",
+      "pictureSource": "Correio da Manhã",
+      "relatedSearch": [
+        {
+          "title": "Joel Branco acolhido pela Casa do Artista",
+          "snippet": "",
+          "url": "https://www.cmjornal.pt/vidas/ultimas/detalhe/joel-branco-acolhido-pela-casa-do-artista",
+          "source": "Correio da Manhã"
+        },
+        {
+          "title": "Recebe apoio da família? Novo relato choca: “Está numa situação…”",
+          "snippet": "",
+          "url": "https://sapo.pt/artigo/recebe-apoio-da-familia-novo-relato-choca-esta-numa-situacao-69427a38940db48798bbaec6",
+          "source": "SAPO"
+        },
+        {
+          "title": "Famoso ator português internado e sem a família para cuidar dele no momento da alta do hospital",
+          "snippet": "",
+          "url": "https://tvi.iol.pt/vmais/joel-branco/hospital/famoso-ator-portugues-internado-e-sem-a-familia-para-cuidar-dele-no-momento-da-alta-do-hospital",
+          "source": "TVI"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "bruxelas",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 18 Dec 2025 05:00:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpPfcTwB4OAYJ9h5A3U3t0vo-XWf1TxGDKvf6fC-XFM-t8wjJXIQjR5DU8gwE",
       "pictureSource": "G1",
@@ -155,10 +155,10 @@
           "source": "G1"
         },
         {
-          "title": "Agricultores protestam em Bruxelas contra cortes na PAC e contra o acordo do Mercosul",
+          "title": "Batatas contra gás lacrimogénio e jatos de água. As imagens do protesto dos agricultores em Bruxelas",
           "snippet": "",
-          "url": "https://expresso.pt/economia/economia_agricultura/2025-12-18-agricultores-protestam-em-bruxelas-contra-cortes-na-pac-e-contra-o-acordo-do-mercosul-2b266fa2",
-          "source": "Expresso"
+          "url": "https://www.dn.pt/internacional/batatas-contra-gs-lacrimognio-e-jatos-de-gua-as-imagens-do-protesto-dos-agricultores-em-bruxelas",
+          "source": "Diário de Notícias"
         },
         {
           "title": "Primeiro-ministro diz que será imperdoável se bloco europeu não fechar acordo com Mercosul",
@@ -177,9 +177,9 @@
       "pictureSource": "Expresso",
       "relatedSearch": [
         {
-          "title": "Natal e Ano Novo: Governo alarga tolerância de ponto aos dias 24, 26 e 31",
+          "title": "Natal e Ano Novo 2025: Governo alarga tolerância de ponto aos dias 24, 26 e 31 de dezembro",
           "snippet": "",
-          "url": "https://expresso.pt/politica/governo/2025-12-18-natal-e-ano-novo-governo-alarga-tolerancia-de-ponto-aos-dias-24-26-e-31-61cbd797",
+          "url": "https://expresso.pt/politica/governo/2025-12-18-natal-e-ano-novo-2025-governo-alarga-tolerancia-de-ponto-aos-dias-24-26-e-31-de-dezembro-61cbd797",
           "source": "Expresso"
         },
         {
@@ -267,9 +267,9 @@
           "source": "ESPN"
         },
         {
-          "title": "Washington Nationals continue youth movement; set to hire Phillies’ Ani Kilambi, 31, as GM: Source - The Athletic",
+          "title": "The Nats’ absurdly young braintrust, plus Tua gets benched",
           "snippet": "",
-          "url": "https://www.nytimes.com/athletic/6897955/2025/12/17/nationals-youth-movement-ani-kilambi-gm/",
+          "url": "https://www.nytimes.com/athletic/6897150/2025/12/18/nationals-general-manager-31-the-pulse/",
           "source": "The New York Times"
         },
         {

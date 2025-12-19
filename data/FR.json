@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2025-12-18 23:52:15",
+  "lastUpdate": "2025-12-19 00:00:03",
   "data": [
     {
       "title": "shooter",
       "trafficCount": "100+",
       "pubDate": "Thu, 18 Dec 2025 15:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrYozD3Dw1vWpIcMaUtXm3z0Z3SahXUOEzbpV5QaCEDZD6FECE1tCX4N61WEc",
-      "pictureSource": "NBC Boston",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1klXwxuW-d5F6HBiwEhBa9wCDw10SeXV3B7SWwD0WkJ00diCtQoEEUz3z6g4",
+      "pictureSource": "CNN",
       "relatedSearch": [
+        {
+          "title": "Live updates: Manhunt for Brown University shooter continues as police release map of person of interest’s movements",
+          "snippet": "",
+          "url": "https://www.cnn.com/us/live-news/brown-university-shooting-suspect-12-18-25",
+          "source": "CNN"
+        },
         {
           "title": "Live updates: Person of interest in Brown University shooting identified, sources say",
           "snippet": "",
@@ -19,12 +25,6 @@
           "snippet": "",
           "url": "https://www.wpri.com/news/local-news/providence/police-id-suspect-in-brown-university-shooting-as-manhunt-continues/",
           "source": "WPRI.com"
-        },
-        {
-          "title": "Research shows it was ‘very strange’ for an active shooter to just walk away",
-          "snippet": "",
-          "url": "https://www.bostonglobe.com/2025/12/17/metro/active-shooter-incidents-research-ri/",
-          "source": "The Boston Globe"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,34 +86,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "tricole",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 18 Dec 2025 14:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTH7QqbY3Bm78B0sQqBYuYounNomdYN2ZUNwS1wJ0YQXwM2hhRbogQAS7ZqZNQ",
-      "pictureSource": "L'Équipe",
-      "relatedSearch": [
-        {
-          "title": "Enorme désillusion pour Thibaut Tricole, surpris par le Japonais Motomu Sakai au premier tour du Championnat du monde de fléchettes",
-          "snippet": "",
-          "url": "https://www.lequipe.fr/Flechettes/Actualites/Enorme-desillusion-pour-thibaut-tricole-surpris-par-le-japonais-motomu-sakai-au-premier-tour-du-championnat-du-monde-de-flechettes/1627920",
-          "source": "L'Équipe"
-        },
-        {
-          "title": "Un breton représente la France au Championnat du monde de fléchettes !",
-          "snippet": "",
-          "url": "https://hitwest.ouest-france.fr/thibault-tricole-le-breton-represente-la-france-au-championnat-du-monde-des-flechettes",
-          "source": "Hit West"
-        },
-        {
-          "title": "Fléchettes : «Je ne me fixe pas de limites», Thibault Tricole continue son ascension et vise haut avant les Mondiaux",
-          "snippet": "",
-          "url": "https://www.lefigaro.fr/sports/autres-sports/flechettes-je-ne-me-fixe-pas-de-limites-thibault-tricole-continue-son-ascension-et-vise-haut-avant-les-mondiaux-20251218",
-          "source": "Le Figaro"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "marion maréchal",
       "trafficCount": "200+",
       "pubDate": "Thu, 18 Dec 2025 14:40:00 -0800",
@@ -137,6 +109,34 @@
           "snippet": "",
           "url": "https://actu.fr/ile-de-france/saint-germain-en-laye_78551/il-y-a-un-risque-de-fraude-les-services-de-letat-passent-ce-marche-de-noel-des-yvelines-au-crible_63588997.html",
           "source": "Actu.fr"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "thibault tricole",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 18 Dec 2025 14:30:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTH7QqbY3Bm78B0sQqBYuYounNomdYN2ZUNwS1wJ0YQXwM2hhRbogQAS7ZqZNQ",
+      "pictureSource": "L'Équipe",
+      "relatedSearch": [
+        {
+          "title": "Enorme désillusion pour Thibaut Tricole, surpris par le Japonais Motomu Sakai au premier tour du Championnat du monde de fléchettes",
+          "snippet": "",
+          "url": "https://www.lequipe.fr/Flechettes/Actualites/Enorme-desillusion-pour-thibaut-tricole-surpris-par-le-japonais-motomu-sakai-au-premier-tour-du-championnat-du-monde-de-flechettes/1627920",
+          "source": "L'Équipe"
+        },
+        {
+          "title": "Un breton représente la France au Championnat du monde de fléchettes !",
+          "snippet": "",
+          "url": "https://hitwest.ouest-france.fr/thibault-tricole-le-breton-represente-la-france-au-championnat-du-monde-des-flechettes",
+          "source": "Hit West"
+        },
+        {
+          "title": "Fléchettes : «Je ne me fixe pas de limites», Thibault Tricole continue son ascension et vise haut avant les Mondiaux",
+          "snippet": "",
+          "url": "https://www.lefigaro.fr/sports/autres-sports/flechettes-je-ne-me-fixe-pas-de-limites-thibault-tricole-continue-son-ascension-et-vise-haut-avant-les-mondiaux-20251218",
+          "source": "Le Figaro"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,10 +245,10 @@
           "source": "FDP Radio"
         },
         {
-          "title": "VÍDEO | Alcaraz reaparece tras su ruptura con Ferrero: Saque de honor y ovación en el Murcia-Betis",
+          "title": "Alcaraz realizó el saque de honor en el partido entre el Real Murcia y Real Betis",
           "snippet": "",
-          "url": "https://espanol.eurosport.com/futbol/copa-del-rey/2025-2026/carlos-alcaraz-reaparece-juan-carlos-ferrero-saque-honor-murcia-betis_sto23251928/story.shtml",
-          "source": "Eurosport"
+          "url": "https://www.puntodebreak.com/2025/12/18/alcaraz-realizo-saque-honor-partido-real-murcia-real-betis",
+          "source": "Punto de Break"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -261,7 +261,7 @@
       "pictureSource": "La Gazzetta dello Sport",
       "relatedSearch": [
         {
-          "title": "La Fiorentina cade anche a Losanna e va allo spareggio di Conference",
+          "title": "La Fiorentina cade anche a Losanna e va ai playoff. Ecco gli avversari possibili",
           "snippet": "",
           "url": "https://www.gazzetta.it/Calcio/Serie-A/Fiorentina/18-12-2025/losanna-fiorentina-live-risultato-e-gol-in-diretta-conference-league.shtml",
           "source": "La Gazzetta dello Sport"

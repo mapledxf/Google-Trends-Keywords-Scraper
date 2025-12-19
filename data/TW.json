@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-19 14:20:14",
+  "lastUpdate": "2025-12-19 14:42:02",
   "data": [
     {
       "title": "ait",
@@ -98,9 +98,15 @@
       "title": "nhk",
       "trafficCount": "100+",
       "pubDate": "Fri, 19 Dec 2025 05:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzBxoZQQ9BzDxaLvg_0m-7n28TvyJyO2x99ng8-BhGaQTQnJruE-l6hFjlqL0",
-      "pictureSource": "Yahoo!ニュース",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCWRlQ2ioPa9XunTlpBFHHPH2vBSSwZ0lo0NE9Gi1joJxXFAVZRDzwZTAUSHg",
+      "pictureSource": "NHKニュース",
       "relatedSearch": [
+        {
+          "title": "NHK紅白歌合戦 出場歌手の曲目を発表",
+          "snippet": "",
+          "url": "https://news.web.nhk/newsweb/na/na-k10015007331000",
+          "source": "NHKニュース"
+        },
         {
           "title": "【紅白】曲目発表 AKB48、SixTONES、TUBE…メドレー多めの構成に【一覧】（オリコン）",
           "snippet": "",
@@ -112,27 +118,77 @@
           "snippet": "",
           "url": "https://www.oricon.co.jp/news/2425969/photo/2/",
           "source": "オリコンニュース"
-        },
-        {
-          "title": "【紅白】ミャクミャク登場決定！天童よしみとコラボ“キレキレダンス”披露「きた」「今年の顔」ネット歓喜",
-          "snippet": "",
-          "url": "https://topics.smt.docomo.ne.jp/article/sponichi/entertainment/sponichi-spngoo-20251219-0187",
-          "source": "ｄメニューニュース"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "taipei main station",
+      "title": "thời tiết ngày mai",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 19 Dec 2025 04:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQkkQxamUZ2gpI_8Hfl3dHz0WHLXwXehB5dXz7-bs2WfhskrRDYh1znYNH_WQ",
+      "pictureSource": "Báo Nông nghiệp và Môi trường",
+      "relatedSearch": [
+        {
+          "title": "Dự báo thời tiết ngày mai 20/12/2025: Cảnh báo sạt lở đất ở Lâm Đồng",
+          "snippet": "",
+          "url": "https://nongnghiepmoitruong.vn/du-bao-thoi-tiet-ngay-mai-20-12-2025-canh-bao-sat-lo-dat-o-lam-dong-d790308.html",
+          "source": "Báo Nông nghiệp và Môi trường"
+        },
+        {
+          "title": "Bản tin dự báo thời tiết đêm nay và ngày mai 20.12",
+          "snippet": "",
+          "url": "https://laodong.vn/video-xa-hoi/ban-tin-du-bao-thoi-tiet-dem-nay-va-ngay-mai-2012-1628070.ldo",
+          "source": "Laodong.vn"
+        },
+        {
+          "title": "Tin tức 24h: Không khí lạnh sắp về, nhiệt độ Hà Nội sẽ thay đổi \"lạ”, liệu có mưa không?",
+          "snippet": "",
+          "url": "https://eva.vn/tin-tuc/tin-tuc-24h-khong-khi-lanh-sap-ve-nhiet-do-ha-noi-se-thay-doi-la-lieu-co-mua-khong-c73a657260.html",
+          "source": "Eva.vn"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "bbc",
       "trafficCount": "200+",
-      "pubDate": "Fri, 19 Dec 2025 04:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVZnPlifTwG6a6Vac9tcBURfzj_W8Kcpq4_76bF02SGgNNNhYpqYEy-ioqVfk",
+      "pubDate": "Fri, 19 Dec 2025 04:30:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPzkJwMpHzK_eQdId-oaQylQqMKNFzxmTBIVf1NkE3deEFU39RUeCxopBxItk",
+      "pictureSource": "Australia Israel & Jewish Affairs Council (AIJAC)",
+      "relatedSearch": [
+        {
+          "title": "Europa Europa: Auntie-dote required",
+          "snippet": "",
+          "url": "https://aijac.org.au/australia-israel-review/europa-europa-auntie-dote-required/",
+          "source": "Australia Israel & Jewish Affairs Council (AIJAC)"
+        },
+        {
+          "title": "BBC to review Middle East coverage in wake of bias scandal",
+          "snippet": "",
+          "url": "https://www.telegraph.co.uk/news/2025/12/19/bbc-to-review-middle-east-coverage-in-wake-of-bias-scandal/",
+          "source": "The Telegraph"
+        },
+        {
+          "title": "‘The BBC’s bias stretches back decades’",
+          "snippet": "",
+          "url": "https://www.spiked-online.com/2025/12/19/the-bbcs-bias-stretches-back-decades/",
+          "source": "Spiked"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "taiwan news",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 19 Dec 2025 04:20:00 -0800",
+      "picture": "",
       "pictureSource": "Focus Taiwan",
       "relatedSearch": [
         {
-          "title": "Smoke grenade thrown in MRT Taipei Main Station leaves 1 injured",
+          "title": "1 dead, 8 injured in Taipei knife attack linked to smoke grenade suspect",
           "snippet": "",
-          "url": "https://focustaiwan.tw/society/202512190015",
+          "url": "https://focustaiwan.tw/society/202512190017",
           "source": "Focus Taiwan"
         },
         {
@@ -151,94 +207,57 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "今日新聞",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 19 Dec 2025 04:40:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "thời tiết ngày mai",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 19 Dec 2025 04:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGX5kZgpjZYqOuSP9rJu7tj8IDrYkn7zn9Hcwv6IQRQGkJQPVziaq13YhGB58",
-      "pictureSource": "Báo điện tử Tiền Phong",
-      "relatedSearch": [
-        {
-          "title": "Không khí lạnh sắp về: Nhiệt độ Hà Nội sẽ thay đổi “lạ”, liệu có mưa không?",
-          "snippet": "",
-          "url": "https://hoahoctro.tienphong.vn/khong-khi-lanh-sap-ve-nhiet-do-ha-noi-se-thay-doi-la-lieu-co-mua-khong-post1806040.tpo",
-          "source": "Báo điện tử Tiền Phong"
-        },
-        {
-          "title": "Dự báo thời tiết ngày mai 20/12/2025: Cảnh báo sạt lở đất ở Lâm Đồng",
-          "snippet": "",
-          "url": "https://nongnghiepmoitruong.vn/du-bao-thoi-tiet-ngay-mai-20-12-2025-canh-bao-sat-lo-dat-o-lam-dong-d790308.html",
-          "source": "Báo Nông nghiệp và Môi trường"
-        },
-        {
-          "title": "Bản tin dự báo thời tiết đêm nay và ngày mai 20.12",
-          "snippet": "",
-          "url": "https://laodong.vn/video-xa-hoi/ban-tin-du-bao-thoi-tiet-dem-nay-va-ngay-mai-2012-1628070.ldo",
-          "source": "Laodong.vn"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "bbc",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 19 Dec 2025 04:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2osXFvPCt3e31z_d8TiwwS9OISYkr6b6fvDglbKMbDCQ8bCuLQ29zxf1XUcQ",
-      "pictureSource": "Yahoo News UK",
-      "relatedSearch": [
-        {
-          "title": "Rory McIlroy named BBC Sports Personality of the Year",
-          "snippet": "",
-          "url": "https://uk.news.yahoo.com/rory-mcilroy-named-bbc-sports-215616103.html",
-          "source": "Yahoo News UK"
-        },
-        {
-          "title": "Spoty’s problem is we already know 2025’s real winners",
-          "snippet": "",
-          "url": "https://observer.co.uk/news/sport/article/spotys-problem-is-we-already-know-2025s-real-winners",
-          "source": "The Observer"
-        },
-        {
-          "title": "‘A great night for golf’: McIlroy hails Spoty success after individual and team awards",
-          "snippet": "",
-          "url": "https://www.theguardian.com/sport/2025/dec/19/a-great-night-for-golf-mcilroy-hails-spoty-success-after-individual-and-team-awards",
-          "source": "The Guardian"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "taiwan news",
+      "title": "taiwan",
       "trafficCount": "200+",
       "pubDate": "Fri, 19 Dec 2025 04:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSi97wR9xkMy-rQiaya7VKtMODzXpXXgJ7KBif2rMbgdtHprloE3c3bakWFShc",
-      "pictureSource": "Taiwan News",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eFpZLRMkac7k9dRMx_JCbhcAV8q2w93tncRnf96lKc1VX6duZm1JwLsyB6o",
+      "pictureSource": "Focus Taiwan",
       "relatedSearch": [
         {
-          "title": "National Taiwan University begins longest winter break in school history",
+          "title": "Opposition lawmakers propose Control Yuan impeach premier over fiscal law",
           "snippet": "",
-          "url": "https://taiwannews.com.tw/en/news/6268804",
-          "source": "Taiwan News"
+          "url": "https://focustaiwan.tw/politics/202512180023",
+          "source": "Focus Taiwan"
         },
         {
-          "title": "GXO Appoints Karen Bomber as Chief Commercial Officer",
+          "title": "DPP challenges opposition to call for a no-confidence vote",
           "snippet": "",
-          "url": "https://www.taiwannews.com.tw/en/news/6268954",
-          "source": "Taiwan News"
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2025/12/19/2003849159",
+          "source": "Taipei Times"
         },
         {
-          "title": "Did Leadership Shifts and New COO Hire Just Shift GXO Logistics' (GXO) Investment Narrative?",
+          "title": "Taiwan’s opposition lawmakers call for impeachment of president",
           "snippet": "",
-          "url": "https://simplywall.st/stocks/us/transportation/nyse-gxo/gxo-logistics/news/did-leadership-shifts-and-new-coo-hire-just-shift-gxo-logist",
-          "source": "Simply Wall Street"
+          "url": "https://www.taiwannews.com.tw/en/news/6268587",
+          "source": "Taiwan News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "taipei",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 19 Dec 2025 04:00:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiQd7RXZTwU6IR5wwWdn_9zfgQP_5Y8FgFPpANw5wfF0q7Wi9OxA7g54htooQ",
+      "pictureSource": "GNN 新聞網",
+      "relatedSearch": [
+        {
+          "title": "AZKi、森森鈴蘭、厄倫蒂兒齊聚一堂！「TUBEOUT! in TAIPEI」宣布 2 月在台展開",
+          "snippet": "",
+          "url": "https://gnn.gamer.com.tw/detail.php?sn=297450",
+          "source": "GNN 新聞網"
+        },
+        {
+          "title": "hololive「AZKi」跨界合作台V「森森鈴蘭、厄倫蒂兒」台北演唱會2月登場！門票這天開賣",
+          "snippet": "",
+          "url": "https://tw.news.yahoo.com/hololive%E3%80%8Cazki%E3%80%8D%E8%B7%A8%E7%95%8C%E5%90%88%E4%BD%9C%E5%8F%B0v%E3%80%8C%E6%A3%AE%E6%A3%AE%E9%88%B4%E8%98%AD%E3%80%81%E5%8E%84%E5%80%AB%E8%92%82%E5%85%92%E3%80%8D%E5%8F%B0%E5%8C%97%E6%BC%94%E5%94%B1%E6%9C%832%E6%9C%88%E7%99%BB%E5%A0%B4%EF%BC%81%E9%96%80%E7%A5%A8%E9%80%99%E5%A4%A9%E9%96%8B%E8%B3%A3-043636581.html",
+          "source": "奇摩新聞"
+        },
+        {
+          "title": "hololive AZKi攜手森森鈴蘭、厄倫蒂兒登2/7「TUBEOUT!虛擬偶像音樂節」",
+          "snippet": "",
+          "url": "https://game.udn.com/game/story/122089/9213695",
+          "source": "udn遊戲角落"
         }
       ],
       "link": "https://imtaqin.id/"

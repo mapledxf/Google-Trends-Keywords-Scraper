@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2025-12-19 16:26:03",
+  "lastUpdate": "2025-12-19 16:49:14",
   "data": [
+    {
+      "title": "thierry henry",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 19 Dec 2025 07:20:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2eUNAHqzUF6A5UEzMyhSLlTD77-eIJmTVhnVtYFsq-9mYxJZGXh0Ucy_vPp0",
+      "pictureSource": "Yahoo Sports",
+      "relatedSearch": [
+        {
+          "title": "Thierry Henry makes a telling Trossard comparison Arsenal fans will recognise",
+          "snippet": "",
+          "url": "https://sports.yahoo.com/articles/thierry-henry-makes-telling-trossard-220207819.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Thierry Henry Shares His Thoughts on Leandro Trossard",
+          "snippet": "",
+          "url": "https://zamin.uz/en/sport/177171-thierry-henry-shares-his-thoughts-on-leandro-trossard.html",
+          "source": "Zamin.uz"
+        },
+        {
+          "title": "Leandro Trossard compared to Arsenal cult hero by Thierry Henry as former Gunners star admits he's not been completely impressed with Belgium winger",
+          "snippet": "",
+          "url": "https://www.goal.com/en-ca/lists/leandro-trossard-thierry-henry-arsenal/bltffa2f00a25ab9cf8",
+          "source": "Goal.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "weather",
       "trafficCount": "1000+",
       "pubDate": "Thu, 18 Dec 2025 21:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMJe8ik65JLGlXMKKhI1I6gvipstEBfvGnXvr1cpw9BIQl-TEt90uQPRdXbu0",
-      "pictureSource": "9News",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScwVSYu-3QFARoddyO19VIj0i2WM-Y46TT8A_aGJFWAlU2CTxDzW5tSodIoOA",
+      "pictureSource": "San Francisco Chronicle",
       "relatedSearch": [
         {
-          "title": "About 89,000 customers without power due to strong winds, wildfire risk",
+          "title": "The next Bay Area storm is on the way. This timeline shows when heaviest rain will hit",
           "snippet": "",
-          "url": "https://www.9news.com/article/news/local/xcel-public-safety-power-shutoff-friday/73-deabe088-39c8-4c8b-bd4d-816b3abc3034",
-          "source": "9News"
+          "url": "https://www.sfchronicle.com/weather-forecast/article/rain-atmospheric-river-san-francisco-21250519.php",
+          "source": "San Francisco Chronicle"
         },
         {
-          "title": "High Winds in Denver Prompt Warnings About Significant Fire Risk",
+          "title": "Multiple Storms to Impact the Central Coast Through Christmas Day",
           "snippet": "",
-          "url": "https://www.nytimes.com/2025/12/19/weather/denver-winds-fire-colorado.html",
-          "source": "The New York Times"
+          "url": "https://www.ksbw.com/article/multiple-storms-to-impact-the-central-coast-through-christmas-day/69819872",
+          "source": "KSBW"
         },
         {
-          "title": "City of Boulder To Close All Open Space and Mountain Parks Property Friday, Dec. 19",
+          "title": "Atmospheric river to bring 7 straight days of rain to SF Bay Area",
           "snippet": "",
-          "url": "https://bouldercolorado.gov/news/city-boulder-close-all-open-space-and-mountain-parks-property-friday-dec-19",
-          "source": "City of Boulder (.gov)"
+          "url": "https://www.sfgate.com/weather/article/atmospheric-river-wet-weather-bay-area-21250171.php",
+          "source": "SFGATE"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,9 +61,15 @@
       "title": "météo",
       "trafficCount": "20000+",
       "pubDate": "Thu, 18 Dec 2025 21:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZYtmSwPdRA-VqvWjyJ7legekhoUTpH8x2Nk-opN2GPkVJ_Nv71tCkFpMiVpk",
-      "pictureSource": "Tameteo.com",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLdyLSUtWQ_TUI9N6sgduyJFRFoqC9CYaRdW4Cttrv-GDwlIEGAxCR56aV2Sg",
+      "pictureSource": "La Chaîne Météo",
       "relatedSearch": [
+        {
+          "title": "Alerte Météo : Nouvel épisode méditerranéen : pluies intenses jusqu'à lundi",
+          "snippet": "",
+          "url": "https://actualite.lachainemeteo.com/alerte-meteo/8933-nouvel-episode-mediterraneen-pluies-intenses-jusqu-a-lundi",
+          "source": "La Chaîne Météo"
+        },
         {
           "title": "Météo du week-end : quel temps pour le début de vos vacances ? Le général hiver ou bien grande douceur ?",
           "snippet": "",
@@ -47,12 +81,6 @@
           "snippet": "",
           "url": "https://fr.news.yahoo.com/m%C3%A9t%C3%A9o-gard-plac%C3%A9-alerte-orange-153954940.html",
           "source": "Yahoo Actualités"
-        },
-        {
-          "title": "Météo : un ciel tranquille aujourd’hui",
-          "snippet": "",
-          "url": "https://imazpress.com/meteo/meteo-un-ciel-tranquille-aujourd-hui",
-          "source": "Imaz Press"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -77,10 +105,10 @@
           "source": "NEWS10 ABC"
         },
         {
-          "title": "Northeast: Windy Front Could Bring Damaging Gusts, Travel Woes",
+          "title": "Storm Team 11: Windy and cooler today",
           "snippet": "",
-          "url": "https://weather.com/forecast/regional/video/northeast-cold-front-high-winds-rain-snow-holiday-travel-forecast",
-          "source": "The Weather Channel"
+          "url": "https://www.wjhl.com/wjhl-weather/forecast/storm-team-11-windy-and-cooler-today/",
+          "source": "WJHL"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,14 +145,14 @@
       "title": "météo pour demain",
       "trafficCount": "200+",
       "pubDate": "Thu, 18 Dec 2025 12:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2mWNYF1_hIX1lS8kQpFHg1jDKBIdIc0__EK65dkc9cuwrgyusz5ScLcSpDIY",
-      "pictureSource": "Mosaique FM",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_XCKwFBQBN7sbf9RcgsuUwDLGUX4DJioJvZYGfQU95JaKZAMa2umMPSlTLmo",
+      "pictureSource": "CNews",
       "relatedSearch": [
         {
-          "title": "Vacances scolaires : Appel aux usagers de la route à la prudence",
+          "title": "Premier week-end des vacances de Noël : à quoi faut-il s'attendre sur les routes, dans les gares et dans les aéroports ?",
           "snippet": "",
-          "url": "https://www.mosaiquefm.net/fr/national-tunisie/1488358/vacances-scolaires-appel-aux-usagers-de-la-route-a-la-prudence",
-          "source": "Mosaique FM"
+          "url": "https://www.cnews.fr/france/2025-12-19/premier-week-end-des-vacances-de-noel-quoi-faut-il-sattendre-sur-les-routes-dans",
+          "source": "CNews"
         },
         {
           "title": "PARIS : Un trafic plus important attendu dès ce week-end, i…",
@@ -155,16 +183,16 @@
           "source": "Masrawy"
         },
         {
-          "title": "حالة الطقس اليوم الجمعة .. انخفاض شديد في درجات الحرارة ونشاط لحركة الرياح",
+          "title": "📌حالة الطقس المتوقعة من السبت ٢٠ ديسمبر حتى يوم الأربعاء ٢٤ ديسمبر ٢٠٢٥.",
           "snippet": "",
-          "url": "https://www.elbalad.news/6805874",
-          "source": "صدى البلد"
+          "url": "https://www.facebook.com/ema.gov.eg/posts/%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B7%D9%82%D8%B3-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%82%D8%B9%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA-%D9%A2%D9%A0-%D8%AF%D9%8A%D8%B3%D9%85%D8%A8%D8%B1-%D8%AD%D8%AA%D9%89-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%B9%D8%A7%D8%A1-%D9%A2%D9%A4-%D8%AF%D9%8A%D8%B3%D9%85%D8%A8%D8%B1-%D9%A2%D9%A0%D9%A2%D9%A5/1285657430259488/",
+          "source": "Facebook"
         },
         {
-          "title": "🌡️درجة الحرارة العظمى المتوقعة اليوم فى القاهرة الكبرى 21 درجة",
+          "title": "طقس غير مستقر يضرب البلاد لمدة 3 أيام.. شبورة ورياح على المناطق الشمالية",
           "snippet": "",
-          "url": "https://www.facebook.com/ema.gov.eg/posts/%EF%B8%8F%D8%AF%D8%B1%D8%AC%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D8%B8%D9%85%D9%89-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%82%D8%B9%D8%A9-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%81%D9%89-%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-%D8%A7%D9%84%D9%83%D8%A8%D8%B1%D9%8921-%D8%AF%D8%B1%D8%AC%D8%A9/1286272940197937/",
-          "source": "Facebook"
+          "url": "https://www.elwatannews.com/news/details/8192793",
+          "source": "الوطن"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,26 +201,26 @@
       "title": "weather tomorrow",
       "trafficCount": "2000+",
       "pubDate": "Thu, 18 Dec 2025 11:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkfn-naRaKB0CxrcymIe5XwGxGMTODvrfdmHJSkkUXdqJWyv1J6p6G7RrihZQ",
-      "pictureSource": "KGW",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2xpsp72LI2KG3Y3Qf50VJOIYK_YNz3b4uMkbNgETtbmGX4Zzja69jLQcWcpw",
+      "pictureSource": "KATU",
       "relatedSearch": [
         {
-          "title": "Landslide closes Historic Columbia River Highway near Vista House",
+          "title": "Clackamas County residents face evacuation as major flooding threatens multiple areas",
           "snippet": "",
-          "url": "https://www.kgw.com/article/weather/severe-weather/landslide-historic-columbia-river-highway/283-10b52827-644c-42b9-aaed-776da3bc7bf7",
-          "source": "KGW"
+          "url": "https://katu.com/news/local/clackamas-county-residents-face-evacuation-as-major-flooding-threatens-multiple-areas",
+          "source": "KATU"
         },
         {
-          "title": "Level 3 evacuations in place around Clackamas County after flooding",
+          "title": "Rain batters as Oregon and SW Washington flood watches remain in effect, road closures hit",
           "snippet": "",
-          "url": "https://www.koin.com/local/clackamas-county/level-3-evacuations-in-place-around-clackamas-county-after-flooding/",
+          "url": "https://www.opb.org/article/2025/12/19/oregon-sw-washington-rain-flood-watches-rivers-rising-road-closures/",
+          "source": "Oregon Public Broadcasting - OPB"
+        },
+        {
+          "title": "City of Molalla could become ‘island’ as 3 rivers reach flood stage",
+          "snippet": "",
+          "url": "https://www.koin.com/local/clackamas-county/molalla-island-three-rivers-reach-flood-stage/",
           "source": "KOIN.com"
-        },
-        {
-          "title": "LOCAL ALERT WEATHER DAY: Winter Storm Warning Issued for Central Oregon",
-          "snippet": "",
-          "url": "https://ktvz.com/weather/alerts-weather/2025/12/18/winter-storm-warning-issued-december-18-at-300pm-pst-until-december-20-at-1000am-pst-by-nws-pendleton-or/",
-          "source": "KTVZ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://telquel.ma/instant-t/2025/12/18/coupe-arabe-qatar-2025-le-maroc-sacre-champion-aux-depens-de-la-jordanie-3-2_1966016/",
           "source": "Telquel.ma"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "jordan vs morocco",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 18 Dec 2025 10:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtBtNxCXpKTlzUmd9s6JkpW6x7SzyUs2Vfod2L4CEP7JhMIcVDrx811dDKuxo",
-      "pictureSource": "Confédération Africaine de Football",
-      "relatedSearch": [
-        {
-          "title": "Morocco’s Arab Cup triumph ignites nationwide celebration ahead of AFCON kick-off",
-          "snippet": "",
-          "url": "https://www.cafonline.com/news/morocco-s-arab-cup-triumph-ignites-nationwide-celebration-ahead-of-afcon-kick-off/",
-          "source": "Confédération Africaine de Football"
-        },
-        {
-          "title": "Arab Nations Cup: The Moroccan experience versus the Jordanian dream",
-          "snippet": "",
-          "url": "https://webdo.tn/en/actualite/sport/arab-nations-cup-the-moroccan-experience-versus-the-jordanian-dream/399575/",
-          "source": "webdo"
-        },
-        {
-          "title": "King Mohammed VI congratulates Morocco's national team on Arab Cup Qatar 2025 victory",
-          "snippet": "",
-          "url": "https://en.yabiladi.com/articles/details/183831/king-mohammed-congratulates-morocco-s-national.html",
-          "source": "Yabiladi.com"
         }
       ],
       "link": "https://imtaqin.id/"

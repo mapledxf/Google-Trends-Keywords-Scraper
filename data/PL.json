@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-12-20 09:42:48",
+  "lastUpdate": "2025-12-20 09:50:35",
   "data": [
     {
       "title": "ingres kard rysia",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 20 Dec 2025 01:10:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzeg0kATmS5yjeYgGnJv_Es9HlcczmdFk9W_UtUg9mSdxnFS93KT6x5M7axNw",
       "pictureSource": "Wydarzenia w INTERIA.PL",
@@ -33,9 +33,15 @@
       "title": "fala chłodu",
       "trafficCount": "500+",
       "pubDate": "Sat, 20 Dec 2025 01:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhLSnzezIA_4BzwtN1jw0cdv8jWeM1NpZe5QCBwjtbTAEPohJ6tU97ASUxS2E",
-      "pictureSource": "TwojaPogoda.pl",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0aGYSDjnf1YC-32fW48lI4mhdy40f2XfVgxIY0HW7lsmefRMiGiiC_aKpJ5s",
+      "pictureSource": "Onet",
       "relatedSearch": [
+        {
+          "title": "Potężny antycyklon sprowadzi do Polski zimę. Mróz uderzy od wschodu",
+          "snippet": "",
+          "url": "https://www.onet.pl/informacje/onetwiadomosci/fala-mroznej-pogody-wtargnie-do-polski-od-wschodu-nadchodzi-potezny-antycyklon/1mtf74m,79cfc278",
+          "source": "Onet"
+        },
         {
           "title": "Do Polski zmierzają śnieżyce i silne mrozy. Jest dokładna data",
           "snippet": "",
@@ -47,12 +53,6 @@
           "snippet": "",
           "url": "https://wiadomosci.gazeta.pl/pogoda-i-klimat/7,198071,32483345,pogoda-w-wigilie-i-swieta-prognozy-daja-nadzieje.html",
           "source": "Gazeta"
-        },
-        {
-          "title": "Potężny antycyklon sprowadzi do Polski zimę. Mróz uderzy od wschodu",
-          "snippet": "",
-          "url": "https://www.onet.pl/informacje/onetwiadomosci/fala-mroznej-pogody-wtargnie-do-polski-od-wschodu-nadchodzi-potezny-antycyklon/1mtf74m,79cfc278",
-          "source": "Onet"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -142,34 +142,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "zabic miss",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 20 Dec 2025 00:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRML6Sqa80NSK3xkWXBrtvpKwqUE2jvfSUEBXEJx3oL74TJMtTkMNzOeXV92XE",
-      "pictureSource": "wroclaw.wyborcza.pl",
-      "relatedSearch": [
-        {
-          "title": "Pisano, że Miss Polski Agnieszka Kotlarska została zabita z miłości. Ale prawda jest inna",
-          "snippet": "",
-          "url": "https://wroclaw.wyborcza.pl/wroclaw/7,35771,32475455,jak-poznawalam-historie-miss-agnieszki-kotlarskiej.html",
-          "source": "wroclaw.wyborcza.pl"
-        },
-        {
-          "title": "Stalker, którego nikt nie powstrzymał. Wstrząsający dokument o Agnieszce Kotlarskiej",
-          "snippet": "",
-          "url": "https://film.wp.pl/stalker-ktorego-nikt-nie-powstrzymal-wstrzasajacy-dokument-o-agnieszce-kotlarskiej-7233756631153152a",
-          "source": "WP Film"
-        },
-        {
-          "title": "Serial o Agnieszce Kotlarskiej i stalkingu. \"Zabić Miss\" już w sieci",
-          "snippet": "",
-          "url": "https://trojka.polskieradio.pl/artykul/3613293,serial-o-agnieszce-kotlarskiej-i-stalkingu-zabic-miss-juz-w-sieci",
-          "source": "Trójka – Program Trzeci Polskiego Radia"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "karaiby",
       "trafficCount": "200+",
       "pubDate": "Sat, 20 Dec 2025 00:20:00 -0800",
@@ -193,6 +165,34 @@
           "snippet": "",
           "url": "https://www.cbsnews.com/news/trump-doubles-number-of-countries-facing-travel-bans-bringing-list-to-39-nations/",
           "source": "CBS News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "zabic miss",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 20 Dec 2025 00:20:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRML6Sqa80NSK3xkWXBrtvpKwqUE2jvfSUEBXEJx3oL74TJMtTkMNzOeXV92XE",
+      "pictureSource": "wroclaw.wyborcza.pl",
+      "relatedSearch": [
+        {
+          "title": "Pisano, że Miss Polski Agnieszka Kotlarska została zabita z miłości. Ale prawda jest inna",
+          "snippet": "",
+          "url": "https://wroclaw.wyborcza.pl/wroclaw/7,35771,32475455,jak-poznawalam-historie-miss-agnieszki-kotlarskiej.html",
+          "source": "wroclaw.wyborcza.pl"
+        },
+        {
+          "title": "Stalker, którego nikt nie powstrzymał. Wstrząsający dokument o Agnieszce Kotlarskiej",
+          "snippet": "",
+          "url": "https://film.wp.pl/stalker-ktorego-nikt-nie-powstrzymal-wstrzasajacy-dokument-o-agnieszce-kotlarskiej-7233756631153152a",
+          "source": "WP Film"
+        },
+        {
+          "title": "Serial o Agnieszce Kotlarskiej i stalkingu. \"Zabić Miss\" już w sieci",
+          "snippet": "",
+          "url": "https://trojka.polskieradio.pl/artykul/3613293,serial-o-agnieszce-kotlarskiej-i-stalkingu-zabic-miss-juz-w-sieci",
+          "source": "Trójka – Program Trzeci Polskiego Radia"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -227,7 +227,7 @@
     },
     {
       "title": "czy 21 grudnia to niedziela handlowa",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 19 Dec 2025 23:50:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjLodGI6TxmnqlKJt1aR28AeLdFhfHlbyhTITTxyZdppj5tjECidhrh-AiG9Q",
       "pictureSource": "WP Finanse",
@@ -239,10 +239,10 @@
           "source": "WP Finanse"
         },
         {
-          "title": "Niedziela handlowa 21.12.2025. Wszystkie sklepy otwarte 21 grudnia. Czy jutro jest niedziela handlowa?",
+          "title": "Czy 21 grudnia to niedziela handlowa? Te sklepy będą otwarte",
           "snippet": "",
-          "url": "https://forsal.pl/gospodarka/aktualnosci/artykuly/10607404,niedziela-handlowa-21122025-wszystkie-sklepy-otwarte-21-grudnia-czy-jutro-jest-niedziela-handlowa.html",
-          "source": "Forsal"
+          "url": "https://www.tokfm.pl/gospodarka/czy-21-grudnia-to-niedziela-handlowa-te-sklepy-beda-otwarte",
+          "source": "TOK FM"
         },
         {
           "title": "Zakupy w Wigilię i święta 2025: Sprawdź, które sklepy będą otwarte",
@@ -255,7 +255,7 @@
     },
     {
       "title": "makowiec",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 19 Dec 2025 23:30:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9h2zaoxmJNdHHDyV-sO_oXkFpXeI6HsXBXsBoIjLEk1lB1Sie_Wwid6I-Wig",
       "pictureSource": "Kobieta Interia",

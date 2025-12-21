@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-12-21 18:45:56",
+  "lastUpdate": "2025-12-21 18:56:47",
   "data": [
-    {
-      "title": "マンチェスターユナイテッド",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 21 Dec 2025 10:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3C1GR8nK46TRsdBhzYdN_V2updhXx77GMUQSQAtvCGKrhKuLNPy4PDwjCjRM",
-      "pictureSource": "Yahoo!ニュース",
-      "relatedSearch": [
-        {
-          "title": "「リヴァプールが最強だった頃を思い出してほしい」 マンチェスター・Uが再びリーグ優勝を手にするには「10年かかるかもしれない」とファーガソン氏が語る（theWORLD（ザ・ワールドWeb））",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/606b46573b80a753b1a62a7a4bec125cd005f71d",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "マンUのアモリム監督、若手の問題行動→退団圧力の流れを疑問視「留まって戦おう。乗り越えよう」",
-          "snippet": "",
-          "url": "https://www.soccer-king.jp/news/world/eng/20251220/2101756.html",
-          "source": "サッカーキング"
-        },
-        {
-          "title": "今のマンUはかつてのリバプール？ 超絶レジェンドの「優勝まであと10年」発言にアモリム監督が反論「それほどかからないだろう。ただ…」（SOCCER DIGEST Web）",
-          "snippet": "",
-          "url": "https://topics.smt.docomo.ne.jp/article/soccerdigestweb/sports/soccerdigestweb-183902",
-          "source": "ｄメニューニュース"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "井上梨名",
       "trafficCount": "100+",
@@ -58,6 +30,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "ハイデンハイム 対 バイエルン",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 21 Dec 2025 09:20:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQI4R_mLP9UoxY7ntzdjMB-8WcZzFNhVSq3Ya3d2nOvKjxloKuXh0zvixHqaAw",
+      "pictureSource": "Yahoo!ニュース",
+      "relatedSearch": [
+        {
+          "title": "先発出場の伊藤洋輝が追加点を演出！ バイエルン、年内ラストマッチを“4発完勝”で飾る（サッカーキング）",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/b414bab8eabb490e5bf0ef6aac02753e95b9c61c",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "【12月22日】ハイデンハイムvsバイエルンのテレビ放送/ネット配信予定・視聴方法｜ブンデスリーガ第15節",
+          "snippet": "",
+          "url": "https://www.dazn.com/ja-JP/news/%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC/heidenheim-bayern-bundesliga-md15-20251222/18palfp6oahgu12in3a1ewlsr5",
+          "source": "DAZN"
+        },
+        {
+          "title": "ブンデスリーガ 25/26 第15節 ハイデンハイム vs バイエルン・ミュンヘン 試合結果",
+          "snippet": "",
+          "url": "https://article.auone.jp/detail/1/6/12/512_12_r_20251222_1766342827413796",
+          "source": "au Webポータル"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "アストン・ビラ 対 マンu",
       "trafficCount": "500+",
       "pubDate": "Sun, 21 Dec 2025 09:00:00 -0800",
@@ -71,16 +71,16 @@
           "source": "Yahoo!ニュース"
         },
         {
+          "title": "プレミアリーグ 25/26 第17節 アストンビラ vs マンチェスター・ユナイテッド 試合結果",
+          "snippet": "",
+          "url": "https://topics.smt.docomo.ne.jp/article/sdaa/sports/sdaa-sdaa.jp-article-40745",
+          "source": "ｄメニューニュース"
+        },
+        {
           "title": "【12月22日】アストンビラvsマンチェスター・ユナイテッドのテレビ放送/ネット配信予定・視聴方法｜プレミアリーグ第17節",
           "snippet": "",
           "url": "https://www.dazn.com/ja-JP/news/%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC/aston-villa-manchester-united-premier-league-md17-20251222/1iek7dk5djfjs1ewha4rk05euq",
           "source": "DAZN"
-        },
-        {
-          "title": "M・ロジャーズが2試合連続の“ブレイス”！ アストン・ヴィラ、マンUを破って公式戦10連勝達成",
-          "snippet": "",
-          "url": "https://www.soccer-king.jp/news/world/eng/20251222/2102323.html",
-          "source": "サッカーキング"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -250,8 +250,8 @@
         {
           "title": "南野拓実がけがで交代 膝負傷か、フランス杯",
           "snippet": "",
-          "url": "https://www.tokyo-np.co.jp/article/457609?rct=sports",
-          "source": "東京新聞デジタル"
+          "url": "https://www.hokkaido-np.co.jp/article/1255135/",
+          "source": "北海道新聞デジタル"
         },
         {
           "title": "南野拓実がけがで交代",

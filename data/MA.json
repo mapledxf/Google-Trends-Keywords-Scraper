@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-24 23:32:39",
+  "lastUpdate": "2025-12-24 23:44:26",
   "data": [
     {
       "title": "tremblement de terre",
@@ -59,7 +59,7 @@
     },
     {
       "title": "earthquake",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 24 Dec 2025 14:50:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNwg0UuVjSnORDggOpyFD8R1m_Fohuz7EkJheNqoTr0a12cWO059MdrOUKcR0",
       "pictureSource": "Volcano Discovery",
@@ -71,9 +71,15 @@
           "source": "Volcano Discovery"
         },
         {
-          "title": "Weak mag. 2.8 earthquake - Alboran Sea, 19 km west of Al Hoceima, Tanger-Tetouan-Al Hoceima, Morocco, on Monday, Dec 22, 2025, at 11:36 pm (GMT +1)",
+          "title": "Unconfirmed quake or seismic-like event reported: 2.9 km east of Meknes, Fes-Meknes, Morocco, Thursday, Dec 25, 2025, at 12:24 am (GMT +1)",
           "snippet": "",
-          "url": "https://www.volcanodiscovery.com/earthquakes/quake-info/22532529/quake-felt-Dec-22-2025-Near-Malaga-Andalusia-Spain.html",
+          "url": "https://www.volcanodiscovery.com/earthquakes/quake-info/22539110/quake-felt-Dec-24-2025-Near-Meknes-Fes-Meknes-Morocco.html",
+          "source": "Volcano Discovery"
+        },
+        {
+          "title": "Unconfirmed quake or seismic-like event reported: Draa-Tafilalet, 2.9 km east of Meknes, Fes-Meknes, Morocco, Dec 25, 2025 12:24 am (GMT +1)",
+          "snippet": "",
+          "url": "https://www.volcanodiscovery.com/app/earthquakes/quake-info/22539110/quake-felt-Dec-24-2025-Near-Meknes-Fes-Meknes-Morocco.html",
           "source": "Volcano Discovery"
         }
       ],
@@ -83,9 +89,15 @@
       "title": "زلزال",
       "trafficCount": "500+",
       "pubDate": "Wed, 24 Dec 2025 14:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU1fM1RtPOgmI2E8gevXhxYTl3ePzAqkUqcN_75l56volQrtQbTe5cGh4YBB4",
-      "pictureSource": "تيليغراف.ما",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxTKJ_avaou7QhqKLbXTK7PVYVwzFruxnRTauajUvqP0Cck7Uj_iyLvZY7QAI",
+      "pictureSource": "مدار21",
       "relatedSearch": [
+        {
+          "title": "عاجل/ هزة أرضية خفيفة بمكناس ونواحيها",
+          "snippet": "",
+          "url": "https://madar21.com/395169.html",
+          "source": "مدار21"
+        },
         {
           "title": "زلزال بقوة 3.00 درجات يضرب جهة فاس-مكناس",
           "snippet": "",
@@ -97,12 +109,6 @@
           "snippet": "",
           "url": "https://media15.ma/2025/12/25/%D8%B2%D9%84%D8%B2%D8%A7%D9%84-%D8%AE%D9%81%D9%8A%D9%81-%D9%8A%D9%87%D8%B2-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%85%D9%83%D9%86%D8%A7%D8%B3-%D9%81%D8%A7%D8%B3-%D9%85%D9%83%D9%86%D8%A7%D8%B3/",
           "source": "ميديا15 جريدة الكترونية المصداقية والدقة في نقل الخبر"
-        },
-        {
-          "title": "زلزال بقوة 6.1 درجات يضرب تايوان",
-          "snippet": "",
-          "url": "https://www.hespress.com/%D8%B2%D9%84%D8%B2%D8%A7%D9%84-%D8%A8%D9%82%D9%88%D8%A9-6-1-%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA-%D9%8A%D8%B6%D8%B1%D8%A8-%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86-1676283.html",
-          "source": "Hespress"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -121,16 +127,16 @@
           "source": "EcoActu"
         },
         {
-          "title": "Barrages au 24 décembre 2025 : 113,66 Mm³ de plus en 24h",
-          "snippet": "",
-          "url": "https://medias24.com/2025/12/24/barrages-au-24-decembre-2025-11366-mm%C2%B3-de-plus-en-24h-1601895/",
-          "source": "Medias24"
-        },
-        {
           "title": "Inondations : 482 millions de m³ en dix jours, 48 projets lancés ou réalisés, l’État accélère le tempo",
           "snippet": "",
           "url": "https://ledesk.ma/2025/12/23/inondations-482-millions-de-m%C2%B3-en-dix-jours-48-projets-lances-ou-realises-letat-accelere-le-tempo/",
           "source": "Le Desk"
+        },
+        {
+          "title": "Barrages au 24 décembre 2025 : 113,66 Mm³ de plus en 24h",
+          "snippet": "",
+          "url": "https://medias24.com/2025/12/24/barrages-au-24-decembre-2025-11366-mm%C2%B3-de-plus-en-24h-1601895/",
+          "source": "Medias24"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -149,16 +155,16 @@
           "source": "الجزيرة نت"
         },
         {
-          "title": "مبومو يعيش حماسه الأول في كأس أمم إفريقيا: « لحظة انتظرتها طويلاً »",
-          "snippet": "",
-          "url": "https://www.cafonline.com/ar/afcon2025/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%85%D8%A8%D9%88%D9%85%D9%88-%D9%8A%D8%B9%D9%8A%D8%B4-%D8%AD%D9%85%D8%A7%D8%B3%D9%87-%D8%A7%D9%84%D8%A3%D9%88%D9%84-%D9%81%D9%8A-%D9%83%D8%A3%D8%B3-%D8%A3%D9%85%D9%85-%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7-%D9%84%D8%AD%D8%B8%D8%A9-%D8%A7%D9%86%D8%AA%D8%B8%D8%B1%D8%AA%D9%87%D8%A7-%D8%B7%D9%88%D9%8A%D9%84%D8%A7/",
-          "source": "Confédération Africaine de Football"
-        },
-        {
           "title": "نجم يونايتد: عائلتي تشعر بالفخر بسبب مشاركتي في كأس أفريقيا",
           "snippet": "",
           "url": "https://www.alarabiya.net/sport/2025/12/24/%D9%86%D8%AC%D9%85-%D9%8A%D9%88%D9%86%D8%A7%D9%8A%D8%AA%D8%AF-%D8%B9%D8%A7%D8%A6%D9%84%D8%AA%D9%8A-%D8%AA%D8%B4%D8%B9%D8%B1-%D8%A8%D8%A7%D9%84%D9%81%D8%AE%D8%B1-%D8%A8%D8%B3%D8%A8%D8%A8-%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%AA%D9%8A-%D9%81%D9%8A-%D9%83%D8%A7%D8%B3-%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7",
           "source": "العربية"
+        },
+        {
+          "title": "35200 متفرج.. عدد الحضور الجماهيري في ملعب أكادير الكبير خلال مواجهة الكاميرون والغابون",
+          "snippet": "",
+          "url": "https://m.elbotola.com/article/2025-12-24-22-14-895.html",
+          "source": "Elbotola"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -255,9 +261,9 @@
       "pictureSource": "Le Monde.fr",
       "relatedSearch": [
         {
-          "title": "Mohammed Ali Ahmed Al-Haddad, le chef d’état-major libyen, meurt dans un accident d’avion en Turquie",
+          "title": "L’avion du chef d’état-major libyen disparaît après son décollage d’Ankara",
           "snippet": "",
-          "url": "https://www.lemonde.fr/international/article/2025/12/24/le-chef-d-etat-major-libyen-meurt-dans-un-accident-d-avion-en-turquie_6659265_3211.html",
+          "url": "https://www.lemonde.fr/international/article/2025/12/23/l-avion-du-chef-d-etat-major-libyen-disparait-apres-son-decollage-d-ankara_6659265_3210.html",
           "source": "Le Monde.fr"
         },
         {

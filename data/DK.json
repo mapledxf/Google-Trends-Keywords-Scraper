@@ -1,10 +1,38 @@
 {
-  "lastUpdate": "2025-12-24 14:35:27",
+  "lastUpdate": "2025-12-24 14:49:17",
   "data": [
     {
-      "title": "dr tv",
+      "title": "dr1",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 24 Dec 2025 06:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0emysVIofuAS2TKttg_NMAZTxaw_7EfQA9uTuAk6VhR-qlA55dGLutzlEARU",
+      "pictureSource": "https://www.tvguide.dk",
+      "relatedSearch": [
+        {
+          "title": "28/12 01:55 | Dead for a Dollar (2022) på DR1",
+          "snippet": "",
+          "url": "https://www.tvguide.dk/programmer/dr1/2025-12-28/01:55/dead-for-a-dollar",
+          "source": "https://www.tvguide.dk"
+        },
+        {
+          "title": "28/12 23:00 | The Imitation Game (2014) på DR1",
+          "snippet": "",
+          "url": "https://www.tvguide.dk/programmer/dr1/2025-12-28/23:00/the-imitation-game",
+          "source": "https://www.tvguide.dk"
+        },
+        {
+          "title": "27/12 22:25 | Kriminalkommissær Barnaby på DR1",
+          "snippet": "",
+          "url": "https://www.tvguide.dk/programmer/dr1/2025-12-27/22:25/kriminalkommissaer-barnaby",
+          "source": "https://www.tvguide.dk"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "dr tv guide",
       "trafficCount": "200+",
-      "pubDate": "Wed, 24 Dec 2025 06:00:00 -0800",
+      "pubDate": "Wed, 24 Dec 2025 05:30:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3SPCrqr-K71hmiH7aIL8DB9UEdG-PZMBoQgEQyq6rRWcsaSfE8wyzTKKAgMU",
       "pictureSource": "digitalt.tv",
       "relatedSearch": [
@@ -30,36 +58,8 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "christmas",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 24 Dec 2025 05:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS13v4vJRr7m-WrJKbRIJnw_JaIZgwyRvnhWDRSjvLO4ZdJ5QC1LsFCWb2Jfw0",
-      "pictureSource": "CNN",
-      "relatedSearch": [
-        {
-          "title": "Next round of torrential rain moves in to Southern California, with evacuations planned amid rare ‘high risk’ of flooding",
-          "snippet": "",
-          "url": "https://www.cnn.com/2025/12/23/weather/california-storm-flooding-rain-holidays-climate",
-          "source": "CNN"
-        },
-        {
-          "title": "LIVE: Strongest Christmas storm in years slams Southern California",
-          "snippet": "",
-          "url": "https://ktla.com/news/california/live-strongest-christmas-storm-in-years-slams-southern-california/",
-          "source": "KTLA"
-        },
-        {
-          "title": "Holiday storm: SoCal evacuations, road closures and safety tips",
-          "snippet": "",
-          "url": "https://www.latimes.com/california/story/2025-12-23/holiday-storm-socal-evacuations-road-closures-safety-tips",
-          "source": "Los Angeles Times"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "tv program",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 24 Dec 2025 05:30:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfSJ1TLdlC7pc9jrWneDa4kHF7zzBuPUF6k8xkvQVM6NPoyHK_rwpqwXkME2Q",
       "pictureSource": "Variety",
@@ -145,15 +145,9 @@
       "title": "flightradar",
       "trafficCount": "100+",
       "pubDate": "Wed, 24 Dec 2025 02:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfOb0XTInsCjEM5MD6vxryM6MopejNwDobhoBUNKNihExn0BVWlu8iTCpglM8",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSICSljCp_kznt9Sw3YBZjBtNhpotLL7FlmdMVi_xO3LKjX1klnsPmxSKRZRw0",
+      "pictureSource": "Al Jazeera",
       "relatedSearch": [
-        {
-          "title": "Libya's army chief killed in air crash in Turkey",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/cyvgzyepdqno",
-          "source": "BBC"
-        },
         {
           "title": "Libyan army chief killed in plane crash: What we know so far",
           "snippet": "",
@@ -165,6 +159,12 @@
           "snippet": "",
           "url": "https://www.washingtonpost.com/world/2025/12/24/libya-army-chief-plane-crash-ankara-turkey/",
           "source": "The Washington Post"
+        },
+        {
+          "title": "Contact is lost with a private jet heading for Libya after takeoff from Turkey, official says",
+          "snippet": "",
+          "url": "https://abcnews.go.com/International/wireStory/contact-lost-private-jet-heading-libya-after-takeoff-128658502",
+          "source": "ABC News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,14 +229,14 @@
       "title": "santa tracker",
       "trafficCount": "200+",
       "pubDate": "Wed, 24 Dec 2025 00:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeuiKTOqneaQf3VFGVproLMKsiXroBiUqP9s8pcPFwQJvLKtNiJJrxEJ2I_5A",
-      "pictureSource": "U.S. Department of War (.gov)",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHV8jwfYFuRh1DIYr-b5u_cclFZLaHK2gxRxVvCVELqDubgfKIhRWD8w_XYM",
+      "pictureSource": "CBS News",
       "relatedSearch": [
         {
-          "title": "NORAD Celebrates 70 Years of Tracking Santa",
+          "title": "Where is Santa right now? NORAD tracker maps his 2025 Christmas flight",
           "snippet": "",
-          "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4361832/norad-celebrates-70-years-of-tracking-santa/",
-          "source": "U.S. Department of War (.gov)"
+          "url": "https://www.cbsnews.com/news/santa-tracker-2025/",
+          "source": "CBS News"
         },
         {
           "title": "Where is Santa right now? How to use NORAD tracker on Christmas Eve",
@@ -245,10 +245,10 @@
           "source": "Cincinnati Enquirer"
         },
         {
-          "title": "December 23, 2025",
+          "title": "NORAD Celebrates 70 Years of Tracking Santa",
           "snippet": "",
-          "url": "https://heathercoxrichardson.substack.com/p/december-23-2025",
-          "source": "Letters from an American | Heather Cox Richardson"
+          "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4361832/norad-celebrates-70-years-of-tracking-santa/",
+          "source": "U.S. Department of War (.gov)"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -269,13 +269,13 @@
         {
           "title": "Året, vi tog afsked med Amerika",
           "snippet": "",
-          "url": "https://www.weekendavisen.dk/kultur/aaret-vi-tog-afsked-med-amerika?gaa_at=eafs&gaa_n=AWEtsqcXMrs9QnJ6TixTzXrlhDDaLsEk2X6L9HbKDw7uG9XCzNFbUQEqT4u2&gaa_ts=694bfccc&gaa_sig=0xD4QK-aHFjvJyFz4Q5B6Rpx5qnyn7PVY3ldxK6zXgBjJcHOT-xO0r_ikT5pWQN99KCLXR5bK-S1lmcnchJvTQ%3D%3D",
+          "url": "https://www.weekendavisen.dk/kultur/aaret-vi-tog-afsked-med-amerika?gaa_at=eafs&gaa_n=AWEtsqcxUeTj4rXeBmjQri1dgxrAHu7PkVfeu4zDGMGwwvanjYyF7Xkp2zJl&gaa_ts=694bfffc&gaa_sig=tQgpyzwjYDDm0zBehR1UdCRCQYEqIM3HPYszef8_SMREs32kraybYobrvZLQAHp_KZ3Sjk88r6fUvdxKrAUWsw%3D%3D",
           "source": "Weekendavisen"
         },
         {
           "title": "Året, hvor Trump gjorde Kina til verdens kommende supermagt | Internationalt | Samfund",
           "snippet": "",
-          "url": "https://www.berlingske.dk/internationalt/aaret-hvor-trump-gjorde-kina-til-verdens-kommende-supermagt?gaa_at=eafs&gaa_n=AWEtsqeny-kdVOIuQlt7BqSWgWqdHRuHFjSH21suYC7LgebQOyZObCfvAn3L&gaa_ts=694bfccc&gaa_sig=OTc8Z3g7K0S7mNy5TWYKA-zSRRNpKGdF2f_JxXs5NvPMlXLZxaaEcqa0UMH6u4QeETWHEcsUxcr2I_PdVyYMNQ%3D%3D",
+          "url": "https://www.berlingske.dk/internationalt/aaret-hvor-trump-gjorde-kina-til-verdens-kommende-supermagt?gaa_at=eafs&gaa_n=AWEtsqfLBXngvDJZ_kl2fzBpCloWmngD_aaeMgGV_uR3D91pRjmAnb2kQe08&gaa_ts=694bfffc&gaa_sig=dtQFXAT5IpfzzVYfRmvDb6vA2Qa9ASTgPf3hamB2hhARbzHQiXYn44OAv3lMIiI9VtSurzqX4dkpNlZG9dZDvA%3D%3D",
           "source": "Berlingske"
         }
       ],

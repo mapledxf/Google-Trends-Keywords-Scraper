@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2025-12-25 06:16:34",
+  "lastUpdate": "2025-12-25 06:50:37",
   "data": [
     {
+      "title": "vrijeme",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 24 Dec 2025 22:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnMJygJQ6JQZaiQrm8jm3pf2gELUet67dwOAhvjgcYWsdlBsA_sivRy903jSU",
+      "pictureSource": "Herceg TV",
+      "relatedSearch": [
+        {
+          "title": "Prognoza za Novu godinu: Evo kakvo će vrijeme biti u Trebinju",
+          "snippet": "",
+          "url": "https://www.herceg.tv/drustvo/66698/prognoza-za-novu-godinu-evo-kakvo-ce-vrijeme-biti-u-trebinju",
+          "source": "Herceg TV"
+        },
+        {
+          "title": "Kakvo nas vrijeme čeka 1. januara u Trebinju",
+          "snippet": "",
+          "url": "https://trebinjelive.info/2025/12/24/kakvo-nas-vrijeme-ceka-1-januara-u-trebinju/",
+          "source": "Trebinje Live"
+        },
+        {
+          "title": "У четвртак облачно са слабим падавинама (ВИДЕО)",
+          "snippet": "",
+          "url": "https://www.rtrs.tv/vijesti/vijest.php?id=627893",
+          "source": "RTRS"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "weather",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 24 Dec 2025 21:40:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZG4YWOqsJpg2lF4hSkCYj8rhxLZU3R1FJ0pc0NFjZMBIUYVmdWTKH-1P-jjU",
       "pictureSource": "Taipei Times",
@@ -33,13 +61,13 @@
       "title": "vreme beograd",
       "trafficCount": "100+",
       "pubDate": "Wed, 24 Dec 2025 21:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThyRvQFagmpvVhFhYhlWNqHfJePrgdvXMQJvT8K2lwVVtp2sltSOY7jnyADK8",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZVVhu8Twtpp1X_HbSqsX3PzoMsQkHojfoYst28bLtGEd_PaOh540MLNL--Rk",
       "pictureSource": "Blic",
       "relatedSearch": [
         {
-          "title": "Sve je počelo u tačno 5 jutros: Evo kako će se nevreme kretati iz sata u sat!",
+          "title": "Hitno upozorenje RHMZ: Stiže mećava u Srbiju, pašće pola metra snega (Radarske slike)",
           "snippet": "",
-          "url": "https://www.blic.rs/vremenska-prognoza/radarski-snimci-snazno-nevreme-se-siri-srbijom-cela-mapa-obojena-istom-bojom/1b2x0v9",
+          "url": "https://www.blic.rs/vremenska-prognoza/hitno-upozorenje-rhmz-stize-mecava-u-srbiju-pasce-pola-metra-snega-radarske-slike/qvg61vc",
           "source": "Blic"
         },
         {
@@ -53,6 +81,34 @@
           "snippet": "",
           "url": "https://www.telegraf.rs/vesti/srbija/4238529-srbiji-preti-opasna-mecava-i-olujni-vetar-ocekuje-se-i-do-70-litara-kise-i-do-pola-metra-snega-evo-i-gde",
           "source": "Telegraf.rs"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "wetter",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 24 Dec 2025 21:20:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhufoTGcKNfrL7ruWu4WdWdfgAYnjx3s0wlTh5NrDHeUWifqcd65a8S8Pj7rY",
+      "pictureSource": "Spiegel",
+      "relatedSearch": [
+        {
+          "title": "Schnee an Heiligabend: Früher war Weihnachten kälter – und es gab mehr Schnee",
+          "snippet": "",
+          "url": "https://www.spiegel.de/wissenschaft/natur/weisse-weihnachten-wie-oft-gab-es-frueher-in-deutschland-schnee-an-heiligabend-a-23a053eb-add0-4de9-8c46-406444fde16f",
+          "source": "Spiegel"
+        },
+        {
+          "title": "Brutaler Ostwind bringt eisige Feiertage: So kalt wird es am 1. Weihnachtstag",
+          "snippet": "",
+          "url": "https://www.fnp.de/deutschland/weihnachten-ostwind-deutschland-feiertagen-gefrierschrank-bis-zu-minus-13-grad-eisige-zr-94093056.html",
+          "source": "fnp.de"
+        },
+        {
+          "title": "Kälte bis zum Wochenende - und es kommen noch eisige Nachschläge",
+          "snippet": "",
+          "url": "https://www.wetter.de/wettermeldungen/wetter-tag/wetter-tag-am-24-dezember-kaelte-bis-zum-wochenende-und-es-kommen-noch-eisige-nachschlaege-id30175720.html",
+          "source": "Wetter.de"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -105,38 +161,38 @@
           "source": "РТС"
         },
         {
-          "title": "Pozorište na Terazijama proslavilo 76. rođendan i dodelilo godišnje nagrade",
+          "title": "Dodelom nagrada Pozorište na Terazijama proslavilo 76 godina od osnivanja",
           "snippet": "",
-          "url": "https://www.danas.rs/kultura/pozoriste-na-terazijama-76-rodjendan/",
-          "source": "Danas"
+          "url": "https://www.tanjug.rs/kultura/pozoriste/217279/dodelom-nagrada-pozoriste-na-terazijama-proslavilo-76-godina-od-osnivanja/vest",
+          "source": "tanjug.rs"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "emina jahovic",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 24 Dec 2025 13:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRa8o48CJQ1IB1I_BqZl4RUwXzLc3Djm8PKkVq3Y20yrMFdq51RcPj-2p8GpHo",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6if1t3mQ9JTkR7ileYkMmV4iA8QOpQR-JgvlbdgibyVqb22cRHlavsRFivlw",
       "pictureSource": "Blic",
       "relatedSearch": [
         {
-          "title": "Sve oči uprte u Aleksandru Prijović na koncertu Emine Jahović: Na njoj kožna suknja, rolka i skupocena bunda",
+          "title": "Emina Jahović o odnosu sa Sašom Kovačevićem: Zvala sam ga, ja ne znam šta je njemu problem",
           "snippet": "",
-          "url": "https://www.blic.rs/zabava/sve-oci-uprte-u-aleksandru-prijovic-na-koncertu-emine-jahovic-na-njoj-kozna-suknja/6y9hhrq",
+          "url": "https://www.blic.rs/zabava/emina-jahovic-o-odnosu-sa-sasom-kovacevicem-zvala-sam-ga-ja-ne-znam-sta-je-njemu/bqmm0vh",
           "source": "Blic"
         },
         {
-          "title": "Poznati na koncertu Emine Jahović: Tea Tairović u vatrenom izdanju došla sa suprugom, Prijovićka u kožnoj suknji i bundi, a evo ko je još tu FOTO",
+          "title": "Emina priznala da je zvala Sašu Kovačevića: Otkrila detalje razgovora i demantovala ga",
           "snippet": "",
-          "url": "https://nova.rs/zabava/showbiz/ko-je-sve-dosao-na-koncert-emine-jahovic/",
-          "source": "Nova"
+          "url": "https://mondo.rs/Zabava/Zvezde-i-tracevi/a2164249/emina-zvala-sasu-kovacevica-demantovala-sve-sto-je-rekao-za-nju.html",
+          "source": "Mondo"
         },
         {
-          "title": "Emina Jahović održala spektakularan koncert u Sava centru: Sve oduševila ovom objavom VIDEO",
+          "title": "Zorana Tasovac najveća podrška Saši Kovačeviću na koncertu",
           "snippet": "",
-          "url": "https://www.b92.net/svi-komentari/193112",
-          "source": "B92"
+          "url": "https://www.story.rs/celebrity-news/flash-news/zorana-tasovac-najveca-podrska-sasi-kovacevicu-na-koncertu/",
+          "source": "Story.rs"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,82 +257,26 @@
       "title": "stranger things season 5",
       "trafficCount": "100+",
       "pubDate": "Wed, 24 Dec 2025 08:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBVXd5PF_YPwzgUhcaxj3zh9ZFZWafvNscjAj_6jwSRlfVgdLxp68v3lqW718",
-      "pictureSource": "ABS-CBN",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmrKxsi3DZG_Go-Ko4huaL2SOriAXvDQyEeD6UXx7y5camwCLSknmiL4Ct0m8",
+      "pictureSource": "USA Today",
       "relatedSearch": [
-        {
-          "title": "Stranger Things set for final bow: Five things to know",
-          "snippet": "",
-          "url": "https://www.abs-cbn.com/entertainment/showbiz/movies-series/2025/12/24/stranger-things-set-for-final-bow-five-things-to-know-1730",
-          "source": "ABS-CBN"
-        },
-        {
-          "title": "‘Stranger Things 5’ volume 2 runtimes released; finale episode gets 3 extra minutes",
-          "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/web-series/news/english/stranger-things-5-volume-2-runtimes-released-finale-episode-gets-3-extra-minutes/articleshow/126169666.cms",
-          "source": "Times of India"
-        },
         {
           "title": "'Stranger Things' full series recap, including Season 5 Vol. 1",
           "snippet": "",
           "url": "https://www.usatoday.com/story/entertainment/tv/2025/12/24/stranger-things-recap-season-5-vol-1/87835602007/",
           "source": "USA Today"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "aleksandar dikic",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 24 Dec 2025 08:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTatWMToEHPQ4vKVjuc1VN3dRoiF3Xy77VO8jutw2ct37MInNHGOGyZLVhNdBk",
-      "pictureSource": "N1",
-      "relatedSearch": [
-        {
-          "title": "Uhapšen Aleksandar Dikić u Novom Sadu",
-          "snippet": "",
-          "url": "https://n1info.rs/vesti/uhapsen-aleksandar-dikic/",
-          "source": "N1"
         },
         {
-          "title": "Ninić: Dikić dao nespretnu izjavu, nije spomenuo Vučića, vlast spinuje priču",
+          "title": "What time is season five, volume 2 of Stranger Things coming out around the world?",
           "snippet": "",
-          "url": "https://www.danas.rs/vesti/drustvo/ninic-dikic-vucic-vlast-spinuje/",
-          "source": "Danas"
+          "url": "https://www.thenationalnews.com/arts-culture/film-tv/2025/12/25/stranger-things-season-5-volume-2-time-zone-uae-saudi-uk-india-philippines/",
+          "source": "The National"
         },
         {
-          "title": "Uhapšen novinar KTV Aleksandar Dikić",
+          "title": "Yes, you can watch Heated Rivalry episode 6 and Stranger Things 5 volume 2 on the same night",
           "snippet": "",
-          "url": "https://www.021.rs/info/srbija/430462/uhapsen-novinar-ktv-aleksandar-dikic",
-          "source": "021.rs"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "bajaga",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 24 Dec 2025 05:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRHy0pqCPyhHK3RezyGKMMZAuzJ1KsuCPHALMDbF-lGxvzALXBSnrc7gc5u7k",
-      "pictureSource": "Blic",
-      "relatedSearch": [
-        {
-          "title": "Specijalno reizdanje albuma \"Sa druge strane jastuka\" povodom četiri decenije od izlaska",
-          "snippet": "",
-          "url": "https://www.blic.rs/kultura/specijalno-reizdanje-albuma-sa-druge-strane-jastuka-povodom-cetiri-decenije-od/kbbrjyl",
-          "source": "Blic"
-        },
-        {
-          "title": "Predstavljeno reizdanje čuvene LP ploče Bajage i instruktora „Sa druge strane jastuka“",
-          "snippet": "",
-          "url": "https://www.rts.rs/lat/magazin/muzika/5854118/lp-sa-druge-strane-jastuka-bajaga-i-instruktori-promocija.html",
-          "source": "РТС"
-        },
-        {
-          "title": "Bajaga obeležio 40 godina od izlaska albuma \"S druge strane jastuka\" i poručio: \"Bio bih nezahvalan da nisam srećan\"",
-          "snippet": "",
-          "url": "https://nova.rs/zabava/showbiz/bajaga-obelezio-40-godina-od-izlaska-ploce-sa-druge-strane-jastuka/",
-          "source": "Nova"
+          "url": "https://showsnob.com/watch-heated-rivalry-episode-6-stranger-things-5-volume-2-on-same-night",
+          "source": "Show Snob"
         }
       ],
       "link": "https://imtaqin.id/"

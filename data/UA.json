@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-12-26 07:12:19",
+  "lastUpdate": "2025-12-26 07:33:21",
   "data": [
-    {
-      "title": "погода одесса",
-      "trafficCount": "1000+",
-      "pubDate": "Thu, 25 Dec 2025 21:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThe6GB3wQMOwWbatjdQmbyd-g0qLDh76Vt2vOh1MD_rg1WWouP57Tdb97TAn0",
-      "pictureSource": "Думская",
-      "relatedSearch": [
-        {
-          "title": "Дождь с мокрым снегом и туман: в Одессе ожидается ухудшение погоды",
-          "snippet": "",
-          "url": "https://dumskaya.net/news/dozhd-s-mokrym-snegom-i-tuman-v-odesse-ozhidaets-189819/",
-          "source": "Думская"
-        },
-        {
-          "title": "26 декабря в Одесской области местами ожидают метель",
-          "snippet": "",
-          "url": "https://odessa.online/ru/26-dekabrya-v-odesskoj-oblasti-mestami-ozhidayut-metel/",
-          "source": "Odesa Online"
-        },
-        {
-          "title": "В Одесской области объявили І уровень опасности: что будет с погодой (инфографика)",
-          "snippet": "",
-          "url": "https://www.unian.net/pogoda/news/pogoda-odesa-na-24-dekabrya-obyavleno-shtormovoe-preduprezhdenie-novosti-odessy-13235481.html",
-          "source": "УНИАН"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "погода николаев",
       "trafficCount": "500+",
@@ -133,10 +105,10 @@
           "source": "РБК-Україна"
         },
         {
-          "title": "«Запорожсталь» возобновила свою работу",
+          "title": "Проблема не в генерации: украинцам объяснили, почему отключают свет",
           "snippet": "",
-          "url": "https://agronews.ua/ru/news/zaporozhstal-vozobnovyla-svoyu-rabotu/",
-          "source": "Новини аграрного бізнесу"
+          "url": "https://korrespondent.net/ukraine/4843043-problema-ne-v-heneratsyy-ukrayntsam-obiasnyly-pochemu-otkluichauit-svet",
+          "source": "Korrespondent.net"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,9 +173,15 @@
       "title": "погода киев",
       "trafficCount": "2000+",
       "pubDate": "Thu, 25 Dec 2025 20:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwDC2HtwtK4inldswSXVrdxniOTRCNvsWcLsqXs8yJaC8vRdipSmNQ-7pLBzI",
-      "pictureSource": "NV",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpMV6wGdpEqZKl8nK3KJCr1CdQ0IFGy0-5t4JGeAhvcCZnuoi3VtgazWvjQvg",
+      "pictureSource": "РБК-Україна",
       "relatedSearch": [
+        {
+          "title": "Киев засыпает снегом: первые фото и видео из города",
+          "snippet": "",
+          "url": "https://www.rbc.ua/ukr/news/kiyiv-zasipae-snigom-pershi-foto-i-video-1766731097.html",
+          "source": "РБК-Україна"
+        },
         {
           "title": "Киев накрыла метель, метеорологи предупреждают об опасных порывах ветра и гололеде — видео",
           "snippet": "",
@@ -215,12 +193,34 @@
           "snippet": "",
           "url": "https://ru.slovoidilo.ua/2025/12/25/novost/obshhestvo/kieve-vremenno-prispustyat-glavnyj-flag-ukrainy",
           "source": "Слово и Дело"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "синоптик одесса",
+      "trafficCount": "2000+",
+      "pubDate": "Thu, 25 Dec 2025 19:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThe6GB3wQMOwWbatjdQmbyd-g0qLDh76Vt2vOh1MD_rg1WWouP57Tdb97TAn0",
+      "pictureSource": "Думская",
+      "relatedSearch": [
+        {
+          "title": "Дождь с мокрым снегом и туман: в Одессе ожидается ухудшение погоды",
+          "snippet": "",
+          "url": "https://dumskaya.net/news/dozhd-s-mokrym-snegom-i-tuman-v-odesse-ozhidaets-189819/",
+          "source": "Думская"
         },
         {
-          "title": "Украинцев предупредили о резком ухудшении погоды: какие регионы охватит",
+          "title": "В Одессе объявили предупреждение о непогоде: к чему готовиться (инфографика)",
           "snippet": "",
-          "url": "https://tsn.ua/ru/ukrayina/ukraintsev-predupredili-o-rezkom-uhudshenii-pogody-kakie-regiony-ohvatit-2986418.html",
-          "source": "ТСН"
+          "url": "https://www.unian.net/pogoda/news/pogoda-v-odesse-obyavili-shtormovoe-preduprezhdenie-na-26-dekabrya-2025-goda-novosti-odessy-13237347.html",
+          "source": "УНИАН"
+        },
+        {
+          "title": "Минусовая температура и ледяной ветер: какой будет погода в Одессе и области 25 декабря",
+          "snippet": "",
+          "url": "https://odessa.online/ru/minusovaya-temperatura-i-ledyanoj-veter-kakoj-budet-pogoda-v-odesse-i-oblasti-25-dekabrya/",
+          "source": "Odesa Online"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -267,16 +267,16 @@
           "source": "USA Today"
         },
         {
-          "title": "How does Max wake up in Stranger Things 5 volume 2 — and why couldn't she take Holly?",
+          "title": "‘Stranger Things 5’ Star Caleb McLaughlin On That Emotional Scene With [SPOILER], Upside Down Mythology & More From Vol. 2",
           "snippet": "",
-          "url": "https://netflixlife.com/how-does-max-wake-up-stranger-things-5-volume-2-why-couldnt-she-take-holly",
-          "source": "Netflix Life"
+          "url": "https://deadline.com/2025/12/stranger-things-5-caleb-mclaughlin-lucas-max-reunion-1236656002/",
+          "source": "Deadline"
         },
         {
-          "title": "Sadie Sink Came Around to Her Stranger Things Fate",
+          "title": "Stranger Things Season 5's New Romance Highlights One Of The Show's Biggest Problems",
           "snippet": "",
-          "url": "https://www.vulture.com/article/sadie-sink-stranger-things-season-5-interview.html",
-          "source": "Vulture"
+          "url": "https://www.slashfilm.com/2055318/stranger-things-season-5-vicki-robin-romance-highlight-problem/",
+          "source": "SlashFilm"
         }
       ],
       "link": "https://imtaqin.id/"

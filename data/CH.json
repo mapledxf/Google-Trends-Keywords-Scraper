@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-12-27 12:00:42",
+  "lastUpdate": "2025-12-27 12:53:08",
   "data": [
     {
       "title": "nottingham – man city",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 27 Dec 2025 03:50:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIqnxGrJQzS6Aq2RFFIz_nk-zaMyzKs7KD-7WZ_ebft23VKjJThnIkZNFyfuc",
       "pictureSource": "BBC",
@@ -31,13 +31,13 @@
     },
     {
       "title": "parma - fiorentina",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 27 Dec 2025 03:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkATCL2l5OFEzI8x8bug9bkkdPExxlNuxketcP_3iYIV6rG-qaG6YM4cR_WEU",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYpmQHxylvet2oEY1CzG46ZCc7NLzLcCMKZST5AjDtZYL0p6TCNLZRnWtPayQ",
       "pictureSource": "La Gazzetta dello Sport",
       "relatedSearch": [
         {
-          "title": "LIVE Alle 12.30 Parma-Fiorentina: Vanoli punta su Kean, Cuesta con Pellegrino",
+          "title": "LIVE Parma-Fiorentina 1-0: gol di Sorensen a inizio secondo tempo",
           "snippet": "",
           "url": "https://www.gazzetta.it/Calcio/Serie-A/Parma/27-12-2025/parma-fiorentina-live-risultato-e-gol-in-diretta-serie-a.shtml",
           "source": "La Gazzetta dello Sport"
@@ -49,38 +49,10 @@
           "source": "Fantacalcio"
         },
         {
-          "title": "Ultime dai campi, tutte le formazioni: Leao, Vojvoda, Dybala, Zielinski, Pasalic, David, Politano e out Ilic",
+          "title": "Calcio Live News: tutte le notizie di giornata in diretta",
           "snippet": "",
-          "url": "https://www.sosfanta.com/news-formazioni/live-dai-campi-tutte-le-formazioni-leao-vojvoda-dybala-zielinski-pasalic-david-lang-e-politano/",
-          "source": "SOS Fanta"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "marco schwarz",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 27 Dec 2025 03:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR71bKCqpqmalIj94I2DlRqTqFSFChSP7Jwpikh-zTpucEgCEHce58cgLFwL3w",
-      "pictureSource": "Blick",
-      "relatedSearch": [
-        {
-          "title": "Odermatt startet nach drei Teamkollegen",
-          "snippet": "",
-          "url": "https://www.blick.ch/sport/ski/super-g-der-maenner-in-livigno-live-im-ticker-id21550921.html",
-          "source": "Blick"
-        },
-        {
-          "title": "Super-G Männer in Livigno - Schwarz gewinnt Premiere vor Monney, von Allmen & Odermatt",
-          "snippet": "",
-          "url": "https://www.srf.ch/sport/ski-alpin/weltcup-maenner/super-g-maenner-in-livigno-schwarz-gewinnt-premiere-vor-monney-von-allmen-odermatt",
-          "source": "Schweizer Radio und Fernsehen"
-        },
-        {
-          "title": "Super-G im Live-Ticker: Kehrt Marco Odermatt in Livigno zum Siegen zurück? | blue News",
-          "snippet": "",
-          "url": "https://www.bluewin.ch/de/sport/ski/kehrt-marco-odermatt-in-livigno-zum-siegen-zurueck-3024924.html",
-          "source": "blue News"
+          "url": "https://www.diretta.it/news/calcio-live-in-campo-parma-fiorentina-1-0-juve-senza-cabal-e-conceicao/dEhNDbpp/",
+          "source": "Diretta"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -114,29 +86,85 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "marco schwarz",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 27 Dec 2025 03:10:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR71bKCqpqmalIj94I2DlRqTqFSFChSP7Jwpikh-zTpucEgCEHce58cgLFwL3w",
+      "pictureSource": "Blick",
+      "relatedSearch": [
+        {
+          "title": "Odermatt startet nach drei Teamkollegen",
+          "snippet": "",
+          "url": "https://www.blick.ch/sport/ski/super-g-der-maenner-in-livigno-live-im-ticker-id21550921.html",
+          "source": "Blick"
+        },
+        {
+          "title": "Super-G Männer in Livigno - Schwarz gewinnt Premiere vor Monney, von Allmen & Odermatt",
+          "snippet": "",
+          "url": "https://www.srf.ch/sport/ski-alpin/weltcup-maenner/super-g-maenner-in-livigno-schwarz-gewinnt-premiere-vor-monney-von-allmen-odermatt",
+          "source": "Schweizer Radio und Fernsehen"
+        },
+        {
+          "title": "Super-G der Männer in Livigno: Ein Österreicher verhindert den totalen Schweizer Triumph",
+          "snippet": "",
+          "url": "https://www.tagesanzeiger.ch/super-g-in-livigno-im-ticker-siegt-odermatt-zum-jahresabschluss-565992648564",
+          "source": "Tages-Anzeiger"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "livigno",
       "trafficCount": "2000+",
       "pubDate": "Sat, 27 Dec 2025 01:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzE-r8LYXAgpW0bWTHbt203AnMjP9qV-dD2xyzTepk3dQ42iP5fmTos2HhycM",
-      "pictureSource": "Ticinonline",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHcqO8Sh1cbgdUCETQpRpJZ-EdY7Dl7LXqNoaUQ4hRc_vtrps8bTrh5nEsr5A",
+      "pictureSource": "blue News",
       "relatedSearch": [
         {
-          "title": "Odermatt, von Allmen, Rast… la Svizzera ci prova",
+          "title": "Schwarz nega la tripletta alla Svizzera, Monney e Von Allmen sul podio",
           "snippet": "",
-          "url": "https://www.tio.ch/sport/altri-sport/1893090/von-odermatt-svizzera-allmen-rast",
-          "source": "Ticinonline"
+          "url": "https://www.bluewin.ch/it/sport-invernali/schwarz-nega-la-tripletta-alla-svizzera-monney-e-von-allmen-sul-podio-3025518.html",
+          "source": "blue News"
         },
         {
-          "title": "Solo Schwarz fa meglio di Monney e Von Allmen nel super G di Livigno",
-          "snippet": "",
-          "url": "https://www.rsi.ch/sport/sci-alpino/Solo-Schwarz-fa-meglio-di-Monney-e-Von-Allmen-nel-super-G-di-Livigno--3385701.html",
-          "source": "RSI Radiotelevisione svizzera"
-        },
-        {
-          "title": "LIVE SuperG di Livigno, al debutto in CdM: Schwarz chiude primo, Kriechmayr fuori",
+          "title": "Schwarz vince il primo SuperG di Livigno in Coppa. Odermatt e Paris fuori dal podio",
           "snippet": "",
           "url": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/Coppa-Mondo-Sci/27-12-2025/sci-super-g-livigno-live-gara-risultati-in-diretta.shtml",
           "source": "La Gazzetta dello Sport"
+        },
+        {
+          "title": "Monney e von Allmen sul podio, ma a Livigno festeggia Schwarz",
+          "snippet": "",
+          "url": "https://www.cdt.ch/sport/sci/monney-e-von-allmen-sul-podio-ma-a-livigno-festeggia-schwarz-414456",
+          "source": "Corriere del Ticino"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "wetter januar 2026",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 27 Dec 2025 01:10:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrS57QsCluPDyK8LxiYsMPAl07xWG4NbHvpOd1piB8UWd7v24Xkcf8_1xXuAg",
+      "pictureSource": "Blick",
+      "relatedSearch": [
+        {
+          "title": "Jetzt kommt der Frost – so wird das Wetter zum Jahreswechsel",
+          "snippet": "",
+          "url": "https://www.blick.ch/wetter/gut-einpacken-zum-feuerwerk-jetzt-kommt-der-frost-so-wird-das-wetter-zum-jahreswechsel-id21551357.html",
+          "source": "Blick"
+        },
+        {
+          "title": "Polarwirbel kollabiert und reißt Winter mit sich: Wetter-Phänomene ebnen Weg zu eisigem Januar 2026",
+          "snippet": "",
+          "url": "https://www.merkur.de/deutschland/polarwirbel-kollabiert-reisst-winter-mit-sich-wetter-phaenomene-ebnen-weg-zu-eisigem-januar-2026-zr-94099571.html",
+          "source": "Merkur"
+        },
+        {
+          "title": "Wetter 16 Tage: Eiskaltes Winterwetter nur eine Fata Morgana?",
+          "snippet": "",
+          "url": "https://www.wetter.com/videos/kolumnen/wetter-16-tage-eiskaltes-winterwetter-nur-eine-fata-morgana/694e898b128e088869081746",
+          "source": "wetter.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,44 +183,16 @@
           "source": "Blick"
         },
         {
-          "title": "Ski alpin: Scheib in Krimi auf Semmering vorne dabei",
+          "title": "2. Lauf am Semmering: Rast in Lauerposition – Hector führt vor Scheib | blue News",
           "snippet": "",
-          "url": "https://sport.orf.at/stories/3149413",
-          "source": "sport.ORF.at"
+          "url": "https://www.bluewin.ch/de/sport/ski/stechen-die-schweizer-truempfe-in-semmering-3024947.html",
+          "source": "blue News"
         },
         {
           "title": "Julia Scheib: In der 8. Saison ist der Knoten geplatzt",
           "snippet": "",
           "url": "https://www.srf.ch/play/tv/redirect/detail/urn:srf:video:a7a9611b-8228-4554-8d42-48e0db24079d",
           "source": "Schweizer Radio und Fernsehen"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "wetter schneefall",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 27 Dec 2025 00:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrS57QsCluPDyK8LxiYsMPAl07xWG4NbHvpOd1piB8UWd7v24Xkcf8_1xXuAg",
-      "pictureSource": "Blick",
-      "relatedSearch": [
-        {
-          "title": "Jetzt kommt der Frost – so wird das Wetter zum Jahreswechsel",
-          "snippet": "",
-          "url": "https://www.blick.ch/wetter/gut-einpacken-zum-feuerwerk-jetzt-kommt-der-frost-so-wird-das-wetter-zum-jahreswechsel-id21551357.html",
-          "source": "Blick"
-        },
-        {
-          "title": "Polarwirbel kollabiert und reißt Winter mit sich: Wetter-Phänomene ebnen Weg zu eisigem Januar 2026",
-          "snippet": "",
-          "url": "https://www.merkur.de/deutschland/polarwirbel-kollabiert-reisst-winter-mit-sich-wetter-phaenomene-ebnen-weg-zu-eisigem-januar-2026-zr-94099571.html",
-          "source": "Merkur"
-        },
-        {
-          "title": "Kälte und Schnee: Das sind die Wetteraussichten",
-          "snippet": "",
-          "url": "https://weather.com/de-DE/wetter/deutschland/news/2025-12-26-neue-kaltewelle-so-wird-das-wetter-in-den-kommenden-tagen",
-          "source": "The Weather Channel"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,23 +211,23 @@
           "source": "Berner Zeitung"
         },
         {
+          "title": "A8 Bönigen: Kollision zwischen Auto und Wohnmobil",
+          "snippet": "",
+          "url": "https://www.police.be.ch/de/start.html?newsID=71463c40-24cc-4b4d-8afa-6abdc7c7a7d3",
+          "source": "Kantonspolizei Bern"
+        },
+        {
           "title": "Fünf Verletzte nach Kollision von Auto mit Wohnmobil bei Bönigen",
           "snippet": "",
           "url": "https://www.swissinfo.ch/ger/f%C3%BCnf-verletzte-nach-kollision-von-auto-mit-wohnmobil-bei-b%C3%B6nigen/90693479",
           "source": "SWI swissinfo.ch"
-        },
-        {
-          "title": "Unfall: A8 zwischen Interlaken-Ost und Brienz gesperrt",
-          "snippet": "",
-          "url": "https://www.polizei-schweiz.ch/unfall-a8-zwischen-interlaken-ost-und-brienz-gesperrt/",
-          "source": "polizei-schweiz.ch"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "flughafen zürich",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Fri, 26 Dec 2025 23:30:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSA-hNtblAVTZeUwTVdhQLsThz92TEehh9zVNHbrV3igeTuJbwmQSTMy_eek8w",
       "pictureSource": "Blick",

@@ -1,37 +1,93 @@
 {
-  "lastUpdate": "2025-12-27 03:38:12",
+  "lastUpdate": "2025-12-27 04:08:38",
   "data": [
     {
-      "title": "новини київ",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 26 Dec 2025 16:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcZAlyByv6zHQ1xvcmlW8JeqVDEdN6NC-fjEGFTv6YWamD-XoOQD2VDEFqNLw",
+      "title": "погода в одессе",
+      "trafficCount": "2000+",
+      "pubDate": "Fri, 26 Dec 2025 19:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQa3cykIn0SoMtIkF3klo4ZdlYdf64W4_zhtMPdTVi1QcT3X-ZlhsNKHVBkY3k",
+      "pictureSource": "Думская",
+      "relatedSearch": [
+        {
+          "title": "Одессу засыпает снегом: в регионе объявили штормовое предупреждение (фоторепортаж)",
+          "snippet": "",
+          "url": "https://dumskaya.net/news/odessu-zasypaet-snegom_-189853/",
+          "source": "Думская"
+        },
+        {
+          "title": "Зима пришла в Одессу: жители показали сказочные фото первого снега",
+          "snippet": "",
+          "url": "https://24tv.ua/ru/sneg-v-odesse-26-dekabrja-zhiteli-pokazali-foto-pervogo-snega-v-gorode_n2978110",
+          "source": "24 Канал"
+        },
+        {
+          "title": "Какой будет погода в Одессе и области 27 декабря",
+          "snippet": "",
+          "url": "https://odessa.online/ru/kakoj-budet-pogoda-v-odesse-i-oblasti-27-dekabrya/",
+          "source": "Odesa Online"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "новости киев",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 26 Dec 2025 19:30:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTplxyWq_tEof5mZp92Dv6VuQMtqGR8apBdAO2HU5ZfSd7OMmCyYv7wQ4Ow5PE",
       "pictureSource": "Українська правда",
       "relatedSearch": [
         {
-          "title": "У Києві вибухнув пасажирський автобус, поліція з’ясовує обставини",
+          "title": "Россия бьет по Киеву дронами",
           "snippet": "",
-          "url": "https://www.pravda.com.ua/news/2025/12/26/8013556/",
+          "url": "https://www.pravda.com.ua/rus/news/2025/12/27/8013573/",
           "source": "Українська правда"
         },
         {
-          "title": "У Києві на Виноградарі стався вибух у пасажирському автобусі",
+          "title": "В Киеве перебои со светом и водой после массированной ракетной атаки",
           "snippet": "",
-          "url": "https://tvoemisto.tv/news/u_kyievi_na_vynogradari_stavsya_vybuh_u_pasazhyrskomu_avtobusi_183507.html",
-          "source": "Твоє Місто"
+          "url": "https://kyiv.tsn.ua/ru/kyiv/v-kieve-pereboi-so-svetom-i-vodoy-posle-massirovannoy-raketnoy-ataki-2987264.html",
+          "source": "ТСН"
         },
         {
-          "title": "У Києві стався вибух в автобусі",
+          "title": "Киев под ударом. Что известно о ночной атаке на столицу",
           "snippet": "",
-          "url": "https://www.ukrinform.ua/rubric-regions/4073913-u-kievi-stavsa-vibuh-v-avtobusi-pravoohoronci-vstanovluut-pricini.html",
-          "source": "Укрінформ"
+          "url": "https://www.rbc.ua/ukr/news/kiyiv-pid-udarom-shcho-vidomo-nichnu-ataku-1766795421.html",
+          "source": "РБК-Україна"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "графік відключення світла кривий ріг",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 26 Dec 2025 18:20:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6pHq0yl0gG4zAHDdolyp8M4I8P4RYodVQC4RPpsW6lfh_7kQDeG2EiGu5xOA",
+      "pictureSource": "УНІАН",
+      "relatedSearch": [
+        {
+          "title": "В Україні у суботу вимикатимуть світло: графіки на 27 грудня",
+          "snippet": "",
+          "url": "https://www.unian.ua/economics/energetics/grafiki-vidklyuchennya-svitla-v-ukrajini-u-subotu-znovu-vimikatimut-elektroenergiyu-13238019.html",
+          "source": "УНІАН"
+        },
+        {
+          "title": "Названо регіони з найскладнішою ситуацією зі світлом",
+          "snippet": "",
+          "url": "https://ua.korrespondent.net/ukraine/4843171-nazvano-rehiony-z-naiskladnishoui-sytuatsiieui-zi-svitlom",
+          "source": "Korrespondent.net"
+        },
+        {
+          "title": "Коли у Чернівцях та області не буде світла 27 грудня – графік обленерго",
+          "snippet": "",
+          "url": "https://suspilne.media/chernivtsi/1198996-koli-u-cernivcah-ta-oblasti-ne-bude-svitla-27-grudna-grafik-oblenergo/",
+          "source": "Суспільне | Новини"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "київ",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 26 Dec 2025 16:10:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd0_z5VpN6oFucpBWDdTbyTLlHQSZ12O7SfAmufuRMCZ1Y4pHJhDoD_ob5spY",
       "pictureSource": "Вечірній Київ",
@@ -49,9 +105,9 @@
           "source": "Українська правда"
         },
         {
-          "title": "У Києві чутно вибухи: РФ масовано атакує ракетами",
+          "title": "Ракетна атака: у Києві перебої зі світлом та водою",
           "snippet": "",
-          "url": "https://ua.korrespondent.net/kyiv/4843340-u-kyievi-chutno-vybukhy-rf-masovano-atakuie-raketamy",
+          "url": "https://ua.korrespondent.net/kyiv/4843352-raketna-ataka-u-kyievi-pereboi-zi-svitlom-ta-vodoui",
           "source": "Korrespondent.net"
         }
       ],
@@ -81,34 +137,6 @@
           "snippet": "",
           "url": "https://www.unian.ua/war/raketa-kindzhal-ekspert-rozpoviv-yak-vdalosya-podaviti-tri-rosiyskih-kindzhali-za-odnu-ataku-13235769.html",
           "source": "УНІАН"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "тревога киев",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 26 Dec 2025 16:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb1jnFhsoooTUMNBps6XNAfgPrQLjp1V9QWDKjtNpe-cNut1Y4tQy6pxp_R7M",
-      "pictureSource": "Українська правда",
-      "relatedSearch": [
-        {
-          "title": "В Украине объявили воздушную тревогу",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2025/12/27/8013569/",
-          "source": "Українська правда"
-        },
-        {
-          "title": "Киев под ударом. Что известно о ночной атаке на столицу",
-          "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/kiyiv-pid-udarom-shcho-vidomo-nichnu-ataku-1766795421.html",
-          "source": "РБК-Україна"
-        },
-        {
-          "title": "В Киеве перебои со светом и водой после массированной ракетной атаки",
-          "snippet": "",
-          "url": "https://kyiv.tsn.ua/ru/kyiv/v-kieve-pereboi-so-svetom-i-vodoy-posle-massirovannoy-raketnoy-ataki-2987264.html",
-          "source": "ТСН"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +211,16 @@
           "source": "NV"
         },
         {
-          "title": "Россия запустила по Украине \"Калибры\" и воздушные шары — детали",
-          "snippet": "",
-          "url": "https://news.novyny.live/ru/rossiia-zapustila-po-ukraine-kalibry-i-vozdushnye-shary-detali-302645.html",
-          "source": "Novyny live"
-        },
-        {
           "title": "Крылатые ракеты над Украиной и баллистика: Воздушные силы предупредили об опасности",
           "snippet": "",
           "url": "https://www.rbc.ua/ukr/news/krilati-raketi-ukrayinoyu-povitryani-sili-1766791625.html",
           "source": "РБК-Україна"
+        },
+        {
+          "title": "Россия запустила по Украине \"Калибры\" и воздушные шары — детали",
+          "snippet": "",
+          "url": "https://news.novyny.live/ru/rossiia-zapustila-po-ukraine-kalibry-i-vozdushnye-shary-detali-302645.html",
+          "source": "Novyny live"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -232,34 +260,6 @@
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "переяслав",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 26 Dec 2025 15:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUwLdCEzUnL_q9An9Yvy9py2vuRVFMDGYSbi4naEJ7qOqzcg7Zq0YCVwz3eP0",
-      "pictureSource": "Переяслав.City",
-      "relatedSearch": [
-        {
-          "title": "Липа у Переяславі не вижила: комунальники її рятували, а потім спиляли",
-          "snippet": "",
-          "url": "https://pereiaslav.city/articles/448280/lipa-u-pereyaslavi-ne-vizhila-komunalniki-ii-ryatuvali-a-potim-spilyali",
-          "source": "Переяслав.City"
-        },
-        {
-          "title": "На війні загинув 24-річний Денис Лукашевич: його поховають у Переяславі",
-          "snippet": "",
-          "url": "https://ps.informator.ua/2025/12/26/na-vijni-zagynuv-24-richnyj-denys-lukashevych-jogo-pohovayut-u-pereyaslavi/",
-          "source": "Інформатор (Переяслав)"
-        },
-        {
-          "title": "24-річний Денис Лешкевич із Коростеня загинув на війні, його поховають у Переяславі",
-          "snippet": "",
-          "url": "https://pereiaslav.city/articles/448231/24-richnij-denis-leshkevich-iz-korostenya-zaginuv-na-vijni-jogo-pohovayut-u-pereyaslavi",
-          "source": "Переяслав.City"
-        }
-      ],
       "link": "https://imtaqin.id/"
     }
   ]

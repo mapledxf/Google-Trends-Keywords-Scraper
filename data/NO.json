@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-27 08:48:16",
+  "lastUpdate": "2025-12-27 08:58:09",
   "data": [
     {
       "title": "åpningstider julen 2025",
@@ -31,11 +31,17 @@
     },
     {
       "title": "nrk nordland",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 26 Dec 2025 23:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLIw6kWclJTWrP9okQpQ7tWFjB-QR1endKt5lhzoG-n5dNeZBsGLhf7b7WkNE",
-      "pictureSource": "ht.no",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdnlY72NmVfJxAD12mtJNqNUeFdoQSwSqN54wEu_DDD8eOgGEo_mIMWwzmizk",
+      "pictureSource": "Dagbladet",
       "relatedSearch": [
+        {
+          "title": "- Utsett reisen",
+          "snippet": "",
+          "url": "https://www.dagbladet.no/nyheter/utsett-reisen/84029023",
+          "source": "Dagbladet"
+        },
         {
           "title": "Fly kansellert",
           "snippet": "",
@@ -47,12 +53,6 @@
           "snippet": "",
           "url": "https://www.nrk.no/nyheter/fleire-fly-innstilte-i-midt--og-nord-noreg-1.17706040",
           "source": "NRK"
-        },
-        {
-          "title": "Widerøe kansellerte: – Dette skjer altfor ofte",
-          "snippet": "",
-          "url": "https://www.ifinnmark.no/wideroe-kansellerte-dette-skjer-altfor-ofte/s/5-81-2371070",
-          "source": "iFinnmark"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -115,7 +115,7 @@
     },
     {
       "title": "rana blad",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 26 Dec 2025 22:50:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRS74hey8Yo0hvkdWN3kTMwNWm9nPIA2pamJmAxy6XREyJKV8p9FrjFtQOrX0",
       "pictureSource": "Rana Blad",
@@ -133,17 +133,17 @@
           "source": "NRK"
         },
         {
-          "title": "Vestvågøy, Flakstad | 1800 uten strøm – isoporplater fyker rundt",
+          "title": "Beboere er strømløse i Rana og Hemnes, innstilte ferjer og trær som sperrer veier og tunneler",
           "snippet": "",
-          "url": "https://www.lofotposten.no/1500-uten-strom-isoporplater-fyker-rundt/s/5-29-1264403",
-          "source": "Lofotposten"
+          "url": "https://www.ranablad.no/beboere-er-stromlose-i-rana-og-hemnes-innstilte-ferjer-og-trar-som-sperrer-veier-og-tunneler/s/5-42-1537831",
+          "source": "Rana Blad"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "storm",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 26 Dec 2025 22:50:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcczcHonSNYkzR6z_Hdv1_rNKy3qZbJTP2YsfN_7Fo4ox06CT1TZ17IK7RPwk",
       "pictureSource": "BBC",
@@ -170,6 +170,22 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "nordlys",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 26 Dec 2025 21:50:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQW21qk75WaGtj-de5viClXwI3qlEboS6EYVUN8fRuiEcRnFKi0xWFFzYBYl2Y",
+      "pictureSource": "Nordlys",
+      "relatedSearch": [
+        {
+          "title": "Uteliv, Grunder tromsø | Siste dans for Gründer",
+          "snippet": "",
+          "url": "https://www.nordlys.no/siste-dans-for-gr-nder/s/5-34-2266040",
+          "source": "Nordlys"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "lofotposten",
       "trafficCount": "1000+",
       "pubDate": "Fri, 26 Dec 2025 21:40:00 -0800",
@@ -183,16 +199,16 @@
           "source": "TV2.no"
         },
         {
-          "title": "Varsler kraftige vind­kast: –⁠ Store konsekvenser",
-          "snippet": "",
-          "url": "https://www.vg.no/nyheter/i/lnAJ49/vindvarsel-kraftige-vindkast-i-nord",
-          "source": "VG"
-        },
-        {
           "title": "Farevarsel: Blir opp mot full storm og snøfokk",
           "snippet": "",
           "url": "https://www.adressa.no/nyheter/trondelag/i/zOGx0q/gult-farevarsel-for-vind-men-det-skal-gaa-fint-aa-gaa-paa-byen",
           "source": "adressa.no"
+        },
+        {
+          "title": "God dag narvik, Narvik | Tak løsner, trær velter, busser og fly innstilles: Slik treffer uværet deg",
+          "snippet": "",
+          "url": "https://www.fremover.no/tak-losner-trar-velter-busser-og-fly-innstilles/s/5-17-1450681",
+          "source": "Fremover"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +265,6 @@
           "snippet": "",
           "url": "https://www.h-a.no/har-sendt-ut-farevarsel-unnga-unodig-ferdsel/s/5-139-1904719",
           "source": "Hamar Arbeiderblad"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "adressa",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 26 Dec 2025 20:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1fQZtifrY4sjnDxqxF9cqCoPbCregkqdWH_JeK0Q-FMqC-n14eg1ldyCcMqk",
-      "pictureSource": "adressa.no",
-      "relatedSearch": [
-        {
-          "title": "Derfor mener hun at vi må dele mer på hverdagen",
-          "snippet": "",
-          "url": "https://www.adressa.no/debatt/i/Gx1OGB/naar-alle-skal-klare-seg-selv-mister-vi-godene-av-landsbyen",
-          "source": "adressa.no"
-        },
-        {
-          "title": "Politiet rykket ut da nabo­krangelen ble voldelig",
-          "snippet": "",
-          "url": "https://www.adressa.no/nyheter/trondelag/i/6qjWdQ/rykker-ut-etter-melding-om-voldshendelse-mellom-naboer",
-          "source": "adressa.no"
-        },
-        {
-          "title": "Politi, Naboer | Voldshendelse mellom to naboer – politiet er på stedet",
-          "snippet": "",
-          "url": "https://www.nidaros.no/voldshendelse-mellom-to-naboer-politiet-er-pa-veg-til-stedet/s/5-113-799832",
-          "source": "Nidaros"
         }
       ],
       "link": "https://imtaqin.id/"

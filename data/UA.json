@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-27 02:05:56",
+  "lastUpdate": "2025-12-27 03:38:12",
   "data": [
     {
       "title": "новини київ",
@@ -15,16 +15,16 @@
           "source": "Українська правда"
         },
         {
-          "title": "У Києві стався вибух в автобусі",
-          "snippet": "",
-          "url": "https://www.ukrinform.ua/rubric-regions/4073913-u-kievi-stavsa-vibuh-v-avtobusi-pravoohoronci-vstanovluut-pricini.html",
-          "source": "Укрінформ"
-        },
-        {
           "title": "У Києві на Виноградарі стався вибух у пасажирському автобусі",
           "snippet": "",
           "url": "https://tvoemisto.tv/news/u_kyievi_na_vynogradari_stavsya_vybuh_u_pasazhyrskomu_avtobusi_183507.html",
           "source": "Твоє Місто"
+        },
+        {
+          "title": "У Києві стався вибух в автобусі",
+          "snippet": "",
+          "url": "https://www.ukrinform.ua/rubric-regions/4073913-u-kievi-stavsa-vibuh-v-avtobusi-pravoohoronci-vstanovluut-pricini.html",
+          "source": "Укрінформ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,26 +33,82 @@
       "title": "київ",
       "trafficCount": "200+",
       "pubDate": "Fri, 26 Dec 2025 16:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSHOGamsNF4TFND0U8j8PKphAb8rEdCF8VPVYIPoYkV0SmMVMXDBKmeyBFXQQ",
-      "pictureSource": "Українська правда",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd0_z5VpN6oFucpBWDdTbyTLlHQSZ12O7SfAmufuRMCZ1Y4pHJhDoD_ob5spY",
+      "pictureSource": "Вечірній Київ",
       "relatedSearch": [
         {
-          "title": "В Україні – повітряна тривога, Київ під атакою балістики",
+          "title": "У Києві та області працюють сили ППО: росіяни атакують українську столицю ракетами та дронами",
           "snippet": "",
-          "url": "https://www.pravda.com.ua/news/2025/12/27/8013569/",
-          "source": "Українська правда"
+          "url": "https://vechirniy.kyiv.ua/news/121454/",
+          "source": "Вечірній Київ"
         },
         {
-          "title": "У Києві та низці областей оголосили повітряну тривогу через загрозу балістики",
+          "title": "Росія б'є по Києву та області дронами",
           "snippet": "",
-          "url": "https://www.ukrinform.ua/rubric-ato/4073934-u-kievi-ta-nizci-oblastej-ogolosili-povitranu-trivogu-cerez-zagrozu-balistiki.html",
-          "source": "Укрінформ"
+          "url": "https://www.pravda.com.ua/news/2025/12/27/8013573/",
+          "source": "Українська правда"
         },
         {
           "title": "У Києві чутно вибухи: РФ масовано атакує ракетами",
           "snippet": "",
           "url": "https://ua.korrespondent.net/kyiv/4843340-u-kyievi-chutno-vybukhy-rf-masovano-atakuie-raketamy",
           "source": "Korrespondent.net"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "кинджал ракета",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 26 Dec 2025 16:10:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQc3fGufOT5G4otBLxmf_HudnRXoN8_-Z_CQLIqa45GlG6A_urAv1-6nTUgfow",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Росія атакує Київ крилатими ракетами, шахедами, балістикою і \"Кинджалами\" з Міг-31К",
+          "snippet": "",
+          "url": "https://www.bbc.com/ukrainian/articles/cn0k444ve2ko",
+          "source": "BBC"
+        },
+        {
+          "title": "Як збивають «кинджали»: оператор ЗРК Patriot розповів про те, як захищають небо",
+          "snippet": "",
+          "url": "https://www.radiosvoboda.org/a/operator-patriot-boyova-robotd-pershyy-zbytyy-kinzhal/33629861.html",
+          "source": "Радіо Свобода"
+        },
+        {
+          "title": "Україна подавила три російських \"Кинджали\" одночасно: експерт пояснив, як це вдалося",
+          "snippet": "",
+          "url": "https://www.unian.ua/war/raketa-kindzhal-ekspert-rozpoviv-yak-vdalosya-podaviti-tri-rosiyskih-kindzhali-za-odnu-ataku-13235769.html",
+          "source": "УНІАН"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "тревога киев",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 26 Dec 2025 16:10:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb1jnFhsoooTUMNBps6XNAfgPrQLjp1V9QWDKjtNpe-cNut1Y4tQy6pxp_R7M",
+      "pictureSource": "Українська правда",
+      "relatedSearch": [
+        {
+          "title": "В Украине объявили воздушную тревогу",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/rus/news/2025/12/27/8013569/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "Киев под ударом. Что известно о ночной атаке на столицу",
+          "snippet": "",
+          "url": "https://www.rbc.ua/ukr/news/kiyiv-pid-udarom-shcho-vidomo-nichnu-ataku-1766795421.html",
+          "source": "РБК-Україна"
+        },
+        {
+          "title": "В Киеве перебои со светом и водой после массированной ракетной атаки",
+          "snippet": "",
+          "url": "https://kyiv.tsn.ua/ru/kyiv/v-kieve-pereboi-so-svetom-i-vodoy-posle-massirovannoy-raketnoy-ataki-2987264.html",
+          "source": "ТСН"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -87,28 +143,28 @@
     },
     {
       "title": "тец 5",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Fri, 26 Dec 2025 16:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPIzI_DLFvLNOQ_FNRVLaqcTwkTMVX22iLRNWK8FFZDfS6NcpmXyw45-G8g34",
-      "pictureSource": "Українська правда",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBciODcnpkyDjfj9AoAiBuF8MYL1F2ObI6sHUeh-3CGp9_Ls4V-2rvMEEKTO0",
+      "pictureSource": "УНІАН",
       "relatedSearch": [
         {
-          "title": "Россия атаковала трассу в Харькове: есть погибший, горят авто",
+          "title": "РФ вдарила КАБами по трасі у Харкові: є жертви, загорілись авто",
           "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2025/12/26/8013517/",
-          "source": "Українська правда"
+          "url": "https://www.unian.ua/incidents/viyna-v-ukrajini-vnaslidok-udariv-rf-po-trasi-u-harkovi-ye-zhertvi-novini-harkova-13237932.html",
+          "source": "УНІАН"
         },
         {
-          "title": "россияне ударили УАБами по трассе в Харькове: загорелись авто, в которых находились люди (ДОПОЛНЕНО)",
+          "title": "У Харкові зросла кількість постраждалих до восьми",
           "snippet": "",
-          "url": "https://hromadske.ua/ru/regiony/256990-rossiyane-udarili-uabami-po-trasse-v-harkove-zagorelis-avto-v-kotoryh-nahodilis-lyudi-dopolneno",
-          "source": "Hromadske"
+          "url": "https://ua.korrespondent.net/city/kharkov/4843261-u-kharkovi-zrosla-kilkist-postrazhdalykh-do-vosmy",
+          "source": "Korrespondent.net"
         },
         {
-          "title": "Удар КАБами по Харькову. Двое погибших, уничтожены машины, повреждены жилые дома и газопровод — фоторепортаж",
+          "title": "Російські військові вдарили КАБом по Харкову, загинули двоє, поранені четверо людей – влада",
           "snippet": "",
-          "url": "https://nv.ua/ukraine/events/udar-po-harkovu-26-12-dva-cheloveka-pogibli-unichtozhena-doroga-v-gschs-pokazali-posledstviya-foto-50571486.html",
-          "source": "NV"
+          "url": "https://www.radiosvoboda.org/a/news-udar-po-harkovu-zahybli-poraneni/33633615.html",
+          "source": "Радіо Свобода"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,88 +183,23 @@
           "source": "NV"
         },
         {
-          "title": "Россия подняла в небо МиГ-31К — самолеты запустили \"Кинжалы\"",
+          "title": "Россия запустила по Украине \"Калибры\" и воздушные шары — детали",
           "snippet": "",
-          "url": "https://news.novyny.live/ru/rossiia-podniala-v-nebo-mig-31k-est-ugroza-puska-kinzhalov-302647.html",
+          "url": "https://news.novyny.live/ru/rossiia-zapustila-po-ukraine-kalibry-i-vozdushnye-shary-detali-302645.html",
           "source": "Novyny live"
         },
         {
-          "title": "\"Кинжалы\" затупились? Почему число российских авиаударов существенно упадет",
+          "title": "Крылатые ракеты над Украиной и баллистика: Воздушные силы предупредили об опасности",
           "snippet": "",
-          "url": "https://news.telegraf.com.ua/novosti-rossii/2025-12-25/5929020-kinzhaly-zatupilis-pochemu-chislo-rossiyskikh-aviaudarov-sushchestvenno-upadet",
-          "source": "News Telegraf"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "киев",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 26 Dec 2025 16:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb1jnFhsoooTUMNBps6XNAfgPrQLjp1V9QWDKjtNpe-cNut1Y4tQy6pxp_R7M",
-      "pictureSource": "Українська правда",
-      "relatedSearch": [
-        {
-          "title": "В Украине объявили воздушную тревогу",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2025/12/27/8013569/",
-          "source": "Українська правда"
-        },
-        {
-          "title": "Россия осуществила массированную ракетную атаку на Киев",
-          "snippet": "",
-          "url": "https://kyiv.tsn.ua/ru/kyiv/rossiya-osuschestvila-massirovannuyu-raketnuyu-ataku-na-kiev-2987261.html",
-          "source": "ТСН"
-        },
-        {
-          "title": "Киев под ударом. Что известно о ночной атаке на столицу",
-          "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/kiyiv-pid-udarom-shcho-vidomo-nichnu-ataku-1766795421.html",
+          "url": "https://www.rbc.ua/ukr/news/krilati-raketi-ukrayinoyu-povitryani-sili-1766791625.html",
           "source": "РБК-Україна"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "прилуки",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 26 Dec 2025 15:50:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "переяслав",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 26 Dec 2025 15:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVsDfSobt65_VgyhCPpxuYPJvOamU4KBX9ya1v69cq2_RexzZ2v6avbn7ApBU",
-      "pictureSource": "Переяслав.City",
-      "relatedSearch": [
-        {
-          "title": "Держекоінспекція перевірила хід робіт з очищення \"ставка\" на річці Альта в Переяславі: які висновки?",
-          "snippet": "",
-          "url": "https://pereiaslav.city/articles/448117/derzhekoinspekciya-viyavila-porushennya-na-richci-alta-v-pereyaslavi",
-          "source": "Переяслав.City"
-        },
-        {
-          "title": "Екологічна перевірка в Переяславі: що не так із очищенням міського ставка",
-          "snippet": "",
-          "url": "https://life.kyiv.ua/news/ekolohichna-perevirka-v-pereiaslavi-shcho-ne-tak-iz-ochyshchenniam-miskoho-stavk",
-          "source": "Life.Kyiv.UA"
-        },
-        {
-          "title": "На війні загинув 24-річний Денис Лукашевич: його поховають у Переяславі",
-          "snippet": "",
-          "url": "https://ps.informator.ua/2025/12/26/na-vijni-zagynuv-24-richnyj-denys-lukashevych-jogo-pohovayut-u-pereyaslavi/",
-          "source": "Інформатор (Переяслав)"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "бровари",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 26 Dec 2025 15:50:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWezLh7Lx7hw4E5GTZckyIveHKPVRcuNBoxZWSW4KEVxubyjS4v-5nyXsernU",
       "pictureSource": "Вечірній Київ",
@@ -235,29 +226,38 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "ніжин",
-      "trafficCount": "200+",
+      "title": "прилуки",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 26 Dec 2025 15:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlsg3AZCtFbbk-cwGqybqitjCYvGPrgz6EFVcggVvthik_qOhUgVhmkPeEcWw",
-      "pictureSource": "Суспільне | Новини",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "переяслав",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 26 Dec 2025 15:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUwLdCEzUnL_q9An9Yvy9py2vuRVFMDGYSbi4naEJ7qOqzcg7Zq0YCVwz3eP0",
+      "pictureSource": "Переяслав.City",
       "relatedSearch": [
         {
-          "title": "На Чернігівщині попрощалися з бійцями Миколою Поповичем, Андрієм Кулаком, Олександром Залозним та Андрієм Юзьком",
+          "title": "Липа у Переяславі не вижила: комунальники її рятували, а потім спиляли",
           "snippet": "",
-          "url": "https://suspilne.media/chernihiv/1199202-na-cernigivsini-poprosalisa-z-bijcami-mikolou-popovicem-andriem-kulakom-oleksandrom-zaloznim-ta-andriem-uzkom/",
-          "source": "Суспільне | Новини"
+          "url": "https://pereiaslav.city/articles/448280/lipa-u-pereyaslavi-ne-vizhila-komunalniki-ii-ryatuvali-a-potim-spilyali",
+          "source": "Переяслав.City"
         },
         {
-          "title": "На Луганщині майже півтора року тому загинув 21-річний солдат із Чернігівщини",
+          "title": "На війні загинув 24-річний Денис Лукашевич: його поховають у Переяславі",
           "snippet": "",
-          "url": "https://cntime.cn.ua/na-luganshini-majzhe-pivtora-roku-tomu-zaginuv-21-richnij-soldat-iz-chernigivshini-article/",
-          "source": "Час Чернігівський"
+          "url": "https://ps.informator.ua/2025/12/26/na-vijni-zagynuv-24-richnyj-denys-lukashevych-jogo-pohovayut-u-pereyaslavi/",
+          "source": "Інформатор (Переяслав)"
         },
         {
-          "title": "Ніжин провів в останню путь загиблиго Героя - Олександра Залозного",
+          "title": "24-річний Денис Лешкевич із Коростеня загинув на війні, його поховають у Переяславі",
           "snippet": "",
-          "url": "https://mynizhyn.com/news/misto-i-region/40318-nizin-proviv-v-ostanniu-put-zagibligo-geroia-oleksandra-zaloznogo.html",
-          "source": "Головний портал Ніжина"
+          "url": "https://pereiaslav.city/articles/448231/24-richnij-denis-leshkevich-iz-korostenya-zaginuv-na-vijni-jogo-pohovayut-u-pereyaslavi",
+          "source": "Переяслав.City"
         }
       ],
       "link": "https://imtaqin.id/"

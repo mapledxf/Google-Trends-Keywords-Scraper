@@ -1,19 +1,41 @@
 {
-  "lastUpdate": "2025-12-27 21:12:36",
+  "lastUpdate": "2025-12-27 21:29:29",
   "data": [
+    {
+      "title": "tv6",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 27 Dec 2025 13:10:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbRsMVw2i35StbKQwZz9TnmC9PGASV9e1NqMPP1xxz6kRjihJOsj4C9XKWNqo",
+      "pictureSource": "Upper Michigan's Source",
+      "relatedSearch": [
+        {
+          "title": "Mackinac Bridge closed due to ‘emergency incident’",
+          "snippet": "",
+          "url": "https://www.uppermichiganssource.com/2025/12/27/mackinac-bridge-closed-until-further-notice/",
+          "source": "Upper Michigan's Source"
+        },
+        {
+          "title": "Mackinac Bridge shut down as police negotiate with individual",
+          "snippet": "",
+          "url": "https://www.sooleader.com/local-news/mackinac-bridge-shut-down-as-police-negotiate-with-individual-11672905",
+          "source": "SooLeader.com"
+        },
+        {
+          "title": "Mackinac Bridge unexpectedly closed for 'special situation'",
+          "snippet": "",
+          "url": "https://www.freep.com/story/news/local/michigan/2025/12/27/mackinac-bridge-closed-special-situation/87928853007/",
+          "source": "Detroit Free Press"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "weather tomorrow",
       "trafficCount": "1000+",
       "pubDate": "Sat, 27 Dec 2025 10:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMEENn2DG-bLH4veccK76s_bM_cUPFOLYzHEWUrsinzMcm8r_o2esrDrvXArw",
-      "pictureSource": "Star Tribune",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRz111PPUyEj8IffJUwHN9ugSq02rrOpUCq2HpAtKA4gelC9jFED48dMWRv1kg",
+      "pictureSource": "5 EYEWITNESS NEWS",
       "relatedSearch": [
-        {
-          "title": "Winter storm to bring snow, possible blizzard conditions to Minnesota Sunday",
-          "snippet": "",
-          "url": "https://www.startribune.com/weather-snowstorm-minnesota/601553281",
-          "source": "Star Tribune"
-        },
         {
           "title": "FORECAST FIRST ALERT: Impactful snowfall expected Sunday",
           "snippet": "",
@@ -21,10 +43,16 @@
           "source": "5 EYEWITNESS NEWS"
         },
         {
-          "title": "Arctic Blast: 5 things to know about Sunday's winter weather",
+          "title": "Winter storm warnings, blizzard warnings issued with snow set to hammer Twin Cities",
           "snippet": "",
-          "url": "https://www.kcci.com/article/arctic-blast-5-things-to-know-about-sundays-winter-weather/69871052",
-          "source": "KCCI"
+          "url": "https://bringmethenews.com/minnesota-weather/winter-storm-warnings-blizzard-warnings-issued-with-snow-set-to-hammer-twin-cities",
+          "source": "Bring Me The News"
+        },
+        {
+          "title": "Minnesota weather: Sunday winter storm to bring accumulating snow, potential whiteout conditions",
+          "snippet": "",
+          "url": "https://www.fox9.com/weather/minnesota-weather-winter-storm-snow-whiteout-conditions-dec-27",
+          "source": "FOX 9 Minneapolis-St. Paul"
         }
       ],
       "link": "https://imtaqin.id/"

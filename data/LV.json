@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2025-12-27 21:41:06",
+  "lastUpdate": "2025-12-27 21:48:50",
   "data": [
     {
       "title": "tv6",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 27 Dec 2025 13:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbRsMVw2i35StbKQwZz9TnmC9PGASV9e1NqMPP1xxz6kRjihJOsj4C9XKWNqo",
-      "pictureSource": "Upper Michigan's Source",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBicDn1Kx5fMhpgxgshPviQngoJoErJkXDCEqzxOSbPwy4yns6ymhb8gYZ5OA",
+      "pictureSource": "MLive.com",
       "relatedSearch": [
+        {
+          "title": "Mackinac Bridge reopens after closing temporarily due to ‘active situation’",
+          "snippet": "",
+          "url": "https://www.mlive.com/news/2025/12/mackinac-bridge-closed-due-to-active-situation.html",
+          "source": "MLive.com"
+        },
         {
           "title": "Mackinac Bridge closed due to ‘emergency incident’",
           "snippet": "",
@@ -19,12 +25,6 @@
           "snippet": "",
           "url": "https://www.sooleader.com/local-news/mackinac-bridge-shut-down-as-police-negotiate-with-individual-11672905",
           "source": "SooLeader.com"
-        },
-        {
-          "title": "WATCH LIVE: Mackinac Bridge safe for travel as ice condition warning is cleared",
-          "snippet": "",
-          "url": "https://upnorthlive.com/news/local/watch-live-icy-conditions-on-mackinac-bridge-reduce-speed-to-20-mph-for-icy-bridge-deck",
-          "source": "WPBN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,20 +33,20 @@
       "title": "weather tomorrow",
       "trafficCount": "1000+",
       "pubDate": "Sat, 27 Dec 2025 10:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRz111PPUyEj8IffJUwHN9ugSq02rrOpUCq2HpAtKA4gelC9jFED48dMWRv1kg",
-      "pictureSource": "5 EYEWITNESS NEWS",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR9CI2rcnFhDg9teQMfct1dtQxa4BmwYia01w9LWzMbrYQ7zXaabPUpKHVbdg",
+      "pictureSource": "Bring Me The News",
       "relatedSearch": [
-        {
-          "title": "FORECAST FIRST ALERT: Impactful snowfall expected Sunday",
-          "snippet": "",
-          "url": "https://kstp.com/kstp-news/weather-forecast/forecast-first-alert-impactful-snowfall-expected-sunday/",
-          "source": "5 EYEWITNESS NEWS"
-        },
         {
           "title": "Winter storm warnings, blizzard warnings issued with snow set to hammer Twin Cities",
           "snippet": "",
           "url": "https://bringmethenews.com/minnesota-weather/winter-storm-warnings-blizzard-warnings-issued-with-snow-set-to-hammer-twin-cities",
           "source": "Bring Me The News"
+        },
+        {
+          "title": "FORECAST FIRST ALERT: Impactful snowfall expected Sunday",
+          "snippet": "",
+          "url": "https://kstp.com/kstp-news/weather-forecast/forecast-first-alert-impactful-snowfall-expected-sunday/",
+          "source": "5 EYEWITNESS NEWS"
         },
         {
           "title": "Minnesota weather: Sunday winter storm to bring accumulating snow, potential whiteout conditions",

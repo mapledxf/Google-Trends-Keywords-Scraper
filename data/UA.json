@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-27 05:21:33",
+  "lastUpdate": "2025-12-27 05:41:47",
   "data": [
     {
       "title": "лебедин",
@@ -59,7 +59,7 @@
     },
     {
       "title": "погода в одессе",
-      "trafficCount": "2000+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 26 Dec 2025 19:50:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQa3cykIn0SoMtIkF3klo4ZdlYdf64W4_zhtMPdTVi1QcT3X-ZlhsNKHVBkY3k",
       "pictureSource": "Думская",
@@ -87,7 +87,7 @@
     },
     {
       "title": "новости киев",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 26 Dec 2025 19:30:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTplxyWq_tEof5mZp92Dv6VuQMtqGR8apBdAO2HU5ZfSd7OMmCyYv7wQ4Ow5PE",
       "pictureSource": "Українська правда",
@@ -114,6 +114,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "укрнет новини",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 26 Dec 2025 16:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKsYQyCt_NQ9dNrgTeMELr5MYuyL8JAEmcaQ_bdxfAWYYzW_p8-lGiDsoM0Kw",
+      "pictureSource": "UKR.NET",
+      "relatedSearch": [
+        {
+          "title": "Ферстаппен: Якщо перевірити всі команди, то половина порушує регламент",
+          "snippet": "",
+          "url": "https://www.ukr.net/ru/news/details/sport/115206146.html",
+          "source": "UKR.NET"
+        },
+        {
+          "title": "Реал получил сенсационное предложение по Куртуа. Решение принято",
+          "snippet": "",
+          "url": "https://sport.ua/news/826319-real-poluchil-sensatsionnoe-predlozhenie-po-kurtua-reshenie-prinyato",
+          "source": "Sport.ua"
+        },
+        {
+          "title": "Куртуа может продолжить карьеру в Саудовской Аравии",
+          "snippet": "",
+          "url": "https://sportarena.ua/football/kurtua-mozhet-prodolzhit-kareru-v-saudovskoj-aravii/",
+          "source": "Sportarena.ua"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "київ",
       "trafficCount": "1000+",
       "pubDate": "Fri, 26 Dec 2025 16:10:00 -0800",
@@ -127,44 +155,16 @@
           "source": "Українська правда"
         },
         {
+          "title": "Масований ракетний обстріл України та його наслідки: головні новини ночі 27 грудня 2025 року",
+          "snippet": "",
+          "url": "https://tsn.ua/ukrayina/masovanyy-raketnyy-obstril-ukrayiny-ta-yoho-naslidky-holovni-novyny-nochi-27-hrudnia-2025-roku-2987273.html",
+          "source": "ТСН"
+        },
+        {
           "title": "У Києві та області працюють сили ППО: росіяни атакують українську столицю ракетами та дронами",
           "snippet": "",
           "url": "https://vechirniy.kyiv.ua/news/121454/",
           "source": "Вечірній Київ"
-        },
-        {
-          "title": "Росія атакує Київ крилатими ракетами, шахедами, балістикою і \"Кинджалами\" з Міг-31К",
-          "snippet": "",
-          "url": "https://www.bbc.com/ukrainian/articles/cn0k444ve2ko",
-          "source": "BBC"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "кинджал ракета",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 26 Dec 2025 16:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQc3fGufOT5G4otBLxmf_HudnRXoN8_-Z_CQLIqa45GlG6A_urAv1-6nTUgfow",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Росія атакує Київ крилатими ракетами, шахедами, балістикою і \"Кинджалами\" з Міг-31К",
-          "snippet": "",
-          "url": "https://www.bbc.com/ukrainian/articles/cn0k444ve2ko",
-          "source": "BBC"
-        },
-        {
-          "title": "Як збивають «кинджали»: оператор ЗРК Patriot розповів про те, як захищають небо",
-          "snippet": "",
-          "url": "https://www.radiosvoboda.org/a/operator-patriot-boyova-robotd-pershyy-zbytyy-kinzhal/33629861.html",
-          "source": "Радіо Свобода"
-        },
-        {
-          "title": "Україна подавила три російських \"Кинджали\" одночасно: експерт пояснив, як це вдалося",
-          "snippet": "",
-          "url": "https://www.unian.ua/war/raketa-kindzhal-ekspert-rozpoviv-yak-vdalosya-podaviti-tri-rosiyskih-kindzhali-za-odnu-ataku-13235769.html",
-          "source": "УНІАН"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -193,6 +193,34 @@
           "snippet": "",
           "url": "https://vechirniy.kyiv.ua/news/121398/",
           "source": "Вечірній Київ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "кинджал ракета",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 26 Dec 2025 16:10:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQc3fGufOT5G4otBLxmf_HudnRXoN8_-Z_CQLIqa45GlG6A_urAv1-6nTUgfow",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Росія атакує Київ крилатими ракетами, шахедами, балістикою і \"Кинджалами\" з Міг-31К",
+          "snippet": "",
+          "url": "https://www.bbc.com/ukrainian/articles/cn0k444ve2ko",
+          "source": "BBC"
+        },
+        {
+          "title": "Як збивають «кинджали»: оператор ЗРК Patriot розповів про те, як захищають небо",
+          "snippet": "",
+          "url": "https://www.radiosvoboda.org/a/operator-patriot-boyova-robotd-pershyy-zbytyy-kinzhal/33629861.html",
+          "source": "Радіо Свобода"
+        },
+        {
+          "title": "Україна подавила три російських \"Кинджали\" одночасно: експерт пояснив, як це вдалося",
+          "snippet": "",
+          "url": "https://www.unian.ua/war/raketa-kindzhal-ekspert-rozpoviv-yak-vdalosya-podaviti-tri-rosiyskih-kindzhali-za-odnu-ataku-13235769.html",
+          "source": "УНІАН"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,27 +267,18 @@
           "source": "NV"
         },
         {
+          "title": "главное за 27 декабря: как прошла ночь",
+          "snippet": "",
+          "url": "https://www.objectiv.tv/objectively/2025/12/27/novosti-harkova-glavnoe-za-27-dekabrya-kak-proshla-noch-2/",
+          "source": "objectiv.tv"
+        },
+        {
           "title": "Крылатые ракеты над Украиной и баллистика: Воздушные силы предупредили об опасности",
           "snippet": "",
           "url": "https://www.rbc.ua/ukr/news/krilati-raketi-ukrayinoyu-povitryani-sili-1766791625.html",
           "source": "РБК-Україна"
-        },
-        {
-          "title": "Россия подняла в небо МиГ-31К — самолеты запустили \"Кинжалы\"",
-          "snippet": "",
-          "url": "https://news.novyny.live/ru/rossiia-podniala-v-nebo-mig-31k-est-ugroza-puska-kinzhalov-302647.html",
-          "source": "Novyny live"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "прилуки",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 26 Dec 2025 15:50:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]

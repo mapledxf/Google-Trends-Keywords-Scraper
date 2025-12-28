@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-28 06:54:51",
+  "lastUpdate": "2025-12-28 07:14:03",
   "data": [
     {
       "title": "weather",
@@ -43,16 +43,44 @@
           "source": "Jauns.lv"
         },
         {
-          "title": "Svētdien būs brāzmains vējš un vietām arī nokrišņi / Raksts",
+          "title": "Stiprais vējš turpināsies arī svētdien",
           "snippet": "",
-          "url": "https://www.lsm.lv/raksts/laika-zinas/laika-zinas/28.12.2025-svetdien-bus-brazmains-vejs-un-vietam-ari-nokrisni.a627945/",
-          "source": "LSM"
+          "url": "https://ciklons.tvnet.lv/8386603/stiprais-vejs-turpinasies-ari-svetdien",
+          "source": "TVNET - Laika ziņas"
         },
         {
           "title": "Nedēļas nogalē rīdziniekus aicina neapmeklēt parkus un kapsētas (papildināta 17.22)",
           "snippet": "",
           "url": "https://www.delfi.lv/156/national/120100558/nedelas-nogale-ridziniekus-aicina-neapmeklet-parkus-un-kapsetas-papildinata-1722",
           "source": "Delfi"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "delfi lv",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 27 Dec 2025 20:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLvb_uOYeHqJ_1hSbq9a-fnAvMCS2FJZtpJJQQufxP7oBuJU3ggY-agNozXEM",
+      "pictureSource": "Delfi",
+      "relatedSearch": [
+        {
+          "title": "Restarts neizdodas? Meklē pircēju klubam \"Skapis\"",
+          "snippet": "",
+          "url": "https://www.delfi.lv/life/56010800/notikumi/120100556/restarts-neizdodas-mekle-pirceju-klubam-skapis",
+          "source": "Delfi"
+        },
+        {
+          "title": "Nomelnošanas kampaņa vai pamatota kritika? \"Skapja\" vadība atbild uz skaļajām apsūdzībām",
+          "snippet": "",
+          "url": "https://www.1188.lv/zinas/nomelnosanas-kampana-vai-pamatota-kritika-skapja-vadiba-atbild-uz-skalajam-apsudzibam/59452",
+          "source": "1188.lv"
+        },
+        {
+          "title": "Naktsklubs \"Skapis\" Rīgā meklē jaunu īpašnieku – nesanāca iecerētais bizness?",
+          "snippet": "",
+          "url": "https://lente.lv/izklaide/raksts/naktsklubs-skapis-riga-mekle-jaunu-ipasnieku-nesanaca-ieceretais-bizness-86245.html?@=komentari",
+          "source": "Lente.lv"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -87,7 +115,7 @@
     },
     {
       "title": "tvnet",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 27 Dec 2025 17:00:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRUuU9WO9F9YD3ZmYN9iwVzSEhSKehuDszmDALVk0vDuI46DyLDw8AKjQRJgw",
       "pictureSource": "TVNET",
@@ -145,15 +173,9 @@
       "title": "iihf",
       "trafficCount": "200+",
       "pubDate": "Sat, 27 Dec 2025 14:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbS9ShcQpbL2Pz3xhWlrl0d5YGIV6wsC04QC4kfJapknJfVf5US7TAui2UaeA",
-      "pictureSource": "ESPN",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1-6teTB4-LrgpISjjBoQonF889DPIdNKeufZ9uOAOlb-8W_ZE5H7dOZL0a58",
+      "pictureSource": "Star Tribune",
       "relatedSearch": [
-        {
-          "title": "Team USA's Hutson struck by puck, out of hospital",
-          "snippet": "",
-          "url": "https://www.espn.com/olympics/story/_/id/47430938/team-usa-cole-hutson-struck-puck-world-juniors-game",
-          "source": "ESPN"
-        },
         {
           "title": "Brodie Ziemer, Will Zellers lead Team USA to World Junior Championship victory over Switzerland",
           "snippet": "",
@@ -161,10 +183,16 @@
           "source": "Star Tribune"
         },
         {
-          "title": "U.S. wins defensive battle",
+          "title": "U.S. wins again",
           "snippet": "",
           "url": "https://www.iihf.com/en/events/2026/wm20/news/71433/u_s_wins_again",
           "source": "IIHF"
+        },
+        {
+          "title": "Hutson Hurt as Americans Win 2nd Straight at World Juniors",
+          "snippet": "",
+          "url": "https://www.collegehockeynews.com/news/2025/12/27_Hutson-Hurt-as-Americans-.php",
+          "source": "College Hockey News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,10 +273,10 @@
           "source": "KTTC | Rochester, MN"
         },
         {
-          "title": "Dense fog overnight, mixed precip and blustery Sunday",
+          "title": "Forecast First Alert Sunday: Blizzard conditions likely",
           "snippet": "",
-          "url": "https://www.kcrg.com/2025/12/28/dense-fog-gives-way-rain-snow-wind/",
-          "source": "KCRG"
+          "url": "https://kstp.com/kstp-news/weather-forecast/forecast-first-alert-sunday-blizzard-conditions-likely/",
+          "source": "5 EYEWITNESS NEWS"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,6 +1,155 @@
 {
-  "lastUpdate": "2025-12-28 02:05:47",
+  "lastUpdate": "2025-12-28 03:53:35",
   "data": [
+    {
+      "title": "weather",
+      "trafficCount": "5000+",
+      "pubDate": "Sat, 27 Dec 2025 19:10:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRhLBUf5cvHDRN1DZ0OFUWb_A4s2i_Pixkbl4aZD1PRm7Q6eonk8ERtbwzdTg",
+      "pictureSource": "CNBC",
+      "relatedSearch": [
+        {
+          "title": "Airlines cancel 900 more flights but disruptions from winter storm ease. Here’s what to know",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/12/26/winter-storm-flight-cancellations.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "New York Freezes Under Winter Storm Devin",
+          "snippet": "",
+          "url": "https://weather.com/news/video/new-york-snow-winter-storm",
+          "source": "The Weather Channel"
+        },
+        {
+          "title": "New York City, Upstate and Long Island Suffering from Snow Apocalypse As State of Emergency Gets Declared: Everything You Need To Know About This Disaster Choking Tourism",
+          "snippet": "",
+          "url": "https://www.travelandtourworld.com/news/article/new-york-city-upstate-and-long-island-suffering-from-snow-apocalypse-as-state-of-emergency-gets-declared-everything-you-need-to-know-about-this-disaster-choking-tourism/",
+          "source": "Travel And Tour World"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "الطقس",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 27 Dec 2025 18:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQzY214-HgfLUGmx3OOtWPe6KWZvRTjbpP-qMa97cBMq2mfjcwyMWzcUakAEc",
+      "pictureSource": "وكالة صدى نيوز",
+      "relatedSearch": [
+        {
+          "title": "Weather Condition: Atmospheric Depression and Heavy Rain Until Monday",
+          "snippet": "",
+          "url": "https://www.sadanews.ps/en/news/261261.html",
+          "source": "وكالة صدى نيوز"
+        },
+        {
+          "title": "Cold, rainy weather expected as low-pressure system affects the country",
+          "snippet": "",
+          "url": "https://english.wafa.ps/Pages/Details/165665",
+          "source": "WAFA Agency"
+        },
+        {
+          "title": "Palestinian civil defense warns of strong weather system",
+          "snippet": "",
+          "url": "https://www.saba.ye/en/news3614879.htm",
+          "source": "وكالة الانباء اليمنية سبأ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "هواشناسی بوشهر",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 27 Dec 2025 18:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMIUIlJZfgKcnzXC6wbXo8c8zkzi7hvbQH-pTWFdy2pt2buNAKBuxa9tP1pFo",
+      "pictureSource": "ایسنا",
+      "relatedSearch": [
+        {
+          "title": "باران تا سه‌شنبه مهمان آسمان بوشهر است",
+          "snippet": "",
+          "url": "https://www.isna.ir/news/1404100603532/%D8%A8%D8%A7%D8%B1%D8%A7%D9%86-%D8%AA%D8%A7-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D9%85%D8%A7%D9%86-%D8%A2%D8%B3%D9%85%D8%A7%D9%86-%D8%A8%D9%88%D8%B4%D9%87%D8%B1-%D8%A7%D8%B3%D8%AA",
+          "source": "ایسنا"
+        },
+        {
+          "title": "بارندگی در استان بوشهر تا سه‌شنبه ادامه دارد؛ احتمال بارش تگرگ",
+          "snippet": "",
+          "url": "https://www.mehrnews.com/news/6703311/%D8%A8%D8%A7%D8%B1%D9%86%D8%AF%DA%AF%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%88%D8%B4%D9%87%D8%B1-%D8%AA%D8%A7-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%AF%D8%A7%D8%B1%D8%AF-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D8%A8%D8%A7%D8%B1%D8%B4-%D8%AA%DA%AF%D8%B1%DA%AF",
+          "source": "خبرگزاری مهر"
+        },
+        {
+          "title": "بارش‌های پراکنده و ناپایداری جوی تا سه‌شنبه در استان بوشهر تداوم دارد",
+          "snippet": "",
+          "url": "https://www.irna.ir/news/86036552/%D8%A8%D8%A7%D8%B1%D8%B4-%D9%87%D8%A7%DB%8C-%D9%BE%D8%B1%D8%A7%DA%A9%D9%86%D8%AF%D9%87-%D9%88-%D9%86%D8%A7%D9%BE%D8%A7%DB%8C%D8%AF%D8%A7%D8%B1%DB%8C-%D8%AC%D9%88%DB%8C-%D8%AA%D8%A7-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%88%D8%B4%D9%87%D8%B1-%D8%AA%D8%AF%D8%A7%D9%88%D9%85",
+          "source": "ایرنا"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "هواشناسی اهواز",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 27 Dec 2025 18:30:00 -0800",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "طرح زوج و فرد",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 27 Dec 2025 18:30:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3mRze2b7XK4D9Sdq-7HIJh6M6YoprReteAJqqmfTyAnwxey86NUB3ekvCCU8",
+      "pictureSource": "ایرنا",
+      "relatedSearch": [
+        {
+          "title": "طرح زوج و فرد در تهران روز یکشنبه از درب منزل اجرا می‌شود",
+          "snippet": "",
+          "url": "https://www.irna.ir/news/86037224/%D8%B7%D8%B1%D8%AD-%D8%B2%D9%88%D8%AC-%D9%88-%D9%81%D8%B1%D8%AF-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D8%A7%D8%B2-%D8%AF%D8%B1%D8%A8-%D9%85%D9%86%D8%B2%D9%84-%D8%A7%D8%AC%D8%B1%D8%A7-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+          "source": "ایرنا"
+        },
+        {
+          "title": "جریمه ۲۰۰ هزار تومانی در انتظار این رانندگان",
+          "snippet": "",
+          "url": "https://www.tabnak.ir/fa/news/1348161/%D8%AC%D8%B1%DB%8C%D9%85%D9%87-%DB%B2%DB%B0%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D8%A7%DB%8C%D9%86-%D8%B1%D8%A7%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86",
+          "source": "Tabnak"
+        },
+        {
+          "title": "آنقدر صنم دارند که یاسمن درش گم است/ درباره طرح زوج و فرد و آلودگی هوا",
+          "snippet": "",
+          "url": "https://vista.ir/n/hammihanonline/fmp40",
+          "source": "vista.ir"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "اوقات شرعی قم",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 27 Dec 2025 17:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRyqJbY-giMzes3j8YYldeilnnMvW9Y2JUJPAv0z4-6R7_mEW3k-DKrj3tPHeI",
+      "pictureSource": "خبرگزاری صدا و سیما",
+      "relatedSearch": [
+        {
+          "title": "تقویم روز و اوقات شرعی گیلان ، ۷ دی ۱۴۰۴",
+          "snippet": "",
+          "url": "https://www.iribnews.ir/fa/news/5669859/%D8%AA%D9%82%D9%88%DB%8C%D9%85-%D8%B1%D9%88%D8%B2-%D9%88-%D8%A7%D9%88%D9%82%D8%A7%D8%AA-%D8%B4%D8%B1%D8%B9%DB%8C-%DA%AF%DB%8C%D9%84%D8%A7%D9%86-%DB%B7-%D8%AF%DB%8C-%DB%B1%DB%B4%DB%B0%DB%B4",
+          "source": "خبرگزاری صدا و سیما"
+        },
+        {
+          "title": "اوقات شرعی قم امروز جمعه 5 دی",
+          "snippet": "",
+          "url": "https://akhbarjahan.news/%D8%A7%D9%88%D9%82%D8%A7%D8%AA-%D8%B4%D8%B1%D8%B9%DB%8C-%D9%82%D9%85-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AC%D9%85%D8%B9%D9%87-5-%D8%AF%DB%8C/",
+          "source": "https://akhbarjahan.news/"
+        },
+        {
+          "title": "اوقات شرعی امروز یکشنبه ۷ دی ۱۴۰۴|ایلنا",
+          "snippet": "",
+          "url": "https://khabarpu.com/b.htm?u=%D8%A7%D9%88%D9%82%D8%A7%D8%AA-%D8%B4%D8%B1%D8%B9%DB%8C-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%DB%B7-%D8%AF%DB%8C-%DB%B1%DB%B4%DB%B0%DB%B4_aWxuYS5pci8lRDglQTglRDglQUUlRDglQjQtJUQ4JUIzJUQ4JUE3JURCJThDJUQ4JUIxLSVEOCVCMSVEOCVCMyVEOCVBNyVEOSU4NiVEOSU4Ny0lRDklODclRDglQTctMTAvMTczMzgwOS0=_2KfbjNmE2YbYpw==",
+          "source": "خبرپو"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "هواشناسی کرمانشاه",
       "trafficCount": "100+",
@@ -33,7 +182,7 @@
       "title": "امید عالیشاه",
       "trafficCount": "100+",
       "pubDate": "Sat, 27 Dec 2025 13:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRIbVLriO6_hv_lvzBMPP_BHjIKJdfGHC-DT80NYIXM6qNaz8uAt0FIFlu_GDw",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-4PHoFzbc4FTAgSS1e2cU-ulWApkW8w4jLiCzwqczxqOPXSfou2U5rBNRkVo",
       "pictureSource": "ورزش سه",
       "relatedSearch": [
         {
@@ -109,174 +258,6 @@
           "snippet": "",
           "url": "https://akharinkhabar.ir/cinema/10771061/%D8%B3%D9%88%DA%98%D9%87-%D8%AF%D8%A7%D8%BA-%D9%87%D9%81%D8%AA%D9%87%D8%9B-%D8%A7%D8%B2-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%A8%D8%B1%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D8%AC%D8%B4%D9%86-%D8%AD%D8%A7%D9%81%D8%B8-%D8%AA%D8%A7-%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1-%D8%BA%D9%85-%D8%A7%D9%86%DA%AF%DB%8C%D8%B2%D9%90-%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%87%D8%A7%DB%8C-%D8%B1%D8%B6%D8%A7-%D8%B1%D9%88%DB%8C%DA%AF%D8%B1%DB%8C",
           "source": "آخرین خبر"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "هواشناسی ایلام",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 27 Dec 2025 12:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRh0yaQHQTx5rHL4yUD-tCEuOvDC4n58OY-F5RiZnYK_gQP-FIeVMH9bqLOwDc",
-      "pictureSource": "ایسنا",
-      "relatedSearch": [
-        {
-          "title": "ورود سامانه سرد و ناپایدار به ایلام/احتمال بارش برف و یخبندان تا منفی ۸ درجه",
-          "snippet": "",
-          "url": "https://www.isna.ir/news/1404100603666/%D9%88%D8%B1%D9%88%D8%AF-%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87-%D8%B3%D8%B1%D8%AF-%D9%88-%D9%86%D8%A7%D9%BE%D8%A7%DB%8C%D8%AF%D8%A7%D8%B1-%D8%A8%D9%87-%D8%A7%DB%8C%D9%84%D8%A7%D9%85-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D8%A8%D8%A7%D8%B1%D8%B4-%D8%A8%D8%B1%D9%81-%D9%88-%DB%8C%D8%AE%D8%A8%D9%86%D8%AF%D8%A7%D9%86",
-          "source": "ایسنا"
-        },
-        {
-          "title": "باران و برف در راه ایلام",
-          "snippet": "",
-          "url": "https://www.irna.ir/news/86035976/%D8%A8%D8%A7%D8%B1%D8%A7%D9%86-%D9%88-%D8%A8%D8%B1%D9%81-%D8%AF%D8%B1-%D8%B1%D8%A7%D9%87-%D8%A7%DB%8C%D9%84%D8%A7%D9%85",
-          "source": "ایرنا"
-        },
-        {
-          "title": "صدور هشدار نارنجی در ایلام؛استان به حالت آماده باش درآمد",
-          "snippet": "",
-          "url": "https://www.mehrnews.com/news/6703981/%D8%B5%D8%AF%D9%88%D8%B1-%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D9%86%D8%A7%D8%B1%D9%86%D8%AC%DB%8C-%D8%AF%D8%B1-%D8%A7%DB%8C%D9%84%D8%A7%D9%85-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%87-%D8%AD%D8%A7%D9%84%D8%AA-%D8%A2%D9%85%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7%D8%B4-%D8%AF%D8%B1%D8%A2%D9%85%D8%AF",
-          "source": "خبرگزاری مهر"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ژوتا",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 27 Dec 2025 11:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRP6Nm36iSLLcclLrwzQjh34EHLMgrEZORjWPQdGRJX8ACMWA4QmikRHPPW93k",
-      "pictureSource": "ورزش سه",
-      "relatedSearch": [
-        {
-          "title": "بغض آنفیلد با فرزندان ژوتا شکست",
-          "snippet": "",
-          "url": "https://www.varzesh3.com/news/2234464/%D8%A8%D8%BA%D8%B6-%D8%A7%D9%93%D9%86%D9%81%DB%8C%D9%84%D8%AF-%D8%A8%D8%A7-%D9%81%D8%B1%D8%B2%D9%86%D8%AF%D8%A7%D9%86-%DA%98%D9%88%D8%AA%D8%A7-%D8%B4%DA%A9%D8%B3%D8%AA",
-          "source": "ورزش سه"
-        },
-        {
-          "title": "فریم به فریم با سکوت احساسی در قلب فوتبال/ وارثان ژوتا دست به دست کاپیتان قبل از کریسمس +عکس",
-          "snippet": "",
-          "url": "https://parsfootball.com/na/news/2109064/",
-          "source": "ParsFootball"
-        },
-        {
-          "title": "زخم باز لیورپول؛ داغ دیوگو ژوتا هنوز بر دل بازیکنان سنگینی می‌کند",
-          "snippet": "",
-          "url": "https://www.khabarvarzeshi.com/news/532369/%D8%B2%D8%AE%D9%85-%D8%A8%D8%A7%D8%B2-%D9%84%DB%8C%D9%88%D8%B1%D9%BE%D9%88%D9%84-%D8%AF%D8%A7%D8%BA-%D8%AF%DB%8C%D9%88%DA%AF%D9%88-%DA%98%D9%88%D8%AA%D8%A7-%D9%87%D9%86%D9%88%D8%B2-%D8%A8%D8%B1-%D8%AF%D9%84-%D8%A8%D8%A7%D8%B2%DB%8C%DA%A9%D9%86%D8%A7%D9%86-%D8%B3%D9%86%DA%AF%DB%8C%D9%86%DB%8C-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF",
-          "source": "خبرورزشی"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "pisa vs juventus",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 27 Dec 2025 11:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVEHkUbhbOYKsx4h9VdpR_TJZWMnsGtYD9R1xAZxWSnI_j-v8NX2rpsnpCmKQ",
-      "pictureSource": "FotMob",
-      "relatedSearch": [
-        {
-          "title": "Pisa 0-2 Juventus: Yildiz strikes late to send Spalletti's side third",
-          "snippet": "",
-          "url": "https://www.fotmob.com/news/t0xy3539fiix11xvqfcjv8by1-pisa-0-2-juventus-yildiz-strikes-late-send-spallettis-side-third",
-          "source": "FotMob"
-        },
-        {
-          "title": "Kalulu and Kenan Yildiz insist ‘Juventus deserved the victory’ in Pisa",
-          "snippet": "",
-          "url": "https://football-italia.net/kalulu-kenan-yildiz-insist-juventus-deserved/",
-          "source": "Football Italia"
-        },
-        {
-          "title": "Zhegrova shines from the bench, Juventus defeats Pisa 2-0 and climbs to third place",
-          "snippet": "",
-          "url": "https://www.gazetaexpress.com/en/Zhegrova-excels-off-the-bench-as-Juventus-beats-Pisa-2-0-and-climbs-to-third-place/",
-          "source": "Gazeta Express"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "پیزا مقابل یوونتوس",
-      "trafficCount": "1000+",
-      "pubDate": "Sat, 27 Dec 2025 11:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbuc0ayYCdC76y4PQwvSEM_VeZtLfXHHmGN4vvPgAPc7PGgqo_xa_nx7kUgGw",
-      "pictureSource": "ورزش سه",
-      "relatedSearch": [
-        {
-          "title": "اسپالتی: هر بازی باید ثابت کنیم قدرتمند هستیم",
-          "snippet": "",
-          "url": "https://www.varzesh3.com/news/2234552/%D8%A7%D8%B3%D9%BE%D8%A7%D9%84%D8%AA%DB%8C-%D9%87%D8%B1-%D8%A8%D8%A7%D8%B2%DB%8C-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%AB%D8%A7%D8%A8%D8%AA-%DA%A9%D9%86%DB%8C%D9%85-%D9%82%D8%AF%D8%B1%D8%AA%D9%85%D9%86%D8%AF-%D9%87%D8%B3%D8%AA%DB%8C%D9%85",
-          "source": "ورزش سه"
-        },
-        {
-          "title": "چالشی نه‌چندان دشوار در مسیر تداوم درخشش؛ ترکیب احتمالی یوونتوس برای بازی با پیزا",
-          "snippet": "",
-          "url": "http://parsfootball.com/na/news/2107161/",
-          "source": "ParsFootball"
-        },
-        {
-          "title": "گل اول یوونتوس به پیزا",
-          "snippet": "",
-          "url": "https://vista.ir/n/akharinkhabar/pispj",
-          "source": "vista.ir"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "وام ازدواج ۱۴۰۵",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 27 Dec 2025 11:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3m8973a2m2_9Ir5fGu8CNYP2_TmENcQsAeQxj-LSTsaWHLRGTUPn_4lnUpyY",
-      "pictureSource": "خبرگزاری مهر",
-      "relatedSearch": [
-        {
-          "title": "ابهام وام ازدواج در بودجه سال آینده",
-          "snippet": "",
-          "url": "https://www.mehrnews.com/news/6703819/%D8%A7%D8%A8%D9%87%D8%A7%D9%85-%D9%88%D8%A7%D9%85-%D8%A7%D8%B2%D8%AF%D9%88%D8%A7%D8%AC-%D8%AF%D8%B1-%D8%A8%D9%88%D8%AF%D8%AC%D9%87-%D8%B3%D8%A7%D9%84-%D8%A2%DB%8C%D9%86%D8%AF%D9%87",
-          "source": "خبرگزاری مهر"
-        },
-        {
-          "title": "در هر بانک چند نفر در صف دریافت وام ازدواج هستند؟",
-          "snippet": "",
-          "url": "https://shahraranews.ir/fa/news/380256/%D8%AF%D8%B1-%D9%87%D8%B1-%D8%A8%D8%A7%D9%86%DA%A9-%DA%86%D9%86%D8%AF-%D9%86%D9%81%D8%B1-%D8%AF%D8%B1-%D8%B5%D9%81-%D8%AF%D8%B1%DB%8C%D8%A7%D9%81%D8%AA-%D9%88%D8%A7%D9%85-%D8%A7%D8%B2%D8%AF%D9%88%D8%A7%D8%AC-%D9%87%D8%B3%D8%AA%D9%86%D8%AF",
-          "source": "شهرآرانیوز"
-        },
-        {
-          "title": "تسریع در پرداخت وام ازدواج درخواست زوجین شد",
-          "snippet": "",
-          "url": "https://www.yjc.ir/fa/news/9040132/%D8%AA%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA-%D9%88%D8%A7%D9%85-%D8%A7%D8%B2%D8%AF%D9%88%D8%A7%D8%AC-%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D8%B3%D8%AA-%D8%B2%D9%88%D8%AC%DB%8C%D9%86-%D8%B4%D8%AF",
-          "source": "باشگاه خبرنگاران جوان"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "عارف آقاسی",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 27 Dec 2025 11:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7NiovZannGJQKh_yqjq4ZPxPBu2kgC40T5RyMct-_2HBzrgRamtBaip1VhoQ",
-      "pictureSource": "ورزش سه",
-      "relatedSearch": [
-        {
-          "title": "بازگشت آقاسی پس از جنجال‌های فراوان",
-          "snippet": "",
-          "url": "https://www.varzesh3.com/news/2233841/%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%A7%D9%93%D9%82%D8%A7%D8%B3%DB%8C-%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%AC%D9%86%D8%AC%D8%A7%D9%84-%D9%87%D8%A7%DB%8C-%D9%81%D8%B1%D8%A7%D9%88%D8%A7%D9%86",
-          "source": "ورزش سه"
-        },
-        {
-          "title": "پشت پرده بازگشت مدافع جنجالی به تمرینات استقلال",
-          "snippet": "",
-          "url": "https://www.khabarvarzeshi.com/news/532292/%D9%BE%D8%B4%D8%AA-%D9%BE%D8%B1%D8%AF%D9%87-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D9%85%D8%AF%D8%A7%D9%81%D8%B9-%D8%AC%D9%86%D8%AC%D8%A7%D9%84%DB%8C-%D8%A8%D9%87-%D8%AA%D9%85%D8%B1%DB%8C%D9%86%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84",
-          "source": "خبرورزشی"
-        },
-        {
-          "title": "متضرر بزرگ بسته ماندن پنجره نقل و انتقالاتی استقلال!",
-          "snippet": "",
-          "url": "https://sport.shafaqna.com/FA/701558/%D9%85%D8%AA%D8%B6%D8%B1%D8%B1-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%A8%D8%B3%D8%AA%D9%87-%D9%85%D8%A7%D9%86%D8%AF%D9%86-%D9%BE%D9%86%D8%AC%D8%B1%D9%87-%D9%86%D9%82%D9%84-%D9%88-%D8%A7%D9%86%D8%AA%D9%82%D8%A7/",
-          "source": "شفقنا ورزشی"
         }
       ],
       "link": "https://imtaqin.id/"

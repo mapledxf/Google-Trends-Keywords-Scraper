@@ -1,58 +1,30 @@
 {
-  "lastUpdate": "2025-12-30 07:34:17",
+  "lastUpdate": "2025-12-30 07:46:34",
   "data": [
     {
       "title": "czy w sylwestra sa otwarte sklepy",
       "trafficCount": "100+",
       "pubDate": "Mon, 29 Dec 2025 23:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR866S_l4hxJSSAhoLVxYnh_C6NUBT8SugGTXONCoi7RIy6jkALqaF4Bl3qhc4",
-      "pictureSource": "Fakt",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQe6DDUBYIbgkTGUbLm-CFY-fS1lWSqtxDCsLQteeA7lhp-eM-2f6svQqabDZU",
+      "pictureSource": "WP Finanse",
       "relatedSearch": [
+        {
+          "title": "Biedronka zmienia godziny otwarcia. Ważny komunikat dla klientów",
+          "snippet": "",
+          "url": "https://finanse.wp.pl/biedronka-zmienia-godziny-otwarcia-wazny-komunikat-dla-klientow-7237952407742976a",
+          "source": "WP Finanse"
+        },
+        {
+          "title": "Do której zrobisz zakupy w sylwestra?",
+          "snippet": "",
+          "url": "https://www.trojmiasto.pl/biznes/Do-ktorej-zrobisz-zakupy-w-sylwestra-n212437.html",
+          "source": "Trojmiasto.pl"
+        },
         {
           "title": "Do której są otwarte sklepy w sylwestra? Godziny pracy w najpopularniejszych sieciach [LISTA]",
           "snippet": "",
           "url": "https://www.fakt.pl/pieniadze/jak-sa-otwarte-sklepy-w-sylwestra-202526-tu-zrobisz-zakupy-do-wieczora/9lvp8rq",
           "source": "Fakt"
-        },
-        {
-          "title": "Biedronka otwarta dłużej przed Sylwestrem",
-          "snippet": "",
-          "url": "https://media.biedronka.pl/441157-biedronka-otwarta-dluzej-przed-sylwestrem",
-          "source": "Biedronka"
-        },
-        {
-          "title": "Pilny komunikat Biedronki. Dotyczy wszystkich klientów",
-          "snippet": "",
-          "url": "https://www.rmf.fm/styl-zycia/news,86880,pilny-komunikat-biedronki-dotyczy-wszystkich-klientow.html",
-          "source": "RMF FM"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "e doręczenia",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 29 Dec 2025 23:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFVq_FS6Lz4EH0QYF6aR_obtuAQnwRocqBbFuFKvLVirSLzGakitAv9volxbQ",
-      "pictureSource": "TOK FM",
-      "relatedSearch": [
-        {
-          "title": "Koniec papierowych awizo? Poczta Polska szykuje rewolucję",
-          "snippet": "",
-          "url": "https://www.tokfm.pl/polska/koniec-papierowych-awizo-poczta-polska-szykuje-rewolucje",
-          "source": "TOK FM"
-        },
-        {
-          "title": "e-Doręczenia w kontaktach z urzędem od 2026 roku",
-          "snippet": "",
-          "url": "https://www.gov.pl/web/dolnoslaski-uw/e-doreczenia-w-kontaktach-z-urzedem-od-2026-roku",
-          "source": "Gov.pl"
-        },
-        {
-          "title": "Nowy obowiązek w urzędach po 1 stycznia. Koniec z papierologią",
-          "snippet": "",
-          "url": "https://natemat.pl/636417,nowy-obowiazek-w-urzedach-po-1-stycznia-koniec-z-papierologia",
-          "source": "naTemat.pl"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -81,6 +53,34 @@
           "snippet": "",
           "url": "https://www.rmf24.pl/ekonomia/news-nowy-rok-nowe-pensje-od-stycznia-wyzsza-placa-minimalna,nId,8054155",
           "source": "RMF24"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "e-doręczenia",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 29 Dec 2025 23:10:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRimWFJCY1zXDcW543pyQ8fL_0R-7jYuIt3aD0b8SOeGd3BcWl0TWtT_lH_nqo",
+      "pictureSource": "Gov.pl",
+      "relatedSearch": [
+        {
+          "title": "Od stycznia 2026 r. zmienia się cyfrowa korespondencja z urzędami - zaplanowane prace techniczne",
+          "snippet": "",
+          "url": "https://www.gov.pl/web/cyfryzacja/od-stycznia-2026-r-zmienia-sie-cyfrowa-korespondencja-z-urzedami--zaplanowane-prace-techniczne",
+          "source": "Gov.pl"
+        },
+        {
+          "title": "Koniec papierowych awizo? Poczta Polska szykuje rewolucję",
+          "snippet": "",
+          "url": "https://www.tokfm.pl/polska/koniec-papierowych-awizo-poczta-polska-szykuje-rewolucje",
+          "source": "TOK FM"
+        },
+        {
+          "title": "Nowy obowiązek w urzędach po 1 stycznia. Koniec z papierologią",
+          "snippet": "",
+          "url": "https://natemat.pl/636417,nowy-obowiazek-w-urzedach-po-1-stycznia-koniec-z-papierologia",
+          "source": "naTemat.pl"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -133,10 +133,10 @@
           "source": "Onet Wiadomości"
         },
         {
-          "title": "Nowe informacje ws. wlotu balonów z Białorusi do Polski!",
+          "title": "​59 balonów wleciało do Polski. Nowe informacje",
           "snippet": "",
-          "url": "https://wpolityce.pl/kraj/749406-nowe-informacje-ws-wlotu-balonow-z-bialorusi-do-polski",
-          "source": "wPolityce.pl"
+          "url": "https://www.rmf24.pl/regiony/news-59-balonow-wlecialo-do-polski-nowe-informacje,nId,8053968",
+          "source": "RMF24"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,10 +161,10 @@
           "source": "Gazeta"
         },
         {
-          "title": "Warszawa - 29.12.2025. Jaka będzie pogoda w mieście?",
+          "title": "Pogoda tygodniowa dla Warszawy. Prognoza od jutra (31.12) do poniedziałku",
           "snippet": "",
-          "url": "https://wiadomosci.onet.pl/warszawa/warszawa-prognoza-pogody-w-dniu-29122025/88v68kk",
-          "source": "Onet Wiadomości"
+          "url": "https://warszawa.naszemiasto.pl/pogoda-tygodniowa-dla-warszawy-prognoza-od-jutra-31-12-do-poniedzialku/ar/c1p1-19943927",
+          "source": "Warszawa Nasze Miasto"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-12-31 19:29:48",
+  "lastUpdate": "2025-12-31 19:40:00",
   "data": [
-    {
-      "title": "первый канал онлайн",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 31 Dec 2025 11:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyZlF5KWj3oMeD4c-VnKOYexDGOT3Bwt-IDLBG_qvOM665UtUxMMCAJvoekfM",
-      "pictureSource": "Meduza",
-      "relatedSearch": [
-        {
-          "title": "Путин выступил с новогодним обращением",
-          "snippet": "",
-          "url": "https://meduza.io/news/2025/12/31/putin-vystupil-s-novogodnim-obrascheniem",
-          "source": "Meduza"
-        },
-        {
-          "title": "Путин поздравил россиян с Новым годом",
-          "snippet": "",
-          "url": "https://www.vedomosti.ru/politics/news/2025/12/31/1167682-putin-iz-kremlya",
-          "source": "Ведомости"
-        },
-        {
-          "title": "Владимир Путин выступил с новогодним обращением к россиянам",
-          "snippet": "",
-          "url": "https://www.interfax.ru/russia/1065956",
-          "source": "Интерфакс"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "lsm",
       "trafficCount": "100+",
@@ -59,7 +31,7 @@
     },
     {
       "title": "dua lipa",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 31 Dec 2025 10:40:00 -0800",
       "picture": "",
       "pictureSource": "Sports Illustrated Lifestyle",
@@ -117,9 +89,16 @@
       "title": "один дома",
       "trafficCount": "100+",
       "pubDate": "Wed, 31 Dec 2025 09:50:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYvJX3lno7V8-eaF85BckRcJQQEtBFFM9nmy9OLZR3wNKuV9_gGTd4lZfM45Q",
+      "pictureSource": "Daily Moscow",
+      "relatedSearch": [
+        {
+          "title": "«Ирония судьбы» и «Гарри Поттер»: эксперты выяснили, без какого кино россияне не представляют Новый год",
+          "snippet": "",
+          "url": "https://dailymoscow.ru/news/ironiya-sudby-i-garri-potter-eksperty-vyyasnili-bez-kakogo-kino-rossiyane-ne-predstavlyayut-novyy-god",
+          "source": "Daily Moscow"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -192,9 +171,9 @@
           "source": "LSM"
         },
         {
-          "title": "Pasaule svin! Seko līdzi 2026. gada sagaidīšanai teksta tiešraidē",
+          "title": "Pieminot Bondi terorakta upurus, Austrālija sagaida 2026. gadu",
           "snippet": "",
-          "url": "https://tv3.lv/zinas/arvalstis/pasaule-svin-seko-lidzi-2026-gada-sagaidisanai-teksta-tiesraide/",
+          "url": "https://tv3.lv/zinas/arvalstis/pieminot-bondi-terorakta-upurus-australija-sagaida-2026-gadu/",
           "source": "tv3.lv"
         },
         {
@@ -258,6 +237,34 @@
           "snippet": "",
           "url": "https://www.la.lv/ja-sodien-to-redzi-riga-nofotografe-vai-filme-un-zino-pasvaldibai",
           "source": "LA.LV"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "laimīgu jauno 2026 gadu",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 31 Dec 2025 01:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNHfj-R9Ma_wruwfEXzrmdVdV32R6RMZIEWGTe8tidlVWAoEZp542femN0zA4",
+      "pictureSource": "Jēkabpils Laiks",
+      "relatedSearch": [
+        {
+          "title": "Laimīgu Jauno – 2026. gadu!",
+          "snippet": "",
+          "url": "https://www.jekabpilslaiks.lv/lv/zinas/laimigu-jauno-2026-gadu-/",
+          "source": "Jēkabpils Laiks"
+        },
+        {
+          "title": "Jelgavā Jauno gadu sagaidīs Hercoga Jēkaba laukumā ar divkāršu svinību mirkli",
+          "snippet": "",
+          "url": "https://lente.lv/kultura/raksts/jelgava-jauno-gadu-sagaidis-hercoga-jekaba-laukuma-ar-divkarsu-svinibu-mirkli-87365.html?@=komentari",
+          "source": "Lente.lv"
+        },
+        {
+          "title": "Sagaidām 2026. gadu Tukuma novadā!",
+          "snippet": "",
+          "url": "https://www.ntz.lv/dziveszina/sagaidam-2026-gadu-tukuma-novada",
+          "source": "Tukuma Ziņas"
         }
       ],
       "link": "https://imtaqin.id/"

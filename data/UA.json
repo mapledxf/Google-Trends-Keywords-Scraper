@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-01 14:19:42",
+  "lastUpdate": "2026-01-01 14:40:31",
   "data": [
     {
       "title": "буданов",
@@ -31,7 +31,7 @@
     },
     {
       "title": "денис капустин",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Thu, 1 Jan 2026 05:00:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzCz6k3CatLeAUTTSHZU4EbmfuYpQZvEs0mnhXMX1qyV2n_i9hFSiJmJonT7Y",
       "pictureSource": "Українська правда",
@@ -43,16 +43,16 @@
           "source": "Українська правда"
         },
         {
+          "title": "ГУР Украины опровергло гибель главы РДК Дениса Капустина",
+          "snippet": "",
+          "url": "https://www.dw.com/ru/gur-ukrainy-oproverglo-gibel-glavy-rdk-denisa-kapustina/a-75361271",
+          "source": "DW"
+        },
+        {
           "title": "Командир РДК Капустин жив. ГУР обвело вокруг пальца российские спецслужбы (видео)",
           "snippet": "",
           "url": "https://www.rbc.ua/ukr/news/komandir-rdk-kapustin-zhiviy-gur-poshilo-1767272729.html",
           "source": "РБК-Україна"
-        },
-        {
-          "title": "ГУР заявило, что командир РДК Денис Капустин жив: Провал спецслужб рф",
-          "snippet": "",
-          "url": "https://hromadske.ua/ru/voyna/257231-gur-zayavilo-chto-komandir-rdk-denis-kapustin-zhiv-proval-spetssluzhb-rf",
-          "source": "Hromadske"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -77,10 +77,10 @@
           "source": "Радіо Свобода"
         },
         {
-          "title": "Командир РДК Денис Капустін живий, - ГУР",
+          "title": "Командир РДК Капустін живий - ГУР",
           "snippet": "",
-          "url": "https://www.unian.ua/war/denis-kapustin-naspravdi-zhiviy-gur-poperedilo-zamah-na-komandira-rdk-13243116.html",
-          "source": "УНІАН"
+          "url": "https://ua.korrespondent.net/ukraine/4844473-komandyr-rdk-kapustin-zhyvyi-hur",
+          "source": "Korrespondent.net"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -255,11 +255,30 @@
     },
     {
       "title": "день василя 2026",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 1 Jan 2026 01:50:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJHGhApjQ3XaxryE5C2H8f7cZzgFz2BFU9uulpyi2Y3Pil7sSKslkhdbwg4eQ",
+      "pictureSource": "Район Культура",
+      "relatedSearch": [
+        {
+          "title": "День святого Василя 2026: коли тепер святкувати та посівати за новим календарем",
+          "snippet": "",
+          "url": "https://kultura.rayon.in.ua/news/859999-den-svyatogo-vasilya-2026-koli-teper-svyatkuvati-ta-posivati-za-novim-kalendarem",
+          "source": "Район Культура"
+        },
+        {
+          "title": "День ангела 1 січня: кого та як вітати з іменинами",
+          "snippet": "",
+          "url": "https://tsn.ua/other/den-anhela-1-sichnia-koho-ta-iak-vitaty-z-imenynamy-2987321.html",
+          "source": "ТСН"
+        },
+        {
+          "title": "Василія, Тетяни та Водохреща: церковний календар на січень 2026 року",
+          "snippet": "",
+          "url": "https://zahid.espreso.tv/suspilstvo-vasiliya-tetyani-ta-vodokhreshcha-tserkovniy-kalendar-na-sichen-2026-roku",
+          "source": "zahid.espreso.tv"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]

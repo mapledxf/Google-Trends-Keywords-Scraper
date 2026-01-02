@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-02 05:59:37",
+  "lastUpdate": "2026-01-02 06:39:22",
   "data": [
     {
       "title": "обозреватель",
@@ -49,10 +49,10 @@
           "source": "BBC"
         },
         {
-          "title": "Взрыв в баре на курорте в Швейцарии. Десятки человек погибли, более 100 ранены",
+          "title": "40 погибших при пожаре на горнолыжном курорте в Швейцарии",
           "snippet": "",
-          "url": "https://meduza.io/feature/2026/01/01/vzryv-v-bare-na-kurorte-v-shveytsarii-desyatki-chelovek-pogibli-bolee-100-raneny",
-          "source": "Meduza"
+          "url": "https://www.dw.com/ru/40-pogibsih-pri-pozare-na-gornolyznom-kurorte-kranmontana-v-svejcarii/a-75359390",
+          "source": "DW"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -71,23 +71,23 @@
           "source": "Українська правда"
         },
         {
+          "title": "Мороз до -14 и сильный ветер: где сегодня будет снежить и будет холоднее всего",
+          "snippet": "",
+          "url": "https://www.rbc.ua/ukr/news/moroz-14-ta-silniy-viter-de-sogodni-snizhitime-1767276794.html",
+          "source": "РБК-Україна"
+        },
+        {
           "title": "От 18 мороза — до 3 тепла, шквалы: прогноз по Харькову и области на 2 января",
           "snippet": "",
           "url": "https://www.objectiv.tv/objectively/2026/01/01/ot-18-moroza-do-3-tepla-shkvaly-prognoz-po-harkovu-i-oblasti-na-2-yanvarya/",
           "source": "objectiv.tv"
-        },
-        {
-          "title": "На Украину сунет циклон Tizian: синоптик предупредила о резком изменении погоды 2 января",
-          "snippet": "",
-          "url": "https://tsn.ua/ru/ukrayina/na-ukrainu-suet-tsiklon-tizian-sinoptikinya-predupredila-o-rezkom-izmenenii-pogody-2-yanvarya-2990750.html",
-          "source": "ТСН"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "церковний календар 2026",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 1 Jan 2026 20:40:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkRufeuHOnHM523LDi_By55fSNqx6vxYS2h1VUShCNo8zrzA2-3OLHYZLPJFw",
       "pictureSource": "ТСН",
@@ -105,18 +105,46 @@
           "source": "zahid.espreso.tv"
         },
         {
-          "title": "Церковний календар 2026: усі свята й пости",
+          "title": "Церковний календар на січень 2026: коли Водохреща, Тетянин день та Трисвяття",
           "snippet": "",
-          "url": "https://report.if.ua/socium/cerkovnyj-kalendar-2026-usi-svyata-j-posty/",
-          "source": "Репортер"
+          "url": "https://fakty.com.ua/ua/styl-zhyttia/svyata/20260101-czerkovnyj-kalendar-na-sichen-2026-koly-vodohreshha-tetyanyn-den-ta-trysvyattya/",
+          "source": "Факти ICTV"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "графік відключення світла чернівці сьогодні",
+      "title": "погода в киеве",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 1 Jan 2026 19:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQz8zyyw1AGUH4TjtpezqMBM66lrh-8C7f_4Pxa5huH7ha9jpwgGBzvIO7zgY4",
+      "pictureSource": "NV",
+      "relatedSearch": [
+        {
+          "title": "Потепление после метелей. Синоптики предупредили, когда в Украине изменится погода",
+          "snippet": "",
+          "url": "https://nv.ua/ukraine/events/pogoda-v-yanvare-kogda-poteplenie-do-2-dozhd-mokryy-sneg-i-gde-budet-metel-posle-novogo-goda-2026-50572514.html",
+          "source": "NV"
+        },
+        {
+          "title": "Морозы, снег и гололедица: прогноз погоды в Украине на первый день года",
+          "snippet": "",
+          "url": "https://www.rbc.ua/ukr/news/morozi-snig-i-ozheleditsya-prognoz-pogodi-1767185718.html",
+          "source": "РБК-Україна"
+        },
+        {
+          "title": "Арктическая погода в Украине: когда отступят морозы",
+          "snippet": "",
+          "url": "https://tsn.ua/ru/ukrayina/arkticheskaya-pogoda-v-ukraine-kogda-otstupyat-morozy-2990657.html",
+          "source": "ТСН"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "графік відключення світла на 2 січня",
       "trafficCount": "500+",
-      "pubDate": "Thu, 1 Jan 2026 19:20:00 -0800",
+      "pubDate": "Thu, 1 Jan 2026 19:30:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYy7IE_0Icejfnj8oJ8M5RxD6MB-YYLHQcXANFXwUiyXA3Ey_K4D_VHGwFylQ",
       "pictureSource": "УНІАН",
       "relatedSearch": [
@@ -133,9 +161,9 @@
           "source": "Українська правда"
         },
         {
-          "title": "Львівобленерго не анонсувало графіки відключення світла на 2 січня",
+          "title": "Львівобленерго послабило графіки відключень для жителів у перший новорічний день",
           "snippet": "",
-          "url": "https://dailylviv.com/news/ekonomika/lvivoblenerho-ne-anonsuvalo-hrafiky-vidklyuchennya-svitla-na-2-sichnya-144741",
+          "url": "https://dailylviv.com/news/ekonomika/lvivoblenerho-poslabylo-hrafiky-vidklyuchen-u-pershyi-novorichnyi-den-144734",
           "source": "DailyLviv.com"
         }
       ],
@@ -161,10 +189,38 @@
           "source": "Справжнє"
         },
         {
-          "title": "Отопительный сезон в Запорожье: как работают котельные при отключении света",
+          "title": "Некоторые дома в Запорожье будут без света из-за ремонта (АДРЕСА)",
           "snippet": "",
-          "url": "https://www.ukr.net/ru/news/details/zaporizhzhya/115170110.html",
-          "source": "UKR.NET"
+          "url": "https://www.inform.zp.ua/ru/2026/01/02/350693_nekotorye-doma-v-zaporozhe-budut-bez-sveta-iz-za-remonta-adresa/",
+          "source": "inform.zp.ua"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "владислав лупашко",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 1 Jan 2026 18:20:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJg8HH-GkqRxMBLtwZDxJXZp0l617YReXKlu3hHri6ZQgK3p7vmkC0VLAhIsk",
+      "pictureSource": "Zaxid.net",
+      "relatedSearch": [
+        {
+          "title": "Владислав Лупашко більше не тренує Карпати - причина відходу, хто може замінити - ZAXID.NET",
+          "snippet": "",
+          "url": "https://zaxid.net/vladislav_lupashko_pokinuv_posadu_golovnogo_trenera_karpat_n1627063",
+          "source": "Zaxid.net"
+        },
+        {
+          "title": "\"Карпати\" звільнили головного тренера Владислава Лупашка в останній день 2025 року",
+          "snippet": "",
+          "url": "https://suspilne.media/sport/1202946-karpati-zvilnili-golovnogo-trenera-vladislava-lupaska-v-ostannij-den-2025-roku/",
+          "source": "Суспільне | Новини"
+        },
+        {
+          "title": "Карпати розсталися з Лупашком після ювілейної гри на тренерському містку",
+          "snippet": "",
+          "url": "https://ua.korrespondent.net/sport/football/4844344-karpaty-rozstalysia-z-lupashkom-pislia-yuvileinoi-hry-na-trenerskomu-mistku",
+          "source": "Korrespondent.net"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -215,62 +271,6 @@
           "snippet": "",
           "url": "https://www.vulture.com/article/james-cameron-avatar-4-backup-plan.html",
           "source": "Vulture"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "серіал дивні дива",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 1 Jan 2026 12:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTk6LV4AENk91OYDb_BAgTSLXH96dSwyq21g9G1yl1-aEKjBSLre9F21lyj28c",
-      "pictureSource": "Укрінформ",
-      "relatedSearch": [
-        {
-          "title": "Прем’єра фіналу серіалу «Дивні дива» ненадовго «зламала» Netflix",
-          "snippet": "",
-          "url": "https://www.ukrinform.ua/rubric-culture/4075766-premera-finalu-serialu-divni-diva-nenadovgo-zlamala-netflix.html",
-          "source": "Укрінформ"
-        },
-        {
-          "title": "Дивні дива: великий фінал культового серіалу",
-          "snippet": "",
-          "url": "https://www.bbc.com/ukrainian/articles/c3r7ev7qyg3o",
-          "source": "BBC"
-        },
-        {
-          "title": "Горор-серіал \"Дивні дива\" завершився епічним фіналом: що важливо знати",
-          "snippet": "",
-          "url": "https://www.unian.ua/lite/kino/divni-diva-serial-stranger-things-zavershivsya-epichnim-finalom-divitisya-onlayn-13243062.html",
-          "source": "УНІАН"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "брентфорд – тоттенхэм",
-      "trafficCount": "1000+",
-      "pubDate": "Thu, 1 Jan 2026 11:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpxrmwwiLAelDKZOIUKOYXRlyTXsmfHzHWARzyqHahPmge8sTVrHcFdCyW9lM",
-      "pictureSource": "Футбол 24",
-      "relatedSearch": [
-        {
-          "title": "Брентфорд и Тоттенхэм сыграли вничью – фанаты \"шпор\" унижали свою команду с трибун",
-          "snippet": "",
-          "url": "https://football24.ua/ru/news/brentford-i-tottenhjem-sygrali-vnichju-fanaty-shpor-unizhali-svoju-komandu-s-tribun-918952",
-          "source": "Футбол 24"
-        },
-        {
-          "title": "Ярмолюк в матче против «Тоттенхэма»: 1 удар мимо ворот, 1 созданный момент, был обыгран 4 раза и оценки 6,7 и 6,8",
-          "snippet": "",
-          "url": "https://ua.tribuna.com/football/1000000307142-yarmolyuk-u-matchi-proty-tottenhema-1-udar-povz-vorota-1/",
-          "source": "Tribuna.com"
-        },
-        {
-          "title": "Где Ярмолюк? Стартовые составы Брентфорда и Тоттенхэма на матч Премьер-лиги",
-          "snippet": "",
-          "url": "https://sport.ua/news/828166-gde-yarmolyuk-startovye-sostavy-brentforda-i-tottenhema-na-match-premyer-ligi",
-          "source": "Sport.ua"
         }
       ],
       "link": "https://imtaqin.id/"

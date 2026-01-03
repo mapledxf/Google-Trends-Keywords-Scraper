@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2026-01-03 06:57:17",
+  "lastUpdate": "2026-01-03 07:17:31",
   "data": [
     {
-      "title": "world news",
-      "trafficCount": "10000+",
-      "pubDate": "Fri, 2 Jan 2026 22:40:00 -0800",
+      "title": "weather",
+      "trafficCount": "20000+",
+      "pubDate": "Fri, 2 Jan 2026 22:50:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTafyctZeaCTAw9zQtxHla1Zfj0aH_jbYyXj18vdFkItL9H0_yieUriEdfxR74",
       "pictureSource": "BBC",
       "relatedSearch": [
@@ -30,8 +30,92 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "venezuela",
+      "title": "caracas",
       "trafficCount": "200+",
+      "pubDate": "Fri, 2 Jan 2026 22:50:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQaGGEHZ6JHrVCbiaL6OwW3j-nN6pYs4qRFi_wFqPaoryN6o9EjmOb_7uB_-So",
+      "pictureSource": "Yahoo News UK",
+      "relatedSearch": [
+        {
+          "title": "At least seven explosions and low-flying aircraft heard in Venezuelan capital Caracas",
+          "snippet": "",
+          "url": "https://uk.news.yahoo.com/least-seven-explosions-low-flying-065301772.html",
+          "source": "Yahoo News UK"
+        },
+        {
+          "title": "Caracas: Venezuela's capital city rocked by explosions amid Donald Trump's war on narco-terrorists",
+          "snippet": "",
+          "url": "https://www.gbnews.com/news/world/caracas-venezuela-donald-trump-strikes-explosions-war",
+          "source": "GB News"
+        },
+        {
+          "title": "Multiple explosions, aircraft sounds reported in Venezuela’s Caracas",
+          "snippet": "",
+          "url": "https://uk.news.yahoo.com/multiple-explosions-aircraft-sounds-reported-064444654.html",
+          "source": "Yahoo News UK"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "cnn",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 2 Jan 2026 22:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQd5jJFo4ySlCAqkzfM6bNsDchFbeYNxi_MF0pZgHRYuWUF-MHYcFT7WKC092k",
+      "pictureSource": "The Independent",
+      "relatedSearch": [
+        {
+          "title": "Former mayor hits back at Andy Cohen after on-air diss: ‘I have two letters for him’",
+          "snippet": "",
+          "url": "https://www.independent.co.uk/bulletin/culture/andy-cohen-eric-adams-new-years-diss-response-b2893282.html",
+          "source": "The Independent"
+        },
+        {
+          "title": "Adams responds to Andy Cohen criticism: ‘Another sloppy drunken rant’",
+          "snippet": "",
+          "url": "https://thehill.com/blogs/in-the-know/5669856-eric-adams-andy-cohen-criticism/",
+          "source": "The Hill"
+        },
+        {
+          "title": "Andy Cohen Drunkenly Roasted 1 Politician Live On NYE — And Fans Are Defending His Rant",
+          "snippet": "",
+          "url": "https://uk.news.yahoo.com/andy-cohen-drunkenly-roasted-1-222724685.html",
+          "source": "Yahoo News UK"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "world news",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 2 Jan 2026 22:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQS8E1sSO2QwBhbQKjkzdgVHHyV10xlC1Cv4unKNwnx9VKUdUYrWeHX9lLgEvs",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Trump intervention warning over Iran protests 'reckless' says foreign minister",
+          "snippet": "",
+          "url": "https://www.bbc.co.uk/news/articles/c2057md3gvro",
+          "source": "BBC"
+        },
+        {
+          "title": "The deadly cost of living crisis stoking revolution in Iran",
+          "snippet": "",
+          "url": "https://www.telegraph.co.uk/business/2026/01/03/the-deadly-cost-of-living-crisis-stoking-revolution-in-iran/",
+          "source": "The Telegraph"
+        },
+        {
+          "title": "Iran threatens Trump after 'locked and loaded' warning",
+          "snippet": "",
+          "url": "https://news.sky.com/story/iran-threatens-trump-after-locked-and-loaded-warning-13489824",
+          "source": "Sky News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "venezuela",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 2 Jan 2026 22:30:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu3Zu8BfWzpEJwPfc0PbTRVgXp1mqJ1MWLyu9iVPbKoTzZiZ3Yp5DcjlW_sPc",
       "pictureSource": "BBC",
@@ -59,7 +143,7 @@
     },
     {
       "title": "wwe",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 2 Jan 2026 22:10:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSP0NjEedwbmOT8KywdfphcZmNCxZ7RI-hfPjE20mEtg0lN5lGMeDaeyWTLh3s",
       "pictureSource": "WWE",
@@ -105,178 +189,94 @@
           "source": "The Independent"
         },
         {
-          "title": "Travellers warned of more delays, cancellations at Schiphol",
+          "title": "Snow & wind: Hundreds of Schiphol flights to be cancelled tomorrow; 100 scrapped so far",
           "snippet": "",
-          "url": "https://www.dutchnews.nl/2026/01/travellers-warned-of-more-delays-cancellations-at-schiphol/",
-          "source": "DutchNews.nl"
+          "url": "https://nltimes.nl/2026/01/02/snow-wind-hundreds-schiphol-flights-cancelled-tomorrow-100-scrapped-far",
+          "source": "NL Times"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "people's postcode lottery",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 2 Jan 2026 20:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeV9ZDmjfEc5WZhlr-lKepMiq31KiisUapQrxWM2Rug4UIOZchHc08zN-DBZ4",
-      "pictureSource": "Ipswich Star",
+      "title": "games leaving xbox game pass january",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 2 Jan 2026 22:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTh4rhEXOFk7NSMhWG53i7ttq6OsIeqOWcGlU3g6VQFSDjouozAM2YOEKSdsyM",
+      "pictureSource": "Polygon",
       "relatedSearch": [
         {
-          "title": "Suffolk winners of People's Postcode Lottery in December",
+          "title": "A ton of great Game Pass games are leaving this month",
           "snippet": "",
-          "url": "https://www.ipswichstar.co.uk/news/25734701.suffolk-peoples-postcode-lottery-winners-december/",
-          "source": "Ipswich Star"
+          "url": "https://www.polygon.com/best-xbox-game-pass-games-rec-weekend-jan-2-2026/",
+          "source": "Polygon"
         },
         {
-          "title": "Runcorn residents kickstart the year with Postcode Lottery win",
+          "title": "Five Games Are Leaving Xbox Game Pass In Early January 2026",
           "snippet": "",
-          "url": "https://www.runcornandwidnesworld.co.uk/news/25734686.runcorn-residents-kickstart-year-postcode-lottery-win/",
-          "source": "Runcorn and Widnes World"
+          "url": "https://www.purexbox.com/news/2026/01/five-games-are-leaving-xbox-game-pass-in-early-january-2026",
+          "source": "Pure Xbox"
         },
         {
-          "title": "Huge surprise for lucky winners in one North Shropshire postcode",
+          "title": "One of Steam’s Highest-Rated Indie FPS Titles Is Leaving Game Pass Soon, and You Should Play It Now",
           "snippet": "",
-          "url": "https://www.whitchurchherald.co.uk/news/25732597.peoples-postcode-lottery-win-homes-wem-shropshire/",
-          "source": "Whitchurch Herald"
+          "url": "https://fandomwire.com/one-of-steam-highest-rated-indie-fps-titles-is-leaving-game-pass-soon/",
+          "source": "FandomWire"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "lakers vs grizzlies",
+      "title": "aberdeen airport",
       "trafficCount": "1000+",
-      "pubDate": "Fri, 2 Jan 2026 19:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfP4gVQkbwA_SaHj9RFieQfEiKxVs2-WcCEHcMM_PIVldzujjLVMj0hm85elk",
-      "pictureSource": "CBS Sports",
+      "pubDate": "Fri, 2 Jan 2026 22:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjgXjTwG8BmC_SXZPg5qw5pN1z5r1U6PZ24QkSgkhINNmOolpINvlqtSLagAg",
+      "pictureSource": "The Scottish Sun",
       "relatedSearch": [
         {
-          "title": "Doncic and James lead Lakers' rally to beat shorthanded Grizzlies 128-121",
+          "title": "Flights from Scots airport CANCELLED due to heavy snow & planes 'unable to land'",
           "snippet": "",
-          "url": "https://www.cbssports.com/nba/news/doncic-and-james-lead-lakers-rally-to-beat-shorthanded-grizzlies-128-121/",
-          "source": "CBS Sports"
+          "url": "https://www.thescottishsun.co.uk/news/15751911/scots-airport-flights-cancelled-heavy-snow-blizzards/",
+          "source": "The Scottish Sun"
         },
         {
-          "title": "L.A. Lakers 128, Memphis 121",
+          "title": "Norwich Airport flights cancelled amid amber snow warning",
           "snippet": "",
-          "url": "https://www.bdtonline.com/sports/national_sports/l-a-lakers-128-memphis-121/article_21c3638c-1acc-539d-8775-06743119643f.html",
-          "source": "Bluefield Daily Telegraph"
+          "url": "https://www.edp24.co.uk/news/25734534.norwich-airport-flights-cancelled-due-amber-snow-warning/",
+          "source": "EDP24"
         },
         {
-          "title": "LeBron James Stats Average 20.3 Points Per Game, Returns Tonight Against Grizzlies After Foot Injury Recovery Takes New Turn",
+          "title": "Aberdeen airport flights cancelled and plane diverted mid-air in snow chaos",
           "snippet": "",
-          "url": "https://www.red94.net/news/20068-lebron-james-averages-20-3-points-per-game-returns-to-action-tonight-vs-grizzlie/",
-          "source": "Red94"
+          "url": "https://www.dailyrecord.co.uk/news/scottish-news/aberdeen-airport-flights-cancelled-plane-36486310",
+          "source": "Daily Record"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "warriors vs thunder",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 2 Jan 2026 19:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScrdbABGI-CVrjrTWYmGAlG_XMi-rufzXivUSDW5qIiOxZ5eUu8ahOlyTGoaQ",
-      "pictureSource": "Reuters",
-      "relatedSearch": [
-        {
-          "title": "Thunder send depleted Warriors to worst loss of season",
-          "snippet": "",
-          "url": "https://www.reuters.com/sports/basketball/thunder-send-depleted-warriors-worst-loss-season--flm-2026-01-03/",
-          "source": "Reuters"
-        },
-        {
-          "title": "Warriors’ Steph Curry, Jimmy Butler sit as OKC cruises to lopsided victory",
-          "snippet": "",
-          "url": "https://www.sfchronicle.com/sports/warriors/article/warriors-steph-curry-jimmy-butler-sit-okc-21268575.php",
-          "source": "San Francisco Chronicle"
-        },
-        {
-          "title": "Highlights: Thunder pound short-handed Warriors",
-          "snippet": "",
-          "url": "https://www.nbcnewyork.com/video/nba/nba-highlights-thunder-warriors-jan-2/6438346/",
-          "source": "NBC New York"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "bulls vs magic",
+      "title": "new movies 2026",
       "trafficCount": "100+",
-      "pubDate": "Fri, 2 Jan 2026 18:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIVo47fU7AWKxhgCAVMyahiClhFolC1ODAy8E6kVkDkS290rnYILRPLeyEI5M",
-      "pictureSource": "Daily Herald",
+      "pubDate": "Fri, 2 Jan 2026 21:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM8SacRQWkx8Ig2FfsDzpfwlgJyVih83JDz4JgIjHJgohlFx0dMzAQvrAtHjA",
+      "pictureSource": "TechRadar",
       "relatedSearch": [
         {
-          "title": "As Bulls win again, maybe it’s time to defend Patrick Williams",
+          "title": "7 new movies and TV shows to watch on Netflix, Disney+, HBO Max and more this weekend (January 2)",
           "snippet": "",
-          "url": "https://www.dailyherald.com/20260102/chicago-bulls/as-bulls-win-again-maybe-its-time-to-defend-patrick-williams/",
-          "source": "Daily Herald"
+          "url": "https://www.techradar.com/streaming/7-new-movies-and-tv-shows-to-watch-on-netflix-disney-hbo-max-and-more-this-weekend-january-2",
+          "source": "TechRadar"
         },
         {
-          "title": "Matas Buzelis makes Dunk of the Year with insane Jalen Suggs poster",
+          "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
           "snippet": "",
-          "url": "https://sports.yahoo.com/articles/matas-buzelis-makes-dunk-insane-021641167.html",
-          "source": "Yahoo Sports"
+          "url": "https://www.forbes.com/sites/erikkain/2026/01/02/weekend-streaming-guide-new-shows-movies-netflix-hbo-apple-tv-hulu-disney-plus-january-2/",
+          "source": "Forbes"
         },
         {
-          "title": "Orlando Magic Go Cold in Fourth Quarter Again in Loss to Chicago Bulls",
+          "title": "Weekend Watchlist: What’s new in theaters, on streaming",
           "snippet": "",
-          "url": "https://orlandomagic.com/news/orlando-magic-go-cold-in-fourth-quarter-again-in-loss-to-chicago-bulls-20260102",
-          "source": "NBA"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "chickenpox vaccines",
-      "trafficCount": "5000+",
-      "pubDate": "Fri, 2 Jan 2026 18:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeIyvadqJa-tcYkWlKUNIvYRSkN5WK7gC_Oae3eftWYZoTyE4j2Z9m4QcGVw4",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Chickenpox vaccines for children on NHS starts across UK",
-          "snippet": "",
-          "url": "https://www.bbc.co.uk/news/articles/cgexe201n81o",
-          "source": "BBC"
-        },
-        {
-          "title": "Ignore the sceptics: with this new vaccine, chickenpox could become a thing of the past | Wes Streeting",
-          "snippet": "",
-          "url": "https://www.theguardian.com/commentisfree/2026/jan/02/chickenpox-vaccine-nhs-varicella-virus",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Changes to the childhood vaccination schedule from January 2026",
-          "snippet": "",
-          "url": "https://ukhsa.blog.gov.uk/2025/12/30/changes-to-the-childhood-vaccination-schedule-from-january-2026/",
-          "source": "GOV.UK blogs"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "cavaliers vs nuggets",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 2 Jan 2026 18:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvctAXbVplryDCI10-mqac3hRezA7j64OmzGDgRzmsFE6DCKQ810z0QdMnRQU",
-      "pictureSource": "Fear The Sword",
-      "relatedSearch": [
-        {
-          "title": "Player Grades: Cavs vs Nuggets - Donovan Mitchell propels the offense again",
-          "snippet": "",
-          "url": "https://www.fearthesword.com/cavs-analysis/42440/player-grades-cavs-vs-nuggets-donovan-mitchell-propels-the-offense-again",
-          "source": "Fear The Sword"
-        },
-        {
-          "title": "Cleveland Cavaliers vs. Denver Nuggets, January 2, 2026",
-          "snippet": "",
-          "url": "https://www.cleveland.com/galleries/EUQMMWK2XREWLIFUVKBCXKM5TA/",
-          "source": "Cleveland.com"
-        },
-        {
-          "title": "Game Recap: Cavaliers 113, Nuggets 108",
-          "snippet": "",
-          "url": "https://www.nba.com/watch/video/game-recap-cavaliers-113-nuggets-108-2",
-          "source": "NBA"
+          "url": "https://ruralradio.com/maxcountry/abc_news/weekend-watchlist-whats-new-in-theaters-on-streaming-abcid1cf54c8e/",
+          "source": "Rural Radio Network"
         }
       ],
       "link": "https://imtaqin.id/"

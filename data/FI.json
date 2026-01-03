@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-01-03 10:58:27",
+  "lastUpdate": "2026-01-03 11:18:07",
   "data": [
     {
       "title": "bbc news",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 3 Jan 2026 02:10:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaFRUQEJLm6uZOn8V1QBdjLllyG-13-1405bGXyBG41YSQt8Kfm03oCHshbVI",
       "pictureSource": "BBC",
@@ -33,14 +33,14 @@
       "title": "trump",
       "trafficCount": "100+",
       "pubDate": "Sat, 3 Jan 2026 02:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQK9DGWcK3-5KQMkl4k-lf-fBTpXURXqao4XKxMHVIDeSs5EjUyAa_DzpS_erM",
-      "pictureSource": "HS.fi",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJMX5hjVZs2AnfSzvVzdpCHWd0KAphjFC6HbIjD6TAJ4bJXpekZab5wq9MsBY",
+      "pictureSource": "Yle",
       "relatedSearch": [
         {
-          "title": "Venezuela | Trump: Diktaattori Maduro otettu kiinni ja lennätetty pois maasta",
+          "title": "Professori: Trumpin tilanne helpottui, kun Venezuelan johtaja saatiin poistettua ”kirurgisella täsmäoperaatiolla”",
           "snippet": "",
-          "url": "https://www.hs.fi/maailma/art-2000011727624.html",
-          "source": "HS.fi"
+          "url": "https://yle.fi/a/74-20202422",
+          "source": "Yle"
         },
         {
           "title": "Media: Venezuela vaatii USA:lta todisteita, että presidentti puolisoineen on elossa – IL seuraa",
@@ -49,10 +49,10 @@
           "source": "Iltalehti"
         },
         {
-          "title": "Professori: Trumpin tilanne helpottui, kun Venezuelan johtaja saatiin poistettua ”kirurgisella täsmäoperaatiolla”",
+          "title": "Venezuela | Trump: Diktaattori Maduro otettu kiinni ja lennätetty pois maasta",
           "snippet": "",
-          "url": "https://yle.fi/a/74-20202422",
-          "source": "Yle"
+          "url": "https://www.hs.fi/maailma/art-2000011727624.html",
+          "source": "HS.fi"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,10 +99,10 @@
           "source": "CNN"
         },
         {
-          "title": "In a Phone Interview, Trump Celebrated the Capture of Maduro",
+          "title": "Venezuela live updates: Trump to give more details after US strike",
           "snippet": "",
-          "url": "https://www.nytimes.com/2026/01/03/world/americas/in-a-phone-interview-trump-celebrated-the-capture-of-maduro.html",
-          "source": "The New York Times"
+          "url": "https://abcnews.go.com/International/live-updates/venezuela-live-updates-trump-give-details-after-us/?id=127792811",
+          "source": "ABC News"
         },
         {
           "title": "U.S. launches military strikes on Venezuela, Trump says Maduro captured and flown out of the country",
@@ -248,29 +248,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "yle urheilu",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 2 Jan 2026 21:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQIAh5C7QVf4N01hrq5hAtDwzv-4i37bWt5FX6LQw2ypNOdVDsfVcFaC_qBhI",
-      "pictureSource": "Ilta-Sanomat",
+      "title": "expressen",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 2 Jan 2026 18:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwdAmr9n4wc1b5rPsSW7KdyYPRbp9xCnMSl82EuzRhuP8gRJ811vthf8DTto0",
+      "pictureSource": "Yle",
       "relatedSearch": [
         {
-          "title": "Tästä syystä Ella Junnila jäi ilman apurahaa: ”En tiennyt”",
+          "title": "Finland vidare till JVM-semifinal – chockade regerande mästaren USA i förlängning",
           "snippet": "",
-          "url": "https://www.is.fi/urheilu/art-2000011727226.html",
-          "source": "Ilta-Sanomat"
-        },
-        {
-          "title": "Laura Lahtinen ja Ella Junnila jäivät tylysti ilman apurahaa – Ylen asiantuntija kuvailee järjestelmää julmaksi",
-          "snippet": "",
-          "url": "https://yle.fi/a/74-20202335",
+          "url": "https://yle.fi/a/7-10090792",
           "source": "Yle"
         },
         {
-          "title": "Raha | Apurahaa saaneiden urheilijoiden määrä puolittui",
+          "title": "Finland vidare – kämpade omkull favoriten USA",
           "snippet": "",
-          "url": "https://www.hs.fi/urheilu/art-2000011725912.html",
-          "source": "HS.fi"
+          "url": "https://www.hbl.fi/2026-01-03/finlands-kollektiv-for-mycket-for-usa/",
+          "source": "Hufvudstadsbladet"
+        },
+        {
+          "title": "Ishockey: Finland till semifinal efter övertidsavgörande mot USA",
+          "snippet": "",
+          "url": "https://www.svt.se/sport/ishockey/finland-till-semifinal-efter-overtidsavgorande-mot-usa",
+          "source": "SVT Nyheter"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,11 +1,39 @@
 {
-  "lastUpdate": "2026-01-03 08:59:45",
+  "lastUpdate": "2026-01-03 09:25:19",
   "data": [
+    {
+      "title": "aljazeera",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 2 Jan 2026 23:20:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzp7N5WG6NDRulTGMj_18dCWLq-0iSGqg3yQLOLdZEbMsqEnlwwweZfazblxo",
+      "pictureSource": "Al Jazeera",
+      "relatedSearch": [
+        {
+          "title": "Updates: Fighting breaks out in east Yemen along border with Saudi Arabia",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/2/live-fighting-breaks-out-in-eastern-yemen-along-border-with-saudi-arabia",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Conflicting signals deepen Yemen’s political and military crisis",
+          "snippet": "",
+          "url": "https://en.annahar.com/en/region/gcc/266351/conflicting-signals-deepen-yemens-political-and-military-crisis",
+          "source": "annahar.com"
+        },
+        {
+          "title": "Press Statement – Ministry of Foreign Affairs of the Republic of IRAQ",
+          "snippet": "",
+          "url": "https://mofa.gov.iq/2026/60886/",
+          "source": "وزارة الخارجية العراقية"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "venezuela",
       "trafficCount": "500+",
       "pubDate": "Fri, 2 Jan 2026 23:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8Kn6eRfnX-mmefzlB4ZpNrHXecwrkNeGNVgt53dtTUducn-dWNksMyFA7IF4",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTn5aP5ZdUFBLGL5tV8c538CNHB9S1svL9Px6dGhSI3yzhYKfES8ImNCUxTyJY",
       "pictureSource": "CNN",
       "relatedSearch": [
         {
@@ -15,16 +43,44 @@
           "source": "CNN"
         },
         {
-          "title": "Live Updates: U.S. Military Strikes Caracas, Venezuela Says",
+          "title": "Strikes Hit Several Venezuelan Military Facilities and Airports",
           "snippet": "",
-          "url": "https://www.nytimes.com/live/2026/01/03/world/trump-united-states-strikes-venezuela",
-          "source": "The New York Times"
+          "url": "https://www.wsj.com/livecoverage/venezuela-strikes/card/strikes-hit-several-venezuelan-military-facilities-and-airports-TJe7E81QZX6qvA2Islak?gaa_at=eafs&gaa_n=AWEtsqeDlgWTWQvxWZdZEbG9HOI91FV5J2is5tN26sPelzMpyK8VQt4WaNI_&gaa_ts=6958e383&gaa_sig=usSGi8ESSqyaAEIQ-niU-I4xWpOmTIRCH7ip6L-wYEG7YBSRXlecwt8z7G4MtAayqmWFXxBUFhMaOIz_KONfoA%3D%3D",
+          "source": "The Wall Street Journal"
         },
         {
-          "title": "Venezuela says it rejects \"military aggression\" by the US",
+          "title": "U.S. launches military strikes on Venezuela as Trump escalates pressure on Maduro regime, sources say",
           "snippet": "",
-          "url": "https://www.reuters.com/world/americas/venezuela-says-it-rejects-military-aggression-by-us-2026-01-03/",
-          "source": "Reuters"
+          "url": "https://www.cbsnews.com/live-updates/venezuela-us-military-strikes-maduro-trump/",
+          "source": "CBS News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "طقس طنجة",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 2 Jan 2026 23:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2TwVB80YT8LDjT-uyH8O84WRlk--gLu1gF4Y130Wa2Q2Rts9AMgxsKeHwtDY",
+      "pictureSource": "تيل كيل عربي",
+      "relatedSearch": [
+        {
+          "title": "توقعات أحوال الطقس اليوم السبت",
+          "snippet": "",
+          "url": "https://ar.telquel.ma/%D8%B7%D9%82%D8%B3-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D9%81%D9%8A-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D9%88%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D9%82%D9%88%D9%8A/",
+          "source": "تيل كيل عربي"
+        },
+        {
+          "title": "توقعات طقس اليوم الخميس بالمغرب",
+          "snippet": "",
+          "url": "https://www.hespress.com/%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D8%AA-%D8%B7%D9%82%D8%B3-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-%D8%A8%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-61-1680148.html",
+          "source": "Hespress"
+        },
+        {
+          "title": "طقس الأربعاء.. جو بارد مع نزول أمطار وتساقط الثلوج",
+          "snippet": "",
+          "url": "https://www.ahdath.info/article/248139/%D9%85%D8%AC%D8%AA%D9%85%D8%B9/%D9%88%D9%82%D8%A7%D8%A6%D8%B9/%D8%B7%D9%82%D8%B3-%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%B9%D8%A7%D8%A1-%D8%AC%D9%88-%D8%A8%D8%A7%D8%B1%D8%AF-%D9%85%D8%B9-%D9%86%D8%B2%D9%88%D9%84-%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D9%88%D8%AA%D8%B3%D8%A7%D9%82%D8%B7-%D8%A7%D9%84%D8%AB%D9%84%D9%88%D8%AC",
+          "source": "أحداث.أنفو"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,9 +229,15 @@
       "title": "sporting",
       "trafficCount": "100+",
       "pubDate": "Fri, 2 Jan 2026 12:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSO0jd1RKGpOzZySrJ8PyjcvP6vZTX5-Cj8Ddj-UBUEbYS_KiTS2Kmofk3sB2Y",
-      "pictureSource": "Notícias ao Minuto",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAwT9PN-FzzbGdOF71eU-b643S0YzBdZINCo_BXmsNfFwrigk8Os5vpsChtn0",
+      "pictureSource": "OneFootball",
       "relatedSearch": [
+        {
+          "title": "Sporting empata com Gil Vicente e pode ver FC Porto aumentar vantagem para 7 pontos",
+          "snippet": "",
+          "url": "https://onefootball.com/pt-br/noticias/sporting-empata-com-gil-vicente-e-pode-ver-fc-porto-aumentar-vantagem-para-7-pontos-42172569",
+          "source": "OneFootball"
+        },
         {
           "title": "\"Expulsão de Inácio? Não vi o lance. Está lá a câmara, mas...\"",
           "snippet": "",
@@ -187,12 +249,6 @@
           "snippet": "",
           "url": "https://www.zerozero.pt/videos/conferencias/cesar-peixoto-foi-um-grande-jogo-da-nossa-parte-/1408709",
           "source": "zerozero.pt"
-        },
-        {
-          "title": "Carlos Eduardo emocionado com o golo: «Tive um início de época difícil com uma lesão grave»",
-          "snippet": "",
-          "url": "https://sapo.pt/artigo/carlos-eduardo-emocionado-com-o-golo-tive-um-inicio-de-epoca-dificil-com-uma-lesao-grave-695837932c7b75270a27835a",
-          "source": "SAPO"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -204,62 +260,6 @@
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "الطقس غدًا",
-      "trafficCount": "50000+",
-      "pubDate": "Fri, 2 Jan 2026 11:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfc3UbbLmbKvtdDUtQhlHXthq3m2BtoTxXNKKGCbO7ScnTccrpmVHL1B9wHQ4",
-      "pictureSource": "https://www.elzmannews.com/",
-      "relatedSearch": [
-        {
-          "title": "شديد البرودة .. حالة الطقس اليوم السبت 3 يناير والهيئة تحذر من تقلبات بالجو",
-          "snippet": "",
-          "url": "https://www.elzmannews.com/521164",
-          "source": "https://www.elzmannews.com/"
-        },
-        {
-          "title": "تحذير من الشبورة الكثيفة والصقيع اليوم يهدد المزروعات ويؤثر على الطقس في المناطق المتوقعة",
-          "snippet": "",
-          "url": "https://harammissr.com/38822/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%B4%D8%A8%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D9%83%D8%AB%D9%8A%D9%81%D8%A9-%D9%88%D8%A7%D9%84%D8%B5%D9%82%D9%8A%D8%B9-%D8%A7%D9%84%D9%8A%D9%88/",
-          "source": "جريدة هرم مصر"
-        },
-        {
-          "title": "موجة برد قارس تبدأ الليلة والأرصاد تُطلق إنذارا للمحافظات - الفجر سبورت",
-          "snippet": "",
-          "url": "https://www.elfagrsport.com/egypt/198829.html",
-          "source": "الفجر سبورت"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "championnat d'arabie saoudite",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 2 Jan 2026 11:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVvp8r51BBgU1z3Dqh1vv46xss2oyCJ61NTaY9fXACWlFW9lqmZLS7G12frBg",
-      "pictureSource": "www.ysscores.com",
-      "relatedSearch": [
-        {
-          "title": "Al Hilal frappe à nouveau à la porte de l'Inter pour obtenir la demande d'Inzaghi",
-          "snippet": "",
-          "url": "https://www.ysscores.com/fr/news/13883416/Al-Hilal-frappe-%C3%A0-nouveau-%C3%A0-la-porte-de-l'Inter-pour-obtenir-la-demande-d'Inzaghi",
-          "source": "www.ysscores.com"
-        },
-        {
-          "title": "Al-Hilal a ravivé son intérêt pour Francesco Acerbi. Le joueur pourrait retrouver Simone Inzaghi",
-          "snippet": "",
-          "url": "https://dailysports.net/fr/news/al-hilal-a-ravive-son-interet-pour-francesco-acerbi-le-joueur-pourrait-retrouver-simone-inzaghi/",
-          "source": "Dailysports"
-        },
-        {
-          "title": "DIRECT. Al-Ittihad-Al-Taawoun (Championnat d'Arabie Saoudite 2025-2026) à suivre en direct",
-          "snippet": "",
-          "url": "https://www.lequipe.fr/Football/match-direct/championnat-d-arabie-saoudite/2025-2026/al-ittihad-al-taawoun-live/685168",
-          "source": "L'Équipe"
-        }
-      ],
       "link": "https://imtaqin.id/"
     }
   ]

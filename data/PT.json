@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2026-01-03 08:51:01",
+  "lastUpdate": "2026-01-03 08:59:51",
   "data": [
     {
+      "title": "bbc news",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 3 Jan 2026 00:10:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8Kn6eRfnX-mmefzlB4ZpNrHXecwrkNeGNVgt53dtTUducn-dWNksMyFA7IF4",
+      "pictureSource": "CNN",
+      "relatedSearch": [
+        {
+          "title": "Live updates: Multiple explosions rock Venezuelan capital Caracas",
+          "snippet": "",
+          "url": "https://www.cnn.com/world/live-news/venezuela-explosions-caracas-intl-hnk-01-03-26",
+          "source": "CNN"
+        },
+        {
+          "title": "Venezuela accuses US after explosions and low-flying aircraft reported in Caracas – live",
+          "snippet": "",
+          "url": "https://www.theguardian.com/world/live/2026/jan/03/caracas-explosions-venezuela-maduro-latest-news-updates-live",
+          "source": "The Guardian"
+        },
+        {
+          "title": "US strikes Venezuela after Trump's threats against Maduro",
+          "snippet": "",
+          "url": "https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/",
+          "source": "Reuters"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "caracas",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 2 Jan 2026 23:40:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbJ7DKBgKn32wlkieUpXmtkj0sFngZvALjSOwvzAmqYH83IvkE5G2p80ucjU0",
       "pictureSource": "Público",
@@ -15,16 +43,16 @@
           "source": "Público"
         },
         {
-          "title": "Venezuela \"denuncia gravíssima agressão militar\" dos Estados Unidos após várias explosões em Caracas",
+          "title": "\"Este ataque podia ter como alvo o chefe de Estado da Venezuela\"",
           "snippet": "",
-          "url": "https://expresso.pt/internacional/2026-01-03-venezuela-denuncia-gravissima-agressao-militar-dos-estados-unidos-apos-varias-explosoes-em-caracas-2b22ad38",
-          "source": "Expresso"
+          "url": "https://cnnportugal.iol.pt/videos/este-ataque-podia-ter-como-alvo-o-chefe-de-estado-da-venezuela/6958d6750cf28fe4304a1d24",
+          "source": "CNN Portugal"
         },
         {
-          "title": "Maduro diz-se aberto a diálogo com os EUA",
+          "title": "Explosões sentidas em Caracas. Trump deu ordem de ataque aéreo a território venezuelano",
           "snippet": "",
-          "url": "https://pt.euronews.com/2026/01/02/maduro-diz-se-aberto-a-dialogo-com-os-eua",
-          "source": "Euronews.com"
+          "url": "https://www.rtp.pt/noticias/mundo/explosoes-sentidas-em-caracas-trump-deu-ordem-de-ataque-aereo-a-territorio-venezuelano_n1707474",
+          "source": "RTP"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,26 +117,26 @@
       "title": "venezuela",
       "trafficCount": "2000+",
       "pubDate": "Fri, 2 Jan 2026 22:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1NyV_3IeHY-oKw2dXnHYFAEBGfrPryW7XDAysU4k7vxf1SHg2YKJ9wqxZAAo",
-      "pictureSource": "El Mundo",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRANj-B-WfaQkJDAgki00fNu5BBxlgB7IF6-mcLOE9fbgiJnmPtMoXXDT8SbJs",
+      "pictureSource": "BBC",
       "relatedSearch": [
-        {
-          "title": "Varias explosiones sacuden Caracas de madrugada",
-          "snippet": "",
-          "url": "https://www.elmundo.es/internacional/2026/01/03/6958bba9e9cf4a69368b458f.html",
-          "source": "El Mundo"
-        },
-        {
-          "title": "Última hora de las explosiones en Venezuela, en directo | El Gobierno de Maduro atribuye a EE UU las explosiones y las considera una “gravísima agresión militar” contra Venezuela",
-          "snippet": "",
-          "url": "https://elpais.com/internacional/2026-01-03/ultima-hora-de-las-explosiones-en-venezuela-en-directo.html",
-          "source": "EL PAÍS"
-        },
         {
           "title": "Reportan explosiones y sobrevuelo de aviones en Caracas y otras partes del país y el gobierno de Maduro denuncia una \"agresión militar\" de EE.UU.",
           "snippet": "",
           "url": "https://www.bbc.com/mundo/articles/cvgn5rk0k1wo",
           "source": "BBC"
+        },
+        {
+          "title": "Reportan explosiones en Caracas, Venezuela, en vivo: daños, reacciones y más",
+          "snippet": "",
+          "url": "https://cnnespanol.cnn.com/venezuela/live-news/explosiones-caracas-venezuela-en-vivo-orix",
+          "source": "CNN en Español"
+        },
+        {
+          "title": "Varias detonaciones sacuden Caracas en medio de las tensiones con EE.UU.",
+          "snippet": "",
+          "url": "https://www.rtve.es/noticias/20260103/varias-detonaciones-caracas-tensiones-con-eeuu/16881311.shtml",
+          "source": "RTVE.es"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,14 +145,14 @@
       "title": "sismo méxico",
       "trafficCount": "200+",
       "pubDate": "Fri, 2 Jan 2026 17:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3B9m-Pl0NNBlEl0wqmzf-JaYafZAaQ6D2BtGCYSwnXzkL1KgaGYj3Hbt0FAU",
-      "pictureSource": "Público",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIniNMnuv13YWEPx-DtWeSNa-PApR6pV2EPEvqBwXg5Zymr8JGMZvNPPWvRSw",
+      "pictureSource": "SAPO",
       "relatedSearch": [
         {
-          "title": "Sismo de magnitude 6,5 no México causa pelo menos duas mortes",
+          "title": "Sismo de 6,5 de magnitude atinge Sul do México",
           "snippet": "",
-          "url": "https://www.publico.pt/2026/01/03/mundo/noticia/sismo-magnitude-65-mexico-causa-menos-duas-mortes-2159955",
-          "source": "Público"
+          "url": "https://sapo.pt/artigo/sismo-de-6-5-de-magnitude-atinge-sul-do-mexico-6957e6ec4ab6fc0a2e82870f",
+          "source": "SAPO"
         },
         {
           "title": "O momento em que forte terramoto abana o sul e centro do México",
@@ -133,10 +161,10 @@
           "source": "SÁBADO"
         },
         {
-          "title": "Terremoto de magnitude 6,5 atinge o México e é sentido no sudoeste do país",
+          "title": "“Ui, está a tremer”: presidente do México surpreendida por abalo sísmico durante conferência de imprensa",
           "snippet": "",
-          "url": "https://g1.globo.com/mundo/video/terremoto-de-magnitude-65-atinge-o-mexico-e-e-sentido-no-sudoeste-do-pais-14222795.ghtml",
-          "source": "G1"
+          "url": "https://www.cmjornal.pt/cmtv/videos/detalhe/ui-esta-a-tremer-presidente-do-mexico-surpreendida-por-abalo-sismico-durante-conferencia-de-imprensa",
+          "source": "Correio da Manhã"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.thesun.co.uk/travel/37473913/best-spanish-resorts-locals-holiday/",
           "source": "The Sun"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "valter carvalho",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 2 Jan 2026 14:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjLCxtLurjhywofS4YlKYRzkvqFeLJPy9OioCDDqRGA_D52d-fyStPM0p2SQ",
-      "pictureSource": "SELFIE",
-      "relatedSearch": [
-        {
-          "title": "\"1.ª Companhia\": nem vai acreditar em quantos anos tem Nuno Janeiro!",
-          "snippet": "",
-          "url": "https://selfie.iol.pt/famosos/1-companhia/1-companhia-nem-vai-acreditar-em-quantos-anos-tem-nuno-janeiro/20260102/6957f67fd34e3caad84d08df",
-          "source": "SELFIE"
-        },
-        {
-          "title": "Valter Carvalho, modelo e DJ, entra na 1ª Companhia da TVI com o objetivo de aprender e se superar",
-          "snippet": "",
-          "url": "https://infocul.pt/valter-carvalho-modelo-e-dj-entra-na-1a-companhia-da-tvi-com-o-objetivo-de-aprender-e-se-superar/",
-          "source": "Infocul.pt"
-        },
-        {
-          "title": "1ª Companhia. Nuno Janeiro e Valter Carvalho são concorrentes",
-          "snippet": "",
-          "url": "https://www.hiper.fm/1a-companhia-nuno-janeiro-e-valter-carvalho-sao-concorrentes/",
-          "source": "Hiper Fm"
         }
       ],
       "link": "https://imtaqin.id/"

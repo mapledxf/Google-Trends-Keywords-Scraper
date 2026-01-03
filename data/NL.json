@@ -1,19 +1,41 @@
 {
-  "lastUpdate": "2026-01-03 06:00:01",
+  "lastUpdate": "2026-01-03 06:38:33",
   "data": [
     {
-      "title": "weer",
-      "trafficCount": "5000+",
-      "pubDate": "Fri, 2 Jan 2026 21:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9xv2kMIo4-MNP0r6iaL79dHLKKT-kSveZ4g0VTCl-dLO7clswgtKHZKkL9sw",
-      "pictureSource": "NU",
+      "title": "severe snow ice warning",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 2 Jan 2026 22:20:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2IZZSWr5AAhbxSFvPPbHFWt7vwLY5pv8BDUmh-P5DifqFpiqWrJIbiUCEko",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Code oranje in Utrecht en Gelderland vanwege gladheid door sneeuwval",
+          "title": "UK weather: Snow and ice warnings to last all weekend",
           "snippet": "",
-          "url": "https://www.nu.nl/binnenland/6381376/code-oranje-in-utrecht-en-gelderland-vanwege-gladheid-door-sneeuwval.html",
-          "source": "NU"
+          "url": "https://www.bbc.com/news/articles/c1jednyk611o",
+          "source": "BBC"
         },
+        {
+          "title": "Amber warning for snow issued",
+          "snippet": "",
+          "url": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/amber-snow-warning-issued-new-years-day",
+          "source": "Met Office"
+        },
+        {
+          "title": "Bitterly cold weather expected in UK as up to 10cm of snow settles in some areas | UK weather",
+          "snippet": "",
+          "url": "https://www.theguardian.com/uk-news/2026/jan/02/snow-ice-weather-forecast-uk-travel-disruption",
+          "source": "The Guardian"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weer",
+      "trafficCount": "10000+",
+      "pubDate": "Fri, 2 Jan 2026 21:40:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxvguYmSa3fmTDj5nTgYTwXThCF78x4O2c7icYpS4hTDDYpjcxSjGmRY9HFsU",
+      "pictureSource": "NOS",
+      "relatedSearch": [
         {
           "title": "Glijpartijen en ongelukken door gladheid, code oranje in Utrecht en Gelderland",
           "snippet": "",
@@ -21,9 +43,15 @@
           "source": "NOS"
         },
         {
-          "title": "Weerbericht: veel sneeuw en code oranje om gladheid in midden van het land",
+          "title": "Code oranje in midden-Nederland vanwege gladheid door sneeuwval",
           "snippet": "",
-          "url": "https://www.telegraaf.nl/binnenland/weerbericht-veel-sneeuw-en-code-oranje-om-gladheid-in-midden-van-het-land/121248067.html",
+          "url": "https://www.nu.nl/binnenland/6381376/code-oranje-in-midden-nederland-vanwege-gladheid-door-sneeuwval.html",
+          "source": "NU"
+        },
+        {
+          "title": "Weerbericht: veel sneeuw en code oranje om gladheid in deel van het land",
+          "snippet": "",
+          "url": "https://www.telegraaf.nl/binnenland/weerbericht-veel-sneeuw-en-code-oranje-om-gladheid-in-deel-van-het-land/121248067.html",
           "source": "De Telegraaf"
         }
       ],
@@ -61,26 +89,54 @@
       "title": "knmi",
       "trafficCount": "1000+",
       "pubDate": "Fri, 2 Jan 2026 21:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHGQYbwiKFfj7oFpbcpNhXgig8PsAlpxkgHpcJXAo4smEMGYaeF36LhDnGKP4",
-      "pictureSource": "De Gelderlander",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxvguYmSa3fmTDj5nTgYTwXThCF78x4O2c7icYpS4hTDDYpjcxSjGmRY9HFsU",
+      "pictureSource": "NOS",
       "relatedSearch": [
-        {
-          "title": "LIVE Winterweer | Gewonden door gladheid op besneeuwde wegen • Let op: het blijft vannacht én morgen glad",
-          "snippet": "",
-          "url": "https://www.gelderlander.nl/binnenland/live-winterweer-gewonden-door-gladheid-op-besneeuwde-wegen-let-op-het-blijft-vannacht-en-morgen-glad~abcc7547/",
-          "source": "De Gelderlander"
-        },
         {
           "title": "Glijpartijen en ongelukken door gladheid",
           "snippet": "",
-          "url": "https://www.omroepbrabant.nl/nieuws/3ef3cab1-964e-3710-a95b-b27582009a47/glijpartijen-en-ongelukken-door-gladheid",
-          "source": "Omroep Brabant"
+          "url": "https://nos.nl/artikel/2596830-glijpartijen-en-ongelukken-door-gladheid",
+          "source": "NOS"
         },
         {
           "title": "Sneeuw en ijzel op veel plekken in het land: meerdere auto’s van de weg geraakt",
           "snippet": "",
           "url": "https://www.ad.nl/binnenland/sneeuw-en-ijzel-op-veel-plekken-in-het-land-meerdere-autos-van-de-weg-geraakt~ad982664/",
           "source": "AD.nl"
+        },
+        {
+          "title": "Auto raakt van de weg op A7 | Waterschade in supermarkt in Leeuwarden",
+          "snippet": "",
+          "url": "https://www.omropfryslan.nl/nl/nieuws/18086069/auto-raakt-van-de-weg-op-a7-waterschade-in-supermarkt-in-leeuwarden",
+          "source": "Omrop Fryslân"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "het weer",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 2 Jan 2026 21:10:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSR8cB7Ojv33jIFKUwbmjqu0jspi1V4YSOywgm8LLXbXDgeZg1aJbNNraww4H8",
+      "pictureSource": "NOS",
+      "relatedSearch": [
+        {
+          "title": "Ook morgen honderden annuleringen en vertragingen op Schiphol verwacht",
+          "snippet": "",
+          "url": "https://nos.nl/artikel/2596753-ook-morgen-honderden-annuleringen-en-vertragingen-op-schiphol-verwacht",
+          "source": "NOS"
+        },
+        {
+          "title": "LIVE code geel | Plaatselijk tot 10 centimeter sneeuw voorspeld, tientallen vluchten gecanceld op Schiphol",
+          "snippet": "",
+          "url": "https://www.ad.nl/binnenland/live-code-geel-tientallen-vluchten-gecanceld-op-schiphol-7-miljoen-kilo-zout-gestrooid-om-sneeuw~aeb48d2c/",
+          "source": "AD.nl"
+        },
+        {
+          "title": "Zeker 200 annuleringen op Schiphol door winters weer, ook zaterdag zullen reizigers hinder ervaren",
+          "snippet": "",
+          "url": "https://www.telegraaf.nl/binnenland/zeker-200-annuleringen-op-schiphol-door-winters-weer-ook-zaterdag-zullen-reizigers-hinder-ervaren/121072775.html",
+          "source": "De Telegraaf"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -149,9 +205,9 @@
       "pictureSource": "NOS",
       "relatedSearch": [
         {
-          "title": "Littler trapt avondsessie af tegen Ratajski • Daarna Van Veen tegen Humphries",
+          "title": "Anderson klopt WK-verrassing Hood, Searle wint van Clayton • Van Veen vanavond tegen Humphries",
           "snippet": "",
-          "url": "https://nos.nl/liveblog/2596679-littler-trapt-avondsessie-af-tegen-ratajski-daarna-van-veen-tegen-humphries",
+          "url": "https://nos.nl/liveblog/2596679-anderson-klopt-wk-verrassing-hood-searle-wint-van-clayton-van-veen-vanavond-tegen-humphries",
           "source": "NOS"
         },
         {
@@ -211,72 +267,10 @@
           "source": "Dartsnieuws.com"
         },
         {
-          "title": "Littler trapt avondsessie af tegen Ratajski • Daarna Van Veen tegen Humphries",
+          "title": "Zelfs de gasten waren in de war: hoe topdarter Gary Ander...",
           "snippet": "",
-          "url": "https://nos.nl/liveblog/2596679-littler-trapt-avondsessie-af-tegen-ratajski-daarna-van-veen-tegen-humphries",
-          "source": "NOS"
-        },
-        {
-          "title": "Live WK darts | Luke Littler en Gian van Veen in actie in kwartfinales",
-          "snippet": "",
-          "url": "https://www.nu.nl/sport-overig/6381290/live-wk-darts-luke-littler-en-gian-van-veen-in-actie-in-kwartfinales.html",
-          "source": "NU"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "flashscore",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 2 Jan 2026 13:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQtxccwZuf0__uPRuqOG2VsTb0SaJ7B145Ltypikbdhpb9SzLMfefSiioqVGcg",
-      "pictureSource": "Flashscore.com",
-      "relatedSearch": [
-        {
-          "title": "From Arsenal to Germany: Top 20 football kits of 2025",
-          "snippet": "",
-          "url": "https://www.flashscore.com/news/from-arsenal-to-germany-top-20-football-kits-of-2025/SfW4FyX0/",
-          "source": "Flashscore.com"
-        },
-        {
-          "title": "👕 Check out the 10 best kits released in 2025, share your thoughts",
-          "snippet": "",
-          "url": "https://onefootball.com/de/news/check-out-the-10-best-kits-released-in-2025-share-your-thoughts-42138364",
-          "source": "OneFootball"
-        },
-        {
-          "title": "Rangers stay perfect outdoors, win at Marlins' park",
-          "snippet": "",
-          "url": "https://www.espn.com/nhl/story/_/id/47487746/new-york-rangers-beat-florida-panthers-nhl-first-outdoor-game-florida",
-          "source": "ESPN"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "poederoijen",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 2 Jan 2026 13:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbKfoI6YOyPIngs1Cq1NjxZcsDZruY7IH-3_0niQ3KYKf2S21uVpoS7uqZ_XU",
-      "pictureSource": "De Gelderlander",
-      "relatedSearch": [
-        {
-          "title": "Heftruck valt van bruggetje, bestuurder komt om het leven",
-          "snippet": "",
-          "url": "https://www.gelderlander.nl/video/productie/heftruck-valt-van-bruggetje-bestuurder-komt-om-het-leven-2092084",
-          "source": "De Gelderlander"
-        },
-        {
-          "title": "Man komt om het leven bij heftruckongeval",
-          "snippet": "",
-          "url": "https://www.gld.nl/nieuws/8413795/man-komt-om-het-leven-bij-heftruckongeval",
-          "source": "Omroep Gelderland"
-        },
-        {
-          "title": "Heftruck valt van bruggetje in het water in Poederoijen, bestuurder komt om het leven",
-          "snippet": "",
-          "url": "https://www.ed.nl/brabant/heftruck-valt-van-bruggetje-in-het-water-in-poederoijen-bestuurder-komt-om-het-leven~a805d07b/",
-          "source": "Eindhovens Dagblad"
+          "url": "https://sportnieuws.nl/darts/nieuws/zelfs-de-gasten-waren-in-de-war-hoe-topdarter-gary-anderson-tegenstander-van-gian-van-veen-in-het-geheim-trouwde-2026010215041675184/",
+          "source": "Sportnieuws.nl"
         }
       ],
       "link": "https://imtaqin.id/"

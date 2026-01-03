@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-03 15:33:13",
+  "lastUpdate": "2026-01-03 15:45:01",
   "data": [
     {
       "title": "brighton – burnley fc",
@@ -31,7 +31,7 @@
     },
     {
       "title": "wolverhampton – west ham",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 3 Jan 2026 06:30:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaQ-UvnoxWZzRG-sfodbc5FhMBpe9hmhVwUy_tGiO1SvaLfLsDQ_wUJcLm_MQ",
       "pictureSource": "BBC",
@@ -117,13 +117,19 @@
       "title": "cnn",
       "trafficCount": "500+",
       "pubDate": "Sat, 3 Jan 2026 00:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0f1O7c5NBcvfwsvfuwEkDW66MbP2LquJR92Nhl6bWYPbmoqhJFUycBz1CI7k",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6tfO6MNsH7VAYyVii4YZ-Z9TpiPBLIzkVb_2bdUJEt4M7XeLalOxxxvCJO58",
+      "pictureSource": "The New York Times",
       "relatedSearch": [
         {
-          "title": "Venezuela latest: Trump says US has 'captured' President Maduro in strikes on country - live updates",
+          "title": "Live Updates: U.S. Captures Venezuelan Leader, Trump Says",
           "snippet": "",
-          "url": "https://www.bbc.com/news/live/c5yqygxe41pt",
+          "url": "https://www.nytimes.com/live/2026/01/03/world/trump-united-states-strikes-venezuela",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Trump's move to topple Maduro is fraught with risk - what happens next is unclear",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c0q4dg1kn8vo",
           "source": "BBC"
         },
         {
@@ -131,12 +137,6 @@
           "snippet": "",
           "url": "https://apnews.com/photo-gallery/venezuela-us-explosions-caracas-25a01a23e7b936b430901428ab0d0907",
           "source": "AP News"
-        },
-        {
-          "title": "Security Alert: Venezuela: Explosions Reported; Shelter in Place",
-          "snippet": "",
-          "url": "https://ve.usembassy.gov/security-alert-venezeula-explosions-reported-shelter-in-place/",
-          "source": "U.S. Embassy in Venezuela (.gov)"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,10 +155,10 @@
           "source": "SME.sk"
         },
         {
-          "title": "Caracasom sa ozývali výbuchy. Trump oznámil, že USA zajali prezidenta Venezuely",
+          "title": "ONLINE: Vojenský úder na Venezuelu nariadil Donald Trump, píšu médiá v USA",
           "snippet": "",
-          "url": "https://dennikn.sk/5055488/caracasom-sa-ozyvali-vybuchy-trump-oznamil-ze-usa-zajali-prezidenta-venezuely/",
-          "source": "Denník N"
+          "url": "https://www.aktuality.sk/clanok/heOd9ke/online-vojensky-uder-na-venezuelu-nariadil-donald-trump-pisu-media-v-usa/",
+          "source": "Aktuality"
         },
         {
           "title": "Vyjednaný odchod, naznačuje venezuelská opozícia. Madurovo zatknutie vyvoláva otázky",
@@ -273,10 +273,10 @@
           "source": "Šport.sk"
         },
         {
-          "title": "Kapustík opäť neprešiel do hlavnej súťaže. V Innsbrucku zaostal za prvou šesťdesiatkou",
+          "title": "Vo veku 80 rokov zomrel bývalý reprezentačný tréner Bulharska Penev",
           "snippet": "",
-          "url": "https://sportnet.sme.sk/spravy/skoky-na-lyziach-kapustik-nepostup-innsbruck-turne-styroch-mostikov-2026/",
-          "source": "SPORTNET"
+          "url": "https://www.teraz.sk/sport/vo-veku-80-rokov-zomrel-byvaly-repreze/931115-clanok.html",
+          "source": "TERAZ.sk"
         }
       ],
       "link": "https://imtaqin.id/"

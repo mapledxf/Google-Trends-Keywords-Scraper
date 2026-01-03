@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-03 15:33:11",
+  "lastUpdate": "2026-01-03 15:44:57",
   "data": [
     {
       "title": "cnn español en vivo",
@@ -33,9 +33,15 @@
       "title": "san juan airport",
       "trafficCount": "1000+",
       "pubDate": "Sat, 3 Jan 2026 03:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTNvFHRBZ7EhKUoea5QyJF416HzYuDanQoFqOSYcoz7gdT4UL2cW9HwFVedHo",
-      "pictureSource": "Telemundo Puerto Rico",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ70pQ0fQxjkpMM9XkUfnbIzdhWiwe1aSMjJAfw6lBt8keOMH2rEt-DOXentb0",
+      "pictureSource": "wapa.tv",
       "relatedSearch": [
+        {
+          "title": "\"Nadie sale, nadie entra\": Restringen espacio aéreo de Puerto Rico por actividad militar en Venezuela",
+          "snippet": "",
+          "url": "https://wapa.tv/noticias/locales/nadie-sale-nadie-entra-restringen-espacio-a-reo-de-puerto-rico-por-actividad-militar-en/article_df2043f6-c3c9-4968-a0b1-7cb07de8ac65.html",
+          "source": "wapa.tv"
+        },
         {
           "title": "Siete aeropuertos de Puerto Rico cancelan vuelos tras ataque de EEUU a Venezuela",
           "snippet": "",
@@ -47,12 +53,6 @@
           "snippet": "",
           "url": "https://www.elnuevodia.com/negocios/turismo/notas/buscan-donde-acomodar-a-miles-pasajeros-que-saldrian-de-puerto-rico-tras-terminar-viajes-de-crucero/",
           "source": "El Nuevo Día"
-        },
-        {
-          "title": "Vuelos quedan cancelados en aeropuertos a través de la Isla ante ataque a Venezuela",
-          "snippet": "",
-          "url": "https://www.primerahora.com/noticias/gobierno-politica/notas/vuelos-quedan-cancelados-en-aeropuertos-a-traves-de-la-isla-ante-ataque-a-venezuela/",
-          "source": "Primera Hora"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,20 +257,20 @@
       "title": "venezuela",
       "trafficCount": "10000+",
       "pubDate": "Fri, 2 Jan 2026 23:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcnItcRvZtXsHia76rrKp0IjX7djvevu6iJBdJe8kb4d2JLURAT2E8lib3twE",
-      "pictureSource": "El Nuevo Día",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHMNhhKahV3Qq9wD72FBnT3muo9EJbpn2W4_y2DF_w9gjs5z-8Q9k_e33GqI8",
+      "pictureSource": "CNN en Español",
       "relatedSearch": [
-        {
-          "title": "Donald Trump asegura que Nicolás Maduro se encuentra en un buque militar y será llevado a Nueva York",
-          "snippet": "",
-          "url": "https://www.elnuevodia.com/noticias/mundo/notas/donald-trump-asegura-que-nicolas-maduro-se-encuentra-en-un-buque-militar-y-sera-llevado-a-nueva-york/",
-          "source": "El Nuevo Día"
-        },
         {
           "title": "Videos muestran las explosiones registradas en Venezuela",
           "snippet": "",
           "url": "https://cnnespanol.cnn.com/2026/01/03/venezuela/video/explosiones-venezuela-eeuu-orix",
           "source": "CNN en Español"
+        },
+        {
+          "title": "Donald Trump asegura que Nicolás Maduro se encuentra en un buque militar y será llevado a Nueva York",
+          "snippet": "",
+          "url": "https://www.elnuevodia.com/noticias/mundo/notas/donald-trump-asegura-que-nicolas-maduro-se-encuentra-en-un-buque-militar-y-sera-llevado-a-nueva-york/",
+          "source": "El Nuevo Día"
         },
         {
           "title": "Periodista de Univision rompe en llanto al reportar la captura de Nicolás Maduro",

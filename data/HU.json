@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-01-04 19:54:34",
+  "lastUpdate": "2026-01-04 20:13:43",
   "data": [
+    {
+      "title": "balogh levente",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 4 Jan 2026 12:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfEbuVsnUYEZpkaetHWRhQ4qNmZ9193RK5KkzokzYJ5swhpJRquuPzLBAu9pg",
+      "pictureSource": "RTL.hu",
+      "relatedSearch": [
+        {
+          "title": "Balogh Levente 24 ezer euró helyett valami egészen mást adott az erdélyi vállalkozónak",
+          "snippet": "",
+          "url": "https://rtl.hu/capak-kozott/2026/01/04/balogh-levente-24-ezer-euro-befektetes-tanacs-erdelyi-sculptortech-vallalkozo",
+          "source": "RTL.hu"
+        },
+        {
+          "title": "Új befektető érkezik a Cápák közé – elmondta, kit mentorálna szívesen",
+          "snippet": "",
+          "url": "https://www.portfolio.hu/podcast/20251229/uj-befekteto-erkezik-a-capak-koze-elmondta-kit-mentoralna-szivesen-807780",
+          "source": "Portfolio.hu"
+        },
+        {
+          "title": "Bemutatjuk az RTL újdonsült Cápáját: így kereste meg milliárdjait Varga Sándor - de ki ő valójában?",
+          "snippet": "",
+          "url": "https://www.penzcentrum.hu/szorakozas/20260103/bemutatjuk-az-rtl-ujdonsult-capajat-igy-kereste-meg-milliardjait-varga-sandor-de-ki-o-valojaban-1191263",
+          "source": "Pénzcentrum"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "holnapi időjárás",
       "trafficCount": "20000+",
@@ -21,9 +49,9 @@
           "source": "Házipatika"
         },
         {
-          "title": "Még több havat is hozhat a holnapi időjárás",
+          "title": "Felköthetjük a gatyánkat a holnapi időjárás miatt - újra nagyobb mennyiségű hó érkezhet",
           "snippet": "",
-          "url": "https://www.bama.hu/helyi-idojaras/2026/01/holnapi-idojaras-havazas-szel-elorejelzes",
+          "url": "https://www.bama.hu/helyi-idojaras/2026/01/holnapi-idojaras-2",
           "source": "Baranya Ma"
         }
       ],
@@ -58,34 +86,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "magyarország szeretlek",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 4 Jan 2026 11:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCUWTdBrqAfB5TfymWwfyNoWffuhwOMlJ2r_X7Cct6DmcraeWqSoFUPRsMWW0",
-      "pictureSource": "KISALFOLD",
-      "relatedSearch": [
-        {
-          "title": "Énekesek a színészek ellen a Magyarország, szeretlek!-ben",
-          "snippet": "",
-          "url": "https://www.kisalfold.hu/helyi-kozelet/2026/01/magyarorszag-szeretlek-musor-vetelkedo",
-          "source": "KISALFOLD"
-        },
-        {
-          "title": "„Az államat azóta is keresem” – Kiss Ernő Zsolt kisebb sokkot kapott a felkéréstől",
-          "snippet": "",
-          "url": "https://www.blikk.hu/sztarvilag/hazai-sztarok/kiss-erno-zsolt-magyarorszag-szeretlek/b47grw5",
-          "source": "Blikk"
-        },
-        {
-          "title": "Énekesek a színészek ellen a Magyarország, szeretlek!-ben",
-          "snippet": "",
-          "url": "https://www.hirstart.hu/hk/20260103_enekesek_a_szineszek_ellen_a_magyarorszag_szeretlek-ben",
-          "source": "Hirstart"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "pablo escobar",
       "trafficCount": "200+",
       "pubDate": "Sun, 4 Jan 2026 11:30:00 -0800",
@@ -114,12 +114,46 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "magyarország szeretlek",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 4 Jan 2026 11:30:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCUWTdBrqAfB5TfymWwfyNoWffuhwOMlJ2r_X7Cct6DmcraeWqSoFUPRsMWW0",
+      "pictureSource": "KISALFOLD",
+      "relatedSearch": [
+        {
+          "title": "Énekesek a színészek ellen a Magyarország, szeretlek!-ben",
+          "snippet": "",
+          "url": "https://www.kisalfold.hu/helyi-kozelet/2026/01/magyarorszag-szeretlek-musor-vetelkedo",
+          "source": "KISALFOLD"
+        },
+        {
+          "title": "„Az államat azóta is keresem” – Kiss Ernő Zsolt kisebb sokkot kapott a felkéréstől",
+          "snippet": "",
+          "url": "https://www.blikk.hu/sztarvilag/hazai-sztarok/kiss-erno-zsolt-magyarorszag-szeretlek/b47grw5",
+          "source": "Blikk"
+        },
+        {
+          "title": "Énekesek a színészek ellen a Magyarország, szeretlek!-ben",
+          "snippet": "",
+          "url": "https://www.hirstart.hu/hk/20260103_enekesek_a_szineszek_ellen_a_magyarorszag_szeretlek-ben",
+          "source": "Hirstart"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "varga kevin",
       "trafficCount": "200+",
       "pubDate": "Sun, 4 Jan 2026 11:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ESZQAx8Y11WaBk0BzPWpzIK9e82LkhcpIJ3lvdPdkhYFG_9loSPRo31Z4QY",
-      "pictureSource": "Csakfoci",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWp28QYt4vnH8L2mTkOIt1MC-4eljJDDpFQmgvXBHJP1iSagUal25CsB7CULA",
+      "pictureSource": "Nemzeti Sport",
       "relatedSearch": [
+        {
+          "title": "Varga Kevin távozott Nyíregyházáról, és a Honvédban folytatja pályafutását",
+          "snippet": "",
+          "url": "https://www.nemzetisport.hu/labdarugo-nb-ii/2026/01/varga-kevin-tavozott-nyiregyhazarol-es-a-honvedban-folytatja-palyafutasat",
+          "source": "Nemzeti Sport"
+        },
         {
           "title": "Magyar válogatott támadóval erősít a Honvéd - vele mennek az NB I-ért",
           "snippet": "",
@@ -131,12 +165,6 @@
           "snippet": "",
           "url": "https://www.szon.hu/helyi-sport/2026/01/varga-kevin-nyiregyhaza-spartacus-fc",
           "source": "SZON"
-        },
-        {
-          "title": "Varga Kevin a Nyíregyházának sem kellett, de egy népszerű csapat már le is csapott rá",
-          "snippet": "",
-          "url": "https://www.haon.hu/helyi-sport/2026/01/varga-kevin-debreceni-vsc-nyiregyhaza-budapest-honved",
-          "source": "HAON"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,42 +201,42 @@
       "title": "inter–bologna",
       "trafficCount": "1000+",
       "pubDate": "Sun, 4 Jan 2026 11:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUr6uuIzQgbxPXfkqAMxzpKfJoRJ6nt6ils-sC-P4qsHekEnZevHgrOpAdW8s",
-      "pictureSource": "Fantacalcio",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEpOUQp4Fo-clRDJq5QuWUOQEcq-1hakkm85sNA_onr6jRIa-QYXqsjd8jITE",
+      "pictureSource": "Diretta",
       "relatedSearch": [
         {
-          "title": "Inter-Bologna: le formazioni ufficiali",
-          "snippet": "",
-          "url": "https://www.fantacalcio.it/news/calcio-italia/04_01_2026/inter-bologna-le-formazioni-ufficiali-486996",
-          "source": "Fantacalcio"
-        },
-        {
-          "title": "Tutto il calcio in Diretta",
+          "title": "Calcio Live: in campo Bologna-Inter (0-0)",
           "snippet": "",
           "url": "https://www.diretta.it/news/calcio-live-in-campo-bologna-inter-0-0/SK1IN9Q9/",
           "source": "Diretta"
         },
         {
-          "title": "Inter, leggero affaticamento ai flessori per Diouf: niente Bologna",
+          "title": "Perché Diouf non è in panchina in Inter-Bologna: infortunio o scelta tecnica di Chivu?",
           "snippet": "",
-          "url": "https://www.sportmediaset.mediaset.it/calcio/inter-leggero-affaticamento-ai-flessori-per-diouf-niente-bologna_107612218-202602k.shtml",
-          "source": "Sportmediaset"
+          "url": "https://www.goal.com/it/liste/perche-diouf-non-e-in-panchina-inter-bologna-infortunio-scelta-tecnica/blt51c05c19d155c26d",
+          "source": "Goal.com"
+        },
+        {
+          "title": "Inter vs. Bologna official line-ups",
+          "snippet": "",
+          "url": "https://www.inter.it/en/news/inter-vs-bologna-official-line-ups-serie-a-2025-2026",
+          "source": "Inter.it"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "real sociedad–atlético madrid",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 4 Jan 2026 11:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK0Mt-5frjtrfsLTLfMEqLvovdFgLDaSqo32ZE-F_nR-yp6y3plVHoiJ0cxNE",
-      "pictureSource": "Mundo Deportivo",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0-bbwQzhgiM4kqP1E2ztG0wD2wTvRHzGddHqmUVgpV1ao47BLtm5uTyHvyWg",
+      "pictureSource": "365Scores",
       "relatedSearch": [
         {
-          "title": "Simeone tira de la cantera para completar la lista ante la Real y Raspadori no se baja de ella",
+          "title": "Real Sociedad vs Atlético de Madrid: Resultado EN VIVO, minuto a minuto y goles de LaLiga",
           "snippet": "",
-          "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260104/1002595622/simeone-tira-cantera-completar-lista-real-raspadori-baja.html",
-          "source": "Mundo Deportivo"
+          "url": "https://www.365scores.com/es/news/real-sociedad-vs-atletico-de-madrid-vivo/",
+          "source": "365Scores"
         },
         {
           "title": "Alineaciones del Real Sociedad - Atlético de LaLiga EASports",
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://rmcsport.bfmtv.com/replay-emissions/bartoli-time/le-premier-derby-parisien-de-la-saison-04-01_EN-202601040304.html",
           "source": "RMC Sport"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "cápák között",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 4 Jan 2026 10:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQN6NEyuYYmzdvVeOFZ7eSy1KXP_uagXePWZlbp9lOiY6MuMl_NBT7xbJeVh1M",
-      "pictureSource": "Portfolio.hu",
-      "relatedSearch": [
-        {
-          "title": "Új befektető érkezik a Cápák közé – elmondta, kit mentorálna szívesen",
-          "snippet": "",
-          "url": "https://www.portfolio.hu/podcast/20251229/uj-befekteto-erkezik-a-capak-koze-elmondta-kit-mentoralna-szivesen-807780",
-          "source": "Portfolio.hu"
-        },
-        {
-          "title": "„Mindenedet el fogod veszíteni” – veszélyes útra lépett az édesapa a Cápák szerint",
-          "snippet": "",
-          "url": "https://rtl.hu/capak-kozott/2026/01/04/mindenedet-el-fogod-vesziteni-capak-kozott-9-evad-1-epizod-elozetes",
-          "source": "RTL.hu"
-        },
-        {
-          "title": "Bemutatjuk az RTL újdonsült Cápáját: így kereste meg milliárdjait Varga Sándor - de ki ő valójában?",
-          "snippet": "",
-          "url": "https://www.penzcentrum.hu/szorakozas/20260103/bemutatjuk-az-rtl-ujdonsult-capajat-igy-kereste-meg-milliardjait-varga-sandor-de-ki-o-valojaban-1191263",
-          "source": "Pénzcentrum"
         }
       ],
       "link": "https://imtaqin.id/"

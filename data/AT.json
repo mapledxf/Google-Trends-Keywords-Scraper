@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-01-04 09:59:19",
+  "lastUpdate": "2026-01-04 10:24:23",
   "data": [
     {
       "title": "klein gegen gross",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Sun, 4 Jan 2026 01:10:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKYNeEE7gg45yXfQLoAyY9hcHaPZZ_I_Xg8D-Vg_VncUVtk_M7pbS0ZQdRknY",
       "pictureSource": "ARD Mediathek",
@@ -31,7 +31,7 @@
     },
     {
       "title": "michael schumacher",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 4 Jan 2026 00:50:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJRNURrqtBOuUbOLccC7I8NC6I4hLfNHyd1IM5tGBGy76_fnbeGMculyT_0j8",
       "pictureSource": "Tips.at",
@@ -71,10 +71,10 @@
           "source": "sport.ORF.at"
         },
         {
-          "title": "Kranjska-Gora-Slalom - LIVE: Shiffrin abgefangen! Schweizerin in Topform",
+          "title": "Nach erstem Durchgang: Rast hält mit Shiffrin im Kranjska Gora-Slalom mit",
           "snippet": "",
-          "url": "https://www.krone.at/4003182",
-          "source": "Kronen Zeitung"
+          "url": "https://www.kleinezeitung.at/sport/wintersport/skialpin/20448702/ab-930-uhr-live-der-slalom-der-frauen-in-kranjska-gora",
+          "source": "Kleine Zeitung"
         },
         {
           "title": "Weltcup in Kranjska Gora: Camille Rast gewinnt - und denkt an Crans-Montana",
@@ -87,7 +87,7 @@
     },
     {
       "title": "kranjska gora",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 4 Jan 2026 00:30:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6TcvOhj71g2v8Wp_rRtfxu4YYsZ2gBNZbVx9GtDebA0FXkPhmucqKShRsrYI",
       "pictureSource": "ESPN",
@@ -142,6 +142,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "skispringen vierschanzentournee",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 3 Jan 2026 22:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-vjTLBJW-5t-AIuyrNqq6jolTrINjO4b5W12Otu14je_zv_6MxsithNCC0zE",
+      "pictureSource": "Kronen Zeitung",
+      "relatedSearch": [
+        {
+          "title": "Vorfall am Bergisel - Nächste Disqualifikation: Rätselraten bei Tournee",
+          "snippet": "",
+          "url": "https://www.krone.at/4004432",
+          "source": "Kronen Zeitung"
+        },
+        {
+          "title": "Verbotenes Wachs: Rätsel um nächste Tournee-Disqualifikation",
+          "snippet": "",
+          "url": "https://www.eurosport.de/skispringen/innsbruck/2025-2026/vierschanzentournee-verbotenes-wachs-auf-ski-von-pawel-wasek-raetsel-um-naechste-disqualifikation_sto23255644/story.shtml",
+          "source": "Eurosport"
+        },
+        {
+          "title": "Rätselraten nach nächstes Disqualifikation bei den Ski-Springern",
+          "snippet": "",
+          "url": "https://www.oe24.at/sport/wintersport/ski-nordisch/skispringen/raetselraten-nach-naechstes-disqualifikation-bei-den-ski-springern/663872165",
+          "source": "OE24"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "jännerrallye",
       "trafficCount": "200+",
       "pubDate": "Sat, 3 Jan 2026 21:20:00 -0800",
@@ -183,16 +211,16 @@
           "source": "NFL.com"
         },
         {
-          "title": "Seahawks silence 49ers, lock up NFC's No. 1 seed",
+          "title": "Seattle Seahawk veteran should have a big game tonight based on this one telling stat",
           "snippet": "",
-          "url": "https://www.espn.com/nfl/story/_/id/47497275/seattle-seahawks-secure-nfc-no-1-seed-13-3-victory",
-          "source": "ESPN"
+          "url": "https://www.si.com/nfl/seahawks/onsi/seahawks-news/seattle-seahawk-veteran-should-have-a-big-game-tonight-based-on-this-one-telling-stat-01ke2p5atpqs",
+          "source": "Sports Illustrated"
         },
         {
-          "title": "49ers game grades: Defense put up a fight, but absent offense ominous for playoffs",
+          "title": "Nick Emmanwori Shines In Dominant Defensive Performance As Seahawks Top 49ers",
           "snippet": "",
-          "url": "https://www.sfchronicle.com/sports/49ers/article/49ers-game-grades-defense-put-up-a-fight-but-21274935.php",
-          "source": "San Francisco Chronicle"
+          "url": "https://www.seahawks.com/news/nick-emmanwori-shines-in-dominant-defensive-performance-as-seahawks-top-49ers",
+          "source": "Seattle Seahawks"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +239,16 @@
           "source": "CNN"
         },
         {
+          "title": "The Venezuelans are very clear about who their president is – and it’s not Trump",
+          "snippet": "",
+          "url": "https://www.independent.co.uk/news/world/americas/venezuela-trump-maduro-president-machado-decly-rodriguez-regime-b2894072.html",
+          "source": "The Independent"
+        },
+        {
           "title": "How Trump Fixed On a Maduro Loyalist as Venezuela’s New Leader",
           "snippet": "",
           "url": "https://www.nytimes.com/2026/01/04/world/americas/trump-venezuela-leader-rodriguez-machado.html",
           "source": "The New York Times"
-        },
-        {
-          "title": "Venezuela vice president Rodriguez in Russia, four sources say",
-          "snippet": "",
-          "url": "https://www.reuters.com/world/americas/venezuela-vice-president-rodriguez-russia-four-sources-say-2026-01-03/",
-          "source": "Reuters"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -248,34 +276,6 @@
           "title": "Quadrantiden heute beobachten: Tipps für die Sternschnuppen-Jagd bei Vollmond",
           "snippet": "",
           "url": "https://www.merkur.de/wissen/quadrantiden-heute-beobachten-tipps-fuer-die-sternschnuppen-jagd-bei-vollmond-94107522.html",
-          "source": "Merkur"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "vollmond wolfsmond",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 3 Jan 2026 18:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDTizGgsOh6qamEDlqlrvrmN5GyVGlpuQkuIWW5_85A-fYIpRv3A8HfrDUlGo",
-      "pictureSource": "salzburg24",
-      "relatedSearch": [
-        {
-          "title": "Spektakulärer Wolfsmond eröffnet Astronomie-Jahr 2026 in Salzburg: Alle Vollmond-Termine im Überblick",
-          "snippet": "",
-          "url": "https://www.salzburg24.at/news/salzburg/stadt/spektakulaerer-wolfsmond-eroeffnet-astronomie-jahr-2026-in-salzburg-alle-vollmond-termine-im-ueberblick-art-312823",
-          "source": "salzburg24"
-        },
-        {
-          "title": "Supermond 2026: Wolfsmond sorgt für leuchtenden Jahresauftakt",
-          "snippet": "",
-          "url": "https://www.vol.at/vollmond-extrem-supermond-eroeffnet-das-astronomische-jahr/9899879",
-          "source": "VOL.AT"
-        },
-        {
-          "title": "Supermond am Himmel: Für diese 3 Sternzeichen wird das Wochenende bewegend",
-          "snippet": "",
-          "url": "https://www.merkur.de/welt/supermond-am-himmel-fuer-diese-sternzeichen-wird-das-wochenende-bewegend-94106826.html",
           "source": "Merkur"
         }
       ],

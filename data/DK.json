@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-01-04 06:30:30",
+  "lastUpdate": "2026-01-04 06:55:40",
   "data": [
+    {
+      "title": "billund lufthavn",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 3 Jan 2026 22:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScD_-cVbq-I9JUMd93TxfixGJB6LTZiMlR7xuMlqBXGuRSYVEmIB_YtPg6HYk",
+      "pictureSource": "DR.dk",
+      "relatedSearch": [
+        {
+          "title": "Så meget sne er der faldet – og sådan fortsætter snevejret",
+          "snippet": "",
+          "url": "https://www.dr.dk/nyheder/vejret/saa-meget-sne-er-der-faldet-og-saadan-fortsaetter-snevejret",
+          "source": "DR.dk"
+        },
+        {
+          "title": "Trafikken går langsomt i lørdagens snebyger",
+          "snippet": "",
+          "url": "https://politiken.dk/danmark/art10679157/Trafikken-g%C3%A5r-langsomt-i-l%C3%B8rdagens-snebyger",
+          "source": "Politiken"
+        },
+        {
+          "title": "Politi og DMI opfordrer til forsigtig kørsel forud for isdøgn",
+          "snippet": "",
+          "url": "https://www.tvsyd.dk/syd-og-soenderjylland/politi-og-dmi-opfordrer-til-forsigtig-korsel-forud-for-isdogn-33041",
+          "source": "tvSyd"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "vejret",
       "trafficCount": "2000+",
@@ -30,57 +58,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "dmi vejret",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 3 Jan 2026 22:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScD_-cVbq-I9JUMd93TxfixGJB6LTZiMlR7xuMlqBXGuRSYVEmIB_YtPg6HYk",
-      "pictureSource": "DR.dk",
-      "relatedSearch": [
-        {
-          "title": "Så meget sne er der faldet – og sådan fortsætter snevejret",
-          "snippet": "",
-          "url": "https://www.dr.dk/nyheder/vejret/saa-meget-sne-er-der-faldet-og-saadan-fortsaetter-snevejret",
-          "source": "DR.dk"
-        },
-        {
-          "title": "Trafikken går langsomt i lørdagens snebyger",
-          "snippet": "",
-          "url": "https://politiken.dk/danmark/art10679157/Trafikken-g%C3%A5r-langsomt-i-l%C3%B8rdagens-snebyger",
-          "source": "Politiken"
-        },
-        {
-          "title": "Politi og DMI opfordrer til forsigtig kørsel forud for isdøgn",
-          "snippet": "",
-          "url": "https://www.tvsyd.dk/syd-og-soenderjylland/politi-og-dmi-opfordrer-til-forsigtig-korsel-forud-for-isdogn-33041",
-          "source": "tvSyd"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "weather",
       "trafficCount": "200+",
       "pubDate": "Sat, 3 Jan 2026 21:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuBzW0v3K5x_io3nbUWilgiYRLBqrjUc2HBdnA5QcAE_qjfk2JArhUdMwPj1U",
-      "pictureSource": "WHIO TV",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbvvBrvx1NmpKMrUaFLM49XAka7umtqXexJmxefvdCkcjfvh_2A4Pfp7ZOO6A",
+      "pictureSource": "KSBW",
       "relatedSearch": [
         {
-          "title": "Weekend ends cold ahead of a January Thaw",
+          "title": "IMPACT WEATHER: Final Round Of Heavy Rain Moves In Overnight-Sunday",
           "snippet": "",
-          "url": "https://www.whio.com/news/local/weekend-ends-cold-ahead-january-thaw/IDZU4HGFAJEZLM3RVM3L6TPP6E/",
-          "source": "WHIO TV"
+          "url": "https://www.ksbw.com/article/impact-weather-final-round-of-heavy-rain-moves-in-overnight-sunday/69909914",
+          "source": "KSBW"
         },
         {
-          "title": "Forecast: Warming up before late week rain chances",
+          "title": "Bustery, wet conditions through Tuesday, dry, colder through mid-January | Central Coast Weather Report",
           "snippet": "",
-          "url": "https://www.komu.com/weather/forecast-warming-up-before-late-week-rain-chances/article_c4e7be58-a6d9-49d6-a9ec-1a70f64375ab.html",
-          "source": "KOMU 8"
+          "url": "https://santamariatimes.com/news/local/bustery-wet-conditions-through-tuesday-dry-colder-through-mid-january-central-coast-weather-report/article_2f471563-6cff-4847-b4f0-0fe179e809ca.html",
+          "source": "Santa Maria Times"
         },
         {
-          "title": "Quick warm up coming during the workweek",
+          "title": "Another Storm Heads for Santa Barbara as City Exceeds Normal Annual Rainfall",
           "snippet": "",
-          "url": "https://www.wlwt.com/article/warmer-next-week-cincinnati-ohio-forecast-weather-temperatures-rain-outlook-7-day/69909263",
-          "source": "WLWT"
+          "url": "https://www.independent.com/2026/01/02/another-storm-heads-for-santa-barbara-as-city-exceeds-normal-annual-rainfall/",
+          "source": "The Santa Barbara Independent"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,44 +99,44 @@
           "source": "DR.dk"
         },
         {
-          "title": "Hvorfor deler Trump et billede af den tilfangetagne Maduro?",
-          "snippet": "",
-          "url": "https://www.dr.dk/nyheder/udland/hvorfor-deler-trump-et-billede-af-den-tilfangetagne-maduro",
-          "source": "DR.dk"
-        },
-        {
           "title": "Ildevarslende for Grønland, siger korrespondent efter angreb",
           "snippet": "",
           "url": "https://nyheder.tv2.dk/udland/2026-01-03-ildevarslende-for-groenland-siger-korrespondent-efter-angreb",
           "source": "tv2.dk"
+        },
+        {
+          "title": "Ikke kun en nålestiksoperation: Trumps team skal styre Venezuela",
+          "snippet": "",
+          "url": "https://www.dr.dk/nyheder/indland/ikke-kun-en-naalestiksoperation-trumps-team-skal-styre-venezuela",
+          "source": "DR.dk"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "katie miller",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 3 Jan 2026 19:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTesijPI-JgeJSXPi6IvKskF6zjGR6oMzhg1u4XZ0WBnUhwXUd_FWKB6R_woek",
-      "pictureSource": "DR.dk",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ0OVY-9dRX2HSwWKT2-lHh353ba8IHQGCkYOz1P_eUax8nyTxHOI1x5CrOGc",
+      "pictureSource": "Yahoo",
       "relatedSearch": [
         {
-          "title": "Trump-rådgivers kone i opsigtsvækkende opslag om Grønland indhyllet i det amerikanske flag: 'Snart'",
+          "title": "Stephen Miller Danced to “Ice Ice Baby” at Mar-a-Lago. Hours Later, His Wife Announced Baby No. 4",
           "snippet": "",
-          "url": "https://www.dr.dk/nyheder/indland/groenland/trump-raadgivers-kone-i-opsigtsvaekkende-opslag-om-groenland-indhyllet-i-det-amerikanske-flag-snart",
-          "source": "DR.dk"
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/stephen-miller-danced-ice-ice-020716169.html",
+          "source": "Yahoo"
         },
         {
-          "title": "Trump-rådgivers hustru deler foto af Grønland i USA-flag",
+          "title": "Trump's Deputy Chief of Staff Stephen Miller and Wife Katie Expecting Fourth Baby",
           "snippet": "",
-          "url": "https://amtsavisen.dk/udland/trump-raadgivers-hustru-deler-foto-af-groenland-i-usa-flag",
-          "source": "Randers Amtsavis"
+          "url": "https://people.com/stephen-miller-and-wife-katie-expecting-baby-no-4-11878258",
+          "source": "People.com"
         },
         {
-          "title": "Trump-rådgivers hustru deler foto af Grønland i USA-flag",
+          "title": "MAGA power couple Stephen and Katie Miller announce pregnancy at Trump’s Mar-a-Lago NYE bash",
           "snippet": "",
-          "url": "https://helsingordagblad.dk/udland/trump-raadgivers-hustru-deler-foto-af-groenland-i-usa-flag",
-          "source": "Helsingør Dagblad"
+          "url": "https://www.the-independent.com/news/world/americas/us-politics/stephen-katie-miller-pregnancy-announcement-b2893530.html",
+          "source": "The Independent"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,20 +229,20 @@
       "title": "littler",
       "trafficCount": "200+",
       "pubDate": "Sat, 3 Jan 2026 13:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7gQ8GnZf2TQn6LkGYcWvST16aqWwS6qvCSIM6UPCE6VGlp8MC6gk98VQ2BoU",
-      "pictureSource": "tv2.dk",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFpb4Pr0PhOl7RHGzBweH471TqV69Lj8Lgm7KAtjuyfqcS5dDsOKgoZ64htQk",
+      "pictureSource": "DR.dk",
       "relatedSearch": [
-        {
-          "title": "Fænomen vinder VM igen og får \"livsændrende\" præmie",
-          "snippet": "",
-          "url": "https://sport.tv2.dk/2026-01-03-faenomen-vinder-vm-igen-og-faar-livsaendrende-praemie",
-          "source": "tv2.dk"
-        },
         {
           "title": "Dartstjernen Luke Littler genvinder VM med storsejr",
           "snippet": "",
           "url": "https://www.dr.dk/sporten/dartstjernen-luke-littler-genvinder-vm-med-storsejr",
           "source": "DR.dk"
+        },
+        {
+          "title": "Ekstraordinær historie drukner, fordi fænomen er så vild",
+          "snippet": "",
+          "url": "https://sport.tv2.dk/2026-01-03-ekstraordinaer-historie-drukner-fordi-faenomen-er-saa-vild",
+          "source": "tv2.dk"
         },
         {
           "title": "18-årigt fænomen vinder VM i dart for andet år i træk",

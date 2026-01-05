@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-05 05:52:44",
+  "lastUpdate": "2026-01-05 06:20:21",
   "data": [
     {
       "title": "weer",
@@ -31,28 +31,28 @@
     },
     {
       "title": "weather",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 4 Jan 2026 21:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR925ok-O3nYlMWXclOrQEmYj0QWJSYK8ZeYPjQYxOLxJ9c8hLsQi7sDSThp7g",
-      "pictureSource": "Khaleej Times",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTox9u7-xxugX-PSjQiksqXtR91chXofX74DYIgBOdmeyIvUoTZw6kaautWGuc",
+      "pictureSource": "Jordan News",
       "relatedSearch": [
         {
-          "title": "Thick fog at Dubai's Half Desert turns camping nights into rare, unreal experiences",
+          "title": "Cold Weather Across Most Regions of the Kingdom Until Wednesday",
           "snippet": "",
-          "url": "https://www.khaleejtimes.com/travel/thick-fog-dubai-half-desert-camping-winter",
-          "source": "Khaleej Times"
+          "url": "https://www.jordannews.jo/Section-135/Weather/Cold-Weather-Across-Most-Regions-of-the-Kingdom-Until-Wednesday-47859",
+          "source": "Jordan News"
         },
         {
-          "title": "Rain expected, temperatures to drop tomorrow: NCM",
+          "title": "Weather Forecast: Stable Sunny Conditions During the Day and Relatively Cold",
           "snippet": "",
-          "url": "https://www.bignewsnetwork.com/news/278790120/rain-expected-temperatures-to-drop-tomorrow-ncm",
-          "source": "Big News Network.com"
+          "url": "https://www.sadanews.ps/en/news/263325.html",
+          "source": "وكالة صدى نيوز"
         },
         {
-          "title": "UAE To Experience Supermoon, Rainfall, And The Coldest Winter This January!",
+          "title": "Stable weather Saturday, slight temperature rise on Sunday",
           "snippet": "",
-          "url": "https://curlytales.com/middle-east/ct-scoop/uae-to-experience-supermoon-rainfall-and-the-coldest-winter-this-january/",
-          "source": "Curly Tales"
+          "url": "https://en.ammonnews.net/article/87883",
+          "source": "Ammon News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,28 +89,9 @@
       "title": "dh",
       "trafficCount": "100+",
       "pubDate": "Sun, 4 Jan 2026 21:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdDVbjjNedf_xkwIP5J5oVDRJzD-jNLX7HUEsVLBHQCuialH0QaVfiBzPKfRk",
-      "pictureSource": "The Guardian",
-      "relatedSearch": [
-        {
-          "title": "Andrew Miller: ‘DH Lawrence forced me to my feet – I was madly excited’",
-          "snippet": "",
-          "url": "https://www.theguardian.com/books/2026/jan/02/andrew-miller-dh-lawrence-forced-me-to-my-feet-i-was-madly-excited",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Trump says second Venezuela strike possible if government does not cooperate",
-          "snippet": "",
-          "url": "https://www.reuters.com/world/us/venezuelas-maduro-custody-trump-says-us-will-run-country-2026-01-04/",
-          "source": "Reuters"
-        },
-        {
-          "title": "Key points to unpack US attacks on Venezuela",
-          "snippet": "",
-          "url": "https://www.abc.net.au/news/2026-01-05/what-happened-us-strikes-venezuela-maduro-captured-what-next/106198900",
-          "source": "Australian Broadcasting Corporation"
-        }
-      ],
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -127,15 +108,43 @@
           "source": "VRT"
         },
         {
-          "title": "Maandag belooft druk te worden Vlaamse snelwegen: “Een ochtendspits mét sneeuw, dat gaan we voelen”",
+          "title": "KMI breidt ‘code geel’ uit tot dinsdagochtend: gladheid, sneeuw en einde vakantie zorgen voor moeilijke ochtendspits",
           "snippet": "",
-          "url": "https://www.hln.be/regio/maandag-belooft-druk-te-worden-vlaamse-snelwegen-een-ochtendspits-met-sneeuw-dat-gaan-we-voelen~a91fb0db/",
+          "url": "https://www.demorgen.be/snelnieuws/kmi-breidt-code-geel-uit-tot-dinsdagochtend-gladheid-sneeuw-en-einde-vakantie-zorgen-voor-moeilijke-ochtendspits~bc578649/",
+          "source": "De Morgen"
+        },
+        {
+          "title": "LIVE WINTERPRIK. Extra zware ochtendspits verwacht tijdens eerste werkdag na kerstvakantie",
+          "snippet": "",
+          "url": "https://www.nieuwsblad.be/binnenland/live-winterprik.-extra-zware-ochtendspits-verwacht-tijdens-eerste-werkdag-na-kerstvakantie/121257605.html",
+          "source": "Nieuwsblad"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weerbericht",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 4 Jan 2026 21:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwsRRJOoRImNFsFJVnLc6ldsNkrDM31trhlor0jGW_1p2QNMOOYknJmjzBcHc",
+      "pictureSource": "VRT",
+      "relatedSearch": [
+        {
+          "title": "Sleepret op besneeuwde hellingen in Genk: \"We maken dat niet vaak mee\"",
+          "snippet": "",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/01/03/sneeuwpret-in-genk/",
+          "source": "VRT"
+        },
+        {
+          "title": "KIJK. Eerste sneeuw in Limburg zorgt voor grote verwondering: baby’s en puppy’s zetten hun allereerste stapjes in het wit",
+          "snippet": "",
+          "url": "https://www.hln.be/hasselt/kijk-eerste-sneeuw-in-limburg-zorgt-voor-grote-verwondering-babys-en-puppys-zetten-hun-allereerste-stapjes-in-het-wit~a921e158/",
           "source": "HLN"
         },
         {
-          "title": "LIVE WINTERPRIK. Opnieuw sneeuw op komst in delen van het land, code geel voor gladheid - Zeven wintersportcentra geopend in Oostkantons",
+          "title": "KMI en Wegen en Verkeer waarschuwen voor gladde wegen: her en der in Limburg slippartijen",
           "snippet": "",
-          "url": "https://www.nieuwsblad.be/binnenland/live-winterprik.-opnieuw-sneeuw-op-komst-in-delen-van-het-land-code-geel-voor-gladheid-zeven-wintersportcentra-geopend-in-oostkantons/121257605.html",
+          "url": "https://www.nieuwsblad.be/regio/limburg/bilzen-hoeselt/kmi-en-wegen-en-verkeer-waarschuwen-voor-gladde-wegen-her-en-der-in-limburg-slippartijen/121331774.html",
           "source": "Nieuwsblad"
         }
       ],
@@ -143,7 +152,7 @@
     },
     {
       "title": "de lijn",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 4 Jan 2026 20:50:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0qBfuuoKdrqivO2FSmO-GjL4qtipg1BD4pvdIMxhL8Ly50B2ZsH9-6CNFlbU",
       "pictureSource": "VRT",
@@ -155,10 +164,10 @@
           "source": "VRT"
         },
         {
-          "title": "De Lijn past tarieven aan: Dit abonnement wordt veel goedkoper",
+          "title": "Ver­voer­be­wij­zen De Lijn duur­der van­af 1 febru­a­ri, jon­ge­renabon­ne­ment stuk goedkoper",
           "snippet": "",
-          "url": "https://www.redactie24.be/verkeer/de-lijn-past-tarieven-aan-dit-abonnement-wordt-veel-goedkoper-187345",
-          "source": "Redactie24"
+          "url": "https://avs.be/nieuws/vervoerbewijzen-de-lijn-duurder-vanaf-1-februari-jongerenabonnement-stuk-goedkoper-2",
+          "source": "AVS"
         },
         {
           "title": "De Lijn verhoogt tarieven met gemiddeld 4,2 procent in februari",
@@ -229,13 +238,13 @@
       "title": "bouchez",
       "trafficCount": "100+",
       "pubDate": "Sun, 4 Jan 2026 16:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRyJ3aiRxt3cYTFOpiUVy6x6RxlZCTyJabxGSurcl7SOyLM5FK-HvvuZEA134U",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwrKE6IBoo5pR0IfInYcjpf1z9VPGWne1gNkQ6tJYZq8jwdKvgQ9ciuLEyY4g",
       "pictureSource": "RTL Info",
       "relatedSearch": [
         {
-          "title": "Georges-Louis Bouchez vise « les épaules les plus larges » et dévoile deux idées pour faire des centaines de millions d’euros d’économie",
+          "title": "Georges-Louis Bouchez propose une mesure qui rapporterait gros : « Favoriser le travail »",
           "snippet": "",
-          "url": "https://www.rtl.be/actu/belgique/politique/georges-louis-bouchez-vise-les-epaules-les-plus-larges-et-devoile-deux-idees/2026-01-04/article/775502",
+          "url": "https://www.rtl.be/actu/belgique/politique/georges-louis-bouchez-propose-une-mesure-qui-rapporterait-gros-favoriser-le/2026-01-04/article/775502",
           "source": "RTL Info"
         },
         {
@@ -249,34 +258,6 @@
           "snippet": "",
           "url": "https://www.rtbf.be/article/voeux-du-mr-face-aux-mensonges-de-l-opposition-adrien-dolimont-appelle-a-faire-triompher-l-information-11656066",
           "source": "RTBF"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "inter milan",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 4 Jan 2026 13:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThR02JV-9Yec7CcsBEbhR9nKHOEkLy1PTLOEIS8flcXgGqRKg1kVmKPu5s6aA",
-      "pictureSource": "Football Italia",
-      "relatedSearch": [
-        {
-          "title": "Chivu: ‘I laugh’ at controversies, but won’t talk about Cancelo to Inter",
-          "snippet": "",
-          "url": "https://football-italia.net/chivu-laugh-controversies-won-t-talk-cancelo/",
-          "source": "Football Italia"
-        },
-        {
-          "title": "Serie A football match: Inter Milan vs. Bologna",
-          "snippet": "",
-          "url": "http://english.news.cn/20260105/fac8d9492b684edcb377d308a8e4823e/c.html",
-          "source": "Xinhua"
-        },
-        {
-          "title": "Mkhitaryan Remains on the Bench in the First Match of 2026",
-          "snippet": "",
-          "url": "https://sportaran.com/en/post/mhitaryan-ostalsya-v-zapase-v-pervom-matche-2026-goda/",
-          "source": "Sportaran"
         }
       ],
       "link": "https://imtaqin.id/"

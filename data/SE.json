@@ -1,13 +1,47 @@
 {
-  "lastUpdate": "2026-01-05 05:53:14",
+  "lastUpdate": "2026-01-05 06:20:55",
   "data": [
+    {
+      "title": "nyhetsmorgon idag",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 4 Jan 2026 21:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4pUvYbMVqtCU5ujsGIZa1DFju0SS63ZVXFMtfVU7vZWTee38-W2NvlsoHX7I",
+      "pictureSource": "SVT Nyheter",
+      "relatedSearch": [
+        {
+          "title": "Hon samlade in över 2,5 miljoner till mordoffret i Rönninges familj",
+          "snippet": "",
+          "url": "https://www.svt.se/nyheter/lokalt/sodertalje/hon-samlade-in-over-25-miljoner-till-mordoffret-i-ronninges-familj",
+          "source": "SVT Nyheter"
+        },
+        {
+          "title": "Drabbade familjen i Salem: \"Sprid inte bilder\"",
+          "snippet": "",
+          "url": "https://www.aftonbladet.se/nyheter/a/3pJgpq/drabbade-familjen-i-salem-sprid-inte-bilder",
+          "source": "Aftonbladet"
+        },
+        {
+          "title": "GW varnade redan 2020: ”Så tydligt”",
+          "snippet": "",
+          "url": "https://www.expressen.se/nyheter/krim/leif-gw-om-mordmisstankta-vilma-andersson/",
+          "source": "Expressen"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "sydsvenskan",
       "trafficCount": "100+",
       "pubDate": "Sun, 4 Jan 2026 21:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQf0pEgmR46G4BjBUWbJal9ZZiDQYUdjlabaoGXjJ3QE8l5im-ZBgq5s0j7jU0",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjLSsp5xp7p5t_nnIc4oJB7DITsaq7C8N5pHZTz4v3U8QP67a4sX2h-Mi3jmg",
       "pictureSource": "Sydsvenskan",
       "relatedSearch": [
+        {
+          "title": "Så föddes MFF-akademin – Lewicki nådde längst i klassen",
+          "snippet": "",
+          "url": "https://www.sydsvenskan.se/sport/sa-foddes-mff-akademin-lewicki-nadde-langst-i-klassen/",
+          "source": "Sydsvenskan"
+        },
         {
           "title": "SMHI varnar: Snart drar snöovädret in över sydvästra Skåne",
           "snippet": "",
@@ -19,47 +53,13 @@
           "snippet": "",
           "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1437589",
           "source": "Aftonbladet"
-        },
-        {
-          "title": "Vädret påverkar Östgötapendeln",
-          "snippet": "",
-          "url": "https://via.tt.se/pressmeddelande/4201925/vadret-paverkar-ostgotapendeln?publisherId=3236884&lang=sv",
-          "source": "Via TT"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "gavin mckenna",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 4 Jan 2026 20:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREQvAsTXNM_LAhUv7-UyGA3vWSUEs4jn08hHNxQs1igOG0ST7Kp1SfZmxDpzk",
-      "pictureSource": "NHL.com",
-      "relatedSearch": [
-        {
-          "title": "World Junior Championship roundup: Czechia tops Canada, reaches final",
-          "snippet": "",
-          "url": "https://www.nhl.com/news/on-tap-world-junior-championship-news-and-notes-january-4-2026",
-          "source": "NHL.com"
-        },
-        {
-          "title": "Can Canada check Czechs?",
-          "snippet": "",
-          "url": "https://www.iihf.com/en/events/2026/wm20/news/71528/can_canada_check_czechs",
-          "source": "IIHF"
-        },
-        {
-          "title": "Czechia tops Canada to advance to gold medal game at World Junior Championship",
-          "snippet": "",
-          "url": "https://www.tsn.ca/world-juniors/article/czechia-tops-canada-to-advance-to-gold-medal-game-at-world-junior-championship/",
-          "source": "TSN"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "somaliland",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 4 Jan 2026 19:50:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXBe_KW2isN1oEeCAgYJsVlTFveHBLxHYxveFm2hn60WY_yDXGFD7jolEYNnA",
       "pictureSource": "The Wall Street Journal",
@@ -67,7 +67,7 @@
         {
           "title": "Israel Flexes New Diplomatic Muscle in Recognition of Somaliland",
           "snippet": "",
-          "url": "https://www.wsj.com/world/israel-flexes-new-diplomatic-muscle-in-recognition-of-somaliland-f326231b?gaa_at=eafs&gaa_n=AWEtsqeoAyX2E2RLBas_UQIcImCx-BZtS5uO3Hlm1CyYVxuS8FFlRdX2XITf&gaa_ts=695b5493&gaa_sig=ifGqmddUMV9kU9b8YjWDO_-eIdB_gYBAKrhum1DYaF3nxOhCCIkYcEc_HdPBImyNEv66iAkjGvhtmu8w8DxtWg%3D%3D",
+          "url": "https://www.wsj.com/world/israel-flexes-new-diplomatic-muscle-in-recognition-of-somaliland-f326231b?gaa_at=eafs&gaa_n=AWEtsqelzDjBQP0FpBaWJwHUUPOYWOeGIcc27SXRPbb7tgNg0V1nQD7LQfCU&gaa_ts=695b5bcb&gaa_sig=v4ZFBZM6MyXa_beQ-5tM8IRsKlkBenvYwYiWZ0ukYrZMAm43nM2PW9_zPJiPlK0d_H9sk7M2zAKxYSCfhhPoQg%3D%3D",
           "source": "The Wall Street Journal"
         },
         {
@@ -87,7 +87,7 @@
     },
     {
       "title": "röda dagar 2026",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 4 Jan 2026 19:40:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRo9SQTLPov5Z9pAms9bViFKiQKFDb-WmPRJLgTjbB8P5FQqHa3NeIuU63mglI",
       "pictureSource": "Sveriges Radio",
@@ -117,26 +117,26 @@
       "title": "minnesota",
       "trafficCount": "100+",
       "pubDate": "Sun, 4 Jan 2026 17:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxSLk9P8wOqbUAzZNRz6vAGQsX3iW-T1QQYbhgaUVdAMq2N19W-AJLFhxPW3A",
-      "pictureSource": "University of Minnesota Athletics",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT76kZdmbHcA6rwzVwI7BSiXeU0vrnLFCdB2qEKmsYlSBBgY6PA8BKe6PS6iB8",
+      "pictureSource": "kare11.com",
       "relatedSearch": [
         {
-          "title": "“U” Women Top Tampa, Men Split with Tampa and Notre Dame in 2026 Opening Tri-Dual",
+          "title": "Wisconsin man charged with murder in connection with hospital security guard's beating death",
           "snippet": "",
-          "url": "https://gophersports.com/news/2026/1/3/mens-swimming-diving-u-women-top-tampa-men-split-with-tampa-and-notre-dame-in-2026-opening-tri-dual",
-          "source": "University of Minnesota Athletics"
+          "url": "https://www.kare11.com/article/news/local/wi-man-charged-murder-hospital-security-guards-beating-death/89-517f4b8b-f00b-4989-b98d-4183db77c491",
+          "source": "kare11.com"
         },
         {
-          "title": "Irish Men Earn Victories Over Minnesota, Tampa",
+          "title": "Security guard assaulted by Wyoming, Minn., ER patient dies of injuries",
           "snippet": "",
-          "url": "https://fightingirish.com/irish-men-earn-victories-over-minnesota-tampa/",
-          "source": "Notre Dame Athletics"
+          "url": "https://www.twincities.com/2025/12/27/security-guard-assaulted-by-wyoming-minn-er-patient-dies-of-injuries/",
+          "source": "Pioneer Press"
         },
         {
-          "title": "Notre Dame Men Win Twice in Battle with Tampa, Minnesota",
+          "title": "Brown: Tragic death highlights security challenges at Minnesota hospitals",
           "snippet": "",
-          "url": "https://www.swimmingworldmagazine.com/news/notre-dame-men-win-twice-in-battle-with-tampa-minnesota/",
-          "source": "Swimming World"
+          "url": "https://www.startribune.com/mn-hospital-patient-elopement-andrea-merrell/601554174",
+          "source": "Star Tribune"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,7 +155,7 @@
           "source": "BBC"
         },
         {
-          "title": "Sporadic protests in Tehran as clashes reported in Iran’s west",
+          "title": "Sporadic protests in Tehran as riots reported in Iran’s west",
           "snippet": "",
           "url": "https://www.aljazeera.com/news/2026/1/4/sporadic-protests-in-tehran-as-clashes-reported-in-irans-west",
           "source": "Al Jazeera"
@@ -171,28 +171,56 @@
     },
     {
       "title": "yle",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 4 Jan 2026 17:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkrYxV-ou_razQoGHxQbStp6EEgDJs7EfUSnqjBniniDwiMf-Img_LXvxDC08",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSim2QtEXdo02npK9Clvk7OD4CGh3dy-PAbwjUOSHWXf3iJQTZptuEQvD65BS0",
       "pictureSource": "Ilta-Sanomat",
       "relatedSearch": [
         {
-          "title": "Ei voi olla totta! Nuoret Leijonat katkerasti ulos MM-finaalista – Ruotsi vei hurjan trillerin",
+          "title": "Nyt Trump uhkailee Kolumbiaa: ”Sitä johtaa sairas mies”",
           "snippet": "",
-          "url": "https://www.is.fi/jaakiekko/art-2000011729347.html",
+          "url": "https://www.is.fi/ulkomaat/art-2000011727646.html",
           "source": "Ilta-Sanomat"
         },
         {
-          "title": "Ismo Lehkonen ihastui Suomen ja Ruotsin välieränäytöksestä: ”Jokin taikajuoma pitää pronssipeliin vielä löytyä”",
+          "title": "Näin USA:n hyökkäys voi kohta näkyä Suomen bensa-asemilla",
           "snippet": "",
-          "url": "https://yle.fi/a/74-20202570",
-          "source": "Yle"
+          "url": "https://www.iltalehti.fi/talous/a/00746f16-9ca6-47bf-bcf2-a7d1981ae865",
+          "source": "Iltalehti"
         },
         {
-          "title": "Jääkiekko | Nuorten Leijonien kapteenin käytöstä hehkutetaan USA:ssa – ”Isä on opettanut tietyt periaatteet”",
+          "title": "Tuoreimmat tiedot | Trump toisti uhkauksensa Grönlannille ja sanoo haluavansa Venezuelan öljyn",
           "snippet": "",
-          "url": "https://www.hs.fi/urheilu/art-2000011728962.html",
+          "url": "https://www.hs.fi/maailma/art-2000011727840.html",
           "source": "HS.fi"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "filly",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 4 Jan 2026 16:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUURehHaeKehUXhe_S_OGFQarweEMbT0Cf8XlGaQY31JXbBap5VdswsUj4zzE",
+      "pictureSource": "Racing News NZ",
+      "relatedSearch": [
+        {
+          "title": "Rutten has sweet tooth for KM 2YO",
+          "snippet": "",
+          "url": "https://www.racingnews.co.nz/rutten-has-sweet-tooth-for-km-2yo/",
+          "source": "Racing News NZ"
+        },
+        {
+          "title": "Little Miss Curlin, Mor Force Take Divisions Of Louisiana Futurity",
+          "snippet": "",
+          "url": "https://sports.yahoo.com/articles/little-miss-curlin-mor-force-231044164.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Fair Grounds Horse Racing",
+          "snippet": "",
+          "url": "https://www.hjnews.com/sports/nation/fair-grounds-horse-racing/image_81f20987-f4ae-563a-b865-6f663f05fc02.html",
+          "source": "The Herald Journal"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -217,9 +245,9 @@
           "source": "SVT Nyheter"
         },
         {
-          "title": "Inför: Kanada mot Tjeckien i semifinalen av junior-VM 2026",
+          "title": "Kanada mot Tjeckien i JVM 2026 - Odds, H2H & livescore",
           "snippet": "",
-          "url": "https://vmhockey.se/infor-kanada-mot-tjeckien-i-semifinalen-av-junior-vm-2026/",
+          "url": "https://vmhockey.se/match/jvm-2026/2026-01-05-kanada-tjeckien/",
           "source": "VMhockey"
         }
       ],
@@ -229,54 +257,26 @@
       "title": "flashscore",
       "trafficCount": "100+",
       "pubDate": "Sun, 4 Jan 2026 16:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZsypsbBdmoLsUuoWIjevOCFsZa8u5UF9VNquT9oUF0QbgTxXy0cCKn1UY8hU",
-      "pictureSource": "ESPN",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZwE12Oa5HrdHIUZ7nQqTQ39uvU5Ubx-5wZNG1pNNydREYCcKElxR-oWwb5-w",
+      "pictureSource": "Flashscore.com",
       "relatedSearch": [
         {
-          "title": "Falcons fire Morris, Fontenot despite hot finish",
+          "title": "A-League Team of the Week: HDM produces a world-beating performance",
           "snippet": "",
-          "url": "https://www.espn.com/nfl/story/_/id/47507975/source-falcons-move-raheem-morris-coach",
-          "source": "ESPN"
+          "url": "https://www.flashscore.com/news/soccer-a-league-a-league-team-of-the-week-hdm-produces-a-world-beating-performance/jDPEgQCE/",
+          "source": "Flashscore.com"
         },
         {
-          "title": "What Went Wrong With the Falcons and Raheem Morris, and Six Candidates to Replace Him",
+          "title": "He said what? EVERY word from your Isuzu UTE A-League coach after Round 11",
           "snippet": "",
-          "url": "https://www.si.com/nfl/what-went-wrong-falcons-raheem-morris-six-coaching-candidates",
-          "source": "Sports Illustrated"
+          "url": "https://aleagues.com.au/news/a-league-round-11-reaction-press-conference-highlights-news/",
+          "source": "A-Leagues"
         },
         {
-          "title": "Atlanta Falcons part ways with Raheem Morris and Terry Fontenot",
+          "title": "What they said: A-League managers reflect on Round 11",
           "snippet": "",
-          "url": "https://www.atlantafalcons.com/news/atlanta-falcons-part-ways-with-raheem-morris-terry-fontenot",
-          "source": "Atlanta Falcons"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "aftonbladet sport",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 4 Jan 2026 16:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPQj77yMOkn5Ajmbp3EL4sj8C8D50xoFNvVfi7qnwx4v62LhkT5qw9Wkz8ofE",
-      "pictureSource": "Aftonbladet",
-      "relatedSearch": [
-        {
-          "title": "Martas kärlekslycka – har gift sig",
-          "snippet": "",
-          "url": "https://www.aftonbladet.se/sportbladet/a/BxR90e/martas-karlekslycka-har-gift-sig",
-          "source": "Aftonbladet"
-        },
-        {
-          "title": "Fotbollsstjärnan Marta har gift sig",
-          "snippet": "",
-          "url": "https://www.qx.se/livsstil/livet/15375245/fotbollsstjarnan-marta-har-gift-sig/",
-          "source": "QX.se"
-        },
-        {
-          "title": "Spelet bakom sparkningen av Mikkjal Thomassen",
-          "snippet": "",
-          "url": "https://www.aftonbladet.se/sportbladet/fotboll/a/GxGmb6/spelet-bakom-darfor-sparkade-aik-mikkjal-thomassen-da-tappades-gruppen",
-          "source": "Aftonbladet"
+          "url": "https://www.flashscore.com/news/soccer-a-league-what-they-said-a-league-managers-reflect-on-round-11/QkE5SmEF/",
+          "source": "Flashscore.com"
         }
       ],
       "link": "https://imtaqin.id/"

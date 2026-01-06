@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2026-01-06 07:25:42",
+  "lastUpdate": "2026-01-06 07:45:03",
   "data": [
-    {
-      "title": "vejret",
-      "trafficCount": "5000+",
-      "pubDate": "Mon, 5 Jan 2026 21:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSusXWyh14xZPAmkH0zYWUSUt8XoirQ_H2Jfbm8mIW-GdBkLUNuFf8Rruw6oLU",
-      "pictureSource": "vejr.tv2.dk",
-      "relatedSearch": [
-        {
-          "title": "En uge med usædvanligt vintervejr",
-          "snippet": "",
-          "url": "https://vejr.tv2.dk/2026-01-05-en-uge-med-usaedvanligt-vintervejr",
-          "source": "vejr.tv2.dk"
-        },
-        {
-          "title": "DMI udsender advarsel: Snestorm kan ramme inden for 48 timer",
-          "snippet": "",
-          "url": "https://politiken.dk/danmark/art10680522/Snestorm-kan-ramme-inden-for-48-timer",
-          "source": "Politiken"
-        },
-        {
-          "title": "Vintervejret fortsætter - snebyger de næste dage",
-          "snippet": "",
-          "url": "https://www.dr.dk/nyheder/vejret/vintervejret-fortsaetter-snebyger-de-naeste-dage",
-          "source": "DR.dk"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "grønland",
       "trafficCount": "500+",
@@ -53,6 +25,34 @@
           "snippet": "",
           "url": "https://www.cnn.com/2026/01/05/world/analysis-trump-venezuela-greenland-nato-intl-latam",
           "source": "CNN"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tv2",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 5 Jan 2026 21:10:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2orcGYnszZyCLwP-kpbdEglQ0C5wQ7CN0-axSbOJ1PNw9TNdw3uGce5HSj30",
+      "pictureSource": "TV2 Bornholm",
+      "relatedSearch": [
+        {
+          "title": "Sne og isglatte veje: - Kør forsigtigt",
+          "snippet": "",
+          "url": "https://www.tv2bornholm.dk/bornholm/kor-forsigtigt-2ed5a",
+          "source": "TV2 Bornholm"
+        },
+        {
+          "title": "Udsender varsel",
+          "snippet": "",
+          "url": "https://tidende.dk/trafik/udsender-varsel/162612",
+          "source": "Tidende.dk"
+        },
+        {
+          "title": "Glat føre gav flere uheld på Bornholm",
+          "snippet": "",
+          "url": "https://bornholm.nu/nyheder/glat-foere-gav-flere-uheld-paa-bornholm/134374",
+          "source": "Bornholm.nu"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,15 +117,9 @@
       "title": "yr",
       "trafficCount": "1000+",
       "pubDate": "Mon, 5 Jan 2026 20:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Swl6N2YEZv3myFc6ooa_xp3z8m3SpORrsMtCbisVzfMH8RJUDP6GuA-Llwk",
-      "pictureSource": "Politico",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-c6eI_HE6Pij_SLKSGjnn_jpqPTz1vDuuwrEp--LV_ZmcFtDPI5lbEKSQ4pE",
+      "pictureSource": "CNN",
       "relatedSearch": [
-        {
-          "title": "92-year-old judge handling Maduro case ‘doesn’t give a s--t what anyone thinks about him’",
-          "snippet": "",
-          "url": "https://www.politico.com/news/2026/01/05/venezuela-maduro-judge-hellerstein-00710894",
-          "source": "Politico"
-        },
         {
           "title": "Live updates: Defiant Maduro pleads not guilty in US court as Trump threatens other countries",
           "snippet": "",
@@ -137,6 +131,12 @@
           "snippet": "",
           "url": "https://www.yahoo.com/news/live/venezuelan-president-maduro-calls-himself-a-prisoner-of-war-after-pleading-not-guilty-in-court-full-coverage-142804433.html",
           "source": "Yahoo"
+        },
+        {
+          "title": "Who is Alvin Hellerstein? 92-year-old hush money judge tapped for Maduro case",
+          "snippet": "",
+          "url": "https://www.nbcnewyork.com/new-york-city/maduro-court-appearance-judge-alvin-hellerstein/6439171/",
+          "source": "NBC New York"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -152,7 +152,7 @@
     },
     {
       "title": "dmi",
-      "trafficCount": "5000+",
+      "trafficCount": "10000+",
       "pubDate": "Mon, 5 Jan 2026 20:30:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSusXWyh14xZPAmkH0zYWUSUt8XoirQ_H2Jfbm8mIW-GdBkLUNuFf8Rruw6oLU",
       "pictureSource": "vejr.tv2.dk",
@@ -182,25 +182,25 @@
       "title": "bt nyheder",
       "trafficCount": "100+",
       "pubDate": "Mon, 5 Jan 2026 20:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQig8ptQmSp6szzG1kl7hQLvPDGw2_SvJ9tuIUtauxod8-SKQr_Ec1HVGyIdUE",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCtOUEFsmd5NR0GAA86lpR2LIb7J15cHOnsb2hcKKAYZ5na5QtvkUpsUyUvwg",
       "pictureSource": "B.T.",
       "relatedSearch": [
         {
-          "title": "Prisamok: Her er de ti fødevarer der er steget mest i Mette F.s tid | Dagligvarer | Penge",
+          "title": "Kvinde er sigtet efter fund af over 50 hunde i hendes hjem | Krimi | Nyheder",
           "snippet": "",
-          "url": "https://www.bt.dk/dagligvarer/prisamok-her-er-de-ti-foedevarer-der-er-steget-mest-i-mette-fs-tid?gaa_at=eafs&gaa_n=AWEtsqexVLxnuLwD0ks3t2_HdI7wfJnz_gzCAXqBMgSbzAcx-8LxVGIOrITn&gaa_ts=695cbc7a&gaa_sig=aM2OtY5tBUy4r8rW9y3h8K4-YXQOZprjQXCkuKJ6e0d8vPk7mlQj3Dvl1tpDE0Rko946md_tWLLw3-Ssy7FUvg%3D%3D",
-          "source": "B.T."
-        },
-        {
-          "title": "Globalt fænomen fra Sydkorea vender i marts tilbage med nyt album | Udland | Nyheder",
-          "snippet": "",
-          "url": "https://www.bt.dk/udland/globalt-faenomen-fra-sydkorea-vender-i-marts-tilbage-med-nyt-album?gaa_at=eafs&gaa_n=AWEtsqdkgN4TXWHp-TEVMNFa-p0TPBXeidV-SXRwBWEfuN5H7pg2ZdIWkjvn&gaa_ts=695cbc7a&gaa_sig=yXSEDPBMHBUcXJuFfoSWf4CkOIIC4tQR0lNIfY7J6tIQv-j2BnpD6TnFWj_N2VWzoEnvO2K1Lkd7Kp2CwvqH-g%3D%3D",
+          "url": "https://www.bt.dk/krimi/kvinde-er-sigtet-efter-fund-af-over-50-hunde-i-hendes-hjem?gaa_at=eafs&gaa_n=AWEtsqf_nG64gmp0hwlogvjecul9SapjNfGzEsmgu0lZ1-gXhmHskn8kt5An&gaa_ts=695cc103&gaa_sig=1wwRRFQyQxKi9o1SX0_QtBHZmVgM2HZr9IdSfP0p-YO9B7pA9wqy40_tOxsUuU-dsTC6bFQ7KKKUwTt8cRgP6A%3D%3D",
           "source": "B.T."
         },
         {
           "title": "Politi og redning til stede: Brand i flere bygninger - folk evakueret | Krimi | Nyheder",
           "snippet": "",
-          "url": "https://www.bt.dk/krimi/politi-og-redning-til-stede-brand-i-flere-bygninger-folk-evakueret?gaa_at=eafs&gaa_n=AWEtsqffGQnqY_MIJNU-TM3dE0wYvlvpyQEd-K3quvN1lDzg49W-qOJOsAv-&gaa_ts=695cbc7a&gaa_sig=GbNJRloVqVA9J5MHi6T8TbFTGlAZVNIDkBLarjbAFRygSzTtY6_k_yzr1-eotwKklSImnvSKbw56cTAeH_dpzA%3D%3D",
+          "url": "https://www.bt.dk/krimi/politi-og-redning-til-stede-brand-i-flere-bygninger-folk-evakueret?gaa_at=eafs&gaa_n=AWEtsqdiz0heMAd5GYZgOooAfcHmU4Ls-HFtT6G_jlolQgL8I5T1lcctafdD&gaa_ts=695cc103&gaa_sig=3195VtUPLnvS-2wDG1AjmAtJuCKusc_a5nRlqp8iBYJC6dpJu1hD1ys2dtX4nSrA-tg6QWliy_nRe7vKSNjGMw%3D%3D",
+          "source": "B.T."
+        },
+        {
+          "title": "Godt nytår: Her er alt, du skal vide om din økonomi i 2026 | Privatøkonomi | Penge",
+          "snippet": "",
+          "url": "https://www.bt.dk/privatoekonomi/godt-nytaar-her-er-alt-du-skal-vide-om-din-oekonomi-i-2026?gaa_at=eafs&gaa_n=AWEtsqd9q_b2xsJJhijpLjs9e2KcaDBwwtryMAHMYIC-myriPg1XHsOUmmxS&gaa_ts=695cc103&gaa_sig=J17W0vRSJNRUekemoM4Kc0TCpXsRW8dQ-FpvCkPUm8hKJ5WHvfS1vvvAPCwjC3VEgR4OqGQZgs70CFef-LKgqA%3D%3D",
           "source": "B.T."
         }
       ],
@@ -238,14 +238,14 @@
       "title": "severe snow ice warning",
       "trafficCount": "500+",
       "pubDate": "Mon, 5 Jan 2026 19:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIeZqogwPiCq8iLv9TbUqlCO6yq6DE2Ycg65JnzfBtz0Iacof4FhVO4Xjp2uE",
-      "pictureSource": "The Guardian",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnOrBlV0pXhrOKoCLNYXqRtIsVVVPC3v142dfufVhbpBxQmA6x933OcXL7xEs",
+      "pictureSource": "Sky News",
       "relatedSearch": [
         {
-          "title": "Cold snap grips UK and Europe – in pictures",
+          "title": "UK weather latest: New weather warnings issued as arctic blitz brings more snow and ice to UK",
           "snippet": "",
-          "url": "https://www.theguardian.com/world/gallery/2026/jan/05/cold-snap-grips-uk-and-europe-in-pictures",
-          "source": "The Guardian"
+          "url": "https://news.sky.com/story/uk-weather-latest-new-weather-warnings-issued-as-arctic-blitz-brings-more-snow-and-ice-to-uk-13490580",
+          "source": "Sky News"
         },
         {
           "title": "Passengers describe 'absolute chaos' as cold snap delays flights and cancels trains in UK",
@@ -254,10 +254,10 @@
           "source": "BBC"
         },
         {
-          "title": "UK weather latest: New weather warning issued for UK as snow and ice forecast",
+          "title": "Cold snap grips UK and Europe – in pictures",
           "snippet": "",
-          "url": "https://news.sky.com/story/uk-weather-latest-30cm-of-snow-could-fall-as-yellow-and-amber-warnings-in-place-for-most-of-uk-13490580",
-          "source": "Sky News"
+          "url": "https://www.theguardian.com/world/gallery/2026/jan/05/cold-snap-grips-uk-and-europe-in-pictures",
+          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"

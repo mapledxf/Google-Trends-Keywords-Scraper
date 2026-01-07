@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2026-01-07 22:37:19",
+  "lastUpdate": "2026-01-07 22:51:07",
   "data": [
-    {
-      "title": "premier league",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 7 Jan 2026 13:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRdhYHLjx7oKzV05bqWRJvrI8D9fZDe7lX1-EbC4BG4i2b79MemKfVJLhZ0dA",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Premier League LIVE: Team news and score updates from across the Premier League",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/c4g40gy1y57t",
-          "source": "BBC"
-        },
-        {
-          "title": "Haaland hits 150 City goals!",
-          "snippet": "",
-          "url": "https://www.mancity.com/news/mens/erling-haaland-150-city-goals-63902182",
-          "source": "Manchester City FC"
-        },
-        {
-          "title": "Haaland scores landmark goal for City; Burnley lead United; Everton ahead",
-          "snippet": "",
-          "url": "https://onefootball.com/pt-br/noticias/haaland-scores-landmark-goal-for-city-burnley-lead-united-everton-ahead-42194158",
-          "source": "OneFootball"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "burnley vs man united",
       "trafficCount": "100+",
@@ -53,6 +25,34 @@
           "snippet": "",
           "url": "https://www.manutd.com/en/news/detail/team-news-burnley-v-man-utd-7-january-2026",
           "source": "Official Manchester United Website"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "manchester united",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 7 Jan 2026 12:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQO1hLkcrfgkGEiQrHr4mE0PbXcrdcXGlW2nfp8EpdlsRjXmXg9tfUBGDrmYAM",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Premier League LIVE: Build-up, team news and score updates from across the Premier League",
+          "snippet": "",
+          "url": "https://www.bbc.com/sport/football/live/c4g40gy1y57t",
+          "source": "BBC"
+        },
+        {
+          "title": "Premier League LIVE: Team news and score updates from across the Premier League",
+          "snippet": "",
+          "url": "https://www.bbc.co.uk/sport/football/live/c4g40gy1y57t",
+          "source": "BBC"
+        },
+        {
+          "title": "Burnley v Manchester United: Premier League – live",
+          "snippet": "",
+          "url": "https://www.theguardian.com/football/live/2026/jan/07/burnley-v-manchester-united-premier-league-live",
+          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,15 +117,9 @@
       "title": "benfica–braga",
       "trafficCount": "200+",
       "pubDate": "Wed, 7 Jan 2026 12:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkbPXkbW01XQenJuN5fo1IMFwjHiLayos8a-baBE2UkhzuRat65haUnX8hEBc",
-      "pictureSource": "www.sportingnews.com",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGQf5VICp5avKIzMifN8KSq5lhdRLknpebDZYnJ6W0cYCIZ0e7zXpnTvClnsk",
+      "pictureSource": "A Bola",
       "relatedSearch": [
-        {
-          "title": "Benfica x Braga AO VIVO: link para assistir online em direto (07/12)",
-          "snippet": "",
-          "url": "https://www.sportingnews.com/br/futebol/noticias/benfica-braga-ao-vivo-link-assistir-ta%C3%A7a-liga-07-01/2d699179431d19b0f1e98f82",
-          "source": "www.sportingnews.com"
-        },
         {
           "title": "Barcelona goleia e está na final",
           "snippet": "",
@@ -133,10 +127,16 @@
           "source": "A Bola"
         },
         {
-          "title": "AO VIVO: Rodrigo Zalazar faz o 0-2 aos 33 minutos",
+          "title": "Zalazar e o lance do segundo golo: «O amarelo condicionou o Otamendi e aproveitei bem»",
           "snippet": "",
-          "url": "https://www.flashscore.pt/noticias/futebol-taca-da-liga-ao-vivo-rodrigo-zalazar-faz-o-0-2-aos-33-minutos/lKBXRycT/",
-          "source": "Flashscore.pt"
+          "url": "https://sapo.pt/artigo/zalazar-e-o-lance-do-segundo-golo-o-amarelo-condicionou-o-otamendi-e-aproveitei-bem-695edfa4bd01a240c1bf7534",
+          "source": "SAPO"
+        },
+        {
+          "title": "Carlos Vicens: «O melhor Sp. Braga está ainda por vir»",
+          "snippet": "",
+          "url": "https://cnnportugal.iol.pt/sp-braga/taca-da-liga/carlos-vicens-o-melhor-sp-braga-esta-ainda-por-vir",
+          "source": "CNN Portugal"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,71 +173,37 @@
       "title": "serie a",
       "trafficCount": "200+",
       "pubDate": "Wed, 7 Jan 2026 11:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSs9TQcqKbmiDBMYrGURsjdM9OhI-K0oL4OSlNsKeudokC3RZWkiCMskWwKR38",
-      "pictureSource": "OneFootball",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyV8nLpkC1YLpQ16MP2-XRYQXlX9qkcoP-qmybZwcSb7xdUO8QPt-I85KZ7w0",
+      "pictureSource": "ANSA",
       "relatedSearch": [
         {
-          "title": "Lazio-Fiorentina, Pellegrini: “Non dobbiamo cercare alibi ma solo i tre punti”",
+          "title": "Serie A, in campo Parma-Inter 0-0 LIVE",
           "snippet": "",
-          "url": "https://onefootball.com/es/noticias/lazio-fiorentina-pellegrini-non-dobbiamo-cercare-alibi-ma-solo-i-tre-punti-42194216",
-          "source": "OneFootball"
+          "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/01/07/serie-a-in-campo-parma-inter-0-0-live_af1cf3c2-6af3-4469-bdee-374183f10306.html",
+          "source": "ANSA"
         },
         {
-          "title": "Lazio-Fiorentina: dove vederla (tv e streaming), formazioni ufficiali, orario, arbitro e classifica Serie A",
+          "title": "PAGELLE: Oristanio fiacco, Pellegrino soffre la solitudine",
           "snippet": "",
-          "url": "https://www.ilmessaggero.it/sport/schede/lazio_fiorentina_dove_vederla_tv_streaming_orario_formazioni_ufficiali_19a_giornata_serie_a-dove_vedere_la_gara_in_tv_e_streaming-3-9283402.html",
-          "source": "Il Messaggero"
+          "url": "https://sportparma.com/parma-calcio/pagelle-oristanio-fiacco-pellegrino-soffre-la-solitudine.html",
+          "source": "SportParma"
         },
         {
-          "title": "Lazio-Fiorentina - Rigore su Gudmundsson, Marelli duro: \"Questa è moviola e pure fatta male. Gila-Pongracic? Inspiegabile\"",
+          "title": "Chivu: \"Siamo stati seri e maturi. Belle le statistiche, ma conta come si va in campo\"",
           "snippet": "",
-          "url": "https://www.calciomercato.com/liste/moviola-lazio-fiorentina-gila-chiede-rigore-il-var-ne-concede-uno-su-gudmundsson-proteste-biancocelesti/blte2d1ec3103021695",
-          "source": "Calciomercato"
+          "url": "https://www.gazzetta.it/Calcio/Serie-A/Inter/07-01-2026/chivu-noi-seri-e-maturi-e-il-meteo-era-quello-che-era.shtml",
+          "source": "La Gazzetta dello Sport"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "burnley–man utd",
-      "trafficCount": "5000+",
+      "trafficCount": "10000+",
       "pubDate": "Wed, 7 Jan 2026 11:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQO1hLkcrfgkGEiQrHr4mE0PbXcrdcXGlW2nfp8EpdlsRjXmXg9tfUBGDrmYAM",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_kalWBujToDCOtnwLt2jYoL0mdD-IdfiWVUmp9ZoTig05hq_jMFwMH5f7qDo",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
-        {
-          "title": "Premier League LIVE: Build-up, team news and score updates from across the Premier League",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/c4g40gy1y57t",
-          "source": "BBC"
-        },
-        {
-          "title": "Premier League LIVE: Team news and score updates from across the Premier League",
-          "snippet": "",
-          "url": "https://www.bbc.co.uk/sport/football/live/c4g40gy1y57t",
-          "source": "BBC"
-        },
-        {
-          "title": "Burnley v Manchester United: Premier League – live",
-          "snippet": "",
-          "url": "https://www.theguardian.com/football/live/2026/jan/07/burnley-v-manchester-united-premier-league-live",
-          "source": "The Guardian"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "newcastle–leeds",
-      "trafficCount": "2000+",
-      "pubDate": "Wed, 7 Jan 2026 11:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUKlQ4sJ8PEQ-myDz6lt3autUzrzp8qfMG_GthCPoeujgkayBcupqThWjGOMc",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Newcastle United vs Leeds United: Premier League preview, team news, stats & head-to-head",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/c2lg91jp9p8t",
-          "source": "BBC"
-        },
         {
           "title": "Newcastle v Leeds after Chelsea and Spurs lose: Premier League – live",
           "snippet": "",
@@ -245,10 +211,16 @@
           "source": "The Guardian"
         },
         {
-          "title": "Match Report. Newcastle United 2 Leeds United 2",
+          "title": "Premier League LIVE: Team news and score updates from across the Premier League",
           "snippet": "",
-          "url": "https://www.newcastleunited.com/en/news/leeds-united-h-report-25-26-fourth-goal",
-          "source": "Newcastle United"
+          "url": "https://www.bbc.com/sport/football/live/c4g40gy1y57t?page=3",
+          "source": "BBC"
+        },
+        {
+          "title": "Kevin Keegan paid ultimate tribute as Newcastle United fans shake St James' Park foundations",
+          "snippet": "",
+          "url": "https://www.chroniclelive.co.uk/sport/football/match-reports/kevin-keegan-paid-ultimate-tribute-33185410",
+          "source": "Chronicle Live"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,13 +229,19 @@
       "title": "pokoli rokonok",
       "trafficCount": "200+",
       "pubDate": "Wed, 7 Jan 2026 11:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIO6hFR50rqosMFARJJuqBaHZtSQdLY4bC7tmzZWeSmV5k6BRGn3SRHGRK2nc",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSG-EGs9EkH2B9e1Z2XuZFwK3tHghX3xtdmf1HXxmQCsvjs2M4fuZzmahNUBl0",
       "pictureSource": "RTL.hu",
       "relatedSearch": [
         {
-          "title": "Rajongók generációi szeretik Beleznay Endre Turi Gézáját",
+          "title": "Mentőautó, könnyek, és a Pokoli rokonok – Dobó Kata őszintén vallott a tavalyi évéről",
           "snippet": "",
-          "url": "https://rtl.hu/reggeli/2026/01/07/beleznay-endre-pokoli-rokonok-turi-geza",
+          "url": "https://rtl.hu/bulvar/2026/01/05/dobo-kata-pokoli-rokonok-mentoauto",
+          "source": "RTL.hu"
+        },
+        {
+          "title": "„Segítségre lenne szüksége” – Dobó Kata őszintén mesél a Pokoli rokonokról",
+          "snippet": "",
+          "url": "https://rtl.hu/pokolirokonok/2025/12/30/dobo-kata-oszinten-mesel-a-pokoli-rokonokrol",
           "source": "RTL.hu"
         },
         {
@@ -271,12 +249,34 @@
           "snippet": "",
           "url": "https://www.sorozatjunkie.hu/2026/01/04/magyar-nezettseg-2025-december-22-28/",
           "source": "Sorozatjunkie"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "parma–inter",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 7 Jan 2026 11:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIH-rfGev-VyCjDWEHN6QdZsctZL9QYT-LkLf-Fs3WhZeZQg3-Y6eowavvduc",
+      "pictureSource": "ANSA",
+      "relatedSearch": [
+        {
+          "title": "Juventus, Roma and Como seal convincing wins",
+          "snippet": "",
+          "url": "https://www.ansa.it/english/newswire/english_service/2026/01/07/juventus-roma-and-como-seal-convincing-wins_de9851aa-7608-43c1-9fa2-ae47a485518b.html",
+          "source": "ANSA"
         },
         {
-          "title": "Ne maradj le a Pokoli rokonokról! Január elején új részekkel nézheted az RTL-en!",
+          "title": "Serie A Week 19 official line-ups: Parma-Inter, Lazio-Fiorentina and Torino-Udinese",
           "snippet": "",
-          "url": "https://rtl.hu/pokolirokonok/2026/01/05/pokoli-rokonok-masodik-evad-hol-nezheted",
-          "source": "RTL.hu"
+          "url": "https://onefootball.com/de/news/serie-a-week-19-official-line-ups-parma-inter-lazio-fiorentina-and-torino-udinese-42194121",
+          "source": "OneFootball"
+        },
+        {
+          "title": "Serie A kicks off on Epiphany, with the 19th midweek matchday: probable lineups, times, and where to watch the games.",
+          "snippet": "",
+          "url": "https://sport.quotidiano.net/en/calcio/seriea/serie-a-19-giornata-infrasettimanale-probabili-formazioni-orari-e-dove-vedere-le-gare-8aa747ca",
+          "source": "Quotidiano Sportivo"
         }
       ],
       "link": "https://imtaqin.id/"

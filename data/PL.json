@@ -1,18 +1,46 @@
 {
-  "lastUpdate": "2026-01-07 23:22:59",
+  "lastUpdate": "2026-01-07 23:38:00",
   "data": [
+    {
+      "title": "zmiana pogody",
+      "trafficCount": "2000+",
+      "pubDate": "Wed, 7 Jan 2026 15:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGfRdmK3hI4a8o1xP1TFF4L2GmiJfQwgTqYrvlTjJBXTrzoC9rGOZ-Zm-MoJs",
+      "pictureSource": "Onet",
+      "relatedSearch": [
+        {
+          "title": "Ogromne zawirowania w nowych prognozach. Ciepła pogoda w potrzasku [MAPY]",
+          "snippet": "",
+          "url": "https://www.onet.pl/informacje/onetwiadomosci/wiemy-co-z-powrotem-wyzszych-temperatur-ogromne-zawirowania-w-nowych-prognozach/tczpm7e,79cfc278",
+          "source": "Onet"
+        },
+        {
+          "title": "Tak zimno dawno nie było, a największe mrozy przed nami. Jest alert, ile pokażą termometry?",
+          "snippet": "",
+          "url": "https://gazetawroclawska.pl/tak-zimno-dawno-nie-bylo-a-najwieksze-mrozy-przed-nami-jest-alert-ile-pokaza-termometry/ar/c1p2-28324177",
+          "source": "Gazeta Wrocławska"
+        },
+        {
+          "title": "Atak zimy w Polsce. Siarczysty mróz. Mapy pokazują, gdzie nocami będzie najzimniej",
+          "snippet": "",
+          "url": "https://tvn24.pl/tvnmeteo/prognoza/atak-zimy-w-polsce-mroz-w-kolejnych-dniach-mapy-pokazuja-gdzie-bedzie-najzimniej-st8834537",
+          "source": "TVN24"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "minneapolis",
       "trafficCount": "100+",
       "pubDate": "Wed, 7 Jan 2026 15:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKhnsr2lE2kMOUDcWzGhf_pvsnrCWkMMJzE8I22NBkaR1q_T34Z0GYCNS4c3M",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQy7bmpXkagy-PeeR3y4dZX1TnS33_PjCKVuIm431EPmWdNSl5a7J2bMKg_860",
+      "pictureSource": "Star Tribune",
       "relatedSearch": [
         {
-          "title": "US immigration officer fatally shoots woman in Minneapolis, officials say",
+          "title": "‘She was an amazing human being’: Mother identifies woman shot, killed by ICE agent",
           "snippet": "",
-          "url": "https://www.bbc.com/news/live/c7510l1135wt",
-          "source": "BBC"
+          "url": "https://www.startribune.com/she-was-an-amazing-human-being-mother-identifies-woman-shot-killed-by-ice-agent/601559922",
+          "source": "Star Tribune"
         },
         {
           "title": "House oversight committee holds hearing on fraud and misuse of federal funds in Minnesota",
@@ -21,10 +49,10 @@
           "source": "CNN"
         },
         {
-          "title": "Live updates: Minneapolis confirms name of woman shot by ICE agent",
+          "title": "US immigration officer fatally shoots woman in Minneapolis, officials say",
           "snippet": "",
-          "url": "https://www.mprnews.org/story/2026/01/07/shooting-south-minneapolis-ice-agents-federal-operation",
-          "source": "MPR News"
+          "url": "https://www.bbc.com/news/live/c7510l1135wt",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,26 +89,54 @@
       "title": "chiny",
       "trafficCount": "200+",
       "pubDate": "Wed, 7 Jan 2026 14:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThKLhmE5AKFLruh0h7pTalWmyc9kO_NUv-rP3z3oyHrj20eKo5hVA69tjEDwA",
-      "pictureSource": "Onet Wiadomości",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSgs2kX27aFsl-CYx5_XIAModknNNEBOWKzUm3B_Bh4GXJVIG_oBa32KxUFwtk",
+      "pictureSource": "TVP Info",
       "relatedSearch": [
         {
-          "title": "Donald Trump zapomniał o jednym. Nowa prezydentka Wenezueli ma asa w rękawie",
+          "title": "Tu boją się powtórki z Maduro. Wojsko ćwiczy scenariusz uprowadzenia władz",
           "snippet": "",
-          "url": "https://wiadomosci.onet.pl/swiat/donald-trump-zapomnial-o-jednym-nowa-prezydentka-wenezueli-ma-asa-w-rekawie/rcd3ygf",
-          "source": "Onet Wiadomości"
+          "url": "https://www.tvp.info/90908073/tajwan-wladze-armia-jest-gotowa-do-ochrony-prezydenta-przed-atakiem-dekapitacyjnym",
+          "source": "TVP Info"
         },
         {
-          "title": "Rynek ropy reaguje po słowach Donalda Trumpa",
+          "title": "Chiny nakładają sankcje. Te osoby będą \"ścigane do końca życia\"",
           "snippet": "",
-          "url": "https://businessinsider.com.pl/gospodarka/zaskakujace-slowa-trumpa-tak-reaguje-rynek-ropy/tm47w7s",
-          "source": "Business Insider Polska"
+          "url": "https://www.money.pl/gospodarka/chiny-nakladaja-sankcje-te-osoby-beda-scigane-do-konca-zycia-7240771191818752a.html",
+          "source": "Money.pl"
         },
         {
-          "title": "Po porwaniu Maduro chińskim bankom grożą duże straty",
+          "title": "Tajwan obawia się powtórki z Wenezueli. Wojsko ćwiczy scenariusze obronne",
           "snippet": "",
-          "url": "https://wyborcza.pl/7,75399,32510204,po-porwaniu-maduro-chiny-martwia-sie-o-swoj-wenezuelski-dlug.html",
-          "source": "Wyborcza.pl"
+          "url": "https://wiadomosci.wp.pl/tajwan-obawia-sie-powtorki-z-wenezueli-wojsko-cwiczy-scenariusze-obronne-7240755273202656a",
+          "source": "WP Wiadomości"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "burnley vs man united",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 7 Jan 2026 14:10:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQmHP1mP9DFf5ydYMnGb4-CbJyGrlPKBIC5j6aVFKNCAkht3ZK6WebQgWIoso",
+      "pictureSource": "The Guardian",
+      "relatedSearch": [
+        {
+          "title": "Darren Fletcher’s Manchester United held by Burnley despite Sesko double",
+          "snippet": "",
+          "url": "https://www.theguardian.com/football/2026/jan/07/burnley-manchester-united-premier-league-match-report",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Burnley vs Man Utd LIVE! Premier League match updates, news, score, stream and highlights",
+          "snippet": "",
+          "url": "https://www.skysports.com/football/live-blog/11095/13491088/burnley-vs-man-utd-live-premier-league-match-updates-news-score-stream-and-highlights",
+          "source": "Sky Sports"
+        },
+        {
+          "title": "Team news Burnley v Man Utd 7 January 2026",
+          "snippet": "",
+          "url": "https://www.manutd.com/en/news/detail/team-news-burnley-v-man-utd-7-january-2026",
+          "source": "Official Manchester United Website"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,10 +155,10 @@
           "source": "The Hollywood Reporter"
         },
         {
-          "title": "Teagan Croft & Milo Manheim Land Lead Roles In Disney’s Live-Action ‘Tangled’ Movie",
+          "title": "Tangled Live-action Movie Finds Its Rapunzel and Flynn Rider",
           "snippet": "",
-          "url": "https://deadline.com/2026/01/new-tangled-movie-casts-teagan-croft-milo-manheim-1236675390/",
-          "source": "Deadline"
+          "url": "https://www.ign.com/articles/tangled-live-action-movie-finds-its-rapunzel-and-flynn-rider",
+          "source": "IGN"
         },
         {
           "title": "Disney finds its Rapunzel and Flynn Rider in the upcoming live-action remake of 'Tangled'",
@@ -117,14 +173,14 @@
       "title": "ice",
       "trafficCount": "200+",
       "pubDate": "Wed, 7 Jan 2026 13:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaWPfS0MRrSRSJto0_81tEgx9fbU0ze0INl616WArt4Gek0OgmAHt5FEbXiO0",
-      "pictureSource": "WP Wiadomości",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSL5kiK-1tEaGxLf_guVNNB4pBzU79GWAZ4AaKQdZ1dL7cqb5W3MzHdH7y3G1E",
+      "pictureSource": "Gazeta",
       "relatedSearch": [
         {
-          "title": "Agent ICE zastrzelił kobietę. Chaos na ulicach Minneapolis",
+          "title": "Trump zabrał głos ws. tragedii w Minneapolis. \"Ta kobieta była niezdyscyplinowana\"",
           "snippet": "",
-          "url": "https://wiadomosci.wp.pl/agent-ice-zastrzelil-kobiete-chaos-na-ulicach-minneapolis-7240954229885920a",
-          "source": "WP Wiadomości"
+          "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32512721,trump-zabral-glos-ws-tragedii-w-minneapolis-ta-kobieta-byla.html",
+          "source": "Gazeta"
         },
         {
           "title": "\"Stary, popełniłeś morderstwo! Dlaczego?\". 37-latka zginęła podczas akcji deportacyjnej",
@@ -133,10 +189,10 @@
           "source": "Wyborcza.pl"
         },
         {
-          "title": "Trump reaguje na strzelaninę w Minneapolis. \"Kobieta była zawodową agitatorką\"",
+          "title": "Agent ICE zastrzelił kobietę. Chaos na ulicach Minneapolis",
           "snippet": "",
-          "url": "https://wiadomosci.radiozet.pl/swiat/trump-reaguje-na-strzelanine-w-minneapolis-kobieta-byla-zawodowa-agitatorka",
-          "source": "Radio Zet"
+          "url": "https://wiadomosci.wp.pl/agent-ice-zastrzelil-kobiete-chaos-na-ulicach-minneapolis-7240954229885920a",
+          "source": "WP Wiadomości"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +211,16 @@
           "source": "Deadline"
         },
         {
+          "title": "Netflix Sets Comedy Series ‘A Hundred Percent’ Starring Nick Kroll, Sam Richardson, Jason Mantzoukas and Vanessa Bayer",
+          "snippet": "",
+          "url": "https://variety.com/2026/tv/news/nick-kroll-netflix-show-sam-richardson-vanessa-bayer-1236625203/",
+          "source": "Variety"
+        },
+        {
           "title": "Nick Kroll Comedy ‘A Hundred Percent’ Gets Netflix Greenlight",
           "snippet": "",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/nick-kroll-new-netflix-comedy-series-the-league-reunion-1236466499/",
           "source": "The Hollywood Reporter"
-        },
-        {
-          "title": "'A Hundred Percent': Netflix Workplace Comedy Series To Star Nick Kroll, Sam Richardson, Jason Mantzoukas & Vanessa Bayer",
-          "snippet": "",
-          "url": "https://theplaylist.net/a-hundred-percent-netflix-workplace-comedy-series-to-star-nick-kroll-sam-richardson-jason-mantzoukas-vanessa-bayer-20260107/",
-          "source": "The Playlist"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -198,85 +254,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "jackie chan",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 7 Jan 2026 13:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIHYV2-PLQDOL6Ssi6GDHQpGwBU8tUPXH9sHnjzTRWpPcgKDIJHQOaVD5Wrek",
-      "pictureSource": "IMDb",
-      "relatedSearch": [
-        {
-          "title": "Jackie Chan & Chris Tucker’s Rush Hour 4 Salaries Could Jeopardize Movie’s Budget",
-          "snippet": "",
-          "url": "https://www.imdb.com/de/news/ni65647091/?ref_=nm_nwr_1",
-          "source": "IMDb"
-        },
-        {
-          "title": "‘Rush Hour 4' Shooting This Summer in Saudi Arabia and China, $100M+ Budget",
-          "snippet": "",
-          "url": "https://www.worldofreel.com/blog/2026/1/6/rush-hour",
-          "source": "World of Reel"
-        },
-        {
-          "title": "Rush Hour 4 Report Gives Great Production & Release Date Update",
-          "snippet": "",
-          "url": "https://www.comingsoon.net/movies/news/2080396-rush-hour-4-release-date-filming-2026-2027",
-          "source": "ComingSoon.net"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "man utd",
       "trafficCount": "1000+",
       "pubDate": "Wed, 7 Jan 2026 13:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQO1hLkcrfgkGEiQrHr4mE0PbXcrdcXGlW2nfp8EpdlsRjXmXg9tfUBGDrmYAM",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkv5KRbyP79bcQ37zNzT6FdwawaCF_0hInSl1fTFZTUoj_X55X12_k7o7vyBQ",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
         {
-          "title": "Premier League LIVE: Build-up, team news and score updates from across the Premier League",
+          "title": "Burnley 2-2 Manchester United: Premier League – as it happened",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/c4g40gy1y57t",
-          "source": "BBC"
-        },
-        {
-          "title": "Premier League LIVE: Team news and score updates from across the Premier League",
-          "snippet": "",
-          "url": "https://www.bbc.co.uk/sport/football/live/c4g40gy1y57t",
-          "source": "BBC"
-        },
-        {
-          "title": "Fulham v Chelsea, Bournemouth v Tottenham, and more: Premier League – live",
-          "snippet": "",
-          "url": "https://www.theguardian.com/football/live/2026/jan/07/fullham-v-chelsea-bournemouth-v-tottenham-and-more-premier-league-live",
+          "url": "https://www.theguardian.com/football/live/2026/jan/07/burnley-v-manchester-united-premier-league-live",
           "source": "The Guardian"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "las vegas",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 7 Jan 2026 13:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDpfMIEUpw-B45t3VT9Er4_QUw3dYPZZX8sjFEevGz-vruH1HDfNhFIhZyH6o",
-      "pictureSource": "Las Vegas Review-Journal",
-      "relatedSearch": [
-        {
-          "title": "Las Vegas planning official quits under pressure before key council vote",
-          "snippet": "",
-          "url": "https://www.reviewjournal.com/news/politics-and-government/las-vegas/las-vegas-planning-official-quits-under-pressure-before-key-council-vote-3605016/",
-          "source": "Las Vegas Review-Journal"
         },
         {
-          "title": "Las Vegas City Council hears concerns over Arts District parking fee hikes",
+          "title": "🚨 Crazy Wednesday in the Premier League: none of the Big Six manage a win",
           "snippet": "",
-          "url": "https://news3lv.com/news/local/las-vegas-city-council-hears-concerns-over-arts-district-parking-fee-hikes",
-          "source": "KSNV"
+          "url": "https://sports.yahoo.com/articles/dramatic-premier-league-multiplex-tonight-223900790.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "Petition Calls for Free Parking in Parts of Las Vegas Arts District",
+          "title": "English Premier League results & fixtures (21st matchday) - World - Sports",
           "snippet": "",
-          "url": "https://thenevadaglobe.com/702times/petition-calls-for-free-parking-in-parts-of-las-vegas-arts-district/",
-          "source": "Nevada Globe"
+          "url": "https://english.ahram.org.eg/NewsContent/6/55/560019/Sports/World/English-Premier-League-results-amp;-fixtures-st-ma.aspx",
+          "source": "Ahram Online"
         }
       ],
       "link": "https://imtaqin.id/"

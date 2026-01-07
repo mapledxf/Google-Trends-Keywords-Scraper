@@ -1,30 +1,86 @@
 {
-  "lastUpdate": "2026-01-07 05:55:09",
+  "lastUpdate": "2026-01-07 06:23:12",
   "data": [
+    {
+      "title": "weather",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 6 Jan 2026 21:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEieEKf-8xJj6HGGnNj9SVCp6cT67lI7uNrneegihZgx-djCttGZYaoFlhetU",
+      "pictureSource": "The Indian Express",
+      "relatedSearch": [
+        {
+          "title": "Tamil Nadu weather update: Heavy rain warning issued in Chennai for weekend",
+          "snippet": "",
+          "url": "https://indianexpress.com/article/cities/chennai/tamil-nadu-weather-update-heavy-rain-warning-in-chennai-10459591/",
+          "source": "The Indian Express"
+        },
+        {
+          "title": "First depression of 2026 brewing over Bay of Bengal; RMC predicts rains in TN",
+          "snippet": "",
+          "url": "https://www.dtnext.in/news/tamilnadu/first-depression-of-2026-brewing-over-bay-of-bengal-rmc-predicts-rains-in-tn",
+          "source": "DT Next"
+        },
+        {
+          "title": "Unseasonal low pressure over Bay of Bengal revives northeast monsoon in Tamil Nadu",
+          "snippet": "",
+          "url": "https://www.newindianexpress.com/states/tamil-nadu/2026/Jan/06/unseasonal-low-pressure-over-bay-of-bengal-revives-northeast-monsoon-in-tamil-nadu",
+          "source": "The New Indian Express"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "severe snow ice warning",
       "trafficCount": "100+",
       "pubDate": "Tue, 6 Jan 2026 21:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUN2neMeMqHPOQwFJn02iwF45aO0RVxd7561TH_YNY3lpOWQT_4qCgzQNZthw",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLoczCJ3okBfJ0i4qvqL6lbNgHPPmZJKBDmfiFIz3jZL3KN3hYfkMIDhTdVGM",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "UK weather: Storm Goretti approaches UK as Met Office issues new snow and ice warnings",
+          "title": "More ice and snow warnings in place after weather closes more than 1,000 UK schools",
           "snippet": "",
-          "url": "https://www.bbc.com/news/articles/cx2x6z4n2wzo",
+          "url": "https://www.bbc.com/news/live/c0r9r1r5lnpt",
           "source": "BBC"
         },
         {
-          "title": "Met Office shares when next snowfall will hit Birmingham ahead of 'multi-hazard event'",
+          "title": "UK weather latest: Storm Goretti set to bring heavy snow - with 'multi-hazard' event on way this week",
           "snippet": "",
-          "url": "https://uk.news.yahoo.com/met-office-shares-next-snowfall-201821401.html",
-          "source": "Yahoo News UK"
+          "url": "https://news.sky.com/story/uk-weather-latest-new-weather-warnings-issued-as-arctic-blitz-brings-more-snow-and-ice-to-uk-13490580",
+          "source": "Sky News"
         },
         {
-          "title": "Strong winds forecast for the Channel Islands",
+          "title": "Full list of schools closed in Norfolk as temperatures plunge to -12.5C",
           "snippet": "",
-          "url": "https://www.aol.com/news/strong-winds-forecast-channel-islands-144915929.html",
-          "source": "AOL.com"
+          "url": "https://uk.news.yahoo.com/full-list-schools-closed-norfolk-072204341.html",
+          "source": "Yahoo News UK"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "vejret",
+      "trafficCount": "10000+",
+      "pubDate": "Tue, 6 Jan 2026 21:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMCH2R939PtcixdpC0e-6iPqWtNgCLVHAQo_JzNRCxupULbUxicml42VcWXKw",
+      "pictureSource": "DR.dk",
+      "relatedSearch": [
+        {
+          "title": "Sne og fygning kan give snestormslignende tilstande",
+          "snippet": "",
+          "url": "https://www.dr.dk/nyheder/vejret/sne-og-fygning-kan-give-snestormslignende-tilstande",
+          "source": "DR.dk"
+        },
+        {
+          "title": "Første nedbør har ramt Jylland på dag med varsling af snestorm",
+          "snippet": "",
+          "url": "https://politiken.dk/danmark/art10682194/F%C3%B8rste-nedb%C3%B8r-har-ramt-Jylland-p%C3%A5-dag-med-varsling-af-snestorm",
+          "source": "Politiken"
+        },
+        {
+          "title": "Kommunens vintervagt efter snestormsvarsel: - Jeg tror, vi slipper for de helt store problemer",
+          "snippet": "",
+          "url": "https://amtsavisen.dk/randers/kommunens-vintervagt-efter-snestormsvarsel-jeg-tror-vi-slipper-for-de-helt-store-problemer",
+          "source": "Randers Amtsavis"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -52,7 +108,7 @@
           "title": "Has the identity of the new James Bond been leaked?",
           "snippet": "",
           "url": "https://www.euronews.com/culture/2026/01/05/licence-to-leak-do-we-finally-know-the-identity-of-the-next-james-bond",
-          "source": "Euronews.com"
+          "source": "Euronews"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,65 +117,65 @@
       "title": "ekstrabladet",
       "trafficCount": "200+",
       "pubDate": "Tue, 6 Jan 2026 21:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVQCQJfLn8Aw9wx9lPzkEPQmJ-Abdn1vgzfOsEBIWV6nSSEp-C-ObzM50Djvo",
-      "pictureSource": "Politiken",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfC3-i-ZalA90PGEdt0boTUQt7S1ylQsuB8YumgSn1W_Lv6U8upE6P5KhCtQI",
+      "pictureSource": "DR.dk",
       "relatedSearch": [
         {
-          "title": "Vigtig detalje gemmer sig bag store europæiske landes støtteerklæring til Danmark",
+          "title": "Løkke: USA tegner forkert billede af situationen i Grønland",
           "snippet": "",
-          "url": "https://politiken.dk/danmark/politik/art10681216/Vigtig-detalje-gemmer-sig-bag-store-europ%C3%A6iske-landes-st%C3%B8tteerkl%C3%A6ring-til-Danmark",
-          "source": "Politiken"
-        },
-        {
-          "title": "'Ingen vil dø for Grønland': Danmark står alene ved et amerikansk angreb, siger eksperter",
-          "snippet": "",
-          "url": "https://www.dr.dk/nyheder/indland/groenland/ingen-vil-doe-groenland-danmark-staar-alene-ved-et-amerikansk-angreb-siger-eksperter",
+          "url": "https://www.dr.dk/nyheder/politik/loekke-usa-tegner-forkert-billede-af-situationen-i-groenland",
           "source": "DR.dk"
         },
         {
-          "title": "Hvorfor ringer Mette Frederiksen ikke bare til Trump?",
+          "title": "Ro på",
           "snippet": "",
-          "url": "https://nyheder.tv2.dk/politik/2026-01-06-hvorfor-ringer-mette-frederiksen-ikke-bare-til-trump",
-          "source": "tv2.dk"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "tv2",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 6 Jan 2026 20:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyMlbNMsSojIK7yJYr_P7lRJz_p7fgTq4RXBj8eX_a23JIY_abmkEGbAS3t7M",
-      "pictureSource": "https://www.tvguide.dk",
-      "relatedSearch": [
-        {
-          "title": "19/1 22:10 | EM håndbold: Østrig-Serbien",
-          "snippet": "",
-          "url": "https://www.tvguide.dk/programmer/tv2-sport-x/2026-01-19/22:10/em-handbold-ostrig-serbien",
-          "source": "https://www.tvguide.dk"
+          "url": "https://www.weekendavisen.dk/samfund/ro-paa-1?gaa_at=eafs&gaa_n=AWEtsqfVaQNhcvowOevld38TkFsHZjY3D_2hkn7NYGns4trQz0Q_9clkM-_X&gaa_ts=695dff54&gaa_sig=WUwg3_e9CC_PmFFhfnBRvhvQihr2oG_9HCiCW9Kjq7yUCYhTRbpHcbPQnigf8_sF34bhCrkzPNTKnSaSfDu2-w%3D%3D",
+          "source": "Weekendavisen"
         },
         {
-          "title": "20/1 05:05 | EM håndbold: Østrig-Serbien",
+          "title": "På den røde løber i Paris gik Mette Frederiksen hårdt til Trump. Få timer efter kom Lars Løkke ud fra et hemmeligt lokale på Christiansborg med en advarsel",
           "snippet": "",
-          "url": "https://www.tvguide.dk/programmer/tv2-sport-x/2026-01-20/05:05/em-handbold-ostrig-serbien",
-          "source": "https://www.tvguide.dk"
-        },
-        {
-          "title": "20/1 22:10 | EM håndbold: Polen-Italien",
-          "snippet": "",
-          "url": "https://www.tvguide.dk/programmer/tv2-sport-x/2026-01-20/22:10/em-handbold-polen-italien",
-          "source": "https://www.tvguide.dk"
+          "url": "https://www.berlingske.dk/politik/paa-den-roede-loeber-i-paris-gik-mette-frederiksen-haardt-til-trump-faa-timer-efter-kom-lars-loekke-ud-fra-et-hemmeligt-lokale-paa-christiansborg-med-en-advarsel?gaa_at=eafs&gaa_n=AWEtsqf0LTqO6jF8oB80J0UnjRN5eteaOBhRqBob-6Qr6bBLc0Kpnwv2VnwI&gaa_ts=695dff54&gaa_sig=38yo8OxIcCs4DmWAEHOi7CshvUjmrNH_SrXb26WY_qI14ZwTHHDPv93yWk08PvspI9Fc-zP787oTyny9mxhqTw%3D%3D",
+          "source": "Berlingske"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "tv2 nyheder",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 6 Jan 2026 20:50:00 -0800",
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tv2",
+      "trafficCount": "2000+",
+      "pubDate": "Tue, 6 Jan 2026 20:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSjLsvf0rJKT33MFN5gq9rzp6dLXeufPDpB605_4j1ReZu1OMA59IFOVy3BboQ",
+      "pictureSource": "https://www.tvguide.dk",
+      "relatedSearch": [
+        {
+          "title": "20/1 16:10 | Auktionshuset på TV2 FRI",
+          "snippet": "",
+          "url": "https://www.tvguide.dk/programmer/tv2-fri/2026-01-20/16:10/auktionshuset",
+          "source": "https://www.tvguide.dk"
+        },
+        {
+          "title": "20/1 21:05 | EM håndbold: Danmark-Portugal på TV2",
+          "snippet": "",
+          "url": "https://www.tvguide.dk/programmer/tv2/2026-01-20/21:05/em-handbold-danmark-portugal",
+          "source": "https://www.tvguide.dk"
+        },
+        {
+          "title": "20/1 07:25 | Helt sort på TV2 Echo",
+          "snippet": "",
+          "url": "https://www.tvguide.dk/programmer/tv2-echo/2026-01-20/07:25/helt-sort",
+          "source": "https://www.tvguide.dk"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -154,26 +210,26 @@
       "title": "trafikken",
       "trafficCount": "200+",
       "pubDate": "Tue, 6 Jan 2026 20:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSspkJpIVdKUHv6_CNUp6kTf4vybxRJ2mY9_a39jdULKaOvlfUjPIevtHKXadU",
-      "pictureSource": "vejr.tv2.dk",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkadgtrI0PxA2YgNRUK2ScGha8mG0RlRCb6OfGcuPusuJWk8H-wGtIEBnExD4",
+      "pictureSource": "DR.dk",
       "relatedSearch": [
         {
-          "title": "Uheld spærrer spor på E45",
+          "title": "Snevejret giver trafikale udfordringer: 'Overvej, om det er nødvendigt at køre ud'",
           "snippet": "",
-          "url": "https://vejr.tv2.dk/live/2024-12-02-vejr-og-klima/uheld-spaerrer-spor-paa-e45?entry=89612f1c-662d-42be-bbc6-851be4c93be2",
-          "source": "vejr.tv2.dk"
+          "url": "https://www.dr.dk/nyheder/seneste/snevejret-giver-trafikale-udfordringer-overvej-om-det-er-noedvendigt-koere-ud",
+          "source": "DR.dk"
         },
         {
-          "title": "Flere biler stoppet: Uheld bremser trafikken på motorvejen",
+          "title": "Kan sne på forruden udløse en bøde?",
           "snippet": "",
-          "url": "https://jv.dk/haderslev/flere-biler-stoppet-uheld-bremser-trafikken-paa-motorvejen",
-          "source": "JydskeVestkysten"
+          "url": "https://www.tv2bornholm.dk/bornholm/kan-sne-pa-forruden-udlose-en-bode-247e6",
+          "source": "TV2 Bornholm"
         },
         {
-          "title": "Uheld og sneglatte veje: Vejret presser trafikken omkring Aalborg",
+          "title": "Sænk dæktrykket, og hold et vindue på klem: Her er de gode råd til at klare sig gennem det aktuelle vintervejr",
           "snippet": "",
-          "url": "https://migogaalborg.dk/trafikken-er-presset-omkring-aalborg/",
-          "source": "MigogAalborg"
+          "url": "https://jyllands-posten.dk/indland/ECE18889483/frosten-bider-og-sneen-falder-saadan-kommer-du-sikkert-igennem-vintervejret/",
+          "source": "Jyllands-Posten"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -202,62 +258,6 @@
           "snippet": "",
           "url": "https://www.therealtytoday.com/news/market-insights/indian-real-estate-sees-59-surge-in-pe-inflows-to-67-billion-in-2025-savills-report/",
           "source": "The Realty Today"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "dr nyheder",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 6 Jan 2026 20:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTesijPI-JgeJSXPi6IvKskF6zjGR6oMzhg1u4XZ0WBnUhwXUd_FWKB6R_woek",
-      "pictureSource": "DR.dk",
-      "relatedSearch": [
-        {
-          "title": "Udbuddet af boliger til salg er væsentligt lavere end sidste år",
-          "snippet": "",
-          "url": "https://www.dr.dk/nyheder/seneste/udbuddet-af-boliger-til-salg-er-vaesentligt-lavere-end-sidste-aar",
-          "source": "DR.dk"
-        },
-        {
-          "title": "Støvsuget: Boligmarkedet bliver mindre og mindre | Dine Penge | Business",
-          "snippet": "",
-          "url": "https://www.berlingske.dk/dine-penge/stoevsuget-boligmarkedet-bliver-mindre-og-mindre?gaa_at=eafs&gaa_n=AWEtsqffZ_Pjrqyh5DG7TLbeudCttimw-bvoCTTkuOpER30N-_jft8CWw_sh&gaa_ts=695df8c0&gaa_sig=YFXXWlxHUJqxf4F0CMgK6_Psv1Vz9M7CXIqmQfxd_YShIpZB-Jpos_RQ7HoKTNbnTWRklvREp6yJ17u8FqaajQ%3D%3D",
-          "source": "Berlingske"
-        },
-        {
-          "title": "Boligkøberne har langt færre ejerlejligheder at vælge imellem",
-          "snippet": "",
-          "url": "https://politiken.dk/danmark/oekonomi/bolig/art10682179/Boligk%C3%B8berne-har-langt-f%C3%A6rre-ejerlejligheder-at-v%C3%A6lge-imellem",
-          "source": "Politiken"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "dmi",
-      "trafficCount": "5000+",
-      "pubDate": "Tue, 6 Jan 2026 20:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMCH2R939PtcixdpC0e-6iPqWtNgCLVHAQo_JzNRCxupULbUxicml42VcWXKw",
-      "pictureSource": "DR.dk",
-      "relatedSearch": [
-        {
-          "title": "Sne og fygning kan give snestormslignende tilstande",
-          "snippet": "",
-          "url": "https://www.dr.dk/nyheder/vejret/sne-og-fygning-kan-give-snestormslignende-tilstande",
-          "source": "DR.dk"
-        },
-        {
-          "title": "Kommunens vintervagt efter snestormsvarsel: - Jeg tror, vi slipper for de helt store problemer",
-          "snippet": "",
-          "url": "https://amtsavisen.dk/randers/kommunens-vintervagt-efter-snestormsvarsel-jeg-tror-vi-slipper-for-de-helt-store-problemer",
-          "source": "Randers Amtsavis"
-        },
-        {
-          "title": "Snefygning og forhøjet vandstand kan følge på bagkant af snestorm",
-          "snippet": "",
-          "url": "https://politiken.dk/danmark/art10681573/Snefygning-og-forh%C3%B8jet-vandstand-kan-f%C3%B8lge-p%C3%A5-bagkant-af-snestorm",
-          "source": "Politiken"
         }
       ],
       "link": "https://imtaqin.id/"

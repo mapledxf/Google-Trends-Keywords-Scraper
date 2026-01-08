@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-01-08 03:09:25",
+  "lastUpdate": "2026-01-08 04:08:58",
   "data": [
     {
       "title": "vremea",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 7 Jan 2026 18:40:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGoBZTllqzkz3FiPNk5FV4qEuxo-NILwwrawJdle0kl1Kg0J7-0zkZQUBMWDA",
       "pictureSource": "Digi24",
@@ -59,7 +59,7 @@
     },
     {
       "title": "vremea bucuresti",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 7 Jan 2026 18:20:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdDFILuzuw0EuEOiydjrD_Mhef5ShNhupDiBbjLQkL0mP9kCl4QIrP_HZP_ck",
       "pictureSource": "HotNews.ro",
@@ -114,34 +114,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "inter",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 7 Jan 2026 13:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtGO1Js5YtFfHRlA5XRz9y55eIhH9Zqn3Ebr7sbzqjLmGAf3vHUON9sxIwyYY",
-      "pictureSource": "Prosport",
-      "relatedSearch": [
-        {
-          "title": "Fără dubii! Nota primită de Chivu după ce Inter a învins la Parma",
-          "snippet": "",
-          "url": "https://www.prosport.ro/fotbal-extern/fara-dubii-nota-primita-de-chivu-dupa-ce-inter-a-invins-la-parma-20357700",
-          "source": "Prosport"
-        },
-        {
-          "title": "Parma - Inter 0-1, ACUM pe Digi Sport 2 / Napoli - Verona 2-2. Programul complet al zilei",
-          "snippet": "",
-          "url": "https://www.digisport.ro/fotbal/serie-a/napoli-verona-live-video-1930-dgs-2-parma-inter-live-video-2145-la-dgs-2-programul-complet-al-zilei-4015985",
-          "source": "Digi Sport"
-        },
-        {
-          "title": "Parma - Inter 0-2. Victorie pentru echipa lui Cristi Chivu, care rămâne lider în Serie A » Ce cadou i-a făcut Napoli!",
-          "snippet": "",
-          "url": "https://golazo.ro/parma-inter-live-serie-a-cristi-chivu-160731",
-          "source": "GOLAZO.ro"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "benfica - braga",
       "trafficCount": "200+",
       "pubDate": "Wed, 7 Jan 2026 12:40:00 -0800",
@@ -155,16 +127,16 @@
           "source": "SAPO"
         },
         {
-          "title": "A análise de Carlos Vicens ao triunfo do SC Braga sobre o Benfica :: Conferências :: Videos",
-          "snippet": "",
-          "url": "https://www.zerozero.pt/videos/conferencias/a-analise-de-carlos-vicens-ao-triunfo-do-sc-braga-sobre-o-benfica/1409968",
-          "source": "zerozero.pt"
-        },
-        {
           "title": "Sporting de Braga vence Benfica e defronta Vitória de Guimarães na final da Taça da Liga",
           "snippet": "",
           "url": "https://www.rtp.pt/noticias/desporto/sc-braga-marca-encontro-com-vitoria-sc-na-final-da-taca-da-liga_e1708486",
           "source": "RTP"
+        },
+        {
+          "title": "A análise de Carlos Vicens ao triunfo do SC Braga sobre o Benfica :: Conferências :: Videos",
+          "snippet": "",
+          "url": "https://www.zerozero.pt/videos/conferencias/a-analise-de-carlos-vicens-ao-triunfo-do-sc-braga-sobre-o-benfica/1409968",
+          "source": "zerozero.pt"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -254,29 +226,57 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "fulham vs chelsea",
+      "title": "newcastle united - leeds",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 7 Jan 2026 11:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQweYzeyek0fuT_CTwlMZR0txQYEwEgk65P4wJ3TYcOhI3lNssMZflZ07-YuKA",
+      "pictureSource": "The Guardian",
+      "relatedSearch": [
+        {
+          "title": "Newcastle 4-3 Leeds, Fulham 2-1 Chelsea, Man City 1-1 Brighton: Premier League – as it happened",
+          "snippet": "",
+          "url": "https://www.theguardian.com/football/live/2026/jan/07/fullham-v-chelsea-bournemouth-v-tottenham-and-more-premier-league-live",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Daniel Farke: Late heartbreak for my lads",
+          "snippet": "",
+          "url": "https://onefootball.com/en/news/daniel-farke-late-heartbreak-for-my-lads-42195392",
+          "source": "OneFootball"
+        },
+        {
+          "title": "Brenden Aaronson blasts Leeds ahead of Newcastle",
+          "snippet": "",
+          "url": "https://www.nbcsports.com/watch/watch/premier-league/brenden-aaronson-blasts-leeds-ahead-of-newcastle",
+          "source": "NBC Sports"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "brentford - sunderland",
       "trafficCount": "200+",
-      "pubDate": "Wed, 7 Jan 2026 12:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy9Ods_sA2u9OCK11MRsY6yE45O7_SQVC0X_RoPQs4WsDVwJyu9N1cGglltGI",
+      "pubDate": "Wed, 7 Jan 2026 11:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSaomjKYcOaR2-bay0vlctPNxGS-Rvd5pgBTBv8rct32DqXmZTfhvMcbeCWNlI",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Fulham 2-1 Chelsea: Harry Wilson downs Chelsea in front of new boss Liam Rosenior",
+          "title": "Brentford 3-0 Sunderland: Igor Thiago double boosts Bees' European hopes",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cj3vm5nz161t",
+          "url": "https://www.bbc.com/sport/football/live/c9qplg41v4et",
           "source": "BBC"
         },
         {
-          "title": "Liam Rosenior knows the unavoidable Chelsea truth as Enzo Maresca issue repeats itself vs Fulham",
+          "title": "Le Bris on injuries, coping with busy spell and transfers",
           "snippet": "",
-          "url": "https://www.football.london/chelsea-fc/news/liam-rosenior-knows-unavoidable-chelsea-33185392",
-          "source": "Football London"
+          "url": "https://sports.yahoo.com/articles/le-bris-injuries-coping-busy-122348435.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "Calum McFarlane praises Liam Delap for leading Chelsea line in 'tough circumstances'",
+          "title": "Ballard and Rigg start for Sunderland at Brentford",
           "snippet": "",
-          "url": "https://tribuna.com/en/news/2026-01-07-calum-mcfarlane-praises-liam-delap-for-leading-chelsea-line-in-tough-circumstances/",
-          "source": "Tribuna.com"
+          "url": "https://www.safc.com/news/2026/january/07/ballard-and-rigg-start-for-sunderland-at-brentford/",
+          "source": "Sunderland AFC"
         }
       ],
       "link": "https://imtaqin.id/"

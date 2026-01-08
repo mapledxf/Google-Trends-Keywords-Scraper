@@ -1,10 +1,38 @@
 {
-  "lastUpdate": "2026-01-08 05:13:49",
+  "lastUpdate": "2026-01-08 05:42:22",
   "data": [
     {
       "title": "tv2 vejret",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 7 Jan 2026 20:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTPXu3jbIIIuBPWfCIhTrSf8zUWP0cu180FIqbvi0KKLtVBptKSZKHDXWgzBQ",
+      "pictureSource": "DR.dk",
+      "relatedSearch": [
+        {
+          "title": "Sne og blæst rammer Danmark - risiko for snefygning flere steder",
+          "snippet": "",
+          "url": "https://www.dr.dk/nyheder/vejret/sne-og-blaest-rammer-danmark-risiko-snefygning-flere-steder",
+          "source": "DR.dk"
+        },
+        {
+          "title": "Dragsted efterlyser briefing fra statsministeren om Grønland",
+          "snippet": "",
+          "url": "https://politiken.dk/internationalt/art10679188/Dragsted-efterlyser-briefing-fra-statsministeren-om-Gr%C3%B8nland",
+          "source": "Politiken"
+        },
+        {
+          "title": "Efter snestormen - fra koldt til værre",
+          "snippet": "",
+          "url": "https://vejr.tv2.dk/live/2024-12-02-vejr-og-klima/efter-snestormen-fra-koldt-til-vaerre?entry=8d4db24a-5f33-49fd-9403-69f240f711aa",
+          "source": "vejr.tv2.dk"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tv2 østjylland",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 7 Jan 2026 20:40:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD8IUW_GWkP6y6lwBAteoWyrOo5MD3QWNeVd6YDsezFBLmAeMroPNDHcZD22U",
       "pictureSource": "Politiken",
       "relatedSearch": [
@@ -15,23 +43,23 @@
           "source": "Politiken"
         },
         {
-          "title": "Sne og blæst rammer Danmark - risiko for snefygning flere steder",
-          "snippet": "",
-          "url": "https://www.dr.dk/nyheder/vejret/sne-og-blaest-rammer-danmark-risiko-snefygning-flere-steder",
-          "source": "DR.dk"
-        },
-        {
           "title": "Mere sne på vej: Kør efter forholdene",
           "snippet": "",
           "url": "https://www.vejdirektoratet.dk/pressemeddelelse/2026/mere-sne-paa-vej-koer-efter-forholdene",
           "source": "Vejdirektoratet"
+        },
+        {
+          "title": "Der kommer mange centimeter sne i aften i Nordjylland",
+          "snippet": "",
+          "url": "https://www.dr.dk/nyheder/seneste/der-kommer-mange-centimeter-sne-i-aften-i-nordjylland",
+          "source": "DR.dk"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "nordjyske",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 7 Jan 2026 20:40:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcsIwmp9G4Qas1QP-b7aTRQlESfn7-jMkCLo-v_N6ENx0TbgQE6OPIekKqSbE",
       "pictureSource": "DR.dk",
@@ -86,36 +114,8 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "tv2 østjylland",
-      "trafficCount": "5000+",
-      "pubDate": "Wed, 7 Jan 2026 20:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD8IUW_GWkP6y6lwBAteoWyrOo5MD3QWNeVd6YDsezFBLmAeMroPNDHcZD22U",
-      "pictureSource": "Politiken",
-      "relatedSearch": [
-        {
-          "title": "Dragsted efterlyser briefing fra statsministeren om Grønland",
-          "snippet": "",
-          "url": "https://politiken.dk/internationalt/art10679188/Dragsted-efterlyser-briefing-fra-statsministeren-om-Gr%C3%B8nland",
-          "source": "Politiken"
-        },
-        {
-          "title": "Mere sne på vej: Kør efter forholdene",
-          "snippet": "",
-          "url": "https://www.vejdirektoratet.dk/pressemeddelelse/2026/mere-sne-paa-vej-koer-efter-forholdene",
-          "source": "Vejdirektoratet"
-        },
-        {
-          "title": "Der kommer mange centimeter sne i aften i Nordjylland",
-          "snippet": "",
-          "url": "https://www.dr.dk/nyheder/seneste/der-kommer-mange-centimeter-sne-i-aften-i-nordjylland",
-          "source": "DR.dk"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "tv2 nord",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 7 Jan 2026 20:30:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAtJfBuFLC5vdOn7Uq4PqP914UztzIF0dT1jOcwNyG3MOvIAz5wR6_CmybDac",
       "pictureSource": "TV2 Nord",
@@ -127,23 +127,23 @@
           "source": "TV2 Nord"
         },
         {
-          "title": "Kommentator kan slet ikke få armene ned over dansk ishockeytrup",
+          "title": "Borgmester stiller betingelse for at støtte USA-fejring i Rebild",
           "snippet": "",
-          "url": "https://www.dr.dk/sporten/vinter-ol-2026/kommentators-droem-om-dansk-ol-trup-er-gaaet-i-opfyldelse",
+          "url": "https://www.dr.dk/nyheder/indland/borgmester-stiller-betingelse-stoette-usa-fejring-i-rebild",
           "source": "DR.dk"
         },
         {
-          "title": "Dansk NHL-stjerne glæder sig til at få drengedrøm opfyldt",
+          "title": "Tager afstand fra Trump: Bliv væk",
           "snippet": "",
-          "url": "https://sport.tv2.dk/ishockey/2026-01-07-dansk-nhl-stjerne-glaeder-sig-til-at-faa-drengedroem-opfyldt",
-          "source": "tv2.dk"
+          "url": "https://www.tv2nord.dk/aalborg/tager-afstand-fra-trump-bliv-vaek-6d93d",
+          "source": "TV2 Nord"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "vejdirektoratet trafik",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 7 Jan 2026 19:40:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9hbRxPPwUUGsIEM1HwSjpBYOt3ZwoW3EA7Opz-GDrni4yv2wdzTAA1GtH-n4",
       "pictureSource": "vejr.tv2.dk",
@@ -217,10 +217,10 @@
           "source": "vocal.media"
         },
         {
-          "title": "Blue Moon | At the Movies",
+          "title": "‘And Then I Wrote…’",
           "snippet": "",
-          "url": "https://www.wdiy.org/show/at-the-movies/2026-01-05/blue-moon-at-the-movies",
-          "source": "Lehigh Valley Public Radio"
+          "url": "https://syncopatedtimes.com/and-then-i-wrote/",
+          "source": "The Syncopated Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,26 +229,26 @@
       "title": "pl",
       "trafficCount": "100+",
       "pubDate": "Wed, 7 Jan 2026 13:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJWkaTcAmcb2JKfoQaHHyAD9pL1q419Oh0v-zrxbBCIdq6Y7Qt5UwsuKsz5L8",
-      "pictureSource": "wnp.pl",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSB9giWj6sqbcz2BS9PPHdi3vfBNHPrqB7d5h0XTPpAH4PPDNDjUERHLSoFf4E",
+      "pictureSource": "EURACTIV.pl",
       "relatedSearch": [
         {
-          "title": "Polska wśród 20 największych gospodarek świata. Minister Domański: mamy apetyt na więcej",
+          "title": "Bułgaria w strefie euro, a co z Polską?",
           "snippet": "",
-          "url": "https://www.wnp.pl/rynki/polska-wsrod-20-najwiekszych-gospodarek-swiata-minister-domanski-mamy-apetyt-na-wiecej,1020213.html",
-          "source": "wnp.pl"
+          "url": "https://euractiv.pl/section/polityka-zagraniczna-ue/news/bulgaria-w-strefie-euro-a-co-z-polska/",
+          "source": "EURACTIV.pl"
         },
         {
-          "title": "ZUS dla Kanadyjczyków. Kluczowe polskie systemy zmieniają właściciela",
+          "title": "Bułgaria: Trudny proces wymiany waluty",
           "snippet": "",
-          "url": "https://portaltechnologiczny.pl/zus-dla-kanadyjczykow-kluczowe-polskie-systemy-zmieniaja-wlasciciela/",
-          "source": "PortalTechnologiczny.pl"
+          "url": "https://naszdziennik.pl/swiat/332357,bulgaria-trudny-proces-wymiany-waluty.html",
+          "source": "Nasz Dziennik"
         },
         {
-          "title": "CGI sfinalizowało przejęcie Comarch Polska",
+          "title": "Najtańsza riwiera Europy. Wielkie zmiany w 2026 r.",
           "snippet": "",
-          "url": "https://www.pb.pl/cgi-sfinalizowalo-przejecie-comarch-polska-1254474",
-          "source": "pb.pl"
+          "url": "https://turystyka.wp.pl/najtansza-riwiera-europy-wielkie-zmiany-w-2026-r-7240166766119904a",
+          "source": "WP Turystyka"
         }
       ],
       "link": "https://imtaqin.id/"

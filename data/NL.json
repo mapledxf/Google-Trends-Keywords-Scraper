@@ -1,6 +1,90 @@
 {
-  "lastUpdate": "2026-01-08 04:49:59",
+  "lastUpdate": "2026-01-08 05:14:07",
   "data": [
+    {
+      "title": "het weer",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 7 Jan 2026 21:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxafhRQsyHhgFIIKDhIlm_hS-4FrAgaPQ9HC5f0G5al2-3r_S61pJE-aEiMaI",
+      "pictureSource": "de Volkskrant",
+      "relatedSearch": [
+        {
+          "title": "Live winterweer: Deel van sportcomplex in Utrecht ingestort, onduidelijk of er mensen binnen zijn",
+          "snippet": "",
+          "url": "https://www.volkskrant.nl/binnenland/live-winterweer-deel-van-sportcomplex-in-utrecht-ingestort-onduidelijk-of-er-mensen-binnen-zijn~baf49b59/",
+          "source": "de Volkskrant"
+        },
+        {
+          "title": "Wát een pak sneeuw!",
+          "snippet": "",
+          "url": "https://www.knmi.nl/over-het-knmi/nieuws/knmi-klimaatbericht-climate-change-snow-netherlands-klimaatverandering-sneeuw-nederland",
+          "source": "KNMI"
+        },
+        {
+          "title": "Live: winters weer | Schiphol voorziet weinig problemen voor donderdag, deze winter meer dan 102 miljoen kilo zout gestrooid op wegen",
+          "snippet": "",
+          "url": "https://www.parool.nl/nederland/live-code-oranje-problemen-op-het-spoor-stapelen-zich-op-meer-dan-duizend-reizigers-brengen-nacht-door-op-schiphol~bbf9f8bb/",
+          "source": "Het Parool"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "rijden de bussen vandaag",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 7 Jan 2026 21:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKb6URXKXHqlVdARQuG016E41fp9VnjBZNLsOxA_6kMuCEXt1XpWN1MAY2Zqk",
+      "pictureSource": "RTV Noord",
+      "relatedSearch": [
+        {
+          "title": "Sneeuwblog: Bussen van Qbuzz rijden hele dag niet meer • Kans op sneeuwduinen door wind",
+          "snippet": "",
+          "url": "https://www.rtvnoord.nl/112/RX-1300/sneeuwblog-bussen-van-qbuzz-rijden-hele-dag-niet-meer-kans-op-sneeuwduinen-door-wind",
+          "source": "RTV Noord"
+        },
+        {
+          "title": "Rustige sneeuwdag in het verschiet, Qbuzz rijdt pas na de spits",
+          "snippet": "",
+          "url": "https://www.rtvdrenthe.nl/nieuws/18102308/rustige-sneeuwdag-in-het-verschiet-qbuzz-rijdt-pas-na-de-spits",
+          "source": "RTV Drenthe"
+        },
+        {
+          "title": "Sneeuw houdt Fryslân in zijn greep | Veel instanties dicht | \"Blijf alsjeblieft thuis\"",
+          "snippet": "",
+          "url": "https://www.omropfryslan.nl/nl/nieuws/18098990/sneeuw-houdt-fryslan-in-zijn-greep-veel-instanties-dicht-blijf-alsjeblieft-thuis",
+          "source": "Omrop Fryslân"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weer rotterdam",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 7 Jan 2026 20:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFsmZT_9751-Mk9fmJaqvJHFjiaZ1_Vc7bcqQsqviaTd0Kim5T7GyiIs6Q9EY",
+      "pictureSource": "AD.nl",
+      "relatedSearch": [
+        {
+          "title": "Winterweer in regio Rotterdam nog niet voorbij: nieuwe sneeuw in aantocht en spekglad weekeinde",
+          "snippet": "",
+          "url": "https://www.ad.nl/rotterdam/winterweer-in-regio-rotterdam-nog-niet-voorbij-nieuwe-sneeuw-in-aantocht-en-spekglad-weekeinde~a424535d/",
+          "source": "AD.nl"
+        },
+        {
+          "title": "Winterse foto's van RD-lezers: bezorgers in de sneeuw, sleetje rijden en sneeuwpoppen",
+          "snippet": "",
+          "url": "https://www.rd.nl/artikel/1133868-fotoserie-bezorgers-in-de-sneeuw-sleetje-rijden-en-sneeuwpoppen",
+          "source": "Reformatorisch Dagblad"
+        },
+        {
+          "title": "Het Kasteel bedolven, de Euromast ingesneeuwd en code oranje bij Blaak",
+          "snippet": "",
+          "url": "https://www.dehavenloods.nl/nieuws/algemeen/62530/het-kasteel-bedolven-de-euromast-ingesneeuwd-en-code-oranje-b",
+          "source": "dehavenloods.nl"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "schiphol departures",
       "trafficCount": "200+",
@@ -71,16 +155,16 @@
           "source": "NBC News"
         },
         {
-          "title": "IT ministry calls Elon Musk’s X reply ‘Inadequate,’ demands action plan on Grok AI issue",
-          "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/technology/tech-news/it-ministry-calls-elon-musks-x-reply-inadequate-demands-action-plan-on-grok-ai-issue/articleshow/126406106.cms",
-          "source": "The Times of India"
-        },
-        {
           "title": "X users tell Grok to undress women and girls in photos. It’s saying yes.",
           "snippet": "",
           "url": "https://www.washingtonpost.com/technology/2026/01/06/x-grok-deepfake-sexual-abuse/",
           "source": "The Washington Post"
+        },
+        {
+          "title": "Elon Musk ex Ashley St. Clair says she’s considering legal action after xAI produced fake sexualized images of her",
+          "snippet": "",
+          "url": "https://finance.yahoo.com/news/elon-musk-ex-ashley-st-104437526.html",
+          "source": "Yahoo Finance"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,25 +173,25 @@
       "title": "marsala",
       "trafficCount": "100+",
       "pubDate": "Wed, 7 Jan 2026 16:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCR2j0nYL1uS7-nLOXUM1s187i_lwMReeCgIVL9H7bYwdReZt9o72kevQs-lQ",
-      "pictureSource": "Il Punto Quotidiano",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHTWTiTwfkPqUud6pxSRYPIo5kVBLCvEapiyFul62vge1At3pHsDEdm7Mn7E4",
+      "pictureSource": "Itaca Notizie",
       "relatedSearch": [
         {
-          "title": "Marsala- travel vlog",
+          "title": "Occupazione suolo pubblico, a Marsala rinnovi e tariffe",
           "snippet": "",
-          "url": "https://www.ilpuntoquotidiano.it/alboscuole/marsala-travel-vlog-2/",
-          "source": "Il Punto Quotidiano"
+          "url": "https://itacanotizie.it/2026/01/07/occupazione-suolo-pubblico-marsala-2/",
+          "source": "Itaca Notizie"
         },
         {
-          "title": "Marsala, addio a Matteo Parrinello",
+          "title": "Marsala, pagamento CUP su pagoPA: scadenza 31 gennaio per suolo pubblico, passi carrabili e pubblicità",
           "snippet": "",
-          "url": "https://www.virgilio.it/italia/marsala/notizielocali/marsala_addio_a_matteo_parrinello-76262070.html",
-          "source": "Virgilio"
+          "url": "https://www.marsalalive.it/2026/01/07/pagamento-cup-pagopa-marsala/",
+          "source": "Marsala Live"
         },
         {
-          "title": "Marsala, addio a Matteo Parrinello",
+          "title": "PUA e assistenza domiciliare a Marsala: sportelli aperti, servizi sospesi. Famiglie sole",
           "snippet": "",
-          "url": "https://www.tp24.it/2026/01/07/se-ne-sono-andati/marsala-addio-a-matteo-parrinello/228125",
+          "url": "https://www.tp24.it/2026/01/08/sanita/pua-e-assistenza-domiciliare-a-marsala-sportelli-aperti-servizi-sospesi-famiglie-sole/228148",
           "source": "TP24.it"
         }
       ],
@@ -173,7 +257,7 @@
       "title": "renee nicole good",
       "trafficCount": "2000+",
       "pubDate": "Wed, 7 Jan 2026 14:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQy7bmpXkagy-PeeR3y4dZX1TnS33_PjCKVuIm431EPmWdNSl5a7J2bMKg_860",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTszmSHs3SW3iTBdqJOqNFC7SYoH6zSmFsJUhT1yNQ8ddzkACFIbUwMGZ4_E4k",
       "pictureSource": "Star Tribune",
       "relatedSearch": [
         {
@@ -189,94 +273,10 @@
           "source": "BBC"
         },
         {
-          "title": "Minnesota governor says he is preparing National Guard amid furor over fatal ICE shooting",
+          "title": "Cable news networks scramble to cover fatal Minnesota ICE shooting – with both caution and commentary",
           "snippet": "",
-          "url": "https://abcnews.go.com/US/ice-related-shooting-occurred-minnesota-governor/story?id=128984401",
-          "source": "ABC News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "sneeuwval",
-      "trafficCount": "50000+",
-      "pubDate": "Wed, 7 Jan 2026 14:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSD-R7bV2vLIkCvVQEMCNeS_T72WVJZrNWUUoASmwNzjSICNwGXFBlnEv62zM",
-      "pictureSource": "NU",
-      "relatedSearch": [
-        {
-          "title": "Live winterweer | Geen thuiswerkadvies voor morgen, wel kans op gladheid",
-          "snippet": "",
-          "url": "https://www.nu.nl/binnenland/6381848/live-winterweer-geen-thuiswerkadvies-voor-morgen-wel-kans-op-gladheid.html",
-          "source": "NU"
-        },
-        {
-          "title": "Code oranje in alle provincies ingetrokken • Schiphol verwacht morgen betere dag",
-          "snippet": "",
-          "url": "https://nos.nl/liveblog/2597223-code-oranje-in-alle-provincies-ingetrokken-schiphol-verwacht-morgen-betere-dag",
-          "source": "NOS"
-        },
-        {
-          "title": "Deel sportcomplex in Utrecht ingestort",
-          "snippet": "",
-          "url": "https://www.rtvutrecht.nl/nieuws/3990437/deel-sportcomplex-in-utrecht-ingestort",
-          "source": "RTV Utrecht"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "milo manheim",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 7 Jan 2026 14:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQr7B03W8IA5_PJwM9IhO2dzvtuJUorJZ4VDjbNKeLiTt6VeGcGSC7MvrWhjuI",
-      "pictureSource": "The Hollywood Reporter",
-      "relatedSearch": [
-        {
-          "title": "‘Tangled’ Live-Action Movie Finds Its Leads: Teagan Croft, Milo Manheim (Exclusive)",
-          "snippet": "",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/tangled-live-action-movie-teagan-croft-milo-manheim-1236466753/",
-          "source": "The Hollywood Reporter"
-        },
-        {
-          "title": "BREAKING NEWS: Disney’s Live-Action ‘Tangled’ Found Their Rapunzel and Flynn Ryder!",
-          "snippet": "",
-          "url": "https://thedisinsider.com/2026/01/07/breaking-news-disneys-live-action-tangled-found-their-rapunzel-and-flynn-ryder/",
-          "source": "Daily Disney News"
-        },
-        {
-          "title": "CONFIRMED! Disney reveals the stars of the live-action Tangled",
-          "snippet": "",
-          "url": "https://www.merca20.com/confirmed-disney-reveals-the-stars-of-the-live-action-tangled/",
-          "source": "Revista Merca2.0"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ethan hawke",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 7 Jan 2026 14:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMkc6KDbKsQNRXM8aeMfP344QTYY8TF-IEgvR5ubhFfX39wRijVoO33vU2x6o",
-      "pictureSource": "World of Reel",
-      "relatedSearch": [
-        {
-          "title": "Ethan Hawke Says His Next One With Richard Linklater Will Be “Among the Greatest Films Ever Made”",
-          "snippet": "",
-          "url": "https://www.worldofreel.com/blog/2026/1/7/hawke-and-linklater-to-team-on-10th-film",
-          "source": "World of Reel"
-        },
-        {
-          "title": "Blue Moon",
-          "snippet": "",
-          "url": "https://vocal.media/geeks/blue-moon-1ofmq0x5r",
-          "source": "vocal.media"
-        },
-        {
-          "title": "‘And Then I Wrote…’",
-          "snippet": "",
-          "url": "https://syncopatedtimes.com/and-then-i-wrote/",
-          "source": "The Syncopated Times"
+          "url": "https://www.theguardian.com/us-news/2026/jan/07/minnesota-ice-shooting-coverage",
+          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"

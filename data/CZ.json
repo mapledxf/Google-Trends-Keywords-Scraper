@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-09 15:59:03",
+  "lastUpdate": "2026-01-09 16:33:05",
   "data": [
     {
       "title": "sněžení",
@@ -9,7 +9,7 @@
       "pictureSource": "Seznam Zprávy",
       "relatedSearch": [
         {
-          "title": "Foto: Sníh v Praze zastavil dopravu. Kamiony blokují silnice, nejezdí tramvaje",
+          "title": "Foto: Sníh v Praze komplikoval dopravu. Nejezdily tramvaje, zapadly kamiony",
           "snippet": "",
           "url": "https://www.seznamzpravy.cz/clanek/domaci-pocasi-foto-snih-v-praze-zastavil-dopravu-kamiony-blokuji-silnice-nejezdi-tramvaje-295845",
           "source": "Seznam Zprávy"
@@ -21,10 +21,10 @@
           "source": "Novinky"
         },
         {
-          "title": "Hromadná nehoda zablokovala u Prahy dálnici D6",
+          "title": "Mladíci roztlačili na sněhu autobus. Ještě kousek, přitlačte, povzbuzoval je řidič",
           "snippet": "",
-          "url": "https://www.stream.cz/domaci-9257/snezeni-komplikuje-dopravu-uzavrena-je-kvuli-nehodam-d5-a-d6-65430664",
-          "source": "Stream.cz"
+          "url": "https://www.idnes.cz/praha/zpravy/pocasi-snih-mladici-roztlacili-autobus-ridic.A260109_130742_praha-zpravy_lysa",
+          "source": "iDNES.cz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -49,9 +49,9 @@
           "source": "Novinky"
         },
         {
-          "title": "Rusové zaútočili na Kyjev, na Lvov vyslali Orešnik. Zasáhli několik bytových domů",
+          "title": "Polovina domů v Kyjevě je po útoku bez tepla. Odjeďte, vyzval starosta Kličko",
           "snippet": "",
-          "url": "https://www.idnes.cz/zpravy/zahranicni/rusove-zautocili-drony-na-kyjev-zasahli-nekolik-bytovych-domu-ctyri-lide-zemreli.A260109_064303_zahranicni_ijan",
+          "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-rusko-kyjev-valka-teplo-voda-elektrina-uder.A260109_161711_zahranicni_dtt",
           "source": "iDNES.cz"
         }
       ],
@@ -71,16 +71,16 @@
           "source": "Pražský deník"
         },
         {
+          "title": "Pražské letiště omezilo počet přistávajících letadel, situaci vyřešilo rychle",
+          "snippet": "",
+          "url": "https://www.prahain.cz/doprava/prazske-letiste-omezilo-pocet--25983.html",
+          "source": "PrahaIN"
+        },
+        {
           "title": "Letiště omezilo počet příletů za hodinu",
           "snippet": "",
           "url": "https://www.e-kladensko.cz/zpravy/6389-letiste-omezilo-pocet-priletu-za-hodinu",
           "source": "E-Kladensko"
-        },
-        {
-          "title": "Pražští taxikáři dostali za kartelovou dohodu pokutu 11 milionů",
-          "snippet": "",
-          "url": "https://www.novinky.cz/clanek/ekonomika-prazsti-taxikari-dostali-za-kartelovou-dohodu-pokutu-11-milionu-40556164",
-          "source": "Novinky"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,15 +117,9 @@
       "title": "severe snow ice warning",
       "trafficCount": "100+",
       "pubDate": "Fri, 9 Jan 2026 00:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtTr5ufJpvG37c3F_6UIA2FFkVDwvJ0c054tLwWTc6cyI28Ay75jKU50udgyI",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEIvIrg-0YWOoJRLPzTDplNQHR5o2SA_j_VNqdbmIDDuDioy4IKMON-D9gKXc",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
-        {
-          "title": "Storm Goretti live: Fresh snow and ice warnings as Storm Goretti leaves tens of thousands without power",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/live/c70le643x50t",
-          "source": "BBC"
-        },
         {
           "title": "Storm Goretti live: rail services suspended, flights cancelled and schools closed across UK",
           "snippet": "",
@@ -133,10 +127,16 @@
           "source": "The Guardian"
         },
         {
-          "title": "Storm Goretti latest: Tens of thousands still without power as new snow and ice warnings issued ahead of weekend",
+          "title": "Storm Goretti live: Fresh snow and ice warnings as Storm Goretti leaves tens of thousands without power",
           "snippet": "",
-          "url": "https://news.sky.com/story/uk-weather-latest-ice-warnings-in-place-across-uk-before-storm-goretti-brings-heavy-snow-13490580",
-          "source": "Sky News"
+          "url": "https://www.bbc.co.uk/news/live/c70le643x50t",
+          "source": "BBC"
+        },
+        {
+          "title": "Storm Goretti brings 99mph gusts as red warning in force for parts of UK",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/cgez72ln8wwt",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +183,16 @@
           "source": "ESPN"
         },
         {
+          "title": "Who will broadcast the Braves in 2026?",
+          "snippet": "",
+          "url": "https://sports.yahoo.com/articles/broadcast-braves-2026-140000486.html",
+          "source": "Yahoo Sports"
+        },
+        {
           "title": "All nine MLB teams cancel their contracts with FanDuel Sports Network",
           "snippet": "",
           "url": "https://www.nytimes.com/athletic/6955733/2026/01/08/mlb-fanduel-sports-network-teams-cancel-contracts/",
           "source": "The New York Times"
-        },
-        {
-          "title": "Angels, Brewers, Cardinals among 9 MLB teams to cancel broadcast deal",
-          "snippet": "",
-          "url": "https://www.usatoday.com/story/sports/mlb/angels/2026/01/08/angels-mlb-terminate-contract-fanduel/88092421007/",
-          "source": "USA Today"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -210,20 +210,20 @@
       "title": "idnes",
       "trafficCount": "200+",
       "pubDate": "Thu, 8 Jan 2026 21:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRctiwmOkHPMUTqG8l0tnJ4ru_A9_Hl_2qgm8d_XMxskMPwZXwQrU_zEnwm_Gc",
-      "pictureSource": "iDNES.cz",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcST7uarwHvRv1-JhpAV90HFAcn8ZhJ4bJvmb7Yk9w4tArSwYCpPnY5pA2Q4CxY",
+      "pictureSource": "Novinky",
       "relatedSearch": [
-        {
-          "title": "Řidičku v Minneapolisu zastřelil Jonathan Ross. Protesty Američanů neutichají",
-          "snippet": "",
-          "url": "https://www.idnes.cz/zpravy/zahranicni/usa-minneapolis-jmeno-agenta-ice-jonathan-ross.A260109_133055_zahranicni_kha",
-          "source": "iDNES.cz"
-        },
         {
           "title": "Instruktor střelby a veterán z Iráku. Kdo je agent, který zastřelil řidičku v Minneapolis",
           "snippet": "",
           "url": "https://www.novinky.cz/clanek/zahranicni-amerika-instruktor-strelby-a-veteran-z-iraku-kdo-je-agent-ktery-zastrelil-ridicku-v-minneapolis-40556894",
           "source": "Novinky"
+        },
+        {
+          "title": "Řidičku v Minneapolisu zastřelil Jonathan Ross. Protesty Američanů neutichají",
+          "snippet": "",
+          "url": "https://www.idnes.cz/zpravy/zahranicni/usa-minneapolis-jmeno-agenta-ice-jonathan-ross.A260109_133055_zahranicni_kha",
+          "source": "iDNES.cz"
         },
         {
           "title": "Pětka SZ: Úmrtí, které může otřást Amerikou, a proč je v Praze špatné světlo",

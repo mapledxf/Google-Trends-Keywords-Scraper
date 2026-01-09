@@ -1,17 +1,23 @@
 {
-  "lastUpdate": "2026-01-09 06:56:35",
+  "lastUpdate": "2026-01-09 07:22:25",
   "data": [
     {
       "title": "novosti",
-      "trafficCount": "500+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 8 Jan 2026 22:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHMmO4OgfeaiAyUhvM2ZbyYSd9Wbd_jsPGSNPlzJU6a72XRmixzVhz6Qhtp6U",
-      "pictureSource": "Blic",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZQP_9RuAEsZjnISFSKf7uqGfeeAWtFNbMwmS9Pv3tdoduA6tN5f36JEGiZvg",
+      "pictureSource": "B92",
       "relatedSearch": [
         {
-          "title": "Počelo je! Rusija žestoko napala Ukrajinu, obistinila se hitna upozorenja (Video)",
+          "title": "Masovni udar Rusa – \"orešnik\" razara; Hitno su se oglasili, evo šta je uništeno",
           "snippet": "",
-          "url": "https://www.blic.rs/vesti/svet/pocelo-je-rusija-zestoko-napala-ukrajinu-obistinila-se-hitna-upozorenja-video/cxwxjf5",
+          "url": "https://www.b92.net/info/svet/196963/rusi-upotrebili-oresnik-u-napadu-na-ukrajinu/vest",
+          "source": "B92"
+        },
+        {
+          "title": "Američka ambasada u Kijevu upozorava na vazdušne napade i poziva na oprez",
+          "snippet": "",
+          "url": "https://www.blic.rs/vesti/svet/americka-ambasada-u-kijevu-upozorava-na-vazdusne-napade-i-poziva-na-oprez/j370j4w",
           "source": "Blic"
         },
         {
@@ -19,12 +25,6 @@
           "snippet": "",
           "url": "https://www.tanjug.rs/svet/politika/220946/cetiri-osobe-poginule-19-povredeno-u-ruskom-napadu-na-kijev/vest",
           "source": "tanjug.rs"
-        },
-        {
-          "title": "Stravičan napad na Kijev i Lavov, ima mrtvih, sve gori: Rusi ispalili Orešnik, kruži jeziv snimak",
-          "snippet": "",
-          "url": "https://www.telegraf.rs/vesti/svet/4247174-stravican-napad-na-kijev-i-lavov-ima-mrtvih-sve-gori-rusi-ispalili-oresnik",
-          "source": "Telegraf.rs"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,26 +33,26 @@
       "title": "weather",
       "trafficCount": "2000+",
       "pubDate": "Thu, 8 Jan 2026 21:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7v69ZZnZk6raz1s30uBA8xFGmi46miO-PV04BVn35pXL6EJjbsUpCTLXUMlY",
-      "pictureSource": "KIVI-TV",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZyGFXbcOLMqbgvlPjWX5nTFkcEedndU-HTucL6Ma3q09JJ6FIIZnmOt35dn8",
+      "pictureSource": "WCBI TV",
       "relatedSearch": [
         {
-          "title": "Local ski shops hit hard by record warm weather, low snow",
+          "title": "A Stormy Day",
           "snippet": "",
-          "url": "https://www.kivitv.com/news/local-news/in-your-neighborhood/bogus-basin/local-ski-shops-hit-hard-by-record-warm-weather-low-snow",
-          "source": "KIVI-TV"
+          "url": "https://www.wcbi.com/a-stormy-day/",
+          "source": "WCBI TV"
         },
         {
-          "title": "No Snow = Drought in Idaho",
+          "title": "Severe storms and flooding are threats as we end the week",
           "snippet": "",
-          "url": "https://newsradio1310.com/idaho-faces-drought/",
-          "source": "News Radio 1310 KLIX"
+          "url": "https://www.wtok.com/2026/01/09/severe-storms-flooding-are-threats-we-end-week/",
+          "source": "WTOK"
         },
         {
-          "title": "Where’s winter?! Idaho’s snowpack is low but ‘winter is still young’",
+          "title": "New Orleans braces for 4–6 inches of rain, severe storm threat",
           "snippet": "",
-          "url": "https://boisedev.com/news/2026/01/07/wheres-winter-a-look-at-current-snowpack-conditions-across-southwestern-idaho/",
-          "source": "BoiseDev"
+          "url": "https://www.fox8live.com/2026/01/08/new-orleans-braces-46-inches-rain-severe-storm-threat/",
+          "source": "FOX 8 Local First"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,16 +99,16 @@
           "source": "N1"
         },
         {
-          "title": "Danas slavimo Svetog Stefana: Obavezno ispoštujte ove običaje, a jedan predmet ostavite u kući",
-          "snippet": "",
-          "url": "https://www.telegraf.rs/vesti/srbija/4246545-danas-slavimo-svetog-stefana-obavezno-ispostujte-ove-obicaje-a-jedan-predmet-ostavite-u-kuci",
-          "source": "Telegraf.rs"
-        },
-        {
           "title": "SPC slavi Svetog prvomučenika i arhiđakona Stefana, treći dan Božića",
           "snippet": "",
           "url": "https://www.tanjug.rs/srbija/drustvo/220943/spc-slavi-svetog-prvomucenika-i-arhidakona-stefana-treci-dan-bozica/vest",
           "source": "tanjug.rs"
+        },
+        {
+          "title": "PREGLED DOGAĐAJA ZA 9. JANUAR! Praznični duh se nastavlja: Od slavske trpeze do bioskopskih repertoara",
+          "snippet": "",
+          "url": "https://www.telegraf.rs/vesti/srbija/4246565-pregled-dogadjaja-za-9-januar-praznicni-duh-se-nastavlja-od-slavske-trpeze-do-bioskopskih-repertoara",
+          "source": "Telegraf.rs"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -170,34 +170,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "liverpool",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 8 Jan 2026 13:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8Z8rRjlsOCcVJ8VBKhgSGxXKPt6n0Z8lSZ2jogpSP3DdA8X1Pz2boEurLo-0",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Arsenal 0-0 Liverpool: Arne Slot's side must find Premier League cutting edge as chances dry up",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/articles/cr4k2qgnlk2o",
-          "source": "BBC"
-        },
-        {
-          "title": "Cody Gakpo discusses becoming the 'best version' of himself after return to striker at Liverpool",
-          "snippet": "",
-          "url": "https://www.rousingthekop.com/2026/01/07/cody-gakpo-discusses-becoming-the-best-version-of-himself-after-return-to-striker-at-liverpool/",
-          "source": "Rousing The Kop"
-        },
-        {
-          "title": "Marco Silva praises ‘proven Premier\nLeague player’ for moment of magic",
-          "snippet": "",
-          "url": "https://www.vavel.com/en/football/2026/01/05/fulham/1246323-marco-silva-praises-proven-premierleague-player-for-moment-of-magic.html",
-          "source": "VAVEL.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "supercopa de españa",
       "trafficCount": "100+",
       "pubDate": "Thu, 8 Jan 2026 13:00:00 -0800",
@@ -217,10 +189,10 @@
           "source": "Excélsior"
         },
         {
-          "title": "Supercopa de España, un torneo que suma más 2.700 millones en el terreno de juego",
+          "title": "El Barça es el gran favorito para llevarse la Supercopa",
           "snippet": "",
-          "url": "https://palco23.mundodeportivo.com/competiciones/supercopa-de-espana-un-torneo-que-suma-mas-2700-millones-en-el-terreno-de-juego",
-          "source": "Palco23"
+          "url": "https://www.mundiario.com/articulo/deportes/barca-es-gran-favorito-llevarse-supercopa/20260108225212369865.html",
+          "source": "MUNDIARIO"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -277,6 +249,34 @@
           "snippet": "",
           "url": "https://www.theguardian.com/world/2026/jan/08/iran-plunged-into-internet-blackout-as-protests-over-economy-spread-nationwide",
           "source": "The Guardian"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "суперкуп шпаније",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 8 Jan 2026 12:20:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvjROTV2nSxyMA6dH5JpTHwAYj82A975Qs1o0UCvoHi4PC51OU8K75nEUqqTk",
+      "pictureSource": "Радио Телевизија Србије",
+      "relatedSearch": [
+        {
+          "title": "Реал преко Атлетика до финала Суперкупа са Барселоном",
+          "snippet": "",
+          "url": "https://www.rts.rs/sport/fudbal/5863430/real-preko-atletika-do-finala-superkupa-sa-barselonom.html",
+          "source": "Радио Телевизија Србије"
+        },
+        {
+          "title": "Atomski fudbal u Džedi, Real preko Atletika u finale Superkupa",
+          "snippet": "",
+          "url": "https://sportklub.n1info.rs/fudbal/primera/atomski-fudbal-u-dzedi-real-preko-atletika-u-finale-superkupa/",
+          "source": "Sportklub"
+        },
+        {
+          "title": "Real Madrid drugi finalista Superkupa Španije",
+          "snippet": "",
+          "url": "https://www.danas.rs/sport/real-atetiko-superkup-spanije/",
+          "source": "Danas"
         }
       ],
       "link": "https://imtaqin.id/"

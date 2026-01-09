@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2026-01-09 06:25:49",
+  "lastUpdate": "2026-01-09 06:56:05",
   "data": [
-    {
-      "title": "weer",
-      "trafficCount": "10000+",
-      "pubDate": "Thu, 8 Jan 2026 22:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_MAtlb3mESAYmXbBGaP1HgJxe4AEKQLgi5Gah2xn447ZeYJ3BcXllBFsjA1A",
-      "pictureSource": "HLN",
-      "relatedSearch": [
-        {
-          "title": "Storm Goretti aan land: “Lokaal kunnen windstoten oplopen tot 100 km/u” | Weernieuws",
-          "snippet": "",
-          "url": "https://www.hln.be/weernieuws/storm-goretti-aan-land-lokaal-kunnen-windstoten-oplopen-tot-100-km-u~ac484c3e/",
-          "source": "HLN"
-        },
-        {
-          "title": "Vele weersveranderingen bezorgen weermannen de tijd van hun leven: “Ik sta een uur vroeger op om te gaan kijken”",
-          "snippet": "",
-          "url": "https://www.gva.be/binnenland/vele-weersveranderingen-bezorgen-weermannen-de-tijd-van-hun-leven-ik-sta-een-uur-vroeger-op-om-te-gaan-kijken/122366157.html",
-          "source": "GVA"
-        },
-        {
-          "title": "Stormweer - Storm Goretti velt bomen in West-Vlaanderen, windsnelheid van 213 km/u in noordwesten van Frankrijk",
-          "snippet": "",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/storm-goretti-velt-bomen-in-westvlaanderen-windsnelheid-van-21~1767762811354/",
-          "source": "VRT"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "de lijn",
       "trafficCount": "200+",
@@ -86,8 +58,36 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "weerbericht",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 8 Jan 2026 22:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZCLuyAvcfcjWfzCEPM_8MQVkDlyDDIlvBRkwacgMnKJGMbJcq1_Ka4wKBfjQ",
+      "pictureSource": "VRT",
+      "relatedSearch": [
+        {
+          "title": "Winterweer - Vanochtend nog glad, daarna veel regen en wind door storm Goretti",
+          "snippet": "",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/vanochtend-nog-glad-daarna-veel-regen-en-wind-door-storm-gorett~1767762811354/",
+          "source": "VRT"
+        },
+        {
+          "title": "Sneeuwzone verdwijnt oostwaarts, wegen blijven verraderlijk glad: vrachtverkeer van A12 gehaald in Meise",
+          "snippet": "",
+          "url": "https://www.hln.be/weernieuws/sneeuwzone-verdwijnt-oostwaarts-wegen-blijven-verraderlijk-glad-vrachtverkeer-van-a12-gehaald-in-meise~ac484c3e/",
+          "source": "HLN"
+        },
+        {
+          "title": "Skiseizoen lijkt nu al geslaagd in de Ardennen: “In het weekend glijdt er makkelijk 500 man van onze pistes”",
+          "snippet": "",
+          "url": "https://www.nieuwsblad.be/binnenland/skiseizoen-lijkt-nu-al-geslaagd-in-de-ardennen-in-het-weekend-glijdt-er-makkelijk-500-man-van-onze-pistes/122279498.html",
+          "source": "Nieuwsblad"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "rtbf",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 8 Jan 2026 22:00:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRa_lqz5T4RLcHao9mTQuZi_BPsSM0ujAtTxtvHKb6AxX-5OrbNzMzGHyXCXI",
       "pictureSource": "DHnet",
@@ -114,57 +114,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "weerbericht",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 8 Jan 2026 22:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrdbUhkLPIk12TLy1Z9OXF4Bi06r5XYg1COI586FgLmODxC_auiEBzXbycwU4",
-      "pictureSource": "HLN",
-      "relatedSearch": [
-        {
-          "title": "Storm ‘Goretti’ splijt België: “Bakken regen in Vlaanderen, tot 20 cm extra sneeuw in Ardennen”",
-          "snippet": "",
-          "url": "https://www.hln.be/binnenland/storm-goretti-splijt-belgie-bakken-regen-in-vlaanderen-tot-20-cm-extra-sneeuw-in-ardennen~aa4a7608/",
-          "source": "HLN"
-        },
-        {
-          "title": "Ook dit weekend winters weer: noorden krijgt dik pak sneeuw en lokaal -15 graden",
-          "snippet": "",
-          "url": "https://www.nu.nl/binnenland/6381888/ook-dit-weekend-winters-weer-noorden-krijgt-dik-pak-sneeuw-en-lokaal-15-graden.html",
-          "source": "NU"
-        },
-        {
-          "title": "“Een koude start, later zachter met veel regen. Vannacht zware windstoten”",
-          "snippet": "",
-          "url": "https://www.hbvl.be/natuur-en-wetenschap/donderdagochtend-eerst-nog-kans-op-smeltende-sneeuw-later-op-de-dag-droog-en-meer-wind/90712128.html",
-          "source": "HBVL"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "weather",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 8 Jan 2026 21:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREAxVGHfZ_6xVbqKkqGWY7DV2ewt_yc98NOZ44RmhSJP0QMQ6SOnZYICOypw8",
-      "pictureSource": "Yahoo News UK",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7v69ZZnZk6raz1s30uBA8xFGmi46miO-PV04BVn35pXL6EJjbsUpCTLXUMlY",
+      "pictureSource": "KIVI-TV",
       "relatedSearch": [
         {
-          "title": "What will the weather be like in Mid Cheshire this weekend?",
+          "title": "Local ski shops hit hard by record warm weather, low snow",
           "snippet": "",
-          "url": "https://uk.news.yahoo.com/weather-mid-cheshire-weekend-050000389.html",
-          "source": "Yahoo News UK"
+          "url": "https://www.kivitv.com/news/local-news/in-your-neighborhood/bogus-basin/local-ski-shops-hit-hard-by-record-warm-weather-low-snow",
+          "source": "KIVI-TV"
         },
         {
-          "title": "What will the weather be like in Mid Cheshire this weekend?",
+          "title": "No Snow = Drought in Idaho",
           "snippet": "",
-          "url": "https://www.northwichguardian.co.uk/news/25750773.met-office-weekend-weather-forecast-northwich/",
-          "source": "Northwich Guardian"
+          "url": "https://newsradio1310.com/idaho-faces-drought/",
+          "source": "News Radio 1310 KLIX"
         },
         {
-          "title": "Train Delays in Kyiv Region Due to Power Line Damage and Severe Weather",
+          "title": "Where’s winter?! Idaho’s snowpack is low but ‘winter is still young’",
           "snippet": "",
-          "url": "https://mezha.net/eng/bukvy/train-delays-in-kyiv-region-due-to-power-line-damage-and-severe-weather/",
-          "source": "#Mezha"
+          "url": "https://boisedev.com/news/2026/01/07/wheres-winter-a-look-at-current-snowpack-conditions-across-southwestern-idaho/",
+          "source": "BoiseDev"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -198,28 +170,56 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "kmi",
+      "trafficCount": "10000+",
+      "pubDate": "Thu, 8 Jan 2026 21:30:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQR3WnKp7pNlrGp34yMuQWGEXoT2PSQlAye2hMatlZJbClDP5LZRnsE4fjvdU4",
+      "pictureSource": "VRT",
+      "relatedSearch": [
+        {
+          "title": "Stormweer - Omgevallen boom verspert 2 rijstroken van E19 in Zemst, windsnelheid van 213 km/u in Frankrijk",
+          "snippet": "",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/omgevallen-boom-verspert-2-rijstroken-van-e19-in-zemst-windsnel~1767762811354/",
+          "source": "VRT"
+        },
+        {
+          "title": "Vele weersveranderingen bezorgen weermannen de tijd van hun leven: “Ik sta een uur vroeger op om te gaan kijken”",
+          "snippet": "",
+          "url": "https://www.gva.be/binnenland/vele-weersveranderingen-bezorgen-weermannen-de-tijd-van-hun-leven-ik-sta-een-uur-vroeger-op-om-te-gaan-kijken/122366157.html",
+          "source": "GVA"
+        },
+        {
+          "title": "Live - Storm Goretti trekt over het land • Windstoot van 213 km/u gemeten in Frankrijk, 380.000 Franse gezinnen zonder stroom",
+          "snippet": "",
+          "url": "https://www.demorgen.be/snelnieuws/live-storm-goretti-trekt-over-het-land-windstoot-van-213-km-u-gemeten-in-frankrijk-380-000-franse-gezinnen-zonder-stroom~befd89b6/",
+          "source": "De Morgen"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "tec perturbations",
       "trafficCount": "100+",
       "pubDate": "Thu, 8 Jan 2026 21:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNUJtq_TNVll0Z0xYjnbUES4R23afU-oQVsHCieJHcVUvN3s4htOh3BHNdyQs",
-      "pictureSource": "RTL Info",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAfQjRUf0DrwDun8WXwU-l_cIrQPyrKP-auRKPOVYE1WjZscP_BFhbhTCBmmM",
+      "pictureSource": "VRT",
       "relatedSearch": [
         {
-          "title": "Retour de la neige fondante ce jeudi : l’ensemble de la Belgique reste en vigilance jaune",
+          "title": "\"Sans freiner, ça va plus vite\" : des écoliers d’Ovifat dévalent les pistes juste derrière leur maison",
           "snippet": "",
-          "url": "https://www.rtl.be/actu/belgique/meteo/retour-de-la-neige-fondante-ce-jeudi-lensemble-de-la-belgique-reste-en-vigilance/2026-01-07/article/775813",
-          "source": "RTL Info"
+          "url": "https://www.vrt.be/vrtnws/fr/2026/01/08/sans-freiner-ca-va-plus-vite-des-enfants-dovifat-devalent-l/",
+          "source": "VRT"
         },
         {
-          "title": "Intempéries : le numéro 1722 activé et en province de Liège, les usagers sont appelés à reporter tout déplacement non essentiel",
+          "title": "Douze centres de sports d'hiver accessibles en province de Liège et du Luxembourg",
           "snippet": "",
-          "url": "https://www.rtbf.be/article/intemperies-le-numero-1722-active-en-prevision-des-fortes-pluies-et-rafales-de-vent-annoncees-11658171",
-          "source": "RTBF"
+          "url": "https://www.dhnet.be/actu/belgique/2026/01/08/douze-centres-de-sports-dhiver-accessibles-en-province-de-liege-et-du-luxembourg-G3GHF2SDUZFJHPUEWW666LXFBU/",
+          "source": "DHnet"
         },
         {
-          "title": "Neige, gel et tempête Goretti : vit-on un hiver exceptionnel ?",
+          "title": "Les skieurs prennent d’assaut les Hautes Fagnes (photos)",
           "snippet": "",
-          "url": "https://www.lesoir.be/721202/article/2026-01-08/neige-gel-et-tempete-goretti-vit-un-hiver-exceptionnel",
+          "url": "https://www.lesoir.be/720761/article/2026-01-06/les-skieurs-prennent-dassaut-les-hautes-fagnes-photos",
           "source": "Le Soir"
         }
       ],
@@ -227,7 +227,7 @@
     },
     {
       "title": "sncb",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 8 Jan 2026 21:20:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSV9S6KqCwLi2yVOjpg0itTOGdNrzmjMwiDJ_J8iRQK8G4DaqyaGYJJp27q7J4",
       "pictureSource": "Le Soir",
@@ -257,26 +257,26 @@
       "title": "rtl info",
       "trafficCount": "500+",
       "pubDate": "Thu, 8 Jan 2026 21:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZv9aKRLn-tBl4olDQOdabI9uLfKVCcqjT_agrFOUL3md-P1BH4EQ6U8-kl9U",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSh55bTQW38-YItR82wLL1OJ9GouKevnog2e-NkRbmUAxOSxM-tcc88ciGClY",
       "pictureSource": "RTL Info",
       "relatedSearch": [
         {
-          "title": "Vous donnez de l’argent à vos proches par virement ? Il y a une chose à ne pas faire",
+          "title": "Une bonne nouvelle pour de nombreux Belges ? Jan Jambon fait une promesse... et elle concerne votre salaire",
           "snippet": "",
-          "url": "https://www.rtl.be/actu/monde/economie/vous-donnez-de-largent-vos-proches-par-virement-il-y-une-chose-ne-pas-faire/2026-01-08/article/775924",
+          "url": "https://www.rtl.be/actu/belgique/politique/une-bonne-nouvelle-pour-de-nombreux-belges-jan-jambon-fait-une-promesse-et-elle/2026-01-08/article/775932",
           "source": "RTL Info"
         },
         {
-          "title": "Dès le 1er janvier 2026, ces dons d’argent devront être déclarés en ligne sous peine de sanctions",
+          "title": "Les barèmes fiscaux sont indexés : vous gagnerez quelques euros de plus par mois dès janvier",
           "snippet": "",
-          "url": "https://www.laprovence.com/article/societe/1367464913236815/des-le-1er-janvier-2026-ces-dons-d-argent-devront-etre-declares-en-ligne-sous-peine-de-sanctions",
-          "source": "La Provence"
+          "url": "https://www.rtbf.be/article/les-baremes-fiscaux-sont-indexes-vous-gagnerez-quelques-euros-de-plus-par-mois-des-janvier-11658105",
+          "source": "RTBF"
         },
         {
-          "title": "Attention si vous donnez une voiture, le fisc vous a à l'oeil depuis le 1er janvier",
+          "title": "Fiscalité, bas salaires, indexation: la Chambre apporte des précisions importantes",
           "snippet": "",
-          "url": "https://www.auto-moto.com/en-bref/attention-don-voiture-fisc-67887",
-          "source": "Auto Moto"
+          "url": "https://www.lalibre.be/economie/mes-finances/2026/01/08/fiscalite-bas-salaires-indexation-la-chambre-apporte-des-precisions-importantes-GKCQHE3JE5FGRAAHCLQHKO7AAQ/",
+          "source": "La Libre.be"
         }
       ],
       "link": "https://imtaqin.id/"

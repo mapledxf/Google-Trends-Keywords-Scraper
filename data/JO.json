@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2026-01-10 05:49:39",
+  "lastUpdate": "2026-01-10 05:57:32",
   "data": [
     {
       "title": "حالة الطقس اليوم",
       "trafficCount": "2000+",
       "pubDate": "Fri, 9 Jan 2026 20:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSH2jibFj5sIml-5w2O31b7VmhNMM1RGmAsSA87Zbc7m3BflgPZ_CFxVOrFysY",
-      "pictureSource": "طقس العرب",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQylXRfn_LbidESciDkrbM9Tr6fUwJ-S8pBRUT1k88iS7nTdDmMEb2V6n-NMWA",
+      "pictureSource": "وكالة عمون الاخبارية",
       "relatedSearch": [
+        {
+          "title": "الأرصاد: مؤشرات على احتمال تساقط ثلوج الثلاثاء المقبل",
+          "snippet": "",
+          "url": "https://www.ammonnews.net/article/972333",
+          "source": "وكالة عمون الاخبارية"
+        },
         {
           "title": "الأردن: توقعات الطقس وفرص الأمطار الليلة وغدًا السبت",
           "snippet": "",
@@ -19,12 +25,6 @@
           "snippet": "",
           "url": "https://royanews.tv/news/370408",
           "source": "رؤيا الإخباري"
-        },
-        {
-          "title": "الإدارة المحلية: التعامل مع 89 ملاحظة .. وإربد ومادبا الاكثر تأثرًا",
-          "snippet": "",
-          "url": "https://www.ammonnews.net/article/972358",
-          "source": "وكالة عمون الاخبارية"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,10 +161,10 @@
           "source": "حال الخليج"
         },
         {
-          "title": "الدوري الألماني: تعادل «مجنون» بين فرانكفورت ودورتموند",
+          "title": "القنوات الناقلة لمباراة بوروسيا دورتموند ضد أينتراخت فرانكفورت اليوم في الدوري الألماني مع الموعد والتشكيلة - المشهد",
           "snippet": "",
-          "url": "https://aawsat.com/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/5228130-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A-%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D9%85%D8%AC%D9%86%D9%88%D9%86-%D8%A8%D9%8A%D9%86-%D9%81%D8%B1%D8%A7%D9%86%D9%83%D9%81%D9%88%D8%B1%D8%AA-%D9%88%D8%AF%D9%88%D8%B1%D8%AA%D9%85%D9%88%D9%86%D8%AF",
-          "source": "الشرق الأوسط"
+          "url": "https://almashhad.com/article/218257510540304-sports/736510506544780-%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A8%D9%88%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AF%D9%88%D8%B1%D8%AA%D9%85%D9%88%D9%86%D8%AF-%D8%B6%D8%AF-%D8%A3%D9%8A%D9%86%D8%AA%D8%B1%D8%A7%D8%AE%D8%AA-%D9%81%D8%B1%D8%A7%D9%86%D9%83%D9%81%D9%88%D8%B1%D8%AA-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A-%D9%85%D8%B9-%D8%A7%D9%84%D9%85%D9%88%D8%B9%D8%AF-%D9%88%D8%A7%D9%84%D8%AA%D8%B4%D9%83%D9%8A%D9%84%D8%A9/",
+          "source": "قناة ومنصة المشهد"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -199,7 +199,7 @@
     },
     {
       "title": "المغرب منتخب",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 9 Jan 2026 11:30:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK7QFMUJNvMjvaayx7uZzsOvDPVclpG3W78ewg0EUNXWsGozlirIYkQtf7vH8",
       "pictureSource": "الجزيرة نت",

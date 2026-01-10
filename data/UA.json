@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-01-10 04:55:44",
+  "lastUpdate": "2026-01-10 05:15:40",
   "data": [
     {
       "title": "новости днепра",
       "trafficCount": "200+",
       "pubDate": "Fri, 9 Jan 2026 20:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSla_q1yvqu1wy38N6C7e0MubkfZu6EnD_21cFMZXr4dHzbxdn-hQxcyFhi_4w",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxfB9nbu-H8BkDQBIKSva8u9fYRdu9Xn8a_m_mFtWzOhiXbpA8CZC7u4OahcU",
       "pictureSource": "Hromadske",
       "relatedSearch": [
         {
@@ -31,7 +31,7 @@
     },
     {
       "title": "погода на сьогодні",
-      "trafficCount": "500+",
+      "trafficCount": "100+",
       "pubDate": "Fri, 9 Jan 2026 20:00:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTQMWMLzDOSgFXRdlJefniZTmYLOxNBU6ejyUkIXbZ_xBu6F3FpLi6TmAs664",
       "pictureSource": "Суспільне | Новини",
@@ -59,7 +59,7 @@
     },
     {
       "title": "отключение света киев",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 9 Jan 2026 19:00:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_zyP4Mle5fnjZXugw1M9HXKEZsQBP-XcntSSHzgeu1C5GeiPhmH2oOPUSR4c",
       "pictureSource": "Українська правда",
@@ -173,9 +173,15 @@
       "title": "кривий ріг",
       "trafficCount": "200+",
       "pubDate": "Fri, 9 Jan 2026 13:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1IUbMrUNTWARtHYGPhr-H8tLBe-FYWVIGrTWg_yshtkp2eqvliAUM0z3abMM",
-      "pictureSource": "Korrespondent.net",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQooA1br13yh90Z4y3H_tYUReOJY3tBC-SnTLoEf5eeXrpnGM10CSBE6XpHcVs",
+      "pictureSource": "Українська правда",
       "relatedSearch": [
+        {
+          "title": "Росіяни масовано атакували Кривий Ріг БпЛА, у місті пролунали вибухи",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/news/2026/01/10/8015440/",
+          "source": "Українська правда"
+        },
         {
           "title": "БПЛА атакували Кривий Ріг і Київ",
           "snippet": "",
@@ -187,12 +193,6 @@
           "snippet": "",
           "url": "https://hromadske.ua/viyna/257599-udar-po-kryvomu-rohu-zahynula-zinka-postrazdaly-shche-23-liudyny-a-29-bahatopoverkhivok-poshkodzeni",
           "source": "Hromadske"
-        },
-        {
-          "title": "Російський удар по Кривому Рогу пошкодив 36 багатоквартирних будинків – Вілкул",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/news/2026/01/09/8015347/",
-          "source": "Українська правда"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +211,16 @@
           "source": "Українська правда"
         },
         {
+          "title": "Взрывы в Кривом Роге раздаются из-за массированной атаки \"Шахедов\"",
+          "snippet": "",
+          "url": "https://www.rbc.ua/ukr/news/vibuhi-krivomu-rozi-lunayut-cherez-masovanu-1767996415.html",
+          "source": "РБК-Україна"
+        },
+        {
           "title": "РФ била дронами и ракетами: спустя сутки после атаки в Кривом Роге продолжается ликвидация последствий (ВИДЕО)",
           "snippet": "",
           "url": "https://uatv.ua/rf-bila-dronami-i-raketami-spustya-sutki-posle-ataki-v-krivom-roge-prodolzhaetsya-likvidatsiya-posledstvij-video/",
           "source": "uatv.ua"
-        },
-        {
-          "title": "На Днепропетровщине громко - регион атакуют вражеские беспилотники",
-          "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/dnipropetrovshchini-guchno-region-atakuyut-1768002593.html",
-          "source": "РБК-Україна"
         }
       ],
       "link": "https://imtaqin.id/"

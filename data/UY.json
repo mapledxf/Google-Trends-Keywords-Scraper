@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2026-01-11 19:17:18",
+  "lastUpdate": "2026-01-11 19:29:30",
   "data": [
     {
-      "title": "disney plus",
+      "title": "dazn",
       "trafficCount": "100+",
+      "pubDate": "Sun, 11 Jan 2026 11:10:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdpng21cV0vsl4JTeJIwNENsVMgZpE9Xa6mqpilXVlErayuT_c19xPqcKEqS4",
+      "pictureSource": "ESPN",
+      "relatedSearch": [
+        {
+          "title": "Sources: 9 MLB teams end deals with Main Street Sports Group",
+          "snippet": "",
+          "url": "https://www.espn.com/mlb/story/_/id/47552639/sources-9-mlb-teams-end-deals-main-street-sports-group",
+          "source": "ESPN"
+        },
+        {
+          "title": "What we know about Cincinnati Reds TV revenue turmoil, impact on team",
+          "snippet": "",
+          "url": "https://www.cincinnati.com/story/sports/mlb/reds/2026/01/09/what-we-know-about-cincinnati-reds-tv-revenue-turmoil-impact-on-team-fanduel-sports-network/88107038007/",
+          "source": "Cincinnati Enquirer"
+        },
+        {
+          "title": "Tigers cancel TV contract amid growing uncertainty over network's future",
+          "snippet": "",
+          "url": "https://www.detroitnews.com/story/sports/mlb/tigers/2026/01/09/tigers-cancel-tv-contract-amid-growing-uncertainty-over-future-of-fanduel-sports-network/88105015007/",
+          "source": "The Detroit News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "disney plus",
+      "trafficCount": "200+",
       "pubDate": "Sun, 11 Jan 2026 11:00:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTopw_lCJP5JQb1eiaykuzHS67Ml0TTBV7SgjXP67v7Jlzsqu8fhWkN1EZcRN0",
       "pictureSource": "Deadline",
@@ -86,23 +114,51 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "real madrid barcelona",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 11 Jan 2026 10:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-d4vKR1M2FR_8q-KUTlq_Rxoci6K00BPCKMirYPCVAg9IHiDO7DtsmKSonPs",
+      "pictureSource": "Foot Africa",
+      "relatedSearch": [
+        {
+          "title": "Clasico: Official line-ups for the 2026 Spanish Super Cup final",
+          "snippet": "",
+          "url": "https://foot-africa.com/en/news/clasico-official-line-ups-for-the-2026-spanish-super-cup-final-1038662/",
+          "source": "Foot Africa"
+        },
+        {
+          "title": "Preview: Barcelona face Real Madrid in Clásico showdown for Supercopa in Saudi Arabia",
+          "snippet": "",
+          "url": "https://www.fotmob.com/id/topnews/25160-preview-barcelona-face-real-madrid-clasico-showdown-supercopa-saudi-arabia",
+          "source": "FotMob"
+        },
+        {
+          "title": "Real Madrid superstar Jude Bellingham gives keys to victory for Spanish Supercup final",
+          "snippet": "",
+          "url": "https://www.football-espana.net/2026/01/11/jude-bellingham-keys-to-victory-spanish-supercup",
+          "source": "Football Espana"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "tarjeta roja",
       "trafficCount": "1000+",
       "pubDate": "Sun, 11 Jan 2026 10:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4PUoboZL5lnl9ISkKgc5b5uEOhlDMAQWkffe8w7pqYkV7CBJUgbNIBW3MFbQ",
-      "pictureSource": "Diario AS",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_y8syXfAskxCUhKAQFkq4mxMzqHKqzIjbiEJ1B170sjMvgFd158MEzzgmUxg",
+      "pictureSource": "Montevideo Portal",
       "relatedSearch": [
-        {
-          "title": "Manchester United 1-2 Brighton: Resumen, resultado y goles del partido | FA Cup en directo",
-          "snippet": "",
-          "url": "https://as.com/futbol/internacional/manchester-united-brighton-en-directo-fa-cup-en-vivo-hoy-f202601-d/",
-          "source": "Diario AS"
-        },
         {
           "title": "FA Cup: Manchester United eliminado en tercera ronda por el Brighton. Hubo más partidos",
           "snippet": "",
           "url": "https://www.montevideo.com.uy/Deportes/FA-Cup-Manchester-United-eliminado-en-tercera-ronda-por-el-Brighton-Hubo-mas-partidos-uc949303",
           "source": "Montevideo Portal"
+        },
+        {
+          "title": "Manchester United 1-2 Brighton: Resumen, resultado y goles del partido | FA Cup en directo",
+          "snippet": "",
+          "url": "https://as.com/futbol/internacional/manchester-united-brighton-en-directo-fa-cup-en-vivo-hoy-f202601-d/",
+          "source": "Diario AS"
         },
         {
           "title": "Calificaciones de jugadores: Brajan Gruda brilla mientras el Manchester United se siente avergonzado por Brighton",
@@ -133,17 +189,17 @@
           "source": "Live 5 News"
         },
         {
-          "title": "Portion of Ashley River Road closed while crews repair power outage: CPD",
+          "title": "Ashley River Road back open after brief closure to fix power outage",
           "snippet": "",
-          "url": "https://abcnews4.com/news/local/portion-of-ashley-river-road-closed-while-crews-repair-power-outage-cpd",
-          "source": "WCIV"
+          "url": "https://www.wtma.com/2026/01/11/ashley-river-road-back-open-after-brief-closure-to-fix-power-outage/",
+          "source": "WTMA-AM"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "flow uruguay",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 11 Jan 2026 10:20:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEcZSE09hva1zUyVK_gMfyUwqxjtXYkXgDjnkFXd_peOp827Sr1A8IU09jCzQ",
       "pictureSource": "Montevideo Portal",
@@ -177,9 +233,9 @@
       "pictureSource": "Montevideo Portal",
       "relatedSearch": [
         {
-          "title": "Barcelona-Real Madrid: ¿por qué juegan, a qué hora y cómo ver el partido en Uruguay?",
+          "title": "Barcelona y Real Madrid están empatando sin goles. ¿Cómo verlo en Uruguay?",
           "snippet": "",
-          "url": "https://www.montevideo.com.uy/Deportes/Barcelona-Real-Madrid--por-que-juegan-a-que-hora-y-como-ver-el-partido-en-Uruguay--uc949293",
+          "url": "https://www.montevideo.com.uy/Deportes/Barcelona-y-Real-Madrid-estan-empatando-sin-goles--Como-verlo-en-Uruguay--uc949293",
           "source": "Montevideo Portal"
         },
         {
@@ -201,82 +257,26 @@
       "title": "barca",
       "trafficCount": "200+",
       "pubDate": "Sun, 11 Jan 2026 10:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-d4vKR1M2FR_8q-KUTlq_Rxoci6K00BPCKMirYPCVAg9IHiDO7DtsmKSonPs",
-      "pictureSource": "Foot Africa",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKDkZ1XdDPQOgItrO9WF3dbfcjQ8WkuZVZ2u2kLELz6nkDt8SxleLxR8fSlGg",
+      "pictureSource": "Indeksonline.",
       "relatedSearch": [
         {
-          "title": "Clasico: Official line-ups for the 2026 Spanish Super Cup final",
+          "title": "Pérez aumenta i bonus prima della finale: motivazione extra per il Real Madrid contro il Barcellona",
           "snippet": "",
-          "url": "https://foot-africa.com/en/news/clasico-official-line-ups-for-the-2026-spanish-super-cup-final-1038662/",
-          "source": "Foot Africa"
+          "url": "https://indeksonline.net/it/1perez-aumenta-i-bonus-prima-della-finale--ulteriore-motivazione-per-il-Real-Madrid-contro-il-Barcellona/",
+          "source": "Indeksonline."
         },
         {
-          "title": "Real Madrid superstar Jude Bellingham gives keys to victory for Spanish Supercup final",
+          "title": "Flick sprona il Barcellona: \"Mostrate il vostro meglio\" nella Supercoppa",
           "snippet": "",
-          "url": "https://www.football-espana.net/2026/01/11/jude-bellingham-keys-to-victory-spanish-supercup",
-          "source": "Football Espana"
+          "url": "https://www.fotmob.com/it/news/981rmczqy1bw1imwm50d9ay6i_it-flick-sprona-il-barcellona-mostrate-il-vostro-meglio-nella-supercoppa",
+          "source": "FotMob"
         },
         {
-          "title": "Real Madrid vs Barcelona 2026 live stream: Time, TV channels and how to watch Spanish Supercup Final online",
+          "title": "Mbappé forzato in finale? Perché Xabi Alonso rischia tutto contro il Barça",
           "snippet": "",
-          "url": "https://www.managingmadrid.com/102671/real-madrid-barcelona-2026-live-stream-time-tv-channels-and-how-to-watch-spanish-supercup-online",
-          "source": "Managing Madrid"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "peñarol",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 11 Jan 2026 10:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3i5w6ou7eBApYzgNmkaOa4pPP7r9YYN99zGUgCfPfEsDBuCXuScs0WHprx9s",
-      "pictureSource": "Montevideo Portal",
-      "relatedSearch": [
-        {
-          "title": "Javier Méndez deja Peñarol, que recibe dinero de Colo Colo y tiene un sustituto encaminado",
-          "snippet": "",
-          "url": "https://www.montevideo.com.uy/Deportes/Javier-Mendez-deja-Penarol-que-recibe-dinero-de-Colo-Colo-y-tiene-un-sustituto-encaminado-uc949207",
-          "source": "Montevideo Portal"
-        },
-        {
-          "title": "Baja importante en Peñarol: se va del club aurinegro un jugador que tenía contrato hasta diciembre de 2026",
-          "snippet": "",
-          "url": "https://www.elpais.com.uy/ovacion/futbol/baja-importante-en-penarol-se-va-del-club-aurinegro-un-jugador-que-tenia-contrato-hasta-diciembre-de-2026",
-          "source": "EL PAÍS Uruguay"
-        },
-        {
-          "title": "Javier Méndez deja Peñarol | Noticias | Futbol Uruguayo",
-          "snippet": "",
-          "url": "https://espectador.com/noticias/futboluruguayo/javier-mendez-deja-penarol",
-          "source": "El Espectador Deportes"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "bayern - wolfsburg",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 11 Jan 2026 09:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlIvWsYA6SFFplRVOxlkeuERAa0HlNxZz_ez_-UAQu1RSJzTZqDJ-N99R4PX8",
-      "pictureSource": "SPOX.com",
-      "relatedSearch": [
-        {
-          "title": "FC Bayern München, Noten und Einzelkritiken zum Spiel gegen den VfL Wolfsburg: Drei Münchner zaubern - nur Lennart Karl fällt ab",
-          "snippet": "",
-          "url": "https://www.spox.com/fussball/listen/fc-bayern-muenchen-noten-und-einzelkritiken-zum-spiel-gegen-den-vfl-wolfsburg-drei-muenchner-zaubern-nur-lennart-karl-faellt-ab/blted88ad154f2290c2",
-          "source": "SPOX.com"
-        },
-        {
-          "title": "Bayern-Trainer Vincent Kompany hat hervorragenden Punkteschnitt",
-          "snippet": "",
-          "url": "https://sport.sky.de/fussball/artikel/bayern-trainer-vincent-kompany-hat-hervorragenden-punkteschnitt/13492005/33895",
-          "source": "Sky.de"
-        },
-        {
-          "title": "Spielbericht FC Bayern - VfL Wolfsburg | Bundesliga",
-          "snippet": "",
-          "url": "https://fcbayern.com/de/spiele/profis/bundesliga/2025-2026/fc-bayern-muenchen-vfl-wolfsburg-10-01-2026/spielbericht",
-          "source": "FC Bayern Munich"
+          "url": "https://www.diretta.it/news/calcio-supercoppa-mbappe-pragmatismo-e-calcoli-di-sicurezza-perche-xabi-alonso-rischia-tutto-contro-il-barca/ro1sqMHl/",
+          "source": "Diretta"
         }
       ],
       "link": "https://imtaqin.id/"

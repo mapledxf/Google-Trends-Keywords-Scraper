@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-12 05:38:41",
+  "lastUpdate": "2026-01-12 05:56:33",
   "data": [
     {
       "title": "pogoda wrocław",
@@ -43,16 +43,16 @@
           "source": "Radom Nasze Miasto"
         },
         {
+          "title": "Pogoda na tydzień w Radomsku. Sprawdź prognozę na najbliższe dni od jutra (13.01) do niedzieli",
+          "snippet": "",
+          "url": "https://radomsko.naszemiasto.pl/pogoda-na-tydzien-w-radomsku-sprawdz-prognoze-na-najblizsze-dni-od-jutra-13-01-do-niedzieli/ar/c1p1-19944175",
+          "source": "Radomsko Nasze Miasto"
+        },
+        {
           "title": "Pogoda na dzisiaj dla Radomska - 11.01. Sprawdź, jaka będzie pogoda w niedzielę",
           "snippet": "",
           "url": "https://radomsko.naszemiasto.pl/pogoda-na-dzisiaj-dla-radomska-11-01-sprawdz-jaka-bedzie-pogoda-w-niedziele/ar/c1p1-19943063",
           "source": "Radomsko Nasze Miasto"
-        },
-        {
-          "title": "Prognoza pogody na tydzień dla Radomia. Zobacz, co zapowiadają meteorolodzy od jutra (11.01) do piątku",
-          "snippet": "",
-          "url": "https://radom.naszemiasto.pl/prognoza-pogody-na-tydzien-dla-radomia-zobacz-co-zapowiadaja-meteorolodzy-od-jutra-11-01-do-piatku/ar/c1p1-19943955",
-          "source": "Radom Nasze Miasto"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -198,34 +198,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "pogoda poznań",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 11 Jan 2026 20:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTilGi008dxfw0WyC1qhCZhFFckXWP_L1TQOkxeKz6Vfir9n4LW9LM3FRT01c",
-      "pictureSource": "Onet Wiadomości",
-      "relatedSearch": [
-        {
-          "title": "Poznań - sprawdź prognozę pogody w dniu 12.01.2026",
-          "snippet": "",
-          "url": "https://wiadomosci.onet.pl/poznan/poznan-prognoza-pogody-w-dniu-12012026/51xn70w",
-          "source": "Onet Wiadomości"
-        },
-        {
-          "title": "Chmury nie odpuszczają w Poznaniu. Czy będzie deszczowo?",
-          "snippet": "",
-          "url": "https://wiadomosci.gazeta.pl/pogoda-i-klimat/7,198797,32519812,chmury-nie-odpuszczaja-w-poznaniu-czy-bedzie-deszczowo.html",
-          "source": "Gazeta"
-        },
-        {
-          "title": "Pogoda w Poznaniu. Prognoza na poniedziałek 12 stycznia",
-          "snippet": "",
-          "url": "https://pogoda.o2.pl/pogoda/pogoda-w-poznaniu-prognoza-na-poniedzialek-12-stycznia-7242175554149344a",
-          "source": "o2.pl"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "pogoda długoterminowa",
       "trafficCount": "500+",
       "pubDate": "Sun, 11 Jan 2026 20:50:00 -0800",
@@ -254,6 +226,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "pogoda poznań",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 11 Jan 2026 20:50:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTilGi008dxfw0WyC1qhCZhFFckXWP_L1TQOkxeKz6Vfir9n4LW9LM3FRT01c",
+      "pictureSource": "Onet Wiadomości",
+      "relatedSearch": [
+        {
+          "title": "Poznań - sprawdź prognozę pogody w dniu 12.01.2026",
+          "snippet": "",
+          "url": "https://wiadomosci.onet.pl/poznan/poznan-prognoza-pogody-w-dniu-12012026/51xn70w",
+          "source": "Onet Wiadomości"
+        },
+        {
+          "title": "Chmury nie odpuszczają w Poznaniu. Czy będzie deszczowo?",
+          "snippet": "",
+          "url": "https://wiadomosci.gazeta.pl/pogoda-i-klimat/7,198797,32519812,chmury-nie-odpuszczaja-w-poznaniu-czy-bedzie-deszczowo.html",
+          "source": "Gazeta"
+        },
+        {
+          "title": "Pogoda w Poznaniu. Prognoza na poniedziałek 12 stycznia",
+          "snippet": "",
+          "url": "https://pogoda.o2.pl/pogoda/pogoda-w-poznaniu-prognoza-na-poniedzialek-12-stycznia-7242175554149344a",
+          "source": "o2.pl"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "pogoda katowice",
       "trafficCount": "200+",
       "pubDate": "Sun, 11 Jan 2026 20:50:00 -0800",
@@ -267,9 +267,9 @@
           "source": "Onet Wiadomości"
         },
         {
-          "title": "Śnieżny front nad Katowicami. Będzie sypać nadal?",
+          "title": "Śnieg zasypał Katowice. Co mówią synoptycy?",
           "snippet": "",
-          "url": "https://wiadomosci.gazeta.pl/pogoda-i-klimat/7,198797,32519798,sniezny-front-nad-katowicami-bedzie-sypac-nadal.html",
+          "url": "https://wiadomosci.gazeta.pl/pogoda-i-klimat/7,198797,32521443,snieg-zasypal-katowice-co-mowia-synoptycy.html",
           "source": "Gazeta"
         },
         {

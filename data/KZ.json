@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2026-01-12 07:01:39",
+  "lastUpdate": "2026-01-12 07:35:22",
   "data": [
     {
-      "title": "президент венесуэлы",
+      "title": "землетрясение сегодня",
       "trafficCount": "100+",
+      "pubDate": "Sun, 11 Jan 2026 23:20:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbwPqkQkecbevZ7yDd1TWmBZibrmORHojRaj6JDWCBKUnyCPovoFE0Mbjxjmc",
+      "pictureSource": "Tengrinews",
+      "relatedSearch": [
+        {
+          "title": "Землетрясение произошло в 46 километрах от Алматы",
+          "snippet": "",
+          "url": "https://tengrinews.kz/kazakhstan_news/zemletryasenie-proizoshlo-v-46-kilometrah-ot-almatyi-590074/",
+          "source": "Tengrinews"
+        },
+        {
+          "title": "Сразу два землетрясения за час зафиксировали сейсмологи Казахстана",
+          "snippet": "",
+          "url": "https://inbusiness.kz/ru/last/srazu-dva-zemletryaseniya-za-chas-zafiksirovali-sejsmologi-kazahstana",
+          "source": "Inbusiness.kz"
+        },
+        {
+          "title": "На юге Казахстана произошло землетрясение",
+          "snippet": "",
+          "url": "https://www.zakon.kz/obshestvo/6503416-na-yuge-kazakhstana-proizoshlo-zemletryasenie.html",
+          "source": "Новости Zakon.kz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "президент венесуэлы",
+      "trafficCount": "200+",
       "pubDate": "Sun, 11 Jan 2026 22:40:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkeCrdpX0eKxONzfSJ-Gsr_7WOk-hP-j6J8Lww8YhSWIAXp_4ULhzED1XFIsQ",
       "pictureSource": "Новости Zakon.kz",
@@ -31,7 +59,7 @@
     },
     {
       "title": "трамп",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 11 Jan 2026 22:20:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXfZwYjU4iTLEXXodl34rUamHNXTUdq6wB0EeNqnMNQJVXke9kdDv4RBdnEJ0",
       "pictureSource": "Новости Zakon.kz",
@@ -58,29 +86,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "погода алматы",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 11 Jan 2026 18:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDJ9jZO2Vd2utvpkrq6pUKgFUFjYSerY4Kqv-TchotIp7js3XGKQbMP-fHwbU",
-      "pictureSource": "Tengrinews",
+      "title": "kundelik kz",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 11 Jan 2026 19:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRH1mbSSA_2XvC5zg6GzLT5unaSlaf4BSlNwn2jzzvn9F6D1gTyFp1WQC6piD4",
+      "pictureSource": "Inbusiness.kz",
       "relatedSearch": [
         {
-          "title": "38-градусные морозы ударят в Казахстане",
+          "title": "Образовательный конфликт набирает обороты в Казахстане",
           "snippet": "",
-          "url": "https://tengrinews.kz/kazakhstan_news/38-gradusnyie-morozyi-udaryat-v-kazahstane-590060/",
+          "url": "https://inbusiness.kz/index.php/ru/news/obrazovatelnyj-konflikt-nabiraet-oboroty-v-kazahstane",
+          "source": "Inbusiness.kz"
+        },
+        {
+          "title": "Прощай, Kundelik: школьников переводят на новую платформу в Казахстане",
+          "snippet": "",
+          "url": "https://tengrinews.kz/tengri-education/proschay-kundelik-shkolnikov-perevodyat-novuyu-platformu-589836/",
           "source": "Tengrinews"
         },
         {
-          "title": "На Астану надвигается сильный мороз до -27°С, в Алматы +9°С – прогноз погоды на три дня",
+          "title": "С третьей четверти школы Алматы перейдут на систему BilimClass",
           "snippet": "",
-          "url": "https://www.zakon.kz/sobytiia/6504005-na-astanu-nadvigaetsya-silnyy-moroz-do-27s-v-almaty-9s--prognoz-pogody-na-tri-dnya.html",
-          "source": "Новости Zakon.kz"
-        },
-        {
-          "title": "Штормовое предупреждение: в ряде регионов Казахстана 12 января ожидается непогода",
-          "snippet": "",
-          "url": "https://www.gismeteo.kz/news/klimat/shtormovoe-preduprezhdenie-v-ryade-regionov-kazahstana-12-yanvarya-ozhidaetsya-nepogoda/",
-          "source": "Gismeteo"
+          "url": "https://vlast.kz/novosti/67863-s-tretej-cetverti-skoly-almaty-perejdut-na-sistemu-bilimclass.html",
+          "source": "Vlast.kz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,13 +201,19 @@
       "title": "левандовский",
       "trafficCount": "500+",
       "pubDate": "Sun, 11 Jan 2026 11:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5zPZLUVzCcgHFUKfzBlgnDEoIqopPhAN8zcrEzaustVHgVfLfkWOqJijM5eg",
-      "pictureSource": "Спорт Mail",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqaIOCTvPG-yeRXfhq63Hn9_JPlpajQhcK2hOrtuMan9QdzkDwmvOEPYBfukk",
+      "pictureSource": "Евро-Футбол",
       "relatedSearch": [
         {
-          "title": "Левандовски забил 12 голов «Реалу» за карьеру и сравнялся с Суаресом и Гризманном. В XXI веке больше только у Месси — 26",
+          "title": "Левандовски прокомментировал победу «Барселоны» над «Реалом»",
           "snippet": "",
-          "url": "https://sportmail.ru/news/football/69383669/",
+          "url": "https://www.euro-football.ru/article/35/1006102747_levandovski_prokommentiroval_pobedu_barselonyi_nad_realom",
+          "source": "Евро-Футбол"
+        },
+        {
+          "title": "Левандовски сравнялся с Суаресом по числу голов в ворота «Реала»",
+          "snippet": "",
+          "url": "https://sportmail.ru/article/football-foreign/69386980/",
           "source": "Спорт Mail"
         },
         {
@@ -187,12 +221,6 @@
           "snippet": "",
           "url": "https://vesti.kz/spain/levandovski-povtoril-dostijenie-legendyi-barselonyi-voshl-375322/",
           "source": "Vesti.kz"
-        },
-        {
-          "title": "Форвард Барселоны вышел на второе место по голам в ворота Реала",
-          "snippet": "",
-          "url": "https://sport.ua/news/831146-forvard-barselony-vyshel-na-vtoroe-mesto-po-golam-v-vorota-reala",
-          "source": "Sport.ua"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,9 +229,15 @@
       "title": "flashscore",
       "trafficCount": "200+",
       "pubDate": "Sun, 11 Jan 2026 11:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQL3dwBbgd4Z7a9e-ILApabjRM2B8N6U2xYmZMQ0Q6hG0iVPr-wNYE4GmN9eI",
-      "pictureSource": "AAP News",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRivasru5N3w0WtNvT5ee2e1vaYwfD9NkuGbNb0V2iW9-zByOubsgMBGqYOXDc",
+      "pictureSource": "afl.com.au",
       "relatedSearch": [
+        {
+          "title": "Season over for Roos youngster after training injury",
+          "snippet": "",
+          "url": "https://www.afl.com.au/news/1460910/north-melbourne-youngster-jackson-archer-suffers-serious-knee-injury-to-rule-him-out-of-2026-season",
+          "source": "afl.com.au"
+        },
         {
           "title": "Pre-season ACL injuries sideline AFL pair",
           "snippet": "",
@@ -215,12 +249,6 @@
           "snippet": "",
           "url": "https://au.news.yahoo.com/heart-soul-roo-suffers-brutal-012345679.html",
           "source": "Yahoo"
-        },
-        {
-          "title": "North Melbourne father-son prospect set to miss 2026 season with knee injury",
-          "snippet": "",
-          "url": "https://www.sportingnews.com/au/afl/north-melbourne/news/north-melbourne-father-son-set-miss-2026-season-knee-injury-glenn-jackson-archer/4b46c26bb43562bd782086d2",
-          "source": "Sporting News AU"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.thewesterlysun.com/opinion/guest_columns/at-westerly-library-wilcox-park-let-s-celebrate-the-life-and-message-of-dr-martin/article_6382f5ec-1fbc-4d61-9d84-5a43570abfa5.html",
           "source": "Westerly Sun"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "килиан мбаппе",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 11 Jan 2026 11:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBUKwq1LaDYqSsrVR63GQi_66CsX2OffxsG16trkkWjdeAFqRmWlCjVfvyLGs",
-      "pictureSource": "Спорт Mail",
-      "relatedSearch": [
-        {
-          "title": "Мбаппе не вошел в стартовый состав на финал Суперкубка Испании с «Барселоной»",
-          "snippet": "",
-          "url": "https://sportmail.ru/news/football-foreign/69383152/",
-          "source": "Спорт Mail"
-        },
-        {
-          "title": "«Реал» не устроил чемпионский коридор «Барселоне» – Мбаппе увёл команду 4",
-          "snippet": "",
-          "url": "https://www.euro-football.ru/article/35/1006102757_real_ne_ustroil_chempionskiy_koridor_barselone__mbappe_uvel_komandu",
-          "source": "Евро-Футбол"
-        },
-        {
-          "title": "Мбаппе помешал футболистам «Реала» выстроить чемпионский коридор после поражения от «Барселоны» — СМИ",
-          "snippet": "",
-          "url": "https://matchtv.ru/football/matchtvnews_NI2284963_Mbappe_pomeshal_futbolistam_Reala_vystroit_chempionskij_koridor_posle_porazhenija_ot_Barselony__SMI_",
-          "source": "Матч ТВ"
         }
       ],
       "link": "https://imtaqin.id/"

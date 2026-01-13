@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2026-01-13 11:00:30",
+  "lastUpdate": "2026-01-13 11:27:37",
   "data": [
     {
       "title": "gemini",
       "trafficCount": "1000+",
       "pubDate": "Mon, 12 Jan 2026 20:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpt6d73jQYOw8BVJsyUOTEaPiILZdhg0IKAKA8Rztxqni7w1cp-TMY7Ry17I0",
-      "pictureSource": "Fortune",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQR0D7-QXNuDaSlQi9-2qhlIVM6kcsO5WQm3ukJzfE2hF4tQVEp9CZJgqNf4X0",
+      "pictureSource": "Yahoo Finance",
       "relatedSearch": [
+        {
+          "title": "Apple selects Google’s Gemini models for Siri upgrade",
+          "snippet": "",
+          "url": "https://finance.yahoo.com/news/apple-selects-google-gemini-models-104325831.html",
+          "source": "Yahoo Finance"
+        },
         {
           "title": "Apple will use Google Gemini to power Siri",
           "snippet": "",
@@ -15,16 +21,38 @@
           "source": "Fortune"
         },
         {
-          "title": "Gemini will power Apple's Siri",
+          "title": "Apple's Google deal just wiped out the competition",
           "snippet": "",
-          "url": "https://www.axios.com/2026/01/13/apple-intelligence-google-gemini-siri",
-          "source": "Axios"
+          "url": "https://www.creativebloq.com/tech/apples-google-deal-just-wiped-out-the-competition",
+          "source": "Creative Bloq"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "teams",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 12 Jan 2026 20:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ1U4KOCPcrrDJ222QsDfuXy2Tdxi1U5i0hLT6376iCGw6IWToYjGkSFqmOaA",
+      "pictureSource": "ESPN",
+      "relatedSearch": [
+        {
+          "title": "Overreactions, big questions from wild-card round: Are the Steelers still a QB away despite who's coaching?",
+          "snippet": "",
+          "url": "https://www.espn.com/nfl/story/_/id/47571772/nfl-playoffs-wildcard-round-nfc-afc-big-questions-overreactions-2026",
+          "source": "ESPN"
         },
         {
-          "title": "It's Official: Apple and Alphabet Are Teaming Up for an AI-Powered Siri. Why This Is a Win for Both Companies.",
+          "title": "NFL Divisional Round: Biggest immediate question for advancing/eliminated playoff teams",
           "snippet": "",
-          "url": "https://finance.yahoo.com/news/official-apple-alphabet-teaming-ai-062300460.html",
-          "source": "Yahoo Finance"
+          "url": "https://www.nfl.com/news/nfl-divisional-round-biggest-immediate-question-for-advancing-eliminated-playoff-teams-x3405",
+          "source": "NFL.com"
+        },
+        {
+          "title": "NFL playoff winners and losers: Unraveling Eagles come fully undone",
+          "snippet": "",
+          "url": "https://www.usatoday.com/story/sports/nfl/2026/01/12/nfl-playoff-winners-losers-eagles-aj-brown-sirianni/88131757007/",
+          "source": "USA Today"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,26 +61,26 @@
       "title": "weather",
       "trafficCount": "200+",
       "pubDate": "Mon, 12 Jan 2026 18:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSv7nCoLQrzeBX7XsE04zsp7IEo7m_R6ucIM_tGACu_Xofre5Fws4KCx6-h1t8",
-      "pictureSource": "Ross-shire Journal",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQk398mROYeSvOsBy6z9_H3M0OV2HkPXKaaFygk64n7wMw3Ha12S4JnF94mRWM",
+      "pictureSource": "Travel And Tour World",
       "relatedSearch": [
         {
-          "title": "Met Office issues yellow weather warning for ice across Highlands and Moray",
+          "title": "Heavy Rain Alerts Issued For Scotland And Northern Ireland, UK: What Tourists Need To Know To Remain Safe!",
           "snippet": "",
-          "url": "https://www.ross-shirejournal.co.uk/news/met-office-issues-yellow-weather-warning-for-ice-across-high-424356/",
-          "source": "Ross-shire Journal"
+          "url": "https://www.travelandtourworld.com/news/article/heavy-rain-alerts-issued-for-scotland-and-northern-ireland-uk-what-tourists-need-to-know-to-remain-safe/",
+          "source": "Travel And Tour World"
         },
         {
-          "title": "Met Office issues 'five-minute' alert to certain households as temperatures drop",
+          "title": "New ice warning forecasts potential for more travel disruption",
           "snippet": "",
-          "url": "https://uk.news.yahoo.com/met-office-issues-five-minute-181308463.html",
-          "source": "Yahoo News UK"
+          "url": "https://ca.news.yahoo.com/ice-warning-forecasts-potential-more-105417024.html",
+          "source": "Yahoo News Canada"
         },
         {
-          "title": "North East and Cumbria to escape worst of Storm Goretti",
+          "title": "A9 ‘closed by flooding’",
           "snippet": "",
-          "url": "https://www.bbc.co.uk/news/articles/cgqe9v43lk2o",
-          "source": "BBC"
+          "url": "https://www.inverness-courier.co.uk/news/a9-closed-by-flooding-424233/",
+          "source": "Inverness Courier"
         }
       ],
       "link": "https://imtaqin.id/"

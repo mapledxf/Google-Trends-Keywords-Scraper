@@ -1,13 +1,103 @@
 {
-  "lastUpdate": "2026-01-13 04:50:17",
+  "lastUpdate": "2026-01-13 05:14:49",
   "data": [
+    {
+      "title": "orf news",
+      "trafficCount": "10000+",
+      "pubDate": "Mon, 12 Jan 2026 21:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKMCKC6eMET5NgsQ0YPdGlzomGrJi4nsRm9rexLEjxNyu9p0CzqkPZKrIHHfI",
+      "pictureSource": "ORF",
+      "relatedSearch": [
+        {
+          "title": "Wetter: Glatteisgefahr in weiten Teilen des Landes",
+          "snippet": "",
+          "url": "https://orf.at/stories/3416891/",
+          "source": "ORF"
+        },
+        {
+          "title": "Verkehrsprognose 8.1.2026",
+          "snippet": "",
+          "url": "https://www.asfinag.at/ueber-uns/presse/pressemeldungen/asfinag-verkehrsprognose-812026/",
+          "source": "ASFINAG"
+        },
+        {
+          "title": "Gelbe Glatteiswarnung für Teile Österreichs",
+          "snippet": "",
+          "url": "https://www.vol.at/gelbe-glatteiswarnung-fuer-teile-oesterreichs/9915623",
+          "source": "VOL.AT"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "krone",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 12 Jan 2026 21:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJlf8N2Tizbj1oyAKW1NfrWlHXo4X7yTuVg7wLkckvLqwsTaFlmWMM-cdvnBA",
+      "pictureSource": "Kronen Zeitung",
+      "relatedSearch": [
+        {
+          "title": "Plötzlicher Herztod - Tiefe Trauer um 54-jährigen Spitzenwinzer",
+          "snippet": "",
+          "url": "https://www.krone.at/4011368",
+          "source": "Kronen Zeitung"
+        },
+        {
+          "title": "Große Trauer - Schock: Top-Winzer Anton Bauer stirbt mit nur 54 Jahren unerwartet",
+          "snippet": "",
+          "url": "https://www.noen.at/tulln/grosse-trauer-schock-top-winzer-anton-bauer-stirbt-mit-nur-54-jahren-unerwartet-505006068",
+          "source": "NÖN.at"
+        },
+        {
+          "title": "Weinikone verstorben: Der Wagram trauert um Anton Bauer aus Feuersbrunn",
+          "snippet": "",
+          "url": "https://www.meinbezirk.at/tulln/c-lokales/der-wagram-trauert-um-anton-bauer-aus-feuersbrunn_a7953855",
+          "source": "MeinBezirk.at"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "nachrichten",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 12 Jan 2026 20:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6KeqKIqtACPgCb85tGyrIu9gz5B995GXMghO_tdwPQx_q-ClKdwgj_PhBLzM",
+      "pictureSource": "MeinBezirk.at",
+      "relatedSearch": [
+        {
+          "title": "Nachrichten des Tages: Großbrand, Rekord-Pleiten und Wiener Original tot",
+          "snippet": "",
+          "url": "https://www.meinbezirk.at/wien/c-lokales/grossbrand-rekord-pleiten-und-wiener-original-tot_a7955019",
+          "source": "MeinBezirk.at"
+        },
+        {
+          "title": "Helikopter stürzt auf Skipiste | Nachrichten in 90 Sekunden",
+          "snippet": "",
+          "url": "https://www.servustv.com/aktuelles/v/aabla234n1f60ly10u8b/",
+          "source": "ServusTV On"
+        },
+        {
+          "title": "Video soll Betreiberin bei Flucht mit Kassa zeigen| Nachrichten in 90 Sekunden",
+          "snippet": "",
+          "url": "https://www.servustv.com/aktuelles/v/aa1kgb5rt1ny26xxawhc/",
+          "source": "ServusTV On"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "kronen zeitung",
       "trafficCount": "200+",
       "pubDate": "Mon, 12 Jan 2026 20:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKvu7uNmVW0X6Tx2IY1YCmNAbD4-b-uMgCGH0SuRhBS0VPug6UP3xC3CkSauQ",
-      "pictureSource": "Kronen Zeitung",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRGosfNp_y-BxPw40E6UbqFeIGYeGfgQbSrYF9J6jBzSr54VyxP9vbNoDDI4Q",
+      "pictureSource": "ORF",
       "relatedSearch": [
+        {
+          "title": "Regierungsklausur: Inflation, Standort, Migration im Fokus",
+          "snippet": "",
+          "url": "https://orf.at/stories/3416900/",
+          "source": "ORF"
+        },
         {
           "title": "„Unfinanzierbar“ - Finanzminister bremst bei den Lohnnebenkosten",
           "snippet": "",
@@ -19,12 +109,6 @@
           "snippet": "",
           "url": "https://www.welt.de/politik/ausland/article6964c6c954e8233d6fbde7fc/oesterreich-scharia-verbot-bei-rechtsstreitigkeiten-geplant-politologin-kritisiert-symbolischen-akt.html",
           "source": "WELT"
-        },
-        {
-          "title": "Regierungsklausur sucht Ergebnisse",
-          "snippet": "",
-          "url": "https://www.vol.at/regierungsklausur-sucht-ergebnisse/9917102",
-          "source": "VOL.AT"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -43,16 +127,16 @@
           "source": "Kleine Zeitung"
         },
         {
-          "title": "Hoffen auf Sanierung - Thalersee-Gastro nach wenigen Monaten insolvent",
+          "title": "Bittere Pleite eines bekannten See-Restaurants",
           "snippet": "",
-          "url": "https://www.krone.at/4011665",
-          "source": "Kronen Zeitung"
+          "url": "https://kurier.at/wirtschaft/bittere-pleite-eines-bekannten-see-restaurants/403120593",
+          "source": "Kurier"
         },
         {
-          "title": "Arnies Eheversprechen hat länger gehalten",
+          "title": "Die nächste Pleite in der Grazer Gastro: Thaler See Garten meldet Sanierung an",
           "snippet": "",
-          "url": "https://www.klippmagazin.at/spots-1/arnies-eheversprechen-hat-laenger-gehalten",
-          "source": "Klipp Magazin"
+          "url": "https://grazer.at/story/de/die-naechste-pleite-in-der-grazer-gastro-thaler-an-cnAtjqpf/",
+          "source": "Der Grazer"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,9 +201,15 @@
       "title": "flughafen wien",
       "trafficCount": "100+",
       "pubDate": "Mon, 12 Jan 2026 19:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvG0WT1FkSm_6RRnF_t2Erp0cmjUjjpucV7h6k-9Vs11BdcPqcPIaoGya1EwM",
-      "pictureSource": "Kurier",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDJQ9Swm98xbg9N1AAMEWlBwEHDQzG61KHJiqdHxjhRydnDHoDnqgDYZSkVfE",
+      "pictureSource": "Austrian Wings",
       "relatedSearch": [
+        {
+          "title": "Vereisung legt Flughafen Wien vollständig lahm - Langstreckenflüge umgeleitet",
+          "snippet": "",
+          "url": "https://www.austrianwings.info/2026/01/vereisung-legt-flughafen-wien-vollstaendig-lahm-langstreckenfluege-umgeleitet/",
+          "source": "Austrian Wings"
+        },
         {
           "title": "Sicherheitspanne am Wiener Flughafen: Mehrere Passagiere ohne Dokumente erwischt",
           "snippet": "",
@@ -127,16 +217,10 @@
           "source": "Kurier"
         },
         {
-          "title": "Wetter: Glatteisgefahr in weiten Teilen des Landes",
+          "title": "AUA-Airbus musste umkehren",
           "snippet": "",
-          "url": "https://orf.at/stories/3416891/",
-          "source": "ORF"
-        },
-        {
-          "title": "Verkehrsprognose 8.1.2026",
-          "snippet": "",
-          "url": "https://www.asfinag.at/ueber-uns/presse/pressemeldungen/asfinag-verkehrsprognose-812026/",
-          "source": "ASFINAG"
+          "url": "https://wien.orf.at/stories/3337400/",
+          "source": "wien.ORF.at"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,13 +257,13 @@
       "title": "الطقس",
       "trafficCount": "200+",
       "pubDate": "Mon, 12 Jan 2026 17:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNwgBsxfUW8_BQTVViZUBqeyiGnWYMnBnk5KTp1UqWv573HDESzzfj_g-1BCU",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgoHuOf5yqzkaTL5nVzyMPJa9FWq_FegGEBX0kTPOAnfmy-IFXTeU7ki6N8iM",
       "pictureSource": "إيجبتكِ",
       "relatedSearch": [
         {
-          "title": "عاصفة ترابية تضرب المحافظات.. وتحذير عاجل من الأرصاد|إنفوجراف",
+          "title": "تحذير جديد من الأرصاد.. الرمال تقترب من القاهرة",
           "snippet": "",
-          "url": "https://www.egyptke.com/152552",
+          "url": "https://www.egyptke.com/152492",
           "source": "إيجبتكِ"
         },
         {
@@ -193,90 +277,6 @@
           "snippet": "",
           "url": "https://www.alkhaleej.ae/2026-01-12/%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D9%85%D9%88%D8%B9%D8%AF-%D8%A7%D9%86%D9%83%D8%B3%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%81%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D8%A7%D8%A8%D9%8A%D8%A9-%D9%88%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%AA%D9%88%D8%AE%D9%8A-%D8%A7%D9%84%D8%AD%D8%B0%D8%B1-6260496/%D9%85%D8%AD%D8%B7%D8%A7%D8%AA",
           "source": "الخليج"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "hbo max österreich",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 12 Jan 2026 15:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqY9mzVr5wPIb0o3zLLNAyr8PwKQbLtONLwoIUnitfPlahNdyJbWi2i8mDy3g",
-      "pictureSource": "Tiroler Tageszeitung",
-      "relatedSearch": [
-        {
-          "title": "Start von HBO Max in Österreich: Was kann der neue Streamingdienst?",
-          "snippet": "",
-          "url": "https://www.tt.com/artikel/30925480/start-von-hbo-max-in-oesterreich-was-kann-der-neue-streamingdienst",
-          "source": "Tiroler Tageszeitung"
-        },
-        {
-          "title": "Was kann HBO Max? Bewährte Hit-Serien und Frisches von den „Globes“",
-          "snippet": "",
-          "url": "https://kurier.at/kultur/medien/was-kann-hbo-max-serien-golden-globes-pitt-sky-netflix/403120755",
-          "source": "Kurier"
-        },
-        {
-          "title": "Streaming-Hammer: Jetzt müssen \"White Lotus\"- & \"Harry Potter\"-Fans noch mehr zahlen",
-          "snippet": "",
-          "url": "https://www.oe24.at/businesslive/streaming-hammer-jetzt-muessen-white-lotus-harry-potter-fans-noch-mehr-zahlen/664065372",
-          "source": "OE24"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "psg",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 12 Jan 2026 14:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOvAjfkiAnwK28t7X0Ffae-BcmCaqas6XnY7mD9qyqz3DzwS6WQKA-ToKMz5Q",
-      "pictureSource": "FotMob",
-      "relatedSearch": [
-        {
-          "title": "Paris Saint-Germain 0-1 Paris FC : le super-remplaçant Ikoné fait tomber le tenant de la Coupe de France",
-          "snippet": "",
-          "url": "https://www.fotmob.com/fr/news/bzovu70om1zv1f4yoyxc7qooi_fr-paris-saint-germain-0-1-paris-fc-le-super-remplacant-ikone-fait-tomber-le-tenant-de-la-coupe-de-france",
-          "source": "FotMob"
-        },
-        {
-          "title": "Bradley Barcola - 4; Lucas Beraldo - 6 : Notes des joueurs du PSG lors de la défaite contre le PAris FC en Coupe de France",
-          "snippet": "",
-          "url": "https://tribuna.com/fr/blogs/bradley-barcola-4-lucas-beraldo-6-notes-des-joueurs-du-psg-l/",
-          "source": "Tribuna.com"
-        },
-        {
-          "title": "Match : Luis Enrique : « On aurait mérité de gagner ce match, clairement",
-          "snippet": "",
-          "url": "https://www.culturepsg.com/news/match/luis-enrique-on-aurait-merite-de-gagner-ce-match-clairement/58205",
-          "source": "CulturePSG"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "marcel hirscher",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 12 Jan 2026 13:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRja9n_kgyPyH9F_kQL6jfWFKvpoPXjGZtly7pQztEb-2n9jLt5ixOO0Jt7DuM",
-      "pictureSource": "Kronen Zeitung",
-      "relatedSearch": [
-        {
-          "title": "„Manchmal muss man“ - Nach Rückschlag: Hirscher probiert neuen Sport aus",
-          "snippet": "",
-          "url": "https://www.krone.at/4011254",
-          "source": "Kronen Zeitung"
-        },
-        {
-          "title": "Nach Olympia-Aus: Marcel Hirscher wechselt die Sportart",
-          "snippet": "",
-          "url": "https://www.oe24.at/sport/wintersport/ski-alpin/hirscher/nach-olympia-aus-marcel-hirscher-wechselt-die-sportart/664866424",
-          "source": "OE24"
-        },
-        {
-          "title": "Ganz neue Sportart: Marcel Hirscher überrascht",
-          "snippet": "",
-          "url": "https://www.sportnews.bz/artikel/wintersport/ski-alpin/ganz-neue-sportart-marcel-hirscher-ueberrascht",
-          "source": "SportNews.bz"
         }
       ],
       "link": "https://imtaqin.id/"

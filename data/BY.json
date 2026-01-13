@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-13 07:17:06",
+  "lastUpdate": "2026-01-13 07:40:00",
   "data": [
     {
       "title": "погода брест",
@@ -46,7 +46,7 @@
           "title": "Принесет ли новая неделя рекордное похолодание и снегопады? Синоптик Дмитрий Рябов рассказал о погоде в Беларуси 12-18 января",
           "snippet": "",
           "url": "https://ont.by/news/prineset-li-novaya-nedelya-rekordnoe-poholodanie-i-snegopady-sinoptik-dmitrij-ryabov-rasskazal-o-pogode-v-belarusi-12-18-yanvarya",
-          "source": "телеканал ОНТ"
+          "source": "ОНТ"
         },
         {
           "title": "В Белгидромете рассказали, когда Беларусь ожидает самая холодная ночь",
@@ -155,16 +155,16 @@
           "source": "BBC"
         },
         {
-          "title": "Мерц рассчитывает на участие США в возможной совместной операции с НАТО по усилению безопасности Гренландии",
-          "snippet": "",
-          "url": "https://www.sb.by/articles/merts-rasschityvaet-na-uchastie-ssha-v-vozmozhnoy-sovmestnoy-operatsii-s-nato-po-usileniyu-bezopasno.html",
-          "source": "Беларусь сегодня"
-        },
-        {
           "title": "Медведев пошутил о возможном присоединении Гренландии к России",
           "snippet": "",
           "url": "https://ont.by/ru/policy-ru/view/medvedev-poshutil-o-vozmozhnom-prisoedinenii-grenlandii-k-rossii-310157-2026",
           "source": "телеканал ОНТ"
+        },
+        {
+          "title": "Мерц рассчитывает на участие США в возможной совместной операции с НАТО по усилению безопасности Гренландии",
+          "snippet": "",
+          "url": "https://www.sb.by/articles/merts-rasschityvaet-na-uchastie-ssha-v-vozmozhnoy-sovmestnoy-operatsii-s-nato-po-usileniyu-bezopasno.html",
+          "source": "Беларусь сегодня"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,9 +229,28 @@
       "title": "фукуок",
       "trafficCount": "100+",
       "pubDate": "Mon, 12 Jan 2026 11:30:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTS3ysQTBPBBCIE16sytfIQBqK_96LugLX6kc6omG3L7lzVk9SclopW0uNeVzk",
+      "pictureSource": "RATA-news",
+      "relatedSearch": [
+        {
+          "title": "Спрос на Вьетнам в новогодние каникулы вырос в несколько раз",
+          "snippet": "",
+          "url": "https://ratanews.ru/news/general/spros-na-vetnam-v-novogodnie-kanikuly-vyros-v-neskolko-raz",
+          "source": "RATA-news"
+        },
+        {
+          "title": "ТОП-10 иностранных рынков, лидирующих по прибытиям во Вьетнам в 2025 году",
+          "snippet": "",
+          "url": "https://www.toursoyuz.by/2026/01/11/top-10-inostrannyh-rynkov-lidiruyushhih-po-pribytiyam-vo-vetnam-v-2025-godu/",
+          "source": "Республиканский союз туристических организаций"
+        },
+        {
+          "title": "Какие преимущества получит Вьетнам от притока китайских туристов, впервые обогнав Таиланд?",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/ru/lan-dau-vuot-thai-lan-viet-nam-huong-loi-gi-tu-lan-song-khach-trung-quoc",
+          "source": "Vietnam.vn"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {

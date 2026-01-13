@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-01-13 05:15:05",
+  "lastUpdate": "2026-01-13 05:43:22",
   "data": [
     {
       "title": "időkép",
-      "trafficCount": "5000+",
+      "trafficCount": "10000+",
       "pubDate": "Mon, 12 Jan 2026 20:30:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUb7ZqF__DqIx2mi_Jf6qL0QwavIblAqnFPWd3M-UYUR23v-etK-UUXNyFFEk",
       "pictureSource": "Telex",
@@ -15,16 +15,16 @@
           "source": "Telex"
         },
         {
+          "title": "Kiadták a riasztást: életveszélyes jégpáncélba borul Magyarország",
+          "snippet": "",
+          "url": "https://www.origo.hu/itthon/2026/01/riasztas-idojaras-onos-eso-magyarorszag",
+          "source": "ORIGO"
+        },
+        {
           "title": "Támad az ónos eső",
           "snippet": "",
           "url": "https://www.idokep.hu/hirek/tamad-az-onos-eso",
           "source": "Időkép"
-        },
-        {
-          "title": "Jön a fordulat az időjárásban: térképen mutatjuk, hol jöhet további havazás",
-          "snippet": "",
-          "url": "https://www.portfolio.hu/gazdasag/20260112/jon-a-fordulat-az-idojarasban-terkepen-mutatjuk-hol-johet-tovabbi-havazas-810443",
-          "source": "Portfolio.hu"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,34 +86,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "psg–paris fc",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 12 Jan 2026 20:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOvAjfkiAnwK28t7X0Ffae-BcmCaqas6XnY7mD9qyqz3DzwS6WQKA-ToKMz5Q",
-      "pictureSource": "FotMob",
-      "relatedSearch": [
-        {
-          "title": "Paris Saint-Germain 0-1 Paris FC : le super-remplaçant Ikoné fait tomber le tenant de la Coupe de France",
-          "snippet": "",
-          "url": "https://www.fotmob.com/fr/news/bzovu70om1zv1f4yoyxc7qooi_fr-paris-saint-germain-0-1-paris-fc-le-super-remplacant-ikone-fait-tomber-le-tenant-de-la-coupe-de-france",
-          "source": "FotMob"
-        },
-        {
-          "title": "Football: Coupe de France: exploit du PFC qui élimine le PSG",
-          "snippet": "",
-          "url": "https://www.lematin.ch/story/football-coupe-de-france-exploit-du-pfc-qui-elimine-le-psg-103484901",
-          "source": "Le Matin"
-        },
-        {
-          "title": "Match : Luis Enrique : « On aurait mérité de gagner ce match, clairement",
-          "snippet": "",
-          "url": "https://www.culturepsg.com/news/match/luis-enrique-on-aurait-merite-de-gagner-ce-match-clairement/58205",
-          "source": "CulturePSG"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "nso",
       "trafficCount": "100+",
       "pubDate": "Mon, 12 Jan 2026 19:50:00 -0800",
@@ -143,7 +115,7 @@
     },
     {
       "title": "budapest időjárás",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 12 Jan 2026 19:30:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXuAa5J2SvyH2nqryNUjhogwwYi1xIH63vSZYrxBgdk6fZFwRDB_YZalqztvE",
       "pictureSource": "Portfolio.hu",
@@ -217,10 +189,38 @@
           "source": "Blikk"
         },
         {
-          "title": "Ne állítgassuk a termosztátot, nappal használjuk a mosó- és mosogatógépet – erre kéri az E.ON a fogyasztókat",
+          "title": "Kedvezményes gázfogyasztás: így számolja ki az MVM a havi mennyiségeket",
           "snippet": "",
-          "url": "https://www.szeretlekmagyarorszag.hu/hirek/eon-havazas-aramszunet-hideg-keszultseg/",
-          "source": "Szeretlek Magyarország"
+          "url": "https://www.heol.hu/helyi-kozelet/2026/01/kedvezmenyes-gaz-elszamolas-hideg",
+          "source": "HEOL"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "psg",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 12 Jan 2026 13:50:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOvAjfkiAnwK28t7X0Ffae-BcmCaqas6XnY7mD9qyqz3DzwS6WQKA-ToKMz5Q",
+      "pictureSource": "FotMob",
+      "relatedSearch": [
+        {
+          "title": "Paris Saint-Germain 0-1 Paris FC : le super-remplaçant Ikoné fait tomber le tenant de la Coupe de France",
+          "snippet": "",
+          "url": "https://www.fotmob.com/fr/news/bzovu70om1zv1f4yoyxc7qooi_fr-paris-saint-germain-0-1-paris-fc-le-super-remplacant-ikone-fait-tomber-le-tenant-de-la-coupe-de-france",
+          "source": "FotMob"
+        },
+        {
+          "title": "Un tremblement de terre se produit pendant la Coupe de France.",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/fr/dia-chan-xay-ra-o-cup-quoc-gia-phap",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "Match : Luis Enrique : « On aurait mérité de gagner ce match, clairement",
+          "snippet": "",
+          "url": "https://www.culturepsg.com/news/match/luis-enrique-on-aurait-merite-de-gagner-ce-match-clairement/58205",
+          "source": "CulturePSG"
         }
       ],
       "link": "https://imtaqin.id/"

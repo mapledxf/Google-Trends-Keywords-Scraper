@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-14 07:32:48",
+  "lastUpdate": "2026-01-14 07:47:42",
   "data": [
     {
       "title": "gemini",
@@ -33,26 +33,26 @@
       "title": "weather",
       "trafficCount": "200+",
       "pubDate": "Tue, 13 Jan 2026 18:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8snlvj6Q4FGgF0tRUIYjaYDWcK-xX8azlI4suYQNNVO_OKlr-X1JB8TDztqs",
-      "pictureSource": "Travel And Tour World",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjNd7mPP8wNYqPvN2E9JvyCsG4qCRYdsQESD20yJyOEuveLai_1Y73UgAFbqE",
+      "pictureSource": "PennLive.com",
       "relatedSearch": [
         {
-          "title": "New York Faces Winter Weather Advisory This Week Expect Ice, Sleet, and Freezing Rain from Wednesday to Friday, Leading to Slippery Roads and Travel Disruptions",
+          "title": "Winter weather advisory issued for North Central Pa. until Thursday afternoon – up to 4 inches of snow",
           "snippet": "",
-          "url": "https://www.travelandtourworld.com/news/article/new-york-faces-winter-weather-advisory-this-week-expect-ice-sleet-and-freezing-rain-from-wednesday-to-friday-leading-to-slippery-roads-and-travel-disruptions/",
-          "source": "Travel And Tour World"
+          "url": "https://www.pennlive.com/weather-alerts/2026/01/winter-weather-advisory-issued-for-north-central-pa-until-thursday-afternoon-up-to-4-inches-of-snow.html",
+          "source": "PennLive.com"
         },
         {
-          "title": "Mild before snow and cold returns",
+          "title": "Snow Showers Hit Parts of Pennsylvania",
           "snippet": "",
-          "url": "https://www.wwnytv.com/2026/01/13/mild-before-snow-cold-returns/",
-          "source": "WWNY"
+          "url": "https://sg.news.yahoo.com/snow-showers-hit-parts-pennsylvania-161120260.html",
+          "source": "Yahoo News Singapore"
         },
         {
-          "title": "Mild temperatures return ahead of rain and snow in New York and New Jersey",
+          "title": "NY weather: Winter weather advisory for Wayne and Cayuga counties until Friday morning",
           "snippet": "",
-          "url": "https://pix11.com/weather/mild-temperatures-return-ahead-of-rain-and-snow-in-new-york-and-new-jersey/",
-          "source": "PIX11"
+          "url": "https://www.silive.com/weather-alerts/2026/01/ny-weather-winter-weather-advisory-for-wayne-and-cayuga-counties-until-friday-morning.html",
+          "source": "SILive.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -71,16 +71,16 @@
           "source": "ATV"
         },
         {
+          "title": "Kenan İmirzalıoğlu fırtına gibi döndü!",
+          "snippet": "",
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/kenan-imirzalioglu-firtina-gibi-dondu-43084144",
+          "source": "Hürriyet"
+        },
+        {
           "title": "Abi Dizisi Oyuncuları Kimler? ATV'nin Yeni Dizisi Abi Ne Zaman Başlıyor, 1. Bölümde Neler Olacak?",
           "snippet": "",
           "url": "https://www.bugunkocaeli.com.tr/abi-dizisi-oyunculari-kimler-atvnin-yeni-dizisi-abi-ne-zaman-basliyor-1-bolumde-neler-olacak",
           "source": "Bugün Kocaeli Gazetesi"
-        },
-        {
-          "title": "Kenan İmirzalıoğlu ve Afra Saraçoğlu Ekranı Kilitledi! A.B.İ. İlk Bölümüyle Başladı",
-          "snippet": "",
-          "url": "https://www.guraysalihoglu.com/kenan-imirzalioglu-ve-afra-saracoglu-ekrani-kilitledi-a-b-i-ilk-bolumuyle-basladi/",
-          "source": "Güray Salihoğlu"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -109,6 +109,34 @@
           "snippet": "",
           "url": "https://parameter.io/goldman-sachs-stock-political-pressure-fed-banking-sector-weakens/",
           "source": "Parameter"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "a spor canlı",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 13 Jan 2026 09:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRe-x-Ww3gPN1W0SoG4whUb74jLV3_hGuCoLE37zaUcRr9Loztc8fI3X0TeQYA",
+      "pictureSource": "Gazete Vatan",
+      "relatedSearch": [
+        {
+          "title": "Samsunspor'da Thomas Reis kadroyu değiştiriyor! Yeni transferlere gün doğdu",
+          "snippet": "",
+          "url": "https://www.gazetevatan.com/galeri/samsunsporda-thomas-reis-kadroyu-degistiriyor-yeni-transferlere-gun-dogdu-2342640",
+          "source": "Gazete Vatan"
+        },
+        {
+          "title": "Samsunspor'da Hedef İkide İki! İşte Muhtemel 11",
+          "snippet": "",
+          "url": "https://www.samsunhaberx.com/samsunspor-da-hedef-ikide-iki-iste-muhtemel-11/74593/",
+          "source": "Samsun HaberX"
+        },
+        {
+          "title": "KUPA AŞKINA | Aliağa Futbol A.Ş.-Samsunspor maçı hangi kanalda canlı yayınlanacak?",
+          "snippet": "",
+          "url": "https://www.aspor.com.tr/futbol/2026/01/14/aliaga-futbol-as-samsunspor-hakkinda-mac-saati-ve-canli-yayin-kanali",
+          "source": "A SPOR"
         }
       ],
       "link": "https://imtaqin.id/"

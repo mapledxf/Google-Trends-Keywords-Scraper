@@ -1,30 +1,30 @@
 {
-  "lastUpdate": "2026-01-15 03:11:44",
+  "lastUpdate": "2026-01-15 04:12:14",
   "data": [
     {
       "title": "flightradar24",
       "trafficCount": "100+",
       "pubDate": "Wed, 14 Jan 2026 15:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtN9YNntMM99qAaK8Hev3vpDSjAtk6BXXStGrarjxI_eoyB8hgz7ihXouGhZQ",
-      "pictureSource": "CNBC",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpKcZK03UKiQS1D1eC0pXHG1iNpjuPKky2Y3ZSMQ9N6FU23_CVjkdrEwK12RU",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
         {
-          "title": "Iran briefly closes airspace as U.S. tensions rise, flights rerouted across region",
+          "title": "Iran closes airspace to all flights as foreign minister denies it plans to execute protesters – live",
           "snippet": "",
-          "url": "https://www.cnbc.com/2026/01/15/iran-briefly-closes-airspace-as-us-tensions-rise-flights-rerouted-across-region.html",
-          "source": "CNBC"
+          "url": "https://www.theguardian.com/world/live/2026/jan/14/iran-protests-live-updates-trump-us-action-death-toll-protester-executions-erfan-soltani",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Iran closes airspace to commercial aircraft for hours amid tensions with US",
+          "snippet": "",
+          "url": "https://www.politico.com/news/2026/01/14/iran-closes-airspace-hours-00730563",
+          "source": "Politico"
         },
         {
           "title": "Iran signals plans for fast trials and executions while promising retaliation against US, Israel",
           "snippet": "",
           "url": "https://apnews.com/article/iran-protests-khamenei-trial-execution-trump-6004d94d5a1685b7b9096ea7a04dac6f",
           "source": "AP News"
-        },
-        {
-          "title": "Iran shuts down airspace, foreign officials warn against travel to Israel",
-          "snippet": "",
-          "url": "https://www.foxnews.com/world/iran-shuts-down-airspace-foreign-officials-warn-against-travel-israel",
-          "source": "Fox News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -58,38 +58,10 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "copa del rey",
-      "trafficCount": "2000+",
-      "pubDate": "Wed, 14 Jan 2026 13:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgfrvEau5gbmen7mUw88My5eoQ52MhT3kp1IHr2VUpz12RM7FqawgBw92Qulc",
-      "pictureSource": "RTVE.es",
-      "relatedSearch": [
-        {
-          "title": "Fútbol: Albacete - Real Madrid, en directo | Copa del Rey",
-          "snippet": "",
-          "url": "https://www.rtve.es/play/videos/directo/futbol-albacete-real-madrid-copa-rey/",
-          "source": "RTVE.es"
-        },
-        {
-          "title": "Desastre para empezar",
-          "snippet": "",
-          "url": "https://as.com/futbol/copa_del_rey/desastre-para-empezar-f202601-n/",
-          "source": "Diario AS"
-        },
-        {
-          "title": "Uno a uno del Real Madrid ante el Albacete: Arbeloa, esto está más roto de lo que pensabas...",
-          "snippet": "",
-          "url": "https://www.marca.com/futbol/real-madrid/2026/01/14/real-madrid-albacete-valoracion-comentarios.html",
-          "source": "MARCA"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "eivind helland",
       "trafficCount": "500+",
       "pubDate": "Wed, 14 Jan 2026 13:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPklKX1x_I8v7VHYCdnc5VEBhDHk7DEwr8-Wg-O_ISnIQt5a_NRAFOGejT5nM",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQf4DwaBGZbGceybNAmJhibG8Dfs48kFl5123bePiBiI9JIZcQzk7tYrMXygGk",
       "pictureSource": "Bergens Tidende",
       "relatedSearch": [
         {
@@ -114,12 +86,46 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "real madrid",
+      "trafficCount": "2000+",
+      "pubDate": "Wed, 14 Jan 2026 13:10:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxUDY9LiyjoopsH768PA0rIqB6TUy8A_IP2198m3dv38gOFMMGJzuEDYYeVqM",
+      "pictureSource": "RTVE.es",
+      "relatedSearch": [
+        {
+          "title": "Fútbol: Albacete - Real Madrid, en directo | Copa del Rey",
+          "snippet": "",
+          "url": "https://www.rtve.es/play/videos/directo/futbol-albacete-real-madrid-copa-rey/",
+          "source": "RTVE.es"
+        },
+        {
+          "title": "Desastre para empezar",
+          "snippet": "",
+          "url": "https://as.com/futbol/copa_del_rey/desastre-para-empezar-f202601-n/",
+          "source": "Diario AS"
+        },
+        {
+          "title": "Uno a uno del Real Madrid ante el Albacete: Arbeloa, esto está más roto de lo que pensabas...",
+          "snippet": "",
+          "url": "https://www.marca.com/futbol/real-madrid/2026/01/14/real-madrid-albacete-valoracion-comentarios.html",
+          "source": "MARCA"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "marokko vs nigeria",
       "trafficCount": "200+",
       "pubDate": "Wed, 14 Jan 2026 13:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIGMT_tQyJcorTx0P01s-guQ2l_fs0jBf8Mveaf2-B4BtGdjuFTbZTGpaQ49Q",
-      "pictureSource": "MAROKKO.nl",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4e8wPS1bal_kVBN0ZqL2MGOplZjg77EIy5eUVXaIK1klgPZUiRGE35MSAdIY",
+      "pictureSource": "De Telegraaf",
       "relatedSearch": [
+        {
+          "title": "Groot feest in Schilderswijk na finaleplek Marokko op Afrika Cup: deel van aanwezigen bekogelt agenten met vuurwerk",
+          "snippet": "",
+          "url": "https://www.telegraaf.nl/binnenland/groot-feest-in-haagse-schilderswijk-na-finaleplek-marokko-op-afrika-cup-deel-van-aanwezigen-bekogelt-agenten-met-vuurwerk/123867088.html",
+          "source": "De Telegraaf"
+        },
         {
           "title": "Kroonprins Moulay Hassan steunt Atlasleeuwen in shirt bij halve finale in Rabat",
           "snippet": "",
@@ -127,16 +133,10 @@
           "source": "MAROKKO.nl"
         },
         {
-          "title": "Immense vreugde in Eindhoven om finaleplaats Marokko in Afrika Cup",
+          "title": "Bayern München recht de rug en rekent af met promovendus",
           "snippet": "",
-          "url": "https://www.rtl.nl/nieuws/video/video/3ff562ff-863b-43c1-bf44-929493822628/immense-vreugde-eindhoven-om-finaleplaats",
-          "source": "RTL.nl"
-        },
-        {
-          "title": "Saibari en Salah-Eddine gaan op voor hoofdprijs: PSV’ers met Marokko in finale Afrika Cup",
-          "snippet": "",
-          "url": "https://www.ed.nl/psv/saibari-en-salah-eddine-gaan-op-voor-hoofdprijs-psvers-met-marokko-in-finale-afrika-cup~ac0bc159/",
-          "source": "Eindhovens Dagblad"
+          "url": "https://www.vi.nl/nieuws/vi-live-strafschoppen-bij-nigeria-tegen-marokko",
+          "source": "vi.nl"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,52 +155,80 @@
           "source": "Deadline"
         },
         {
-          "title": "Prime Video's God of War TV Series Finds Its Kratos",
-          "snippet": "",
-          "url": "https://www.yahoo.com/entertainment/tv/articles/prime-videos-god-war-tv-021641801.html",
-          "source": "Yahoo"
-        },
-        {
           "title": "Amazon didn’t have to go far to find its live-action Kratos",
           "snippet": "",
           "url": "https://www.theverge.com/games/862089/god-of-war-kratos-casting-amazone-prime-video",
           "source": "The Verge"
+        },
+        {
+          "title": "Thor Actor From God Of War Ragnarök Cast As Kratos In Live Action Series",
+          "snippet": "",
+          "url": "https://gameinformer.com/2026/01/14/thor-actor-from-god-of-war-ragnarok-cast-as-kratos-in-live-action-series",
+          "source": "Game Informer"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "liam rosenior",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 14 Jan 2026 12:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKueLDDTigyVUeRCn70ZynIHSXd1uHQ3iaCBGCn06zEWvmeEbv5sVRSxEIvQQ",
-      "pictureSource": "Football London",
+      "title": "carabao cup",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 14 Jan 2026 12:20:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHc2i2XLrC2irx5ahtyo78jLE12NHXIzRckpagyTIJPfLzSDDzxTZVHPcbmkw",
+      "pictureSource": "Sky Sports",
       "relatedSearch": [
         {
-          "title": "What Liam Rosenior did to Viktor Gyokeres in Chelsea vs Arsenal as gesture raises eyebrows",
+          "title": "Live Commentary - Chelsea vs Arsenal | 14.01.2026",
           "snippet": "",
-          "url": "https://www.football.london/arsenal-fc/news/liam-rosenior-gyokeres-chelsea-arsenal-33232832",
-          "source": "Football London"
+          "url": "https://www.skysports.com/football/chelsea-vs-arsenal/live/551322",
+          "source": "Sky Sports"
         },
         {
-          "title": "Liam Rosenior’s Viktor Gyokeres gesture raises Chelsea eyebrows following Arsenal victory",
+          "title": "Team news: Saliba starts Carabao Cup semi-final | Pre-Match Report | News",
           "snippet": "",
-          "url": "https://www.mirror.co.uk/sport/football/news/liam-rosenior-gyokeres-chelsea-arsenal-36553601",
-          "source": "The Mirror"
+          "url": "https://www.arsenal.com/news/team-news-saliba-starts-carabao-cup-semi-final",
+          "source": "Arsenal.com"
         },
         {
-          "title": "Arsenal take EFL Cup semi-final advantage but Garnacho gives Chelsea hope",
+          "title": "Confirmed Chelsea line up vs Arsenal | News | Official Site",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cp82v1qp9e1t",
-          "source": "BBC"
+          "url": "https://www.chelseafc.com/en/news/article/confirmed-chelsea-line-up-vs-arsenal-carabao-cup",
+          "source": "Chelsea"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "arsenal",
+      "title": "nigeria vs morocco",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 14 Jan 2026 11:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5kLf0AMtlrzhYldqjbjog_H0w8ickzGlXOuN32in_Euch2tVlIl4IigK-tIU",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Afcon 2025: Nigeria 0-0 Morocco (AET, 2-4 pens) - Atlas Lions reach final",
+          "snippet": "",
+          "url": "https://www.bbc.com/sport/football/live/cjrz79q573xt",
+          "source": "BBC"
+        },
+        {
+          "title": "Morocco beat Nigeria on penalties to reach Africa Cup of Nations final – as it happened",
+          "snippet": "",
+          "url": "https://www.theguardian.com/football/live/2026/jan/14/nigeria-v-morocco-africa-cup-of-nations-semi-final-live",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Yassine Bounou, the Superhero Who Sends Morocco to AFCON Final",
+          "snippet": "",
+          "url": "https://www.moroccoworldnews.com/2026/01/275122/yassine-bounou-the-superhero-who-sends-morocco-to-afcon-final/",
+          "source": "Morocco World News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "chelsea vs arsenal",
       "trafficCount": "2000+",
-      "pubDate": "Wed, 14 Jan 2026 12:40:00 -0800",
+      "pubDate": "Wed, 14 Jan 2026 11:30:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSereBMMCQPlDml3wNoMYY4I0831eJOKbolFGvDKy4hhZcQoq8eKIK16aUzPNQ",
       "pictureSource": "BBC",
       "relatedSearch": [
@@ -226,57 +254,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "nigeria vs morocco",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 14 Jan 2026 11:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5kLf0AMtlrzhYldqjbjog_H0w8ickzGlXOuN32in_Euch2tVlIl4IigK-tIU",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Afcon 2025: Nigeria 0-0 Morocco (AET, 2-4 pens) - Atlas Lions reach final",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cjrz79q573xt",
-          "source": "BBC"
-        },
-        {
-          "title": "Morocco beat Nigeria on penalties to reach Africa Cup of Nations final – as it happened",
-          "snippet": "",
-          "url": "https://www.theguardian.com/football/live/2026/jan/14/nigeria-v-morocco-africa-cup-of-nations-semi-final-live",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Senegal and Morocco to face off in the final of the 2025 Africa Cup of Nations",
-          "snippet": "",
-          "url": "https://sportaran.com/en/post/senegal-i-marokko-sygrayut-v-finale-kubka-afriki-2025/",
-          "source": "Sportaran"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "chelsea vs arsenal",
-      "trafficCount": "1000+",
+      "title": "vivian motzfeldt",
+      "trafficCount": "200+",
       "pubDate": "Wed, 14 Jan 2026 11:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHc2i2XLrC2irx5ahtyo78jLE12NHXIzRckpagyTIJPfLzSDDzxTZVHPcbmkw",
-      "pictureSource": "Sky Sports",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTr8iSuuH06VEU0pKfe827gTrMq4-SfzpeKJlH5iWdrTtBhPcPAq5jkKOFFijE",
+      "pictureSource": "VG",
       "relatedSearch": [
         {
-          "title": "Live Commentary - Chelsea vs Arsenal | 14.01.2026",
+          "title": "Trump etter Grønland-møte: –⁠ Vi får se hva som skjer",
           "snippet": "",
-          "url": "https://www.skysports.com/football/chelsea-vs-arsenal/live/551322",
-          "source": "Sky Sports"
+          "url": "https://www.vg.no/nyheter/i/e7KkpQ/trump-etter-groenland-moete-vi-faar-se-hva-som-skjer",
+          "source": "VG"
         },
         {
-          "title": "Team news: Saliba starts Carabao Cup semi-final | Pre-Match Report | News",
+          "title": "Danmarks utenriksminister: – Ærlig, men konstruktiv samtale",
           "snippet": "",
-          "url": "https://www.arsenal.com/news/team-news-saliba-starts-carabao-cup-semi-final",
-          "source": "Arsenal.com"
+          "url": "https://www.tv2.no/nyheter/danmarks-utenriksminister-aerlig-men-konstruktiv-samtale/18463366/",
+          "source": "TV2.no"
         },
         {
-          "title": "Confirmed Chelsea line up vs Arsenal | News | Official Site",
+          "title": "Kongressen må prøve å stanse denne galskapen",
           "snippet": "",
-          "url": "https://www.chelseafc.com/en/news/article/confirmed-chelsea-line-up-vs-arsenal-carabao-cup",
-          "source": "Chelsea"
+          "url": "https://www.aftenposten.no/meninger/kommentar/i/K8ybAo/kongressen-maa-proeve-aa-stanse-denne-galskapen",
+          "source": "Aftenposten"
         }
       ],
       "link": "https://imtaqin.id/"

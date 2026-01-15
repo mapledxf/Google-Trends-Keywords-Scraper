@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-15 07:22:42",
+  "lastUpdate": "2026-01-15 07:42:07",
   "data": [
     {
       "title": "воронеж",
@@ -15,16 +15,16 @@
           "source": "МОЁ! Online. Все новости Воронежа"
         },
         {
-          "title": "Опубликовано видео из частного дома, пострадавшего из-за БПЛА в Воронеже",
-          "snippet": "",
-          "url": "https://bloknot-voronezh.ru/news/opublikovano-video-iz-chastnogo-doma-postradavsheg-1938264",
-          "source": "Блокнот Воронеж"
-        },
-        {
           "title": "Пострадавшим от БПЛА воронежцам потребовалась психологическая помощь",
           "snippet": "",
           "url": "https://tv-gubernia.ru/novosti/obwestvo/postradavshim-ot-bpla-voronezhczam-potrebovalas-psihologicheskaya-pomoshh/",
           "source": "TV Губерния"
+        },
+        {
+          "title": "Опубликовано видео из частного дома, пострадавшего из-за БПЛА в Воронеже",
+          "snippet": "",
+          "url": "https://bloknot-voronezh.ru/news/opublikovano-video-iz-chastnogo-doma-postradavsheg-1938264",
+          "source": "Блокнот Воронеж"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,15 +61,9 @@
       "title": "новини львів",
       "trafficCount": "1000+",
       "pubDate": "Wed, 14 Jan 2026 20:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPoL_ZVHSRTuo_9iLr1v8hNf3YNYTUh7KGr9uA6GYy_Bq4C7bSMfnY8yN3WZ8",
-      "pictureSource": "Українська правда",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX_HMjrM_utotTjsYmpbWHkrj1VsOTmmAz9gEg4oSZFwmtD1i-O5n3WVyvwBI",
+      "pictureSource": "BBC",
       "relatedSearch": [
-        {
-          "title": "Російський дрон влучив у дитмайданчик у центрі Львова",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/news/2026/01/15/8016202/",
-          "source": "Українська правда"
-        },
         {
           "title": "Росія атакувала пам'ятник Бандері в центрі Львова: руйнування політехніки і поранений",
           "snippet": "",
@@ -81,6 +75,12 @@
           "snippet": "",
           "url": "https://rubryka.com/2026/01/15/upav-na-dytyachyj-majdanchyk/",
           "source": "Рубрика"
+        },
+        {
+          "title": "Російський дрон поцілив по дитмайданчику у Львові",
+          "snippet": "",
+          "url": "https://ua.korrespondent.net/city/lvov/4847610-rosiiskyi-dron-potsilyv-po-dytmaidanchyku-u-lvovi",
+          "source": "Korrespondent.net"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,9 +117,15 @@
       "title": "золочів",
       "trafficCount": "200+",
       "pubDate": "Wed, 14 Jan 2026 20:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW9sxohMfRXdA8qY6_gLLzk6FsgvNcJcyI5f569QCbI5dO3rRItvqAw5M7cKw",
-      "pictureSource": "LB.ua",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_okMaUcjnoaC9Frm-7q0aTwuJEIPEeiXembai3JJ1gGqPJo9n6Oqk-UPRTY4",
+      "pictureSource": "dumka.media",
       "relatedSearch": [
+        {
+          "title": "Окупанти обстріляли залізницю та енергомережі на Харківщині – ОВА",
+          "snippet": "",
+          "url": "https://dumka.media/ukr/war/1768459075-okupanti-obstrilyali-zaliznitsyu-ta-energomerezhi-na-harkivshchini-ova",
+          "source": "dumka.media"
+        },
         {
           "title": "Окупанти пошкодили залізничну інфраструктуру електромережі авто та будинки на Харківщині",
           "snippet": "",
@@ -131,12 +137,6 @@
           "snippet": "",
           "url": "https://www.radiosvoboda.org/a/news-rosiiski-obstrily-zahyblyi-tsyvilnyi-kramatorsk/33647696.html",
           "source": "Радіо Свобода"
-        },
-        {
-          "title": "Російські удари по Харківщині: постраждали шестеро людей",
-          "snippet": "",
-          "url": "https://armyinform.com.ua/2026/01/14/rosijski-udary-po-harkivshhyni-postrazhdaly-shestero-lyudej/",
-          "source": "АрміяInform – Інформаційне агентство АрміяInform"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +183,16 @@
           "source": "Українська правда"
         },
         {
-          "title": "Синоптик предупредила о продолжительных морозах в Украине",
-          "snippet": "",
-          "url": "https://agronews.ua/ru/news/synoptyk-predupredyla-o-prodolzhytelnyh-morozah-v-ukrayne/",
-          "source": "Новини аграрного бізнесу"
-        },
-        {
           "title": "Морозы в Украине пойдут на спад: синоптики назвали сроки потепления",
           "snippet": "",
           "url": "https://cv.znaj.ua/ru/535882-morozi-v-ukrajini-pidut-na-spad-sinoptiki-nazvali-termini-poteplinnya",
           "source": "znaj.ua"
+        },
+        {
+          "title": "Синоптик предупредила о продолжительных морозах в Украине",
+          "snippet": "",
+          "url": "https://agronews.ua/ru/news/synoptyk-predupredyla-o-prodolzhytelnyh-morozah-v-ukrayne/",
+          "source": "Новини аграрного бізнесу"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,57 +226,57 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "вегас",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 14 Jan 2026 17:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5o4I09KvsaXTs3-BLF8Js-YXP_qzH2Cn_FP2vabY8stFTaHW8JEsT5izogIc",
-      "pictureSource": "Metaratings",
+      "title": "иран",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 14 Jan 2026 15:10:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKZuo8Q4UrlE-nle6A5W__rayYLESEFkn92XLn1Aod91z5f2zthNSm1IhvV0k",
+      "pictureSource": "Українська правда",
       "relatedSearch": [
         {
-          "title": "Лос-Анджелес – Вегас прогноз на матч НХЛ 15 января 2026 года. Ставка с коэффициентом 2,40",
+          "title": "Над Ираном закрыли воздушное пространство – СМИ",
           "snippet": "",
-          "url": "https://metaratings.ru/prognozy/hokkey/los-andzheles-vegas-prognoz-na-match-nkhl-15-yanvarya-2026-goda/",
-          "source": "Metaratings"
+          "url": "https://www.pravda.com.ua/rus/news/2026/01/15/8016197/",
+          "source": "Українська правда"
         },
         {
-          "title": "Ассист Кузьменко не спас «Лос-Анджелес» от поражения в матче с «Вегасом»",
+          "title": "Иран закрыл своё воздушное пространство, а Британия — посольство в Тегеране",
           "snippet": "",
-          "url": "https://www.liveresult.ru/news/hokkey/306341-Assist-Kuzmenko-ne-spas-Los-Andgeles-ot-porageniya-v-matche-s-Vegasom",
-          "source": "LiveResult"
+          "url": "https://www.bbc.com/russian/articles/cz9vk9qywqno",
+          "source": "BBC"
         },
         {
-          "title": "«Лос-Анджелес» - «Вегас» прогнозы и ставки на матч 15 января 2026 (НХЛ)",
+          "title": "Иран перекрыл воздушное пространство со стороны Ирака",
           "snippet": "",
-          "url": "https://stavkiprognozy.ru/prognozy/hockey/nkhl/pro_prognoz-los-andzheles-kings-vegas-golden-nayts-15-yanvarya-2026",
-          "source": "stavkiprognozy.ru"
+          "url": "https://nv.ua/world/geopolitics/protesty-v-irane-strana-zakryla-vozdushnoe-prostranstvo-so-storony-iraka-50575780.html",
+          "source": "NV"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "иран",
+      "title": "іран",
       "trafficCount": "200+",
-      "pubDate": "Wed, 14 Jan 2026 15:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrW-FRuEuVnMw6L52cfjPKonM0RuUHy7v4s8INxTEtoXEEWaCwlx01kZJ43Pc",
+      "pubDate": "Wed, 14 Jan 2026 14:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhA3dit4Q2Og4N2gAlYCXewXSgBd8elc5ERkAI76ISO5BLc0o7snInsuiTAfM",
       "pictureSource": "Українська правда",
       "relatedSearch": [
         {
-          "title": "Трамп заявил, что в Иране прекратились убийства и казни",
+          "title": "Над Іраном закрили повітряний простір – ЗМІ",
           "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2026/01/15/8016193/",
+          "url": "https://www.pravda.com.ua/news/2026/01/15/8016197/",
           "source": "Українська правда"
         },
         {
-          "title": "NBC: Трамп хотел «быстрого и решительного» удара по Ирану, но его советники не смогли гарантировать ему, что после этого режим рухнет",
+          "title": "Іран закрив повітряний простір і привів війська у повну бойову готовність",
           "snippet": "",
-          "url": "https://meduza.io/news/2026/01/15/nbc-tramp-hotel-bystrogo-i-reshitelnogo-udara-po-iranu-no-ego-sovetniki-ne-smogli-garantirovat-emu-chto-posle-etogo-rezhim-ruhnet",
-          "source": "Meduza"
+          "url": "https://ua.korrespondent.net/world/4847585-iran-zakryv-povitrianyi-prostir-i-pryviv-viiska-u-povnu-boiovu-hotovnist",
+          "source": "Korrespondent.net"
         },
         {
-          "title": "СМИ: Израиль и арабские страны просят США не атаковать Иран",
+          "title": "Іран закрив для польотів частину свого неба",
           "snippet": "",
-          "url": "https://www.eurointegration.com.ua/rus/news/2026/01/14/7229030/",
-          "source": "Європейська правда"
+          "url": "https://tsn.ua/svit/iran-zakryv-dlia-polyotiv-chastynu-svoho-neba-3000110.html",
+          "source": "ТСН"
         }
       ],
       "link": "https://imtaqin.id/"

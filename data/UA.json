@@ -1,17 +1,45 @@
 {
-  "lastUpdate": "2026-01-15 04:53:58",
+  "lastUpdate": "2026-01-15 05:17:53",
   "data": [
     {
       "title": "новини львів",
       "trafficCount": "200+",
       "pubDate": "Wed, 14 Jan 2026 20:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRXPo8AFaem6Yu8cc2mjVv9S8SY_t72Wk0ngaDTMdS6l6lqp4gmXavchkZyJA",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcOfA4i2tW2ZA9W-dEPjahT7adOLzk_JhIzX5JRda4gC7_eB48LeqwCqP7cjo",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "У центрі Львова чули удар шахеда. Влада каже про наліт дронів, Київ теж атакують",
+          "snippet": "",
+          "url": "https://www.bbc.com/ukrainian/articles/cyv5n7m6800o",
+          "source": "BBC"
+        },
+        {
+          "title": "У Львові зранку пролунав вибух",
+          "snippet": "",
+          "url": "https://tsn.ua/ukrayina/u-lvovi-zranku-prolunav-vybukh-3000146.html",
+          "source": "ТСН"
+        },
+        {
+          "title": "15 січня Росія атакувала Львів ударними дронами, є влучання - ZAXID.NET",
+          "snippet": "",
+          "url": "https://zaxid.net/u_lvovi_prolunali_vibuhi_cherez_ataku_rosiyskih_bezpilotnikiv_n1628055",
+          "source": "Zaxid.net"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "чому немає світла львів",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 14 Jan 2026 20:20:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtTvFXJK4-aFr20cIFGtNITie69MQjjO2jRIAAInqo7rxXUQVNtYZ97QaqWj4",
       "pictureSource": "DailyLviv.com",
       "relatedSearch": [
         {
-          "title": "Графік відключення світла на Львівщині 15 січня погіршили",
+          "title": "Нічне оновлення графіка вимкнень світла на Львівщині 15 січня",
           "snippet": "",
-          "url": "https://dailylviv.com/news/ekonomika/hrafik-vidklyuchennya-svitla-na-lvivshchyni-15-sichnya-pohirshyly-145307",
+          "url": "https://dailylviv.com/news/ekonomika/nichne-onovlennya-hrafika-vymknen-svitla-na-lvivshchyni-15-sichnya-145309",
           "source": "DailyLviv.com"
         },
         {
@@ -27,15 +55,6 @@
           "source": "Суспільне | Новини"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "погода львів",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 14 Jan 2026 20:30:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -67,29 +86,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "погода в одессе",
-      "trafficCount": "500+",
+      "title": "карта тривог",
+      "trafficCount": "5000+",
       "pubDate": "Wed, 14 Jan 2026 20:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-TCkDM0CiqbmVtIHzc8V0f4_paTYtZzuA68EN1B8PTWj0r-SpnJdpteNOwQE",
-      "pictureSource": "Odesa Online",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOSx1XbrFxwAHPWPbQT7p8zrq2AJU4pZQoCOi9P9xyftcxLRIFlkCY1SiYTs",
+      "pictureSource": "Факти ICTV",
       "relatedSearch": [
         {
-          "title": "Снег и гололедица: какой будет погода в Одессе и области 15 января",
+          "title": "Карта повітряних тривог України онлайн: де є загроза ракетного удару",
           "snippet": "",
-          "url": "https://odessa.online/ru/sneg-i-gololeditsa-kakoj-budet-pogoda-v-odesse-i-oblasti-15-yanvarya/",
-          "source": "Odesa Online"
+          "url": "https://fakty.com.ua/ua/ukraine/suspilstvo/20260114-onlajn-karta-povitryanyh-tryvog/",
+          "source": "Факти ICTV"
         },
         {
-          "title": "Зима в Одессе заканчивается? Когда в городе резко и сильно потеплеет",
+          "title": "В Киеве и ряде областей объявили воздушную тревогу из-за угрозы БПЛА",
           "snippet": "",
-          "url": "https://news.telegraf.com.ua/odessa/2026-01-13/5930407-zima-v-odesse-zakanchivaetsya-kogda-v-gorode-rezko-i-silno-potepleet",
-          "source": "News Telegraf"
+          "url": "https://nv.ua/ukraine/events/v-kieve-i-ryade-oblastey-obyavili-vozdushnuyu-trevogu-iz-za-ugrozy-bpla-50575787.html",
+          "source": "NV"
         },
         {
-          "title": "Погода в Одессе 14 января: мороз до -13 градусов и ограниченная видимость на дорогах",
+          "title": "Нет света? Жителей Киевской области будут оповещать о воздушной тревоге по-новому",
           "snippet": "",
-          "url": "https://112.ua/ru/pogoda-v-odesi-14-sicna-moroz-do-13-gradusiv-ta-obmezena-vidimist-na-dorogah-132494",
-          "source": "112.ua"
+          "url": "https://www.rbc.ua/ukr/news/nemae-svitla-zhiteliv-kiyivskoyi-oblasti-1768314589.html",
+          "source": "РБК-Україна"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -123,29 +142,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "погода одесса",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 14 Jan 2026 19:00:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-TCkDM0CiqbmVtIHzc8V0f4_paTYtZzuA68EN1B8PTWj0r-SpnJdpteNOwQE",
+      "pictureSource": "Odesa Online",
+      "relatedSearch": [
+        {
+          "title": "Снег и гололедица: какой будет погода в Одессе и области 15 января",
+          "snippet": "",
+          "url": "https://odessa.online/ru/sneg-i-gololeditsa-kakoj-budet-pogoda-v-odesse-i-oblasti-15-yanvarya/",
+          "source": "Odesa Online"
+        },
+        {
+          "title": "Зима в Одессе заканчивается? Когда в городе резко и сильно потеплеет",
+          "snippet": "",
+          "url": "https://news.telegraf.com.ua/odessa/2026-01-13/5930407-zima-v-odesse-zakanchivaetsya-kogda-v-gorode-rezko-i-silno-potepleet",
+          "source": "News Telegraf"
+        },
+        {
+          "title": "Погода в Одессе 14 января: мороз до -13 градусов и ограниченная видимость на дорогах",
+          "snippet": "",
+          "url": "https://112.ua/ru/pogoda-v-odesi-14-sicna-moroz-do-13-gradusiv-ta-obmezena-vidimist-na-dorogah-132494",
+          "source": "112.ua"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "иран",
       "trafficCount": "200+",
       "pubDate": "Wed, 14 Jan 2026 15:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrW-FRuEuVnMw6L52cfjPKonM0RuUHy7v4s8INxTEtoXEEWaCwlx01kZJ43Pc",
-      "pictureSource": "Українська правда",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHi-ELJhupZmXgqSLrNNw1baDnwnDklLGFB7TU1UM013DBUiPcEHxhfbpURMQ",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Трамп заявил, что в Иране прекратились убийства и казни",
+          "title": "Иран закрыл своё воздушное пространство, а Британия — посольство в Тегеране",
           "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2026/01/15/8016193/",
+          "url": "https://www.bbc.com/russian/articles/cz9vk9qywqno",
+          "source": "BBC"
+        },
+        {
+          "title": "Над Ираном закрыли воздушное пространство – СМИ",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/rus/news/2026/01/15/8016197/",
           "source": "Українська правда"
         },
         {
-          "title": "США могут вторгнуться в Иран в течение 24 часов — Reuters",
+          "title": "Иран перекрыл воздушное пространство со стороны Ирака",
           "snippet": "",
-          "url": "https://nv.ua/world/geopolitics/protesty-v-irane-ssha-mogut-osushchestvit-napadenie-v-techenie-24-chasov-50575746.html",
+          "url": "https://nv.ua/world/geopolitics/protesty-v-irane-strana-zakryla-vozdushnoe-prostranstvo-so-storony-iraka-50575780.html",
           "source": "NV"
-        },
-        {
-          "title": "СМИ: Израиль и арабские страны просят США не атаковать Иран",
-          "snippet": "",
-          "url": "https://www.eurointegration.com.ua/rus/news/2026/01/14/7229030/",
-          "source": "Європейська правда"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -232,15 +279,6 @@
           "source": "Soccer365"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "райан херст",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 14 Jan 2026 13:50:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]

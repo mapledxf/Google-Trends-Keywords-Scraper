@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-15 08:39:21",
+  "lastUpdate": "2026-01-15 08:59:28",
   "data": [
     {
       "title": "newest electric cars",
@@ -33,9 +33,15 @@
       "title": "nasa astronauts return",
       "trafficCount": "200+",
       "pubDate": "Thu, 15 Jan 2026 00:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDnxkXq0jMxe1jFYIz_SWkt16p7twESk1rXUhaQjT50TbTF7AJhP0s3VLg_qM",
-      "pictureSource": "The Guardian",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToUP2fpuXfc_LLebGSUTofP52m2jYcA2bJzU4KO6jCSeLmmLjEL9xu_AArT4k",
+      "pictureSource": "NBC News",
       "relatedSearch": [
+        {
+          "title": "Astronauts splash down after cutting space station mission short due to a medical issue",
+          "snippet": "",
+          "url": "https://www.nbcnews.com/science/space/astronauts-land-leaving-space-station-early-medical-issue-nasa-rcna253713",
+          "source": "NBC News"
+        },
         {
           "title": "ISS astronauts begin journey back to Earth in Nasa’s first ever medical evacuation",
           "snippet": "",
@@ -43,16 +49,10 @@
           "source": "The Guardian"
         },
         {
-          "title": "Astronauts depart International Space Station after medical emergency",
+          "title": "NASA to Provide Live Coverage of Crew-11 Return, Splashdown",
           "snippet": "",
-          "url": "https://www.aljazeera.com/news/2026/1/15/astronauts-depart-international-space-station-after-medical-emergency",
-          "source": "Al Jazeera"
-        },
-        {
-          "title": "Nasa astronauts begin 'bittersweet' medical evacuation from space station",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c205r8n0276o",
-          "source": "BBC"
+          "url": "https://www.nasa.gov/news-release/nasa-to-provide-live-coverage-of-crew-11-return-splashdown/",
+          "source": "NASA (.gov)"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,29 +86,45 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "fintech innovation",
+      "title": "cybersecurity tips",
       "trafficCount": "100+",
-      "pubDate": "Wed, 14 Jan 2026 23:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAKkdnZqb3HIJZCuODoRq59CZMamDnvTIpQohTa8UQfgr_fUKp9yX2SBJlFhg",
-      "pictureSource": "America's Credit Unions",
+      "pubDate": "Wed, 14 Jan 2026 23:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM0NqZ0VZfGh2k_FiiKptmQ_ljtFdW2XQ4GwIjqPg9Rdenubue0dC-QF54csc",
+      "pictureSource": "ReadWrite",
       "relatedSearch": [
         {
-          "title": "Providing feedback on draft financial innovation legislation",
+          "title": "Cybersecurity Essentials for Distributed Tech Teams: Zero-Trust, Identity Management, and Beyond",
           "snippet": "",
-          "url": "https://www.americascreditunions.org/news-media/news/providing-feedback-draft-financial-innovation-legislation",
-          "source": "America's Credit Unions"
+          "url": "https://readwrite.com/cybersecurity-essentials-for-distributed-tech-teams-zero-trust-identity-management-and-beyond/",
+          "source": "ReadWrite"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "best podcasts 2025",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 14 Jan 2026 23:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQk4lUSeGzNSss-mrZH2iD7QuDpXgwR_G0X4bE-kdH60-0k_IalkFK77XkkdI",
+      "pictureSource": "Apple",
+      "relatedSearch": [
+        {
+          "title": "2025 marked a record-breaking year for Apple services",
+          "snippet": "",
+          "url": "https://www.apple.com/newsroom/2026/01/2025-marked-a-record-breaking-year-for-apple-services/",
+          "source": "Apple"
         },
         {
-          "title": "Fintech Faces Global Crossroads As Rules And Innovation Collide",
+          "title": "Apple's Services Business Was a Major Catalyst Last Year, and 2026 Will Likely Be Even Better",
           "snippet": "",
-          "url": "https://evrimagaci.org/gpt/fintech-faces-global-crossroads-as-rules-and-innovation-collide-523938",
-          "source": "Evrim Ağacı"
+          "url": "https://www.theglobeandmail.com/investing/markets/stocks/AAPL/pressreleases/37024898/apples-services-business-was-a-major-catalyst-last-year-and-2026-will-likely-be-even-better/",
+          "source": "The Globe and Mail"
         },
         {
-          "title": "Consumer Reports calls for strong safeguards to ensure fintech products are affordable, transparent and trustworthy for consumers",
+          "title": "Apple TV Boasts New Record for Monthly Engagement With 36% Increase in Viewership",
           "snippet": "",
-          "url": "https://advocacy.consumerreports.org/press_release/consumer-reports-calls-for-strong-safeguards-to-ensure-fintech-products-are-affordable-transparent-and-trustworthy-for-consumers/",
-          "source": "Consumers Union"
+          "url": "https://ca.news.yahoo.com/apple-tv-boasts-record-monthly-004949985.html",
+          "source": "Yahoo News Canada"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -137,6 +153,34 @@
           "snippet": "",
           "url": "https://www.timescolonist.com/the-mix/us-stocks-drift-lower-following-mixed-profit-reports-from-big-banks-11737946",
           "source": "Times Colonist"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "fintech innovation",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 14 Jan 2026 23:30:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAKkdnZqb3HIJZCuODoRq59CZMamDnvTIpQohTa8UQfgr_fUKp9yX2SBJlFhg",
+      "pictureSource": "America's Credit Unions",
+      "relatedSearch": [
+        {
+          "title": "Providing feedback on draft financial innovation legislation",
+          "snippet": "",
+          "url": "https://www.americascreditunions.org/news-media/news/providing-feedback-draft-financial-innovation-legislation",
+          "source": "America's Credit Unions"
+        },
+        {
+          "title": "Fintech Faces Global Crossroads As Rules And Innovation Collide",
+          "snippet": "",
+          "url": "https://evrimagaci.org/gpt/fintech-faces-global-crossroads-as-rules-and-innovation-collide-523938",
+          "source": "Evrim Ağacı"
+        },
+        {
+          "title": "Consumer Reports calls for strong safeguards to ensure fintech products are affordable, transparent and trustworthy for consumers",
+          "snippet": "",
+          "url": "https://advocacy.consumerreports.org/press_release/consumer-reports-calls-for-strong-safeguards-to-ensure-fintech-products-are-affordable-transparent-and-trustworthy-for-consumers/",
+          "source": "Consumers Union"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -221,62 +265,6 @@
           "snippet": "",
           "url": "https://www.glam.com/2075417/angela-norris-landman-looks-like-off-screen/",
           "source": "Glam"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "elon musk net worth",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 14 Jan 2026 21:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBaEw6h7Unui9jMzeZ-mG8Kim3aZXQK99XpMVERmUSeFzxUws9h6il1MJGlsw",
-      "pictureSource": "Forbes",
-      "relatedSearch": [
-        {
-          "title": "Worth $722 Billion, Elon Musk Could Technically Buy These 6 Things - And It’s Mind Blowing",
-          "snippet": "",
-          "url": "https://www.forbes.com/sites/dougmelville/2026/01/12/at-722-billion-elon-musk-could-buy-what-here-are-6-why-not-purchases/",
-          "source": "Forbes"
-        },
-        {
-          "title": "Jackpot for Elon Musk as Tesla chief's net worth witnesses massive surge, earns USD 42.2 billion in..., Jeff",
-          "snippet": "",
-          "url": "https://www.india.com/business/elon-musk-tesla-spacex-bloomberg-billionaires-tesla-jeff-bezos-larry-ellison-mark-zuckerberg-bernard-arnault-steve-ballmerjensen-huang-larry-page-sergey-brin-warren-buffett-8268619/",
-          "source": "India.com"
-        },
-        {
-          "title": "Elon Musk net worth at $640B: he could buy every MLB, NBA, NFL and NHL team — and still have $103B left",
-          "snippet": "",
-          "url": "https://ts2.tech/en/elon-musk-net-worth-at-640b-he-could-buy-every-mlb-nba-nfl-and-nhl-team-and-still-have-103b-left/",
-          "source": "TechStock²"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "john harbaugh",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 14 Jan 2026 21:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFIBEXvE4b7mB6EWoHFmXjeWcIhbYgdgd_uN3s8InDtEZheJZDaKuULGukPmY",
-      "pictureSource": "ESPN",
-      "relatedSearch": [
-        {
-          "title": "Sources: Harbaugh, Giants working to finalize deal",
-          "snippet": "",
-          "url": "https://www.espn.com/nfl/story/_/id/47616292/sources-john-harbaugh-giants-expected-barring-setbacks",
-          "source": "ESPN"
-        },
-        {
-          "title": "Former Ravens' HC John Harbaugh is in high demand. Which team should he choose next?",
-          "snippet": "",
-          "url": "https://www.dazn.com/en-CA/news/football/nfl-2025-2026-which-team-should-former-ravens-hc-john-harbaugh-choose-next/7n8srm03hhg1tkldusubvrrt",
-          "source": "DAZN"
-        },
-        {
-          "title": "NFL news roundup: John Harbaugh interviews with Giants; Patriots add ex-Texans DE to practice squad",
-          "snippet": "",
-          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-jan-14",
-          "source": "NFL.com"
         }
       ],
       "link": "https://imtaqin.id/"

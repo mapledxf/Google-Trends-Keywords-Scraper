@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-16 10:57:16",
+  "lastUpdate": "2026-01-16 11:18:22",
   "data": [
     {
       "title": "sismo hoy",
@@ -40,7 +40,7 @@
     },
     {
       "title": "temblor hoy honduras",
-      "trafficCount": "20000+",
+      "trafficCount": "10000+",
       "pubDate": "Thu, 15 Jan 2026 22:10:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSExyyJWd2yvPgUD3KAgDY96DpZKhgqsRLLyYpA3cp4nTlmsX_vgJHQs0Lq4iY",
       "pictureSource": "Reportar Sin Miedo",
@@ -62,34 +62,6 @@
           "snippet": "",
           "url": "https://www.latribuna.hn/2026/01/14/se-registra-sismo-de-magnitud-3-6-en-el-caribe-de-honduras/",
           "source": "Diario La Tribuna"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "honduras",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 15 Jan 2026 22:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXTdl0rsWuJJHmziD9eEXaijp_pRaM1QQ4tlHfxvZ-hOv532Un3fhhNT6tKs4",
-      "pictureSource": "EL PAÍS",
-      "relatedSearch": [
-        {
-          "title": "Xiomara Castro ordena después de un mes iniciar la transición a Nasry Asfura en Honduras",
-          "snippet": "",
-          "url": "https://elpais.com/america/2026-01-15/xiomara-castro-ordena-despues-de-un-mes-iniciar-la-transicion-a-nasry-asfura-en-honduras.html",
-          "source": "EL PAÍS"
-        },
-        {
-          "title": "Presidencia inicia proceso de traspaso hacia la administración entrante",
-          "snippet": "",
-          "url": "https://www.elheraldo.hn/videos/pais/presidencia-inicia-proceso-de-traspaso-hacia-la-administracion-entrante-NH28943178",
-          "source": "ElHeraldo.hn"
-        },
-        {
-          "title": "¿Qué está pasando con la transición gubernamental?",
-          "snippet": "",
-          "url": "https://criterio.hn/que-esta-pasando-con-la-transicion-gubernamental/",
-          "source": "Criterio.hn"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -123,17 +95,73 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "terremoto",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 15 Jan 2026 22:10:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg6TOwW1kBcRZVkF2FgmJlaebJXrXDIuR_R6cuxJrmCNtJt_6ohvOadY-ksj4",
+      "pictureSource": "Volcano Discovery",
+      "relatedSearch": [
+        {
+          "title": "Terremoto leve mag. 3.5 (unconfirmed) - 88 km al suroeste de Kandahar, Kandahar, Afganistán, viernes 16 ene 2026 a las 14:57 (GMT +4:30)",
+          "snippet": "",
+          "url": "https://www.volcanodiscovery.com/es/sismos/informe-sismo/22621087/mag3quake-Jan-16-2026-Southeastern-Afghanistan.html",
+          "source": "Volcano Discovery"
+        },
+        {
+          "title": "Terremoto leve mag. 3.8 (unconfirmed) - 67 km al sureste de Taloqan, Tahār, Afganistán, jueves 15 ene 2026 a las 20:12 (GMT +4:30)",
+          "snippet": "",
+          "url": "https://www.volcanodiscovery.com/es/sismos/informe-sismo/22618274/mag3quake-Jan-15-2026-Hindu-Kush-Region-Afghanistan.html",
+          "source": "Volcano Discovery"
+        },
+        {
+          "title": "Terremoto moderado mag. 4.2 - Hindu Kush Region, Afghanistan, jueves 15 ene 2026 a las 12:08 (GMT +4:30)",
+          "snippet": "",
+          "url": "https://www.volcanodiscovery.com/es/sismos/informe-sismo/22616662/mag4quake-Jan-15-2026-Afghanistan-Tajikistan-Border-Region.html",
+          "source": "Volcano Discovery"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "honduras",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 15 Jan 2026 22:10:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXTdl0rsWuJJHmziD9eEXaijp_pRaM1QQ4tlHfxvZ-hOv532Un3fhhNT6tKs4",
+      "pictureSource": "EL PAÍS",
+      "relatedSearch": [
+        {
+          "title": "Xiomara Castro ordena después de un mes iniciar la transición a Nasry Asfura en Honduras",
+          "snippet": "",
+          "url": "https://elpais.com/america/2026-01-15/xiomara-castro-ordena-despues-de-un-mes-iniciar-la-transicion-a-nasry-asfura-en-honduras.html",
+          "source": "EL PAÍS"
+        },
+        {
+          "title": "Presidencia inicia proceso de traspaso hacia la administración entrante",
+          "snippet": "",
+          "url": "https://www.elheraldo.hn/videos/pais/presidencia-inicia-proceso-de-traspaso-hacia-la-administracion-entrante-NH28943178",
+          "source": "ElHeraldo.hn"
+        },
+        {
+          "title": "¿Qué está pasando con la transición gubernamental?",
+          "snippet": "",
+          "url": "https://criterio.hn/que-esta-pasando-con-la-transicion-gubernamental/",
+          "source": "Criterio.hn"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "olimpia - colo-colo",
       "trafficCount": "500+",
       "pubDate": "Thu, 15 Jan 2026 16:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD6sWrxeLFN5UG29ppo2ocdZpP6l1bc0mm-5Qpf4hR4lrjSgBJ8gVMN3H2nUg",
-      "pictureSource": "365Scores",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMuURE9BcfgzURk6NY6K-4N0QVsJu6P1eKRcxw_qmC7iB4fHFbHJNQ6kAasng",
+      "pictureSource": "OneFootball",
       "relatedSearch": [
         {
-          "title": "Qué canal pasa Olimpia vs Colo Colo hoy: dónde ver GRATIS y EN VIVO la Serie Río de La Plata",
+          "title": "Las dos sorpresivas ausencias en Olimpia ante Colo Colo",
           "snippet": "",
-          "url": "https://www.365scores.com/es/news/olimpia-vs-colo-colo-donde-ver-canal-tv/",
-          "source": "365Scores"
+          "url": "https://onefootball.com/es/noticias/las-dos-sorpresivas-ausencias-en-olimpia-ante-colo-colo-42238633",
+          "source": "OneFootball"
         },
         {
           "title": "Fin al misterio: Fernando de Paul se queda con la capitanía en el primer partido del Cacique en el año",
@@ -182,82 +210,54 @@
       "title": "barca",
       "trafficCount": "2000+",
       "pubDate": "Thu, 15 Jan 2026 12:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvibW_37VKKaDTMp6L2VSddhvheLZJNOz7qWXrMVJDldi5n_BXJdjp_-hkJkg",
-      "pictureSource": "ESPN",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDcca2xKIBkLRvW4KmnZyr50nayk0-Ek2n-s_BzrL9KpOZhU6TY6uOMQL9W-M",
+      "pictureSource": "La Stampa",
       "relatedSearch": [
         {
-          "title": "Barcelona win 11th in a row; Hansi Flick calls it 'nothing'",
+          "title": "Clipper Race, l’avventura della vita cambia barca",
           "snippet": "",
-          "url": "https://www.espn.com/soccer/story/_/id/47623774/barcelona-win-11th-row-flick",
-          "source": "ESPN"
+          "url": "https://www.lastampa.it/mare/2026/01/15/news/vela_clipper_race_l_avventura_della_vita_cambia_barca-15469517/",
+          "source": "La Stampa"
         },
         {
-          "title": "Three takeaways from Racing Santander 0-2 Barcelona",
+          "title": "Clipper RX, il nuovo yacht one design per la Clipper Round the World Yacht Race",
           "snippet": "",
-          "url": "https://sports.yahoo.com/articles/three-takeaways-racing-santander-0-094900505.html",
-          "source": "Yahoo Sports"
+          "url": "https://www.solovela.net/notizie/3/clipper-rx-nuovo-one-design-clipper-round-the-world-yacht-race/1354343/",
+          "source": "Solo Vela Net"
         },
         {
-          "title": "The squad to face Santander",
+          "title": "Al boot il nuovo 72’ per la Clipper Round the World Race di Sir Robin",
           "snippet": "",
-          "url": "https://www.fcbarcelona.com/en/football/first-team/news/4435001/the-squad-to-face-santander",
-          "source": "Official FC Barcelona Website"
+          "url": "https://pressmare.it/it/comunicazione/press-mare/2026-01-15/nuovo-72-per-la-clipper-round-the-world-race-di-sir-robin-87764",
+          "source": "Pressmare"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "barcelona hoy",
-      "trafficCount": "5000+",
-      "pubDate": "Thu, 15 Jan 2026 12:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSh4WpUCS8okaNSAOmnaBa1-tPGZZ8XYyDHbE5QukrgFfYGauLCBIe3c1Jz39k",
-      "pictureSource": "Infobae",
-      "relatedSearch": [
-        {
-          "title": "Clima: las temperaturas que predominarán este 16 de enero en Barcelona",
-          "snippet": "",
-          "url": "https://www.infobae.com/espana/2026/01/16/clima-las-temperaturas-que-predominaran-este-16-de-enero-en-barcelona/",
-          "source": "Infobae"
-        },
-        {
-          "title": "Previsión de AEMET para L' Hospitalet de Llobregat hoy, viernes 16 de enero: consulta el tiempo",
-          "snippet": "",
-          "url": "https://www.elconfidencial.com/el-tiempo/2026-01-16/el-tiempo-en-l-hospitalet-de-llobregat-viernes_4284787/",
-          "source": "El Confidencial"
-        },
-        {
-          "title": "Clima hoy en Barcelona, España: el pronóstico del tiempo para este viernes 16 enero de 2026",
-          "snippet": "",
-          "url": "https://www.clarin.com/informacion-general/clima-hoy-barcelona-espana-pronostico-tiempo-viernes-16-enero-2026_0_5QNd54QEsn.html",
-          "source": "Clarin.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "burgos - valencia c. f.",
+      "title": "fc barcelona",
       "trafficCount": "2000+",
-      "pubDate": "Thu, 15 Jan 2026 11:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLnjqvboB1rUCwOsmuuO5osc2W4ZX-BK-RtO17pgukCFbn9atHrGPKTfd5swo",
-      "pictureSource": "Diario AS",
+      "pubDate": "Thu, 15 Jan 2026 12:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSozj3Mn8svA_IJ54lQuf8enMFTDne1yZUSdAJmRaQSUnTbD3WL61DDCQQyS88",
+      "pictureSource": "SPORT",
       "relatedSearch": [
         {
-          "title": "Sadiq y la Copa de la Vida",
+          "title": "Jakirović, el sueño prohibido del Barça Atlètic",
           "snippet": "",
-          "url": "https://as.com/futbol/copa_del_rey/sadiq-y-la-copa-de-la-vida-f202601-n/",
-          "source": "Diario AS"
+          "url": "https://www.sport.es/es/noticias/barca/jakirovic-sueno-prohibido-barca-atletic-125734783",
+          "source": "SPORT"
         },
         {
-          "title": "El Valencia supera una noche de perros",
+          "title": "Alejan a Leon Jakirovic del FC Barcelona",
           "snippet": "",
-          "url": "https://elpais.com/deportes/futbol/2026-01-15/el-valencia-supera-una-noche-de-perros.html",
-          "source": "EL PAÍS"
+          "url": "https://www.fichajes.com/a1454423078522091296-alejan-a-leon-jakirovic-del-fc-barcelona",
+          "source": "Fichajes.com"
         },
         {
-          "title": "Previa | El Plantío quiere otra noche mágica",
+          "title": "El Barcelona sufrió un duro golpe en su fichaje, mientras el Milan lidera la carrera por el defensa Leon Jakirovic – informes",
           "snippet": "",
-          "url": "https://www.burgoscf.es/noticias/previa-or-el-plantio-quiere-otra-noche-magica",
-          "source": "Burgos CF"
+          "url": "https://tribuna.com/es/news/2026-01-16-el-barcelona-sufrio-un-duro-golpe-en-su-fichaje-mientras-el-milan-lidera-la-carrera-por-e/",
+          "source": "Tribuna.com"
         }
       ],
       "link": "https://imtaqin.id/"

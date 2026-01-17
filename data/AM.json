@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2026-01-17 16:29:15",
+  "lastUpdate": "2026-01-17 16:47:04",
   "data": [
     {
-      "title": "зара арамян",
+      "title": "liverpool",
       "trafficCount": "100+",
+      "pubDate": "Sat, 17 Jan 2026 08:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUi9VJV1fvVTlTVdMm-XtmcaamTC9y_BA-0yhKd9ICALmrAngS9V8Mog7TEqA",
+      "pictureSource": "Liverpool FC",
+      "relatedSearch": [
+        {
+          "title": "Liverpool v Burnley: Team news",
+          "snippet": "",
+          "url": "https://www.liverpoolfc.com/news/liverpool-v-burnley-team-news-1",
+          "source": "Liverpool FC"
+        },
+        {
+          "title": "Liverpool vs. Burnley: Preview, Predictions and Lineups",
+          "snippet": "",
+          "url": "https://www.si.com/soccer/liverpool-vs-burnley-preview-predictions-lineups-premier-league-1-17-26",
+          "source": "Sports Illustrated"
+        },
+        {
+          "title": "Premier League Soccer: Stream Liverpool vs. Burnley Live From Anywhere",
+          "snippet": "",
+          "url": "https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-liverpool-vs-burnley-live-from-anywhere/",
+          "source": "CNET"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "зара арамян",
+      "trafficCount": "200+",
       "pubDate": "Sat, 17 Jan 2026 07:40:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKqskAO2oTW1ly6J_4GKxDN09XfEM4WltW9p0Yxh2UItoUSRXxVr9axLrAVU4",
       "pictureSource": "АМИ \"Новости-Армения\"",
@@ -58,34 +86,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "челси – брентфорд",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 17 Jan 2026 06:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsygAjZBvacN671eclLran0KRXz-PeF-aZTYmlBOPBCMKyGpYGivniTG83biU",
-      "pictureSource": "Sportarena.ua",
-      "relatedSearch": [
-        {
-          "title": "Ярмолюк — в стартовом составе Брентфорда на гостевой матч с Челси",
-          "snippet": "",
-          "url": "https://sportarena.ua/football/apl/yarmolyuk-v-startovom-sostave-brentforda-na-gostevoj-4/",
-          "source": "Sportarena.ua"
-        },
-        {
-          "title": "Прямая трансляция матча Челси — Брентфорд",
-          "snippet": "",
-          "url": "https://www.vietnam.vn/ru/truc-tiep-chelsea-vs-brentford",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "АПЛ: «Ман Сити» в гостях у «Ман Юнайтед», «Ливерпуль» сыграет с «Бернли» и другие матчи",
-          "snippet": "",
-          "url": "https://by.tribuna.com/football/1113061298-apl-man-siczi-u-gasczyax-u-man-yunajted-liverpul-zgulyae-z-/",
-          "source": "Tribuna.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "ливерпуль – бернли",
       "trafficCount": "500+",
       "pubDate": "Sat, 17 Jan 2026 06:50:00 -0800",
@@ -114,6 +114,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "челси – брентфорд",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 17 Jan 2026 06:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsygAjZBvacN671eclLran0KRXz-PeF-aZTYmlBOPBCMKyGpYGivniTG83biU",
+      "pictureSource": "Sportarena.ua",
+      "relatedSearch": [
+        {
+          "title": "Ярмолюк — в стартовом составе Брентфорда на гостевой матч с Челси",
+          "snippet": "",
+          "url": "https://sportarena.ua/football/apl/yarmolyuk-v-startovom-sostave-brentforda-na-gostevoj-4/",
+          "source": "Sportarena.ua"
+        },
+        {
+          "title": "Прямая трансляция матча Челси — Брентфорд",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/ru/truc-tiep-chelsea-vs-brentford",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "АПЛ: «Ман Сити» в гостях у «Ман Юнайтед», «Ливерпуль» сыграет с «Бернли» и другие матчи",
+          "snippet": "",
+          "url": "https://by.tribuna.com/football/1113061298-apl-man-siczi-u-gasczyax-u-man-yunajted-liverpul-zgulyae-z-/",
+          "source": "Tribuna.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "real",
       "trafficCount": "100+",
       "pubDate": "Sat, 17 Jan 2026 06:50:00 -0800",
@@ -133,10 +161,10 @@
           "source": "Real Madrid CF"
         },
         {
-          "title": "Viel Wut nach Alonso-Knall: Real-Fans pfeifen Vinicius Jr. und Co gnadenlos nieder",
+          "title": "Nach Pfeifkonzert zur Pause: Mbappé und Arda Güler beflügeln Real",
           "snippet": "",
-          "url": "https://www.n-tv.de/sport/fussball/Real-Fans-pfeifen-Vinicius-Jr-und-Co-gnadenlos-nieder-id30252703.html",
-          "source": "Ntv"
+          "url": "https://www.kicker.de/real-madrid-gegen-levante-2026-la-liga-5055077/spielbericht",
+          "source": "Kicker"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,26 +173,26 @@
       "title": "premier league",
       "trafficCount": "200+",
       "pubDate": "Sat, 17 Jan 2026 06:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEggIsDOrRq0X9_W_nlUdEReRC8uqvCufflw6QWkrMXi_Cj29CXotUDDNPgY4",
-      "pictureSource": "Daily Cannon",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLMV1n5XUydXPs3GEG8Ua8SVKhfZeL1IMeY-rfIuV0fflAznVLHs5ZCouBXXs",
+      "pictureSource": "Arsenal.com",
       "relatedSearch": [
         {
-          "title": "Arsenal get huge lift as United stun City in derby win",
+          "title": "Every word of Mikel’s pre-Forest press conference",
           "snippet": "",
-          "url": "https://dailycannon.com/2026/01/arsenal-man-united-city/",
-          "source": "Daily Cannon"
+          "url": "https://www.arsenal.com/news/every-word-mikels-pre-forest-press-conference-0",
+          "source": "Arsenal.com"
         },
         {
-          "title": "Manchester United vs Manchester City Predictions: Pep’s men to prevail",
+          "title": "“A top coach” Arteta knows his team will struggle against Sean Dyche’s team",
           "snippet": "",
-          "url": "https://www.goal.com/en-us/betting/manchester-united-vs-manchester-city-predictions-01-17/blt63affed3f15d718a",
-          "source": "Goal.com"
+          "url": "https://onefootball.com/de/news/a-top-coach-arteta-knows-his-team-will-struggle-against-sean-dyches-team-42242815",
+          "source": "OneFootball"
         },
         {
-          "title": "Man Utd 2-0 Man City: Analysis - perfect day for Michael Carrick",
+          "title": "Preview: Arsenal head to Nottingham Forest for teatime kickoff",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/articles/cpqy547828vo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-          "source": "BBC"
+          "url": "https://www.fotmob.com/nb/topnews/25305-preview-arsenal-head-nottingham-forest-teatime-kickoff?utm_source=fotmob",
+          "source": "FotMob"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://matchtv.ru/football/matchtvnews_NI2286700_Gol_Martinesa_prines_Interu_pobedu_nad_Udineze_v_matche_Serii_A",
           "source": "Матч ТВ"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "man city",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 17 Jan 2026 05:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLybfbuNNUfBZO9_FhkdGahbfnuRour1MxY-x4kSak55joxT3GXvKRty1rkZU",
-      "pictureSource": "Metro.co.uk",
-      "relatedSearch": [
-        {
-          "title": "Bernardo Silva makes Arsenal admission after Man Utd hammer Man City",
-          "snippet": "",
-          "url": "https://metro.co.uk/2026/01/17/bernardo-silva-makes-arsenal-admission-after-manchester-united-hammer-manchester-city-26350038/",
-          "source": "Metro.co.uk"
-        },
-        {
-          "title": "'The better team won' – Guardiola laments Man City's lack of energy in derby defeat",
-          "snippet": "",
-          "url": "https://www.beinsports.com/en-us/soccer/premier-league/articles/the-better-team-won--guardiola-laments-man-citys-lack-of-energy-in-derby-defeat-2026-01-17",
-          "source": "beIN SPORTS"
-        },
-        {
-          "title": "Man City player ratings vs Manchester United: Haaland struggles go on",
-          "snippet": "",
-          "url": "https://www.standard.co.uk/sport/football/man-city-player-ratings-vs-manchester-united-haaland-donnarumma-b1266949.html",
-          "source": "London Evening Standard"
         }
       ],
       "link": "https://imtaqin.id/"

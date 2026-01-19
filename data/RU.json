@@ -1,30 +1,114 @@
 {
-  "lastUpdate": "2026-01-19 07:01:24",
+  "lastUpdate": "2026-01-19 07:37:07",
   "data": [
     {
-      "title": "мурманск",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 18 Jan 2026 22:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpZrD_emD8vqKC6iDepmiWZ72m_nRi5bJKdOhJLIWU-qOriUCnehjkmL4si-Y",
-      "pictureSource": "Severpost.ru",
+      "title": "мясников",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 18 Jan 2026 23:20:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCeO1aybhcQra7F_pRWqOIJfnqcs_OdqBxPFlMdbHpO4_yPdvV3GjHqlCJDEQ",
+      "pictureSource": "Главное управление МЧС России по Республике Калмыкия",
       "relatedSearch": [
         {
-          "title": "В Росте сносят ветхое здание на Нахимова",
+          "title": "Как осуществить обряд омовения безопасно?",
           "snippet": "",
-          "url": "https://severpost.ru/read/201657/",
+          "url": "https://08.mchs.gov.ru/deyatelnost/press-centr/novosti/5674644",
+          "source": "Главное управление МЧС России по Республике Калмыкия"
+        },
+        {
+          "title": "Лучше воздержаться. Кому нельзя окунаться в прорубь на Крещение – мнение экспертов",
+          "snippet": "",
+          "url": "https://poisknews.ru/zdorove/luchshe-vozderzhatsya-komu-nelzya-okunatsya-v-prorub-na-kreshhenie-mnenie-ekspertov/",
+          "source": "Поиск — Новости науки, технологий и техники"
+        },
+        {
+          "title": "Озвучены меры безопасности при крещенских купаниях в Хакасии",
+          "snippet": "",
+          "url": "https://gazeta19.ru/news/v-khakasii/ozvucheny-mery-bezopasnosti-pri-kreshchenskikh-kupaniyakh-v-khakasii/",
+          "source": "Газета Хакасия"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "фнс",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 18 Jan 2026 23:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkhQqx1GWquleW32C4pW7LhKGk1XuBq2YwHtMjYRR7avNmhvbIvZQ3xcbahJk",
+      "pictureSource": "Хабр",
+      "relatedSearch": [
+        {
+          "title": "Налоговая следит за каждым переводом на карту? Объясняю, что происходит на самом деле",
+          "snippet": "",
+          "url": "https://habr.com/ru/articles/986266/",
+          "source": "Хабр"
+        },
+        {
+          "title": "Юрист объяснил, за какие переводы на карту может оштрафовать налоговая",
+          "snippet": "",
+          "url": "https://www.banki.ru/news/lenta/?id=11020849",
+          "source": "Банки.ру"
+        },
+        {
+          "title": "Под отчет без отчета: как цифровизация ФНС превратила корпоративную карту в источник налоговых рисков",
+          "snippet": "",
+          "url": "https://www.klerk.ru/user/2113699/675646/",
+          "source": "Клерк.ру"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "рбк",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 18 Jan 2026 23:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcHopbdavhyCeQLzbLdSq6dfYfgrOI8zn_U51ZCILRhtuqGSxAw5FCbAZbnWA",
+      "pictureSource": "Meduza",
+      "relatedSearch": [
+        {
+          "title": "РБК: Татарстан выдвинет генерала Лапина в Госдуму",
+          "snippet": "",
+          "url": "https://meduza.io/news/2026/01/16/rbk-tatarstan-vydvinet-generala-lapina-v-gosdumu",
+          "source": "Meduza"
+        },
+        {
+          "title": "РБК: Татарстан запланировал выдвижение генерала Лапина в Госдуму",
+          "snippet": "",
+          "url": "https://m.business-gazeta.ru/news/692544",
+          "source": "БИЗНЕС Online — Новости Казани"
+        },
+        {
+          "title": "РБК узнал о планах Татарстана по выдвижению генерала Лапина в Госдуму",
+          "snippet": "",
+          "url": "https://rtvi.com/news/rbk-uznal-o-planah-tatarstana-po-vydvizheniyu-generala-lapina-v-gosdumu/",
+          "source": "RTVI"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "мурманск",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 18 Jan 2026 22:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKsDxFOzb7RM4PSV7qg2dgLGNQdSdM14nVmxZPXqRKB-zhQOu70iQDQ6fu2DY",
+      "pictureSource": "www.mvestnik.ru",
+      "relatedSearch": [
+        {
+          "title": "В Мурманске эвакуировали человека из горящей квартиры",
+          "snippet": "",
+          "url": "https://www.mvestnik.ru/newslent/v-murmanske-evakuirovali-cheloveka-iz-goryawej-kvartiry/",
+          "source": "www.mvestnik.ru"
+        },
+        {
+          "title": "Пострадавший в пожаре на Свердлова в Мурманске госпитализирован",
+          "snippet": "",
+          "url": "https://severpost.ru/read/201694/",
           "source": "Severpost.ru"
         },
         {
-          "title": "Злополучное здание в Мурманске снесли",
+          "title": "В Мурманске лопнули трубы в горящей квартире — течь устранили пожарные, погорелец в больнице",
           "snippet": "",
-          "url": "https://www.tv21.ru/news/2026/01/18/zlopoluchnoe-zdanie-v-murmanske-snesli",
-          "source": "Телекомпания ТВ-21"
-        },
-        {
-          "title": "У администрации Мурманска столкнулись две легковушки",
-          "snippet": "",
-          "url": "https://severpost.ru/read/201659/",
-          "source": "Severpost.ru"
+          "url": "https://novosti-murmanskoy-oblasti.ru/69626-v-murmanske-lopnuli-trubi-v-goryashhey-kvartire-tech-ustranili-pozharnie-pogorelec-v-bolnice.html",
+          "source": "Новости Мурманской области"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -115,7 +199,7 @@
     },
     {
       "title": "садоводство",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 18 Jan 2026 22:10:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeVZNcZ_tW9NC5YCHr4KOzbW3liUE0eOuKUh5VNnluQHOas2MzEtoVmqEoRYw",
       "pictureSource": "Финансы Mail",
@@ -143,7 +227,7 @@
     },
     {
       "title": "анджелина джоли",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 18 Jan 2026 22:00:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD4_CYeSk2Bs4rxCjF5lziqx6C8_jb5a9YRHGsPSHPzskrk_BghMy-QAysR-Q",
       "pictureSource": "LIGA.net",
@@ -170,113 +254,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "телеграм",
-      "trafficCount": "10000+",
-      "pubDate": "Sun, 18 Jan 2026 21:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8PYrgyRqs3DIkE8lYNSBHw9uwpImcG2a-d-nxl3mfyz7_CRcYoPrd5QmYAhA",
-      "pictureSource": "Forbes.ru",
-      "relatedSearch": [
-        {
-          "title": "В Госдуме прокомментировали данные о частичной блокировке Telegram в России",
-          "snippet": "",
-          "url": "https://www.forbes.ru/tekhnologii/553739-v-gosdume-prokommentirovali-dannye-o-casticnoj-blokirovke-telegram-v-rossii",
-          "source": "Forbes.ru"
-        },
-        {
-          "title": "Роскомнадзор: Ограничения против «Телеграма» в России не применяются",
-          "snippet": "",
-          "url": "https://m.business-gazeta.ru/news/692555",
-          "source": "БИЗНЕС Online — Новости Казани"
-        },
-        {
-          "title": "Роскомнадзор опроверг сообщения о введении новых ограничений против Telegram",
-          "snippet": "",
-          "url": "https://www.vedomosti.ru/technology/news/2026/01/16/1169903-roskomnadzor-oproverg",
-          "source": "Ведомости"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "миралем пьянич",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 18 Jan 2026 21:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYgEawsm3-CbGPz8O-LGBW5IdQAimFO-Pb_7DJ7bxizuGFjGQf8mZaPmlg0Gg",
-      "pictureSource": "Спорт день за днем",
-      "relatedSearch": [
-        {
-          "title": "Источник: Пьянич вслед за Нани перейдет в казахстанский «Актобе»",
-          "snippet": "",
-          "url": "https://www.sportsdaily.ru/news/istochnik-pyanich-vsled-za-nani-perejdet-v-kazahstanskij-aktobe/",
-          "source": "Спорт день за днем"
-        },
-        {
-          "title": "За рубежом высказались о подписании легенды «Манчестер Юнайтед» в «Актобе»",
-          "snippet": "",
-          "url": "https://sportmail.ru/news/football-foreign/69465849/",
-          "source": "Спорт Mail"
-        },
-        {
-          "title": "Пьянич подпишет контракт с «Актобе», клуб интересуется Смоловым — источник",
-          "snippet": "",
-          "url": "https://www.championat.ru/football/news-6321922-byvshij-futbolist-cska-pyanich-podpishet-kontrakt-s-aktobe-istochnik.html",
-          "source": "https://www.championat.ru/"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "гис жкх",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 18 Jan 2026 21:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRc5_aHcGjIxI20E-3LGHUHwdstqecFVjDHeuYSZQP-7MXtAxWgbYHRhrD86sw",
-      "pictureSource": "spbdnevnik.ru",
-      "relatedSearch": [
-        {
-          "title": "В России собираются перевести взыскание долгов за ЖКХ на цифровую платформу",
-          "snippet": "",
-          "url": "https://spbdnevnik.ru/news/2026-01-18/v-rossii-sobirayutsya-perevesti-vzyskanie-dolgov-za-zhkkh-na-tsifrovuyu-platformu",
-          "source": "spbdnevnik.ru"
-        },
-        {
-          "title": "Взыскание долгов за ЖКХ планируют перевести «в цифру» в 2028 году",
-          "snippet": "",
-          "url": "https://nsn.fm/society/vzyskanie-dolgov-za-zhkh-planiruut-perevesti-v-tsifru-v-2028-godu",
-          "source": "Национальная Служба Новостей - НСН"
-        },
-        {
-          "title": "Онлайн вместо повестки: долги за ЖКХ начнут оформлять и взыскивать через одну систему",
-          "snippet": "",
-          "url": "https://www.pravda.ru/news/economics/2329840-online-utility-debt-collection/",
-          "source": "Правда.Ру"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "гимн",
+      "title": "нн ру",
       "trafficCount": "200+",
-      "pubDate": "Sun, 18 Jan 2026 21:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2W5zimEfOhz1pMkpduqdVREZs9Jrdfb3ns1j-oDfHq_RddAmWa28Udn5NcXg",
-      "pictureSource": "Forbes.ru",
+      "pubDate": "Sun, 18 Jan 2026 22:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSOLidCtBbblhoX4mbFBQh0Prjp94PnXxxN_S0LTGkz2znfzEktC-PpIAGsRg",
+      "pictureSource": "Новости Нижнего Новгорода сегодня — В городе N",
       "relatedSearch": [
         {
-          "title": "«Филяй, филяй»: как немецкие блогеры покорили российских женщин",
+          "title": "Очередной ремонт трамвайных путей начнется в Нижнем Новгороде 1 февраля",
           "snippet": "",
-          "url": "https://www.forbes.ru/svoi-biznes/553734-filaj-filaj-kak-nemeckie-blogery-pokorili-rossijskih-zensin",
-          "source": "Forbes.ru"
+          "url": "https://www.vgoroden.ru/novosti/ocherednoy-remont-tramvaynyh-putey-nachnetsya-v-nizhnem-novgorode-1-fevralya-id426001",
+          "source": "Новости Нижнего Новгорода сегодня — В городе N"
         },
         {
-          "title": "Гимн овуляции - как немецкие «Миша» и «Ваня» заставили российских мужиков бороться за внимание женщин",
+          "title": "В Нижнем Новгороде возобновилось движение трех трамвайных маршрутов после реконструкции",
           "snippet": "",
-          "url": "https://www.dvnovosti.ru/khab/2026/01/19/189731/",
-          "source": "Новости Хабаровска"
+          "url": "https://progorodnn.ru/news/144406",
+          "source": "ProGorodNN"
         },
         {
-          "title": "Воздушные цели сбиты над Белгородом и Белгородским округом",
+          "title": "В Нижнем Новгороде сократят два трамвайных маршрута из-за ремонта путей — как будет ходить транспорт",
           "snippet": "",
-          "url": "https://openbelgorod.ru/news/SVO/2026-01-17/vozdushnye-tseli-sbity-nad-belgorodom-i-belgorodskim-okrugom-488752",
-          "source": "Открытый Белгород"
+          "url": "https://www.nn.ru/text/transport/2026/01/19/76222063/",
+          "source": "Новости Нижнего Новгорода – nn.ru"
         }
       ],
       "link": "https://imtaqin.id/"

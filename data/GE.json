@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-22 11:53:10",
+  "lastUpdate": "2026-01-22 12:20:28",
   "data": [
     {
       "title": "scratch",
@@ -31,7 +31,7 @@
     },
     {
       "title": "ticketmaster",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 21 Jan 2026 13:40:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAUPqGnkGELrYNGJKqE6yrW_mAahGPsPnqwK377sdrnsHLA-1WOPmd8P6_f5E",
       "pictureSource": "TicketNews",
@@ -89,26 +89,26 @@
       "title": "barcelona",
       "trafficCount": "200+",
       "pubDate": "Wed, 21 Jan 2026 12:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-TMEN4K3XtJ-m3AHvw4fTK27Tu4P59iKuy9ULvk6Feb3HKmN42Xc9GE8x7Hw",
-      "pictureSource": "Vietnam.vn",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrMQZSHamwQ5hokgyl6PFw6SjYB_3gkf6tk_kOVNfzIu5ikR1Ry0d6NlaF3B8",
+      "pictureSource": "Mundo Deportivo",
       "relatedSearch": [
         {
-          "title": "Transmisión en vivo del Slavia Praga vs Barcelona",
+          "title": "El Barça desbanca al PSG como segunda potencia financiera en una lista en la que el Real Madrid sigue líder",
           "snippet": "",
-          "url": "https://www.vietnam.vn/es/truc-tiep-slavia-praha-vs-barcelona",
-          "source": "Vietnam.vn"
+          "url": "https://www.mundodeportivo.com/futbol/internacional/20260122/1002606216/barca-desbanca-psg-segunda-potencia-financiera-lista-real-madrid-sigue-lider.html",
+          "source": "Mundo Deportivo"
         },
         {
-          "title": "🥐 Victoria del Barça, más Champions... 5️⃣ noticias para arrancar el día",
+          "title": "El Real Madrid es, por tercer año consecutivo, el club de fútbol con mayores ingresos del mundo según Deloitte",
           "snippet": "",
-          "url": "https://onefootball.com/pt-br/noticias/victoria-del-barca-mas-champions-5-noticias-para-arrancar-el-dia-42278147",
+          "url": "https://www.realmadrid.com/es-ES/noticias/club/actualidad/real-madrid-informe-2026-01-01-2026",
+          "source": "Real Madrid CF"
+        },
+        {
+          "title": "Ingreso récord de £702m coloca a Liverpool líder por primera vez",
+          "snippet": "",
+          "url": "https://onefootball.com/pt-br/noticias/ingreso-record-de-702m-coloca-a-liverpool-lider-por-primera-vez-42278141",
           "source": "OneFootball"
-        },
-        {
-          "title": "Flick: Logramos una victoria importante y la lesión de Pedri preocupa al equipo",
-          "snippet": "",
-          "url": "https://www.ysscores.com/es/news/13895524/Flick:-Logramos-una-victoria-importante-y-la-lesi%C3%B3n-de-Pedri-preocupa-al-equipo",
-          "source": "YSscores.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -142,18 +142,40 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "marseille vs liverpool",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 21 Jan 2026 12:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjEZ8gMnkaVdITdLoY6Cu5NFXo97w1M1Fzx2JrrSfMAfkYGIfqj0zMdpZYjoc",
-      "pictureSource": "Daily Dispatch",
+      "title": "champions league",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 21 Jan 2026 12:30:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq0sO_wxR6hhSnwIgJZwB40xYPPJWA0O8FIsmpA8XaQ5Axi8wEAc8Ro_DJWXo",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Virgil van Dijk lauds Liverpool’s team effort in France, warns of Bournemouth challenge",
+          "title": "Newcastle secure play-off spot with comfortable win over PSV",
           "snippet": "",
-          "url": "https://www.dailydispatch.co.za/sport/2026-01-22-virgil-van-dijk-lauds-liverpools-team-effort-in-france-warns-of-bournemouth-challenge/",
-          "source": "Daily Dispatch"
+          "url": "https://www.bbc.com/sport/football/live/cdxjqn917n5t",
+          "source": "BBC"
         },
+        {
+          "title": "Yoane Wissa shines in his Champions League debut",
+          "snippet": "",
+          "url": "https://foot-africa.com/en/news/yoane-wissa-shines-in-his-champions-league-debut-1053488/",
+          "source": "Foot Africa"
+        },
+        {
+          "title": "‘We created absolutely nothing’: Peter Bosz disappointed after Champions League defeat to Newcastle United",
+          "snippet": "",
+          "url": "https://onefootball.com/de/news/we-created-absolutely-nothing-peter-bosz-disappointed-after-champions-league-defeat-to-newcastle-united-42279179",
+          "source": "OneFootball"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "marseille vs liverpool",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 21 Jan 2026 12:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRedF9fqe4O5BzH6j6OfPKno7oKYTvI49O5PpzHX8HYtBu4MECwI3f2FMk3VMM",
+      "pictureSource": "OneFootball",
+      "relatedSearch": [
         {
           "title": "Post-Match Raw: Liverpool’s “Logical” Tactics Far More Effective",
           "snippet": "",
@@ -161,10 +183,16 @@
           "source": "OneFootball"
         },
         {
-          "title": "Watch Champions League Match of the Day after wins for Liverpool, Chelsea & Newcastle",
+          "title": "'I did my homework!' - Dominik Szoboszlai reveals secrets of free-kick goal during Liverpool's Champions League win at Marseille",
           "snippet": "",
-          "url": "https://www.bbc.co.uk/sport/football/live/cx2d4mnl02nt?page=12",
-          "source": "BBC"
+          "url": "https://www.goal.com/en-us/lists/homework-dominik-szoboszlai-reveals-secrets-free-kick-goal-liverpool-champions-league-marseille/blt55ad5bfd2f4e6e95",
+          "source": "Goal.com"
+        },
+        {
+          "title": "Sports - Liverpool close in on Round of 16 with 3-0 win over Marseille",
+          "snippet": "",
+          "url": "https://www.france24.com/en/tv-shows/sports/20260122-liverpool-close-in-on-round-of-16-with-3-0-win-over-marseille",
+          "source": "France 24"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +239,16 @@
           "source": "BBC"
         },
         {
-          "title": "President Aliyev Congratulates Qarabağ Football Club",
+          "title": "Gurban Gurbanov: ‘I’m very happy for Azerbaijani football’",
           "snippet": "",
-          "url": "https://caspianpost.com/azerbaijan/president-aliyev-congratulates-qarabag-football-club",
-          "source": "Caspianpost.com"
+          "url": "https://www.azerbaycan24.com/en/gurban-gurbanov-i-m-very-happy-for-azerbaijani-football/",
+          "source": "Azerbaycan24"
         },
         {
-          "title": "Qurban Qurbanov about the biased head referee: \"President Ilham Aliyev has given the necessary comment\"",
+          "title": "Azerbaijani President congratulated Qarabağ football club",
           "snippet": "",
-          "url": "https://medianews.az/en/qurban-qurbanov-qerezli-bas-hakim-barede-prezident-ilham-eliyev-lazim-olan-serhi-verib",
-          "source": "Medianews.az"
+          "url": "https://azertag.az/en/xeber/azerbaijani_president_congratulated_qarabag_football_club-3979771",
+          "source": "Azərtac"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,9 +257,15 @@
       "title": "славия – барселона",
       "trafficCount": "1000+",
       "pubDate": "Wed, 21 Jan 2026 11:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTr62G7f689SGa4gRJdapY0tFwv51cOZcFwKPIqAZrK9qCuZIpvmYTiWzNckTE",
-      "pictureSource": "Media.az",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAWQB0bem2RzdpcZ2SYpffwYjF7Ix477GphdJz1OSaxliMfux6hRUwNFP7oaw",
+      "pictureSource": "Vietnam.vn",
       "relatedSearch": [
+        {
+          "title": "В результате впечатляющего камбэка «Барселона» одержала убедительную победу над хозяевами поля, «Славией Прага».",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/ru/nguoc-dong-kich-tinh-barcelona-thang-dam-chu-nha-slavia-prague",
+          "source": "Vietnam.vn"
+        },
         {
           "title": "«Барселона» установила исторический антирекорд в Лиге чемпионов",
           "snippet": "",
@@ -239,44 +273,10 @@
           "source": "Media.az"
         },
         {
-          "title": "Славия — Барселона: прогноз на матч 21 января 2026, смотреть бесплатно, какой канал, составы, голы, счёт, прямой эфир, трансляция",
+          "title": "Фермин Лопес спасает «Барселону» от позора",
           "snippet": "",
-          "url": "https://news.rambler.ua/football/55923348-slaviya-barselona-prognoz-na-match-21-yanvarya-2026-smotret-besplatno-kakoy-kanal-sostavy-goly-schet-pryamoy-efir-translyatsiya/",
-          "source": "Рамблер"
-        },
-        {
-          "title": "«Барселона» победила «Славию» в матче Лиги чемпионов, на счету Левандовского гол и автогол",
-          "snippet": "",
-          "url": "https://matchtv.ru/football/matchtvnews_NI2288018_Barselona_pobedila_Slaviju_v_matche_Ligi_chempionov_na_schetu_Levandovskogo_gol_i_avtogol",
-          "source": "Матч ТВ"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "slavia praha vs barcelona",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 21 Jan 2026 11:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFCgyhc3EfEkvFdrEtVK2zChcdOpk1Kiigj5JSK7FOUZxtbE1qpt6WBIDTlm8",
-      "pictureSource": "iDNES.cz",
-      "relatedSearch": [
-        {
-          "title": "Sám neví, jak ho dal. Ale na gól Barceloně nikdy nezapomenu, říká slávista Kušej",
-          "snippet": "",
-          "url": "https://www.idnes.cz/fotbal/pohary/vasil-kusej-slavia-barcelona-liga-mistru-gol.A260122_001524_fot_pohary_min",
-          "source": "iDNES.cz"
-        },
-        {
-          "title": "OBRAZEM: Takhle vypadala hvězdná noc fotbalistů Slavie proti katalánskému velkoklubu",
-          "snippet": "",
-          "url": "https://www.irozhlas.cz/sport/fotbal/obrazem-takhle-vypadala-hvezdna-noc-fotbalistu-slavie-proti-katalanskemu_2601221006_krn",
-          "source": "iROZHLAS"
-        },
-        {
-          "title": "Slavia hrála velmi dobře, uznal trenér Flick. Jeden z nejtěžších zápasů v kariéře, přiznal Olmo",
-          "snippet": "",
-          "url": "https://www.livesport.cz/zpravy/fotbal-liga-mistru-slavia-hrala-velmi-dobre-uznal-trener-flick-jeden-z-nejtezsich-zapasu-v-kariere-priznal-olmo/2gUc2kxo/",
-          "source": "Livesport"
+          "url": "https://sport25.pro/post/fermin-lopes-spasaet-barselonu-ot-pozora",
+          "source": "Спорт 25"
         }
       ],
       "link": "https://imtaqin.id/"

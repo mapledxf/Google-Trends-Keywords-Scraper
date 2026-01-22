@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2026-01-22 05:58:30",
+  "lastUpdate": "2026-01-22 06:37:25",
   "data": [
-    {
-      "title": "liverpool",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 21 Jan 2026 13:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRT6gNpvuX-v7K1qOlrp6HcAS3JddCYXKxYHuklanoENL1b2ILuuOzOYoR2aKg",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Watch Champions League Match of the Day after wins for Liverpool, Chelsea & Newcastle",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cx2d4mnl02nt",
-          "source": "BBC"
-        },
-        {
-          "title": "Liverpool, Barcelona cruise as Bayern Munich reach Champions League last 16",
-          "snippet": "",
-          "url": "https://sundaytribune.co.za/sport/soccer/2026-01-22-liverpool-barcelona-cruise-as-bayern-munich-reach-champions-league-last-16/",
-          "source": "Sunday Tribune"
-        },
-        {
-          "title": "Chelsea v Pafos, Newcastle v PSV, Juventus v Benfica, and more: Champions League – live",
-          "snippet": "",
-          "url": "https://www.theguardian.com/football/live/2026/jan/21/chelsea-v-pafos-newcastle-v-psv-juventus-v-benfica-and-more-champions-league-live?filterKeyEvents=false&page=with%3Ablock-69712b078f08130e62889746",
-          "source": "The Guardian"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "bayern munich",
       "trafficCount": "200+",
@@ -49,10 +21,10 @@
           "source": "Bayern Munich News"
         },
         {
-          "title": "Kompany: ‘The team reacted well again’",
+          "title": "Vincent Kompany emphasizes importance of Bayern Munich’s UCL knockout qualification",
           "snippet": "",
-          "url": "https://onefootball.com/es/noticias/kompany-the-team-reacted-well-again-42276708",
-          "source": "OneFootball"
+          "url": "https://www.bavarianfootballworks.com/bayern-munich-coaches/161617/vincent-kompany-emphasizes-importance-of-bayern-munichs-ucl-knockout-qualification",
+          "source": "Bavarian Football Works"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -81,6 +53,34 @@
           "snippet": "",
           "url": "https://www.slbenfica.pt/en-us/agora/noticias/2026/01/20/futebol-benfica-treino-vespera-juventus-7-jornada-fase-de-liga-da-liga-dos-campeoes",
           "source": "Site Oficial do Sport Lisboa e Benfica"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "chelsea",
+      "trafficCount": "2000+",
+      "pubDate": "Wed, 21 Jan 2026 12:50:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR71hPCgPvH_e3PIYRe4iqs_hMabWufENmP8OAh_zZKY4OnUyY61YaXy8PfOd8",
+      "pictureSource": "Transfermarkt",
+      "relatedSearch": [
+        {
+          "title": "Chelsea close in on Champions League progress as Liam Rosenior dodges €1.1b upset vs Pafos FC",
+          "snippet": "",
+          "url": "https://www.transfermarkt.com/chelsea-close-in-on-champions-league-progress-as-liam-rosenior-dodges-euro-1-1b-upset-vs-pafos-fc/view/news/473939",
+          "source": "Transfermarkt"
+        },
+        {
+          "title": "Chelsea Player Ratings vs. Pafos: Unprecedented Winning Goal Spares Blues’ Blushes",
+          "snippet": "",
+          "url": "https://www.fotmob.com/embed/news/01kfh8h1g5tw/chelsea-player-ratings-vs-pafos-unprecedented-winning-goal-spares-blues-blushes",
+          "source": "FotMob"
+        },
+        {
+          "title": "Chelsea have a new ‘most important’ player according to Joe Cole after win vs Pafos",
+          "snippet": "",
+          "url": "https://www.thechelseachronicle.com/match-coverage/chelsea-have-a-new-most-important-player-according-to-joe-cole-after-win-vs-pafos/",
+          "source": "The Chelsea Chronicle"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,26 +117,26 @@
       "title": "barca",
       "trafficCount": "200+",
       "pubDate": "Wed, 21 Jan 2026 12:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHMgIp0eIlAUtk638t5vndXGHklU_o_nTvKGefD8946NSiZ11IbalPAnUrQrw",
-      "pictureSource": "La Sicilia",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6DyL-yPifZziK3G8FJOqdKkgcH7e-pcga5jXDjTOepbKL3ESlChBXqx4wyKM",
+      "pictureSource": "SiracusaPost",
       "relatedSearch": [
         {
-          "title": "A Ortigia e Portopalo porti in ginocchio: blackout di ore e strade semidistrutte",
+          "title": "Disposta la riapertura di scuole, di alcuni impianti sportivi e dei mercati",
           "snippet": "",
-          "url": "https://www.lasicilia.it/news/cronaca/3014567/a-ortigia-e-portopalo-porti-in-ginocchio-blackout-di-ore-e-strade-semidistrutte.html",
-          "source": "La Sicilia"
+          "url": "https://www.siracusapost.com/disposta-la-riapertura-di-scuole-di-alcuni-impianti-sportivi-e-dei-mercati/",
+          "source": "SiracusaPost"
+        },
+        {
+          "title": "Maltempo, il deputato Cannata (FdI): \"vicinanza concreta ai territori colpiti\"",
+          "snippet": "",
+          "url": "https://www.diario1984.it/2026/01/21/maltempo-il-deputato-cannata-fdi-vicinanza-concreta-ai-territori-colpiti/",
+          "source": "Diario1984"
         },
         {
           "title": "Siracusa, imbarcazione a vela rischia l’affondamento al Porto Piccolo: intervento dei Vigili del Fuoco di Priolo",
           "snippet": "",
           "url": "https://www.radioamica.it/siracusa-imbarcazione-a-vela-rischia-laffondamento-al-porto-piccolo-intervento-dei-vigili-del-fuoco-di-priolo/",
           "source": "- Amica News"
-        },
-        {
-          "title": "Il conto salato del passaggio del ciclone Harry, Natura Sicula: \"Eccessiva vicinanza delle costruzioni alla riva\"",
-          "snippet": "",
-          "url": "https://www.siracusapost.com/il-conto-salato-del-passaggio-del-ciclone-harry-natura-sicula-eccessiva-vicinanza-delle-costruzioni-alla-riva/",
-          "source": "SiracusaPost"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -198,16 +198,44 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "bayern",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 21 Jan 2026 12:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScFdb45lfiX4VEQSojk476fCv1-4AiUNYaUc-nF8Vhz2fTdowBRShwu3zdRu8",
+      "pictureSource": "Giessener Anzeiger",
+      "relatedSearch": [
+        {
+          "title": "Spanische Medien: Real Madrid mit Mega-Angebot für Bayern-Superstar",
+          "snippet": "",
+          "url": "https://www.giessener-anzeiger.de/sport/fussball/angebot-fuer-bayern-superstar-medien-real-madrid-mit-mega-zr-94129997.html",
+          "source": "Giessener Anzeiger"
+        },
+        {
+          "title": "Fußball Transfergerüchte heute: Real denkt an Mega-Angebot für Bayern-Star - Irres Woltemade-Gerücht",
+          "snippet": "",
+          "url": "https://www.90min.de/fussball-transfergeruchte-heute-19-01-2026",
+          "source": "90min.de"
+        },
+        {
+          "title": "Galácticos 3.0: Real Madrid lockt Bayern-Star Michael Olise mit XXL-Ablöse",
+          "snippet": "",
+          "url": "https://fcbinside.de/2026/01/20/galacticos-3-0-real-madrid-lockt-bayern-star-michael-olise-mit-xxl-abloese/",
+          "source": "FCBinside"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "psv",
       "trafficCount": "500+",
       "pubDate": "Wed, 21 Jan 2026 12:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSirsDv2wUMfaz2EI0BE_9ulK-hFmY2MpWesUc9_11Nkk28anxPMnO5coHnXwk",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2O8T01SF25SJuShL22485Bl9B7s7qKu9MjUM7XbmrqrXiocEbcGc3mp66T0M",
       "pictureSource": "Eindhovens Dagblad",
       "relatedSearch": [
         {
-          "title": "Engels gezin heeft seizoenkaarten voor Newcastle United én PSV: ‘Een droom dat ze tegen elkaar spelen? Nee, verschrikkelijk!’",
+          "title": "Schouten verdedigt PSV-opbouw na flaters: ‘Als het wél goed gaat, zeggen jullie: oh, wat geweldig’",
           "snippet": "",
-          "url": "https://www.ed.nl/psv/engels-gezin-heeft-seizoenkaarten-voor-newcastle-united-en-psv-een-droom-dat-ze-tegen-elkaar-spelen-nee-verschrikkelijk~a15c852f/",
+          "url": "https://www.ed.nl/psv/schouten-verdedigt-psv-opbouw-na-flaters-als-het-wel-goed-gaat-zeggen-jullie-oh-wat-geweldig~a2d0ed77/",
           "source": "Eindhovens Dagblad"
         },
         {
@@ -229,54 +257,26 @@
       "title": "barcelona hoje",
       "trafficCount": "1000+",
       "pubDate": "Wed, 21 Jan 2026 12:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgXW2ciz8RaJ6FS1YOEFhmVVZnLMqyaiJxcgS4QVGKbZKcA-xauCmhaGAXaSA",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAZ7Ie7FlNN9m7F0P0D6uo3gEiIB9U81gvoK-3JVMkMYqccSwC20wehXjQ8XE",
       "pictureSource": "A Bola",
       "relatedSearch": [
         {
-          "title": "Com o Barcelona em 15.º, Hansi Flick só pensa em «ganhar a Champions»",
+          "title": "Golaços livraram o Barcelona de um resultado negativo em Praga (crónica)",
           "snippet": "",
-          "url": "https://www.abola.pt/noticias/com-o-barcelona-em-15o-hansi-flick-so-pensa-em-ganhar-a-champions-2026012018291820207",
+          "url": "https://www.abola.pt/noticias/golacos-livraram-o-barcelona-de-um-resultado-negativo-em-praga-cronica-2026012122352716962",
           "source": "A Bola"
         },
         {
-          "title": "Escalações definidas: Barcelona encara o Slavia Praga fora de casa pela Champions",
+          "title": "Prévia: líder da liga tcheca, o Slavia, recebe o Barça na Liga dos Campeões",
           "snippet": "",
-          "url": "https://francesnews.com.br/post/2026/01/26/12137-escalacoes-definidas-barcelona-encara-o-slavia-praga-fora-de-casa-pela-champions",
-          "source": "Francês News"
+          "url": "https://www.fotmob.com/pt-BR/topnews/25375-preview-czech-league-leaders-slavia-host-barca-champions-league?utm_source=fotmob&lang=pt-BR",
+          "source": "FotMob"
         },
         {
           "title": "Jogo 2601914 | Futebol Internacional | Liga dos Campeões | Desporto | RTP Notícias",
           "snippet": "",
           "url": "https://www.rtp.pt/noticias/desporto/liga-dos-campeoes/jogo/2601914",
           "source": "RTP"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "olympique - liverpool",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 21 Jan 2026 12:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8T2zOXL6iYyg8A6znTzN8YQb0CmbL8970gPTf2UimZ4XZE7vVZXA36K4WeIs",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Marseille 0-3 Liverpool: Dominik Szoboszlai and Cody Gakpo score in win",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/c1evdzlw21nt",
-          "source": "BBC"
-        },
-        {
-          "title": "Salah back in starting lineup and Slot's Liverpool is winning again in the Champions League",
-          "snippet": "",
-          "url": "https://infonews.ca/news/7510980/salah-back-in-starting-lineup-and-slots-liverpool-is-winning-again-in-the-champions-league/",
-          "source": "iNFOnews.ca"
-        },
-        {
-          "title": "Champions League: Liverpool humiliates OM at the Vélodrome",
-          "snippet": "",
-          "url": "https://foot-africa.com/en/news/champions-league-liverpool-humiliates-om-at-the-velodrome-1053062/",
-          "source": "Foot Africa"
         }
       ],
       "link": "https://imtaqin.id/"

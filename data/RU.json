@@ -1,6 +1,62 @@
 {
-  "lastUpdate": "2026-01-22 03:55:36",
+  "lastUpdate": "2026-01-22 04:42:10",
   "data": [
+    {
+      "title": "погода спб",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 21 Jan 2026 20:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRX7ECRkgYVLFGK0kHhqnaVb_S-NmhT2BAvIHJR2aCfohrt2WQUyam8-viKwi8",
+      "pictureSource": "Росбалт",
+      "relatedSearch": [
+        {
+          "title": "На Петербург идут 20-градусные морозы",
+          "snippet": "",
+          "url": "https://www.rosbalt.ru/news/2026-01-21/na-peterburg-idut-20-gradusnye-morozy-5539078",
+          "source": "Росбалт"
+        },
+        {
+          "title": "Колесов предупредил петербуржцев о резком похолодании с 22 января",
+          "snippet": "",
+          "url": "https://pogoda.mail.ru/news/69502780/",
+          "source": "Mail.ru"
+        },
+        {
+          "title": "После аномального тепла в Петербург придут сильные морозы",
+          "snippet": "",
+          "url": "https://m.sobaka.ru/city/city/209918",
+          "source": "Собака.ru"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "погода петрозаводск",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 21 Jan 2026 20:30:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-cxDR8TJKs3arNk4-Icrnh1M2v9rv2ewl14_xOW05ijH58sNXbdnsufiYWvY",
+      "pictureSource": "karelinform",
+      "relatedSearch": [
+        {
+          "title": "Морозы накроют Карелию — Новости Карелии и Петрозаводска - КарелИнформ",
+          "snippet": "",
+          "url": "https://karelinform.ru/news/2026-01-21/morozy-nakroyut-kareliyu-5538978",
+          "source": "karelinform"
+        },
+        {
+          "title": "Жителей Карелии предупредили об опасной погоде",
+          "snippet": "",
+          "url": "https://gubdaily.ru/news/zhitelej-karelii-predupredili-ob-opasnom-pogodnom-yavlenii/",
+          "source": "Daily Карелия"
+        },
+        {
+          "title": "Морозы до -25°С ударят в Карелии 22 января",
+          "snippet": "",
+          "url": "https://stolicaonego.ru/news/morozy-do-25-s-udarjat-v-karelii-22-janvarja/",
+          "source": "СТОЛИЦА на Онего"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "gismeteo",
       "trafficCount": "100+",
@@ -59,7 +115,7 @@
     },
     {
       "title": "новости дня",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 21 Jan 2026 19:10:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSS9qx7FK4cRszJI431KVHGMQRWYGj062-_4yehTksEiNbmOZkDn9DcUnr4vOY",
       "pictureSource": "Финансы Mail",
@@ -77,17 +133,17 @@
           "source": "gazeta@a42"
         },
         {
-          "title": "Встретился с руководителем Сибирского межрегионального управления Россельхознадзора Александром Баевым.",
+          "title": "Холодное лакомство из Кузбасса порадует жителей Монголии",
           "snippet": "",
-          "url": "https://chastnik-m.ru/news/news/?id=259503",
-          "source": "Частник-М"
+          "url": "https://kuzbass.media/2026/01/22/129276.html",
+          "source": "РИА «Кузбасс"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "погода тольятти",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 21 Jan 2026 19:10:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEFSnuPN6Ri0fsBnAkDLKTge-3GG3oIC_8BHd7WuzGBSFbpjIHconJ0zIEDLQ",
       "pictureSource": "Inkazan.ru",
@@ -117,15 +173,9 @@
       "title": "нгс новости",
       "trafficCount": "1000+",
       "pubDate": "Wed, 21 Jan 2026 18:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQS3zM-chd4wWvewvj8bZ_cs9xXWjvfQAZMrCGkI5ujUAKTG4eIvZqJmnNoikA",
-      "pictureSource": "Твой Иркутск",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYxr5ZXidOH7QSa8xgLY8Lc0ZB0g9e3BgjobAbmin8HziFyqpCY_Lfn74Uuxs",
+      "pictureSource": "Интерфакс",
       "relatedSearch": [
-        {
-          "title": "Один человек погиб при обрушении торгового центра в Новосибирске",
-          "snippet": "",
-          "url": "https://www.irk.ru/news/20260122/building/",
-          "source": "Твой Иркутск"
-        },
         {
           "title": "Задержан собственник обрушившегося в Новосибирске торгового комплекса",
           "snippet": "",
@@ -133,21 +183,55 @@
           "source": "Интерфакс"
         },
         {
-          "title": "В Новосибирске возбудили уголовное дело после обрушения крыши ТЦ",
+          "title": "Один человек погиб при обрушении торгового центра в Новосибирске",
           "snippet": "",
-          "url": "https://expert.ru/news/v-novosibirske-vozbudili-ugolovnoe-delo-posle-obrusheniya-kryshi-tts/",
-          "source": "Эксперт"
+          "url": "https://www.irk.ru/news/20260122/building/",
+          "source": "Твой Иркутск"
+        },
+        {
+          "title": "Один в больнице: стало известно, в каком сейчас состоянии пострадавшие при обрушении ТЦ на Первомайке",
+          "snippet": "",
+          "url": "https://ngs.ru/text/incidents/2026/01/22/76227136/",
+          "source": "НГС.ру"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "погода ижевск",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 21 Jan 2026 18:00:00 -0800",
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "отменили занятия в школах челябинска",
+      "trafficCount": "2000+",
+      "pubDate": "Wed, 21 Jan 2026 17:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS760XPDQNpDEBv9-SRYgHpDm5LO5cxqlpMQ4S6RPqJWUs_BZpqOjZGLr1ABp4",
+      "pictureSource": "74.ру",
+      "relatedSearch": [
+        {
+          "title": "Из-за морозов в Челябинске отменили уроки",
+          "snippet": "",
+          "url": "https://74.ru/text/education/2026/01/22/76225867/",
+          "source": "74.ру"
+        },
+        {
+          "title": "В 2−3 раза холоднее обычного будет в Челябинской области в ближайшие дни",
+          "snippet": "",
+          "url": "https://pogoda.mail.ru/news/69514042/",
+          "source": "Mail.ru"
+        },
+        {
+          "title": "В Челябинске из-за 30-градусных морозов отменили занятия для всех школьников 22 января",
+          "snippet": "",
+          "url": "https://ura.news/news/1053061769",
+          "source": "URA.RU"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -168,90 +252,12 @@
           "snippet": "",
           "url": "https://pda.orsk.ru/news/144677-v-orske-zagorelsya-magazin",
           "source": "Орск.ру"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "погода пермь",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 21 Jan 2026 17:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlT9d4H7shc9FtnFYsNM_We-YvRvvnEWivSITaP8BgJ4az0gUeP2YrLh3qH5w",
-      "pictureSource": "Properm.ru",
-      "relatedSearch": [
-        {
-          "title": "До -42°С: в Прикамье объявлено экстренное предупреждение из-за аномальных морозов",
-          "snippet": "",
-          "url": "https://properm.ru/news/2026-01-20/do-42-s-v-prikamie-ob-yavleno-ekstrennoe-preduprezhdenie-iz-za-anomalnyh-morozov-5538211",
-          "source": "Properm.ru"
         },
         {
-          "title": "В Перми на два дня приостановят работу ледовых катков",
+          "title": "От опьянения до заключения: орчанину, ограбившему магазин «Ника», вынесли приговор",
           "snippet": "",
-          "url": "https://v-kurse.ru/2026/01/21/409105",
-          "source": "В курсе.ру"
-        },
-        {
-          "title": "ЭКСТРЕННОЕ ПРЕДУПРЕЖДЕНИЕ об опасном метеорологическом явлении 20-25 января 2026 года",
-          "snippet": "",
-          "url": "https://59.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/vnimanie/5675399",
-          "source": "Главное управление МЧС России по Пермскому краю"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "актировка тюмень сегодня",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 21 Jan 2026 17:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVYZk5L2aJvaM_vuBtAJySyLs1HXEQ8-V0khlO-CAyc9Rkt_neEOrOl70PaEM",
-      "pictureSource": "72.ру",
-      "relatedSearch": [
-        {
-          "title": "В Тюмени отменили занятия для школьников. Какие классы не идут на занятия?",
-          "snippet": "",
-          "url": "https://72.ru/text/education/2026/01/22/76223703/",
-          "source": "72.ру"
-        },
-        {
-          "title": "Из-за мороза тюменский автовокзал отменил пять рейсов, в том числе в Казахстан",
-          "snippet": "",
-          "url": "https://vsluh.ru/novosti/transport/iz-za-moroza-tyumenskiy-avtovokzal-otmenil-pyat-reysov-v-tom-chisle-v-kazakhstan_423552/",
-          "source": "Вслух.ru"
-        },
-        {
-          "title": "Синоптик пророчит Тюменской области 40-градусные морозы",
-          "snippet": "",
-          "url": "https://ura.news/news/1053061575",
-          "source": "URA.RU"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "погода курган",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 21 Jan 2026 17:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPbgeSPOf01IWzqrKoCdzlaWLXOWOiJ0V_t43eCzlIuRgbgCPUGEUgRuoOspM",
-      "pictureSource": "Область 45",
-      "relatedSearch": [
-        {
-          "title": "В Кургане из-за морозов дома остаются все школьники",
-          "snippet": "",
-          "url": "https://oblast45.ru/publication/80821",
-          "source": "Область 45"
-        },
-        {
-          "title": "Морозы вернулись на радость ученикам: в Кургане отменили занятия в школах - 21 января 2026 | 45.ру",
-          "snippet": "",
-          "url": "https://45.ru/text/gorod/2026/01/21/76224917/",
-          "source": "45.ру"
-        },
-        {
-          "title": "Когда аномальным морозам придет конец в Кургане: прогноз на январь",
-          "snippet": "",
-          "url": "https://ura.news/news/1053061151",
-          "source": "URA.RU"
+          "url": "https://pda.orsk.ru/news/144680-ot-opyaneniya-do-zaklyucheniya-orchaninu-ograbivshemu-magazin-%C2%ABnika%C2%BB-vynesli-prigovor",
+          "source": "Орск.ру"
         }
       ],
       "link": "https://imtaqin.id/"

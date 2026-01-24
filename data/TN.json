@@ -1,58 +1,86 @@
 {
-  "lastUpdate": "2026-01-24 06:16:16",
+  "lastUpdate": "2026-01-24 06:49:11",
   "data": [
+    {
+      "title": "الطقس",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 23 Jan 2026 22:20:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdHb8ZvOF0bjWqtPaDvUJCZ4bFso3dZJKnjvFAVvYqk24-FLqY-hMarOSpSVA",
+      "pictureSource": "Mosaique FM",
+      "relatedSearch": [
+        {
+          "title": "السبت: انخفاض في الحرارة.. أمطار مع تساقط البرد",
+          "snippet": "",
+          "url": "https://www.mosaiquefm.net/ar/%D8%AA%D9%88%D9%86%D8%B3-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/1496786/%D8%A7%D9%84%D8%B3%D8%A8%D8%AA-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D9%81%D9%8A-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D9%85%D8%B9-%D8%AA%D8%B3%D8%A7%D9%82%D8%B7-%D8%A7%D9%84%D8%A8%D8%B1%D8%AF",
+          "source": "Mosaique FM"
+        },
+        {
+          "title": "الطقس يوم السبت : سحب كثيفة وامطار على اغلب مناطق البلاد",
+          "snippet": "",
+          "url": "https://journalistesfaxien.tn/%D8%A7%D9%84%D8%B7%D9%82%D8%B3-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA-%D8%B3%D8%AD%D8%A8-%D9%83%D8%AB%D9%8A%D9%81%D8%A9-%D9%88%D8%A7%D9%85%D8%B7%D8%A7%D8%B1-%D8%B9%D9%84%D9%89-%D8%A7/",
+          "source": "موقع الصحفيين التونسيين بصفاقس"
+        },
+        {
+          "title": "الرصد الجوي: تقلبات جوية ابتداء من بعد ظهر غد",
+          "snippet": "",
+          "url": "https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/138776-%D8%A7%D9%84%D8%B1%D8%B5%D8%AF-%D8%A7%D9%84%D8%AC%D9%88%D9%8A-%D8%AA%D9%82%D9%84%D8%A8%D8%A7%D8%AA-%D8%AC%D9%88%D9%8A%D8%A9-%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%D8%A1-%D9%85%D9%86-%D8%A8%D8%B9%D8%AF-%D8%B8%D9%87%D8%B1-%D8%BA%D8%AF",
+          "source": "Assabah news"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "météo",
       "trafficCount": "10000+",
       "pubDate": "Fri, 23 Jan 2026 21:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxJn6Y1N_d_8ZFUEUD0_chiZ8hFISQdQA-bgOVcXT1rEU34i9chKEvCngUDRs",
-      "pictureSource": "NextPlz",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYT98OU22pLzahvidTh3EYbAmAEfJU094_jRdgxKJElhP5pcdWwMs-DfSeqTI",
+      "pictureSource": "Meteo.bzh",
       "relatedSearch": [
         {
-          "title": "Week-end sous haute tension : chaos météo avec neige, vents déchaînés et pluies torrentielles dans plusieurs régions",
+          "title": "La météo de votre samedi 24 janvier 2026",
           "snippet": "",
-          "url": "https://www.nextplz.fr/lifestyle/529553-week-end-sous-haute-tension-chaos-meteo-avec-neige-vents-dechaines-et-pluies-torrentielles-dans-plusieurs-regions",
-          "source": "NextPlz"
+          "url": "https://www.meteo.bzh/actualite/la-meteo-de-votre-samedi-24-janvier-2026-2026-01-23",
+          "source": "Meteo.bzh"
         },
         {
-          "title": "Pluies et inondations : pourquoi la semaine prochaine s'annonce chaotique",
+          "title": "Météo. Quel temps fera-t-il à Quimper et ses environs le samedi 24 janvier 2026 ?",
           "snippet": "",
-          "url": "https://france3-regions.franceinfo.fr/bretagne/finistere/quimper/pluies-et-inondations-pourquoi-la-semaine-prochaine-s-annonce-chaotique-3287442.html",
-          "source": "France 3 Régions"
+          "url": "https://www.ouest-france.fr/meteo/bretagne/quimper-29000/la-meteo-du-jour-a-quimper-dc38f9dd-61b3-4df5-bc1f-c8a406d1d380",
+          "source": "Ouest-France"
         },
         {
-          "title": "Quelle météo pour ce samedi et dimanche en France ? Découvrez les prévisions",
+          "title": "Neige-verglas, orages, crues… nouvelle perturbation en France ce samedi : voici les départements en vigilance",
           "snippet": "",
-          "url": "https://www.tameteo.com/actualites/previsions/quelle-meteo-pour-ce-samedi-et-dimanche-en-france-decouvrez-les-previsions-risque-intemperies.html",
-          "source": "Tameteo.com"
+          "url": "https://actu.fr/meteo/neige-verglas-orages-crues-nouvelle-perturbation-en-france-ce-samedi-voici-les-departements-en-vigilance_63740792.html",
+          "source": "Actu.fr"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "weather",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 23 Jan 2026 21:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhr-hgBGIvfHW7-79jyqrUGV_OQdsTV9CFr3-4ynj1rCpT1nkE17kPWPdqyh0",
-      "pictureSource": "KKCO 11 News",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmaB1k7k5Kcn4dxINW67FO7GgAP1Vtm0LNWKcGWOxAZzaIz2QNv6FyyeeP7ds",
+      "pictureSource": "The Denver Post",
       "relatedSearch": [
         {
-          "title": "Winter weather poses additional risks for people with dementia",
+          "title": "Hundreds of DIA flights delayed, canceled as cold snap hits metro Denver",
           "snippet": "",
-          "url": "https://www.kkco11news.com/2026/01/24/winter-weather-poses-additional-risks-people-with-dementia/",
-          "source": "KKCO 11 News"
+          "url": "https://www.denverpost.com/2026/01/23/denver-flight-delays-weather-cold/",
+          "source": "The Denver Post"
         },
         {
-          "title": "Alzheimer's Association releases safety tips ahead of winter storm",
+          "title": "Snow? Delays? No problem: Confident football fans take over DIA",
           "snippet": "",
-          "url": "https://www.wgrz.com/article/news/local/alzheimers-association-shares-safety-tips-ahead-of-winter-storm/71-bf4c5faa-329f-4e31-9bf1-4f97e8a0e079",
-          "source": "WGRZ"
+          "url": "https://www.9news.com/article/travel/football-fans-take-over-dia-despite-delays-snow/73-68239c88-4f91-4e14-a008-98d56078cbad",
+          "source": "9News"
         },
         {
-          "title": "Tips for caregivers: Protecting loved ones with dementia from cold-related dangers",
+          "title": "Frigid weather tests Denver International Airport's winter playbook",
           "snippet": "",
-          "url": "https://cbs2iowa.com/news/local/tips-for-caregivers-protecting-loved-ones-with-dementia-from-cold-related-dangers-bitter-weather-freezing-temperatures-forecast-iowa-wintertime-january",
-          "source": "KGAN"
+          "url": "https://www.denver7.com/weather/weather-news/frigid-weather-tests-denver-international-airports-winter-playbook",
+          "source": "Denver7"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +155,16 @@
           "source": "فيس مصر"
         },
         {
-          "title": "الأرصاد الجوية تحذر من موجة برودة شديدة متوقعة اليوم السبت",
-          "snippet": "",
-          "url": "https://akher.news/3149/%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D9%85%D9%88%D8%AC%D8%A9-%D8%A8%D8%B1%D9%88%D8%AF%D8%A9-%D8%B4%D8%AF%D9%8A%D8%AF/",
-          "source": "جريدة أخر الاخبار"
-        },
-        {
           "title": "شديد البرودة.. الأرصاد تحذر من طقس اليوم السبت",
           "snippet": "",
           "url": "https://www.gomhuriaonline.com/Gomhuria/1746923.html",
           "source": "بوابة الجمهورية"
+        },
+        {
+          "title": "أجواء شديدة البرودة وشبورة كثيفة ورياح محملة بالأتربة.. الأرصاد تحذر من طقس السبت",
+          "snippet": "",
+          "url": "https://akhbarelyom.com/news/newdetails/4762275/1/%D8%A3%D8%AC%D9%88%D8%A7%D8%A1-%D8%B4%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AF%D8%A9-%D9%88%D8%B4%D8%A8%D9%88%D8%B1%D8%A9-%D9%83%D8%AB%D9%8A%D9%81%D8%A9-%D9%88%D8%B1%D9%8A%D8%A7%D8%AD-%D9%85",
+          "source": "بوابة أخبار اليوم الإلكترونية"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -199,7 +227,7 @@
     },
     {
       "title": "inter – pise",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Fri, 23 Jan 2026 11:20:00 -0800",
       "picture": "",
       "pictureSource": "",
@@ -220,44 +248,16 @@
           "source": "L'Équipe"
         },
         {
+          "title": "Auxerre-PSG : les notes du match",
+          "snippet": "",
+          "url": "https://www.footmercato.net/a8680887604909582784-auxerre-psg-les-notes-du-match",
+          "source": "Foot Mercato"
+        },
+        {
           "title": "Ligue 1 : Le programme complet de la J19 avec le choc OM - Lens",
           "snippet": "",
           "url": "https://fr.news.yahoo.com/sport/ligue-1-programme-complet-j19-115845367.html",
           "source": "Yahoo Actualités"
-        },
-        {
-          "title": "Match : Luis Enrique : « C'était le moment de mettre la pression à Lens",
-          "snippet": "",
-          "url": "https://www.culturepsg.com/news/match/luis-enrique-c-etait-le-moment-de-mettre-la-pression-a-lens/58339",
-          "source": "CulturePSG"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "sonia mabrouk",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 23 Jan 2026 09:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2HVT1q_1b-is29agMF0-4AtxKlPUBEO5XbwAcyRWKbtJv-F0dllq1IeTAHp8",
-      "pictureSource": "Euronews.com",
-      "relatedSearch": [
-        {
-          "title": "Ursula von der Leyen survit à un vote de défiance au Parlement européen",
-          "snippet": "",
-          "url": "https://fr.euronews.com/my-europe/2026/01/22/ursula-von-der-leyen-survit-a-un-vote-de-defiance-au-parlement-europeen",
-          "source": "Euronews.com"
-        },
-        {
-          "title": "L’accord commercial UE-Mercosur",
-          "snippet": "",
-          "url": "https://commission.europa.eu/topics/trade/eu-mercosur-trade-agreement_fr",
-          "source": "European Commission"
-        },
-        {
-          "title": "Renew Europe salue la détermination des partenaires du…",
-          "snippet": "",
-          "url": "https://www.reneweuropegroup.eu/fr/news/2026-01-22/renew-europe-welcomes-the-determination-of-mercosur-partners-to-implement-the-eu-trade-and-partnership-deal",
-          "source": "Renew Europe"
         }
       ],
       "link": "https://imtaqin.id/"

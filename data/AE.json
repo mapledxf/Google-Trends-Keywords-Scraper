@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2026-01-24 09:19:48",
+  "lastUpdate": "2026-01-24 09:37:28",
   "data": [
+    {
+      "title": "air france",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 24 Jan 2026 01:10:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcgWXOX7aMQ-ud9MkShEKK4rxrWDWeKAojmOdgyv92tnjem6R9dXrhizjRTjI",
+      "pictureSource": "Al Jazeera",
+      "relatedSearch": [
+        {
+          "title": "Air France, KLM pause flights to Middle East, including Dubai, Israel",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/2026/1/24/air-france-klm-pause-flights-to-middle-east-including-dubai-israel",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Air France and KLM cancel weekend flights to Tel Aviv, amid Iran tensions",
+          "snippet": "",
+          "url": "https://www.timesofisrael.com/air-france-and-klm-cancel-weekend-flights-to-tel-aviv-citing-regional-tensions/",
+          "source": "The Times of Israel"
+        },
+        {
+          "title": "Slew of international airlines canceling flights to Middle East destinations including Israel amid Iran tensions",
+          "snippet": "",
+          "url": "https://www.i24news.tv/en/news/middle-east/artc-slew-of-international-airlines-canceling-flights-to-middle-east-destinations-including-israel-amid-iran-tensions",
+          "source": "i24NEWS"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "novak djokovic",
       "trafficCount": "100+",
       "pubDate": "Sat, 24 Jan 2026 01:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSEuWmC77Vt-EgIfn-awpGPph6EJHH05Iux5UF_3wIXBVZkp2GKPqlrK06rBs",
-      "pictureSource": "Mid-day",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2NNzo_2w6umkQswdpb7UHo6gHTPusfYjJxrDLN1eQa320Aa_yf10rDzI2_hg",
+      "pictureSource": "The Age",
       "relatedSearch": [
         {
-          "title": "Teen sensation Iva Jovic downs World No. 8 Paolini for maiden Grand Slam last-16 spot",
+          "title": "Air Novak? Grand slam legend turns back clock with highlight-filled night",
           "snippet": "",
-          "url": "https://www.mid-day.com/sports/other-sports/article/teen-sensation-iva-jovic-downs-world-no-8-paolini-for-maiden-grand-slam-last-16-spot-23613454",
-          "source": "Mid-day"
+          "url": "https://www.theage.com.au/sport/tennis/air-novak-grand-slam-legend-turns-back-clock-with-highlight-filled-night-20260119-p5nv9l.html",
+          "source": "The Age"
         },
         {
-          "title": "The American breakout star at the Australian Open keeps surging: Aryna Sabalenka in her sights",
+          "title": "Djokovic Explains Why Boris Bošnjaković Became His Head Coach",
           "snippet": "",
-          "url": "https://www.mundodeportivo.com/us/en/20260123/738800/the-american-breakout-star-at-the-australian-open-keeps-surging-aryna-sabalenka-in-her-sights.html",
-          "source": "Mundo Deportivo"
+          "url": "https://rg.org/news/tennis/djokovic-explains-why-boris-bosnjakovic-became-his-head-coach",
+          "source": "Rg.org"
         },
         {
-          "title": "Teenage Giantkiller Jovic Gets Help From 'Kind' Djokovic In Melbourne",
+          "title": "Novak Prioritizes Biomechanical Precision Over Big Four Dynamics in Melbourne",
           "snippet": "",
-          "url": "https://www.barrons.com/news/teenage-giantkiller-jovic-gets-help-from-kind-djokovic-in-melbourne-e0672ab1",
-          "source": "Barron's"
+          "url": "https://www.filmogaz.com/114063",
+          "source": "filmogaz.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -53,34 +81,6 @@
           "snippet": "",
           "url": "https://www.ft.lk/sports/Conditions-were-tough-for-us-in-the-second-half-Brook/23-787367",
           "source": "Daily FT"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "middle east flights cancelled",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 24 Jan 2026 00:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcgWXOX7aMQ-ud9MkShEKK4rxrWDWeKAojmOdgyv92tnjem6R9dXrhizjRTjI",
-      "pictureSource": "Al Jazeera",
-      "relatedSearch": [
-        {
-          "title": "Air France, KLM pause flights to Middle East, including Dubai, Israel",
-          "snippet": "",
-          "url": "https://www.aljazeera.com/news/2026/1/24/air-france-klm-pause-flights-to-middle-east-including-dubai-israel",
-          "source": "Al Jazeera"
-        },
-        {
-          "title": "Flights To Middle East Hit As Rising Iran-US Tensions Put Airlines On Alert",
-          "snippet": "",
-          "url": "https://www.ndtv.com/world-news/flights-to-middle-east-hit-as-rising-iran-us-tensions-put-airlines-on-alert-10876234",
-          "source": "NDTV"
-        },
-        {
-          "title": "Mideast Airspace Shut? Flights To Israel, Iran, Saudi, UAE Abruptly Cancelled From Europe, U.S.",
-          "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/videos/international/mideast-airspace-shut-flights-to-israel-iran-saudi-uae-abruptly-cancelled-from-europe-u-s-/videoshow/127369133.cms",
-          "source": "Times of India"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -142,34 +142,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "border box office collection",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 23 Jan 2026 22:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpXr4G_AP5HegsIa4k0GXDnupRODyZmOmSX7POYS-zB9vceMiGhlZVhn_jkGo",
-      "pictureSource": "Hindustan Times",
-      "relatedSearch": [
-        {
-          "title": "Border 2 First Reviews: Sunny Deol wins hearts, Varun Dhawan delivers powerful performance; fans call it ‘pure cinema’ | Hindustan Times",
-          "snippet": "",
-          "url": "https://www.hindustantimes.com/htcity/cinema/border-2-first-reviews-sunny-deol-wins-hearts-varun-dhawan-ahan-shetty-diljit-deliver-powerful-performances-pure-cinema-101769155885078.html",
-          "source": "Hindustan Times"
-        },
-        {
-          "title": "Sunny Deol’s Border 2 races ahead of Dhurandhar in pre-sales, eyes Rs 1.25 billion holiday weekend",
-          "snippet": "",
-          "url": "https://gulfnews.com/entertainment/sunny-deols-border-2-races-ahead-of-dhurandhar-in-pre-sales-eyes-rs-125-billion-holiday-weekend-1.500418215",
-          "source": "Gulf News"
-        },
-        {
-          "title": "'Border 2' box office collection day 1: The Sunny Deol, Varun Dhawan starrer beats 'Dhurandhar' opening d",
-          "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-1-live-the-sunny-deol-varun-dhawan-starrer-starts-on-a-good-note-with-advance-bookings-better-than-dhurandhar/articleshow/127253393.cms",
-          "source": "Times of India"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "indian rupee falls",
       "trafficCount": "200+",
       "pubDate": "Fri, 23 Jan 2026 22:20:00 -0800",
@@ -183,44 +155,44 @@
           "source": "Gulf News"
         },
         {
-          "title": "Rupee tumbles to new low! Currency falls to 91.99 against US dollar",
+          "title": "Rupee continues to rise! Currency recovers 17 paise to reach 91.41 against US dollar",
           "snippet": "",
           "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-continues-to-rise-currency-against-us-dollar-on-january-23-2026/articleshow/127233538.cms",
           "source": "Times of India"
         },
         {
-          "title": "Top stories | Rupee's new low, market slumps, IndusInd results and more",
+          "title": "Rupee sinks to all-time low, logs steepest weekly fall in 6 months on outflows, hedging",
           "snippet": "",
-          "url": "https://www.linkedin.com/pulse/top-stories-rupees-new-low-market-slumps-indusind-results-more-xgjcc",
-          "source": "LinkedIn"
+          "url": "https://www.reuters.com/world/india/rupee-vulnerable-new-all-time-low-skewed-flows-building-bearish-outlook-2026-01-23/",
+          "source": "Reuters"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "pakistan cricket",
-      "trafficCount": "2000+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 23 Jan 2026 20:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb8JV6C-_Mn6dCexQM2YyVCjAClce7g2T9R-TGnnZKpz4gzrltfs9kNYLwv-U",
-      "pictureSource": "NDTV Sports",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEAbWDK1x9At-Kab5ytQjvjLsS3mnx8Id913mqiqsOL2ck9Vo6DuTX-8b3wyg",
+      "pictureSource": "ESPNcricinfo",
       "relatedSearch": [
         {
-          "title": "Pakistan Advised To Pull Out Of T20 World Cup After ICC Rejects Bangladesh's Request For Venue Change",
+          "title": "Why a slow chase was better than a fast one for Pakistan against Zimbabwe",
           "snippet": "",
-          "url": "https://sports.ndtv.com/t20-world-cup-2026/pakistan-advised-to-pull-out-of-t20-world-cup-after-icc-rejects-bangladeshs-request-for-venue-change-10831696",
+          "url": "https://www.espncricinfo.com/story/why-a-slow-chase-was-better-than-a-fast-one-for-pakistan-against-zimbabwe-in-under-19-world-cup-1520581",
+          "source": "ESPNcricinfo"
+        },
+        {
+          "title": "Pakistan Accused Of 'Manipulation' In U19 World Cup, In Danger Of ICC Penalty Ahead Of India Clash",
+          "snippet": "",
+          "url": "https://sports.ndtv.com/icc-u19-world-cup-2026/pakistan-accused-of-manipulation-in-u19-world-cup-in-danger-of-icc-penalty-ahead-of-india-clash-10849907",
           "source": "NDTV Sports"
         },
         {
-          "title": "T20 World Cup row: Bangladesh stare at major financial hit; set to lose millions of dollars",
+          "title": "Pakistan deliberately slow down to knock Scotland out: Exploitation of rules or tactical genius? | Cricket",
           "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-row-bangladesh-stare-at-major-financial-hit-set-to-lose-millions-of-dollars/articleshow/127305201.cms",
-          "source": "Times of India"
-        },
-        {
-          "title": "Bangladesh will not go to India for T20 World Cup, says cricket board",
-          "snippet": "",
-          "url": "https://www.khaleejtimes.com/sports/cricket/bangladesh-not-go-india-t20-world-cup",
-          "source": "Khaleej Times"
+          "url": "https://www.hindustantimes.com/cricket/pakistan-deliberately-slow-down-to-knock-scotland-out-exploitation-of-rules-or-tactical-genius-101769135709050.html",
+          "source": "Hindustan Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,16 +211,16 @@
           "source": "Reuters"
         },
         {
-          "title": "Kosovo, Bulgaria, Turkey Join Trump’s ‘Board of Peace’",
+          "title": "Presidentja në Davos me Trumpin, këshilltarja “për skijim”",
           "snippet": "",
-          "url": "https://balkaninsight.com/2026/01/22/kosovo-bulgaria-turkey-join-trumps-board-of-peace/",
-          "source": "Balkan Insight"
+          "url": "https://reporteri.net/en/NEWS/The-president-in-Davos-with-Trump%27s-skiing-advisor/",
+          "source": "Reporteri.net"
         },
         {
-          "title": "Today on \"60 Minutes\", the Presidency reveals the details of the Osmani - Trump meeting",
+          "title": "\"It is expelling Albanians from the country\"/ Zhupa: The government is corrupt and has links to drug trafficking",
           "snippet": "",
-          "url": "https://www.koha.net/en/60-minuta-ktv/sot-ne-60-minuta-presidenca-shpalos-detajet-e-takimit-osmani-trump",
-          "source": "KOHA.net"
+          "url": "https://www.cna.al/english/politike/po-i-perze-shqitparet-nga-vendi-zhupa-qeveria-e-korruptuar-dhe-me-lidhj-i452996",
+          "source": "cna.al"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -277,6 +249,34 @@
           "snippet": "",
           "url": "https://www.kitco.com/opinion/2026-01-22/thursdays-charts-gold-silver-platinum-and-palladium-january-22",
           "source": "KITCO"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "jannik sinner",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 23 Jan 2026 20:20:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRmwhcj7TH6t2d2BgrTxQUNLcUyjgJ79ey_eeGCihFt_KnDuKWfbROC_289y_A",
+      "pictureSource": "La Gazzetta dello Sport",
+      "relatedSearch": [
+        {
+          "title": "Sinner, che spavento: concede un set, lotta coi crampi, poi batte Spizzirri e va agli ottavi. Ora Darderi",
+          "snippet": "",
+          "url": "https://www.gazzetta.it/Tennis/atp/slam/australian-open/24-01-2026/live-australian-open-sinner-spizzirri-la-diretta.shtml",
+          "source": "La Gazzetta dello Sport"
+        },
+        {
+          "title": "Sinner rischia di cedere ai crampi e perde un set contro Spizzirri, poi si riprende: 4-6, 6-3, 6-4, 6-4 nel terzo turno degli Australian Open. «La regola del caldo mi ha aiutato»",
+          "snippet": "",
+          "url": "https://www.corriere.it/sport/tennis/diretta-live/26_gennaio_24/sinner-spizzirri-australian-open-diretta-risultato.shtml",
+          "source": "Corriere della Sera"
+        },
+        {
+          "title": "Australian Open, caldo estremo, integratori, tetto chiuso. Sinner: “le nuove regole mi hanno aiutato”",
+          "snippet": "",
+          "url": "https://www.repubblica.it/sport/tennis/2026/01/24/news/australian_open_sinner_caldo_estremo_tetto_sospensioni-425115176/",
+          "source": "la Repubblica"
         }
       ],
       "link": "https://imtaqin.id/"

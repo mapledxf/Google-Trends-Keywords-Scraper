@@ -1,9 +1,121 @@
 {
-  "lastUpdate": "2026-01-25 01:03:26",
+  "lastUpdate": "2026-01-25 03:18:49",
   "data": [
     {
-      "title": "new zealand u-19 vs india u-19",
+      "title": "iran",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 24 Jan 2026 18:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTPToCWVKkWyThQ1GTpmrkrMijGNTPlHd-BkHsUVnZViYjPIw0OHI2A9iLmXI",
+      "pictureSource": "Al Jazeera",
+      "relatedSearch": [
+        {
+          "title": "US, Iran exchange threats of broadscale war in latest sabre rattling",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/2026/1/21/us-iran-threaten-broadscale-wars-in-heated-exchange-of-threats",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Iran’s Revolutionary Guard commander warns the US his force has its ‘finger on the trigger’",
+          "snippet": "",
+          "url": "https://apnews.com/article/iran-protests-trump-revolutionary-guard-059ba55b8e169d57f978fc3c52ccd05a",
+          "source": "AP News"
+        },
+        {
+          "title": "Iran-US tensions LIVE: Iran's ‘finger on trigger' warning for Trump, India gets a ‘thank you’ note | World News",
+          "snippet": "",
+          "url": "https://www.hindustantimes.com/world-news/iran-us-news-live-updates-armada-carrier-will-us-attack-iran-trump-tensions-tehran-strike-khamenei-protests-101769231616942.html",
+          "source": "Hindustan Times"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather today",
       "trafficCount": "200+",
+      "pubDate": "Sat, 24 Jan 2026 18:00:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ApTqqbhP6Ij9iz1cjZVlFssoA35Utz4qm2sXswMRLpDr--ILKIHaex7vi-w",
+      "pictureSource": "FOX 26 Houston",
+      "relatedSearch": [
+        {
+          "title": "Houston winter storm forecast: Arctic blast arriving overnight",
+          "snippet": "",
+          "url": "https://www.fox26houston.com/weather/houston-winter-storm-weather-forecast-timeline",
+          "source": "FOX 26 Houston"
+        },
+        {
+          "title": "Austin weather: Ice Storm Warning as Arctic blast arrives",
+          "snippet": "",
+          "url": "https://www.fox7austin.com/weather/austin-weather-ice-storm-warning-arctic-blast-arrives",
+          "source": "FOX 7 Austin"
+        },
+        {
+          "title": "Dallas Weather: Dangerous sleet and snow as winter storm hits North Texas",
+          "snippet": "",
+          "url": "https://www.fox4news.com/news/dallas-weather-forecast-january-24",
+          "source": "FOX 4 News Dallas-Fort Worth"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "الطقس",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 24 Jan 2026 17:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqVnY3cAxgO-Cv3b1UCJtcahqy97rDiOjZBq-ZU2-Bg5dBJpmZ7WyV9GQvdAY",
+      "pictureSource": "جريدة الراية",
+      "relatedSearch": [
+        {
+          "title": "ارصاد قطر تحذر من رياح قوية وأمواج عالية في البحر الليلة",
+          "snippet": "",
+          "url": "https://www.raya.com/2026/01/24/%D8%A7%D8%B1%D8%B5%D8%A7%D8%AF-%D9%82%D8%B7%D8%B1-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%B1%D9%8A%D8%A7%D8%AD-%D9%82%D9%88%D9%8A%D8%A9-%D9%88%D8%A3%D9%85%D9%88%D8%A7%D8%AC-%D8%B9%D8%A7%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9",
+          "source": "جريدة الراية"
+        },
+        {
+          "title": "الأرصاد الجوية تتوقع طقسا باردا نسبيا مع سحب متفرقة على الساحل الليلة",
+          "snippet": "",
+          "url": "https://al-sharq.com/article/23/01/2026/%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%AA%D8%AA%D9%88%D9%82%D8%B9-%D8%B7%D9%82%D8%B3%D8%A7-%D8%A8%D8%A7%D8%B1%D8%AF%D8%A7-%D9%86%D8%B3%D8%A8%D9%8A%D8%A7-%D9%85%D8%B9-%D8%B3%D8%AD%D8%A8-%D9%85%D8%AA%D9%81%D8%B1%D9%82%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D8%A7%D8%AD%D9%84-%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9",
+          "source": "جريدة الشرق"
+        },
+        {
+          "title": "الأرصاد تحذر من طقس بارد ورياح قوية الليلة",
+          "snippet": "",
+          "url": "https://marsalqatar.qa/post/81129/%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%B7%D9%82%D8%B3-%D8%A8%D8%A7%D8%B1%D8%AF-%D9%88%D8%B1%D9%8A%D8%A7%D8%AD",
+          "source": "مرسال قطر"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather",
+      "trafficCount": "5000+",
+      "pubDate": "Sat, 24 Jan 2026 17:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqPNZ0vXkXDyKecDpR8WiumeMK5yo7oGaCbgnQrVhgkS2-9eD5-EIRfmeIY2Q",
+      "pictureSource": "Khaleej Times",
+      "relatedSearch": [
+        {
+          "title": "Explained: NCM official breaks down the latest cold wave across UAE, parts of the world",
+          "snippet": "",
+          "url": "https://www.khaleejtimes.com/uae/weather/explained-ncm-latest-cold-wave-parts-of-the-world",
+          "source": "Khaleej Times"
+        },
+        {
+          "title": "Sheikh Hamdan has given us a Dubai weather update",
+          "snippet": "",
+          "url": "https://whatson.ae/2026/01/sheikh-hamdan-has-given-us-a-dubai-weather-update/",
+          "source": "What's On"
+        },
+        {
+          "title": "Red-alert fog and cool snap may disrupt early-morning flights across the UAE",
+          "snippet": "",
+          "url": "https://www.visahq.com/news/2026-01-18/ae/red-alert-fog-and-cool-snap-may-disrupt-early-morning-flights-across-the-uae/",
+          "source": "VisaHQ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "new zealand u-19 vs india u-19",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 24 Jan 2026 15:00:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWrINmoibKQW_443NtI60P58mebML2T_J7OlzaUhNtIy9HR4dLEFNHO6r-0xQ",
       "pictureSource": "Cricbuzz.com",
@@ -21,10 +133,38 @@
           "source": "The Indian Express"
         },
         {
-          "title": "Ambrish rattles the timber with a peach | U19 CWC 2026",
+          "title": "Young Chevrons draw India in Super Six",
           "snippet": "",
-          "url": "https://www.icc-cricket.com/tournaments/u19-cricket-worldcup-2026/videos/ambrish-rattles-the-timber-with-a-peach-u19-cwc-2026",
-          "source": "ICC"
+          "url": "https://www.heraldonline.co.zw/young-chevrons-draw-india-in-super-six/",
+          "source": "The Herald"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ufc",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 24 Jan 2026 14:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVG8_chj9A3g0--jT-GXMflhZiI0Abl0yhtTWm3Fx0cPcNecRZqq1l3-XLIXc",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Gaethje v Pimblett - predictions for UFC title fight",
+          "snippet": "",
+          "url": "https://www.bbc.com/sport/mixed-martial-arts/articles/c9dvv90759wo",
+          "source": "BBC"
+        },
+        {
+          "title": "DraftKings promo code: Get $300 in bonus bets for UFC 324 fight card, Pimblett vs. Gaethje on Saturday",
+          "snippet": "",
+          "url": "https://www.cbssports.com/mma/news/draftkings-promo-code-get-300-bonus-bets-for-ufc-324-fight-card-pimblett-gaethje-saturday/",
+          "source": "CBS Sports"
+        },
+        {
+          "title": "Main Event Paddy Shells Out $150K In Tickets",
+          "snippet": "",
+          "url": "https://sports.yahoo.com/articles/main-event-paddy-shells-150k-210000058.html",
+          "source": "Yahoo Sports"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,20 +173,20 @@
       "title": "real madrid",
       "trafficCount": "200+",
       "pubDate": "Sat, 24 Jan 2026 13:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0fBals8fRnhTNX1gULa_vrz80b7a8RFVX4Ye6qWSFc3N7u9SIWyobYg8aSrE",
-      "pictureSource": "Diario AS",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQI0iAh5J8Yse7l5mF2yIG2PJyu8meFKM-BbzlzYfXCZIfdOfphFP9GlcCM7ZE",
+      "pictureSource": "noticiashuesca.com",
       "relatedSearch": [
         {
-          "title": "Villarreal 0-2 Real Madrid: resumen, goles y resultado",
+          "title": "Las increíbles estadísticas de Mbappé con el Real Madrid",
           "snippet": "",
-          "url": "https://as.com/futbol/primera/villarreal-real-madrid-en-directo-laliga-ea-sports-en-vivo-y-online-f202601-d/",
-          "source": "Diario AS"
+          "url": "https://noticiashuesca.com/deportes/las-increibles-estadisticas-de-mbappe-con-el-real-madrid/221279/",
+          "source": "noticiashuesca.com"
         },
         {
-          "title": "Posible lesión grave de Juan Foyth",
+          "title": "Mbappé alcanza ya los 21 goles en LaLiga",
           "snippet": "",
-          "url": "https://www.marca.com/futbol/villarreal/2026/01/24/lesion-grave-juan-foyth.html",
-          "source": "MARCA"
+          "url": "https://www.mundodeportivo.com/futbol/real-madrid/20260124/1002607911/mbappe-alcanza-20-goles-laliga.html",
+          "source": "Mundo Deportivo"
         },
         {
           "title": "22:00 | 24 ENE 2026 | TIEMPO DE JUEGO",
@@ -59,7 +199,7 @@
     },
     {
       "title": "marseille vs lens",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 24 Jan 2026 12:30:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlhniUybLkUjFHYkCSDm3u3NgbJm7ZpHcho73dBucPRU0dibW0OSCUtZgMpd4",
       "pictureSource": "Reuters Connect",
@@ -133,150 +273,10 @@
           "source": "العربي الجديد"
         },
         {
-          "title": "مركز كورتوا في ترتيب الحراس الأكثر حفاظًا على نظافة الشباك في الدوري الإسباني",
+          "title": "شاهد.. نتيجة وملخص مباراة ريال مدريد وفياريال في الدوري الإسباني لكرة القدم",
           "snippet": "",
-          "url": "https://www.365scores.com/ar/news/magazine/%D9%85%D8%B1%D9%83%D8%B2-%D9%83%D9%88%D8%B1%D8%AA%D9%88%D8%A7-%D9%81%D9%8A-%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B3-%D8%A7%D9%84%D8%A3%D9%83%D8%AB%D8%B1-%D8%AD%D9%81%D8%A7/",
-          "source": "365Scores"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "villarreal vs real madrid",
-      "trafficCount": "5000+",
-      "pubDate": "Sat, 24 Jan 2026 11:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBNHpcG7wB8KEqwpqa6kOffK0Fg9MRgyUyDzsIt4BhBIia-wKoz-ci2cTQsOQ",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Villarreal 0-2 Real Madrid: Kylian Mbappe double sends Real Madrid top of La Liga",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cp8753j20xdt",
-          "source": "BBC"
-        },
-        {
-          "title": "Villarreal vs Real Madrid: La Liga – teams, start, kickoff time, lineups",
-          "snippet": "",
-          "url": "https://www.aljazeera.com/sports/2026/1/23/villareal-vs-real-madrid-la-liga-teams-start-kickoff-time-lineups",
-          "source": "Al Jazeera"
-        },
-        {
-          "title": "Arbeloa: “It's a victory for the group, for the team”",
-          "snippet": "",
-          "url": "https://www.realmadrid.com/en-US/news/football/first-team/press-conference/arbeloa-rueda-de-prensa-24-01-2026",
-          "source": "Real Madrid CF"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "le havre vs monaco",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 24 Jan 2026 11:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPdJ4K0YVYSDPt-5VcWtEZxEK2utUZ3xtckCgGiMz_Gke_gHKLR-te8qHg0Yg",
-      "pictureSource": "Foot Mercato",
-      "relatedSearch": [
-        {
-          "title": "Wout Faes est sorti sur blessure face au HAC",
-          "snippet": "",
-          "url": "https://www.footmercato.net/a6626715851759043006-wout-faes-est-sorti-sur-blessure-face-au-hac",
-          "source": "Foot Mercato"
-        },
-        {
-          "title": "Sébastien Pocognoli : \"Les fondamentaux doivent être présents à chaque match\"",
-          "snippet": "",
-          "url": "https://www.asmonaco.com/sebastien-pocognoli-les-fondamentaux-doivent-etre-presents-a-chaque-match/",
-          "source": "AS Monaco"
-        },
-        {
-          "title": "Zakaria : « Ce classement nous fait honte »",
-          "snippet": "",
-          "url": "https://www.ladiagonale.net/index.php/2026/01/25/zakaria-ce-classement-nous-fait-honte/",
-          "source": "La Diagonale"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "السد",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 24 Jan 2026 10:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LAhRBQ3JVd2RPJBqfW62pOrfm_8_2nzrdPG5YvOjOCQJwo3lz6tUpY09qro",
-      "pictureSource": "جريدة الراية",
-      "relatedSearch": [
-        {
-          "title": "فيرمينو يقود السد للتتويج بدرع السوبر القطري الإماراتي",
-          "snippet": "",
-          "url": "https://www.raya.com/2026/01/24/%D9%81%D9%8A%D8%B1%D9%85%D9%8A%D9%86%D9%88-%D9%8A%D9%82%D9%88%D8%AF-%D8%A7%D9%84%D8%B3%D8%AF-%D9%84%D9%84%D8%AA%D8%AA%D9%88%D9%8A%D8%AC-%D8%A8%D8%AF%D8%B1%D8%B9-%D8%A7%D9%84%D8%B3%D9%88%D8%A8%D8%B1-%D8%A7%D9%84%D9%82%D8%B7%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A",
-          "source": "جريدة الراية"
-        },
-        {
-          "title": "السوبر القطري الإماراتي.. مدرب السد يؤكد السعي للتتويج بدرع السوبر في مواجهة شباب الأهلي غدا",
-          "snippet": "",
-          "url": "https://al-sharq.com/article/23/01/2026/%D8%A7%D9%84%D8%B3%D9%88%D8%A8%D8%B1-%D8%A7%D9%84%D9%82%D8%B7%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A-%D9%85%D8%AF%D8%B1%D8%A8-%D8%A7%D9%84%D8%B3%D8%AF-%D9%8A%D8%A4%D9%83%D8%AF-%D8%A7%D9%84%D8%B3%D8%B9%D9%8A-%D9%84%D9%84%D8%AA%D8%AA%D9%88%D9%8A%D8%AC-%D8%A8%D8%AF%D8%B1%D8%B9-%D8%A7%D9%84%D8%B3%D9%88%D8%A8%D8%B1-%D9%81%D9%8A-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%B4%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D8%BA%D8%AF%D8%A7",
-          "source": "جريدة الشرق"
-        },
-        {
-          "title": "يسير من انتصار إلى انتصار.. الغرافة يقترب من حلم الدرع",
-          "snippet": "",
-          "url": "https://alarab.qa/article/20/01/2026/%D9%8A%D8%B3%D9%8A%D8%B1-%D9%85%D9%86-%D8%A7%D9%86%D8%AA%D8%B5%D8%A7%D8%B1-%D8%A5%D9%84%D9%89-%D8%A7%D9%86%D8%AA%D8%B5%D8%A7%D8%B1-%D8%A7%D9%84%D8%BA%D8%B1%D8%A7%D9%81%D8%A9-%D9%8A%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86-%D8%AD%D9%84%D9%85-%D8%A7%D9%84%D8%AF%D8%B1%D8%B9",
-          "source": "جريدة العرب القطرية"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "nipah virus",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 24 Jan 2026 10:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmqu5EPMksDx04hBkvVNOHgnRrx3ndPZaK0Aae6OxCGbLMXpFI9LT104ndaw0",
-      "pictureSource": "The Independent",
-      "relatedSearch": [
-        {
-          "title": "What is Nipah virus? Symptoms to watch out for as India races to contain deadly outbreak",
-          "snippet": "",
-          "url": "https://www.independent.co.uk/asia/india/nipah-virus-outbreak-symptoms-signs-india-b2906226.html",
-          "source": "The Independent"
-        },
-        {
-          "title": "Authorities on high alert after Nipah outbreak in West Bengal | Tap to know more | Inshorts",
-          "snippet": "",
-          "url": "https://inshorts.com/en/news/authorities-on-high-alert-after-nipah-outbreak-in-west-bengal-1769236381601",
-          "source": "Inshorts"
-        },
-        {
-          "title": "Nipah scare: RT-PCR tests conducted on bats at Kolkata zoo",
-          "snippet": "",
-          "url": "https://www.thehindu.com/news/national/west-bengal/nipah-scare-rt-pcr-tests-conducted-on-bats-at-kolkata-zoo/article70546975.ece",
-          "source": "The Hindu"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "sevilla vs athletic club",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 24 Jan 2026 10:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfkIABbwr9Vi7cY-Tp_eGzIK8qnPL0h4PDzsrbNPpbABqP5N5ZpuWIsVohQNA",
-      "pictureSource": "Yahoo",
-      "relatedSearch": [
-        {
-          "title": "2-1. Remontada del Sevilla sobre un Athletic en caída libre",
-          "snippet": "",
-          "url": "https://es-us.noticias.yahoo.com/deportes/2-1-remontada-sevilla-athletic-195300146.html",
-          "source": "Yahoo"
-        },
-        {
-          "title": "Peque: \"El equipo se lo ha dejado todo\"",
-          "snippet": "",
-          "url": "https://onefootball.com/id/berita/peque-el-equipo-se-lo-ha-dejado-todo-42295017",
-          "source": "OneFootball"
-        },
-        {
-          "title": "La entrega y la unión no se negocian",
-          "snippet": "",
-          "url": "https://www.marca.com/futbol/sevilla/2026/01/25/entrega-union-negocian.html",
-          "source": "MARCA"
+          "url": "https://a5r5br.net/international/sports/7189313-%D8%B4%D8%A7%D9%87%D8%AF-%D9%86%D8%AA%D9%8A%D8%AC%D8%A9-%D9%88%D9%85%D9%84%D8%AE%D8%B5-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%88%D9%81%D9%8A%D8%A7%D8%B1%D9%8A%D8%A7%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A-%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85",
+          "source": "آخر خبر"
         }
       ],
       "link": "https://imtaqin.id/"

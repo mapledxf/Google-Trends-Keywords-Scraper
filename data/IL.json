@@ -1,24 +1,52 @@
 {
-  "lastUpdate": "2026-01-26 13:50:18",
+  "lastUpdate": "2026-01-26 14:16:36",
   "data": [
+    {
+      "title": "ynet",
+      "trafficCount": "10000+",
+      "pubDate": "Mon, 26 Jan 2026 05:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRAGLj7IWIOTZZ71JWwckSY5232325I7iqt7sk6hUvRANi01IPHYYcftou8BQ",
+      "pictureSource": "ynet",
+      "relatedSearch": [
+        {
+          "title": "החלל החטוף רן גואילי זוהה והושב לישראל, אין יותר חטופים בעזה",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/news/article/hjc11aamlbl",
+          "source": "ynet"
+        },
+        {
+          "title": "זוהתה גופתו של החטוף החלל רן גואילי",
+          "snippet": "",
+          "url": "https://www.kan.org.il/content/kan-news/defense/992948/",
+          "source": "כאן 11"
+        },
+        {
+          "title": "צה\"ל הודיע כי איתר את גופת החטוף רן גואילי",
+          "snippet": "",
+          "url": "https://www.haaretz.co.il/news/politics/2026-01-26/ty-article/0000019b-fa88-d5ae-adbf-ffd8a60e0000",
+          "source": "הארץ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "אלעל",
       "trafficCount": "200+",
       "pubDate": "Mon, 26 Jan 2026 04:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBEH9nUCYoaty4da_mrkE2HQQJ9imGjNbXDuLCmsb86bEbalValNAbErB_A2g",
-      "pictureSource": "ynet",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSAU2t1pOAiyREIs_IZULVgpPvAAahMRKjp_xdzGa8kLH_HB_hcVAhnXkB6pk",
+      "pictureSource": "calcalist",
       "relatedSearch": [
-        {
-          "title": "אין טיסות, כבישים נסגרו ובהלת הקניות בעיצומה: הסופה הקשה מכה בארה\"ב",
-          "snippet": "",
-          "url": "https://www.ynet.co.il/economy/article/r170kdq8bg",
-          "source": "ynet"
-        },
         {
           "title": "ארה\"ב מתחת לאפס: הפסקות חשמל, בתי ספר סגורים ויותר מ-20 אלף טיסות מבוטלות",
           "snippet": "",
           "url": "https://www.calcalist.co.il/world_news/article/syohkqv8wl",
           "source": "calcalist"
+        },
+        {
+          "title": "אין טיסות, כבישים נסגרו ובהלת הקניות בעיצומה: הסופה הקשה מכה בארה\"ב",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/economy/article/r170kdq8bg",
+          "source": "ynet"
         },
         {
           "title": "הוכרז מצב חירום, אלפי טיסות בוטלו: סופת המאה בארצות הברית",
@@ -43,16 +71,16 @@
           "source": "ynet"
         },
         {
+          "title": "3 מאסרי עולם וקנס כספי כבד הוטלו על ראש ארגון הפשע ניבי זגורי",
+          "snippet": "",
+          "url": "https://www.mako.co.il/news-law/2026_q1/Article-114f346faa9fb91026.htm",
+          "source": "mako"
+        },
+        {
           "title": "ביהמ\"ש גזר 3 מאסרי עולם על יניב זגורי שרצח עד מדינה, גרושתו ועד תביעה",
           "snippet": "",
           "url": "https://www.haaretz.co.il/news/law/2026-01-26/ty-article/.premium/0000019b-f8ec-d831-a99f-fefc43170000",
           "source": "הארץ"
-        },
-        {
-          "title": "רצח משולש וניהול קרטל בין-לאומי: \"לא מדובר בסרט, אלא במציאות\"",
-          "snippet": "",
-          "url": "https://www.maariv.co.il/news/law/article-1276971",
-          "source": "מעריב"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -71,16 +99,16 @@
           "source": "ynet"
         },
         {
-          "title": "בדרך לאדום: גד עמוס על סף סיכום בהפועל תל אביב",
-          "snippet": "",
-          "url": "https://www.sport5.co.il/articles.aspx?FolderID=64&docID=532474",
-          "source": "ספורט 5"
-        },
-        {
           "title": "חיזוק בדרך: גד עמוס צפוי להצטרף להפועל ת\"א",
           "snippet": "",
           "url": "https://m.one.co.il/Mobile/Article/25-26/1,1,5,103290/512877.html?ref=hp",
           "source": "ONE"
+        },
+        {
+          "title": "בדרך לאדום: גד עמוס על סף סיכום בהפועל תל אביב",
+          "snippet": "",
+          "url": "https://www.sport5.co.il/articles.aspx?FolderID=64&docID=532474",
+          "source": "ספורט 5"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -105,10 +133,10 @@
           "source": "הארץ"
         },
         {
-          "title": "רבע הגמר הושלם: איגה שוויונטק ויאניק סינר עלו שלב",
+          "title": "חולצת קנזס או פאי עם צ'דר? ההתערבות בטניס",
           "snippet": "",
-          "url": "https://www.sport5.co.il/articles.aspx?FolderID=411&docID=532486",
-          "source": "ספורט 5"
+          "url": "https://m.one.co.il/mobile/Article/512850.html",
+          "source": "ONE"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,26 +145,26 @@
       "title": "australian open",
       "trafficCount": "200+",
       "pubDate": "Sun, 25 Jan 2026 18:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnGJM0MBUbZURHbl0fw2R1nSFeOMtNWV_z0Ntlvlp1EExcTvIf_goQs4Gf7v8",
-      "pictureSource": "Yahoo News Australia",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHpIjseYySozVpZNeuc0bemCG5KsEck4H4Od5bPs53oLzZZYTvDOWF80uGUrk",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Hewitt lashes tennis officials after World No.1s cop bizarre 'ban' at Aus Open",
+          "title": "Australian Open 2026 results: Aryna Sabalenka to face Iva Jovic in quarter-finals",
           "snippet": "",
-          "url": "https://au.news.yahoo.com/debate-erupts-after-carlos-alcaraz-caught-breaking-rule-with-banned-item-at-australian-open-220536663.html",
-          "source": "Yahoo News Australia"
+          "url": "https://www.bbc.com/sport/tennis/articles/ce8gn94jq3jo",
+          "source": "BBC"
         },
         {
-          "title": "Alcaraz device drama angers greats",
+          "title": "'I'm upset right now': Novak Djokovic after Aryna Sabalenka breaks his elusive Grand Slam record",
           "snippet": "",
-          "url": "https://www.smh.com.au/sport/tennis/alcaraz-device-drama-angers-greats-20260126-p5nx1l.html",
-          "source": "The Sydney Morning Herald"
+          "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/im-upset-right-now-novak-djokovic-after-aryna-sabalenka-breaks-his-elusive-grand-slam-record/articleshow/127465404.cms",
+          "source": "The Times of India"
         },
         {
-          "title": "‘Not steroids’: Aus Open controversy erupts",
+          "title": "Highlights of Australian Open tennis tournament",
           "snippet": "",
-          "url": "https://www.dailytelegraph.com.au/sport/tennis/world-no-1-aryna-sabalenka-told-to-remove-device-in-second-aus-open-incident/news-story/f0ec7cbb423b2c5d801df47bdc19615c",
-          "source": "Daily Telegraph"
+          "url": "https://english.news.cn/20260125/2467bfab7b244ceea4e15cc25e0308f7/c.html",
+          "source": "Xinhua"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,26 +173,26 @@
       "title": "nfl",
       "trafficCount": "500+",
       "pubDate": "Sun, 25 Jan 2026 15:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoOC54bugWvpnjc3Rz4mlp23XDYWU734RairB0eBIZF5bmSnlk-AScmVTCoJw",
-      "pictureSource": "Sun Sentinel",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQt010ZRLG4lOPuAm1l8mrwv4Z6O7KiK0u9DaF3-fvvp8AdrscIWGQDdmxdo-s",
+      "pictureSource": "USA Today",
       "relatedSearch": [
         {
-          "title": "Dolphins building new foundation by scouting players and coaches at Senior Bowl",
+          "title": "NFL fans raise conspiracy theory over Super Bowl 60 graphic",
           "snippet": "",
-          "url": "https://www.sun-sentinel.com/2026/01/25/dolphins-to-continue-building-new-foundation-by-scouting-players-and-coaches-this-week-at-senior-bowl/",
-          "source": "Sun Sentinel"
+          "url": "https://www.usatoday.com/story/sports/nfl/2026/01/25/super-bowl-60-conspiracy-theory-graphic-nfl-teams/88356846007/",
+          "source": "USA Today"
         },
         {
-          "title": "Dynasty Rookie Draft Advice: Senior Bowl QBs & RBs to Watch",
+          "title": "Who will play in the 2026 Super Bowl? Here's what logo theory predicts",
           "snippet": "",
-          "url": "https://www.fantasypros.com/2026/01/dynasty-rookie-draft-advice-senior-bowl-qbs-rbs-to-watch/",
-          "source": "FantasyPros"
+          "url": "https://www.azcentral.com/story/entertainment/life/2026/01/24/super-bowl-2026-logo-theory/88263429007/",
+          "source": "azcentral.com and The Arizona Republic"
         },
         {
-          "title": "3 Alabama Players Confirmed for 2026 Senior Bowl Showdown",
+          "title": "NFL scriptwriters teased Super Bowl LX matchup all the way back in September",
           "snippet": "",
-          "url": "https://bvmsports.com/2026/01/25/3-alabama-players-confirmed-for-2026-senior-bowl-showdown/",
-          "source": "BVM Sports"
+          "url": "https://thelibertyline.com/2026/01/26/nfl-scriptwriters-super-bowl-lx/",
+          "source": "The Liberty Line"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -232,34 +260,6 @@
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "מועדון לילה",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 25 Jan 2026 11:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ53L9AgyGMrJI-DzWndenA7ZGtUYOrMpvfAsU97A333FmILV8hyiAyGs9f8lk",
-      "pictureSource": "mako",
-      "relatedSearch": [
-        {
-          "title": "הבהלה מקטורזה? \"הוא פוחד ממני, כי הוא לא יודע איפה אני נמצא\"",
-          "snippet": "",
-          "url": "https://www.mako.co.il/tv-moadon_layla/season9-articles/Article-549cd3ac8a4fb91027.htm",
-          "source": "mako"
-        },
-        {
-          "title": "\"מועדון לילה\" חיממה את הלב אבל הגזימה עם הנוסטלגיה",
-          "snippet": "",
-          "url": "https://www.haaretz.co.il/gallery/television/tv-review/2026-01-26/ty-article-review/.premium/0000019b-f79f-d46d-a3fb-f7df7fba0000",
-          "source": "הארץ"
-        },
-        {
-          "title": "מועדון לילה: ארז טל לא איבד את זה. מישהו אחר כן | דרור רפאל",
-          "snippet": "",
-          "url": "https://www.maariv.co.il/culture/tv/article-1277057",
-          "source": "מעריב"
-        }
-      ],
       "link": "https://imtaqin.id/"
     }
   ]

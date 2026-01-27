@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-01-27 07:36:08",
+  "lastUpdate": "2026-01-27 07:51:58",
   "data": [
     {
       "title": "uss abraham lincoln",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 26 Jan 2026 22:30:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH7hWZP0_87cvTo5ycfE0eisBNg3HYFCKSHZwqdP1cYk3aspyf9nymZWl3fpU",
       "pictureSource": "CNN",
@@ -43,16 +43,16 @@
           "source": "PoPville"
         },
         {
+          "title": "WMATA delays opening for buses and rail",
+          "snippet": "",
+          "url": "https://www.wusa9.com/article/traffic/mission-metro/wmata-delays-opening-buses-and-rail/65-6a0ac828-abec-488c-bb17-4156826a29a0",
+          "source": "WUSA9"
+        },
+        {
           "title": "Metro suspends overnight Metro Bus service",
           "snippet": "",
           "url": "https://www.dcnewsnow.com/news/local-news/metro-suspends-overnight-metro-bus-service/",
           "source": "DC News Now"
-        },
-        {
-          "title": "Airports, Metro prepare for potential travel troubles during weekend storm",
-          "snippet": "",
-          "url": "https://www.fox5dc.com/news/airports-metro-prepare-potential-travel-troubles-during-weekend-storm",
-          "source": "FOX 5 DC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -73,13 +73,13 @@
         {
           "title": "CEPOS afviser behov for fødevarecheck. Pressede danskere kan skifte oksekød ud med »frossen fisk«",
           "snippet": "",
-          "url": "https://www.berlingske.dk/politik/cepos-afviser-behov-for-foedevarecheck-pressede-danskere-kan-skifte-oksekoed-ud-medfrossen-fisk?gaa_at=eafs&gaa_n=AWEtsqfbQr0eJ2_dRanu8Dmx59P--qF_c_uFjDwnuIHKtA_08gHsARM04ycp&gaa_ts=69786e6c&gaa_sig=tUXXc7mxdoO33QBdhyB-l74qERxF_tlw0ckv6BmoiVTVbKC5zyHw7PIDK_2CBHcqVLxsfbxQ7H0fw-ZbKF6RqA%3D%3D",
+          "url": "https://www.berlingske.dk/politik/cepos-afviser-behov-for-foedevarecheck-pressede-danskere-kan-skifte-oksekoed-ud-medfrossen-fisk?gaa_at=eafs&gaa_n=AWEtsqcRYXTzxPFQcpPah532IJ8itABGFYulVuhAPA2rMQ0MJ0dSPaQR3pgC&gaa_ts=69787222&gaa_sig=9wV07ljOHaYBttG_1hyf-5pkrGlj_kP1RgePaHfN-1n1PDnSI6sEsPwyP0fp5rwBKWwqLzeARUrXf42vkpdc4Q%3D%3D",
           "source": "Berlingske"
         },
         {
           "title": "Smør på brødet",
           "snippet": "",
-          "url": "https://www.weekendavisen.dk/samfund/smoer-paa-broedet?gaa_at=eafs&gaa_n=AWEtsqeWndLQrK7SDc6Sq1IVcXJHkq0RClc70Q1c_f0hL4bbKVtPhhu1KMKC&gaa_ts=69786e6c&gaa_sig=m0siBhua0Ax53CadNKWGlv6hCUVwEqGs0uSCpuh4ZSlHj3b6falTkHPqyGAsWzFSCIubN4m_GelDM4hIf5dy_Q%3D%3D",
+          "url": "https://www.weekendavisen.dk/samfund/smoer-paa-broedet?gaa_at=eafs&gaa_n=AWEtsqc3c57tCovWPbJSenDu4QgG34ps7Izhlf55z5dyrBZzAQjDtz6O_OSq&gaa_ts=69787222&gaa_sig=8yduO5yP4j-topd0DmgefFtdqE0USKsqg3w1-cBavxZs6VhF9sqEGFDprmKJxfFTQymccGoV-my4AevlQx_UMg%3D%3D",
           "source": "Weekendavisen"
         }
       ],
@@ -109,11 +109,17 @@
     },
     {
       "title": "tv2 vejret",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 26 Jan 2026 20:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTN9hOL2FdBBsdXtAKq_nXBl05qV4PAkyKB9KXpbDMRAEkkVKmU9YRrCkMTsJc",
-      "pictureSource": "Fyens.dk",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQD6iUYTbyNLYJJk61eAxfgroeDr6Un4MLiQbkq68Q_HISTTnUmVtWFcqOIAC4",
+      "pictureSource": "Politiken",
       "relatedSearch": [
+        {
+          "title": "»Det er ikke noget, vi ser tit«: 15 centimeter snefald over natten flere steder",
+          "snippet": "",
+          "url": "https://politiken.dk/danmark/art10706718/%C2%BBDet-er-ikke-noget-vi-ser-tit%C2%AB-15-centimeter-snefald-over-natten-flere-steder",
+          "source": "Politiken"
+        },
         {
           "title": "Meteorolog forudser mere sne over Fyn - sådan ser det ud tirsdag: Pas på i morgentrafikken",
           "snippet": "",
@@ -125,12 +131,6 @@
           "snippet": "",
           "url": "https://www.dr.dk/nyheder/vejret/kraftigt-snevejr-og-fygning-rammer-dele-af-landet-faa-overblikket-her",
           "source": "DR"
-        },
-        {
-          "title": "Snevejret driller morgentrafikken: - Kør forsigtigt derude, siger Fyns Politi | TV 2 Fyn | Fynske nyheder - lokalt hver dag",
-          "snippet": "",
-          "url": "https://www.tv2fyn.dk/fyn/dmi-varsler-snestorm-og-farligt-vejr-kan-ramme-fyn-d937c",
-          "source": "TV2 Fyn"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -167,20 +167,20 @@
       "title": "trafikken",
       "trafficCount": "500+",
       "pubDate": "Mon, 26 Jan 2026 19:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTN9hOL2FdBBsdXtAKq_nXBl05qV4PAkyKB9KXpbDMRAEkkVKmU9YRrCkMTsJc",
-      "pictureSource": "Fyens.dk",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQD6iUYTbyNLYJJk61eAxfgroeDr6Un4MLiQbkq68Q_HISTTnUmVtWFcqOIAC4",
+      "pictureSource": "Politiken",
       "relatedSearch": [
+        {
+          "title": "»Det er ikke noget, vi ser tit«: 15 centimeter snefald over natten flere steder",
+          "snippet": "",
+          "url": "https://politiken.dk/danmark/art10706718/%C2%BBDet-er-ikke-noget-vi-ser-tit%C2%AB-15-centimeter-snefald-over-natten-flere-steder",
+          "source": "Politiken"
+        },
         {
           "title": "Meteorolog forudser mere sne over Fyn - sådan ser det ud tirsdag: Pas på i morgentrafikken",
           "snippet": "",
           "url": "https://fyens.dk/odense/meteorolog-forudser-mere-sne-over-fyn-saadan-ser-det-ud-tirsdag-pas-paa-i-morgentrafikken",
           "source": "Fyens.dk"
-        },
-        {
-          "title": "Snevejret driller morgentrafikken: - Kør forsigtigt derude, siger Fyns Politi | TV 2 Fyn | Fynske nyheder - lokalt hver dag",
-          "snippet": "",
-          "url": "https://www.tv2fyn.dk/fyn/dmi-varsler-snestorm-og-farligt-vejr-kan-ramme-fyn-d937c",
-          "source": "TV2 Fyn"
         },
         {
           "title": "Kraftigt snevejr og fygning rammer dele af landet - få overblikket her",
@@ -195,26 +195,26 @@
       "title": "bild",
       "trafficCount": "100+",
       "pubDate": "Mon, 26 Jan 2026 13:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCzOAhERna62fGYku4C-6TMQfrZsSWy_5qZ4I1rBXhGtynu8vs43ykxWLHTUw",
-      "pictureSource": "NDR.de",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxwdcEBFtElW4b7SD50FG2_RVcUS6CeBDM2blZP7TB1Nkh6Ws9CRETS_P_5w",
+      "pictureSource": "Börse Express",
       "relatedSearch": [
         {
-          "title": "Schnee, Frost und Glätte zum Wochenstart im Norden",
+          "title": "Gerresheimer Aktie: Gemischtes Bild",
           "snippet": "",
-          "url": "https://www.ndr.de/nachrichten/info/schnee-frost-und-glaette-zum-wochenstart-im-norden,glaette-194.html",
-          "source": "NDR.de"
+          "url": "https://www.boerse-express.com/news/articles/gerresheimer-aktie-gemischtes-bild-861182",
+          "source": "Börse Express"
         },
         {
-          "title": "Eisregen und Schnee: Deutschland rutscht in die Woche",
+          "title": "ANALYSE-FLASH: Berenberg belässt Stratec auf 'Buy' - Ziel 46 Euro - boerse.de",
           "snippet": "",
-          "url": "https://www.bild.de/news/inland/winter-chaos-geht-weiter-glatteis-und-schnee-hier-gilt-jetzt-alarmstufe-rot-6976cb10707d4aa2075812ba",
-          "source": "BILD"
+          "url": "https://www.boerse.de/nachrichten/ANALYSE-FLASH-Berenberg-belaesst-Stratec-auf-Buy-Ziel-46-Euro/38105693",
+          "source": "boerse.de"
         },
         {
-          "title": "Von Hamburg bis Bayern: DWD warnt vor Glätte",
+          "title": "Gerresheimer: Strategische Neuausrichtung im Pharmabereich",
           "snippet": "",
-          "url": "https://www.sueddeutsche.de/panorama/von-hamburg-bis-bayern-dwd-warnt-vor-glaette-li.3375975",
-          "source": "SZ.de"
+          "url": "https://www.it-boltwise.de/gerresheimer-strategische-neuausrichtung-im-pharmabereich.html",
+          "source": "it boltwise"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -233,16 +233,16 @@
           "source": "BILLED-BLADET"
         },
         {
-          "title": "- Det er et kæmpe chok og en super arrogant indstilling fra Frankrig, siger Møller",
+          "title": "Danmark banker Tyskland – klar til EM-semifinale",
           "snippet": "",
-          "url": "https://sport.tv2.dk/haandbold/2026-01-26-det-er-et-kaempe-chok-og-en-super-arrogant-indstilling-fra-frankrig-siger-moeller",
+          "url": "https://sport.tv2.dk/live/haandbold/2026-01-26-danmark-banker-tyskland-klar-til-em-semifinale",
           "source": "TV 2 Sport"
         },
         {
-          "title": "Spanien slår Frankrig og baner vejen for Danmark",
+          "title": "'Man prøver bare at følge med og sørge for, at han får bolden'",
           "snippet": "",
-          "url": "https://nordjyske.dk/nyheder/sport/spanien-slaar-frankrig-og-baner-vejen-for-danmark/5901048",
-          "source": "Nordjyske"
+          "url": "https://www.dr.dk/sporten/haandbold/em/man-proever-bare-foelge-med-og-soerge-han-faar-bolden",
+          "source": "DR"
         }
       ],
       "link": "https://imtaqin.id/"

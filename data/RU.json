@@ -1,9 +1,65 @@
 {
-  "lastUpdate": "2026-01-27 04:07:21",
+  "lastUpdate": "2026-01-27 04:55:26",
   "data": [
     {
+      "title": "новости мира",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 26 Jan 2026 20:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0KdtrfTOjlhEHooI0wLap5Ey3HC4bYcNP9uDpjIm5l2R2hkGQKQVUq7tt4lI",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Почетными гостями на параде в День Республики Индии стало руководство ЕС. Это не случайно",
+          "snippet": "",
+          "url": "https://www.bbc.com/russian/articles/czejxxx6j24o",
+          "source": "BBC"
+        },
+        {
+          "title": "Вячеслав Володин поздравил народ Индии с национальным праздником – Днем Республики",
+          "snippet": "",
+          "url": "http://duma.gov.ru/news/62898/",
+          "source": "Государственная Дума"
+        },
+        {
+          "title": "В Индии отмечают 77-летие со дня принятия Конституции",
+          "snippet": "",
+          "url": "https://www.interfax.ru/world/1069495",
+          "source": "Интерфакс"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "новости самара",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 26 Jan 2026 19:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrIeu9sP61OS4yXLOrVp-vTbNFTDtSk507BMGfwTJpzaareMWFqHrZmEp9aT0",
+      "pictureSource": "Новости Самары и области - Телеканал Самарагис",
+      "relatedSearch": [
+        {
+          "title": "В Самаре пройдет лекция «Сокровища звездного неба»",
+          "snippet": "",
+          "url": "https://samaragis.ru/v-samare-projdet-lekcija-sokrovishha-zvezdnogo-neba/",
+          "source": "Новости Самары и области - Телеканал Самарагис"
+        },
+        {
+          "title": "В Самаре появятся новые скверы и аллея",
+          "snippet": "",
+          "url": "https://citytraffic.ru/2026/1/400825/v-samare-poyavyatsya-novie-skveri-i-alle",
+          "source": "СитиТрафик"
+        },
+        {
+          "title": "В Самаре появятся новые скверы и аллея",
+          "snippet": "",
+          "url": "https://samaragovorit.ru/news/64300-v-samare-poyavyatsya-novye-skvery-i-alleya.html",
+          "source": "Самара Говорит"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "система бронирования леонардо",
-      "trafficCount": "10000+",
+      "trafficCount": "5000+",
       "pubDate": "Mon, 26 Jan 2026 19:30:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREFKhMY3PiJKq_l1zXTdre3PnWsIPyH5zA0VqJizY_lTjVmYIQb-U1rZCNc0M",
       "pictureSource": "БКС Экспресс",
@@ -15,16 +71,16 @@
           "source": "БКС Экспресс"
         },
         {
+          "title": "В системе бронирования авиабилетов «Леонардо» произошел масштабный сбой",
+          "snippet": "",
+          "url": "https://www.vedomosti.ru/business/articles/2026/01/27/1171929-v-sisteme-bronirovaniya-aviabiletov-leonardo-proizoshel-sboi",
+          "source": "Ведомости"
+        },
+        {
           "title": "Иркутян предупреждают о возможной отмене и переносе авиарейсов из-за сбоя в системе бронирования",
           "snippet": "",
           "url": "https://www.irk.ru/news/20260126/failure/",
           "source": "Твой Иркутск"
-        },
-        {
-          "title": "«Ростех» возложил ответственность за сбой в «Леонардо» на провайдера",
-          "snippet": "",
-          "url": "https://finance.mail.ru/article/rosteh-vozlozhil-otvetstvennost-za-sboj-v-leonardo-na-provajdera-69196235/",
-          "source": "Финансы Mail"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,9 +89,15 @@
       "title": "александр зверев",
       "trafficCount": "500+",
       "pubDate": "Mon, 26 Jan 2026 19:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRvs5ANZIVRPjbNz5eJKsSBwJcuylE8tQxPLqO0WbPR8irFcCJGvcC3_3y8kc",
-      "pictureSource": "Матч ТВ",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRByfc-aAbn8v_swk0KhIVFLnO8YkdwlRcWlYK9hj3fAhXVYKauVPYNccrqJ-c",
+      "pictureSource": "Спорт Mail",
       "relatedSearch": [
+        {
+          "title": "Зверев — команде в матче с Тьеном: «Да идите поспите, #####!»",
+          "snippet": "",
+          "url": "https://sportmail.ru/news/tennis/69573273/",
+          "source": "Спорт Mail"
+        },
         {
           "title": "Зверев вышел в четвертьфинал Australian Open",
           "snippet": "",
@@ -47,19 +109,13 @@
           "snippet": "",
           "url": "https://www.vedomosti.ru/sport/rb/predictions/article/zverev-nien-ao-2026",
           "source": "Ведомости"
-        },
-        {
-          "title": "Зверев считается фаворитом матча с Тьеном, на его выход в полуфинал дают КФ 1,47",
-          "snippet": "",
-          "url": "https://www.sovsport.ru/bets/news/zverev-schitaetsya-favoritom-matcha-s-tenom-na-ego-vyhod-v-polufinal-dayut-kf-1-47",
-          "source": "Советский спорт"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "погода самара",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 26 Jan 2026 18:40:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk_98uYbadQln69FUJzbBWVivbGhaUQz7Ps6J9jSwL4JmPmPQVmO2ByZO1pS8",
       "pictureSource": "GISMETEO.Новости",
@@ -117,37 +173,43 @@
       "title": "новости дня",
       "trafficCount": "100+",
       "pubDate": "Mon, 26 Jan 2026 18:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGxMf4HACrlE4_kSyZQ8mvhBK4EX-FteUEJgkC6nSxNjaCaFVUjZUT-vV0phM",
-      "pictureSource": "Vse42",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRJJCCZgvXjDqVq15naM_ygzBR-7YSmKUb2OfOCwj8hvbioAjcwseJoI-BVfo",
+      "pictureSource": "Новости Новокузнецка. Кузбасс, Кемеровская область.",
       "relatedSearch": [
         {
-          "title": "Мука из Кузбасса отправилась в КНДР",
+          "title": "Гору Зелёную и гору Мустаг в Кузбассе отказались признавать объектами культурного наследия",
           "snippet": "",
-          "url": "https://vse42.ru/news/33631055",
-          "source": "Vse42"
+          "url": "https://www.city-n.ru/view/481993.html",
+          "source": "Новости Новокузнецка. Кузбасс, Кемеровская область."
         },
         {
-          "title": "В Кузбасс поступили репчатый лук и яблоки из Казахстана",
+          "title": "Мустаг и Кариштал остались без культурного статуса",
           "snippet": "",
-          "url": "https://kuzzbas.ru/news/society/78250.html",
-          "source": "НИА-Кузбасс"
+          "url": "https://nk-tv.com/312384.html",
+          "source": "https://nk-tv.com/"
         },
         {
-          "title": "Кузбасс отправил в Северную Корею жизненно важную продукцию",
+          "title": "27 января ожидаются следующие события – Челябинск",
           "snippet": "",
-          "url": "https://kuzbass.media/2026/01/26/129800.html",
-          "source": "РИА «Кузбасс"
+          "url": "https://newdaynews.ru/chelyabinsk/868713.html",
+          "source": "РИА Новый День"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "буллз – лейкерс",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 26 Jan 2026 18:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXyk9n6Bbni2trIgUMun-EMxGNXW-4a3a9N4ZWt8i777GSiMin9PwUFcY2TOQ",
-      "pictureSource": "Slamdunk.ru",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsLK20g8q-bXMk16_Hnh5zV6RoWjC0V8ipyD55DhIH3bTFUGc_GDHNPDMgEKQ",
+      "pictureSource": "Спорт Mail",
       "relatedSearch": [
+        {
+          "title": "Дабл-дабл Луки Дончича (46+11) позволил «Лейкерс» справиться с «Буллз»",
+          "snippet": "",
+          "url": "https://sportmail.ru/news/basketball/69573238/",
+          "source": "Спорт Mail"
+        },
         {
           "title": "НБА. «Чикаго» примет «Лейкерс», «Миннесота» – «Голден Стэйт» и другие матчи",
           "snippet": "",
@@ -159,12 +221,6 @@
           "snippet": "",
           "url": "https://stavka.tv/matches/basketball/27-01-2026-chicago-bulls-los-angeles-lakers",
           "source": "Ставка ТВ"
-        },
-        {
-          "title": "Чикаго Буллз − Лос-Анджелес Лейкерс: качественный прогноз и ставка на матч НБА — 26 января 2026",
-          "snippet": "",
-          "url": "https://www.liveresult.ru/tips/basketball/USA/tip349472-Chicago-Bulls-Los-Angeles-Lakers",
-          "source": "LiveResult"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -217,66 +273,10 @@
           "source": "Урал56.Ру"
         },
         {
-          "title": "В Новосибирской области возросло число особо тяжких преступлений",
+          "title": "В Орске мужчину отправили в колонию за коноплю, проданную как «средство от депрессии»",
           "snippet": "",
-          "url": "https://nsk.bfm.ru/news/59404",
-          "source": "BFM-Новосибирск"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "погода оренбург",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 26 Jan 2026 17:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVuGyVkaQOQf_K-DH6kGbOk-vOHMDAvJ5-54BpGWXogA4t6lI9Mj6gsKbrYAo",
-      "pictureSource": "НоКС ТВ",
-      "relatedSearch": [
-        {
-          "title": "Информация об отмене занятий в школе в Новотроицке 26 января",
-          "snippet": "",
-          "url": "https://nokstv.ru/news/city/events/informatsiya-ob-otmene-zanyatij-v-shkole-v-novotroitske-26-yanvarya",
-          "source": "НоКС ТВ"
-        },
-        {
-          "title": "В Оренбургской области ожидается аномальный холод",
-          "snippet": "",
-          "url": "https://pda.orsk.ru/news/144777-v-orenburgskoy-oblasti-ojidaetsya-anomalnyy-holod",
+          "url": "https://pda.orsk.ru/news/144769-v-orske-mujchinu-otpravili-v-koloniyu-za-konoplyu-prodannuyu-kak-%C2%ABsredstvo-ot-depressii%C2%BB",
           "source": "Орск.ру"
-        },
-        {
-          "title": "Погода на вторник, 27 января",
-          "snippet": "",
-          "url": "http://pda.ntsk.ru/news/61981",
-          "source": "Ntsk.ru"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "новости",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 26 Jan 2026 17:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZP1AcXSGlm1lU7vmSYP8-kM_OFnFaj3QY4nFKLzdZ_683ac-iOQgRryac2BU",
-      "pictureSource": "BFM-Новосибирск",
-      "relatedSearch": [
-        {
-          "title": "Годовая корректировка: СГК зачтет новосибирцам 712 млн рублей в счет будущих платежей",
-          "snippet": "",
-          "url": "https://nsk.bfm.ru/news/59412",
-          "source": "BFM-Новосибирск"
-        },
-        {
-          "title": "712 миллионов за тепло «переплатили» в 2025 году новосибирцы",
-          "snippet": "",
-          "url": "https://nsknews.info/news/712-millionov-za-teplo-pereplatili-v-2025-godu-novosibircy",
-          "source": "Новосибирские новости"
-        },
-        {
-          "title": "Новосибирцам вернут 712 млн рублей за отопление из-за тёплой зимы",
-          "snippet": "",
-          "url": "https://sibirnews.ru/news/2026-01-26-novosibirtsam-vernut-712-mln-rubley-za-otoplenie-iz-za-tyeploy-zimy/",
-          "source": "Сибирский.Новостной"
         }
       ],
       "link": "https://imtaqin.id/"

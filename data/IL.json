@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-27 20:42:04",
+  "lastUpdate": "2026-01-27 20:56:29",
   "data": [
     {
       "title": "ביבי",
@@ -80,34 +80,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "الطقس غدًا",
-      "trafficCount": "2000+",
-      "pubDate": "Tue, 27 Jan 2026 10:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUlJi2Ijq1se2V_xth2QxPOEojj6LurPyaqpiRKH0ICv8dTu_Wmv_tbfpe0sA",
-      "pictureSource": "مقالات نيوز -",
-      "relatedSearch": [
-        {
-          "title": "نصائح صحية هامة لمواجهة برودة رياح الأربعاء قبل الخروج من المنزل",
-          "snippet": "",
-          "url": "https://ar.mqalat.nl/%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D8%B5%D8%AD%D9%8A%D8%A9-%D9%87%D8%A7%D9%85%D8%A9-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A8%D8%B1%D9%88%D8%AF%D8%A9-%D8%B1%D9%8A%D8%A7%D8%AD-%D8%A7%D9%84%D8%A3/",
-          "source": "مقالات نيوز -"
-        },
-        {
-          "title": "توقعات الطقس غدا.. أمطار رعدية ورياح مثيرة للأتربة واضطراب بالملاحة وانخفاض طفيف في الحرارة",
-          "snippet": "",
-          "url": "https://amwalalghad.com/2026/01/27/%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D9%82%D8%B3-%D8%BA%D8%AF%D8%A7-%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D8%B1%D8%B9%D8%AF%D9%8A%D8%A9-%D9%88%D8%B1%D9%8A%D8%A7%D8%AD-%D9%85%D8%AB%D9%8A/",
-          "source": "أموال الغد"
-        },
-        {
-          "title": "يناير شهر \"العفرة\"، الأرصاد تؤكد: العواصف الترابية بالشتاء أمر ليس جديدا.. عاصفة ترابية ضربت البلاد في 2019.. وتحذر من انخفاض الرؤية.. وتوجه هذه النصائح لمرضى الحساسية وقائدي السيارات",
-          "snippet": "",
-          "url": "https://www.vetogate.com/5582197",
-          "source": "فيتو"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "גל הירש",
       "trafficCount": "1000+",
       "pubDate": "Tue, 27 Jan 2026 10:40:00 -0800",
@@ -136,29 +108,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "الطقس غدًا",
+      "trafficCount": "2000+",
+      "pubDate": "Tue, 27 Jan 2026 10:40:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUlJi2Ijq1se2V_xth2QxPOEojj6LurPyaqpiRKH0ICv8dTu_Wmv_tbfpe0sA",
+      "pictureSource": "مقالات نيوز -",
+      "relatedSearch": [
+        {
+          "title": "نصائح صحية هامة لمواجهة برودة رياح الأربعاء قبل الخروج من المنزل",
+          "snippet": "",
+          "url": "https://ar.mqalat.nl/%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D8%B5%D8%AD%D9%8A%D8%A9-%D9%87%D8%A7%D9%85%D8%A9-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A8%D8%B1%D9%88%D8%AF%D8%A9-%D8%B1%D9%8A%D8%A7%D8%AD-%D8%A7%D9%84%D8%A3/",
+          "source": "مقالات نيوز -"
+        },
+        {
+          "title": "توقعات الطقس غدا.. أمطار رعدية ورياح مثيرة للأتربة واضطراب بالملاحة وانخفاض طفيف في الحرارة",
+          "snippet": "",
+          "url": "https://amwalalghad.com/2026/01/27/%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D9%82%D8%B3-%D8%BA%D8%AF%D8%A7-%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D8%B1%D8%B9%D8%AF%D9%8A%D8%A9-%D9%88%D8%B1%D9%8A%D8%A7%D8%AD-%D9%85%D8%AB%D9%8A/",
+          "source": "أموال الغد"
+        },
+        {
+          "title": "يناير شهر \"العفرة\"، الأرصاد تؤكد: العواصف الترابية بالشتاء أمر ليس جديدا.. عاصفة ترابية ضربت البلاد في 2019.. وتحذر من انخفاض الرؤية.. وتوجه هذه النصائح لمرضى الحساسية وقائدي السيارات",
+          "snippet": "",
+          "url": "https://www.vetogate.com/5582197",
+          "source": "فيتو"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "weather tomorrow",
       "trafficCount": "5000+",
       "pubDate": "Tue, 27 Jan 2026 10:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQh78CYaO2TkyqODySkbZCOvWJmQSSi_C9qpBMC8Zh9xu0W6F6YGJTOemRTWhU",
-      "pictureSource": "Kauai Now",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-S9R-7pgNsg3l3mzY0scWWrMcSCtjDhZwXnks6olmFOe1fKvn8bCzbOX3XJg",
+      "pictureSource": "WLWT",
       "relatedSearch": [
         {
-          "title": "Kauai Weather Forecast for January 27, 2026",
+          "title": "Watching another winter system that could bring more snow to Cincinnati",
           "snippet": "",
-          "url": "https://kauainownews.com/2026/01/26/kauai-weather-forecast-for-january-27-2026/",
-          "source": "Kauai Now"
+          "url": "https://www.wlwt.com/article/winter-storm-system-snow-cincinnati-thursday/70156295",
+          "source": "WLWT"
         },
         {
-          "title": "Kauai Weather Forecast for January 25, 2026",
+          "title": "FORECAST: Cold with snow flurries this afternoon",
           "snippet": "",
-          "url": "https://kauainownews.com/2026/01/25/kauai-weather-forecast-for-january-25-2026-2/",
-          "source": "Kauai Now"
+          "url": "https://www.wave3.com/2026/01/27/alert-day-frigid-arctic-temperatures-stick-around-2/",
+          "source": "WAVE News"
         },
         {
-          "title": "Kauai Weather Forecast for January 26, 2026",
+          "title": "FIRST ALERT WEATHER DAY | Dangerous cold for many to start off our Tuesday",
           "snippet": "",
-          "url": "https://kauainownews.com/2026/01/26/kauai-weather-forecast-for-january-26-2026-2/",
-          "source": "Kauai Now"
+          "url": "https://www.wkyt.com/2026/01/27/first-alert-weather-day-dangerous-cold-many-start-off-our-tuesday/",
+          "source": "WKYT"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -167,14 +167,14 @@
       "title": "הפועל חולון נגד לה מאן",
       "trafficCount": "500+",
       "pubDate": "Tue, 27 Jan 2026 10:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQT5kqLvJxhvuBhglF-ZZJZ0MxS3hDa0rxauHXHIxOW7zmdsHHILIFtJil_sE",
-      "pictureSource": "ספורט 5",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcToskslU9h_brb7-RoCY5e-RtdmvdU1VWCt9txJ6S7o8vd-vaKFnYhxPWHsY2Y",
+      "pictureSource": "ynet",
       "relatedSearch": [
         {
-          "title": "חולון הודיעה: ווית`רס מחפש קבוצה חדשה",
+          "title": "התפרקות: הפועל חולון נכנעה 106:85 ללה מאן",
           "snippet": "",
-          "url": "https://www.sport5.co.il/articles.aspx?FolderID=274&docID=532515",
-          "source": "ספורט 5"
+          "url": "https://www.ynet.co.il/sport/article/one512971",
+          "source": "ynet"
         },
         {
           "title": "רבע 2, 04:25: הפועל חולון - לה מאן 42:35",
@@ -183,10 +183,10 @@
           "source": "ONE"
         },
         {
-          "title": "הפועל חולון הודיעה על שיחרורו של הפורוורד טוד ווית'רס",
+          "title": "חולון הודיעה: ווית`רס מחפש קבוצה חדשה",
           "snippet": "",
-          "url": "https://sport1.maariv.co.il/israeli-basketball/article/1760288/",
-          "source": "ספורט 1"
+          "url": "https://www.sport5.co.il/articles.aspx?FolderID=274&docID=532515",
+          "source": "ספורט 5"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,10 +239,10 @@
           "source": "ynet"
         },
         {
-          "title": "פריימארק בדרך לישראל? אלקטרה צריכה במגעים ראשונים להבאת הרשת",
+          "title": "אי של רווחיות: למה פריימרק באמת רוצה להיכנס לישראל?",
           "snippet": "",
-          "url": "https://www.mako.co.il/finances-consumer/Article-00ac8fd1ecafb91027.htm",
-          "source": "mako"
+          "url": "https://finance.walla.co.il/item/3812112",
+          "source": "וואלה כסף"
         }
       ],
       "link": "https://imtaqin.id/"

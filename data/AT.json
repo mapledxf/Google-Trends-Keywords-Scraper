@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2026-01-27 18:52:23",
+  "lastUpdate": "2026-01-27 19:17:33",
   "data": [
     {
-      "title": "st. pauli – rb leipzig",
+      "title": "kneissl",
       "trafficCount": "200+",
+      "pubDate": "Tue, 27 Jan 2026 10:50:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxz6pxyYXbug9NQnVv_zffYyHA2ujJ9mJ3uzYI-pKyJss2cmxS7DC_viu3KM4",
+      "pictureSource": "Kleine Zeitung",
+      "relatedSearch": [
+        {
+          "title": "Karin Kneissl: Ex-Außenministerin soll Staatsbürgerschaft verlieren",
+          "snippet": "",
+          "url": "https://www.kleinezeitung.at/politik/innenpolitik/20519941/neos-wollen-ex-aussenministerin-die-staatsbuergerschaft-entziehen",
+          "source": "Kleine Zeitung"
+        },
+        {
+          "title": "Neos wollen Entzug der Staatsbürgerschaft von Ex-Außenministerin Kneissl",
+          "snippet": "",
+          "url": "https://www.diepresse.com/20522108/neos-wollen-entzug-der-staatsbuergerschaft-von-ex-aussenministerin",
+          "source": "DiePresse.com"
+        },
+        {
+          "title": "Russland-Propaganda: Kneissls Staatsbürgerschaft am Prüfstand",
+          "snippet": "",
+          "url": "https://www.profil.at/dasfruehstueck/russland-propaganda-karin-kneissls-staatsbuergerschaft-am-pruefstand/403125008",
+          "source": "profil.at"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "st. pauli – rb leipzig",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 27 Jan 2026 10:40:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjUdFjQ8YaY2JPQzFf6oyhYh8VAKzoURQfNBZSocQbqa3vp_HnHBCb5OYMQ_g",
       "pictureSource": "Kronen Zeitung",
@@ -31,7 +59,7 @@
     },
     {
       "title": "werder bremen – hoffenheim",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 27 Jan 2026 10:40:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQdWRL8FZRPFezmme2x6CU-Yyjk-mIn0-bSpbOcrxaekLDkihhOtYkNqx-PiU",
       "pictureSource": "kicker",
@@ -58,34 +86,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "niscemi",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 27 Jan 2026 10:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSR-YInBlhfUTUUOBdXKU1uT5HL98SJDH_zlhuhsJV3EZQ5IdGhdQGlfZ5EcgI",
-      "pictureSource": "QdS",
-      "relatedSearch": [
-        {
-          "title": "VIDEO | Frana a Niscemi, sopralluogo di Elly Schlein: “C’è grande apprensione”",
-          "snippet": "",
-          "url": "https://qds.it/video-elly-schlein-niscemi-frana-grande-apprensione/",
-          "source": "QdS"
-        },
-        {
-          "title": "Danni del maltempo, Musumeci: \"A Sardegna rimborso iniziale superiore a quello per Emilia-Romagna\"",
-          "snippet": "",
-          "url": "https://www.repubblica.it/politica/2026/01/27/video/maltempo_musumeci_rimborsi_sardegna_emilia-romagna-425121701/",
-          "source": "la Repubblica"
-        },
-        {
-          "title": "Pecoraro Scanio: 600.000 frane in Italia sono emergenza nazionale",
-          "snippet": "",
-          "url": "https://www.quotidiano.net/video/politica/pecoraro-scanio-600000-frane-in-italia-sono-emergenza-nazionale-p6pug1xx",
-          "source": "Quotidiano Nazionale"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "sizilien erdrutsch",
       "trafficCount": "100+",
       "pubDate": "Tue, 27 Jan 2026 10:30:00 -0800",
@@ -105,10 +105,38 @@
           "source": "GMX.AT"
         },
         {
-          "title": "Sizilien: 1.000 Menschen nach Erdrutsch in Niscemi evakuiert",
+          "title": "Sizilien: 1500 Menschen wegen Erdrutschs evakuiert",
           "snippet": "",
-          "url": "https://www.vol.at/erdrutsch-auf-sizilien-1000-menschen-evakuiert/9950042",
-          "source": "VOL.AT"
+          "url": "https://www.spiegel.de/panorama/sizilien-1500-menschen-wegen-erdrutsch-evakuiert-a-220d0bae-85c5-4c4a-a368-b186b9a8f475",
+          "source": "Spiegel"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "niscemi",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 27 Jan 2026 10:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxTjZTxWb3cbYLHsarRBP1ypW41Vbn2a2Pd24O0vJPTEUozaq3YSgfOzehjDY",
+      "pictureSource": "ReggioToday",
+      "relatedSearch": [
+        {
+          "title": "Maltempo e fondi per la Calabria, Falcomatà: \"In Consiglio dei ministri la montagna ha partorito il topolino\"",
+          "snippet": "",
+          "url": "https://www.reggiotoday.it/politica/consiglio-regionale-calabria-fondi-maltempo-falcomata-.html",
+          "source": "ReggioToday"
+        },
+        {
+          "title": "Ciclone Harry, Elly Schlein a Riposto: «Servono più risorse, qui per accendere i riflettori. Questa non è un'emergenza di serie B",
+          "snippet": "",
+          "url": "https://www.lasicilia.it/video/politica/3015381/ciclone-harry-elly-schlein-a-riposto-servono-piu-risorse-qui-per-accendere-i-riflettori-questa-non-e-un-emergenza-di-serie-b.html",
+          "source": "La Sicilia"
+        },
+        {
+          "title": "Pecoraro Scanio: 600.000 frane in Italia sono emergenza nazionale",
+          "snippet": "",
+          "url": "https://www.quotidiano.net/video/politica/pecoraro-scanio-600000-frane-in-italia-sono-emergenza-nazionale-p6pug1xx",
+          "source": "Quotidiano Nazionale"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,23 +183,23 @@
           "source": "sport.ORF.at"
         },
         {
+          "title": "Vier Frauen, vier Männer: Österreich nominiert Olympia-Mannschaft",
+          "snippet": "",
+          "url": "https://www.skispringen.com/vier-frauen-vier-maenner-oesterreich-nominiert-olympia-mannschaft/",
+          "source": "Skispringen"
+        },
+        {
           "title": "Das Olympic Team Austria für Mailand Cortina 2026",
           "snippet": "",
           "url": "https://www.olympia.at/news/das-olympic-team-austria-fuer-mailand-cortina-2026/45030",
           "source": "Österreichisches Olympisches Comité"
-        },
-        {
-          "title": "115 Österreicher bei Olympischen Winterspielen in Italien",
-          "snippet": "",
-          "url": "https://www.vol.at/115-oesterreicher-bei-olympischen-winterspielen-in-italien/9948077",
-          "source": "VOL.AT"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "lyrikerin emily artmann",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 27 Jan 2026 10:00:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkk1R3PPr1yd10Gamuu5GIHVul4BrNp1X2C2xBHEuoERPFkaq97b-IeZSIhrI",
       "pictureSource": "Der Standard",
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.vol.at/vorentscheidung-am-ganslernhang-strolz-ringt-in-kitzbuehel-um-olympia-ticket/9943496",
           "source": "VOL.AT"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "alexis pinturault",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 27 Jan 2026 09:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5su9lEURNpYBcywGjGldbGB__O9ewvT-qtA5iYemV4in9wRUJpmIXD2OAu0E",
-      "pictureSource": "Nordic Mag",
-      "relatedSearch": [
-        {
-          "title": "Cross-country skiing | “I’m very proud”: freshly selected for his first Olympic Games, Victor Lovera talks to Nordic Magazine",
-          "snippet": "",
-          "url": "https://www.nordicmag.info/en/cross-country-skiing-im-very-proud-freshly-selected-for-his-first-olympic-games-victor-lovera-talks-to-nordic-magazine-0127/",
-          "source": "Nordic Mag"
-        },
-        {
-          "title": "Winter Olympics 2026 in Milan-Cortina: The Full List of Qualified French Athletes",
-          "snippet": "",
-          "url": "https://www.sortiraparis.com/en/what-to-do-in-paris/sport-wellness/articles/340528-jo-de-hiver-2026-a-milan-cortina-voici-la-liste-complete-des-athletes-francais-qualifies-pour-les-jeux",
-          "source": "Sortir à Paris"
-        },
-        {
-          "title": "Biathlon | “We’re obviously very ambitious”: after an exceptional World Cup in Nove Mesto, the French team sets its sights on the 2026 Olympics",
-          "snippet": "",
-          "url": "https://www.nordicmag.info/en/biathlon-were-obviously-very-ambitious-after-an-exceptional-world-cup-in-nove-mesto-the-french-team-sets-its-sights-on-the-2026-olympics-0126/",
-          "source": "Nordic Mag"
         }
       ],
       "link": "https://imtaqin.id/"

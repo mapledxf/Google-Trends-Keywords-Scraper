@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2026-01-27 14:40:23",
+  "lastUpdate": "2026-01-27 15:02:56",
   "data": [
     {
+      "title": "çağla boz",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 27 Jan 2026 06:30:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLm3LgH0or9QNsZ9ZfCklKqalfx9PpSZtLAMMez68hZrt31pDchnARy4LSXhE",
+      "pictureSource": "Hürriyet",
+      "relatedSearch": [
+        {
+          "title": "‘Uyuşturucu’ soruşturması kapsamında 3 şüphelinin testi pozitif",
+          "snippet": "",
+          "url": "https://www.hurriyet.com.tr/gundem/uyusturucu-sorusturmasi-kapsaminda-3-suphelinin-testi-pozitif-43094198",
+          "source": "Hürriyet"
+        },
+        {
+          "title": "Barış Kılıç'tan Diziden Çıkarılan Rol Arkadaşı Doğukan Güngör’e Destek",
+          "snippet": "",
+          "url": "https://onedio.com/haber/baric-kiic-tan-diziden-cikarilan-rol-arkadasi-dogukan-gungor-e-destek-1339371",
+          "source": "Onedio"
+        },
+        {
+          "title": "\"Kızılcık Şerbeti\"nde Bir Ayrılık Daha: Fatih'i Oynayacak Yeni Oyuncu Belli Oldu",
+          "snippet": "",
+          "url": "https://www.beyazperde.com/haberler/diziler/haberler-1000187032/",
+          "source": "Beyazperde"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "fed faiz kararı",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 27 Jan 2026 06:20:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrQ20Ux8cBNfQorgGUkX1uQA0yVm1J-tfiY2SR_oFPz0bZp3tfHDrO5Pk6bWg",
       "pictureSource": "Bloomberght",
@@ -58,34 +86,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "elazığspor",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 27 Jan 2026 05:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_S9f6dnwdwmgD-A7cSxY4aBa9__p02tHqY68BhV6ykN4f0ilmReWUHlyPurU",
-      "pictureSource": "Fotomaç",
-      "relatedSearch": [
-        {
-          "title": "CANLI | Beyoğlu Yeni Çarşı - Elazığspor maçı ne zaman, saat kaçta, hangi kanalda?",
-          "snippet": "",
-          "url": "https://www.fotomac.com.tr/ikincilig/2026/01/27/beyoglu-yeni-carsi-elazigspor-maci-ne-zaman-saat-kacta-hangi-kanalda",
-          "source": "Fotomaç"
-        },
-        {
-          "title": "Elazığspor Beyoğlu Yeni Çarşı ile Maç İçin İstanbul'a Hareket Etti",
-          "snippet": "",
-          "url": "https://www.mersinhaber.com/haber-elazigspor-beyoglu-yeni-carsi-ile-mac-icin-istanbula-hareket-etti/527563",
-          "source": "Mersin Haber"
-        },
-        {
-          "title": "Elazığspor'dan golsüz beraberlik",
-          "snippet": "",
-          "url": "https://www.elazighakimiyethaber.com/elazigspor-dan-golsuz-beraberlik/129605/",
-          "source": "Elazığ Hakimiyet Haber"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "bellegarde",
       "trafficCount": "200+",
       "pubDate": "Tue, 27 Jan 2026 05:50:00 -0800",
@@ -114,6 +114,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "elazığspor",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 27 Jan 2026 05:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_S9f6dnwdwmgD-A7cSxY4aBa9__p02tHqY68BhV6ykN4f0ilmReWUHlyPurU",
+      "pictureSource": "Fotomaç",
+      "relatedSearch": [
+        {
+          "title": "CANLI | Beyoğlu Yeni Çarşı - Elazığspor maçı ne zaman, saat kaçta, hangi kanalda?",
+          "snippet": "",
+          "url": "https://www.fotomac.com.tr/ikincilig/2026/01/27/beyoglu-yeni-carsi-elazigspor-maci-ne-zaman-saat-kacta-hangi-kanalda",
+          "source": "Fotomaç"
+        },
+        {
+          "title": "Elazığspor Beyoğlu Yeni Çarşı ile Maç İçin İstanbul'a Hareket Etti",
+          "snippet": "",
+          "url": "https://www.mersinhaber.com/haber-elazigspor-beyoglu-yeni-carsi-ile-mac-icin-istanbula-hareket-etti/527563",
+          "source": "Mersin Haber"
+        },
+        {
+          "title": "Elazığspor'dan golsüz beraberlik",
+          "snippet": "",
+          "url": "https://www.elazighakimiyethaber.com/elazigspor-dan-golsuz-beraberlik/129605/",
+          "source": "Elazığ Hakimiyet Haber"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "alphonse areola",
       "trafficCount": "500+",
       "pubDate": "Tue, 27 Jan 2026 05:40:00 -0800",
@@ -133,10 +161,10 @@
           "source": "LondonWorld"
         },
         {
-          "title": "Tomas Soucek in talks with Champions League club as answer given on West Ham exit",
+          "title": "Besiktas in talks to sign West Ham United duo Alphonse Areola and Tomas Soucek",
           "snippet": "",
-          "url": "https://www.westhamzone.com/transfers/tomas-soucek-talks-champions-league-club-answer-given-west-ham-exit/",
-          "source": "West Ham Zone"
+          "url": "https://sportsview.co.uk/2026/01/besiktas-in-talks-to-sign-west-ham-united-duo-alphonse-areola-and-tomas-soucek",
+          "source": "Jack"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.voetbalzone.nl/nieuws/brian-brobbey-is-een-van-de-sterkste-spelers-waar-ik-ooit-tegen-heb-gespeeld/blt18248663508ad8a6",
           "source": "Voetbalzone"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "nipah virüsü nedir",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 27 Jan 2026 05:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZFmtqq80MEYoGxf4bRlWGiQFVLBYPHjf5o9EcLp6sM5__uH2Qc2eNMO9KaaM",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Nipah virüsü nedir, nasıl yayılıyor, ne kadar tehlikeli?",
-          "snippet": "",
-          "url": "https://www.bbc.com/turkce/articles/cgezpd8ly44o",
-          "source": "BBC"
-        },
-        {
-          "title": "Nipah virüsünde korunma hayati önem taşıyor",
-          "snippet": "",
-          "url": "https://www.aa.com.tr/tr/isdunyasi/saglik/nipah-virusunde-korunma-hayati-onem-tasiyor/700129",
-          "source": "Anadolu Ajansı"
-        },
-        {
-          "title": "Dünya Sağlık Örgütü alarm verdi! Hindistan’da ortaya çıkan Nipah virüsü yeni bir pandeminin mi habercisi? Türkiye için tehdit var mı?",
-          "snippet": "",
-          "url": "https://www.hurriyet.com.tr/gundem/dunya-saglik-orgutu-alarm-verdi-hindistanda-ortaya-cikan-nipah-virusu-yeni-bir-pandeminin-mi-habercisi-turkiye-icin-tehdit-var-mi-43093322",
-          "source": "Hürriyet"
         }
       ],
       "link": "https://imtaqin.id/"

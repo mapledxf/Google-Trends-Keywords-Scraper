@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-28 05:55:43",
+  "lastUpdate": "2026-01-28 06:27:39",
   "data": [
     {
       "title": "cp",
@@ -15,16 +15,16 @@
           "source": "Expresso"
         },
         {
-          "title": "Utentes dos Serviços Públicos consideram inaceitável subconcessão de linhas urbanas da CP",
-          "snippet": "",
-          "url": "https://sapo.pt/artigo/utentes-dos-servicos-publicos-consideram-inaceitavel-subconcessao-de-linhas-urbanas-da-cp-69775d17707046dfb99cbead",
-          "source": "SAPO"
-        },
-        {
           "title": "Cascais quer reunir-se com Oeiras e Lisboa para insistir na gestão da linha ferroviária",
           "snippet": "",
           "url": "https://www.rtp.pt/noticias/pais/cascais-quer-reunir-se-com-oeiras-e-lisboa-para-insistir-na-gestao-da-linha-ferroviaria_n1713035",
           "source": "RTP"
+        },
+        {
+          "title": "Utentes dos Serviços Públicos consideram inaceitável subconcessão de linhas urbanas da CP",
+          "snippet": "",
+          "url": "https://observador.pt/2026/01/27/utentes-dos-servicos-publicos-consideram-inaceitavel-subconcessao-de-linhas-urbanas-da-cp/",
+          "source": "Observador"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,26 +61,82 @@
       "title": "google",
       "trafficCount": "100+",
       "pubDate": "Tue, 27 Jan 2026 21:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYwnFnrqZClLAgHGwi2bikef-w52wkK1JYCrBrhNbmZ8DwBK8JVy2UFjL00Ic",
-      "pictureSource": "blog.google",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxgeKJ0zWHRqi2s8u0jKOusAxOG9kzVrJbAmbCJZmGyw0B2WmloZ1rCseQHMI",
+      "pictureSource": "The Washington Post",
       "relatedSearch": [
         {
-          "title": "Google AI Plus is now available everywhere our AI plans are available, including the U.S.",
+          "title": "Analysis | Google wants your emails and photos to ‘personalize’ its AI. Should you let it?",
           "snippet": "",
-          "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-plus-availability/",
+          "url": "https://www.washingtonpost.com/technology/2026/01/27/google-personal-intelligence-privacy/",
+          "source": "The Washington Post"
+        },
+        {
+          "title": "Just ask anything: a seamless new Search experience",
+          "snippet": "",
+          "url": "https://blog.google/products-and-platforms/products/search/ai-mode-ai-overviews-updates/",
           "source": "blog.google"
         },
         {
-          "title": "'Google AI Plus' now available in the U.S. for $7.99 (GOOG:NASDAQ)",
+          "title": "AI has arrived in Gmail. Here’s how to make it work for you",
           "snippet": "",
-          "url": "https://seekingalpha.com/news/4543095-google-ai-plus-now-available-in-the-us-for-799",
-          "source": "Seeking Alpha"
+          "url": "https://www.seattletimes.com/business/ai-has-arrived-in-gmail-heres-how-to-make-it-work-for-you/",
+          "source": "The Seattle Times"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "edp",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 27 Jan 2026 21:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkAnGGZyJqsWh2XV7BlmFbbzCP9amYSFpdbEILedLqdrGbUmYckS58lKf52JA",
+      "pictureSource": "Jornal de Negócios",
+      "relatedSearch": [
+        {
+          "title": "EDP Renováveis inicia operação comercial de central solar de 150 MW no Indiana",
+          "snippet": "",
+          "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/edp-renovaveis-inicia-operacao-comercial-de-central-solar-de-150-mw-no-indiana",
+          "source": "Jornal de Negócios"
         },
         {
-          "title": "Google takes on ChatGPT Go with a brand new mid-tier advanced AI subscription",
+          "title": "EDP Renováveis inicia operação comercial do projeto solar Riverstart IV nos EUA",
           "snippet": "",
-          "url": "https://www.phonearena.com/news/google-takes-on-chatgpt-go-with-a-brand-new-mid-tier-advanced-ai-subscription_id177731",
-          "source": "PhoneArena"
+          "url": "https://jornaleconomico.sapo.pt/noticias/edp-renovaveis-inicia-operacao-comercial-do-projeto-solar-riverstart-iv-nos-eua/",
+          "source": "Jornal Económico"
+        },
+        {
+          "title": "Família milionária espanhola que é accionista da REN volta a investir na EDP",
+          "snippet": "",
+          "url": "https://www.publico.pt/2026/01/27/economia/noticia/familia-milionaria-espanhola-accionista-ren-volta-investir-edp-2162538",
+          "source": "Público"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "radio",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 27 Jan 2026 20:30:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT00WEGl6ERomD_KxGcUFu7zwlzpUXIJhWY-SUKvcNIVVhuKTM1N3EOt1fB6y0",
+      "pictureSource": "Rádio Castrense",
+      "relatedSearch": [
+        {
+          "title": "Zona Azul tem a vida complicada para chegar à 2º fase do Campeonato Nacional da 3ª Divisão em Andebol",
+          "snippet": "",
+          "url": "https://radiocastrense.pt/zona-azul-tem-a-vida-complicada-para-chegar-a-2o-fase-do-campeonato-nacional-da-3a-divisao-em-andebol/",
+          "source": "Rádio Castrense"
+        },
+        {
+          "title": "Crianças de Moura assumem a Presidência por um dia: Iniciativa arranca na Escola da Porta Nova",
+          "snippet": "",
+          "url": "https://sapo.pt/artigo/criancas-de-moura-assumem-a-presidencia-por-um-dia-iniciativa-arranca-na-escola-da-porta-nova-6977ecdc47c8f25fc1841e76",
+          "source": "SAPO"
+        },
+        {
+          "title": "Crianças na presidência da Câmara de Moura",
+          "snippet": "",
+          "url": "https://www.radiopax.com/criancas-na-presidencia-da-camara-de-moura/",
+          "source": "Rádio Pax"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -115,7 +171,7 @@
     },
     {
       "title": "fertagus",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 27 Jan 2026 20:20:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUjuTpMcY6MchlMUOoDDuNLpMXKJ0Bfu56QaY4W42ELgLm_KjAUsyI_LFIijE",
       "pictureSource": "SAPO",
@@ -142,36 +198,36 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "tempo leiria",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 27 Jan 2026 20:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCY4RvOlI35_kOC0egpcNFujaLzmwK4Iho6ju2fLMJGr9U5B9Klh1IPgtnCH4",
-      "pictureSource": "SAPO",
+      "title": "leiria",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 27 Jan 2026 20:20:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTB1ne4qeehtm3Za9ZLiLTNGztvG6XKXw5jIEoQ6VbpQ_QPGH-AQLF3erhrIzY",
+      "pictureSource": "coimbra.pt",
       "relatedSearch": [
         {
-          "title": "Aviso à População para Precipitação Precipitação, por vezes…",
+          "title": "Ativado Plano Municipal de Emergência em Coimbra",
           "snippet": "",
-          "url": "https://sapo.pt/artigo/aviso-a-populacao-para-precipitacao-precipitacao-por-vezes-6978fb5505baa009b0e626e0",
+          "url": "https://www.coimbra.pt/2026/01/ativado-plano-municipal-de-emergencia-em-coimbra/",
+          "source": "coimbra.pt"
+        },
+        {
+          "title": "Enchente no rio Mondego está a provocar inundações em Coimbra",
+          "snippet": "",
+          "url": "https://sicnoticias.pt/meteorologia/2026-01-27-video-enchente-no-rio-mondego-esta-a-provocar-inundacoes-em-coimbra-0204346b",
+          "source": "SIC Notícias"
+        },
+        {
+          "title": "Coimbra sob ameaça de tempestade que pode ser pior que o Furacão Leslie",
+          "snippet": "",
+          "url": "https://sapo.pt/artigo/coimbra-sob-ameaca-de-tempestade-que-pode-ser-pior-que-o-furacao-leslie-69794240fa3dc98528ed4823",
           "source": "SAPO"
-        },
-        {
-          "title": "Portalegre sob aviso laranja devido a rajadas de vento que podem atingir 120 km/h",
-          "snippet": "",
-          "url": "https://radioportalegre.pt/portalegre-sob-aviso-laranja-devido-a-rajadas-de-vento-que-podem-atingir-120-km-h/",
-          "source": "Rádio Portalegre"
-        },
-        {
-          "title": "Mau tempo previsto para as primeiras horas de quarta-feira",
-          "snippet": "",
-          "url": "https://www.cm-leiria.pt/municipio/comunicacao/noticias/noticia/mau-tempo-previsto-para-as-primeiras-horas-de-quarta-feira",
-          "source": "Câmara Municipal de Leiria"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "cm tv",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 27 Jan 2026 20:10:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYXbv1T9t0xfcANa-GRcUhEfQXUI3ZS0nC9HtzAr0F9Z-XB2uOkYmAKszTmLA",
       "pictureSource": "Portal Impala",
@@ -198,85 +254,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "observador",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 27 Jan 2026 20:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbJqLgeH_iXMXMD6wiIZ6EGPcvu-Pf7snwqG-icxQSQ2c49L8H70M8xRaEsKQ",
-      "pictureSource": "Expresso",
-      "relatedSearch": [
-        {
-          "title": "Os apoios e as isenções partidárias a António José Seguro e André Ventura",
-          "snippet": "",
-          "url": "https://expresso.pt/podcasts/linhas-vermelhas/2026-01-27-os-apoios-e-as-isencoes-partidarias-a-antonio-jose-seguro-e-andre-ventura-07e197ab",
-          "source": "Expresso"
-        },
-        {
-          "title": "De Portas a Núncio: os apoios e não-apoios da direita na segunda volta das presidenciais",
-          "snippet": "",
-          "url": "https://sicnoticias.pt/podcasts/linhas-vermelhas/2026-01-27-de-portas-a-nuncio-os-apoios-e-nao-apoios-da-direita-na-segunda-volta-das-presidenciais-6ca2c1d5",
-          "source": "SIC Notícias"
-        },
-        {
-          "title": "\"CDS está a alimentar o crocodilo na esperança de ser o último a ser comido\"",
-          "snippet": "",
-          "url": "https://cnnportugal.iol.pt/videos/cds-esta-a-alimentar-o-crocodilo-na-esperanca-de-ser-o-ultimo-a-ser-comido/69753ca70cf2d7f14f26f5c5",
-          "source": "CNN Portugal"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "cnn",
+      "title": "tempo leiria",
       "trafficCount": "200+",
-      "pubDate": "Tue, 27 Jan 2026 20:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTivt6eXxcXZAcS8h4vsXABw8yTjAZZ-osAt7GiaWjrAAQ3AuWwYwJaFeXajlg",
-      "pictureSource": "CNN",
+      "pubDate": "Tue, 27 Jan 2026 20:10:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCY4RvOlI35_kOC0egpcNFujaLzmwK4Iho6ju2fLMJGr9U5B9Klh1IPgtnCH4",
+      "pictureSource": "SAPO",
       "relatedSearch": [
         {
-          "title": "Top White House aide Stephen Miller acknowledges possible breach of protocol before Alex Pretti’s shooting",
+          "title": "Aviso à População para Precipitação Precipitação, por vezes…",
           "snippet": "",
-          "url": "https://www.cnn.com/2026/01/27/politics/stephen-miller-alex-pretti-trump",
-          "source": "CNN"
-        },
-        {
-          "title": "Scoop: Stephen Miller behind misleading claim that Alex Pretti wanted to \"massacre\" agents",
-          "snippet": "",
-          "url": "https://www.axios.com/2026/01/27/trump-stephen-miller-massacre-minnesota-shooting",
-          "source": "Axios"
-        },
-        {
-          "title": "Even Stephen Miller is jumping on CBP for the killing of Alex Pretti",
-          "snippet": "",
-          "url": "https://www.politico.com/news/2026/01/27/stephen-miller-cbp-alex-pretti-00751583",
-          "source": "Politico"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "notícia",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 27 Jan 2026 20:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3sO4v8cMdiiBHbfOfWP43JJJu585o2jHUv01PuCjgl_kqf6GmfEzRjCShPq4",
-      "pictureSource": "Diário de Notícias",
-      "relatedSearch": [
-        {
-          "title": "Licenças de armas de fogo para defesa pessoal caíram 95% em dez anos",
-          "snippet": "",
-          "url": "https://www.dn.pt/sociedade/licenas-de-armas-de-fogo-para-defesa-pessoal-caram-95-em-dez-anos",
-          "source": "Diário de Notícias"
-        },
-        {
-          "title": "Licenças de armas de fogo para defesa pessoal quase no zero",
-          "snippet": "",
-          "url": "https://sapo.pt/artigo/licencas-de-armas-de-fogo-para-defesa-pessoal-quase-no-zero-697718720b48d2ea79b570dd",
+          "url": "https://sapo.pt/artigo/aviso-a-populacao-para-precipitacao-precipitacao-por-vezes-6978fb5505baa009b0e626e0",
           "source": "SAPO"
         },
         {
-          "title": "Hoje é notícia: Exorcismos em Fátima; Licenças de armas caíram",
+          "title": "Mau tempo previsto para as primeiras horas de quarta-feira",
           "snippet": "",
-          "url": "https://www.noticiasaominuto.com/pais/2926083/hoje-e-noticia-exorcismos-em-fatima-licencas-de-armas-cairam",
-          "source": "Notícias ao Minuto"
+          "url": "https://www.cm-leiria.pt/municipio/comunicacao/noticias/noticia/mau-tempo-previsto-para-as-primeiras-horas-de-quarta-feira",
+          "source": "Câmara Municipal de Leiria"
+        },
+        {
+          "title": "Proteção Civil alerta para vento muito forte no concelho de Gondomar",
+          "snippet": "",
+          "url": "https://www.cm-gondomar.pt/protecao-civil-alerta-para-vento-muito-forte-no-concelho-de-gondomar/",
+          "source": "Câmara Municipal de Gondomar"
         }
       ],
       "link": "https://imtaqin.id/"

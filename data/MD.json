@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-31 12:20:07",
+  "lastUpdate": "2026-01-31 13:12:22",
   "data": [
     {
       "title": "новости молдовы",
@@ -21,10 +21,10 @@
           "source": "Meduza — Новости"
         },
         {
-          "title": "В УКРАИНЕ СОСТОЯЛСЯ БЛЭКАУТ",
+          "title": "На границе Украины и Молдовы приостановлен пропуск транспорта",
           "snippet": "",
-          "url": "https://epravda.com.ua/rus/energetika/v-ukraine-sostoyalsya-blekaut-817350/",
-          "source": "Економічна правда"
+          "url": "https://www.eurointegration.com.ua/rus/news/2026/01/31/7230208/",
+          "source": "Європейська правда"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -67,29 +67,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "stiri",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 31 Jan 2026 01:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwjfLxFZySCyaHcSVAeCHkvagzwz3kBMxA3y-BVZhnSZBWfRn2J-Hy4hlLcdo",
+      "pictureSource": "Digi24",
+      "relatedSearch": [
+        {
+          "title": "Activiștii din SUA au declanșat ofensiva împotriva ICE. Datele a sute de oficiali federali, făcute publice...",
+          "snippet": "",
+          "url": "https://www.digi24.ro/stiri/externe/sua/activistii-din-sua-au-declansat-ofensiva-impotriva-ice-datele-a-sute-de-oficiali-federali-facute-publice-de-hackeri-3608395",
+          "source": "Digi24"
+        },
+        {
+          "title": "Jurnalistul Don Lemon a fost acuzat de infracțiuni federale după un protest anti-ICE la o…",
+          "snippet": "",
+          "url": "https://www.mediafax.ro/stirile-zilei/jurnalistul-don-lemon-a-fost-acuzat-de-infractiuni-federale-dupa-un-protest-anti-ice-la-o-biserica-din-minnesota-23679466",
+          "source": "Mediafax"
+        },
+        {
+          "title": "Mulțimi masive de protestatari și studenți care boicotau cursurile au protestat împotriva ICE în Statele Unite.",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/ro/bien-nguoi-bieu-tinh-va-sinh-vien-bai-khoa-phan-doi-ice-tren-khap-nuoc-my",
+          "source": "Vietnam.vn"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "deconectari de lumina",
       "trafficCount": "1000+",
       "pubDate": "Sat, 31 Jan 2026 00:50:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHUDO8aK91Tfph1VtFn8M89DEgAFxdyy3p2idUmPaLuVcgtWjJJAdeS-Z-tHc",
-      "pictureSource": "Radio Moldova",
+      "pictureSource": "Moldova 1",
       "relatedSearch": [
         {
-          "title": "Pană masivă de curent în R. Moldova, din cauza avarieri grave ale rețelei electrice din Ucraina",
+          "title": "(FOTO/VIDEO) Pană masivă de curent în R. Moldova. Ministrul Energiei: „Procesul de realimentare cu energie electrică se află într-o fază avansată”",
           "snippet": "",
-          "url": "https://radiomoldova.md/p/68824/in-mai-multe-regiuni-din-tara-inclusiv-la-chisinau-sunt-deconectari-de-la-energia-electrica",
-          "source": "Radio Moldova"
-        },
-        {
-          "title": "Deconectări de la energia electrică în mai multe regiuni din țară, inclusiv în capitală",
-          "snippet": "",
-          "url": "https://moldova1.md/p/67741/deconectari-de-la-energia-electrica-in-mai-multe-regiuni-din-tara-inclusiv-in-capitala",
+          "url": "https://moldova1.md/p/67741/-foto-video-pana-masiva-de-curent-in-r-moldova-ministrul-energiei--procesul-de-realimentare-cu-energie-electrica-se-afla-intr-o-faza-avansata-",
           "source": "Moldova 1"
         },
         {
-          "title": "/VIDEO/ Blackout parțial în Moldova: Ministrul Energiei explică de ce s-a stins lumina",
+          "title": "Pană de curent în mai multe zone din țară: „Din cauza problemelor grave în reţeaua electrică din Ucraina, a căzut tensiunea pe linia Isaccea-Vulcăneşti-MGRES”",
           "snippet": "",
-          "url": "https://tv8.md/2026/01/31/video-blackout-partial-in-moldova-ministrul-energiei-explica-de-ce-s-a-stins-lumina/296494",
-          "source": "TV8.md"
+          "url": "https://www.zdg.md/stiri/pana-de-curent-in-mai-multe-zone-din-tara-din-cauza-problemelor-grave-in-reteaua-electrica-din-ucraina-a-cazut-tensiunea-pe-linia-isaccea-vulcanesti-mgres/",
+          "source": "Ziarul de Gardă"
+        },
+        {
+          "title": "Pană majoră de electricitate în Republica Moldova",
+          "snippet": "",
+          "url": "https://logos-pres.md/noutati/in-moldova-a-avut-loc-o-pana-masiva-de-curent/",
+          "source": "logos-pres.md"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -98,26 +126,26 @@
       "title": "weather",
       "trafficCount": "100+",
       "pubDate": "Fri, 30 Jan 2026 22:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_yD9rlefpZ00rOzZmRfvQmMgJ7r5tlZhnd7oJZZAFQcrPPmyNW_6-mZre3Gs",
-      "pictureSource": "13WMAZ",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7UZDONPwccu0whEiOIAUG9tfC_LEBwJVfeTVRRi1s9mh3QtNCp5i5T-PiMN4",
+      "pictureSource": "Live 5 News",
       "relatedSearch": [
         {
-          "title": "LIVE | Weather Impact Alert: Meteorologist Ansley Parker breaks down snow chances for today",
+          "title": "SHOW US: Post your winter weather photos here",
           "snippet": "",
-          "url": "https://www.13wmaz.com/video/news/live_breaking/live-weather-impact-alert-meteorologist-ansley-parker-breaks-down-snow-chances-for-today/93-6b4a1e49-890c-4bd4-9b95-1fb73ff8f6d2",
-          "source": "13WMAZ"
+          "url": "https://www.live5news.com/2026/01/31/show-us-post-your-winter-weather-photos-here/",
+          "source": "Live 5 News"
         },
         {
-          "title": "Saturday's 'powdery' in Georgia is not typical for the south",
+          "title": "SEND IT TO 10: Share any snow or winter weather photos here",
           "snippet": "",
-          "url": "https://www.11alive.com/article/weather/weather-impact/saturdays-powdery-in-georgia-is-not-typical-for-the-south/85-45fdde3e-e064-423a-8933-0f7a5200a4b2",
-          "source": "11Alive.com"
+          "url": "https://www.wistv.com/2026/01/30/send-it-10-share-any-snow-or-winter-weather-photos-here/",
+          "source": "WIS News 10"
         },
         {
-          "title": "As another storm approaches, metro Atlanta must stay on top of winter preparations",
+          "title": "Snow Photos: Here's how to share your images with WJCL 22 News",
           "snippet": "",
-          "url": "https://www.atlantanewsfirst.com/2026/01/31/another-storm-approaches-metro-atlanta-must-stay-top-winter-preparations/",
-          "source": "Atlanta News First"
+          "url": "https://www.wjcl.com/article/savannah-georgia-snow-photos-videos/70202387",
+          "source": "WJCL"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -136,16 +164,16 @@
           "source": "The New York Times"
         },
         {
-          "title": "From Home Alone to Schitt’s Creek: how Catherine O’Hara became an unforgettable comedy star",
+          "title": "Opinion: Remembering Catherine O'Hara",
           "snippet": "",
-          "url": "https://www.telegraph.co.uk/films/0/catherine-o-hara/",
-          "source": "The Telegraph"
+          "url": "https://www.npr.org/2026/01/31/nx-s1-5687210/opinion-remembering-catherine-ohara",
+          "source": "NPR"
         },
         {
-          "title": "Eugene Levy and Dan Levy Remember Schitt's Creek Costar Catherine O'Hara",
+          "title": "Macaulay Culkin mourns 'Home Alone' mom Catherine O'Hara with heartfelt message",
           "snippet": "",
-          "url": "https://people.com/eugene-levy-dan-levy-remember-schitts-creek-costar-catherine-o-hara-11896436",
-          "source": "People.com"
+          "url": "https://www.foxnews.com/entertainment/macaulay-culkin-mourns-home-alone-mom-catherine-ohara-heartfelt-message",
+          "source": "Fox News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -182,20 +210,20 @@
       "title": "al kholood - al-nassr",
       "trafficCount": "100+",
       "pubDate": "Fri, 30 Jan 2026 11:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRu94EDH-ZT5BqBjWD_T9fh9o23MKxnQvp5Xggy5tpJYrPiwsxnDVO5N77hYiU",
-      "pictureSource": "Evrim Ağacı",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVTVh9q4o1As1PXI6--xt67Ipvx5qAHaowqIMIgQ1SzWnNgyjz6za81waYN0U",
+      "pictureSource": "www.ysscores.com",
       "relatedSearch": [
-        {
-          "title": "Ronaldo Leads Al Nassr To Commanding Win Over Al Kholood",
-          "snippet": "",
-          "url": "https://evrimagaci.org/gpt/ronaldo-leads-al-nassr-to-commanding-win-over-al-kholood-526168",
-          "source": "Evrim Ağacı"
-        },
         {
           "title": "Jesus: We Will Compete for the League Title Until the Last Moment",
           "snippet": "",
           "url": "https://www.ysscores.com/en/news/13901530/Jesus:-We-Will-Compete-for-the-League-Title-Until-the-Last-Moment",
           "source": "www.ysscores.com"
+        },
+        {
+          "title": "Ronaldo Leads Al Nassr To Commanding Win Over Al Kholood",
+          "snippet": "",
+          "url": "https://evrimagaci.org/gpt/ronaldo-leads-al-nassr-to-commanding-win-over-al-kholood-526168",
+          "source": "Evrim Ağacı"
         },
         {
           "title": "'Above all, I want to be champion' - star man Joao Felix fires Al Nassr title hopes",
@@ -220,16 +248,16 @@
           "source": "Sportbox"
         },
         {
-          "title": "«Аль-Наср» обыграл «Аль-Холуд» в матче Про-Лиги, победный гол на счету Криштиану Роналду",
-          "snippet": "",
-          "url": "https://www.championat.ru/football/news-6338438-al-holud-al-nasr-rezultat-matcha-30-yanvarya-2026-schet-0-3-19-j-tur-pro-ligi-2025-2026.html",
-          "source": "https://www.championat.ru/"
-        },
-        {
           "title": "Роналду забил 961-й карьерный гол и помог коллегам разгромить соперника",
           "snippet": "",
           "url": "https://www.zakon.kz/sport/6506292-ronaldu-zabil-961y-karernyy-gol-i-pomog-kollegam-razgromit-sopernika.html",
           "source": "Новости Zakon.kz"
+        },
+        {
+          "title": "«Аль-Наср» обыграл «Аль-Холуд» в матче Про-Лиги, победный гол на счету Криштиану Роналду",
+          "snippet": "",
+          "url": "https://www.championat.ru/football/news-6338438-al-holud-al-nasr-rezultat-matcha-30-yanvarya-2026-schet-0-3-19-j-tur-pro-ligi-2025-2026.html",
+          "source": "https://www.championat.ru/"
         }
       ],
       "link": "https://imtaqin.id/"

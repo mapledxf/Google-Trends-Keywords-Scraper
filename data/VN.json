@@ -1,37 +1,149 @@
 {
-  "lastUpdate": "2026-02-02 23:14:50",
+  "lastUpdate": "2026-02-02 23:45:30",
   "data": [
     {
-      "title": "porto",
+      "title": "날씨",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 2 Feb 2026 15:30:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRdxd-tDS2hGVLiUuBvGM3BBZOZ3syqY1HTlk8fzXwLubYfBNWJxH9NZLsXTU",
+      "pictureSource": "시선뉴스",
+      "relatedSearch": [
+        {
+          "title": "02월 03일 화요일, 오늘의 날씨와 미세먼지 농도 [인포그래픽]",
+          "snippet": "",
+          "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=234137",
+          "source": "시선뉴스"
+        },
+        {
+          "title": "입춘 하루 앞두고 기온 오름세…오늘 낮 기온 3∼10도까지",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20260203025300530",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "울산, 대체로 맑음…최저 영하 5도·최고 9도",
+          "snippet": "",
+          "url": "https://www.newsis.com/view/NISX20260202_0003499780",
+          "source": "뉴시스"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "teams",
       "trafficCount": "100+",
+      "pubDate": "Mon, 2 Feb 2026 15:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdpng21cV0vsl4JTeJIwNENsVMgZpE9Xa6mqpilXVlErayuT_c19xPqcKEqS4",
+      "pictureSource": "ESPN",
+      "relatedSearch": [
+        {
+          "title": "Sources: At least 6 teams to leave Main Street Sports, join MLB",
+          "snippet": "",
+          "url": "https://www.espn.com/mlb/story/_/id/47809528/sources-least-5-teams-leave-main-street-sports-join-mlb",
+          "source": "ESPN"
+        },
+        {
+          "title": "St. Louis Cardinals one of several teams leaving FanDuel SN for MLB’s broadcast group",
+          "snippet": "",
+          "url": "https://www.nytimes.com/athletic/7010724/2026/02/02/cardinals-mlb-broadcast-fanduel-sports-network/",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Reds games will be produced, distributed by MLB in 2026",
+          "snippet": "",
+          "url": "https://www.mlb.com/news/reds-games-mlb-distribution-2026",
+          "source": "MLB.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "dự báo thời tiết hôm nay",
+      "trafficCount": "2000+",
+      "pubDate": "Mon, 2 Feb 2026 15:10:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pl4TX7Qyfs5V7m1IXDz44NA-BTPkW-a4ERddLr26ozkyI38TA1WW7DxcnDA",
+      "pictureSource": "Laodong.vn",
+      "relatedSearch": [
+        {
+          "title": "Dự báo số đợt không khí lạnh sắp đến trong tháng 2 và diễn biến rét đậm",
+          "snippet": "",
+          "url": "https://laodong.vn/moi-truong/du-bao-so-dot-khong-khi-lanh-sap-den-trong-thang-2-va-dien-bien-ret-dam-1650341.ldo",
+          "source": "Laodong.vn"
+        },
+        {
+          "title": "Bắc Bộ sương mù trời rét, Nam Bộ nắng oi - Báo Công an Nhân dân điện tử",
+          "snippet": "",
+          "url": "https://cand.com.vn/Xa-hoi/bac-bo-suong-mu-troi-ret-nam-bo-nang-oi-i796015/",
+          "source": "Công an Nhân dân"
+        },
+        {
+          "title": "Miền Bắc trải qua mùa đông ấm hiếm thấy, Tết Nguyên đán ít rét đậm",
+          "snippet": "",
+          "url": "https://www.24h.com.vn/tin-tuc-trong-ngay/mien-bac-trai-qua-mua-dong-am-hiem-thay-tet-nguyen-dan-it-ret-dam-c46a1734644.html",
+          "source": "Tin tức 24h"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "iran",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 2 Feb 2026 15:10:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSSXLaa_dTMbk5o1_JABdfbCCi235xGkhBYqb0rxolAfcfSS1gJDwgHTciVbWQ",
+      "pictureSource": "Báo Dân trí",
+      "relatedSearch": [
+        {
+          "title": "Tổng thống Trump: Các tàu lớn và mạnh nhất thế giới đang áp sát Iran",
+          "snippet": "",
+          "url": "https://dantri.com.vn/the-gioi/tong-thong-trump-cac-tau-lon-va-manh-nhat-the-gioi-dang-ap-sat-iran-20260202055817539.htm",
+          "source": "Báo Dân trí"
+        },
+        {
+          "title": "Thổ Nhĩ Kỳ thúc đẩy đàm phán Mỹ - Iran giữa lúc căng thẳng leo thang ở Trung Đông",
+          "snippet": "",
+          "url": "https://vov.vn/the-gioi/tho-nhi-ky-thuc-day-dam-phan-my-iran-giua-luc-cang-thang-leo-thang-o-trung-dong-post1266246.vov",
+          "source": "VOV"
+        },
+        {
+          "title": "Thế giới hôm nay: 02/02/2026",
+          "snippet": "",
+          "url": "https://nghiencuuquocte.org/2026/02/02/the-gioi-hom-nay-02-02-2026/",
+          "source": "Nghiên cứu quốc tế"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "porto",
+      "trafficCount": "200+",
       "pubDate": "Mon, 2 Feb 2026 14:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ753Es8nMPFYVBxs_TfRjuNbyHbalCHb6qYjg5LhmK6McQQPnZ1jPKH_bNp-M",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7p3UhUmjoMaEwebOpeo2xqFcnDjFJQesTAO8Ucssyz5DJ8Z4NmhEZQNQAbsA",
       "pictureSource": "OneFootball",
       "relatedSearch": [
         {
-          "title": "Ainda sem pensar no clássico: O onze provável do FC Porto frente ao Casa Pia",
+          "title": "😯 Thiago Silva marca contra, e FC Porto perde a primeira em Portugal",
           "snippet": "",
-          "url": "https://onefootball.com/en/news/ainda-sem-pensar-no-classico-o-onze-provavel-do-fc-porto-frente-ao-casa-pia-42344018",
+          "url": "https://onefootball.com/pt-br/noticias/thiago-silva-marca-contra-e-fc-porto-perde-a-primeira-em-portugal-42349058",
           "source": "OneFootball"
         },
         {
-          "title": "AO VIVO: Borja Sainz escorrega no momento de finalizar na pequena área (06')",
+          "title": "Casa Pia errou pouco e assim virou o mundo ao contrário (crónica)",
           "snippet": "",
-          "url": "https://www.flashscore.pt/noticias/futebol-liga-portugal-betclic-ao-vivo-borja-sainz-escorrega-no-momento-de-finalizar-na-pequena-area-06/f5M52g7t/",
-          "source": "Flashscore.pt"
+          "url": "https://www.abola.pt/noticias/casa-pia-errou-pouco-e-assim-virou-o-mundo-ao-contrario-cronica-2026020221421595846",
+          "source": "A Bola"
         },
         {
-          "title": "As mãos de ferro de Patrick Sequeira (as notas do Casa Pia)",
+          "title": "O onze do F. C. Porto sem Froholdt para o duelo contra o Casa Pia",
           "snippet": "",
-          "url": "https://www.abola.pt/noticias/as-maos-de-ferro-de-patrick-sequeira-as-notas-do-casa-pia-2026020211165689894",
-          "source": "A Bola"
+          "url": "https://www.jn.pt/desporto/artigo/o-onze-do-f-c-porto-sem-froholdt-para-o-duelo-contra-o-casa-pia/18047586",
+          "source": "Jornal de Notícias"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "casa pia đấu với porto",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 2 Feb 2026 13:30:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPvvid_2IumCTYxKuu_Wofgf7VMx8ZO5D3hZbje_YEKcO9FKLucBd6O78KzkY",
       "pictureSource": "Bongdaplus",
@@ -59,7 +171,7 @@
     },
     {
       "title": "cúp liên đoàn anh",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 2 Feb 2026 12:50:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSoubBnJXiJOf3YFW2CsMIFKOTEVF2fDzGdwH5hjO35m24LixDTdsOZSlmxQ04",
       "pictureSource": "Tin tức 24h",
@@ -71,16 +183,44 @@
           "source": "Tin tức 24h"
         },
         {
+          "title": "Arteta: 'Cup Liên đoàn đang là đấu trường quan trọng nhất'",
+          "snippet": "",
+          "url": "https://vnexpress.net/arteta-cup-lien-doan-dang-la-dau-truong-quan-trong-nhat-5013300.html",
+          "source": "VnExpress"
+        },
+        {
           "title": "Nhận định bóng đá Arsenal vs Chelsea tại Carabao Cup",
           "snippet": "",
           "url": "https://laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-arsenal-vs-chelsea-tai-carabao-cup-1650431.ldo",
           "source": "Laodong.vn"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "sevilla",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 2 Feb 2026 12:20:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTci-XxVcicAp4uH0gfBRuHpNxPdTa3-aTlPgDkGtWruz45vgJKSkY2rFC-MCA",
+      "pictureSource": "dsports",
+      "relatedSearch": [
+        {
+          "title": "EN VIVO: 3-1. Mallorca pisa fuerte en el estadio Mallorca Son Moix y vuelve a anotar",
+          "snippet": "",
+          "url": "https://www.directvsports.com/futbol/en-vivo-3-1.-mallorca-pisa-fuerte--en-el-estadio-mallorca-son-moix-y-vuelve-a-anotar--20260130-0012.html",
+          "source": "dsports"
         },
         {
-          "title": "Lịch thi đấu bóng đá hôm nay ngày 3/2/2026",
+          "title": "El análisis de Palop del Mallorca - Sevilla: «Dura derrota en un partido de necesidades»",
           "snippet": "",
-          "url": "https://bnews.vn/lich-thi-dau-bong-da-hom-nay-ngay-3-2-2026/407111.html",
-          "source": "Bnews.vn"
+          "url": "https://www.abc.es/deportes/orgullodenervion/noticias-sevilla-fc/analisis-palop-mallorca-sevilla-20260203000023-nts.html",
+          "source": "ABC"
+        },
+        {
+          "title": "Resumen Mallorca-Sevilla: Duro correctivo para salir del descenso (4-1)",
+          "snippet": "",
+          "url": "https://espanol.eurosport.com/futbol/la-liga/2025-2026/la-liga-2025-2026-mallorca-sevilla-video-resumen-resultado-goles-y-mejores-momentos-del-partido-jornada-22-hoy_vid60052194/video.shtml",
+          "source": "TNT Sports"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -114,157 +254,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "sevilla",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 2 Feb 2026 12:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWZiaY4xo7S2Xci7Z46zNF-WDGvEvS6YSMHsiMQa6wozjVrEKFYVBdnLGRx_U",
-      "pictureSource": "Infobae",
-      "relatedSearch": [
-        {
-          "title": "(Crónica) El Mallorca sale del descenso a costa del Sevilla y mete al Rayo en peligro",
-          "snippet": "",
-          "url": "https://www.infobae.com/america/agencias/2026/02/02/cronica-el-mallorca-sale-del-descenso-a-costa-del-sevilla-y-mete-al-rayo-en-peligro/",
-          "source": "Infobae"
-        },
-        {
-          "title": "Aprobados y suspensos del Mallorca: goleada balsámica",
-          "snippet": "",
-          "url": "https://as.com/futbol/aprobados-y-suspensos-del-mallorca-goleada-balsamica-f202602-n/",
-          "source": "Diario AS"
-        },
-        {
-          "title": "Resumen Mallorca-Sevilla: Duro correctivo para salir del descenso (4-1)",
-          "snippet": "",
-          "url": "https://espanol.eurosport.com/futbol/la-liga/2025-2026/la-liga-2025-2026-mallorca-sevilla-video-resumen-resultado-goles-y-mejores-momentos-del-partido-jornada-22-hoy_vid60052194/video.shtml",
-          "source": "TNT Sports"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "h",
       "trafficCount": "100+",
       "pubDate": "Mon, 2 Feb 2026 12:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOuxq0dsx4s4f0mLTVB4djdsg7AnKpLRvWEc1T5pIpfCMm1wxDYunmEgml6SA",
-      "pictureSource": "Fightful",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQurGOz_OoAv7YJwlotiEDZTLmvdaIP3V07UskQY55k9LuRtqkVLwIUZHtPCjM",
+      "pictureSource": "Yahoo",
       "relatedSearch": [
         {
-          "title": "Crowd At WWE Royal Rumble Post-Show Chants 'We Want Vince' While Triple H Was On Stage",
+          "title": "Huge Update On AJ Styles’ Potential WWE Retirement",
           "snippet": "",
-          "url": "https://www.fightful.com/wrestling/crowd-at-wwe-royal-rumble-post-show-chants-we-want-vince-while-triple-h-was-on-stage/",
-          "source": "Fightful"
+          "url": "https://www.yahoo.com/news/videos/huge-aj-styles-potential-wwe-223314538.html",
+          "source": "Yahoo"
         },
         {
-          "title": "Internal Reaction to “We Want Vince” Chants at Triple H During 2026 Royal Rumble",
+          "title": "AJ Styles and Gunther face off before huge bout at Royal Rumble: SmackDown highlights, Jan. 30, 2026",
           "snippet": "",
-          "url": "https://www.ringsidenews.com/internal-reaction-we-want-vince-chants-triple-h-during-2026-royal-rumble/",
-          "source": "Ringside News"
+          "url": "https://www.wwe.com/videos/aj-styles-and-gunther-face-off-before-huge-bout-at-royal-rumble-smackdown-highlights-jan-30",
+          "source": "WWE"
         },
         {
-          "title": "Triple H Greeted With “We Want Vince” Chants at WWE Royal Rumble Post Show",
+          "title": "AJ Styles Loses 'Career Threatening' Match vs. Gunther at Royal Rumble After Retirement Reveal",
           "snippet": "",
-          "url": "https://411mania.com/wrestling/triple-h-we-want-vince-chants-wwe-royal-rumble-2026/",
-          "source": "411MANIA"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "l",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 2 Feb 2026 12:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgMipyzI7dWpSTA_j7Cr9zrGcaFD7RWwFxSLyshM3jewxwqPHv8LUN0yrtDDQ",
-      "pictureSource": "Zwick and Jahn Funeral Homes",
-      "relatedSearch": [
-        {
-          "title": "Rev. Gareth L. Wiederkehr Obituary January 31, 2026",
-          "snippet": "",
-          "url": "https://www.zwickjahn.com/obituaries/rev-gareth-wiederkehr",
-          "source": "Zwick and Jahn Funeral Homes"
-        },
-        {
-          "title": "Kevin L. Sheridan Obituary February 1, 2026",
-          "snippet": "",
-          "url": "https://www.waterburyfuneralserviceinc.com/obituaries/kevin-sheridan",
-          "source": "Waterbury Funeral Service"
-        },
-        {
-          "title": "Terry L. Colson Sr., obituary",
-          "snippet": "",
-          "url": "https://www.penbaypilot.com/article/terry-l-colson-sr-obituary/266901",
-          "source": "PenBay Pilot"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "momo",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 2 Feb 2026 12:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2CP_5j9_d8dWUvgACFyBN0pZsP7h-ssmokJPkMv_imqi-l2ZoI-zVPxJLWOc",
-      "pictureSource": "Times of India",
-      "relatedSearch": [
-        {
-          "title": "12-yr-old lured into trading Rs 85L jewellery for ‘unlimited momos’",
-          "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/india/12-yr-old-lured-into-trading-rs-85l-jewellery-for-unlimited-momos/articleshow/127871310.cms",
-          "source": "Times of India"
-        },
-        {
-          "title": "How much would you pay for a plate of momo? For this UP family, it cost them Rs 85 lakh",
-          "snippet": "",
-          "url": "https://m.economictimes.com/news/new-updates/how-much-would-you-pay-for-a-plate-of-momos-for-this-up-family-it-cost-them-rs-85-lakh/articleshow/127858357.cms",
-          "source": "The Economic Times"
-        },
-        {
-          "title": "A 14-year-old boy, who hails from Uttar Pradesh’s Deoria district, allegedly stole jewellery from his own home to feed his addiction to momos.",
-          "snippet": "",
-          "url": "https://www.india.com/news/india/foodie-or-momos-addict-14-year-old-boy-stole-rs-85-lakh-jewellery-from-home-to-eat-this-famous-fast-food-wow-momos-dolma-aunty-momo-8290618/",
-          "source": "India.Com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "b52",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 2 Feb 2026 12:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGHYuksMwBHtgt_xdFY3Lzd_f-rO-URnOXjPhJITeW9MartggGA2TQzZrqjzU",
-      "pictureSource": "JFeed",
-      "relatedSearch": [
-        {
-          "title": "US Deploys B-52 Bomber Refuelers Toward Indian Ocean",
-          "snippet": "",
-          "url": "https://www.jfeed.com/news-world/us-b52-bombers-indian-ocean",
-          "source": "JFeed"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "mallorca đấu với sevilla",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 2 Feb 2026 11:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRj5sHsUonfWjLuhClstf4IDWluwNhmR_ZN6fzqX1D7QtJvZa6x6QBFmal15kY",
-      "pictureSource": "Laodong.vn",
-      "relatedSearch": [
-        {
-          "title": "Nhận định bóng đá Mallorca vs Sevilla tại La Liga",
-          "snippet": "",
-          "url": "https://laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-mallorca-vs-sevilla-tai-la-liga-1650261.ldo",
-          "source": "Laodong.vn"
-        },
-        {
-          "title": "Nhận định Mallorca vs Sevilla - Cuộc chiến sống còn tại Estadi Mallorca Son Moix",
-          "snippet": "",
-          "url": "https://baonghean.vn/nhan-dinh-mallorca-vs-sevilla-cuoc-chien-song-con-tai-estadi-mallorca-son-moix-10322352.html",
-          "source": "baonghean.vn"
-        },
-        {
-          "title": "Nhận định bóng đá Mallorca vs Sevilla, 03h00 ngày 3/2: Những kẻ cùng khổ",
-          "snippet": "",
-          "url": "https://bongdaplus.vn/la-liga/nhan-dinh-bong-da-mallorca-vs-sevilla-03h00-ngay-3-2-nhung-ke-cung-kho-4928342601.html",
-          "source": "Bongdaplus"
+          "url": "https://bleacherreport.com/articles/25365157-aj-styles-loses-career-threatening-match-vs-gunther-royal-rumble-after-retirement-reveal",
+          "source": "Bleacher Report"
         }
       ],
       "link": "https://imtaqin.id/"

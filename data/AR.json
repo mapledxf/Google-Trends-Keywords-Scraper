@@ -1,30 +1,114 @@
 {
-  "lastUpdate": "2026-02-04 09:38:49",
+  "lastUpdate": "2026-02-04 10:22:53",
   "data": [
     {
-      "title": "paro de trenes 5 de febrero",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 4 Feb 2026 01:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ovxWp2ZPe2nnGq2-2lXK5ZShEr6ygMo1DOWASuUgtc1Hhcx0DYJar_aJhZM",
+      "title": "weather",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 4 Feb 2026 01:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJGCsfFPPHb8wQsPU9vrg5fzT2PlaBXiGfrH900ZLwctIsDzSVTpYGKZ9L1CU",
+      "pictureSource": "The Mirror",
+      "relatedSearch": [
+        {
+          "title": "Snow forecast maps reveal 90% of Britain hit by three storms bringing 20 inches",
+          "snippet": "",
+          "url": "https://www.mirror.co.uk/news/uk-news/snow-forecast-maps-reveal-90-36650423",
+          "source": "The Mirror"
+        },
+        {
+          "title": "Met Office and BBC Weather issue verdict on Beast from the East hitting within days",
+          "snippet": "",
+          "url": "https://www.birminghammail.co.uk/news/midlands-news/met-office-bbc-weather-issue-33358654",
+          "source": "Birmingham Live"
+        },
+        {
+          "title": "Snow warning MAPPED as ‘freezing rain’ to hit parts of England tomorrow",
+          "snippet": "",
+          "url": "https://www.thesun.co.uk/news/38110521/snow-warning-freezing-rain-england/",
+          "source": "The Sun"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "clima",
+      "trafficCount": "100000+",
+      "pubDate": "Wed, 4 Feb 2026 01:30:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQErLA84tXOJ3jJvfFeeflmV4nz-ZEjsef-10cEqvXh_5u8mhE0E10Rv-VVWM",
       "pictureSource": "Página|12",
       "relatedSearch": [
         {
-          "title": "Paro de trenes confirmado: este jueves no habrá servicio en 5 líneas del AMBA",
+          "title": "Clima en Buenos Aires: el pronóstico del tiempo para este miércoles 4 de febrero",
           "snippet": "",
-          "url": "https://www.pagina12.com.ar/2026/02/03/paro-de-trenes-confirmado-este-jueves-no-habra-servicio-en-5-lineas-del-amba/",
+          "url": "https://www.pagina12.com.ar/2026/02/04/clima-en-buenos-aires-el-pronostico-del-tiempo-para-este-miercoles-4-de-febrero/",
           "source": "Página|12"
         },
         {
-          "title": "Omar Maturano: “Si el Gobierno no mejora la propuesta, paramos el jueves”",
+          "title": "Clima hoy en Hurlingham, Buenos Aires: el pronóstico del tiempo para este miércoles 4 febrero de 2026",
           "snippet": "",
-          "url": "https://www.perfil.com/noticias/modo-fontevecchia/omar-maturano-y-el-reclamo-salarial-en-los-trenes-si-el-gobierno-no-mejora-la-propuesta-paramos-el-jueves-modof.phtml",
-          "source": "Perfil"
+          "url": "https://www.clarin.com/informacion-general/clima-hoy-hurlingham-buenos-aires-pronostico-tiempo-miercoles-4-febrero-2026_0_DZ0CHtpC51.html",
+          "source": "Clarin.com"
         },
         {
-          "title": "Video Tras la reunión paritaria, ratifican el paro de trenes para este jueves",
+          "title": "Cómo estará el clima hoy, 4 de febrero",
           "snippet": "",
-          "url": "https://www.clarin.com/videos/reunion-paritaria-ratifican-paro-trenes-jueves_3_7pMSy9jz2u.html",
+          "url": "https://www.perfil.com/noticias/clima/calor-intenso-en-el-amba-y-tormentas-fuertes-en-el-centro-del-pais-marcaran-la-jornada-de-este-miercoles-a35.phtml",
+          "source": "Perfil"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tiempo",
+      "trafficCount": "10000+",
+      "pubDate": "Wed, 4 Feb 2026 01:30:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-IjLYNKYZ0DTTpLGlTRXYautatKNwtivYD4Xj6aROBE0blyyduyZSDkU9C0",
+      "pictureSource": "Clarin.com",
+      "relatedSearch": [
+        {
+          "title": "Clima hoy en Tartagal, Salta: el pronóstico del tiempo para este miércoles 4 febrero de 2026",
+          "snippet": "",
+          "url": "https://www.clarin.com/informacion-general/clima-hoy-tartagal-salta-pronostico-tiempo-miercoles-4-febrero-2026_0_UN2l9KVOyv.html",
           "source": "Clarin.com"
+        },
+        {
+          "title": "Clima en Salta: cómo estará el tiempo este miércoles 4 de febrero",
+          "snippet": "",
+          "url": "https://www.cadena3.com/noticia/clima/clima-en-salta-como-estara-el-tiempo-este-miercoles-4-de-febrero_515757",
+          "source": "Cadena 3 Argentina"
+        },
+        {
+          "title": "Volvió el sol, pero hasta cuándo se mantendrá el buen clima",
+          "snippet": "",
+          "url": "https://informatesalta.com.ar/contenido/469421/volvio-el-sol-pero-hasta-cuando-se-mantendra-el-buen-clima",
+          "source": "Informate Salta"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "clima rio cuarto",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 4 Feb 2026 01:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVDv62S8c_D30ngzLASo0quQVFYxYbcVHAf8VYx6NBnevH8fYZR1VpMG8KB7E",
+      "pictureSource": "La Nación",
+      "relatedSearch": [
+        {
+          "title": "Clima en Río Cuarto hoy: cuál es el pronóstico del tiempo para el 3 de febrero de 2026",
+          "snippet": "",
+          "url": "https://www.lanacion.com.ar/clima/cordoba/rio-cuarto/clima-en-rio-cuarto-hoy-cual-es-el-pronostico-del-tiempo-para-el-3-de-febrero-de-2026-nid02022026/",
+          "source": "La Nación"
+        },
+        {
+          "title": "¿Cómo estará el tiempo hoy?",
+          "snippet": "",
+          "url": "https://www.elesquiu.com/sociedad/2026/2/3/como-estara-el-tiempo-hoy-584878.html",
+          "source": "El Esquiu"
+        },
+        {
+          "title": "Jornada calurosa y con nubosidad variable en Río Cuarto",
+          "snippet": "",
+          "url": "https://www.lv16.com.ar/sg/nota-211172/jornada-calurosa-y-con-nubosidad-variable-en-rio-cuarto",
+          "source": "LV16.com.ar"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,9 +117,28 @@
       "title": "clima neuquen",
       "trafficCount": "1000+",
       "pubDate": "Wed, 4 Feb 2026 00:30:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvwAW4HzBOOq3QM3G0W1yUTrmaS_hQcDPDTzEr45uwVTlEbK8d7uG1RwavI5Y",
+      "pictureSource": "Clarin.com",
+      "relatedSearch": [
+        {
+          "title": "Clima hoy en Villa Pehuenia, Neuquén: el pronóstico del tiempo para este miércoles 4 febrero de 2026",
+          "snippet": "",
+          "url": "https://www.clarin.com/informacion-general/clima-hoy-villa-pehuenia-neuquen-pronostico-tiempo-miercoles-4-febrero-2026_0_WqFgJNRQ0I.html",
+          "source": "Clarin.com"
+        },
+        {
+          "title": "Hay alerta amarilla por lluvias para este miércoles 4 de febrero en Neuquén: las zonas afectadas",
+          "snippet": "",
+          "url": "https://tn.com.ar/clima/alertas/2026/02/04/hay-alerta-amarilla-por-lluvias-para-este-miercoles-4-de-febrero-en-neuquen-las-zonas-afectadas/",
+          "source": "TN"
+        },
+        {
+          "title": "Clima en San Martín de los Andes hoy: cuál es el pronóstico del tiempo para el 4 de febrero de 2026",
+          "snippet": "",
+          "url": "https://www.lanacion.com.ar/clima/neuquen/san-martin-de-los-andes/clima-en-san-martin-de-los-andes-hoy-cual-es-el-pronostico-del-tiempo-para-el-4-de-febrero-de-2026-nid03022026/",
+          "source": "La Nación"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -98,13 +201,13 @@
       "title": "fallout",
       "trafficCount": "100+",
       "pubDate": "Tue, 3 Feb 2026 20:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT5L2Y5SsUrtuwqghndRzCQFKFI9BJPnAwbrhFMqpMgHgnh-hhXbDfvIxvB0w",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF6Tw4vWTecy2ml-jqBgziYMOzctyiJaw69UUkgIVJkNIaISbZqOkJrQTmvIE",
       "pictureSource": "IGN",
       "relatedSearch": [
         {
-          "title": "Fallout Season 2 Finale Review",
+          "title": "What is Liberty Prime From the Fallout Games?",
           "snippet": "",
-          "url": "https://www.ign.com/articles/fallout-season-2-finale-review-episode-8",
+          "url": "https://www.ign.com/articles/what-is-liberty-prime-from-the-fallout-games",
           "source": "IGN"
         },
         {
@@ -114,10 +217,10 @@
           "source": "Decider"
         },
         {
-          "title": "Walton Goggins Reacts to the Intense Finale of His Prime Video Sci-Fi Action Epic",
+          "title": "Fallout Season 2 Episode 8 Review: Maximus, My Beloved",
           "snippet": "",
-          "url": "https://collider.com/fallout-season-2-finale-walton-goggins-aaron-moten-cryopod-twist-maximus/",
-          "source": "Collider"
+          "url": "https://fangirlish.com/2026/02/03/fallout-season-2-episode-8-review-the-strip/",
+          "source": "Fangirlish"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -136,16 +239,16 @@
           "source": "El Independiente"
         },
         {
+          "title": "La serie de fantasía histórica más popular de nuestro tiempo abre su último capítulo. Tráiler de la...",
+          "snippet": "",
+          "url": "https://www.espinof.com/trailers/serie-fantasia-historica-popular-nuestro-tiempo-abre-su-ultimo-capitulo-trailer-temporada-8-final-outlander",
+          "source": "Espinof"
+        },
+        {
           "title": "Así insinúan la esperada muerte de Jamie Fraser antes del estreno de la temporada final de Outlander",
           "snippet": "",
           "url": "https://www.antena3.com/objetivotv/series/asi-insinuan-esperada-muerte-jamie-fraser-antes-estreno-temporada-final-outlander_20260130697cbbfb1817b41eb6297639.html",
           "source": "Antena 3"
-        },
-        {
-          "title": "Outlander",
-          "snippet": "",
-          "url": "https://elpais.com/television/series/outlander/",
-          "source": "EL PAÍS"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -154,110 +257,26 @@
       "title": "mavericks - celtics",
       "trafficCount": "500+",
       "pubDate": "Tue, 3 Feb 2026 19:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkO0hrVqhNXpVvcAMt2yLrtRBjzx371dWJ2OpFs1dupHtv7nubgtTLXOweoqw",
-      "pictureSource": "MassLive",
-      "relatedSearch": [
-        {
-          "title": "4 takeaways as Celtics beat Mavericks with new-look lineup after trade",
-          "snippet": "",
-          "url": "https://www.masslive.com/celtics/2026/02/4-takeaways-as-celtics-beat-mavericks-with-new-look-lineup-after-trade.html",
-          "source": "MassLive"
-        },
-        {
-          "title": "Celtics beat Dallas Mavericks in first matchup of season",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/articles/celtics-beat-dallas-mavericks-first-035144160.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Mavericks vs Celtics Preview and Injury Update: Dallas plays Boston at home",
-          "snippet": "",
-          "url": "https://www.mavsmoneyball.com/mavericks-game-previews/55524/mavericks-vs-celtics-preview-start-time-tv-stream-injury-report-how-to-watch",
-          "source": "Mavs Moneyball"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "pistons - nuggets",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 3 Feb 2026 19:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCLDQxBwdy04faBt80Y5UWlVEWeNIi3y5-y-RhirRQVipYKbJmNzovjBxR7Ic",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqIX819lOPe1kITSwgBToY3hUA_rAF0u3eIzOGfAexqXfn8BNOh9bR0ybfq88",
       "pictureSource": "Evrim Ağacı",
       "relatedSearch": [
         {
-          "title": "Pistons Host Nuggets In High-Stakes NBA Showdown Tonight",
+          "title": "Celtics Seek Third Straight Win Against Mavericks In Dallas Showdown",
           "snippet": "",
-          "url": "https://evrimagaci.org/gpt/pistons-host-nuggets-in-highstakes-nba-showdown-tonight-526744",
+          "url": "https://evrimagaci.org/gpt/celtics-seek-third-straight-win-against-mavericks-in-dallas-showdown-526814",
           "source": "Evrim Ağacı"
         },
         {
-          "title": "Pistons vs. Nuggets Discussion: Game Time, TV, Odds, and More",
+          "title": "Cooper Flagg News: Pours in 36 points in loss",
           "snippet": "",
-          "url": "https://www.detroitbadboys.com/detroit-pistons-game-day/49336/pistons-vs-nuggets-discussion-game-time-tv-odds-and-more",
-          "source": "Detroit Bad Boys"
+          "url": "https://www.rotowire.com/basketball/headlines/cooper-flagg-news-pours-in-36-points-in-loss-517300",
+          "source": "RotoWire"
         },
         {
-          "title": "Kalshi Promo Code GOAL: Get $10 in Bonuses for Nuggets vs Pistons Trading",
+          "title": "Jaylen Brown is the Celtics ‘Name to Know’ Player of the Game in Tuesday’s win over Mavericks",
           "snippet": "",
-          "url": "https://www.goal.com/en-us/betting/kalshi-promo-code-goal-get-10-bonuses-nuggets-vs-pistons-prediction-markets-2-3/bltf65885816834a48c",
-          "source": "Goal.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "warriors - 76ers",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 3 Feb 2026 18:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpO2rmm2veYcq6CNWr1GbCyyjS18RmJYnMcsy-GV32luReJbatvVNIjuJbqFA",
-      "pictureSource": "Xinhua",
-      "relatedSearch": [
-        {
-          "title": "NBA: Golden State Warriors vs. Philadelphia 76ers",
-          "snippet": "",
-          "url": "https://english.news.cn/20260204/33a5bc876641415b97805f6e8c536d38/c.html",
-          "source": "Xinhua"
-        },
-        {
-          "title": "Steve Kerr: “I was disappointed with the overall …",
-          "snippet": "",
-          "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/02/04/steve-kerr-i-was-disappointed-with-the-overall/88503916007/",
-          "source": "HoopsHype"
-        },
-        {
-          "title": "‘I trust my work' — Edgecombe bounces back to lead Sixers to win over Warriors",
-          "snippet": "",
-          "url": "https://www.nbcsportsphiladelphia.com/video/nba/philadelphia-76ers/sixers-videos/i-trust-my-work-edgecombe-bounces-back-to-lead-sixers-to-win-over-warriors/711487/",
-          "source": "NBC Sports Philadelphia"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "francella",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 3 Feb 2026 18:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwD7qnhx0SdHZAgY0bMO1spXbwE96FLXASQm7RwOdh8gLaks6-OYpWphcNsGg",
-      "pictureSource": "eltrece",
-      "relatedSearch": [
-        {
-          "title": "Cerrá tus noches con los mejores actores en eltrece: Guillermo Francella, Jason Momoa, Dwayne Johnson y más",
-          "snippet": "",
-          "url": "https://www.eltrecetv.com.ar/cine-trece/2026/02/03/cerra-tus-noches-con-los-mejores-actores-en-eltrece-guillermo-francella-jason-momoa-dwayne-johnson-y-mas/",
-          "source": "eltrece"
-        },
-        {
-          "title": "Actúa Guillermo Francella, se filmó en una isla paradisíaca y es la película que busca repetir el éxito de Homo Argentum",
-          "snippet": "",
-          "url": "https://www.eldestapeweb.com/cultura/cine/actua-guillermo-francella-se-filmo-en-una-isla-paradisiaca-y-es-la-pelicula-que-busca-repetir-el-exito-de-homo-argentum-202622163739",
-          "source": "El Destape"
-        },
-        {
-          "title": "Guillermo Francella protagoniza \"Playa de Lobos\" junto a Dani Rovira",
-          "snippet": "",
-          "url": "https://www.minutouno.com/espectaculos/guillermo-francella-protagoniza-playa-lobos-junto-dani-rovira-n6241942",
-          "source": "MinutoUno"
+          "url": "https://www.masslive.com/celtics/2026/02/jaylen-brown-is-the-celtics-name-to-know-player-of-the-game-in-tuesdays-win-over-mavericks.html",
+          "source": "MassLive"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-02-06 05:34:21",
+  "lastUpdate": "2026-02-06 06:30:14",
   "data": [
     {
       "title": "מזג האוויר",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 5 Feb 2026 21:20:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6syK9xd0GfoAb0PCRNblXKIIyFivdDBEq6STgDI1MgLRbvFi37hwl9QIm2ag",
       "pictureSource": "mako",
@@ -15,16 +15,44 @@
           "source": "mako"
         },
         {
+          "title": "הגשם חוזר לאזור אחד - עם אובך: תחזית מזג אוויר",
+          "snippet": "",
+          "url": "https://www.kipa.co.il/%D7%97%D7%93%D7%A9%D7%95%D7%AA/%D7%AA%D7%97%D7%96%D7%99%D7%AA-%D7%9E%D7%96%D7%92-%D7%94%D7%90%D7%95%D7%95%D7%99%D7%A8/1219164-0/",
+          "source": "כיפה"
+        },
+        {
           "title": "התחזית לסופ\"ש: חם מהרגיל, סיכוי לגשם קל ואובך",
           "snippet": "",
           "url": "https://www.ynet.co.il/news/article/xq7kb38xo",
           "source": "ynet"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "yeoh",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 5 Feb 2026 20:30:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVAso57RNqjfFaehdhosAt2rcwTzDR-X1jvdOREZ05cRIlEK90H4NsoJCtLt8",
+      "pictureSource": "Variety",
+      "relatedSearch": [
+        {
+          "title": "Sean Baker and Michelle Yeoh’s ‘Sandiwara,’ From Self-Portrait Residency Program, to Premiere at Berlin Film Festival",
+          "snippet": "",
+          "url": "https://variety.com/2026/film/festivals/sean-baker-michelle-yeoh-new-film-sandiwara-premiere-berlin-1236653277/",
+          "source": "Variety"
         },
         {
-          "title": "השירות המטאורולוגי מעדכן: \"הסתיימה רשמית\"",
+          "title": "‘Sandiwara’: Sean Baker’s Secret (Short?) Film With Michelle Yeoh To World Premiere At Berlinale 2026 — Shot on an iPhone",
           "snippet": "",
-          "url": "https://www.srugim.co.il/news/1296246",
-          "source": "סרוגים"
+          "url": "https://www.worldofreel.com/blog/2026/2/5/sandiwara-sean-bakers-secret-short-film-with-michelle-yeoh-to-world-premiere-at-berlinale-2026-shot-on-an-iphone",
+          "source": "World of Reel"
+        },
+        {
+          "title": "Sean Baker, Michelle Yeoh’s short film to premiere at Berlin Film Festival",
+          "snippet": "",
+          "url": "https://ruralradio.com/maxcountry/abc_news/sean-baker-michelle-yeohs-short-film-to-premiere-at-berlin-film-festival-abcid43189c19/",
+          "source": "Rural Radio Network"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,15 +89,9 @@
       "title": "הפועל תל אביב כדורסל",
       "trafficCount": "200+",
       "pubDate": "Thu, 5 Feb 2026 13:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDpIqe0ZthNHx2Fj8RzJbRZuvEgX-peHwQsP7nxmEXNpfuqvcwWIHjKz3yMMM",
-      "pictureSource": "ynet",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkDKJHRAp-gPlciWOlg901cFAVdwxPyoemWkmZtXJT3_DlybJax7sFQ8_diWc",
+      "pictureSource": "ONE",
       "relatedSearch": [
-        {
-          "title": "במשבר עמוק: הפועל הפסידה לוולנסיה בהארכה",
-          "snippet": "",
-          "url": "https://www.ynet.co.il/sport/article/one513895",
-          "source": "ynet"
-        },
         {
           "title": "\"הליגה הזו קשה, ידענו שיהיו רגעים לא טובים\"",
           "snippet": "",
@@ -77,10 +99,16 @@
           "source": "ONE"
         },
         {
-          "title": "מעבר לכדורסל: המשבר שעובר על הפועל ת\"א",
+          "title": "\"לשחקני הפועל ת\"א לא היה כוח לסיים את המשחק\" | צפו בפרק",
           "snippet": "",
-          "url": "https://www.sport5.co.il/articles.aspx?FolderID=405&docID=533704",
-          "source": "ספורט 5"
+          "url": "https://www.ynet.co.il/sport/matchup/article/byy4tmmv11x",
+          "source": "ynet"
+        },
+        {
+          "title": "הפועל ת\"א נכנעה לוולנסיה 104:99 בהארכה, הפסד רביעי ברציפות ביורוליג",
+          "snippet": "",
+          "url": "https://www.haaretz.co.il/sport/basketball/2026-02-05/ty-article/0000019c-2fae-de12-ab9e-afff0a920000",
+          "source": "הארץ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -107,7 +135,7 @@
         {
           "title": "MAKE IT MAKE SENSE: American exceptionalism?",
           "snippet": "",
-          "url": "https://the.ink/p/make-it-make-sense-american-exceptionalism",
+          "url": "https://the.ink/p/make-it-make-sense-american-exceptionalism?utm_source=substack&utm_medium=email&utm_content=share&action=share",
           "source": "The.Ink | Anand Giridharadas"
         }
       ],
@@ -117,14 +145,14 @@
       "title": "amazon stock",
       "trafficCount": "1000+",
       "pubDate": "Thu, 5 Feb 2026 13:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFthl22dJH6mjSwmkHtPTaNYvRjCiIbJkCDVFg0WzujbSbMu9WS3qHXEdTWTA",
-      "pictureSource": "Business Wire",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzhyha_M0swH19VmEaVv1UX6tLG8cemAIYHqHADEFapNA2xjQhHQ76qlpQAtw",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
         {
-          "title": "Amazon.com Announces Fourth Quarter Results",
+          "title": "Amazon reveals plans to spend $200bn in one year the day after Bezos guts Washington Post",
           "snippet": "",
-          "url": "https://www.businesswire.com/news/home/20260204777163/en/Amazon.com-Announces-Fourth-Quarter-Results",
-          "source": "Business Wire"
+          "url": "https://www.theguardian.com/technology/2026/feb/05/amazon-ai-robotics-bezos-washington-post",
+          "source": "The Guardian"
         },
         {
           "title": "Amazon stock falls 10% on $200 billion spending forecast, earnings miss",
@@ -155,15 +183,15 @@
           "source": "מועדון הכדורגל מכבי תל אביב"
         },
         {
+          "title": "Sahiti scores two goals for Maccabi Tel Aviv",
+          "snippet": "",
+          "url": "https://www.koha.net/en/futboll/sahiti-shenon-dy-gola-per-maccabi-tel-avivin",
+          "source": "KOHA.net"
+        },
+        {
           "title": "Deila summed up the Cup victory over Jaffa",
           "snippet": "",
           "url": "https://www.maccabi-tlv.co.il/en/2026/02/deila-summed-up-the-cup-victory-over-jaffa/",
-          "source": "מועדון הכדורגל מכבי תל אביב"
-        },
-        {
-          "title": "Sahiti after his brace",
-          "snippet": "",
-          "url": "https://www.maccabi-tlv.co.il/en/2026/02/sahiti-after-his-brace/",
           "source": "מועדון הכדורגל מכבי תל אביב"
         }
       ],
@@ -171,28 +199,28 @@
     },
     {
       "title": "מכ' יפו נגד מכבי ת\"א",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Thu, 5 Feb 2026 12:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWIh6Ktt2_TLlAH864EAMHa8Fen-TTQc6fYIiO9ZPIb1MEvEcwzP1nozjzuHk",
-      "pictureSource": "ספורט 5",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdlXQQHdozrkqPm2rUNTLJBhMM02LMT_gHkROPxb51gbHiImWLfv2M37McjS4",
+      "pictureSource": "ONE",
       "relatedSearch": [
         {
-          "title": "\"דיילה בן אדם. שוב כיף לנו לשחק כדורגל\"",
+          "title": "דיילה נותן אמון בחלוציו וחושף: זו הפילוסופיה",
           "snippet": "",
-          "url": "https://www.sport5.co.il/articles.aspx?FolderID=283&docID=533691",
-          "source": "ספורט 5"
-        },
-        {
-          "title": "\"באתי לקבל הזדמנות, דניאל פרץ עזר לי מאוד\"",
-          "snippet": "",
-          "url": "https://m.one.co.il/mobile/Article/513999.html",
+          "url": "https://www.one.co.il/Article/514011.html?ref=rss",
           "source": "ONE"
         },
         {
-          "title": "מכבי תל אביב הביסה את מכבי יפו 0:5 ועלתה לחצי גמר גביע המדינה",
+          "title": "השפעת העולות במאבק על אירופה ומועד ההגרלה",
           "snippet": "",
-          "url": "https://www.haaretz.co.il/sport/israel-soccer/2026-02-05/ty-article/0000019c-2f3f-de12-ab9e-af7f994b0000",
-          "source": "הארץ"
+          "url": "https://www.sport5.co.il/articles.aspx?FolderID=283&docID=533674",
+          "source": "ספורט 5"
+        },
+        {
+          "title": "דיילה אהב את \"הגישה והתחרות\", סהיטי הודה לדניאל פרץ",
+          "snippet": "",
+          "url": "https://sports.walla.co.il/item/3814578",
+          "source": "וואלה ספורט"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -205,7 +233,7 @@
       "pictureSource": "Sportbox",
       "relatedSearch": [
         {
-          "title": "«Атлетико» переиграл «Бетис» в четвертьфинале Кубка Испании, забив пять мячей",
+          "title": "«Атлетико» разгромил «Бетис» в четвертьфинале Кубка Испании",
           "snippet": "",
           "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/Evropejskie_chempionaty/Ispaniya/Kubok_Ispanii/spbnews_NI2292577_Atletiko_pereigral_Betis_v_chetvertfinale_Kubka_Ispanii_zabiv_pat_machej",
           "source": "Sportbox"
@@ -217,10 +245,10 @@
           "source": "Футбол 24"
         },
         {
-          "title": "Прогноз на матч Бетис – Атлетико. Мадридцы добьются успеха в Севилье",
+          "title": "«Атлетико» одержал рекордно крупную победу в Кубке Испании",
           "snippet": "",
-          "url": "https://meta-ratings.kz/prognozy/futbol/betis-atletiko-prognoz-na-match-kubka-ispanii-4-fevralya-2026-goda/",
-          "source": "Meta-ratings.kz"
+          "url": "https://www.euro-football.ru/article/1003386089/1006120678_atletiko_oderjal_rekordno_krupnuyu_pobedu_v_kubke_ispanii",
+          "source": "Евро-Футбол"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://tmi.maariv.co.il/celebs-news/article-1281633",
           "source": "TMI"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ريال بتيس ضد أتلتيكو مدريد",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 5 Feb 2026 12:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRC5XrzPuU591RUlbR5xmw-LwANRg4jExybjFIddUS4lG1KtXxyimxDtLvyiDs",
-      "pictureSource": "هاي كورة",
-      "relatedSearch": [
-        {
-          "title": "خماسية الأتليتي ضد بيتيس … لا تعني أي شيء",
-          "snippet": "",
-          "url": "https://hihi2.com/2026/02/06/p3637402.html",
-          "source": "هاي كورة"
-        },
-        {
-          "title": "يا لها من ليلة! أديمولا لوكمان يسجل في أول ظهور له مع أتلتيكو مدريد!",
-          "snippet": "",
-          "url": "https://foot-africa.com/ar/news/%D9%8A%D8%A7-%D9%84%D9%87%D8%A7-%D9%85%D9%86-%D9%84%D9%8A%D9%84%D8%A9-%D8%A3%D8%AF%D9%8A%D9%85%D9%88%D9%84%D8%A7-%D9%84%D9%88%D9%83%D9%85%D8%A7%D9%86-%D9%8A%D8%B3%D8%AC%D9%84-%D9%81%D9%8A-%D8%A3%D9%88%D9%84-%D8%B8%D9%87%D9%88%D8%B1-%D9%84%D9%87-%D9%85%D8%B9-%D8%A3%D8%AA%D9%84%D8%AA%D9%8A%D9%83%D9%88-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-1073855/",
-          "source": "Foot Africa"
-        },
-        {
-          "title": "بيليجريني: سيميوني علامة فارقة في الكرة الإسبانية ونسعى للتأهل لنهائي الكأس",
-          "snippet": "",
-          "url": "https://www.filgoal.com/articles/522738/%D8%A8%D9%8A%D9%84%D9%8A%D8%AC%D8%B1%D9%8A%D9%86%D9%8A-%D8%B3%D9%8A%D9%85%D9%8A%D9%88%D9%86%D9%8A-%D8%B9%D9%84%D8%A7%D9%85%D8%A9-%D9%81%D8%A7%D8%B1%D9%82%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A9-%D9%88%D9%86%D8%B3%D8%B9%D9%89-%D9%84%D9%84%D8%AA%D8%A3%D9%87%D9%84-%D9%84%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D8%A7%D9%84%D9%83%D8%A3%D8%B3",
-          "source": "FilGoal.com"
         }
       ],
       "link": "https://imtaqin.id/"

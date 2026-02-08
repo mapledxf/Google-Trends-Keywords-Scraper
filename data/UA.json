@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "2026-02-08 07:50:37",
+  "lastUpdate": "2026-02-08 08:16:25",
   "data": [
     {
       "title": "підбірці",
       "trafficCount": "1000+",
       "pubDate": "Sat, 7 Feb 2026 22:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2TF_Dfw24YfeKkQ3matcIjC-RApZmMYmhp0dOK9fOC-J-V7ku6kfVIT2NfKA",
-      "pictureSource": "Укрінформ",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgWDHirYHGeKhZrQFSckNr4yH7afEmZ5CbQwxwCi9W0aGDfAcX_4UhKUyOIpM",
+      "pictureSource": "NV",
       "relatedSearch": [
         {
-          "title": "У Львові пролунали вибухи",
+          "title": "У Львові пролунали вибухи, Росія атакує місто дронами",
           "snippet": "",
-          "url": "https://www.ukrinform.ua/rubric-regions/4088981-u-lvovi-prolunali-vibuhi.html",
-          "source": "Укрінформ"
+          "url": "https://nv.ua/ukr/ukraine/events/u-lvovi-prolunali-vibuhi-rosiya-atakuye-misto-dronami-50581976.html",
+          "source": "NV"
         },
         {
           "title": "У Львові зрання гримлять вибухи",
@@ -21,10 +21,10 @@
           "source": "ТСН"
         },
         {
-          "title": "У Львові пролунали вибухи, Росія атакує місто дронами",
+          "title": "У Львові пролунали вибухи - ППО знищила ворожі безпілотники",
           "snippet": "",
-          "url": "https://nv.ua/ukr/ukraine/events/u-lvovi-prolunali-vibuhi-rosiya-atakuye-misto-dronami-50581976.html",
-          "source": "NV"
+          "url": "https://www.ukrinform.ua/rubric-regions/4088981-u-lvovi-prolunali-vibuhi.html",
+          "source": "Укрінформ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,20 +61,20 @@
       "title": "масленица 2026",
       "trafficCount": "200+",
       "pubDate": "Sat, 7 Feb 2026 22:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScyAXGyEo56zS0hC1vxEee5qTrb6sVPVNdFkKRUQdKyZyuWZ6D5jPEgZRSMh4",
-      "pictureSource": "GISMETEO.Новости",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs2Un6B4ma48GApU_h4DzVlEU1H64ziW2H0vuCKPkujE4PDgJYIf617sX6A84",
+      "pictureSource": "РБК-Україна",
       "relatedSearch": [
-        {
-          "title": "Опубликованы даты Масленицы, Великого поста и Пасхи в 2026 году",
-          "snippet": "",
-          "url": "https://www.gismeteo.ru/news/society/opublikovany-daty-maslenicy-velikogo-posta-i-pashi-v-2026-godu/",
-          "source": "GISMETEO.Новости"
-        },
         {
           "title": "Пасха 2026: сколько дней осталось и будет ли у украинцев выходной",
           "snippet": "",
           "url": "https://www.rbc.ua/ukr/news/velikden-2026-skilki-dniv-zalishilos-ta-chi-1770369667.html",
           "source": "РБК-Україна"
+        },
+        {
+          "title": "Опубликованы даты Масленицы, Великого поста и Пасхи в 2026 году",
+          "snippet": "",
+          "url": "https://www.gismeteo.ru/news/society/opublikovany-daty-maslenicy-velikogo-posta-i-pashi-v-2026-godu/",
+          "source": "GISMETEO.Новости"
         },
         {
           "title": "Масленица 2026: топ-15 рецептов блинов на молоке, кефире и воде, как правильно готовить",
@@ -89,9 +89,28 @@
       "title": "отключение света днепр",
       "trafficCount": "200+",
       "pubDate": "Sat, 7 Feb 2026 20:00:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSoHptRWGIe1NVtpkoNaDEyNkayzxPXEsz8eU9lPMF0w5E8TtKF12r70upZmsg",
+      "pictureSource": "34 телеканал",
+      "relatedSearch": [
+        {
+          "title": "График отключения света Днепр и Днепропетровская область 8 февраля",
+          "snippet": "",
+          "url": "https://34.ua/hrafyk-otkliuchenyia-sveta-dnepr-y-dnepropetrovskaia-oblast-8-fevralia/",
+          "source": "34 телеканал"
+        },
+        {
+          "title": "Графики отключений света в Каменском на 8 февраля (обновляется)",
+          "snippet": "",
+          "url": "https://nashreporter.com/ru/kommunalka_ru/grafiki-otklyuchenij-sveta-v-kamenskom-na-8-fevralya-obnovlyaetsya-285832",
+          "source": "Наш Репортер"
+        },
+        {
+          "title": "ДТЭК опубликовал графики отключений на 6 февраля для Днепропетровской и Одесской областей",
+          "snippet": "",
+          "url": "https://nv.ua/ukraine/events/otklyuchenie-sveta-6-fevralya-dtek-opublikoval-grafiki-na-pyatnicu-50581439.html",
+          "source": "NV"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -123,9 +142,9 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "графік відключення світла чернівці",
+      "title": "чернівціобленерго",
       "trafficCount": "2000+",
-      "pubDate": "Sat, 7 Feb 2026 15:10:00 -0800",
+      "pubDate": "Sat, 7 Feb 2026 15:50:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAsllB7rSDQ7cOQM-sG1x6eB5wp5pPvPTpLE8qZ5nKPBUxRuXHRcBxiGTh45Y",
       "pictureSource": "UKR.NET",
       "relatedSearch": [
@@ -164,16 +183,16 @@
           "source": "The Guardian"
         },
         {
-          "title": "3 Doors Down singer Brad Arnold dies at 47",
+          "title": "3 Doors Down singer Brad Arnold dies at 47 following cancer diagnosis",
           "snippet": "",
-          "url": "https://abcnews.go.com/GMA/Culture/3-doors-singer-brad-arnold-dies-47/story?id=129953955",
-          "source": "ABC News"
+          "url": "https://www.reuters.com/business/media-telecom/3-doors-down-singer-brad-arnold-dies-47-following-cancer-diagnosis-2026-02-07/",
+          "source": "Reuters"
         },
         {
-          "title": "Oscar Nominee Tapped to Play Lance Armstrong",
+          "title": "Brad Arnold, Rocker Who Fronted 3 Doors Down, Dies at 47",
           "snippet": "",
-          "url": "https://www.thedailybeast.com/3-doors-down-lead-singer-brad-arnold-dies-at-47-after-cancer-battle/",
-          "source": "The Daily Beast"
+          "url": "https://www.nytimes.com/2026/02/07/arts/music/brad-arnold-three-doors-down-dead.html",
+          "source": "The New York Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -188,7 +207,7 @@
         {
           "title": "Snowboarder Kimura Wins Japan's 1st Milan-Cortina Gold",
           "snippet": "",
-          "url": "https://www.nippon.com/en/news/yjj2026020800116/",
+          "url": "https://www.nippon.com/en/news/yjj2026020800116/snowboarder-kimura-wins-japan's-1st-milan-cortina-gold.html",
           "source": "nippon.com"
         },
         {
@@ -226,38 +245,38 @@
           "source": "Zaxid.net"
         },
         {
-          "title": "Олімпійські ігри-2026: повний розклад змагань 7 лютого",
+          "title": "Олімпіада 2026: розклад змагань на 8 лютого – коли виступатимуть українські спортсмени",
           "snippet": "",
-          "url": "https://www.rbc.ua/rus/entertainment/olimpiyski-igri-2026-povniy-rozklad-zmagan-1770447217.html",
-          "source": "РБК-Україна"
+          "url": "https://football24.ua/sport/news/olimpiada-2026-rozklad-zmahan-na-8-lyutoho-koly-vystupatymut-ukrayinski-sportsmeny-925319",
+          "source": "Футбол 24"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "графік на 8 лютого",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 7 Feb 2026 12:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZ8zyrfhjBux_nA0QcyjPXIpfFNGEfKiTmIXIiBEBrG3vPnNrP_3LZf7LIR8o",
-      "pictureSource": "Українська правда",
+      "title": "нант – лион",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 7 Feb 2026 12:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-lwq-8peNcYZQc6A93ylp7_lP-Jlb00f6DKJzwBVrlcPTP51f_ZGTIrO6dq8",
+      "pictureSource": "Tribuna.com",
       "relatedSearch": [
         {
-          "title": "В Киевской области работают 530 \"Пунктов несокрушимости\" из-за сложной энергетической ситуации – ОВА",
+          "title": "«Лион» выиграл 12 матчей подряд, до клубного рекорда – 2 игры",
           "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2026/02/08/8019940/",
-          "source": "Українська правда"
+          "url": "https://ua.tribuna.com/football/1000000317279-lion-vyhrav-12-matchiv-pospil-do-klubnoho-rekordu-2-hry/",
+          "source": "Tribuna.com"
         },
         {
-          "title": "Россия атаковала энергообъекты в восьми областях – \"Укрэнерго\"",
+          "title": "Яремчук получил открытый путь для дебюта в Лионе – \"изгнанник\" Реала удалением едва не сорвал суперсерию Фонсеки",
           "snippet": "",
-          "url": "https://epravda.com.ua/rus/biznes/rossiya-atakovala-energoobekty-v-vosmi-oblastyah-ukrenergo-817647/",
-          "source": "Економічна правда"
+          "url": "https://football24.ua/ru/news/jaremchuk-poluchil-otkrytyj-put-dlja-debjuta-v-lione-izgnannik-reala-udaleniem-edva-ne-sorval-superseriju-fonseki-925322",
+          "source": "Футбол 24"
         },
         {
-          "title": "Отключение света 8 февраля: актуальные графики для всех областей",
+          "title": "Невезение Нанта: три штанги и поражение от Лиона",
           "snippet": "",
-          "url": "https://tsn.ua/ru/ukrayina/otklyuchenie-sveta-8-fevralya-aktualnye-grafiki-dlya-vseh-oblastey-3016868.html",
-          "source": "ТСН"
+          "url": "https://terrikon.com/posts/556041",
+          "source": "Террикон"
         }
       ],
       "link": "https://imtaqin.id/"

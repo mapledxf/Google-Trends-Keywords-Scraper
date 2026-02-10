@@ -1,74 +1,142 @@
 {
-  "lastUpdate": "2026-02-10 08:29:11",
+  "lastUpdate": "2026-02-10 09:32:24",
   "data": [
     {
-      "title": "nrk",
-      "trafficCount": "2000+",
-      "pubDate": "Tue, 10 Feb 2026 00:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2C0rq5out9R43q1Ho5lkGBCdJbN5ltbZX5yAvcqnBXTtXZ7HSR-60fDKzn4U",
-      "pictureSource": "Newsner Norge",
+      "title": "nrk ol",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 10 Feb 2026 01:00:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2_O7ZJ-y7dL09k8XIw2IbgMW8Yg1aK0ynPmvwqfABBW5iwhO1EKq8G-O27nc",
+      "pictureSource": "NRK",
       "relatedSearch": [
         {
-          "title": "NÅ: Marius Borg Høiby er pågrepet igjen",
+          "title": "Hopp: Medaljedraumen knust for Sundal – NRK-ekspert ut mot dømminga – OL Cortina Milano 2026",
           "snippet": "",
-          "url": "https://www.newsner.no/de-kongelige/na-marius-borg-hoiby-er-pagrepet-igjen/",
-          "source": "Newsner Norge"
+          "url": "https://www.nrk.no/ol/hopp_-medaljedraumen-knust-for-sundal-_-nrk-ekspert-ut-mot-domminga-1.17762244",
+          "source": "NRK"
+        },
+        {
+          "title": "(+) En hoppbakke er et stykke anti-natur, akkurat som hoppsporten selv",
+          "snippet": "",
+          "url": "https://www.morgenbladet.no/kultur/en-hoppbakke-er-et-stykke-anti-natur-akkurat-som-hoppsporten-selv/10193612",
+          "source": "Morgenbladet"
+        },
+        {
+          "title": "- Har grått hele dagen",
+          "snippet": "",
+          "url": "https://www.dagbladet.no/sport/har-gratt-hele-dagen/84210794",
+          "source": "Dagbladet"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "nrk sport",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 10 Feb 2026 00:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTknCwMXrZGazE2tv9loKMWZimNAxWedT74mBfFtEPTtLlveUeLN_E5KgieS6c",
+      "pictureSource": "NRK",
+      "relatedSearch": [
+        {
+          "title": "Vonn falt stygt i OL-comebacket: – Utrolig synd",
+          "snippet": "",
+          "url": "https://www.nrk.no/ol/stjernen-falt-stygt-i-ol-loypa_-drommen-knust-etter-13-sekunder-1.17760441",
+          "source": "NRK"
+        },
+        {
+          "title": "nå: Triste bilder: Lindsey Vonn med stygt fall i OL-utforen",
+          "snippet": "",
+          "url": "https://www.vg.no/sport/i/0p4e30/kjempenedtur-for-lindsey-vonn-kjoerte-ut-i-ol-utforen",
+          "source": "VG"
+        },
+        {
+          "title": "Aksel Lund Svindal med avsløring om Lindsey Vonn",
+          "snippet": "",
+          "url": "https://www.nettavisen.no/sport/aksel-lund-svindal-med-avsloring-om-lindsey-vonn/s/5-95-2864034",
+          "source": "Nettavisen"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "sprint ol 2026",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 10 Feb 2026 00:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTw_yj52r8ahPiQz9f7b4PbLIP2zkNAtXu5Qzo5mWRQJ-BH7_truigqymk_ZZQ",
+      "pictureSource": "VG",
+      "relatedSearch": [
+        {
+          "title": "OL-program: Dette skjer i OL tirsdag 10. februar",
+          "snippet": "",
+          "url": "https://www.vg.no/sport/i/8pQm32/ol-program-dette-skjer-i-ol-tirsdag-10-februar",
+          "source": "VG"
+        },
+        {
+          "title": "Siste nytt fra vinter-OL 2026",
+          "snippet": "",
+          "url": "https://www.aftenposten.no/sport/i/WvqP02/siste-nytt-fra-vinter-ol-2026",
+          "source": "Aftenposten"
+        },
+        {
+          "title": "Dette skjer i OL i dag",
+          "snippet": "",
+          "url": "https://www.nettavisen.no/sport/program-dette-skjer-i-ol-tirsdag-10-februar/s/5-95-2872506",
+          "source": "Nettavisen"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "nrk",
+      "trafficCount": "5000+",
+      "pubDate": "Tue, 10 Feb 2026 00:20:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG8TszbzKsbdu26WAsvS4ZO9BfQ_fejATzLlki64Lw7sx0OXwZcaFIF16FSs4",
+      "pictureSource": "Nettavisen",
+      "relatedSearch": [
+        {
+          "title": "– Norges Bank har et alvorlig problem",
+          "snippet": "",
+          "url": "https://www.nettavisen.no/okonomi/sjefokonomer-er-bekymret-etter-ssb-sjokk/s/5-95-2872777",
+          "source": "Nettavisen"
+        },
+        {
+          "title": "Prisene steg 3,6 prosent det siste året: Setter spørsmålstegn ved rentekutt i år",
+          "snippet": "",
+          "url": "https://www.nrk.no/norge/prisene-steg-3_6-prosent-i-januar-1.17762583",
+          "source": "NRK"
+        },
+        {
+          "title": "Overraskende hopp for prisveksten i januar",
+          "snippet": "",
+          "url": "https://e24.no/norsk-oekonomi/i/Gx3a5Q/prisveksten-hoppet-til-3-6-prosent-i-januar",
+          "source": "E24"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "ol",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 10 Feb 2026 00:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS00_wFw5YPED5SYaHpB-xdz6i9tuvkUDc0Z2j0N86ysolj5Rxy6jrWhOAC6ls",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSx_YKBh4V3JM2xIcjLoE4jC7BDCoQrwsHBTcTg0kC6CFEWU36jBudK-6EcAKo",
       "pictureSource": "VG",
       "relatedSearch": [
         {
-          "title": "OL, langrenn-sprint. Stusser på Skistads trøbbel: – Alltid støy rundt henne",
+          "title": "Kristine Stavås Skistad langt bak i prologen: –⁠ Skremmende",
           "snippet": "",
-          "url": "https://www.vg.no/sport/i/vr5Oj5/ol-langrenn-sprint-stusser-paa-skistads-troebbel-alltid-stoey-rundt-henne",
+          "url": "https://www.vg.no/sport/i/K8znye/kristine-stavaas-skistad-langt-bak-i-prologen-skremmende",
           "source": "VG"
-        },
-        {
-          "title": "Sylfrekk melding",
-          "snippet": "",
-          "url": "https://www.dagbladet.no/sport/sylfrekk-melding/84207830",
-          "source": "Dagbladet"
         },
         {
           "title": "OL Milano Cortina: Skistad etter blodig treningsfall: – Jeg fikk en vekker",
           "snippet": "",
           "url": "https://www.nrk.no/ol/ol-milano-cortina_-skistad-etter-blodig-treningsfall_-_-jeg-fikk-en-vekker-1.17762505",
           "source": "NRK"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "kristine stavås skistad",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 9 Feb 2026 21:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5vpCJcrki6gjtNNaGQXbNm8_tLgQ4jnvChYJHkMBfOVJf_OdHRGdJi8eVTA",
-      "pictureSource": "Nettavisen",
-      "relatedSearch": [
-        {
-          "title": "OL-løypa skaper hodebry: – En nådeløs straff for Skistad",
-          "snippet": "",
-          "url": "https://www.nettavisen.no/sport/professor-advarer-kristine-stavas-skistad-en-nadelos-straff/s/5-95-2867732",
-          "source": "Nettavisen"
         },
         {
-          "title": "Maja Dahlqvists hån mot Kristine Stavås Skistad i OL",
+          "title": "Sylfrekk melding",
           "snippet": "",
-          "url": "https://sportsbibelen.net/ski/maja-dahlqvists-han-mot-kristine-stavas-skistad-i-ol/",
-          "source": "Sportsbibelen"
-        },
-        {
-          "title": "Fnyser av det norske laget: – Alltid noe å klage på",
-          "snippet": "",
-          "url": "https://www.tv2.no/sport/fnyser-av-det-norske-laget-alltid-noe-a-klage-pa/18526363/",
-          "source": "TV2.no"
+          "url": "https://www.dagbladet.no/sport/sylfrekk-melding/84207830",
+          "source": "Dagbladet"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -77,26 +145,26 @@
       "title": "valentines day",
       "trafficCount": "200+",
       "pubDate": "Mon, 9 Feb 2026 15:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9tYZO3zmyV0P0UbiLN_LnLEaHdRf9_ZbtJ7NZ8pCSpsYatRWk8Xv7ALN5z0w",
-      "pictureSource": "The Daily Beast",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSG6KZ5EGs4biHlXk2wnEVUOp1czKluYaOQxFcs2VL5BXUMQRyIMjJInlPphlI",
+      "pictureSource": "Yahoo",
       "relatedSearch": [
         {
-          "title": "Super Bowl Winner, 62, Dies in House Fire",
+          "title": "The best Valentine's Day gift ideas for her: Spoil your wife, girlfriend or any woman in your life with these finds",
           "snippet": "",
-          "url": "https://www.thedailybeast.com/shop-bouqs-for-farm-fresh-flower-arrangements/",
-          "source": "The Daily Beast"
+          "url": "https://shopping.yahoo.com/gift-ideas/article/the-best-valentines-day-gift-ideas-for-her-spoil-your-wife-girlfriend-or-any-woman-in-your-life-with-these-finds-165952418.html",
+          "source": "Yahoo"
         },
         {
-          "title": "Best Flower Delivery Services for Valentine's Day",
+          "title": "The Verge’s 2026 Valentine’s Day gift guide (for her)",
           "snippet": "",
-          "url": "https://weather.com/atmosphere/reviews/best-flower-delivery-service-valentines-day",
-          "source": "The Weather Channel"
+          "url": "https://www.theverge.com/gadgets/865281/valentines-day-2026-gift-ideas-for-her-girlfriend-wife-partner",
+          "source": "The Verge"
         },
         {
-          "title": "The Best Valentine’s Day Flowers (That You Can Order Online)",
+          "title": "Skip the grocery store flowers wrapped in plastic. Valentine’s Day advice is here",
           "snippet": "",
-          "url": "https://nymag.com/strategist/article/best-valentines-day-flowers-2026.html",
-          "source": "New York Magazine"
+          "url": "https://www.cnn.com/2026/02/08/health/expert-advice-gift-giving-partner-wellness",
+          "source": "CNN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,20 +229,20 @@
       "title": "åsheimdalen arna",
       "trafficCount": "100+",
       "pubDate": "Mon, 9 Feb 2026 12:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFzsWGTKV1QNnC7QMNXIWYBu1RwlSc8sqkRdnwiZABlwS1_SCgFQSUSVKImwI",
-      "pictureSource": "VG",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNlRgts6lOc05e37kFZpkFdTRnt_WMvtxiQT7brCcOmTfAFevWtCa2v_CciV4",
+      "pictureSource": "Bergens Tidende",
       "relatedSearch": [
         {
-          "title": "Arna-drapet: Gjernings­person fortsatt på frifot",
+          "title": "Gjerningsperson fortsatt på frifot etter drapet i Arna",
           "snippet": "",
-          "url": "https://www.vg.no/nyheter/i/Rjrr0J/arna-drapet-gjerningsperson-fortsatt-paa-frifot",
-          "source": "VG"
+          "url": "https://www.bt.no/krim/i/8pQQbA/gjerningsperson-fortsatt-paa-frifot-etter-drapet-i-arna",
+          "source": "Bergens Tidende"
         },
         {
-          "title": "Opplysninger til BT: Politiet undersøker avdødes soldatbakgrunn",
+          "title": "Opplysninger til BT: Politiet undersøker avdødes soldatbakgrunn etter drap i Bergen",
           "snippet": "",
-          "url": "https://www.bt.no/krim/i/xr84gj/drapet-i-arna-politiet-undersoeker-avdoedes-soldatbakgrunn",
-          "source": "Bergens Tidende"
+          "url": "https://www.aftenposten.no/norge/i/xr84jV/opplysninger-til-bt-politiet-undersoeker-avdoedes-soldatbakgrunn-etter-drap-i-bergen",
+          "source": "Aftenposten"
         },
         {
           "title": "Flyktet fra Taliban – drept i Norge",
@@ -189,82 +257,26 @@
       "title": "kacper tomasiak",
       "trafficCount": "200+",
       "pubDate": "Mon, 9 Feb 2026 12:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFGXZQn8F7K3nRFm81AXryVu972YZlpTUXra0crH7C6TU6IdfJtygGmbeQAGo",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKmoq3lbmd97TmRA_ZvuBwm5coD4VM5-3ZY_S5rEAQpQ5QVy0dAIYv3eqynXc",
       "pictureSource": "SportoweFakty",
       "relatedSearch": [
         {
-          "title": "\"Po prostu klasa\". Oto kto sfotografował się z Tomasiakiem",
+          "title": "To mógł zrobić tylko Żyła. Hit, co odstawił po sukcesie Tomasiaka",
           "snippet": "",
-          "url": "https://sportowefakty.wp.pl/igrzyska-olimpijskie/1233835/byla-czwarta-nad-ranem-zona-malysza-wrzucila-zdjecie-z-tomasiakiem-i-ten-podpis",
+          "url": "https://sportowefakty.wp.pl/skoki-narciarskie/1233811/pomoge-w-emocjach-hit-co-zrobil-zyla-po-sukcesie-tomasiaka",
           "source": "SportoweFakty"
+        },
+        {
+          "title": "Tomasiak zdobył srebro, a Norweg mówi wprost: \"Zostałem skrzywdzony\"",
+          "snippet": "",
+          "url": "https://www.sport.pl/igrzyska-olimpijskie/7,154863,32588162,tomasiak-zdobyl-srebro-a-norweg-jest-wkurzony-zostalem-skrzywdzony.html",
+          "source": "Sport.pl"
         },
         {
           "title": "Włosi w szoku po medalu IO Kacpra Tomasiaka. Piszą o \"toksycznym środowisku\"",
           "snippet": "",
           "url": "https://przegladsportowy.onet.pl/igrzyska-olimpijskie/wlosi-w-szoku-po-medalu-io-kacpra-tomasiaka-pisza-o-toksycznym-srodowisku/g9k81m4",
           "source": "Onet"
-        },
-        {
-          "title": "Kacper Tomasiak gładził medal. Z ust Niemca padło niecenzuralne słowo po... polsku",
-          "snippet": "",
-          "url": "https://sport.interia.pl/skoki-narciarskie/news-kacper-tomasiak-gladzil-medal-z-ust-niemca-padlo-niecenzural,nId,22598523",
-          "source": "Sport Interia"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "milla ruud reitan",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 9 Feb 2026 10:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSj5i42bebaNNw_oshLzLdV5giZZNzNT1Hg660FvNZSTrWYmQYqUiEo7fSMevQ",
-      "pictureSource": "Dagbladet",
-      "relatedSearch": [
-        {
-          "title": "- Tårene bare rant",
-          "snippet": "",
-          "url": "https://www.dagbladet.no/sport/tarene-bare-rant/84153706",
-          "source": "Dagbladet"
-        },
-        {
-          "title": "Vinter-OL, Milla Ruud Reitan | Norske Milla vekker oppsikt i OL",
-          "snippet": "",
-          "url": "https://www.nettavisen.no/sport/norske-milla-vekker-oppsikt-i-ol/s/5-95-2872463",
-          "source": "Nettavisen"
-        },
-        {
-          "title": "Olympics 2026: Milano Cortina: Figure Skating - Mixed Ice Dance Rhythm Dance",
-          "snippet": "",
-          "url": "https://www.reutersconnect.com/item/olympics-2026-milano-cortina-figure-skating-mixed-ice-dance-rhythm-dance/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBFTDdZNzc",
-          "source": "Reuters Connect"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "marius lindvik",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 9 Feb 2026 10:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQjNKcmIOsDvuDk0VQ8fFaAUdugittayCbF-Frs2Kpt2HhQC6A3S8gW69RiMg",
-      "pictureSource": "Dagbladet",
-      "relatedSearch": [
-        {
-          "title": "- Føltes som et svik",
-          "snippet": "",
-          "url": "https://www.dagbladet.no/sport/foltes-som-et-svik/84211756",
-          "source": "Dagbladet"
-        },
-        {
-          "title": "OL-gullvinner ut mot Norge: – Trist",
-          "snippet": "",
-          "url": "https://www.tv2.no/sport/ol-gullvinner-ut-mot-norge-trist/18550316/",
-          "source": "TV2.no"
-        },
-        {
-          "title": "Vinter-OL 2026, Val di Fiemme | OL-vinneren ut mot Norge etter hoppskandalen: – Som å bli spyttet i ansiktet",
-          "snippet": "",
-          "url": "https://www.nettavisen.no/sport/ol-vinneren-ut-mot-norge-etter-hoppskandalen-som-a-bli-spyttet-i-ansiktet/s/5-95-2872516",
-          "source": "Nettavisen"
         }
       ],
       "link": "https://imtaqin.id/"

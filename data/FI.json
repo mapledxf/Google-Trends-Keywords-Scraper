@@ -1,30 +1,30 @@
 {
-  "lastUpdate": "2026-02-12 06:14:15",
+  "lastUpdate": "2026-02-12 07:17:34",
   "data": [
     {
       "title": "helsingin sanomat",
       "trafficCount": "200+",
       "pubDate": "Wed, 11 Feb 2026 20:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpPuRP258yKCDUxRNR_L5u117FTpiPpRc03whCaX6mmV5VcBSt2ygkjjRN_VM",
-      "pictureSource": "Iltalehti",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSkVoF4q8EtJuekX9Hlaon6XBXpVTZSgq1pAK_I3ipgyzveyxYNS5dMSJDF1w",
+      "pictureSource": "HS.fi",
       "relatedSearch": [
         {
-          "title": "Helsinki myy rakastetun kotieläintilan: Tällainen siitä tulee",
+          "title": "Helsingin yliopisto | Naisvihaa tihkuvaa yhteisöä haastatellut tutkija vaatii puhetapojen muutosta",
           "snippet": "",
-          "url": "https://www.iltalehti.fi/kotimaa/a/4168d1ee-7ddd-48b4-b910-9d8402202ecb",
-          "source": "Iltalehti"
-        },
-        {
-          "title": "Eläimet | Helsinki myy Haltialan kotieläintilan",
-          "snippet": "",
-          "url": "https://www.hs.fi/helsinki/art-2000011809327.html",
+          "url": "https://www.hs.fi/helsinki/art-2000011679456.html",
           "source": "HS.fi"
         },
         {
-          "title": "Helsingin kaupunki myy Haltialan kotieläintilan",
+          "title": "DCA-sopimus | Sotilas löi suomalaista pullolla – uhri jäi yksin taistelemaan Yhdysvaltojen systeemissä",
           "snippet": "",
-          "url": "https://yle.fi/a/74-20209508",
-          "source": "Yle"
+          "url": "https://www.hs.fi/alueet/art-2000011778075.html",
+          "source": "HS.fi"
+        },
+        {
+          "title": "Kanada | Osassa Kanadaa julistettu hätätila vaarallisen huumeyhdistelmän vuoksi",
+          "snippet": "",
+          "url": "https://www.hs.fi/maailma/art-2000011812441.html",
+          "source": "HS.fi"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -49,10 +49,10 @@
           "source": "HS.fi"
         },
         {
-          "title": "Jukka Jalosen Italia shokeerasi Ruotsin tähtisikermää – ”Aivan lirissä”",
+          "title": "Ruotsin valmentaja ärähti Jukka Jalosesta – Väite ei kestä päivänvaloa",
           "snippet": "",
-          "url": "https://www.is.fi/jaakiekko/art-2000011812463.html",
-          "source": "Ilta-Sanomat"
+          "url": "https://www.iltalehti.fi/milano-cortinan-olympialaiset-2026/a/9241cc1a-3609-4d84-8a87-b0c8f6a5b23e",
+          "source": "Iltalehti"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -77,27 +77,21 @@
           "source": "Iltalehti"
         },
         {
-          "title": "90 päivää morsiamena -tähden Instagram-julkaisu oli liikaa – ei päästetty enää kameran eteen",
+          "title": "Unelmahäät-ohjelmassa tehdään tv-historiaa – Tässä ovat uudet parit",
           "snippet": "",
-          "url": "https://www.is.fi/tv-ja-elokuvat/art-2000011806920.html",
-          "source": "Ilta-Sanomat"
+          "url": "https://www.iltalehti.fi/tv-ja-leffat/a/b3d79d80-c987-402d-9f02-589c9ce25e35",
+          "source": "Iltalehti"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "stellantis",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 11 Feb 2026 18:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6XnhlZN0PrfnfSrP1up85yDfiL7nRNQxmE0LLqymFilzR6J1mDsog-_5bOi4",
-      "pictureSource": "Reuters",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRogpc3XIO-Y3EdJxvfijND6ZXD6ONxDW63j3faTIyhARPqz0-D01FMAgd9dIA",
+      "pictureSource": "Car and Driver",
       "relatedSearch": [
-        {
-          "title": "Stellantis issues 'Do Not Drive' alert for 225,000 older US vehicles",
-          "snippet": "",
-          "url": "https://www.reuters.com/business/stellantis-issues-do-not-drive-alert-225000-older-us-vehicles-2026-02-11/",
-          "source": "Reuters"
-        },
         {
           "title": "Is Your Car One of Millions with Takata Airbags That Are Under a 'Do Not Drive' Warning?",
           "snippet": "",
@@ -105,17 +99,23 @@
           "source": "Car and Driver"
         },
         {
-          "title": "NHTSA issues recall for millions of vehicles with faulty Takata airbags",
+          "title": "Stellantis issues 'Do Not Drive' alert for 225,000 older US vehicles",
           "snippet": "",
-          "url": "https://wgntv.com/news/recalls/nhtsa-issues-takata-airbag-recall-millions-of-vehicles/",
-          "source": "WGN-TV"
+          "url": "https://www.reuters.com/business/stellantis-issues-do-not-drive-alert-225000-older-us-vehicles-2026-02-11/",
+          "source": "Reuters"
+        },
+        {
+          "title": "'Do Not Drive' warning issued for some vehicles with recalled Takata airbags",
+          "snippet": "",
+          "url": "https://www.wtae.com/article/do-not-drive-warning-takata-airbag-recall/70315893",
+          "source": "WTAE"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "2026 winter olympics women's snowboarding halfpipe",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 11 Feb 2026 15:10:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3CCQCkv5AeT7KCGI1FAaKNxxyUy_cMrhM1Q5ZTkP5vMoW-Gylqmvyc90pkpM",
       "pictureSource": "The New York Times",
@@ -145,15 +145,9 @@
       "title": "laurence fournier beaudry",
       "trafficCount": "200+",
       "pubDate": "Wed, 11 Feb 2026 14:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8Ca47axjTc2kVTotmC47uAQl11L6l9wASdluhU7dPET1vi7vBO7MKpagc0kc",
-      "pictureSource": "Reuters",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4DNqP867hvWC0aZGG0AjjhhYHn88fg3Eyhpo-G_wuza1XUQdE13NDOrUbp1s",
+      "pictureSource": "BBC",
       "relatedSearch": [
-        {
-          "title": "French ice dancers Fournier Beaudry and Cizeron face controversy",
-          "snippet": "",
-          "url": "https://www.reuters.com/sports/figure-skating-french-ice-dancers-fournier-beaudry-cizeron-face-controversy-2026-02-05/",
-          "source": "Reuters"
-        },
         {
           "title": "2026 Winter Olympics: The skill and controversy of Guillaume Cizeron and Laurence Fournier Beaudry",
           "snippet": "",
@@ -161,10 +155,16 @@
           "source": "BBC"
         },
         {
-          "title": "Why French Ice Dancers Laurence Fournier Beaudry and Guillaume Cizeron Are at the Center of Olympic Controversy",
+          "title": "French ice dancers Fournier Beaudry and Cizeron face controversy",
           "snippet": "",
-          "url": "https://people.com/all-about-french-ice-dancers-controversy-11903770",
-          "source": "People.com"
+          "url": "https://www.reuters.com/sports/figure-skating-french-ice-dancers-fournier-beaudry-cizeron-face-controversy-2026-02-05/",
+          "source": "Reuters"
+        },
+        {
+          "title": "Winter Olympics 2026: France beat USA to figure skating gold as GB’s wait for medal goes on – as it happened",
+          "snippet": "",
+          "url": "https://www.theguardian.com/sport/live/2026/feb/11/winter-olympics-2026-gold-medals-up-for-grabs-in-skiing-figure-skating-and-more-live",
+          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +183,16 @@
           "source": "L'Équipe"
         },
         {
-          "title": "Je suis obsédé par une médaille olympique",
+          "title": "JO 2026 : revivez la journée du 11 février, conclue par le triomphe de Laurence Fournier Beaudry et Guillaume Cizeron en danse sur glace",
           "snippet": "",
-          "url": "https://www.journaldemontreal.com/2026/02/11/je-suis-obsede-par-une-medaille-olympique",
-          "source": "Le Journal de Montréal"
+          "url": "https://www.lemonde.fr/sport/live/2026/02/11/en-direct-jo-2026-les-danseurs-sur-glace-guillaume-cizeron-et-laurence-fournier-beaudry-vont-ils-apporter-a-la-france-une-nouvelle-medaille-d-or_6666279_3242.html",
+          "source": "Le Monde.fr"
         },
         {
-          "title": "JO-2026, Canada, Kosovo et James Van Der Beek : les informations de la nuit",
+          "title": "Une première Québécoise gagne l’or en patinage artistique... avec la France",
           "snippet": "",
-          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-jo-2026-canada-kosovo-et-james-van-der-beek-les-informations-de-la-nuit_240498",
-          "source": "Courrier international"
+          "url": "https://www.journaldemontreal.com/2026/02/11/la-medaille-dor-pour-fournier-beaudry",
+          "source": "Le Journal de Montréal"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -210,54 +210,54 @@
       "title": "aftonbladet",
       "trafficCount": "200+",
       "pubDate": "Wed, 11 Feb 2026 13:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGR8QnvMcAhXFDp0UXqvDXCqIUHqZn8A8SP9ZyORzlVC2-DkHZIfJ5LG73rJQ",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6Y62E-LOY9sw_oPjsPAfWT2F6fQ-YoBMIcA3Ev0SzMw-DudBVPW4Rijp4SaA",
       "pictureSource": "Aftonbladet",
       "relatedSearch": [
         {
-          "title": "Riskkapitalets rovdrift på djurägare",
+          "title": "Gul varning för snö",
           "snippet": "",
-          "url": "https://www.aftonbladet.se/nyheter/kolumnister/a/WvqnqQ/riskkapitalets-rovdrift-pa-djuragare",
+          "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1443747",
           "source": "Aftonbladet"
         },
         {
-          "title": "200 sekunder | Sara måste sälja huset för att ha råd med veterinären",
+          "title": "Varning för snö",
           "snippet": "",
-          "url": "https://tv.aftonbladet.se/video/395989/sara-maste-saelja-huset-foer-att-ha-rad-med-veterinaeren",
-          "source": "Aftonbladet TV"
+          "url": "https://www.expressen.se/nyheter/expressen-direkt/?post=a61dd518-fae6-42b6-87b0-455b41699993",
+          "source": "Expressen"
         },
         {
-          "title": "Debatt: Pristransparens är viktigt – men verkligheten är mer komplex",
+          "title": "SMHI utfärdar gul varning för snöfall på Öland",
           "snippet": "",
-          "url": "https://www.vf.se/2026/02/12/pristransparens-ar-viktigt-men-verkligheten-ar-mer-komplex-494ac/",
-          "source": "VF"
+          "url": "https://omni.se/smhi-utfardar-gul-varning-for-snofall-pa-oland/a/437m1R",
+          "source": "Omni"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "damian clara",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 11 Feb 2026 13:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBd_GzGvf48odMsX_dEuABaBUMo77K1BQI_tn-Mgp0_WW5SNRcfCkZSNoHXBM",
-      "pictureSource": "Daily Faceoff",
+      "title": "ruotsi italia",
+      "trafficCount": "2000+",
+      "pubDate": "Wed, 11 Feb 2026 13:10:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxOb30UabnIAYQ2AZ7RrCBxhWoSfs1Pcno9TINpunVLDjjrDFIrF4urWe6Ke4",
+      "pictureSource": "Iltalehti",
       "relatedSearch": [
         {
-          "title": "Who is Damian Clara, Italy’s first true star hockey prospect?",
+          "title": "Ruotsin valmentaja ärähti Jukka Jalosesta – Väite ei kestä päivänvaloa",
           "snippet": "",
-          "url": "https://www.dailyfaceoff.com/news/who-is-damian-clara-italy-hockey-prospect-goalie-best-player-2026-winter-olympics-anaheim-ducks",
-          "source": "Daily Faceoff"
+          "url": "https://www.iltalehti.fi/milano-cortinan-olympialaiset-2026/a/9241cc1a-3609-4d84-8a87-b0c8f6a5b23e",
+          "source": "Iltalehti"
         },
         {
-          "title": "Ducks at the Olympics: Granlund and Finland Lose to Sweden, Clara Shines for Italy against Sweden, Leaves with Injury",
+          "title": "Jukka Jalosen Italia shokeerasi Ruotsin tähtisikermää – ”Aivan lirissä”",
           "snippet": "",
-          "url": "https://thehockeynews.com/nhl/anaheim-ducks/game-day/ducks-at-the-olympics-granlund-and-finland-lose-to-sweden-clara-shines-for-italy-against-sweden-leaves-with-injury",
-          "source": "The Hockey News"
+          "url": "https://www.is.fi/jaakiekko/art-2000011812463.html",
+          "source": "Ilta-Sanomat"
         },
         {
-          "title": "Snapshots: Clara, Reschny, Olsen",
+          "title": "Ruotsin maalivahdin haparointi löi alkutahdit – Jukka Jalosen Italia horjutti Tre Kronoria hämmentävällä tavalla",
           "snippet": "",
-          "url": "https://www.prohockeyrumors.com/2026/02/snapshots-clara-reschny-olsen.html",
-          "source": "NHL Rumors - ProHockeyRumors.com"
+          "url": "https://www.mtvuutiset.fi/artikkeli/ruotsin-maalivahdin-haparointi-loi-alkutahdit-jukka-jalosen-italia-horjutti-tre-kronoria-hammentavalla-tavalla/9295726",
+          "source": "mtvuutiset.fi"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-14 08:59:12",
+  "lastUpdate": "2026-02-14 09:35:40",
   "data": [
     {
       "title": "garena",
@@ -199,7 +199,7 @@
     },
     {
       "title": "día de san valentín",
-      "trafficCount": "50000+",
+      "trafficCount": "20000+",
       "pubDate": "Fri, 13 Feb 2026 19:00:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiW9GhkQS8Z0Wk90iUQ924uYbrn2fRTwiTI1MWBwNvaHw9Eq9CO9SqLzCJrdY",
       "pictureSource": "CNN en Español",
@@ -229,15 +229,9 @@
       "title": "deadlock",
       "trafficCount": "200+",
       "pubDate": "Fri, 13 Feb 2026 19:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOHrnKlXSMvwozEUOUpoBYMz8VwlesOyxQnbCQ_4Jd2r7VlLz1K1FYS6J2-8U",
-      "pictureSource": "The Guardian",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpNqCViUJootQN_d5hYbYF7n6C59aUGTQsbJ1GBRyiqxtKAhdAtCNDgcTps9Q",
+      "pictureSource": "CNN",
       "relatedSearch": [
-        {
-          "title": "US homeland security department partially shutdown after lawmakers fail to agree funding",
-          "snippet": "",
-          "url": "https://www.theguardian.com/us-news/2026/feb/13/us-homeland-security-department-shutdown",
-          "source": "The Guardian"
-        },
         {
           "title": "February 13, 2026 — Trump administration news, DHS on brink of shutdown",
           "snippet": "",
@@ -245,10 +239,16 @@
           "source": "CNN"
         },
         {
-          "title": "What services will be affected by the DHS government shutdown?",
+          "title": "US homeland security department partially shutdown after lawmakers fail to agree funding",
           "snippet": "",
-          "url": "https://www.cbsnews.com/news/dhs-government-shutdown-services/",
-          "source": "CBS News"
+          "url": "https://www.theguardian.com/us-news/2026/feb/13/us-homeland-security-department-shutdown",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Congress Leaves DC as DHS Shuts Down",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2026/02/13/us/politics/congress-jets-off-shutdown.html",
+          "source": "The New York Times"
         }
       ],
       "link": "https://imtaqin.id/"

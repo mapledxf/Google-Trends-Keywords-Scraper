@@ -1,10 +1,38 @@
 {
-  "lastUpdate": "2026-02-19 10:42:29",
+  "lastUpdate": "2026-02-19 11:26:15",
   "data": [
     {
-      "title": "ауызашар",
+      "title": "погода алматы",
+      "trafficCount": "2000+",
+      "pubDate": "Thu, 19 Feb 2026 00:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzU_hMOQ8S5jzccXzenvPIllrthW_BODY-VuWG9HpXZJ4DuNcwnT5iLVkhrk0",
+      "pictureSource": "Погода Mail",
+      "relatedSearch": [
+        {
+          "title": "Погода в Алматы вызвала зависть офисных работников к гуляющим в шортах",
+          "snippet": "",
+          "url": "https://pogoda.mail.ru/news/69871769/",
+          "source": "Погода Mail"
+        },
+        {
+          "title": "В Алматы 19 февраля будет тепло и сухо",
+          "snippet": "",
+          "url": "https://www.gismeteo.kz/news/klimat/v-almaty-19-fevralya-budet-teplo-i-suho/",
+          "source": "Gismeteo"
+        },
+        {
+          "title": "Зима пошутила: в Алматы 19 февраля потеплело до +22°С",
+          "snippet": "",
+          "url": "https://www.zakon.kz/amp/obshestvo/6508466-zima-poshutila-v-almaty-19-fevralya-poteplelo-do-22s.html",
+          "source": "Новости Zakon.kz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ауызашар 2026",
       "trafficCount": "500+",
-      "pubDate": "Thu, 19 Feb 2026 02:00:00 -0800",
+      "pubDate": "Wed, 18 Feb 2026 16:10:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVHyvYa-J5xISUqsc0B75gp5XzNqitR5aegMNePjZthLlhTh0hVjg1YDiK7BQ",
       "pictureSource": "NUR.KZ",
       "relatedSearch": [
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://finratings.kz/news/11813-ramazan-2026-kak-oplatit-fitr-sadaka-i-zakiat-cherez-kaspi-kz/",
           "source": "Finratings.kz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "погода алматы",
-      "trafficCount": "2000+",
-      "pubDate": "Thu, 19 Feb 2026 00:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKzZzkAEneFgDPEzrq9Xbcp1vlpfIqODd4esN3hCPTqMXSXMIr6V56Rshybao",
-      "pictureSource": "Gismeteo",
-      "relatedSearch": [
-        {
-          "title": "В Алматы 19 февраля будет тепло и сухо",
-          "snippet": "",
-          "url": "https://www.gismeteo.kz/news/klimat/v-almaty-19-fevralya-budet-teplo-i-suho/",
-          "source": "Gismeteo"
-        },
-        {
-          "title": "Зима пошутила: в Алматы 19 февраля потеплело до +22°С",
-          "snippet": "",
-          "url": "https://www.zakon.kz/amp/obshestvo/6508466-zima-poshutila-v-almaty-19-fevralya-poteplelo-do-22s.html",
-          "source": "Новости Zakon.kz"
-        },
-        {
-          "title": "Погода в Алматы вызвала зависть офисных работников к гуляющим в шортах",
-          "snippet": "",
-          "url": "https://pogoda.mail.ru/news/69871769/",
-          "source": "Погода Mail"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,13 +117,13 @@
       "title": "интер",
       "trafficCount": "500+",
       "pubDate": "Wed, 18 Feb 2026 12:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYM_M_91mqsPzdGhU_4tEwz_Ix5hkmzjRjiR1ca4rIyMiuLzs7Pm00dJ4UFDc",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqoWoQfhBy7TBiy4NW-EfcMX9Q4RdWcGS01e2NBx2WQWpInMl-QEUis_rdTF4",
       "pictureSource": "Спорт Mail",
       "relatedSearch": [
         {
-          "title": "Тренер «Интера» высказался о сенсационном поражении в ЛЧ",
+          "title": "«Нам повезло». Тренер «Буде‑Глимт» — о победе над «Интером»",
           "snippet": "",
-          "url": "https://sportmail.ru/article/football-eurocups/69869135/",
+          "url": "https://sportmail.ru/article/football-eurocups/69869263/",
           "source": "Спорт Mail"
         },
         {
@@ -183,16 +183,16 @@
           "source": "Associated Press News"
         },
         {
-          "title": "For Alysa Liu, competition is just 'pure enjoyment'",
-          "snippet": "",
-          "url": "https://www.nbcolympics.com/news/alysa-liu-competition-just-pure-enjoyment",
-          "source": "NBC Olympics"
-        },
-        {
           "title": "How Is A Figure Skater Like A Tree?",
           "snippet": "",
           "url": "https://defector.com/alysa-liu-amber-glenn-how-is-a-figure-skater-like-a-tree",
           "source": "Defector"
+        },
+        {
+          "title": "Japan Leads in a Tight Race for the Women’s Figure Skating Podium",
+          "snippet": "",
+          "url": "https://time.com/7379307/olympics-figure-skating-women-2026-results-short-program/",
+          "source": "TIME"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,20 +201,20 @@
       "title": "денис никиша",
       "trafficCount": "1000+",
       "pubDate": "Wed, 18 Feb 2026 11:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMPwLzpSlRDqV4SoAoPG8ZeWWrWTa_4ncZbP4hsmiHZUPqNTRbw6W6m47cKf0",
-      "pictureSource": "Ұлттық олимпиадалық комитет",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQv9xdeKJN8vLcl2b0HZlD6Jy0f__ZKQ6iItLqbujAdX_Om34rNT_2sf1gxQio",
+      "pictureSource": "Новости Zakon.kz",
       "relatedSearch": [
-        {
-          "title": "Абзал Ажгалиев: На каждой из четырех Олимпиад я старался максимально порадовать казахстанцев",
-          "snippet": "",
-          "url": "https://olympic.kz/ru/article/35665-abzal-azhgaliev-na-kazhdoy-iz-chetyrekh-olimpiad-ya-staralsya-maksimalno-poradovat-kazakhstantsev",
-          "source": "Ұлттық олимпиадалық комитет"
-        },
         {
           "title": "Присутствие Шайдорова не помогло казахстанским спортсменам победить на Олимпиаде",
           "snippet": "",
           "url": "https://www.zakon.kz/sport/6508392-prisutstvie-shaydorova-ne-pomoglo-kazakhstanskim-sportsmenam-pobedit-na-olimpiade.html",
           "source": "Новости Zakon.kz"
+        },
+        {
+          "title": "Абзал Ажгалиев: На каждой из четырех Олимпиад я старался максимально порадовать казахстанцев",
+          "snippet": "",
+          "url": "https://olympic.kz/ru/article/35665-abzal-azhgaliev-na-kazhdoy-iz-chetyrekh-olimpiad-ya-staralsya-maksimalno-poradovat-kazakhstantsev",
+          "source": "Ұлттық олимпиадалық комитет"
         },
         {
           "title": "Шорт-трекист Денис Никиша вышел в полуфинал Олимпиады-2026",

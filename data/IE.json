@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-02-20 08:04:11",
+  "lastUpdate": "2026-02-20 08:54:51",
   "data": [
+    {
+      "title": "the journal",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 20 Feb 2026 00:30:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRv6bUjWPVBP9gpKWdWib5bkLTic3Pyxs4CcV3BGvWilHdLaxjW2tzAm4h3iMA",
+      "pictureSource": "The Journal",
+      "relatedSearch": [
+        {
+          "title": "Here's What Happened Today: Tuesday",
+          "snippet": "",
+          "url": "https://www.thejournal.ie/news-fix-17-02-26-6960041-Feb2026/",
+          "source": "The Journal"
+        },
+        {
+          "title": "Iran says US risking ‘crisis’ as Trump sets ’10, 15 days’ deadline for deal",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/2026/2/19/trump-suggests-iran-has-10-days-to-reach-agreement-with-us",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Iran's supreme leader threatens to sink US warships as nuclear talks continue",
+          "snippet": "",
+          "url": "https://news.sky.com/video/updated-supreme-iran-mp4-13508548",
+          "source": "Sky News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "daily mail",
       "trafficCount": "200+",
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://www.theguardian.com/media/2026/feb/17/ex-daily-mail-reporter-denies-claims-he-ordered-private-investigator-to-deceive-doreen-lawrence",
           "source": "The Guardian"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "seamus culleton",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 19 Feb 2026 23:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqXWsxMshEpl17HfTXecLtvpvVnW-AOdVxo9bPDSnvc2JcWC1BzyIzNGaYGfM",
-      "pictureSource": "The Irish Times",
-      "relatedSearch": [
-        {
-          "title": "Court orders postponement of Irishman Seamus Culleton’s deportation from US",
-          "snippet": "",
-          "url": "https://www.irishtimes.com/ireland/2026/02/17/court-orders-postponement-of-irishman-seamus-culletons-deportation-from-us/",
-          "source": "The Irish Times"
-        },
-        {
-          "title": "'I just want him home', says wife of Irish man detained by ICE",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/cvg17m7842eo",
-          "source": "BBC"
-        },
-        {
-          "title": "Culleton case hikes fear among undocumented Irish in US",
-          "snippet": "",
-          "url": "https://www.rte.ie/news/us/2026/0214/1558438-seamus-culleton-us/",
-          "source": "RTE.ie"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,18 +86,68 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "seamus culleton",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 19 Feb 2026 23:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqXWsxMshEpl17HfTXecLtvpvVnW-AOdVxo9bPDSnvc2JcWC1BzyIzNGaYGfM",
+      "pictureSource": "The Irish Times",
+      "relatedSearch": [
+        {
+          "title": "Court orders postponement of Irishman Seamus Culleton’s deportation from US",
+          "snippet": "",
+          "url": "https://www.irishtimes.com/ireland/2026/02/17/court-orders-postponement-of-irishman-seamus-culletons-deportation-from-us/",
+          "source": "The Irish Times"
+        },
+        {
+          "title": "'I just want him home', says wife of Irish man detained by ICE",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/cvg17m7842eo",
+          "source": "BBC"
+        },
+        {
+          "title": "Irishman fears for life after Trump ICE crackdown turns American dream into nightmare",
+          "snippet": "",
+          "url": "https://news.sky.com/story/trump-ice-crackdown-turns-irishmans-american-dream-into-detention-nightmare-13506039",
+          "source": "Sky News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "dublin",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 19 Feb 2026 23:20:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOZte3uR4Ph4tLWIsc00kZXFc92-_uvTl9bLzOIgj9urlGy6E6fYRQV8yZXOg",
+      "pictureSource": "RTE.ie",
+      "relatedSearch": [
+        {
+          "title": "Gardaí seek help identifying man assaulted in Temple Bar",
+          "snippet": "",
+          "url": "https://www.rte.ie/news/dublin/2026/0219/1559375-assault-dublin/",
+          "source": "RTE.ie"
+        },
+        {
+          "title": "Man fights for life after being hit in face with e-scooter during savage attack in Dublin’s Temple Bar",
+          "snippet": "",
+          "url": "https://www.independent.ie/irish-news/crime/man-fights-for-life-after-being-hit-in-face-with-e-scooter-during-savage-attack-in-dublins-temple-bar/a971550160.html",
+          "source": "The Irish Independent"
+        },
+        {
+          "title": "Man in critical condition after assault in Dublin’s Temple Bar",
+          "snippet": "",
+          "url": "https://www.irishtimes.com/crime-law/2026/02/19/gardai-seek-help-identifying-unconscious-man-following-serious-assault-in-dublin/",
+          "source": "The Irish Times"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "pga tour",
       "trafficCount": "100+",
       "pubDate": "Thu, 19 Feb 2026 23:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStiVJGB5XUOW7DMh99RB8OIV782mI4dmo0OXz2yTWFchO0rtL4Iaja6BydMyI",
-      "pictureSource": "GOLF.com",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZmRHn-Hlg6IoFiwC3HU5-LCtMIrQQ4I9RAejNWYpXcM-LdOy58Ryo1VWji9I",
+      "pictureSource": "Racing Post",
       "relatedSearch": [
-        {
-          "title": "2026 Genesis Invitational Friday tee times: Round 2 groupings",
-          "snippet": "",
-          "url": "https://golf.com/news/2026-genesis-invitational-friday-tee-times-round-2-groupings/",
-          "source": "GOLF.com"
-        },
         {
           "title": "Genesis Invitational: Riviera Country Club course guide, start time, odds and how to watch",
           "snippet": "",
@@ -109,13 +159,19 @@
           "snippet": "",
           "url": "https://www.pgatour.com/article/news/needtoknow/2026/02/18/the-five-compelling-subplots-at-the-genesis-invitational-riviera-scottie-scheffler-max-homa-collin-morikawa",
           "source": "PGA Tour"
+        },
+        {
+          "title": "2026 Genesis Invitational Friday tee times: Round 2 groupings",
+          "snippet": "",
+          "url": "https://golf.com/news/2026-genesis-invitational-friday-tee-times-round-2-groupings/",
+          "source": "GOLF.com"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "british passport",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 19 Feb 2026 23:00:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH4hXpdod2HGntn7BlK9eIEd0oHguYvLHih0RyOkGb09LsS7VAKm6HLGLRYF0",
       "pictureSource": "The Guardian",
@@ -127,16 +183,16 @@
           "source": "The Guardian"
         },
         {
-          "title": "Ryanair may allow British dual citizens with proof to board flights to UK",
-          "snippet": "",
-          "url": "https://www.thetimes.com/uk/transport/article/ryanair-may-defy-new-passport-rules-for-british-dual-citizens-n77gmh2tb",
-          "source": "The Times"
-        },
-        {
           "title": "Could dual nationals without a British passport be stopped at the border?",
           "snippet": "",
           "url": "https://news.sky.com/story/could-dual-nationals-without-a-british-passport-be-stopped-at-the-border-13508648",
           "source": "Sky News"
+        },
+        {
+          "title": "How are UK passport rules changing for British dual nationals?",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/cx2d9yk2kpjo",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,54 +201,26 @@
       "title": "nba",
       "trafficCount": "100+",
       "pubDate": "Thu, 19 Feb 2026 23:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTamPAufXxPQma73I88fTim1M6kJivygjqhDoA1RlerRWvFfAtDNuv2Tpf78o8",
-      "pictureSource": "Xinhua",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSd-WxEwRiuYfpPjnctpLPOK-ptcZHRTWFAn5I0SuIlZZ9ovTthynqvb7Zij_A",
+      "pictureSource": "The New York Times",
       "relatedSearch": [
         {
-          "title": "2025-2026 NBA regular season: Golden State Warriors vs. Boston Celtics",
+          "title": "Pistons cap season sweep of Knicks with blowout at Madison Square Garden",
           "snippet": "",
-          "url": "https://english.news.cn/20260220/638f9cc940c5454096c332ebb28c3f80/c.html",
-          "source": "Xinhua"
+          "url": "https://www.nytimes.com/athletic/7059247/2026/02/19/pistons-knicks-season-sweep-nba/",
+          "source": "The New York Times"
         },
         {
-          "title": "“Those guys helped me win a championship in 2024, so …",
+          "title": "JB Bickerstaff: \"It's just playing good basketball. …",
           "snippet": "",
-          "url": "https://sports.yahoo.com/articles/those-guys-helped-win-championship-072047964.html",
-          "source": "Yahoo Sports"
+          "url": "https://ca.sports.yahoo.com/news/jb-bickerstaff-just-playing-good-034958441.html",
+          "source": "Yahoo Sports Canada"
         },
         {
-          "title": "Watch: Kristaps Porzingis dunks down first points as a Warrior",
+          "title": "Highlights: Cunningham dominates Knicks in MSG",
           "snippet": "",
-          "url": "https://warriorswire.usatoday.com/story/sports/nba/warriors/2026/02/19/kristaps-porzingis-first-points-warriors/88771616007/",
-          "source": "Warriors Wire"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "corinthians",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 19 Feb 2026 23:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWYfzZY9fmi0DR1J1GWR6Wg1Ab08Cf1Ct3J4sv9eiII5FV91gBiMDylna_If0",
-      "pictureSource": "ge",
-      "relatedSearch": [
-        {
-          "title": "Athletico x Corinthians: onde assistir ao vivo, horário e escalações",
-          "snippet": "",
-          "url": "https://ge.globo.com/pr/futebol/brasileirao-serie-a/noticia/2026/02/19/athletico-x-corinthians-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
-          "source": "ge"
-        },
-        {
-          "title": "‘Não podemos perder jogos dentro da Arena’, dispara torcedor do Furacão após derrota",
-          "snippet": "",
-          "url": "https://esportes.r7.com/futebol/campeonato-brasileiro-serie-a/conteudo-digital/pre-e-pos-jogo/video/nao-podemos-perder-jogos-dentro-da-arena-dispara-torcedor-do-furacao-apos-derrota-20022026/",
-          "source": "R7 Esportes"
-        },
-        {
-          "title": "Árbitro relata ofensa de auxiliar de Dorival em súmula de Athletico-PR x Corinthians",
-          "snippet": "",
-          "url": "https://www.gazetaesportiva.com/todas-as-noticias/arbitro-ofensa-auxiliar-dorival-sumula-athletico-pr-corinthians/",
-          "source": "Gazeta Esportiva"
+          "url": "https://www.nbcsports.com/watch/nba/nba-2025-26-highlights-cade-cunningham-dominates-knicks-in-msg",
+          "source": "NBC Sports"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,26 +229,26 @@
       "title": "eli lilly",
       "trafficCount": "100+",
       "pubDate": "Thu, 19 Feb 2026 22:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoDIY8ZIx7h_FvY6Id2iXQXPiDdcXyzFdUbjFaChXZYB6e5ba3HXnPBAxRDZ4",
-      "pictureSource": "Fierce Biotech",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSi2XGhq4NGXAhqGd7sehzT_AlucattYfQ6u6cGFWuJ2T-NUz_qhP06zpE9PD8",
+      "pictureSource": "RTE.ie",
       "relatedSearch": [
         {
-          "title": "Lilly pays CSL $100M upfront for IL-6 antibody that flunked a phase 3 organ transplant study",
+          "title": "Three multinationals paying 46% of Corporation Tax - IFAC",
           "snippet": "",
-          "url": "https://www.fiercebiotech.com/biotech/lilly-pays-csl-100m-upfront-il-6-antibody-flunked-phase-3-organ-transplant-study",
-          "source": "Fierce Biotech"
+          "url": "https://www.rte.ie/news/business/2026/0219/1559232-ifac-corporation-tax/",
+          "source": "RTE.ie"
         },
         {
-          "title": "CSL signs licensing deal with Eli Lilly for clazakizumab to explore other potential treatments",
+          "title": "Government plans to spend almost 90% of corporate tax windfall, says Ifac",
           "snippet": "",
-          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/csl-signs-licensing-deal-with-eli-lilly-clazakizumab-treat-kidney-disease-2026-02-17/",
-          "source": "Reuters"
+          "url": "https://www.irishtimes.com/business/2026/02/19/government-plans-to-spend-almost-90-of-corporate-tax-windfall/",
+          "source": "The Irish Times"
         },
         {
-          "title": "Eli Lilly gets in on the IL-6 game",
+          "title": "Two companies contribute almost 40% of corporation tax, watchdog says",
           "snippet": "",
-          "url": "https://firstwordpharma.com/story/7107214",
-          "source": "FirstWord Pharma"
+          "url": "https://www.breakingnews.ie/business/two-companies-contribute-almost-40-of-corporation-tax-watchdog-says-1866425.html",
+          "source": "BreakingNews.ie"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,14 +257,14 @@
       "title": "flamengo",
       "trafficCount": "100+",
       "pubDate": "Thu, 19 Feb 2026 21:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLcuX0yr1ACd8nz3fSW00NyFX21AcOnj3NCVWY9ikCXbE6rMqFfjzrxpFXZc4",
-      "pictureSource": "ge",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEO809JY21_Cm137YhVuZIMvxwODqN7cFKk6y8TA3_P0Z_rU9OkS8VGxgdcFU",
+      "pictureSource": "UOL",
       "relatedSearch": [
         {
-          "title": "Lanús 1 x 0 Flamengo | Recopa Sul-Americana: melhores momentos",
+          "title": "Flamengo perde para o Lanús na ida da Recopa, e impedimentos evitam o pior",
           "snippet": "",
-          "url": "https://ge.globo.com/futebol/recopa-sul-americana/jogo/19-02-2026/lanus-flamengo.ghtml",
-          "source": "ge"
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/02/19/lanus-x-flamengo---recopa-2026.htm",
+          "source": "UOL"
         },
         {
           "title": "Quando será o jogo entre Lanús e Flamengo pela Copa dos Vencedores de Copas da Copa América?",
@@ -245,38 +273,10 @@
           "source": "Segunda Base"
         },
         {
-          "title": "Cebolinha sai na cara do gol, mas perde chance para o Flamengo contra o Lanús na Recopa",
+          "title": "Léo Ortiz é flagrado abatido por erro grave em Lanús x Flamengo e causa revolta da Nação",
           "snippet": "",
-          "url": "https://br.bolavip.com/flamengo/cebolinha-sai-na-cara-do-gol-mas-perde-chance-para-o-flamengo",
+          "url": "https://br.bolavip.com/flamengo/leo-ortiz-e-flagrado-abatido-por-erro-grave-em-lanus-x-flamengo-e-causa-revolta-da-nacao",
           "source": "Bolavip"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "eric dane",
-      "trafficCount": "10000+",
-      "pubDate": "Thu, 19 Feb 2026 18:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4qRWAzahBbQON_pMzvx3YrBXsvbjh1bY9NBmtZpAnHk07vPyewKBy9zcWhMk",
-      "pictureSource": "RTE.ie",
-      "relatedSearch": [
-        {
-          "title": "Grey's Anatomy's Eric Dane dies aged 53 after ALS battle",
-          "snippet": "",
-          "url": "https://www.rte.ie/entertainment/2026/0220/1559442-greys-anatomy-dane/",
-          "source": "RTE.ie"
-        },
-        {
-          "title": "Eric Dane, Grey’s Anatomy and Euphoria star, dies aged 53",
-          "snippet": "",
-          "url": "https://www.theguardian.com/tv-and-radio/2026/feb/20/eric-dane-dies-aged-53-death-greys-anatomy-euphoria-star",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Eric Dane Remembered by ‘Euphoria’ Creator Sam Levinson: ‘Being His Friend Was a Gift’",
-          "snippet": "",
-          "url": "https://variety.com/2026/tv/news/eric-dane-tribute-euphoria-1236667986/",
-          "source": "Variety"
         }
       ],
       "link": "https://imtaqin.id/"

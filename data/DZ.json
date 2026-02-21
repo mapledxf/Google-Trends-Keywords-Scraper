@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-02-21 05:31:56",
+  "lastUpdate": "2026-02-21 06:03:58",
   "data": [
     {
-      "title": "مواقيت الامساك",
+      "title": "مواقيت الإمساك والإفطار",
       "trafficCount": "500+",
       "pubDate": "Fri, 20 Feb 2026 20:40:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXkwwgPFqmjSxzAQD4AB03Itvm-tXtlsjwoEkOjCnwuzjfmjOJrDOjYl0T8OU",
@@ -31,7 +31,7 @@
     },
     {
       "title": "الامساك",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 20 Feb 2026 20:30:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS16YOsNKqZcQce0Qdr3Tx1TLp0D3F2M6X7GIPBkG6xTujpy77M91eQNtg5IjM",
       "pictureSource": "العربية",
@@ -99,16 +99,16 @@
           "source": "BBC"
         },
         {
-          "title": "جمعية الشعرى.. هذا أول أيام رمضان بالجزائر فلكيا",
-          "snippet": "",
-          "url": "https://www.ennaharonline.com/%D8%AC%D9%85%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D8%B9%D8%B1%D9%89-%D9%87%D8%B0%D8%A7-%D8%A3%D9%88%D9%84-%D8%A3%D9%8A%D8%A7%D9%85-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D8%AC%D8%B2%D8%A7/",
-          "source": "النهار أونلاين – أول موقع إخباري في الجزائر"
-        },
-        {
           "title": "ترقب هلال شهر رمضان لـ 1447 هـ سيكون بعد غد الثلاثاء",
           "snippet": "",
           "url": "https://www.aps.dz/algerie/societe/mlo2vbdh-%D8%AA%D8%B1%D9%82%D8%A8-%D9%87%D9%84%D8%A7%D9%84-%D8%B4%D9%87%D8%B1-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-%D9%84%D9%80-1447-%D9%87%D9%80-%D8%B3%D9%8A%D9%83%D9%88%D9%86-%D8%A8%D8%B9%D8%AF-%D8%BA%D8%AF-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1",
           "source": "وكالة الأنباء الجزائرية"
+        },
+        {
+          "title": "بالأسماء.. دول عربية بدأت رمضان الأربعاء وأخرى الخميس",
+          "snippet": "",
+          "url": "https://arabic.cnn.com/middle-east/article/2026/02/18/arab-countries-names-list-ramadan-wednesday-others-thursday-sciense-say",
+          "source": "CNN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +155,44 @@
           "source": "Yahoo Sports"
         },
         {
-          "title": "CAFCL: Bangoura reveals pain after MC Alger exits at group stage",
+          "title": "MC Alger's Bangoura sees positives despite disappointing CAF Champions League campaign",
           "snippet": "",
-          "url": "https://www.panafricafootball.com/post/bangoura-mc-alger/",
-          "source": "Pan-Africa Football"
+          "url": "https://www.flashscore.com/news/soccer-caf-champions-league-mc-alger-s-bangoura-sees-positives-despite-disappointing-caf-champions-league-campaign/4tB0tdct/",
+          "source": "Flashscore.com"
         },
         {
           "title": "Mokwena Using Sundowns Defeat As Motivation",
           "snippet": "",
           "url": "https://www.soccerladuma.co.za/international/african-football/mc-alger-coach-mokwena-turns-sundowns-loss-into-motivation-ahead-of-domestic-games",
           "source": "Soccer Laduma"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "mouloudia",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 20 Feb 2026 14:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNAZ67KZZdheJkAc5CyPIuqRP_dvb8DOHGT0jsZYdL6WPxNyULvR8FCsqnzRk",
+      "pictureSource": "Footafrique.com",
+      "relatedSearch": [
+        {
+          "title": "ALG : La Protection civile proteste contre des joueurs du CR. Belouizdad !",
+          "snippet": "",
+          "url": "https://www.footafrique.com/alg-la-protection-civile-proteste-contre-des-joueurs-du-cr-belouizdad/",
+          "source": "Footafrique.com"
+        },
+        {
+          "title": "Le défenseur Chouaib Keddad mesurait-il la gravité de ses gestes ?",
+          "snippet": "",
+          "url": "https://elwatan.dz/le-defenseur-chouaib-keddad-mesurait-il-la-gravite-de-ses-gestes/",
+          "source": "El Watan"
+        },
+        {
+          "title": "La Protection civile dépose plainte contre un club de Ligue 1",
+          "snippet": "",
+          "url": "https://www.algerie360.com/la-protection-civile-depose-plainte-contre-un-club-de-ligue-1/",
+          "source": "Algerie360"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -198,6 +226,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "شباب بلوزداد",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 20 Feb 2026 13:50:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvMhamUTNP_QXXyciXmMJU51fMv1GHi0kO-8ZhA4HooZBqzP6yt5fmKoEdexE",
+      "pictureSource": "Confédération Africaine de Football",
+      "relatedSearch": [
+        {
+          "title": "داربي مغربي يخطف الأنظار في ربع نهائي كأس الكونفيدرالية الإفريقية توتال إنيرجيز 2025/26",
+          "snippet": "",
+          "url": "https://www.cafonline.com/ar/%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D9%83%D9%88%D9%86%D9%81%D9%8A%D8%AF%D8%B1%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9-%D8%AA%D9%88%D8%AA%D8%A7%D9%84-%D8%A5%D9%86%D9%8A%D8%B1%D8%AC%D9%8A%D8%B2/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%AF%D8%A7%D8%B1%D8%A8%D9%8A-%D9%85%D8%BA%D8%B1%D8%A8%D9%8A-%D9%8A%D8%AE%D8%B7%D9%81-%D8%A7%D9%84%D8%A3%D9%86%D8%B8%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B1%D8%A8%D8%B9-%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D9%83%D9%88%D9%86%D9%81%D9%8A%D8%AF%D8%B1%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9-%D8%AA%D9%88%D8%AA%D8%A7%D9%84-%D8%A5%D9%86%D9%8A%D8%B1%D8%AC%D9%8A%D8%B2-202526/",
+          "source": "Confédération Africaine de Football"
+        },
+        {
+          "title": "تأهل كل الفرق العربية لربع نهائي الكونفدرالية الأفريقية",
+          "snippet": "",
+          "url": "https://www.aljazeera.net/sport/2026/2/15/%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83-%D8%A7%D9%84%D9%88%D8%AF%D8%A7%D8%AF-%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%85%D8%A9-%D8%A8%D9%84%D9%88%D8%B2%D8%AF%D8%A7%D8%AF",
+          "source": "الجزيرة نت"
+        },
+        {
+          "title": "موعد والقنوات الناقلة لـ قرعة دور الـ 8 من كأس الكونفدرالية اليوم",
+          "snippet": "",
+          "url": "https://www.btolat.com/news/393544",
+          "source": "بطولات"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "sonia mabrouk",
       "trafficCount": "500+",
       "pubDate": "Fri, 20 Feb 2026 13:40:00 -0800",
@@ -221,62 +277,6 @@
           "snippet": "",
           "url": "https://www.lemonde.fr/actualite-medias/article/2026/02/20/sonia-mabrouk-annonce-rejoindre-bfm-tv-apres-son-depart-des-medias-de-vincent-bollore_6667560_3236.html",
           "source": "Le Monde.fr"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "hicham boudaoui",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 20 Feb 2026 13:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ef1ZlYdn8Nf0pvTkBaeXfZxpzI4T2WYwedt-tVRLDxXsy5BbDXX3WwcHD3g",
-      "pictureSource": "OneFootball",
-      "relatedSearch": [
-        {
-          "title": "L’Olympique de Marseille séduit par Hicham Boudaoui",
-          "snippet": "",
-          "url": "https://onefootball.com/fr/news/lolympique-de-marseille-seduit-par-hicham-boudaoui-42442522",
-          "source": "OneFootball"
-        },
-        {
-          "title": "ALG : Boudaoui donne un signal encourageant",
-          "snippet": "",
-          "url": "https://www.footafrique.com/alg-boudaoui-donne-un-signal-encourageant/",
-          "source": "Footafrique.com"
-        },
-        {
-          "title": "OM: Boudaoui, le pari marseillais de Beye?",
-          "snippet": "",
-          "url": "https://www.competition.dz/chrono/om-boudaoui-le-pari-marseillais-de-beye.html",
-          "source": "Competition.dz - Le site du football algérien"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "وفاق سطيف",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 20 Feb 2026 13:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZyUp7FrezVTskuZFYtZpVaFAFgTgN9HaMS4ZwV_KIbG7L77XnzLESQUB_tHo",
-      "pictureSource": "اليوم السابع",
-      "relatedSearch": [
-        {
-          "title": "لدغة عماد متعب بالسوبر الأفريقى لم تنقذ الأهلى أمام وفاق سطيف؟",
-          "snippet": "",
-          "url": "https://www.youm7.com/story/2026/2/21/%D9%84%D8%AF%D8%BA%D8%A9-%D8%B9%D9%85%D8%A7%D8%AF-%D9%85%D8%AA%D8%B9%D8%A8-%D8%A8%D8%A7%D9%84%D8%B3%D9%88%D8%A8%D8%B1-%D8%A7%D9%84%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%89-%D9%84%D9%85-%D8%AA%D9%86%D9%82%D8%B0-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%89-%D8%A3%D9%85%D8%A7%D9%85-%D9%88%D9%81%D8%A7%D9%82/7311538",
-          "source": "اليوم السابع"
-        },
-        {
-          "title": "عماد متعب يواصل التألق في السوبر الأفريقي رغم هزيمة الأهلي أمام وفاق سطيف",
-          "snippet": "",
-          "url": "https://mwlana.com/sports/%D8%B9%D9%85%D8%A7%D8%AF-%D9%85%D8%AA%D8%B9%D8%A8-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%AA%D8%A3%D9%84%D9%82-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%A8%D8%B1-%D8%A7%D9%84%D8%A3%D9%81%D8%B1/",
-          "source": "بوابة مولانا"
-        },
-        {
-          "title": "الحلم سبورت : لدغة عماد متعب بالسوبر الأفريقى لم تنقذ الأهلى أمام وفاق سطيف؟",
-          "snippet": "",
-          "url": "https://al7lmnews.com/news/%D8%A7%D9%84%D8%AD%D9%84%D9%85-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-%D9%84%D8%AF%D8%BA%D8%A9-%D8%B9%D9%85%D8%A7%D8%AF-%D9%85%D8%AA%D8%B9%D8%A8-%D8%A8%D8%A7%D9%84%D8%B3%D9%88%D8%A8%D8%B1-%D8%A7%D9%84%D8%A3/",
-          "source": "شبكة الحلم الإخبارية"
         }
       ],
       "link": "https://imtaqin.id/"

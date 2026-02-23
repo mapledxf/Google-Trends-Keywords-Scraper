@@ -1,58 +1,86 @@
 {
-  "lastUpdate": "2026-02-23 11:46:28",
+  "lastUpdate": "2026-02-23 12:28:58",
   "data": [
     {
       "title": "weather",
-      "trafficCount": "500+",
+      "trafficCount": "100+",
       "pubDate": "Mon, 23 Feb 2026 02:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQa2PHEQWCGk4UkY1_lQAixgPXMei_dRsokAl0iWAtQpuMc9C-RHKZvOHhXPr4",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZyi3ZFmHhhNdHn0c_PIU9HKkT8ktGVpPqg7YeDxOYozahtySsruX_9AzXhMA",
+      "pictureSource": "Severe Weather Europe",
       "relatedSearch": [
+        {
+          "title": "A Taste of Spring for Europe as February ends",
+          "snippet": "",
+          "url": "https://www.severe-weather.eu/global-weather/heat-dome-taste-of-spring-omega-block-end-february-2026-europe-mk/",
+          "source": "Severe Weather Europe"
+        },
+        {
+          "title": "Weather on Monday, February 23rd: grey skies in the north, generally mild…",
+          "snippet": "",
+          "url": "https://entrevue.fr/en/meteo/meteo-du-lundi-23-fevrier-grisaille-au-nord-douceur-generalisee/",
+          "source": "ENTREVUE.FR"
+        },
         {
           "title": "Historic blizzard slams US north-east as NYC bans all travel",
           "snippet": "",
           "url": "https://www.bbc.com/news/articles/c75ere6z4weo",
           "source": "BBC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather tomorrow",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 22 Feb 2026 18:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLAAT1PthTEev71ddrMRq33hVVeBLNkjjpBa0WIW6VNYBkr-UP4HjIQiRo8kA",
+      "pictureSource": "NBC New York",
+      "relatedSearch": [
+        {
+          "title": "Live updates: Blizzard conditions grind NYC area to halt; see latest snow totals",
+          "snippet": "",
+          "url": "https://www.nbcnewyork.com/weather/live-updates-snow-totals-blizzard-nyc-nj-timing-storm-radar/6466668/",
+          "source": "NBC New York"
         },
         {
-          "title": "LIVE UPDATES: Winter Storm Hernando 'Bombs Out,' Knocks Out Power To Hundreds Of Thousands; 10,000 Flights Canceled",
+          "title": "NYC Tri-State snow blizzard mass transit impact: How storm is affecting MTA, subways, NJ Transit, Metro-North, LIRR",
           "snippet": "",
-          "url": "https://uk.news.yahoo.com/live-updates-winter-storm-hernando-091500307.html",
-          "source": "Yahoo News UK"
+          "url": "https://abc7ny.com/post/nyc-tri-state-snow-blizzard-mass-transit-impact-how-storm-is-affecting-mta-subways-nj-metro-north-lirr/18638373/",
+          "source": "ABC7 New York"
         },
         {
-          "title": "Video: Major Snowstorm Hits Northeast and Mid-Atlantic",
+          "title": "Fifteen inches of snow falls in New York as major snow storm blasts US north-east",
           "snippet": "",
-          "url": "https://www.nytimes.com/video/weather/100000010729984/snow-storm-nyc-northeast.html",
-          "source": "The New York Times"
+          "url": "https://www.bbc.com/news/live/cy7jnjz75e8t",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "warriors - nuggets",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 22 Feb 2026 17:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjteI0mTJydtyukqv-FDpZ12sTq-WZA9dZm5Ilx1jysm-cSMtnX_YcwKJwGrw",
-      "pictureSource": "Yahoo Sports",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyRqMfW4Vxhh5ZZBzfdiQFzZbMlrq65bBWjznXd0a6HCWCCdgGa7lWeMuM5Jc",
+      "pictureSource": "NBC Sports Bay Area & California",
       "relatedSearch": [
         {
-          "title": "Shannon Sharpe Poses Nikola Jokic Question During Warriors-Nuggets",
+          "title": "Warriors' Al Horford makes NBA history as oldest center to achieve 3-point feat",
           "snippet": "",
-          "url": "https://sports.yahoo.com/articles/shannon-sharpe-poses-nikola-jokic-054535037.html",
-          "source": "Yahoo Sports"
+          "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/al-horford-oldest-center-3-pointers/1919320/",
+          "source": "NBC Sports Bay Area & California"
         },
         {
-          "title": "NFL Legend Shannon Sharpe Poses Bold Question About Nikola Jokić’s Future Ranking Among NBA’s All-Time Greats",
+          "title": "Nikola Jokic News: Monster triple-double in loss",
           "snippet": "",
-          "url": "https://www.profootballnetwork.com/nba/shannon-sharpe-nikola-jokic-goat-debate-2025-26/",
-          "source": "PFSN"
+          "url": "https://www.rotowire.com/basketball/headlines/nikola-jokic-news-monster-triple-double-in-loss-520008",
+          "source": "RotoWire"
         },
         {
-          "title": "NBA regular season game: Golden State Warriors vs. Denver Nuggets",
+          "title": "Concerning pattern rears its ugly head again in the Nuggets' latest failure",
           "snippet": "",
-          "url": "https://english.news.cn/20260223/e9e536abf0fa48d286419fad803e6fdb/c.html",
-          "source": "Xinhua"
+          "url": "https://nugglove.com/concerning-pattern-rears-ugly-head-again-nuggets-latest-failure",
+          "source": "Nugg Love"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,9 +114,9 @@
           "source": "Claro Sports"
         },
         {
-          "title": "Roberto Hernández asegura que a Mixco le gusta ensuciar el juego",
+          "title": "PREVIA | Duelo de altura",
           "snippet": "",
-          "url": "https://guatefutbol.com/2026/02/22/roberto-hernandez-asegura-que-a-mixco-le-gusta-ensuciar-el-juego/",
+          "url": "https://guatefutbol.com/2026/02/22/previa-duelo-de-altura/",
           "source": "Guatefutbol.com"
         }
       ],
@@ -108,10 +136,10 @@
           "source": "ESPN Guatemala"
         },
         {
-          "title": "Partidos de fútbol pospuestos por violencia tras muerte de ‘El Mencho’ a manos del Ejército",
+          "title": "México: Tras los hechos en Jalisco, varios eventos deportivos son suspendidos",
           "snippet": "",
-          "url": "https://www.latimes.com/espanol/deportes/articulo/2026-02-22/partidos-de-futbol-pospuestos-por-violencia-tras-muerte-de-el-mencho-manos-del-ejercito",
-          "source": "Los Angeles Times"
+          "url": "https://emisorasunidas.com/deportes/2026/02/22/eventos-deportivos-suspendidos-por-violencia-en-jalisco/",
+          "source": "Emisoras Unidas"
         },
         {
           "title": "Resultado en vivo: Chivas femenil vs América femenil por la fecha 10 del Clausura MX",
@@ -136,16 +164,16 @@
           "source": "SSBCrack News"
         },
         {
+          "title": "Keys to the Game: Celtics 111, Lakers 89",
+          "snippet": "",
+          "url": "https://celtics.com/news/gamerecap-keys-20260222-boslal",
+          "source": "NBA"
+        },
+        {
           "title": "Lakers' Luka Doncic: Team-high 25 points in loss",
           "snippet": "",
           "url": "https://www.cbssports.com/fantasy/basketball/news/lakers-luka-doncic-team-high-25-points-in-loss/",
           "source": "CBS Sports"
-        },
-        {
-          "title": "Game Recap: Celtics 111, Lakers 89",
-          "snippet": "",
-          "url": "https://www.nba.com/watch/video/game-recap-celtics-111-lakers-89?plsrc=nba&collection=2025-26-game-recaps",
-          "source": "NBA"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -154,20 +182,20 @@
       "title": "pumas - monterrey",
       "trafficCount": "5000+",
       "pubDate": "Sun, 22 Feb 2026 14:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjlBy-Nzf1oto_LjQ-lVxAGjQky80HP8Ds7EnO05hvi04YqfK0Z550C8wxm40",
-      "pictureSource": "ESPN Guatemala",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnZFPy_kqY4g9h8_V4zqKh2va53rzpWby6z_Nf4114gUBzqezQS0yS_NhGUt4",
+      "pictureSource": "OneFootball",
       "relatedSearch": [
-        {
-          "title": "Pumas continúa invicto tras exhibición a Rayados",
-          "snippet": "",
-          "url": "https://www.espn.com.gt/futbol/mexico/nota/_/id/16347479/pumas-vs-rayados-alvaro-angulo-doblete-invicto-jornada-7",
-          "source": "ESPN Guatemala"
-        },
         {
           "title": "¡Pone su firma con un partidazo! Pedro Vite fue vital en triunfo sorpresa de Pumas",
           "snippet": "",
           "url": "https://onefootball.com/pt-br/noticias/pone-su-firma-con-un-partidazo-pedro-vite-fue-vital-en-triunfo-sorpresa-de-pumas-42452867",
           "source": "OneFootball"
+        },
+        {
+          "title": "Qué canal pasa Pumas vs Monterrey hoy: dónde ver GRATIS y EN VIVO el partido de la Liga MX",
+          "snippet": "",
+          "url": "https://www.365scores.com/es/news/que-canal-pasa-pumas-vs-monterrey-gratis/",
+          "source": "365Scores"
         },
         {
           "title": "Los universitarios reciben a la Pandilla en Ciudad Universitaria",
@@ -182,54 +210,26 @@
       "title": "vélez - river plate",
       "trafficCount": "500+",
       "pubDate": "Sun, 22 Feb 2026 14:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBXBnRIzNRdPSg-_KKrYdn3fNcjNRtKglzffgmAmaj-TgbbkTJY5Og2_gsizU",
-      "pictureSource": "Olé",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxdg-LXLh2wSMxBV4kCXKeTBvOfDL2nrVNgmMioffaEs7WzLFyUhM8nl8yjqo",
+      "pictureSource": "ESPN Guatemala",
       "relatedSearch": [
         {
-          "title": "Kendry Páez, de ingresar en el entretiempo a tener que salir lesionado unos minutos después",
+          "title": "La reacción de Marcelo Gallardo tras el gol de Lanzini en Vélez vs. River",
           "snippet": "",
-          "url": "https://www.ole.com.ar/river-plate/kendry-paez-lesion-ingreso-salio-hombro_0_dYTWn6rKhm.html",
-          "source": "Olé"
+          "url": "https://www.espn.com.gt/futbol/argentina/nota/_/id/16346871/video-la-reaccion-de-marcelo-gallardo-gol-manuel-lanzini-velez-vs-river",
+          "source": "ESPN Guatemala"
         },
         {
-          "title": "Reportan que Kendry Páez sufrió un esguince acromioclavicular en el hombro izquierdo",
+          "title": "La atajada de Álvaro Montero ante River Plate que valió como un gol: “Gallardo no lo puede creer”",
           "snippet": "",
-          "url": "https://studiofutbol.com.ec/2026/02/22/reportan-que-kendry-paez-sufrio-un-esguince-acromioclavicular-en-el-hombro-izquierdo/",
-          "source": "Studiofutbol"
+          "url": "https://bolavip.com/futbol-colombia/la-atajada-de-alvaro-montero-ante-river-plate-que-valio-como-un-gol-gallardo-no-lo-puede-creer",
+          "source": "Bolavip Global"
         },
         {
-          "title": "¡Primer reporte médico desde River! Kendry Péz se perdería los amistosos de marzo de La Tri (FOTO)",
+          "title": "¿Desde cuándo no le gana River a Vélez en Liniers?",
           "snippet": "",
-          "url": "https://onefootball.com/es/noticias/primer-reporte-medico-desde-river-kendry-pez-se-perderia-los-amistosos-de-marzo-de-la-tri-foto-42452983",
-          "source": "OneFootball"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "nuggets - warriors",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 22 Feb 2026 13:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyRqMfW4Vxhh5ZZBzfdiQFzZbMlrq65bBWjznXd0a6HCWCCdgGa7lWeMuM5Jc",
-      "pictureSource": "NBC Sports Bay Area & California",
-      "relatedSearch": [
-        {
-          "title": "Warriors' Al Horford makes NBA history as oldest center to achieve 3-point feat",
-          "snippet": "",
-          "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/al-horford-oldest-center-3-pointers/1919320/",
-          "source": "NBC Sports Bay Area & California"
-        },
-        {
-          "title": "Nikola Jokic News: Monster triple-double in loss",
-          "snippet": "",
-          "url": "https://www.rotowire.com/basketball/headlines/nikola-jokic-news-monster-triple-double-in-loss-520008",
-          "source": "RotoWire"
-        },
-        {
-          "title": "Concerning pattern rears its ugly head again in the Nuggets' latest failure",
-          "snippet": "",
-          "url": "https://nugglove.com/concerning-pattern-rears-ugly-head-again-nuggets-latest-failure",
-          "source": "Nugg Love"
+          "url": "https://www.espn.com.ar/futbol/argentina/nota/_/id/16347311/velez-vs-river-desde-cuando-no-gana-en-liniers-amalfitani",
+          "source": "ESPN Argentina"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -248,16 +248,16 @@
           "source": "O Jogo"
         },
         {
-          "title": "Froholdt: \"Temos de ser mais eficazes para não ficarmos em perigo de perder pontos\"",
+          "title": "Farioli: «Os próximos meses vão ser exigentes, especialmente a nível mental»",
           "snippet": "",
-          "url": "https://sapo.pt/artigo/froholdt-temos-de-ser-mais-eficazes-para-nao-ficarmos-em-perigo-de-perder-pontos-699b86a84c6a06671890df40",
+          "url": "https://sapo.pt/artigo/farioli-os-proximos-meses-vao-ser-exigentes-especialmente-a-nivel-mental-699b8c334c6a06671891f822",
           "source": "SAPO"
         },
         {
-          "title": "Situações de golo, assobios e a equipa sem Samu: tudo o que disse Farioli",
+          "title": "AO VIVO: Rodrigo Mora acerta no ferro, Bednarek com muitas queixas (90+1')",
           "snippet": "",
-          "url": "https://www.abola.pt/noticias/situacoes-de-golo-assobios-e-a-equipa-sem-samu-tudo-o-que-disse-farioli-2026022212480029562",
-          "source": "A Bola"
+          "url": "https://www.flashscore.pt/noticias/futebol-liga-portugal-betclic-ao-vivo-rodrigo-mora-acerta-no-ferro-bednarek-com-muitas-queixas-90-1/6wkTrRUI/",
+          "source": "Flashscore.pt"
         }
       ],
       "link": "https://imtaqin.id/"

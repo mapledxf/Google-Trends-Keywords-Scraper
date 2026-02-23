@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-23 11:01:55",
+  "lastUpdate": "2026-02-23 11:46:45",
   "data": [
     {
       "title": "الطقس",
@@ -31,28 +31,28 @@
     },
     {
       "title": "weather",
-      "trafficCount": "2000+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 22 Feb 2026 21:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGvNSgZxi4uApp2QCoV_7bAVn9gniJvETehQ5GElxXpTZMtbVGSYhvkKxinTA",
-      "pictureSource": "The Weather Channel",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZyi3ZFmHhhNdHn0c_PIU9HKkT8ktGVpPqg7YeDxOYozahtySsruX_9AzXhMA",
+      "pictureSource": "Severe Weather Europe",
       "relatedSearch": [
         {
-          "title": "'Potentially Historic Blizzard' Ongoing For Northeast",
+          "title": "A Taste of Spring for Europe as February ends",
           "snippet": "",
-          "url": "https://weather.com/storms/winter/news/2026-02-18-east-coast-storm-noreaster-forecast",
-          "source": "The Weather Channel"
+          "url": "https://www.severe-weather.eu/global-weather/heat-dome-taste-of-spring-omega-block-end-february-2026-europe-mk/",
+          "source": "Severe Weather Europe"
         },
         {
-          "title": "New York's Mayor Mamdani orders citywide travel ban as major storm hits US",
+          "title": "Weather on Monday, February 23: overcast in the north, generally mild",
           "snippet": "",
-          "url": "https://www.lemonde.fr/en/climate/article/2026/02/23/new-york-s-mayor-mamdani-orders-citywide-travel-ban-as-major-storm-hits-us_6750769_96.html",
-          "source": "Le Monde.fr"
+          "url": "https://entrevue.fr/en/meteo/meteo-du-lundi-23-fevrier-grisaille-au-nord-douceur-generalisee/",
+          "source": "ENTREVUE.FR"
         },
         {
-          "title": "How much snow have we gotten so far? See latest totals near you",
+          "title": "Calix Postpones 2026 Investor Day Due to Weather Event",
           "snippet": "",
-          "url": "https://www.nbcnewyork.com/weather/weather-stories/how-much-snow-totals-inches-nyc-long-island-nj-accumulation-blizzard/6467598/",
-          "source": "NBC New York"
+          "url": "https://www.marketscreener.com/news/calix-postpones-2026-investor-day-due-to-weather-event-ce7e5dd2de89f12d",
+          "source": "www.marketscreener.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,9 +173,15 @@
       "title": "الطقس غدًا",
       "trafficCount": "10000+",
       "pubDate": "Sun, 22 Feb 2026 10:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFWRHK8txE6oTB4_nMMIW27T3yalqDCmXe9Z6JmG2i-NuB05ViUaHlGeCp4lg",
-      "pictureSource": "الخليج",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7l5TAg4xt4Lz_corCkUDMXlQAlylJe4B73fHeWoKVTJQ6QddsjvLDIZzrdA4",
+      "pictureSource": "المصري اليوم",
       "relatedSearch": [
+        {
+          "title": "«الشوارع هتغرق».. إنذار جوي بشأن حالة الطقس: أمطار رعدية تضرب القاهرة والمحافظات",
+          "snippet": "",
+          "url": "https://www.almasryalyoum.com/news/details/4205552",
+          "source": "المصري اليوم"
+        },
         {
           "title": "تحذيرات عاجلة من الأرصاد بشأن طقس الساعات المقبلة في مصر",
           "snippet": "",
@@ -183,16 +189,38 @@
           "source": "الخليج"
         },
         {
-          "title": "حالة الطقس اليوم الاثنين في مصر.. أمطار متفاوتة الشدة وانخفاض درجات الحرارة",
-          "snippet": "",
-          "url": "https://www.cairo24.com/2376935",
-          "source": "القاهرة 24"
-        },
-        {
           "title": "درجات الحرارة اليوم الإثنين في محافظات مصر",
           "snippet": "",
           "url": "https://www.vetogate.com/5600614",
           "source": "فيتو"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather tomorrow",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 22 Feb 2026 10:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmnpaq4JI2JK7sc9RuebQk71fnJ_TnaorSFJreNXNwVDmwE5a1vb1HuLwo_eY",
+      "pictureSource": "NBC New York",
+      "relatedSearch": [
+        {
+          "title": "Live updates: Blizzard conditions grind NYC area to halt; see latest snow totals",
+          "snippet": "",
+          "url": "https://www.nbcnewyork.com/weather/live-updates-snow-totals-blizzard-nyc-nj-timing-storm-radar/6466668/",
+          "source": "NBC New York"
+        },
+        {
+          "title": "Live updates: Monster blizzard 'bomb' paralyzes Northeast in extreme snow, soaring power outages",
+          "snippet": "",
+          "url": "https://www.foxweather.com/live-news/live-updates-monster-blizzard-bomb-paralyzes-northeast-in-extreme-snow-soaring-power-outages",
+          "source": "FOX Weather"
+        },
+        {
+          "title": "Emergency Executive Order No. 3",
+          "snippet": "",
+          "url": "https://www.nyc.gov/mayors-office/news/2026/02/emergency-executive-order-no--3",
+          "source": "NYC.gov"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,15 +257,9 @@
       "title": "tottenham vs arsenal",
       "trafficCount": "200+",
       "pubDate": "Sun, 22 Feb 2026 10:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoznQtjdw_v8pRNosJRxEWNkwIoauAD9Mw_x8CukI9wO9dEdYu8o4lN3icQj8",
-      "pictureSource": "Sky Sports",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTou29dcxN3etxj9iCZO4W9mDeFEJi6EsM_0j_HN46HB6r8eVFbSeFFKPwVKyA",
+      "pictureSource": "OC Today-Dispatch",
       "relatedSearch": [
-        {
-          "title": "Live Commentary - Spurs vs Arsenal | 22.02.2026",
-          "snippet": "",
-          "url": "https://www.skysports.com/football/tottenham-hotspur-vs-arsenal/live/531397",
-          "source": "Sky Sports"
-        },
         {
           "title": "Three talking points from the Premier League",
           "snippet": "",
@@ -245,38 +267,16 @@
           "source": "OC Today-Dispatch"
         },
         {
-          "title": "Premier League Prices: Gunners 4/9 for title after emphatic NLD win with Spurs 6/1 to be relegated",
+          "title": "This is how Arsenal eased past Tottenham in the North London derby",
           "snippet": "",
-          "url": "https://onefootball.com/pt-br/noticias/premier-league-prices-gunners-49-for-title-after-emphatic-nld-win-with-spurs-61-to-be-relegated-42451874",
-          "source": "OneFootball"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "توتنهام ضد آرسنال",
-      "trafficCount": "2000+",
-      "pubDate": "Sun, 22 Feb 2026 08:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2YnNGCxpORb99OfgNE__-4yZxTGJWiUC1mdfRjgUiJ3zBudqtmg6pvklq2Cc",
-      "pictureSource": "Kooora",
-      "relatedSearch": [
-        {
-          "title": "فيديو: آرسنال يهين توتنهام في عقر داره ويتمسك بصدارة البريميرليج",
-          "snippet": "",
-          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%A6%D9%85/%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%A7%D9%93%D8%B1%D8%B3%D9%86%D8%A7%D9%84-%D9%8A%D9%87%D9%8A%D9%86-%D8%AA%D9%88%D8%AA%D9%86%D9%87%D8%A7%D9%85-%D9%81%D9%8A-%D8%B9%D9%82%D8%B1-%D8%AF%D8%A7%D8%B1%D9%87-%D9%88%D9%8A%D8%AA%D9%85%D8%B3%D9%83-%D8%A8%D8%B5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D9%85%D9%8A%D8%B1%D9%84%D9%8A%D8%AC/bltb1f318994187fb4e",
-          "source": "Kooora"
+          "url": "https://www.flashscore.com/news/soccer-premier-league-the-data-behind-arsenal-s-premier-league-demolition-of-north-london-rivals-tottenham/EXepYHPi/",
+          "source": "Flashscore.com"
         },
         {
-          "title": "أرتيتا يهدد لاعبي آرسنال: من لا يحتمل ضجيج المنافسة يمكنه الرحيل",
+          "title": "'They've had a personality bypass!' - Jamie Redknapp scorches 'horrendous' Tottenham after derby mauling by Arsenal & issues relegation verdict",
           "snippet": "",
-          "url": "https://shehabnews.com/post/150852/%D8%A3%D8%B1%D8%AA%D9%8A%D8%AA%D8%A7-%D9%8A%D9%87%D8%AF%D8%AF-%D9%84%D8%A7%D8%B9%D8%A8%D9%8A-%D8%A2%D8%B1%D8%B3%D9%86%D8%A7%D9%84-%D9%85%D9%86-%D9%84%D8%A7-%D9%8A%D8%AD%D8%AA%D9%85%D9%84-%D8%B6%D8%AC%D9%8A%D8%AC-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B3%D8%A9-%D9%8A%D9%85%D9%83%D9%86%D9%87-%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%84",
-          "source": "وكالة شهاب الإخبارية"
-        },
-        {
-          "title": "إشادة خاصة من أرتيتا بنجم أرسنال",
-          "snippet": "",
-          "url": "https://twaslnews.twaslnews.com/609903/",
-          "source": "شبكة تواصل الإخبارية"
+          "url": "https://www.goal.com/en-in/lists/jamie-redknapp-horrendous-tottenham-derby-mauling-arsenal-relegation/blte5407ca3a4f055bd",
+          "source": "Goal.com"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,37 +1,65 @@
 {
-  "lastUpdate": "2026-02-28 09:56:28",
+  "lastUpdate": "2026-02-28 10:18:38",
   "data": [
     {
-      "title": "bahrain",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 28 Feb 2026 01:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJKcqqhftyF1eOFtChCvUL-0ZTKUxsvMIiNB5NOIAu9YLjhf7dboAOmySG3cs",
-      "pictureSource": "AP News",
+      "title": "nyheter",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 28 Feb 2026 02:10:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTla_Qx4ER-FdLvQEc4jX_Gy2C3aJvKgut5rF8oKN-iE-V1ne--ofXHrfnAh1A",
+      "pictureSource": "NRK",
       "relatedSearch": [
         {
-          "title": "US and Israel launch an attack on Iran with tensions high over nuclear talks",
+          "title": "Grønt batterieventyr verdsettes til null: – Et mareritt",
+          "snippet": "",
+          "url": "https://www.nrk.no/sorlandet/morrow-batteries-verdsettes-til-null_-_-et-mareritt-1.17788599",
+          "source": "NRK"
+        },
+        {
+          "title": "(+) Nå bør Å Energi diskutere egen rolle",
+          "snippet": "",
+          "url": "https://www.fvn.no/mening/leder/i/GxMjzQ/naa-boer-aa-energi-diskutere-egen-rolle",
+          "source": "fvn.no"
+        },
+        {
+          "title": "Mener at Morrow er null verdt",
+          "snippet": "",
+          "url": "https://www.agderposten.no/naeringsliv/n/y56O6K/storeieren-mener-at-morrow-batteries-er-null-verdt",
+          "source": "agderposten.no"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "bahrain",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 28 Feb 2026 01:10:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQRdAgPTvZa0stPxG_O0czVg7F0tw61kQXaHe6UIjZ7JRbk5c0yliWbyt25ZQ",
+      "pictureSource": "Euronews",
+      "relatedSearch": [
+        {
+          "title": "Explosions reported in UAE, Kuwait and Bahrain as military op against Iran spills into wider region",
+          "snippet": "",
+          "url": "https://www.euronews.com/2026/02/28/israel-launches-attack-on-iran-defence-minister-says",
+          "source": "Euronews"
+        },
+        {
+          "title": "US and Israel launch a major attack on Iran and Trump urges Iranians to 'take over your government'",
           "snippet": "",
           "url": "https://apnews.com/article/iran-us-explosion-tehran-c2f11247d8a66e36929266f2c557a54c",
           "source": "AP News"
         },
         {
-          "title": "U.S. Navy Base in Bahrain Targeted",
+          "title": "Qatar's interior ministry says conditions in Qatar remain stable and safe in light of attacks on Iran",
           "snippet": "",
-          "url": "https://www.wsj.com/livecoverage/iran-strikes-2026/card/u-s-navy-base-in-bahrain-targeted-IyVAqJaH8IPdCrWy1kkn?gaa_at=eafs&gaa_n=AWEtsqcG66vAV9iFirRaEc_ph9b3KRhvrWIH0bBfIS3MdHFCtkgA7WLORDsb&gaa_ts=69a2bede&gaa_sig=dK1s_IjSplMF2535UqqPV6fEeOrwCowKeWkCUvL8sx1sSNv7j8iH9tYBaNXXxOVFgn6NXvjIiaRrIM1WYuKGOA%3D%3D",
-          "source": "The Wall Street Journal"
-        },
-        {
-          "title": "🚨🇦🇪 BREAKING: Explosions in Abu Dhabi, UAE's capital. Source: CNN",
-          "snippet": "",
-          "url": "https://x.com/MarioNawfal/status/2027674023354597810",
-          "source": "X"
+          "url": "https://www.marketscreener.com/news/qatar-s-interior-ministry-says-conditions-in-qatar-remain-stable-and-safe-in-light-of-attacks-on-ira-ce7e5cdfd188f327",
+          "source": "marketscreener.com"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "oil price",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 28 Feb 2026 01:00:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQq3bVyU9aa-lM7e8L4_DDh13n--ArXOngVjeiaEC1yZcyRZWNxNPP2914kjMM",
       "pictureSource": "Reuters",
@@ -43,9 +71,9 @@
           "source": "Reuters"
         },
         {
-          "title": "Iran Has Huge Oil Reserves. What the U.S. and Israel Military Strike Might Mean for Prices.",
+          "title": "Iran Has Huge Oil Reserves. What the U.S. and Israel Military Strike Means for Prices.",
           "snippet": "",
-          "url": "https://www.barrons.com/articles/what-u-s-military-strike-iran-might-mean-for-oil-prices-israel-strike-0b32fd0a?gaa_at=eafs&gaa_n=AWEtsqcgxakBAOKPV6Mtr0yKzWcCnCkMpG7XJ_p9w65nGSom27VMUQdyVkli&gaa_ts=69a2bf4f&gaa_sig=W8tsjPN_KMSW76RWShi7lK3yGkDNSPjebYrw34Rac3BRzGhZyNLGNEFDRufMOsvyx41fYzLF1qH4kBp7p06sYg%3D%3D",
+          "url": "https://www.barrons.com/articles/what-u-s-military-strike-iran-might-mean-for-oil-prices-israel-strike-0b32fd0a?gaa_at=eafs&gaa_n=AWEtsqcGaNk41_OebY8tM0_7DcseQlEvgYShFYNr2KUh_St7dMFNqSwCV0Q4&gaa_ts=69a2c3f4&gaa_sig=2M-I3LVGDo9WkFYN5vpWkdG9305d50JnA8VgxW6RYaKugheL_HSRZmQMk60TybVn_7IL4pkY0X54pHmrtcjlsw%3D%3D",
           "source": "Barron's"
         },
         {
@@ -59,7 +87,7 @@
     },
     {
       "title": "mgp finale 2026",
-      "trafficCount": "500+",
+      "trafficCount": "100+",
       "pubDate": "Sat, 28 Feb 2026 00:50:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvXNu4BnufbyTxZuJlWpMzVjNpt7WI1Whtym1PoVaPhVbqWXMEcl2-NOi_grY",
       "pictureSource": "NRK",
@@ -87,7 +115,7 @@
     },
     {
       "title": "falun 2026 tv",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 28 Feb 2026 00:30:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTI9LrMkVKbTgNp_fxSNnsAWTRjHKIyB29Imy30RWSORC9uZqm2tfnRMiDK-fM",
       "pictureSource": "Langrenn.com",
@@ -111,26 +139,26 @@
       "title": "dubai",
       "trafficCount": "200+",
       "pubDate": "Sat, 28 Feb 2026 00:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2R9wrZLLLh-SXmLdBc3sAo8S3q4VaSOfOPB0nOmrY6ssYzZyhw2qRscQzTQ8",
-      "pictureSource": "marketscreener.com",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWa2vHB1EHe82GHBYr5XchqmDBicPLO5tlZ_RRvIcMpjguKB6NbaBiXutUiDY",
+      "pictureSource": "Flashscore.com",
       "relatedSearch": [
         {
-          "title": "Lufthansa suspends flights to and from Tel Aviv, Beirut, Oman",
+          "title": "Tallon Griekspoor overcomes injury to beat Andrey Rublev and head to Dubai final",
           "snippet": "",
-          "url": "https://www.marketscreener.com/news/lufthansa-suspends-flights-to-and-from-tel-aviv-beirut-oman-ce7e5cdfd188f021",
-          "source": "marketscreener.com"
+          "url": "https://www.flashscore.com/news/tennis-dubai-atp-singles-tallon-griekspoor-overcomes-injury-to-beat-andrey-rublev-and-head-to-dubai-final/2iuEiYo9/",
+          "source": "Flashscore.com"
         },
         {
-          "title": "Air France Halts Flights Amid Middle East Tensions",
+          "title": "Medvedev, one step away from his most surreal record coming to an end",
           "snippet": "",
-          "url": "https://www.devdiscourse.com/article/business/3821001-air-france-halts-flights-amid-middle-east-tensions",
-          "source": "Devdiscourse"
+          "url": "https://www.puntodebreak.com/en/2026/02/27/medvedev-one-step-away-from-his-most-surreal-record-coming-to-an-end",
+          "source": "Punto de Break"
         },
         {
-          "title": "Lufthansa suspends flights to Dubai, Tel Aviv, Beirut and Oman",
+          "title": "Medvedev vs. Tallon Griekspoor Prediction, Odds to Win Dubai Duty Free Tennis Championships",
           "snippet": "",
-          "url": "https://news.az/news/lufthansa-suspends-flights-to-dubai-t-el-aviv-beirut-and-oman",
-          "source": "Latest news from Azerbaijan"
+          "url": "https://sportsbookwire.usatoday.com/story/sports/sports-betting/2026/02/27/daniil-medvedev-tallon-griekspoor-dubai-free-tennis-championships-tennis-odds-lines-betting-2026/88908003007/",
+          "source": "Sportsbook Wire"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -167,9 +195,15 @@
       "title": "novak",
       "trafficCount": "200+",
       "pubDate": "Fri, 27 Feb 2026 23:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZqZ3bmmk46OX99-W_c8wUi3E_pgnEKx6jtGbsVfcJ5yn-gWvZtIMd10q8LGk",
-      "pictureSource": "PFSN",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQAGaQHFyQ0VEMY8kLntSSLqVsYiKVVxucrnntL4fgqbrzejRV-YluqxguXXM",
+      "pictureSource": "News18",
       "relatedSearch": [
+        {
+          "title": "Taylor Fritz Reveals Tennis' Reality: Big Three Have Their Way And 'That’s Just How It Is'",
+          "snippet": "",
+          "url": "https://www.news18.com/sports/tennis/taylor-fritz-reveals-tennis-reality-big-three-have-their-way-and-thats-just-how-it-is-ws-l-9935166.html",
+          "source": "News18"
+        },
         {
           "title": "Taylor Fritz Explains Why Novak Djokovic, Carlos Alcaraz Enjoy Priority Scheduling; Discloses His Spot in the Hierarchy",
           "snippet": "",
@@ -181,12 +215,6 @@
           "snippet": "",
           "url": "https://collegefootballnetwork.com/tennis/taylor-fritz-reveals-reality-carlos-alcaraz-novak-djokovic-jannik-sinner-priority-treatment-tournaments/",
           "source": "College Sports Network"
-        },
-        {
-          "title": "Novak Djokovic's dad opens up on 'mistakes' after son denied his retirement wish",
-          "snippet": "",
-          "url": "https://www.express.co.uk/sport/tennis/2174420/Novak-Djokovic-dad-Srdjan-retirement-wish",
-          "source": "Express.co.uk"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -199,7 +227,7 @@
       "pictureSource": "VG",
       "relatedSearch": [
         {
-          "title": "Israel og USA angriper Iran",
+          "title": "siste: Israel og USA angriper Iran",
           "snippet": "",
           "url": "https://www.vg.no/nyheter/i/Pd4OR7/israel-og-usa-angriper-iran",
           "source": "VG"
@@ -211,38 +239,10 @@
           "source": "Dagbladet"
         },
         {
-          "title": "Eksperter reagerer – dette kan være målet",
+          "title": "Konflikten mellom Israel, USA, Iran – Siste nytt",
           "snippet": "",
-          "url": "https://www.tv2.no/nyheter/eksperter-reagerer-dette-kan-vaere-malet/18612731/",
-          "source": "TV2.no"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "bbc news",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 27 Feb 2026 22:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRfWevrioeRQYRm0AzfTfF3uACDg_jz1VIthftzbD8gEmerXhxJ0F8O3uHWE0",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Andrew Mountbatten-Windsor and the strange British phenomenon of the snatched backseat picture",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/cn9e2qd894go",
-          "source": "BBC"
-        },
-        {
-          "title": "IT issues affecting Birmingham hospital's patient records 'fully resolved'",
-          "snippet": "",
-          "url": "https://www.bbc.co.uk/news/articles/c8d5r324j38o",
-          "source": "BBC"
-        },
-        {
-          "title": "Sandwell NHS trust's electronic patient records hit by IT issues",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c7vj8076820o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-          "source": "BBC"
+          "url": "https://www.nrk.no/nyheter/konflikten-mellom-israel_-usa_-iran-1.17453480",
+          "source": "NRK"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -261,16 +261,16 @@
           "source": "CNN"
         },
         {
-          "title": "Initial Focus of U.S. Strikes in Iran Is Military Targets",
+          "title": "Trump warns some Americans may die amid U.S. strikes in Iran",
           "snippet": "",
-          "url": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-us-attacks-military-targets.html",
-          "source": "The New York Times"
+          "url": "https://www.staradvertiser.com/2026/02/27/breaking-news/trump-warns-some-americans-may-die-amid-u-s-strikes-in-iran/",
+          "source": "Honolulu Star-Advertiser"
         },
         {
-          "title": "Trump announces 'major combat operations' in Iran",
+          "title": "Chaos and Panic Grip Tehran as Airstrikes Shake City",
           "snippet": "",
-          "url": "https://www.npr.org/2026/02/28/nx-s1-5730158/israel-iran-strikes-trump-us",
-          "source": "NPR"
+          "url": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-reaction-us-attack-tehran.html",
+          "source": "The New York Times"
         }
       ],
       "link": "https://imtaqin.id/"

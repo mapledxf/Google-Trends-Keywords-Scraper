@@ -1,58 +1,86 @@
 {
-  "lastUpdate": "2026-02-28 06:43:02",
+  "lastUpdate": "2026-02-28 07:05:56",
   "data": [
     {
-      "title": "reuters",
-      "trafficCount": "100+",
+      "title": "bbc",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 27 Feb 2026 22:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSEhlZp-pznH3q-Pk5ys1nTHq8TZNyVi-ik_gcyUvX-LZSDKVkRVRUfjs8nV4",
-      "pictureSource": "CNN",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqeoXwgLD312YNk2Wd-Lf-wVr39hLupZPjDpvjQ0y8tHpF4kPUDVaS5U9tBrA",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Polls show increasing concerns about Trump’s mental acuity",
+          "title": "Israel launches attack on Iran, defence minister says",
           "snippet": "",
-          "url": "https://www.cnn.com/2026/02/26/politics/donald-trump-mental-fitness-polls",
+          "url": "https://www.bbc.com/news/live/cn5ge95q6y7t",
+          "source": "BBC"
+        },
+        {
+          "title": "Israel launches attack on Iran as explosions heard in Tehran",
+          "snippet": "",
+          "url": "https://www.theguardian.com/world/2026/feb/28/israel-launches-attack-on-iran-as-explosions-heard-in-tehran",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Israel launches strike against Iran, declares state of emergency across country",
+          "snippet": "",
+          "url": "https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk",
           "source": "CNN"
-        },
-        {
-          "title": "Most Americans say Trump is growing erratic with age, Reuters/Ipsos poll finds",
-          "snippet": "",
-          "url": "https://www.reuters.com/world/us/most-americans-say-trump-is-growing-erratic-with-age-reutersipsos-poll-finds-2026-02-24/",
-          "source": "Reuters"
-        },
-        {
-          "title": "Donald Trump’s New Poll: 61% Thinks Has Become ‘Erratic With Age’",
-          "snippet": "",
-          "url": "https://www.yahoo.com/news/articles/donald-trump-poll-61-thinks-054000662.html",
-          "source": "Yahoo"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "bbc",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 27 Feb 2026 22:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0OFo0b9Ep2s2N0D97tCB80ZjXEb7e7cuENUQK1_eYbxkI11JJpqU5wzUQWg8",
-      "pictureSource": "BBC",
+      "title": "unt",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 27 Feb 2026 20:40:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgZrdn871xkFK6laOBnP3HVFLwdVvTD6w-0X4omo3ERZ8rVLIBm3rtbh-HyYk",
+      "pictureSource": "UNT, Upsala Nya Tidning",
       "relatedSearch": [
         {
-          "title": "Football gossip: Anderson, Jones, Maguire, Griezmann, Alvarez, Trafford, Alisson, Livramento",
+          "title": "Moa: Jag tvingades in i en elitsatsning",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/articles/c4gjkv8x3dyo",
-          "source": "BBC"
+          "url": "https://www.unt.se/story-sport/artikel/moa-jag-tvingades-in-i-en-elitsatsning/r90wo3mr",
+          "source": "UNT, Upsala Nya Tidning"
         },
         {
-          "title": "Man United Confidential: Shock interest in Morgan Gibbs-White REVEALED",
+          "title": "Misstänkt om inköpslistan: \"Skumt\"",
           "snippet": "",
-          "url": "https://www.dailymail.co.uk/sport/football/article-15588277/manchester-united-morgan-gibbs-white-interest.html",
-          "source": "Daily Mail"
+          "url": "https://www.unt.se/liverapportering-nyheter/artikel/misstankt-om-inkopslistan-skumt/jvd7967j",
+          "source": "UNT, Upsala Nya Tidning"
         },
         {
-          "title": "Man Utd and Man City ready to go head to head in Elliot Anderson transfer battle",
+          "title": "Dna-analysen dröjde – hann skjuta ihjäl tre",
           "snippet": "",
-          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-united-city-transfer-anderson-36790672",
-          "source": "The Mirror"
+          "url": "https://www.aftonbladet.se/nyheter/a/2pBVOa/dna-analysen-drojde-utforde-trippelmord-i-uppsala-bara-i-speciella-fall",
+          "source": "Aftonbladet"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "iran international",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 27 Feb 2026 20:20:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTag9Og7_--7wNo2v-oQzGDHM6RAPb-5xwSb1lKsM5NW9_Uj7sEQ2ETLhFMmLQ",
+      "pictureSource": "CNN",
+      "relatedSearch": [
+        {
+          "title": "Trump wonders why Iran won’t ‘capitulate’ on its nuclear program. Here’s why",
+          "snippet": "",
+          "url": "https://www.cnn.com/2026/02/27/middleeast/trump-iran-capitulated-reasons-intl",
+          "source": "CNN"
+        },
+        {
+          "title": "In Iran Talks, U.S. Brings Tough Demands, Growing Military Presence",
+          "snippet": "",
+          "url": "https://www.wsj.com/world/middle-east/u-s-brings-tough-demands-to-iran-nuclear-talks-8aab06ad?gaa_at=eafs&gaa_n=AWEtsqdfoJU-d2Cl5SzZIOqPrSDQbMHIS0YIkifiqhwe6xWkSASZ41G3qVJy&gaa_ts=69a296ab&gaa_sig=v-Zr9Rh014CKkNOhaxxEq5VoRKBqp6t9DLbpZiATJywKuQhCqOyLHBAtWJ6DB-MQXz6vX_Sv5Ic333OAfUgpzA%3D%3D",
+          "source": "The Wall Street Journal"
+        },
+        {
+          "title": "Scoop: Witkoff says any Iran nuclear deal should last indefinitely",
+          "snippet": "",
+          "url": "https://www.axios.com/2026/02/25/witkoff-iran-deal-indefinite-geneva-talks",
+          "source": "Axios"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,6 +114,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "monica lewinsky",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 27 Feb 2026 19:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStISHA4n7-ebwJSiUL9Kp2hDqN5w9eQxxKcRlJVovOZ0BLHsc7Tz3UaxKXnpk",
+      "pictureSource": "Vanity Fair",
+      "relatedSearch": [
+        {
+          "title": "Monica Lewinsky on the Epstein Files and the Nuances of Grooming",
+          "snippet": "",
+          "url": "https://www.vanityfair.com/news/story/monica-lewinsky-epstein-files",
+          "source": "Vanity Fair"
+        },
+        {
+          "title": "Monica Lewinsky analyzes the cruel calculus of grooming in powerful new essay",
+          "snippet": "",
+          "url": "https://artthreat.net/4556-24216-monica-lewinsky-analyzes-the-cruel-calculus-of-grooming-in-powerful-new-essay/",
+          "source": "Art Threat"
+        },
+        {
+          "title": "Monica Lewinsky Puts Grooming into Focus as Epstein files drive high‑profile depositions and political fallout",
+          "snippet": "",
+          "url": "https://www.filmogaz.com/172788",
+          "source": "FilmoGaz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "twitch",
       "trafficCount": "100+",
       "pubDate": "Fri, 27 Feb 2026 18:30:00 -0800",
@@ -111,26 +167,26 @@
       "title": "nhl",
       "trafficCount": "100+",
       "pubDate": "Fri, 27 Feb 2026 18:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRU97e9ShaewHqgL41XMBomeGg5sd21zSS-fIxoXvuZTz96RNL2Y22x-U0jDcU",
-      "pictureSource": "Aftonbladet",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeicVWVcKW33S-WNL5m3Av2gu38kOEXDC9w51fNpy3gI4tykU0rivFQbBkHLU",
+      "pictureSource": "NHL.com",
       "relatedSearch": [
         {
-          "title": "Carlsson stekhet – tangerade personbästa",
+          "title": "Salomonsson gör sitt första mål i NHL",
           "snippet": "",
-          "url": "https://www.aftonbladet.se/sportbladet/hockey/a/gkE4VL/leo-carlsson-malskytt-mot-winnipeg-nadde-personbasta-nhl",
-          "source": "Aftonbladet"
+          "url": "https://www.nhl.com/sv/video/wpg-ana-salomonsson-scores-goal-against-lukas-dostal-6390124639112",
+          "source": "NHL.com"
         },
         {
-          "title": "Anaheim Ducks vann trots tvåmålsunderläge i tredje perioden",
+          "title": "Svenske talangens glädje – skjuter första NHL-målet",
           "snippet": "",
-          "url": "https://hockeysverige.se/matchrapporter/anaheim-ducks-vann-trots-tvamalsunderlage-i-tredje-perioden/",
+          "url": "https://hockeysverige.se/nhl/elias-salomonsson-skjuter-sitt-forsta-nhl-mal-winnipeg-jets/",
           "source": "hockeysverige.se"
         },
         {
-          "title": "Carlssons stora kväll",
+          "title": "Glädjen i natt: Första NHL-målet för Skellefteå-killen",
           "snippet": "",
-          "url": "https://www.nhl.com/sv/video/carlsson-s-big-3-point-night-6389947184112",
-          "source": "NHL.com"
+          "url": "https://www.folkbladet.nu/2026-02-28/guldhjaltens-gladje-skot-sitt-forsta-nhl-mal-c12eb",
+          "source": "Folkbladet"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -139,20 +195,20 @@
       "title": "max",
       "trafficCount": "100+",
       "pubDate": "Fri, 27 Feb 2026 18:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfobZoOR42iHKQ4Rh-AIEtpxf_S2XtY86iWDcA2wYdsiGnAHxBQ72LKyBmjW4",
-      "pictureSource": "The Hollywood Reporter",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNiXBJP_hrIoXyVWMxOsyUIIYpN7Hu9kyRILB2Kg8gqE3J0AFLqOWquW_I4lA",
+      "pictureSource": "Deadline",
       "relatedSearch": [
-        {
-          "title": "Max Landis, Whose Career Imploded During #MeToo, Returns with ‘G.I. Joe’ Movie at Paramount (Exclusive)",
-          "snippet": "",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/max-landis-gi-joe-movie-at-paramount-1236516444/",
-          "source": "The Hollywood Reporter"
-        },
         {
           "title": "Two Different ‘G.I. Joe’ Movies In Early Works At Paramount Between Danny McBride & Max Landis",
           "snippet": "",
           "url": "https://deadline.com/2026/02/g-i-joe-movies-danny-mcbride-max-landis-1236738802/",
           "source": "Deadline"
+        },
+        {
+          "title": "Max Landis, Whose Career Imploded During #MeToo, Returns with ‘G.I. Joe’ Movie at Paramount (Exclusive)",
+          "snippet": "",
+          "url": "https://www.hollywoodreporter.com/news/general-news/max-landis-whose-career-imploded-during-metoo-returns-with-g-i-joe-movie-at-paramount-exclusive-1236516444/",
+          "source": "The Hollywood Reporter"
         },
         {
           "title": "Paramount Taps Another Filmmaker Canceled During 'Me Too'—For New 'G.I. Joe' Movie",
@@ -164,44 +220,16 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "iran",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 27 Feb 2026 17:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhTlbzUMyj3Vl78TZm5SF3NoNmZWJKUVwuobM5ulY44Aj2Ki488SVSt31GWqo",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Trump 'not thrilled' with Iran after latest talks on nuclear programme",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c309vz0z893o",
-          "source": "BBC"
-        },
-        {
-          "title": "February 27, 2026 - Trump administration updates",
-          "snippet": "",
-          "url": "https://www.cnn.com/politics/live-news/trump-administration-news-02-27-26",
-          "source": "CNN"
-        },
-        {
-          "title": "Trump ‘not happy’ with Iran situation and says military force is still an option",
-          "snippet": "",
-          "url": "https://www.theguardian.com/world/2026/feb/27/us-urges-citizens-leave-israel-threat-strike-iran",
-          "source": "The Guardian"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "neil sedaka",
       "trafficCount": "2000+",
       "pubDate": "Fri, 27 Feb 2026 13:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_xgzrE4k9SdI63qbUy8xmi8yi8XlCJpKxzB4-hIaNoCddelzr1y_mwhzjBZA",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9zt-EXvZ8PnaHMVW9fMytJfkwhKckN1bhRSg8104AJ7aSH8ysBvui6enLqdc",
       "pictureSource": "The New York Times",
       "relatedSearch": [
         {
-          "title": "Neil Sedaka: 14 Essential Songs",
+          "title": "Neil Sedaka, Singing Craftsman of Memorable Pop Songs, Dies at 86 - The New York Times",
           "snippet": "",
-          "url": "https://www.nytimes.com/2026/02/27/arts/music/neil-sedaka-songs.html",
+          "url": "https://www.nytimes.com/2026/02/27/arts/music/neil-sedaka-dead.html",
           "source": "The New York Times"
         },
         {
@@ -211,10 +239,10 @@
           "source": "CNN"
         },
         {
-          "title": "Neil Sedaka, songwriter to the stars for decades, dies at 86",
+          "title": "Legendary Singer Neil Sedaka Rushed to Hospital in Los Angeles",
           "snippet": "",
-          "url": "https://www.nbcnews.com/news/obituaries/neil-sedaka-songwriter-dies-86-rcna261065",
-          "source": "NBC News"
+          "url": "https://www.tmz.com/2026/02/27/legendary-singer-neil-sedaka-hospitalized/",
+          "source": "TMZ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -243,34 +271,6 @@
           "snippet": "",
           "url": "https://artthreat.net/4378-81014-nicholas-braimbridge-honored-in-bridgerton-season-4-finale-tribute/",
           "source": "Art Threat"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "michael j fox",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 27 Feb 2026 13:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR35SxmUNdsQhI03pxJs50gh_Z8qkZ1VmeJ3M2FGLqlyYo4lE61Rkrz7KBk_WA",
-      "pictureSource": "Time Magazine",
-      "relatedSearch": [
-        {
-          "title": "Why Michael J. Fox Sees Parkinson’s as a ‘Gift That Keeps on Taking’",
-          "snippet": "",
-          "url": "https://time.com/collections/time-for-change/7379769/michael-j-fox-parkinsons-research/",
-          "source": "Time Magazine"
-        },
-        {
-          "title": "Michael J Fox counting on Ryan Reynolds to keep fighting Parkinson’s cure",
-          "snippet": "",
-          "url": "https://artthreat.net/4477-46010-michael-j-fox-counting-on-ryan-reynolds-to-keep-fighting-parkinson-s-cure/",
-          "source": "Art Threat"
-        },
-        {
-          "title": "Michael J. Fox Predicts End to Parkinson’s in 40 Years",
-          "snippet": "",
-          "url": "https://www.aol.com/articles/michael-j-fox-predicts-end-211101272.html",
-          "source": "AOL.com"
         }
       ],
       "link": "https://imtaqin.id/"

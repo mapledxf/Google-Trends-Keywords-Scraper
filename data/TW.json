@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-28 23:51:40",
+  "lastUpdate": "2026-02-28 23:59:20",
   "data": [
     {
       "title": "weather",
@@ -33,15 +33,9 @@
       "title": "날씨",
       "trafficCount": "100+",
       "pubDate": "Sat, 28 Feb 2026 14:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2_KZCONhqlAzvkDUULFKjYntn3F-zLrzGJgqrKB1Y4jmYGdVK3MEhwa1Lk2Q",
-      "pictureSource": "한겨레",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNtK9s64QqiI-JK-lKtNQMDkQAJAuZWkg3HPDfwDTZjG3uV9LgZ2cLCxRtRVw",
+      "pictureSource": "이코노미톡뉴스",
       "relatedSearch": [
-        {
-          "title": "낮 기온 6~16도로 따뜻… 강원 영동·제주에 비",
-          "snippet": "",
-          "url": "https://www.hani.co.kr/arti/society/environment/1247067.html",
-          "source": "한겨레"
-        },
         {
           "title": "전국 지역별 오늘의 날씨 및 주말`연휴날씨,내일 전국 비 또는 눈, 강원도 중심 많은 눈!",
           "snippet": "",
@@ -53,6 +47,12 @@
           "snippet": "",
           "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1316335",
           "source": "연합뉴스 한민족센터"
+        },
+        {
+          "title": "오늘 밤~내일 아침 강원동해안.산지 중심, 모레 전국에 비.눈 (26년 2월 28일 05시 기준)",
+          "snippet": "",
+          "url": "http://dailyngonews.com/news/article.html?no=24674",
+          "source": "데일리NGO뉴스"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -65,22 +65,22 @@
       "pictureSource": "Tin tức 24h",
       "relatedSearch": [
         {
-          "title": "Kết quả bóng đá Leeds - Man City: Bất ngờ Haaland, Semenyo uy hiếp Pháo thủ (Ngoại hạng Anh)",
+          "title": "Video bóng đá Leeds - Man City: Bất ngờ Haaland, Semenyo uy hiếp Pháo thủ (Ngoại hạng Anh)",
           "snippet": "",
           "url": "https://www.24h.com.vn/bong-da/video-bong-da-leeds-man-city-bat-ngo-haaland-dua-tai-hap-dan-ngoai-hang-anh-c48a1740959.html",
           "source": "Tin tức 24h"
+        },
+        {
+          "title": "Pep khẳng định vô địch Ngoại hạng Anh không phải mục tiêu số 1",
+          "snippet": "",
+          "url": "https://bongda.com.vn/pep-khang-dinh-vo-dich-ngoai-hang-anh-khong-phai-muc-tieu-so-1-d821834.html",
+          "source": "bongda.com.vn"
         },
         {
           "title": "Tân binh tỏa sáng, Man City áp sát Arsenal trong cuộc đua vô địch",
           "snippet": "",
           "url": "https://thethao247.vn/175391-tan-binh-toa-sang-man-city-ap-sat-arsenal-trong-cuoc-dua-vo-dich-d411414.html",
           "source": "Thể Thao 247"
-        },
-        {
-          "title": "Bảng xếp hạng ngoại hạng Anh mới nhất: Man City bám sát Arsenal",
-          "snippet": "",
-          "url": "https://vov.vn/the-thao/bang-xep-hang-ngoai-hang-anh-moi-nhat-man-city-bam-sat-arsenal-post1272045.vov",
-          "source": "VOV"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,16 +99,16 @@
           "source": "BBC"
         },
         {
+          "title": "以媒：伊朗陆军总司令身亡",
+          "snippet": "",
+          "url": "https://news.sina.cn/gj/2026-02-28/detail-inhpkhwi9941232.d.html?vt=4",
+          "source": "新浪新闻_手机新浪网"
+        },
+        {
           "title": "特朗普称伊朗最高领袖哈梅内伊在袭击中身亡",
           "snippet": "",
           "url": "https://cn.nytimes.com/world/20260301/iran-strikes-us/",
           "source": "纽约时报中文网"
-        },
-        {
-          "title": "传伊朗最高领袖命丧空袭 川普受访称认为消息属实",
-          "snippet": "",
-          "url": "https://www.swissinfo.ch/chi/%E4%BC%A0%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%91%BD%E4%B8%A7%E7%A9%BA%E8%A2%AD%E3%80%80%E5%B7%9D%E6%99%AE%E5%8F%97%E8%AE%BF%E7%A7%B0%E8%AE%A4%E4%B8%BA%E6%B6%88%E6%81%AF%E5%B1%9E%E5%AE%9E/91016868",
-          "source": "SWI swissinfo.ch"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,13 +211,13 @@
       "trafficCount": "500+",
       "pubDate": "Sat, 28 Feb 2026 10:10:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRz-vb0qRqalDdQuT3Wr38oU0JmYRPU5-upsTwoVYKiwXoCi48vTqAL5huvQF0",
-      "pictureSource": "企鹅体育直播",
+      "pictureSource": "企鹅体育",
       "relatedSearch": [
         {
           "title": "德比一触即发！拜仁多特联赛都只输1场 多特唯一败仗正是拜仁所赐",
           "snippet": "",
           "url": "http://live.qq.com/news/detail/20260386979101",
-          "source": "企鹅体育直播"
+          "source": "企鹅体育"
         },
         {
           "title": "施洛特贝克谈送点：我觉得那个动作可以给红牌，我算是走运了！",
@@ -254,9 +254,9 @@
           "source": "市民時報"
         },
         {
-          "title": "利茲聯 vs 曼城 – 英超直播：最新比分和更新，佩普·瓜迪奧拉在史詩般的衝突中首次進球",
+          "title": "「利茲聯的盛大開幕！」| 卡爾弗特-勒文錯失了一次黃金機會！",
           "snippet": "",
-          "url": "https://www.arch-web.com.tw/%E9%AB%94%E8%82%B2%E6%96%B0%E8%81%9E/%E5%88%A9%E8%8C%B2%E8%81%AF-vs-%E6%9B%BC%E5%9F%8E-%E8%8B%B1%E8%B6%85%E7%9B%B4%E6%92%AD%EF%BC%9A%E6%9C%80%E6%96%B0%E6%AF%94%E5%88%86%E5%92%8C%E6%9B%B4%E6%96%B0%EF%BC%8C%E4%BD%A9%E6%99%AE%C2%B7/558461/",
+          "url": "https://www.arch-web.com.tw/%E9%AB%94%E8%82%B2%E6%96%B0%E8%81%9E/%E3%80%8C%E5%88%A9%E8%8C%B2%E8%81%AF%E7%9A%84%E7%9B%9B%E5%A4%A7%E9%96%8B%E5%B9%95%EF%BC%81%E3%80%8D-%E5%8D%A1%E7%88%BE%E5%BC%97%E7%89%B9-%E5%8B%92%E6%96%87%E9%8C%AF%E5%A4%B1%E4%BA%86%E4%B8%80/558393/",
           "source": "arch-web.com.tw"
         }
       ],

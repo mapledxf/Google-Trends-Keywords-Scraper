@@ -1,10 +1,38 @@
 {
-  "lastUpdate": "2026-02-28 07:05:25",
+  "lastUpdate": "2026-02-28 07:36:04",
   "data": [
     {
-      "title": "moto gp",
+      "title": "bbc news",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 27 Feb 2026 22:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpqrpjmtIqWSIVlTdgbuPbCV1NugDDcdJzvtqlYP_nC-FglvfD9mCTt-avdPo",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Palestine Action arrest as Churchill statue defaced",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c07jm1kp228o",
+          "source": "BBC"
+        },
+        {
+          "title": "Man arrested after Churchill statue outside UK parliament sprayed with graffiti",
+          "snippet": "",
+          "url": "https://www.theguardian.com/uk-news/2026/feb/27/man-arrested-winston-churchill-statue-uk-parliament-graffiti",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Man charged over Churchill statue damage",
+          "snippet": "",
+          "url": "https://www.lbc.co.uk/article/man-charged-over-churchill-statue-damage-5HjdTdb_2/",
+          "source": "LBC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "motogp",
       "trafficCount": "200+",
-      "pubDate": "Fri, 27 Feb 2026 21:10:00 -0800",
+      "pubDate": "Fri, 27 Feb 2026 20:40:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzf3U50LJuA4XSbwhYg73JbpRu-ViOk6megnWK5wrp6-jt_Wpjs1FWwXyRQtw",
       "pictureSource": "motogp.com",
       "relatedSearch": [
@@ -21,9 +49,9 @@
           "source": "Crash.net"
         },
         {
-          "title": "MotoGP™ Grand Prix of Thailand 2026: Qualifying 2",
+          "title": "MotoGP™ Grand Prix of Thailand 2026: Qualifying 1",
           "snippet": "",
-          "url": "https://www.redbull.com/int-en/live/motogp-2026-thailand-qualifying-2",
+          "url": "https://www.redbull.com/us-en/live/motogp-2026-thailand-qualifying-1",
           "source": "Red Bull"
         }
       ],
@@ -31,7 +59,7 @@
     },
     {
       "title": "cnn",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 27 Feb 2026 20:30:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRS496JbnoWwDetulsOCn5bRcsAsi6Lv-vHolVti6XeK5pjcXr37puk1C-levo",
       "pictureSource": "Status",
@@ -49,10 +77,10 @@
           "source": "CNN"
         },
         {
-          "title": "Netflix Backs Out of Bid for Warner Bros., Paving Way for Paramount Takeover - The New York Times",
+          "title": "What The Paramount-Warner Bros. Merger Means For Larry Ellison’s Fortune",
           "snippet": "",
-          "url": "https://www.nytimes.com/2026/02/26/business/warner-bros-discovery-paramount-deal-netflix.html",
-          "source": "The New York Times"
+          "url": "https://www.forbes.com/sites/phoebeliu/2026/02/27/what-paramount-warner-bros-merger-means-for-larry-ellisons-fortune/",
+          "source": "Forbes"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,34 +114,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "euromillion",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 27 Feb 2026 19:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQEG_eZcdoflFLgboniYfWsjdxD92mXyaiE-yq9swuEUWHBzLAxHXR8K1Aa3mc",
-      "pictureSource": "Le Soir",
-      "relatedSearch": [
-        {
-          "title": "EuroMillions : deux Belges ont remporté une grosse somme",
-          "snippet": "",
-          "url": "https://www.lesoir.be/731571/article/2026-02-27/euromillions-deux-belges-ont-remporte-une-grosse-somme",
-          "source": "Le Soir"
-        },
-        {
-          "title": "EuroMillions : deux joueurs belges empochent une très belle somme",
-          "snippet": "",
-          "url": "https://www.rtl.be/actu/conso/euromillions-deux-joueurs-belges-empochent-une-tres-belle-somme/2026-02-27/article/781231",
-          "source": "RTL Info"
-        },
-        {
-          "title": "Tirage EuroMillions: ce vendredi 27 février, un jackpot de 159 millions d'euros à remporter",
-          "snippet": "",
-          "url": "https://www.20minutes.fr/guide-achat/4203489-20260227-tirage-euromillions-vendredi-27-fevrier-jackpot-159-millions-euros-remporter",
-          "source": "20 Minutes"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "rtbf auvio",
       "trafficCount": "100+",
       "pubDate": "Fri, 27 Feb 2026 19:50:00 -0800",
@@ -142,46 +142,68 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "iran",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 27 Feb 2026 16:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS459bPJhEdzSmSetg6H-7EqmfuzcjNOXthyZgitO0c098lPSEPcBGjK3QMWXs",
-      "pictureSource": "CNN",
+      "title": "euromillion",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 27 Feb 2026 19:50:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQEG_eZcdoflFLgboniYfWsjdxD92mXyaiE-yq9swuEUWHBzLAxHXR8K1Aa3mc",
+      "pictureSource": "Le Soir",
       "relatedSearch": [
         {
-          "title": "Israel launches strike against Iran, declares state of emergency across country",
+          "title": "EuroMillions : deux Belges ont remporté une grosse somme",
           "snippet": "",
-          "url": "https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk",
-          "source": "CNN"
+          "url": "https://www.lesoir.be/731571/article/2026-02-27/euromillions-deux-belges-ont-remporte-une-grosse-somme",
+          "source": "Le Soir"
         },
         {
-          "title": "Israel launches attack on Iran, defence minister says",
+          "title": "EuroMillions : deux joueurs belges empochent une très belle somme",
+          "snippet": "",
+          "url": "https://www.rtl.be/actu/conso/euromillions-deux-joueurs-belges-empochent-une-tres-belle-somme/2026-02-27/article/781231",
+          "source": "RTL Info"
+        },
+        {
+          "title": "EuroMillions (tirage du 27 février 2026) : deux Belges empochent une très belle somme, voici les numéros qu’il fallait cocher pour remporter le jackpot de 159 millions d’euros",
+          "snippet": "",
+          "url": "https://www.sudinfo.be/id1115242/article/2026-02-27/euromillions-tirage-du-27-fevrier-2026-deux-belges-empochent-une-tres-belle",
+          "source": "Sudinfo"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "iran",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 27 Feb 2026 16:30:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMu1RqNvjX3x-dZvWmM4VG3oQbvAUIqEkhcvsw3HcI2t8CVbBBeBcqYb9N_aw",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Israel says it has launched attack on Iran, as explosions reported in Tehran",
           "snippet": "",
           "url": "https://www.bbc.com/news/live/cn5ge95q6y7t",
           "source": "BBC"
         },
         {
-          "title": "Israel launches attack on Iran as explosions heard in Tehran",
+          "title": "Israel attacks Iran as blasts heard in Tehran – live updates",
           "snippet": "",
-          "url": "https://www.theguardian.com/world/2026/feb/28/israel-launches-attack-on-iran-as-explosions-heard-in-tehran",
+          "url": "https://www.theguardian.com/world/live/2026/feb/28/israel-attacks-iran-as-blasts-heard-in-tehran-live-updates",
           "source": "The Guardian"
+        },
+        {
+          "title": "Live updates: Israel launches ‘pre-emptive’ strike against Iran",
+          "snippet": "",
+          "url": "https://www.cnn.com/world/live-news/israel-iran-attack-02-28-26-hnk-intl",
+          "source": "CNN"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "neil sedaka",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 27 Feb 2026 16:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9zt-EXvZ8PnaHMVW9fMytJfkwhKckN1bhRSg8104AJ7aSH8ysBvui6enLqdc",
-      "pictureSource": "The New York Times",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3JDFqhemHmD-J70kA38gpb35nMbGo8QUs_eltYun7zw0A8Rm5EBYSxglczJI",
+      "pictureSource": "CNN",
       "relatedSearch": [
-        {
-          "title": "Neil Sedaka, Singing Craftsman of Memorable Pop Songs, Dies at 86 - The New York Times",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2026/02/27/arts/music/neil-sedaka-dead.html",
-          "source": "The New York Times"
-        },
         {
           "title": "Neil Sedaka, the singer-songwriter behind dozens of hits of the 1960s and ‘70s, dies at age 86",
           "snippet": "",
@@ -189,10 +211,16 @@
           "source": "CNN"
         },
         {
-          "title": "Legendary Singer Neil Sedaka Rushed to Hospital in Los Angeles",
+          "title": "Neil Sedaka: 14 Essential Songs",
           "snippet": "",
-          "url": "https://www.tmz.com/2026/02/27/legendary-singer-neil-sedaka-hospitalized/",
-          "source": "TMZ"
+          "url": "https://www.nytimes.com/2026/02/27/arts/music/neil-sedaka-songs.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Neil Sedaka, songwriter to the stars for decades, dies at 86",
+          "snippet": "",
+          "url": "https://www.nbcnews.com/news/obituaries/neil-sedaka-songwriter-dies-86-rcna261065",
+          "source": "NBC News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,10 +239,10 @@
           "source": "Libero"
         },
         {
-          "title": "Caterina Caselli commossa all’Ariston: il premio alla carriera a Sanremo e quel messaggio di libertà che riecheggia dopo 60 anni",
+          "title": "Caterina Caselli premiata a Sanremo 2026, il ritorno di Bianca Balti: i momenti imperdibili della serata cover tra sorprese, polemiche e lacrime",
           "snippet": "",
-          "url": "https://pisachannel.tv/news/7334/caterina-caselli-premio-sanremo-2026/",
-          "source": "Ac Pisa 1909"
+          "url": "https://www.lifestyleblog.it/blog/2026/02/momenti-imperdibili-della-serata-cover/",
+          "source": "Lifestyleblog.it"
         },
         {
           "title": "Chi è Caterina Caselli: storia, età, biografia e carriera della cantante e produttrice, il ritorno a Sanremo",
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.allocine.fr/article/fichearticle_gen_carticle=1000192381.html",
           "source": "AlloCiné"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "elodie fontan",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 27 Feb 2026 14:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_ClLhPucjsyyJ9UOEBssn3YY5lgDktUutTc9-WM0Y8XcJ3AZcExytyTUyUBI",
-      "pictureSource": "parismatch.be",
-      "relatedSearch": [
-        {
-          "title": "Double date en famille : Matt Pokora, Christina Milian, Philippe Lacheau et Élodie Fontan s'éclatent à Universal Studios (photos)",
-          "snippet": "",
-          "url": "https://www.parismatch.be/actualites/people/2026/02/26/double-date-en-famille-matt-pokora-christina-milian-philippe-lacheau-et-elodie-fontan-seclatent-a-universal-studios-photos-DHYUKENOHNAUREH3MREQVL3JZY/",
-          "source": "parismatch.be"
-        },
-        {
-          "title": "M. Pokora s’offre des vacances avec femme et enfants à 9000 km de la France dans une ville qu'il connaît bien",
-          "snippet": "",
-          "url": "https://www.purepeople.com/article/m-pokora-soffre-des-vacances-avec-femme-et-enfants-a-9000-km-de-la-france-dans-une-ville-quil-connait-bien_a547653/1",
-          "source": "Purepeople"
-        },
-        {
-          "title": "Philippe Lacheau et Elodie Fontan : rare photo de leur fils avec les enfants de Matt Pokora et Christina Milian",
-          "snippet": "",
-          "url": "https://www.magicmaman.com/philippe-lacheau-et-elodie-fontan-rare-photo-de-leur-fils-avec-les-enfants-de-matt-pokora-et-christina-milian,3780777.asp",
-          "source": "magicmaman"
         }
       ],
       "link": "https://imtaqin.id/"

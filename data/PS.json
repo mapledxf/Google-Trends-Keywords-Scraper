@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-28 10:18:39",
+  "lastUpdate": "2026-02-28 10:43:11",
   "data": [
     {
       "title": "ערוץ 12",
@@ -31,7 +31,7 @@
     },
     {
       "title": "قناة الجزيرة",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 28 Feb 2026 00:20:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCCyw_unkSZR7VEv6wOp1hIo6f3GZOkEoOz5tM1aR-WwupV0QPWLI8_IV8E-E",
       "pictureSource": "الجزيرة نت",
@@ -43,16 +43,16 @@
           "source": "الجزيرة نت"
         },
         {
-          "title": "شهيدان بنيران الاحتلال في غزة",
-          "snippet": "",
-          "url": "https://nn.najah.edu/news/Palestine/2026/02/27/550101/",
-          "source": "النجاح الإخباري"
-        },
-        {
           "title": "استمرار القصف الجوي بقطاع غزة ونسف منازل بخان يونس",
           "snippet": "",
           "url": "https://www.maannews.net/news/2156888.html",
           "source": "وكـالـة مـعـا الاخـبـارية"
+        },
+        {
+          "title": "شهيدان بنيران الاحتلال في غزة",
+          "snippet": "",
+          "url": "https://nn.najah.edu/news/Palestine/2026/02/27/550101/",
+          "source": "النجاح الإخباري"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,15 +89,9 @@
       "title": "וואלה",
       "trafficCount": "100+",
       "pubDate": "Fri, 27 Feb 2026 22:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHCZNluLB5CZkuRgyxvUBonS5gsnTScg94Dlz4EKciDLY3pmJxNQlT19YtN0U",
-      "pictureSource": "C14",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM3fBv6cKK2eqJyMokjSki94kbolOph5YIp9RRd_6Dw87LenT7EVJjozQtb58",
+      "pictureSource": "ynet",
       "relatedSearch": [
-        {
-          "title": "מפת האיומים של טהרן: עד לאן מגיעים הטילים מאיראן? | דיווח",
-          "snippet": "",
-          "url": "https://www.c14.co.il/article/1475003",
-          "source": "C14"
-        },
         {
           "title": "התגובה בדרך? הבסיסים שאיראן סימנה - וטווח הטילים שיכולים לפגוע גם באירופה",
           "snippet": "",
@@ -105,10 +99,16 @@
           "source": "ynet"
         },
         {
-          "title": "מלחמה במזרח התיכון: איראן תקפה בסיסים אמריקניים ומדינות במפרץ; בחריין, כווית - וגם סעודיה תחת אש",
+          "title": "מלחמה במזרח התיכון: איראן תקפה בסיסים אמריקניים ומדינות במפרץ; בחריין וכווית תחת אש",
           "snippet": "",
           "url": "https://www.mako.co.il/news-world/2026_q1/Article-0022fc71883ac91026.htm",
           "source": "mako"
+        },
+        {
+          "title": "מפת האיומים של טהרן: עד לאן מגיעים הטילים מאיראן? | דיווח",
+          "snippet": "",
+          "url": "https://www.c14.co.il/article/1475003",
+          "source": "C14"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -179,34 +179,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "وكالة معا",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 27 Feb 2026 22:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQeLfm8iK09lLxSdf7qecJmVEIbu_0J-g9iSB7zIBGruQ7-2SeaClLeReInX-8",
-      "pictureSource": "النجاح الإخباري",
-      "relatedSearch": [
-        {
-          "title": "الحرس الثوري يهاجم إسرائيل والحوثيون يتوعّدون",
-          "snippet": "",
-          "url": "https://nn.najah.edu/news/Arab_international/2026/02/28/550141/",
-          "source": "النجاح الإخباري"
-        },
-        {
-          "title": "ايران تستهدف قواعد أمريكية في الخليج وإغلاق أجواء بدول عدة",
-          "snippet": "",
-          "url": "https://www.maannews.net/news/2156914.html",
-          "source": "وكـالـة مـعـا الاخـبـارية"
-        },
-        {
-          "title": "مسؤول إيراني: لا خطوط حمراء في ردّنا.. و\"إسرائيل\" وأمريكا ستدفعان ثمن العدوان",
-          "snippet": "",
-          "url": "https://shehabnews.com/post/151265/%D9%85%D8%B3%D8%A4%D9%88%D9%84-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%84%D8%A7-%D8%AE%D8%B7%D9%88%D8%B7-%D8%AD%D9%85%D8%B1%D8%A7%D8%A1-%D9%81%D9%8A-%D8%B1%D8%AF-%D9%86%D8%A7-%D9%88-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%88%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D8%B3%D8%AA%D8%AF%D9%81%D8%B9%D8%A7%D9%86-%D8%AB%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%AF%D9%88%D8%A7%D9%86",
-          "source": "وكالة شهاب الإخبارية"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "ynet",
       "trafficCount": "2000+",
       "pubDate": "Fri, 27 Feb 2026 21:50:00 -0800",
@@ -238,14 +210,14 @@
       "title": "الدولار مقابل الشيكل",
       "trafficCount": "2000+",
       "pubDate": "Fri, 27 Feb 2026 19:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHGMZsFInJUMqCjqkmXu1E0zsJUL4zgSeKizJjXlfDJmTiyNVOotisjHpTMWc",
-      "pictureSource": "وكـالـة مـعـا الاخـبـارية",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOEyf8gUQSQlpop7DQgnhALJeBhkap4Ogk_APlQM5V0Bap_N7VwHxZ4c4OvrE",
+      "pictureSource": "النجاح الإخباري",
       "relatedSearch": [
         {
-          "title": "اسعار العملات والمعادن",
+          "title": "اسعار صرف العملات اليوم السبت",
           "snippet": "",
-          "url": "https://www.maannews.net/news/2156787.html",
-          "source": "وكـالـة مـعـا الاخـبـارية"
+          "url": "https://nn.najah.edu/news/Palestine/2026/02/28/550147/",
+          "source": "النجاح الإخباري"
         },
         {
           "title": "ارتفاع سعر صرف الدولار والعملات مقابل الشيكل اليوم الجمعة",
@@ -254,10 +226,38 @@
           "source": "وكالة شهاب الإخبارية"
         },
         {
-          "title": "سلطة النقد تعلن أسعار صرف العملات مقابل الشيكل اليوم",
+          "title": "اسعار العملات والمعادن",
           "snippet": "",
-          "url": "https://msdrnews.com/112979/%D8%B3%D9%84%D8%B7%D8%A9-%D8%A7%D9%84%D9%86%D9%82%D8%AF-%D8%AA%D8%B9%D9%84%D9%86-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%B5%D8%B1%D9%81-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%B4%D9%8A%D9%83%D9%84-%D8%A7%D9%84%D9%8A%D9%88%D9%85",
-          "source": "شبكة مصدر الاخبارية"
+          "url": "https://www.maannews.net/news/2156787.html",
+          "source": "وكـالـة مـعـا الاخـبـارية"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "سعر الذهب",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 27 Feb 2026 19:30:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQA_uDFIEFpOKZyrhzBXPwF4qe1-aKeARL_PJRrVZlIAsOMV_doghDmDY4_HD4",
+      "pictureSource": "الاقتصاد اليوم",
+      "relatedSearch": [
+        {
+          "title": "ارتفاع كبير في أسعار الذهب اليوم عربيا.. عيار 21 يواصل الصعود",
+          "snippet": "",
+          "url": "https://www.economy-today.com/%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D9%83%D8%A8%D9%8A%D8%B1-%D9%81%D9%8A-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A7/",
+          "source": "الاقتصاد اليوم"
+        },
+        {
+          "title": "قفزة في أسعار الذهب محلياً.. ومكاسب الجرام 150 جنيها في ساعتين",
+          "snippet": "",
+          "url": "https://almsaey.akhbarelyom.com/news/newdetails/3528994/1/%D9%82%D9%81%D8%B2%D8%A9-%D9%81%D9%8A-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%85%D8%AD%D9%84%D9%8A%D8%A7%D9%8B-%D9%88%D9%85%D9%83%D8%A7%D8%B3%D8%A8-%D8%A7%D9%84%D8%AC%D8%B1%D8%A7%D9%85",
+          "source": "الأخبار المسائى"
+        },
+        {
+          "title": "أسعار الذهب اليوم في مصر السبت 28 فبراير 2026.. قفزة كبيرة إثر الحرب",
+          "snippet": "",
+          "url": "https://al-ain.com/article/gold-prices-egypt-today-saturday-february-28-2026",
+          "source": "العين الإخبارية"
         }
       ],
       "link": "https://imtaqin.id/"

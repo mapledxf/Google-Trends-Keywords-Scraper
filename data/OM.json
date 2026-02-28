@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2026-02-28 11:45:03",
+  "lastUpdate": "2026-02-28 11:53:58",
   "data": [
-    {
-      "title": "gulf news",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 28 Feb 2026 02:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGFUPqjzEE8EZYp_T3rbkkOSnN_LcRlFYzttU4aITeEAUVvVlO2akHo3VA46Q",
-      "pictureSource": "Gulf News",
-      "relatedSearch": [
-        {
-          "title": "UAE Ministry of Interior on high alert amid regional developments",
-          "snippet": "",
-          "url": "https://gulfnews.com/uae/uae-ministry-of-interior-on-high-alert-amid-regional-developments-1.500458373",
-          "source": "Gulf News"
-        },
-        {
-          "title": "UAE confirms precautionary measures taken to ensure safety, security",
-          "snippet": "",
-          "url": "https://www.khaleejtimes.com/uae/uae-precautionary-measures-taken-public-safety",
-          "source": "Khaleej Times"
-        },
-        {
-          "title": "Missile Interceptions Seen in Over Dubai",
-          "snippet": "",
-          "url": "https://english.alarabiya.net/webtv/media/2026/02/28/missile-interceptions-seen-in-over-dubai",
-          "source": "Al Arabiya English"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "oman news",
       "trafficCount": "200+",
@@ -89,43 +61,65 @@
       "title": "bbc",
       "trafficCount": "100+",
       "pubDate": "Sat, 28 Feb 2026 01:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZAfriR41Vrwpj2yIpi9DDwEpFdMApAyI6jvc4iCd-F-xCGSTzJujXSumhQRU",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRFsA-K_UqwCeRvW2vCnKt1yotwAS6G7Ic3DiABfO6lru2kEAT96f265XNQT8",
+      "pictureSource": "Liverpool Echo",
       "relatedSearch": [
         {
-          "title": "Fire breaks out at commerical premises in Cuminestown",
+          "title": "Police update after James Bulger's grave vandalised in 'appalling' attack",
           "snippet": "",
-          "url": "https://www.bbc.co.uk/news/articles/c4g2wn09r2yo",
-          "source": "BBC"
+          "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/police-update-after-james-bulgers-33499885",
+          "source": "Liverpool Echo"
         },
         {
-          "title": "Emergency services in attendance at hotel fire",
+          "title": "I WILL FIND YOU",
           "snippet": "",
-          "url": "https://www.grampianonline.co.uk/news/emergency-services-in-attendance-at-hotel-fire-428525/",
-          "source": "Grampian Online"
+          "url": "https://www.pressreader.com/ireland/irish-daily-mirror/20260228/282119233024617",
+          "source": "PressReader"
         },
         {
-          "title": "Locals told to stay indoors as fire crews tackle blaze in Scottish village",
+          "title": "Mother of murdered toddler 'devastated' after son's grave vandalised | ITV News",
           "snippet": "",
-          "url": "https://www.thenational.scot/news/25896083.locals-stay-indoors-fire-crews-tackle-blaze-aberdeenshire/",
-          "source": "TheNational.scot"
+          "url": "https://www.itv.com/news/granada/2026-02-27/mother-of-murdered-toddler-devastated-after-sons-grave-vandalised",
+          "source": "ITVX"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "times of oman",
-      "trafficCount": "1000+",
-      "pubDate": "Sat, 28 Feb 2026 01:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGbBxnS3OaFoFfHqxAk71RGYmVJ9Z49R1W8GtE6GUknKIPcajk7UUXAYPxPRA",
-      "pictureSource": "Oman Observer",
+      "title": "cnn",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 28 Feb 2026 01:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR10agZvKOvSEAEHSf900CgnzlDvUVdml7yweQJ9F9_yq3tQe3Txkb3g3sm0tE",
+      "pictureSource": "The New York Times",
       "relatedSearch": [
         {
-          "title": "Flight operations to be impacted: Oman Airports",
+          "title": "Netflix Lost Warner. Maybe That’s a Good Thing.",
           "snippet": "",
-          "url": "https://www.omanobserver.om/article/1185167/oman/transport/flight-operations-to-be-impacted-oman-airports",
-          "source": "Oman Observer"
+          "url": "https://www.nytimes.com/2026/02/28/business/media/netflix-lost-warner-maybe-thats-a-good-thing.html",
+          "source": "The New York Times"
         },
+        {
+          "title": "All the Ways Netflix Actually Won Even Though It Lost Warner",
+          "snippet": "",
+          "url": "https://www.wsj.com/business/media/netflix-deal-warner-bros-discover-3b33b02c?gaa_at=eafs&gaa_n=AWEtsqebyTj0Le6-s-LXIyR_i6z0nVIqJGW5Vw50vW9piEjzzpYOxPY4sZ47&gaa_ts=69a2da69&gaa_sig=AR5BYbn8SaAktl38NesT5XKwqugCHV0bOsfppBPNKTxVUlQHdgZ_RnFBRetKsON50D24coFZBtRfAZ2yIwpWvw%3D%3D",
+          "source": "WSJ"
+        },
+        {
+          "title": "With Trump’s apparent blessing, the Ellisons are amassing a media empire",
+          "snippet": "",
+          "url": "https://www.cnn.com/2026/02/26/business/paramount-wbd-merger-david-ellison",
+          "source": "CNN"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "flight radar",
+      "trafficCount": "2000+",
+      "pubDate": "Sat, 28 Feb 2026 01:10:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjwZ-Ewo62zwJ4EJApkXsT9QPJWIw8da76dJIDwW_emK795Q_V4B8x_YkmW8Q",
+      "pictureSource": "Gulf News",
+      "relatedSearch": [
         {
           "title": "Gulf countries close airspace: UAE, Qatar, Kuwait, Bahrain suspend flights amid regional strikes",
           "snippet": "",
@@ -133,10 +127,16 @@
           "source": "Gulf News"
         },
         {
-          "title": "Oman Airports issues advisory to travellers",
+          "title": "Flight operations to be impacted: Oman Airports",
           "snippet": "",
-          "url": "https://timesofoman.com/article/168847-oman-airports-issues-advisory-to-travellers",
-          "source": "Times of Oman"
+          "url": "https://www.omanobserver.om/article/1185167/oman/transport/flight-operations-to-be-impacted-oman-airports",
+          "source": "Oman Observer"
+        },
+        {
+          "title": "Some UAE flights rerouted, cancelled due to airspace closures as Israel strikes Iran",
+          "snippet": "",
+          "url": "https://www.khaleejtimes.com/world/mena/israel-iran-us-attack-dubai-flights-impacted",
+          "source": "Khaleej Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -217,10 +217,10 @@
           "source": "الاقتصاد اليوم"
         },
         {
-          "title": "أسعار الذهب تقفز في السماء بسبب بدء الحرب الإيرانية – الأمريكية وسعر عيار 21 يرتفع 300 جنيه مرة واحدة",
+          "title": "استقرار سعر الذهب في مصر اليوم.. و«عيار 21» يسجل 7100 جنيه",
           "snippet": "",
-          "url": "https://www.elzmannews.com/526396",
-          "source": "https://www.elzmannews.com/"
+          "url": "https://www.erembusiness.com/markets/va6y3y9",
+          "source": "إرم بزنس"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,10 +239,10 @@
           "source": "Reuters"
         },
         {
-          "title": "Iranian Missiles Fired at Israel Number in the Dozens",
+          "title": "Israel targets Khamenei, top leaders in bid to bring down Iran's regime",
           "snippet": "",
-          "url": "https://www.wsj.com/livecoverage/iran-strikes-2026/card/iranian-missiles-fired-at-israel-number-in-the-dozens-kmSo6tDv2FnE7pZK3pm6?gaa_at=eafs&gaa_n=AWEtsqebr45KsLQp5OPmZHqG9dfS9jed8_R8B5cag5_mZwimozBWzNtLsHns&gaa_ts=69a2d852&gaa_sig=vHRccd31ikDA793PLiybId4121wlip8ESnKNxNMJs72feVVNBsdepg3L9rgL4JCUn3nG3FlqKoHlaOjJeR3lDQ%3D%3D",
-          "source": "WSJ"
+          "url": "https://www.axios.com/2026/02/28/iran-attack-supreme-leader-ali-khamenei",
+          "source": "Axios"
         },
         {
           "title": "Live updates: U.S. and Israel launch attack on Iran as Trump calls for regime change",
@@ -257,26 +257,26 @@
       "title": "الجزيرة مباشر",
       "trafficCount": "2000+",
       "pubDate": "Fri, 27 Feb 2026 23:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzzKt9vzoF83_p6Y9KCMpJ33laJZr3aTH5Bi9iiKIVld8o2YFzR44ptRwd7Z8",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTo-dm-ZwvegBdzdEDcKqjNtJYT5NOjihEzi5I4YW4PPl9_30mfjlYsZBZoQo",
       "pictureSource": "الجزيرة نت",
       "relatedSearch": [
         {
-          "title": "الحرب على إيران.. هجوم أمريكي إسرائيلي واسع وطهران ترد",
+          "title": "الحرب على إيران مباشر.. هجوم أمريكي إسرائيلي واسع وطهران ترد",
           "snippet": "",
           "url": "https://www.aljazeera.net/news/liveblog/2026/2/28/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D9%87%D8%AC%D9%88%D9%85-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%85%D8%A8%D8%A7%D8%BA%D8%AA-2",
           "source": "الجزيرة نت"
-        },
-        {
-          "title": "مصدر إيراني يقر.. \"قادة بالحرس الثوري ومسؤولون سياسيون قتلوا\"",
-          "snippet": "",
-          "url": "https://www.alarabiya.net/iran/2026/02/28/%D9%85%D8%B5%D8%AF%D8%B1-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%85%D9%82%D8%AA%D9%84-%D9%82%D8%A7%D8%AF%D8%A9-%D8%A8%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D9%8A-%D9%88%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D9%86-%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D9%8A%D9%86",
-          "source": "العربية"
         },
         {
           "title": "\"رويترز\": خامنئي ليس في طهران",
           "snippet": "",
           "url": "https://www.skynewsarabia.com/middle-east/1855682-%D8%B1%D9%88%D9%8A%D8%AA%D8%B1%D8%B2-%D8%AE%D8%A7%D9%85%D9%86%D8%A6%D9%8A-%D9%84%D9%8A%D8%B3-%D8%B7%D9%87%D8%B1%D8%A7%D9%86",
           "source": "سكاي نيوز عربية"
+        },
+        {
+          "title": "نتنياهو يدعو لتغيير نظام إيران بأول تصريح عن الضربات ضد إيران",
+          "snippet": "",
+          "url": "https://arabic.cnn.com/middle-east/article/2026/02/28/netanyahu-calls-for-regime-change-in-first-statement-about-us-israel-strikes-on-iran",
+          "source": "CNN Arabic"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-28 10:55:48",
+  "lastUpdate": "2026-02-28 11:14:05",
   "data": [
     {
       "title": "bbc news",
@@ -105,10 +105,10 @@
           "source": "Al Jazeera"
         },
         {
-          "title": "US and Israel attack Iran as Trump says ‘major combat operations’ under way – live",
+          "title": "Some 35 ballistic missiles launched at Israel since morning",
           "snippet": "",
-          "url": "https://www.theguardian.com/world/live/2026/feb/28/israel-attacks-iran-as-blasts-heard-in-tehran-live-updates?page=with:block-69a2c2f08f08e575db5bd4d4",
-          "source": "The Guardian"
+          "url": "https://www.timesofisrael.com/liveblog_entry/some-35-ballistic-missiles-launched-at-israel-since-morning/",
+          "source": "The Times of Israel"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -142,8 +142,36 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "dubai",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 28 Feb 2026 01:50:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAB0ZnauRlSIduJQt2bDQQJCa6sJgo80IhBinwR4WSp4bLCEjZ9S30r-t09n8",
+      "pictureSource": "Reuters",
+      "relatedSearch": [
+        {
+          "title": "Airlines suspend Middle East flights after US, Israel strikes on Iran",
+          "snippet": "",
+          "url": "https://www.reuters.com/world/europe/airlines-suspend-middle-east-flights-after-us-israel-strikes-iran-2026-02-28/",
+          "source": "Reuters"
+        },
+        {
+          "title": "Gulf countries close airspace: UAE, Qatar, Kuwait, Bahrain suspend flights amid regional strikes",
+          "snippet": "",
+          "url": "https://gulfnews.com/uae/gulf-countries-close-airspace-uae-qatar-kuwait-bahrain-suspend-flights-amid-regional-strikes-1.500458416",
+          "source": "Gulf News"
+        },
+        {
+          "title": "Airspaces close across the Middle East following Iran-Israel strikes, Qatar Airways grounds flights",
+          "snippet": "",
+          "url": "https://aerospaceglobalnews.com/news/airspaces-close-middle-east-iran-israel-strikes/",
+          "source": "Aerospace Global News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "war",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 28 Feb 2026 01:50:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrXtbFMicHCCfbcL0lcTWxWPr9xQxrH-Vpt6iBua82xV3LFnNrK8WspUwpScA",
       "pictureSource": "The Guardian",
@@ -170,62 +198,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "abu dhabi",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 28 Feb 2026 01:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbDo_3-rV7Kn1UgYbcnM4F_MUcS-c9PFLaLqOCJ4L_w_rKcph4KRf_mcs8WEg",
-      "pictureSource": "Simple Flying",
-      "relatedSearch": [
-        {
-          "title": "A New A380 Hub? Etihad Is The 5th Airline Flying To This City",
-          "snippet": "",
-          "url": "https://simpleflying.com/etihad-flying-airbus-a380-bangkok-thailand/",
-          "source": "Simple Flying"
-        },
-        {
-          "title": "Sawatdee Bangkok! Etihad’s A380 Makes Its Thailand Debut This October",
-          "snippet": "",
-          "url": "https://www.breakingtravelnews.com/news/article/sawatdee-bangkok-etihads-a380-makes-its-thailand-debut-this-october/",
-          "source": "Breaking Travel News"
-        },
-        {
-          "title": "Etihad Airways to Boost Bangkok Travel with Airbus A380, Offering More Capacity on Popular Abu Dhabi Route",
-          "snippet": "",
-          "url": "https://www.travelandtourworld.com/news/article/etihad-airways-to-boost-bangkok-travel-with-airbus-a380-offering-more-capacity-on-popular-abu-dhabi-route/",
-          "source": "Travel And Tour World"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "emirates",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 28 Feb 2026 01:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAB0ZnauRlSIduJQt2bDQQJCa6sJgo80IhBinwR4WSp4bLCEjZ9S30r-t09n8",
-      "pictureSource": "Reuters",
-      "relatedSearch": [
-        {
-          "title": "Airlines suspend Middle East flights after US, Israel strikes on Iran",
-          "snippet": "",
-          "url": "https://www.reuters.com/world/europe/airlines-suspend-middle-east-flights-after-us-israel-strikes-iran-2026-02-28/",
-          "source": "Reuters"
-        },
-        {
-          "title": "UAE partially closes airspace as precautionary measure",
-          "snippet": "",
-          "url": "https://gulfnews.com/business/aviation/uae-partially-closes-airspace-as-precautionary-measure-1.500458336",
-          "source": "Gulf News"
-        },
-        {
-          "title": "Airspaces close across the Middle East following Iran-Israel strikes, Qatar Airways grounds flights",
-          "snippet": "",
-          "url": "https://aerospaceglobalnews.com/news/airspaces-close-middle-east-iran-israel-strikes/",
-          "source": "Aerospace Global News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "breaking news",
       "trafficCount": "100+",
       "pubDate": "Sat, 28 Feb 2026 01:40:00 -0800",
@@ -245,10 +217,38 @@
           "source": "Yahoo"
         },
         {
-          "title": "Country singer JD Graham 'barely alive' after breaking neck in semi-truck crash",
+          "title": "Country music singer life flighted after car accident, suffers broken back, neck",
           "snippet": "",
-          "url": "https://www.foxnews.com/entertainment/country-singer-jd-graham-barely-alive-after-breaking-neck-semi-truck-crash",
-          "source": "Fox News"
+          "url": "https://www.al.com/life/2026/02/country-music-singer-life-flighted-after-car-accident-suffers-broken-back-neck.html",
+          "source": "AL.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "brumbies vs blues",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 28 Feb 2026 01:40:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4OtaGtr9EmtDjklUzwtf5Yz_202FHxPzqzOragGV1zXwVjUWPY8zb_EIhWUE",
+      "pictureSource": "RUGBY.com.au",
+      "relatedSearch": [
+        {
+          "title": "RECAP: Cale the hero as Brumbies steal last minute win over Blues",
+          "snippet": "",
+          "url": "https://www.rugby.com.au/news/live-act-brumbies-look-to-secure-top-spot-against-blues-2026228",
+          "source": "RUGBY.com.au"
+        },
+        {
+          "title": "Brumbies not getting carried away by emphatic Super Rugby start",
+          "snippet": "",
+          "url": "https://www.enca.com/sport/brumbies-not-getting-carried-away-emphatic-super-rugby-start",
+          "source": "eNCA"
+        },
+        {
+          "title": "Blues v Brumbies live updates: Vern Cotter's side take on red-hot Super Rugby Pacific leaders",
+          "snippet": "",
+          "url": "https://www.nzherald.co.nz/sport/rugby/super-rugby/blues-v-brumbies-live-updates-vern-cotters-side-take-on-red-hot-super-rugby-pacific-leaders/CJ7BLY7GLRD3HL3WY5IOEDJFNI/",
+          "source": "NZ Herald"
         }
       ],
       "link": "https://imtaqin.id/"

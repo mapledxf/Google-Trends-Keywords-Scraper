@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-01 10:51:30",
+  "lastUpdate": "2026-03-01 11:01:25",
   "data": [
     {
       "title": "nezavisne",
@@ -14,9 +14,28 @@
       "title": "blic",
       "trafficCount": "200+",
       "pubDate": "Sat, 28 Feb 2026 19:20:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0DjHeRodW7IXzd1lBGAmS0ulW9wiU3mr8Q9MBK2wtTXAVn-c544JjBmN3cZM",
+      "pictureSource": "Klix.ba",
+      "relatedSearch": [
+        {
+          "title": "Iranska državna televizija potvrdila: Ubijeni i ministar odbrane i savjetnik Alija Khameneija",
+          "snippet": "",
+          "url": "https://www.klix.ba/vijesti/svijet/iranska-drzavna-televizija-potvrdila-ubijeni-i-ministar-odbrane-i-savjetnik-alija-khameneija/260301037",
+          "source": "Klix.ba"
+        },
+        {
+          "title": "Vođa je mrtav, rat ide dalje",
+          "snippet": "",
+          "url": "https://www.dw.com/sr/vo%C4%91a-je-mrtav-rat-ide-dalje/a-76172149",
+          "source": "DW.com"
+        },
+        {
+          "title": "Netanjahu se obratio Irancima na persijskom, evo šta im je poručio",
+          "snippet": "",
+          "url": "https://www.nezavisne.com/novosti/svijet/Netanjahu-se-obratio-Irancima-na-persijskom-evo-sta-im-je-porucio/953607",
+          "source": "Nezavisne novine"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -48,6 +67,15 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "klix ba",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 28 Feb 2026 19:00:00 -0800",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "dan nezavisnosti bih",
       "trafficCount": "1000+",
       "pubDate": "Sat, 28 Feb 2026 15:00:00 -0800",
@@ -58,7 +86,7 @@
     },
     {
       "title": "burj al arab",
-      "trafficCount": "1000+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 28 Feb 2026 14:50:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGjrXoGTmb_2VfLfybrE7SCIltA1K_e_4rTgITuUdhhAHaA4BbEkWjPIiUDno",
       "pictureSource": "The Guardian",
@@ -154,16 +182,16 @@
           "source": "weltfussball.com"
         },
         {
-          "title": "\"Ein großes Kompliment\"",
+          "title": "BR24 Sport: Überraschung verpasst: Schalker Traumtor kostet Fürth den Sieg",
           "snippet": "",
-          "url": "https://www.sgf1903.de/news/profis/ein-grosses-kompliment",
-          "source": "SpVgg Greuther Fürth"
+          "url": "https://www.sportschau.de/regional/br/br-ueberraschung-verpasst-schalker-traumtor-kostet-fuerth-den-sieg-102.html",
+          "source": "sportschau.de"
         },
         {
-          "title": "\"Typisches Premiere-League-Tor\": Muslic lobt Ljubicic-Rakete",
+          "title": "Leidenschaft wird belohnt: Das Kleeblatt nach dem 1:1 gegen Schalke in der Einzelkritik",
           "snippet": "",
-          "url": "https://www.liga2-online.de/typisches-premiere-league-tor-muslic-lobt-ljubicic-rakete/",
-          "source": "liga2-online.de"
+          "url": "https://www.nn.de/sport/spvgg-greuther-fuerth/leidenschaft-wird-belohnt-das-kleeblatt-nach-dem-1-1-gegen-schalke-in-der-einzelkritik-1.15026483",
+          "source": "NN.de"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -176,33 +204,24 @@
       "pictureSource": "Spiegel",
       "relatedSearch": [
         {
-          "title": "Die Bundesliga ist entschieden. Jetzt beginnt Bayerns heiße Saisonphase",
+          "title": "FC Bayern München: Die Bundesliga ist entschieden. Jetzt beginnt Bayerns heiße Saisonphase",
           "snippet": "",
-          "url": "https://www.spiegel.de/sport/fussball/die-bundesliga-ist-entschieden-jetzt-beginnt-bayerns-heisse-saisonphase-a-a56e2143-7e8e-4930-a4ef-35db356f26c4",
+          "url": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-die-bundesliga-ist-entschieden-jetzt-beginnt-bayerns-heisse-saisonphase-a-a56e2143-7e8e-4930-a4ef-35db356f26c4",
           "source": "Spiegel"
-        },
-        {
-          "title": "Dortmund gegen Bayern – Prognose, 1. März, 00:30 Uhr: Ein Kampf der Ambitionen",
-          "snippet": "",
-          "url": "https://www.vietnam.vn/de/nhan-dinh-dortmund-vs-bayern-00h30-ngay-1-3-cuoc-chien-tham-vong",
-          "source": "Vietnam.vn"
         },
         {
           "title": "Kovac: \"Weltklasse\"-Kimmich war der Unterschied",
           "snippet": "",
           "url": "https://www.eurosport.de/fussball/bundesliga/2025-2026/niko-kovac-adelt-joshua-kimmich-bvb-niederlage-topspiel-fc-bayern-muenchen-das-ist-weltklasse_sto23276491/story.shtml",
           "source": "Eurosport"
+        },
+        {
+          "title": "(CLUB) FC Bayern gegen Borussia Dortmund: Schluss mit dem Gejammer!",
+          "snippet": "",
+          "url": "https://www.11freunde.de/bundesliga/fc-bayern-gegen-borussia-dortmund-schluss-mit-dem-gejammer-a-feb06739-a124-453b-a3cf-e066d53abbc1",
+          "source": "11Freunde"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "borac sarajevo",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 28 Feb 2026 10:00:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]

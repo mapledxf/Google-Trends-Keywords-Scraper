@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-01 06:26:09",
+  "lastUpdate": "2026-03-01 07:07:55",
   "data": [
     {
       "title": "nova s",
@@ -59,7 +59,7 @@
     },
     {
       "title": "n1 srbija",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 28 Feb 2026 21:30:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2_YlyQd752V8tzSiQEDmd7fmskd9kj9KS8jAdrNY4KQb2cIbGLy-rGwxqons",
       "pictureSource": "N1",
@@ -77,17 +77,17 @@
           "source": "B92"
         },
         {
-          "title": "Dvojica košarkaša Partizana zarobljeni u Dubaiju!",
+          "title": "Među 17 državljana Srbije zaglavljenih na Zanzibaru i Mitrovčanka – povratak kući neizvestan zbog otkazanih letova preko Dubaija",
           "snippet": "",
-          "url": "https://sportal.blic.rs/prica/osetkovski-i-milton-zarobljeni-u-dubaiju-2026022817003273547",
-          "source": "Sportal.rs"
+          "url": "https://www.ozon.rs/vesti/2026/medju-17-drzavljana-srbije-zaglavljenih-na-zanzibaru-i-mitrovcanka-povratak-kuci-neizvestan-zbog-otkazanih-letova-preko-dubaija/",
+          "source": "Ozon Media"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "vecernje novosti",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 28 Feb 2026 21:10:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRU5N97YdNgeM7PJPtMv003PObtLvcfneqMj0XUsRaM6jEKfICqc8tSCcS-A8",
       "pictureSource": "Telegraf.rs",
@@ -109,6 +109,34 @@
           "snippet": "",
           "url": "https://24sedam.rs/drustvo/vesti/445324/naslovne-strane-dnevnih-novina-prelistavanje-stampe-za-1-mart-2026-godine/vest",
           "source": "24sedam"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "informer rs",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 28 Feb 2026 21:10:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2RKcNRoj6Uo9reiK3rQ2hVa7S3yxFHVsWinyN2NJqy1e1OW2MrGG1kjPYzUE",
+      "pictureSource": "Blic",
+      "relatedSearch": [
+        {
+          "title": "Aleksandar Vučić o napadu na Iran: Ne mislim da je počeo treći svetski rat",
+          "snippet": "",
+          "url": "https://www.blic.rs/vesti/politika/aleksandar-vucic-o-napadu-na-iran-ne-mislim-da-je-poceo-treci-svetski-rat/lc02snj",
+          "source": "Blic"
+        },
+        {
+          "title": "Dok Bliski istok gori, a svet u neizvesnosti, Srbija stabilna; Vučić uspeo da sačuva mir",
+          "snippet": "",
+          "url": "https://www.b92.net/info/politika/211705/dok-bliski-istok-gori-a-svet-u-neizvesnosti-srbija-stabilna/vest",
+          "source": "B92"
+        },
+        {
+          "title": "Stefanović o Vučićevoj reakciji na Iran: Kocka s našim državnim interesima",
+          "snippet": "",
+          "url": "https://n1info.rs/vesti/stefanovic-o-vucicevoj-reakciji-na-iran-kocka-s-nasim-drzavnim-interesima/",
+          "source": "N1"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -142,141 +170,113 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "jutarnji list",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 28 Feb 2026 21:00:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRelwDHQD12uG_AwyIBMOPrRUHWRPY2s9j-J2y5anlnuCxxFq0v3vhbHucuA68",
+      "pictureSource": "Nezavisne novine",
+      "relatedSearch": [
+        {
+          "title": "Izraelci: Ajatolah je mrtav, nađeno je njegovo tijelo",
+          "snippet": "",
+          "url": "https://www.nezavisne.com/novosti/svijet/iran-napad-izrael-ajatolah/953580",
+          "source": "Nezavisne novine"
+        },
+        {
+          "title": "Trump se oglasio: Iranski vrhovni voda Ali Khamenei je mrtav",
+          "snippet": "",
+          "url": "https://radiosarajevo.ba/vijesti/svijet/trump-se-oglasio-o-smrti-ayatolaha-khameneija/627557",
+          "source": "Radio Sarajevo - Radiosarajevo.ba"
+        },
+        {
+          "title": "Trump se oglasio: Hamenei je ubijen",
+          "snippet": "",
+          "url": "https://6yka.com/svijet/trump-se-oglasio-hamenei-je-ubijen/",
+          "source": "6yka"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "danas",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 28 Feb 2026 20:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGmF27LZmmSyXrXaZNruKyKkuhHN5SD9T1qd63wpXrCoF_lf-pKUq3qFcLvCY",
+      "pictureSource": "Dnevni list Danas",
+      "relatedSearch": [
+        {
+          "title": "Zagorka Dolovac je „pustila“ glas: Šta je sad na redu i ko će da sankcioniše BIA zbog pozivanja tužilaca na raport?",
+          "snippet": "",
+          "url": "https://www.danas.rs/vesti/drustvo/zagorka-dolovac-bia/",
+          "source": "Dnevni list Danas"
+        },
+        {
+          "title": "Kako je tužilac iz Kruševca otkrio pritisak BIA na promenu izborne volje u VST",
+          "snippet": "",
+          "url": "https://n1info.rs/vesti/kako-je-tuzilac-iz-krusevca-otkrio-pritisak-bia-na-promenu-izborne-volje-u-vst/",
+          "source": "N1"
+        },
+        {
+          "title": "VST bez odluke, prigovori se smatraju usvojenim: O eventualnim žalbama odlučuje Ustavni sud",
+          "snippet": "",
+          "url": "https://www.blic.rs/vesti/politika/vst-bez-odluke-prigovori-se-smatraju-usvojenim-o-zalbama-odlucuje-ustavni-sud/3fmcf6y",
+          "source": "Blic"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "alo",
       "trafficCount": "200+",
       "pubDate": "Sat, 28 Feb 2026 20:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUk-OY-WwwBOQ7aYLUdDPBLqRUVeqpzcUA6Av7CMfRiJmzPkI4v-hLaWDKXZk",
-      "pictureSource": "B92",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3JJR10mCu-XpSqYvvXkz_Z-aO5umUIWpzWDNN-R-biLoLBh09ipieGqg6czI",
+      "pictureSource": "Politika",
       "relatedSearch": [
         {
-          "title": "Iran upozorio građane: Napustite Teheran",
+          "title": "Аракчи: Иран сада у бољој ситуацији него у рату са Израелом",
           "snippet": "",
-          "url": "https://www.b92.net/info/svet/211667/iran-upozorio-gradjane-napustite-teheran/vest",
-          "source": "B92"
+          "url": "https://www.politika.rs/scc/clanak/734040/arakci-iran-sada-u-boljoj-situaciji-nego-u-ratu-sa-izraelom",
+          "source": "Politika"
+        },
+        {
+          "title": "Može li Iran da probije američo-izraelski štit? Supersalva ili iscrpljivanje: Koliko bi Teheranu trebalo i kakvih raketa za uspeh (video)",
+          "snippet": "",
+          "url": "https://naslovi.net/2026-02-27/vecernje-novosti/moze-li-iran-da-probije-americo-izraelski-stit-supersalva-ili-iscrpljivanje-koliko-bi-teheranu-trebalo-i-kakvih-raketa-za-uspeh-video/41409177",
+          "source": "Naslovi.net"
         },
         {
           "title": "HIPERSONIČNI NAPAD: Iran lansirao svoje strašno oružje! |Svet",
           "snippet": "",
           "url": "https://www.alo.rs/vesti/svet/16625335/hipersonicni-napad-iran-lansirao-svoje-strasno-oruzje.html",
           "source": "www.alo.rs"
-        },
-        {
-          "title": "Spremaju se novi nemiri? Iranska paravojna formacija patrolira Teheranom",
-          "snippet": "",
-          "url": "https://naslovi.net/2026-02-28/b92/spremaju-se-novi-nemiri-iranska-paravojna-formacija-patrolira-teheranom/41412173",
-          "source": "Naslovi.net"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "politika",
+      "title": "blic vesti",
       "trafficCount": "100+",
-      "pubDate": "Sat, 28 Feb 2026 20:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSa69mlgEetRGYhWSYVAgiUF8Gc7hzGYkYz_piY02gIJ9mLWExLcbPMqvLYWck",
-      "pictureSource": "tanjug.rs",
+      "pubDate": "Sat, 28 Feb 2026 20:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBI7PmAP4VgmAT39ANfKDRqcpT5p5Jr-CNU__kPKy12D04oTi8czHyISQac8Y",
+      "pictureSource": "Blic",
       "relatedSearch": [
         {
-          "title": "Ibro Ibrahimović: Posete Vučića primer dobrog nastupa u svetu, Kazahstan bitna drumska ruta",
+          "title": "Snajka Teodore Džehverović se oglasila iz Dubaija tokom bombaških napada",
           "snippet": "",
-          "url": "https://www.tanjug.rs/ekonomija/srbija/233692/ibro-ibrahimovic-posete-vucica-primer-dobrog-nastupa-u-svetu-kazahstan-bitna-drumska-ruta/vest",
-          "source": "tanjug.rs"
-        },
-        {
-          "title": "Vučić sa premijerom Kazahstana o praktičnim aspektima saradnje i budućim projektima",
-          "snippet": "",
-          "url": "https://www.danas.rs/vesti/politika/vucic-sa-premijerom-kazahstana-o-prakticnim-aspektima-saradnje-i-buducim-projektima/",
-          "source": "Dnevni list Danas"
-        },
-        {
-          "title": "Vučić primio najviši državni orden Kazahstana: Ovaj orden je obaveza da našu saradnju podignemo na najviši nivo! (VIDEO)",
-          "snippet": "",
-          "url": "https://pink.rs/politika/765404/vucic-primio-najvisi-drzavni-orden-kazahstana-ovaj-orden-je-obaveza-da-nasu-saradnju-podignemo-na-najvisi-nivo-video",
-          "source": "Pink.rs"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "telegraf",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 28 Feb 2026 18:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCtbxNj_Pgi7VOh2wZJ8W_tE3QOuw9XcjU7xMyKB_jkpxfo2QMXfHEDpL0QNI",
-      "pictureSource": "Telegraf.rs",
-      "relatedSearch": [
-        {
-          "title": "Strahovita pretnja Trampa Iranu: \"Bolje vam je da to ne radite, inače...\"",
-          "snippet": "",
-          "url": "https://www.telegraf.rs/vesti/svet/4280677-strahovita-pretnja-trampa-iranu-bolje-vam-je-da-to-ne-radite-inace",
-          "source": "Telegraf.rs"
-        },
-        {
-          "title": "Trampu stiglo hitno upozorenje pred zastrašujući udar na Iran: \"Biće žrtava\"",
-          "snippet": "",
-          "url": "https://www.blic.rs/vesti/svet/trampu-stiglo-hitno-upozorenje-pred-zastrasujuci-udar-na-iran-bice-zrtava/3mzegjp",
+          "url": "https://www.blic.rs/zabava/snajka-teodore-dzehverovic-se-oglasila-iz-dubaija-tokom-bombaskih-napada/7zh7f0y",
           "source": "Blic"
         },
         {
-          "title": "\"Igre i trikovi\"; Otkriveno zašto je Tramp napao Iran",
+          "title": "SNAJKA TEODORE DŽEHVEROVIĆ PREŽIVLJAVA PAKAO U DUBAIJU! Evo kako se oseća tokom haosa",
           "snippet": "",
-          "url": "https://www.b92.net/info/svet/211805/igre-i-trikovi-otkriveno-zasto-je-tramp-napao-iran/vest",
-          "source": "B92"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "mondo",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 28 Feb 2026 15:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5Je_JpovQjIO8zsRhwxRpFo0MBuNXxB18M-ngWiNjcMSJbmK3y6_dvXkSLug",
-      "pictureSource": "Sportklub",
-      "relatedSearch": [
-        {
-          "title": "Pir od 7.000 €: FSS pokrenuo postupke protiv Zvezde i Partizana",
-          "snippet": "",
-          "url": "https://sportklub.n1info.rs/fudbal/srbija-super-liga/zvezda-partizan-178-veciti-derbi-baklje-pirotehnika/",
-          "source": "Sportklub"
+          "url": "https://www.kurir.rs/stars/9927280/kako-se-adriana-dzehverovic-nosi-sa-situacijom-u-dubaiju",
+          "source": "Kurir"
         },
         {
-          "title": "ŽESTOK UDARAC ZA VEČITE! Zvezda i Partizan kažnjeni posle 178. večitog derbija, a ovo je razlog!",
+          "title": "Adriana Kadar sa suprugom i kćerkicom u jeku napada na Dubai",
           "snippet": "",
-          "url": "https://www.novosti.rs/sport/fudbal/1580403/kaznjeni-veciti-rivali-fss-kaznio-crvena-zvezda-partizan-disciplkinska-komisija-fss-kaznila-zvezdu-partizan",
-          "source": "Novosti"
-        },
-        {
-          "title": "TUČA navijača i policije: HAOS i u Novom Sadu (VIDEO)",
-          "snippet": "",
-          "url": "https://direktno.rs/sport/fudbal/668609/tuca-navijaca-i-policije-novi-sad-klisa.html",
-          "source": "Vesti kakve treba da budu"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "eurovision 2026 odds",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 28 Feb 2026 15:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxRHTvK5WE8BNNjqlxy-3d_djtompPbSEArnxLXkhqAea6-xtH4Dlc76M7fHY",
-      "pictureSource": "Eurovisionworld",
-      "relatedSearch": [
-        {
-          "title": "Norway: Jonas Lovv wins Melodi Grand Prix 2026",
-          "snippet": "",
-          "url": "https://eurovisionworld.com/esc/norway-jonas-lovv-wins-melodi-grand-prix-2026",
-          "source": "Eurovisionworld"
-        },
-        {
-          "title": "Tonight: Six Countries Select for Eurovision 2026",
-          "snippet": "",
-          "url": "https://eurovoix.com/2026/02/28/tonight-six-countries-select-for-eurovision-2026/",
-          "source": "Eurovoix"
-        },
-        {
-          "title": "Your preview for Norway's 'Melodi Grand Prix'",
-          "snippet": "",
-          "url": "https://www.eurovision.com/stories/mgp-preview-norway-2026/",
-          "source": "Eurovision.tv"
+          "url": "https://srpskainfo.com/zabava/adriana-kadar-sa-suprugom-i-kcerkicom-u-jeku-napada-na-dubai/",
+          "source": "Srpskainfo"
         }
       ],
       "link": "https://imtaqin.id/"

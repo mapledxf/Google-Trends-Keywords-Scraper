@@ -1,13 +1,47 @@
 {
-  "lastUpdate": "2026-03-01 21:21:46",
+  "lastUpdate": "2026-03-01 21:41:05",
   "data": [
     {
-      "title": "נפילה בירושלים",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 1 Mar 2026 12:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhhiW-uAdjcM1jq12hqTwttg-FIPBTNG-mlN-FHU6OfEcETqnCfJZ698tw4Ac",
-      "pictureSource": "כיכר השבת | אתר החדשות החרדי הגדול בעולם",
+      "title": "jerusalem",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 1 Mar 2026 13:20:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrhB6IaqNWVMYopoeqnDL-Mlx11ah0lAjNUUNfJCPRqfQcLJuZ7OnjAbP9n5Y",
+      "pictureSource": "The Times of Israel",
       "relatedSearch": [
+        {
+          "title": "‘Everything is gone’: Deadly Iranian strike on Beit Shemesh leaves residents reeling",
+          "snippet": "",
+          "url": "https://www.timesofisrael.com/everything-is-gone-deadly-iranian-strike-on-beit-shemesh-leaves-residents-reeling/",
+          "source": "The Times of Israel"
+        },
+        {
+          "title": "BBC reports from Beit Shemesh after deadly Iranian missile strike",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/videos/c363zr0n27yo",
+          "source": "BBC"
+        },
+        {
+          "title": "Arrow system did not fire at missile that killed 9 in Beit Shemesh; officials deny limits on interceptors",
+          "snippet": "",
+          "url": "https://www.ynetnews.com/article/by5vzzfy11l",
+          "source": "Ynetnews"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "נפילה בירושלים",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 1 Mar 2026 12:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwLCfugfJyU01Z-g_vGoTgoXBqipvy70xelWVad2-6hay_McnfSyAczBKr2W8",
+      "pictureSource": "מעריב",
+      "relatedSearch": [
+        {
+          "title": "טיל פגע בכביש באזור ירושלים; חמישה פצועים בזירת הנפילה",
+          "snippet": "",
+          "url": "https://www.maariv.co.il/news/military/Blog-1290468",
+          "source": "מעריב"
+        },
         {
           "title": "אזעקות ברחבי הארץ | 6 פצועים אותרו בזירת נפילה בירושלים, ..",
           "snippet": "",
@@ -15,16 +49,10 @@
           "source": "כיכר השבת | אתר החדשות החרדי הגדול בעולם"
         },
         {
-          "title": "תיעוד: ראש קרב של טיל איראני נפל במרחק מאות מטרים מהר הבית והכותל המערבי",
+          "title": "תיעוד: ראש קרב איראני אותר מאות מטרים מהר הבית",
           "snippet": "",
-          "url": "https://www.bhol.co.il/news/1720399",
-          "source": "בחדרי חרדים"
-        },
-        {
-          "title": "נפילה באזור צפון ירושלים – שבעה נפגעים אחד באורח קשה",
-          "snippet": "",
-          "url": "https://www.jdn.co.il/j_world/2597396/",
-          "source": "JDN"
+          "url": "https://www.inn.co.il/news/691105",
+          "source": "ערוץ 7"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,15 +89,9 @@
       "title": "מצב חירום",
       "trafficCount": "200+",
       "pubDate": "Sun, 1 Mar 2026 11:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5eTILhiuMR5366vv9-GDiH0qC5X_-G2gvdINuctmIYFC397CpuOVFhQ6NoK8",
-      "pictureSource": "ONE",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEq8ke9aTyWeBKz__8A3yMRX_82OLLHiTEtoXLeJsKoSSZr7idbE-PBWH_hL0",
+      "pictureSource": "mako",
       "relatedSearch": [
-        {
-          "title": "רשמית: כל משחקי המחזור ה-25 בליגת העל נדחו",
-          "snippet": "",
-          "url": "https://www.one.co.il/Article/516014.html",
-          "source": "ONE"
-        },
         {
           "title": "מבצע \"שאגת הארי\": המצב המיוחד בעורף הוארך עד 12.3",
           "snippet": "",
@@ -77,10 +99,16 @@
           "source": "mako"
         },
         {
-          "title": "משמעותי: הצעד שנשקל במנהלת להמשך העונה",
+          "title": "הממשלה מאשרת כעת: מצב חירום עד 12.03",
           "snippet": "",
-          "url": "https://www.sport5.co.il/articles.aspx?FolderID=64&docID=536017",
-          "source": "ספורט 5"
+          "url": "https://www.maariv.co.il/breaking-news/article-1290760",
+          "source": "מעריב"
+        },
+        {
+          "title": "רשמית: כל משחקי המחזור ה-25 בליגת העל נדחו",
+          "snippet": "",
+          "url": "https://www.one.co.il/Article/516014.html",
+          "source": "ONE"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -133,10 +161,10 @@
           "source": "ynet"
         },
         {
-          "title": "2,000 חימושים בתוך 30 שעות: עוצמת המכה בטהרן",
+          "title": "בצבא מעריכים שאי אפשר לפגוע קשות ביכולות הצבאיות של איראן בכמה ימים",
           "snippet": "",
-          "url": "https://www.mako.co.il/pzm-soldiers/Article-f8d2b75621aac91026.htm",
-          "source": "mako"
+          "url": "https://www.haaretz.co.il/news/politics/2026-03-01/ty-article/.premium/0000019c-aa4d-db6a-a7bc-ef7f4d500000",
+          "source": "הארץ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,44 +267,16 @@
           "source": "מעריב"
         },
         {
+          "title": "\"הבנתי שאני בלי אקדח\": יגל אושרי על חשש לחדירת מחבלים ביישוב שלו",
+          "snippet": "",
+          "url": "https://www.mako.co.il/music-news/Article-4e6ba1e293bac91026.htm",
+          "source": "mako"
+        },
+        {
           "title": "אזעקות הופעלו בשרון בגלל חשש לחדירת מחבלים",
           "snippet": "",
           "url": "https://www.srugim.co.il/news/1298158",
           "source": "סרוגים"
-        },
-        {
-          "title": "חשש לחדירת מחבלים בצור יצחק: כוחות צה\"ל סורקים את האזור",
-          "snippet": "",
-          "url": "https://passportnews.co.il/article/203880",
-          "source": "PassportNews"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "อาร์เซนอล พบ เชลซี",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 1 Mar 2026 08:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_AsNmVtSw8oUTEvRdJAO4VlWociRivQd1O99HzNHmKllI9mZFp1hDFQHriTE",
-      "pictureSource": "Vietnam.vn",
-      "relatedSearch": [
-        {
-          "title": "เตรียมตัวให้พร้อมสำหรับศึกดาร์บี้แมตช์สุดดุเดือดแห่งลอนดอน!",
-          "snippet": "",
-          "url": "https://www.vietnam.vn/th/cho-man-derby-nay-lua-thanh-london",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "หัวใจเกือบวาย! พี่ต้ากราบ 'ราย่า' เซฟลมหายใจปืน | Soccersuck",
-          "snippet": "",
-          "url": "https://today.line.me/th/v3/article/7NqLKnn",
-          "source": "LINE TODAY"
-        },
-        {
-          "title": "อาร์เซนอล เฉือน​ชนะ เชลซี สรุปผลบอล ตารางคะแนนพรีเมียร์ลีกล่าสุด 2 มี.ค.69",
-          "snippet": "",
-          "url": "https://www.thansettakij.com/sport/652710",
-          "source": "thansettakij"
         }
       ],
       "link": "https://imtaqin.id/"

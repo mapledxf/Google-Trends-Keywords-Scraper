@@ -1,37 +1,65 @@
 {
-  "lastUpdate": "2026-03-02 12:00:31",
+  "lastUpdate": "2026-03-02 13:15:58",
   "data": [
     {
+      "title": "claude",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 2 Mar 2026 04:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRflYyymKvry3EyWEJW0F3yxqSeyjzVawISyoxu_MDDP-HQzwgYJT63MzvDVss",
+      "pictureSource": "The New York Times",
+      "relatedSearch": [
+        {
+          "title": "How Talks Between Anthropic and the Defense Dept. Fell Apart",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2026/03/01/technology/anthropic-defense-dept-openai-talks.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "OpenAI strikes deal with Pentagon hours after Trump admin bans Anthropic",
+          "snippet": "",
+          "url": "https://www.cnn.com/2026/02/27/tech/openai-pentagon-deal-ai-systems",
+          "source": "CNN"
+        },
+        {
+          "title": "AI executive Dario Amodei on the red lines Anthropic would not cross",
+          "snippet": "",
+          "url": "https://www.cbsnews.com/news/ai-executive-dario-amodei-on-the-red-lines-anthropic-would-not-cross/",
+          "source": "CBS News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "f-15e",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Mon, 2 Mar 2026 03:20:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2WZNCb1LJJcijYVyuNtURJ2rhTb8kWuZoekBC6gM2jQyAIQs6bG1Ofr2uYeg",
       "pictureSource": "CNN",
       "relatedSearch": [
         {
-          "title": "Live updates: Several US military aircraft have crashed but all crew survived, Kuwait’s defense ministry says",
+          "title": "Live updates: War spirals in Middle East as explosions heard across region",
           "snippet": "",
           "url": "https://www.cnn.com/world/live-news/iran-israel-us-attack-03-02-26-intl-hnk",
           "source": "CNN"
         },
         {
-          "title": "3 U.S. fighter jets were shot down over Kuwait — but not by Iran",
+          "title": "3 American F-15 jets \"mistakenly shot down\" by Kuwait but all crew safe, U.S. military says",
           "snippet": "",
-          "url": "https://www.axios.com/2026/03/02/3-us-fighter-jets-friendly-fire-kuwait",
-          "source": "Axios"
+          "url": "https://www.cbsnews.com/news/us-f-15-jets-mistakenly-shot-down-kuwait-riendly-fire-crew-safe/",
+          "source": "CBS News"
         },
         {
-          "title": "Several U.S. military aircraft crash in Kuwait as Iranian strikes continue",
+          "title": "American Military Jet Downed in Kuwait",
           "snippet": "",
-          "url": "https://www.reuters.com/world/middle-east/kuwait-intercepts-hostile-drones-third-day-iran-retaliatory-strikes-2026-03-02/",
-          "source": "Reuters"
+          "url": "https://www.wsj.com/livecoverage/iran-israel-us-strikes-2026/card/american-aircraft-downed-in-kuwait-5h0iQXZtWDoaNtEILvCo?gaa_at=eafs&gaa_n=AWEtsqe5hhvv0QV786SBQISJDF-LQJ2W7h7q5BeKxuvN0Q1tH8gP5-v6Lx1O&gaa_ts=69a5905c&gaa_sig=-hB2ghNH8qofSAkMe6aPrLPmM5173vdGRrWWtd0jPApvHdDSxJuhWvWNEgNms2oCg4ifLC0j7QEdYeSjhmR6Kw%3D%3D",
+          "source": "The Wall Street Journal"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "philip denié dahl petersen",
-      "trafficCount": "1000+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 2 Mar 2026 02:10:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnBiPA14yd500KpdYLf-DcaJHSXia1S9RSDWvR7IhFdI8i4KKvY8Y1XBoq9Uo",
       "pictureSource": "DR.dk",
@@ -43,16 +71,16 @@
           "source": "DR.dk"
         },
         {
-          "title": "Undsluppen morder tilbage i politiets varetægt",
-          "snippet": "",
-          "url": "https://ekstrabladet.dk/krimi/undsluppen-morder-tilbage-i-politiets-varetaegt/11111385",
-          "source": "Ekstra Bladet"
-        },
-        {
           "title": "Politiet har anholdt drabsdømt flugtfange",
           "snippet": "",
           "url": "https://fyens.dk/indland/politiet-har-anholdt-drabsdoemt-flugtfange-i-sydhavn",
           "source": "Fyens.dk"
+        },
+        {
+          "title": "Morder anholdt mandag: Politiet melder om massiv indsats | Krimi | Nyheder",
+          "snippet": "",
+          "url": "https://www.bt.dk/krimi/morder-anholdt-mandag-politiet-melder-om-massiv-indsats?gaa_at=eafs&gaa_n=AWEtsqfxD5KonRtwv6E9gi7Wc4NgQQyz6ACOBZoilMiYJFLvpYaGBFhICVEv&gaa_ts=69a59111&gaa_sig=zLROSUt0taIQSlzIkOuEPjVpYlrYXgZWPHjAux2kv17Ieg1UJRFp4kEbt8AU0uj2F8Px7qCnSxmWMSb2XOW2VQ%3D%3D",
+          "source": "B.T."
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,9 +89,15 @@
       "title": "frederiksværk",
       "trafficCount": "500+",
       "pubDate": "Mon, 2 Mar 2026 01:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzh8LYsZG8VV1QfF3Ug-S5s7aa8G-491ivhTjjgh1F50hoIJwcwq2ULkfe4mc",
-      "pictureSource": "tv2.dk",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTesijPI-JgeJSXPi6IvKskF6zjGR6oMzhg1u4XZ0WBnUhwXUd_FWKB6R_woek",
+      "pictureSource": "DR.dk",
       "relatedSearch": [
+        {
+          "title": "Sundhedsskadelig røg i Frederiksværk",
+          "snippet": "",
+          "url": "https://www.dr.dk/nyheder/indland/sundhedsskadelig-roeg-i-frederiksvaerk",
+          "source": "DR.dk"
+        },
         {
           "title": "Brand i Frederiksværk",
           "snippet": "",
@@ -71,44 +105,10 @@
           "source": "tv2.dk"
         },
         {
-          "title": "Sundhedsskadelig røg i Frederiksværk",
+          "title": "Affaldsbrand med lithiumbatterier kan påvirke trafikken: Politiet opfordrer borgere til at blive inden døre",
           "snippet": "",
-          "url": "https://www.dr.dk/nyheder/indland/giftig-roeg-i-frederiksvaerk",
-          "source": "DR.dk"
-        },
-        {
-          "title": "FCK misser mesterskabsspillet for første gang",
-          "snippet": "",
-          "url": "https://www.tv2kosmopol.dk/koebenhavn/historisk-skaebnedag-for-fck-48ed7",
+          "url": "https://www.tv2kosmopol.dk/halsnaes/kraftig-brand-kan-pavirke-trafikken-61b4c",
           "source": "TV 2 Kosmopol"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "novo stock",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 2 Mar 2026 00:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyRRw5klijKjFIcfxvbEzZwMHYn3ZspSl8SP-nbDGfHxbkOi52P7gxv9nX2pw",
-      "pictureSource": "CNBC",
-      "relatedSearch": [
-        {
-          "title": "These 4 charts show the scale of Novo Nordisk's woes",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2026/02/25/novo-nordisk-stock-nvo-lly-eli-lilly-ozempic-weight-loss-obesity.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Eli Lilly Vs. Novo Nordisk: The Valuation Gap Is Unreasonable (NYSE:NVO)",
-          "snippet": "",
-          "url": "https://seekingalpha.com/article/4876511-eli-lilly-vs-novo-nordisk-the-valuation-gap-is-unreasonable",
-          "source": "Seeking Alpha"
-        },
-        {
-          "title": "Is Novo Nordisk (CPSE:NOVO B) Recasting Its Obesity Strategy After CagriSema Trails Zepbound?",
-          "snippet": "",
-          "url": "https://simplywall.st/stocks/dk/pharmaceuticals-biotech/cph-novo-b/novo-nordisk-shares/news/is-novo-nordisk-cpsenovo-b-recasting-its-obesity-strategy-af",
-          "source": "Simply Wall St"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -121,7 +121,7 @@
       "pictureSource": "Fox News",
       "relatedSearch": [
         {
-          "title": "Cher's son arrested at elite St Paul's School in New Hampshire on multiple criminal charges including assault",
+          "title": "Cher's son arrested at elite St Paul's School in New Hampshire on multiple criminal charges, including assault",
           "snippet": "",
           "url": "https://www.foxnews.com/entertainment/chers-son-arrested-elite-st-pauls-school-new-hampshire-multiple-criminal-charges-including-assault",
           "source": "Fox News"
@@ -143,28 +143,28 @@
     },
     {
       "title": "novo nordisk stock",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 2 Mar 2026 00:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXKpgl31qBTq1Du3mm0eJ_Ardl3u4nPh-SbMCQ-KLZ9Jhf_o8yYyi4M5Mrq0M",
-      "pictureSource": "Yahoo Finance UK",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkoVIqrv3GhGi7pDe5Hb4tFvQlR20XDUG2yl39cUo2fjxjxQJ2bd9NfsgPFLs",
+      "pictureSource": "Investing.com UK",
       "relatedSearch": [
         {
-          "title": "Novo Nordisk A/S - share repurchase programme",
+          "title": "Goldman cuts Novo Nordisk to “neutral,” slashes PT to DKK260 after trial data",
           "snippet": "",
-          "url": "https://uk.finance.yahoo.com/news/novo-nordisk-share-repurchase-programme-112200534.html",
-          "source": "Yahoo Finance UK"
+          "url": "https://uk.investing.com/news/stock-market-news/goldman-cuts-novo-nordisk-to-neutral-slashes-pt-to-dkk260-after-trial-data-4534105",
+          "source": "Investing.com UK"
         },
         {
-          "title": "Novo Nordisk Advances DKK 15 Billion Share Buyback, Lifts Treasury Stake to 0.5%",
+          "title": "Goldman Sachs Downgrades Novo Nordisk to Neutral (Buy), Sets Price Target at 260 Danish Kroner - BN",
           "snippet": "",
-          "url": "https://www.tipranks.com/news/company-announcements/novo-nordisk-advances-dkk-15-billion-share-buyback-lifts-treasury-stake-to-0-5",
-          "source": "TipRanks"
+          "url": "https://www.marketscreener.com/news/goldman-sachs-downgrades-novo-nordisk-to-neutral-buy-sets-price-target-at-260-danish-kroner-bn-ce7e5cdcdd8ff725",
+          "source": "marketscreener.com"
         },
         {
-          "title": "Novo Nordisk to invest €430m in Athlone for Wegovy pill",
+          "title": "This Novo Nordisk Analyst Is No Longer Bullish; Here Are Top 5 Downgrades For Monday",
           "snippet": "",
-          "url": "https://www.rte.ie/news/business/2026/0302/1561162-novo-nordisk-athlone-investment/",
-          "source": "RTE.ie"
+          "url": "https://www.benzinga.com/analyst-stock-ratings/downgrades/26/03/50962703/this-novo-nordisk-analyst-is-no-longer-bullish-here-are-top-5-downgrades-for-monday",
+          "source": "Benzinga"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -179,19 +179,19 @@
         {
           "title": "Disse C25-aktier ser analytikerne mindst potentiale i - en spås nedtur på 20 pct. | Nyheder | Video",
           "snippet": "",
-          "url": "https://www.euroinvestor.dk/nyheder/disse-c25-aktier-ser-analytikerne-mindst-potentiale-i-en-spaas-nedtur-paa-20-pct?gaa_at=eafs&gaa_n=AWEtsqf-V4dMz2O8JcXBY0dBALdVKc_OnMjFkxQNUwVNgtglICK5zVhjsd8B&gaa_ts=69a57f63&gaa_sig=r6w1yDsHx59Y7tvf_xpPHabacUosu9dqIOCic7uBW6DgBgTdHDR9VaTEfJ2JHh6LecKVz5INmkVBO1MfAbrSBw%3D%3D",
+          "url": "https://www.euroinvestor.dk/nyheder/disse-c25-aktier-ser-analytikerne-mindst-potentiale-i-en-spaas-nedtur-paa-20-pct?gaa_at=eafs&gaa_n=AWEtsqeQ3YFsSQBkyaRiQwNc9ZDg5KojujKUhr1WlXhMSgCb6AtSFQPutsGm&gaa_ts=69a590c5&gaa_sig=Z3lEZ0zhE1v-GQEkOcAUbjYU_L8_BToub7nflzyrtd1VVtiJt0UXnqG47FrOPutEy26A3PGCUf-566vZhp_eFQ%3D%3D",
           "source": "Euroinvestor"
         },
         {
           "title": "Hæver kursmål på C25-aktie og gentager 'køb'",
           "snippet": "",
-          "url": "https://www.euroinvestor.dk/nyheder/haever-kursmaal-paa-c25-aktie-og-gentager-koeb?gaa_at=eafs&gaa_n=AWEtsqfquRPb1VVT8NdAe2RV_vcK2CKBMYASAYIx9PYDIZeSyqDhdN-XL5ZO&gaa_ts=69a57f63&gaa_sig=6hxH7UKWHqq0CD2BTJK6EKLzjSX4P6OvxKOFNQQlh_llenueU6QhiYW3WNOhbLG-fOC7IBpqkLyfqEuN9YTOZw%3D%3D",
+          "url": "https://www.euroinvestor.dk/nyheder/haever-kursmaal-paa-c25-aktie-og-gentager-koeb?gaa_at=eafs&gaa_n=AWEtsqd7DkpE3t8hHNSowNJW6HqrdWGj150w8LGLS_VdIUFmFZTUta7cRtxh&gaa_ts=69a590c5&gaa_sig=SCXawZV4U8z7XvoogMfMuXmvlcwGJQ7yqIprnBCCpDwHrS1-pPaWbar_s9kdl4GK1TpvQMOe8fL20U3Tx-QcpQ%3D%3D",
           "source": "Euroinvestor"
         },
         {
           "title": "Udbytte på vej fra C25-selskab: Så stort bliver det",
           "snippet": "",
-          "url": "https://www.euroinvestor.dk/nyheder/udbytte-paa-vej-fra-c25-selskab-saa-stort-bliver-det-1?gaa_at=eafs&gaa_n=AWEtsqdR-n0Tkk4G_UPi3UJmcZozQw8wItni52kjc-4_wXSibn-hPUYytp60&gaa_ts=69a57f63&gaa_sig=0mHRICiDT6qX5mRYl0U1COmcy01NoEw-irn2lqr9YJTp_3vVcN9VkeyqxWNtImFe-99A2EloPD4vfK0BsCzk_A%3D%3D",
+          "url": "https://www.euroinvestor.dk/nyheder/udbytte-paa-vej-fra-c25-selskab-saa-stort-bliver-det-1?gaa_at=eafs&gaa_n=AWEtsqfRCPKG4Ig0cNyyqgAc7HJW0OG-IrBYzAGGWQqmsKmLjQyV1RLPD5de&gaa_ts=69a590c5&gaa_sig=uiRjOWtGxEO0267hAM2V9yQvlLP9zDuJcTlcyJhtJeh4DIyVGSMI8RqH7Fb6CP7xK3aHpYVUho6QyPpvyvM0kw%3D%3D",
           "source": "Euroinvestor"
         }
       ],
@@ -229,26 +229,14 @@
       "title": "rheinmetall stock",
       "trafficCount": "200+",
       "pubDate": "Mon, 2 Mar 2026 00:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUARPiQ4KiFVANqQaRJBzqGmQ0swZQoZiRnT6pxtddHTbFTrAcA8qADzMPk0E",
-      "pictureSource": "Rheinmetall",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdSsCc4Zk-8QbNosDRHmfLV4Lq-ekzhj3f-Z7QblWlYkX_k2MjZln13te3Le0",
+      "pictureSource": "Yahoo Finance",
       "relatedSearch": [
         {
-          "title": "Rheinmetall supplies mobile field hospitals to Denmark",
+          "title": "Rheinmetall (XTRA:RHM) Valuation Check After Recent Share Price Pullback",
           "snippet": "",
-          "url": "https://www.rheinmetall.com/en/media/news-watch/news/2026/02/2026-02-27-rheinmetall-supplies-field-hospitals-for-denmark",
-          "source": "Rheinmetall"
-        },
-        {
-          "title": "Denmark’s Military Medical Order Highlights Rheinmetall’s Strategic Diversification",
-          "snippet": "",
-          "url": "https://primaryignition.com/2026/02/27/denmarks-military-medical-order-highlights-rheinmetalls-strategic-diversification/",
-          "source": "Primary Ignition"
-        },
-        {
-          "title": "Rheinmetall Mobile Systeme to supply five Role 2 field hospitals to Danish Ministry of Defence under new contract",
-          "snippet": "",
-          "url": "https://defence-industry.eu/rheinmetall-mobile-systeme-to-supply-five-role-2-field-hospitals-to-danish-ministry-of-defence-under-new-contract/",
-          "source": "Defence Industry Europe"
+          "url": "https://finance.yahoo.com/news/rheinmetall-xtra-rhm-valuation-check-111053406.html",
+          "source": "Yahoo Finance"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,7 +245,7 @@
       "title": "mærsk aktie",
       "trafficCount": "1000+",
       "pubDate": "Mon, 2 Mar 2026 00:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8g3GzgCljLQEH612QookkpOL8sBc8dAwC4TmNnPyGDeQBdz2j67VrTMagdqA",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqXjerDOo-U_HKlOuRjCFGxhkBw6WoRmwlavSxpZiG8iL0svGPSfRWawfhZZg",
       "pictureSource": "DR.dk",
       "relatedSearch": [
         {
@@ -269,7 +257,7 @@
         {
           "title": "Mærsk stopper alle sejladser gennem verdens vigtigste handelsrute | Virksomheder | Business",
           "snippet": "",
-          "url": "https://www.berlingske.dk/virksomheder/maersk-stopper-alle-sejladser-gennem-verdens-vigtigste-handelsrute?gaa_at=eafs&gaa_n=AWEtsqfZg3m3rRHtVnSpak11H1mI5YunUoYPaEZ3fjw-VlRZ1LLx5oDmfQkK&gaa_ts=69a57e86&gaa_sig=EFp3uNetnuuHCdbSOJfB3fI_b9FSpzGz6rQr_qmrBhxcGSMg_24FeVdUKgd_9dmRZL9cpvPs3tcY1Y-u9Yowvw%3D%3D",
+          "url": "https://www.berlingske.dk/virksomheder/maersk-stopper-alle-sejladser-gennem-verdens-vigtigste-handelsrute?gaa_at=eafs&gaa_n=AWEtsqcprq7uWPuRqrHg3sJVXjJ-oI-a2Vyp5msc6qE4PGhiIXzbjbI7fA_h&gaa_ts=69a59112&gaa_sig=gsOcWAX_RCjj5t1ipcrMcLCFINlo19X5Eb-8B-a6Rmygde5s2blpiPPbw3doCzFByrnqQS8Klj_TFZdCKmFOng%3D%3D",
           "source": "Berlingske"
         },
         {

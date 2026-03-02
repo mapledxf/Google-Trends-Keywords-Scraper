@@ -1,37 +1,233 @@
 {
-  "lastUpdate": "2026-03-02 18:29:56",
+  "lastUpdate": "2026-03-02 19:12:37",
   "data": [
     {
-      "title": "bagdad",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 2 Mar 2026 10:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGocd6Mz2Z568yImXPkTKVsSoz1K38_ZgsUL6NRMV8AIaa6ffB-htydhZY-ck",
-      "pictureSource": "WELT",
+      "title": "tagesschau live",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 2 Mar 2026 11:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmx-oEAI8bV8If6KGtJEYjylAQ4nla0V1bRtbuQIBU-0nqVlyZsavMpq_vapI",
+      "pictureSource": "tagesschau.de",
       "relatedSearch": [
         {
-          "title": "Israel startet „umfassenden“ Angriff auf Teheran – Kuwait schießt versehentlich drei US-Kampfjets ab",
+          "title": "Nahost-Liveblog: ++ Brennender Tanker in der Straße von Hormus ++",
           "snippet": "",
-          "url": "https://www.welt.de/politik/ausland/article69a291a07c787f6a1cef1bc5/krieg-in-nahost-auch-bundeswehr-feldlager-in-irak-und-jordanien-beschossen-liveticker.html",
-          "source": "WELT"
+          "url": "https://www.tagesschau.de/newsticker/liveblog-nahost-iran-100.html",
+          "source": "tagesschau.de"
         },
         {
-          "title": "Vergeltungsschlag in Erbil: Raketenangriff sorgt für Spannungen",
+          "title": "Eskalation in Nahost: Öltanker vor Oman beschossen – Ein Toter",
           "snippet": "",
-          "url": "https://www.bild.de/politik/ausland-und-internationales/vergeltungsschlag-in-erbil-raketenangriff-sorgt-fuer-spannungen-69a48e6b4b8f567f12fcea05",
-          "source": "BILD"
+          "url": "https://www.t-online.de/nachrichten/ausland/id_101131950/iran-krieg-oeltanker-vor-oman-beschossen-ein-toter.html",
+          "source": "T-Online"
         },
         {
-          "title": "Newsblog zur Eskalation in der Golfregion - Trump: Wir rechnen mit vier Wochen Krieg",
+          "title": "Angriffe auf Öltanker in der Straße von Hormus: Hamburger Reederverband reagiert besorgt",
           "snippet": "",
-          "url": "https://www.deutschlandfunk.de/pro-iranische-miliz-greift-militaerbasen-an-in-denen-bundeswehrsoldaten-stationiert-sind-100.html",
-          "source": "Deutschlandfunk"
+          "url": "https://www.ndr.de/nachrichten/hamburg/reederverband-in-hamburg-reagiert-besorgt-auf-nahost-lage,iran-934.html",
+          "source": "NDR.de"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "julian zietlow",
+      "trafficCount": "1000+",
+      "pubDate": "Mon, 2 Mar 2026 10:50:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTP0Da-5OU-p8gYR5RcCB6cxX_iJiZxSmiYW5KDh95--eQj2Ax40koiY2xjWto",
+      "pictureSource": "Spiegel",
+      "relatedSearch": [
+        {
+          "title": "(S+) Eskalation in Nahost: Die Golfstaaten standen für Luxus. Jetzt sind sie ein Angriffsziel",
+          "snippet": "",
+          "url": "https://www.spiegel.de/ausland/iran-krieg-trifft-dubai-kuwait-bahrain-golfstaaten-standen-fuer-luxus-jetzt-sind-sie-angriffsziel-a-8ba1a736-a81f-48d2-b10f-012f247d934f",
+          "source": "Spiegel"
+        },
+        {
+          "title": "Iran-Angriffe vereinen Golfstaaten: „Wenn es hart auf hart kommt, schließen sie sich zusammen“",
+          "snippet": "",
+          "url": "https://www.fr.de/politik/unbeabsichtigt-iran-vereint-golfstaaten-mit-angriffen-zr-94192216.html",
+          "source": "FR.de"
+        },
+        {
+          "title": "Frankreich sagt Golfstaaten und Jordanien nach Angriffen Hilfe zu",
+          "snippet": "",
+          "url": "https://www.tagesschau.de/ausland/europa/frankreich-golfstaaten-hilfe-100.html",
+          "source": "tagesschau.de"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "birgit schrowange",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 2 Mar 2026 10:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKvmX_DrjWOM2i8wUx1rKEztJ-EJUnmJoKZ5zn6JP2O4omiw8S7pcvo_hll-8",
+      "pictureSource": "T-Online",
+      "relatedSearch": [
+        {
+          "title": "Klöckner wird im Bundestag ignoriert",
+          "snippet": "",
+          "url": "https://www.t-online.de/video/nachrichten/politik/id_101146450/julia-kloeckner-greift-im-bundestag-durch.html",
+          "source": "T-Online"
+        },
+        {
+          "title": "Julia Klöckner teilt witzige Szene aus dem Bundestag – Birgit Schrowange zeigt sich euphorisch",
+          "snippet": "",
+          "url": "https://www.focus.de/kultur/stars/julia-kloeckner-teilt-witzige-szene-aus-dem-bundestag-birgit-schrowange-zeigt-sich-euphorisch_2fea9a39-f16a-45f0-9210-812977dd5e92.html",
+          "source": "FOCUS online"
+        },
+        {
+          "title": "Julia Klöckner sorgt mit Bundestags-Video für Lacher – Birgit Schrowange ist voller Euphorie",
+          "snippet": "",
+          "url": "https://www.bunte.de/stars/julia-kloeckner-sorgt-mit-bundestags-video-fuer-lacher-birgit-schrowange-ist-voller-euphorie_37cbb732-02f7-4b7d-bcfd-90e668933500.html",
+          "source": "Bunte.de"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "b1 bomber",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 2 Mar 2026 10:50:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfupdPum0Mh6sW21uCULfvcMjcvrXZ6LmQpZoemPPaPlmJHyHAWLL4tkuk2wU",
+      "pictureSource": "CNN",
+      "relatedSearch": [
+        {
+          "title": "Warships, explosive drones and stealth bombers: The high-tech weapons and hardware the US is using to attack Iran",
+          "snippet": "",
+          "url": "https://www.cnn.com/2026/03/02/middleeast/us-weapons-iran-attack-intl-hnk-ml",
+          "source": "CNN"
+        },
+        {
+          "title": "U.S. military officials say more than 1,000 targets hit in Iran on first day of strikes",
+          "snippet": "",
+          "url": "https://www.cbsnews.com/miami/video/u-s-military-officials-say-more-than-1000-targets-hit-in-iran-on-first-day-of-strikes/",
+          "source": "CBS News"
+        },
+        {
+          "title": "Weapons of ‘Epic Fury’: Fighters, Missiles, and ‘Special Capabilities’",
+          "snippet": "",
+          "url": "https://www.airandspaceforces.com/weapons-of-epic-fury-fighters-missiles-and-special-capabilities/",
+          "source": "Air & Space Forces Magazine"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "hanna notte",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 2 Mar 2026 10:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS87lJZsOFozNEZjThIBTMMTrW9ca-RRCQNV-SOB7ve-Ejg51jbGFl4IcdqX2Y",
+      "pictureSource": "Institute for the Study of War",
+      "relatedSearch": [
+        {
+          "title": "Russian Offensive Campaign Assessment, March 1, 2026",
+          "snippet": "",
+          "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-march-1-2026/",
+          "source": "Institute for the Study of War"
+        },
+        {
+          "title": "Russian, Iranian Foreign Ministers Hold Call",
+          "snippet": "",
+          "url": "https://www.wsj.com/livecoverage/iran-strikes-2026/card/russian-iranian-foreign-ministers-hold-call-1D8cHxb8GajHOJcGElBD?gaa_at=eafs&gaa_n=AWEtsqdhXM55Gl-t0P1AQtWlERIKPGhD3kpD2vMzDXCG5Tkumo-CthpC2RMA&gaa_ts=69a5e4a9&gaa_sig=HmM3iiFGswwxjIUC60YBHKgl2Pra8r_f5kvVMJQOLVaPt_Q2uxDxWPlJ_H5EGQLB6UiAc8g3T4RojALJgbWyMQ%3D%3D",
+          "source": "WSJ"
+        },
+        {
+          "title": "Putin’s friendship has limits — as Iran just found out",
+          "snippet": "",
+          "url": "https://www.politico.eu/article/vladimir-putin-friendship-limits-iran-leader-khamenei-found-out/",
+          "source": "POLITICO.eu"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "bologna fc",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 2 Mar 2026 10:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6NUUDVb4fXyq07tLzWT5fKJDWfbfUlO9mLQkaVhTxffGIPjt58A41c-1Bmx0",
+      "pictureSource": "Fantacalcio",
+      "relatedSearch": [
+        {
+          "title": "Pisa-Bologna, le formazioni ufficiali",
+          "snippet": "",
+          "url": "https://www.fantacalcio.it/news/calcio-italia/02_03_2026/pisa-bologna-le-formazioni-ufficiali-489793",
+          "source": "Fantacalcio"
+        },
+        {
+          "title": "Stojilkovic ancora dal 1’, Italiano da una chance a Dallinga: le probabili di Pisa-Bologna",
+          "snippet": "",
+          "url": "https://onefootball.com/de/news/stojilkovic-ancora-dal-1-italiano-da-una-chance-a-dallinga-le-probabili-di-pisa-bologna-42490559",
+          "source": "OneFootball"
+        },
+        {
+          "title": "Una sola sconfitta e per giunta in B, Pisa non è terra ostile per Bologna",
+          "snippet": "",
+          "url": "https://www.tuttomercatoweb.com/le-statistiche/una-sola-sconfitta-e-per-giunta-in-b-pisa-non-e-terra-ostile-per-bologna-2208564",
+          "source": "TUTTO mercato WEB: notizie di calcio e calciomercato"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "omid nouripour",
+      "trafficCount": "2000+",
+      "pubDate": "Mon, 2 Mar 2026 10:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRryNCMG_H75wPFpMZFlxLfMebg-tOlrEvhzUfDkabKpjij2b4TgYqRsUFeilQ",
+      "pictureSource": "tagesschau.de",
+      "relatedSearch": [
+        {
+          "title": "Bundesregierung will Kranke und Kinder aus Nahost zurückholen",
+          "snippet": "",
+          "url": "https://www.tagesschau.de/inland/wadephul-evakuierung-deutsche-golfregion-100.html",
+          "source": "tagesschau.de"
+        },
+        {
+          "title": "Bundesregierung schickt Flugzeuge für gestrandete Urlauber",
+          "snippet": "",
+          "url": "https://www.mdr.de/video/mdr-videos/a/video-994688.html",
+          "source": "MDR.DE"
+        },
+        {
+          "title": "Iran-Krieg: Hamburger Schiffe und Touristen sitzen im Nahen Osten fest",
+          "snippet": "",
+          "url": "https://www.ndr.de/nachrichten/hamburg/iran-krieg-viele-touristen-und-hamburger-schiffe-sitzen-fest,iran-946.html",
+          "source": "NDR.de"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "macron",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 2 Mar 2026 10:20:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSokmQ_mTmzDHT3EkU2mkoc7o8a8QmT7pappHcENgsIxf6WynFtLBUU7AsI_VE",
+      "pictureSource": "Le Monde.fr",
+      "relatedSearch": [
+        {
+          "title": "La France va permettre à ses alliés de « participer aux exercices de dissuasion nucléaire » : retrouvez le discours d’Emmanuel Macron",
+          "snippet": "",
+          "url": "https://www.lemonde.fr/international/live/2026/03/02/en-direct-discours-d-emmanuel-macron-sur-le-nucleaire-suivez-l-allocution-du-chef-de-l-etat-a-brest-sur-la-dissuasion-francaise-et-la-securite-en-europe_6669237_3210.html",
+          "source": "Le Monde.fr"
+        },
+        {
+          "title": "EN DIRECT - Huit pays européens intéressés par la «dissuasion avancée» française, annonce Emmanuel Macron",
+          "snippet": "",
+          "url": "https://www.lefigaro.fr/international/dissuasion-nucleaire-le-discours-d-emmanuel-macron-sur-la-contribution-francaise-a-la-securite-de-l-europe-tres-attendu-ce-lundi-20260302",
+          "source": "Le Figaro"
+        },
+        {
+          "title": "C’est quoi cette base ultrasecrète de l’Île Longue où se rend Macron ?",
+          "snippet": "",
+          "url": "https://www.20minutes.fr/societe/4204134-20260302-nucleaire-quoi-base-ultrasecrete-ile-longue-rend-emmanuel-macron",
+          "source": "20 Minutes"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "eva mattes",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 2 Mar 2026 10:10:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpBVaWvaJPf-swSvD-_DxzTkqE4qUHk6cfth92Ca8xGOM9WPETKIpbvm2RF9k",
       "pictureSource": "Herzogtum direkt",
@@ -58,36 +254,8 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "johann wadephul",
-      "trafficCount": "2000+",
-      "pubDate": "Mon, 2 Mar 2026 10:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRryNCMG_H75wPFpMZFlxLfMebg-tOlrEvhzUfDkabKpjij2b4TgYqRsUFeilQ",
-      "pictureSource": "tagesschau.de",
-      "relatedSearch": [
-        {
-          "title": "Bundesregierung will Kranke und Kinder aus Nahost zurückholen",
-          "snippet": "",
-          "url": "https://www.tagesschau.de/inland/wadephul-evakuierung-deutsche-golfregion-100.html",
-          "source": "tagesschau.de"
-        },
-        {
-          "title": "Iran-Krieg: Hamburger Schiffe und Touristen sitzen im Nahen Osten fest",
-          "snippet": "",
-          "url": "https://www.ndr.de/nachrichten/hamburg/iran-krieg-viele-touristen-und-hamburger-schiffe-sitzen-fest,iran-946.html",
-          "source": "NDR.de"
-        },
-        {
-          "title": "Deutsche Touristen im Nahen Osten: Bundesregierung kündigt Evakuierung von deutschen Touristen an",
-          "snippet": "",
-          "url": "https://www.zeit.de/politik/deutschland/2026-03/deutsche-touristen-evakuierung-naher-osten-johann-wadephul-lufthansa-gxe",
-          "source": "DIE ZEIT"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "namibia",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 2 Mar 2026 10:10:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxRA0i-zr6ZRdT-xiB01wRs7P3NMVfnp6PIafeJ5teo4rydcf0RsuxACTZ2iU",
       "pictureSource": "UNESCO",
@@ -108,158 +276,9 @@
           "title": "‘Jealously guard indigenous languages’",
           "snippet": "",
           "url": "https://neweralive.na/jealously-guard-indigenous-languages/",
-          "source": "New Era Namibia"
+          "source": "New Era – Truth for its own sake"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "melania trump",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 2 Mar 2026 10:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRokauAMWHrDbSl3emfB95yugIB3g2oVUTLdG8RyAITe6xu2Ylk9NqEVyfAlKc",
-      "pictureSource": "Berliner Morgenpost",
-      "relatedSearch": [
-        {
-          "title": "Warum Melania Trump heute den UN-Sicherheitsrat leitet",
-          "snippet": "",
-          "url": "https://www.morgenpost.de/politik/article411350812/warum-melania-trump-heute-den-un-sicherheitsrat-leitet.html",
-          "source": "Berliner Morgenpost"
-        },
-        {
-          "title": "Melania Trump soll Sitzung des Uno-Sicherheitsrats leiten",
-          "snippet": "",
-          "url": "https://www.spiegel.de/ausland/melania-trump-soll-sitzung-des-uno-sicherheitsrats-leiten-a-b077d2da-fed2-4bb1-b069-77d91fd2876e",
-          "source": "Spiegel"
-        },
-        {
-          "title": "Zum Thema Bildung in Konflikten First Lady Melania Trump leitet erstmals Sitzung des UN-Sicherheitsrats",
-          "snippet": "",
-          "url": "https://www.tagesspiegel.de/internationales/zum-thema-bildung-in-konflikten-first-lady-melania-trump-leitet-erstmals-sitzung-des-un-sicherheitsrats-15298588.html",
-          "source": "Tagesspiegel"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "desiree nosbusch",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 2 Mar 2026 10:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQaX64fYe4IZL8yKka77wpmlzROOz42luAG2BNKG9Bzzhc3BkcOZuKjuRHlBoA",
-      "pictureSource": "STERN.de",
-      "relatedSearch": [
-        {
-          "title": "Désirée Nosbusch: Sie hat vorsorglich ihr Testament verfasst",
-          "snippet": "",
-          "url": "https://www.stern.de/lifestyle/leute/d%C3%A9sir%C3%A9e-nosbusch--sie-hat-vorsorglich-ihr-testament-verfasst-37184390.html",
-          "source": "STERN.de"
-        },
-        {
-          "title": "\"Meine Kinder wissen, was ich mir wünsche\"",
-          "snippet": "",
-          "url": "https://www.gala.de/stars/news/d%C3%A9sir%C3%A9e-nosbusch--die-schauspielerin-hat-ihr-testament-gemacht-24553126.html",
-          "source": "GALA.de"
-        },
-        {
-          "title": "\"Meine Kinder wissen, was ich mir wünsche\": Désirée Nosbusch hat ihr Testament gemacht",
-          "snippet": "",
-          "url": "https://www.t-online.de/unterhaltung/stars/id_101150860/desiree-nosbusch-schauspielerin-hat-ihr-testament-gemacht.html",
-          "source": "T-Online"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "istanbul",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 2 Mar 2026 10:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlmgaChcFphHwmTg60g5a9iS3YzOJeWDu_PRghQm4pOX976jJrtAsst_-EAbE",
-      "pictureSource": "T24",
-      "relatedSearch": [
-        {
-          "title": "İstanbul'da lise öğrencisi, 2 öğretmen ve 1 öğrenciyi bıçakladı; öğretmenlerden biri hayatını kaybetti!",
-          "snippet": "",
-          "url": "https://t24.com.tr/gundem/istanbulda-lise-ogrencisi-2-ogretmen-ve-1-ogrenciyi-bicakladi,1303818",
-          "source": "T24"
-        },
-        {
-          "title": "Eğitimde Şiddete Karşı Susmayacağız!",
-          "snippet": "",
-          "url": "https://www.ogretmenler.net/egitimde-siddete-karsi-susmayacagiz",
-          "source": "Ogretmenler.Net"
-        },
-        {
-          "title": "“Somut ve kalıcı adım atın” çağrısı: MEB’e okul güvenliği uyarısı",
-          "snippet": "",
-          "url": "https://www.turkiyeegitim.com/somut-ve-kalici-adim-atin-cagrisi-mebe-okul-guvenligi-uyarisi-140393h.htm",
-          "source": "Türkiye Eğitim"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "charles leclerc",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 2 Mar 2026 10:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoYfH4OAE_nsUYncKdBhacGjhHHTfZiHcb7-7VeX08ll9hKkK-UmvTWdLvzqw",
-      "pictureSource": "Daily Mail",
-      "relatedSearch": [
-        {
-          "title": "Formula One star Charles Leclerc ties the knot with influencer Alexandra Saint Mleux as couple are spotted driving off in £9m vintage Ferrari in stunning Monaco backdrop",
-          "snippet": "",
-          "url": "https://www.dailymail.co.uk/sport/formulaone/article-15601405/Formula-One-Charles-Leclerc-Alexandra-Saint-Mleux-married-Ferrari.html",
-          "source": "Daily Mail"
-        },
-        {
-          "title": "Charles Leclerc’s Fairytale Wedding Ends in $11Million Ferrari",
-          "snippet": "",
-          "url": "https://www.yahoo.com/entertainment/celebrity/articles/charles-leclerc-fairytale-wedding-ends-172128708.html",
-          "source": "Yahoo"
-        },
-        {
-          "title": "Charles Leclerc’s wife Alexandra Saint Mleux adopts new surname, shares first post after wedding",
-          "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/sports/formula-one/news/charles-leclercs-wife-alexandra-saint-mleux-adopts-new-surname-shares-first-post-after-wedding/articleshow/128918969.cms",
-          "source": "The Times of India"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "zagłębie lubin – wisła płock",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 2 Mar 2026 09:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNhqc3rus_nDvhukNCsSv5kTZ8aQS3zk6xYVgxAXMoHH4ofAhTdQVg9UazWDY",
-      "pictureSource": "Przegląd Sportowy",
-      "relatedSearch": [
-        {
-          "title": "Uwierzyli w plan trenera. I zostali sensacyjnym wiceliderem Ekstraklasy",
-          "snippet": "",
-          "url": "https://przegladsportowy.onet.pl/pilka-nozna/ekstraklasa/damian-michalski-z-zaglebia-lubin-nie-podoba-sie-nasz-styl-malo-nas-to-obchodzi/ctkfxe4",
-          "source": "Przegląd Sportowy"
-        },
-        {
-          "title": "Czeka nas grad goli w poniedziałkowych meczach na polskim podwórku? Walka o 262 PLN!",
-          "snippet": "",
-          "url": "https://zagranie.com/typy/czeka-nas-grad-goli-w-poniedzialkowych-meczach-na-polskim-podworku-walka-o-262-pln/",
-          "source": "Zagranie"
-        },
-        {
-          "title": "Najwyższa tercja tabeli - 23. kolejka 2025/2026 (poniedziałek)",
-          "snippet": "",
-          "url": "https://www.ekstraklasa.org/aktualnosci/22881/najwyzsza-tercja-tabeli-23-kolejka-2025-2026-poniedzialek/",
-          "source": "PKO BP Ekstraklasa"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "in fremden händen",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 2 Mar 2026 09:40:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]

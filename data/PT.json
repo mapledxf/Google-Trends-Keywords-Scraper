@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-03-02 11:44:22",
+  "lastUpdate": "2026-03-02 12:00:56",
   "data": [
+    {
+      "title": "claude",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 2 Mar 2026 03:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRflYyymKvry3EyWEJW0F3yxqSeyjzVawISyoxu_MDDP-HQzwgYJT63MzvDVss",
+      "pictureSource": "The New York Times",
+      "relatedSearch": [
+        {
+          "title": "How Talks Between Anthropic and the Defense Dept. Fell Apart - The New York Times",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2026/03/01/technology/anthropic-defense-dept-openai-talks.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "OpenAI strikes deal with Pentagon hours after Trump admin bans Anthropic",
+          "snippet": "",
+          "url": "https://www.cnn.com/2026/02/27/tech/openai-pentagon-deal-ai-systems",
+          "source": "CNN"
+        },
+        {
+          "title": "AI executive Dario Amodei on the red lines Anthropic would not cross",
+          "snippet": "",
+          "url": "https://www.cbsnews.com/news/ai-executive-dario-amodei-on-the-red-lines-anthropic-would-not-cross/",
+          "source": "CBS News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "kuwait",
       "trafficCount": "200+",
@@ -33,19 +61,19 @@
       "title": "correio manha",
       "trafficCount": "200+",
       "pubDate": "Mon, 2 Mar 2026 01:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSoVNcTH2Hc6qKC4yaDnRl-aHxoQ3RxpM17FghltWTYSbzfbbShjD3jBUts2os",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpPrWo3CHEc0tRBTvggS8x05xz4PS7WFb7ksQRhGq61yXi6EfiWAoiTNbcRC0",
       "pictureSource": "Correio da Manhã",
       "relatedSearch": [
-        {
-          "title": "Vídeo mostra caça dos EUA a cair no Kuwait",
-          "snippet": "",
-          "url": "https://www.cmjornal.pt/cmtv/videos/detalhe/video-mostra-caca-dos-eua-a-cair-no-kuwait",
-          "source": "Correio da Manhã"
-        },
         {
           "title": "\"O voo foi cancelado\": O relato de um português retido no Líbano após conflito no Médio Oriente",
           "snippet": "",
           "url": "https://www.cmjornal.pt/cmtv/videos/detalhe/o-voo-foi-cancelado-o-relato-de-um-portugues-retido-no-libano-apos-conflito-no-medio-oriente",
+          "source": "Correio da Manhã"
+        },
+        {
+          "title": "Vídeo mostra caça dos EUA a cair no Kuwait",
+          "snippet": "",
+          "url": "https://www.cmjornal.pt/cmtv/videos/detalhe/video-mostra-caca-dos-eua-a-cair-no-kuwait",
           "source": "Correio da Manhã"
         },
         {
@@ -71,9 +99,9 @@
           "source": "Público"
         },
         {
-          "title": "Ataque israelita deixa rasto de destruição no sul de Beirute",
+          "title": "Exército israelita alerta que ataques contra Hezbollah vão continuar",
           "snippet": "",
-          "url": "https://www.sabado.pt/video/detalhe/ataque-israelita-deixa-rasto-de-destruicao-no-sul-de-beirute",
+          "url": "https://www.sabado.pt/mundo/guerra-medio-oriente/detalhe/exercito-israelita-alerta-que-ataques-contra-hezbollah-vao-continuar",
           "source": "SÁBADO"
         },
         {
@@ -173,13 +201,13 @@
       "title": "ipma",
       "trafficCount": "2000+",
       "pubDate": "Sun, 1 Mar 2026 23:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeUlG6j0nMmLcRYboqN7zwhijbCe9Qn86X-OfvoSWc9bT8tcZCgk9iyJgs0F0",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoj-yhU5F8EW-Xw-6A0kkesiUHGL3EKEkkr29Vr6Fso30OIHuH7goAMinvRQA",
       "pictureSource": "SAPO",
       "relatedSearch": [
         {
-          "title": "IPMA mantém avisos laranja e amarelo, Capitania actualiza até amanhã",
+          "title": "Dezenas de voos cancelados e divergidos esta manhã",
           "snippet": "",
-          "url": "https://sapo.pt/artigo/ipma-mantem-avisos-laranja-e-amarelo-capitania-actualiza-ate-amanha-69a545a3983f234be8f83ec2",
+          "url": "https://sapo.pt/artigo/dezenas-de-voos-cancelados-e-divergidos-esta-manha-69a571e10b36bc0128ff29c3",
           "source": "SAPO"
         },
         {
@@ -189,9 +217,9 @@
           "source": "Público"
         },
         {
-          "title": "50 voos cancelados e ATR da Binter não consegue aterrar no Porto Santo",
+          "title": "IPMA mantém avisos laranja e amarelo, Capitania actualiza até amanhã",
           "snippet": "",
-          "url": "https://www.dnoticias.pt/2026/3/2/483198-50-voos-cancelados-e-atr-da-binter-nao-consegue-aterrar-no-porto-santo/",
+          "url": "https://www.dnoticias.pt/2026/3/2/483188-ipma-mantem-avisos-laranja-e-amarelo-capitania-actualiza-ate-amanha/",
           "source": "dnoticias.pt"
         }
       ],
@@ -217,10 +245,10 @@
           "source": "People.com"
         },
         {
-          "title": "Makeup Artist Alexis Stone’s Jim Carrey Transformation Claim Divides the Internet",
+          "title": "Jim Carrey’s appearance sparks conspiracy – now a makeup artist claims he faked it",
           "snippet": "",
-          "url": "https://parade.com/news/makeup-artist-alexis-stone-jim-carrey-transformation-claim-divides-the-internet",
-          "source": "Parade"
+          "url": "https://www.indy100.com/viral/jim-carrey-makeup-artist-fake",
+          "source": "Indy100"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,22 +277,6 @@
           "snippet": "",
           "url": "https://www.diariocoimbra.pt/2026/02/23/chuva-em-coimbra-bateu-recordes/",
           "source": "Diário de Coimbra"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "capas de jornais",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 1 Mar 2026 22:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9gCDs7EWiefTw6oIfDSxtq_mo7Xefk2LFeRBLtG1hWhMIt6mFYxQIAJktwk0",
-      "pictureSource": "Tomar na Rede",
-      "relatedSearch": [
-        {
-          "title": "Capas dos jornais locais e regionais",
-          "snippet": "",
-          "url": "https://tomarnarede.pt/destaque/capas-dos-jornais-locais-e-regionais-348/",
-          "source": "Tomar na Rede"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,30 +1,67 @@
 {
-  "lastUpdate": "2026-03-02 05:34:51",
+  "lastUpdate": "2026-03-02 06:33:23",
   "data": [
     {
-      "title": "dagbladet",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 1 Mar 2026 21:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFkoSkBDc84MRuBMk0Mql7YPORdrPmTRTxMawgMZNdn8EefWimj4KDq0ObdiA",
-      "pictureSource": "Journalisten",
+      "title": "weather",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 1 Mar 2026 21:30:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5-06cdZwn8ExiCOtGc__5Mrkxh09EpYZNJv0pUlcTubqTJcOrOGlsUW1I9Bk",
+      "pictureSource": "KSN-TV",
       "relatedSearch": [
         {
-          "title": "Svarer på kritikk fra Dagbladet-redaktør: – Aldri vært hensikten",
+          "title": "Storm Track 3 Forecast: Wintry weather exits, strong storms possible this week",
           "snippet": "",
-          "url": "https://www.journalisten.no/svarer-pa-kritikk-fra-dagbladet-redaktor-aldri-vaert-hensikten/665880",
-          "source": "Journalisten"
+          "url": "https://www.ksn.com/weather/weather-blog/storm-track-3-forecast-wintry-weather-exits-strong-storms-possible-this-week/",
+          "source": "KSN-TV"
         },
         {
-          "title": "Dagbladet-redaktør ut mot Aller-familien i podkast",
+          "title": "Chilly today with scattered storms by midday",
           "snippet": "",
-          "url": "https://www.journalisten.no/notice/665533",
-          "source": "Journalisten"
+          "url": "https://www.kwch.com/2026/02/28/much-cooler-sunday-with-thunderstorms-over-eastern-kansas/",
+          "source": "KWCH"
         },
         {
-          "title": "Langet ut: - Legger meg paddeflat",
+          "title": "Warm today with winter weather returning for some on Sunday",
           "snippet": "",
-          "url": "https://www.dagbladet.no/kjendis/langet-ut-legger-meg-paddeflat/84307939",
-          "source": "Dagbladet"
+          "url": "https://www.ksnt.com/weather/warm-today-with-winter-weather-returning-for-some-on-sunday/",
+          "source": "KSNT 27 News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "vg.no",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 1 Mar 2026 21:00:00 -0800",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "oljeprisen nå",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 1 Mar 2026 20:50:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_5MhgK4nr63pNP1m4EIPw-GMN_KfW6HBZIy6PFJkd0eZMBeDU_j7FTZzi2AQ",
+      "pictureSource": "E24",
+      "relatedSearch": [
+        {
+          "title": "Oljeprisen bykser etter Iran-angrep",
+          "snippet": "",
+          "url": "https://e24.no/boers-og-finans/i/y56KeK/oljeprisen-bykser-etter-iran-angrep",
+          "source": "E24"
+        },
+        {
+          "title": "Konsekvenser av stengt Hormuzstredet for norske rederi",
+          "snippet": "",
+          "url": "https://www.nrk.no/urix/konsekvenser-av-stengt-hormuzstredet-for-norske-rederi-1.17789890",
+          "source": "NRK"
+        },
+        {
+          "title": "Oljehopp og bredt børsfall i Asia",
+          "snippet": "",
+          "url": "https://www.dn.no/utenriks/iran/usa/israel/oljehopp-og-bredt-borsfall-i-asia/2-1-1951861",
+          "source": "Dagens Næringsliv | DN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,9 +70,15 @@
       "title": "nrk nyheter",
       "trafficCount": "100+",
       "pubDate": "Sun, 1 Mar 2026 20:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA52Zu15I3VqGsRsdiVcN4xPhI2a23LApgVW4PSrfZ5Q0WFoTexaj1ZmEHX5g",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSz5A8IJWTHK7MSLdJSn0IOLq8eeE_vpYPSdB3jY92pgJ_Gw0iIE8aFY-ZVAaE",
       "pictureSource": "NRK",
       "relatedSearch": [
+        {
+          "title": "Dette skjedde natt til 2. mars",
+          "snippet": "",
+          "url": "https://www.nrk.no/nyheter/dette-skjedde-natt-til-2.-mars-1.17790478",
+          "source": "NRK"
+        },
         {
           "title": "Eksperter: Alt tyder på at Mossad og CIA hadde agenter på bakken i Iran",
           "snippet": "",
@@ -47,85 +90,45 @@
           "snippet": "",
           "url": "https://e24.no/internasjonal-oekonomi/i/ln3bo7/krigen-i-midtoesten-dette-er-bare-begynnelsen",
           "source": "E24"
-        },
-        {
-          "title": "Slik ble Trump overtalt: Israel og Saudi-Arabia presset på",
-          "snippet": "",
-          "url": "https://www.vg.no/nyheter/i/gkEye5/slik-ble-trump-overtalt-til-aa-angripe-iran-israel-og-saudi-arabia-presset-paa",
-          "source": "VG"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "oljeprisen nå",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 1 Mar 2026 20:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkkBLlm25DMCAkS6h6PRtSIyab9BesUJ07g5Lbl9WGLjjrak6jEiKESvArDGA",
-      "pictureSource": "NRK",
-      "relatedSearch": [
-        {
-          "title": "Konsekvenser av stengt Hormuzstredet for norske rederi",
-          "snippet": "",
-          "url": "https://www.nrk.no/urix/konsekvenser-av-stengt-hormuzstredet-for-norske-rederi-1.17789890",
-          "source": "NRK"
-        },
-        {
-          "title": "Spår 100 dollar oljefatet: – Folk kan få mindre å rutte med",
-          "snippet": "",
-          "url": "https://www.tv2.no/nyheter/spar-100-dollar-oljefatet-folk-kan-fa-mindre-a-rutte-med/18616162/",
-          "source": "TV2.no"
-        },
-        {
-          "title": "Oljeprisen fyker i været",
-          "snippet": "",
-          "url": "https://www.dagbladet.no/nyheter/oljeprisen-fyker-i-vaeret/84308292",
-          "source": "Dagbladet"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "libanon",
-      "trafficCount": "100+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 1 Mar 2026 19:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTrpzLlGCNPIKv1gT3wpdUkSValcnh-GqdL0f5FnvH_cL_McfwHAPQXj46RfY",
-      "pictureSource": "NRK",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ1PA3_gBK2lJT4qZf0V-WBGsh77bUsOjvRZ-k-OlI85ZEl0wNr7YBZ-8Oq8JY",
+      "pictureSource": "VG",
       "relatedSearch": [
         {
-          "title": "Disse tar over makten i Iran",
+          "title": "Minst 31 drept etter angrep mot Beirut - Israel ber innbyggerne evakuere",
           "snippet": "",
-          "url": "https://www.nrk.no/urix/disse-tar-over-makten-i-iran-1.17789793",
-          "source": "NRK"
-        },
-        {
-          "title": "«Kjære Gud, få vår nye leder raskt på plass!»",
-          "snippet": "",
-          "url": "https://www.vg.no/nyheter/i/0pQX52/libanon-tusenvis-moettes-for-aa-soerge-over-doede-ayatolla-ali-khamenei",
+          "url": "https://www.vg.no/nyheter/i/165deq/eksplosjoner-i-beirut-israel-ber-innbyggerne-evakuere",
           "source": "VG"
         },
         {
-          "title": "Eide om maktkampen i Iran: – Kan bli et blodbad",
+          "title": "Nye eksplosjoner i fire Midtøsten-byer",
           "snippet": "",
-          "url": "https://www.tv2.no/nyheter/eide-om-maktkampen-i-iran-kan-bli-et-blodbad/18615267/",
-          "source": "TV2.no"
+          "url": "https://www.nrk.no/urix/nye-eksplosjoner-i-fire-midtosten-byer-1.17789763",
+          "source": "NRK"
+        },
+        {
+          "title": "Trump sier USA kan bombe i fire-fem uker. Ny front i krigen ble åpnet i natt.",
+          "snippet": "",
+          "url": "https://www.aftenposten.no/verden/i/GxMqXl/trump-sier-usa-kan-bombe-i-fire-fem-uker",
+          "source": "Aftenposten"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "beirut",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Sun, 1 Mar 2026 19:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfPrteJHZy0FX-r44rAfeftNJpjSoUDWF_iOFHUpuzs1gWDDf2LjsN3GDeXVg",
-      "pictureSource": "The Guardian",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcc3VH-W0ze8b_a6G-s_Y7eF2qKgwuYWUIXZ-gQv7RI4dTBTyrcTrKQ6lD3S4",
+      "pictureSource": "The New York Times",
       "relatedSearch": [
-        {
-          "title": "US-Israel war on Iran live updates: conflict spreads to Lebanon as IDF strikes Hezbollah after attack on Israel",
-          "snippet": "",
-          "url": "https://www.theguardian.com/world/live/2026/mar/02/us-israel-war-iran-live-updates-attacks-strikes-tehran-lebanon-beirut-hezbollah-dubai-latest-news",
-          "source": "The Guardian"
-        },
         {
           "title": "Iran Live Updates: Israel Strikes Hezbollah in Lebanon as Trump Says He's Prepared to Fight for Weeks",
           "snippet": "",
@@ -133,10 +136,44 @@
           "source": "The New York Times"
         },
         {
-          "title": "Iran latest: Tehran says it won’t negotiate with US on third day of bombing as conflict spreads",
+          "title": "Israel bombs Beirut after Hezbollah launches rocket attack",
           "snippet": "",
-          "url": "https://news.sky.com/story/iran-latest-israel-launches-preventative-attack-defence-minister-says-13509565",
-          "source": "Sky News"
+          "url": "https://www.aljazeera.com/news/2026/3/2/israel-bombs-beirut-after-hezbollah-launches-rocket-attack",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Live updates: Hezbollah and Israel exchange strikes in wake of Khamenei's killing",
+          "snippet": "",
+          "url": "https://www.nbcnews.com/world/iran/live-blog/iran-attack-strikes-us-israel-trump-khamenei-dead-live-updates-rcna261172",
+          "source": "NBC News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "e24",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 1 Mar 2026 17:40:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_fiz7pWk-EdwmP2JgId70bYjDsjGRGcy6lhPYpl8Rhtpkqz-NLqWNg2gUPKw",
+      "pictureSource": "VG",
+      "relatedSearch": [
+        {
+          "title": "Krigen i Midtøsten: –⁠ Dette er bare begynnelsen",
+          "snippet": "",
+          "url": "https://www.vg.no/nyheter/i/RjGlM8/krigen-i-midtoesten-dette-er-bare-begynnelsen",
+          "source": "VG"
+        },
+        {
+          "title": "Eksperter: Alt tyder på at Mossad og CIA hadde agenter på bakken i Iran",
+          "snippet": "",
+          "url": "https://www.nrk.no/urix/hadde-mossad-og-cia-agenter-pa-bakken-i-iran_-1.17789921",
+          "source": "NRK"
+        },
+        {
+          "title": "Vil ikke ende godt",
+          "snippet": "",
+          "url": "https://www.dagbladet.no/meninger/vil-ikke-ende-godt/84305938",
+          "source": "Dagbladet"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -209,62 +246,6 @@
           "snippet": "",
           "url": "https://www.seher.no/kjendis/svarer-pa-romanserykter/84292437",
           "source": "Seoghør.no"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "bergerac",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 1 Mar 2026 11:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNR1_i92gPvuAg5TlFnOu2oRntvLa5jadKHiSZydxXO8R3cOw8EZ5f062tbJY",
-      "pictureSource": "Ouest-France",
-      "relatedSearch": [
-        {
-          "title": "Météo. Quel temps fera-t-il à Bergerac et ses environs le lundi 2 mars 2026 ?",
-          "snippet": "",
-          "url": "https://www.ouest-france.fr/meteo/nouvelle-aquitaine/bergerac-24100/la-meteo-du-jour-a-bergerac-59162d82-c7e5-4cf8-b475-cb922a4daba1",
-          "source": "Ouest-France"
-        },
-        {
-          "title": "Météo. Les prévisions météorologiques du dimanche 1 mars 2026 à Bergerac et ses environs",
-          "snippet": "",
-          "url": "https://www.ouest-france.fr/meteo/nouvelle-aquitaine/bergerac-24100/la-meteo-du-jour-a-bergerac-a3ce7236-af3d-4c1b-92cd-eb9a40c7b782",
-          "source": "Ouest-France"
-        },
-        {
-          "title": "Bergerac : Pas d’investissements pharaoniques",
-          "snippet": "",
-          "url": "https://www.ledemocratedebergerac.fr/bergerac-investissements-pharaoniques/",
-          "source": "Le Démocrate Indépendant"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "birgit skarstein",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 1 Mar 2026 11:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZJ66Pk3Z2YS_bzNr0aii9Bk-AFr7aIWmGMPaqdIFHyuZep6eka5uxE36jr74",
-      "pictureSource": "Dagbladet",
-      "relatedSearch": [
-        {
-          "title": "- Prøvde å holde meg unna",
-          "snippet": "",
-          "url": "https://www.dagbladet.no/kjendis/provde-a-holde-meg-unna/84296063",
-          "source": "Dagbladet"
-        },
-        {
-          "title": "Var seks måneder på vei under innspilling: – Samfunnet trenger å se flere gravide",
-          "snippet": "",
-          "url": "https://www.tv2.no/underholdning/var-seks-maneder-pa-vei-under-innspilling-samfunnet-trenger-a-se-flere-gravide/18602568/",
-          "source": "TV2.no"
-        },
-        {
-          "title": "Spillet: Birgit Skarstein røper skjulte detaljen bak kamera",
-          "snippet": "",
-          "url": "https://www.newsner.no/tv/spillet-birgit-skarstein-roper-skjulte-detaljen-bak-kamera/",
-          "source": "Newsner Norge"
         }
       ],
       "link": "https://imtaqin.id/"

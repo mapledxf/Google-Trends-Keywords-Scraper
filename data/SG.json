@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2026-03-02 06:33:30",
+  "lastUpdate": "2026-03-02 07:33:11",
   "data": [
-    {
-      "title": "lebanon",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 1 Mar 2026 20:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQS59CJkKXupiIWnIRW3q5nHUQpwFY21GuzS2y1AXeoOiM2Vxs_KYteY1uAMi4",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Israel and Hezbollah in Lebanon exchange fire as conflict widens after attack on Iran",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/live/cy0dp1l57nxt",
-          "source": "BBC"
-        },
-        {
-          "title": "Iran war widens as Israel strikes Lebanon in response to Hezbollah attacks",
-          "snippet": "",
-          "url": "https://www.channelnewsasia.com/world/iran-israel-us-war-oil-prices-live-5962576",
-          "source": "CNA"
-        },
-        {
-          "title": "Live updates: Hezbollah and Israel exchange strikes in wake of Khamenei's killing",
-          "snippet": "",
-          "url": "https://www.nbcnews.com/world/iran/live-blog/iran-attack-strikes-us-israel-trump-khamenei-dead-live-updates-rcna261172",
-          "source": "NBC News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "ticketmaster",
       "trafficCount": "100+",
@@ -58,6 +30,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "hezbollah",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 1 Mar 2026 19:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCOsVKz0SBv3PpppX1EF88avrdlzAi73pa9cqy7KcHr1X1pmW-BRqboE0rQKs",
+      "pictureSource": "Al Jazeera",
+      "relatedSearch": [
+        {
+          "title": "Iran live: Tehran says no talks, Trump sees more deaths, Israel hits Beirut",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/3/2/us-israel-attack-iran-live",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Israel and Hezbollah in Lebanon exchange fire as conflict widens after attack on Iran",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/cy0dp1l57nxt",
+          "source": "BBC"
+        },
+        {
+          "title": "Iran war widens as Israel strikes Lebanon in response to Hezbollah attacks",
+          "snippet": "",
+          "url": "https://www.channelnewsasia.com/world/iran-israel-us-war-lebanon-oil-prices-live-5962576",
+          "source": "CNA"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "claude",
       "trafficCount": "200+",
       "pubDate": "Sun, 1 Mar 2026 19:10:00 -0800",
@@ -71,16 +71,16 @@
           "source": "The New York Times"
         },
         {
+          "title": "US using AI, B-2 bombers and suicide drones in Iran strikes",
+          "snippet": "",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3345079/us-using-ai-b-2-bombers-and-suicide-drones-iran-strikes",
+          "source": "South China Morning Post"
+        },
+        {
           "title": "Anthropic got blacklisted by the Pentagon. Then Claude hit No. 1 in the app store.",
           "snippet": "",
           "url": "https://www.axios.com/2026/03/01/anthropic-claude-chatgpt-app-downloads-pentagon",
           "source": "Axios"
-        },
-        {
-          "title": "Our agreement with the Department of War",
-          "snippet": "",
-          "url": "https://openai.com/index/our-agreement-with-the-department-of-war/",
-          "source": "OpenAI"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +127,16 @@
           "source": "GMA Network"
         },
         {
-          "title": "Doug Christie details Kings' ‘growth' despite tough NBA season, loss to Lakers",
+          "title": "Lakers reveal injury for LeBron James after win vs Warriors",
           "snippet": "",
-          "url": "https://www.nbcsportsbayarea.com/video/nba/doug-christie-press-conference-video-11/1920931/",
-          "source": "NBC Sports Bay Area & California"
+          "url": "https://sports.yahoo.com/articles/lakers-reveal-injury-lebron-james-213759798.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "Final LeBron James status for Lakers against Kings",
+          "title": "Kings HC Doug Chrisite On Turnover, Shooting Struggles; Nique Clifford's Big Night In Loss To Lakers",
           "snippet": "",
-          "url": "https://basketnews.com/news-242195-final-lebron-james-status-for-lakers-against-kings.html",
-          "source": "BasketNews.com"
+          "url": "https://sactownsports.com/watch/kings-hc-doug-chrisite-on-turnover-shooting-struggles-nique-cliffords-big-night-in-loss-to-lakers/019cad09-fd58-8008-dd7a-b2174b415415",
+          "source": "Sactown Sports"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,23 +155,23 @@
           "source": "Yahoo Finance"
         },
         {
+          "title": "BP : JP Morgan reaffirms its Neutral rating",
+          "snippet": "",
+          "url": "https://www.marketscreener.com/news/bp-jp-morgan-reaffirms-its-neutral-rating-ce7e5cdcdc8bf32c",
+          "source": "www.marketscreener.com"
+        },
+        {
           "title": "BP p.l.c. (BP) Gets a Hold from DBS",
           "snippet": "",
           "url": "https://www.theglobeandmail.com/investing/markets/stocks/BP/pressreleases/441687/bp-plc-bp-gets-a-hold-from-dbs/",
           "source": "The Globe and Mail"
-        },
-        {
-          "title": "Grupo Santander Downgrades BP to Neutral Rating",
-          "snippet": "",
-          "url": "https://www.marketscreener.com/news/grupo-santander-downgrades-bp-to-neutral-rating-ce7e5cd9db8af22c",
-          "source": "www.marketscreener.com"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "iras",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Sun, 1 Mar 2026 17:40:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV_06mvJqKXb8bK2SFochjrDGCAj0lPkKXadsqOAYL56IF0fPSrB52d3omMhQ",
       "pictureSource": "OregonLive.com",
@@ -189,10 +189,38 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Fidelity’s 4 Roth strategies could save your family a fortune in taxes",
+          "title": "Here’s the One Tax Strategy Billionaires Use That You Can Copy in 2026",
           "snippet": "",
-          "url": "https://www.thestreet.com/personal-finance/fidelitys-4-roth-strategies-could-save-your-family-a-fortune-in-taxes",
-          "source": "TheStreet"
+          "url": "https://finance.yahoo.com/news/one-tax-strategy-billionaires-copy-141205559.html",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "gold",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 1 Mar 2026 17:20:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6PMj2CjfaNs-1-bnjGxy7mCZNSduGQCYEgSYgTGnF31Qxwdl7400CoK8zKmM",
+      "pictureSource": "CoinDesk",
+      "relatedSearch": [
+        {
+          "title": "Bitcoin market bottom may be nearing, at least if measured against gold, analyst says",
+          "snippet": "",
+          "url": "https://www.coindesk.com/markets/2026/03/01/bitcoin-market-bottom-may-be-nearing-at-least-if-measured-against-gold-analyst-says",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin undervalued relative to gold signals potential rally: Analyst",
+          "snippet": "",
+          "url": "https://www.tradingview.com/news/cointelegraph:90139ab21094b:0-bitcoin-undervalued-relative-to-gold-signals-potential-rally-analyst/",
+          "source": "TradingView"
+        },
+        {
+          "title": "BTCUSD Today March 02: Gold Ratio Flags Bottom as ETFs See $7.8B Outflows",
+          "snippet": "",
+          "url": "https://meyka.com/blog/btcusd-today-march-02-gold-ratio-flags-bottom-as-etfs-see-78b-outflows-0203/",
+          "source": "Meyka"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -205,7 +233,7 @@
       "pictureSource": "The Straits Times",
       "relatedSearch": [
         {
-          "title": "Woodlands Checkpoint traffic congestion as security steps up",
+          "title": "Heavy traffic into Singapore at Woodlands Checkpoint after ICA steps up security checks",
           "snippet": "",
           "url": "https://www.straitstimes.com/singapore/heavy-traffic-into-singapore-at-woodlands-checkpoint-after-ica-steps-up-security-checks",
           "source": "The Straits Times"
@@ -217,10 +245,10 @@
           "source": "CNA"
         },
         {
-          "title": "Singapore tightens security amid Iran-Israel conflict; US-Israel attack could trigger prolonged conflict in Iran, experts warn: Singapore live news",
+          "title": "Iran strike raises market uncertainty: Weekly Market Recap",
           "snippet": "",
-          "url": "https://sg.news.yahoo.com/live/singapore-tightens-security-amid-iran-israel-conflict-us-israel-attack-could-trigger-prolonged-conflict-in-iran-experts-warn-singapore-live-news-012416689.html",
-          "source": "Yahoo News Singapore"
+          "url": "https://growbeansprout.com/weekly-update-1-mar-2026",
+          "source": "Beansprout"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,38 +273,10 @@
           "source": "富途牛牛"
         },
         {
-          "title": "Asia airline stocks drop while energy shares rise as Iran conflict escalates",
+          "title": "Penguin International Receives SGX Approval for New Share Plan 2026 Listing",
           "snippet": "",
-          "url": "https://www.cnbc.com/2026/03/02/asia-markets-live-trump-iran-oil-prices-nikkei-hang-seng-us-israel-strikes-oil.html",
-          "source": "CNBC"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "st engineering share price",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 1 Mar 2026 17:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-ATzvREDwzLo6lfOu_YFwcJQVaguiXAUgm2e9K-PpKyiJHgYLmz3xYqRLlcI",
-      "pictureSource": "The Business Times",
-      "relatedSearch": [
-        {
-          "title": "ST Engineering hit by S$689 million impairment as H2 net profit falls 83.6%; defence growth seen underpinning 2026",
-          "snippet": "",
-          "url": "https://www.businesstimes.com.sg/companies-markets/st-engineering-hit-s689-million-impairment-h2-net-profit-falls-83-6-defence-growth-seen-underpinning?ref=pulse",
-          "source": "The Business Times"
-        },
-        {
-          "title": "ST Engineering and Venture Earnings: A Tale of Two Industrial Giants",
-          "snippet": "",
-          "url": "https://thesmartinvestor.com.sg/st-engineering-and-venture-earnings-a-tale-of-two-industrial-giants/",
-          "source": "The Smart Investor"
-        },
-        {
-          "title": "ST Engineering expects to repeat doubling of international defence contract wins this FY2026",
-          "snippet": "",
-          "url": "https://sg.finance.yahoo.com/news/st-engineering-expects-repeat-doubling-215534148.html",
-          "source": "Yahoo Finance Singapore"
+          "url": "https://www.minichart.com.sg/2026/03/02/penguin-international-receives-sgx-approval-for-new-share-plan-2026-listing/",
+          "source": "Minichart"
         }
       ],
       "link": "https://imtaqin.id/"

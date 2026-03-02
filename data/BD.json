@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-03-02 06:32:55",
+  "lastUpdate": "2026-03-02 07:32:36",
   "data": [
+    {
+      "title": "weather dhaka",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 1 Mar 2026 23:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7C6fEQDOW_O8AnrDy22cN0AOz9OIzH97S6INrb3bi6RIsEHsh_tj3KV8YWoU",
+      "pictureSource": "The Daily Star",
+      "relatedSearch": [
+        {
+          "title": "Rains likely in five divisions: BMD",
+          "snippet": "",
+          "url": "https://www.thedailystar.net/news/bangladesh/news/rains-likely-five-divisions-bmd-4118556",
+          "source": "The Daily Star"
+        },
+        {
+          "title": "Dry weather likely across Bangladesh",
+          "snippet": "",
+          "url": "https://en.banglanews24.com/national/news/bd/190904.details",
+          "source": "Banglanews24"
+        },
+        {
+          "title": "Temperatures rising, but no relief from rain yet",
+          "snippet": "",
+          "url": "https://thefinancialexpress.com.bd/environment/temperatures-rising-but-no-relief-from-rain-yet",
+          "source": "The Financial Express | First Financial Daily of Bangladesh"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "dhaka stock exchange",
       "trafficCount": "200+",
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://www.newagebd.net/post/stocks/292699/stocks-plunge-amid-middle-east-tension",
           "source": "Newagebd.net"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "prothom alo news",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 1 Mar 2026 19:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkpsznKxiKis-CjZXvGqkF6YbACErdXH1arz4JIz7iQdGAklMJH45PwOr0tnY",
-      "pictureSource": "Prothom Alo",
-      "relatedSearch": [
-        {
-          "title": "Saleh Ahmed last visited Moulvibazar 4 months ago",
-          "snippet": "",
-          "url": "https://en.prothomalo.com/bangladesh/local-news/tu5k6dr9zq",
-          "source": "Prothom Alo"
-        },
-        {
-          "title": "Nepal News Evening Briefing | Sunday, March 1, 2026",
-          "snippet": "",
-          "url": "https://english.nepalnews.com/s/main-left/nepal-news-evening-briefing-sunday-march-1-2026/",
-          "source": "Nepal News | Nepal's First Online News Portal"
-        },
-        {
-          "title": "Bangladeshi citizen killed in drone attack in UAE",
-          "snippet": "",
-          "url": "https://en.bd-pratidin.com/national/2026/03/01/58041",
-          "source": "en.bd-pratidin.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -95,14 +95,14 @@
         {
           "title": "Iran Is Shooting at Some of the World’s Busiest Airports",
           "snippet": "",
-          "url": "https://www.wsj.com/world/middle-east/iran-is-shooting-at-some-of-the-worlds-busiest-airports-bb660b8e?gaa_at=eafs&gaa_n=AWEtsqflGBg2k05Q8Uwzpof7JRpjas-XMb6JKRyhaYaxT3HtSJoR4IspHlNc&gaa_ts=69a5329b&gaa_sig=Q0mXAkE4JYtuFeWcHczaBo8rZCUayriVUi93vJnFT8WF_lvYPQFI7_rcjiSoSTZskMK4cGzG6b54C3qYcrzZ6w%3D%3D",
+          "url": "https://www.wsj.com/world/middle-east/iran-is-shooting-at-some-of-the-worlds-busiest-airports-bb660b8e?gaa_at=eafs&gaa_n=AWEtsqeoh2iPQ187B7GMQ74aw9f8-apMo7LaXOo7ViVxLlD3umHBtDGaWE4k&gaa_ts=69a53fc4&gaa_sig=Ycu37wvy0U4kFpZwzxfran5nr6szLerZx2_g2aReeQgOt7gwoHSNHpXspE2cRiWBFkIN_ZJfDn4Z3g5LG4711w%3D%3D",
           "source": "WSJ"
         },
         {
-          "title": "Live updates: Blasts heard in Gulf cities as top official says Iran won’t negotiate with US",
+          "title": "Blasts In Dubai, Abu Dhabi, Doha, Sirens In Tel Aviv As Iran Strikes Continue",
           "snippet": "",
-          "url": "https://www.cnn.com/world/live-news/iran-israel-us-attack-03-02-26-intl-hnk",
-          "source": "CNN"
+          "url": "https://www.ndtv.com/world-news/israel-iran-conflict-news-dubai-news-sirens-in-tel-aviv-as-iran-launches-missiles-at-israel-blasts-across-doha-dubai-11156979",
+          "source": "NDTV"
         },
         {
           "title": "Bahrain intercepts 61 missiles, 34 drones in Iranian attacks",
@@ -133,10 +133,10 @@
           "source": "দ্য ডেইলি স্টার বাংলা"
         },
         {
-          "title": "মেঘলা থাকবে ঢাকার আকাশ, তাপমাত্রা কমার সম্ভাবনা",
+          "title": "ঢাকায় শীতের শেষে তাপমাত্রা বৃদ্ধি, গরমের অনুভূতি বাড়ছে",
           "snippet": "",
-          "url": "https://www.ittefaq.com.bd/777340/%E0%A6%AE%E0%A7%87%E0%A6%98%E0%A6%B2%E0%A6%BE-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%AC%E0%A7%87-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6-%E0%A6%A4%E0%A6%BE%E0%A6%AA%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE-%E0%A6%95%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A6%A8%E0%A6%BE",
-          "source": "The Daily Ittefaq"
+          "url": "https://www.channelionline.com/temperatures-rise-in-dhaka-at-the-end-of-winter-feeling-of-heat-increasing/",
+          "source": "Channel i Online"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +155,44 @@
           "source": "Inter Miami CF"
         },
         {
+          "title": "WATCH: Florida Derby golazo! Martín Ojeda strikes for Orlando",
+          "snippet": "",
+          "url": "https://www.mlssoccer.com/video/goal-m-ojeda-vs-mia-24",
+          "source": "MLSsoccer.com"
+        },
+        {
           "title": "WATCH: NYCFC snatch last-gasp win at Philadelphia Union",
           "snippet": "",
           "url": "https://www.mlssoccer.com/video/highlights-philadelphia-union-vs-new-york-city-fc-march-1-2026",
           "source": "MLSsoccer.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "movie",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 1 Mar 2026 17:20:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnIL-ap4kAGcrYO2g8sa1AH6Md6AWBI0u7tUo9kX9t7VrzdlXdDRAxgUhBDkM",
+      "pictureSource": "The New York Times",
+      "relatedSearch": [
+        {
+          "title": "Unforgettable SAG Actor Awards 2026 Looks: Teyana Taylor, Emma Stone and More",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2026/03/01/style/sag-actor-awards-looks-fashion.html",
+          "source": "The New York Times"
         },
         {
-          "title": "WATCH: João Klauss' hot start guides LA Galaxy over Charlotte FC",
+          "title": "SAG’s Actor Awards Winners: ‘Sinners’ Wins Top Prize, ‘The Studio’ and ‘The Pitt’ Lead for TV",
           "snippet": "",
-          "url": "https://www.mlssoccer.com/video/watch-joao-klauss-hot-start",
-          "source": "MLSsoccer.com"
+          "url": "https://variety.com/2026/film/awards/sag-actor-awards-winners-sinners-studio-pitt-1236672938/",
+          "source": "Variety"
+        },
+        {
+          "title": "Viola Davis Shouts in Celebration as She Announces Michael B. Jordan's Win at 2026 Actor Awards",
+          "snippet": "",
+          "url": "https://people.com/actor-awards-2026-viola-davis-shouts-in-celebration-michael-b-jordan-outstanding-leading-performance-11916973",
+          "source": "People.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,26 +201,26 @@
       "title": "dayne st. clair",
       "trafficCount": "200+",
       "pubDate": "Sun, 1 Mar 2026 17:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQJtpd31IJsvApaaWYYiLDQH2YLeG3ej70vqsTrefHc-Du6jBmuFjONl_OTaU",
-      "pictureSource": "The Third Sub",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34PfgHQonN4XulpCFGxvPzn4TbYjiADc2IRdekJBXi-sBlU282dKMJ2YYYn8",
+      "pictureSource": "Minnesota United FC",
       "relatedSearch": [
         {
-          "title": "Crépeau’s Clean Slate in the Sunshine State",
+          "title": "Preview | Loons vs. Lions as MNUFC Host Cincy in Home Opener",
           "snippet": "",
-          "url": "https://thethirdsub.ca/2026/02/26/crepeaus-clean-slate-in-the-sunshine-state/",
-          "source": "The Third Sub"
+          "url": "https://www.mnufc.com/news/preview-loons-vs-lions-as-mnufc-host-cincy-in-home-opener",
+          "source": "Minnesota United FC"
         },
         {
-          "title": "Race for the Roster: Goalkeeper battle reignited?",
+          "title": "PREVIEW | FC Cincinnati visit the Twin Cities in first road trip of the season, taking on Minnesota United FC",
           "snippet": "",
-          "url": "https://www.tsn.ca/soccer/video/2026/02/23/race-for-the-roster-goalkeeper-battle-reignited/",
-          "source": "TSN"
+          "url": "https://www.fccincinnati.com/news/preview-fc-cincinnati-visit-the-twin-cities-in-first-road-trip-of-the-season-taking-on-minnesota-united-fc",
+          "source": "FC Cincinnati"
         },
         {
-          "title": "Race for the Roster: St. Clair stutters in Inter debut",
+          "title": "Neal: Newcomer shines in Loons’ home opener, but not the one fans came to see",
           "snippet": "",
-          "url": "https://www.tsn.ca/soccer/article/race-for-the-roster-st-clair-stutters-in-inter-debut/",
-          "source": "TSN"
+          "url": "https://www.startribune.com/neal-newcomer-shines-in-minnesota-united-home-opener-but-not-the-one-fans-came-to-see/601580586",
+          "source": "Star Tribune"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,38 +273,10 @@
           "source": "MARCA"
         },
         {
-          "title": "VIDEO: Watch the Messi incident",
+          "title": "Messi knocked down by fan",
           "snippet": "",
-          "url": "https://www.frontrowsoccer.com/2026/02/27/video-watch-the-messi-incident/",
-          "source": "Front Row Soccer"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "orlando city vs inter miami",
-      "trafficCount": "50000+",
-      "pubDate": "Sun, 1 Mar 2026 15:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbcIgtXhrghn2GNinIUwOwJPt1Nc8fz_nI0lq748UY6zbCIvw2EXboDSjpS78",
-      "pictureSource": "MLSsoccer.com",
-      "relatedSearch": [
-        {
-          "title": "Orlando City vs. Inter Miami: Everything to know for Sunday Night Soccer",
-          "snippet": "",
-          "url": "https://www.mlssoccer.com/news/orlando-city-vs-inter-miami-everything-to-know-sunday-night-soccer-md2-2026",
-          "source": "MLSsoccer.com"
-        },
-        {
-          "title": "Orlando City vs Inter Miami: MLS stats & head-to-head",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cq57jq26109t",
-          "source": "BBC"
-        },
-        {
-          "title": "Messi bags double as Miami battle back to down Orlando",
-          "snippet": "",
-          "url": "https://www.thedailystar.net/sports/football/news/messi-bags-double-miami-battle-back-down-orlando-4118451",
-          "source": "The Daily Star"
+          "url": "https://tribune.com.pk/story/2595038/messi-knocked-down-by-fan",
+          "source": "The Express Tribune"
         }
       ],
       "link": "https://imtaqin.id/"

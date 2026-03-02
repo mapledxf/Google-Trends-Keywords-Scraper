@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2026-03-02 07:32:59",
+  "lastUpdate": "2026-03-02 08:03:41",
   "data": [
+    {
+      "title": "météo",
+      "trafficCount": "10000+",
+      "pubDate": "Sun, 1 Mar 2026 23:50:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzKzbR4wH42nWOuFdy9vOYyBQqpBSJ99T-KkARdojNq_hrDtimWukywhpgtkM",
+      "pictureSource": "Hespress Français - Actualités du Maroc",
+      "relatedSearch": [
+        {
+          "title": "Le temps qu'il fera ce samedi 28 février 2026",
+          "snippet": "",
+          "url": "https://fr.hespress.com/464087-le-temps-quil-fera-ce-samedi-28-fevrier-2026.html",
+          "source": "Hespress Français - Actualités du Maroc"
+        },
+        {
+          "title": "Météo. Températures en légère baisse sur les provinces marocaines ce samedi 28 février, avec des flocons de neige sur l’Atlas",
+          "snippet": "",
+          "url": "https://fr.le360.ma/societe/meteo-temperatures-en-legere-baisse-sur-les-provinces-marocaines-ce-samedi-28-fevrier-avec-des_2DF6OHWTDJB53KGMZU34CAH4VM/",
+          "source": "Le360"
+        },
+        {
+          "title": "Retour des chutes de neige, du mardi au jeudi, dans plusieurs provinces du Royaume",
+          "snippet": "",
+          "url": "https://mobile.telquel.ma/instant-t/2026/03/01/retour-des-chutes-de-neige-du-mardi-au-jeudi-dans-plusieurs-provinces-du-royaume_1976987/",
+          "source": "Telquel.ma"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "weather",
       "trafficCount": "1000+",
       "pubDate": "Sun, 1 Mar 2026 23:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeeKAgJXZVCedmTXM_kR2oscw0AcFPGWGp9cxSKWw0X0B3eVypLHjkwTD0MP0",
-      "pictureSource": "Cleveland 19 News",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhkwb6LBDFO_id_Xp7tfufYsasNccEnc-dMU7p1PhFWt-7TefxA_Kq_PUc2TE",
+      "pictureSource": "Kauai Now",
       "relatedSearch": [
         {
-          "title": "Northeast Ohio Weather: Warmer and unsettled this week",
+          "title": "Kauai Weather Forecast for March 02, 2026",
           "snippet": "",
-          "url": "https://www.cleveland19.com/2026/03/02/northeast-ohio-weather-warmer-unsettled-this-week/",
-          "source": "Cleveland 19 News"
+          "url": "https://kauainownews.com/2026/03/01/kauai-weather-forecast-for-march-02-2026/",
+          "source": "Kauai Now"
         },
         {
-          "title": "Gradual warming trend to start Monday",
+          "title": "Snow Accumulation In Jersey City NJ Weather Forecast: See Map, Timing",
           "snippet": "",
-          "url": "https://www.ksbw.com/article/gradual-warming-trend-to-start-monday/70563132",
-          "source": "KSBW"
+          "url": "https://patch.com/new-jersey/jersey-city/snow-accumulation-jersey-city-nj-weather-forecast-see-map-timing",
+          "source": "Patch"
         },
         {
-          "title": "Northeast Ohio Monday weather forecast: Sunny and warmer",
+          "title": "Paramus DPW Thanks Community for Snowstorm Assistance",
           "snippet": "",
-          "url": "https://www.cleveland.com/weather/2026/03/northeast-ohio-monday-weather-forecast-sunny-and-warmer.html",
-          "source": "Cleveland.com"
+          "url": "https://www.tapinto.net/towns/paramus/sections/government/articles/paramus-dpw-thanks-community-for-snowstorm-assistance",
+          "source": "TAPinto"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,16 +127,16 @@
           "source": "الجزيرة نت"
         },
         {
-          "title": "كيف يؤثر مقتل خامنئي في مسار حرب إيران مع الولايات المتحدة وإسرائيل؟",
-          "snippet": "",
-          "url": "https://www.bbc.com/arabic/articles/c620djenx46o",
-          "source": "BBC"
-        },
-        {
           "title": "لاريجاني، بيزشكيان، أعرافي... من يحكم إيران في المرحلة الانتقالية بعد مقتل خامنئي؟",
           "snippet": "",
           "url": "https://www.france24.com/ar/%D8%A2%D8%B3%D9%8A%D8%A7/20260301-%D9%85%D9%86-%D9%8A%D8%AD%D9%83%D9%85-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84%D9%8A%D8%A9-%D8%A8%D9%8A%D8%B2%D8%B4%D9%83%D9%8A%D8%A7%D9%86-%D9%84%D8%A7%D8%B1%D9%8A%D8%AC%D8%A7%D9%86%D9%8A-%D8%A3%D8%B9%D8%B1%D8%A7%D9%81%D9%8A-%D9%85%D9%82%D8%AA%D9%84-%D8%AE%D8%A7%D9%85%D9%86%D8%A6%D9%8A",
           "source": "France 24"
+        },
+        {
+          "title": "\"CIA\" تتبعت قادة إيران لشهور عدة",
+          "snippet": "",
+          "url": "https://www.hespress.com/cia-%D8%AA%D8%AA%D8%A8%D8%B9%D8%AA-%D9%82%D8%A7%D8%AF%D8%A9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%84%D8%B4%D9%87%D9%88%D8%B1-%D8%B9%D8%AF%D8%A9-1709076.html",
+          "source": "Hespress"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +155,16 @@
           "source": "Reuters"
         },
         {
-          "title": "Gold, Silver Rise as Middle East Conflict Spurs Safe-Haven Demand",
+          "title": "Safe Haven Demand Intensifies As US-Iran Conflict Extends - Gold, WTI, Nikkei 225, AUD/USD",
           "snippet": "",
-          "url": "https://www.wsj.com/finance/commodities-futures/gold-silver-rise-as-middle-east-conflict-spurs-safe-haven-demand-7be4c63d?gaa_at=eafs&gaa_n=AWEtsqdqbvZDkPOpv5a-gxShWwA9z_PrGr8ml_LOgNYcp5AkbLC4BbfleF3c&gaa_ts=69a53f8c&gaa_sig=bNe3bWVkzf6b-ZqHEpoQZ2_PVfW-P1X3zEuPgTDQi4E_vGpt_3riIlru8n4JTxYV8PPl2Mvi84BIf9tr685ODA%3D%3D",
-          "source": "WSJ"
+          "url": "https://seekingalpha.com/article/4876924-safe-haven-demand-intensifies-us-iran-conflict-extends-gold-wti-crude-nikkei-225-audusd-short-term-outlook?source=feed_tag_market_outlook",
+          "source": "Seeking Alpha"
         },
         {
-          "title": "Wall Street waxes bullish amid geopolitical and technical momentum, Main Street sets 2026 sentiment high as gold challenges $5,300/oz",
+          "title": "Gold, Silver Rise as Middle East Conflict Spurs Safe-Haven Demand",
           "snippet": "",
-          "url": "https://www.kitco.com/news/article/2026-02-27/wall-street-waxes-bullish-amid-geopolitical-and-technical-momentum-main",
-          "source": "KITCO"
+          "url": "https://www.wsj.com/finance/commodities-futures/gold-silver-rise-as-middle-east-conflict-spurs-safe-haven-demand-7be4c63d?gaa_at=eafs&gaa_n=AWEtsqefloC3Mtu7Ov3geAtENTX69Y3y2ROZR5sk0X9iyaXa3GXW__BCAsgV&gaa_ts=69a547e1&gaa_sig=qc7Cv3OrkLmUR5ko-BallYtChQFTUvb0MMkEVZS2MFEkI69fCGeiIKsBMolor977FWnoTt2ZTS4P8VP5s97tbg%3D%3D",
+          "source": "WSJ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -198,34 +226,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "elbotola",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 1 Mar 2026 16:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtC6ToAUMD3X_CnvuuQr36HbkvyNkjuplmMobser_rDQtOu18Cvd2nEcRpoYg",
-      "pictureSource": "Hespress",
-      "relatedSearch": [
-        {
-          "title": "الرجاء يعود بفوز ثمين من أكادير",
-          "snippet": "",
-          "url": "https://www.hespress.com/%D8%A7%D9%84%D8%B1%D8%AC%D8%A7%D8%A1-%D9%8A%D8%B9%D9%88%D8%AF-%D8%A8%D9%81%D9%88%D8%B2-%D8%AB%D9%85%D9%8A%D9%86-%D9%85%D9%86-%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D8%B1-1709262.html",
-          "source": "Hespress"
-        },
-        {
-          "title": "غياب بارز للرجاء ضد الحسنية",
-          "snippet": "",
-          "url": "https://www.ahdath.info/article/250094/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8/%D8%BA%D9%8A%D8%A7%D8%A8-%D8%A8%D8%A7%D8%B1%D8%B2-%D9%84%D9%84%D8%B1%D8%AC%D8%A7%D8%A1-%D8%B6%D8%AF-%D8%A7%D9%84%D8%AD%D8%B3%D9%86%D9%8A%D8%A9",
-          "source": "أحداث.أنفو"
-        },
-        {
-          "title": "متعة العين في أكادير.. كراكاج \"خرافي\" وتيفو لـ\"ألتراس إيمازيغن\" في مواجهة الرجاء 🔥",
-          "snippet": "",
-          "url": "https://m.elbotola.com/video/details/69a4cf544c9692f16c14bbe0/",
-          "source": "Elbotola"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "raja casablanca",
       "trafficCount": "500+",
       "pubDate": "Sun, 1 Mar 2026 16:00:00 -0800",
@@ -254,29 +254,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "wydad vs berkane",
+      "title": "الرجاء",
       "trafficCount": "200+",
       "pubDate": "Sun, 1 Mar 2026 16:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ1G0ClOMDfCibY8H_xAMeAHIrV098X5_16_vefQfCtw9X_h0GAngFgh0K6EoQ",
-      "pictureSource": "Elbotola",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtC6ToAUMD3X_CnvuuQr36HbkvyNkjuplmMobser_rDQtOu18Cvd2nEcRpoYg",
+      "pictureSource": "Hespress",
       "relatedSearch": [
         {
-          "title": "Hakim Ziyech Scores First Goal for Wydad",
+          "title": "الرجاء يعود بفوز ثمين من أكادير",
           "snippet": "",
-          "url": "https://m.elbotola.com/en/article/2026-03-02-00-42-586.html",
+          "url": "https://www.hespress.com/%D8%A7%D9%84%D8%B1%D8%AC%D8%A7%D8%A1-%D9%8A%D8%B9%D9%88%D8%AF-%D8%A8%D9%81%D9%88%D8%B2-%D8%AB%D9%85%D9%8A%D9%86-%D9%85%D9%86-%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D8%B1-1709262.html",
+          "source": "Hespress"
+        },
+        {
+          "title": "غياب بارز للرجاء ضد الحسنية",
+          "snippet": "",
+          "url": "https://www.ahdath.info/article/250094/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8/%D8%BA%D9%8A%D8%A7%D8%A8-%D8%A8%D8%A7%D8%B1%D8%B2-%D9%84%D9%84%D8%B1%D8%AC%D8%A7%D8%A1-%D8%B6%D8%AF-%D8%A7%D9%84%D8%AD%D8%B3%D9%86%D9%8A%D8%A9",
+          "source": "أحداث.أنفو"
+        },
+        {
+          "title": "متعة العين في أكادير.. كراكاج \"خرافي\" وتيفو لـ\"ألتراس إيمازيغن\" في مواجهة الرجاء 🔥",
+          "snippet": "",
+          "url": "https://m.elbotola.com/video/details/69a4cf544c9692f16c14bbe0/",
           "source": "Elbotola"
-        },
-        {
-          "title": "Botola Pro Morocco: date, time, channel and head-to-head history of Wydad vs Berkane",
-          "snippet": "",
-          "url": "https://ca.sports.yahoo.com/news/botola-pro-morocco-date-time-065500680.html",
-          "source": "Yahoo Sports Canada"
-        },
-        {
-          "title": "Wydad Misses Three Players Against Renaissance Berkane in Moroccan League",
-          "snippet": "",
-          "url": "https://www.ysscores.com/en/news/13920336/Wydad-Misses-Three-Players-Against-Renaissance-Berkane-in-Moroccan-League",
-          "source": "www.ysscores.com"
         }
       ],
       "link": "https://imtaqin.id/"

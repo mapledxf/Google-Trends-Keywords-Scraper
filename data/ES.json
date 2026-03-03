@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2026-03-03 11:46:21",
+  "lastUpdate": "2026-03-03 12:02:45",
   "data": [
     {
       "title": "forestalia",
       "trafficCount": "200+",
       "pubDate": "Tue, 3 Mar 2026 03:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4BRb7us4qF2qCwC4mDqJ87gKhL114uuAUQcWMgSx_cdUJ8LTbWuOnfe-FWp4",
-      "pictureSource": "ABC",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_o56nj6FHKyQzfp9EuwAscMB2eU6q-DJB4RHVBzGdnr4GbApjkRsGIlgHbIs",
+      "pictureSource": "El Mundo",
       "relatedSearch": [
+        {
+          "title": "La Guardia Civil registra las sedes de Forestalia en Zaragoza y Madrid en una operación sobre contratos irregulares de renovables",
+          "snippet": "",
+          "url": "https://www.elmundo.es/espana/2026/03/03/69a6be6cfc6c834e1d8b456d.html",
+          "source": "El Mundo"
+        },
         {
           "title": "La Guardia Civil registra la sede y la casa del propietario de Forestalia en Zaragoza",
           "snippet": "",
@@ -15,16 +21,10 @@
           "source": "ABC"
         },
         {
-          "title": "La Guardia Civil registra de nuevo la sede de Forestalia por la investigación del clúster del Maestrazgo",
+          "title": "La Guardia Civil vuelve a realizar registros en la sede de Forestalia en Zaragoza",
           "snippet": "",
-          "url": "https://www.expansion.com/empresas/energia/2026/03/03/69a6c4c6e5fdea69058b458a.html",
-          "source": "Expansión"
-        },
-        {
-          "title": "La Guardia Civil registra las sedes de Forestalia en Zaragoza y Madrid en una operación sobre contratos irregulares de renovables",
-          "snippet": "",
-          "url": "https://www.elmundo.es/espana/2026/03/03/69a6be6cfc6c834e1d8b456d.html",
-          "source": "El Mundo"
+          "url": "https://www.eldiario.es/aragon/politica/guardia-civil-vuelve-realizar-registros-sede-forestalia-zaragoza_1_13035201.html",
+          "source": "elDiario.es"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -53,34 +53,6 @@
           "snippet": "",
           "url": "https://www.abc.es/espana/comunidad-valenciana/mascleta-directo-hoy-lunes-marzo-fallas-valencia-20260302101550-nt.html",
           "source": "ABC"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ibex 35 hoy",
-      "trafficCount": "2000+",
-      "pubDate": "Tue, 3 Mar 2026 02:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUOoFO9_Lona8AsyBedskx9Bk9oqo7hHpMgdKFOUElujLDRO_h58b48ylxfTE",
-      "pictureSource": "El Mundo",
-      "relatedSearch": [
-        {
-          "title": "Las bolsas europeas siguen con caídas que rozan el 2% tras una sesión crítica en Asia por la escalada de los precios de los combustibles",
-          "snippet": "",
-          "url": "https://www.elmundo.es/economia/dinero-inversion/2026/03/03/69a69358fc6c83d5348b4576.html",
-          "source": "El Mundo"
-        },
-        {
-          "title": "El Ibex se desploma un 4,5% por la guerra en Oriente Próximo en su peor sesión desde abril de 2025",
-          "snippet": "",
-          "url": "https://www.abc.es/economia/ibex-desploma-guerra-oriente-proximo-peor-sesion-20260303121839-nt.html",
-          "source": "ABC"
-        },
-        {
-          "title": "El petróleo y el gas se disparan ante los ataques de Teherán a la industria petrolera del Golfo",
-          "snippet": "",
-          "url": "https://elpais.com/economia/2026-03-02/el-precio-del-petroleo-sube-con-fuerza-tras-el-ataque-a-iran.html",
-          "source": "EL PAÍS"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -142,29 +114,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "ibex35",
+      "trafficCount": "2000+",
+      "pubDate": "Tue, 3 Mar 2026 01:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUOoFO9_Lona8AsyBedskx9Bk9oqo7hHpMgdKFOUElujLDRO_h58b48ylxfTE",
+      "pictureSource": "El Mundo",
+      "relatedSearch": [
+        {
+          "title": "Las bolsas europeas siguen con caídas que rozan el 2% tras una sesión crítica en Asia por la escalada de los precios de los combustibles",
+          "snippet": "",
+          "url": "https://www.elmundo.es/economia/dinero-inversion/2026/03/03/69a69358fc6c83d5348b4576.html",
+          "source": "El Mundo"
+        },
+        {
+          "title": "El Ibex se desploma un 4,5% por la guerra en Oriente Próximo en su peor sesión desde abril de 2025",
+          "snippet": "",
+          "url": "https://www.abc.es/economia/ibex-desploma-guerra-oriente-proximo-peor-sesion-20260303121839-nt.html",
+          "source": "ABC"
+        },
+        {
+          "title": "El petróleo y el gas se disparan ante los ataques de Teherán a la industria petrolera del Golfo",
+          "snippet": "",
+          "url": "https://elpais.com/economia/2026-03-02/el-precio-del-petroleo-sube-con-fuerza-tras-el-ataque-a-iran.html",
+          "source": "EL PAÍS"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "acciones santander",
       "trafficCount": "500+",
       "pubDate": "Tue, 3 Mar 2026 01:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTM71RpGvYoplIFXAGj9ok0nbxXncMi8jLPKQz-mGzxV6prbG7PMYGDk0nZ81U",
-      "pictureSource": "Benzinga España",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsn-U4kkEHUiCzsCKR3Ux2NO_vdd4kyuGYOZEKhedgeRNHtd6UiyWv7uwN1lc",
+      "pictureSource": "Estrategias de Inversión",
       "relatedSearch": [
         {
-          "title": "Acciones de Banco Santander aceleran tras ejecutar más del 30% de su recompra millonaria",
+          "title": "Banco Santander se debilita y prepara la activación de un objetivo bajista",
           "snippet": "",
-          "url": "https://es.benzinga.com/news/spain/stocks/acciones-banco-santander-recompra-acciones-retorno-accionista/",
-          "source": "Benzinga España"
+          "url": "https://www.estrategiasdeinversion.com/analisis/trading/banco-santander-se-debilita-y-prepara-la-activacion-n-895209",
+          "source": "Estrategias de Inversión"
         },
         {
-          "title": "Acciones del Banco Santander: del subidón al susto en una semana, claves del giro y escenarios",
+          "title": "¿Cuál es el nivel clave del corto plazo en Santander?",
           "snippet": "",
-          "url": "https://www.articulo14.es/economia/acciones-del-banco-santander-del-subidon-al-susto-en-una-semana-claves-del-giro-y-escenarios-20260303.html",
-          "source": "Artículo 14"
+          "url": "https://www.bolsamania.com/noticias/analisis-tecnico/cual-es-el-nivel-clave-del-corto-plazo-en-santander--21887638.html",
+          "source": "Bolsamania"
         },
         {
-          "title": "Santander, un título con \"mucha más hambre alcista\": ¿qué hay detrás?",
+          "title": "Santander y dos valores más que han perforado soportes este lunes",
           "snippet": "",
-          "url": "https://www.capitalradio.es/noticias/bolsa/santander-un-titulo-mucha-mas-hambre-alcista-hay-detras_144054464.html",
-          "source": "Capital Radio"
+          "url": "https://www.bolsamania.com/noticias/analisis-tecnico/santander-y-dos-valores-mas-que-han-perforado-soportes-este-lunes--21890534.html",
+          "source": "Bolsamania"
         }
       ],
       "link": "https://imtaqin.id/"

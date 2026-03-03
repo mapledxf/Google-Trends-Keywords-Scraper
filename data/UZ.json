@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-03 07:51:32",
+  "lastUpdate": "2026-03-03 08:24:47",
   "data": [
     {
       "title": "claude",
@@ -17,7 +17,7 @@
         {
           "title": "U.S. Strikes in Middle East Use Anthropic, Hours After Trump Ban",
           "snippet": "",
-          "url": "https://www.wsj.com/livecoverage/iran-strikes-2026/card/u-s-strikes-in-middle-east-use-anthropic-hours-after-trump-ban-ozNO0iClZpfpL7K7ElJ2?gaa_at=eafs&gaa_n=AWEtsqdzShvUgpZTd7snNmg-Em0bn2xnTOdm_U4PR7AHkGThIcoSccx3KkDW&gaa_ts=69a695a3&gaa_sig=ra5UhoavPdB4CSdMbSK9ImQxj8loiMnYb8hOMyGFQIT-wvJxqyvuHSGQ6MURnb7QdFnIRqwzaVk5V2wEPl-phg%3D%3D",
+          "url": "https://www.wsj.com/livecoverage/iran-strikes-2026/card/u-s-strikes-in-middle-east-use-anthropic-hours-after-trump-ban-ozNO0iClZpfpL7K7ElJ2?gaa_at=eafs&gaa_n=AWEtsqfdoNBGG1ZxAUY9wO9XZnnOZZJ2t0doqACwRanqxI9rcsxVPxLRx281&gaa_ts=69a69e26&gaa_sig=tRB16wS0dWw5Tw52kGTmEWv8J4NPQQq07f7ig9aHKHDOc_S3WvAU7-3afnkJtki5jD-PT4wusaiNTDgTdsPbMw%3D%3D",
           "source": "WSJ"
         },
         {
@@ -30,29 +30,57 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "byd",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 2 Mar 2026 20:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIf2-B5VHi0KKOxUaDjcILLwYtZH7Ec5abc2eUydn5aY2oLroYYKV2iXW3v00",
+      "title": "claude ai",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 2 Mar 2026 20:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXRL9X7jkgFgIfv028JOEafjvQWTN6YQ60ZmaD8Kw8zSzZHftC9nNzLzYGPP8",
       "pictureSource": "Bloomberg.com",
       "relatedSearch": [
         {
-          "title": "BYD February Vehicle Sales Plunge 41% on Waning Domestic Demand",
+          "title": "Anthropic’s Claude Chatbot Goes Down For Thousands of Users",
           "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-01/byd-february-vehicle-sales-plunge-41-on-waning-domestic-demand",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-02/anthropic-s-claude-chatbot-goes-down-for-thousands-of-users",
           "source": "Bloomberg.com"
         },
         {
-          "title": "Tesla's China EV Rivals Hit By Lunar New Year Holidays, But Nio Stands Out",
+          "title": "Claude is down: What we know about the Anthropic outage",
           "snippet": "",
-          "url": "https://www.investors.com/news/teslas-china-ev-rivals-byd-xpeng-xiaomi-lunar-new-year-nio-strong/",
-          "source": "Investor's Business Daily"
+          "url": "https://mashable.com/article/claude-down-ai-anthropic-outage",
+          "source": "Mashable"
         },
         {
-          "title": "Chinese Automakers’ Sales Largely Fail to Gallop Into New Year",
+          "title": "AI chatbot Claude's Monday morning outages resolved, Anthropic says",
           "snippet": "",
-          "url": "https://www.wsj.com/business/autos/chinese-automakers-sales-largely-fail-to-gallop-into-new-year-7ab3b76f?gaa_at=eafs&gaa_n=AWEtsqdVQ6k6TEvgKN4HLFXkMrkZC4TCcsM2cleyr2vyUvdZblqf2g5TvIiU&gaa_ts=69a69688&gaa_sig=8CJKKW1oAbl2pF2KlcY7eSyyOVxk_nTNeCdxjUG-VtwMUC4dvD3MHuiDaSnxCWWqYPso4y9P0k615t52yYGKvQ%3D%3D",
-          "source": "WSJ"
+          "url": "https://www.stamfordadvocate.com/news/article/claude-down-outages-monday-anthropic-21950126.php",
+          "source": "Stamford Advocate"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "byd",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 2 Mar 2026 20:20:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSag370IMSlysXP82InpFb9bPdXPH3BHrc4diLejbqDjwn88MVm0qzPKOwYXJs",
+      "pictureSource": "Yahoo Finance",
+      "relatedSearch": [
+        {
+          "title": "BYD stock jumps on 'disruptive tech' teaser, despite 41% sales tumble",
+          "snippet": "",
+          "url": "https://finance.yahoo.com/news/byd-stock-jumps-on-disruptive-tech-teaser-despite-41-sales-tumble-160609328.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "China’s BYD tests record-breaking 1,500 kW flash charger in Shenzhen",
+          "snippet": "",
+          "url": "https://interestingengineering.com/energy/china-byd-record-breaking-flash-charger",
+          "source": "Interesting Engineering"
+        },
+        {
+          "title": "BYD to roll out Datang SUV, Denza Z9GT, and updated Yangwang models on Mar 5",
+          "snippet": "",
+          "url": "https://cnevpost.com/2026/03/03/byd-to-roll-out-datang-denza-z9gt-updated-yangwang-models-mar-5/",
+          "source": "CnEVPost"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -217,7 +245,7 @@
           "source": "Vietnam.vn"
         },
         {
-          "title": "«Бенфика» Жозе Моуринью провела 24 игры без поражений в чемпионате Португалии",
+          "title": "«Бенфика» Моуринью оформила историческую беспроигрышную серию",
           "snippet": "",
           "url": "https://stavkiprognozy.ru/novosti/football/benfika_zhoze_mourinyu_provela_24_igry_bez_porazheniy",
           "source": "stavkiprognozy.ru"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://evrimagaci.org/gpt/real-madrid-host-getafe-in-highstakes-bernabeu-derby-showdown-532346",
           "source": "Evrim Ağacı"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "реал мадрид – хетафе",
-      "trafficCount": "20000+",
-      "pubDate": "Mon, 2 Mar 2026 11:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVOvG332u98WTH3GNTyBXtDrSZHRy4rt6bocXHiepGvaxnFcTL-jJssxJN3EY",
-      "pictureSource": "Tribuna.uz",
-      "relatedSearch": [
-        {
-          "title": "Арбелоа: «Это только моя вина»",
-          "snippet": "",
-          "url": "https://tribuna.uz/ru/news/arbeloa-eto-tolko-moya-vina-1108304/",
-          "source": "Tribuna.uz"
-        },
-        {
-          "title": "Трансляция недоступна в вашем регионе",
-          "snippet": "",
-          "url": "https://matchtv.ru/football/spain/matchtvvideo_NI2298334_translation_Real___Khetafe_Chempionat_Ispanii_Tur_26",
-          "source": "Матч ТВ"
-        },
-        {
-          "title": "Из-за кого «Реал» вдруг опозорился на своём поле: четыре худших игрока Арбелоа в матче против скромного «Хетафе»",
-          "snippet": "",
-          "url": "https://www.euro-football.ru/article/35/1006138185_iz-za_kogo_real_vdrug_opozorilsya_na_svoem_pole_chetyire_hudshih_igroka_arbeloa_v_matche_protiv_skromnogo_hetafe",
-          "source": "Евро-Футбол"
         }
       ],
       "link": "https://imtaqin.id/"

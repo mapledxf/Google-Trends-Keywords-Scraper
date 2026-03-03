@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-03 07:06:43",
+  "lastUpdate": "2026-03-03 07:51:08",
   "data": [
     {
       "title": "claude status",
@@ -15,16 +15,16 @@
           "source": "CNBC"
         },
         {
-          "title": "Iran war heralds era of AI-powered bombing quicker than ‘speed of thought’",
-          "snippet": "",
-          "url": "https://www.theguardian.com/technology/2026/mar/03/iran-war-heralds-era-of-ai-powered-bombing-quicker-than-speed-of-thought",
-          "source": "The Guardian"
-        },
-        {
           "title": "U.S. Strikes in Middle East Use Anthropic, Hours After Trump Ban",
           "snippet": "",
-          "url": "https://www.wsj.com/livecoverage/iran-strikes-2026/card/u-s-strikes-in-middle-east-use-anthropic-hours-after-trump-ban-ozNO0iClZpfpL7K7ElJ2?gaa_at=eafs&gaa_n=AWEtsqeSsMxAIzaPgaRIyDuY0kenRwP2y_06pdKr77rdxVl2Ug2lUWRJvh4s&gaa_ts=69a68c05&gaa_sig=ZRCeaGKRMl3L10MaZ4RZJba3f6PaBlmHa_lsW3ramtakQjgi033pGR_BPHQItoWClVvIkUkLHa2s-57yRxPzJQ%3D%3D",
+          "url": "https://www.wsj.com/livecoverage/iran-strikes-2026/card/u-s-strikes-in-middle-east-use-anthropic-hours-after-trump-ban-ozNO0iClZpfpL7K7ElJ2?gaa_at=eafs&gaa_n=AWEtsqdzShvUgpZTd7snNmg-Em0bn2xnTOdm_U4PR7AHkGThIcoSccx3KkDW&gaa_ts=69a695a3&gaa_sig=ra5UhoavPdB4CSdMbSK9ImQxj8loiMnYb8hOMyGFQIT-wvJxqyvuHSGQ6MURnb7QdFnIRqwzaVk5V2wEPl-phg%3D%3D",
           "source": "WSJ"
+        },
+        {
+          "title": "Our agreement with the Department of War",
+          "snippet": "",
+          "url": "https://openai.com/index/our-agreement-with-the-department-of-war/",
+          "source": "OpenAI"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -58,18 +58,40 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "x",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 2 Mar 2026 16:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZf2jFYkIhhQ9hZhVMu_hzlRranZawA9yMgOh1ZzTWs09p774v7WYqtC6TuRo",
+      "title": "gemini",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 2 Mar 2026 17:30:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqZQ_lzwYUWHi_Y1BkmSy_wnleGotvs9dq1YTGnsPuagTJ8JGMk10dbznqTyc",
       "pictureSource": "Bloomberg.com",
       "relatedSearch": [
         {
-          "title": "Musk’s xAI to Buy Back $3 Billion of Debt Early in Run-Up to IPO",
+          "title": "Meta Tests AI Shopping Research Tool to Rival ChatGPT, Gemini",
           "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-02/musk-s-xai-to-buy-back-3-billion-of-debt-early-in-run-up-to-ipo",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-03/meta-tests-ai-shopping-research-tool-to-rival-chatgpt-gemini",
           "source": "Bloomberg.com"
         },
+        {
+          "title": "Meta starts testing AI Shopping features in Meta AI assistant",
+          "snippet": "",
+          "url": "https://www.testingcatalog.com/meta-starts-testing-ai-shopping-features-in-meta-ai-assistant/",
+          "source": "TestingCatalog"
+        },
+        {
+          "title": "Meta challenges Google with new AI shopping search feature",
+          "snippet": "",
+          "url": "https://www.techinasia.com/news/meta-challenges-google-with-new-ai-shopping-search-feature",
+          "source": "Tech in Asia"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "x",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 2 Mar 2026 16:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPptJCtLwJAxvvNzf1nbNu8wBKAupHPgSXnCD3MeMAZwWYzKxMkoTcOo0ejVI",
+      "pictureSource": "Reuters",
+      "relatedSearch": [
         {
           "title": "Elon Musk's X, xAI plan to repay $17.5 billion in debt in full, Bloomberg News reports",
           "snippet": "",
@@ -77,10 +99,16 @@
           "source": "Reuters"
         },
         {
-          "title": "Musk’s xAI to Buy Back $3B in Debt as SpaceX Prepares Major Starlink Upgrade and IPO",
+          "title": "Musk’s X, xAI to Repay $17.5 Billion Debt as SpaceX IPO Nears",
           "snippet": "",
-          "url": "https://www.tipranks.com/news/musks-xai-to-buy-back-3b-in-debt-as-spacex-prepares-major-starlink-upgrade-and-ipo",
-          "source": "TipRanks"
+          "url": "https://finance.yahoo.com/news/musk-xai-buy-back-3-173531157.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "SpaceX-Owned XAI Looks To Pay Off $3 Billion In Bonds Early",
+          "snippet": "",
+          "url": "https://finimize.com/content/spacex-owned-xai-looks-to-pay-off-3-billion-in-bonds-early",
+          "source": "Finimize"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,26 +117,26 @@
       "title": "ריאד",
       "trafficCount": "200+",
       "pubDate": "Mon, 2 Mar 2026 16:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT07nktjSi259sdvrszv5hUIZT8FPbmpqydttQruNnxhczn2xdmSz-J9WIAHnM",
-      "pictureSource": "בחדרי חרדים",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2VKybr8bUFA1JbWBWp13hLvY-dzpHCRuWDuBbJwYBcSCwp0G5w7dunizYBBU",
+      "pictureSource": "ynet",
       "relatedSearch": [
         {
-          "title": "דובאי נסגרת, ריאד הופכת לנתיב הבריחה של עשירי המפרץ",
+          "title": "6 החיילים האמריקנים נהרגו מפגיעת טיל ללא אזעקה; כטב\"מים על השגרירות בסעודיה",
           "snippet": "",
-          "url": "https://www.bhol.co.il/news/1720567",
-          "source": "בחדרי חרדים"
-        },
-        {
-          "title": "השבר התעופתי החריף ביותר מאז מגפת הקורונה",
-          "snippet": "",
-          "url": "https://www.ynet.co.il/vacation/flights/article/hjw80vxfbl",
+          "url": "https://www.ynet.co.il/news/article/rk34hj7k11e",
           "source": "ynet"
         },
         {
-          "title": "אלפי טיסות בוטלו, 9 מדינות סגרו מרחב אווירי: \"שאגת הארי\" משתקת את שמי המזרח התיכון",
+          "title": "טראמפ: \"בקרוב תגלו מה המחיר על הפיגוע בשגרירות ארה\"ב בריאד ועל מות אנשי שירות אמריקנים\"",
           "snippet": "",
-          "url": "https://www.calcalist.co.il/local_news/article/r14mmmqkzl",
-          "source": "Calcalist"
+          "url": "https://www.kan.org.il/content/kan-news/politic/1005663/",
+          "source": "כאן 11"
+        },
+        {
+          "title": "\"אם לא היינו פועלים באיראן - זה לא היה אפשרי בעתיד\"",
+          "snippet": "",
+          "url": "https://www.mako.co.il/pzm-soldiers/liveblog-16f9f73e960bc91027.htm",
+          "source": "mako"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,10 +183,10 @@
           "source": "הארץ"
         },
         {
-          "title": "המאבק הפנימי בצמרת האיראנית משבש את ניהול המלחמה",
+          "title": "עימות אזורי כולל: האם המלחמה תתרחב מעבר למזרח התיכון?",
           "snippet": "",
-          "url": "https://www.mako.co.il/news-columns/2026_q1/Article-7078e3cedfdac91027.htm",
-          "source": "mako"
+          "url": "https://www.ynet.co.il/news/theheadline/article/hxbfwwgbd",
+          "source": "ynet"
         },
         {
           "title": "ארה\"ב נכנסת לצומת מסוכן במלחמה מול איראן: רוסיה וסין עשויות להצטרף",
@@ -173,7 +201,7 @@
       "title": "ישראל היום",
       "trafficCount": "200+",
       "pubDate": "Mon, 2 Mar 2026 15:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsKnj7ebLOSLZyBaCzfmmrW0arg-tGHs7b06tpanjitH1lcG5f0zkRn9__izw",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcToNxdEWdcDusOPdyGVe2IT1xtXMzRGzHtjOzAAlMLEqX6J_WA9LuD8iVTiDlw",
       "pictureSource": "ynet",
       "relatedSearch": [
         {
@@ -201,26 +229,26 @@
       "title": "וואלה",
       "trafficCount": "1000+",
       "pubDate": "Mon, 2 Mar 2026 15:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQwNv784TwUNEDy3ebRO2XqgYzi7O_iJ-ynerTUE9o-4h5L1gP_RBjbL8t8fY",
-      "pictureSource": "Calcalist",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsLvD7Eug9V6ODwyvkamq1do5TypqhwH1DblqNtSU_jkuXoCvMBArAlV5vs5c",
+      "pictureSource": "mako",
       "relatedSearch": [
         {
-          "title": "כך פרצה ⁠ישראל לרשת מצלמות התנועה של טהרן כדי לעקוב אחרי חמינאי",
+          "title": "\"אם לא היינו פועלים - זה לא היה אפשרי בעתיד\"",
           "snippet": "",
-          "url": "https://www.calcalist.co.il/world_news/article/sk9usxnkwl",
-          "source": "Calcalist"
+          "url": "https://www.mako.co.il/pzm-soldiers/liveblog-16f9f73e960bc91027.htm",
+          "source": "mako"
         },
         {
-          "title": "פריצה למצלמות אבטחה ושינוי ברגע האחרון: כך חוסל עלי חמינאי",
+          "title": "כוחות קרקעיים של צה\"ל נכנסו לדרום לבנון ביממה האחרונה",
           "snippet": "",
-          "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/20024512",
-          "source": "היום"
+          "url": "https://www.kan.org.il/content/kan-news/defense/1005741/",
+          "source": "כאן 11"
         },
         {
-          "title": "ירושה תחת אש: מי יחליף את חמינאי?",
+          "title": "הרמטכ\"ל בתדרוך למפקדי האוגדות בגבול הצפון: \"ההגנה על התושבים בראש מעיינינו - לא יהיה עוד פינוי יישובים בארץ ישראל\"",
           "snippet": "",
-          "url": "https://www.makorrishon.co.il/news/middleeast/article/311880",
-          "source": "מקור ראשון"
+          "url": "https://www.idf.il/%D7%90%D7%AA%D7%A8%D7%99-%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA/%D7%99%D7%95%D7%9E%D7%9F-%D7%94%D7%9E%D7%9C%D7%97%D7%9E%D7%94/%D7%9B%D7%9C-%D7%94%D7%9B%D7%AA%D7%91%D7%95%D7%AA/%D7%94%D7%A4%D7%A6%D7%95%D7%AA/%D7%94%D7%A8%D7%9E%D7%98%D7%9B-%D7%9C-%D7%91%D7%A4%D7%99%D7%A7%D7%95%D7%93-%D7%94%D7%A6%D7%A4%D7%95%D7%9F-%D7%91%D7%A9%D7%90%D7%92%D7%AA-%D7%94%D7%90%D7%A8%D7%99/",
+          "source": "את\"צ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,13 +257,13 @@
       "title": "נפילה",
       "trafficCount": "100+",
       "pubDate": "Mon, 2 Mar 2026 15:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgq_nXohueng1M-cTeKfZt6Rr7sypVOGC4VQHy3xoQDTW9GNJB20SUI2c2Q3E",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejuFNh3-DXwwB-E21AoBoVbTG0jaI-pMRY8twvI164Tk0d8hGfgi7dNy6G00",
       "pictureSource": "בחדרי חרדים",
       "relatedSearch": [
         {
-          "title": "תיעוד: ראש קרב של טיל איראני נפל במרחק מאות מטרים מהר הבית והכותל המערבי",
+          "title": "שישה פצועים בזירת פגיעה ישירה בירושלים: אחד מהם במצב בינוני",
           "snippet": "",
-          "url": "https://www.bhol.co.il/news/1720399",
+          "url": "https://www.bhol.co.il/news/1720366",
           "source": "בחדרי חרדים"
         },
         {
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.jdn.co.il/j_world/2597396/",
           "source": "JDN"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "מאקו",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 2 Mar 2026 15:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2_Ip2KhpVGzCAbC86aS_HMqt2AP0H8N8SfAmm-WByExp52ySb8630W-efmyo",
-      "pictureSource": "mako",
-      "relatedSearch": [
-        {
-          "title": "\"אובדן של עשרות מיליונים, רבים לא יתאוששו\"",
-          "snippet": "",
-          "url": "https://www.mako.co.il/music-news/Article-ed675c9e56eac91027.htm",
-          "source": "mako"
-        },
-        {
-          "title": "מעופר ניסים ועד שלומי שבן: אירועי התרבות שבוטלו עקב מבצע \"שאגת הארי\"",
-          "snippet": "",
-          "url": "https://www.ynet.co.il/entertainment/article/hkugi9xtbl",
-          "source": "ynet"
-        },
-        {
-          "title": "נועה קירל חוטפת מכה קשה: הפסידה כ-1.5 מיליון שקל ב-3 ימים בלבד",
-          "snippet": "",
-          "url": "https://www.ice.co.il/culture/news/article/1104789",
-          "source": "ice (אייס)"
         }
       ],
       "link": "https://imtaqin.id/"

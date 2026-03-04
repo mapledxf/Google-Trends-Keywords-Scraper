@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-03-04 06:00:21",
+  "lastUpdate": "2026-03-04 06:57:50",
   "data": [
+    {
+      "title": "breaking news",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 3 Mar 2026 20:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQa8c4Y4OM7iDsHI8gI6Y25zxgqnnVuWGtXUUnJTsGPnHmWJph8TcBSzawr1aA",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Israel launches new strikes on Iran as US identifies first American soldiers killed in conflict",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/cy0dp1l57nxt",
+          "source": "BBC"
+        },
+        {
+          "title": "Iran continues to hit back at US-Israeli strikes as Trump says it is too late to talk",
+          "snippet": "",
+          "url": "https://www.theguardian.com/world/2026/mar/03/us-embassy-riyadh-hit-iranian-drones-israeli-troops-southern-lebanon",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Iran latest: Israel launches fresh strikes - as US troops killed named",
+          "snippet": "",
+          "url": "https://news.sky.com/story/iran-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565",
+          "source": "Sky News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "wordle today",
       "trafficCount": "500+",
@@ -71,16 +99,16 @@
           "source": "Przegląd Sportowy"
         },
         {
-          "title": "A miało nie być emocji. Szalony pościg FC Barcelony w Pucharze Króla",
+          "title": "FC Barcelona - Atletico Madryt w rewanżowym meczu półfinału Pucharu Króla. Relacja na żywo",
           "snippet": "",
-          "url": "https://sportowefakty.wp.pl/pilka-nozna/1237705/a-mialo-nie-byc-emocji-szalony-poscig-fc-barcelony-w-pucharze-krola",
-          "source": "SportoweFakty"
+          "url": "https://sport.interia.pl/pilka-nozna/na-zywo-fc-barcelona-atletico-madryt-w-rewanzowym-meczu-polfinalu-pu,nzId,8273",
+          "source": "Sport Interia"
         },
         {
-          "title": "Heroiczny występ Barcelony, Lewandowski mógł tylko patrzeć. Zdecydował jeden gol",
+          "title": "Barcelona potrzebowała czterech goli do dogrywki. Ależ to był hit!",
           "snippet": "",
-          "url": "https://sport.interia.pl/pilka-nozna/la-liga/news-heroiczny-wystep-barcelony-lewandowski-mogl-tylko-patrzec-zd,nId,22615089",
-          "source": "Sport Interia"
+          "url": "https://www.sport.pl/pilka/7,64946,32637015,barcelona-potrzebowala-czterech-goli-do-dogrywki-alez-to-byl.html",
+          "source": "Sport.pl"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,14 +145,14 @@
       "title": "facebook",
       "trafficCount": "1000+",
       "pubDate": "Tue, 3 Mar 2026 14:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScFWvT8v8S3b2BvQMYlvtsuE7OuyvSocXQGFXfP1tKMeZD3oii0ZZcLultbX4",
-      "pictureSource": "The Register",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7Cw3t9gX7W4s4F8Jjx59W5RRQdycezuSG6lkydn9WqbtYxER5JIQ3-2ggWNc",
+      "pictureSource": "Forbes",
       "relatedSearch": [
         {
-          "title": "Facebook and some Meta business tools go down without reason",
+          "title": "Is Facebook Down? What We Know After Outage Reports Spike",
           "snippet": "",
-          "url": "https://www.theregister.com/2026/03/03/facebook_outage/",
-          "source": "The Register"
+          "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/03/03/facebook-outage-reports-surge-as-website-experiences-issues/",
+          "source": "Forbes"
         },
         {
           "title": "Is Facebook down? Outage fixed afternoon of problems",
@@ -133,10 +161,10 @@
           "source": "AOL.com"
         },
         {
-          "title": "Facebook largely back up after brief outage in the US, Downdetector shows",
+          "title": "Facebook down for thousands of users in the US, Downdetector shows",
           "snippet": "",
-          "url": "https://www.reuters.com/business/facebook-down-thousands-users-us-downdetector-shows-2026-03-03/",
-          "source": "Reuters"
+          "url": "https://www.marketscreener.com/news/facebook-down-for-thousands-of-users-in-the-us-downdetector-shows-ce7e5cd2d08ef32c",
+          "source": "marketscreener.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,9 +173,15 @@
       "title": "football results",
       "trafficCount": "100+",
       "pubDate": "Tue, 3 Mar 2026 14:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYDT1Z7I13-7FyzLG31z-KFqFC-zdIeVVC0jTZknL0KK4Wzhf2wc2r-hs6N2I",
-      "pictureSource": "AD HOC NEWS",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrKHr-WQkiVuroLTDgU7ufce18t5Mx-YYaupg3CyqfUAY8aZB_m1r_RQbm2k8",
+      "pictureSource": "TVGuide.co.uk",
       "relatedSearch": [
+        {
+          "title": "Final Score on BBC Red Button 1 HD: full details and when it's on",
+          "snippet": "",
+          "url": "https://www.tvguide.co.uk/schedule/3b9adda2-bb02-52fd-85f1-86626dcc4716/final-score",
+          "source": "TVGuide.co.uk"
+        },
         {
           "title": "Haaland hat-trick chaos & late drama – Football results today live",
           "snippet": "",
@@ -158,12 +192,6 @@
           "title": "Last?gasp drama & goal-fest: Premier League and UCL live shake up title race",
           "snippet": "",
           "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/last-gasp-drama-and-goal-fest-premier-league-and-ucl-live-shake-up/68631022",
-          "source": "AD HOC NEWS"
-        },
-        {
-          "title": "Live drama in Europe: Haaland, Mbappé & Bellingham light up soccer night",
-          "snippet": "",
-          "url": "https://www.ad-hoc-news.de/boerse/ueberblick/live-drama-in-europe-haaland-mbappe-and-bellingham-light-up-soccer/68628829",
           "source": "AD HOC NEWS"
         }
       ],
@@ -201,26 +229,26 @@
       "title": "bbc football",
       "trafficCount": "500+",
       "pubDate": "Tue, 3 Mar 2026 14:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTpg8042CprN37gqVbYgYgFXkYcTe27Mzupj-C0vMjS7q1cVnkqyx0MhyYkaI",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzZnJfNMsAXR4wUssuEDDGK4Tt_yV9HPLIyA07sOuqckWZ_07CQdHOf_fAd8k",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Premier League predictions: Chris Sutton v singer-songwriter & Chelsea fan Noah Kahan - and AI",
+          "title": "Fantasy Premier League: Gameweek 29 Q&A with expert Gianni Buttice - send us your questions",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/articles/cx2rvnz402lo",
+          "url": "https://www.bbc.com/sport/football/live/cx2rqy5xx58t",
           "source": "BBC"
         },
         {
-          "title": "Danny Welbeck: Brighton striker triggers 12-month contract extension until 2027",
+          "title": "Who is the best FPL captain for Gameweek 29?",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/articles/c6260vvd2eyo",
-          "source": "BBC"
+          "url": "https://www.premierleague.com/en/news/4604669/who-is-the-best-fpl-captain-for-gameweek-29",
+          "source": "Premier League"
         },
         {
-          "title": "Brighton striker extends stay at club",
+          "title": "Fantasy Premier League Gameweek 29: Top 3 FPL Captaincy Picks",
           "snippet": "",
-          "url": "https://www.radiokerry.ie/sport/brighton-striker-extends-stay-at-club-474337",
-          "source": "RadioKerry.ie"
+          "url": "https://www.fantasyfootballfix.com/blog-index/fpl-gameweek-29-captaincy-2025/",
+          "source": "Fantasy Football Fix"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -237,34 +265,6 @@
           "snippet": "",
           "url": "https://news.ssbcrack.com/robert-plant-reflects-on-elvis-presleys-impact-on-his-rock-star-journey/",
           "source": "SSBCrack News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "pl",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 3 Mar 2026 14:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrGzdJ4le_4NX-3A3v3lYndRGvw06VMz8xpPl8Whr3ARsgWpWC9U0bioWfdlA",
-      "pictureSource": "Dziennik.pl Auto",
-      "relatedSearch": [
-        {
-          "title": "Sprawdziłem ceny na stacjach rano 4 marca. Przetarłem oczy, benzyna 95 już po tyle [RELACJA]",
-          "snippet": "",
-          "url": "https://auto.dziennik.pl/aktualnosci/artykuly/10708002,sprawdzilem-ceny-na-stacjach-rano-4-marca-przetarlem-oczy-benzyna-95-juz-po-tyle-relacja.html",
-          "source": "Dziennik.pl Auto"
-        },
-        {
-          "title": "Brak paliwa lub kolejki na stacjach. Tak sytuacja wygląda w Łęczycy",
-          "snippet": "",
-          "url": "https://leczyca.naszemiasto.pl/brak-paliwa-lub-kolejki-na-stacjach-tak-sytuacja-wyglada-w-leczycy/ar/c1p2-28783283",
-          "source": "Łęczyca Nasze Miasto"
-        },
-        {
-          "title": "Region. Panika wśród kierowców. Tankują samochody do pełna. \"A potem dziwią się, że ceny idą w górę\"",
-          "snippet": "",
-          "url": "https://epoznan.pl/news-news-173301-region_panika_wsrod_kierowcow_tankuja_samochody_do_pelna_a_potem_dziwia_sie_ze_ceny_ida_w_gore",
-          "source": "epoznan.pl"
         }
       ],
       "link": "https://imtaqin.id/"

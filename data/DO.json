@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-03-04 18:06:58",
+  "lastUpdate": "2026-03-04 19:05:13",
   "data": [
+    {
+      "title": "apple",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 4 Mar 2026 10:30:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOefdnc0cb525yC-pBqcyQPEBiaxM5pKUOWwNrxi7JGIi7XXTkcaaR--awS6g",
+      "pictureSource": "Apple",
+      "relatedSearch": [
+        {
+          "title": "Say hello to MacBook Neo",
+          "snippet": "",
+          "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
+          "source": "Apple"
+        },
+        {
+          "title": "MacBook Neo hands-on: Apple build quality at a substantially lower price",
+          "snippet": "",
+          "url": "https://arstechnica.com/gadgets/2026/03/macbook-neo-hands-on-apple-build-quality-at-a-substantially-lower-price/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Apple announces MacBook Neo, its most affordable laptop ever",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2026/03/04/apple-macbook-neo-budget-laptop.html",
+          "source": "CNBC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "real",
       "trafficCount": "1000+",
@@ -30,34 +58,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "macbook neo",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 4 Mar 2026 08:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOefdnc0cb525yC-pBqcyQPEBiaxM5pKUOWwNrxi7JGIi7XXTkcaaR--awS6g",
-      "pictureSource": "Apple",
-      "relatedSearch": [
-        {
-          "title": "Say hello to MacBook Neo",
-          "snippet": "",
-          "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
-          "source": "Apple"
-        },
-        {
-          "title": "Apple Accidentally Leaks 'MacBook Neo'",
-          "snippet": "",
-          "url": "https://www.macrumors.com/2026/03/03/apple-accidentally-leaks-macbook-neo/",
-          "source": "MacRumors"
-        },
-        {
-          "title": "​​Dear Bored Windows Users: The Time To Give Mac A Try Has Finally Arrived",
-          "snippet": "",
-          "url": "https://www.slashgear.com/2115576/why-windows-users-should-try-mac/",
-          "source": "SlashGear"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "iphone 17e",
       "trafficCount": "100+",
       "pubDate": "Wed, 4 Mar 2026 08:30:00 -0800",
@@ -71,10 +71,10 @@
           "source": "Apple"
         },
         {
-          "title": "Everything Apple announced this week: MacBook Neo, iPhone 17e and more",
+          "title": "Everything you need to know about Apple’s ‘big week’ of product launches",
           "snippet": "",
-          "url": "https://www.engadget.com/computing/laptops/everything-apple-announced-this-week-macbook-neo-iphone-17e-and-more-155617129.html",
-          "source": "Engadget"
+          "url": "https://apnews.com/article/apple-iphone17e-macbook-monitors-ipad-e52b1d9b4df4c0bc6b40b11dc155450b",
+          "source": "AP News"
         },
         {
           "title": "T-Mobile is giving away the iPhone 17e and iPad Air for free — here's how to qualify",
@@ -117,26 +117,26 @@
       "title": "ormuz",
       "trafficCount": "200+",
       "pubDate": "Wed, 4 Mar 2026 07:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkLkISVRPOQssFZCtHCGB6gmm1adiYIWc2b0M74SI45yjyo0ZmKub5mYFxnUk",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxCcQWOs4wQOI_4srRa1PXr58KAU44RrxwwwCy1YD18deMMakYecAWqPF87F8",
       "pictureSource": "Diario Libre",
       "relatedSearch": [
         {
-          "title": "Guerra del Golfo amenaza el suministro mundial de petróleo y lo encarece más",
+          "title": "Trump anuncia escolta militar para cruzar Ormuz y seguros razonables a las navieras",
           "snippet": "",
-          "url": "https://www.diariolibre.com/mundo/estados-unidos/2026/03/03/guerra-eeuu-iran-trump-protegera-barcos-petroleros-en-ormuz/3456699",
+          "url": "https://www.diariolibre.com/usa/actualidad/2026/03/03/trump-anuncia-escolta-militar-para-cruzar-ormuz-seguros/3456404",
           "source": "Diario Libre"
         },
         {
-          "title": "¿Cómo afectará el ataque a Irán los precios del petróleo?",
+          "title": "Petróleo de Texas sigue su ascenso",
           "snippet": "",
-          "url": "https://elnacional.com.do/como-afectara-ataque-iran-precios-petroleo/",
-          "source": "El Nacional — La voz de todos"
+          "url": "https://hoy.com.do/el-mundo/petroleo-texas-sigue-ascenso_1078363.html",
+          "source": "Hoy Digital"
         },
         {
-          "title": "Precio del petróleo y el gas se disparan tras ataques a Irán",
+          "title": "Trump plantea EEUU escolte a petroleros estrecho de Ormuz",
           "snippet": "",
-          "url": "https://acento.com.do/rfi/precio-del-petroleo-y-el-gas-se-disparan-tras-ataques-a-iran-9632485.html",
-          "source": "Acento"
+          "url": "https://almomento.net/trump-plantea-eeuu-escolte-a-petroleros-estrecho-de-ormuz/",
+          "source": "AlMomento.net"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,14 +173,14 @@
       "title": "megan fox",
       "trafficCount": "100+",
       "pubDate": "Tue, 3 Mar 2026 22:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsBk07OMR7dDgpMKXcxna_vRyXnzc3BYXVPoMVim7f_ESVDqWcKawwbZIbmyo",
-      "pictureSource": "Page Six",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHZrPEQUENdj9i5sdMgfu7wJ4deeGjni2cxwLLQUuvXQz-4vkMgziUpuf_VZQ",
+      "pictureSource": "People.com",
       "relatedSearch": [
         {
-          "title": "MGK has flirty response for ex Megan Fox’s racy Instagram return",
+          "title": "Megan Fox Declares She's 'Alive' with Racy Return to Instagram — and Ex MGK Has a Flirty Response",
           "snippet": "",
-          "url": "https://pagesix.com/2026/03/03/celebrity-news/mgk-has-flirty-response-for-ex-megan-foxs-racy-instagram-return/",
-          "source": "Page Six"
+          "url": "https://people.com/megan-fox-returns-instagram-racy-photo-shoot-11918665",
+          "source": "People.com"
         },
         {
           "title": "Megan Fox Strips Down to Barely-There Thong & Knee-High Socks — & Ex Machine Gun Kelly Has the Best Response",
@@ -189,10 +189,10 @@
           "source": "SheKnows"
         },
         {
-          "title": "Megan Fox Sends Fans Into a Frenzy After Posting New Photos on Instagram",
+          "title": "Megan Fox, 39, Declares She’s ‘Alive’ in Sizzling Instagram Comeback — Rocking Thong and Stockings in Bold Return",
           "snippet": "",
-          "url": "https://swimsuit.si.com/swimnews/megan-fox-new-instagram-photos-send-fans-into-frenzy",
-          "source": "Sports Illustrated Swimsuit"
+          "url": "https://www.imdb.com/es/news/ni65734601/?ref_=nm_nwr_2",
+          "source": "IMDb"
         }
       ],
       "link": "https://imtaqin.id/"

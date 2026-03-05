@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-05 11:50:41",
+  "lastUpdate": "2026-03-05 12:28:08",
   "data": [
     {
       "title": "دييغو سيميوني",
@@ -89,9 +89,15 @@
       "title": "claude",
       "trafficCount": "100+",
       "pubDate": "Wed, 4 Mar 2026 23:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDXIUxUPVLyd-aYJEld1TGHhZe9MJJaIuNB9G46wfplAYe44d2bjI4a1Ki6YE",
-      "pictureSource": "CNBC",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFq-GpYcmTiS-9cEguQUTtWp7VUgrNzJllBh3HzE4pzymSer0HIi4APksYGUY",
+      "pictureSource": "The Washington Post",
       "relatedSearch": [
+        {
+          "title": "Anthropic’s AI tool Claude central to U.S. campaign in Iran, amid a bitter feud",
+          "snippet": "",
+          "url": "https://www.washingtonpost.com/technology/2026/03/04/anthropic-ai-iran-campaign/",
+          "source": "The Washington Post"
+        },
         {
           "title": "Defense experts defend Anthropic in letter to Congress, slam DoD for setting 'dangerous precedent'",
           "snippet": "",
@@ -99,16 +105,10 @@
           "source": "CNBC"
         },
         {
-          "title": "Opinion | Anthropic is fighting a battle the country needs",
+          "title": "Our agreement with the Department of War",
           "snippet": "",
-          "url": "https://www.washingtonpost.com/opinions/2026/03/05/anthropic-claude-hegseth-trump-ai-contract/",
-          "source": "The Washington Post"
-        },
-        {
-          "title": "Anthropic chief back in talks with Pentagon about AI deal",
-          "snippet": "",
-          "url": "https://www.ft.com/content/97bda2ef-fc06-40b3-a867-f61a711b148b",
-          "source": "Financial Times"
+          "url": "https://openai.com/index/our-agreement-with-the-department-of-war/",
+          "source": "OpenAI"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,22 +117,43 @@
       "title": "الطقس الان",
       "trafficCount": "200+",
       "pubDate": "Wed, 4 Mar 2026 18:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLQKJTi-8LE2IEqbFhlJ_uG1VOxVrIUqdz5SDOxmj9FUtc1UznC0Fb1IimMvY",
-      "pictureSource": "بوابة مولانا",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "الطقس",
+      "trafficCount": "100000+",
+      "pubDate": "Wed, 4 Mar 2026 18:10:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMHlri329_TezRZW0Qxs6Wm2V-8cy0Y0I_nWKJL3tqHKM8cekLpPMtDXdTzF8",
+      "pictureSource": "اليوم السابع",
       "relatedSearch": [
         {
-          "title": "تحذير من حالة الطقس غدًا الخميس: 24 ساعة أمطار متواصلة",
+          "title": "شبورة وأجواء شديدة البرودة.. تفاصيل حالة الطقس اليوم الخميس 5 مارس 2026",
           "snippet": "",
-          "url": "https://mwlana.com/egypt-news/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D9%85%D9%86-%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B7%D9%82%D8%B3-%D8%BA%D8%AF%D9%8B%D8%A7-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-24-%D8%B3%D8%A7%D8%B9%D8%A9-%D8%A3/",
-          "source": "بوابة مولانا"
+          "url": "https://www.youm7.com/story/2026/3/5/%D8%B4%D8%A8%D9%88%D8%B1%D8%A9-%D9%88%D8%A3%D8%AC%D9%88%D8%A7%D8%A1-%D8%B4%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AF%D8%A9-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B7%D9%82%D8%B3-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-5/7327949",
+          "source": "اليوم السابع"
+        },
+        {
+          "title": "طقس شديد البرودة.. الأرصاد تحذر من مخاطر هذه الظواهر خلال الأسبوع المقبل",
+          "snippet": "",
+          "url": "https://www.masrawy.com/news/news_egypt/details/2026/3/4/2952080/%D8%B7%D9%82%D8%B3-%D8%B4%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%B8%D9%88%D8%A7%D9%87%D8%B1-%D8%AE%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84",
+          "source": "Masrawy"
+        },
+        {
+          "title": "دليل المسافرين: تحذيرات من كثافة الشبورة على طرق شمال البلاد ومدن القناة اليوم",
+          "snippet": "",
+          "url": "https://www.npa-ar.com/52886/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D9%81%D8%B1%D9%8A%D9%86-%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D8%A7%D8%AA-%D9%85%D9%86-%D9%83%D8%AB%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B4%D8%A8%D9%88/",
+          "source": "نبأ العرب"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "الطقس",
-      "trafficCount": "20000+",
-      "pubDate": "Wed, 4 Mar 2026 18:10:00 -0800",
+      "title": "طقس",
+      "trafficCount": "2000+",
+      "pubDate": "Wed, 4 Mar 2026 18:00:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmA3cZcasFL_HaQdR48eoGcFM-92QGia5apNN8kdQsHZ5556Ajto8AXxFuujw",
       "pictureSource": "Basnews",
       "relatedSearch": [
@@ -158,29 +179,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "النائب بسام الزهيري",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 4 Mar 2026 15:20:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSB3DGAVrDv7MGYejnxEekidqgXusMdJeAyj_oAeJw_x2TmD5p3UB4GlNIeKho",
+      "pictureSource": "Kurdistan24",
+      "relatedSearch": [
+        {
+          "title": "ميسان.. شقيق نائب في البرلمان العراقي يفتح النار على مواطن أعزل وسط السوق",
+          "snippet": "",
+          "url": "https://www.kurdistan24.net/ar/story/898179/%D9%85%D9%8A%D8%B3%D8%A7%D9%86-%D8%B4%D9%82%D9%8A%D9%82-%D9%86%D8%A7%D8%A6%D8%A8-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%8A%D9%81%D8%AA%D8%AD-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D8%B9%D9%84%D9%89-%D9%85%D9%88%D8%A7%D8%B7%D9%86-%D8%A3%D8%B9%D8%B2%D9%84-%D9%88%D8%B3%D8%B7-%D8%A7%D9%84%D8%B3%D9%88%D9%82",
+          "source": "Kurdistan24"
+        },
+        {
+          "title": "في ميسان.. ناشطون يتداولون فيديو لنائب يطلق النار على مواطن بعد مشادة كلامية (شاهد)",
+          "snippet": "",
+          "url": "https://www.alsumaria.tv/news/security/557992/%D9%81%D9%8A-%D9%85%D9%8A%D8%B3%D8%A7%D9%86-%D9%86%D8%A7%D8%B4%D8%B7%D9%88%D9%86-%D9%8A%D8%AA%D8%AF%D8%A7%D9%88%D9%84%D9%88%D9%86-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%84%D9%86%D8%A7%D8%A6%D8%A8-%D9%8A%D8%B7%D9%84%D9%82-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D8%B9%D9%84%D9%89-%D9%85%D9%88%D8%A7%D8%B7%D9%86-%D8%A8%D8%B9%D8%AF-%D9%85%D8%B4%D8%A7%D8%AF%D8%A9-%D9%83%D9%84",
+          "source": "Alsumaria"
+        },
+        {
+          "title": "مشاجرة مع برلماني تنتهي بإطلاق نار وإصابة مواطن في ميسان (فيديو)",
+          "snippet": "",
+          "url": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D9%85%D8%B4%D8%A7%D8%AC%D8%B1%D8%A9-%D9%85%D8%B9-%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86%D9%8A-%D8%AA%D9%86%D8%AA%D9%87%D9%8A-%D8%A8-%D8%B7%D9%84%D8%A7%D9%82-%D9%86%D8%A7%D8%B1-%D9%88-%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D9%88%D8%A7%D8%B7%D9%86-%D9%81%D9%8A-%D9%85%D9%8A%D8%B3%D8%A7%D9%86-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
+          "source": "شفق نيوز"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "mq9",
       "trafficCount": "200+",
       "pubDate": "Wed, 4 Mar 2026 14:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTHR6EmRFipywGo0YTXkgk0a5Cs983Qv584-zJlmwnP65N-wRvOzFQN_qwIxE",
-      "pictureSource": "The Times of Israel",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTW71P-54ipofJoeo-IkQYKk6z3br45PSEJO7EqsSmTakVhRvEZpi_n7taKTRs",
+      "pictureSource": "وكالة الانباء العراقية (واع)",
       "relatedSearch": [
         {
-          "title": "Iranian state media airs video purporting to show downing of Israeli drone",
+          "title": "IRG Shoots Down Two Hermes Drones in Southern Iran » Iraqi News Agency",
           "snippet": "",
-          "url": "https://www.timesofisrael.com/liveblog_entry/iranian-state-media-airs-video-purporting-to-show-downing-of-israeli-drone/",
-          "source": "The Times of Israel"
-        },
-        {
-          "title": "IRGC: 26 enemy drones downed since war began » Iraqi News Agency",
-          "snippet": "",
-          "url": "https://ina.iq/en/international/46059-irgc-26-enemy-drones-downed-since-war-began.html",
+          "url": "https://ina.iq/en/international/46104-irg-shoots-down-two-hermes-drones-in-southern-iran.html",
           "source": "وكالة الانباء العراقية (واع)"
         },
         {
-          "title": "Iran Launches 13th Wave of Strikes, Downs 21st Drone",
+          "title": "Iranian navy targets Israeli airbase in drone strike",
           "snippet": "",
-          "url": "https://orinocotribune.com/iran-launches-13th-wave-of-strikes-downs-21st-drone/",
-          "source": "Orinoco Tribune"
+          "url": "https://news.az/news/iranian-navy-targets-israeli-airbase-in-drone-strike",
+          "source": "Latest news from Azerbaijan"
+        },
+        {
+          "title": "Iran's IRGC Shares Daily Scoop On Number Of U.S. And Israeli Uavs Brought Down",
+          "snippet": "",
+          "url": "https://menafn.com/1110815916/Irans-IRGC-Shares-Daily-Scoop-On-Number-Of-US-And-Israeli-Uavs-Brought-Down",
+          "source": "Mena FN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,82 +238,26 @@
       "title": "ترتيب الدوري الانجليزي",
       "trafficCount": "1000+",
       "pubDate": "Wed, 4 Mar 2026 13:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQQoNxWFKuSTJUQLAruQkxrSJN7HrEWidkIo2bMK17o14LlZzgA6mp1fA95B0",
-      "pictureSource": "بطولات",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqyuLnjD6LtYHeFpSwYQGOsG2cJd1hDlCDNjYoPMc5UTfxBbmrkRK9ptbBeDo",
+      "pictureSource": "الجزيرة نت",
       "relatedSearch": [
         {
-          "title": "ترتيب الدوري الإنجليزي بعد فوز آرسنال وتعادل مانشستر سيتي وهزيمة ليفربول",
+          "title": "محطات حاسمة ترسم طريق أرسنال والسيتي نحو لقب البريميرليغ",
           "snippet": "",
-          "url": "https://www.btolat.com/news/394686",
-          "source": "بطولات"
+          "url": "https://www.aljazeera.net/sport/2026/3/5/%D9%85%D8%AD%D8%B7%D8%A7%D8%AA-%D8%AD%D8%A7%D8%B3%D9%85%D8%A9-%D8%AA%D8%B1%D8%B3%D9%85-%D8%B7%D8%B1%D9%8A%D9%82-%D8%A3%D8%B1%D8%B3%D9%86%D8%A7%D9%84-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%AA%D9%8A",
+          "source": "الجزيرة نت"
         },
         {
-          "title": "جولة مثيرة في البريميرليغ: خسارة أولى لكاريك.. أرسنال يبتعد بالصدارة وتعادل محبط لسيتي",
+          "title": "الصراع يشتعل.. المباريات المتبقية لآرسنال ومانشستر سيتي في الدوري الإنجليزي",
           "snippet": "",
-          "url": "https://msdrnews.com/113392/%D8%AC%D9%88%D9%84%D8%A9-%D9%85%D8%AB%D9%8A%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D9%85%D9%8A%D8%B1%D9%84%D9%8A%D8%BA-%D8%AE%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A3%D9%88%D9%84%D9%89-%D9%84%D9%83%D8%A7%D8%B1%D9%8A%D9%83-%D8%A3%D8%B1%D8%B3%D9%86%D8%A7%D9%84-%D9%8A%D8%A8%D8%AA%D8%B9%D8%AF-%D8%A8%D8%A7%D9%84%D8%B5%D8%AF%D8%A7%D8%B1%D8%A9-%D9%88%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D9%85%D8%AD%D8%A8%D8%B7-%D9%84%D8%B3%D9%8A%D8%AA%D9%8A",
-          "source": "شبكة مصدر الاخبارية"
+          "url": "https://www.eremnews.com/sports/4jxvawt",
+          "source": "إرم نيوز"
         },
         {
           "title": "أرسنال يوسع الفارق إلى 7 نقاط ويقترب من اللقب",
           "snippet": "",
           "url": "https://www.annahar.com/sports/283605/%D8%A3%D8%B1%D8%B3%D9%86%D8%A7%D9%84-%D9%8A%D9%88%D8%B3%D8%B9-%D8%A7%D9%84%D9%81%D8%A7%D8%B1%D9%82-%D8%A5%D9%84%D9%89-7-%D9%86%D9%82%D8%A7%D8%B7-%D9%88%D9%8A%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86-%D8%A7%D9%84%D9%84%D9%82%D8%A8",
           "source": "annahar.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "انقطاع الكهرباء العراق",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 4 Mar 2026 13:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIrgf0HL9j_RI_I0OTSrz1rR3nBiAEQ6d9KqMziR5Q2-8QBbbe3vtLORa7SYk",
-      "pictureSource": "العربية",
-      "relatedSearch": [
-        {
-          "title": "انقطاع كامل للكهرباء في العراق.. والسلطات توضح السبب",
-          "snippet": "",
-          "url": "https://www.alarabiya.net/arab-and-world/iraq/2026/03/04/%D8%A7%D9%86%D9%82%D8%B7%D8%A7%D8%B9-%D9%83%D8%A7%D9%85%D9%84-%D9%84%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%A8%D8%AC%D9%85%D9%8A%D8%B9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%A7%D9%84%D8%B3%D8%A8%D8%A8-%D9%82%D9%8A%D8%AF-%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82",
-          "source": "العربية"
-        },
-        {
-          "title": "العراق يغرق في الظلام وإسقاط مسيَّرتين ببغداد وانفجارات في أربيل",
-          "snippet": "",
-          "url": "https://www.aljazeera.net/news/2026/3/4/%D8%B9%D8%A7%D8%AC%D9%84-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%86%D8%B7%D9%81%D8%A7%D8%A1",
-          "source": "الجزيرة نت"
-        },
-        {
-          "title": "محافظ البصرة يعلن للمربد عن الخطوط والمحطات الكهربائية التي عادت للعمل ويؤكد عودة التيار لمشروع ماء البدعة",
-          "snippet": "",
-          "url": "https://www.al-mirbad.com/detail/201946",
-          "source": "الواجهة - المربد"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "macbook neo",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 4 Mar 2026 12:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQ3rDcLb1GOwku4sRankUHUHJBPjWBXQOEJ1JcTaGNTwCT_No9Sm5-5vpP-EM",
-      "pictureSource": "Apple",
-      "relatedSearch": [
-        {
-          "title": "MacBook Neo",
-          "snippet": "",
-          "url": "https://www.apple.com/macbook-neo/",
-          "source": "Apple"
-        },
-        {
-          "title": "Apple Accidentally Leaks 'MacBook Neo'",
-          "snippet": "",
-          "url": "https://www.macrumors.com/2026/03/03/apple-accidentally-leaks-macbook-neo/",
-          "source": "MacRumors"
-        },
-        {
-          "title": "These $500 Windows Laptops Show the MacBook Neo’s Competition",
-          "snippet": "",
-          "url": "https://www.wired.com/story/asus-vivobook-14-deal-macbook-neo/",
-          "source": "WIRED"
         }
       ],
       "link": "https://imtaqin.id/"

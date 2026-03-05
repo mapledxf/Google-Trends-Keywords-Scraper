@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-03-05 11:50:24",
+  "lastUpdate": "2026-03-05 12:27:51",
   "data": [
     {
       "title": "sepah",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 5 Mar 2026 03:10:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRG1Wka-thG0zIiaBwgGJDBRocHP7L8LyDTyQGphSnYH2OFZcYh3nMYi2yeD_Q",
       "pictureSource": "Politico",
@@ -33,34 +33,34 @@
       "title": "новости азербайджана",
       "trafficCount": "100+",
       "pubDate": "Thu, 5 Mar 2026 02:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-HlacnLDExvVe_mH0YHsb3pfgYALz3MmRoxUS51FrJWAbINCNOUSeaRmtWUc",
-      "pictureSource": "Report.az",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_JHRmVRYDE6dMhhOhFicQsTmlBPWEdSCgB1Y_UKC16FYxAejUrgN-OeW7Vec",
+      "pictureSource": "Azərbaycan Respublikası Müdafiə Nazirliyi",
       "relatedSearch": [
         {
-          "title": "Иран нанес удар беспилотником по аэропорту Нахчывана",
+          "title": "Сообщение Министерства обороны Азербайджанской Республики",
           "snippet": "",
-          "url": "https://report.az/ru/proisshestviya/iran-nanes-udar-bespilotnikom-po-aeroportu-nahchyvana",
+          "url": "https://mod.gov.az/ru/news/soobshenie-ministerstva-oborony-azerbajdzhanskoj-respubliki-56664.html",
+          "source": "Azərbaycan Respublikası Müdafiə Nazirliyi"
+        },
+        {
+          "title": "Катар осудил удары Ирана беспилотниками по Азербайджану",
+          "snippet": "",
+          "url": "https://report.az/ru/v-regione/ministerstvo-inostrannyh-del-katara-osudilo-udary-irana-po-azerbajdzhanu",
           "source": "Report.az"
         },
         {
-          "title": "В МИД Ирана опровергли удар по Нахчывану",
+          "title": "Глава МИД Узбекистана позвонил Байрамову из-за атаки иранского дрона на Нахчыван",
           "snippet": "",
-          "url": "https://minval.az/news/124520506",
+          "url": "https://minval.az/news/124520494",
           "source": "Minval Politika"
-        },
-        {
-          "title": "Иранская сторона должна немедленно расследовать ситуацию с атакой дронов на Азербайджан и принять меры - Вугар Искендеров",
-          "snippet": "",
-          "url": "https://ru.trend.az/azerbaijan/politics/4161137.html",
-          "source": "Trend News Agency"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "azerbaijan",
+      "title": "iran naxçıvan",
       "trafficCount": "500+",
-      "pubDate": "Thu, 5 Mar 2026 01:00:00 -0800",
+      "pubDate": "Thu, 5 Mar 2026 00:40:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTDgnCdA_L2pxIZfAqnA7gxJsTYkAzj6nlXGvDAFFCJPomXifu6q_DnPL_8lAs",
       "pictureSource": "Report.az",
       "relatedSearch": [
@@ -86,29 +86,57 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "naxcivan",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 5 Mar 2026 00:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKxe5-1tl1OD390Zodhsrzm8nwRGfPyvzRHRYiPuimKS7VOwjPP6d4mDWse2I",
-      "pictureSource": "NPR",
+      "title": "map",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 5 Mar 2026 00:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRf0npERA_NCZdJvWXijK16w5-gt-cJyuk1roJ3ng_ZCOnK2YdwCgEJ6x24iJg",
+      "pictureSource": "CNN",
       "relatedSearch": [
         {
-          "title": "U.S-Israeli strikes continue across Iran, Iranian drones hit Azerbaijan",
+          "title": "Live updates: Israel launches new strikes in Tehran and Beirut as conflict widens",
           "snippet": "",
-          "url": "https://www.npr.org/2026/03/05/nx-s1-5736566/u-s-israeli-strikes-continue-across-iran-iranian-drones-hit-azerbaijan",
-          "source": "NPR"
+          "url": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-04-26",
+          "source": "CNN"
         },
         {
-          "title": "Iran drone attack at Azerbaijan airport",
+          "title": "How the Iran Conflict Is Widening, in Maps",
           "snippet": "",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/5/iran-drone-attack-at-azerbaijan-airport",
+          "url": "https://www.wsj.com/world/middle-east/how-the-iran-conflict-is-widening-in-maps-c87df89a?gaa_at=eafs&gaa_n=AWEtsqdFgfx0WG_q0M1idXVCUeDxtXI5Qcopt5IoRfWvCMpJq07dcpVFMFi6&gaa_ts=69a97991&gaa_sig=ne7woSy4FwlzCs5Pzh6ICgBirRJ-zcr8_HNUFIhKTrh4XludHItv-p8bKCGbalm-9dHbVfL46FIUWJSriwWmCQ%3D%3D",
+          "source": "WSJ"
+        },
+        {
+          "title": "Explosions in Tehran as US, Israeli forces continue attacks across Iran",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/3/5/iran-live-us-senate-backs-trumps-attacks-on-tehran-israel-pounds-lebanon",
           "source": "Al Jazeera"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "naxçıvan",
+      "trafficCount": "2000+",
+      "pubDate": "Thu, 5 Mar 2026 00:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDRk29EBDHJODtNQeI5IvASoECjH_RLeswAMK6B4nhzCsDBXaBXOSG8SfSnGg",
+      "pictureSource": "Euronews.com",
+      "relatedSearch": [
+        {
+          "title": "Iranian drones strike Azerbaijan's Nakhchivan international airport",
+          "snippet": "",
+          "url": "https://www.euronews.com/2026/03/05/iranian-drones-strike-azerbaijans-razi-airport-in-nakhchivan",
+          "source": "Euronews.com"
         },
         {
-          "title": "Iranian drone hits Nakhcivan Airport, Azerbaijan promises a response",
+          "title": "Iran's attack on Azerbaijan's Nakhchivan seriously harms neighborliness, mutual trust - MP",
           "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-05/iranian-drone-hits-nakhcivan-airport-azerbaijan-promises-a-response",
-          "source": "Bloomberg.com"
+          "url": "https://www.trend.az/azerbaijan/politics/4161136.html",
+          "source": "Trend News Agency"
+        },
+        {
+          "title": "Drones from Iran crash near Nakhchivan airport, nearby schools evacuated",
+          "snippet": "",
+          "url": "https://aze.media/drone-from-iran-crashes-near-nakhchivan-airport-in-azerbaijan/",
+          "source": "Aze.Media"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,7 +155,7 @@
           "source": "Sözcü Gazetesi"
         },
         {
-          "title": "İran - ABD - İsrail savaşı son dakika | İran'dan bir saldırı da Nahçıvan'a: Azerbaycan'dan ilk açıklama",
+          "title": "İran - ABD - İsrail savaşı son dakika | İran'dan bir saldırı da Nahçıvan'a: ABD ve İsrail'den 2 okula saldırı",
           "snippet": "",
           "url": "https://www.hurriyet.com.tr/dunya/live-iran-abd-israil-savasi-son-dakika-iran-dorduncu-misilleme-saldirisini-baslatti-israilde-alarm-sesleri-43121601",
           "source": "Hürriyet"
@@ -145,26 +173,26 @@
       "title": "weather",
       "trafficCount": "100+",
       "pubDate": "Wed, 4 Mar 2026 19:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_4MCNvwiOYcTIwW4kXI3MbFi8BR7QuxADy4cpXgdKNQz7fHxP6n9b3Zxx3tM",
-      "pictureSource": "Milwaukee Journal Sentinel",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRL8WpvCytsEzzhi7u8qmdYMVMH4Hpg0wpeFdmf4RYGq6WM1-Rcp9C1R0NHIJk",
+      "pictureSource": "FOX Weather",
       "relatedSearch": [
         {
-          "title": "Take a flight through the morning fog rolling over downtown Milwaukee",
+          "title": "Tornado threat increases for millions across Texas and Oklahoma",
           "snippet": "",
-          "url": "https://www.jsonline.com/videos/weather/2026/03/04/take-a-flight-through-the-morning-fog-rolling-over-downtown-milwaukee/88979930007/",
-          "source": "Milwaukee Journal Sentinel"
+          "url": "https://www.foxweather.com/watch/fmc-3ocqhy6c88afbk8d",
+          "source": "FOX Weather"
         },
         {
-          "title": "Southeast Wisconsin weather: Dense fog advisory in effect for some counties",
+          "title": "Isolated to widely scattered showers and severe thunderstorms possible late Thursday and Friday afternoon | 3/04 PM",
           "snippet": "",
-          "url": "https://www.tmj4.com/weather/forecast/todays-forecast/southeast-wisconsin-weather-dense-fog-advisory-in-effect-for-some-counties",
-          "source": "TMJ4 News"
+          "url": "https://www.kswo.com/2026/03/05/isolated-widely-scattered-showers-severe-thunderstorms-possible-late-thursday-friday-afternoon-304-pm/",
+          "source": "KSWO 7News"
         },
         {
-          "title": "Morning fog reduces visibility across Estevan",
+          "title": "Strong to severe storms possible this evening",
           "snippet": "",
-          "url": "https://www.discoverestevan.com/articles/morning-fog-reduces-visibility-across-estevan-",
-          "source": "DiscoverEstevan"
+          "url": "https://ktul.com/news/local/strong-to-severe-storms-possible-this-evening-03-04-2026",
+          "source": "KTUL"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,110 +201,82 @@
       "title": "premier lig",
       "trafficCount": "100+",
       "pubDate": "Wed, 4 Mar 2026 13:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhBRY9ktql-zwGQB8MKSeGnmY2BRcIQ2ciRPfSyL0T0QEkzNW2ee06744AJFA",
-      "pictureSource": "Vietnam.vn",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMgvazqVX5sltqNXmDBplJtsoDvF9nYjozaR2AhOEA3XB-jS94wztAgX3ngOo",
+      "pictureSource": "Oxu.Az",
       "relatedSearch": [
         {
-          "title": "12 yıl öncesine ait bir tweet beklenmedik bir şekilde yeniden ortaya çıkarak MU'yu rahatsız etmeye başladı.",
+          "title": "İngiltere Premier Ligi: Arsenal ve Chelsea'den galibiyet, Manchester City'den beraberlik",
           "snippet": "",
-          "url": "https://www.vietnam.vn/tr/mot-tweet-12-nam-truoc-bat-ngo-quay-lai-am-anh-mu",
-          "source": "Vietnam.vn"
+          "url": "https://oxu.az/tr/spor/ingiltere-premier-ligi-arsenal-ve-chelsea-den-galibiyet-manchester-city-den-beraberlik",
+          "source": "Oxu.Az"
         },
         {
-          "title": "10 kişi Newcastle, 90'da güldü",
+          "title": "Fabian Hürzeler: 'Net oyun süresi için kural gelmeli'",
           "snippet": "",
-          "url": "https://www.mackolik.com/futbol/haber/manchester-united-ust-uste-3-kez-kazandi/89e3200c-79c2-4efb-97e1-2f68161d2e96",
-          "source": "Mackolik.com"
+          "url": "https://www.sporx.com/fabian-hurzeler-net-oyun-suresi-icin-kural-gelmeli-SXHBQ1153399SXQ",
+          "source": "Sporx.com"
         },
         {
-          "title": "(Özet) Newcastle United - Manchester United Maçı Özeti ve Tüm Önemli Anları",
+          "title": "ÖZET | Arsenal, Ferdi Kadıoğlu'lu Brighton'ı 9. dakikada yıktı!",
           "snippet": "",
-          "url": "https://www.mynet.com/canli-newcastle-united-manchester-united-mac-anlatimi-mac-ne-zaman-saat-kacta-ve-hangi-kanalda-04-mart-2026-484281-myspor",
-          "source": "Mynet"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "manchester city",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 4 Mar 2026 13:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYCWfQOMp5DNPzPLNfBUbs_3JOdlkJN2yd091m690izTodYPSw02lWojOQzMI",
-      "pictureSource": "Yahoo Sports",
-      "relatedSearch": [
-        {
-          "title": "Newcastle Newcastle United Man City Manchester City",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/articles/newcastle-newcastle-united-man-city-100500778.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Manchester City vs Nottingham Forest: Latest City injury news and predicted City starting XI",
-          "snippet": "",
-          "url": "https://esteemedkompany.com/2026/03/04/manchester-city-vs-nottingham-forest-latest-city-injury-news-and-predicted-city-starting-xi/",
-          "source": "Esteemed Kompany"
-        },
-        {
-          "title": "Man City injury, suspension news and return dates for Newcastle FA Cup clash: O’Reilly, Gvardiol, Kovacic latest",
-          "snippet": "",
-          "url": "https://www.sportsmole.co.uk/football/man-city/injury-news/injuries-and-suspensions/oreilly-gvardiol-kovacic-latest-man-city-injury-list-for-newcastle-clash_593208.html",
-          "source": "Sports Mole"
+          "url": "https://beinsports.com.tr/haber/ozet-arsenal-ferdi-kadioglulu-brightoni-9-dakikada-yikti",
+          "source": "beinsports.com.tr"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "dizi izle",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 4 Mar 2026 12:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2UNqrUGYur8GRYeQ3h2fadRh3cE1mg9HdwSK3AegpYNf3Y6FC-UTXh4UEky8",
-      "pictureSource": "ATV",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCd_QAxZxORslbIfH8hn5KNTonwN-Mkh_0x6eat6zD07CCmfy7wZigNi55YNo",
+      "pictureSource": "24 Saat Gazetesi Ankara",
       "relatedSearch": [
         {
-          "title": "A.B.İ.",
+          "title": "Yeraltı dizi. Yeraltı canlı izle. Yeraltı 6. bölüm izle. Necati Şaşmaz mı geliyor? Yeraltı dizisi izle? NOW TV izle",
           "snippet": "",
-          "url": "https://www.atv.com.tr/abi/8-bolum/izle",
-          "source": "ATV"
+          "url": "https://www.24saatgazetesi.com/yeralti-dizi-yeralti-canli-izle-yeralti-6-bolum-izle-necati-sasmaz-mi-geliyor",
+          "source": "24 Saat Gazetesi Ankara"
         },
         {
-          "title": "A.B.İ. zirveye demir attı! Tüm kategorilerde zirvede: Herkesi ekran başına kilitledi!",
+          "title": "Yeraltı 6. bölüm özeti! Seyirci mest oldu: Bölüm çok iyi!",
           "snippet": "",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/abi-zirveye-demir-atti-tum-kategorilerde-zirvede-herkesi-ekran-basina-kilitledi",
-          "source": "Sabah"
+          "url": "https://www.mynet.com/magazin/yeralti-6-bolum-ozeti-seyirci-mest-oldu-bolum-cok-iyi-130100580369",
+          "source": "Mynet"
         },
         {
-          "title": "A.B.İ. tekrarı ne zaman hangi gün saat kaçta? ABİ tekrar izle! ABİ oyuncu kadrosunda kimler var?",
+          "title": "Yeraltı Dizisi 6. Bölümüyle Nefes Kesti: Yeraltı 7. Bölüm Fragmanı",
           "snippet": "",
-          "url": "https://www.sonsaat.com.tr/haber/27069662/abi-tekrari-ne-zaman-hangi-gun-saat-kacta-abi-tekrar-izle-abi-oyuncu-kadrosunda-kimler-var",
-          "source": "Son Saat Gazetesi"
+          "url": "https://www.kirsehircigdem.com/yeralti-dizisi-6-bolumuyle-nefes-kesti-yeralti-7-bolum-fragmani",
+          "source": "Kırşehir Çiğdem | Kırşehirin bağımsız haber sitesi!"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "arsenal",
+      "title": "manchester united",
       "trafficCount": "200+",
-      "pubDate": "Wed, 4 Mar 2026 12:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQo1zHMDudnHjLIuzeHpOcoDd6cQms-k3V4AGCwwfUv_va1KltMmGVik4_dO9k",
-      "pictureSource": "Sports Illustrated",
+      "pubDate": "Wed, 4 Mar 2026 12:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIiU-SQAxzw6t0FjSyTG9KqcbNEz2wC0XvhyTpVf179U8LHjYmgSB368MTNVY",
+      "pictureSource": "The Sun",
       "relatedSearch": [
         {
-          "title": "Supercomputer Predicts 2025–26 Premier League Table After Man City’s Shock Midweek Stumble",
+          "title": "How Casemiro suffered black eye after shocking fans with shiner in Man Utd's defeat at Newcastle",
           "snippet": "",
-          "url": "https://www.si.com/soccer/supercomputer-predicts-2025-26-premier-league-table-after-man-city-shock-stumble-3-4-26",
-          "source": "Sports Illustrated"
+          "url": "https://www.thesun.co.uk/sport/38417654/casemiro-black-eye-man-utd-newcastle-palace/",
+          "source": "The Sun"
         },
         {
-          "title": "EPL: Piers Morgan predicts when Arsenal’s title race with Man City will be over",
+          "title": "Why does Casemiro have a black eye for Man Utd?",
           "snippet": "",
-          "url": "https://dailypost.ng/2026/03/05/epl-piers-morgan-predicts-when-arsenals-title-race-with-man-city-will-be-over/",
-          "source": "Daily Post Nigeria"
+          "url": "https://www.thesun.co.uk/sport/38413460/why-does-casemiro-have-a-black-eye/",
+          "source": "The Sun"
         },
         {
-          "title": "Man City's next five Premier League fixtures compared to Arsenal after title race twist",
+          "title": "Man Utd manager told 'he's had his time' moments before big decision was made",
           "snippet": "",
-          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-arsenal-premier-league-33533236",
-          "source": "Manchester Evening News"
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-carrick-ten-hag-36819192",
+          "source": "The Mirror"
         }
       ],
       "link": "https://imtaqin.id/"

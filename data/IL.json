@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2026-03-05 05:30:03",
+  "lastUpdate": "2026-03-05 06:08:03",
   "data": [
-    {
-      "title": "maariv",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 4 Mar 2026 20:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_4-ogqj7cnAoUYEEhX3yUYTTu1IqiA60H2HraqXK6wJbDsDM5KHpN5fY2TEg",
-      "pictureSource": "מעריב",
-      "relatedSearch": [
-        {
-          "title": "ישראל וארה\"ב קיבלו את ההחלטה: \"אתם תשמידו משגרים - אנחנו נטפל בשאר\"",
-          "snippet": "",
-          "url": "https://www.maariv.co.il/news/military/article-1291861",
-          "source": "מעריב"
-        },
-        {
-          "title": "ארה\"ב וישראל - חומת המגן של העולם החופשי",
-          "snippet": "",
-          "url": "https://www.mako.co.il/news-columns/2026_q1/Article-4a6db7f7828bc91027.htm",
-          "source": "mako"
-        },
-        {
-          "title": "מיטוט המשטר האיראני? מומחים מזהירים מכישלון ידוע מראש",
-          "snippet": "",
-          "url": "https://www.haaretz.co.il/news/politics/2026-03-03/ty-article-magazine/.premium/0000019c-add6-d7f7-a5df-bfd679b50000",
-          "source": "הארץ"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "טיל מצרר",
       "trafficCount": "500+",
@@ -49,10 +21,10 @@
           "source": "מעריב"
         },
         {
-          "title": "הטיל עם הראש המתפזר: כך הוא עובד - ואלה הסיכונים | התיעוד משמי ישראל",
+          "title": "הטיל המתפזר של איראן: כך הוא עובד - ואלה הסכנות",
           "snippet": "",
-          "url": "https://www.ynet.co.il/news/article/bytckagywl",
-          "source": "ynet"
+          "url": "https://www.israelhayom.co.il/news/defense/article/20031414",
+          "source": "היום"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,15 +117,9 @@
       "title": "ווינט",
       "trafficCount": "1000+",
       "pubDate": "Wed, 4 Mar 2026 17:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXDvkpqbEeJoDd4lVDipY6qpZRZGqmJN1q_pkvX8s9ZOKTWvJ59rt-S6Ulrww",
-      "pictureSource": "ynet",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWeRrJYmMksv1BdGCzmtixomClZySRR4xLtB09ekx_MGqlmEcs0C0LVnF9kgo",
+      "pictureSource": "mako",
       "relatedSearch": [
-        {
-          "title": "\"כבר בשבת בבוקר הבנתי שזה לא הולך לקרות\": הזוגות שדחו את החתונה",
-          "snippet": "",
-          "url": "https://www.ynet.co.il/news/article/sjipncrtwx",
-          "source": "ynet"
-        },
         {
           "title": "הזוגות שלא ויתרו על החתונה - גם באזעקות: \"זה היום הכי מיוחד בחיים שלי\"",
           "snippet": "",
@@ -165,6 +131,12 @@
           "snippet": "",
           "url": "https://www.kipa.co.il/%D7%97%D7%93%D7%A9%D7%95%D7%AA/1220556-0/",
           "source": "כיפה"
+        },
+        {
+          "title": "בדרך לחתונה עוצרים בסנטר: החתונה שנערכה במקלט של הקניון",
+          "snippet": "",
+          "url": "https://13tv.co.il/item/from-the-web-2/articles/tsedf-905002237/",
+          "source": "רשת 13"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -235,17 +207,45 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "курды",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 4 Mar 2026 14:30:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRABUdphR9EYlicB7jSCwTzqYzdU7wTPLd5ZrivQ9Uh70r3wLC4IkEdbOQqYT4",
+      "pictureSource": "Интерфакс",
+      "relatedSearch": [
+        {
+          "title": "Трамп обсудил с лидерами курдов в Ираке удары США по Ирану",
+          "snippet": "",
+          "url": "https://www.interfax.ru/world/1075669",
+          "source": "Интерфакс"
+        },
+        {
+          "title": "CNN: администрация Трампа хочет вооружить курдов в Иране, чтобы они могли организовать восстание внутри страны",
+          "snippet": "",
+          "url": "https://meduza.io/news/2026/03/04/cnn-administratsiya-trampa-hochet-vooruzhit-kurdov-v-irane-chtoby-oni-mogli-organizovat-vosstanie-vnutri-strany",
+          "source": "Meduza"
+        },
+        {
+          "title": "Тысячи курдских бойцов вторглись на территорию Ирана",
+          "snippet": "",
+          "url": "https://ura.news/news/1053074576",
+          "source": "URA.RU"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "kurds",
       "trafficCount": "200+",
       "pubDate": "Wed, 4 Mar 2026 14:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQN1ULhTcA8ncttuSGh0rf4m6w7P4z-WXFUHG1Mh6WdNp_KFRu-7IJud2guOu0",
-      "pictureSource": "i24NEWS",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHoeQZdK8CS6v-j-k-JWlk_r-ngwn8jL0enK80VLNsqqxI8z1hQgs5IFyqqsc",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
         {
-          "title": "EXCLUSIVE: Thousands of Kurdish fighters launch ground offensive into Iran against regime, official says",
+          "title": "Iran war briefing: US reportedly ready to provide support to Kurdish fighters if they enter conflict",
           "snippet": "",
-          "url": "https://www.i24news.tv/en/news/middle-east/iran-eastern-states/artc-exclusive-thousands-of-kurdish-fighters-launch-ground-offensive-into-iran-against-regime-official-says",
-          "source": "i24NEWS"
+          "url": "https://www.theguardian.com/world/2026/mar/05/iran-war-briefing-israel-us-support-kurds-conflict-what-we-know-so-far-day-six",
+          "source": "The Guardian"
         },
         {
           "title": "Kurds start ground offensive against Iran",
@@ -254,10 +254,10 @@
           "source": "The Jerusalem Post"
         },
         {
-          "title": "Airstrikes hit Iran-Iraq border as US and Israeli plan to mobilise Kurds gathers pace",
+          "title": "CIA working to arm Kurdish forces to spark uprising in Iran, sources say",
           "snippet": "",
-          "url": "https://www.theguardian.com/world/2026/mar/04/airstrikes-hit-iran-iraq-border-as-us-and-israeli-plan-to-mobilise-kurds-gathers-pace",
-          "source": "The Guardian"
+          "url": "https://www.cnn.com/2026/03/03/politics/cia-arming-kurds-iran",
+          "source": "CNN"
         }
       ],
       "link": "https://imtaqin.id/"

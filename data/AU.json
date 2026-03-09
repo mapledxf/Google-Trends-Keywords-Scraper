@@ -1,58 +1,86 @@
 {
-  "lastUpdate": "2026-03-09 15:34:58",
+  "lastUpdate": "2026-03-09 16:34:21",
   "data": [
     {
       "title": "dow jones",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 9 Mar 2026 08:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrJuzhWqlGaHJHZ9-uh-mbQWNQIVyVyJqjRbOcdxWd2P8ClaQ2tJnCSWE1gLg",
-      "pictureSource": "AFR",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgut-Ums4CzoO3ADcBpFyW9v3QD_Y328cU81_aEkATsRVMOb4ncSWe3qHdCkI",
+      "pictureSource": "Yahoo Finance",
       "relatedSearch": [
         {
-          "title": "Wall Street slides on shock jobs data, US oil leaps 12pc",
+          "title": "Stock market today: Dow, S&P 500, Nasdaq sink as oil prices surge past $100 a barrel",
           "snippet": "",
-          "url": "https://www.afr.com/markets/equity-markets/wall-street-slides-on-shock-jobs-data-surge-in-oil-prices-20260307-p5o8br",
-          "source": "AFR"
+          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-as-oil-prices-surge-past-100-a-barrel-141649119.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Stocks slump as Iran war sends oil prices surging above $100 a barrel",
+          "snippet": "",
+          "url": "https://www.cbsnews.com/news/stock-market-today-iran-war-oil-prices-march-9/",
+          "source": "CBS News"
         },
         {
           "title": "Stagflation Trades Sweep Markets as Trump Signals Widening War",
           "snippet": "",
           "url": "https://www.bloomberg.com/news/articles/2026-03-09/stagflation-trades-sweep-markets-as-trump-signals-widening-war",
           "source": "Bloomberg.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "unc",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 9 Mar 2026 07:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSoGMdOAd7dN4RQu7jSdANQtelhpwiGk04vi_ch6JSJ8VjoUWZjm-2sreqDf-k",
+      "pictureSource": "ESPN",
+      "relatedSearch": [
+        {
+          "title": "Duke 76-61 North Carolina (8 Mar, 2026) Game Recap",
+          "snippet": "",
+          "url": "https://www.espn.com.au/mens-college-basketball/recap/_/gameId/401820788",
+          "source": "ESPN"
         },
         {
-          "title": "Trump is taking America back to old-fashioned stagflation. It will impact us all — and our super balance",
+          "title": "Lucas: Shot Deficit - University of North Carolina Athletics",
           "snippet": "",
-          "url": "https://www.crikey.com.au/2026/03/09/american-economy-stock-market-superannuation-inflation-war-iran-trump/",
-          "source": "Crikey"
+          "url": "https://goheels.com/news/2026/3/8/mens-basketball-lucas-shot-deficit",
+          "source": "University of North Carolina Athletics"
+        },
+        {
+          "title": "Bracketology: How Duke vs. North Carolina could impact No. 1 overall seed race for March Madness",
+          "snippet": "",
+          "url": "https://www.cbssports.com/college-basketball/news/bracketology-duke-north-carolina-no-1-overall-seed-march-madness/",
+          "source": "CBS Sports"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "nasdaq",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 9 Mar 2026 07:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzQwDjWaKrdUhaZ_gy8tr2ish1vF2hinh9oSwB14Nk217Oohe_Tm9T1YwfUWk",
-      "pictureSource": "富途牛牛",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHn03tbRUDs-t4ceQMwp9W1JLNNVo3GzL9t7dSsauUQLUhJR_yOAPRI8yj7Eg",
+      "pictureSource": "TradingView",
       "relatedSearch": [
         {
-          "title": "The 'RWA narrative' receives a significant boost! Nasdaq heralds the tokenization of U.S. stocks.",
+          "title": "Nasdaq explores tokenized stock trading with Kraken partnership",
           "snippet": "",
-          "url": "https://news.futunn.com/en/post/69809023/the-rwa-narrative-receives-a-significant-boost-nasdaq-heralds-the",
-          "source": "富途牛牛"
-        },
-        {
-          "title": "News Explorer — Nasdaq Teams With Kraken to Launch Tokenized Stock Trading in 2027",
-          "snippet": "",
-          "url": "https://decrypt.co/news-explorer?pinned=1338111&title=nasdaq-teams-with-kraken-to-launch-tokenized-stock-trading-in-2027",
-          "source": "Decrypt"
+          "url": "https://www.tradingview.com/news/invezz:e39fecef2094b:0-nasdaq-explores-tokenized-stock-trading-with-kraken-partnership/",
+          "source": "TradingView"
         },
         {
           "title": "Nasdaq (NDAQ) Unveils Equity Token Design for 2027 Launch",
           "snippet": "",
           "url": "https://www.gurufocus.com/news/8691091/nasdaq-ndaq-unveils-equity-token-design-for-2027-launch",
           "source": "GuruFocus"
+        },
+        {
+          "title": "The 'RWA narrative' receives a significant boost! Nasdaq heralds the tokenization of U.S. stocks.",
+          "snippet": "",
+          "url": "https://news.futunn.com/en/post/69809023/the-rwa-narrative-receives-a-significant-boost-nasdaq-heralds-the",
+          "source": "富途牛牛"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,16 +127,16 @@
           "source": "Bloomberg.com"
         },
         {
-          "title": "OpenClaw fever: why is China rushing to ‘raise a lobster’?",
-          "snippet": "",
-          "url": "https://www.scmp.com/tech/tech-trends/article/3345865/openclaw-fever-why-china-rushing-raise-lobster",
-          "source": "South China Morning Post"
-        },
-        {
           "title": "The OpenClaw superfan meetup serves optimism and lobster",
           "snippet": "",
           "url": "https://www.theverge.com/ai-artificial-intelligence/890517/openclaw-clawcon-meetup-nyc-open-source-ai",
           "source": "The Verge"
+        },
+        {
+          "title": "OpenClaw fever: why is China rushing to ‘raise a lobster’?",
+          "snippet": "",
+          "url": "https://www.scmp.com/tech/tech-trends/article/3345865/openclaw-fever-why-china-rushing-raise-lobster",
+          "source": "South China Morning Post"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,54 +145,26 @@
       "title": "free vpn",
       "trafficCount": "200+",
       "pubDate": "Mon, 9 Mar 2026 05:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRblyC5Qh8CXNah1d8uj_v4IEBVPinnQBVhGM9jlVO6RYpi0XzhPB-SpcCw3pc",
-      "pictureSource": "Apple",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvUv7dhOfILMk0fw3AjMclt8LiHqIXW-zf3XQUbyczbIZcr-jDIgPlFf3L6Hc",
+      "pictureSource": "Formula 1",
       "relatedSearch": [
         {
-          "title": "Formula 1® begins this weekend, exclusively on Apple TV in the U.S.",
+          "title": "The beginner’s guide to the 2026 Formula 1 regulations",
           "snippet": "",
-          "url": "https://www.apple.com/newsroom/2026/03/formula-1-begins-this-weekend-exclusively-on-apple-tv-in-the-us/",
-          "source": "Apple"
-        },
-        {
-          "title": "Apple reveal details of F1 integration on Apple TV, Apple Maps, Apple News and more",
-          "snippet": "",
-          "url": "https://www.formula1.com/en/latest/article/apple-reveal-details-of-f1-integration-on-apple-tv-apple-maps-apple-news-and.4JJY1CUT4eobqZ78wTcO3L",
+          "url": "https://www.formula1.com/en/latest/article/the-beginners-guide-to-the-2026-regulations.6j0tS0hrHG2T01tpmK6XYz",
           "source": "Formula 1"
         },
         {
-          "title": "Formula 1 and Apple's big gamble kicks off this weekend",
+          "title": "One reason to root for all 22 drivers on the 2026 F1 grid",
           "snippet": "",
-          "url": "https://finance.yahoo.com/news/formula-1-and-apples-big-gamble-kicks-off-this-weekend-155644302.html",
-          "source": "Yahoo Finance"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "will warbrick warriors",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 9 Mar 2026 05:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSvAGkmc6AXbMCUlgkCopFrbvfW_yHMGSJct_DrWxdk6E8coqdVQHJ8v9MUlk",
-      "pictureSource": "Fox Sports",
-      "relatedSearch": [
-        {
-          "title": "Storm star poised for shock move; Penrith respond to ‘surprise’ Lomax rumour: Transfer Whispers",
-          "snippet": "",
-          "url": "https://www.foxsports.com.au/nrl/nrl-premiership/nrl-2026-penrith-panthers-respond-to-bizarre-transfer-rumour-izack-tago-and-zac-lomax-switch-isaiya-katoa-on-rugby-union-png-chiefs-greg-marzhew-dylan-lucas/news-story/e5687ec7673a346fbac9a058e05eb79b",
-          "source": "Fox Sports"
+          "url": "https://www.espn.com/racing/f1/story/_/id/48100259/one-reason-root-all-22-drivers-2026-f1-grid",
+          "source": "ESPN"
         },
         {
-          "title": "Storm star on brink of signing multi-year Warriors deal",
+          "title": "F1 season predictions: Our picks for 2026’s title race, surprises and one ‘dumpster fire’",
           "snippet": "",
-          "url": "https://www.dailytelegraph.com.au/sport/nrl/melbourne-storm-star-will-warbrick-poised-to-join-warriors-on-multiyear-nrl-deal/news-story/b0570988de5944d43aa326110dfe1766",
-          "source": "Daily Telegraph Sydney"
-        },
-        {
-          "title": "Warbrick set for bombshell club switch in new Storm blow",
-          "snippet": "",
-          "url": "https://www.zerotackle.com/warbrick-set-for-bombshell-club-switch-in-new-storm-blow-231211/",
-          "source": "Zero Tackle"
+          "url": "https://www.nytimes.com/athletic/7087225/2026/03/05/f1-formula-1-2026-predictions/",
+          "source": "The New York Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,20 +173,20 @@
       "title": "dot rotten",
       "trafficCount": "200+",
       "pubDate": "Mon, 9 Mar 2026 05:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJ4S3cK4FrK3TeiHlgOrTRTxz9rKxjuORuMumjX2ipCQwAmxQtlOV0MSOHr8I",
-      "pictureSource": "The Guardian",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMcgpGkzy9pUseUnBylUjU3n6GbCU8vWRpxLwFSk9EMaC0DA3XexxPbdy2ZQw",
+      "pictureSource": "BBC",
       "relatedSearch": [
-        {
-          "title": "Grime rapper and producer Dot Rotten dies aged 37",
-          "snippet": "",
-          "url": "https://www.theguardian.com/music/2026/mar/09/grime-rapper-and-producer-dot-rotten-dies-aged-37",
-          "source": "The Guardian"
-        },
         {
           "title": "Tributes paid as grime star Dot Rotten dies, aged 37",
           "snippet": "",
           "url": "https://www.bbc.com/news/articles/c0k1y5v41dgo",
           "source": "BBC"
+        },
+        {
+          "title": "Grime rapper and producer Dot Rotten dies aged 37",
+          "snippet": "",
+          "url": "https://www.theguardian.com/music/2026/mar/09/grime-rapper-and-producer-dot-rotten-dies-aged-37",
+          "source": "The Guardian"
         },
         {
           "title": "Reports: Dot Rotten Has Died",
@@ -239,16 +239,16 @@
           "source": "ABC News"
         },
         {
-          "title": "Panic buying blamed for reduced fuel availability in regions",
-          "snippet": "",
-          "url": "https://thewest.com.au/news/wa/fuel-availability-cut-in-was-regions-including-kulin-amid-panic-buying-concerns--c-21887215",
-          "source": "The West Australian"
-        },
-        {
           "title": "Oil crisis ’26 about to hit PM, Chalmers",
           "snippet": "",
           "url": "https://www.theaustralian.com.au/nation/politics/anthony-albanese-penny-wong-have-learnt-lessons-from-gaza-when-it-comes-to-this-iran-war/news-story/31571738f80ab78451a9d0eda44b5845",
           "source": "The Australian"
+        },
+        {
+          "title": "Australia news live: family members of alleged Bondi attacker seek suppression order over their names and address amid safety fears",
+          "snippet": "",
+          "url": "https://www.theguardian.com/australia-news/live/2026/mar/09/northern-territory-queensland-floods-federal-politics-reactions-penny-wong-iran-anthony-albanese-labor-angus-taylor-coalition-ntwnfb?filterKeyEvents=false&page=with%3Ablock-69ae082b8f08ef977b4723ce",
+          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"

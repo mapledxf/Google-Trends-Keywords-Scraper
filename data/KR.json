@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2026-03-08 23:49:12",
+  "lastUpdate": "2026-03-09 00:00:37",
   "data": [
     {
+      "title": "대전날씨",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 8 Mar 2026 15:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAK9VRWe8K5OHRz-vORBNPMuuxqWCj49RQJUUjuyD_KX6Iivu5N-eJtUU1rpA",
+      "pictureSource": "연합뉴스",
+      "relatedSearch": [
+        {
+          "title": "중부지방 곳곳 비·눈…북서풍에 낮에도 '쌀쌀', 미세먼지 유입",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20260309022400530",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "전국 아침 영하권…중부지방 중심 눈이나 비도",
+          "snippet": "",
+          "url": "https://v.daum.net/v/20260309072202867",
+          "source": "Daum"
+        },
+        {
+          "title": "대전·세종·충남 오전까지 한때 비 또는 눈…낮 최고 9도",
+          "snippet": "",
+          "url": "https://www.newsis.com/view/NISX20260308_0003539313",
+          "source": "뉴시스"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "야닉 시너",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 8 Mar 2026 15:40:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy0OyCtBnzm80cJ5ZXV1IGgi2aZvB88xi9z-ttWqWt6uE91CBDQr6wEx0eTik",
       "pictureSource": "Daum",
@@ -58,57 +86,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "오늘의 날씨",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 8 Mar 2026 15:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuriBEZIKEuGsEC576O04fX6HUJHnzbQELS8yhbowt0MX5PV9q9bd2LzO_gEM",
-      "pictureSource": "KBS 뉴스",
-      "relatedSearch": [
-        {
-          "title": "[출근길 날씨] 중부 중심 비·눈…초미세먼지 주의",
-          "snippet": "",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8502584",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "전국 아침 영하권…중부지방 중심 눈이나 비도",
-          "snippet": "",
-          "url": "https://v.daum.net/v/20260309072202867",
-          "source": "Daum"
-        },
-        {
-          "title": "대전·세종·충남 대체로 흐려…낮 최고 10도",
-          "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20260309006300063",
-          "source": "연합뉴스"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "유가",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Sun, 8 Mar 2026 15:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9zK0MzNHJORV7kp19p14Dn9YcFJkB5mBSZBli8YZ5CdJES1nRSx12vmr-uPI",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfGAh2pjknhOeG5TdwI3rmBv9BaSDWdwlvIk8FD1AzkBIKQDvji7vFDoBM5Sc",
       "pictureSource": "조선일보",
       "relatedSearch": [
         {
-          "title": "유가 뛰자 물가·환율까지… 한국 ‘3高 쇼크’",
+          "title": "[속보] 국제 유가 배럴당 100달러 돌파...공급 차질 영향",
           "snippet": "",
-          "url": "https://www.chosun.com/economy/economy_general/2026/03/09/57765S5Z4BECPC3Q4XO4S3AODE/",
+          "url": "https://www.chosun.com/international/international_general/2026/03/09/I55ELVCZEVB6HITFLWZFIIOBCU/",
           "source": "조선일보"
         },
         {
-          "title": "산업장관, 정유 4사 만나 \"공정한 석유가격 책정\" 당부",
+          "title": "걸프 해역서 ‘중국 선박’ 위장…중 외교부장 “무력으로 해결 못해”",
           "snippet": "",
-          "url": "https://www.newsis.com/view/NISX20260308_0003539293",
-          "source": "뉴시스"
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8502588",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "“경유 300원 올랐는데 운송비 그대로, 이대론 못 버텨”···화물노동자 직격한 유가 급등",
+          "title": "'기름값 2500원' 커지는 공포…\"한국도 사정권\" 경고 쏟아졌다",
           "snippet": "",
-          "url": "https://www.khan.co.kr/article/202603081600001",
-          "source": "경향신문"
+          "url": "https://www.hankyung.com/article/2026030866761",
+          "source": "한국경제"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -142,50 +142,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "wti 유가",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 8 Mar 2026 15:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_OJjghfBhzWXqnvQ7iRjHDjk_rOGwm4doTOhtGodQ9uLZ0fGJ5_M8x-nXHFA",
-      "pictureSource": "채널A 뉴스",
-      "relatedSearch": [
-        {
-          "title": "이란, 자폭드론 꺼내 정유시설 골라 때렸다",
-          "snippet": "",
-          "url": "https://ichannela.com/news/detail/000000517123.do",
-          "source": "채널A 뉴스"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "국제유가",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 8 Mar 2026 14:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2-kCfEa6e5OCYf5T4uVO9oT343ukn9dKB_iyA2OGpIRJumDhddXtcjUqPoQA",
-      "pictureSource": "한겨레",
-      "relatedSearch": [
-        {
-          "title": "국제유가 110달러도 넘어 … 이란 후계자 지명 ‘항전’ 의지에",
-          "snippet": "",
-          "url": "https://www.hani.co.kr/arti/economy/economy_general/1248300.html",
-          "source": "한겨레"
-        },
-        {
-          "title": "WTI 20% 폭등, 108달러 돌파…지수 선물-암호화폐 일제↓(종합)",
-          "snippet": "",
-          "url": "https://news.nate.com/view/20260309n04443?mid=n1101",
-          "source": "네이트"
-        },
-        {
-          "title": "WTI, 배럴당 85달러 돌파…2024년 4월 이후 최고",
-          "snippet": "",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4402298",
-          "source": "연합인포맥스"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "날씨예보",
       "trafficCount": "100+",
       "pubDate": "Sun, 8 Mar 2026 14:50:00 -0700",
@@ -214,6 +170,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "중앙일보",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 8 Mar 2026 14:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9zK0MzNHJORV7kp19p14Dn9YcFJkB5mBSZBli8YZ5CdJES1nRSx12vmr-uPI",
+      "pictureSource": "조선일보",
+      "relatedSearch": [
+        {
+          "title": "유가 뛰자 물가·환율까지… 한국 ‘3高 쇼크’",
+          "snippet": "",
+          "url": "https://www.chosun.com/economy/economy_general/2026/03/09/57765S5Z4BECPC3Q4XO4S3AODE/",
+          "source": "조선일보"
+        },
+        {
+          "title": "李대통령 격노도, 정유사 가격 자제도…불 붙은 휘발윳값 못 끈다",
+          "snippet": "",
+          "url": "https://v.daum.net/v/20260309061325793",
+          "source": "Daum"
+        },
+        {
+          "title": "“경유 300원 올랐는데 운송비 그대로, 이대론 못 버텨”···화물노동자 직격한 유가 급등",
+          "snippet": "",
+          "url": "https://www.khan.co.kr/article/202603081600001",
+          "source": "경향신문"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "milan vs inter",
       "trafficCount": "200+",
       "pubDate": "Sun, 8 Mar 2026 14:00:00 -0700",
@@ -233,10 +217,10 @@
           "source": "BeSoccer Livescore"
         },
         {
-          "title": "Chivu laments Inter's below-par display in Derby della Madonnina defeat",
+          "title": "Allegri: ‘Inter clear title favourites, Milan prepared goal move’ to target weakness",
           "snippet": "",
-          "url": "https://www.fotmob.com/news/7ioedfhzwlfa161f9pmj17n5y-chivu-laments-inters-below-par-display-derby-della-madonnina-defeat",
-          "source": "FotMob"
+          "url": "https://onefootball.com/de/news/allegri-inter-clear-title-favourites-milan-prepared-goal-move-to-target-weakness-42526399",
+          "source": "OneFootball"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -265,6 +249,34 @@
           "snippet": "",
           "url": "https://v.daum.net/v/20260309060901752",
           "source": "Daum"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "알렉산더 즈베레프",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 8 Mar 2026 13:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQC0O1qTcnKxH9p0P-o_TYNz_V0XVl5Vr2cZrx3jJoUc7fvkATgvR2oNppCnI8",
+      "pictureSource": "Vietnam.vn",
+      "relatedSearch": [
+        {
+          "title": "베트남 출신 테니스 선수가 2026년 인디언 웰스 대회 4라운드에 진출했습니다.",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/ko/tay-vot-goc-viet-xuat-sac-vao-vong-4-indian-wells-2026",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "부모 따라 테니스 구경하던 유망주에서 시드 선수가 된 요비치와 티엔",
+          "snippet": "",
+          "url": "https://v.daum.net/v/20260304104802879",
+          "source": "Daum"
+        },
+        {
+          "title": "즈베레프 인디언웰스 3회전 진출",
+          "snippet": "",
+          "url": "http://m.tennispeople.kr/news/articleView.html?idxno=18224",
+          "source": "테니스피플"
         }
       ],
       "link": "https://imtaqin.id/"

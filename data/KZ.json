@@ -1,30 +1,95 @@
 {
-  "lastUpdate": "2026-03-10 00:53:17",
+  "lastUpdate": "2026-03-10 03:17:15",
   "data": [
     {
-      "title": "нефть цена",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 9 Mar 2026 17:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScE9zg9jL1DauPV1AS50PqzJsR4ix6BuDorm3-trAMMcHwn_oLI336ytby5gk",
-      "pictureSource": "BBC",
+      "title": "weather",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 9 Mar 2026 19:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShhcW8BphN5hLluOc1OO7Yb4sF6BdYggqfllQ0_D_3WaW8i1lnoAnKpAFZcic",
+      "pictureSource": "Newsweek",
       "relatedSearch": [
         {
-          "title": "Цены на нефть впервые с 2022 года поднялись выше $100 за баррель. Министры G7 проведут экстренное совещание",
+          "title": "Heavy Snow Warning As up to 4 Feet To Strike: ‘Delay All Travel’",
           "snippet": "",
-          "url": "https://www.bbc.com/russian/articles/cwy824gr27ro",
-          "source": "BBC"
+          "url": "https://www.newsweek.com/heavy-snow-warning-up-to-4-feet-to-strike-11643073",
+          "source": "Newsweek"
         },
         {
-          "title": "Цена на нефть превысила 100 долларов впервые с 2022 года",
+          "title": "Winter weather makes a comeback as weekend storm could bring blizzard conditions to Northern Tier",
           "snippet": "",
-          "url": "https://www.dw.com/ru/cena-na-neft-probila-otmetku-v-100-dollarov-vpervye-s-2022-goda/a-76271316",
-          "source": "DW.com"
+          "url": "https://www.foxweather.com/weather-news/winter-weather-comeback-weekend-storm-blizzard-conditions-northern-tier",
+          "source": "FOX Weather"
         },
         {
-          "title": "Цена нефти Brent на ICE выросла на 19%",
+          "title": "SnowBrains Forecast: Quiet Start Then 4-8 Inches for the Northeast Late This Week",
           "snippet": "",
-          "url": "https://finance.mail.ru/article/tsena-nefti-brent-na-ice-vyirosla-na-19-69200779/",
-          "source": "Финансы Mail"
+          "url": "https://snowbrains.com/snowbrains-forecast-quiet-start-then-4-8-inches-for-the-northeast-late-this-week/",
+          "source": "SnowBrains"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "свёнтек, ига",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 9 Mar 2026 18:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTB6b1A_D0aesNNMgBTNAjYnN2lby206vbCunykYWE_pY9mkB6lIKXFX5DYJn0",
+      "pictureSource": "https://www.championat.ru/",
+      "relatedSearch": [
+        {
+          "title": "Ига Швёнтек одержала 33-ю победу подряд в стартовых матчах на турнирах WTA-1000",
+          "snippet": "",
+          "url": "https://www.championat.ru/tennis/news-6385488-iga-shvyontek-oderzhala-33-pobedu-podryad-v-startovyh-matchah-na-turnirah-wta-1000.html",
+          "source": "https://www.championat.ru/"
+        },
+        {
+          "title": "Саккари — Свентек: прогноз и ставка 2.17 на матч 10 марта",
+          "snippet": "",
+          "url": "https://www.livesport.ru/tips/tennis/2026/03/10/maria-sakkari-iga-swiatek/",
+          "source": "LiveSport.Ru"
+        },
+        {
+          "title": "Ига Швёнтек уверенно прошла в 1/8 финала турнира в Индиан-Уэллсе",
+          "snippet": "",
+          "url": "https://sportarena.kz/tennis/1050869-iga-shvntek-uverenno-proshla-v-18-finala-turnira-v-indianuellse.html",
+          "source": "sportarena.kz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "алау",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 9 Mar 2026 18:20:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "уральск погода",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 9 Mar 2026 18:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWGCbL-ufsXfBegk5Tuautp72ihe3Q_RDlqydi8ERNJjbjw5YaZdMCgco1Uzc",
+      "pictureSource": "Уральская неделя",
+      "relatedSearch": [
+        {
+          "title": "После морозов придет тепло: Прогноз погоды в Уральске и ЗКО",
+          "snippet": "",
+          "url": "https://www.uralskweek.kz/2026/03/09/posle-morozov-pridet-teplo-prognoz-pogody-v-uralske-i-zko/",
+          "source": "Уральская неделя"
+        },
+        {
+          "title": "Ощущается как -33°C: прогноз погоды в Петропавловске на 10 марта",
+          "snippet": "",
+          "url": "https://pkzsk.info/oshhushhaetsya-kak-33-c-prognoz-pogody-v-petropavlovske-na-10-marta/",
+          "source": "Пkz Новости Казахстана"
+        },
+        {
+          "title": "Погода в Уральске с 9 по 15 марта 2026 года",
+          "snippet": "",
+          "url": "https://ru.qaz365.kz/weather-forecast/19167-pogoda-v-uralske-s-9-po-15-marta-2026-goda/",
+          "source": "Qaz365.kz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -87,7 +152,7 @@
     },
     {
       "title": "мирра александровна андреева",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 9 Mar 2026 16:20:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSr0OfPI11Opzkg6yPn5lnzmMhgRgX1pA2DQgYi2-KByomBu47LAoAkHcj2ipA",
       "pictureSource": "Спорт Mail",
@@ -105,21 +170,27 @@
           "source": "Спортивная Орда"
         },
         {
-          "title": "Индиан-Уэллс. Расписание шестого игрового дня",
+          "title": "Синякова победила Мирру Андрееву в третьем круге турнира в Индиан-Уэллсе",
           "snippet": "",
-          "url": "https://gotennis.ru/read/news/indian-uells__raspisanie_shestogo_igrovogo_dnya0000006.html",
-          "source": "GoTennis.ru"
+          "url": "https://www.sport-express.net/tennis/atp/news/katerzhina-sinyakova-mirra-andreeva-rezultat-matcha-turnira-v-indian-uellse-9-marta-2026-2405685/",
+          "source": "sport-express.ru"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "лацио – сассуоло",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 9 Mar 2026 13:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCk1_9vsYOfXf62T6ZXZPnK6F82C5tlUXttrUGgJvmH89QB9Q2agbqGgnLzjQ",
-      "pictureSource": "Sportbox",
+      "picture": "",
+      "pictureSource": "sport-express.ru",
       "relatedSearch": [
+        {
+          "title": "Сарри — о победе над «Сассуоло»: «Лацио» выдал отличный финальный отрезок с настоящим сердцем»",
+          "snippet": "",
+          "url": "https://www.sport-express.net/football/italy/news/glavnyy-trener-lacio-sarri-prokommentiroval-pobedu-nad-sassuolo-v-matche-serii-a-9-marta-2026-2405688/",
+          "source": "sport-express.ru"
+        },
         {
           "title": "«Лацио» победил «Сассуоло» в матче чемпионата Италии",
           "snippet": "",
@@ -131,21 +202,15 @@
           "snippet": "",
           "url": "https://www.championat.ru/football/news-6387534-lacio-sassuolo-rezultat-matcha-9-marta-2026-schet-2-1-28-j-tur-serii-a-2025-2026.html",
           "source": "https://www.championat.ru/"
-        },
-        {
-          "title": "Лацио - Сассуоло. Голы (видео). Чемпионат Италии. Футбол",
-          "snippet": "",
-          "url": "https://matchtv.ru/football/italy/matchtvvideo_NI2303448_clip_Lacio___Sassuolo_Goly_video_Chempionat_Italii_Futbol",
-          "source": "Матч ТВ"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "эспаньол – реал овьедо",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 9 Mar 2026 12:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiL5x3rtU4JA74q74Xs24Z-gs_YKQY9zLtuUNTfSa6EGHwk4EGZa4ZuWK3jAU",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGNC7S68ZPXiRyuiQqfIJjBJIYX9dFbaFUy3tLVxFk5NNDwT978R9f0vZmhYs",
       "pictureSource": "Матч ТВ",
       "relatedSearch": [
         {
@@ -173,9 +238,15 @@
       "title": "вест хэм юнайтед – брентфорд",
       "trafficCount": "2000+",
       "pubDate": "Mon, 9 Mar 2026 12:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL5it3x7J3wNN1qhVanOulZI4oASyGotxdDRAYW8sNdh4LbUq9YBmoF2thD5Y",
-      "pictureSource": "Евро-Футбол",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSq0KT7juSwRv1rZxvqnpth37cqNic3wIqv7YL4YdgN4NuSmDtUIji4DpokvLM",
+      "pictureSource": "Sportbox",
       "relatedSearch": [
+        {
+          "title": "«Вест Хэм» обыграл «Брентфорд» в Кубке Англии, стали известны четвертьфинальные пары турнира",
+          "snippet": "",
+          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/Evropejskie_chempionaty/Angliya/Kubok_Anglii/spbnews_NI2303449_Vest_Khem_obygral_Brentford_v_Kubke_Anglii_stali_izvestny_chetvertfinalnyje_pary_turnira",
+          "source": "Sportbox"
+        },
         {
           "title": "Тренер «Вест Хэма»: «То, что судьи позволяют при стандартных положениях, близко к безумию»",
           "snippet": "",
@@ -183,81 +254,10 @@
           "source": "Евро-Футбол"
         },
         {
-          "title": "Экспресс на футбол — 9 марта 2026 года",
+          "title": "Экспресс на футбол — 9 марта 2026 года | СТАВКА ТВ",
           "snippet": "",
           "url": "https://stavka.tv/articles/express/express-2026-march-9-football",
           "source": "Ставка ТВ"
-        },
-        {
-          "title": "Прогноз на матч Вест Хэм – Брентфорд. «Пчёлы» доберутся до ¼ финала Кубка Англии",
-          "snippet": "",
-          "url": "https://meta-ratings.kz/prognozy/futbol/vest-hehm-brentford-prognoz-na-match-kubka-anglii-9-marta-2026-goda/",
-          "source": "Meta-ratings.kz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "пагода алматы",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 9 Mar 2026 11:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "динамо москва – динамо мн",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 9 Mar 2026 10:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGoSrBT_sOO_lEzFAunlcggK4xGBcC-N5UwoW0Rxw-bDoe7dofAkC-TgZKAf8",
-      "pictureSource": "Континентальная Хоккейная Лига",
-      "relatedSearch": [
-        {
-          "title": "«Локомотив» дожал «Северсталь» и досрочно выиграл Запад, московское «Динамо» в ярком матче обыграло минчан: Новости",
-          "snippet": "",
-          "url": "https://www.khl.ru/news/2026/03/09/559205.html",
-          "source": "Континентальная Хоккейная Лига"
-        },
-        {
-          "title": "Минское «Динамо» проиграло московскому «Динамо» и продлило серию поражений до трех матчей",
-          "snippet": "",
-          "url": "https://news.sportbox.ru/Vidy_sporta/Hokkej/KHL/spbnews_NI2303312_Minskoje_Dinamo_proigralo_moskovskomu_Dinamo_i_prodlilo_seriju_porazhenij_do_treh_matchej",
-          "source": "Sportbox"
-        },
-        {
-          "title": "«Динамо» — «Динамо» Минск: онлайн-трансляция матча КХЛ",
-          "snippet": "",
-          "url": "https://www.sport-express.net/hockey/khl/news/dinamo-dinamo-minsk-9-marta-2026-onlayn-translyaciya-matcha-khl-gde-smotret-2405235/",
-          "source": "sport-express.ru"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "локомотив – северсталь",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 9 Mar 2026 09:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfUgKGc1IRIkKrZfqpUxNEcG-tu9m2W5DAHLFyQOrF16MD3t1gWuimAunLUIM",
-      "pictureSource": "LiveSport.Ru",
-      "relatedSearch": [
-        {
-          "title": "Козырев: Если в домашнем матче с Локомотивом один балл завоевали, то сегодня упустили",
-          "snippet": "",
-          "url": "https://www.livesport.ru/hockey/2026/03/09/kozyrev/",
-          "source": "LiveSport.Ru"
-        },
-        {
-          "title": "Битва «Северстали» и «Локомотива», «Авангард» в гостях у «Спартака». Превью 2 марта: Новости",
-          "snippet": "",
-          "url": "https://www.khl.ru/news/2026/03/02/558720.html",
-          "source": "KHL"
-        },
-        {
-          "title": "\"Северсталь\" в овертайме уступила \"Локомотиву\"",
-          "snippet": "",
-          "url": "https://shaiba.kz/news/802463",
-          "source": "Шайба.kz"
         }
       ],
       "link": "https://imtaqin.id/"

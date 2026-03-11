@@ -1,46 +1,65 @@
 {
-  "lastUpdate": "2026-03-11 23:00:42",
+  "lastUpdate": "2026-03-11 23:33:00",
   "data": [
     {
-      "title": "美國股市",
+      "title": "今日天氣",
       "trafficCount": "500+",
-      "pubDate": "Wed, 11 Mar 2026 15:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "pubDate": "Wed, 11 Mar 2026 16:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTO9fP02aOQpH1W1AkOTkLysMWFcZmQjvlyvX92ACEpeuu6hLaeJ3GFrsIEX9s",
+      "pictureSource": "udn 聯合新聞網",
+      "relatedSearch": [
+        {
+          "title": "大陸冷氣團來襲！明天各地降溫明顯 最冷時間曝光「低溫僅9度」",
+          "snippet": "",
+          "url": "https://udn.com/news/story/7266/9374454",
+          "source": "udn 聯合新聞網"
+        },
+        {
+          "title": "強烈冷氣團來襲！恐見10度以下 10縣市低溫特報",
+          "snippet": "",
+          "url": "https://news.ebc.net.tw/news/living/541522",
+          "source": "東森新聞"
+        },
+        {
+          "title": "今日各地回溫4到6℃ 週四再有冷氣團來襲｜20260311 公視午間新聞",
+          "snippet": "",
+          "url": "https://news.pts.org.tw/video/17310",
+          "source": "公視新聞網PNN"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "psg đấu với chelsea",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 11 Mar 2026 15:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR17A9nJ0cEsEAUJlypStfXWkVu-8lxa7zSwq6Z8nV3CIQ5OY1r0NSeolFEqm8",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuWdJFifzEZ-qFkoVbmelMgvttTE8I9iMGqg-rzPD-LNq-m3djLHgCfkM2pCA",
       "pictureSource": "Tin tức 24h",
       "relatedSearch": [
         {
-          "title": "Trực tiếp bóng đá PSG - Chelsea : Kvaratskhelia ấn định (Cúp C1) (Hết giờ)",
+          "title": "Video bóng đá PSG - Chelsea: Sai lầm tạo bước ngoặt, tưng bừng 7 bàn (Cúp C1)",
           "snippet": "",
-          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-chelsea-psg-nha-vua-lo-lang-bao-ve-ngai-vang-cup-c1-c48a1743970.html",
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-psg-chelsea-sai-lam-tao-buoc-ngoat-tung-bung-7-ban-cup-c1-c48a1744036.html",
           "source": "Tin tức 24h"
+        },
+        {
+          "title": "Kvaratskhelia tạo khác biệt từ ghế dự bị, PSG mở toang cánh cửa vào tứ kết",
+          "snippet": "",
+          "url": "https://webthethao.vn/champions-league/kvaratskhelia-tao-khac-biet-tu-ghe-du-bi-psg-mo-toang-canh-cua-vao-tu-ket-z9myDxZRR.htm",
+          "source": "Webthethao.vn"
         },
         {
           "title": "Liam Rosenior và bài tủ 3 trung vệ: Liệu Chelsea có thể giải mã sức mạnh của PSG?",
           "snippet": "",
           "url": "https://baolamdong.vn/liam-rosenior-va-bai-tu-3-trung-ve-lieu-chelsea-co-the-giai-ma-suc-manh-cua-psg-429329.html",
           "source": "Báo Lâm Đồng"
-        },
-        {
-          "title": "Tuyến giữa PSG 'tan hoang' trước màn tái đấu Chelsea tại Champions League",
-          "snippet": "",
-          "url": "https://baodanang.vn/tuyen-giua-psg-tan-hoang-truoc-man-tai-dau-chelsea-tai-champions-league-3327561.html",
-          "source": "Báo Đà Nẵng"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "巴黎聖日耳曼 對 切爾西",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 11 Mar 2026 14:50:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRhjuL4FOsn3ZFhl8TBgt3YAuB3oM0C_J1SW57mHr4i-DvJXZNxxniPm6x8EM",
       "pictureSource": "波經",
@@ -68,7 +87,7 @@
     },
     {
       "title": "เรอัลมาดริด พบ แมนซิตี",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 11 Mar 2026 14:50:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5t1ji-A47DMWZaTBicbiPg_4eDn9NY1VxtlKH-AD9PU4dDFUq_x9fDQlxm0w",
       "pictureSource": "LINE TODAY",
@@ -108,81 +127,62 @@
           "source": "Diario AS"
         },
         {
-          "title": "(Crónica) El PSG aturde al Chelsea, el Bodo sigue soñando y un penalti salva al Arsenal en Leverkusen",
+          "title": "Arbeloa mantiene a Thiago en un once con Huijsen como novedad; Doku por Cherki en el City",
           "snippet": "",
-          "url": "https://www.infobae.com/america/agencias/2026/03/11/cronica-el-psg-aturde-al-chelsea-el-bodo-sigue-sonando-y-un-penalti-salva-al-arsenal-en-leverkusen/",
+          "url": "https://www.infobae.com/america/agencias/2026/03/11/arbeloa-mantiene-a-thiago-en-un-once-con-huijsen-como-novedad-doku-por-cherki-en-el-city/",
           "source": "Infobae"
         },
         {
-          "title": "Fede Valverde se disfraza de Mbappé",
+          "title": "La portada de SPORT de hoy jueves, 12 de marzo de 2026",
           "snippet": "",
-          "url": "https://www.mundodeportivo.com/futbol/real-madrid/20260311/1004150649/fede-valverde-disfraza-mbappe.html",
-          "source": "Mundo Deportivo"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "國際油價即時",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 11 Mar 2026 14:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGyVX0PdRIt__qAnNoczqIaOzEwFBe_X0FSg7tqaN-B5qFClUVePA8UJI7oVg",
-      "pictureSource": "udn 聯合新聞網",
-      "relatedSearch": [
-        {
-          "title": "紐時：川普誤判伊朗反應 官員不敢諫言",
-          "snippet": "",
-          "url": "https://udn.com/news/story/124061/9374762",
-          "source": "udn 聯合新聞網"
-        },
-        {
-          "title": "川普放話戰爭很快就要結束 「伊朗幾乎沒有目標可以攻擊了」",
-          "snippet": "",
-          "url": "https://tw.news.yahoo.com/%E5%B7%9D%E6%99%AE%E6%94%BE%E8%A9%B1%E6%88%B0%E7%88%AD%E5%BE%88%E5%BF%AB%E5%B0%B1%E8%A6%81%E7%B5%90%E6%9D%9F-%E4%BC%8A%E6%9C%97%E5%B9%BE%E4%B9%8E%E6%B2%92%E6%9C%89%E7%9B%AE%E6%A8%99%E5%8F%AF%E4%BB%A5%E6%94%BB%E6%93%8A%E4%BA%86-210500751.html",
-          "source": "Yahoo新聞"
-        },
-        {
-          "title": "美伊戰事3月底停火有望？ 晶片業界估計川普TACO模式再現",
-          "snippet": "",
-          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000748647_XE05W9PG5T626F67SW1BQ&packageid=75860&cnlid=1&cat=10&wpidx=6",
-          "source": "DIGITIMES"
+          "url": "https://www.sport.es/es/noticias/portada-sport/portada-sport-hoy-jueves-12-127854662",
+          "source": "SPORT"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "real madrid đấu với man city",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 11 Mar 2026 14:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQJ1a0UQ4i9Y1mk3qr327lQMZwsMKgjyOucl9hKTxgg7ZL-UkYe7Ra6JU-HwI",
-      "pictureSource": "Vietnam.vn",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRrcuAdA82dRdqr0XFky9ERc0B6mr_m34PA9FtJpS3IKHgaj5cHhr27Nlm_Iu8",
+      "pictureSource": "www.starnewskorea.com",
       "relatedSearch": [
         {
-          "title": "5 kỳ vọng chờ lời giải trong trận Real Madrid - Man City",
+          "title": "Real phá vỡ 3-0 của Man City → ngay trước thềm bán kết UCL... Nguy cơ tiêu diệt hoàn toàn EPL",
           "snippet": "",
-          "url": "https://www.vietnam.vn/5-ky-vong-cho-loi-giai-trong-tran-real-madrid-man-city",
+          "url": "https://www.starnewskorea.com/vi/sports/2026/03/12/2026031206590473197",
+          "source": "www.starnewskorea.com"
+        },
+        {
+          "title": "Phản ứng của Bellingham khi Valverde lập hat-trick",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/phan-ung-cua-bellingham-khi-valverde-lap-hat-trick",
           "source": "Vietnam.vn"
         },
         {
-          "title": "Gục ngã tại Bernabeu",
+          "title": "Real Madrid trả giá đắt cho màn hủy diệt Man City",
           "snippet": "",
-          "url": "https://baolamdong.vn/guc-nga-tai-bernabeu-429390.html",
-          "source": "Báo Lâm Đồng"
-        },
-        {
-          "title": "Trực tiếp Real Madrid vs Man City",
-          "snippet": "",
-          "url": "https://znews.vn/truc-tiep-real-madrid-vs-man-city-post1634130.html",
-          "source": "Znews.vn"
+          "url": "https://bongdaplus.vn/champions-league-cup-c1/real-madrid-tra-gia-dat-cho-man-huy-diet-man-city-4972702603.html",
+          "source": "Bongdaplus"
         }
       ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "美股四大指數即時",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 11 Mar 2026 14:10:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "psg vs chelsea",
       "trafficCount": "500+",
       "pubDate": "Wed, 11 Mar 2026 13:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSdpkFdfIP8YyMwxBbGurdFDsWFJGqc2yTpYW4aYy5laHplCWq8B5D_pR0fJQ",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMew7l-pQIGUqbrYGv4cf4EYxIM89-xR_f4Nx0-XYIFLwWKC2HTtbVrffq9Gs",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
@@ -192,15 +192,15 @@
           "source": "BBC"
         },
         {
-          "title": "How to watch Paris Saint-Germain vs Chelsea: TV channel and live stream for Champions League today",
+          "title": "Champions League: Super sub Kvaratskhelia bags a late brace as PSG crush Chelsea",
           "snippet": "",
-          "url": "https://au.sports.yahoo.com/watch-paris-saint-germain-vs-061506902.html",
+          "url": "https://au.sports.yahoo.com/champions-league-super-sub-kvaratskhelia-225848695.html",
           "source": "Yahoo Sports Australia"
         },
         {
           "title": "UEFA Champions League - Round of 16 - First Leg - Paris St Germain v Chelsea",
           "snippet": "",
-          "url": "https://www.reutersconnect.com/item/uefa-champions-league-round-of-16-first-leg-paris-st-germain-v-chelsea/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNM0IxTFY0SlY",
+          "url": "https://www.reutersconnect.com/item/uefa-champions-league-round-of-16-first-leg-paris-st-germain-v-chelsea/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNM0IxTzc3TUY",
           "source": "Reuters Connect"
         }
       ],
@@ -210,15 +210,9 @@
       "title": "皇家馬德里 對 曼城",
       "trafficCount": "500+",
       "pubDate": "Wed, 11 Mar 2026 13:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlFYxTmH0pIyHDZ4hPJI8qoQViDg2TpteBhYl8RqEeecSZU7K1vH5wvZgrlBQ",
-      "pictureSource": "QQ News",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVvmvuRgWoprDzKhCLy2fwxU_XqCcWlJEGTpMNGz6atWLyvX75fsA44YDHrUc",
+      "pictureSource": "7M足球新闻",
       "relatedSearch": [
-        {
-          "title": "皇马vs曼城淘汰赛伯纳乌罕见出现仍有余票，小组赛早早售罄-腾讯新闻",
-          "snippet": "",
-          "url": "https://news.qq.com/rain/a/20260310A07YBM00",
-          "source": "QQ News"
-        },
         {
           "title": "欧冠前瞻：皇家马德里 VS 曼彻斯特城",
           "snippet": "",
@@ -230,6 +224,12 @@
           "snippet": "",
           "url": "https://m.sohu.com/a/995343067_121894857?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
           "source": "搜狐网"
+        },
+        {
+          "title": "欧冠比赛前瞻：皇马vs曼城预测分析(2026年03月12日)",
+          "snippet": "",
+          "url": "https://www.qiumiwu.com/news/1881312106425",
+          "source": "球迷屋"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -238,7 +238,7 @@
       "title": "madrid vs man city",
       "trafficCount": "1000+",
       "pubDate": "Wed, 11 Mar 2026 13:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQoYE7BTTOAzdstO4sxD6qt37Wn4fOONbXcDHD1u6SZXXOrGNdaq4PLKh7P3AQ",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpVv3j2_gg3d6C3YAld4_FfvMm1f7Xyitvm5qTbs_ycPJRwKtZb6fqN0EMFmo",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
@@ -254,10 +254,10 @@
           "source": "Yahoo Sports Australia"
         },
         {
-          "title": "Grand welcome for the team before facing City",
+          "title": "Valverde stuns Manchester City with hat-trick, PSG thrashes Chelsea and Bodo/Glimt shines",
           "snippet": "",
-          "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/espectacular-recibimiento-al-real-madrid-a-su-llegada-al-bernabeu-11-03-2026",
-          "source": "Real Madrid CF | Web Oficial"
+          "url": "https://www.gamereactor.eu/valverde-stuns-manchester-city-with-hat-trick-psg-thrashes-chelsea-and-bodo-glimt-shines-1688893/",
+          "source": "Gamereactor"
         }
       ],
       "link": "https://imtaqin.id/"

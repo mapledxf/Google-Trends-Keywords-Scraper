@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-11 22:47:53",
+  "lastUpdate": "2026-03-11 23:00:17",
   "data": [
     {
       "title": "flashscore",
@@ -30,6 +30,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "лч",
+      "trafficCount": "20000+",
+      "pubDate": "Wed, 11 Mar 2026 13:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW6pJ5B8dFNc9H32t1P5tzmGFRtjTYjScJQxYEXtRXIXfvbC5GaZfWYbATSjE",
+      "pictureSource": "Vietnam.vn",
+      "relatedSearch": [
+        {
+          "title": "Прямая трансляция матча Реал Мадрид — Манчестер Сити",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/ru/truc-tiep-real-madrid-vs-man-city",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "Что готовит \"Ман Сити\" в первой выездной битве против \"Реала\"",
+          "snippet": "",
+          "url": "https://www.zakon.kz/sport/6510601-chto-gotovit-man-siti-v-pervoy-vyezdnoy-bitve-protiv-reala.html",
+          "source": "Новости Zakon.kz"
+        },
+        {
+          "title": "У Холанда 0 ударов, 10 касаний, ни одной острой передачи и 1 фол в матче с «Реалом»",
+          "snippet": "",
+          "url": "https://sportmail.ru/news/football/70121604/",
+          "source": "Спорт Mail"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "лч матчи",
       "trafficCount": "500+",
       "pubDate": "Wed, 11 Mar 2026 13:50:00 -0700",
@@ -53,34 +81,6 @@
           "snippet": "",
           "url": "https://24.kz/ru/news/sport/757974-sostoyalis-pervye-matchi-1-8-finala-ligi-chempionov-uefa",
           "source": "24.kz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "реал мадрид",
-      "trafficCount": "10000+",
-      "pubDate": "Wed, 11 Mar 2026 13:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW6pJ5B8dFNc9H32t1P5tzmGFRtjTYjScJQxYEXtRXIXfvbC5GaZfWYbATSjE",
-      "pictureSource": "Vietnam.vn",
-      "relatedSearch": [
-        {
-          "title": "Прямая трансляция матча Реал Мадрид — Манчестер Сити",
-          "snippet": "",
-          "url": "https://www.vietnam.vn/ru/truc-tiep-real-madrid-vs-man-city",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "Что готовит \"Ман Сити\" в первой выездной битве против \"Реала\"",
-          "snippet": "",
-          "url": "https://www.zakon.kz/sport/6510601-chto-gotovit-man-siti-v-pervoy-vyezdnoy-bitve-protiv-reala.html",
-          "source": "Новости Zakon.kz"
-        },
-        {
-          "title": "У Холанда 0 ударов, 10 касаний, ни одной острой передачи и 1 фол в матче с «Реалом»",
-          "snippet": "",
-          "url": "https://sportmail.ru/news/football/70121604/",
-          "source": "Спорт Mail"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +155,16 @@
           "source": "Manchester City FC"
         },
         {
-          "title": "Valverde, MVP of the night: \"It's the best match of my career\"",
+          "title": "🚨 Real & Valverde smash Man City, PSG hit Chelsea for five, Bodø win again",
           "snippet": "",
-          "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/mvp-del-encuentro-11-03-2026",
-          "source": "Real Madrid CF | Web Oficial"
+          "url": "https://onefootball.com/pt-br/noticias/real-valverde-smash-man-city-psg-hit-chelsea-for-five-bodo-win-again-42541278",
+          "source": "OneFootball"
         },
         {
-          "title": "Valverde rounds Donnarumma for sensational Bernabeu opener",
+          "title": "UEFA Champions League - Round of 16 - First Leg - Real Madrid v Manchester City",
           "snippet": "",
-          "url": "https://www.besoccer.com/new/valverde-rounds-donnarumma-for-sensational-bernabeu-opener-1398872",
-          "source": "BeSoccer Livescore"
+          "url": "https://www.reutersconnect.com/item/uefa-champions-league-round-of-16-first-leg-real-madrid-v-manchester-city/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNM0IxTTFWS0E",
+          "source": "Reuters Connect"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +183,16 @@
           "source": "Советский спорт"
         },
         {
-          "title": "Колосков ответил на вопрос, кто заменит Иран на ЧМ-2026",
-          "snippet": "",
-          "url": "https://sportmail.ru/article/football-worldcup/70118835/",
-          "source": "Спорт Mail"
-        },
-        {
           "title": "FIFA вынесла решение по поводу участия сборной Ирана в ЧМ-2026 по футболу",
           "snippet": "",
           "url": "https://www.zakon.kz/sport/6510621-FIFA-vynesla-reshenie-po-povodu-uchastiya-sbornoy-irana-v-chm2026-po-futbolu.html",
           "source": "Новости Zakon.kz"
+        },
+        {
+          "title": "Колосков ответил на вопрос, кто заменит Иран на ЧМ-2026",
+          "snippet": "",
+          "url": "https://sportmail.ru/article/football-worldcup/70118835/",
+          "source": "Спорт Mail"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,26 +201,26 @@
       "title": "real madrid",
       "trafficCount": "500+",
       "pubDate": "Wed, 11 Mar 2026 13:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3R0ahrW7RIVE0tiBJ8VQLoCgdlJhkLTtN7lavNfj9j376oOURHSCThYdweH0",
-      "pictureSource": "Versus - Noticias deportivas de Paraguay y el mundo",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOa9a6TzcSKwFQoMcZZ638aF3Nrz9SekuBaLYaxohGl8xyjlap8cXhmRh2q3U",
+      "pictureSource": "365Scores",
       "relatedSearch": [
         {
-          "title": "Versus / Con un Valverde descomunal, Real Madrid golea al City y se encamina a cuartos",
+          "title": "¿Qué pasa si Real Madrid pierde ante Manchester City en la Champions League?",
           "snippet": "",
-          "url": "https://www.vssports.com.py/versus/2026/03/11/con-un-valverde-descomunal-real-madrid-golea-al-city-y-se-encamina-a-cuartos/",
-          "source": "Versus - Noticias deportivas de Paraguay y el mundo"
+          "url": "https://www.365scores.com/es/news/que-pasa-si-real-madrid-pierde-ante-city/",
+          "source": "365Scores"
         },
         {
-          "title": "Guardiola olvidó la vieja verdad que recorre Europa cada primavera",
+          "title": "(Crónica) El PSG aturde al Chelsea, el Bodo sigue soñando y un penalti salva al Arsenal en Leverkusen",
           "snippet": "",
-          "url": "https://www.marca.com/futbol/real-madrid/2026/03/11/guardiola-olvido-vieja-verdad-recorre-europa-primavera.html",
-          "source": "MARCA"
+          "url": "https://www.infobae.com/america/agencias/2026/03/11/cronica-el-psg-aturde-al-chelsea-el-bodo-sigue-sonando-y-un-penalti-salva-al-arsenal-en-leverkusen/",
+          "source": "Infobae"
         },
         {
-          "title": "Roncero rompe a llorar con el 3-0 y da un discurso que ya es historia de la radio: “Esto va más allá del dinero...”",
+          "title": "Otra derrota de Guardiola en el Bernabéu",
           "snippet": "",
-          "url": "https://as.com/futbol/videos/roncero-rompe-a-llorar-con-el-3-0-y-da-un-discurso-que-ya-es-historia-de-la-radio-esto-va-mas-alla-del-dinero-f202603-v/",
-          "source": "Diario AS"
+          "url": "https://www.larazon.es/deportes/futbol/otra-derrota-guardiola-bernabeu_2026031169b1f20ce1ff634075e529fb.html",
+          "source": "La Razón"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -267,16 +267,16 @@
           "source": "Евро-Футбол"
         },
         {
+          "title": "Куртуа спас молодого игрока «Реала» от позора благодаря невероятному сейву",
+          "snippet": "",
+          "url": "https://ua.tribuna.com/football/blogs/3162951-kurtua-vryatuvav-molodoho-hravtsya-reala-vid-hanby-zavdyaky-ne/",
+          "source": "Tribuna.com"
+        },
+        {
           "title": "18-летний Тьяго Питарч побил возрастной рекорд Рауля в «Реале»",
           "snippet": "",
           "url": "https://www.sovsport.ru/football/news/18-letnij-tyago-pitarch-pobil-vozrastnoj-rekord-raulya-v-reale",
           "source": "Советский спорт"
-        },
-        {
-          "title": "В «Реале» растет новый Модрич — 18-летний Тьяго Питарч уже сыграл в основе. Станет ли он звездой?",
-          "snippet": "",
-          "url": "https://www.sport-express.net/football/spain/reviews/tyago-pitarch-yunogo-poluzaschitnika-reala-nazyvayut-novym-modrichem-karera-ispanca-i-stanet-li-on-zvezdoy-2404482/",
-          "source": "sport-express.ru"
         }
       ],
       "link": "https://imtaqin.id/"

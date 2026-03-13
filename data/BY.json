@@ -1,19 +1,13 @@
 {
-  "lastUpdate": "2026-03-13 20:02:36",
+  "lastUpdate": "2026-03-13 20:48:37",
   "data": [
     {
       "title": "ирина алфёрова",
       "trafficCount": "100+",
       "pubDate": "Fri, 13 Mar 2026 12:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoEA6L1Ay2QgMr7Q3i7rQdqhcJ2n9tWL6Aa6zc8Qjipf24vJDjHqHAvBPWsQc",
-      "pictureSource": "teatral-online",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDBf2j91PriH7eXMTRUuBjiP7mTBPZKQ_AfrVMGNrn-Yk2zMOjJbcDndi-87w",
+      "pictureSource": "БелТА",
       "relatedSearch": [
-        {
-          "title": "Ирина Алферова отмечает юбилей",
-          "snippet": "",
-          "url": "https://www.teatral-online.ru/news/39806/",
-          "source": "teatral-online"
-        },
         {
           "title": "Лукашенко поздравил народную артистку России Ирину Алферову с днем рождения",
           "snippet": "",
@@ -25,6 +19,12 @@
           "snippet": "",
           "url": "https://ctv.by/news/v-mire/lukashenko-pozdravil-narodnuyu-artistku-rf-irinu-alferovu-s-dnem-rozhdeniya",
           "source": "СТВ"
+        },
+        {
+          "title": "Путин поздравил Ирину Алферову с днем рождения",
+          "snippet": "",
+          "url": "https://kino.mail.ru/news/119015-putin-pozdravil-irinu-alferovu-s-dnem-rozhdeniya/",
+          "source": "Кино Mail"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,15 +33,9 @@
       "title": "ак барс – сочи",
       "trafficCount": "100+",
       "pubDate": "Fri, 13 Mar 2026 11:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfJM491Nid_fpWrTWRtL8V4sABYe00LnAVE9107371iBPZqMJDGDaZB4GpRLA",
-      "pictureSource": "LiveResult",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSROp5wUsQdtfhofeOrcvM4UC5EYmv5diGVmpeKY1gGMPe10M8PP47fEdvsyR4",
+      "pictureSource": "KHL",
       "relatedSearch": [
-        {
-          "title": "Хоккей. Ак Барс - ХК Сочи - Онлайн трансляция матча - 13 марта 2026",
-          "snippet": "",
-          "url": "https://www.liveresult.ru/hockey/matches/match379167_AK_Bars_Kazan-HC_Sochi-live-online",
-          "source": "LiveResult"
-        },
         {
           "title": "«Ак Барс» «засушил» «Сочи» в Казани, Дмитрий Яшкин забросил 200-ю шайбу в КХЛ: Новости",
           "snippet": "",
@@ -49,10 +43,16 @@
           "source": "KHL"
         },
         {
-          "title": "Барабанов – о ХК «Сочи»: там ребята сезон доигрывали, игра была похожа на летний хоккей",
+          "title": "Максим Арефьев: «Мы работаем над своей игрой, чтобы побеждать и радовать болельщиков»",
           "snippet": "",
-          "url": "https://www.championat.ru/hockey/news-6392298-barabanov-o-hk-sochi-tam-rebyata-sezon-doigryvali-igra-byla-pohozha-na-letnij-hokkej.html",
-          "source": "https://www.championat.ru/"
+          "url": "https://www.ak-bars.ru/news/27620",
+          "source": "ХК «Ак Барс"
+        },
+        {
+          "title": "Яшкин забросил 200 шайб в КХЛ",
+          "snippet": "",
+          "url": "https://allhockey.ru/news/show/588080-Yashkin_zabrosil_200_shajb_v_KHL",
+          "source": "Allhockey.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -105,10 +105,10 @@
           "source": "Спорт Mail"
         },
         {
-          "title": "Ярославский \"Локомотив\" обыграл тольяттинскую \"Ладу\" в матче регулярного чемпионата КХЛ",
+          "title": "Хартли: Цель «Локомотива» в концовке чемпионата — зайти в плей‑офф без травм",
           "snippet": "",
-          "url": "https://sport5.by/news/hockey/kkhl/Tri-shayby-SHalunova-prinesli-Lokomotivu-pobedu-nad-Ladoy-v-KKHL/",
-          "source": "Sport5.by"
+          "url": "https://www.liveresult.ru/news/hokkey/317705-Hartli-TSel-Lokomotiva-v-kontsovke-chempionata-zayti-v-pley-off-bez-travm",
+          "source": "LiveResult"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +127,16 @@
           "source": "Football.by"
         },
         {
+          "title": "Евсеев запрыгнул на стол в раздевалке и совершил гимнастический трюк",
+          "snippet": "",
+          "url": "https://bombardir.ru/news/805899-evseev-zaprygnul-na-stol-v-razdevalke-i-sovershil-gimnasticheskiy-tryuk",
+          "source": "Бомбардир"
+        },
+        {
           "title": "Только в одном из 12 последних домашних матчей махачкалинского «Динамо» сыграл ТБ 2,5 голов",
           "snippet": "",
           "url": "https://bookmaker-ratings.ru/news/tol-ko-v-odnom-iz-12-poslednih-domashnih-matchej-mahachkalinskogo-dinamo-sy-gral-tb-2-5-golov/",
           "source": "Рейтинг Букмекеров"
-        },
-        {
-          "title": "Евсеев запрыгнул на стол после победы над «Оренбургом»",
-          "snippet": "",
-          "url": "https://sport24.ru/football/news-832487-yevseyev-zaprygnul-na-stol-posle-pobedy-nad-orenburgom",
-          "source": "Sport24.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,9 +173,15 @@
       "title": "ска – северсталь",
       "trafficCount": "500+",
       "pubDate": "Fri, 13 Mar 2026 09:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6g5bObUWe9SqRGP7bXTjsjmWowK788L0cncPpqwJdbTUTtQfogrV9JkpzeGU",
-      "pictureSource": "Sport5.by",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3iQcnjbWibOg631NOZ2N4-s0sVA_Oo7b7jw2VJ5UD25wG-FM2XChCRiHxCBM",
+      "pictureSource": "Беларусь сегодня",
       "relatedSearch": [
+        {
+          "title": "СКА учинил разгром «Северстали» в игре чемпионата Континентальной хоккейной лиги",
+          "snippet": "",
+          "url": "https://www.sb.by/articles/ska-uchinil-razgromi-severstali-v-igre-chempionata-kontinentalnoy-khokkeynoy-ligi.html",
+          "source": "Беларусь сегодня"
+        },
         {
           "title": "СКА дома разгромил череповецкую \"Северсталь\" в матче регулярного чемпионата КХЛ",
           "snippet": "",
@@ -183,16 +189,10 @@
           "source": "Sport5.by"
         },
         {
-          "title": "«Планку ***** подняли — планку держим». Ларионов — в раздевалке после 5:0 с «Северсталью»",
+          "title": "«Непростая это работа из болота тащить бегемота». Ларионов – о сезоне СКА",
           "snippet": "",
-          "url": "https://www.championat.ru/hockey/news-6392308-planku-podnyali-planku-derzhim-larionov-v-razdevalke-posle-5-0-s-severstalyu.html",
+          "url": "https://www.championat.ru/hockey/news-6392382-neprostaya-eto-rabota-iz-bolota-taschit-begemota-larionov-o-sezone-ska.html",
           "source": "https://www.championat.ru/"
-        },
-        {
-          "title": "Козырев — о разгроме от СКА: «Проиграли по всем статьям»",
-          "snippet": "",
-          "url": "https://sport24.ru/hockey/news-832486-kozyrev-o-razgrome-ot-ska-proigrali-po-vsem-statyam",
-          "source": "Sport24.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,14 +201,14 @@
       "title": "трактор – торпедо",
       "trafficCount": "200+",
       "pubDate": "Fri, 13 Mar 2026 09:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTen1a1bpqBwTQxtiJ6oeph1babtMLKxPBEFrWEVGirHvFHuza5KsqebQGqa3c",
-      "pictureSource": "Прессбол",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS89oZj8QANSyHVA7cO_6kNUUFhVGCwFFb0uIj2Qn5Pvpd0RB9ySI5n9S8AQjI",
+      "pictureSource": "Sport5.by",
       "relatedSearch": [
         {
-          "title": "КХЛ. Шайба Андрея Белевича не сработала на победу: \"Трактор\" в овертайме дожал \"Торпедо\" (ВИДЕО)",
+          "title": "\"Трактор\" совершил камбэк в матче КХЛ против \"Торпедо\"",
           "snippet": "",
-          "url": "https://pressball.by/news/hockey/shajba-andreya-belevicha-ne-srabotala-na-pobedu-traktor-v-overtajme-dozhal-torpedo-video/",
-          "source": "Прессбол"
+          "url": "https://sport5.by/news/hockey/kkhl/Traktor-sovershil-kambek-v-matche-KKHL-protiv-Torpedo/",
+          "source": "Sport5.by"
         },
         {
           "title": "«Трактор» дома обыграл «Торпедо»",
@@ -230,13 +230,13 @@
       "trafficCount": "200+",
       "pubDate": "Fri, 13 Mar 2026 08:10:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGGdttVXGkxb4-B-XdaI8EzVpOqA_AdyV2UWv5I11NUvL0zCsV_nm165BtNkU",
-      "pictureSource": "KHL",
+      "pictureSource": "Континентальная Хоккейная Лига",
       "relatedSearch": [
         {
           "title": "«Металлург» вырвал победу у «Сибири» в овертайме: Новости",
           "snippet": "",
           "url": "https://www.khl.ru/news/2026/03/13/559403.html",
-          "source": "KHL"
+          "source": "Континентальная Хоккейная Лига"
         },
         {
           "title": "Матчи КХЛ на 13 марта. СКА — «Северсталь», «Салават Юлаев» — «Динамо-Москва», «Спартак» — «Амур» и другие встречи",
@@ -267,16 +267,16 @@
           "source": "Беларусь сегодня"
         },
         {
-          "title": "Стала известна причина смерти актера Скромного из «Приключений Электроника»",
-          "snippet": "",
-          "url": "https://kino.mail.ru/news/119022-stala-izvestna-prichina-smerti-aktera-skromnogo-iz-priklyuchenij-elektronika/",
-          "source": "Кино Mail"
-        },
-        {
           "title": "Умер сыгравший Гуся в \"Приключениях Электроника\" Василий Скромный",
           "snippet": "",
           "url": "https://belta.by/world/view/umer-sygravshij-gusja-v-prikljuchenijah-elektronika-vasilij-skromnyj-769377-2026/",
           "source": "БелТА"
+        },
+        {
+          "title": "Не стало актера из «Приключений Электроника» Василия Скромного",
+          "snippet": "",
+          "url": "https://www.kino-teatr.ru/kino/news/y2026/3-13/41045/",
+          "source": "Кино-Театр.Ру"
         }
       ],
       "link": "https://imtaqin.id/"

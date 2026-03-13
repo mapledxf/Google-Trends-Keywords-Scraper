@@ -1,13 +1,47 @@
 {
-  "lastUpdate": "2026-03-13 09:02:48",
+  "lastUpdate": "2026-03-13 09:52:19",
   "data": [
+    {
+      "title": "reabastecimento aéreo",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 13 Mar 2026 02:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_i-f9GID3jQYHIA_Uzc55z51AoGq6SU0VzkwDrMRtojarmL87fDhhoC0FWRU",
+      "pictureSource": "Expresso",
+      "relatedSearch": [
+        {
+          "title": "Avião de reabastecimento dos EUA despenhou-se no Iraque, seis soldados franceses feridos no norte do país",
+          "snippet": "",
+          "url": "https://expresso.pt/medio-oriente/conflito/2026-03-12-petroleo-volta-a-passar-100-dolares-por-barril-trump-diz-que-eua-precisam-de-terminar-o-trabalho-13186b3e",
+          "source": "Expresso"
+        },
+        {
+          "title": "9h António Costa Silva alerta para a gravidade da situação",
+          "snippet": "",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/9h-antonio-costa-silva-alerta-para-a-gravidade-da-situacao_a1_1725960",
+          "source": "RTP"
+        },
+        {
+          "title": "Avião de reabastecimento norte-americano despenha-se no Iraque",
+          "snippet": "",
+          "url": "https://www.cmjornal.pt/mundo/detalhe/aviao-de-reabastecimento-norte-americano-despenha-se-no-iraque",
+          "source": "Correio da Manhã"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "ponte 25 de abril",
       "trafficCount": "200+",
       "pubDate": "Fri, 13 Mar 2026 01:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLYc7xtNlDd-PJj0UY0El3MOygsEX96gBbE7HDj2GGQThKsHUfXHUmpxTEiLw",
-      "pictureSource": "Correio da Manhã",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVz7aMZSQebU9Yol9z5sxnw6xauzGFKzidAk-4qTNgteDFgJLtR6MkxTfvvIs",
+      "pictureSource": "SAPO",
       "relatedSearch": [
+        {
+          "title": "Trânsito normalizado na Ponte 25 de Abril após colisão entre carro e mota",
+          "snippet": "",
+          "url": "https://sapo.pt/artigo/transito-normalizado-na-ponte-25-de-abril-apos-colisao-entre-carro-e-mota-69b3d8b4e4b4028ed2df5627",
+          "source": "SAPO"
+        },
         {
           "title": "Colisão entre carro e mota faz um ferido na Ponte 25 de Abril. Trânsito está cortado",
           "snippet": "",
@@ -53,28 +87,56 @@
     },
     {
       "title": "apartamento",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 13 Mar 2026 01:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmkiQaDmB-BiThGybckHIgG0K--Vc9GHmPt6jPwXMpg4XNbqoLw3e6SgXGndY",
-      "pictureSource": "SAPO",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMIhXzc7ZuVUiI4C2vC-uMxveLr_LbTA6n68qk4JJuOhUaMf1vihHHV3i15M8",
+      "pictureSource": "Correio da Manhã",
       "relatedSearch": [
         {
-          "title": "PJ detém mulher suspeita de incendiar o próprio apartamento em Alcobaça",
+          "title": "Incêndio em apartamento obriga à retirada de todos os moradores de prédio em Albufeira",
           "snippet": "",
-          "url": "https://sapo.pt/artigo/pj-detem-mulher-suspeita-de-incendiar-o-proprio-apartamento-em-alcobaca-69b2f3559009c4d561dbe8db",
-          "source": "SAPO"
-        },
-        {
-          "title": "Mulher incendeia apartamento na véspera de penhora",
-          "snippet": "",
-          "url": "https://www.jn.pt/justica/artigo/mulher-incendeia-apartamento-na-vespera-de-penhora/18061405",
-          "source": "Jornal de Notícias"
-        },
-        {
-          "title": "Mulher ateia as chamas à sua casa porque esta ia ser penhorada, em Alcobaça",
-          "snippet": "",
-          "url": "https://www.cmjornal.pt/portugal/detalhe/mulher-ateia-as-chamas-a-sua-casa-porque-esta-ia-ser-penhorada-em-alcobaca",
+          "url": "https://www.cmjornal.pt/portugal/detalhe/20260312-143021-incendio-em-apartamento-obriga-a-retirada-de-todos-os-moradores-de-predio-em-albufeira",
           "source": "Correio da Manhã"
+        },
+        {
+          "title": "Moradores retirados de prédio em Albufeira devido a incêndio",
+          "snippet": "",
+          "url": "https://postal.pt/algarve/moradores-retirados-de-predio-em-albufeira-devido-a-incendio/",
+          "source": "Postal do Algarve"
+        },
+        {
+          "title": "Princípio de incêndio em apartamento é controlado em Ituiutaba; gato é resgatado durante operação",
+          "snippet": "",
+          "url": "https://v9vitoriosa.com.br/principio-de-incendio-em-apartamento-e-controlado-em-ituiutaba-gato-e-resgatado-durante-operacao",
+          "source": "V9 Vitoriosa"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "previsão do tempo",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 12 Mar 2026 23:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHh5_qpVHFZ8Xv1oeHXqGhuFTt8SFO6vUc2Tef6JeLRI-pOgsS7uhDRHPzhU8",
+      "pictureSource": "Jornal de Mafra",
+      "relatedSearch": [
+        {
+          "title": "Previsão do estado do tempo para 13 de março de 2026",
+          "snippet": "",
+          "url": "https://jornaldemafra.pt/previsao-do-estado-do-tempo-para-13-de-marco-de-2026/",
+          "source": "Jornal de Mafra"
+        },
+        {
+          "title": "Dia: 4 de Março, 2026",
+          "snippet": "",
+          "url": "https://jornaldemafra.pt/2026/03/04/",
+          "source": "Jornal de Mafra"
+        },
+        {
+          "title": "Previsão do estado do tempo para 7 de março de 2026",
+          "snippet": "",
+          "url": "https://jornaldemafra.pt/previsao-do-estado-do-tempo-para-7-de-marco-de-2026/",
+          "source": "Jornal de Mafra"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -83,20 +145,20 @@
       "title": "preço combustíveis próxima semana",
       "trafficCount": "500+",
       "pubDate": "Thu, 12 Mar 2026 23:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSmUwb-fdHxOu0-3CjSpKqLaD2Oxk2-CpE_ku5ca04S6BjApwaMkMeqhQabr2k",
-      "pictureSource": "Expresso",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSB5IQysCJ-FQMQACF0A04aHZCiH1PRcd1GeHiKKlqzY7QsjxyAXL6gZXxoiA",
+      "pictureSource": "Contas Poupança",
       "relatedSearch": [
         {
-          "title": "Depósito de gasóleo está €14 mais caro do que antes da guerra",
+          "title": "Preço dos combustíveis na próxima semana (16 a 22 de março)",
           "snippet": "",
-          "url": "https://expresso.pt/economia/2026-03-12-deposito-de-gasoleo-esta-14-mais-caro-do-que-antes-da-guerra-e446051d",
-          "source": "Expresso"
+          "url": "https://contaspoupanca.pt/carro/combustiveis/2026-03-13-preco-dos-combustiveis-na-proxima-semana--16-a-22-de-marco--52b5f730",
+          "source": "Contas Poupança"
         },
         {
-          "title": "Mesmo se combustíveis não subirem dez cêntimos haverá apoio para a semana",
+          "title": "Portugal está no top 10 dos combustíveis mais caros da Europa",
           "snippet": "",
-          "url": "https://eco.sapo.pt/2026/03/13/mesmo-se-combustiveis-nao-subirem-dez-centimos-havera-apoio-para-a-semana/",
-          "source": "ECO"
+          "url": "https://www.jn.pt/economia/artigo/portugal-esta-no-top-10-dos-combustiveis-mais-caros-da-europa/18061520",
+          "source": "Jornal de Notícias"
         },
         {
           "title": "ANAREC: \"Poderá haver novamente um aumento grande na próxima semana\"",
@@ -155,10 +217,10 @@
           "source": "CNN"
         },
         {
-          "title": "High-end Noma L.A. pop-up will still open despite restaurant abuse controversy - Los Angeles Times",
+          "title": "Noma head chef René Redzepi resigns after abuse allegations and protests",
           "snippet": "",
-          "url": "https://www.latimes.com/food/story/2026-03-09/noma-la-pop-up-still-open-restaurant-abuse-allegations",
-          "source": "Los Angeles Times"
+          "url": "https://www.bbc.com/news/articles/c07jr2pe5j9o",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -179,8 +241,8 @@
         {
           "title": "Neymar desabafa: «É muito difícil ser eu, nossa senhora…»",
           "snippet": "",
-          "url": "https://tvi.iol.pt/noticias/brasil/internacional/neymar-desabafa-e-muito-dificil-ser-eu-nossa-senhora",
-          "source": "TVI"
+          "url": "https://maisfutebol.iol.pt/brasil/internacional/neymar-desabafa-e-muito-dificil-ser-eu-nossa-senhora",
+          "source": "Maisfutebol"
         },
         {
           "title": "Neymar faz parte dos pré-convocados do Brasil",
@@ -211,66 +273,10 @@
           "source": "Vietnam.vn"
         },
         {
-          "title": "Polémica con Mbappé: aparece jugando a los bolos con Ester Expósito durante su recuperación",
+          "title": "Ester Expósito, la actriz que \"golea\" en el corazón de Kylian Mbappé | Reportaje | 55019682197",
           "snippet": "",
-          "url": "https://www.mundodeportivo.com/us/futbol/real-madrid/20260311/1004150636/polemica-mbappe-aparece-jugando-bolos-ester-exposito-recuperacion.html",
-          "source": "Mundo Deportivo"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "rita rato",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 12 Mar 2026 17:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlVmLHrVTU2uMS4aAwpxmeBgWLetgEeJvRQi7501puXIIny0yff6YJDauREOU",
-      "pictureSource": "Público",
-      "relatedSearch": [
-        {
-          "title": "Rita Rato afastada pela EGEAC da direcção do Museu do Aljube",
-          "snippet": "",
-          "url": "https://www.publico.pt/2026/03/12/culturaipsilon/noticia/rita-rato-afastada-egeac-direccao-museu-aljube-2167703",
-          "source": "Público"
-        },
-        {
-          "title": "Rita Rato afastada da direção do Museu do Aljube",
-          "snippet": "",
-          "url": "https://observador.pt/2026/03/12/rita-rato-afastada-da-direcao-do-museu-do-aljube/",
-          "source": "Observador"
-        },
-        {
-          "title": "Estremocense Rita Rato vai sair da direção do Museu do Aljube em Lisboa",
-          "snippet": "",
-          "url": "https://sapo.pt/artigo/estremocense-rita-rato-vai-sair-da-direcao-do-museu-do-aljube-em-lisboa-69b3cb563d53858f445645e8",
-          "source": "SAPO"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "são paulo x chapecoense",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 12 Mar 2026 16:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzW2IqF_ZCnBbbmCixdPiOSZtxoYbEbL1xMkgcPo-PLASaw-cOsl5WCW-DHWQ",
-      "pictureSource": "ge",
-      "relatedSearch": [
-        {
-          "title": "Calleri celebra liderança do São Paulo e manda recado a Crespo: \"Fez muito para chegarmos aqui\"",
-          "snippet": "",
-          "url": "https://ge.globo.com/futebol/times/sao-paulo/noticia/2026/03/12/calleri-celebra-lideranca-do-sao-paulo-e-manda-recado-a-crespo-fez-muito-para-chegarmos-aqui.ghtml",
-          "source": "ge"
-        },
-        {
-          "title": "São Paulo vence Chapecoense na estreia de Roger Machado e assume a liderança do Brasileirão | Esportes | O Liberal",
-          "snippet": "",
-          "url": "https://www.oliberal.com/esportes/sao-paulo-vence-chapecoense-na-estreia-de-roger-machado-e-assume-a-lideranca-do-brasileirao-1.1096343",
-          "source": "O Liberal"
-        },
-        {
-          "title": "DO JEITO QUE ELE GOSTA! Calleri diz adorar jogo com chuva e dedica vitória a Crespo",
-          "snippet": "",
-          "url": "https://onefootball.com/pt-br/noticias/do-jeito-que-ele-gosta-calleri-diz-adorar-jogo-com-chuva-e-dedica-vitoria-a-crespo-42549227",
-          "source": "OneFootball"
+          "url": "https://efs.efeservicios.com/reportaje/ester-exposito-actriz-golea-corazon-kylian-mbappe/55019682197",
+          "source": "EFE Servicios"
         }
       ],
       "link": "https://imtaqin.id/"

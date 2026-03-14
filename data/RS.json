@@ -1,19 +1,13 @@
 {
-  "lastUpdate": "2026-03-14 09:03:03",
+  "lastUpdate": "2026-03-14 09:45:13",
   "data": [
     {
       "title": "vreme",
       "trafficCount": "200+",
       "pubDate": "Fri, 13 Mar 2026 21:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvCq8hGNDVi0kxr0zShOGGtH8Djd_3lKhbS581fIwncb_Z_kly1AeywVk9sjE",
-      "pictureSource": "Danas",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-toek2rmGkgJ5rBEWp3evlJfbeQFZkdOpsyVfE8cjCRXq6kW6fhSgEZk-Dng",
+      "pictureSource": "B92",
       "relatedSearch": [
-        {
-          "title": "Danas pretežno sunčano i toplo",
-          "snippet": "",
-          "url": "https://www.danas.rs/vesti/drustvo/danas-pretezno-suncano-i-toplo-6/",
-          "source": "Danas"
-        },
         {
           "title": "Prolećnih 21 stepen, ali uz olujni vetar",
           "snippet": "",
@@ -25,6 +19,12 @@
           "snippet": "",
           "url": "https://www.rts.rs/lat/vesti/vreme/5905311/vremenska-prognoza-14-mart-2026.html",
           "source": "РТС"
+        },
+        {
+          "title": "U ovom delu Srbije je -3, a onda skok na 21 u plusu! Vremenska prognoza RHMZ",
+          "snippet": "",
+          "url": "https://www.blic.rs/vremenska-prognoza/u-ovom-delu-srbije-je-3-a-onda-skok-na-21-u-plusu-vremenska-prognoza-rhmz/rm6b79e",
+          "source": "Blic"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -49,10 +49,10 @@
           "source": "MSN"
         },
         {
-          "title": "Barça - Hapoel IBI Tel Aviv: Sin romper la racha (75-80)",
+          "title": "El descalabro del Barça no parece tener fin y su futuro ya está amenazado",
           "snippet": "",
-          "url": "https://www.fcbarcelona.es/es/baloncesto/primer-equipo/noticias/4468610/barca-hapoel-ibi-tel-aviv-sin-romper-la-racha-75-80",
-          "source": "FC Barcelona"
+          "url": "https://www.estadiodeportivo.com/baloncesto/euroliga/descalabro-del-barca-parece-tener-fin-futuro-esta-amenazado-20260313-532361.html",
+          "source": "Estadio Deportivo"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,9 +99,9 @@
           "source": "Eurohoops"
         },
         {
-          "title": "Tyson Carter opens up about five-month road back to the court",
+          "title": "Jordan Nwora remains confident despite his shooting slump: 'We are still winning'",
           "snippet": "",
-          "url": "https://basketnews.com/news-242904-tyson-carter-opens-up-about-five-month-road-back-to-the-court.html",
+          "url": "https://basketnews.com/news-243055-jordan-nwora-remains-confident-despite-his-shooting-slump-we-are-still-winning.html",
           "source": "BasketNews.com"
         },
         {
@@ -109,6 +109,34 @@
           "snippet": "",
           "url": "https://www.euroleaguebasketball.net/en/euroleague/videos/crvena-zvezda-meridianbet-belgrade-fenerbahce-beko-istanbul-round-31-highlights-euroleague-2025-26/?feedId=60dee8825eb4fd8da365da78&title=Latest%20videos",
           "source": "Euroleague Basketball"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "euroleague",
+      "trafficCount": "10000+",
+      "pubDate": "Fri, 13 Mar 2026 12:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1PgqKvyuS1c_Rbr04jP-kK9W7LVB69RtlHFYmlUj9_2vGBaEbJvM3IzbZiEs",
+      "pictureSource": "B92",
+      "relatedSearch": [
+        {
+          "title": "Zvezda je pobedila, ali ovaj podatak brine",
+          "snippet": "",
+          "url": "https://www.b92.net/sport/kosarka/euroleague/215762/zvezda-je-pobedila-ali-ovaj-podatak-brine/vest",
+          "source": "B92"
+        },
+        {
+          "title": "Topao, a leden: Batler je igrač kojeg Zvezda mora da zadrži -",
+          "snippet": "",
+          "url": "https://sportklub.n1info.rs/kosarka/euroleague/jared-butler-kk-crvena-zvezda-fenerbahce-ugovor-euroleague-sasa-obradovic-beograd/",
+          "source": "Sportklub"
+        },
+        {
+          "title": "VIDEO Analiza Zvezdinog podviga u Areni, evo kako je šampion Evrope pao po drugi put u sezoni",
+          "snippet": "",
+          "url": "https://nova.rs/sport/evroliga/video-analiza-crvena-zvezda-pobeda-fenerbahce-31-kolo-evrolige/",
+          "source": "Nova.rs"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -133,10 +161,10 @@
           "source": "Metaratings"
         },
         {
-          "title": "Европейский футбол: «Торино» разгромил «Парму», «Марсель» обеспечил себе три очка в концовке матча.",
+          "title": "Чемпионат Италии: «Интер» — «Аталанта», «Наполи» — «Лечче», «Удинезе» — «Ювентус»",
           "snippet": "",
-          "url": "https://www.vietnam.vn/ru/bong-da-chau-au-torino-thang-dam-parma-marseille-gianh-3-diem-muon",
-          "source": "Vietnam.vn"
+          "url": "https://ua.tribuna.com/football/1000000326803-chempionat-italiyi-inter-atalanta-napoli-lechche-udineze/",
+          "source": "Tribuna.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -148,34 +176,6 @@
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "zvezda fenerbahce",
-      "trafficCount": "10000+",
-      "pubDate": "Fri, 13 Mar 2026 12:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1PgqKvyuS1c_Rbr04jP-kK9W7LVB69RtlHFYmlUj9_2vGBaEbJvM3IzbZiEs",
-      "pictureSource": "B92",
-      "relatedSearch": [
-        {
-          "title": "Zvezda je pobedila, ali ovaj podatak brine",
-          "snippet": "",
-          "url": "https://www.b92.net/sport/kosarka/euroleague/215762/zvezda-je-pobedila-ali-ovaj-podatak-brine/vest",
-          "source": "B92"
-        },
-        {
-          "title": "Topao, a leden: Batler je igrač kojeg Zvezda mora da zadrži -",
-          "snippet": "",
-          "url": "https://sportklub.n1info.rs/kosarka/euroleague/jared-butler-kk-crvena-zvezda-fenerbahce-ugovor-euroleague-sasa-obradovic-beograd/",
-          "source": "Sportklub"
-        },
-        {
-          "title": "VIDEO Analiza Zvezdinog podviga u Areni, evo kako je šampion Evrope pao po drugi put u sezoni",
-          "snippet": "",
-          "url": "https://nova.rs/sport/evroliga/video-analiza-crvena-zvezda-pobeda-fenerbahce-31-kolo-evrolige/",
-          "source": "Nova.rs"
-        }
-      ],
       "link": "https://imtaqin.id/"
     },
     {

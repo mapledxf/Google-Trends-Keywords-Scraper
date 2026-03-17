@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2026-03-17 07:40:22",
+  "lastUpdate": "2026-03-17 08:28:44",
   "data": [
     {
-      "title": "카카오뱅크",
-      "trafficCount": "2000+",
-      "pubDate": "Mon, 16 Mar 2026 23:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSniVzWxe9hlvCtGNhtm3TlV8md40zd8x4fwC5P7pGc2R2Ckf4PFnEQR205fU",
-      "pictureSource": "Daum",
+      "title": "공시지가",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 17 Mar 2026 00:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTc77r2X5Jjds35t7JqHfB-aDI_TZKUn08uBk3Sh-4ofX_OYx9efpvR5vrh-5U",
+      "pictureSource": "뉴시스",
       "relatedSearch": [
         {
-          "title": "카카오뱅크, 한때 '대기 인원 10만명' 접속 장애… 30분 만에 복구",
+          "title": "2026 공동주택 공시가격 열람 브리핑",
           "snippet": "",
-          "url": "https://v.daum.net/v/20260317162725889",
-          "source": "Daum"
+          "url": "https://www.newsis.com/view/NISI20260317_0021211447",
+          "source": "뉴시스"
+        },
+        {
+          "title": "공시가격 최상위 주택 10곳 중 9곳이 강남·용산·서초... 1위 325억원",
+          "snippet": "",
+          "url": "https://www.chosun.com/economy/real_estate/2026/03/17/NCM3HBLHYNHQ7B7VABAEQRO26Q/",
+          "source": "조선일보"
+        },
+        {
+          "title": "강남구, 개별공시지가 열람기간 운영…감정평가사 직접 상담",
+          "snippet": "",
+          "url": "https://biz.heraldcorp.com/article/10696439",
+          "source": "헤럴드경제"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "카카오뱅크",
+      "trafficCount": "5000+",
+      "pubDate": "Mon, 16 Mar 2026 23:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgcqpw9NbwBks4RhWNgVSqilYYIh9dyRUukCy_N9uihzUV_bjrLJlAr1_oOcA",
+      "pictureSource": "아주경제",
+      "relatedSearch": [
+        {
+          "title": "[속보] 카카오뱅크 접속 불가… 대기 10만 명·대기시간 3시간 이상",
+          "snippet": "",
+          "url": "https://www.ajunews.com/view/20260317160018713",
+          "source": "아주경제"
+        },
+        {
+          "title": "카카오뱅크 접속 오류 발생…대기 10만명·예상 수시간",
+          "snippet": "",
+          "url": "https://news.mtn.co.kr/news-detail/2026031715445675405",
+          "source": "MTN 머니투데이방송"
         },
         {
           "title": "카카오뱅크 모바일 앱 한때 접속 안 돼…현재 정상화",
           "snippet": "",
           "url": "https://www.yna.co.kr/view/AKR20260317148400002",
           "source": "연합뉴스"
-        },
-        {
-          "title": "카카오뱅크 한때 먹통…대기인원 10만명 달해",
-          "snippet": "",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260317161928vbL",
-          "source": "연합뉴스TV"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -42,26 +70,26 @@
       "title": "운전면허 적성검사",
       "trafficCount": "200+",
       "pubDate": "Mon, 16 Mar 2026 22:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIUEjun4XpClIDmMqMUrf8_3bS74XZi031MSIOhJF7p8FF8hNmtlwFl_kFEG8",
-      "pictureSource": "연합뉴스",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSt72dl0UKl2Rl_fXmwAof7WDHf_7CYI_5inS3b4Q41Cd4ahYmFEWXrQGCH_I",
+      "pictureSource": "한겨레",
       "relatedSearch": [
         {
-          "title": "치매운전자, 적성검사 안 받으면 '원스트라이크 아웃'",
+          "title": "치매 운전자, 5개월마다 테스트 받아야 면허 유지…적성검사 기간 줄인다",
           "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20260317057700004",
-          "source": "연합뉴스"
+          "url": "https://www.hani.co.kr/arti/society/society_general/1249699.html",
+          "source": "한겨레"
         },
         {
-          "title": "치매 운전자 사고 막는다…면허 적성검사 10→5.5개월 단축",
+          "title": "‘치매 운전자’ 수시 적성검사 강화…“검사 안받으면 ‘원스트라이크 아웃’”",
           "snippet": "",
-          "url": "https://www.newsis.com/view/NISX20260317_0003551229",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8510649",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "도로교통공단, 운전자 수시 적성검사…'교통안전 확보'",
+          "snippet": "",
+          "url": "https://www.newsis.com/view/NISX20260317_0003551910",
           "source": "뉴시스"
-        },
-        {
-          "title": "수시 적성검사 개선…'고위험 운전자' 면허 관리 강화",
-          "snippet": "",
-          "url": "https://v.daum.net/v/20260317120242148",
-          "source": "Daum"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -98,20 +126,20 @@
       "title": "이휘재",
       "trafficCount": "500+",
       "pubDate": "Mon, 16 Mar 2026 21:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSlBLIb1xBrzoSEwY3cy4h_OeMfGKJx5xDfK96nqYzGtlh9dKtlTQjLEob90Wo",
-      "pictureSource": "조선일보",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7UdzWq3VHkA2-b7PQWYweRbI_hY18It-UxSR8zgkmRNlXE6vJ9v_0MoyfJQ4",
+      "pictureSource": "Daum",
       "relatedSearch": [
         {
-          "title": "이휘재, 4년 만에 방송 복귀 현장서 눈물?",
+          "title": "[단독]이휘재, 본 무대서도 울었다..4년 만 복귀→캐나다 대신 韓 체류 [종합]",
           "snippet": "",
-          "url": "https://www.chosun.com/entertainments/2026/03/17/QAWSW6SPMZFU5LCDTUIOPPUXQI/",
-          "source": "조선일보"
+          "url": "https://v.daum.net/v/20260317163901464",
+          "source": "Daum"
         },
         {
-          "title": "“범죄자도 아닌데…” 이휘재 복귀 무대서 ‘눈물’, 쏟아진 응원",
+          "title": "'은퇴설' 이휘재, 4년 만에 방송 복귀 어땠나…\"'불후' 리허설 중에 울컥한 모습도\" [SC이슈]",
           "snippet": "",
-          "url": "https://v.daum.net/v/20260317121409547?f=p",
-          "source": "Daum"
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/03/17/GBRDOOJQGZRGCMLBMJRTKMBWME/",
+          "source": "조선일보"
         },
         {
           "title": "‘복귀 시동부터 논란’ 취재진 피해 조용히 들어갔다…이휘재, 반응은 싸늘",
@@ -132,20 +160,20 @@
         {
           "title": "\"4억4500만원↑전액 지급\" 이장우, 식당 미수금 논란에 이체 내역 공개 '초강수'[종합]",
           "snippet": "",
-          "url": "https://v.daum.net/v/20260317152802423?f=m",
+          "url": "https://v.daum.net/v/20260317152802423",
           "source": "Daum"
         },
         {
-          "title": "[전문] 이장우 측 \"4000만원대 대금 미지급? 사실NO 이미 거래처에 지급\"",
+          "title": "\"이장우 자랑한 순댓국집, 식자재 대금 미지급 의혹\"",
           "snippet": "",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/03/17/HE3TMN3GGRSWCYJUMIYTCOJQGY/",
-          "source": "조선일보"
+          "url": "https://www.newsis.com/view/NISX20260317_0003550768",
+          "source": "뉴시스"
         },
         {
-          "title": "이장우, 식자재 ‘미정산 의혹’에 “대금 4억4500만 원 이미 지급” 내역 공개",
+          "title": "이장우, 순대국집 식자재 미정산 논란…결혼 4개월 만에 구설수",
           "snippet": "",
-          "url": "https://www.munhwa.com/article/11575226",
-          "source": "문화일보"
+          "url": "https://news.tvchosun.com/site/data/html_dir/2026/03/17/2026031790114.html",
+          "source": "TV조선뉴스"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -154,15 +182,9 @@
       "title": "박수민",
       "trafficCount": "1000+",
       "pubDate": "Mon, 16 Mar 2026 20:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR22iuwSWBa7MYnqHTntNHmePDAs-WPsrqH4dGn-xMboy_SrkqKR5RLlYdtoD8",
-      "pictureSource": "한겨레",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWc4zSU39T1y7W61ToCRZzPZtNcq6_PokinVSKAgCzwLLtjZoW0Mme0uTvDlo",
+      "pictureSource": "MBC 뉴스",
       "relatedSearch": [
-        {
-          "title": "[속보] 오세훈 서울시장 후보 등록…“최전방 사령관의 마음”",
-          "snippet": "",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1249722.html",
-          "source": "한겨레"
-        },
         {
           "title": "오세훈 \"선당후사의 정신으로 서울시장 공천 후보 등록‥혁신선대위 관철하겠다\"",
           "snippet": "",
@@ -170,10 +192,44 @@
           "source": "MBC 뉴스"
         },
         {
-          "title": "[속보]오세훈 “서울시장 출마, 오늘 후보등록 한다”…‘절윤 요구’ 관철 못한 채 출마",
+          "title": "국힘 박수민 “지루한 국면 서울시장 출마로 깨겠다…장동혁, 변화 소명 다 못 해”",
           "snippet": "",
-          "url": "https://www.khan.co.kr/article/202603171501001",
-          "source": "경향신문"
+          "url": "https://v.daum.net/v/20260317170945999",
+          "source": "Daum"
+        },
+        {
+          "title": "[속보] 오세훈 “서울시장 후보 등록하겠다... 張 지도부는 무능·무책임”",
+          "snippet": "",
+          "url": "https://www.chosun.com/politics/politics_general/2026/03/17/HYHJU5URYFHXFGWX5MY3DB4PCQ/",
+          "source": "조선일보"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "로버트 패틴슨",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 16 Mar 2026 20:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnGxdygZjxHhxhukhBvg_913hMD_x7cjf0vdfHEzkCPvB6V3RoTvoG23ye2qs",
+      "pictureSource": "GQ korea",
+      "relatedSearch": [
+        {
+          "title": "정체불명의 신형 시계, 로버트 패틴슨이 오스카에서 살짝 공개한 골드 워치",
+          "snippet": "",
+          "url": "https://www.gqkorea.co.kr/2026/03/17/%EC%A0%95%EC%B2%B4%EB%B6%88%EB%AA%85%EC%9D%98-%EC%8B%A0%ED%98%95-%EC%8B%9C%EA%B3%84-%EB%A1%9C%EB%B2%84%ED%8A%B8-%ED%8C%A8%ED%8B%B4%EC%8A%A8%EC%9D%B4-%EC%98%A4%EC%8A%A4%EC%B9%B4%EC%97%90%EC%84%9C/",
+          "source": "GQ korea"
+        },
+        {
+          "title": "사랑이 끝난 자리의 공허…'다이 마이 러브'가 남긴 잔상",
+          "snippet": "",
+          "url": "https://news.nate.com/view/20260317n31150",
+          "source": "네이트"
+        },
+        {
+          "title": "[오동진의 언제나 영화처럼] 당신의 연인이 이젠 그만, 이라고 말할 때",
+          "snippet": "",
+          "url": "https://www.kgnews.co.kr/news/article.html?no=887573",
+          "source": "경기신문"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -192,71 +248,15 @@
           "source": "조선일보"
         },
         {
-          "title": "베네수엘라, 이탈리아 꺾고 WBC 결승 첫 진출…미국과 ‘마두로 매치’",
-          "snippet": "",
-          "url": "https://www.donga.com/news/Sports/article/all/20260317/133547152/1",
-          "source": "동아일보"
-        },
-        {
           "title": "베네수엘라 WBC 첫 결승 진출…자국 대통령 축출한 미국과 격돌",
           "snippet": "",
           "url": "https://www.yna.co.kr/view/AKR20260317094200007",
           "source": "연합뉴스"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "9호선",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 16 Mar 2026 19:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxCGa0gyf3wNmyQsTI_slzQcM4d4xDn2B_fKTtv3CZ4_iAZRWuwc3H0mT_fNI",
-      "pictureSource": "MBC 뉴스",
-      "relatedSearch": [
-        {
-          "title": "서울 지하철 9호선 전 구간 급행열차 중단‥\"관제센터 신호 장애\"",
-          "snippet": "",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6808055_36918.html",
-          "source": "MBC 뉴스"
         },
         {
-          "title": "서울 지하철 9호선 40여분 신호장애…급행 미운행",
+          "title": "[WBC] 베네수엘라, 준결승 이탈리아전 역전승‥내일 미국과 결승전",
           "snippet": "",
-          "url": "https://v.daum.net/v/20260317115126651",
-          "source": "Daum"
-        },
-        {
-          "title": "[현장영상] 서울지하철 9호선 급행열차 2시간 중단…“신호 장애”",
-          "snippet": "",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8510532",
-          "source": "KBS 뉴스"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "김영환 충북지사",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 16 Mar 2026 19:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWBl9sZ2PBUCKEaITOYR-cUFg9jP3MqaJhL53q7MtamUnbpfgIEhWSKo8X2B0",
-      "pictureSource": "조선일보",
-      "relatedSearch": [
-        {
-          "title": "국민의힘 “부산시장 후보 경선 진행”... 당내 반발에 공관위 입장 변경",
-          "snippet": "",
-          "url": "https://www.chosun.com/politics/assembly/2026/03/17/KBLGXD3OHFC3RL2MLXREJHTKEY/",
-          "source": "조선일보"
-        },
-        {
-          "title": "국힘 충북지사 주자들 \"특정인 염두에 둔 컷오프는 수용못해\"",
-          "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20260317134800064",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "경찰, 김영환 충북도지사 '뇌물 혐의' 구속영장 신청",
-          "snippet": "",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6808035_36918.html",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6808076_36946.html",
           "source": "MBC 뉴스"
         }
       ],

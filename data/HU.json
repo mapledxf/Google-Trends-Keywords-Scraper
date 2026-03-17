@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2026-03-17 05:36:35",
+  "lastUpdate": "2026-03-17 06:41:28",
   "data": [
     {
+      "title": "weather",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 16 Mar 2026 23:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrl1YgQbGcBTUdpW5uTWvgYAVHKTk3LP8xIKPlaClVBer8wXeloD0wTZ48dn8",
+      "pictureSource": "Pittsburgh Post-Gazette",
+      "relatedSearch": [
+        {
+          "title": "How the rapid barometric pressure changes during erratic weather can wreak havoc on our health",
+          "snippet": "",
+          "url": "https://www.post-gazette.com/news/health/2026/03/13/barometric-pressure-health-effects/stories/202603130003",
+          "source": "Pittsburgh Post-Gazette"
+        },
+        {
+          "title": "Kentucky health experts explain the impact of drastic weather swings",
+          "snippet": "",
+          "url": "https://fox56news.com/news/kentucky/kentucky-health-experts-explain-the-impact-of-drastic-weather-swings/",
+          "source": "FOX 56 News"
+        },
+        {
+          "title": "March weather swings triggering sinus problems, allergies, doctor says",
+          "snippet": "",
+          "url": "https://www.wkyt.com/2026/03/11/march-weather-swings-triggering-sinus-problems-allergies-doctor-says/",
+          "source": "WKYT"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "trump nato",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 16 Mar 2026 21:50:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSY1v_L2FFPgLd6TOO5RLvuOuxSLzG4S-yxZUzVLlvjDd61J9KllW-oXuR0BeM",
       "pictureSource": "The New York Times",
@@ -15,16 +43,16 @@
           "source": "The New York Times"
         },
         {
-          "title": "Live updates: Iran war; Trump criticizes allies who rebuffed his calls to help secure Strait of Hormuz",
+          "title": "Trump Is Learning That His Bullying Has Consequences",
           "snippet": "",
-          "url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-17-26",
-          "source": "CNN"
+          "url": "https://www.theatlantic.com/national-security/2026/03/trump-nato-allies-strait-of-hormuz-assistance/686408/",
+          "source": "The Atlantic"
         },
         {
-          "title": "Iran war live: Israel launches new attacks across Lebanon and Tehran",
+          "title": "Oil jumps over 2% as doubts linger over U.S.-backed plan to protect Strait of Hormuz shipping",
           "snippet": "",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/3/17/iran-war-live-trump-scolds-allies-for-not-joining-strait-of-hormuz-mission",
-          "source": "Al Jazeera"
+          "url": "https://www.cnbc.com/2026/03/17/oil-prices-wti-brent-hormuz-coalition-shipping-trump.html",
+          "source": "CNBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,9 +61,15 @@
       "title": "séfek séfe 2026",
       "trafficCount": "100+",
       "pubDate": "Mon, 16 Mar 2026 21:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ezNORtnBELLBi69urjjLISEaWqJPKqvn8n6_TtiOCptBa4WgB8gGGOZYvXI",
-      "pictureSource": "Hírstart",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJZ1vB4b8RYYUvoPGsWYo1wANCVL0WUvVHvyXyfCSn13iE726ub-MmYu-HHK0",
+      "pictureSource": "ORIGO",
       "relatedSearch": [
+        {
+          "title": "Döbbenet a stúdióban: bizarr jelenetek játszódtak le a Séfek séfében",
+          "snippet": "",
+          "url": "https://www.origo.hu/teve/2026/03/sefek-sefe-tv2-szontag-rita-kieso",
+          "source": "ORIGO"
+        },
         {
           "title": "\"Hazaküldelek!\" – Vietnámiul szidta csapattársát a Séfek séfe versenyzője, eluralkodott a káosz a konyhában",
           "snippet": "",
@@ -47,12 +81,6 @@
           "snippet": "",
           "url": "https://www.blikk.hu/sztarvilag/hazai-sztarok/vietnam-sefek-sefe-fozes/xsrqndl",
           "source": "Blikk"
-        },
-        {
-          "title": "Döbbenet a stúdióban: bizarr jelenetek játszódtak le a Séfek séfében",
-          "snippet": "",
-          "url": "https://www.origo.hu/teve/2026/03/sefek-sefe-tv2-szontag-rita-kieso",
-          "source": "ORIGO"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,16 +127,16 @@
           "source": "Digital Foundry"
         },
         {
-          "title": "Nvidia Hopes Multi-Frame Gen Will Finally Make Sense on Its GPUs",
-          "snippet": "",
-          "url": "https://gizmodo.com/nvidia-hopes-multi-frame-gen-will-finally-make-sense-on-its-gpus-2000731994",
-          "source": "Gizmodo"
-        },
-        {
           "title": "Everyone's Laughing At The New Look Of DLSS 5's \"Yassify Filter\"",
           "snippet": "",
           "url": "https://www.gamespot.com/articles/everyones-laughing-at-the-new-look-of-dlss-5s-yassify-filter/1100-6538821/",
           "source": "GameSpot"
+        },
+        {
+          "title": "Starfield and ‘Future Bethesda Titles’ Will Use AI-Driven DLSS 5 Technology",
+          "snippet": "",
+          "url": "https://insider-gaming.com/starfield-future-bethesda-use-dlss-5-technology/",
+          "source": "Insider Gaming"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,28 +145,9 @@
       "title": "rendszámcsere",
       "trafficCount": "1000+",
       "pubDate": "Mon, 16 Mar 2026 12:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZMtv7lp63zEXxU-FVLK9T2eF_IZgkUs83L0ry56lvJL0pUPdna93bBEbkBGw",
-      "pictureSource": "Pénzcentrum",
-      "relatedSearch": [
-        {
-          "title": "Jön a kötelező rendszámcsere: közeleg a határidő, rengeteg magyar kocsiját vonhatják ki a forgalomból?",
-          "snippet": "",
-          "url": "https://www.penzcentrum.hu/auto/20260316/jon-a-kotelezo-rendszamcsere-kozeleg-a-hatarido-rengeteg-magyar-kocsijat-vonhatjak-ki-a-forgalombol-1195376",
-          "source": "Pénzcentrum"
-        },
-        {
-          "title": "Elfehérednek a rendszámok ettől a módosítástól",
-          "snippet": "",
-          "url": "https://infostart.hu/belfold/2026/03/17/elfeherednek-a-rendszamok-ettol-a-modositastol",
-          "source": "Infostart"
-        },
-        {
-          "title": "Kötelező rendszámcsere jön több tízezer autósnak: a pénztárcád bánhatja, ha nem figyelsz erre",
-          "snippet": "",
-          "url": "https://femina.hu/terasz/rendszam-csere/",
-          "source": "Femina.hu"
-        }
-      ],
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -173,9 +182,15 @@
       "title": "rayo–levante",
       "trafficCount": "1000+",
       "pubDate": "Mon, 16 Mar 2026 12:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjRHKHN_7hHc5ZCr2jCmYgE5fCu40VzqW-I9b5zeNY9HOCxQ1ZCBPRZcYsqcA",
-      "pictureSource": "EL PAÍS",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS0Pa3cQNqUiTdpyVHC2MIDsxu_10-u_ndoodm1Z2x8OTYycb-jKG9seeO-JC0",
+      "pictureSource": "OneFootball",
       "relatedSearch": [
+        {
+          "title": "Pathé Ciss vale una permanencia",
+          "snippet": "",
+          "url": "https://onefootball.com/es/noticias/pathe-ciss-vale-una-permanencia-42569342",
+          "source": "OneFootball"
+        },
         {
           "title": "El Levante se deja dos puntos de oro en Vallecas ante un Rayo con diez",
           "snippet": "",
@@ -187,12 +202,6 @@
           "snippet": "",
           "url": "https://matagigantes.net/rayo-vallecano/cronica/rayo-levante-j28-laliga-2025-26/",
           "source": "Matagigantes"
-        },
-        {
-          "title": "La mano de Pathé Ciss que se fuma el VAR y le birla dos puntos al Levante",
-          "snippet": "",
-          "url": "https://www.libertaddigital.com/deportes/liga/2026-03-16/la-mano-de-pathe-ciss-que-se-fuma-el-var-y-le-birla-dos-puntos-al-levante-7375436/",
-          "source": "Libertad Digital"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +258,6 @@
           "snippet": "",
           "url": "https://mmonline.hu/cikk/egy-musor-megelozte-a-nagy-duettet/",
           "source": "MMOnline"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "brentford–wolverhampton",
-      "trafficCount": "5000+",
-      "pubDate": "Mon, 16 Mar 2026 12:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIKArkVbDcDYk3zXRFyuT2mDNMuoswQgGuj-WWKtuc0lucNpKKT-BsYLDj5cU",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Wolverhampton Wanderers",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cwyge2ln2n7t",
-          "source": "BBC"
-        },
-        {
-          "title": "Bees miss chance to sting Wolves",
-          "snippet": "",
-          "url": "https://www.beinsports.com/en-nz/football/premier-league/articles-video/bees-miss-chance-to-sting-wolves-2026-03-16",
-          "source": "beIN SPORTS"
-        },
-        {
-          "title": "'Frustrated' Andrews fumes at Brentford's second-half display in draw with Wolves",
-          "snippet": "",
-          "url": "https://sporty.com/news/frustrated-andrews-fumes-at-brentfords-second-half-display-in-draw-with-wolves/15j54hwg3nqkh1v8jh2c48l59s",
-          "source": "SportyTV"
         }
       ],
       "link": "https://imtaqin.id/"

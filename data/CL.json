@@ -1,9 +1,65 @@
 {
-  "lastUpdate": "2026-03-20 09:31:12",
+  "lastUpdate": "2026-03-20 10:06:55",
   "data": [
     {
-      "title": "clima santiago",
+      "title": "weather",
       "trafficCount": "200+",
+      "pubDate": "Fri, 20 Mar 2026 02:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaqFeHLE7SF5UPmnicInMJdnh5U7SOFx-48Mvu4NOVbtrmUG97h1nLBqmTMHY",
+      "pictureSource": "TMJ4 News",
+      "relatedSearch": [
+        {
+          "title": "Southeast Wisconsin weather: Quiet last day of winter, start to spring",
+          "snippet": "",
+          "url": "https://www.tmj4.com/weather/forecast/todays-forecast/southeast-wisconsin-weather-melting-snow-into-the-weekend",
+          "source": "TMJ4 News"
+        },
+        {
+          "title": "Warming Into the Weekend, Light Rain Chances Late🌤️",
+          "snippet": "",
+          "url": "https://www.wmtv15news.com/2026/03/19/warming-into-weekend-light-rain-chances-late/",
+          "source": "WMTV 15 NEWS"
+        },
+        {
+          "title": "Warming up and melting down",
+          "snippet": "",
+          "url": "https://www.wkow.com/weather/forecast/warming-up-and-melting-down/article_e546a73c-920b-4e28-a04b-bf10c0fc2b8f.html",
+          "source": "WKOW"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tiempo",
+      "trafficCount": "200000+",
+      "pubDate": "Fri, 20 Mar 2026 02:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEl0SJesuxD8bpHzAi2S50tfQv_ytyG6E8JxsnEwDcSCCh9bzFbK_CxMK3QPY",
+      "pictureSource": "BioBioChile",
+      "relatedSearch": [
+        {
+          "title": "El fin del verano: Santiago recibirá el otoño con el regreso de lluvias de hasta 20 milímetros",
+          "snippet": "",
+          "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/03/19/el-fin-del-verano-santiago-recibira-el-otono-con-el-regreso-de-lluvias-de-hasta-20-milimetros.shtml",
+          "source": "BioBioChile"
+        },
+        {
+          "title": "A qué hora comienza la lluvia hoy en la Región Metropolitana",
+          "snippet": "",
+          "url": "https://www.latercera.com/tendencias/noticia/a-que-hora-comienza-la-lluvia-hoy-en-la-region-metropolitana/",
+          "source": "La Tercera"
+        },
+        {
+          "title": "\"Lloverá 3 días seguidos\": Meteored pronostica unos 40 mm en estas regiones de Chile centro-sur para el fin de semana",
+          "snippet": "",
+          "url": "https://www.meteored.cl/noticias/prediccion/llovera-3-dias-seguidos-meteored-pronostica-unos-40-mm-en-estas-regiones-de-chile-centro-sur-para-el-fin-de-semana.html",
+          "source": "Meteored Chile"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "clima santiago",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 20 Mar 2026 01:50:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQK1dkIA82jzAOye2hol4WLjiTIP_wgfvS9ffNExVITXcAcrjAPSxxBFdMmayM",
       "pictureSource": "En Cancha",
@@ -25,30 +81,11 @@
     },
     {
       "title": "clima hoy",
-      "trafficCount": "100+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 20 Mar 2026 01:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuBuggHYPqqdH7TulqM7nA0kuCIWjGlXRw077ojVbVW185ZqVFkKyt6uLgrgA",
-      "pictureSource": "Perfil",
-      "relatedSearch": [
-        {
-          "title": "Cómo estará el clima hoy jueves 19 de marzo en Ciudad de Buenos Aires",
-          "snippet": "",
-          "url": "https://www.perfil.com/noticias/clima/sin-alertas-en-el-amba-pero-el-calor-no-da-tregua-y-la-humedad-sera-protagonista-a35.phtml",
-          "source": "Perfil"
-        },
-        {
-          "title": "Clima hoy en Buenos Aires: malas noticias del pronóstico del tiempo para este viernes 20 de marzo",
-          "snippet": "",
-          "url": "https://noticiasargentinas.com/sociedad/clima-hoy-en-buenos-aires--malas-noticias-del-pronostico-del-tiempo-para-este-viernes-20-de-marzo_a69bcb73bc331fb2518cf98b8",
-          "source": "Agencia Noticias Argentinas"
-        },
-        {
-          "title": "Clima en el AMBA: Estabilidad y sol antes del regreso de las lluvias para el fin de semana largo",
-          "snippet": "",
-          "url": "https://sinfiltro.ar/clima-en-el-amba-estabilidad-y-sol-antes-del-regreso-de-las-lluvias-para-el-fin-de-semana-largo/",
-          "source": "Sinfiltro.ar"
-        }
-      ],
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -59,22 +96,22 @@
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "BTS 2026: Seoul braces for the Army as band returns",
+          "title": "BTS Arirang: Seoul braces for the Army as K-pop band returns",
           "snippet": "",
           "url": "https://www.bbc.com/news/articles/cge0dyjwezgo",
           "source": "BBC"
         },
         {
-          "title": "BTS concert in South Korea to herald stream of live events, Netflix says",
+          "title": "BTS fans share their expectations for Gwanghwamun comeback concert",
           "snippet": "",
-          "url": "https://www.reuters.com/business/media-telecom/netflix-sees-more-prospects-live-events-south-korea-2026-03-20/",
-          "source": "Reuters"
+          "url": "https://www.yahoo.com/entertainment/videos/bts-fans-share-expectations-gwanghwamun-092630081.html",
+          "source": "Yahoo"
         },
         {
-          "title": "BTS Is Back—And Expected To Shatter These Music Industry Records",
+          "title": "As BTS Returns From the Military, There’s a Precedent: Elvis",
           "snippet": "",
-          "url": "https://www.forbes.com/sites/maryroeloffs/2026/03/19/bts-is-back-and-expected-to-shatter-these-music-industry-records/",
-          "source": "Forbes"
+          "url": "https://www.nytimes.com/2026/03/19/arts/music/bts-elvis-presley-military-service.html",
+          "source": "The New York Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -83,26 +120,26 @@
       "title": "lili reinhart",
       "trafficCount": "500+",
       "pubDate": "Thu, 19 Mar 2026 21:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaLcExJRdMLzArFGMMqf7MHttStJRrKbfA_fCpSXuuP-sPFbetFAaq_RPW73A",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3l3N0nvZyZ0iDDKpMmuW83Ks1_GvdwIRPY9Re5Jhol0I31_Dizzd01pMNgAE",
+      "pictureSource": "CNN",
       "relatedSearch": [
+        {
+          "title": "BTS drops first album after break for military service",
+          "snippet": "",
+          "url": "https://www.cnn.com/2026/03/20/world/video/bts-new-album-hanako-montgomery-032003aseg2cnni-world-fast",
+          "source": "CNN"
+        },
+        {
+          "title": "What To Know About the BTS Comeback Concert Streaming Live on Netflix",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2026/03/20/world/asia/bts-concert-kpop-netflix-seoul.html",
+          "source": "The New York Times"
+        },
         {
           "title": "BTS Arirang review: K-pop idols rekindle their fire",
           "snippet": "",
           "url": "https://www.bbc.com/news/articles/c070eg32dryo",
           "source": "BBC"
-        },
-        {
-          "title": "This A-Lister Stars in BTS’s SWIM Video From New Album ‘Arirang’",
-          "snippet": "",
-          "url": "https://www.yahoo.com/entertainment/music/articles/lister-stars-bts-swim-video-090600837.html",
-          "source": "Yahoo"
-        },
-        {
-          "title": "Lili Reinhart Sets Sail With BTS in the K-pop Group’s New Music Video for “Swim”",
-          "snippet": "",
-          "url": "https://www.hollywoodreporter.com/music/music-news/lili-reinhart-bts-arirang-swim-music-video-1236542085/",
-          "source": "The Hollywood Reporter"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -177,16 +214,16 @@
           "source": "Emol"
         },
         {
+          "title": "Otro golpe al bolsillo: experto advierte nueva alza en precio de la parafina y de la cadena productiva",
+          "snippet": "",
+          "url": "https://www.biobiochile.cl/biobiotv/programas/expreso-bio-bio/2026/03/19/otro-golpe-al-bolsillo-experto-advierte-nueva-alza-en-precio-de-la-parafina-y-de-la-cadena-productiva.shtml",
+          "source": "BioBioChile"
+        },
+        {
           "title": "Precio de la bencina esta semana: revisa cuando aumentan los combustibles a partir de este jueves",
           "snippet": "",
           "url": "https://www.elmostrador.cl/datos-utiles/2026/03/19/precio-de-la-bencina-esta-semana-revisa-cuando-aumentan-los-combustibles-a-partir-de-este-jueves/",
           "source": "El Mostrador"
-        },
-        {
-          "title": "La parafina sube $107; Matthei pide proteger patrimonio natural tras retiro de decretos ambientales, y Gasco anuncia compensación para familias de fallecidos en la explosión en Renca",
-          "snippet": "",
-          "url": "https://www.ciperchile.cl/2026/03/18/radar-18-03-2026/",
-          "source": "- CIPER Chile"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -195,15 +232,9 @@
       "title": "suns - spurs",
       "trafficCount": "100+",
       "pubDate": "Thu, 19 Mar 2026 19:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfiTv8LJkU5CwIMuNCQuNgE8rgcy2TI8cXyd_UbhwmL8gyQ-xSMtOcSUC_7NM",
-      "pictureSource": "Sofascore",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOh5i-lT5vdcdXHFNvRkGOHF0KoWvUEjnGEBAXxqh9wKRAucUUb0UbGczhhXw",
+      "pictureSource": "Air Alamo",
       "relatedSearch": [
-        {
-          "title": "Wembanyama drops 34 as Spurs edge Suns 101-100",
-          "snippet": "",
-          "url": "https://www.sofascore.com/news/victor-wembanyama-leads-spurs-past-suns-with-34-points-in-101-100-win/",
-          "source": "Sofascore"
-        },
         {
           "title": "Wembanyama just sent a deafening warning shot the NBA better hear",
           "snippet": "",
@@ -211,66 +242,16 @@
           "source": "Air Alamo"
         },
         {
-          "title": "Wembanyama’s game winner downs Suns and sends Spurs to playoffs",
+          "title": "Victor Wembanyama's late hoop caps Spurs' rally vs. Suns",
           "snippet": "",
-          "url": "https://www.poundingtherock.com/game-recaps/97764/wembanyamas-game-winner-sends-spurs-to-playoffs-down-suns-in-thriller",
-          "source": "Pounding The Rock"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "stevie young ac dc",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 19 Mar 2026 18:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2-lb1gOlh0OsBrGzkqkUVWTflezwDpXt86SPwzfw_zJK7G50k82QcEw5Q9uc",
-      "pictureSource": "Reuters",
-      "relatedSearch": [
-        {
-          "title": "AC/DC guitarist Stevie Young hospitalized in Buenos Aires",
-          "snippet": "",
-          "url": "https://www.reuters.com/business/media-telecom/acdc-guitarist-stevie-young-hospitalized-buenos-aires-2026-03-19/",
+          "url": "https://www.reuters.com/sports/basketball/victor-wembanyamas-late-hoop-caps-spurs-rally-vs-suns--flm-2026-03-20/",
           "source": "Reuters"
         },
         {
-          "title": "AC/DC guitarist Stevie Young hospitalised ahead of Buenos Aires concerts",
+          "title": "The San Antonio Spurs of the National Basketball Association (NBA) have confirmed their advance to t..",
           "snippet": "",
-          "url": "https://www.theguardian.com/music/2026/mar/20/stevie-young-hospital-acdc-guitarist-buenos-aires-argentina",
-          "source": "The Guardian"
-        },
-        {
-          "title": "\"He is undergoing ​a full battery of tests\": AC/DC's Stevie Young hospitalised in Argentina",
-          "snippet": "",
-          "url": "https://www.loudersound.com/music/ac-dcs-stevie-young-hospitalised-in-argentina",
-          "source": "Louder"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "val kilmer",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 19 Mar 2026 18:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBKtOqB29F7gCMBRwIziSqSa5mxYBTmj0MaX6jyQO7n4ptiAW3Evap5_vnG-w",
-      "pictureSource": "The New York Times",
-      "relatedSearch": [
-        {
-          "title": "AI Replica of Val Kilmer to Appear in ‘As Deep as the Grave’",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2026/03/18/movies/val-kilmer-ai-movie.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "AI-rendered version of late actor Val Kilmer set to star in new film",
-          "snippet": "",
-          "url": "https://www.yahoo.com/entertainment/movies/articles/ai-rendered-version-actor-val-090000165.html",
-          "source": "Yahoo"
-        },
-        {
-          "title": "Val Kilmer Resurrected by AI to Star in ‘As Deep as the Grave’ Movie — First Look (EXCLUSIVE)",
-          "snippet": "",
-          "url": "https://variety.com/2026/film/news/val-kilmer-ai-film-as-deep-as-the-grave-1236691042/",
-          "source": "Variety"
+          "url": "https://www.mk.co.kr/en/sports/11993635",
+          "source": "매일경제"
         }
       ],
       "link": "https://imtaqin.id/"

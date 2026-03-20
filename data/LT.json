@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2026-03-20 18:37:56",
+  "lastUpdate": "2026-03-20 19:24:03",
   "data": [
     {
-      "title": "tv3",
+      "title": "weather tomorrow",
       "trafficCount": "500+",
+      "pubDate": "Fri, 20 Mar 2026 11:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJzZXKH_KYkfWk6FOMIaJVsVoiY0MhUSy6jQKQFiIsTXNDabwwJd1Xf-Q1ObY",
+      "pictureSource": "NBC News",
+      "relatedSearch": [
+        {
+          "title": "Heat records topple as the West bakes",
+          "snippet": "",
+          "url": "https://www.nbcnews.com/weather/heat/heat-wave-record-temperatures-california-arizona-rcna264343",
+          "source": "NBC News"
+        },
+        {
+          "title": "Arizona desert town breaks record for hottest March temperature in US history",
+          "snippet": "",
+          "url": "https://www.theguardian.com/us-news/2026/mar/20/arizona-march-temperature-record",
+          "source": "The Guardian"
+        },
+        {
+          "title": "First Alert Weather Day: Phoenix breaks record with earliest 105-degree day",
+          "snippet": "",
+          "url": "https://www.azfamily.com/2026/03/19/first-alert-weather-day-phoenix-breaks-record-with-earliest-105-degree-day/",
+          "source": "AZ Family"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tv3",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 20 Mar 2026 10:50:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsZk1iISwGATtjQ85pbVK5a6yPIYLx8r_tgCHuwDriP3jjADHrD6spLx2daD0",
       "pictureSource": "15min.lt",
@@ -30,36 +58,8 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "tv3 play",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 20 Mar 2026 10:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAhk41xhQMXyhwPAlM4XmaLWS0PM-uE53jb5EURFgnVY_j4qMISn18AUGqiyM",
-      "pictureSource": "Delfi",
-      "relatedSearch": [
-        {
-          "title": "Chucko Norriso palikimas – amžiams: turto vertė, dvi žmonos ir rančoje veikiantis verslas",
-          "snippet": "",
-          "url": "https://www.delfi.lt/veidai/uzsienio-zvaigzdes/chucko-norriso-palikimas-amziams-turto-verte-dvi-zmonos-ir-rancoje-veikiantis-verslas-120226726",
-          "source": "Delfi"
-        },
-        {
-          "title": "Norrisą prisimenant: tėvo priklausomybė, dėl žmonos nutraukta karjera ir atrasta dukra",
-          "snippet": "",
-          "url": "https://www.lrt.lt/naujienos/laisvalaikis/13/2873475/norrisa-prisimenant-tevo-priklausomybe-del-zmonos-nutraukta-karjera-ir-atrasta-dukra",
-          "source": "LRT"
-        },
-        {
-          "title": "Anapilin iškeliavęs Chuckas Norrisas paliko pėdsaką ir ten, kur niekas nesitikėjo",
-          "snippet": "",
-          "url": "https://www.lrytas.lt/zmones/uzsienio-zvaigzdes/2026/03/20/news/anapilin-iskeliaves-chuckas-norrisas-paliko-pedsaka-ir-ten-kur-niekas-nesitikejo-41744460",
-          "source": "Lrytas"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "„kauno žalgiris“ prieš „madrido real“",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Fri, 20 Mar 2026 10:40:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvqrDB9RMUCSqcHuKerCJ-UOlZkHzbWVRdu8ey0qEfX1SkNiIJd3nJn2ul3Tw",
       "pictureSource": "BasketNews.lt",
@@ -73,7 +73,7 @@
         {
           "title": "Eurolyga grįžta į Kauną be M. Lo: „Žalgiris“ – „Real“",
           "snippet": "",
-          "url": "https://www.lrytas.lt/sportas/krepsinis/2026/03/20/news/eurolyga-grizta-i-kauna-zalgiris-real--41746144",
+          "url": "https://www.lrytas.lt/sportas/krepsinis/2026/03/20/news/eurolyga-grizta-i-kauna-zalgiris-real--41746144/",
           "source": "Lrytas"
         },
         {
@@ -87,27 +87,27 @@
     },
     {
       "title": "tv3 tiesiogiai",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Fri, 20 Mar 2026 10:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSmsxTAv6rIO4FEL-CtmADG7ms8c3nE6fppqQSisXgtBMxDBZmXz06UQ2Cl_E",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR733IL5r45s7JOukGaJWTw1kn8rSpicV_cazgP1_mVwyNnhmNhXbSzNgG1tvk",
       "pictureSource": "Delfi",
       "relatedSearch": [
         {
-          "title": "Magistralėje prie Kauno įvyko masinė avarija – susidūrė 5 automobiliai",
+          "title": "In memoriam : mirė olimpietis Linas Banys",
           "snippet": "",
-          "url": "https://www.delfi.lt/naujienos/kriminalai/magistraleje-prie-kauno-ivyko-masine-avarija-susidure-6-automobiliai-uzdarytas-kelias-120226757",
+          "url": "https://www.delfi.lt/sportas/kitos-sporto-sakos/in-memoriam-mire-olimpietis-linas-banys-120226549",
           "source": "Delfi"
         },
         {
-          "title": "Eismą A1 kelyje sutrikdė masinė avarija: yra nukentėjusių",
+          "title": "Po netikėtos 27-erių olimpiečio mirties – liūdesys: „Jis buvo labai geros širdies žmogus“",
           "snippet": "",
-          "url": "https://kaunas.kasvyksta.lt/eismas/eisma-a1-kelyje-sutrikde-masine-avarija-nukentejo-zmogus",
-          "source": "Kas vyksta Kaune"
+          "url": "https://www.lrytas.lt/sportas/startai/2026/03/20/news/po-netiketos-27-eriu-olimpiecio-mirties-liudesys-jis-buvo-labai-geros-sirdies-zmogus--41736875",
+          "source": "Lrytas"
         },
         {
-          "title": "Masinė avarija magistralėje prie Kauno: susidūrė 6 automobiliai, yra nukentėjusiųjų",
+          "title": "In Memoriam. Lietuvos biatlonininkai gedi komandos draugo Banio: visada liksi mūsų širdyse",
           "snippet": "",
-          "url": "https://www.lrt.lt/naujienos/eismas/7/2873578/masine-avarija-magistraleje-prie-kauno-susidure-6-automobiliai-yra-nukentejusiuju",
+          "url": "https://www.lrt.lt/naujienos/sportas/10/2873150/in-memoriam-lietuvos-biatlonininkai-gedi-komandos-draugo-banio-visada-liksi-musu-sirdyse",
           "source": "LRT"
         }
       ],
@@ -165,34 +165,6 @@
           "snippet": "",
           "url": "https://edition.cnn.com/2026/03/20/entertainment/chuck-norris-death",
           "source": "CNN"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "linas banys",
-      "trafficCount": "2000+",
-      "pubDate": "Fri, 20 Mar 2026 01:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQqEXvpJKDh0LUxPJot0YWH5UlEOuRJrEP_Yqz9DbEOCmzyv5svZHv27IEb1U",
-      "pictureSource": "Delfi",
-      "relatedSearch": [
-        {
-          "title": "In memoriam : mirė olimpietis Linas Banys",
-          "snippet": "",
-          "url": "https://www.delfi.lt/sportas/kitos-sporto-sakos/in-memoriam-mire-olimpietis-linas-banys-120226549",
-          "source": "Delfi"
-        },
-        {
-          "title": "Po netikėtos 27-erių olimpiečio mirties – liūdesys: „Jis buvo labai geros širdies žmogus“",
-          "snippet": "",
-          "url": "https://www.lrytas.lt/sportas/startai/2026/03/20/news/po-netiketos-27-eriu-olimpiecio-mirties-liudesys-jis-buvo-labai-geros-sirdies-zmogus--41736875",
-          "source": "Lrytas"
-        },
-        {
-          "title": "In Memoriam. Lietuvos biatlonininkai gedi komandos draugo Banio: visada liksi mūsų širdyse",
-          "snippet": "",
-          "url": "https://www.lrt.lt/naujienos/sportas/10/2873150/in-memoriam-lietuvos-biatlonininkai-gedi-komandos-draugo-banio-visada-liksi-musu-sirdyse",
-          "source": "LRT"
         }
       ],
       "link": "https://imtaqin.id/"

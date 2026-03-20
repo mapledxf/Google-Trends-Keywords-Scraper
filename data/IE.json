@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-19 23:46:04",
+  "lastUpdate": "2026-03-20 00:00:56",
   "data": [
     {
       "title": "roma",
@@ -15,9 +15,9 @@
           "source": "La Gazzetta dello Sport"
         },
         {
-          "title": "Le parole di Vincenzo Italiano",
+          "title": "Le dichiarazioni di Martin Vitík",
           "snippet": "",
-          "url": "https://onefootball.com/id/berita/le-parole-di-vincenzo-italiano-42585390",
+          "url": "https://onefootball.com/de/news/le-dichiarazioni-di-martin-vitik-42585367",
           "source": "OneFootball"
         },
         {
@@ -49,10 +49,10 @@
           "source": "RTE.ie"
         },
         {
-          "title": "BREAKING Luke Littler stages improbable Premier League darts comeback to win in Dublin",
+          "title": "Luke Littler gets telling off by Sky Sports pundit moments after beating Gerwyn Price",
           "snippet": "",
-          "url": "https://www.dailystar.co.uk/sport/darts/breaking-luke-littler-stages-improbable-36896613",
-          "source": "Daily Star"
+          "url": "https://www.mirror.co.uk/sport/other-sports/darts/luke-littler-gerwyn-price-sky-36896736",
+          "source": "The Mirror"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -114,6 +114,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "conference league",
+      "trafficCount": "5000+",
+      "pubDate": "Thu, 19 Mar 2026 13:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREHBKWsgV9-9Lnt2-8Pi7aY1e-mfQOI6iC1w2-LNgps0mtzS1elkeRhxMuy5A",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "AEK Larnaca 1-2 Crystal Palace (1-2 on agg): Ismaila Sarr scores twice to book last-eight spot",
+          "snippet": "",
+          "url": "https://www.bbc.com/sport/football/live/c5yqnegjv2xt",
+          "source": "BBC"
+        },
+        {
+          "title": "Kick Off 5.45pm: AEK Larnaca vs Crystal Palace (Agg: 0-0)",
+          "snippet": "",
+          "url": "https://www.skysports.com/football/live-blog/12309/13520821/aek-larnaca-vs-crystal-palace-live-conference-league-last-16-second-leg-score-match-updates-team-news-and-commentary",
+          "source": "Sky Sports"
+        },
+        {
+          "title": "Oliver Glasner hails ‘huge achievement’ as Palace progress in Conference League",
+          "snippet": "",
+          "url": "https://www.limerickleader.ie/news/sport/2043095/oliver-glasner-hails-huge-achievement-as-palace-progress-in-conference-league.html",
+          "source": "Limerick Leader"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "europa league games",
       "trafficCount": "200+",
       "pubDate": "Thu, 19 Mar 2026 13:00:00 -0700",
@@ -143,7 +171,7 @@
     },
     {
       "title": "roma vs bologna",
-      "trafficCount": "2000+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 19 Mar 2026 12:50:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
       "pictureSource": "BBC",
@@ -201,13 +229,19 @@
       "title": "nottingham forest",
       "trafficCount": "500+",
       "pubDate": "Thu, 19 Mar 2026 12:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDvAMfeCLAYBCZEtCnp26hvm8ZI0V77C0_-4eDZEbC_7ab5DTV27MXWT2OMjE",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-Ce7O5xBRee65lGSMAI2fdCSAmsKKyp5Pyf8_3C5AiJNoJWFKDNQf-jblo3U",
+      "pictureSource": "Sky Sports",
       "relatedSearch": [
         {
-          "title": "Midtjylland 1-2 Nottingham Forest (0-3 on pens): Reds reach Europa League quarter-finals",
+          "title": "Kick-off 5.45pm: Midtjylland vs Nottm Forest (Agg: 1-0)",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/c8r1zve354lt",
+          "url": "https://www.skysports.com/football/live-blog/12309/13520828/fc-midtjylland-vs-nottingham-forest-live-europa-league-last-16-second-leg-score-match-updates-team-news-and-commentary",
+          "source": "Sky Sports"
+        },
+        {
+          "title": "Famous night for Forest in season to largely forget",
+          "snippet": "",
+          "url": "https://www.bbc.com/sport/football/articles/c747lzj20g8o",
           "source": "BBC"
         },
         {
@@ -215,12 +249,6 @@
           "snippet": "",
           "url": "https://www.rte.ie/sport/soccer/2026/0319/1564273-european-wrap-forest-and-palace-go-extra-mile-to-advance/",
           "source": "RTE.ie"
-        },
-        {
-          "title": "Kick-off 5.45pm: Midtjylland vs Nottm Forest (Agg: 1-0)",
-          "snippet": "",
-          "url": "https://www.skysports.com/football/live-blog/12309/13520828/fc-midtjylland-vs-nottingham-forest-live-europa-league-last-16-second-leg-score-match-updates-team-news-and-commentary",
-          "source": "Sky Sports"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,44 +267,16 @@
           "source": "BBC"
         },
         {
-          "title": "Aston Villa sweep aside Lille to reach Europa League quarter-finals",
+          "title": "John McGinn settles nerves to ease Aston Villa past Lille into quarter-finals",
           "snippet": "",
-          "url": "https://www.independent.ie/sport/soccer/aston-villa-sweep-aside-lille-to-reach-europa-league-quarter-finals/a1000885863.html",
-          "source": "The Irish Independent"
+          "url": "https://www.theguardian.com/football/2026/mar/19/aston-villa-lille-europa-league-last-16-match-report",
+          "source": "The Guardian"
         },
         {
           "title": "Aston Villa vs Lille predictions, team news, betting tips, odds and Bet Builder",
           "snippet": "",
           "url": "https://www.racingpost.com/sport/football-tips/europa-league/aston-villa-lille-predictions-team-news-betting-tips-odds-and-bet-builder-aMQoZ2J6CF5o/",
           "source": "Racing Post"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "pearl harbour",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 19 Mar 2026 12:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3HRgMEEqqiTzyUOd0JW4WXwX88SPArSWolo5DYGgee9g3JEm-Akrinfuwq1A",
-      "pictureSource": "The Guardian",
-      "relatedSearch": [
-        {
-          "title": "Trump mocks Japan about Pearl Harbor in response to question about Iran war",
-          "snippet": "",
-          "url": "https://www.theguardian.com/world/2026/mar/19/trump-mocks-japan-pearl-harbor-iran-war",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Watch: Trump compares attack on Iran to Pearl Harbor in meeting with Japanese PM",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/videos/cx248jvgwj8o",
-          "source": "BBC"
-        },
-        {
-          "title": "Video | Trump makes Pearl Harbour reference at meeting with Japanese PM | RTÉ",
-          "snippet": "",
-          "url": "https://www.rte.ie/video/id/31458",
-          "source": "RTE.ie"
         }
       ],
       "link": "https://imtaqin.id/"

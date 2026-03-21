@@ -1,24 +1,52 @@
 {
-  "lastUpdate": "2026-03-21 20:51:51",
+  "lastUpdate": "2026-03-21 21:12:46",
   "data": [
+    {
+      "title": "sevilla",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 21 Mar 2026 13:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTG8uNvIR5IbbDezfWLng1VgHlQj-TM1Dws34l_BPMZDyl4TmYkrKtIrjNr3Dk",
+      "pictureSource": "Sevilla Actualidad",
+      "relatedSearch": [
+        {
+          "title": "Así será el plan de movilidad de Semana Santa en Sevilla: cortes, cambios en Tussam y nuevas medidas",
+          "snippet": "",
+          "url": "https://www.sevillaactualidad.com/sevilla/589735-asi-sera-el-plan-de-movilidad-de-semana-santa-en-sevilla-cortes-cambios-en-tussam-y-nuevas-medidas/",
+          "source": "Sevilla Actualidad"
+        },
+        {
+          "title": "Restricciones a bares y veladores: así funcionará la hostelería esta Semana Santa",
+          "snippet": "",
+          "url": "https://www.andaluciainformacion.es/articulo/la-pasion/restricciones-bares-veladores-asi-funcionara-hosteleria-semana-santa/202603201820333231572.html",
+          "source": "Andalucía Información"
+        },
+        {
+          "title": "Los cortes de tráfico y cambios en Tussam por la Semana Santa de Sevilla comienzan este martes",
+          "snippet": "",
+          "url": "https://www.abc.es/sevilla/ciudad/cortes-trafico-cambios-tussam-semana-santa-sevilla-20260321150146-nts.html",
+          "source": "ABC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "juventus",
       "trafficCount": "200+",
       "pubDate": "Sat, 21 Mar 2026 13:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7y1nWQrjXyFJJhBLYPLPK70KtHG2GD0AdDN18k1oYtzxDSkjOkueKQVzaIwo",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSy7JicwYfEhC-QUoyn7IxK3X7A5vrIecymmnNlrYmGa8Dwbiqho0hyuwfLxGQ",
       "pictureSource": "La Gazzetta dello Sport",
       "relatedSearch": [
         {
-          "title": "LIVE Al 45' Juventus-Sassuolo 1-0: decide il gol di Yildiz",
+          "title": "LIVE Juventus-Sassuolo 1-1: occasionissima per Koop!",
           "snippet": "",
           "url": "https://www.gazzetta.it/Calcio/Serie-A/Juventus/21-03-2026/juve-sassuolo-live-risultato-gol-diretta-serie-a.shtml",
           "source": "La Gazzetta dello Sport"
         },
         {
-          "title": "Calcio, Spalletti: \"Totale disponibilità al rinnovo\"",
+          "title": "Spalletti: “Ecco come gestirò Vlahovic, vi spiego il ruolo in cui vedo Boga micidiale”",
           "snippet": "",
-          "url": "https://www.radiostudio90italia.it/calcio-spalletti-totale-disponibilita-al-rinnovo/",
-          "source": "Radio Studio90 Italia - solo musica italiana"
+          "url": "https://www.sosfanta.com/news/spalletti-ecco-come-gestiro-vlahovic-vi-spiego-il-ruolo-in-cui-vedo-boga-micidiale/",
+          "source": "SOS Fanta"
         },
         {
           "title": "Serie A | Le formazioni ufficiali di Juventus-Sassuolo",
@@ -59,28 +87,28 @@
     },
     {
       "title": "nice - psg",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 21 Mar 2026 12:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPKuFlf44dCqcAylbkrJP-Fek-S_cOft6pTy8nL6UFtgTVeq2pszGNaP2k4nc",
-      "pictureSource": "Foot Mercato",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxV_6SkdVeIF-J8QJisHZNVcp9ODAyUb_14D4B_Ul6eTTWlqwlFg1iylJIgxU",
+      "pictureSource": "Maroc Diplomatique",
       "relatedSearch": [
-        {
-          "title": "OGC Nice - PSG : les compositions probables",
-          "snippet": "",
-          "url": "https://www.footmercato.net/a8899173215913243560-ogc-nice-psg-les-compositions-probables",
-          "source": "Foot Mercato"
-        },
-        {
-          "title": "Wahi et Ndayishimiye d’entrée... Le onze de l’OGC Nice pour affronter le PSG ce samedi",
-          "snippet": "",
-          "url": "https://www.nicematin.com/sports/football/wahi-et-ndayishimiye-d-entree-le-onze-de-l-ogc-nice-pour-affronter-le-psg-ce-samedi-10673726",
-          "source": "Nice-Matin"
-        },
         {
           "title": "Ligue 1: Le PSG privé de Hakimi, Barcola et Neves face à Nice",
           "snippet": "",
           "url": "https://maroc-diplomatique.net/ligue-1-le-psg-prive-de-hakimi-barcola-et-neves-face-a-nice/",
           "source": "Maroc Diplomatique"
+        },
+        {
+          "title": "Nice : le coup de gueule de Sanson à la mi-temps face au PSG",
+          "snippet": "",
+          "url": "https://www.footmercato.net/a1715505658993444294-nice-le-coup-de-gueule-de-sanson-a-la-mi-temps-face-au-psg",
+          "source": "Foot Mercato"
+        },
+        {
+          "title": "DIRECT. Le PSG climatise Nice, Chelsea en difficultés... Suivez tout le football en live",
+          "snippet": "",
+          "url": "https://www.flashscore.fr/actualites/football-ligue-1-direct-suivez-tout-le-football-europeen-ce-week-end-sur-flashscore/d2WEJPxP/",
+          "source": "Flashscore.fr"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +155,16 @@
           "source": "Diario AS"
         },
         {
-          "title": "Osasuna - Girona: resumen del partido de la 29ª jornada de Liga | Primera",
+          "title": "Osasuna cosecha una victoria de capitán",
           "snippet": "",
-          "url": "https://www.rtve.es/play/videos/resumenes-de-laliga/osasuna-girona-resumen-del-partido-29a-jornada-liga-primera/16991013/",
-          "source": "RTVE.es"
+          "url": "https://www.marca.com/futbol/osasuna/2026/03/21/osasuna-cosecha-victoria-capitan.html",
+          "source": "MARCA"
         },
         {
-          "title": "Budimir cambia el chip a Europa: \"Es un punto de inflexión\"",
+          "title": "Alessio Lisci: \"Lo siguiente es llegar cuanto antes a los 40 puntos\"",
           "snippet": "",
-          "url": "https://www.diariodenavarra.es/noticias/deportes/futbol/osasuna/2026/03/21/budimir-cambia-chip-europa-punto-inflexion-814415-32.html",
-          "source": "Diario de Navarra"
+          "url": "https://www.noticiasdenavarra.com/osasuna/2026/03/21/alessio-lisci-siguiente-llegar-40-10849430.html",
+          "source": "Diario de Noticias de Navarra"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,19 +201,19 @@
       "title": "milan - torino",
       "trafficCount": "200+",
       "pubDate": "Sat, 21 Mar 2026 11:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwH7saLeH3bMU0HmhNzF80wEkUFdxm8NR5oiPdIq535GVyXqVMcKoCZHfRKEY",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMm20wHk0dH3rOxr5ebZ-DZ28LauTMhrreCpH4VVMUTEZp9ACluGk_F7De9Gw",
       "pictureSource": "OneFootball",
       "relatedSearch": [
         {
-          "title": "Milan Torino: le pagelle. Male Paleari e i subentrati",
+          "title": "✅ Milan-Torino | UFFICIALI: Nkunku o Fullkrug? La scelta su Casadei e Adams",
           "snippet": "",
-          "url": "https://onefootball.com/en/news/milan-torino-le-pagelle-male-paleari-e-i-subentrati-42594729",
+          "url": "https://onefootball.com/en/news/milan-torino-ufficiali-nkunku-o-fullkrug-la-scelta-su-casadei-e-adams-42593702",
           "source": "OneFootball"
         },
         {
           "title": "Calcio Live News: tutte le notizie di giornata in tempo reale",
           "snippet": "",
-          "url": "https://www.diretta.it/news/calcio-live-news-milan-torino-3-2-colpo-salvezza-della-cremonese-in-campo-juventus-sassuolo-0-0/jPLfw1lC/",
+          "url": "https://www.diretta.it/news/calcio-live-news-in-campo-milan-torino-0-0-gattuso-perde-un-altro-azzurro-colpo-salvezza-della-cremonese/jPLfw1lC/",
           "source": "Diretta"
         },
         {
@@ -207,7 +235,7 @@
         {
           "title": "Victoria de peso antes de los clásicos",
           "snippet": "",
-          "url": "https://onefootball.com/es/noticias/victoria-de-peso-antes-de-los-clasicos-42595050",
+          "url": "https://onefootball.com/de/news/victoria-de-peso-antes-de-los-clasicos-42595050",
           "source": "OneFootball"
         },
         {
@@ -251,15 +279,6 @@
           "source": "Flashscore.com"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "benfica - vitória sc",
-      "trafficCount": "5000+",
-      "pubDate": "Sat, 21 Mar 2026 10:10:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]

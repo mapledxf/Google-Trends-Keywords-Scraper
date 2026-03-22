@@ -1,19 +1,13 @@
 {
-  "lastUpdate": "2026-03-22 15:34:54",
+  "lastUpdate": "2026-03-22 15:52:56",
   "data": [
     {
-      "title": "manchester city",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 22 Mar 2026 08:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSx1A4jp3Tivqeu7qs0aoPS5HLgnsQw-ccN7LVfFsz1e6I620jYzFrvzaL2zws",
-      "pictureSource": "The New York Times",
+      "title": "arsenal - manchester city",
+      "trafficCount": "2000+",
+      "pubDate": "Sun, 22 Mar 2026 08:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjd6-ebCSHNFm0otYEgish6L0tbwGoPXxF6CCgcKtohYIPVU10FCcKgH0QU78",
+      "pictureSource": "Pain in the Arsenal",
       "relatedSearch": [
-        {
-          "title": "Arsenal’s Kepa Arrizabalaga set to start Carabao Cup final vs Manchester City - The Athletic",
-          "snippet": "",
-          "url": "https://www.nytimes.com/athletic/7136922/2026/03/21/kepa-carabao-cup-final-arsenal-man-city/",
-          "source": "The New York Times"
-        },
         {
           "title": "Mikel Arteta has the chance to do something Arsène Wenger never could for Arsenal",
           "snippet": "",
@@ -21,10 +15,16 @@
           "source": "Pain in the Arsenal"
         },
         {
-          "title": "Man City face defensive shake-up as key player joins Marc Guehi in missing Carabao Cup final against Arsenal",
+          "title": "Team news: Havertz and Kepa to start at Wembley",
           "snippet": "",
-          "url": "https://www.goal.com/en/lists/man-city-defensive-shake-up-marc-guehi-missing-carabao-cup-final-arsenal/blt8a5cc4a7fecb6297",
-          "source": "Goal.com"
+          "url": "https://www.arsenal.com/news/team-news-havertz-and-kepa-start-wembley",
+          "source": "Arsenal.com"
+        },
+        {
+          "title": "Why David Raya is not playing for Arsenal against Man City in Carabao Cup final",
+          "snippet": "",
+          "url": "https://metro.co.uk/2026/03/22/david-raya-not-playing-arsenal-man-city-carabao-cup-final-27601151/",
+          "source": "Metro.co.uk"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -58,34 +58,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "barca",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 22 Mar 2026 07:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmDfIBLu0ZjjRrewoBTg-4lnOuMvPqQJRYiRwIOTasiKr1Wg8RUakzWt-FvcY",
-      "pictureSource": "La Gazzetta dello Sport",
-      "relatedSearch": [
-        {
-          "title": "Il Barcellona vince con Araujo e i miracoli di Garcia: +7 aspettando il derby di Madrid",
-          "snippet": "",
-          "url": "https://www.gazzetta.it/Calcio/Liga/22-03-2026/barcellona-con-araujo-e-garcia-va-a-7-aspettando-il-derby-di-madrid.shtml",
-          "source": "La Gazzetta dello Sport"
-        },
-        {
-          "title": "quote Barcellona Rayo Vallecano: il pronostico sui blaugrana",
-          "snippet": "",
-          "url": "https://www.bwin.it/it/news/calcio/quote-barcellona-rayo-vallecano-scommesse-pronostico-22-3-2026",
-          "source": "bwin"
-        },
-        {
-          "title": "Liga, 29ª giornata: Barcellona contro Rayo alle 14, stasera il derby di Madrid",
-          "snippet": "",
-          "url": "https://www.diretta.it/news/calcio-laliga-liga-il-barcellona-apre-la-domenica-contro-il-rayo-stasera-il-derby-di-madrid/IiqHvwY9/",
-          "source": "Diretta"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "atalanta - hellas verona",
       "trafficCount": "200+",
       "pubDate": "Sun, 22 Mar 2026 07:20:00 -0700",
@@ -109,6 +81,34 @@
           "snippet": "",
           "url": "https://www.docsports.com/free-picks/soccer/2026/atalanta-vs-hellas-verona-prediction-3-22-2026-soccer-pick-tips-and-odds.html",
           "source": "Doc's Sports"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "barca",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 22 Mar 2026 07:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmDfIBLu0ZjjRrewoBTg-4lnOuMvPqQJRYiRwIOTasiKr1Wg8RUakzWt-FvcY",
+      "pictureSource": "La Gazzetta dello Sport",
+      "relatedSearch": [
+        {
+          "title": "Il Barcellona vince con Araujo e i miracoli di Garcia: +7 aspettando il derby di Madrid",
+          "snippet": "",
+          "url": "https://www.gazzetta.it/Calcio/Liga/22-03-2026/barcellona-con-araujo-e-garcia-va-a-7-aspettando-il-derby-di-madrid.shtml",
+          "source": "La Gazzetta dello Sport"
+        },
+        {
+          "title": "quote Barcellona Rayo Vallecano: il pronostico sui blaugrana",
+          "snippet": "",
+          "url": "https://www.bwin.it/it/news/calcio/quote-barcellona-rayo-vallecano-scommesse-pronostico-22-3-2026",
+          "source": "bwin"
+        },
+        {
+          "title": "Liga, 29ª giornata: Barcellona contro Rayo alle 14, stasera il derby di Madrid",
+          "snippet": "",
+          "url": "https://www.diretta.it/news/calcio-laliga-liga-il-barcellona-apre-la-domenica-contro-il-rayo-stasera-il-derby-di-madrid/IiqHvwY9/",
+          "source": "Diretta"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -198,8 +198,36 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "lyon - mónaco",
+      "title": "barca vs",
       "trafficCount": "1000+",
+      "pubDate": "Sun, 22 Mar 2026 06:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTND_j-20TqJ4jEP_6oo6tyDhGCYojMWJ2jZwb8LgQ0yo0NRjPyvR8FkPGSpuM",
+      "pictureSource": "MARCA",
+      "relatedSearch": [
+        {
+          "title": "El Barça homenajea a Ronaldinho por su 46 cumpleaños",
+          "snippet": "",
+          "url": "https://www.marca.com/futbol/barcelona/2026/03/22/barca-homenajea-ronaldinho-46-cumpleanos.html",
+          "source": "MARCA"
+        },
+        {
+          "title": "La camiseta retro del Barça 2006 con el '10' de Ronaldinho causa furor: precio, cuándo sale a la venta y cómo comprarla",
+          "snippet": "",
+          "url": "https://www.sport.es/es/noticias/barca/camiseta-retro-barca-ronaldinho-2006-128273276",
+          "source": "SPORT"
+        },
+        {
+          "title": "Así ha sido la llegada de los jugadores del Barça con la camiseta de Ronaldinho",
+          "snippet": "",
+          "url": "https://www.mundodeportivo.com/videos/fc-barcelona/20260322/1004157496/asi-sido-llegada-jugadores-barca-camiseta-ronaldinho.html",
+          "source": "Mundo Deportivo"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "lyon - mónaco",
+      "trafficCount": "2000+",
       "pubDate": "Sun, 22 Mar 2026 06:30:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLvFtkqfg2CzSN6qn17HVkFmXuDWdMNZNnYrN1vJZlfUUp12mrFOOAbqw38eU",
       "pictureSource": "Olympique & Lyonnais",
@@ -229,17 +257,11 @@
       "title": "barcelona - rayo vallecano",
       "trafficCount": "50000+",
       "pubDate": "Sun, 22 Mar 2026 05:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEAEQ_x2oXr8nZdlvzzUJkKV1PCn1g1DQ15fDPkieVDFPKnp6Ws-7PcZu7TdI",
-      "pictureSource": "ESPN Deportes",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmBm8jKhR-pILTZ6qTVKUIMfpdYhYeP5WU5an3Ntlp9CT3dWbC_-LqoQoL8ng",
+      "pictureSource": "Diario AS",
       "relatedSearch": [
         {
-          "title": "Barcelona vs. Rayo (22 de Mar., 2026) Resultados en Vivo",
-          "snippet": "",
-          "url": "https://espndeportes.espn.com/futbol/partido/_/juegoId/748432",
-          "source": "ESPN Deportes"
-        },
-        {
-          "title": "Barcelona - Rayo Vallecano, en directo: LaLiga EA Sports, hoy en vivo",
+          "title": "Barcelona 1-0 Rayo Vallecano: resumen, gol y resultado",
           "snippet": "",
           "url": "https://as.com/futbol/primera/barcelona-rayo-vallecano-en-directo-laliga-ea-sports-hoy-en-vivo-f202603-d/",
           "source": "Diario AS"
@@ -249,34 +271,12 @@
           "snippet": "",
           "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260322/1004157454/once-barca-rayo.html",
           "source": "Mundo Deportivo"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "como - pisa",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 22 Mar 2026 04:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPeVeGb-QoqgVJAIh8_jwwFS-y80FXi1YSgbqa17AHm1KbN1vk6eqUshGDxnY",
-      "pictureSource": "Diario AS",
-      "relatedSearch": [
-        {
-          "title": "Como-Pisa, en directo: Serie A, hoy en vivo",
-          "snippet": "",
-          "url": "https://as.com/futbol/internacional/como-pisa-en-directo-serie-a-hoy-en-vivo-f202603-n/",
-          "source": "Diario AS"
         },
         {
-          "title": "Nico Paz y Maxi Perrone convirtieron en la goleada de Como sobre Pisa",
+          "title": "Barcelona recibe al Rayo Vallecano con la mira en consolidar el liderato",
           "snippet": "",
-          "url": "https://espndeportes.espn.com/futbol/italia/nota/_/id/16472938/video-nico-paz-y-maxi-perrone-convirtieron-en-la-goleada-de-como-sobre-pisa",
-          "source": "ESPN Deportes"
-        },
-        {
-          "title": "5-0. Manita rumbo a 'Champions' del Como 1907",
-          "snippet": "",
-          "url": "https://www.infobae.com/espana/agencias/2026/03/22/5-0-manita-rumbo-a-champions-del-como-1907/",
-          "source": "Infobae"
+          "url": "https://diario.elmundo.sv/deportes/barcelona-recibe-al-rayo-vallecano-con-la-mira-en-consolidar-el-liderato",
+          "source": "Diario El Mundo"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-03-22 08:18:22",
+  "lastUpdate": "2026-03-22 08:52:51",
   "data": [
     {
       "title": "хатынь",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 22 Mar 2026 00:30:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRr8QMJJ4u6X4vCEu8DjSUhhcg_iFtNucvZsXPi9hCFU4x6QbDMVJGJXUUoHFM",
       "pictureSource": "БелТА",
@@ -33,9 +33,28 @@
       "title": "какой сегодня праздник",
       "trafficCount": "2000+",
       "pubDate": "Sat, 21 Mar 2026 21:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCdkZuhT6ccj11LITi3YNoSm139pnF834Y6OJ9DnPwX52pFl8YqCDiompDVWc",
+      "pictureSource": "Беларусь сегодня",
+      "relatedSearch": [
+        {
+          "title": "Зачем 22 марта, на Сороки, раньше пекли булочки и печенье в виде птиц",
+          "snippet": "",
+          "url": "https://www.sb.by/articles/soroki-pechenki-pod-schet.html",
+          "source": "Беларусь сегодня"
+        },
+        {
+          "title": "22 марта: народные приметы и традиции, что нельзя и можно делать",
+          "snippet": "",
+          "url": "https://newsgomel.by/news/kalendar/22-marta-narodnye-primety-i-traditsii-chto-nelzya-i-mozhno-delat_214849.html",
+          "source": "Новости гомель"
+        },
+        {
+          "title": "22 марта в календаре: если на Сороки тепло, то еще сорок дней будет так же, и наоборот",
+          "snippet": "",
+          "url": "https://nashkraj.by/news/kaleydoskop/22-marta-v-kalendare-esli-na-soroki-teplo-to-eshche-sorok-dney-budet-tak-zhe-i-naoborot/",
+          "source": "Наш край"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -192,16 +211,16 @@
           "source": "Прессбол"
         },
         {
-          "title": "Нашли главного героя эпического камбэка «Боруссии» — он сотворил чудо за один тайм",
-          "snippet": "",
-          "url": "https://ua.tribuna.com/football/blogs/3163849-znayshly-holovnoho-heroya-epichnoho-kambeku-borussiyi-stvoryv-/",
-          "source": "Tribuna.com"
-        },
-        {
           "title": "Фантастический камбэк с 0:2. Боруссия Д перевернула матч за 11 минут",
           "snippet": "",
           "url": "https://www.ukr.net/ru/news/details/sport/116593908.html",
           "source": "UKR.NET"
+        },
+        {
+          "title": "Нашли главного героя эпического камбэка «Боруссии» — он сотворил чудо за один тайм",
+          "snippet": "",
+          "url": "https://ua.tribuna.com/football/blogs/3163849-znayshly-holovnoho-heroya-epichnoho-kambeku-borussiyi-stvoryv-/",
+          "source": "Tribuna.com"
         }
       ],
       "link": "https://imtaqin.id/"

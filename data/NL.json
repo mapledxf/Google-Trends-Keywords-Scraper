@@ -1,19 +1,13 @@
 {
-  "lastUpdate": "2026-03-23 11:52:56",
+  "lastUpdate": "2026-03-23 12:34:17",
   "data": [
     {
       "title": "aex",
       "trafficCount": "500+",
       "pubDate": "Mon, 23 Mar 2026 04:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5C8NOlrcq2H2gIovIMGvbaL0FCjVtfBqyTngB2i-_nWcNhUingLm0wvQBiww",
-      "pictureSource": "De Telegraaf",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmEZ_cN6GCTXx3nwa0D5En5Hs5tc_bAyAV3jMiYLY6OEJemQo6zUylsFmIkWI",
+      "pictureSource": "Het Financieele Dagblad",
       "relatedSearch": [
-        {
-          "title": "LIVE | AEX herstelt krachtig door uitstel bombardementen Trump",
-          "snippet": "",
-          "url": "https://www.telegraaf.nl/financieel/live-aex-herstelt-krachtig-door-uitstel-bombardementen-trump/143945041.html",
-          "source": "De Telegraaf"
-        },
         {
           "title": "Live: Financiële markten in het rood door Iran-oorlog, ook AEX-index op verlies",
           "snippet": "",
@@ -21,21 +15,33 @@
           "source": "Het Financieele Dagblad"
         },
         {
-          "title": "Beurzen wereldwijd verder omlaag • Nieuwe aanvallen op Iran",
+          "title": "LIVE | AEX verliest 1 procent door onrust Midden-Oosten, olieprijs kruipt verder omhoog",
           "snippet": "",
-          "url": "https://nos.nl/liveblog/2607468-beurzen-wereldwijd-verder-omlaag-nieuwe-aanvallen-op-iran",
-          "source": "NOS"
+          "url": "https://www.telegraaf.nl/financieel/live-aex-verliest-1-procent-door-onrust-midden-oosten-olieprijs-kruipt-verder-omhoog/143945041.html",
+          "source": "De Telegraaf"
+        },
+        {
+          "title": "Live Iran: Olieprijzen hoger na dreigement Trump, Aziatische beurzen hard omlaag",
+          "snippet": "",
+          "url": "https://www.volkskrant.nl/buitenland/live-iran-olieprijzen-hoger-na-dreigement-trump-aziatische-beurzen-hard-omlaag~bd6899fd/",
+          "source": "de Volkskrant"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "trump",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 23 Mar 2026 04:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBlBdV_A0vQs7Ls4EC3WQW9Q2WVjZ2Xjc0uPTzJOqNoobIEwsSq-FgFAbWumU",
-      "pictureSource": "Al Jazeera",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOc4eLHkVYzASwGfKUMipD4AABFD17gUcLFn-dg-2GWVGdAbyf7lsap2jykn8",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
+        {
+          "title": "Middle East crisis live: Trump postpones military strikes on Iranian power plants for a five day period",
+          "snippet": "",
+          "url": "https://www.theguardian.com/world/live/2026/mar/23/middle-east-crisis-live-iea-chief-says-iran-war-energy-crunch-worse-than-1970s-oil-crises-and-ukraine-war-combined",
+          "source": "The Guardian"
+        },
         {
           "title": "Iran war live: Trump delays US attacks on Iran’s energy sites for five days",
           "snippet": "",
@@ -47,12 +53,6 @@
           "snippet": "",
           "url": "https://www.nytimes.com/2026/03/22/world/middleeast/iran-trump-power-plants.html",
           "source": "The New York Times"
-        },
-        {
-          "title": "Middle East crisis live: Iran threatens to lay mines across entire Gulf if coasts are attacked as Israel warns war could continue for weeks",
-          "snippet": "",
-          "url": "https://www.theguardian.com/world/live/2026/mar/23/middle-east-crisis-live-iea-chief-says-iran-war-energy-crunch-worse-than-1970s-oil-crises-and-ukraine-war-combined",
-          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -77,85 +77,23 @@
           "source": "de Volkskrant"
         },
         {
-          "title": "LIVE | Trump: VS in gesprek met Iran, pauzeren aanvallen op Iraanse energiefaciliteiten",
+          "title": "Trump: vijf dagen geen aanvallen op Iraanse energievoorzieningen",
           "snippet": "",
-          "url": "https://www.telegraaf.nl/buitenland/live-trump-vs-in-gesprek-met-iran-pauzeren-aanvallen-op-iraanse-energiefaciliteiten/144040895.html",
-          "source": "De Telegraaf"
+          "url": "https://nos.nl/liveblog/2607468-trump-vijf-dagen-geen-aanvallen-op-iraanse-energievoorzieningen",
+          "source": "NOS"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "cnn",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 23 Mar 2026 04:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFeNUeJjExPsKA4SIHgxYXzfg8xQN9rs5ThLU6V_ShlKEx7aG6tKP01gLrHyM",
-      "pictureSource": "CNN",
-      "relatedSearch": [
-        {
-          "title": "Live updates: Iran defiant as IEA warns energy crisis worse than 1970s oil shocks and Trump deadline looms",
-          "snippet": "",
-          "url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-23-26",
-          "source": "CNN"
-        },
-        {
-          "title": "A U.S. Analyst’s Sarcastic Take on Trump’s Contradictory Stance on the Strait of Hormuz",
-          "snippet": "",
-          "url": "https://wanaen.com/a-u-s-analysts-sarcastic-take-on-trumps-contradictory-stance-on-the-strait-of-hormuz/",
-          "source": "WANA News Agency"
-        },
-        {
-          "title": "Donald Trump has gone 'berserk' with CNN viewers noticing 'cognitive' decline",
-          "snippet": "",
-          "url": "https://www.themirror.com/entertainment/trump-health-fears-cnn-iran-1752873",
-          "source": "The Mirror US"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "carrie ann fleming",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 23 Mar 2026 04:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ5mWDXYHnr8_CfHk18EA0yi5gKu4h3PY3jaq_kD1Wl-x-c2ySkOucvrLIkU8",
-      "pictureSource": "Variety",
-      "relatedSearch": [
-        {
-          "title": "Carrie Anne Fleming, ‘iZombie’ and ‘Supernatural’ Actress, Dies at 51",
-          "snippet": "",
-          "url": "https://variety.com/2026/tv/news/carrie-anne-fleming-dead-izombie-supernatural-1236696349/",
-          "source": "Variety"
-        },
-        {
-          "title": "Carrie Anne Fleming, ‘Supernatural’ & ‘iZombie’ Actress, Dies at 51",
-          "snippet": "",
-          "url": "https://www.yahoo.com/entertainment/tv/articles/carrie-anne-fleming-supernatural-izombie-113323878.html",
-          "source": "Yahoo"
-        },
-        {
-          "title": "Carrie Anne Fleming, Actress Known for Supernatural and iZombie , Dies at 51 Following Breast Cancer Diagnosis",
-          "snippet": "",
-          "url": "https://people.com/carrie-anne-fleming-dead-supernatural-izombie-actress-was-51-11931971",
-          "source": "People.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "digid",
-      "trafficCount": "1000+",
+      "title": "digid storing",
+      "trafficCount": "2000+",
       "pubDate": "Mon, 23 Mar 2026 03:20:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRCoe4yjPPHbNUnq92-CDsZMXOyukXllea8pVbfeIbTc4z13ewFT0uvEL9TEg",
       "pictureSource": "De Telegraaf",
       "relatedSearch": [
         {
-          "title": "Problemen bij Digid, gebruikers melden dat ze niet kunnen inloggen",
-          "snippet": "",
-          "url": "https://www.telegraaf.nl/binnenland/problemen-bij-digid-gebruikers-melden-dat-ze-niet-kunnen-inloggen/144122057.html",
-          "source": "De Telegraaf"
-        },
-        {
-          "title": "Digid getroffen door DDoS-aanval; gebruikers kunnen niet inloggen",
+          "title": "DigiD getroffen door DDoS-aanval; gebruikers kunnen niet inloggen",
           "snippet": "",
           "url": "https://www.telegraaf.nl/binnenland/digid-getroffen-door-ddos-aanval-gebruikers-kunnen-niet-inloggen/144122057.html",
           "source": "De Telegraaf"
@@ -165,33 +103,39 @@
           "snippet": "",
           "url": "https://www.limburger.nl/binnenland/problemen-bij-digid-gebruikers-melden-dat-ze-niet-kunnen-inloggen/144128225.html",
           "source": "De Limburger"
+        },
+        {
+          "title": "Problemen bij Digid, gebruikers melden dat ze niet kunnen inloggen",
+          "snippet": "",
+          "url": "https://www.telegraaf.nl/binnenland/problemen-bij-digid-gebruikers-melden-dat-ze-niet-kunnen-inloggen/144122057.html",
+          "source": "De Telegraaf"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "a12",
-      "trafficCount": "200+",
+      "trafficCount": "100+",
       "pubDate": "Mon, 23 Mar 2026 02:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNSPvAYgwYELcSJEM78aPnftSzAEBy9Jqi2ODegrSuCTF3RzU2EdrvNxHZrA",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLloS2MzBKYxGkEjUdWMAmU9L4kChAe1kLzVReGitnJoKjyp4G_d8t6a3n8Gk",
       "pictureSource": "AD.nl",
       "relatedSearch": [
         {
-          "title": "File op A12 richting Utrecht inmiddels voorbij",
+          "title": "Meerdere ongelukken op A12: auto belandt in middenberm na botsing met vrachtwagen",
           "snippet": "",
-          "url": "https://www.ad.nl/utrecht/file-op-a12-richting-utrecht-inmiddels-voorbij~a7409b3d/",
+          "url": "https://www.ad.nl/112-nieuws-woerden/meerdere-ongelukken-op-a12-auto-belandt-in-middenberm-na-botsing-met-vrachtwagen~a4429ca17/",
           "source": "AD.nl"
         },
         {
-          "title": "Monsterfile op A12 richting Utrecht voorbij",
+          "title": "Ongeval met letsel op A12 in Harmelen",
           "snippet": "",
-          "url": "https://www.rtvutrecht.nl/nieuws/4021579/monsterfile-op-a12-richting-utrecht-voorbij",
-          "source": "RTV Utrecht"
+          "url": "https://www.ad.nl/112-nieuws-woerden/ongeval-met-letsel-op-a12-in-harmelen~a4429ca17/",
+          "source": "AD.nl"
         },
         {
-          "title": "Ongeval met letsel op A12 in Utrecht",
+          "title": "LIVE Verkeer | Meerdere voertuigen in brand bij kettingbotsing op A12, weg is weer vrij",
           "snippet": "",
-          "url": "https://www.gelderlander.nl/112-nieuws-utrecht/ongeval-met-letsel-op-a12-in-utrecht~a97665b2/",
+          "url": "https://www.gelderlander.nl/binnenland/live-verkeer-meerdere-voertuigen-in-brand-bij-kettingbotsing-op-a12-weg-is-weer-vrij~a02230d4/",
           "source": "De Gelderlander"
         }
       ],
@@ -221,6 +165,62 @@
           "snippet": "",
           "url": "https://nos.nl/artikel/2607418-oranje-international-timber-is-volgens-arsenal-nog-weken-uitgeschakeld",
           "source": "NOS"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "carrie anne fleming",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 23 Mar 2026 02:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ5mWDXYHnr8_CfHk18EA0yi5gKu4h3PY3jaq_kD1Wl-x-c2ySkOucvrLIkU8",
+      "pictureSource": "Variety",
+      "relatedSearch": [
+        {
+          "title": "Carrie Anne Fleming, ‘iZombie’ and ‘Supernatural’ Actress, Dies at 51",
+          "snippet": "",
+          "url": "https://variety.com/2026/tv/news/carrie-anne-fleming-dead-izombie-supernatural-1236696349/",
+          "source": "Variety"
+        },
+        {
+          "title": "Carrie Anne Fleming, ‘Supernatural’ & ‘iZombie’ Actress, Dies at 51",
+          "snippet": "",
+          "url": "https://www.yahoo.com/entertainment/tv/articles/carrie-anne-fleming-supernatural-izombie-113323878.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Carrie Anne Fleming, Actress Known for Supernatural and iZombie , Dies at 51 Following Breast Cancer Diagnosis",
+          "snippet": "",
+          "url": "https://people.com/carrie-anne-fleming-dead-supernatural-izombie-actress-was-51-11931971",
+          "source": "People.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "douwe egberts punten",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 23 Mar 2026 01:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLFHTmhqXltDHFDbM2wTLjhcheIhOMeIkNQqc0c6AntqIeFCD0NKrAAVwSwps",
+      "pictureSource": "De Telegraaf",
+      "relatedSearch": [
+        {
+          "title": "Douwe Egberts-punten inwisselen bij Bruna: dit moet je weten",
+          "snippet": "",
+          "url": "https://www.telegraaf.nl/binnenland/douwe-egberts-verzamelaars-dolblij-nu-zegels-weer-kunnen-worden-verzilverd-en-vooral-dit-product-is-de-heilige-graal-die-ga-ik-meteen-aanschaffen/142489079.html",
+          "source": "De Telegraaf"
+        },
+        {
+          "title": "Heeft u waardepunten van Douwe Egberts? Die zijn vanaf 23 maart weer geld waard: zo verzilvert u ze",
+          "snippet": "",
+          "url": "https://www.maxvandaag.nl/sessies/themas/consument/heeft-u-waardepunten-van-douwe-egberts-die-zijn-vanaf-23-maart-weer-geld-waard-zo-verzilvert-u-ze/",
+          "source": "MAX Vandaag"
+        },
+        {
+          "title": "Eindelijk! Hier kun je vanaf 23 maart weer Douwe Egberts zegels inleveren",
+          "snippet": "",
+          "url": "https://www.libelle.nl/actueel/douwe-egberts-zegels-inleveren~98d426f",
+          "source": "Libelle"
         }
       ],
       "link": "https://imtaqin.id/"

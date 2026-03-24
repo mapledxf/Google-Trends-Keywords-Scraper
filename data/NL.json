@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-24 00:53:04",
+  "lastUpdate": "2026-03-24 03:27:30",
   "data": [
     {
       "title": "ministerie van financiën",
@@ -33,11 +33,17 @@
       "title": "bill cosby",
       "trafficCount": "200+",
       "pubDate": "Mon, 23 Mar 2026 16:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGz5Fw77gMWKxb6o8xnF9pWAmFq4wLrCHHJW1C5H7tm4jSDFkf_f3vvDhReLU",
-      "pictureSource": "The Guardian",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5QQEO2hWYvp1wXfg1n9unNInFMpiYHeUhMPt0-EBxXB1duKXyh-heao4xmIo",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Bill Cosby found guilty of sexual assault and ordered to pay $19.25m",
+          "title": "Jury orders Bill Cosby to pay $19m to ex-waitress after finding he abused her in 1972",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c1eq7v91n4xo",
+          "source": "BBC"
+        },
+        {
+          "title": "Bill Cosby found guilty of sexual assault and ordered to pay $59.25m in damages",
           "snippet": "",
           "url": "https://www.theguardian.com/us-news/2026/mar/23/bill-cosby-guilty-sexual-assault-civil-trial",
           "source": "The Guardian"
@@ -47,12 +53,6 @@
           "snippet": "",
           "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/bill-cosby-accuser-donna-motsinger-trial-verdict-1235534976/",
           "source": "Rolling Stone"
-        },
-        {
-          "title": "Jury orders Bill Cosby to pay $19m to ex-waitress after finding he abused her in 1972",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c1eq7v91n4xo",
-          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,85 +86,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "p2000 lelystad",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 23 Mar 2026 15:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-6cAd9g1CGRFwy-YKd_j1xAOhTtMLae_LBfzPudG-AgGrZnmg-plLi70uYVU",
-      "pictureSource": "Alarmeringen",
+      "title": "112 lelystad",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 23 Mar 2026 15:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSaUEclLnTfyWVr-0oigPBUYRXi1xL6fiRAVVEEbYOZsDPSL0LyIV2o_mZUWsw",
+      "pictureSource": "AD.nl",
       "relatedSearch": [
+        {
+          "title": "Reanimatie op Oostkaap in Lelystad, traumahelikopter gealarmeerd",
+          "snippet": "",
+          "url": "https://www.ad.nl/112-nieuws-lelystad/reanimatie-op-oostkaap-in-lelystad-traumahelikopter-gealarmeerd~a7a68c79/",
+          "source": "AD.nl"
+        },
+        {
+          "title": "Reanimatie op Oostkaap in Lelystad",
+          "snippet": "",
+          "url": "https://www.destentor.nl/112-nieuws-lelystad/reanimatie-op-oostkaap-in-lelystad~a7a68c79/",
+          "source": "de Stentor"
+        },
         {
           "title": "Reanimatie op Oostkaap in Lelystad, traumahelikopter gealarmeerd",
           "snippet": "",
           "url": "https://alarmeringen.nl/flevoland/lelystad/54994004/p2000-assistentie-bij-reanimatie-op-oostkaap-in-lelystad.html",
           "source": "Alarmeringen"
-        },
-        {
-          "title": "Reanimatie op Botter in Lelystad",
-          "snippet": "",
-          "url": "https://www.destentor.nl/112-nieuws-lelystad/reanimatie-op-botter-in-lelystad~a015a7f3/",
-          "source": "de Stentor"
-        },
-        {
-          "title": "Reanimatie op Botter in Lelystad",
-          "snippet": "",
-          "url": "https://www.ad.nl/112-nieuws-lelystad/reanimatie-op-botter-in-lelystad~a015a7f3/",
-          "source": "AD.nl"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "112 lelystad",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 23 Mar 2026 15:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhMoozdzuxlEw9u0ff7lC7-gGcEOF1eXfzSQLUb_8Clc0U3zEYvw8xbl3Su1U",
-      "pictureSource": "AD.nl",
-      "relatedSearch": [
-        {
-          "title": "Containerbrand op Vaartweg in Lelystad",
-          "snippet": "",
-          "url": "https://www.ad.nl/112-nieuws-lelystad/containerbrand-op-vaartweg-in-lelystad~aae43502/",
-          "source": "AD.nl"
-        },
-        {
-          "title": "Containerbrand op Archipel in Lelystad",
-          "snippet": "",
-          "url": "https://www.destentor.nl/112-nieuws-lelystad/containerbrand-op-archipel-in-lelystad~ae784dca/",
-          "source": "de Stentor"
-        },
-        {
-          "title": "Containerbrand vraagt om ingrijpen brandweer, Vaartweg in Lelystad",
-          "snippet": "",
-          "url": "https://www.hardnieuws.nl/flevoland/lelystad/containerbrand-vraagt-om-ingrijpen-brandweer-vaartweg-lelystad-70682.html",
-          "source": "Hardnieuws"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "npo gemist",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 23 Mar 2026 15:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQShl3nr98DSnN2SOmqw1cAzLpcnSaL_fLBiBdWVa1rmLc7sUaPtPUv2hWEsrk",
-      "pictureSource": "TVgids.nl",
-      "relatedSearch": [
-        {
-          "title": "Taboes nu kijken of gemist?",
-          "snippet": "",
-          "url": "https://www.tvgids.nl/informatief/taboes/lineair/210158332",
-          "source": "TVgids.nl"
-        },
-        {
-          "title": "2 keer raakt Angelo in een relatie waarin hij wordt mishandeld door zijn vriendin: ‘Het ligt altijd complexer dan je denkt’",
-          "snippet": "",
-          "url": "https://kro-ncrv.nl/programmas/taboes/2-keer-raakt-angelo-in-een-relatie-waarin-hij-wordt-mishandeld-door-zijn-vriendin",
-          "source": "KRO-NCRV"
-        },
-        {
-          "title": "Bram, Angelo en Haden waren slachtoffer van partnergeweld: ‘Waarom sla je niet terug?’",
-          "snippet": "",
-          "url": "https://www.metronieuws.nl/lifestyle/relaties-seks/2026/03/bram-angelo-en-haden-waren-slachtoffer-van-partnergeweld/",
-          "source": "Metronieuws.nl"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -217,10 +161,10 @@
           "source": "Globely News"
         },
         {
-          "title": "Sabalenka races to Miami win as Gauff battles on",
+          "title": "Aryna Sabalenka makes one thing clear about dominant H2H vs Zheng Qinwen",
           "snippet": "",
-          "url": "https://sports.yahoo.com/articles/sabalenka-races-miami-win-gauff-233930232.html",
-          "source": "Yahoo Sports"
+          "url": "https://www.msn.com/en-us/sports/tennis/aryna-sabalenka-makes-one-thing-clear-about-dominant-h2h-vs-zheng-qinwen/ar-AA1Zcs6M",
+          "source": "MSN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,16 +183,44 @@
           "source": "WWE"
         },
         {
-          "title": "Penta defends the Intercontinental Championship on a stacked Raw",
+          "title": "Penta vs. Dominik Mysterio for Intercontinental Title on Raw",
           "snippet": "",
-          "url": "https://www.cagesideseats.com/wwe/427446/wwe-raw-penta-vs-mysterio-intercontinental-title",
-          "source": "Cageside Seats"
+          "url": "https://www.sescoops.com/article/penta-vs-dominik-mysterio-intercontinental-title-raw",
+          "source": "SEScoops"
         },
         {
-          "title": "Raw Discussion Post: 03.23.26",
+          "title": "WWE Raw Results 3/23 - Intercontinental Championship Up For Grabs, The Vision Takes On The Usos & More",
           "snippet": "",
-          "url": "https://www.diva-dirt.com/raw-discussion-post-03-23-26/",
-          "source": "Diva Dirt"
+          "url": "https://sports.yahoo.com/articles/wwe-raw-results-3-23-230041835.html",
+          "source": "Yahoo Sports"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tom holland",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 23 Mar 2026 14:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRewK7bKzfWa8YinZCsAp7vbED7uCblMULUUq-Q1aqK-Ns354rKy45bwE-nXY",
+      "pictureSource": "People.com",
+      "relatedSearch": [
+        {
+          "title": "Zendaya and Tom Holland Hold Hands in First Public Sighting Together After Wedding Rumors",
+          "snippet": "",
+          "url": "https://people.com/zendaya-tom-holland-seen-together-for-first-time-after-wedding-rumors-11931904",
+          "source": "People.com"
+        },
+        {
+          "title": "Tom Holland Plays Hype Man for Zendaya’s New Film Amid Marriage Rumors",
+          "snippet": "",
+          "url": "https://www.mandatory.com/news/1747681-tom-holland-supports-zendaya-the-drama-movie",
+          "source": "Mandatory"
+        },
+        {
+          "title": "Tom Holland Praises Zendaya’s ‘The Drama’ Ahead Of Premiere: “It’s Gonna Floor You”",
+          "snippet": "",
+          "url": "https://deadline.com/2026/03/tom-holland-praises-zendaya-the-drama-1236762627/",
+          "source": "Deadline"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,9 +229,15 @@
       "title": "paul de leeuw",
       "trafficCount": "500+",
       "pubDate": "Mon, 23 Mar 2026 14:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPBccDQ-_F00xdAbNiBo9wTFkHL-dKX24En-rgVkX0ohSVPWvDyUWK76Kiao8",
-      "pictureSource": "MAX Vandaag",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAa4LIRcxG2iH-idTjxYYH8Nw7XjDaQBVkCzYFVpmuFAcWZI-hDfG1aUTHDRc",
+      "pictureSource": "RTL.nl",
       "relatedSearch": [
+        {
+          "title": "Paul de Leeuw maakte bijzondere reis met dementerende ouderen: 'Echt onvergetelijk'",
+          "snippet": "",
+          "url": "https://www.rtl.nl/boulevard/video/4e4bd44b-9404-4cc2-a032-0b3e2400091e/paul-de-leeuw-maakte-bijzondere-reis-met",
+          "source": "RTL.nl"
+        },
         {
           "title": "Een vergetelijk mooie reis",
           "snippet": "",
@@ -271,12 +249,34 @@
           "snippet": "",
           "url": "https://www.plusonline.nl/dementie/reizen-met-dementie-het-gaat-niet-om-onthouden-maar-om-het-gevoel-dat-blijft",
           "source": "Plusonline"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "travis scott",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 23 Mar 2026 14:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcToxwCGECCgfiIZmaU9UZ49q9ttth350FqV6OEJjAuUyWjNIqq432KOiPBP9H8",
+      "pictureSource": "Sole Retriever",
+      "relatedSearch": [
+        {
+          "title": "Travis Scott’s Celtics Jordan Jumpman Jack is Here for Tatum and Brown’s Playoff Run",
+          "snippet": "",
+          "url": "https://www.soleretriever.com/news/articles/travis-scott-jordan-jumpman-jack-celtics-official-images",
+          "source": "Sole Retriever"
         },
         {
-          "title": "Paul de Leeuw maakte bijzondere reis met dementerende ouderen: 'Echt onvergetelijk'",
+          "title": "Where To Buy The Travis Scott Jordan Jumpman Jack “Green Spark”",
           "snippet": "",
-          "url": "https://www.rtl.nl/boulevard/video/4e4bd44b-9404-4cc2-a032-0b3e2400091e/paul-de-leeuw-maakte-bijzondere-reis-met",
-          "source": "RTL.nl"
+          "url": "https://sneakernews.com/2026/03/23/travis-scott-jordan-jumpman-jack-cj1-trexx-celtics-im9113-300/",
+          "source": "Sneaker News"
+        },
+        {
+          "title": "Travis Scott Jordan CJ1 T-Rexx \"Green Spark\" Official Images Surface",
+          "snippet": "",
+          "url": "https://www.hotnewhiphop.com/984984-travis-scott-jordan-cj1-t-rexx-green-spark-sneaker-news",
+          "source": "HotNewHipHop"
         }
       ],
       "link": "https://imtaqin.id/"

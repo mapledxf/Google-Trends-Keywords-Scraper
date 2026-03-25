@@ -1,19 +1,41 @@
 {
-  "lastUpdate": "2026-03-25 01:25:27",
+  "lastUpdate": "2026-03-25 03:57:48",
   "data": [
+    {
+      "title": "chatgpt",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 24 Mar 2026 19:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWGsfCaxuRxlVN98jJftfbz4hRGqOJDx7ncvBlIKP8dnHH84pdME7P84umPZ4",
+      "pictureSource": "WIRED",
+      "relatedSearch": [
+        {
+          "title": "Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal",
+          "snippet": "",
+          "url": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
+          "source": "WIRED"
+        },
+        {
+          "title": "OpenAI’s plans to make ChatGPT more like Amazon aren’t going so well",
+          "snippet": "",
+          "url": "https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI revamps shopping experience in ChatGPT after struggling with Instant Checkout offering",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2026/03/24/openai-revamps-shopping-experience-in-chatgpt-after-instant-checkout.html",
+          "source": "CNBC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "weather",
       "trafficCount": "500+",
       "pubDate": "Mon, 23 Mar 2026 21:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTdujBzKoFKDzfsvFI7fjEDy_uVl4Vbyacclfxc04BKnS1e04tOZCCDyAPq1ac",
-      "pictureSource": "Adelaide Now",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSi8Mps0hGQyEQN4WA9AS4_fWTQcU_hA18xshkT36KDyl0gyXYHXmeZUfzKqZw",
+      "pictureSource": "Glam Adelaide",
       "relatedSearch": [
-        {
-          "title": "Here’s what you can expect with today’s Adelaide weather",
-          "snippet": "",
-          "url": "https://www.adelaidenow.com.au/messenger/city/hyperlocal/heres-what-you-can-expect-with-todays-adelaide-weather/news-story/9bb5e083391755e45f05c7cb1bbc6540",
-          "source": "Adelaide Now"
-        },
         {
           "title": "Adelaide weather forecast for Wednesday March 25th and the days ahead",
           "snippet": "",
@@ -21,9 +43,15 @@
           "source": "Glam Adelaide"
         },
         {
-          "title": "Adelaide weather forecast for Monday March 23rd and the days ahead",
+          "title": "Here’s what you can expect with tomorrow’s Kensington Gardens weather",
           "snippet": "",
-          "url": "https://glamadelaide.com.au/adelaide-weather-forecast-for-monday-march-23rd-and-the-days-ahead/",
+          "url": "https://www.adelaidenow.com.au/messenger/east-hills/hyperlocal/heres-what-you-can-expect-with-todays-kensington-gardens-weather/news-story/46820564100b33ebaeddf291cc3f20bc",
+          "source": "Adelaide Now"
+        },
+        {
+          "title": "Adelaide weather forecast for Tuesday March 24th and the days ahead",
+          "snippet": "",
+          "url": "https://glamadelaide.com.au/adelaide-weather-forecast-for-tuesday-march-24th-and-the-days-ahead/",
           "source": "Glam Adelaide"
         }
       ],

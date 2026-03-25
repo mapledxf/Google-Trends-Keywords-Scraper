@@ -1,17 +1,45 @@
 {
-  "lastUpdate": "2026-03-25 05:22:41",
+  "lastUpdate": "2026-03-25 06:35:34",
   "data": [
     {
-      "title": "حاله الطقس",
+      "title": "خبرني",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 24 Mar 2026 22:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSktnv2YOUi5MTkFixsgz4zjS27cocpx1-SuxIQrd92CsB2ig19kbrvQXMec3k",
+      "pictureSource": "زاد الاردن",
+      "relatedSearch": [
+        {
+          "title": "اليرموك تنعى طالبا قطريا استشهد أثناء أداء واجبه الوطني",
+          "snippet": "",
+          "url": "http://www.jordanzad.com/index.php?page=article&id=727498",
+          "source": "زاد الاردن"
+        },
+        {
+          "title": "صحف غربية: خيارات ترمب في إيران جميعها سيئ وصعب",
+          "snippet": "",
+          "url": "https://www.aljazeera.net/news/2026/3/25/%D8%B5%D8%AD%D8%A7%D9%81%D8%A9-%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B1%D9%85%D8%A8-%D9%88%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%B9%D8%A8%D8%A9-%D9%81%D9%8A",
+          "source": "الجزيرة نت"
+        },
+        {
+          "title": "\"ترامب في ورطة من صنعه. وهناك مخرج واحد\" – مقال في التلغراف",
+          "snippet": "",
+          "url": "https://www.bbc.com/arabic/articles/cr41lw5k1pko",
+          "source": "BBC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "طقس العرب",
       "trafficCount": "1000+",
-      "pubDate": "Tue, 24 Mar 2026 20:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4aa-IkqTDcu_zAHztB6-hASGLTqub11x9-G4i_5Azuf4C1ze5vtGaETyuPv8",
+      "pubDate": "Tue, 24 Mar 2026 21:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQc3B11OxPVn1gKYp8NtIK4JJ6gQ-idnLmI3vKr9kFtql7FfUQDHQgY5G6HO4",
       "pictureSource": "رؤيا الإخباري",
       "relatedSearch": [
         {
-          "title": "مديرية الأمن العام تحذر من حالة عدم الاستقرار الجوي المتوقعة يوم الاربعاء",
+          "title": "منخفض جوي قوي من الدرجة الرابعة يفرض أجواء ماطرة وباردة وتحذيرات من السيول في الأردن",
           "snippet": "",
-          "url": "https://royanews.tv/news/377261",
+          "url": "https://royanews.tv/news/377296",
           "source": "رؤيا الإخباري"
         },
         {
@@ -30,29 +58,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "حاله الطقس",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 24 Mar 2026 20:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGW2ghPuNu5kPb3Mmy13I1xp16QrCTEjUQHFObMAJO_OCJBPMoKeJvus-Nr5w",
+      "pictureSource": "طقس العرب",
+      "relatedSearch": [
+        {
+          "title": "الحالة المطرية \"غيث\" لم تصل ذروتها بعد.. منخفض جوي جديد يوم الأربعاء (سيتم تصنيفه لاحقًا)",
+          "snippet": "",
+          "url": "https://www.arabiaweather.com/ar/content/%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D9%85%D8%B7%D8%B1%D9%8A%D8%A9-%D8%BA%D9%8A%D8%AB-%D9%84%D9%85-%D8%AA%D8%B5%D9%84-%D8%B0%D8%B1%D9%88%D8%AA%D9%87%D8%A7-%D8%A8%D8%B9%D8%AF-%D9%85%D9%86%D8%AE%D9%81%D8%B6-%D8%AC%D9%88%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%B9%D8%A7%D8%A1-%D8%B3%D9%8A%D8%AA%D9%85-%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D9%87-%D9%84%D8%A7%D8%AD%D9%82%D8%A7",
+          "source": "طقس العرب"
+        },
+        {
+          "title": "طقس العرب يُطلق اسم \"غيث\" على الحالة المطرية الطويلة المُمتدة من مساء اليوم وتتجدد خلال العيد وحتى نهايات شهر آذار",
+          "snippet": "",
+          "url": "https://www.arabiaweather.com/ar/content/%D8%B7%D9%82%D8%B3-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8-%D9%8A%D9%8F%D8%B7%D9%84%D9%82-%D8%A7%D8%B3%D9%85-%D8%BA%D9%8A%D8%AB-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D9%85%D8%B7%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%B7%D9%88%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D9%85%D9%8F%D9%85%D8%AA%D8%AF%D8%A9-%D9%85%D9%86-%D9%85%D8%B3%D8%A7%D8%A1-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%88%D8%AA%D8%AA%D8%AC%D8%AF%D8%AF-%D8%AE%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%B9%D9%8A%D8%AF",
+          "source": "طقس العرب"
+        },
+        {
+          "title": "منخفض جوي قوي من الدرجة الرابعة يفرض أجواء ماطرة وباردة وتحذيرات من السيول في الأردن",
+          "snippet": "",
+          "url": "https://royanews.tv/news/377296",
+          "source": "رؤيا الإخباري"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "weather",
       "trafficCount": "2000+",
       "pubDate": "Tue, 24 Mar 2026 20:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUeacOPAite8fmD4K6N4wjkS9a0Kg9kcv704KFA853BWK3Ikz4BglEISEBrJk",
-      "pictureSource": "NASA Science (.gov)",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnfq3g9F_ntoBALtj_Bo88S_e_j4BNYjA_D4I-5yCP3dAVYQsh-7R8BhzUubE",
+      "pictureSource": "Yahoo News UK",
       "relatedSearch": [
         {
-          "title": "Tropical Cyclone Narelle Crosses Australia",
+          "title": "What the weather is going to be like in Exmouth this week",
           "snippet": "",
-          "url": "https://science.nasa.gov/earth/earth-observatory/tropical-cyclone-narelle-crosses-australia/",
-          "source": "NASA Science (.gov)"
+          "url": "https://uk.news.yahoo.com/weather-going-exmouth-week-050000768.html",
+          "source": "Yahoo News UK"
         },
         {
-          "title": "Weather time bomb ticking after cyclone reforms at sea",
+          "title": "What the weather is going to be like in Exmouth this week",
           "snippet": "",
-          "url": "https://aapnews.aap.com.au/news/weather-time-bomb-ticking-after-cyclone-reforms-at-sea",
-          "source": "AAPNews Logo"
+          "url": "https://www.exmouthjournal.co.uk/news/25962717.exmouth-weather-forecast-showers-weekend/",
+          "source": "Exmouth Journal"
         },
         {
-          "title": "Operations restart at Metro Mining’s Bauxite Hills after Narelle impact",
+          "title": "Weather, Wed 25 March 2026",
           "snippet": "",
-          "url": "http://www.alcircle.com/news/operations-restart-at-metro-minings-bauxite-hills-after-narelle-impact-117736",
-          "source": "alcircle"
+          "url": "https://www.rte.ie/news/weather-summary/2026/0325/1565077-weather-wed-25-march-2026/",
+          "source": "RTE.ie"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,82 +117,54 @@
       "title": "الطقس",
       "trafficCount": "20000+",
       "pubDate": "Tue, 24 Mar 2026 20:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcHfvlTd-hDKqpVFvFJisWmem-ifIr_v_Sx-BnIz6yo-Al_b5P_vWCHUH__UY",
-      "pictureSource": "بوابة أخبار اليوم الإلكترونية",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQiZacxat0Lw4wTNlpkRmqelgX176CSHsNcpIuxOeFnrt1jfKGxJH0Lkg65hSs",
+      "pictureSource": "وكـالـة مـعـا الاخـبـارية",
       "relatedSearch": [
         {
-          "title": "استعداداً لمواجهة تقلبات الطقس.. محافظ المنيا: ربط غرف العمليات بالشبكة الوطنية للطوارئ",
+          "title": "منخفضات وأمطار ... الشتاء يعود بقوة للمنطقة",
           "snippet": "",
-          "url": "https://akhbarelyom.com/news/newdetails/4794241/1/%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7%D9%8B-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%AA%D9%82%D9%84%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D9%82%D8%B3%C2%A0%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D9%85",
-          "source": "بوابة أخبار اليوم الإلكترونية"
+          "url": "https://www.maannews.net/news/2158415.html",
+          "source": "وكـالـة مـعـا الاخـبـارية"
         },
         {
-          "title": "بسبب التقلبات المناخية.. طوارئ بـ «6 مناطق خطرة» شرق النيل بالمنيا",
+          "title": "منخفض جوي مصحوب بكتلة هوائية باردة وأمطار على معظم المناطق",
           "snippet": "",
-          "url": "https://www.almasryalyoum.com/news/details/4228921",
-          "source": "المصري اليوم"
+          "url": "https://yaffaps.com/ar/page-90816.html",
+          "source": "شبكة يافا الإخبارية"
         },
         {
-          "title": "بعد تعطيل الدراسة في المنيا.. كيف تحمي أطفالك من تقلبات طقس الغد",
+          "title": "حالة الطقس: أجواء باردة وماطرة حتى الجمعة",
           "snippet": "",
-          "url": "https://www.vetogate.com/5621277",
-          "source": "فيتو"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "الطقس اليوم",
-      "trafficCount": "10000+",
-      "pubDate": "Tue, 24 Mar 2026 20:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7Ba3NYm8WkA0hV6P6yDcHNMI7Jy-5VqN7eUGvVDQkBymByNTkfFKBCEMC2vE",
-      "pictureSource": "الكونسلتو",
-      "relatedSearch": [
-        {
-          "title": "الطقس غدا الأربعاء- ماذا يحدث لجسمك عند التعرض للأمطار الرعدية؟",
-          "snippet": "",
-          "url": "https://www.elconsolto.com/medical-advice/advice-news/details/2026/3/24/2961791/%D8%A7%D9%84%D8%B7%D9%82%D8%B3-%D8%BA%D8%AF%D8%A7-%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%B9%D8%A7%D8%A1-%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%AD%D8%AF%D8%AB-%D9%84%D8%AC%D8%B3%D9%85%D9%83-%D8%B9%D9%86%D8%AF-%D8%A7%D9%84%D8%AA%D8%B9%D8%B1%D8%B6-%D9%84%D9%84%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D8%B1%D8%B9%D8%AF%D9%8A%D8%A9-",
-          "source": "الكونسلتو"
-        },
-        {
-          "title": "تحذيرات من طقس عنيف يضرب البلاد اليوم.. ماذا يحدث في الساعات القادمة؟",
-          "snippet": "",
-          "url": "https://www.youm7.com/story/2026/3/25/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D8%A7%D8%AA-%D9%85%D9%86-%D8%B7%D9%82%D8%B3-%D8%B9%D9%86%D9%8A%D9%81-%D9%8A%D8%B6%D8%B1%D8%A8-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%AD%D8%AF%D8%AB-%D9%81%D9%8A/7352029",
-          "source": "اليوم السابع"
-        },
-        {
-          "title": "تحذير عاجل من الأرصاد: عواصف ممطرة ورعدية وانخفاض حاد بالحرارة اليوم",
-          "snippet": "",
-          "url": "https://www.altreeq.com/532370",
-          "source": "جريدة الطريق"
+          "url": "https://madar.news/%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B7%D9%82%D8%B3-%D8%A3%D8%AC%D9%88%D8%A7%D8%A1-%D8%A8%D8%A7%D8%B1%D8%AF%D8%A9-%D9%88%D9%85%D8%A7%D8%B7%D8%B1%D8%A9-%D8%AD%D8%AA%D9%89-%D8%A7%D9%84%D8%AC%D9%85-2/",
+          "source": "مدار نيوز"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "طقس اليوم",
-      "trafficCount": "200+",
+      "trafficCount": "10000+",
       "pubDate": "Tue, 24 Mar 2026 20:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp3WuZjtHAoKPhiOM2bJhIURbPDgbivT1Pv6G7Ag1ktGVobPOGBmVncmTzioQ",
-      "pictureSource": "إيجبتكِ",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-rC4XQUVwFfntSotVEzK5v0Gy8DKKCvfk-obj5Uh6llzJd00ISuXaUSUqzto",
+      "pictureSource": "المصري اليوم",
       "relatedSearch": [
         {
-          "title": "طقس اليوم في الأقصر.. مشمس ودرجات حرارة دافئة نهارا",
+          "title": "حالة الطقس اليوم وغدًا.. منخفض قطبي وأمطار غزيرة في 10 محافظات",
           "snippet": "",
-          "url": "https://www.egyptke.com/224791",
-          "source": "إيجبتكِ"
+          "url": "https://www.almasryalyoum.com/news/details/4229107",
+          "source": "المصري اليوم"
         },
         {
-          "title": "تفاصيل طقس الأقصر اليوم خامس أيام عيد الفطر",
+          "title": "هل يعود منخفض التنين؟ خريطة وأماكن سقوط الأمطار في مصر خلال الساعات المقبلة",
           "snippet": "",
-          "url": "https://ahlmasrnews.com/news/local-news/13457338/%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D8%B1-%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9",
-          "source": "أهل مصر"
+          "url": "https://www.alkhaleej.ae/2026-03-24/%D9%87%D9%84-%D9%8A%D8%B9%D9%88%D8%AF-%D9%85%D9%86%D8%AE%D9%81%D8%B6-%D8%A7%D9%84%D8%AA%D9%86%D9%8A%D9%86-%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9-%D9%88%D8%A3%D9%85%D8%A7%D9%83%D9%86-%D8%B3%D9%82%D9%88%D8%B7-%D8%A7%D9%84%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D8%AE%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84%D8%A9-6373181/%D9%85%D8%AD%D8%B7%D8%A7%D8%AA",
+          "source": "صحيفة الخليج"
         },
         {
-          "title": "طقس الأقصر اليوم معتدل نهاراً وبارد نسبياً في المساء",
+          "title": "التقلبات الجوية تثير قلق المواطنين وتحذيرات من هيئة الأرصاد",
           "snippet": "",
-          "url": "https://www.egyptke.com/223981",
-          "source": "إيجبتكِ"
+          "url": "https://pls48.net/32806/%D8%A7%D9%84%D8%AA%D9%82%D9%84%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%AA%D8%AB%D9%8A%D8%B1-%D9%82%D9%84%D9%82-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%86-%D9%88%D8%AA/",
+          "source": "pls48.net"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -170,34 +198,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "رؤيا",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 24 Mar 2026 15:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLFhXAvCV-sIaaYZFBukzW9E4lw76mmTjouyEdoii6jeJjMOIeDTJRzvG4t44",
-      "pictureSource": "رؤيا الإخباري",
-      "relatedSearch": [
-        {
-          "title": "إصابة خمسة أشخاص من عائلة واحدة إثر حريق شقة ناتج عن مدفاة غاز في محافظة العاصمة",
-          "snippet": "",
-          "url": "https://royanews.tv/news/377288",
-          "source": "رؤيا الإخباري"
-        },
-        {
-          "title": "عاجل- إصابة خمسة أشخاص من عائلة واحدة إثر حريق شقة ناتج عن مدفاة غاز في محافظة العاصمة",
-          "snippet": "",
-          "url": "https://nabaajordan.com/articles/489831",
-          "source": "نبأ الأردن"
-        },
-        {
-          "title": "إصابة خمسة أفراد من عائلة نتيجة حريق في شقة بسبب مدفأة غاز",
-          "snippet": "",
-          "url": "https://mwlana.com/world-news/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%AE%D9%85%D8%B3%D8%A9-%D8%A3%D9%81%D8%B1%D8%A7%D8%AF-%D9%85%D9%86-%D8%B9%D8%A7%D8%A6%D9%84%D8%A9-%D9%86%D8%AA%D9%8A%D8%AC%D8%A9-%D8%AD%D8%B1%D9%8A%D9%82-%D9%81%D9%8A/",
-          "source": "بوابة مولانا"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "فيلم السلم والثعبان",
       "trafficCount": "200+",
       "pubDate": "Tue, 24 Mar 2026 12:30:00 -0700",
@@ -217,10 +217,10 @@
           "source": "CNN Arabic"
         },
         {
-          "title": "من \"السلم والثعبان\" لـ \"المتر سمير\" و\"الكينج\".. أعمال فنية تواجه أزمات",
+          "title": "فيلم السلم والثعبان 2… لماذا كل هذه الانتقادات؟",
           "snippet": "",
-          "url": "https://www.msn.com/ar-eg/entertainment/celebrity-news/%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%84%D9%85-%D9%88%D8%A7%D9%84%D8%AB%D8%B9%D8%A8%D8%A7%D9%86-%D9%84%D9%80-%D8%A7%D9%84%D9%85%D8%AA%D8%B1-%D8%B3%D9%85%D9%8A%D8%B1-%D9%88-%D8%A7%D9%84%D9%83%D9%8A%D9%86%D8%AC-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D9%81%D9%86%D9%8A%D8%A9-%D8%AA%D9%88%D8%A7%D8%AC%D9%87-%D8%A3%D8%B2%D9%85%D8%A7%D8%AA/ar-AA1Zj1G2",
-          "source": "MSN"
+          "url": "https://www.bbc.com/arabic/articles/c3w3ee6lvl1o",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,21 +245,12 @@
           "source": "جريدة الغد"
         },
         {
-          "title": "انخفاض أسعار الذهب محليا إلى 90.40 دينارا للغرام",
+          "title": "ارتفاع أسعار الذهب محليا مجددا .. وتصل إلى 89.90 دينارا للغرام",
           "snippet": "",
-          "url": "https://www.ammonnews.net/article/987307",
+          "url": "https://www.ammonnews.net/article/987117",
           "source": "وكالة عمون الاخبارية"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "عطلة عيد الاضحى 2026",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 23 Mar 2026 23:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]

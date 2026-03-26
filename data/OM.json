@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2026-03-26 01:02:10",
+  "lastUpdate": "2026-03-26 03:51:26",
   "data": [
     {
-      "title": "حالة الطقس",
+      "title": "weather",
       "trafficCount": "5000+",
-      "pubDate": "Wed, 25 Mar 2026 17:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpqDbeZcrQCOFCxR656eR1-eIUV0bFY6LLQ_-mEkjw5oTa0cBHhrmwwiLcsO0",
+      "pubDate": "Wed, 25 Mar 2026 19:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQzC3NcFCh9IK_IxL-ztcE-0V4A2Ao9TntDuKHR_6kxCc9u3Zqj4M5P-t3l30",
+      "pictureSource": "Australian Broadcasting Corporation",
+      "relatedSearch": [
+        {
+          "title": "WA coast 'pummelled' as Cyclone Narelle could reach category five on approach",
+          "snippet": "",
+          "url": "https://www.abc.net.au/news/2026-03-26/severe-tropical-cyclone-narelle-intensify-category-five/106495496",
+          "source": "Australian Broadcasting Corporation"
+        },
+        {
+          "title": "Tropical Cyclone Narelle Strengthens Off Northwestern Australia",
+          "snippet": "",
+          "url": "https://www.theaustralian.com.au/news/tropical-cyclone-narelle-strengthens-off-northwestern-australia/video/34780483ff4ab4a0a1b3adb53b33255a",
+          "source": "The Australian"
+        },
+        {
+          "title": "Cyclone Narelle gains strength, threatens widespread damage",
+          "snippet": "",
+          "url": "https://thewest.com.au/news/weather/cyclone-narelle-category-3-storm-steamrolls-along-pilbara-coast-flights-cancelled-towns-batten-down-c-22049767",
+          "source": "The West Australian"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "الطقس اليوم",
+      "trafficCount": "5000+",
+      "pubDate": "Wed, 25 Mar 2026 18:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcReF-TREM8a5dZhRElgt9KyLHqAYX6WcSBg8ES0HUW5OLsaAb05kEc-XAccz50",
       "pictureSource": "الوطن",
       "relatedSearch": [
         {
-          "title": "بعد غياب 5 سنوات..هل يعود منخفض التنين للأجواء المصرية في طقس الـ48 ساعة المقبلة؟",
+          "title": "عاجل.. مناطق تصل إليها الأمطار اليوم.. اعرف مدينتك منهم ولا لا؟",
           "snippet": "",
-          "url": "https://www.elwatannews.com/news/details/8251588",
+          "url": "https://www.elwatannews.com/news/details/8252766",
           "source": "الوطن"
         },
         {
-          "title": "الأرصاد تعلن تفاصيل ذروة المنخفض السطحي وموعد استقرار الطقس",
+          "title": "الأرصاد المصرية تحذر من الأمطار: ذروة الطقس السيئ مستمرة على جميع المحافظات",
           "snippet": "",
-          "url": "https://www.altreeq.com/532453",
-          "source": "جريدة الطريق"
+          "url": "https://www.alkhaleej.ae/2026-03-25/%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D8%B0%D8%B1%D9%88%D8%A9-%D8%A7%D9%84%D8%B7%D9%82%D8%B3-%D8%A7%D9%84%D8%B3%D9%8A%D8%A6-%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-%D8%AC%D9%85%D9%8A%D8%B9-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA-6374556/%D9%85%D8%AD%D8%B7%D8%A7%D8%AA",
+          "source": "الخليج"
         },
         {
-          "title": "الإيد الشقيانة.. عم خالد بيشتغل تحت المطر علشان أكل العيش (فيديو)",
+          "title": "\"الأرصاد المصرية\" تحذر من تساقط حبات البرد على القاهرة وعدة مناطق",
           "snippet": "",
-          "url": "https://www.youm7.com/story/2026/3/25/%D8%A7%D9%84%D8%A5%D9%8A%D8%AF-%D8%A7%D9%84%D8%B4%D9%82%D9%8A%D8%A7%D9%86%D8%A9-%D8%B9%D9%85-%D8%AE%D8%A7%D9%84%D8%AF-%D8%A8%D9%8A%D8%B4%D8%AA%D8%BA%D9%84-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D9%85%D8%B7%D8%B1-%D8%B9%D9%84%D8%B4%D8%A7%D9%86-%D8%A3%D9%83%D9%84-%D8%A7%D9%84%D8%B9%D9%8A%D8%B4/7353604",
-          "source": "اليوم السابع"
+          "url": "https://pulse.mubasher.info/news/variety/97392/%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%AA%D8%B3%D8%A7%D9%82%D8%B7-%D8%AD%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%B1%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-%D9%88%D8%B9%D8%AF%D8%A9-%D9%85%D9%86%D8%A7%D8%B7%D9%82",
+          "source": "مباشر بلس"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -71,16 +99,16 @@
           "source": "ESPNcricinfo"
         },
         {
-          "title": "Connor Esterhuizen blasts South Africa to a 33-run win in the 5th T20 against New Zealand",
+          "title": "South Africa seal T20 series win in New Zealand",
           "snippet": "",
-          "url": "https://www.wral.com/news/ap/ad2fc-connor-esterhuizen-blasts-south-africa-to-a-33-run-win-in-the-5th-t20-against-new-zealand/",
-          "source": "WRAL"
+          "url": "http://www.msn.com/en-us/sports/other/south-africa-seal-t20-series-win-in-new-zealand/ar-AA1Zorei",
+          "source": "MSN"
         },
         {
-          "title": "5th T20I: Connor Esterhuizen's blitzkrieg helps South Africa secure series in New Zealand",
+          "title": "Connor Esterhuizen blasts South Africa to a 33-run win in the 5th T20 against New Zealand",
           "snippet": "",
-          "url": "https://sports.yahoo.com/articles/5th-t20i-connor-esterhuizens-blitzkrieg-171200087.html",
-          "source": "Yahoo Sports"
+          "url": "https://www.lmtonline.com/sports/article/new-zealand-wins-the-toss-and-bowls-in-the-22095275.php",
+          "source": "Laredo Morning Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,16 +127,16 @@
           "source": "The New York Times"
         },
         {
-          "title": "NASA’s ambitious plans for a Moon base mark a rethinking of its future",
-          "snippet": "",
-          "url": "https://www.economist.com/science-and-technology/2026/03/25/nasas-ambitious-plans-for-a-moon-base-mark-a-rethinking-of-its-future",
-          "source": "The Economist"
-        },
-        {
           "title": "NASA unveils ambitious $20 billion plan to build moon base near lunar south pole",
           "snippet": "",
           "url": "https://www.cbsnews.com/news/nasa-moon-base-plan-lunar-south-pole/",
           "source": "CBS News"
+        },
+        {
+          "title": "NASA announces new Mars mission, reshapes goals on the moon",
+          "snippet": "",
+          "url": "https://www.cnn.com/2026/03/24/science/nasa-ignition-mars-spacecraft-moon-base",
+          "source": "CNN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,9 +145,15 @@
       "title": "جوجل",
       "trafficCount": "500+",
       "pubDate": "Tue, 24 Mar 2026 20:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRhLFjVaKq4Ncgo8rWl1fbth2vCH6tQUQjMbGDu4Aw8WpGHhT474xwU-UWGJ4",
-      "pictureSource": "المتداول العربي",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQD62Xh3ZuBX2r5b3dgTny89sQSV96Nn9k2M3HxIKAqJnIO8TmAugeG9APxvcc",
+      "pictureSource": "البيادر السياسي",
       "relatedSearch": [
+        {
+          "title": "هيئة محلفين أمريكية تدين موقع YouTube في محاكمة Meta، إدمان وسائل التواصل الاجتماعي",
+          "snippet": "",
+          "url": "https://www.al-bayader.com/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%87%D9%8A%D8%A6%D8%A9-%D9%85%D8%AD%D9%84%D9%81%D9%8A%D9%86-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%AA%D8%AF%D9%8A%D9%86-%D9%85%D9%88%D9%82%D8%B9-youtube-%D9%81%D9%8A-%D9%85%D8%AD%D8%A7%D9%83/85579/",
+          "source": "البيادر السياسي"
+        },
         {
           "title": "إدانة ميتا ويوتيوب في قضية إدمان وسائل التواصل الاجتماعي",
           "snippet": "",
@@ -127,128 +161,10 @@
           "source": "المتداول العربي"
         },
         {
-          "title": "بدعوى لافتة... هيئة أميركية تُحمّل «إنستغرام» و«يوتيوب» مسؤولية إدمان وسائل التواصل",
+          "title": "لكل أب وأم.. وثائق مسربة تكشف ما تفعله خوارزميات إنستغرام بأطفالكم في الخفاء!",
           "snippet": "",
-          "url": "https://aawsat.com/%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7/5255284-%D8%A8%D8%AF%D8%B9%D9%88%D9%89-%D9%84%D8%A7%D9%81%D8%AA%D8%A9-%D9%87%D9%8A%D8%A6%D8%A9-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D9%8F%D8%AD%D9%85%D9%91%D9%84-%D8%A5%D9%86%D8%B3%D8%AA%D8%BA%D8%B1%D8%A7%D9%85-%D9%88%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8-%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9-%D8%A5%D8%AF%D9%85%D8%A7%D9%86-%D9%88%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84",
-          "source": "الشرق الأوسط"
-        },
-        {
-          "title": "القضاء الأمريكي يدين شركتي ميتا وجوجل لخطورة منصتيهما على القُصَر",
-          "snippet": "",
-          "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/25/%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D8%AF%D9%8A%D9%86-%D8%B4%D8%B1%D9%83%D8%AA%D9%8A-%D9%85%D9%8A%D8%AA%D8%A7-%D9%88%D8%AC%D9%88%D8%AC%D9%84-%D9%84%D8%AE%D8%B7%D9%88%D8%B1%D8%A9-%D9%85%D9%86%D8%B5%D8%AA%D9%8A%D9%87%D9%85%D8%A7-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%82%D8%B5%D8%B1",
-          "source": "Qatar news agency"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "واتساب",
-      "trafficCount": "2000+",
-      "pubDate": "Tue, 24 Mar 2026 20:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkgm_k0bCn5VZHJcH9isPm5FqFZFampRLpbceBO_h3FutiFUhm0r7GQJLceFo",
-      "pictureSource": "العربية",
-      "relatedSearch": [
-        {
-          "title": "\"الاختفاء بعد القراءة\".. ميزة \"واتساب\" المقبلة لأقصى درجات الخصوصية",
-          "snippet": "",
-          "url": "https://www.alarabiya.net/technology/applications/2026/03/22/%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D9%81%D8%A7%D8%A1-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-%D9%85%D9%8A%D8%B2%D8%A9-%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84%D8%A9-%D9%84%D8%A7%D9%82%D8%B5%D9%89-%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%B5%D9%88%D8%B5%D9%8A%D8%A9",
-          "source": "العربية"
-        },
-        {
-          "title": "واتساب يختبر تحسينات في تقليل الضوضاء للمكالمات الصوتية والمرئية",
-          "snippet": "",
-          "url": "https://po-news-eg.net/News_Details.aspx?id=97414&Title=%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8-%D9%8A%D8%AE%D8%AA%D8%A8%D8%B1-%D8%AA%D8%AD%D8%B3%D9%8A%D9%86%D8%A7%D8%AA-%D9%81%D9%8A-%D8%AA%D9%82%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%B6%D9%88%D8%B6%D8%A7%D8%A1-%D9%84%D9%84%D9%85%D9%83%D8%A7%D9%84%D9%85%D8%A7%D8%AA-%D8%A7%D9%84-%D8%A7%D9%84%D8%B1%D8%A3%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%85",
-          "source": "https://po-news-eg.net/"
-        },
-        {
-          "title": "تحديث جديد في واتساب يتعلّق بالدردشات وترجمة الرسائل",
-          "snippet": "",
-          "url": "https://www.arrajol.com/content/400208/%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7/%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%81%D9%8A-%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8-%D9%8A%D8%AA%D8%B9%D9%84%D9%91%D9%82-%D8%A8%D8%A7%D9%84%D8%AF%D8%B1%D8%AF%D8%B4%D8%A7%D8%AA-%D9%88%D8%AA%D8%B1%D8%AC%D9%85%D8%A9-%D8%A7%D9%84%D8%B1%D8%B3%D8%A7%D8%A6%D9%84",
-          "source": "مجلة الرجل"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "now",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 24 Mar 2026 20:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReYqU0dBpP8QuKAo5WrXhLN2FbCX5gQMeHAF9On-7gNyy82NvjpEpACFqGltk",
-      "pictureSource": "Kitsap Sun",
-      "relatedSearch": [
-        {
-          "title": "Vote now: Kitsap Sun athlete of the week poll for March 16-21",
-          "snippet": "",
-          "url": "https://www.kitsapsun.com/story/sports/high-school/2026/03/25/vote-now-kitsap-sun-athlete-of-the-week-poll-for-march-16-21/89290280007/",
-          "source": "Kitsap Sun"
-        },
-        {
-          "title": "Athlete of the week winners for March 9-14: Flaugher, Piland",
-          "snippet": "",
-          "url": "https://www.kitsapsun.com/videos/sports/high-school/2026/03/20/athlete-of-the-week-winners-for-march-9-14-flaugher-piland/89247238007/",
-          "source": "Kitsap Sun"
-        },
-        {
-          "title": "Flaugher, Piland voted Kitsap Sun athletes of the week for March 9-14",
-          "snippet": "",
-          "url": "https://www.kitsapsun.com/story/sports/high-school/2026/03/20/flaugher-piland-voted-kitsap-sun-athletes-of-the-week-for-march-9-14/89184950007/",
-          "source": "Kitsap Sun"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "weather",
-      "trafficCount": "10000+",
-      "pubDate": "Tue, 24 Mar 2026 19:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-KbuGwn8_apWcxBetFOZvRKaDuRXit7274GtW1Llo8pm-w2dTUqdq4InGnmE",
-      "pictureSource": "Oman Observer",
-      "relatedSearch": [
-        {
-          "title": "Chances of heavy rains in most governorates on Wednesday: Met",
-          "snippet": "",
-          "url": "https://www.omanobserver.om/article/1186660/oman/weather/chances-of-heavy-rains-in-most-governorates-on-wednesday-met",
-          "source": "Oman Observer"
-        },
-        {
-          "title": "Families relocated to safe accommodation following severe weather impact",
-          "snippet": "",
-          "url": "https://www.muscatdaily.com/2026/03/25/families-relocated-to-safe-accommodation-ncem/",
-          "source": "Muscat Daily"
-        },
-        {
-          "title": "Oman flood disaster 2026: Death toll rises to 4 as search continues amid severe storms",
-          "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/world/middle-east/oman-flood-disaster-2026-death-toll-rises-to-4-as-search-continues-amid-severe-storms/articleshow/129731263.cms",
-          "source": "The Times of India"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "new zealand women vs south africa women",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 24 Mar 2026 19:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHl4fLBcvFIls8oFojuaEx4Wr_oKcIAeZ81JTZwiwhhz93PDZC3wvpzAH9K14",
-      "pictureSource": "Wisden",
-      "relatedSearch": [
-        {
-          "title": "276 Runs, Five Wickets: Amelia Kerr Joins Hayley Matthews In Exclusive WT20I List After Brilliant South Africa Series | NZ Vs SA",
-          "snippet": "",
-          "url": "https://www.wisden.com/cricket-news/276-runs-five-wickets-nz-skipper-amelia-kerr-joins-wi-legend-hayley-matthews-in-exclusive-wt20i-list-after-brilliant-sa-series",
-          "source": "Wisden"
-        },
-        {
-          "title": "New Zealand warm up for T20WC with South Africa series victory",
-          "snippet": "",
-          "url": "https://www.icc-cricket.com/news/new-zealand-warm-up-for-t20wc-with-south-africa-series-victory",
-          "source": "ICC"
-        },
-        {
-          "title": "Ball by Ball Commentary & Live Score - NZ-W vs SA-W, 5th T20I",
-          "snippet": "",
-          "url": "https://www.espncricinfo.com/series/south-africa-women-in-new-zealand-2025-26-1491692/new-zealand-women-vs-south-africa-women-5th-t20i-1491709/ball-by-ball-commentary",
-          "source": "ESPNcricinfo"
+          "url": "https://dailybeirut.com/%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D9%88%D8%B9%D9%84%D9%88%D9%85/%D9%84%D9%83%D9%84-%D8%A3%D8%A8-%D9%88%D8%A3%D9%85-%D9%88%D8%AB%D8%A7%D8%A6%D9%82-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D9%85%D8%A7-%D8%AA%D9%81%D8%B9%D9%84%D9%87-%D8%AE%D9%88/",
+          "source": "Daily Beirut"
         }
       ],
       "link": "https://imtaqin.id/"

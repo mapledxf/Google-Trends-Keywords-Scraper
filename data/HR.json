@@ -1,24 +1,52 @@
 {
-  "lastUpdate": "2026-03-27 03:23:24",
+  "lastUpdate": "2026-03-27 05:19:47",
   "data": [
     {
-      "title": "vremenska prognoza zagreb",
-      "trafficCount": "2000+",
-      "pubDate": "Thu, 26 Mar 2026 19:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoiVqIJlJMQ-6MflrIe1z4kB_lyQhFTBTl-GscTQcMEtOixu-ke0R01b0QZHM",
-      "pictureSource": "Slobodna Dalmacija",
+      "title": "weather",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 26 Mar 2026 21:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSicE0OugNmiuPJQENrh927kAhVyOheao_qwTdvkNosBYDXQDmpTFrroCii6JE",
+      "pictureSource": "WSAZ",
       "relatedSearch": [
+        {
+          "title": "First Alert Weather",
+          "snippet": "",
+          "url": "https://www.wsaz.com/2026/03/27/first-alert-weather/",
+          "source": "WSAZ"
+        },
+        {
+          "title": "Crews battle brush fire along 5th Street Road in Cabell County",
+          "snippet": "",
+          "url": "https://www.wsaz.com/2026/03/27/crews-battle-brush-fire-along-5th-street-cabell-county/",
+          "source": "WSAZ"
+        },
+        {
+          "title": "First Alert Weather+ | New weather shock heading in",
+          "snippet": "",
+          "url": "https://www.wsaz.com/2026/03/26/weather-extra/",
+          "source": "WSAZ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "stanje na cestama",
+      "trafficCount": "1000+",
+      "pubDate": "Thu, 26 Mar 2026 20:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQl7eRwkvEcjwt0Zq4ocJuHq2a3dL5OdGUTWm4XG6KmWa_Zf1EPVr5RhIU3ycg",
+      "pictureSource": "DHMZ - Državni hidrometeorološki zavod",
+      "relatedSearch": [
+        {
+          "title": "DHMZ",
+          "snippet": "",
+          "url": "https://meteo.hr/objave_najave_natjecaji.php?section=onn&param=objave&el=priopcenja&daj=pr24032026",
+          "source": "DHMZ - Državni hidrometeorološki zavod"
+        },
         {
           "title": "VIDEO Ličani u čudu, ralice nemoćne, a Deborah se tek zagrijava!? Stižu ekstremne količine! 'Ima ga već pola metra...'",
           "snippet": "",
           "url": "https://slobodnadalmacija.hr/vijesti/hrvatska/video-licani-u-cudu-ralice-nemocne-a-deborah-se-tek-zagrijava-stizu-ekstremne-kolicine-ima-ga-vec-pola-metra-1546320",
           "source": "Slobodna Dalmacija"
-        },
-        {
-          "title": "FOTO Dramatično stanje na autocestama, gusti snijeg i dalje pada. Evo koliko ga ima dosad",
-          "snippet": "",
-          "url": "https://www.24sata.hr/news/foto-dramaticno-stanje-na-autocestama-gusti-snijeg-i-dalje-pada-evo-koliko-ga-ima-dosad-1117382",
-          "source": "24sata.hr"
         },
         {
           "title": "Hrvatska presječena na pola: Zbog zimskih uvjeta zatvoreni svi pravci, 100 intervencija u Zagrebu",
@@ -30,8 +58,64 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "dnevnik",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 26 Mar 2026 19:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnjgH4e5YDbHAfsowVLkjk1jKDZpj1_bC4y3zqCIUIaNwrikpjZa8FsNTOp9g",
+      "pictureSource": "Slobodna Dalmacija",
+      "relatedSearch": [
+        {
+          "title": "Zvona i ezan nad Stocem! Mural o Vukovaru rasplamsao stare sukobe: 'Treba malo da sve plane. Pitanje je što dalje...'",
+          "snippet": "",
+          "url": "https://slobodnadalmacija.hr/vijesti/regija/zvona-i-ezan-nad-stocem-mural-o-vukovaru-rasplamsao-stare-sukobe-treba-malo-da-sve-plane-pitanje-je-sto-dalje-1545548",
+          "source": "Slobodna Dalmacija"
+        },
+        {
+          "title": "U Stocu izbili sukobi između pripadnika rivalskih navijačkih skupina",
+          "snippet": "",
+          "url": "https://dubrovackidnevnik.net.hr/vijesti/svijet/u-stocu-izbili-sukobi-izmedu-pripadnika-hercegovackih-rivalskih-navijackih-skupina",
+          "source": "Dubrovački dnevnik"
+        },
+        {
+          "title": "Bošnjaci vandalizirali mural za Vukovar u Stocu i ispisali svoj; došlo je i do fizičkog obračuna",
+          "snippet": "",
+          "url": "https://narod.hr/hrvatska/bosnjaci-vandalizirali-mural-za-vukovar-u-stocu-i-ispisali-svoj-doslo-je-i-do-fizickog-obracuna",
+          "source": "Narod.hr"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "jutarnji",
+      "trafficCount": "1000+",
+      "pubDate": "Thu, 26 Mar 2026 19:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdY0JOYmv5twcKSGi8lNEbuzh6LnsaHz2wCLF1Ng890M42TQvtap9DEzwpSdM",
+      "pictureSource": "Jutarnji list",
+      "relatedSearch": [
+        {
+          "title": "Pomalo šokantno priznanje Donalda Trumpa na FOX Newsu uživo: ‘Da, tako mi kaže CIA!‘",
+          "snippet": "",
+          "url": "https://www.jutarnji.hr/vijesti/svijet/trump-cia-navodi-modztaba-hamenei-iran-fox-news-new-york-post-15693038",
+          "source": "Jutarnji list"
+        },
+        {
+          "title": "Ličani skupljaju sredstva kako bi sugrađaninu Ivanu Paveliću osigurali dostojanstven život",
+          "snippet": "",
+          "url": "https://www.jutarnji.hr/vijesti/hrvatska/humanitarna-akcija-dom-ivana-pavelica-pristupacan-bez-barijera-15692917",
+          "source": "Jutarnji list"
+        },
+        {
+          "title": "Udruga branitelja Uskok Senj poziva na pomoć obitelji Pavelić iz Gospića",
+          "snippet": "",
+          "url": "https://www.novilist.hr/rijeka-regija/udruga-branitelja-uskok-senj-poziva-na-pomoc-obitelji-pavelic-iz-gospica/",
+          "source": "Novi list"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "24sata",
-      "trafficCount": "500+",
+      "trafficCount": "2000+",
       "pubDate": "Thu, 26 Mar 2026 18:50:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnvA7FHX-VOuDF9eJ-v39ElGkxvy0Ofd4AkGy3jOk8lSHlxNBziX0JGHY18Jg",
       "pictureSource": "Večernji.hr",
@@ -59,22 +143,22 @@
     },
     {
       "title": "index",
-      "trafficCount": "500+",
+      "trafficCount": "2000+",
       "pubDate": "Thu, 26 Mar 2026 18:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQp1ULed4I3yz7gvTwM6W4vDqt0IkgdxJrFGyTLhB77ukpKC92F0l3cyrRIW18",
-      "pictureSource": "The New York Times",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4tviZdu-vEoDHCThm_1DwEJz2bTidSq-S4qtXxG89CtoUgMW1sTASwYmGXeM",
+      "pictureSource": "CNN",
       "relatedSearch": [
+        {
+          "title": "Stocks, bonds and gold all fall in market slide",
+          "snippet": "",
+          "url": "https://www.cnn.com/2026/03/26/economy/iran-war-stocks-safe-havens",
+          "source": "CNN"
+        },
         {
           "title": "U.S. Stocks Have Their Biggest Drop Since Start of Iran War",
           "snippet": "",
           "url": "https://www.nytimes.com/2026/03/26/business/oil-stock-gas-prices-iran.html",
           "source": "The New York Times"
-        },
-        {
-          "title": "Stocks, bonds and gold all fall in market slide | CNN Business",
-          "snippet": "",
-          "url": "https://www.cnn.com/2026/03/26/economy/iran-war-stocks-safe-havens",
-          "source": "CNN"
         },
         {
           "title": "Dow slides more than 450 points, pressured by rising oil prices and doubts over Iran negotiations: Live updates",
@@ -86,18 +170,40 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "24 sata",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 26 Mar 2026 18:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsN1-OW9GwvUwaYjqDe5z93cSBH094aX8MWqcYhB2LltLpNekzkdk_woNDedM",
+      "pictureSource": "24sata.hr",
+      "relatedSearch": [
+        {
+          "title": "Vuškovićeva emotivna posveta: 'Gol za gospodina Klasnića! Sad je u bolnici, nije mu najlakše'",
+          "snippet": "",
+          "url": "https://www.24sata.hr/sport/vuskoviceva-emotivna-posveta-gol-za-gospodina-klasnica-sad-je-u-bolnici-nije-mu-najlakse-1117520",
+          "source": "24sata.hr"
+        },
+        {
+          "title": "100 fotki velikog nevremena",
+          "snippet": "",
+          "url": "https://www.24sata.hr/news/100-slika-danasnjeg-nevremena-1117496",
+          "source": "24sata.hr"
+        },
+        {
+          "title": "Jak vjetar ruši stabla po Zagrebu. Dijelovi autocesta prema moru zatvoreni",
+          "snippet": "",
+          "url": "https://www.index.hr/vijesti/clanak/jak-vjetar-rusi-stabla-po-zagrebu-dijelovi-autocesta-prema-moru-zatvoreni/2775649.aspx",
+          "source": "Index.hr"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "earthquake",
       "trafficCount": "200+",
       "pubDate": "Thu, 26 Mar 2026 18:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjuIaIghZAE836emFADh_97HkCkOVRXn0nMQ27qRHjpneoqoDWxyQP12RFmbw",
-      "pictureSource": "Sacramento Bee",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUSpagwHPbc0ty46LhQuXTnkhQsWHDKHl2sUNdnOivmhUl91fxzL_PfIOsenQ",
+      "pictureSource": "Fresno Bee",
       "relatedSearch": [
-        {
-          "title": "Update: Earthquake struck region close to Julian, CA on March 26 - 2.4 magnitude reported",
-          "snippet": "",
-          "url": "https://www.sacbee.com/news/california/earthquakes/article315204459.html",
-          "source": "Sacramento Bee"
-        },
         {
           "title": "Update: March 26 - 3.7 magnitude earthquake reported near Upper Lake, CA",
           "snippet": "",
@@ -105,10 +211,16 @@
           "source": "Fresno Bee"
         },
         {
+          "title": "Update: Earthquake struck region close to Julian, CA on March 26 - 2.4 magnitude reported",
+          "snippet": "",
+          "url": "https://www.sanluisobispo.com/news/california/earthquakes/article315204459.html",
+          "source": "San Luis Obispo Tribune"
+        },
+        {
           "title": "March 26: Earthquake measuring 2.2 struck region close to Upper Lake, CA",
           "snippet": "",
-          "url": "https://www.sanluisobispo.com/news/california/earthquakes/article315198721.html",
-          "source": "San Luis Obispo Tribune"
+          "url": "https://www.modbee.com/news/california/earthquakes/article315198721.html",
+          "source": "Modesto Bee"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +239,16 @@
           "source": "NOVINE.hr"
         },
         {
-          "title": "Zagreb se zatresao u sitne sate. Građane probudio slabiji potres: 'Samo nam je ovo još falilo'",
+          "title": "Slabiji potres zatresao Zagreb usred olujne noći",
           "snippet": "",
-          "url": "https://www.jutarnji.hr/vijesti/hrvatska/potres-2-9-zagreb-epicentar-sjeverozapadno-2-42-emsc-15693031",
-          "source": "Jutarnji list"
+          "url": "https://www.lika-online.hr/slabiji-potres-zatresao-zagreb-usred-olujne-noci/",
+          "source": "LIKA ONLINE"
         },
         {
-          "title": "Na obljetnicu zagrebačkog, slab potres kod Crikvenice, osjetili ga i u Senju",
+          "title": "Potres zatresao Zagreb",
           "snippet": "",
-          "url": "https://net.hr/danas/vijesti/potres-magnitude-1-4-kod-crikvenice-i-rijeke-21b170d4-2625-11f1-936f-9600040c8f8e",
-          "source": "Net.hr"
+          "url": "https://radio105.hr/potres-zatresao-zagreb/",
+          "source": "Glas sjevera - Radio 105"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,138 +257,26 @@
       "title": "nova tv program",
       "trafficCount": "100+",
       "pubDate": "Thu, 26 Mar 2026 16:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMpMDTkwdgEXjqUfBapNFIKtVHoK4XM2WGBfO6kLMiNrtWFQhnp2nOJ7h3-Yo",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTGxzMSqO35K2b08SjvjixHkhyrQbvOBPGRgXVE1KTr-RDhX3-athmIAg512E",
       "pictureSource": "Nova TV",
       "relatedSearch": [
         {
-          "title": "Ana Mamut bez imalo zadrške! \"Od jednog alfa mužjaka pretvorio se u duha!\"",
+          "title": "Kumovi, 7. travnja",
           "snippet": "",
-          "url": "https://novatv.dnevnik.hr/zabavni/survivor/clanak/zanimljivosti/survivor-ana-mamut-bez-imalo-zadrske-od-jednog-alfa-muzjaka-pretvorio-se-u-duha---971188.html",
+          "url": "https://novatv.dnevnik.hr/serije/kumovi/epizoda/6/43",
           "source": "Nova TV"
         },
         {
-          "title": "Splićanka zbog ozljede glave prisilno napustila 'Survivor'. No, prošla je i gore bitke: 'Nažalost, odstranili su...'",
+          "title": "Crno more: Nema mjesta za slavlje jer im prijeti nova opasnost",
           "snippet": "",
-          "url": "https://slobodnadalmacija.hr/mozaik/zivot/splicanka-zbog-ozljede-glave-prisilno-napustila-survivor-no-prosla-je-i-gore-bitke-nazalost-odstranili-su-1546043",
-          "source": "Slobodna Dalmacija"
-        },
-        {
-          "title": "SURVIVOR SPECIJAL: Ana Mamut",
-          "snippet": "",
-          "url": "https://dnevnik.hr/video/survivor-specijal-ana-mamut---63281656",
-          "source": "Dnevnik.hr"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "orlando",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 26 Mar 2026 16:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Colombia vs Croatia: Friendlies stats & head-to-head",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/c2evkpwyw8nt",
-          "source": "BBC"
-        },
-        {
-          "title": "&$+[[UŽIVO*]] Hrvatska Kolumbija Evo gdje i kad gledati utakmicu u Orlandu",
-          "snippet": "",
-          "url": "https://www.ica.gov.co/css/gob/video-hrvatska-kolumbija-tv962505621.html",
-          "source": "Instituto Colombiano Agropecuario - ICA"
-        },
-        {
-          "title": "Road to 26: Croatia Beats Colombia 2-1 in Orlando",
-          "snippet": "",
-          "url": "https://total-croatia-news.com/news/sport/road-to-26-croatia-beats-colombia-2-1-in-orlando/",
-          "source": "Total Croatia"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "kolumbija",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 26 Mar 2026 16:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTs7mNMDbh8jIYVtaExYqtDSRcpbp5pPE4Vn9LLxQSD1FIFsnxhIVrToAd77sg",
-      "pictureSource": "FOX 4 News Dallas-Fort Worth",
-      "relatedSearch": [
-        {
-          "title": "Dallas-based American Airlines flight attendant reported missing in Colombia",
-          "snippet": "",
-          "url": "https://www.fox4news.com/news/american-airlines-flight-attendant-missing-colombia-dallas",
-          "source": "FOX 4 News Dallas-Fort Worth"
-        },
-        {
-          "title": "\"Shattered\" partner of American Airlines flight attendant missing in Colombia: \"I want to believe that he's alive\"",
-          "snippet": "",
-          "url": "https://www.cbsnews.com/news/american-airlines-flight-attendant-missing-colombia-eric-fernado-gutierrez-molina/",
-          "source": "CBS News"
-        },
-        {
-          "title": "American Airlines flight attendant reported missing in Colombia: Officials",
-          "snippet": "",
-          "url": "https://abcnews.com/International/american-airlines-flight-attendant-reported-missing-colombia-officials/story?id=131446574",
-          "source": "ABC News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "nova tv",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 26 Mar 2026 15:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCKc3ebeZqz5hUj7yAm5jzdkgXQXCf3dw-C1gRklt1B91b6LQR97nZtIEzV-o",
-      "pictureSource": "Večernji.hr",
-      "relatedSearch": [
-        {
-          "title": "Natjecateljski dio donio je dramatičan preokret u spektakularnoj igri, a onda je uslijedila nagrada",
-          "snippet": "",
-          "url": "https://www.vecernji.hr/showbiz/natjecateljski-dio-donio-je-dramatican-preokret-u-spektakularnoj-igri-a-onda-je-uslijedila-nagrada-1945407/galerija-697606?page=1",
-          "source": "Večernji.hr"
-        },
-        {
-          "title": "Kumovi: Teško će išta zamijeniti njihovu gostionicu",
-          "snippet": "",
-          "url": "https://novatv.dnevnik.hr/serije/kumovi/clanak/zanimljivosti/kumovi-tesko-ce-ista-zamijeniti-njihovu-gostionicu---971023.html",
+          "url": "https://novatv.dnevnik.hr/serije/crno-more/clanak/zanimljivosti/crno-more-nema-mjesta-za-slavlje-jer-im-prijeti-nova-opasnost---971130.html",
           "source": "Nova TV"
         },
         {
-          "title": "Što će večeras biti u Kumovima? Braco traži novac za Mirjanu",
+          "title": "Crno more: Još uvijek ima nade za nju",
           "snippet": "",
-          "url": "https://www.24sata.hr/show/sto-ce-veceras-biti-u-kumovima-braco-trazi-novac-za-mirjanu-1117389",
-          "source": "24sata.hr"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "rezultati",
-      "trafficCount": "1000+",
-      "pubDate": "Thu, 26 Mar 2026 15:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqHO7x4CobhWy1GiEc56KauRDQ2g664l8z9Yg1miQJ-J0dzOqkhr8CzVihHF4",
-      "pictureSource": "Jutarnji list",
-      "relatedSearch": [
-        {
-          "title": "Rezultati glasovanja u UN-u pogubni su za Zapad, a EU se osramotila. Dakle, i Hrvatska",
-          "snippet": "",
-          "url": "https://www.jutarnji.hr/vijesti/svijet/eu-suzdrzana-un-rezolucija-ropstvo-afrikanaca-odgovornost-reparacije-15693007",
-          "source": "Jutarnji list"
-        },
-        {
-          "title": "UN: Transatlantska trgovina robljem je najteži zločin protiv čovječnosti",
-          "snippet": "",
-          "url": "https://www.tportal.hr/vijesti/clanak/un-transatlantska-trgovina-robljem-je-najtezi-zlocin-protiv-covjecnosti-20260326",
-          "source": "tportal.hr"
-        },
-        {
-          "title": "UN: \"Ropstvo je zločin protiv čovječnosti\". SAD i Izrael glasali protiv, EU suzdržana",
-          "snippet": "",
-          "url": "https://www.index.hr/vijesti/clanak/un-ropstvo-je-zlocin-protiv-covjecnosti-sad-i-izrael-glasali-protiv-eu-suzdrzana/2775180.aspx",
-          "source": "Index.hr"
+          "url": "https://novatv.dnevnik.hr/serije/crno-more/clanak/zanimljivosti/crno-more-jos-uvijek-ima-nade-za-nju---970677.html",
+          "source": "Nova TV"
         }
       ],
       "link": "https://imtaqin.id/"

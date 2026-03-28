@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-03-28 12:34:00",
+  "lastUpdate": "2026-03-28 13:34:43",
   "data": [
+    {
+      "title": "погода вінниця",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 28 Mar 2026 06:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdLdsF3cWR65GjB7W0Hxt2Dw95rpZ8zMwvWkQtTJmm2GkQYqxycEQPDuaCL4U",
+      "pictureSource": "Суспільне | Новини",
+      "relatedSearch": [
+        {
+          "title": "Пройде невеликий дощ: погода на Вінниччині 28 березня",
+          "snippet": "",
+          "url": "https://suspilne.media/vinnytsia/1274922-projde-nevelikij-dos-pogoda-na-vinniccini-28-berezna/",
+          "source": "Суспільне | Новини"
+        },
+        {
+          "title": "Погода у Вінниці в суботу, 28 березня",
+          "snippet": "",
+          "url": "https://presspoint.in.ua/2026/03/28/pohoda-u-vinnytsi-v-subotu-28-bereznia/",
+          "source": "Вінниця Преспоінт"
+        },
+        {
+          "title": "Дощі та потепління: якою буде погода на Вінниччині у вихідні",
+          "snippet": "",
+          "url": "https://www.myvin.com.ua/news/47098-doshchi-ta-poteplinnia-iakoiu-bude-pohoda-na-vinnychchyni-u-vykhidni",
+          "source": "Моя Вінниця"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "погода чернівці",
       "trafficCount": "200+",
@@ -33,9 +61,15 @@
       "title": "ужгород",
       "trafficCount": "200+",
       "pubDate": "Sat, 28 Mar 2026 04:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRz0-0xsl5FPRzkaeJHt6607XUbom0sKkSgaOdI-aY1ujRXe_vRrdRCChdpUbo",
-      "pictureSource": "Террикон",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTu2JZ0mSyNWDTxiVCJuRMYpfCwIcHDmm_oK5sX8WY80UDwcFE4dEgYSgOSYck",
+      "pictureSource": "https://banosh.com.ua/",
       "relatedSearch": [
+        {
+          "title": "Мініскульптури Ужгорода: художник на ковзанах, митник із песиком і професор із фронту",
+          "snippet": "",
+          "url": "https://banosh.com.ua/turystychnyj-banosh/miniskulptury-uzhgoroda-hudozhnyk-na-kovzanah-mytnyk-iz-pesykom-i-profesor-iz-frontu/",
+          "source": "https://banosh.com.ua/"
+        },
         {
           "title": "ЮКСА - Металлург онлайн трансляция",
           "snippet": "",
@@ -47,12 +81,6 @@
           "snippet": "",
           "url": "https://www.ua-football.com/ukrainian/2a/1774615889-vtoraya-liga-videotranslyacii-matchey-dnya.html",
           "source": "UA-Football"
-        },
-        {
-          "title": "Два разгрома и ничья. Результаты матчей 22-го тура Второй лиги",
-          "snippet": "",
-          "url": "https://sport.ua/news/852231-dva-razgroma-i-nichya-rezultaty-matchey-22-go-tura-vtoroy-ligi",
-          "source": "Sport.ua"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -74,9 +102,9 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "синоптик київ",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 28 Mar 2026 03:40:00 -0700",
+      "title": "погода київ",
+      "trafficCount": "2000+",
+      "pubDate": "Sat, 28 Mar 2026 03:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRn55S0DKJXtOnE8-gGvM-SqGS05N6G8D3JTVyo4Qgylb-Nlym29j8f_DgWZWE",
       "pictureSource": "УНІАН",
       "relatedSearch": [
@@ -87,44 +115,16 @@
           "source": "УНІАН"
         },
         {
-          "title": "Сьогодні в Україні до +18°, дощі лише на заході",
+          "title": "В Україні у неділю подекуди дощитиме, вдень прогріє до +19°",
           "snippet": "",
-          "url": "https://www.ukrinform.ua/rubric-regions/4106272-sogodni-v-ukraini-do-18-dosi-lise-na-zahodi.html",
+          "url": "https://www.ukrinform.ua/rubric-regions/4106600-v-ukraini-u-nedilu-podekudi-dositime-vden-progrie-do-19.html",
           "source": "Укрінформ"
         },
         {
-          "title": "До України суне холодний циклон зі Скандинавії: у яких регіонах очікувати снігу",
+          "title": "На вихідних в Україні прогріється до +18°, в більшості областей очікується невеликий дощ",
           "snippet": "",
-          "url": "https://tsn.ua/ukrayina/do-ukrayiny-sune-tsyklon-zi-skandynaviyi-u-iakykh-rehionakh-chekaty-na-povernennia-mokroho-snihu-nayblyzchymy-dniamy-3050387.html",
-          "source": "ТСН"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "синоптик киев",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 28 Mar 2026 03:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpRmE-y0mN9nRjPUh5-tiv6CRFaFRNqhecxxEnZ74UAwBWAqRdaaqds_yIRY0",
-      "pictureSource": "Obozrevatel",
-      "relatedSearch": [
-        {
-          "title": "До +19°С днем: прогноз погоды по Киевской области на 29 марта",
-          "snippet": "",
-          "url": "https://www.obozrevatel.com/zhizn-stolitsyi/do-19s-dnem-prognoz-pogodyi-po-kievskoj-oblasti-na-29-marta.htm",
-          "source": "Obozrevatel"
-        },
-        {
-          "title": "Метеорологическая угроза и аномальное тепло. Синоптики сообщили об особенностях погоды в последний выходной марта",
-          "snippet": "",
-          "url": "https://nv.ua/ukraine/events/pogoda-v-marte-gde-budet-anomalnoe-teplo-i-komu-grozit-meteorologicheskaya-opasnost-v-ukraine-50595542.html",
-          "source": "NV"
-        },
-        {
-          "title": "Еще тепло, но есть регионы с особенностями: чего ждать от погоды сегодня",
-          "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/shche-teplo-ale-e-regioni-osoblivostyami-1774621100.html",
-          "source": "РБК-Україна"
+          "url": "https://lb.ua/society/2026/03/27/729586_vihidnih_ukrayini_progriietsya.html",
+          "source": "LB.ua"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -149,38 +149,10 @@
           "source": "РБК-Україна"
         },
         {
-          "title": "Синоптики предупредили об изменении погоды в Киеве и области: прогноз на ближайшие пять суток",
+          "title": "Тепло еще задержится, но ветер будет уже холодный - синоптики рассказали, какая погода ожидается в субботу",
           "snippet": "",
-          "url": "https://www.obozrevatel.com/zhizn-stolitsyi/sinoptiki-predupredili-ob-izmenenii-pogodyi-v-kieve-i-oblasti-prognoz-na-blizhajshie-pyat-sutok.htm",
-          "source": "Obozrevatel"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "погода київ",
-      "trafficCount": "2000+",
-      "pubDate": "Sat, 28 Mar 2026 03:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYp5YJKXigYdqK0aCShLZf3BW1_diExNDhbTybGqHRm0EXP2YEXtQ-BHkqHJo",
-      "pictureSource": "УНІАН",
-      "relatedSearch": [
-        {
-          "title": "До Києва йде похолодання: температура впаде нижче +10° (графік)",
-          "snippet": "",
-          "url": "https://www.unian.ua/pogoda/news/pogoda-u-kiyevi-u-stolici-temperatura-vpade-nizhche-100-grafik-novini-kiyeva-13330152.html",
-          "source": "УНІАН"
-        },
-        {
-          "title": "Від тепла до прохолоди: якою буде погода у Києві та області на вихідних",
-          "snippet": "",
-          "url": "https://tvoemisto.tv/uk/news/511-vid-tepla-do-prokholody-yakoyu-bude-pohoda-u-kyyevi-ta-oblasti-na-vykhidnykh",
-          "source": "Твоє місто"
-        },
-        {
-          "title": "Тепліші ночі, але прохолодніші дні: яку погоду прогнозують у Києві і області",
-          "snippet": "",
-          "url": "https://suspilne.media/kyiv/1275290-teplisi-noci-ale-proholodnisi-dni-aku-pogodu-prognozuut-u-kievi-i-oblasti/",
-          "source": "Суспільне | Новини"
+          "url": "https://ukranews.com/news/1142592-teplo-eshhe-zaderzhitsya-no-veter-budet-uzhe-holodnyj-sinoptiki-rasskazali-kakaya-pogoda",
+          "source": "Українські Новини"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,9 +217,15 @@
       "title": "чапаевск",
       "trafficCount": "200+",
       "pubDate": "Sat, 28 Mar 2026 00:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Z1FvPAhKBRh9yYOaK0E1kKqcuGQNwdIjRaUN1sFrkrOSeUf70LHHxgE2yBc",
-      "pictureSource": "NV",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhoAMxaLJnha3fSYI77KYT8rpRVu3r3cehc9DeWTCfJcqyr2VPG8yN18TQ7MA",
+      "pictureSource": "Українська правда",
       "relatedSearch": [
+        {
+          "title": "\"Фламінго\" поразили завод в Самарской области – Генштаб",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/rus/news/2026/03/28/8027584/",
+          "source": "Українська правда"
+        },
         {
           "title": "Один из крупнейших производителей взрывчатки: ракеты Фламинго атаковали российский завод Промсинтез в Самарской области — OSINT-анализ",
           "snippet": "",
@@ -255,16 +233,38 @@
           "source": "NV"
         },
         {
-          "title": "В Самарской области атакованы заводы по производству взрывчатки. В Ярославле атакован НПЗ, погиб ребенок",
+          "title": "СМИ: на два российских завода прилетела ракета \"Фламинго\"",
           "snippet": "",
-          "url": "https://www.currenttime.tv/a/v-samarskoy-oblasti-atakovana-territoriya-zavoda-po-proizvodstvu-vzryvchatyh-veschestv-vlasti-obyavlyali-raketnuyu-opasnost/33718615.html",
-          "source": "Настоящее Время"
+          "url": "https://zn.ua/war/smi-na-dva-rossijskikh-zavoda-priletela-raketa-flaminho.html",
+          "source": "Дзеркало тижня"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "вербна неділя 2026",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 27 Mar 2026 23:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKxgwslapBtviauQu34Nagw7fI9FW1WNATcXiPCMz4oz1oFudsIj2mKzFsWTU",
+      "pictureSource": "Rayon.in.ua",
+      "relatedSearch": [
+        {
+          "title": "Коли Вербна неділя у 2026 році в Україні: дата для православних та католиків",
+          "snippet": "",
+          "url": "https://kultura.rayon.in.ua/news/1061434-verbna-nedilia-2026-v-ukrayini-data-tradiciyi-ta-zaboroni-sviata/",
+          "source": "Rayon.in.ua"
         },
         {
-          "title": "В россии атаковали ряд регионов. По Самарской области, вероятно, прилетела ракета «Фламинго»",
+          "title": "Що заборонено робити із освяченою вербою",
           "snippet": "",
-          "url": "https://hromadske.ua/ru/voyna/261516-v-rossii-atakovali-ryad-regionov-po-samarskoy-oblasti-veroyatno-priletela-raketa-flamingo",
-          "source": "Hromadske"
+          "url": "https://volyn24.com/news/244050-scho-zaboroneno-robyty-iz-osviachenoyu-verboyu",
+          "source": "Волинь 24"
+        },
+        {
+          "title": "Наближається Вербна неділя 2026 для католиків: головні традиції свята",
+          "snippet": "",
+          "url": "https://lifestyle.24tv.ua/verbna-nedilya-2026-yaki-traditsiyi-istoriya-svyata-shho-roblyat_n3036748",
+          "source": "24 Канал"
         }
       ],
       "link": "https://imtaqin.id/"

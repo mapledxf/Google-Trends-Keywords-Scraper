@@ -1,13 +1,103 @@
 {
-  "lastUpdate": "2026-03-30 22:07:51",
+  "lastUpdate": "2026-03-30 22:54:30",
   "data": [
+    {
+      "title": "날씨",
+      "trafficCount": "200000+",
+      "pubDate": "Mon, 30 Mar 2026 14:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiBarbzwZKilSQNuS_93Hk-d4XpCPPBVvgR7UQ_pi1R2YB4IRoWn2zaVMIMeE",
+      "pictureSource": "KBS 뉴스",
+      "relatedSearch": [
+        {
+          "title": "오전까지 전국에 비…제주·남해안 ‘강풍’",
+          "snippet": "",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8522509",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "광주·전남 오후에 비 그쳐…낮 최고 21도 '봄 날씨'",
+          "snippet": "",
+          "url": "https://www.newsis.com/view/NISX20260331_0003570402",
+          "source": "뉴시스"
+        },
+        {
+          "title": "오늘 오전까지 전국 비… 서울 벚꽃 금요일 만발",
+          "snippet": "",
+          "url": "https://www.chosun.com/national/transport-environment/2026/03/31/CDXAVDQ7SNHMVOSX2ZWPLSABPA/",
+          "source": "조선일보"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather",
+      "trafficCount": "2000+",
+      "pubDate": "Mon, 30 Mar 2026 14:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKkUE5hRC5gj4ktYHKbMtv4qX0GzD3-TPqnwWvcPk4gIRmbHAYcG_eUfkAX3I",
+      "pictureSource": "Lansing State Journal",
+      "relatedSearch": [
+        {
+          "title": "Weather could make Tuesday morning commute in Lansing area difficult",
+          "snippet": "",
+          "url": "https://www.lansingstatejournal.com/story/news/2026/03/30/lansing-weather-storms-hail-rain/89392853007/",
+          "source": "Lansing State Journal"
+        },
+        {
+          "title": "A few severe storms possible this evening and Tuesday AM well south of I-90",
+          "snippet": "",
+          "url": "https://www.news8000.com/weather/forecast/a-few-severe-storms-possible-this-evening-and-tuesday-am-well-south-of-i-90/article_02402f38-583a-11ef-ac0a-f3caaffb1be1.html",
+          "source": "news8000.com"
+        },
+        {
+          "title": "STORM ALERT WEATHER 3 FORECAST: Record warmth for some Monday, low-end severe threat",
+          "snippet": "",
+          "url": "https://www.kimt.com/weather/forecast/storm-alert-weather-3-forecast-record-warmth-for-some-monday-low-end-severe-threat/article_bdb1a94e-6121-11ec-973b-73d9d4fb0766.html",
+          "source": "KIMT"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "야간선물",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 30 Mar 2026 14:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeOLT6ALsRFYus8ybV9c2jHAXh2Y0SA-RxScKqFWQ_eO2ZLXmGrXOp6___S00",
+      "pictureSource": "연합인포맥스",
+      "relatedSearch": [
+        {
+          "title": "이란전쟁 여파 증시 '극단적 공포' 진입…\"저가 매수 기회\" 이유는",
+          "snippet": "",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4406536",
+          "source": "연합인포맥스"
+        },
+        {
+          "title": "중동전쟁 한달 만에 시총 840조원 증발…'삼전닉스'만 372조원↓",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20260330139900008",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "“나흘째 계좌 안 열고 있습니다” …전쟁리스크에 코스피도 원화값도 ‘뚝뚝’",
+          "snippet": "",
+          "url": "https://v.daum.net/v/20260331060002282",
+          "source": "Daum"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "샌디스크 주가",
       "trafficCount": "200+",
       "pubDate": "Mon, 30 Mar 2026 13:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCfjkIDOKmcgnIZXKWngkg6k141eSwOErByRfhCY04kt7SWB9q9DcKJv9ws3Q",
-      "pictureSource": "머니네버슬립",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS98E7YV4OX1z-h4ud8pqNQfH5ACL65xNuim-fQkjMmW5t9TboA8kh3uwCUWQ",
+      "pictureSource": "동아사이언스",
       "relatedSearch": [
+        {
+          "title": "Google's TurboQuant algorithm cuts AI memory usage by a factor of six",
+          "snippet": "",
+          "url": "https://www.dongascience.com/en/news/77066",
+          "source": "동아사이언스"
+        },
         {
           "title": "[한입시황] 평화는 올까요?",
           "snippet": "",
@@ -15,16 +105,10 @@
           "source": "머니네버슬립"
         },
         {
-          "title": "뉴욕증시, 미국·이란 종전협상 낙관론에 상승",
+          "title": "\"트럼프와 이란, 누구 말이 맞나?\" 혼선…美 뉴욕증시 하락, 기술주 약세",
           "snippet": "",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1351845",
-          "source": "데일리한국"
-        },
-        {
-          "title": "뉴욕증시, 종전 협상 기대감에 상승",
-          "snippet": "",
-          "url": "https://www.cstimes.com/news/articleView.html?idxno=699381",
-          "source": "컨슈머타임스"
+          "url": "https://news.nate.com/view/20260325n03033",
+          "source": "네이트"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,26 +117,26 @@
       "title": "다우지수",
       "trafficCount": "200+",
       "pubDate": "Mon, 30 Mar 2026 13:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4At1T2hXzWdSB6rprIhjx99BJ2opCtawYQEgZpmfTRdFrGf0hZLNGT8GKSjc",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwRtphlTs_9Lgp_Dm_bo4vU1bxPpL9VpATPmcoi3QJiQMiGBe-619x86mg2yQ",
       "pictureSource": "Daum",
       "relatedSearch": [
         {
-          "title": "[속보] 반도체지수 4.23% 급락…나스닥 0.73%↓",
+          "title": "뉴욕증시 혼조 마감…뒤섞인 종전 기대와 확전 우려",
           "snippet": "",
-          "url": "https://v.daum.net/v/20260331050701700",
+          "url": "https://v.daum.net/v/20260331060840821",
           "source": "Daum"
         },
         {
-          "title": "뉴욕증시, 뒤엉킨 종전 기대와 확전 우려…혼조 마감",
+          "title": "뉴욕증시, 유가 상승·국채금리 하락 속 혼조 마감…다우 0.10%↑",
           "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20260331008500009",
-          "source": "연합뉴스"
+          "url": "https://www.newsis.com/view/NISX20260331_0003570390",
+          "source": "뉴시스"
         },
         {
-          "title": "美 월가, '타코' 주목…이번엔 이란에 달렸단 전망도",
+          "title": "반도체 매도세+유가 급등, 미증시 다우 제외 일제 하락(상보)",
           "snippet": "",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4406661",
-          "source": "연합인포맥스"
+          "url": "https://www.news1.kr/world/usa-canada/6119259",
+          "source": "뉴스1"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,26 +145,26 @@
       "title": "마이크론",
       "trafficCount": "200+",
       "pubDate": "Mon, 30 Mar 2026 12:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrw3GtVp6z6OkYU29aTyzUzgOGfgCMFKC3_Kym8fIVKSbMFPkgldxUKT49d4k",
-      "pictureSource": "마켓인",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRKQgpRCpkbQ_MIocGujVJN8OKdT7X-hNUITNxf2wgeMO-ViZkbn99l_bD8QM",
+      "pictureSource": "Daum",
       "relatedSearch": [
         {
-          "title": "마이크론 주가 10% 급락…AI 공급난·이란 전쟁 '이중고'",
+          "title": "‘터보퀀트 여진?’ 마이크론 10% 폭락 … 삼전·SK하닉 더 버텨야 하나",
           "snippet": "",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01866326645388896",
-          "source": "마켓인"
-        },
-        {
-          "title": "마이크론테크놀로지, 2Q 실적 이후 차익실현·AI 수급 우려에…주가 10%↓",
-          "snippet": "",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01712166645388896",
-          "source": "마켓인"
+          "url": "https://v.daum.net/v/20260331061237874",
+          "source": "Daum"
         },
         {
           "title": "베어마켓 추락한 MU ② HBM·DDR5·CXL 앞세운 성장 스토리",
           "snippet": "",
           "url": "https://contents.premium.naver.com/gam/money/contents/260330163230255vr",
           "source": "네이버 프리미엄콘텐츠"
+        },
+        {
+          "title": "마이크론테크놀로지, 2Q 실적 이후 차익실현·AI 수급 우려에…주가 10%↓",
+          "snippet": "",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01712166645388896",
+          "source": "마켓인"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,23 +211,23 @@
           "source": "Reuters"
         },
         {
-          "title": "IPL Cricket 2026 Livestream: How to Watch the Indian Premier League From Anywhere",
-          "snippet": "",
-          "url": "https://www.cnet.com/tech/services-and-software/ipl-cricket-2026-livestream-how-to-watch-the-indian-premier-league-from-anywhere/",
-          "source": "CNET"
-        },
-        {
           "title": "Home News BCCI announces schedule for second phase of TATA IPL 2026",
           "snippet": "",
           "url": "https://www.iplt20.com/index.php/news/4256/bcci-announces-schedule-for-second-phase-of-tata-ipl-2026",
           "source": "IPL"
+        },
+        {
+          "title": "IPL Cricket 2026 Livestream: How to Watch the Indian Premier League From Anywhere",
+          "snippet": "",
+          "url": "https://www.cnet.com/tech/services-and-software/ipl-cricket-2026-livestream-how-to-watch-the-indian-premier-league-from-anywhere/",
+          "source": "CNET"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "공포탐욕지수",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 30 Mar 2026 08:10:00 -0700",
       "picture": "",
       "pictureSource": "",
@@ -154,110 +238,26 @@
       "title": "파월",
       "trafficCount": "200+",
       "pubDate": "Mon, 30 Mar 2026 08:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKcxySmW-DNiiaxUCZJNBA2xUz6yRkPsKPpvE9liI4YQScANdIUy8wFAXgmtg",
-      "pictureSource": "뉴시스",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPAILW3U1L0XMPgH2Lf0Wv5PMhU7cy3TgcE_9cWS1kVmmpfrxuOwthFlSDOUw",
+      "pictureSource": "조선일보",
       "relatedSearch": [
-        {
-          "title": "파월 \"이란전쟁 영향 아직 불투명…인플레 기대심리 주시\"",
-          "snippet": "",
-          "url": "https://www.newsis.com/view/NISX20260331_0003570380",
-          "source": "뉴시스"
-        },
-        {
-          "title": "마이런 연준 이사 \"임금과 물가의 악순환 없어…100bp 금리 내려야\"",
-          "snippet": "",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4406735",
-          "source": "연합인포맥스"
-        },
         {
           "title": "급격한 통화정책 변화에 선 그은 파월...“적절한 수준”",
           "snippet": "",
           "url": "https://www.chosun.com/international/international_general/2026/03/31/7PPBHWYJN5ASTB4G64PHV4OSJ4/",
           "source": "조선일보"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "indonesia vs bulgaria",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 30 Mar 2026 07:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Indonesia vs Bulgaria: Friendlies stats & head-to-head",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cpqx2j0l8x0t",
-          "source": "BBC"
         },
         {
-          "title": "Indonesia vs Bulgaria - live score, predicted lineups and H2H stats",
+          "title": "뉴욕 연은총재 \"중동전쟁 이례적…에너지가격 상승, 단기 물가 자극\"",
           "snippet": "",
-          "url": "https://www.fotmob.com/matches/indonesia-vs-bulgaria/28sr77",
-          "source": "FotMob"
-        },
-        {
-          "title": "[WatchLive]TV!!!] Indonesia vs Bulgaria match 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ",
-          "snippet": "",
-          "url": "https://salfordreddevils.com/fas/video/video-indonesia-v-bulgaria-match-show-free-live.html",
-          "source": "salfordreddevils.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "전소미",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 30 Mar 2026 07:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQSe6kebjUV5M-HpTszI3Vj2HKa4Z77hOI83ObyIfgun6Pau0DhiKCVciqoQfs",
-      "pictureSource": "Daum",
-      "relatedSearch": [
-        {
-          "title": "전소미, 집 화장실서 귀신 목격..탁재훈 \"청하 아냐?\"[아근진][★밤TV]",
-          "snippet": "",
-          "url": "https://v.daum.net/v/20260331060219540",
+          "url": "https://v.daum.net/v/20260331065236360",
           "source": "Daum"
         },
         {
-          "title": "카이 \"SM, 데뷔 무산 대비…연습생 때 학업 중시\" (아니근데진짜)",
+          "title": "파월 \"이란전쟁 영향 아직 불투명…인플레 기대심리 주시\"",
           "snippet": "",
-          "url": "https://news.nate.com/view/20260330n36108?mid=e0608",
-          "source": "네이트"
-        },
-        {
-          "title": "전소미 \"JYP 연습생에 성교육까지…중요한 얘기는 다 뺀다\"",
-          "snippet": "",
-          "url": "https://www.mt.co.kr/entertainment/2026/03/30/2026033010312133327",
-          "source": "www.mt.co.kr"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "한준호",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 30 Mar 2026 07:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGzi6JG738DNx1NmObYmzz5o5Ja7XQue36kaODggu6agMFq9XbtY0zmOi4ulc",
-      "pictureSource": "뉴시스",
-      "relatedSearch": [
-        {
-          "title": "민주당 경기도지사 후보들 TV토론서 \"내가 적임자\"",
-          "snippet": "",
-          "url": "https://www.newsis.com/view/NISX20260331_0003570360",
+          "url": "https://www.newsis.com/view/NISX20260331_0003570380",
           "source": "뉴시스"
-        },
-        {
-          "title": "경제·개혁·실용…민주 경기지사 '주도권 다툼' 팽팽",
-          "snippet": "",
-          "url": "https://v.daum.net/v/20260331053730116",
-          "source": "Daum"
-        },
-        {
-          "title": "“장미빛 공약 제시에 난타전”…민주 경기지사 3인 정책 검증 본격",
-          "snippet": "",
-          "url": "https://www.kyeonggi.com/article/20260331580003",
-          "source": "경기일보"
         }
       ],
       "link": "https://imtaqin.id/"

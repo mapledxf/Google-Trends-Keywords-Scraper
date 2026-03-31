@@ -1,282 +1,263 @@
 {
-  "lastUpdate": "2026-03-31 21:59:56",
+  "lastUpdate": "2026-03-31 22:39:17",
   "data": [
     {
-      "title": "sport",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 31 Mar 2026 14:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7YwYbBkmEuS5R_1TvmIP9TgaJCkulPkB2ngg1edQECvWFPnWio6S6J7ztznU",
-      "pictureSource": "Sport Bild",
-      "relatedSearch": [
-        {
-          "title": "Das kommt überraschend! FC Bayern beschäftigt sich mit HSV-Star",
-          "snippet": "",
-          "url": "https://sportbild.bild.de/fussball/hamburger-sv/das-kommt-ueberraschend-fc-bayern-beschaeftigt-sich-mit-hsv-star-69cbdf765d64d64206180661",
-          "source": "Sport Bild"
-        },
-        {
-          "title": "Bayern beschäftigt sich mit HSV-Keeper Heuer Fernandes: Erfahrene Nummer 2 hinter Urbig",
-          "snippet": "",
-          "url": "https://www.transfermarkt.de/bayern-beschaftigt-sich-mit-hsv-keeper-heuer-fernandes-erfahrene-nummer-2-hinter-urbig/view/news/477467",
-          "source": "Transfermarkt"
-        },
-        {
-          "title": "FC Bayern sucht Neuer-Nachfolger: Spur führt nach Hamburg",
-          "snippet": "",
-          "url": "https://www.fussballdaten.de/news/fc-bayern-sucht-neuer-nachfolger-spur-fuehrt-nach-hamburg-1c0d3554/",
-          "source": "fussballdaten.de"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "corriere della sera",
+      "title": "gravina",
       "trafficCount": "200+",
-      "pubDate": "Tue, 31 Mar 2026 14:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPIMR5we_Ix-nl8LBXqZTpqrjl_6ij4Ffd3ds1Opmfokp_6QhRyvQJuePBKic",
-      "pictureSource": "Ambasciata d'Italia Oslo",
-      "relatedSearch": [
-        {
-          "title": "Visita a Oslo dei lettori di InViaggio del Corriere della Sera",
-          "snippet": "",
-          "url": "https://amboslo.esteri.it/it/news/dall_ambasciata/2026/03/visita-a-oslo-dei-lettori-di-inviaggio-del-corriere-della-sera/",
-          "source": "Ambasciata d'Italia Oslo"
-        },
-        {
-          "title": "Guerra in Iran, le ultime notizie in diretta | Da Pakistan e Cina piano di pace in 5 punti. Giornalista Usa rapita e poi liberata in Iraq . Teheran: «Vogliamo mettere fine a guerra ma servono garanzie»",
-          "snippet": "",
-          "url": "https://www.corriere.it/esteri/diretta-live/26_marzo_31/guerra-in-iran-le-ultime-notizie-in-diretta-il-brent-vola-a-115-49-dollari-dopo-l-attacco-dell-iran-alla-petroliera.shtml",
-          "source": "Corriere della Sera"
-        },
-        {
-          "title": "Ministero degli Esteri cinese: il Ministro degli Esteri pakistano in visita in Cina il 31 marzo per colloqui con Wang Yi",
-          "snippet": "",
-          "url": "https://it.marketscreener.com/notizie/ministero-degli-esteri-cinese-il-ministro-degli-esteri-pakistano-in-visita-in-cina-il-31-marzo-per-ce7e51d9d08bf726",
-          "source": "MarketScreener Italia"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "تصفيات كأس العالم",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 31 Mar 2026 14:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0kk36GKSRA8zV0ymInSD8vUBPr4ezcSbMYVZ3BKbInOODXFxNsm3OmdtogF4",
-      "pictureSource": "الشرق الأوسط",
-      "relatedSearch": [
-        {
-          "title": "«ملحق المونديال»: تركيا تعود من كوسوفو ببطاقة تأهلها للمرة الأولى منذ 2002",
-          "snippet": "",
-          "url": "https://aawsat.com/node/5257444",
-          "source": "الشرق الأوسط"
-        },
-        {
-          "title": "السويد وتركيا يبلغان كأس العالم 2026",
-          "snippet": "",
-          "url": "https://www.al-akhbar.com/news/sports/886425/%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF-%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%8A%D8%A8%D9%84%D8%BA%D8%A7%D9%86-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-2026",
-          "source": "Al Akhbar"
-        },
-        {
-          "title": "تركيا تعود للمونديال بعد غياب عاما.. والسويد تقتل حلم رفاق ليفاندوفسكي",
-          "snippet": "",
-          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%B9%D9%88%D8%AF-%D9%84%D9%84%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-%D8%A8%D8%B9%D8%AF-%D8%BA%D9%8A%D8%A7%D8%A8-24-%D8%B9%D8%A7%D9%85%D8%A7--%D9%88%D8%AC%D9%8A%D9%88%D9%83%D9%8A%D8%B1%D9%8A%D8%B3-%D9%8A%D9%82%D8%AA%D9%84-%D8%AD%D9%84%D9%85-%D9%84%D9%8A%D9%81%D8%A7%D9%86%D8%AF%D9%88%D9%81%D8%B3%D9%83%D9%8A/blt8328836ccaa0a17f",
-          "source": "Kooora"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "francesco pio esposito",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 31 Mar 2026 14:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0UVPe4EjlNHCq7KltO3w02d_jyleWWLrkstZczPYvOtVz-TMru7_e3jxR5Lc",
+      "pubDate": "Tue, 31 Mar 2026 15:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz_Rots3wHybr7rGBbA0HcLLK4VGCfsocpWEwCTIYOq0j8ApXjqcieh7tFWiI",
       "pictureSource": "La Gazzetta dello Sport",
       "relatedSearch": [
         {
-          "title": "Italia, Pio Esposito ma non solo: su chi puntare per andare ai Mondiali",
+          "title": "Un disastro anche per la Figc: in fumo 30 milioni di ricavi",
           "snippet": "",
-          "url": "https://video.gazzetta.it/italia-irlanda-del-nord-2-0-il-commento-di-stefano-agresti/af23715e-ec40-4c8e-b6c1-0c1b65521xlk",
+          "url": "https://www.gazzetta.it/Calcio/Nazionale/31-03-2026/nazionale-fuori-dal-mondiale-in-fumo-30-milioni-di-ricavi-per-la-figc.shtml",
           "source": "La Gazzetta dello Sport"
         },
         {
-          "title": "Schierare Esposito o Retegui? Con Spalletti in ballottaggio anche Gatti. E Djokovic tifa Bosnia",
+          "title": "Italia ai Mondiali 2026 se… cosa serve agli azzurri contro la Bosnia e come funziona il ripescaggio",
           "snippet": "",
-          "url": "https://www.ilgiornale.it/news/storie/schierare-esposito-o-retegui-spalletti-ballottaggio-anche-2644859.html",
+          "url": "https://www.fanpage.it/sport/calcio/italia-ai-mondiali-2026-se-cosa-serve-agli-azzurri-contro-la-bosnia-e-come-funziona-il-ripescaggio/",
+          "source": "Fanpage"
+        },
+        {
+          "title": "Comunque sia inizierà la stagione delle riforme",
+          "snippet": "",
+          "url": "https://www.ilgiornale.it/news/sport/comunque-sia-inizier-stagione-delle-riforme-2644809.html",
           "source": "il Giornale"
-        },
-        {
-          "title": "La riconoscenza che fa sbagliare",
-          "snippet": "",
-          "url": "https://www.corrieredellosport.it/news/calcio/italia/2026/03/29-147616267/la_riconoscenza_che_fa_sbagliare/2",
-          "source": "Corriere dello Sport"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "wm 2018",
+      "title": "curacao",
       "trafficCount": "200+",
-      "pubDate": "Tue, 31 Mar 2026 14:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHG8cA5BAcc9KUlruiNG5hgXYpboKmfo4Mhjl0oA3HnPmfXybS8v9xqrADmro",
-      "pictureSource": "beIN SPORTS",
+      "pubDate": "Tue, 31 Mar 2026 15:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Dembele relishing France's World Cup campaign",
+          "title": "Australia vs Curaçao: Friendlies stats & head-to-head",
           "snippet": "",
-          "url": "https://www.beinsports.com/en-asia/football/friendlies/articles/dembele-relishing-frances-world-cup-campaign-2026-03-29",
-          "source": "beIN SPORTS"
+          "url": "https://www.bbc.com/sport/football/live/c4glpq6zpz3t",
+          "source": "BBC"
         },
         {
-          "title": "'Best part of my career' - Ousmane Dembele opens up on PSG success and France World Cup dreams",
+          "title": "‘I’d love to race him’: Irankunda scores Socceroos double then sets sights on Gout Gout",
           "snippet": "",
-          "url": "https://www.goal.com/en/lists/best-career-ousmane-dembele-psg-success-france-world-cup-dreams/bltc81e0b325ce50607",
-          "source": "Goal.com"
-        },
-        {
-          "title": "\"I'm very calm,\" Ousmane Dembele explains how he's changed since the 2018 World Cup",
-          "snippet": "",
-          "url": "https://telegrafi.com/en/I-am-very-calm--Ousmane-Dembele-explains-how-he-has-changed-since-the-2018-World-Cup./",
-          "source": "Telegrafi"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "bryan cristante",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 31 Mar 2026 14:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQT3cf0wyfL9E0PlLVLjRxRUcvlHXftNvvF45Y98n2RpKIZZ6ay7rA6KlbG6hA",
-      "pictureSource": "Forzaroma.info",
-      "relatedSearch": [
-        {
-          "title": "Mancini, Hermoso e Cristante: Massara pronto a chiudere i rinnovi. Il punto",
-          "snippet": "",
-          "url": "https://www.forzaroma.info/news-as-roma/mancini-hermoso-e-cristante-massara-pronto-a-chiudere-i-rinnovi-il-punto/",
-          "source": "Forzaroma.info"
-        },
-        {
-          "title": "MERCATO ROMA Previsti nuovi contatti con l’agente di Mancini e Cristante per i rinnovi",
-          "snippet": "",
-          "url": "https://tuttoasroma.it/ultime-notizie-as-roma/as-roma-calcio-mercato-asroma/mercato-roma-previsti-nuovi-contatti-con-lagente-di-mancini-e-cristante-per-i-rinnovi/",
-          "source": "TuttoASRoma.it"
-        },
-        {
-          "title": "Calciomercato Roma, Hermoso verso il rinnovo: il club pronto a esercitare la clausola per il prolungamento",
-          "snippet": "",
-          "url": "https://laroma24.it/mercato/mercato-mercato/2026/03/calciomercato-roma-hermoso-verso-il-rinnovo-il-club-pronto-a-esercitare-la-clausola-per-il-prolungamento",
-          "source": "LaRoma24.it"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "sandro tonali",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 31 Mar 2026 14:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNxxczjYP9mJOOp2tP1mHCUK1HuwTytI3kL6IMKXLP7DD0FlmhG-L-rUHEf7c",
-      "pictureSource": "DAZN",
-      "relatedSearch": [
-        {
-          "title": "Manchester City to plan a midfield overhaul this summer with two major names in the frame",
-          "snippet": "",
-          "url": "https://www.dazn.com/en-US/news/soccer/manchester-city-midfield-sandro-tonali-elliot-anderson/u1qirw30j5d31xegnrhtjbjao",
-          "source": "DAZN"
-        },
-        {
-          "title": "Newcastle Confidential: Shock Sandro Tonali transfer twist revealed",
-          "snippet": "",
-          "url": "https://www.dailymail.co.uk/sport/football/article-15681925/newcastle-confidential-sandro-tonali-transfer.html",
-          "source": "Daily Mail"
-        },
-        {
-          "title": "Arsenal deadly serious on beating Man Utd to Sandro Tonali with Arteta doubling down on £100m Newcastle raid",
-          "snippet": "",
-          "url": "https://www.teamtalk.com/arsenal/huge-sandro-tonali-transfer-arteta-doubling-down-100m-newcastle-deal",
-          "source": "TEAMtalk"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ronaldo",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 31 Mar 2026 14:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTVZiAqUp7FOkGpHte1-RWcHCyTexQhY-zDV7t3NDtAKDK1bJWMxh7b7tSauM",
-      "pictureSource": "The Guardian",
-      "relatedSearch": [
-        {
-          "title": "Roberto Martínez: ‘It’s a hammer blow when you don’t succeed, but let us dream’ | Portugal",
-          "snippet": "",
-          "url": "https://www.theguardian.com/football/2026/mar/28/roberto-martinez-interview-portugal-world-cup-cristiano-ronaldo",
+          "url": "https://www.theguardian.com/football/2026/mar/31/irankunda-scores-socceroos-double-then-set-sights-on-gout-gout",
           "source": "The Guardian"
         },
         {
-          "title": "Martinez: Ronaldo's mindset makes it hard to know when he will retire",
+          "title": "Ruthless Socceroos explode as 17-minute blitz stuns World Cup surprise packet after upset fear",
           "snippet": "",
-          "url": "https://www.fotmob.com/fr/news/fddehoso2tr10yd4o49ztc4f-martinez-ronaldos-mindset-makes-it-hard-know-when-he-will-retire",
-          "source": "FotMob"
-        },
-        {
-          "title": "Cristiano Ronaldo To Play In FIFA World Cup 2026? Portugal Coach's Big 'Injury' Update",
-          "snippet": "",
-          "url": "https://sports.ndtv.com/football/cristiano-ronaldo-to-play-in-fifa-world-cup-2026-portugal-coachs-big-injury-update-11292172",
-          "source": "NDTV Sports"
+          "url": "https://www.foxsports.com.au/football/socceroos-2026-australia-vs-curacao-friendly-result-match-report-stats-goalscorers-nestory-irankunda-latest-football-news/news-story/7b974a337e82edb4351120da58f1fd36",
+          "source": "Fox Sports"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "fußballspiele heute",
+      "title": "april scherze",
       "trafficCount": "100+",
-      "pubDate": "Tue, 31 Mar 2026 14:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT78nPhUlPfMhqB-90n9ayNhe-RTPEQFtClp5rwTdaJBZ3T_d6JbAoxRmjoqxE",
-      "pictureSource": "Tipico",
+      "pubDate": "Tue, 31 Mar 2026 15:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-Sx1Dxqt07aodA17YkTOfEx14du7sLaK_gR34d8lFh64rDJPr4KuGNsfYhHE",
+      "pictureSource": "T-Online",
       "relatedSearch": [
         {
-          "title": "Fußball-Länderspiele: Ergebnisse heute live | Montag (30.03.2026)",
+          "title": "April, April: Kein Spaß – diese Aprilscherze im Büro können Sie den Job kosten",
           "snippet": "",
-          "url": "https://www.tipico.de/wett-tipps/sportwetten-news/fussball-laenderspiele-ergebnisse-heute-live-montag-30-03-2026",
-          "source": "Tipico"
+          "url": "https://www.t-online.de/leben/aktuelles/id_91932068/aprilscherze-am-1-april-2026-wann-der-spass-im-buero-den-job-kosten-kann.html",
+          "source": "T-Online"
         },
         {
-          "title": "Fußball heute live: Übertragung der Spiele live im TV und Stream",
+          "title": "Aprilscherz im Büro: Wann das Klebeband auf der Maus zur Gefahr für deinen Job wird",
           "snippet": "",
-          "url": "https://www.swp.de/sport/sport-mix/fussball-heute-live-uebertragung-der-spiele-live-im-tv-und-stream-78748765.html",
-          "source": "swp.de"
+          "url": "https://newstime.joyn.de/themen/wirtschaft/aprilscherz-im-buero-wann-das-klebeband-auf-der-maus-zur-gefahr-fuer-deinen-job-wird-102704",
+          "source": "Joyn"
         },
         {
-          "title": "Der Sport-Höhepunkt am Montag, 30. März",
+          "title": "Aprilscherze am Arbeitsplatz: wann der Spaß Folgen hat, ARAG SE, Story",
           "snippet": "",
-          "url": "https://www.msn.com/de-de/sport/fussball/der-sport-h%C3%B6hepunkt-am-montag-30-m%C3%A4rz/ar-AA1ZHgpI",
-          "source": "MSN"
+          "url": "https://www.lifepr.de/pressemitteilung/arag-se/aprilscherze-am-arbeitsplatz-wann-der-spa-folgen-hat/boxid/1056124",
+          "source": "lifePR"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "oracle",
+      "title": "messi",
       "trafficCount": "100+",
-      "pubDate": "Tue, 31 Mar 2026 14:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9y7TzfwWrCP8lwKf-sF7XxARgRx1y4Q_7FO2V4pJ7DfTi1Q4XI23b2A4WLrU",
-      "pictureSource": "Finanzen.net",
+      "pubDate": "Tue, 31 Mar 2026 15:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdqU5DhInBJnuDbFe2RlthxJZYYwDWBK9ssZUSHWb1VmM6cfEVWyypcza3jAQ",
+      "pictureSource": "OneFootball",
       "relatedSearch": [
         {
-          "title": "Analysten sehen für Oracle-Aktie Luft nach oben",
+          "title": "Scaloni says Nicolás Otamendi will feature against Zambia and deserves to play",
           "snippet": "",
-          "url": "https://www.finanzen.net/nachricht/aktien/analysten-sehen-fuer-oracle-aktie-luft-nach-oben-15587708",
-          "source": "Finanzen.net"
+          "url": "https://onefootball.com/en/news/scaloni-says-nicolas-otamendi-will-feature-against-zambia-and-deserves-to-play-42640313",
+          "source": "OneFootball"
         },
         {
-          "title": "Wegen teurer KI-Rechenzentren: Oracle streicht offenbar zehntausende Stellen",
+          "title": "How Lionel Messi begins ‘the end’ of his Argentina journey this Tuesday",
           "snippet": "",
-          "url": "https://the-decoder.de/wegen-teurer-ki-rechenzentren-oracle-streicht-offenbar-zehntausende-stellen/",
-          "source": "The Decoder"
+          "url": "https://www.hitc.com/how-lionel-messi-begins-the-end-of-his-argentina-journey-this-tuesday/",
+          "source": "HITC"
         },
         {
-          "title": "Oracle startet Fusion Agentic Applications und bekommt Buy-Call: Nashv",
+          "title": "Argentina vs Zambia – Predicted lineup and team news",
           "snippet": "",
-          "url": "https://goldesel.de/aktien/news/oracle-startet-fusion-agentic-applications-und-bekommt-buy-call-nashville-deal-ki-nachfrage-im-fokus",
-          "source": "Goldesel.de"
+          "url": "https://sports.yahoo.com/articles/argentina-vs-zambia-predicted-lineup-181000866.html",
+          "source": "Yahoo Sports"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "kurir",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 31 Mar 2026 15:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQ_BDDAQ7tGb5dNWpI_1IAMMTRPQcFx0lQ5d3LkkxMwTCuKqNEo8lrBvxzpQI",
+      "pictureSource": "Blic",
+      "relatedSearch": [
+        {
+          "title": "Ovo je kuća Stele Savić koja je pronađena mrtva u ventilacionom otvoru na Vračaru: Kristijan otkrio potresne detalje",
+          "snippet": "",
+          "url": "https://www.blic.rs/zabava/ovo-je-kuca-stele-savic-koja-je-pronadjena-mrtva-u-ventilacionom-otvoru-na-vracaru/p1cf5v2",
+          "source": "Blic"
+        },
+        {
+          "title": "\"Njeni roditelji mi duguju 28.000€\" Kristijan otkrio potresne detalje o Steli Savić i pokazao gde je živela",
+          "snippet": "",
+          "url": "https://www.telegraf.rs/jetset/vesti-jetset/4299555-kristijan-otkrio-potresne-detalje-o-steli-savic-i-pokazao-gde-je-zivela-njeni-roditelji-mi-duguju-28000",
+          "source": "Telegraf.rs"
+        },
+        {
+          "title": "STELA (59) SADA POČIVA NA LEŠĆU! Sahranjena žena čije je telo pronađeno na Vračaru u ventilacionom otvoru zgra",
+          "snippet": "",
+          "url": "https://www.espreso.co.rs/vesti/hronika/1592259/sahranjena-zena-cije-je-telo-pronadjeno-u-ventilacionom-otvoru-na-vracaru",
+          "source": "espreso.co.rs"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "singapur",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 31 Mar 2026 15:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxnJI1sZ6jTuvQqD8DdJvdayHw-2Q1BNZqS5VbA5Ju5TgmRDbhpY8VYsnmgFU",
+      "pictureSource": "AD HOC NEWS",
+      "relatedSearch": [
+        {
+          "title": "ComfortDelGro Corp Ltd Aktie: Das führende Taxi- und Mobilitätsunternehmen aus Singapur im Überbl",
+          "snippet": "",
+          "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/comfortdelgro-corp-ltd-aktie-das-fuehrende-taxi-und/69041876",
+          "source": "AD HOC NEWS"
+        },
+        {
+          "title": "ComfortDelGro Corp Ltd Aktie: Das Geschäftsmodell des führenden singapurischen Landtransportbetrei",
+          "snippet": "",
+          "url": "https://www.ad-hoc-news.de/boerse/ueberblick/comfortdelgro-corp-ltd-aktie-das-geschaeftsmodell-des-fuehrenden/69019770",
+          "source": "AD HOC NEWS"
+        },
+        {
+          "title": "ComfortDelGro Corp Ltd Aktie: Das Geschäftsmodell des singapurischen Mobilitätskonzerns im Überbl",
+          "snippet": "",
+          "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/comfortdelgro-corp-ltd-aktie-das-geschaeftsmodell-des-singapurischen/69015846",
+          "source": "AD HOC NEWS"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "elle fanning",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 31 Mar 2026 15:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA33lq1pvOrZ_qxzG8jbsXFd1ZBU5Elh0lwh0SHG9WyEhHNw6iLRiMuU7b1gw",
+      "pictureSource": "ScreenRant",
+      "relatedSearch": [
+        {
+          "title": "Elle Fanning's 3-Part Dark Comedy Series Is So Good, You Can Rewatch It Multiple Times",
+          "snippet": "",
+          "url": "https://screenrant.com/elle-fanning-the-great-hulu-comedy-series-rewatchable/",
+          "source": "ScreenRant"
+        },
+        {
+          "title": "Jon Hamm, Elle Fanning and Keanu Reeves Star In Apple TV's Biggest Titles of April 2026",
+          "snippet": "",
+          "url": "https://www.cnet.com/culture/entertainment/jon-hamm-elle-fanning-and-keanu-reeves-star-in-apple-tvs-biggest-titles-of-april-2026/",
+          "source": "CNET"
+        },
+        {
+          "title": "A New Dark Comedy Season and All the Other TV Shows Coming to Apple TV+, Peacock, and Amazon Prime This Week",
+          "snippet": "",
+          "url": "https://www.imdb.com/news/ni65774911/?ref_=ttnw_art_perm",
+          "source": "IMDb"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "dzeko verletzt",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 31 Mar 2026 14:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4Y59PRkD0F7QAJ5EDCN_2Ro8kG4bytEZz4DskCUkO9KW6OPV4fglIsuiGub4",
+      "pictureSource": "Berliner Morgenpost",
+      "relatedSearch": [
+        {
+          "title": "Schalke feiert mit! Dzeko und Katic fahren sensationell zur WM",
+          "snippet": "",
+          "url": "https://www.morgenpost.de/incoming/article411611966/schalke-feiert-mit-dzeko-und-katic-fahren-sensationell-zur-wm.html",
+          "source": "Berliner Morgenpost"
+        },
+        {
+          "title": "Drama um Edin Dzeko - auch Schalke bangt",
+          "snippet": "",
+          "url": "https://www.sport1.de/news/fussball/wm-qualifikation/2026/04/drama-um-edin-dzeko-auch-schalke-bangt",
+          "source": "SPORT1"
+        },
+        {
+          "title": "S04-Stars erfüllen sich ihren WM-Traum Aber Schalke bangt um an der Schulter verletzten Dzeko",
+          "snippet": "",
+          "url": "https://www.ruhrnachrichten.de/schalke-04/wm-playoffs-bosnien-herzegowina-siegt-gegen-italien-dzeko-schulter-verletzt-w1174832-2002020665/",
+          "source": "Ruhr Nachrichten"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "dnevni avaz",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 31 Mar 2026 14:50:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "world cup groups",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 31 Mar 2026 14:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIrFqN5XvLGwIeZ36vx-kOag12jOCR76GwLEAyXgV9Q9ZO_6A_Z3gG88geaUM",
+      "pictureSource": "USA Today",
+      "relatedSearch": [
+        {
+          "title": "World Cup qualifying live scores today: Schedule, how to watch dramatic finals",
+          "snippet": "",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/03/31/world-cup-qualifying-live-scores-today-schedule-2026-how-to-watch/89395378007/",
+          "source": "USA Today"
+        },
+        {
+          "title": "Drink in the jeopardy of the World Cup playoffs, it’s the last we’ll get for a while | Jonathan Wilson",
+          "snippet": "",
+          "url": "https://www.theguardian.com/football/2026/mar/30/world-cup-playoffs-jeopardy",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Fifa World Cup 2026 qualifiers: DR Congo vs Jamaica, full list of kontris wey don qualify for 2026 Fifa World cup",
+          "snippet": "",
+          "url": "https://www.bbc.com/pidgin/articles/c9951yg7r3zo",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"

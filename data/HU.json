@@ -1,19 +1,38 @@
 {
-  "lastUpdate": "2026-03-31 04:43:35",
+  "lastUpdate": "2026-03-31 06:06:22",
   "data": [
     {
-      "title": "időkép",
-      "trafficCount": "2000+",
-      "pubDate": "Mon, 30 Mar 2026 20:50:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "title": "weather",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 30 Mar 2026 22:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRM4sBbskNMQgyMmuB_vNwi8C7yWC5JBXs3fHiFCw7AfX0FgfKV5cwwBV_t4o4",
+      "pictureSource": "NOAA (.gov)",
+      "relatedSearch": [
+        {
+          "title": "Storm ready: NOAA’s new mobile radar fleet bridges gap between research and weather safety",
+          "snippet": "",
+          "url": "https://www.noaa.gov/news-release/storm-ready-noaas-new-mobile-radar-fleet-bridges-gap-between-research-and-weather-safety",
+          "source": "NOAA (.gov)"
+        },
+        {
+          "title": "New mobile radars ready to be deployed in Oklahoma this severe weather season",
+          "snippet": "",
+          "url": "https://ca.news.yahoo.com/mobile-radars-ready-deployed-oklahoma-234242086.html",
+          "source": "Yahoo News Canada"
+        },
+        {
+          "title": "NOAA National Severe Storms Laboratory unveils new mobile weather radar",
+          "snippet": "",
+          "url": "https://www.normantranscript.com/news/noaa-national-severe-storms-laboratory-unveils-new-mobile-weather-radar/article_ddb8cc92-7d9a-41fd-ab05-bf787e85deee.html",
+          "source": "Norman Transcript"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "idojaras",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 30 Mar 2026 19:20:00 -0700",
+      "title": "időjárás",
+      "trafficCount": "10000+",
+      "pubDate": "Mon, 30 Mar 2026 21:50:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfJR9djt3ThXGBy6ObWstte8h1O_0a_85h7fWjw6yErM_oG99BGpqPr_ydCAI",
       "pictureSource": "Index.hu",
       "relatedSearch": [
@@ -24,16 +43,53 @@
           "source": "Index.hu"
         },
         {
-          "title": "Itthon: Esős, szeles idő várható kedden is, két megyére figyelmeztetést adtak ki",
-          "snippet": "",
-          "url": "https://hvg.hu/itthon/20260331_idojaras-gyenge-eso-szel-zapor-figyelmeztetes-zala-vas-megye",
-          "source": "| hvg.hu"
-        },
-        {
           "title": "Óriási változás jön az időjárásban, mutatjuk, mire lehet számítani húsvétkor",
           "snippet": "",
           "url": "https://24.hu/tudomany/2026/03/30/idojaras-husvet-valtozas-hetvege/",
           "source": "24.hu"
+        },
+        {
+          "title": "Itthon: Esős, szeles idő várható kedden is, két megyére figyelmeztetést adtak ki",
+          "snippet": "",
+          "url": "https://hvg.hu/itthon/20260331_idojaras-gyenge-eso-szel-zapor-figyelmeztetes-zala-vas-megye",
+          "source": "| hvg.hu"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "időkép",
+      "trafficCount": "2000+",
+      "pubDate": "Mon, 30 Mar 2026 20:50:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "idokep",
+      "trafficCount": "1000+",
+      "pubDate": "Mon, 30 Mar 2026 20:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKRK60DKPBEnVyEqcPp2IxdrsLl4nxJWk8RTo4pGB_aIz3_-3QuGjYoeCwmLs",
+      "pictureSource": "444",
+      "relatedSearch": [
+        {
+          "title": "Víztornyot döntött ki a szél Somogyban",
+          "snippet": "",
+          "url": "https://444.hu/2026/03/31/viztornyot-dontott-ki-a-szel-somogyban",
+          "source": "444"
+        },
+        {
+          "title": "Belföld - Tőből csavart ki a szél egy többtonnás víztornyot, elzárta a forgalom elől az utat",
+          "snippet": "",
+          "url": "https://index.hu/belfold/2026/03/29/somogy-varmegye-viztorony-kidolt-vihar-szel-lengyeltoti-pusztaszentgyorgy/",
+          "source": "Index.hu"
+        },
+        {
+          "title": "Többtonnás monstrumot csavart ki tőből a szélvihar: teljesen elzárta az utat az autósok elől",
+          "snippet": "",
+          "url": "https://www.penzcentrum.hu/hellovidek/20260330/tobbtonnas-monstrumot-csavart-ki-tobol-a-szelvihar-teljesen-elzarta-az-utat-az-autosok-elol-1196185",
+          "source": "Pénzcentrum"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -58,10 +114,10 @@
           "source": "Csakfoci"
         },
         {
-          "title": "Váratlan változás a német vb-főpróbán – kövesd élőben!",
+          "title": "Újabb gólparádé várható a németek meccsén?",
           "snippet": "",
-          "url": "https://www.goal.com/hu/h%C3%ADrek/nemetorszag-ghana-vilagbajnoksag-elefantcsontpart-vb-merkozes/blt8b620814a7024aef",
-          "source": "Goal.com"
+          "url": "https://www.hatharom.com/2026/03/30/nemetorszag-ghana",
+          "source": "Hatharom"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,9 +142,9 @@
           "source": "Concacaf"
         },
         {
-          "title": "+)HERE'S!!(* WAY TO WATCH Guyana vs Belize Live 𝖲𝗍𝗋𝖾𝖺𝗆",
+          "title": "++[LIVESTREAMS]TV!! Guyana vs Belize 2026 Live 𝖲𝗍𝗋𝖾𝖺𝗆",
           "snippet": "",
-          "url": "https://salfordreddevils.com/boc/video/videoguyana-v-belize-free-soc-show-free-usatv_ms9o",
+          "url": "https://salfordreddevils.com/boc/video/videoguyana-v-belize-free0-soc-show-free-usatv_zs3v",
           "source": "salfordreddevils.com"
         }
       ],
@@ -182,82 +238,26 @@
       "title": "magyarország görögország",
       "trafficCount": "200+",
       "pubDate": "Mon, 30 Mar 2026 10:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkAnEDGyA9JE38_kISoGEToVlX4Omtrl7p7ARhDG5EoEBefLyRnLKUZD9_sx8",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREzIey8wK2DyCaFImBm-foIxBcjSRKJIfePJ2SU195y8fWr3-pHAmZWdL6is0",
       "pictureSource": "Nemzeti Sport",
       "relatedSearch": [
         {
-          "title": "Állítsa össze a válogatott görögök elleni kezdőcsapatát!",
+          "title": "Keddi sportműsor: magyar–görög a Puskás Arénában; teljessé válik a vb-mezőny",
           "snippet": "",
-          "url": "https://www.nemzetisport.hu/magyar-valogatott/2026/03/allitsa-ossze-a-valogatott-gorogok-elleni-kezdocsapatat",
+          "url": "https://www.nemzetisport.hu/minden-mas-foci/2026/03/keddi-sportmusor-magyar-gorog-a-puskas-arenaban-teljesse-valik-a-vb-mezony",
           "source": "Nemzeti Sport"
         },
         {
-          "title": "Marco Rossi nehezebb mérkőzésre számít a görögök ellen, mint múlt szombaton",
+          "title": "A görögök ellen visszaállhatunk három védőre és Redzic kezdhet",
           "snippet": "",
-          "url": "https://index.hu/sport/futball/2026/03/30/felkeszulesi-merkozes-magyar-labdarugo-valogatott-gorogorszag-elleni-meccs-elott/",
+          "url": "https://m4sport.hu/labdarugas/magyar-foci/cikk/2026/03/31/a-gorogok-ellen-visszaallhatunk-harom-vedore-es-redzic-kezdhet",
+          "source": "M4 Sport"
+        },
+        {
+          "title": "Belföld - Újabb mérkőzést rendeznek a Puskás Arénában, lezárások várhatók a fővárosban",
+          "snippet": "",
+          "url": "https://index.hu/belfold/2026/03/30/magyarorszag-gorogorszag-labdarugo-valogatott-baratsagos-merkozes-puskas-arena-bkk-forgalmi-rend-valtozas/",
           "source": "Index.hu"
-        },
-        {
-          "title": "Saját szurkolói is durván nekiestek Szoboszlaiék keddi ellenfelének",
-          "snippet": "",
-          "url": "https://www.origo.hu/sport/sport-futball/2026/03/gorog-valogatott-magyar-valogatott-paraguay-meccs",
-          "source": "ORIGO"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "vomberg frigyes",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 30 Mar 2026 10:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1iZM3gSmmOZFsl4DrTJvHjZw_TMAkDw1bftU86Ike2BGCAdxBmiWdliqA8Xo",
-      "pictureSource": "Index.hu",
-      "relatedSearch": [
-        {
-          "title": "Mindeközben - Ázsia Expressz 2026: újabb két páros nevét jelentették be",
-          "snippet": "",
-          "url": "https://index.hu/mindekozben/poszt/2026/03/30/azsia-expressz-2026-szereplok/",
-          "source": "Index.hu"
-        },
-        {
-          "title": "Megszólalt a sztárséf: őrültnek tartja Vomberg Fricit a családja, hogy 60 évesen belevág az Ázsia Expresszbe",
-          "snippet": "",
-          "url": "https://www.blikk.hu/sztarvilag/hazai-sztarok/azsia-expressz-vomberg-frigyes-tischler-petra-sefek-sefe/f3lbree",
-          "source": "Blikk"
-        },
-        {
-          "title": "Ázsia Expressz: négy új szereplőt jelentett be a TV2",
-          "snippet": "",
-          "url": "https://24.hu/elet-stilus/2026/03/30/azsia-expressz-uj-szereplok/",
-          "source": "24.hu"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "gránit bank",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 30 Mar 2026 09:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFy7uxaVdKjJTJACafpDYwTK9WWZizD8VTOONth1Y3WOdPEtbmJdMpQsgWMSI",
-      "pictureSource": "Portfolio.hu",
-      "relatedSearch": [
-        {
-          "title": "Meghirdette közgyűlését a Gránit Bank",
-          "snippet": "",
-          "url": "https://www.portfolio.hu/bank/20260330/meghirdette-kozgyuleset-a-granit-bank-827474",
-          "source": "Portfolio.hu"
-        },
-        {
-          "title": "Vállalkozás: Tovább zuhannak a NER-es cégek a tőzsdén",
-          "snippet": "",
-          "url": "https://hvg.hu/kkv/20260330_tozsde-arfolyam-eses-meszaros-tiborcz-jaszai-opus-granit-4ig-raba",
-          "source": "| hvg.hu"
-        },
-        {
-          "title": "Üzent az Opus vezérigazgatója a befektetőknek a nagy árfolyamesés után",
-          "snippet": "",
-          "url": "https://www.portfolio.hu/uzlet/20260330/uzent-az-opus-vezerigazgatoja-a-befektetoknek-a-nagy-arfolyameses-utan-827558",
-          "source": "Portfolio.hu"
         }
       ],
       "link": "https://imtaqin.id/"

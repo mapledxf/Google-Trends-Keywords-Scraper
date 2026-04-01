@@ -1,123 +1,86 @@
 {
-  "lastUpdate": "2026-04-01 20:05:48",
+  "lastUpdate": "2026-04-01 20:59:04",
   "data": [
     {
-      "title": "nvidia 股價",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 1 Apr 2026 10:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQl21EXo8gKkQOxzg1L-5HZGsJVkiScZCSUEIwBTSNqnbYYaxj1E_RpSc7Euts",
-      "pictureSource": "Yahoo股市",
+      "title": "川普演說",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 1 Apr 2026 13:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-m4NPZTjYJ4fjC5ni31HZQMd-7wW7Ujxrl44PMrT0D5UvQ97SRAsZZqy1xAw",
+      "pictureSource": "ETtoday財經雲",
       "relatedSearch": [
         {
-          "title": "輝達砸640億結盟邁威爾！「探針卡大廠」飆天價殺進68檔漲停股 欣興明天出關也攻頂",
+          "title": "荷莫茲海峽逐漸開放中　海運界都看川普明天怎麼說",
           "snippet": "",
-          "url": "https://tw.stock.yahoo.com/news/%E8%BC%9D%E9%81%94%E7%A0%B8640%E5%84%84%E7%B5%90%E7%9B%9F%E9%82%81%E5%A8%81%E7%88%BE-%E6%8E%A2%E9%87%9D%E5%8D%A1%E5%A4%A7%E5%BB%A0-%E9%A3%86%E5%A4%A9%E5%83%B9%E6%AE%BA%E9%80%B268%E6%AA%94%E6%BC%B2%E5%81%9C%E8%82%A1-%E6%AC%A3%E8%88%88%E6%98%8E%E5%A4%A9%E5%87%BA%E9%97%9C%E4%B9%9F%E6%94%BB%E9%A0%82-124500352.html",
-          "source": "Yahoo股市"
+          "url": "https://finance.ettoday.net/news/3142508",
+          "source": "ETtoday財經雲"
         },
         {
-          "title": "輝達不愧是AI「造王者」被看上的公司股價大飆升",
+          "title": "有無協議都沒差！ 川普：美國將撤離伊朗",
           "snippet": "",
-          "url": "https://stock.ltn.com.tw/article/z8xshymudg3d",
-          "source": "自由時報"
+          "url": "https://www.cna.com.tw/video/news/4353494",
+          "source": "中央社 CNA"
         },
         {
-          "title": "1圖看懂》輝達20億美元結盟邁威爾誰是矽光子界的台積電？聯亞、華星光、雙鴻、啟碁...8檔1次評- 上市櫃",
+          "title": "伊朗戰爭3周內可結束？專家「1句話」打臉川普 難抽身原因曝光",
           "snippet": "",
-          "url": "https://wantrich.chinatimes.com/news/20260401900289-420101",
-          "source": "旺得富理財網"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "nasa",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 1 Apr 2026 09:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9U5V2w7CI-KuxcgB7T3aVQQRFwyyAjALl_de3e62Ik41kzpVlqeruWtaPtkA",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Artemis II astronauts board spacecraft ahead of Moon mission - watch and follow live",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/live/c4g4ygw0r02t",
-          "source": "BBC"
-        },
-        {
-          "title": "LIVE: Artemis II Launch Day Updates",
-          "snippet": "",
-          "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
-          "source": "NASA (.gov)"
-        },
-        {
-          "title": "Meet the Artemis crew in NASA's first astronaut mission to the moon in more than a half-century",
-          "snippet": "",
-          "url": "https://apnews.com/article/nasa-moon-artemis-crew-3a47786c3757f7d79154d96933aa5bd9",
-          "source": "AP News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "高鐵",
-      "trafficCount": "2000+",
-      "pubDate": "Wed, 1 Apr 2026 08:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUMEFq7jaL99ddz4K6nyrHKQsQPsTdpWzRYwhpLJ1Eg41EdpLl-8esunARXng",
-      "pictureSource": "Yahoo新聞",
-      "relatedSearch": [
-        {
-          "title": "有問題馬上跟列車服務人員反應！高鐵啟用「QR Code車廂數位客服」",
-          "snippet": "",
-          "url": "https://tw.news.yahoo.com/%E6%9C%89%E5%95%8F%E9%A1%8C%E9%A6%AC%E4%B8%8A%E8%B7%9F%E5%88%97%E8%BB%8A%E6%9C%8D%E5%8B%99%E4%BA%BA%E5%93%A1%E5%8F%8D%E6%87%89-%E9%AB%98%E9%90%B5%E5%95%9F%E7%94%A8-qr-code%E8%BB%8A%E5%BB%82%E6%95%B8%E4%BD%8D%E5%AE%A2%E6%9C%8D-085626992.html",
-          "source": "Yahoo新聞"
-        },
-        {
-          "title": "飲料打翻、遇噪音怎辦？高鐵車廂數位客服上線 QR Code通報教學一次看",
-          "snippet": "",
-          "url": "https://www.peoplenews.tw/articles/lifestyle/24355",
-          "source": "民報"
-        },
-        {
-          "title": "高鐵票價漲定了?北高上看1780 元交通部回應了",
-          "snippet": "",
-          "url": "https://www.msn.com/zh-tw/news/living/%E9%AB%98%E9%90%B5%E7%A5%A8%E5%83%B9%E6%BC%B2%E5%AE%9A%E4%BA%86-%E5%8C%97%E9%AB%98%E4%B8%8A%E7%9C%8B1780%E5%85%83-%E4%BA%A4%E9%80%9A%E9%83%A8%E5%9B%9E%E6%87%89%E4%BA%86/ar-AA1ZRpNd",
-          "source": "MSN"
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5389322",
+          "source": "自由財經"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "高鐵訂票",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Wed, 1 Apr 2026 08:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLuaL71uSjI79IMK4ewt7RXRlhAB2L5GW5Jm0ZupEFK7TaejYIiXoaw8y_AYE",
+      "pictureSource": "Yahoo股市",
+      "relatedSearch": [
+        {
+          "title": "台北－高雄「最高上看1780元」！交通部認高鐵票價已達調漲門檻 董事長這樣說",
+          "snippet": "",
+          "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97-%E9%AB%98%E9%9B%84-%E6%9C%80%E9%AB%98%E4%B8%8A%E7%9C%8B1780%E5%85%83-%E4%BA%A4%E9%80%9A%E9%83%A8%E8%AA%8D%E9%AB%98%E9%90%B5%E7%A5%A8%E5%83%B9%E5%B7%B2%E9%81%94%E8%AA%BF%E6%BC%B2%E9%96%80%E6%AA%BB-%E8%91%A3%E4%BA%8B%E9%95%B7%E9%80%99%E6%A8%A3%E8%AA%AA-063000920.html",
+          "source": "Yahoo股市"
+        },
+        {
+          "title": "高鐵車廂數位客服上線掃QR Code通報可即時處理| 生活",
+          "snippet": "",
+          "url": "https://www.cna.com.tw/news/ahel/202604010154.aspx",
+          "source": "中央社 CNA"
+        },
+        {
+          "title": "高鐵票價「北高可漲至1780元」 交長陳世凱：目前無調漲議題",
+          "snippet": "",
+          "url": "https://udn.com/news/story/7266/9415576",
+          "source": "聯合新聞網"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "intel",
       "trafficCount": "100+",
       "pubDate": "Wed, 1 Apr 2026 08:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8LYiSYq4qgViPbW3nhFPhWmzJtcoG2DM9O_9GtvL4t022h0Qitpga1jMSjgY",
-      "pictureSource": "RTE.ie",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFTawbSsUmZoC179e_kk9kHVJY0ScqS8MaUDqavm-fca67v5c6VZszolszjig",
+      "pictureSource": "富途牛牛",
       "relatedSearch": [
         {
-          "title": "Intel to repurchase 49% stake in Irish joint venture",
+          "title": "Intel Reverses 'Cost-Cutting and Streamlining' Strategy: Spends $14.2 Billion to Repurchase Stake in Irish Plant After Two Years",
           "snippet": "",
-          "url": "https://www.rte.ie/news/business/2026/0401/1566310-intel-fab34/",
-          "source": "RTE.ie"
+          "url": "https://news.futunn.com/en/post/70983175/intel-reverses-cost-cutting-and-streamlining-strategy-spends-14-2",
+          "source": "富途牛牛"
         },
         {
-          "title": "Intel to buy back Apollo stake in Ireland factory for $14.2 billion",
+          "title": "Why This Red-Hot Chip Stock is Rising Today",
           "snippet": "",
-          "url": "https://www.cnbc.com/video/2026/04/01/intel-to-buy-back-apollo-stake-in-ireland-factory-for-14-point-2-billion.html",
-          "source": "CNBC"
+          "url": "https://www.schaeffersresearch.com/content/news/2026/04/01/why-this-red-hot-chip-stock-is-rising-today",
+          "source": "Schaeffer's Investment Research"
         },
         {
-          "title": "INTC Stock Gains As Intel Strikes A Massive $14.2B Billion Deal To Fuel Its AI Ambitions",
+          "title": "Intel Chip-Factory Buyback Brings Apollo a Payday",
           "snippet": "",
-          "url": "https://www.msn.com/en-us/money/topstocks/intc-stock-gains-as-intel-strikes-a-massive-14-2b-billion-deal-to-fuel-its-ai-ambitions/ar-AA1ZUXsm",
-          "source": "MSN"
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-01-2026/card/intel-chip-factory-buyback-brings-apollo-a-payday-f03nNhoSeHUJ6d7R9JIf",
+          "source": "WSJ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -144,26 +107,26 @@
       "title": "fifa",
       "trafficCount": "100+",
       "pubDate": "Wed, 1 Apr 2026 07:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1_N9nw3o_T6zTy7TbNsgCgPHiOUsOEnqfNvBFnZQFqzbFqKG5yWtk_Od9THo",
-      "pictureSource": "ESPN",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLcrT0g7lCEAmSUzXqw1I4jEahUHUwQcYojySEak5OQkY92B1TMSTGJXgnmuE",
+      "pictureSource": "KOMO",
       "relatedSearch": [
         {
-          "title": "World Cup ticket sales resume amid long waits, technical issues",
+          "title": "Ticket sales glitch hits FIFA’s last-minute phase as 48-team World Cup field set",
           "snippet": "",
-          "url": "https://www.espn.com/soccer/story/_/id/48369993/world-cup-ticket-sales-fifa-website-last-minute-buy",
-          "source": "ESPN"
+          "url": "https://komonews.com/news/local/fifa-enters-5th-ticket-sales-phase-ahead-of-world-cup-48-teams-playing-in-fifa-seattle-games-lumen-field-egypt-iran-visas-for-fans",
+          "source": "KOMO"
         },
         {
-          "title": "Last chance to buy official World Cup tickets in Atlanta starts today",
+          "title": "FIFA appears to have technical difficulties with World Cup ticket sales",
           "snippet": "",
-          "url": "https://www.usatoday.com/story/news/2026/04/01/last-round-of-fifa-world-cup-ticket-sales-in-atlanta-starts-wednesday/89416315007/",
-          "source": "USA Today"
+          "url": "https://apnews.com/article/world-cup-tickets-sale-e4bb8a9eb9aa285f55caa4b9405fb182",
+          "source": "AP News"
         },
         {
-          "title": "The final batch of World Cup tickets is about to go on sale. Here are 5 things to know",
+          "title": "EU lawmakers urge Commission to get tough on FIFA over World Cup tickets",
           "snippet": "",
-          "url": "https://www.npr.org/2026/03/31/nx-s1-5727893/prices-tickets-fifa-world-cup-last-minute",
-          "source": "NPR"
+          "url": "https://www.politico.eu/article/lawmakers-european-parliament-commission-fifa-world-cup-ticket-price/",
+          "source": "POLITICO.eu"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -181,14 +144,14 @@
       "title": "axti",
       "trafficCount": "200+",
       "pubDate": "Wed, 1 Apr 2026 07:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuzsd36xpLwbdvfXdalYc_Si-hfNlTdRwq9tfYTSxlV30MPeVtM3YxRz1YDcU",
-      "pictureSource": "Investing.com",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE_RL66B5iysi4ar2osLkNgC9BOPtzihvJmMKeRS8T_q35hDydZIFhjwE6ePs",
+      "pictureSource": "Simply Wall Street",
       "relatedSearch": [
         {
-          "title": "Axt Inc stock hits all-time high at 71.1 USD",
+          "title": "A Look At AXT (AXTI) Valuation After March 2026 Insider Profit Taking",
           "snippet": "",
-          "url": "https://www.investing.com/news/company-news/axt-inc-stock-hits-alltime-high-at-711-usd-93CH-4588138",
-          "source": "Investing.com"
+          "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-axti/axt/news/a-look-at-axt-axti-valuation-after-march-2026-insider-profit",
+          "source": "Simply Wall Street"
         },
         {
           "title": "AXT (NASDAQ:AXTI) Hits New 52-Week High - Time to Buy?",
@@ -197,10 +160,66 @@
           "source": "MarketBeat"
         },
         {
-          "title": "A Look At AXT (AXTI) Valuation After March 2026 Insider Profit Taking",
+          "title": "Axt Inc stock hits all-time high at 71.1 USD By Investing.com",
           "snippet": "",
-          "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-axti/axt/news/a-look-at-axt-axti-valuation-after-march-2026-insider-profit",
-          "source": "Simply Wall Street"
+          "url": "https://in.investing.com/news/company-news/axt-inc-stock-hits-alltime-high-at-711-usd-93CH-5314699",
+          "source": "Investing.com India"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "nike",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 1 Apr 2026 07:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIKUkKDgnF6n6mmocB5rAu08qRmpZs_WeWVr4wCeMBWWc86_BgLOE8uH8Typg",
+      "pictureSource": "WSJ",
+      "relatedSearch": [
+        {
+          "title": "Nike Can’t Fix Its China Problem and That’s Tanking Its Stock",
+          "snippet": "",
+          "url": "https://www.wsj.com/business/retail/nikes-road-to-recovery-in-china-is-hitting-new-hurdles-5aced75f?gaa_at=eafs&gaa_n=AWEtsqev37oIl5UGUd50t0Gk6IdmdnuKAo6YMfIHb0FP01JcZHJCWDDiL2y0&gaa_ts=69cd8a9c&gaa_sig=o99khkdCx73RjQLue4HO0hKx7Lq_Nm3qHUATVZEvz5j6hqhPNJr_i66HQqMhFC1IvYVLEsKCpNdc-20hwmkqMA%3D%3D",
+          "source": "WSJ"
+        },
+        {
+          "title": "Nike's Uphill Slog to Recovery Just Got Harder",
+          "snippet": "",
+          "url": "https://www.bloomberg.com/opinion/articles/2026-04-01/nike-s-uphill-slog-to-recovery-just-got-harder",
+          "source": "Bloomberg.com"
+        },
+        {
+          "title": "Nike's turnaround put to test as Middle East conflict poses new risks",
+          "snippet": "",
+          "url": "https://www.reuters.com/business/nikes-turnaround-put-test-middle-east-conflict-poses-new-risks-2026-04-01/",
+          "source": "Reuters"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "柏原崇",
+      "trafficCount": "2000+",
+      "pubDate": "Wed, 1 Apr 2026 06:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVRvtG-AWe7OOSkQh590_6B-7JtFTz7mruX7UcLcZ_QKkxQObE1aD4K29CqUw",
+      "pictureSource": "Yahoo新聞",
+      "relatedSearch": [
+        {
+          "title": "愛情長跑15年修成正果！內田有紀「低調改姓」秘密再婚柏原崇",
+          "snippet": "",
+          "url": "https://tw.news.yahoo.com/%E6%84%9B%E6%83%85%E9%95%B7%E8%B7%9115%E5%B9%B4%E4%BF%AE%E6%88%90%E6%AD%A3%E6%9E%9C-%E5%85%A7%E7%94%B0%E6%9C%89%E7%B4%80-%E4%BD%8E%E8%AA%BF%E6%94%B9%E5%A7%93-%E5%86%8D%E5%A9%9A%E7%94%B7%E7%A5%9E%E6%9F%8F%E5%8E%9F%E5%B4%87-122441081.html",
+          "source": "Yahoo新聞"
+        },
+        {
+          "title": "內田有紀、柏原崇爆「秘密再婚！」喜訊藏3個月　經紀公司回應了",
+          "snippet": "",
+          "url": "https://star.setn.com/news/1816394",
+          "source": "三立娛樂星聞"
+        },
+        {
+          "title": "內田有紀、柏原崇被爆祕密結婚！　她31年前一見鍾情「1理由止步」",
+          "snippet": "",
+          "url": "https://star.ettoday.net/news/3142531",
+          "source": "ETtoday星光雲| ETtoday新聞雲"
         }
       ],
       "link": "https://imtaqin.id/"

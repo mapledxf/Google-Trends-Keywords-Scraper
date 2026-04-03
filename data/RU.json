@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2026-04-03 11:48:08",
+  "lastUpdate": "2026-04-03 12:30:22",
   "data": [
     {
+      "title": "томск",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 3 Apr 2026 04:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQblenNVogYt2ezf-OBQVMDJqxg_FvQ7pVEL5nEAUSzBzCJ328Odury9cTfc",
+      "pictureSource": "vtomske.ru",
+      "relatedSearch": [
+        {
+          "title": "Потепление до +11°С ожидается в Томске в выходные. Прогноз погоды на 4-5 апреля",
+          "snippet": "",
+          "url": "https://vtomske.ru/news/214331-poteplenie-do-11-s-ojidaetsya-v-tomske-v-vyhodnye-prognoz-pogody-na-4-5-aprelya",
+          "source": "vtomske.ru"
+        },
+        {
+          "title": "Синоптики обещают томичам теплые выходные и до +12°С",
+          "snippet": "",
+          "url": "https://www.tomsk.ru/news/pogoda/sinoptiki-obeschayut-tomicham-teplye-vyhodnye-i-do-12-s",
+          "source": "Tomsk.ru"
+        },
+        {
+          "title": "Пятница в Томске ожидается теплой и без осадков",
+          "snippet": "",
+          "url": "https://www.riatomsk.ru/article/20260403/pogoda-tomsk",
+          "source": "РИА Томск"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "кирилл капризов",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 3 Apr 2026 03:30:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTphVFx8ucYhtgGBwz6VNh_jqatZ4L1JZ4hPD_FSMh4rmBp4CIeP4Q3Nvk91FI",
       "pictureSource": "Sportbox",
@@ -15,16 +43,16 @@
           "source": "Sportbox"
         },
         {
-          "title": "«Миннесота» переиграла «Ванкувер» в матче НХЛ, Капризов забил 40‑й гол в сезоне",
-          "snippet": "",
-          "url": "https://matchtv.ru/hockey/matchtvnews_NI2311020_Minnesota_pereigrala_Vankuver_v_matche_NKhL_Kaprizov_zabil_40j_gol_v_sezone",
-          "source": "Матч ТВ"
-        },
-        {
           "title": "Гол и передача Капризова вывели «Миннесоту» в плей-офф НХЛ",
           "snippet": "",
           "url": "https://sportmail.ru/article/hockey-nhl/70402728/",
           "source": "Спорт Mail"
+        },
+        {
+          "title": "«Миннесота» переиграла «Ванкувер» в матче НХЛ, Капризов забил 40‑й гол в сезоне",
+          "snippet": "",
+          "url": "https://matchtv.ru/hockey/matchtvnews_NI2311020_Minnesota_pereigrala_Vankuver_v_matche_NKhL_Kaprizov_zabil_40j_gol_v_sezone",
+          "source": "Матч ТВ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -59,22 +87,22 @@
     },
     {
       "title": "су-30",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 3 Apr 2026 03:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFBPGM4SatyZb9VQNqCa8yr4RROF0BSizlZkrYfYEw37rWmqr6JG0v1On121w",
-      "pictureSource": "Ведомости",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQETKOTouK9lVp1OS5T2pJaSUpo0qFO3EIUZqvwjFunbPXPVGO5Yl2amRAXNm8",
+      "pictureSource": "Радио Свобода",
       "relatedSearch": [
-        {
-          "title": "В Крыму потерпел крушение истребитель Су-30",
-          "snippet": "",
-          "url": "https://www.vedomosti.ru/politics/news/2026/04/03/1187735-poterpel-krushenie-su-30",
-          "source": "Ведомости"
-        },
         {
           "title": "В аннексированном Крыму разбился российский истребитель Су-30",
           "snippet": "",
           "url": "https://www.svoboda.org/a/v-anneksirovannom-krymu-razbilsya-rossiyskiy-istrebitelj-su-30/33724032.html",
           "source": "Радио Свобода"
+        },
+        {
+          "title": "В Крыму потерпел крушение истребитель Су-30",
+          "snippet": "",
+          "url": "https://www.vedomosti.ru/politics/news/2026/04/03/1187735-poterpel-krushenie-su-30",
+          "source": "Ведомости"
         },
         {
           "title": "Минобороны сообщило о крушении самолета Су-30 в Крыму",
@@ -114,10 +142,10 @@
           "source": "Rozetked.me"
         },
         {
-          "title": "Мультфильм «Супер Марио: Галактическое кино» успешно начал и международный кинопрокат",
+          "title": "Критики громят «Супер Марио: Галактическое кино». Зрители несут ему миллионы",
           "snippet": "",
-          "url": "https://www.kinobusiness.com/news/multfilm-super-mario-galakticheskoe-kino-uspeshno-nachal-i-mezhdunarodnyy-kinoprokat/",
-          "source": "Кинобизнес сегодня"
+          "url": "https://www.mirf.ru/news/kritiki-gromyat-super-mario-galakticheskoe-kino-zriteli-nesut-emu-milliony",
+          "source": "Мир фантастики и фэнтези"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -182,9 +210,15 @@
       "title": "самокат",
       "trafficCount": "500+",
       "pubDate": "Fri, 3 Apr 2026 02:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwuDvFBILTH8cvyVcxdHAKSZJqkZomSDtX-YRvJy3-GW7LxwKNwcLCt4u9aJs",
-      "pictureSource": "Авто Mail",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJCDS9ncMNXzbzjpjsUuTSm3RrIR2XxSdClAMQ3gOuOb415vZ3IUUS4vhfeAo",
+      "pictureSource": "Москвич Mag",
       "relatedSearch": [
+        {
+          "title": "«Переезжаем»: москвичи восхищаются Люберцами, где запретили самокаты",
+          "snippet": "",
+          "url": "https://moskvichmag.ru/gorod/pereezzhaem-moskvichi-voshishhayutsya-lyubertsami-gde-zapretili-samokaty/",
+          "source": "Москвич Mag"
+        },
         {
           "title": "Власти объяснили запрет на прокат самокатов в Подмосковье",
           "snippet": "",
@@ -196,12 +230,6 @@
           "snippet": "",
           "url": "https://expert.ru/news/v-kotelnikakh-polnostyu-zapretili-kikshering/",
           "source": "Эксперт"
-        },
-        {
-          "title": "Более половины петербуржцев поддерживают полный запрет электросамокатов",
-          "snippet": "",
-          "url": "https://www.rosbalt.ru/news/2026-04-03/bolee-poloviny-peterburzhtsev-podderzhivayut-polnyy-zapret-elektrosamokatov-5574093",
-          "source": "Росбалт"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -210,9 +238,15 @@
       "title": "сочи",
       "trafficCount": "100+",
       "pubDate": "Fri, 3 Apr 2026 02:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgjU4e3OVgCQORFRt43L53U78ujqEHGPONWK7FMzYrna7vQITmQcMpPE57yLg",
-      "pictureSource": "Администрация города Сочи -",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLkjVgnOa6YFlBMjmJmzYCFbjGnbog9R8Th74Fc86EMheuM9QEh0VvsnKkSDo",
+      "pictureSource": "sochi.com",
       "relatedSearch": [
+        {
+          "title": "Новость: Список отключений света в Сочи на 3 апреля",
+          "snippet": "",
+          "url": "https://sochi.com/news/2107/532560/",
+          "source": "sochi.com"
+        },
         {
           "title": "В работе над цифровым профилем Сочи будут использованы ведущие инновационные практики страны",
           "snippet": "",
@@ -224,40 +258,6 @@
           "snippet": "",
           "url": "https://www.vedomosti.ru/press_releases/2026/04/02/v-rossii-snyali-dokumentalnii-kiberserial-ii-buduschego-pri-uchastii-f6",
           "source": "Ведомости"
-        },
-        {
-          "title": "Цифровые достижения Свердловской области включили в первый в России сериал об искусственном интеллекте будущего",
-          "snippet": "",
-          "url": "https://xn--b1ag8a.xn--p1ai/news/34135",
-          "source": "Информационный портал Свердловской области"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "новости",
-      "trafficCount": "5000+",
-      "pubDate": "Fri, 3 Apr 2026 02:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDsO1pCXqNUHWCh9uBGGZt4DcqtacVVGv0J25F5tZdnWYCK8FF-t2PtxUeU3Y",
-      "pictureSource": "Национальная Служба Новостей - НСН",
-      "relatedSearch": [
-        {
-          "title": "Власти Новосибирска выпустили ролик о благодарных фермерах после массового уничтожения скота",
-          "snippet": "",
-          "url": "https://nsn.fm/society/vlasti-novosibirska-vypustili-rolik-o-blagodarnyh-fermerah-posle-massovogo-unichtozheniya-skota",
-          "source": "Национальная Служба Новостей - НСН"
-        },
-        {
-          "title": "\"Все законы попраны!\" Фермеры из Сибири приехали в Москву и требуют остановить массовый забой скота",
-          "snippet": "",
-          "url": "https://www.currenttime.tv/a/vse-zakony-poprany-fermery-iz-sibiri-priehali-v-moskvu-i-trebuyut-ostanovit-massovyy-zaboy-skota/33722451.html",
-          "source": "Настоящее Время"
-        },
-        {
-          "title": "Бойня номер два. Сергей Медведев – о цене жизни животных и людей",
-          "snippet": "",
-          "url": "https://www.svoboda.org/a/boynya-nomer-dva-sergey-medvedev-o-tsene-zhizni-zhivotnyh-i-lyudey/33719773.html",
-          "source": "Радио Свобода"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-04-04 23:30:38",
+  "lastUpdate": "2026-04-04 23:56:29",
   "data": [
     {
       "title": "пасха",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 4 Apr 2026 15:40:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4VCAovNHGWpkDeb8puurppxlkBidbjv8wJyEfQAxX0ltukatSROCektHQH9c",
       "pictureSource": "ВФокусе Mail",
@@ -31,7 +31,7 @@
     },
     {
       "title": "easter",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 4 Apr 2026 15:20:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6Q7yIgMNebDJhHpY6CB4YaT0VoNwGkqXGYhkbX6gtSbe4i2mCZBP1ktiZU3Y",
       "pictureSource": "WINK News - Southwest Florida",
@@ -43,10 +43,10 @@
           "source": "WINK News - Southwest Florida"
         },
         {
-          "title": "Video: Rainy and breezy, but mild Easter Sunday",
+          "title": "CWG Live: Warm tonight after record highs; wet Easter, then cooler workweek",
           "snippet": "",
-          "url": "https://www.wcvb.com/article/video-rainy-and-breezy-but-mild-easter-sunday/70934649",
-          "source": "WCVB"
+          "url": "https://www.washingtonpost.com/weather/2026/04/04/dc-weather-live-updates-warm-saturday-rain-easter/",
+          "source": "The Washington Post"
         },
         {
           "title": "Weekend cold front coming to South Texas. Here's when it arrives.",
@@ -145,9 +145,15 @@
       "title": "атлетіко мадрид – барселона",
       "trafficCount": "200+",
       "pubDate": "Sat, 4 Apr 2026 13:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM9NrGYS0rl-VahqAEHQpHGWjXERhf-AEskYyRZ_mDkhNga6WvbwD0S7DSAIc",
-      "pictureSource": "Матч ТВ",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQU9NEVNb1nsda75mSGGpL-yTuXWdnTAnRXq0FdvWcxaNsrtEdI4i1BJh5oAHY",
+      "pictureSource": "Спорт Mail",
       "relatedSearch": [
+        {
+          "title": "«Барселона» одержала волевую победу над «Атлетико» в матче чемпионата Испании",
+          "snippet": "",
+          "url": "https://sportmail.ru/news/football-foreign/70419736/",
+          "source": "Спорт Mail"
+        },
         {
           "title": "«Атлетико» — «Барселона»: где смотреть прямую трансляцию матча 30‑го тура Ла Лиги 4 апреля",
           "snippet": "",
@@ -159,12 +165,6 @@
           "snippet": "",
           "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/Evropejskie_chempionaty/Ispaniya/spbnews_NI2311648_Barselona_pereigrala_Atletiko_v_matche_chempionata_Ispanii_Levandovskij_zabil_pobednyj_gol",
           "source": "Sportbox"
-        },
-        {
-          "title": "Атлетико Барселона - анонс матча 30 тура Ла Лиги и прогноз на игру четвертого апреля - Футбол 24",
-          "snippet": "",
-          "url": "https://football24.ua/ru/news/atletiko-barselona-anons-matcha-30-tura-la-ligi-i-prognoz-na-igru-chetvertogo-marta-935103",
-          "source": "Футбол 24"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,6 +226,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "stuttgart – bvb",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 4 Apr 2026 12:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSflGJkua2BnqlZ3WC634mz5qkQHjydbuAqxlLkpMIfEtOOquBOtfFF4Uh_GMY",
+      "pictureSource": "OneFootball",
+      "relatedSearch": [
+        {
+          "title": "Reaktionen: „Big Point auf dem Weg zur Vizemeisterschaft“",
+          "snippet": "",
+          "url": "https://onefootball.com/pt-br/noticias/reaktionen-big-point-auf-dem-weg-zur-vizemeisterschaft-42661482",
+          "source": "OneFootball"
+        },
+        {
+          "title": "Bundesliga: Borussia Dortmund gewinnt beim VfB Stuttgart",
+          "snippet": "",
+          "url": "https://www.zdfheute.de/sport/bundesliga-vfb-stuttgart-borussia-dortmund-spieltag-28-25-26-100.html",
+          "source": "ZDFheute"
+        },
+        {
+          "title": "Kovac räumt Glück ein: \"War ein 0:0-Spiel\" | Zwei Tore in der Nachspielzeit | Video",
+          "snippet": "",
+          "url": "https://www.kicker.ch/kovac-raeumt-glueck-ein-war-ein-0-0-spiel-1207666/video",
+          "source": "https://www.kicker.ch/"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "martin hranac",
       "trafficCount": "200+",
       "pubDate": "Sat, 4 Apr 2026 11:50:00 -0700",
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://medium.seznam.cz/clanek/talkshow-kotak-live-martin-hranac-v-kotak-live-o-drsnem-zivote-cisnika-i-padech-po-reality-show-256979",
           "source": "Médium.cz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "stardance 2026",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 4 Apr 2026 11:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTf_w0yDydzNMUKwIpHhKP723kXc37moGVBhiEjLlXqQIaUfBhDig7cd_R5Els",
-      "pictureSource": "Novinky",
-      "relatedSearch": [
-        {
-          "title": "Česká televize oznámila, kdo bude šestým soutěžícím ve StarDance",
-          "snippet": "",
-          "url": "https://www.novinky.cz/clanek/kultura-tv-streaming-ceska-televize-oznamila-kdo-bude-sestym-soutezicim-ve-stardance-40571527",
-          "source": "Novinky"
-        },
-        {
-          "title": "O zábavu na parketu bude postaráno. Ve StarDance se předvede Tomáš Matonoha",
-          "snippet": "",
-          "url": "https://www.idnes.cz/zpravy/revue/spolecnost/stardance-xiv-matonoha-stepanek-polak-dyk-psenicka-jandova-sandeva.A260404_072112_lidicky_zar/foto",
-          "source": "iDNES.cz"
-        },
-        {
-          "title": "Kdo tančí ve StarDance? Seznam potvrzených hvězd a spekulace",
-          "snippet": "",
-          "url": "https://www.vlasta.cz/celebrity/stardance-2026-celebrity-tanecnici-dyk-sandeva-stepanek-seznam-hvezd/",
-          "source": "Vlasta.cz"
         }
       ],
       "link": "https://imtaqin.id/"

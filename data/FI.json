@@ -1,47 +1,41 @@
 {
-  "lastUpdate": "2026-04-05 04:43:49",
+  "lastUpdate": "2026-04-05 06:04:58",
   "data": [
     {
       "title": "helsingin sanomat",
       "trafficCount": "100+",
       "pubDate": "Sat, 4 Apr 2026 21:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ28a6xoChP6uLH64CoBzX2-VB9TXJvU0BPJFxsYGq-0ZDVhndSAGQfMQycvRU",
-      "pictureSource": "HS.fi",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuRPbuhy5q1pk5o0AKDr7o8GcfCazrTelXgSwin05IdftJEuTQkYBOsd5uWag",
+      "pictureSource": "Iltalehti",
       "relatedSearch": [
         {
-          "title": "Artemis II | Kuulennolta julkaistiin uusia kuvia, astronautti kertoi olevansa sanaton",
+          "title": "HS: 8-viikkoinen koiranpentu kuoli tupakantumppiin",
           "snippet": "",
-          "url": "https://www.hs.fi/tiede/art-2000011925254.html",
-          "source": "HS.fi"
-        },
-        {
-          "title": "Tällaista näkymää ei ole nähty vuosikymmeniin – Häkellyttävät kuvat",
-          "snippet": "",
-          "url": "https://www.iltalehti.fi/ulkomaat/a/d3a8372e-72a4-4e88-b6ad-e6d86b4db1b7",
+          "url": "https://www.iltalehti.fi/kotimaa/a/87f5f992-757c-45b2-bfcf-e6a8c7ff3a0a",
           "source": "Iltalehti"
         },
         {
-          "title": "Tällainen on astronauttien menu – sisältää 189 eri raaka-ainetta",
+          "title": "Lilo-koiranpentu nappasi maasta tupakantumpin ja kuoli",
           "snippet": "",
-          "url": "https://www.is.fi/ulkomaat/art-2000011925134.html",
-          "source": "Ilta-Sanomat"
+          "url": "https://www.aamulehti.fi/kotimaa/art-2000011925169.html",
+          "source": "Aamulehti"
+        },
+        {
+          "title": "HS: Lilo-koira kuoli tupakannatsaan, vaikka omistaja ehti hätiin",
+          "snippet": "",
+          "url": "https://www.voice.fi/ilmiot/hs-lilo-koira-kuoli-tupakannatsaan-vaikka-omistaja-ehti-hatiin",
+          "source": "Voice.fi"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "sää",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Sat, 4 Apr 2026 21:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8fCMaYTapglaZvhC5-F6MhfZlqKFORQOve6v8Da3plbgW9tYzVtDQ6prL3wg",
-      "pictureSource": "Ilta-Sanomat",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4cSapzuGvg0E7Srz0klht_r8W-ffHVjz2i2eJkxfxonG66LyPJAFKOM1fCNg",
+      "pictureSource": "Yle",
       "relatedSearch": [
-        {
-          "title": "Säässä märkä käänne – meteorologilta varoitus",
-          "snippet": "",
-          "url": "https://www.is.fi/kotimaa/art-2000011924357.html",
-          "source": "Ilta-Sanomat"
-        },
         {
           "title": "Maanantaina kannattaa harkita kahdesti, lähteekö lomalta kotimatkalle heti aamusta – Tampereella asti voi sataa lunta",
           "snippet": "",
@@ -49,10 +43,44 @@
           "source": "Yle"
         },
         {
-          "title": "Kohta sataa koko Suomessa",
+          "title": "Säässä märkä käänne – meteorologilta varoitus",
           "snippet": "",
-          "url": "https://www.iltalehti.fi/saauutiset/a/bee4adda-2681-42b5-b938-cbc02910d5b8",
-          "source": "Iltalehti"
+          "url": "https://www.is.fi/kotimaa/art-2000011924357.html",
+          "source": "Ilta-Sanomat"
+        },
+        {
+          "title": "Märkä rätti läsähtää Suomeen – pääsiäisen sääennuste!",
+          "snippet": "",
+          "url": "https://www.foreca.fi/meteorologilta/qy4b9264",
+          "source": "Foreca"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "claude",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 4 Apr 2026 21:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrpg1CuvGfapMJVr9zqMfjo6ADesNJLKBRSO1i-h-6YQ_Ai2vKovEiy0Hn6Gc",
+      "pictureSource": "Yahoo Finance",
+      "relatedSearch": [
+        {
+          "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+          "snippet": "",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-usage-163222101.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Anthropic Ends Paid Access for Claude in Third-Party Tools Like OpenClaw",
+          "snippet": "",
+          "url": "https://mlq.ai/news/anthropic-ends-paid-access-for-claude-in-third-party-tools-like-openclaw/",
+          "source": "MLQ.ai"
+        },
+        {
+          "title": "OpenClaw creator, who Sam Altman hired for millions, reacts to Anthropic banning his AI Agent; says: Trie",
+          "snippet": "",
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/openclaw-creator-who-sam-altman-hired-for-millions-reacts-to-anthropic-banning-his-ai-agent-says-tried-to-talk-sense-into-anthropic-but-/articleshow/130016220.cms",
+          "source": "The Times of India"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -105,10 +133,10 @@
           "source": "ARC Raiders"
         },
         {
-          "title": "Vaporizers' weakness and best strategy in Arc Raiders",
+          "title": "ARC Raiders Finally Playable Thanks To Latest Update",
           "snippet": "",
-          "url": "https://www.gamesradar.com/games/third-person-shooter/arc-raiders-vaporizers/",
-          "source": "GamesRadar+"
+          "url": "https://www.gamingbible.com/news/arc-raiders-finally-playable-latest-update-845648-20260402",
+          "source": "GAMINGbible"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,26 +173,26 @@
       "title": "пасха",
       "trafficCount": "500+",
       "pubDate": "Sat, 4 Apr 2026 15:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQA7boX0iLH3SygC_JzEx_5EwwJbfKJ6Vqm497WZknLeNs-1Q_zixdNiHGIaZo",
-      "pictureSource": "Новости Белгорода и области - Бел.ру",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2iJsgIdE0m7Z-RDTW4IT-bfTycT9W7UAI45tfjQ9tqOao8JyCM7yFnlomxgw",
+      "pictureSource": "Беларусь сегодня",
       "relatedSearch": [
         {
-          "title": "Пасха 2026: какого числа, что поставить на стол, нужно ли идти на кладбище",
+          "title": "Пасхальная вигилия в Бресте: верующие собрались на ночное богослужение",
           "snippet": "",
-          "url": "https://bel.ru/news/2026-04-04/kogda-pasha-2026-chto-nado-sdelat-pered-prazdnikom-i-chto-postavit-na-stol-5574018",
-          "source": "Новости Белгорода и области - Бел.ру"
+          "url": "https://news.sb.by/articles/paskhalnaya-vigiliya-v-breste-veruyushchie-sobralis-na-nochnoe-bogosluzhenie.html",
+          "source": "Беларусь сегодня"
         },
         {
-          "title": "Какого числа католическая Пасха в 2026 году и почему ее отмечают всегда в разные дни",
+          "title": "Католики в Великую субботу освящают пасхальную пищу",
           "snippet": "",
-          "url": "https://vfokuse.mail.ru/news/69614544-kakogo-chisla-katolicheskaya-pasha-v-2026-godu-i-pochemu-ee-otmechayut-vsegda-v-raznyie-dni/",
-          "source": "ВФокусе Mail"
+          "url": "https://rus.err.ee/1609986660/katoliki-v-velikuju-subbotu-osvjawajut-pashalnuju-piwu",
+          "source": "ERR"
         },
         {
-          "title": "Церковный календарь на апрель 2026 года",
+          "title": "Пасхальная Вигилия собрала верующих-католиков в Фарном костеле в Гродно",
           "snippet": "",
-          "url": "https://1prof.by/news/stil-zhizni/czerkovnyj-kalendar-na-aprel-2026-goda-kogda-prazdnuem-verbnoe-voskresene-blagoveshhenie-pashu-i-radoniczu/",
-          "source": "1prof"
+          "url": "https://belta.by/regions/view/pashalnaja-vigilija-sobrala-verujuschih-katolikov-v-farnom-kostele-v-grodno-773775-2026/",
+          "source": "БелТА"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,26 +201,26 @@
       "title": "easter",
       "trafficCount": "1000+",
       "pubDate": "Sat, 4 Apr 2026 14:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbH6V3ZUrqRufNoZ61M59ciOqzu667nBSidHX5vTae36QiY_H74cQrSjht4ww",
-      "pictureSource": "WCTV",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlATBiE2o2BkTJvhsAWyu27ly-KIzuI1p1660TqFkeIefQStzylC4ZATO4UDA",
+      "pictureSource": "CBS News",
       "relatedSearch": [
         {
-          "title": "Tracking an Easter Sunday cold front 🐰",
+          "title": "More rain moves through South Florida as Easter weekend turns wetter",
           "snippet": "",
-          "url": "https://www.wctv.tv/2026/04/04/tracking-an-easter-sunday-cold-front/",
-          "source": "WCTV"
+          "url": "https://www.cbsnews.com/miami/video/more-rain-moves-through-south-florida-as-easter-weekend-turns-wetter/",
+          "source": "CBS News"
         },
         {
-          "title": "Be ready with a rain jacket and umbrellas on Sunday | Much needed rain on Easter Sunday",
+          "title": "Video: Rainy and breezy, but mild Easter Sunday",
           "snippet": "",
-          "url": "https://www.wxii12.com/article/rain-weather-easter-north-carolina/70935414",
-          "source": "WXII"
+          "url": "https://www.wcvb.com/article/video-rainy-and-breezy-but-mild-easter-sunday/70934649",
+          "source": "WCVB"
         },
         {
-          "title": "Storms Could Disrupt Your Easter Plans",
+          "title": "Weather forecast: Cool and breezy Easter after overnight rain and storms",
           "snippet": "",
-          "url": "https://www.winknews.com/weather/weather_forecast/storms-could-disrupt-your-easter-plans/article_dba567cc-57fd-4f2d-93be-3b1e252de0a5.html",
-          "source": "WINK News - Southwest Florida"
+          "url": "https://www.yahoo.com/news/articles/weather-forecast-cool-breezy-easter-230959956.html",
+          "source": "Yahoo"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.ibtimes.com.au/bruce-willis-spotted-smiling-rare-la-outing-after-months-health-updates-frontotemporal-dementia-1865407",
           "source": "International Business Times Australia"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "arttu hyry",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 4 Apr 2026 12:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqQKwzpVev8d61R4klLa5K5Qt5UfCmkXQfBAiTsIIweWWx1d88Sj-YFioTXJw",
-      "pictureSource": "Yle",
-      "relatedSearch": [
-        {
-          "title": "Hyry viimeisteli NHL-uransa toisen maalin upealla klip klap -yhdistelmällä",
-          "snippet": "",
-          "url": "https://yle.fi/a/74-20218912",
-          "source": "Yle"
-        },
-        {
-          "title": "Arttu Hyry iski upean maalin! Some sekosi",
-          "snippet": "",
-          "url": "https://www.is.fi/nhl/art-2000011923425.html",
-          "source": "Ilta-Sanomat"
-        },
-        {
-          "title": "Arttu Hyry saa Starsiin täydellisen roolimallin",
-          "snippet": "",
-          "url": "https://www.nhl.com/fi/news/hyry-saa-dallasiin-taydellisen-roolimallin",
-          "source": "NHL.com"
         }
       ],
       "link": "https://imtaqin.id/"

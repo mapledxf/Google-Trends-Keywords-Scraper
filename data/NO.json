@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-04-05 08:56:25",
+  "lastUpdate": "2026-04-05 09:34:13",
   "data": [
     {
       "title": "flandern rundt",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 5 Apr 2026 01:10:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZ52eM-YtFXtveKYx9WnenHqiT0GJFsicJnvEPusmFq8t2HYsRXv6TXUzZr5k",
       "pictureSource": "Fredriksstad Blad",
@@ -33,9 +33,15 @@
       "title": "storm dave",
       "trafficCount": "200+",
       "pubDate": "Sat, 4 Apr 2026 23:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwtpXstNuHjINcVRVEHIts5LHMJR2ZUCvr02TyLMHwkjtp8GTh7eMpCfsuTGk",
-      "pictureSource": "The Guardian",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHu0ukDfU0olhsXzAGYcvLTdBS-zrQYwJHJR5jvOGRfmHbj_Ccnd0pbnZ3SQo",
+      "pictureSource": "BBC",
       "relatedSearch": [
+        {
+          "title": "Flood warnings remain as Storm Dave to ease on Easter Sunday",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/cg40xx110peo",
+          "source": "BBC"
+        },
         {
           "title": "Parts of UK braced for heavy snow and gale-force winds as Storm Dave arrives",
           "snippet": "",
@@ -47,12 +53,6 @@
           "snippet": "",
           "url": "https://news.sky.com/story/uk-weather-battered-coasts-wobbly-planes-and-closed-roads-as-storm-dave-sweeps-through-13528095",
           "source": "Sky News"
-        },
-        {
-          "title": "Amber alert for Storm Dave as Scotland to take brunt of wind and snow",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c5y80nj5v50o",
-          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -71,9 +71,9 @@
           "source": "fvn.no"
         },
         {
-          "title": "Stengte bassenget for godt",
+          "title": "Mann gikk i tunnel i Arendal: Endte med slåssing",
           "snippet": "",
-          "url": "https://www.agderposten.no/nyheter/s/3pp3qq/stengte-basseng-for-godt",
+          "url": "https://www.agderposten.no/nyheter/s/RjjVV5/mann-hindret-trafikk-i-tunnel-fikk-basketak",
           "source": "agderposten.no"
         },
         {
@@ -87,28 +87,28 @@
     },
     {
       "title": "statens vegvesen",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Sat, 4 Apr 2026 22:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZC_eVyRqzi_Hq09Fp_p8_QGTLP7G93jGMNtcIZW-9dTtai78zDaPxUi4HPE0",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0jZrAbkAZjSaUfnmkgsWdt_2cvzEC_-TpbqMZr8P6Ai0W18hkyjsNdIfbPBU",
       "pictureSource": "VG",
       "relatedSearch": [
         {
-          "title": "Sjekk den fergekøen: –⁠ Det var sinnssykt",
+          "title": "Advarer hyttefolket: –⁠ Ikke dagen å reise på",
           "snippet": "",
-          "url": "https://www.vg.no/nyheter/i/BxxQge/koe-foer-stormen-her-staar-paasketrafikken",
+          "url": "https://www.vg.no/nyheter/i/WvvVnd/uvaeret-dave-hyttefolket-advares",
           "source": "VG"
         },
         {
-          "title": "«Dave» treffer Sør-Norge. Kraftige farevarsler for Rogaland, Agder, Telemark og Østfold",
-          "snippet": "",
-          "url": "https://www.nrk.no/norge/_dave_-treffer-sor-norge.-kraftige-farevarsler-for-rogaland_-agder_-telemark-og-ostfold-1.17835363",
-          "source": "NRK"
-        },
-        {
-          "title": "Agder: Politiet har oppbemannet — ber folk gjøre dette nå",
+          "title": "Agder: Politiet har oppbemannet – ber folk gjøre dette nå",
           "snippet": "",
           "url": "https://www.tv2.no/nyheter/agder-politiet-har-oppbemannet-ber-folk-gjore-dette-na/18722242/",
           "source": "TV2.no"
+        },
+        {
+          "title": "Forberedt på storm: – Mange har reist heim allerede",
+          "snippet": "",
+          "url": "https://www.fvn.no/nyheter/nyhetsdognet/s/lnndgA/forberedt-paa-storm-mange-har-reist-heim-allerede",
+          "source": "fvn.no"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +127,16 @@
           "source": "NRK TV"
         },
         {
-          "title": "Trump: Savnet pilot overlevde – reddet ut av Iran",
+          "title": "Trump bekrefter: Savnet pilot overlevde – reddet ut av Iran",
           "snippet": "",
           "url": "https://www.vg.no/nyheter/i/vrrqz4/amerikansk-jagerfly-skutt-ned-over-iran",
           "source": "VG"
         },
         {
-          "title": "Iran: Fem drept i angrep under amerikansk redningsaksjon – Siste nytt",
+          "title": "USA har reddet savnet pilot",
           "snippet": "",
-          "url": "https://www.nrk.no/nyheter/iran_-fem-drept-i-angrep-under-amerikansk-redningsaksjon-1.17835332",
-          "source": "NRK"
+          "url": "https://www.dagbladet.no/nyheter/usa-har-reddet-savnet-pilot/84457212",
+          "source": "Dagbladet"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,38 +161,10 @@
           "source": "Radio Haugaland"
         },
         {
-          "title": "Sykkel | Marius (32) avslører tabben alle gjør: Slik unngår du den klassiske «vårsmellen",
+          "title": "Advarer hyttefolket: –⁠ Ikke dagen å reise på",
           "snippet": "",
-          "url": "https://www.h-avis.no/marius-32-avslorer-tabben-alle-gjor-slik-unngar-du-den-klassiske-varsmellen/f/5-62-2013172",
-          "source": "Haugesunds Avis"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "agderposten",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 4 Apr 2026 21:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKsviZ9_5263GpwcrV968PbJ8bHG7I47JDCKKbpOd43QztTwHSGoa-9RWrfek",
-      "pictureSource": "agderposten.no",
-      "relatedSearch": [
-        {
-          "title": "(+) – Det var jo helt ille. Sånt skal ikke skje",
-          "snippet": "",
-          "url": "https://www.agderposten.no/magasin/i/8pmd92/elisabeth-soerboee-aarsaether-det-foeles-veldig-rart-og-litt-trist",
-          "source": "agderposten.no"
-        },
-        {
-          "title": "Sjekk den fergekøen: –⁠ Det var sinnssykt",
-          "snippet": "",
-          "url": "https://www.vg.no/nyheter/i/BxxQge/koe-foer-stormen-her-staar-paasketrafikken",
+          "url": "https://www.vg.no/nyheter/i/WvvVnd/uvaeret-dave-hyttefolket-advares",
           "source": "VG"
-        },
-        {
-          "title": "«Dave» treffer Sør-Norge. Kraftige farevarsler for Rogaland, Agder, Telemark og Østfold",
-          "snippet": "",
-          "url": "https://www.nrk.no/norge/_dave_-treffer-sor-norge.-kraftige-farevarsler-for-rogaland_-agder_-telemark-og-ostfold-1.17835363",
-          "source": "NRK"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -255,7 +227,7 @@
     },
     {
       "title": "stavanger aftenblad",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Sat, 4 Apr 2026 15:50:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnnmrqtw6_K3VlzLUC9c5yxThnEsh--hu-npRvIaST1kHmf6QzX9JowNCyn18",
       "pictureSource": "Stavanger Aftenblad",
@@ -277,6 +249,34 @@
           "snippet": "",
           "url": "https://www.dagbladet.no/studio/72720-nyhetsstudio/11419168-alvorlig-frontkollisjon-tre-personer-skadd",
           "source": "Dagbladet"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "shiloh jolie",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 4 Apr 2026 15:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ09FT5T8_VFs4d74EHT1G_jqVAHQoMi0ONtD_OSJ-QL2me2hWz_6oBk_N7b4Q",
+      "pictureSource": "People.com",
+      "relatedSearch": [
+        {
+          "title": "Angelina Jolie's Daughter Shiloh Is Her Twin in New K-Pop Video Cameo",
+          "snippet": "",
+          "url": "https://people.com/angelina-jolie-daughter-shiloh-is-her-twin-in-new-k-pop-video-cameo-11942824",
+          "source": "People.com"
+        },
+        {
+          "title": "Shiloh Jolie makes surprise cameo in K-pop music video debut for Dayoung's new single",
+          "snippet": "",
+          "url": "https://www.goodmorningamerica.com/culture/story/shiloh-jolie-makes-surprise-cameo-pop-music-video-131722419",
+          "source": "Good Morning America"
+        },
+        {
+          "title": "Shiloh Jolie-Pitt Looks Exactly Like 19-Year-Old Angelina Jolie in Her K-Pop Music Video Debut",
+          "snippet": "",
+          "url": "https://www.instyle.com/shiloh-jolie-pitt-twins-angelina-jolie-music-video-debut-11942717",
+          "source": "InStyle"
         }
       ],
       "link": "https://imtaqin.id/"

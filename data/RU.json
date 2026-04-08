@@ -1,282 +1,263 @@
 {
-  "lastUpdate": "2026-04-08 07:04:26",
+  "lastUpdate": "2026-04-08 08:17:53",
   "data": [
     {
-      "title": "день победы",
+      "title": "правительство",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 8 Apr 2026 01:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGz1dATaR_8wOIbyW1dn6SZutNnmt7ecKysKdkmeSNCa5NqymuTVlSAbl3RRQ",
+      "pictureSource": "Портньюс",
+      "relatedSearch": [
+        {
+          "title": "Михаил Мишустин: События на Ближнем Востоке нарушили работу устоявшихся морских маршрутов",
+          "snippet": "",
+          "url": "https://portnews.ru/news/390025/",
+          "source": "Портньюс"
+        },
+        {
+          "title": "Михаил Мишустин провёл стратегическую сессию о развитии топливно-энергетического комплекса",
+          "snippet": "",
+          "url": "http://government.ru/news/58360/",
+          "source": "Правительство России"
+        },
+        {
+          "title": "Мишустин заявил о сокращении дисконта на российскую нефть",
+          "snippet": "",
+          "url": "https://finance.mail.ru/article/mishustin-zayavil-o-sokraschenii-diskonta-na-rossijskuyu-neft-69204252/",
+          "source": "Финансы Mail"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "энн хэтэуэй",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 8 Apr 2026 01:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRatJwgoiupWY69LUOjrPsY8vV8F1CzkaJ9dzeRrYar-7u1PuW-IxIZem20KVc",
+      "pictureSource": "Кино Mail",
+      "relatedSearch": [
+        {
+          "title": "76-летняя Мэрил Стрип с Энн Хэтэуэй удивили яркими нарядами на премьере в Токио",
+          "snippet": "",
+          "url": "https://kino.mail.ru/news/121639-76-letnyaya-meril-strip-s-heteuej-udivili-yarkimi-naryadami-na-premere-v-tokio/",
+          "source": "Кино Mail"
+        },
+        {
+          "title": "Леди Гага и Doechii записали песню для второй части фильма «Дьявол носит Prada»",
+          "snippet": "",
+          "url": "https://muz-tv.ru/news/ledi-gaga-i-doechii-zapisali-pesnyu-dlya-vtoroy-chasti-filma-dyavol-nosit-prada/",
+          "source": "muz-tv.ru"
+        },
+        {
+          "title": "Вышел финальный трейлер фильма \"Дьявол носит Prada 2\"",
+          "snippet": "",
+          "url": "https://piter.tv/event/Vishel_finalnij_trejler_filma_Dyavol_nosit_Prada_2_/",
+          "source": "Piter.tv"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "кредит",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 8 Apr 2026 00:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHw-x2CGXSNnuiDGOE26DMIMeAECNhjBB0IRqJFufK6qd9gppxYVzuuLYGVpI",
+      "pictureSource": "Финансы Mail",
+      "relatedSearch": [
+        {
+          "title": "Стало известно, сколько россиян отменили самозапрет на кредиты",
+          "snippet": "",
+          "url": "https://finance.mail.ru/article/samozapret-na-kredity-kak-rossiyane-ispolzuyut-novuyu-zashitu-ot-moshennikov-69204241/",
+          "source": "Финансы Mail"
+        },
+        {
+          "title": "За взятый кредит теперь грозит штраф и даже ограничение свободы: что нужно знать",
+          "snippet": "",
+          "url": "https://74.ru/text/economics/2026/04/08/76354465/",
+          "source": "74.ру"
+        },
+        {
+          "title": "Каждый седьмой житель Новосибирской области ограничил себе доступ к кредитам",
+          "snippet": "",
+          "url": "https://nsk.bfm.ru/news/62495",
+          "source": "BFM-Новосибирск"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "sony interactive entertainment",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 8 Apr 2026 00:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRo_Fymm4pcB47GRPMj5DU2DndbxVmYuzxCL-bTSMkjHNhGyIkM3PUrvDn0jlk",
+      "pictureSource": "GTPlanet",
+      "relatedSearch": [
+        {
+          "title": "Get Yourself in Gran Turismo 7 via PlayStation’s New “Playerbase” Contest",
+          "snippet": "",
+          "url": "https://www.gtplanet.net/get-yourself-in-gran-turismo-7-via-playstations-new-playerbase-contest/",
+          "source": "GTPlanet"
+        },
+        {
+          "title": "PlayStation hunting for \"biggest fans\" so it can scan their faces and put them in games, starting with Gran Turismo 7",
+          "snippet": "",
+          "url": "https://www.eurogamer.net/playstation-hunting-for-biggest-fans-so-it-can-put-them-in-games",
+          "source": "Eurogamer"
+        },
+        {
+          "title": "Sony will put you through a 2-stage job interview for the chance to get scanned into Gran Turismo 7 and other games",
+          "snippet": "",
+          "url": "https://www.pcgamer.com/games/sony-will-put-you-through-a-2-stage-job-interview-for-the-chance-to-get-scanned-into-gran-turismo-7-and-other-games/",
+          "source": "PC Gamer"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "лада",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 8 Apr 2026 00:50:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "верховная рада украины",
       "trafficCount": "200+",
-      "pubDate": "Tue, 7 Apr 2026 23:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDxVWe36gHEQIroCuT9juWUzaqfDUQpx5RTjQpJFlQBF3hBjvAQVw4DoD6DZQ",
-      "pictureSource": "Братская студия телевидения",
-      "relatedSearch": [
-        {
-          "title": "Ветераны Великой Отечественной войны получат по 10 тысяч рублей ко Дню Победы",
-          "snippet": "",
-          "url": "https://bst.bratsk.ru/news/78764",
-          "source": "Братская студия телевидения"
-        },
-        {
-          "title": "Ветераны ВОВ в Иркутской области получат выплату ко Дню Победы в апреле",
-          "snippet": "",
-          "url": "https://www.irk.ru/news/20260406/payments/",
-          "source": "Твой Иркутск"
-        },
-        {
-          "title": "В Курганской области ветеранам выплатят по 10 тысяч рублей ко Дню Победы",
-          "snippet": "",
-          "url": "https://oblast45.ru/publication/82995",
-          "source": "Область 45"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "пасха творожная рецепт",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 7 Apr 2026 23:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7K-w8indCrP-fxHmZKmWBnfBNvvLNm0X4_BikbqDHjUby5-cB31izSP5k-uk",
-      "pictureSource": "Gorod55",
-      "relatedSearch": [
-        {
-          "title": "Какого числа Пасха в 2026 году? Дата и традиции праздника",
-          "snippet": "",
-          "url": "https://gorod55.ru/news/2026-04-07/kogda-pasha-v-rossii-v-2026-godu-gid-po-glavnomu-pravoslavnomu-prazdniku-5575497",
-          "source": "Gorod55"
-        },
-        {
-          "title": "Христос воскресе: 10 картинок с куличами, яйцами и теплыми словами",
-          "snippet": "",
-          "url": "https://ura.news/news/1053083661",
-          "source": "URA.RU"
-        },
-        {
-          "title": "Подготовка к Пасхе 2026: полный список дел по дням, рецепты и традиции",
-          "snippet": "",
-          "url": "https://mamadysh-rt.ru/news/obshchestvo/podgotovka-k-pasxe-2026-polnyi-spisok-del-po-dniam-recepty-i-tradicii",
-          "source": "Нократ"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "деонтей уайлдер",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 7 Apr 2026 23:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFugZ4cws6UWKErxz_URJzJQI8t9A7lLuMTTnvUv2sbno8XV0wD1cpBI8LHkc",
-      "pictureSource": "Спорт Mail",
-      "relatedSearch": [
-        {
-          "title": "Уайлдер победил Чисору и бросил вызов Джошуа",
-          "snippet": "",
-          "url": "https://sportmail.ru/news/boxing/70421666/",
-          "source": "Спорт Mail"
-        },
-        {
-          "title": "Дерек Чисора подтвердил завершение карьеры после поражения от Уайлдера: «Всё кончено»",
-          "snippet": "",
-          "url": "https://karate.ru/news/2026-04-06/derek-chisora-podtverdil-zavershenie-karery-posle-/",
-          "source": "Karate.ru"
-        },
-        {
-          "title": "Деонтей Уайлдер заявил, что не бил Дерека Чисору в полную силу",
-          "snippet": "",
-          "url": "https://allboxing.ru/news/20260406-2126/deontey-uaylder-zayavil-chto-ne-bil-dereka-chisoru-v-polnuyu-silu",
-          "source": "Allboxing"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "новосибирск",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 7 Apr 2026 23:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkaWzYBdm7wFU-Qw2EZrgZerMG7ByItqUuwjvhDCo8p1dY_0w1wpTlfw3AcR4",
-      "pictureSource": "ВФокусе Mail",
-      "relatedSearch": [
-        {
-          "title": "В Новосибирске у бывшего полицейского конфисковали два автомобиля Mercedes-Benz",
-          "snippet": "",
-          "url": "https://vfokuse.mail.ru/news/69615587-v-novosibirske-u-byivshego-politsejskogo-konfiskovali-dva-avtomobilya-mercedes-benz/",
-          "source": "ВФокусе Mail"
-        },
-        {
-          "title": "В Новосибирске забрали два Мерседес» у бывшего полицейского - 8 апреля 2026",
-          "snippet": "",
-          "url": "https://ngs.ru/text/criminal/2026/04/08/76354415/",
-          "source": "НГС.ру"
-        },
-        {
-          "title": "У новосибирского борца с коррупцией изъяли два элитных авто за миллионы рублей",
-          "snippet": "",
-          "url": "https://ksonline.ru/605144/u-novosibirskogo-bortsa-s-korruptsiej-izyali-dva-elitnyh-avto-za-milliony-rublej/",
-          "source": "Континент Сибирь Online"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "mempalace",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 7 Apr 2026 23:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTku7EQ7fXVKJRlse-aJvdClnsGoBMeiPSD5MTGoZFSPrDe_U3aER7dDpyl_Ug",
-      "pictureSource": "https://hightech.fm/sitemap",
-      "relatedSearch": [
-        {
-          "title": "Милла Йовович представила бесплатную систему памяти ИИ: она обошла платные аналоги",
-          "snippet": "",
-          "url": "https://hightech.fm/2026/04/07/mempalace",
-          "source": "https://hightech.fm/sitemap"
-        },
-        {
-          "title": "Милла Йовович стала разработчицей ИИ",
-          "snippet": "",
-          "url": "https://applespbevent.ru/milla-iovovich-stala-razrabotchitsiei-ii/",
-          "source": "applespbevent.ru"
-        },
-        {
-          "title": "Милла Йовович выпустила собственный ИИ-инструмент",
-          "snippet": "",
-          "url": "https://thecode.media/milla-jovovich-vypustila-sobstvennyj-ii-instrument/",
-          "source": "Журнал «Код"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "коннор макдэвид",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 7 Apr 2026 22:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUBStGaPn5b6Q5cSf1-NA54Zqkl2YnSxWGUjeBK4T4WTOB1OO3vgSfoGUtGkw",
-      "pictureSource": "Sportbox",
-      "relatedSearch": [
-        {
-          "title": "Кучеров одним броском переписал историю НХЛ. И догнал лучшего хоккеиста мира",
-          "snippet": "",
-          "url": "https://news.sportbox.ru/Vidy_sporta/Hokkej/spbnews_NI2312484_Kucherov_odnim_broskom_perepisal_istoriju_NKhL_I_dognal_luchshego_khokkeista_mira",
-          "source": "Sportbox"
-        },
-        {
-          "title": "Коннор Макдэвид обогнал Никиту Кучерова в гонке бомбардиров НХЛ",
-          "snippet": "",
-          "url": "https://www.championat.ru/hockey/news-6423184-konnor-makdevid-obognal-nikitu-kucherova-v-gonke-bombardirov-nhl.html",
-          "source": "https://www.championat.ru/"
-        },
-        {
-          "title": "Кучеров забил 400‑й гол в НХЛ, а также догнал Макдэвида в гонке бомбардиров сезона",
-          "snippet": "",
-          "url": "https://matchtv.ru/hockey/matchtvnews_NI2312462_Kucherov_zabil_400j_gol_v_NKhL_a_takzhe_dognal_Makdevida_v_gonke_bombardirov_sezona",
-          "source": "Матч ТВ"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "сель",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 7 Apr 2026 22:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjW8VhmG4y0SawU8pksryfgLnmQCqFFL6zTPFa8j8I0Z2kh_-YX7SRO6nWdyo",
-      "pictureSource": "БИЗНЕС Online — Новости Казани",
-      "relatedSearch": [
-        {
-          "title": "Вручение Тукаевской премии в этом году пройдет в селе Новый Кырлай",
-          "snippet": "",
-          "url": "https://m.business-gazeta.ru/news/699088",
-          "source": "БИЗНЕС Online — Новости Казани"
-        },
-        {
-          "title": "В саратовском селе горел дом",
-          "snippet": "",
-          "url": "https://www.vzsar.ru/news/2026/04/07/v-saratovskom-sele-gorel-dom.html",
-          "source": "Взгляд-инфо"
-        },
-        {
-          "title": "В селе Кабир Курахского района оценили ущерб, нанесенный природной стихией",
-          "snippet": "",
-          "url": "https://riadagestan.ru/news/kurakhskiy_rayon/v_sele_kabir_kurakhskogo_rayona_otsenivayut_uscherb_ot_stikhii",
-          "source": "РИА Дагестан"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ближний восток",
-      "trafficCount": "5000+",
-      "pubDate": "Tue, 7 Apr 2026 22:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTibsbjuDD0BSJwlnqHaL30bklDgvvfDRv5kZqEnzFPkNg0hWGXcWw82MN8JNA",
+      "pubDate": "Wed, 8 Apr 2026 00:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD6dS9o2J2-pd8C_spIRea_IV1XNvxCA7U9hBmvhUBaVKQa-BfgLCQHzutSfA",
       "pictureSource": "Meduza",
       "relatedSearch": [
         {
-          "title": "Дональд Трамп объявил о двухнедельном перемирии в войне с Ираном. В обмен Тегеран откроет Ормузский пролив",
+          "title": "«Рада сломалась»",
           "snippet": "",
-          "url": "https://meduza.io/news/2026/04/08/donald-tramp-ob-yavil-o-dvuhnedelnom-peremirii-v-voyne-s-iranom-v-obmen-na-nemedlennoe-otkrytie-ormuzskogo-proliva",
+          "url": "https://meduza.io/feature/2026/04/08/rada-slomalas",
           "source": "Meduza"
         },
         {
-          "title": "Трамп пригрозил Ирану \"смертью целой цивилизации сегодня ночью\"",
+          "title": "Как Верховная рада прекратила забастовку",
           "snippet": "",
-          "url": "https://www.interfax.ru/world/1082544",
+          "url": "https://news.rambler.ua/world/56278589-kak-verhovnaya-rada-prekratila-zabastovku/",
+          "source": "Рамблер/новости"
+        },
+        {
+          "title": "Нардеп Качура о проблемах с голосами в Раде: руководство \"слуг\" уже собирает поддержку",
+          "snippet": "",
+          "url": "https://apostrophe.ua/ru/politics/nardep-kachura-o-problemakh-s-holosami-v-rade-rukovodstvo-sluh-uzhe-sobiraet-podderzhku.html",
+          "source": "Апостроф"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "росстат",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 8 Apr 2026 00:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLXM8ggfoIzPEFcUkXZdBgSQt8LQW03R5OeCD0wdjeS6GFbgJ3Y858j4P0TWI",
+      "pictureSource": "Finmarket.ru",
+      "relatedSearch": [
+        {
+          "title": "Вырастет ли безработица в России",
+          "snippet": "",
+          "url": "https://www.finmarket.ru/main/article/6595263",
+          "source": "Finmarket.ru"
+        },
+        {
+          "title": "😳 Безработица: Росстат рапортует о рекорде, а hh.индекс бьёт антирекорды.",
+          "snippet": "",
+          "url": "https://smart-lab.ru/blog/1287516.php",
+          "source": "Smart-Lab"
+        },
+        {
+          "title": "Уровень безработицы в РФ в феврале упал до 2,1%",
+          "snippet": "",
+          "url": "https://bcs-express.ru/novosti-i-analitika/uroven-bezrabotitsy-v-rf-v-fevrale-upal-do-2-1",
+          "source": "БКС Экспресс"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "лифт",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 8 Apr 2026 00:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6IrFKwKI-e2zFZztjGoSWLF5pCR66VHZzntj6gMbiKjHCjJ8uHAGAN6SmvCE",
+      "pictureSource": "74.ру",
+      "relatedSearch": [
+        {
+          "title": "«Плата за лифты вырастет вдвое». Эмоциональная колонка главы УК об изменениях в Жилищном кодексе",
+          "snippet": "",
+          "url": "https://74.ru/text/house/2026/04/05/76337883/",
+          "source": "74.ру"
+        },
+        {
+          "title": "Правила обслуживания лифтов изменятся в России с 1 сентября",
+          "snippet": "",
+          "url": "https://ysia.ru/pravila-obsluzhivaniya-liftov-izmenyatsya-v-rossii-s-1-sentyabrya/",
+          "source": "ЯСИА"
+        },
+        {
+          "title": "Назначены ответственные за безопасность лифтов",
+          "snippet": "",
+          "url": "https://www.restate.ru/material/rostehnadzor-i-minstroy-vzyali-pod-kontrol-obsluzhivanie-liftov-v-mkd-186378.html",
+          "source": "Restate.ru"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ламин ямаль",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 8 Apr 2026 00:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnZxBDaZFYp3TW0Png-leqrPJY3jZaIghZwldFihqKOeZWU3dgC9a4W-Q_rQo",
+      "pictureSource": "Soccer.ru",
+      "relatedSearch": [
+        {
+          "title": "Ламин Ямаль поставил ультиматум «Барселоне»",
+          "snippet": "",
+          "url": "https://www.soccer.ru/news/1425310/yamal-lamin-pari-sen-zhermen",
+          "source": "Soccer.ru"
+        },
+        {
+          "title": "Ямаль провел переговоры с топ-клубом по поводу исторического трансфера",
+          "snippet": "",
+          "url": "https://www.ukr.net/ru/news/details/sport/116815480.html",
+          "source": "UKR.NET"
+        },
+        {
+          "title": "«ПСЖ» связался с агентом Ямаля",
+          "snippet": "",
+          "url": "https://www.euro-football.ru/article/35/1006168797_psj_svyazalsya_s_agentom_yamalya",
+          "source": "Евро-Футбол"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "лидер ирана",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 8 Apr 2026 00:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHePxGNZudt67I7s3ZDbjos4GACtfpqihcotuQzTjdbiaxvMkSjyVBU78k1_c",
+      "pictureSource": "Meduza",
+      "relatedSearch": [
+        {
+          "title": "The Times: верховный лидер Ирана Моджтаба Хаменеи находится без сознания и «не способен участвовать в принятии каких-либо решений»",
+          "snippet": "",
+          "url": "https://meduza.io/news/2026/04/07/the-times-verhovnyy-lider-irana-modzhtaba-hamenei-nahoditsya-bez-soznaniya-i-ne-sposoben-uchastvovat-v-prinyatii-kakih-libo-resheniy",
+          "source": "Meduza"
+        },
+        {
+          "title": "Разведки сообщили о тяжелом состоянии Моджтабы Хаменеи",
+          "snippet": "",
+          "url": "https://www.interfax.ru/world/1082447",
           "source": "Интерфакс"
         },
         {
-          "title": "Трамп пообещал Ближнему Востоку золотой век",
+          "title": "The Times: новый верховный лидер Ирана находится в тяжёлом состоянии",
           "snippet": "",
-          "url": "https://www.vedomosti.ru/politics/news/2026/04/08/1188701-tramp-poobeschal",
-          "source": "Ведомости"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "финикс – рокетс",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 7 Apr 2026 22:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsgM-jQUt_4M8H1NBdWr5aBr4ReJGKA39f8ZQBEQFe6ZM_zozUy0egeUAarbI",
-      "pictureSource": "Arizona Sports",
-      "relatedSearch": [
-        {
-          "title": "Kevin Durant holds little ‘sentimental value’ in return to Phoenix",
-          "snippet": "",
-          "url": "https://arizonasports.com/nba/phoenix-suns/kevin-durant-suns-2/3617119/",
-          "source": "Arizona Sports"
-        },
-        {
-          "title": "Kevin Durant scores 24 in his return to Phoenix, leads the Rockets past the Suns 119-105",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/articles/kevin-durant-scores-24-return-055204956.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Game Preview: Suns look to build momentum against the Rockets",
-          "snippet": "",
-          "url": "https://www.brightsideofthesun.com/suns-game-previews/102093/game-preview-suns-look-to-build-momentum-against-the-rockets",
-          "source": "Bright Side Of The Sun"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "азовское море",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 7 Apr 2026 22:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRB5uxVEOioxhdwG3Mh_fns8uLcfy0BraxErZMWiwDHch_Q1yUcumH77eOnUyE",
-      "pictureSource": "Donnews.ru",
-      "relatedSearch": [
-        {
-          "title": "Как в Средиземном: ростовские учёные измерили концентрацию нефти в Азовском море",
-          "snippet": "",
-          "url": "https://www.donnews.ru/kak-v-sredizemnom-rostovskie-uchenye-izmerili-kontsentratsiyu-nefti-v-azovskom-more",
-          "source": "Donnews.ru"
-        },
-        {
-          "title": "Ученые ищут нефть в Азовском море, пока власти готовятся «колдовать» дожди",
-          "snippet": "",
-          "url": "https://rostovgazeta.ru/news/2026-04-07/uchenye-ischut-neft-v-azovskom-more-poka-vlasti-gotovyatsya-koldovat-dozhdi-5576357",
-          "source": "Rostovgazeta.ru"
-        },
-        {
-          "title": "Следы нефти в иле: ученые оценили экологические риски для Азовского моря",
-          "snippet": "",
-          "url": "https://www.pravda.ru/news/science/2343016-azov-sea-ecology-drones-rain/",
-          "source": "Правда.Ру"
+          "url": "https://www.svoboda.org/a/the-times-novyy-verhovnyy-lider-irana-nahoditsya-v-tyazhyolom-sostoyanii/33726631.html",
+          "source": "Радио Свобода"
         }
       ],
       "link": "https://imtaqin.id/"

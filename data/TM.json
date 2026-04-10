@@ -1,13 +1,48 @@
 {
-  "lastUpdate": "2026-04-10 15:30:19",
+  "lastUpdate": "2026-04-10 16:29:20",
   "data": [
+    {
+      "title": "солнечное затмение",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 10 Apr 2026 08:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzFrrVOsO9HBikpANiElMjndtRvscu0WgtprdvrPYvZRs2YYs1o_Am2ixdk0w",
+      "pictureSource": "ИА Ореанда-Новости",
+      "relatedSearch": [
+        {
+          "title": "The ship of the Artemis II mission went to the Moon's trajectory",
+          "snippet": "",
+          "url": "https://www.oreanda-news.com/en/v_mire/the-ship-of-the-artemis-ii-mission-went-to-the-moon-s-trajectory/article1588821/",
+          "source": "ИА Ореанда-Новости"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "геомагнитная буря",
       "trafficCount": "1000+",
       "pubDate": "Fri, 10 Apr 2026 01:20:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlKXk5ALkVdIOz4jYoYsN_oHRdTLBIugjk0zSfGolQb2cvpVLplp2uxWhFU0g",
+      "pictureSource": "АСТВ",
+      "relatedSearch": [
+        {
+          "title": "И циклон, и магнитная буря: сахалинцев и курильчан ждут непростые выходные",
+          "snippet": "",
+          "url": "https://astv.ru/news/society/2026-04-10-i-ciklon-i-magnitnaya-burya-sahalincev-i-kuril-chan-zhdut-neprostye-vyhodnye",
+          "source": "АСТВ"
+        },
+        {
+          "title": "Магнитные бури накроют Землю на выходных",
+          "snippet": "",
+          "url": "https://www.ixbt.com/news/2026/04/10/magnitnye-buri-nakrojut-zemlju-na-vyhodnyh.html",
+          "source": "IXBT.com"
+        },
+        {
+          "title": "Ученые сообщили, что вероятность магнитных бурь на Земле 10–12 апреля составляет 90 %",
+          "snippet": "",
+          "url": "https://www.sb.by/articles/uchenye-soobshchili-chto-veroyatnost-magnitnykh-bur-na-zemle-10-12-aprelya-sostavlyaet-90.html",
+          "source": "Беларусь сегодня"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -42,37 +77,43 @@
       "title": "лига конференций уефа",
       "trafficCount": "100+",
       "pubDate": "Thu, 9 Apr 2026 12:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRY1C-vOCj-awd57nrFwvO-eT1XXpCpC_unESlo3AUrPv94yehBvQTeJYekBU",
-      "pictureSource": "sport24",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvGd9OwuJ5Jw4MGGiqtYi-nb388I2izWy1w2ilLcxkkqXPPk6CxxreHO_XhiM",
+      "pictureSource": "Футбол 24",
       "relatedSearch": [
         {
-          "title": "Возлюбленная лидера Шахтера вдохновила его на разгром в Лиге конференций – футболист на всю Украину признался в любви",
+          "title": "Райо Вальекано сделал заявку на полуфинал Лиги конференций – Фрайбург разбил Сельту в ЛЕ",
           "snippet": "",
-          "url": "https://sport24.ua/ru/football/news/149921-vozljublennaja-lidera-shahtera-vdohnovila-ego-na-razgrom-v-lige-konferencij-futbolist-na-vsju-ukrainu-priznalsja-v-ljubvi",
-          "source": "sport24"
+          "url": "https://football24.ua/ru/news/rajo-valekano-sdelal-zajavku-na-polufinal-ligi-konferencij-madridcy-razgromili-aek-936352",
+          "source": "Футбол 24"
         },
         {
-          "title": "Как учил Луческу: Бразильцы принесли «Шахтёру» крупную победу в Лиге конференций",
+          "title": "Футболисты «Райо Вальекано» разгромили АЕК в первом матче 1/4 финала Лиги конференций",
           "snippet": "",
-          "url": "https://www.euro-football.ru/article/1004590778/1006173452_kak_uchil_luchesku_brazilcyi_prinesli_shahteru_krupnuyu_pobedu_v_lige_konferenciy",
-          "source": "Евро-Футбол"
+          "url": "https://www.sb.by/articles/futbolisty-rayo-valekano-razgromili-aek-v-pervom-matche-1-4-finala-ligi-konferentsiy.html",
+          "source": "Беларусь сегодня"
         },
         {
-          "title": "Ахметов рассказал о главной мечте, связанной с Шахтером",
+          "title": "Что смотреть в ответных матчах 1/4 финала Лиги конференций",
           "snippet": "",
-          "url": "https://www.ua-football.com/foreign/conference_league/1775809804-ahmetov-rasskazal-o-glavnoy-mechte-svyazannoy-s-shahterom.html",
-          "source": "UA-Football"
+          "url": "https://ru.uefa.com/uefaconferenceleague/news/02a4-205b46959893-d8412e164dd1-1000--%D1%87%D1%82%D0%BE-%D1%81%D0%BC%D0%BE%D1%82/",
+          "source": "UEFA.com"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "порту – форест",
-      "trafficCount": "1000+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 9 Apr 2026 12:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwn5Hhgc_vH1SCss9jUsgDxYJvDKkNYB9exWZie27RBrhjMMqrh5dT0jgogOY",
-      "pictureSource": "СпортНавины",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnaEjaYoPbfdMcDwWs925TXOk35-mrGMZ4UF4a-Du4853fwPkz1ocA4WzCafw",
+      "pictureSource": "Евро-Футбол",
       "relatedSearch": [
+        {
+          "title": "Витор Перейра: «Трудно выступать сразу в двух турнирах»",
+          "snippet": "",
+          "url": "https://www.euro-football.ru/article/46/1006173509_vitor_pereyra_trudno_vyistupat_srazu_v_dvuh_turnirah",
+          "source": "Евро-Футбол"
+        },
         {
           "title": "«Ноттингем Форест» вничью сыграл с «Порту» в первом матче четвертьфинального раунда плей-офф ЛЕ",
           "snippet": "",
@@ -84,12 +125,6 @@
           "snippet": "",
           "url": "https://www.football.kulichki.net/worldnews/news.htm?867338-Dve-sereznye-zajavki-i-dve-nichi-Obzor-chetvertfinalnyh-matchei-Ligi-Evropy",
           "source": "Футбол на Куличках"
-        },
-        {
-          "title": "Экспресс на футбол с большим коэффициентом — 10 апреля 2026",
-          "snippet": "",
-          "url": "https://www.liveresult.ru/tips/football/tip377811-Ekspress-na-futbol-s-bolshim-koeffitsientom",
-          "source": "LiveResult"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -120,15 +155,6 @@
           "source": "Спорт 25"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "райо вальекано – аек афины",
-      "trafficCount": "1000+",
-      "pubDate": "Thu, 9 Apr 2026 09:10:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]

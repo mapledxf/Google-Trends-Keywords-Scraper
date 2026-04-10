@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2026-04-10 09:51:41",
+  "lastUpdate": "2026-04-10 10:41:16",
   "data": [
+    {
+      "title": "freida mcfadden",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 10 Apr 2026 03:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJQwSzBvnYNLdLUhiqFzYIJXiqaGvdvFhYlU0x0jrGWiW35D1tcRsZ5hs1cSQ",
+      "pictureSource": "USA Today",
+      "relatedSearch": [
+        {
+          "title": "'The Housemaid' author Freida McFadden reveals her real identity – Exclusive",
+          "snippet": "",
+          "url": "https://www.usatoday.com/story/entertainment/books/2026/04/08/freida-mcfadden-reveals-real-identity/89523398007/",
+          "source": "USA Today"
+        },
+        {
+          "title": "Best-selling The Housemaid author Freida McFadden reveals true identity",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/ckgelr2pk0lo",
+          "source": "BBC"
+        },
+        {
+          "title": "We Finally Have a Real-Life Hannah Montana",
+          "snippet": "",
+          "url": "https://www.jezebel.com/we-finally-have-a-real-life-hannah-montana",
+          "source": "Jezebel"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "weather",
       "trafficCount": "2000+",
       "pubDate": "Thu, 9 Apr 2026 23:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxW664pYp6rlTujQ-2BtrtXGqK9SiCBMC0YgS9LjMTDdXzXzPg0tUNrsrTWFw",
-      "pictureSource": "KOMU 8",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzJz4iBDRNB4Ka742vMPZUxd-IsW-wQ2SCtBYpu3aEjMVIxZ3yJO5-IIhQst0",
+      "pictureSource": "Gulf Coast News and Weather",
       "relatedSearch": [
         {
-          "title": "Forecast: Passing rain chances this weekend, but not a washout",
+          "title": "Dry weather returns for Friday and the weekend",
           "snippet": "",
-          "url": "https://www.komu.com/weather/forecast-passing-rain-chances-this-weekend-but-not-a-washout/article_9ae4f77d-71b1-4b87-a1f5-1ea5b593d595.html",
-          "source": "KOMU 8"
+          "url": "https://www.gulfcoastnewsnow.com/article/dry-weather-returns-friday-florida-fort-myers-forecast/70982217",
+          "source": "Gulf Coast News and Weather"
         },
         {
-          "title": "Extended Outlook: Overall mild with a slight dip in temperature this weekend",
+          "title": "Drier days return, but breezy conditions keeping beaches dangerous",
           "snippet": "",
-          "url": "https://flxweather.com/2026/04/09/extended-outlook-overall-mild-with-a-slight-dip-in-temperature-this-weekend/",
-          "source": "Finger Lakes Weather"
+          "url": "https://www.clickorlando.com/weather/2026/04/10/drier-days-return-but-breezy-conditions-keeping-beaches-dangerous/",
+          "source": "WKMG"
         },
         {
-          "title": "Drying Out for the Weekend",
+          "title": "Sunshine and comfortable for Thursday",
           "snippet": "",
-          "url": "https://www.wpbf.com/article/drying-out-for-the-weekend-in-south-florida/70981874",
-          "source": "WPBF"
+          "url": "https://www.mypanhandle.com/news/sunshine-and-comfortable-for-thursday/",
+          "source": "mypanhandle.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,26 +61,26 @@
       "title": "météo",
       "trafficCount": "20000+",
       "pubDate": "Thu, 9 Apr 2026 23:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmWICdJ3yzHK2VUxPN39pPtDi4Ls8T04FNp60zbNddWJu6VJmdD9lQaVrMg9Q",
-      "pictureSource": "La Chaîne Météo",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnTokBGytsA0Z8lG2X2lbn8k35VOtqJAozBeVxqICIInzj-GORViQir7E4f0A",
+      "pictureSource": "METEO France",
       "relatedSearch": [
         {
-          "title": "Premiers orages de printemps : le week-end sera agité sur une grande partie du pays",
+          "title": "Météo de la semaine : chaleur précoce début avril",
           "snippet": "",
-          "url": "https://actualite.lachainemeteo.com/actualite-meteo/2026-04-08/premiers-orages-de-printemps-le-week-end-sera-agite-sur-une-grande-partie-du-pays-87435",
-          "source": "La Chaîne Météo"
+          "url": "https://meteofrance.com/actualites-et-dossiers/actualites/meteo-de-la-semaine-chaleur-precoce-debut-avril",
+          "source": "METEO France"
         },
         {
-          "title": "Neige : à quelles altitudes les premiers flocons sont-ils attendus ce week-end ?",
+          "title": "Profitez bien de la météo estivale de ce mercredi, ça ne va pas durer",
           "snippet": "",
-          "url": "https://www.cnews.fr/france/2026-04-10/neige-quelles-altitudes-les-premiers-flocons-sont-ils-attendus-ce-week-end",
+          "url": "https://www.20minutes.fr/societe/4217346-20260408-meteo-29-encore-mercredi-profitez-bien-mois-juillet-ca-va-durer",
+          "source": "20 Minutes"
+        },
+        {
+          "title": "Météo : entre grand soleil et retour de la pluie, quel temps fera-t-il la semaine prochaine ?",
+          "snippet": "",
+          "url": "https://www.cnews.fr/france/2026-04-10/meteo-entre-grand-soleil-et-retour-de-la-pluie-quel-temps-fera-t-il-la-semaine",
           "source": "CNews"
-        },
-        {
-          "title": "Météo du jeudi 9 avril : de l'été à l'hiver en 24 heures, et retour de la neige",
-          "snippet": "",
-          "url": "https://www.skipass.com/news/meteo-jeudi-9-avril-neige-montagne.html",
-          "source": "Skipass"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -154,26 +182,26 @@
       "title": "türkiye",
       "trafficCount": "500+",
       "pubDate": "Thu, 9 Apr 2026 14:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSuELr8qcYrvoHrVa0o85cx0qOA16T94NK-P13_QJvouri2HNbKDEfI3A3zTz8",
-      "pictureSource": "وكالة الانباء العراقية (واع)",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpBFFY7gTsPwQwqCrKPzn5Q9_4mq5lYjqA999bie88d9T254IavlBqn_fnrcg",
+      "pictureSource": "Anadolu Ajansı",
       "relatedSearch": [
         {
-          "title": "İran Cumhurbaşkanı: Ateşkesin devamı, karşı tarafın verdiği sözlere bağlılığına bağlıdır » Irak Haber Ajansı",
+          "title": "Bakan Şimşek: Savaşlar diğer şoklara oranla çok daha kalıcı ve büyük sonuçlar doğuruyor",
           "snippet": "",
-          "url": "https://ina.iq/tk/international/61319-iran-cumhurbakan-atekesin-devam-kar-tarafn-verdii-sozlere-ballna-baldr.html",
-          "source": "وكالة الانباء العراقية (واع)"
-        },
-        {
-          "title": "Erdoğan Pezeşkian ile konuştu: her türlü desteğe hazırız",
-          "snippet": "",
-          "url": "https://modern.az/tr/dunya/591317/erdogan-pezeskian-ile-konustu-her-turlu-destege-haziriz/",
-          "source": "Modern.az"
-        },
-        {
-          "title": "İran Cumhurbaşkanı Pezeşkiyan: Türk milletinin İran'la etkileyici dayanışmasını takdir ediyoruz",
-          "snippet": "",
-          "url": "https://www.aa.com.tr/tr/dunya/iran-cumhurbaskani-pezeskiyan-turk-milletinin-iranla-etkileyici-dayanismasini-takdir-ediyoruz/3900506",
+          "url": "https://aa.com.tr/tr/ekonomi/bakan-simsek-savaslar-diger-soklara-oranla-cok-daha-kalici-ve-buyuk-sonuclar-doguruyor/3900823",
           "source": "Anadolu Ajansı"
+        },
+        {
+          "title": "Türkiye’nin dayanıklı olduğuna inanıyoruz",
+          "snippet": "",
+          "url": "https://haberton.com/turkiyenin-dayanikli-olduguna-inaniyoruz/",
+          "source": "Haberton"
+        },
+        {
+          "title": "Yastık Altında 640 Milyar Dolar Var",
+          "snippet": "",
+          "url": "https://analizgazetesi.com.tr/haber/yastik-altinda-640-milyar-dolar-var-4407/",
+          "source": "Analiz Gazetesi"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -198,10 +226,10 @@
           "source": "Senenews"
         },
         {
-          "title": "Championnat Africain de Football Scolaire : la Tanzanie décroche la 5e place",
+          "title": "Le Maroc a subi une défaite retentissante face au Sénégal en Coupe d’Afrique des nations juniors",
           "snippet": "",
-          "url": "https://foot-africa.com/actualites/championnat-africain-de-football-scolaire-la-tanzanie-decroche-la-5e-place-1159100/",
-          "source": "Foot Africa"
+          "url": "https://www.goal.com/fr/news/le-maroc-a-subi-une-defaite-retentissante-face-au-senegal-en-coupe-d-afrique-des-nations-juniors/blt671588d47ff552d9",
+          "source": "Goal.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -230,34 +258,6 @@
           "snippet": "",
           "url": "https://lakome2.com/politique/414215/",
           "source": "لكم-lakome2 – لكم :موقع إخباري مستقل"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "jordan bardella",
-      "trafficCount": "1000+",
-      "pubDate": "Thu, 9 Apr 2026 13:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvVfPpuwrGD1IgQXqtbePmG-6mjy9WLU9IRIh45dMsQSJ7v2l2cU4U2wiKURo",
-      "pictureSource": "parismatch.com",
-      "relatedSearch": [
-        {
-          "title": "PHOTOS EXCLUSIVES - Jordan Bardella et Maria Carolina de Bourbon des Deux-Siciles, l'idylle que personne n'attendait",
-          "snippet": "",
-          "url": "https://www.parismatch.com/People/photos-exclusives-jordan-bardella-et-maria-carolina-de-bourbon-des-deux-siciles-lidylle-que-personne-nattendait-267226",
-          "source": "parismatch.com"
-        },
-        {
-          "title": "« C’est un atout » : Jordan Bardella en couple avec Maria Carolina de Bourbon des Deux-Siciles, trop « bling-bling » pour le RN",
-          "snippet": "",
-          "url": "https://www.leparisien.fr/politique/cest-un-atout-a-mort-jordan-bardella-en-couple-avec-une-princesse-italienne-trop-bling-bling-pour-le-rn-08-04-2026-ZXFUZGYHTNAGJLER2HRHQL5GZY.php",
-          "source": "Le Parisien"
-        },
-        {
-          "title": "Pourquoi Bardella officialise sa relation avec la princesse de Bourbon ?",
-          "snippet": "",
-          "url": "https://www.20minutes.fr/politique/4217500-20260409-presidentielle-2027-pourquoi-jordan-bardella-officialise-relation-princesse-bourbon-deux-siciles",
-          "source": "20 Minutes"
         }
       ],
       "link": "https://imtaqin.id/"

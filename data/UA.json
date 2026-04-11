@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2026-04-10 23:56:18",
+  "lastUpdate": "2026-04-11 01:50:08",
   "data": [
     {
-      "title": "новости спорта",
-      "trafficCount": "2000+",
-      "pubDate": "Fri, 10 Apr 2026 15:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGd5daXrCeJoc4bcvSlbTIpBetPS7uduMJrpFP4mO0J5-l0bpFa3ui1CV_0XM",
-      "pictureSource": "Футбол 24",
+      "title": "артемида 2",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 10 Apr 2026 17:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ74ogMW5SVXj2excabmZc34wLSRP4yBcLBNx9bKUgVEK3cRujtnQw7F8Kwp8E",
+      "pictureSource": "Українська правда",
       "relatedSearch": [
         {
-          "title": "Федык признался, благодаря чему удалось спастись против Колоса: \"Не скажу, что они создавали опасные моменты\"",
+          "title": "NASA транслирует приземление экипажа лунной миссии Artemis II",
           "snippet": "",
-          "url": "https://football24.ua/ru/news/fedyk-priznalsja-blagodarja-chemu-udalos-spastis-protiv-kolosa-ne-skazhu-chto-oni-sozdavali-opasnye-momenty-936562",
-          "source": "Футбол 24"
+          "url": "https://www.pravda.com.ua/rus/news/2026/04/11/8029710/",
+          "source": "Українська правда"
         },
         {
-          "title": "Чемпионат Украины: «Рух» – «Колос», начало в 18.00",
+          "title": "«Орион» приводнился в Тихом океане. Миссия «Артемида-2» закончена, полет вокруг Луны успешно завершен",
           "snippet": "",
-          "url": "https://ua.tribuna.com/football/1000000334284-chempionat-ukrayiny-rukh-kolos-pochatok-o-1800/",
-          "source": "Tribuna.com"
+          "url": "https://www.bbc.com/russian/articles/cj40lxqzdyjo",
+          "source": "BBC"
         },
         {
-          "title": "Скучная игра, огненная кульминация. Рух и Колос во Львове сыграли вничью",
+          "title": "Астронавты с \"Артемиды-2\" вернулись на Землю",
           "snippet": "",
-          "url": "https://sport.ua/news/858122-skuchnaya-igra-ognennaya-kulminatsiya-ruh-i-kolos-vo-lvove-sygrali-vnichyu",
-          "source": "Sport.ua"
+          "url": "https://www.dw.com/ru/astronavty-s-artemidy2-vernulis-na-zemlu/a-76744493",
+          "source": "DW.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "nasa",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 10 Apr 2026 16:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTb4zljZgVHqtKhayTgmZleYbAv_ivQ397KEciV1kMyCVy9AAaJ3i5hSzai3Hk",
+      "pictureSource": "CNN",
+      "relatedSearch": [
+        {
+          "title": "Live updates: Artemis II astronauts splash down off California’s coast",
+          "snippet": "",
+          "url": "https://www.cnn.com/2026/04/10/science/live-news/artemis-2-splashdown-astronauts-return",
+          "source": "CNN"
+        },
+        {
+          "title": "Artemis II Flight Day 10: Live Re-Entry Updates",
+          "snippet": "",
+          "url": "https://www.nasa.gov/blogs/missions/2026/04/10/artemis-ii-flight-day-10-re-entry-live-updates/",
+          "source": "NASA (.gov)"
+        },
+        {
+          "title": "Artemis II astronauts hurtle home from moon toward splashdown",
+          "snippet": "",
+          "url": "https://www.reuters.com/science/artemis-ii-astronauts-hurtle-home-moon-toward-splashdown-2026-04-10/",
+          "source": "Reuters"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -49,17 +77,45 @@
           "source": "NV"
         },
         {
-          "title": "Украину накрывает волна еще более сильного похолодания: где ударят заморозки и пойдет снег",
+          "title": "Дожди с мокрым снегом и заморозки: синоптик рассказал, чем удивит погода на Пасху и когда наконец-то придет потепление",
           "snippet": "",
-          "url": "https://tsn.ua/ru/ukrayina/ukrainu-nakryvaet-volna-esche-bolee-silnogo-poholodaniya-gde-udaryat-zamorozki-i-poydet-sneg-3059240.html",
-          "source": "ТСН"
+          "url": "https://www.obozrevatel.com/novosti-obschestvo/eto-vtoroj-uroven-opasnosti-sinoptik-predupredil-ob-izmenenii-pogodyi.htm",
+          "source": "Obozrevatel"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "новости спорта",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 10 Apr 2026 15:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQSrXAtUydArrl8qLJ9LvwRn3C02UsXWigo2m-w7a4NplGE_qxGpbJGSEzviZk",
+      "pictureSource": "Tribuna.com",
+      "relatedSearch": [
+        {
+          "title": "«Цинциннати» ведет переговоры с окружением Неймара о возможном трансфере",
+          "snippet": "",
+          "url": "https://ua.tribuna.com/football/1000000334288-tsyntsynnati-vede-perehovory-z-otochennyam-neymara-shcho/",
+          "source": "Tribuna.com"
+        },
+        {
+          "title": "Неймар начал переговоры с новым клубом",
+          "snippet": "",
+          "url": "https://www.euro-football.ru/article/1003386719/1006173478_neymar_nachal_peregovoryi_s_novyim_klubom",
+          "source": "Евро-Футбол"
+        },
+        {
+          "title": "Неймар близок к уходу из \"Сантоса\": уже есть конкретный вариант",
+          "snippet": "",
+          "url": "https://vesti.kz/mirfutbol/neymar-blizok-k-uhodu-iz-santosa-uje-est-konkretnyiy-variant-379821/",
+          "source": "Vesti.kz"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "евакуація",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 10 Apr 2026 14:20:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqWouuStFiztb48rNV4NFQNd1eKTNWo8K5OgakcC81QlvinNR9cvb1gMMn5UM",
       "pictureSource": "uatv.ua",
@@ -86,6 +142,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "социальные выплаты",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 10 Apr 2026 13:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStoDcBimhzeF6p22daf6_bhZu6IQQ03GRsO-YkrMVZpCJ_V9wGL9jexhBlzSQ",
+      "pictureSource": "РБК-Україна",
+      "relatedSearch": [
+        {
+          "title": "Улютин объяснил, почему не поднимают прожиточный минимум",
+          "snippet": "",
+          "url": "https://www.rbc.ua/ukr/news/ulyutin-poyasniv-chomu-pidiymayut-prozhitkoviy-1775813383.html",
+          "source": "РБК-Україна"
+        },
+        {
+          "title": "МРОТ в 2026 году: новые суммы и случаи снижения оплаты",
+          "snippet": "",
+          "url": "https://112.ua/ru/minimalna-zarplata-u-2026-roci-novi-sumi-ta-koli-platat-mense-153513",
+          "source": "112.ua"
+        },
+        {
+          "title": "Реформа прожиточного минимума: как Минсоцполитики планирует изменить систему расчетов выплат",
+          "snippet": "",
+          "url": "https://sud.ua/ru/news/ukraine/358163-reforma-prozhitochnogo-minimuma-kak-minsotspolitiki-planiruet-izmenit-sistemu-raschetov-vyplat",
+          "source": "Судово-юридична газета"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "ла-ліга",
       "trafficCount": "500+",
       "pubDate": "Fri, 10 Apr 2026 13:50:00 -0700",
@@ -93,7 +177,7 @@
       "pictureSource": "Суспільне | Новини",
       "relatedSearch": [
         {
-          "title": "Лунін та Циганков вперше за два роки зустрілися в українському \"дербі\" чемпіонату Іспанії з футболу",
+          "title": "Лунін та Циганков вперше за два роки зустрілися в українському \"дербі\" чемпіонату Іспанії з футболу: результат",
           "snippet": "",
           "url": "https://suspilne.media/sport/1286807-lunin-ta-cigankov-vperse-za-dva-roki-zustrilisa-v-ukrainskomu-derbi-cempionatu-ispanii-z-futbolu/",
           "source": "Суспільне | Новини"
@@ -120,34 +204,6 @@
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "real madrid vs girona",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 10 Apr 2026 13:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkekzTGBPltzhocjCPgwj1wSwFA5_tPtJEH-xhm-9N8xvz-aLBc5SkLP67Uyo",
-      "pictureSource": "Tribuna.com",
-      "relatedSearch": [
-        {
-          "title": "Rudiger set for Girona rest as Madrid manages defensive workload",
-          "snippet": "",
-          "url": "https://tribuna.com/en/news/2026-04-10-rudiger-set-for-girona-rest-as-madrid-manages-defensive-workload/",
-          "source": "Tribuna.com"
-        },
-        {
-          "title": "Crisis of form ahead of Bayern’s second leg: Real slip up in the league against Girona",
-          "snippet": "",
-          "url": "https://fcbinside.com/2026/04/10/crisis-of-form-ahead-of-bayerns-second-leg-real-slip-up-in-the-league-against-girona/",
-          "source": "fcbinside.com"
-        },
-        {
-          "title": "Real Madrid Player Ratings vs. Girona as Kylian Mbappe, Eduardo Camavinga screw Los Blancos over",
-          "snippet": "",
-          "url": "https://therealchamps.com/real-madrid-player-ratings-vs-girona-as-kylian-mbappe-eduardo-camavinga-screw-los-blancos-over-01knwjxsmbyf",
-          "source": "The Real Champs"
-        }
-      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -179,85 +235,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "кір стармер",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 10 Apr 2026 12:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5JyRPHCD_nUx7d2ABTA7SLeh-PZH6h4U_EJQqGmiXgpFyxV43g8Ce7GcHh7s",
-      "pictureSource": "Korrespondent.net",
+      "title": "real madrid vs girona",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 10 Apr 2026 13:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRMTEj9Ydtw1o64r72SQxMDlvvbhJoN535xGZ_bS5C8RSyj6IPcFQ1rZY-Nno",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Стармер про вартість енергоносіїв: Мені набрид вплив Трампа та Путіна",
+          "title": "Real Madrid 1-1 Girona: Los Blancos continue stuttering form with home draw in La Liga",
           "snippet": "",
-          "url": "https://ua.korrespondent.net/business/economics/4869907-starmer-pro-vartist-enerhonosiiv-meni-nabryd-vplyv-trampa-ta-putina",
-          "source": "Korrespondent.net"
+          "url": "https://www.bbc.com/sport/football/live/cgrlqgzr0elt",
+          "source": "BBC"
         },
         {
-          "title": "«Мені набридло». Прем'єр Британії різко пройшовся по США",
+          "title": "Crisis of form ahead of Bayern’s second leg: Real slip up in the league against Girona",
           "snippet": "",
-          "url": "https://glavcom.ua/world/world-politics/meni-nabridlo-premjer-britaniji-rizko-projshovsja-po-ssha-1113142.html",
-          "source": "Главком"
+          "url": "https://fcbinside.com/2026/04/10/crisis-of-form-ahead-of-bayerns-second-leg-real-slip-up-in-the-league-against-girona/",
+          "source": "fcbinside.com"
         },
         {
-          "title": "\"Мені набридло\": Стармер різко висловився про дії Трампа і Путіна",
+          "title": "LaLiga football match: Real Madrid vs. Girona F.C.",
           "snippet": "",
-          "url": "https://www.unian.ua/economics/energetics/meni-nabridlo-starmer-rizko-vislovivsya-pro-diji-trampa-i-putina-13344564.html",
-          "source": "УНІАН"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "графік відключення світла на 11 квітня",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 10 Apr 2026 12:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSsAoDZlkHZVLxg-AjeaeNh07nyOc0iwpNE-SPqoBVeivAb44WhMx-gH5hz4I",
-      "pictureSource": "Korrespondent.net",
-      "relatedSearch": [
-        {
-          "title": "Укренерго розповіло про відключення в суботу",
-          "snippet": "",
-          "url": "https://ua.korrespondent.net/ukraine/4869939-ukrenerho-rozpovilo-pro-vidkluichennia-v-subotu",
-          "source": "Korrespondent.net"
-        },
-        {
-          "title": "Як вимикатимуть світло на Черкащині 11 квітня",
-          "snippet": "",
-          "url": "https://suspilne.media/cherkasy/1286023-ak-vimikatimut-svitlo-na-cerkasini-11-kvitna/",
-          "source": "Суспільне | Новини"
-        },
-        {
-          "title": "«Укренерго» повідомляє про знеструмлення в 5 областях через російські атаки",
-          "snippet": "",
-          "url": "https://www.radiosvoboda.org/a/news-ukrenerho-znestrumlennia/33729221.html",
-          "source": "Радіо Свобода"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "олімпік марсель – мец",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 10 Apr 2026 12:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSx7UkVXnGDTVgkq0V5PBp2gNBWJ8g25sb46EWlB1fmgY3ZTbLRKnALG-5y-fM",
-      "pictureSource": "Футбол 24",
-      "relatedSearch": [
-        {
-          "title": "Вингер Динамо забил в ворота Марселя – пятое результативное действие во Франции (ВИДЕО)",
-          "snippet": "",
-          "url": "https://football24.ua/ru/news/vinger-dinamo-zabil-v-vorota-marselja-pjatoe-rezultativnoe-dejstvie-vo-francii-video-936577",
-          "source": "Футбол 24"
-        },
-        {
-          "title": "Чемпионат Франции: «Париж» – «Монако», «Марсель» – «Мец»",
-          "snippet": "",
-          "url": "https://ua.tribuna.com/football/1000000334385-chempionat-frantsiyi-paryzh-monako-marsel-mets/",
-          "source": "Tribuna.com"
-        },
-        {
-          "title": "29 тур Лиги 1: кто победит в главных матчах?",
-          "snippet": "",
-          "url": "https://www.vseprosport.ru/lenta/2026/04/10/29-tur-francuzskoj-ligi-1-kto-pobedit-v-glavnyh-matchah",
-          "source": "ВсеПроСпорт"
+          "url": "https://english.news.cn/20260411/e3bd559d6b09461d80536f93f5a99a69/c.html",
+          "source": "Xinhua"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,46 +1,242 @@
 {
-  "lastUpdate": "2026-04-15 20:33:12",
+  "lastUpdate": "2026-04-15 21:30:49",
   "data": [
     {
-      "title": "arsenal",
+      "title": "s&p 500",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 15 Apr 2026 14:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0nbG-JVrZEMWluYrWIIfl8_1jcaGbGjAwUcBOop8F5BmTNvEaAzrQYBrOTW4",
+      "pictureSource": "CNBC",
+      "relatedSearch": [
+        {
+          "title": "S&P 500 and Nasdaq Composite close at fresh records as traders look past Iran war fears: Live updates",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2026/04/14/stock-market-today-live-updates.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "S&P and Nasdaq hit record highs, continuing remarkable recovery from war shock",
+          "snippet": "",
+          "url": "https://www.cnn.com/2026/04/15/investing/us-stocks-iran-war",
+          "source": "CNN"
+        },
+        {
+          "title": "Wall Street scales new record high for the first time since end of January",
+          "snippet": "",
+          "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-steady-after-sp-500-nears-record-high-on-usiran-diplomacy-hopes-4614153",
+          "source": "Investing.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tsm",
       "trafficCount": "100+",
+      "pubDate": "Wed, 15 Apr 2026 14:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgPQtm3u-N1Cr0ISnsSlZFU17I_NX41-CPBlJi7cCiebGPZqmCRnanSoRzv2A",
+      "pictureSource": "WSJ",
+      "relatedSearch": [
+        {
+          "title": "TSMC Shows Where AI Demand is Headed",
+          "snippet": "",
+          "url": "https://www.wsj.com/tech/ai/tsmc-shows-where-ai-demand-is-headed-a3a3c246",
+          "source": "WSJ"
+        },
+        {
+          "title": "Breakingviews - TSMC confronts new contenders for chipmaking crown",
+          "snippet": "",
+          "url": "https://www.reuters.com/commentary/breakingviews/tsmc-confronts-new-contenders-chipmaking-crown-2026-04-15/",
+          "source": "Reuters"
+        },
+        {
+          "title": "Here's How Much TSMC Stock Is Expected to Move After Earnings",
+          "snippet": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-much-tsmc-stock-expected-113000850.html",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "跳水世界盃",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 15 Apr 2026 14:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSn3Ur2aDi1WOe1X24c_ilEq0bDJJWgcq_kwDzk5oqZsC_PAlNQakds0E31roc",
+      "pictureSource": "Yahoo運動",
+      "relatedSearch": [
+        {
+          "title": "全紅嬋缺席世界盃！陳芋汐捲「網暴」後首露面 新搭檔是14歲小將",
+          "snippet": "",
+          "url": "https://tw.sports.yahoo.com/news/%E5%85%A8%E7%B4%85%E5%AC%8B%E7%BC%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%9B%83-%E9%99%B3%E8%8A%8B%E6%B1%90%E6%8D%B2-%E7%B6%B2%E6%9A%B4-%E5%BE%8C%E9%A6%96%E9%9C%B2%E9%9D%A2-%E6%96%B0%E6%90%AD%E6%AA%94%E6%98%AF14%E6%AD%B2%E5%B0%8F%E5%B0%87-010814257.html",
+          "source": "Yahoo運動"
+        },
+        {
+          "title": "【翻牆必看】全紅嬋退出跳水世界盃總決賽",
+          "snippet": "",
+          "url": "https://www.epochtimes.com/b5/26/4/15/n14741848.htm",
+          "source": "大紀元新聞網"
+        },
+        {
+          "title": "霸凌全紅嬋幕後黑手抓到了！　醫心疼曝：她初經晚了5年",
+          "snippet": "",
+          "url": "https://www.mirrormedia.mg/story/20260411edi031",
+          "source": "鏡週刊Mirror Media"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "那斯達克綜合指數",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 15 Apr 2026 14:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpcxPWoAB3nKFuUynT6lf846cB5I_9jK261h8gFXv2gnQeCgZvS9WM8o8Hjpk",
+      "pictureSource": "Yahoo股市",
+      "relatedSearch": [
+        {
+          "title": "川普宣稱「戰爭已經結束」！美股四大指數2漲2跌 台積電、鴻海ADR雙雙走低",
+          "snippet": "",
+          "url": "https://tw.stock.yahoo.com/news/%E5%B7%9D%E6%99%AE%E5%AE%A3%E7%A8%B1-%E6%88%B0%E7%88%AD%E5%B7%B2%E7%B6%93%E7%B5%90%E6%9D%9F-%E7%BE%8E%E8%82%A1%E5%9B%9B%E5%A4%A7%E6%8C%87%E6%95%B82%E6%BC%B22%E8%B7%8C-%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E9%B4%BB%E6%B5%B7adr%E9%9B%99%E9%9B%99%E8%B5%B0%E4%BD%8E-144500833.html",
+          "source": "Yahoo股市"
+        },
+        {
+          "title": "荷姆茲海峽要解封了？國際油價大跌 市場風向一夕翻轉！",
+          "snippet": "",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5404135",
+          "source": "自由財經"
+        },
+        {
+          "title": "MoneyDJ新聞 2026-04-15 06:16:14 黃文章 發佈",
+          "snippet": "",
+          "url": "https://www.moneydj.com/r/news/rnews_%7B5EB28169-1F9B-4C30-BBA1-1262D1D17994%7D_6_A.djhtm",
+          "source": "MoneyDJ理財網"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "歐冠",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 15 Apr 2026 14:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6GkhYJ8IzO9tL8WYaI8qsnSHgVVEMLQMMtmLT76aelCPLJA5A29_AFafGtPY",
+      "pictureSource": "直播吧",
+      "relatedSearch": [
+        {
+          "title": "扎心了！BR海报：巴萨已11年无缘欧冠冠军，期间皇马5次捧杯",
+          "snippet": "",
+          "url": "https://news.zhibo8.com/zuqiu/2026-04-15/69deb02b1918anative.htm",
+          "source": "直播吧"
+        },
+        {
+          "title": "马竞晋级欧冠半决赛_新浪新闻",
+          "snippet": "",
+          "url": "https://www.sina.cn/news/detail/5288011287496556.html",
+          "source": "新浪网"
+        },
+        {
+          "title": "唏嘘！巴萨11年无缘欧冠",
+          "snippet": "",
+          "url": "https://sports.creaders.net/2026/04/15/2993179.html",
+          "source": "万维读者网"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "uefa champions league",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 15 Apr 2026 13:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZlgD69N0NSY-tzuT4mII2nJLhBLpd8--EQ2xj0fRFJ0j-Z-T4YaHSqeanMOQ",
+      "pictureSource": "UEFA.com",
+      "relatedSearch": [
+        {
+          "title": "Bayern München vs Real Madrid",
+          "snippet": "",
+          "url": "https://www.uefa.com/uefachampionsleague/match/2048070--bayern-munchen-vs-real-madrid/",
+          "source": "UEFA.com"
+        },
+        {
+          "title": "Arsenal vs Sporting CP",
+          "snippet": "",
+          "url": "https://www.uefa.com/uefachampionsleague/match/2048068--arsenal-vs-sporting-cp/",
+          "source": "UEFA.com"
+        },
+        {
+          "title": "Barcelona vs Atleti",
+          "snippet": "",
+          "url": "https://www.uefa.com/uefachampionsleague/match/2048065--barcelona-vs-atleti/",
+          "source": "UEFA.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "bayern đấu với real madrid",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 15 Apr 2026 13:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTswnf80Hlzv1Haj2z2eTDxofbvYqIICpRyDwMkJUcxZ341ZkjxhxTtCfcSCMY",
+      "pictureSource": "Tin tức 24h",
+      "relatedSearch": [
+        {
+          "title": "Video bóng đá Bayern Munich - Real Madrid: Đại tiệc siêu phẩm, oan nghiệt thẻ đỏ (Cúp C1)",
+          "snippet": "",
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-bayern-munich-real-madrid-dai-tiec-sieu-pham-oan-nghiet-the-do-cup-c1-c48a1753759.html",
+          "source": "Tin tức 24h"
+        },
+        {
+          "title": "Sân Allianz Arena và 3 tiền lệ để tin tưởng vào màn ngược dòng của Real Madrid",
+          "snippet": "",
+          "url": "https://webthethao.vn/champions-league/sanallianz-arena-va-3-tien-le-de-tin-tuong-vao-man-nguoc-dong-cua-real-madrid-u68HQdmRg.htm",
+          "source": "Webthethao.vn"
+        },
+        {
+          "title": "Lượt về tứ kết UEFA Champions League: Khó cản Bayern Munich và Arsenal",
+          "snippet": "",
+          "url": "https://baoquangngai.vn/luot-ve-tu-ket-uefa-champions-league-kho-can-bayern-munich-va-arsenal-79954.htm",
+          "source": "Báo Quảng Ngãi điện tử"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "arsenal",
+      "trafficCount": "200+",
       "pubDate": "Wed, 15 Apr 2026 13:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQokHxfAgVjgNNxlirxkFBTvsY_JgHY7PDMXCZoHp32n1ckxOAaxqeljwFrO9k",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwn_-Yke6yzX1zKLS7vez56nKAuNjahbeBMSbJUkb08HjNZw5389aBQg09_6k",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Champions League: Mbappe levels thrilling tie with Bayern Munich, Arsenal goalless on night",
+          "title": "Arsenal reach Champions League semi-finals with Sporting draw",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cvg80gj3m77t",
+          "url": "https://www.bbc.com/sport/football/live/c895q72505yt",
           "source": "BBC"
         },
         {
-          "title": "Football Tracker LIVE: Arsenal goalless with Sporting, Real lead Bayern in thriller",
+          "title": "How to watch Sporting vs Arsenal: TV channel and live stream for Champions League today",
           "snippet": "",
-          "url": "https://www.flashscore.co.uk/news/football-champions-league-football-tracker-live-arsenal-goalless-with-sporting-real-lead-bayern-in-thriller/6R807RQ7/",
-          "source": "FlashScore UK"
+          "url": "https://au.sports.yahoo.com/watch-sporting-vs-arsenal-tv-050003618.html",
+          "source": "Yahoo Sports Australia"
         },
         {
-          "title": "Arsenal vs Sporting – Calafiori misses Champions League showdown",
+          "title": "Another Arsenal star has joined their growing injury list",
           "snippet": "",
-          "url": "https://football-italia.net/arsenal-vs-sporting-calafiori-misses-ucl-clash/",
-          "source": "Football Italia"
+          "url": "https://www.justarsenal.com/another-arsenal-star-has-joined-their-growing-injury-list/413619",
+          "source": "Just Arsenal News"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "bayern vs madrid",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 15 Apr 2026 12:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfEjhSqHqLvyXek9vPwaDidEe-n3hDevDRqcArswxuBoDrKuq00jIUwZRaViM",
-      "pictureSource": "Yahoo Sports Australia",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_o_9yqG2f47R8fwUXeHg0VafCmBy1xvGfXAJbMT3PsbR0LahPL9o7FxFsnMo",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "\"German hell!\" FC Bayern fans delivered an impressive choreographed display against Real Madrid",
+          "title": "Champions League: Arsenal reach semis, Bayern Munich beat Real Madrid in thriller",
           "snippet": "",
-          "url": "https://au.sports.yahoo.com/german-hell-fc-bayern-fans-170547873.html",
-          "source": "Yahoo Sports Australia"
+          "url": "https://www.bbc.com/sport/football/live/cvg80gj3m77t",
+          "source": "BBC"
         },
         {
           "title": "A first for Real Madrid: Álvaro Arbeloa etches his name into Champions League history by beating Bayern Munich",
@@ -49,10 +245,10 @@
           "source": "Yahoo Sports Australia"
         },
         {
-          "title": "GER, Bavaria, Munich, Fussball, FC Bayern Munich - Real Madrid CF, at the Allianz Arena, Muenchen, Champions League, Quarter finals, second leg, April 15, 2026",
+          "title": "VIDEO: What a blunder from Manuel Neuer! Bayern Munich veteran gifts Real Madrid goal less than one minute into Champions League clash in worst possible for Vincent Kompany's men",
           "snippet": "",
-          "url": "https://www.reutersconnect.com/item/ger-bavaria-munich-fussball-fc-bayern-munich-real-madrid-cf-at-the-allianz-arena-muenchen-champions-league-quarter-finals-second-leg-april-15-2026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBTTkk4VEU",
-          "source": "Reuters Connect"
+          "url": "https://www.goal.com/en-in/lists/what-blunder-manuel-neuer-bayern-munich-veteran-gifts-real-madrid-goal-less-one-minute-champions-league-clash-worst-possible-vincent-kompany-s-men/bltf8213e7b605fab43",
+          "source": "Goal.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,222 +257,26 @@
       "title": "real madrid",
       "trafficCount": "200+",
       "pubDate": "Wed, 15 Apr 2026 12:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YguFqm-AUSFW2bwUOssMfTLfFD2GttAawGH89ydBpS6472zPruXyDJEmMeI",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCbBV1m-aYrkNBXIccC4Mi6SyMX9ZY5ozdBF0nYCgrZpFMv2mr87Rv_3K_15w",
       "pictureSource": "Diario AS",
       "relatedSearch": [
         {
-          "title": "Bayern - Real Madrid, en directo: cuartos de final de la Champions League, hoy en vivo",
+          "title": "Bayern 4-3 Real Madrid: resumen, goles y resultado",
           "snippet": "",
           "url": "https://as.com/futbol/champions/bayern-real-madrid-en-directo-ultima-hora-de-la-champions-league-hoy-en-vivo-f202604-d/",
           "source": "Diario AS"
         },
         {
-          "title": "¿Cómo ver el partido del Bayern Múnich vs Real Madrid en TV y streaming?",
+          "title": "Bayern Múnich - Real Madrid: resumen, resultado y goles del partido de Champions League",
           "snippet": "",
-          "url": "https://www.si.com/es-us/futbol/como-ver-el-partido-del-bayern-munich-vs-real-madrid-en-tv-y-streaming-15-4-2026",
-          "source": "Sports Illustrated"
+          "url": "https://www.marca.com/futbol/champions-league/bayern-munich-r-madrid/2026/04/15/01_0103_20260415_156_186-directo.html",
+          "source": "MARCA"
         },
         {
           "title": "El gol de Arda Güler a los 34 segundos vs. Bayern Munich",
           "snippet": "",
           "url": "https://www.ole.us/champions-league/gol-arda-guler-34-segundos-vs-bayern-munich_3_LJb6xjucBz.html",
           "source": "Olé USA"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "拜仁慕尼黑 對 皇家馬德里",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 15 Apr 2026 12:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2wg2FMyf1haJKjczg4dq1rW7smA5ZGJFdr8t_29Gpcy6j45DaROMhBZnJ7U8",
-      "pictureSource": "直播吧",
-      "relatedSearch": [
-        {
-          "title": "姆总+维尼修斯+居莱尔，近3位欧冠淘汰赛客战拜仁双响球员都在场",
-          "snippet": "",
-          "url": "https://news.zhibo8.com/zuqiu/2026-04-16/69dfeb407a478native.htm",
-          "source": "直播吧"
-        },
-        {
-          "title": "互相闪击，拜仁和皇马互为在欧冠遭遇最快丢球的对手|拜仁慕尼黑|皇家马德里|马凯|居莱尔",
-          "snippet": "",
-          "url": "https://m.dongqiudi.com/article/5781618.html",
-          "source": "懂球帝"
-        },
-        {
-          "title": "星月弯刀，居莱尔成为第4位在欧冠1/4决赛进球的土耳其球员",
-          "snippet": "",
-          "url": "https://news.zhibo8.com/zuqiu/2026-04-16/69dfe6a364ae9native.htm",
-          "source": "直播吧"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "allbirds",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 15 Apr 2026 09:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRygJNneMUccFpr0DZmJgVDn7SiGXQsJ6CyLLUvdqWWLyxjW-2xEuYxOZ1SKwg",
-      "pictureSource": "CNBC",
-      "relatedSearch": [
-        {
-          "title": "Struggling shoe retailer Allbirds makes bizarre pivot from shoes to AI, stock explodes more than 700%",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Allbirds Stock Rallies 700% On AI Pivot, But Mirrors Failed Crypto Treasury Plans",
-          "snippet": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/allbirds-stock-rallies-700-ai-195720841.html",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "AIbirds",
-          "snippet": "",
-          "url": "https://www.bloomberg.com/opinion/newsletters/2026-04-15/aibirds",
-          "source": "Bloomberg.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "tsla stock",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 15 Apr 2026 09:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoOwc56QL73D8EmoAJobdc7tu8112pyG2NMd2l54Vi-RJEy1Bo0GxmTGCioFo",
-      "pictureSource": "Yahoo Finance",
-      "relatedSearch": [
-        {
-          "title": "Tech stocks today: Tesla stock surges on chip reveal, Uber exec says AI budget isn't enough",
-          "snippet": "",
-          "url": "https://finance.yahoo.com/sectors/technology/article/tech-stocks-today-tesla-stock-surges-on-chip-reveal-uber-exec-says-ai-budget-isnt-enough-144220118.html",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Elon Musk demonstrates first sample of Tesla AI5 processor, accidentally thanks TSC rather than TSMC — claims 40X performance boost over the predecessor",
-          "snippet": "",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-demonstrates-first-sample-of-tesla-ai5-processor-accidentally-thanks-tsc-rather-than-tsmc-claims-40x-performance-boost-over-the-predecessor",
-          "source": "Tom's Hardware"
-        },
-        {
-          "title": "Tesla A15 AI Chip Taped Out, Elon Musk Shares First Pictures & Confirms A16 & Dojo3 In Works",
-          "snippet": "",
-          "url": "https://wccftech.com/tesla-a15-ai-chip-tape-out-elon-musk-shares-first-pictures-confirms-a16-dojo3-in-work/",
-          "source": "Wccftech"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "tsla",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 15 Apr 2026 08:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1_o-9zBQTLG2cvDTLGmLvyP9GAAfkQg0wTiximidoYu2pH1zywyMOoF6URak",
-      "pictureSource": "Yahoo Finance",
-      "relatedSearch": [
-        {
-          "title": "Tesla stock upgraded, CarMax Q4 earnings disappoint Wall Street",
-          "snippet": "",
-          "url": "https://finance.yahoo.com/video/tesla-stock-upgraded-carmax-q4-earnings-disappoint-wall-street-181005470.html",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Tesla (TSLA) Shares Surge 8%, Achieving Largest Gain in Nine Mon",
-          "snippet": "",
-          "url": "https://www.gurufocus.com/news/8795515/tesla-tsla-shares-surge-8-achieving-largest-gain-in-nine-months",
-          "source": "GuruFocus"
-        },
-        {
-          "title": "Wall Street Analysts Offer Positive Outlook for Tesla Robotaxis",
-          "snippet": "",
-          "url": "https://www.rswebsols.com/news/wall-street-analysts-bring-positive-insights-for-tesla-stock-investors-regarding-robotaxis/",
-          "source": "RS Web Solutions"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "selena gomez",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 15 Apr 2026 08:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRj6nvtv47TQMQ-ya4DrUqcJb_lVhp8hihMGSlgRb8NUVox7QFPmFBY6DB5hQw",
-      "pictureSource": "Yahoo News UK",
-      "relatedSearch": [
-        {
-          "title": "Selena Gomez heaps huge praise on Demi Lovato for 'one of the best shows'",
-          "snippet": "",
-          "url": "https://uk.news.yahoo.com/selena-gomez-heaps-huge-praise-100000747.html",
-          "source": "Yahoo News UK"
-        },
-        {
-          "title": "Camp Rock Stars’ TikTok Reunion Has Millennials Absolutely Losing It",
-          "snippet": "",
-          "url": "https://parade.com/news/camp-rock-stars-demi-lovato-joe-jonas-reunion",
-          "source": "Parade"
-        },
-        {
-          "title": "Demi Lovato debuts new single at electric tour kickoff",
-          "snippet": "",
-          "url": "https://themusicuniverse.com/demi-lovato-debuts-new-single-at-electric-tour-kickoff/",
-          "source": "The Music Universe"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "高雄 市 政府 觀光 局",
-      "trafficCount": "2000+",
-      "pubDate": "Wed, 15 Apr 2026 08:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKLDBoSoE8Ngk2OpqpiLMOypxYED49At-xD2vZWEgMiMyRLhqcW8DpNr1SmkQ",
-      "pictureSource": "風傳媒",
-      "relatedSearch": [
-        {
-          "title": "2026最新旅遊補助！觀光局發4500元「全國都能申請」， 條件時間方式一次看",
-          "snippet": "",
-          "url": "https://www.storm.mg/lifestyle/11121456",
-          "source": "風傳媒"
-        },
-        {
-          "title": "高雄推「海線潮旅行」 成團補助4500元",
-          "snippet": "",
-          "url": "https://www.cna.com.tw/news/aloc/202604150135.aspx",
-          "source": "中央社 CNA"
-        },
-        {
-          "title": "蚵子寮吃海鮮、漯底山拍美照 遊高雄「最高爽領4500元」",
-          "snippet": "",
-          "url": "https://news.tvbs.com.tw/life/3178755",
-          "source": "TVBS新聞網"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "claude",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 15 Apr 2026 08:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyr9AWctV_Jl9CcPRcBbqyEpAiMVweFAqCpDW6uOeOq8BIRVJaJBs2hVgRzMk",
-      "pictureSource": "Adobe Newsroom",
-      "relatedSearch": [
-        {
-          "title": "Adobe Ushers in a New Era of Creativity with New Creative Agent and Generative AI Innovations in Adobe Firefly",
-          "snippet": "",
-          "url": "https://news.adobe.com/news/2026/04/adobe-new-creative-agent",
-          "source": "Adobe Newsroom"
-        },
-        {
-          "title": "Adobe releases AI assistant for creative tools, says it will work with Anthropic's Claude",
-          "snippet": "",
-          "url": "https://www.reuters.com/legal/litigation/adobe-releases-ai-assistant-creative-tools-says-it-will-work-with-anthropics-2026-04-15/",
-          "source": "Reuters"
-        },
-        {
-          "title": "Adobe’s new Firefly AI assistant can use Creative Cloud apps to complete tasks",
-          "snippet": "",
-          "url": "https://techcrunch.com/2026/04/15/adobes-new-firefly-ai-assistant-can-use-creative-cloud-apps-to-complete-tasks/",
-          "source": "TechCrunch"
         }
       ],
       "link": "https://imtaqin.id/"

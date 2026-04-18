@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-04-18 05:47:06",
+  "lastUpdate": "2026-04-18 06:50:56",
   "data": [
     {
       "title": "дара",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 17 Apr 2026 22:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdQ_TqjKo6Yx4-P_GWj2kXxAgg-63DTZ3agkvi2C3QX2jbDnrOi-m9nN5e9ME",
       "pictureSource": "БТА",
@@ -31,7 +31,7 @@
     },
     {
       "title": "икономист",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 17 Apr 2026 21:50:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRufTZ7RMqnHUstmC0Lehf5M8aiI0Nz8e-yLgkOQyDAkoGVmUSvjcFgot6hA_E",
       "pictureSource": "ФОКУС",
@@ -61,61 +61,89 @@
       "title": "иран",
       "trafficCount": "2000+",
       "pubDate": "Fri, 17 Apr 2026 21:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSniNpGh00uFEmK34Vel7lZzwpwsTo5jMKLjRDmZihUFML3om3hDLP0joWLv3k",
-      "pictureSource": "bTV Новините",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQcqZdofcej9W6OdLYh8y1FEPGqL6ebCsG1e05eYzu9Iki718HV-7tOYcG9MLc",
+      "pictureSource": "ФОКУС",
       "relatedSearch": [
         {
-          "title": "Иран отвърна на Тръмп: Обогатеният ни уран няма да бъде прехвърлен никъде",
+          "title": "Галибаф: Иран ще затвори Ормузкия проток, ако САЩ не вдигнат блокадата",
           "snippet": "",
-          "url": "https://btvnovinite.bg/svetut/iran-otvarna-na-tramp-obogatenijat-ni-uran-njama-da-bade-prehvarlen-nikade.html",
-          "source": "bTV Новините"
-        },
-        {
-          "title": "Тръмп: Споразумението с Иран ще включва контрол над ядрените материали на страната",
-          "snippet": "",
-          "url": "https://www.focus-news.net/novini/mejdunarodni/Trump-Sporazumenieto-s-Iran-shte-vklyuchva-kontrol-nad-yadrenite-materiali-na-stranata-2952939",
+          "url": "https://www.focus-news.net/novini/mejdunarodni/Galibaf-Iran-shte-zatvori-Ormuzkiya-protok-ako-SASht-ne-vdignat-blokadata-2952941",
           "source": "ФОКУС"
         },
         {
-          "title": "Тръмп иска да работи съвместно с Иран, за да премести обогатения му уран в САЩ",
+          "title": "Тръмп: Примирието с Иран ще бъде прекратено, ако не бъде постигнато споразумение до сряда",
           "snippet": "",
-          "url": "https://news.bg/int-politics/tramp-iska-da-raboti-savmestno-s-iran-za-da-premesti-obogateniya-mu-uran-v-sasht.html",
-          "source": "News.bg"
+          "url": "https://btvnovinite.bg/svetut/tramp-blokadata-na-iranskite-pristanishta-ot-sasht-shte-ostane-v-sila-ako-ne-bade-postignato-sporazumenie.html",
+          "source": "bTV Новините"
+        },
+        {
+          "title": "Ормузкият проток е отворен, но военната блокада остава до постигане на споразумение с Техеран, заяви Тръмп",
+          "snippet": "",
+          "url": "https://bntnews.bg/news/ormuzkiyat-protok-e-otvoren-no-voennata-blokada-ostava-do-postigane-na-sporazumenie-s-teheran-zayavi-tramp-1388914news.html",
+          "source": "БНТ Новини"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather",
+      "trafficCount": "2000+",
+      "pubDate": "Fri, 17 Apr 2026 21:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWB8fPpcUUiveiUyCxACTWrOAWOgGjrv998Nq-X8ydl9hv4PkBV5pSi6Mu5l0",
+      "pictureSource": "Hawaii News Now",
+      "relatedSearch": [
+        {
+          "title": "First Alert Forecast: A few showers for Kauai and Oahu are possible late Friday night",
+          "snippet": "",
+          "url": "https://www.hawaiinewsnow.com/2026/04/18/first-alert-forecast-few-showers-kauai-oahu-are-possible-late-friday-night/",
+          "source": "Hawaii News Now"
+        },
+        {
+          "title": "Showery Conditions Continue Across Hawaiʻi as Unsettled Weather Lingers Through the Week",
+          "snippet": "",
+          "url": "https://www.aol.com/news/showery-conditions-continue-across-hawai-194902844.html",
+          "source": "AOL.com"
+        },
+        {
+          "title": "Aloha Friday Weather | Trade winds return",
+          "snippet": "",
+          "url": "https://www.kitv.com/video/weather/aloha-friday-weather-trade-winds-return/video_7c7dc197-df2b-59d1-b4e5-0f7381620ba1.html",
+          "source": "KITV"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "полша",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 17 Apr 2026 20:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3gCbAY_aXcElgtOf8eGBAeU07AJck0Ws_KUkzbNidzrk4hhWrYKyxF1JKM40",
-      "pictureSource": "БТА",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTr8K0u2XJIG35WdtJe2RA-ShOjdYoMUyBO3Hs9F3wKC8-gKkN7mdawSH9zbVY",
+      "pictureSource": "nova.bg",
       "relatedSearch": [
         {
-          "title": "Полският премиер заяви, че свързана с Русия компания за криптовалута е подкрепила политици от предишното правителство",
+          "title": "Заради политически натиск: Кание Уест отложи концерта си в Марсилия",
           "snippet": "",
-          "url": "https://www.bta.bg/bg/news/world/1108326-polskiyat-premier-zayavi-che-svarzana-s-rusiya-kompaniya-za-kriptovaluta-e-podk",
-          "source": "БТА"
+          "url": "https://nova.bg/news/view/2026/04/15/533886/%D0%B7%D0%B0%D1%80%D0%B0%D0%B4%D0%B8-%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8-%D0%BD%D0%B0%D1%82%D0%B8%D1%81%D0%BA-%D0%BA%D0%B0%D0%BD%D0%B8%D0%B5-%D1%83%D0%B5%D1%81%D1%82-%D0%BE%D1%82%D0%BB%D0%BE%D0%B6%D0%B8-%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82%D0%B0-%D1%81%D0%B8-%D0%B2-%D0%BC%D0%B0%D1%80%D1%81%D0%B8%D0%BB%D0%B8%D1%8F/",
+          "source": "nova.bg"
         },
         {
-          "title": "ВАРШАВА, Полша (AP) — Полският премиер Доналд Туск каза, че",
+          "title": "Кание Уест изгонен от Европа? Франция готви забрана след скандали",
           "snippet": "",
-          "url": "https://novini247.com/novini/varshava-polsha-ap--polskiyat-premier-donald-tusk-kaza-che_10678708.html",
+          "url": "https://www.marica.bg/lajfstajl/kanie-uest-izgonen-ot-evropa-franciq-gotvi-zabrana-sled-skandali",
+          "source": "marica.bg"
+        },
+        {
+          "title": "Планираното завръщане на американския рапър Кание Уест на полска сцена",
+          "snippet": "",
+          "url": "https://novini247.com/novini/planiranoto-zavrashtane-na-amerikanskiya-rapar-kanie-uest-na-polska-stsena_10680649.html",
           "source": "https://novini247.com/"
-        },
-        {
-          "title": "Проруска компания за криптовалути спонсорирала полски политици",
-          "snippet": "",
-          "url": "https://news.bg/int-politics/proruska-kompaniya-za-kriptovaluti-sponsorirala-polski-polititsi.html",
-          "source": "News.bg"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "метеорит",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 17 Apr 2026 17:40:00 -0700",
       "picture": "",
       "pictureSource": "",
@@ -123,29 +151,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "слънчево изригване",
+      "trafficCount": "10000+",
+      "pubDate": "Fri, 17 Apr 2026 13:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQiOAIeujRt8k5tgX3bENK8VjHzERSMIUZE5DSTNXszGqSID9aJgfXVkgY23b0",
+      "pictureSource": "Novini.bg",
+      "relatedSearch": [
+        {
+          "title": "Мощна магнитна буря удря Земят днес",
+          "snippet": "",
+          "url": "https://novini.bg/article/2026041803561530476",
+          "source": "Novini.bg"
+        },
+        {
+          "title": "Геомагнитни бури влияят на Земята този уикенд",
+          "snippet": "",
+          "url": "https://webcafe.bg/international/geomagnitni-buri-vliyayat-na-zemyata-tozi-uikend.html",
+          "source": "Webcafe"
+        },
+        {
+          "title": "Магнитна буря удря Земята днес, 18 април - какво да очакват чувствителните хора",
+          "snippet": "",
+          "url": "https://www.plovdiv24.bg/novini/mejdunarodni/Magnitna-burya-udrya-Zemyata-dnes-18-april-kakvo-da-ochakvat-chuvstvitelnite-hora-2952950",
+          "source": "Plovdiv24"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "прогресивна българия",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Fri, 17 Apr 2026 13:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3v6AzVgs11u8mwdE0y3y9NTXqn0HWZLiAmrfaRy_EtKWdTdwKJ2PUbPNpaDA",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-evLerj_yQ63BzthuRO1rV4uOCMq5fjpduLg6Ot_zuBHWq6n2xgKY0lvvvbc",
       "pictureSource": "Dnevnik.bg",
       "relatedSearch": [
         {
-          "title": "Румен Радев все пак допуска разговор с ПП-ДБ за съвместни действия в следващия парламент",
+          "title": "Радев обеща да не се коалира с ГЕРБ и ДПС, партньорството с ПП-ДБ определи за \"нежелано\"",
           "snippet": "",
-          "url": "https://www.dnevnik.bg/izbori-2026/2026/04/17/4903745_rumen_radev_vse_pak_dopusna_razgovor_s_pp-db_za/",
+          "url": "https://www.dnevnik.bg/izbori-2026/2026/04/16/4903239_radev_obeshta_da_ne_se_koalira_s_gerb_i_dps/",
           "source": "Dnevnik.bg"
-        },
-        {
-          "title": "Румен Радев: И в новия парламент може да се стигне до политически блокаж и да не може да се избере ВСС",
-          "snippet": "",
-          "url": "https://btvnovinite.bg/bulgaria/rumen-radev-i-v-novija-parlament-mozhe-da-se-stigne-do-politicheski-blokazh-i-da-ne-mozhe-da-se-izbere-vss.html",
-          "source": "bTV Новините"
         },
         {
           "title": "Избори 2026: България решава: Гостува Румен Радев",
           "snippet": "",
           "url": "https://www.btv.bg/shows/lice-v-lice/videos/izbori-2026-balgarija-reshava-gostuva-rumen-radev.html",
           "source": "bTV"
+        },
+        {
+          "title": "Румен Радев: И в новия парламент може да се стигне до политически блокаж и да не може да се избере ВСС",
+          "snippet": "",
+          "url": "https://btvnovinite.bg/bulgaria/rumen-radev-i-v-novija-parlament-mozhe-da-se-stigne-do-politicheski-blokazh-i-da-ne-mozhe-da-se-izbere-vss.html",
+          "source": "bTV Новините"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -164,10 +220,10 @@
           "source": "bTV"
         },
         {
-          "title": "Новият епизод на „Бригада Нов дом“ – пълен с прегръдки, детски смях и голяма изненада за майсторите",
+          "title": "Мария Силвестър разплака майсторите: Невиждана досега изненада спря ремонта в жилището на баба Руми",
           "snippet": "",
-          "url": "https://btvnovinite.bg/bulgaria/novijat-epizod-na-brigada-nov-dom-palen-s-pregradki-detski-smjah-i-goljama-iznenada-za-majstorite.html",
-          "source": "bTV Новините"
+          "url": "https://www.plovdiv24.bg/novini/interesno/Mariya-Silvestur-razplaka-maistorite-Nevizhdana-dosega-iznenada-sprya-remonta-v-zhilishteto-na-baba-Rumi-2953008",
+          "source": "Plovdiv24"
         },
         {
           "title": "Маги и децата ѝ след \"Бригада Нов дом\": Имаме всичко сега",
@@ -192,72 +248,16 @@
           "source": "Gong.bg"
         },
         {
-          "title": "\"Интер\" на 7 т. от 5 мача за титлата в Италия",
-          "snippet": "",
-          "url": "https://www.24chasa.bg/index.php/sport/article/22684537",
-          "source": "www.24chasa.bg"
-        },
-        {
           "title": "Киву: Бяхме бавни до почивката, но след първия гол се забавлявахме",
           "snippet": "",
           "url": "https://sportal.bg/news-2026041723521185353",
           "source": "Sportal.bg"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "буря",
-      "trafficCount": "10000+",
-      "pubDate": "Fri, 17 Apr 2026 10:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQiOAIeujRt8k5tgX3bENK8VjHzERSMIUZE5DSTNXszGqSID9aJgfXVkgY23b0",
-      "pictureSource": "Novini.bg",
-      "relatedSearch": [
-        {
-          "title": "Мощна магнитна буря удря Земят днес",
-          "snippet": "",
-          "url": "https://novini.bg/article/2026041803561530476",
-          "source": "Novini.bg"
         },
         {
-          "title": "Внезапна промяна в космическото време",
+          "title": "\"Интер\" на 7 т. от 5 мача за титлата в Италия",
           "snippet": "",
-          "url": "https://btvnovinite.bg/bulgaria/vnezapna-promjana-v-kosmicheskoto-vreme.html",
-          "source": "bTV Новините"
-        },
-        {
-          "title": "Магнитна буря връхлита Земята на 18 април",
-          "snippet": "",
-          "url": "https://www.bgonair.bg/a/4-world/415973-magnitna-burya-vrahlita-zemyata-na-18-april",
-          "source": "Bgonair"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "fenerbahçe",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 17 Apr 2026 10:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSLCEZfxkyP38JSprOsJIoQpTfM7EgOyBw2q6zQuT6hoQiOUfZLQ31sJV95mo",
-      "pictureSource": "beinsports.com.tr",
-      "relatedSearch": [
-        {
-          "title": "GENİŞ ÖZET | Fenerbahçe 2-2 Çaykur Rizespor",
-          "snippet": "",
-          "url": "https://beinsports.com.tr/haber/fenerbahce-caykur-rizespor-10",
-          "source": "beinsports.com.tr"
-        },
-        {
-          "title": "Şanssızlık değil!",
-          "snippet": "",
-          "url": "https://www.sabah.com.tr/yazarlar/spor/bilgic/2026/04/18/sanssizlik-degil",
-          "source": "Sabah"
-        },
-        {
-          "title": "'Bu konuşmayı yapmak istemezdim' diyen Kerem Aktürkoğlu helallik istedi 2026 | ADALET - IUSTITIA.BG 2025",
-          "snippet": "",
-          "url": "https://iustitia.bg/tr/konu-may-yapmak-istemezdim-diyen-kerem-akt-rko-helallik-2/",
-          "source": "iustitia.bg"
+          "url": "https://www.24chasa.bg/index.php/sport/article/22684537",
+          "source": "www.24chasa.bg"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,19 +1,41 @@
 {
-  "lastUpdate": "2026-04-21 08:08:48",
+  "lastUpdate": "2026-04-21 09:49:10",
   "data": [
+    {
+      "title": "metro",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 21 Apr 2026 01:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWCk6FQj83zBbnN0o_y6_QEnjOo6lax_4qt2T_wmBFfXZh230dD0fj1GLtG3k",
+      "pictureSource": "Modern.az",
+      "relatedSearch": [
+        {
+          "title": "Metro movement is restored - time announced",
+          "snippet": "",
+          "url": "https://modern.az/en/aktual/595785/metro-movement-is-restored-time-announced/",
+          "source": "Modern.az"
+        },
+        {
+          "title": "Passenger entry temporarily restricted at all Baku Metro stations",
+          "snippet": "",
+          "url": "https://en.apa.az/infrastructure/passenger-entry-temporarily-restricted-at-all-baku-metro-stations-502478",
+          "source": "Apa.az"
+        },
+        {
+          "title": "Passenger entry restricted at all Baku Metro stations after power fault",
+          "snippet": "",
+          "url": "https://news.az/news/passenger-entry-restricted-at-all-baku-metro-stations-after-power-fault",
+          "source": "Latest news from Azerbaijan"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "hava",
       "trafficCount": "5000+",
       "pubDate": "Mon, 20 Apr 2026 19:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZMYHNnYf2OGpluTP4-fe-rgXz7WxTmRoao7tLZf9YCgy4w-llT-CUGW9n_ek",
-      "pictureSource": "TRT Haber",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6GJLlTAaPnh2jNjm4EBY09guATIXJKY_kyHgKWZ3Nq0dkObYf2awL0rxO7U0",
+      "pictureSource": "MSN",
       "relatedSearch": [
-        {
-          "title": "Yeni haftada serin ve yağışlı hava görülecek",
-          "snippet": "",
-          "url": "https://www.trthaber.com/haber/turkiye/yeni-haftada-serin-ve-yagisli-hava-gorulecek-942266.html",
-          "source": "TRT Haber"
-        },
         {
           "title": "Son dakika: 10 il için 'sarı' kod verildi! Sıcaklık 7 derece birden düşecek... Çok kuvvetli geliyor",
           "snippet": "",
@@ -21,10 +43,16 @@
           "source": "MSN"
         },
         {
-          "title": "Meteoroloji Saat Verdi, Yağışlar Geri Dönüyor!",
+          "title": "Meteoroloji'den son dakika uyarısı: 23 Nisan'da plan yapanlar dikkat! O illere kuvvetli sağanak ve çığ alarmı!",
           "snippet": "",
-          "url": "https://www.afyonturkeligazetesi.com/meteoroloji-saat-verdi-yagislar-geri-donuyor/132577",
-          "source": "Afyon Türkeli Gazetesi"
+          "url": "https://www.sabah.com.tr/yasam/meteorolojiden-son-dakika-uyarisi-23-nisanda-plan-yapanlar-dikkat-o-illere-kuvvetli-saganak-ve-cig-alarmi-7567781",
+          "source": "Sabah"
+        },
+        {
+          "title": "Ülke genelinde sıcaklık artacak, bazı bölgelerde kuvvetli sağanak bekleniyor",
+          "snippet": "",
+          "url": "https://ilkha.com/guncel/ulke-genelinde-sicaklik-artacak-bazi-bolgelerde-kuvvetli-saganak-bekleniyor-526893",
+          "source": "İlke Haber Ajansı"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -98,14 +126,14 @@
       "title": "weather tomorrow",
       "trafficCount": "200+",
       "pubDate": "Mon, 20 Apr 2026 10:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXf7HfnJotXqPu7dYMI0QvFBhM70PILDhzHTa_IXq_KKNhVitkulc8NhNkmvE",
-      "pictureSource": "CityNews Toronto",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHvvRVBwPYrPi9S7tqiLMsNoAOGffPJURmLr29MM23mYACs6Td5IaRAb6wh80",
+      "pictureSource": "NBC Boston",
       "relatedSearch": [
         {
-          "title": "Chilly night but temperatures to rise mid-week",
+          "title": "Weather forecast: Chilly temperatures overnight",
           "snippet": "",
-          "url": "https://toronto.citynews.ca/video/2026/04/20/chilly-night-but-temperatures-to-rise-mid-week/",
-          "source": "CityNews Toronto"
+          "url": "https://www.nbcboston.com/video/weather/weather-forecast-chilly-temperatures-overnight/3937001/",
+          "source": "NBC Boston"
         },
         {
           "title": "Frost or freeze possible tonight, with dry work week ahead",
@@ -126,93 +154,28 @@
       "title": "gemini",
       "trafficCount": "2000+",
       "pubDate": "Mon, 20 Apr 2026 07:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRysQGFM-v6GbY1U__nGW5IAvh177jkHzy7iaAwWojaEedFVTROTeKkuQ9Zlw",
-      "pictureSource": "9to5Google",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5l4tkkyADvNXb9OHfOT1gQgZjz6TrAtHZwV6itdtdWEO0oE8eHQMDcgA5uZU",
+      "pictureSource": "blog.google",
       "relatedSearch": [
         {
-          "title": "Gemini Live redesign replaces fullscreen interface on Android",
+          "title": "We’re expanding Gemini in Chrome to users in Asia Pacific.",
           "snippet": "",
-          "url": "https://9to5google.com/2026/04/19/gemini-live-app-redesign/",
-          "source": "9to5Google"
+          "url": "https://blog.google/products-and-platforms/products/chrome/chrome-expands-apac/",
+          "source": "blog.google"
         },
         {
-          "title": "Are you seeing Gemini's UI changes? Google's update is starting to roll out",
+          "title": "Google rolls out Gemini in Chrome in 7 new countries",
           "snippet": "",
-          "url": "https://www.androidauthority.com/gemini-overlay-and-live-changes-rollout-3658709/",
-          "source": "Android Authority"
+          "url": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
+          "source": "TechCrunch"
         },
         {
-          "title": "Google Gemini App Gets Major UI Redesign and Feature Upgrades in 2026",
+          "title": "Google changes forever from today",
           "snippet": "",
-          "url": "https://newspress.co.in/google-gemini-app-gets-major-ui-redesign-and-feature-upgrades-in-2026/",
-          "source": "newspress.co.in"
+          "url": "https://www.news.com.au/technology/the-new-era-of-browsing-major-google-change-for-every-aussie/news-story/4a2e51a4ec53296b963036d4628a43bf",
+          "source": "News.com.au"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "apple inc",
-      "trafficCount": "2000+",
-      "pubDate": "Mon, 20 Apr 2026 02:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS0NwJJKdcXwhmPYh67zM6OpfHU9ZR7okplFvt6LsBcbcq_vaEX4oQJT6rv_l0",
-      "pictureSource": "Apple",
-      "relatedSearch": [
-        {
-          "title": "Tim Cook to become Apple Executive Chairman John Ternus to become Apple CEO",
-          "snippet": "",
-          "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
-          "source": "Apple"
-        },
-        {
-          "title": "Apple Bets New CEO John Ternus Will Bring Back Jobs-Era Decisiveness",
-          "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2026-04-21/apple-bets-new-ceo-john-ternus-will-bring-back-jobs-era-decisiveness",
-          "source": "Bloomberg.com"
-        },
-        {
-          "title": "Tim Cook hands Apple over to its hardware guru",
-          "snippet": "",
-          "url": "https://www.economist.com/business/2026/04/21/tim-cook-hands-apple-over-to-its-hardware-guru",
-          "source": "The Economist"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "страховая компания",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 20 Apr 2026 01:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAP-AMWOXFSXvwrf-n8mtaK0nUlMLT7oJV1zuXHmJoiLcpFbKw32VBMz8yI0g",
-      "pictureSource": "Report.az",
-      "relatedSearch": [
-        {
-          "title": "Обязательства \"Atasığorta\" переданы \"Atəşgah Sığorta\"",
-          "snippet": "",
-          "url": "https://report.az/ru/finansy/obyazatelstva-atasigorta-peredany-atesgah-sigorta",
-          "source": "Report.az"
-        },
-        {
-          "title": "В Азербайджане ликвидируется известная страховая компания",
-          "snippet": "",
-          "url": "https://minval.az/news/124528421",
-          "source": "Minval Politika"
-        },
-        {
-          "title": "В Азербайджане ликвидируется известная страховая компания",
-          "snippet": "",
-          "url": "https://oxu.az/ru/ekonomika/v-azerbajdzhane-likvidiruetsya-izvestnaya-strahovaya-kompaniya",
-          "source": "Oxu.Az"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "işsizlik",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 20 Apr 2026 01:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-04-22 23:12:26",
+  "lastUpdate": "2026-04-23 00:01:14",
   "data": [
     {
       "title": "newmont",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 22 Apr 2026 15:40:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5v_BrqbZzrthc3u4QHNoL9rKsjdzOZ_Xnr06QmXRhz5iJncLGxrEnzbYu07I",
       "pictureSource": "Reuters",
@@ -31,7 +31,7 @@
     },
     {
       "title": "lamine yamal",
-      "trafficCount": "1000+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 22 Apr 2026 15:10:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfttVL5zRKWwxycndgP-bw1VrpQiDgd2w1VVinBIqD75qwFHHHbPse-OvyWfU",
       "pictureSource": "BBC",
@@ -43,16 +43,16 @@
           "source": "BBC"
         },
         {
-          "title": "Hansi Flick speaks out on Lamine Yamal and Joao Cancelo injuries after Barcelona beat Celta",
-          "snippet": "",
-          "url": "https://www.barcablaugranes.com/barcelona-la-liga/118329/hansi-flick-speaks-out-on-lamine-yamal-and-joao-cancelo-injuries-after-barcelona-beat-celta",
-          "source": "Barca Blaugranes"
-        },
-        {
           "title": "Yamal scores but injured as Barcelona beat Celta to restore La Liga lead",
           "snippet": "",
           "url": "https://www.aljazeera.com/sports/2026/4/22/yamal-scores-then-limps-off-as-barcelona-beat-celta-to-restore-la-liga-lead",
           "source": "Al Jazeera"
+        },
+        {
+          "title": "Will Lamine Yamal miss the World Cup? Injury scenarios explained",
+          "snippet": "",
+          "url": "https://www.marca.com/en/football/barcelona/2026/04/23/69e953ecca47412c248b4594.html",
+          "source": "MARCA"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,36 +86,64 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "la liga",
-      "trafficCount": "200+",
+      "title": "france",
+      "trafficCount": "100+",
       "pubDate": "Wed, 22 Apr 2026 14:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKNwqlobBYNPoByomw36nIsexEn1w4KxNK5ILuj7ykV8yyGdlyUojsqfJMqlU",
-      "pictureSource": "Football Espana",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTskD_9kNTvPeypR80eNhWxeE0TGkAWfqJrLlVyP_Pm1gJgf3yVHjmp_1t_j6Y",
+      "pictureSource": "franceinfo",
       "relatedSearch": [
         {
-          "title": "A strange La Liga title race with a premature end?",
+          "title": "Météo France 2 du Jeudi 23 avril 2026 à 00h00",
           "snippet": "",
-          "url": "https://www.football-espana.net/2026/04/22/a-strange-la-liga-title-race-with-a-premature-end",
-          "source": "Football Espana"
+          "url": "https://www.franceinfo.fr/environnement/meteo/bulletins-meteo/meteo-france-2/meteo-france-2-du-jeudi-23-avril-2026-a-00h00_7910270.html",
+          "source": "franceinfo"
         },
         {
-          "title": "Spain La Liga Soccer",
+          "title": "Paris : prévisions météo du mercredi 15 avril 2026",
           "snippet": "",
-          "url": "https://lufkindailynews.com/anpa/sports/spain-la-liga-soccer/image_99cc5f56-5fd5-5e77-b9f2-a19ddf1b5a0e.html",
-          "source": "The Lufkin Daily News"
+          "url": "https://actus.meteocity.com/previsions-meteo/paris-previsions-meteo-du-mercredi-15-avril-2026-6227",
+          "source": "Météocity"
         },
         {
-          "title": "Spain La Liga Soccer",
+          "title": "Météo : mercredi ensoleillé mais les averses se corsent l'après-midi",
           "snippet": "",
-          "url": "https://www.couriernews.com/sports/spain-la-liga-soccer/image_a2e9ded1-d3d6-5b63-9614-2fa41c5f336b.html",
-          "source": "couriernews.com"
+          "url": "https://imazpress.com/meteo/meteo-71",
+          "source": "Imaz Press"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "city",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 22 Apr 2026 13:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTv50QNWOhmRQaHV3_33V8cwZU2XiL_Tf4OiEbWYNmKfIrRDS7inZW0NA4wBDw",
+      "pictureSource": "WLOX",
+      "relatedSearch": [
+        {
+          "title": "Ocean Springs celebrates new business openings as city continues growth",
+          "snippet": "",
+          "url": "https://www.wlox.com/2026/04/22/ocean-springs-celebrates-new-business-openings-city-continues-growth/",
+          "source": "WLOX"
+        },
+        {
+          "title": "Going to Chick-fil-A opening? What to know about traffic, take-out and free food",
+          "snippet": "",
+          "url": "https://www.sunherald.com/entertainment/restaurants/article315484633.html",
+          "source": "Sun Herald"
+        },
+        {
+          "title": "Chick-fil-A confirms opening day for Ocean Springs location. Here’s what we know",
+          "snippet": "",
+          "url": "https://www.yahoo.com/news/articles/chick-fil-confirms-opening-day-213421346.html",
+          "source": "Yahoo"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "strasbourg vs nice",
-      "trafficCount": "200+",
+      "trafficCount": "100+",
       "pubDate": "Wed, 22 Apr 2026 13:40:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVUErHHKCH4LCzZ0rxufnV5iJJYUQHIZFgJfzRXlXQhFuibvWNufd4LIryef0",
       "pictureSource": "Foot Mercato",
@@ -127,16 +155,16 @@
           "source": "Foot Mercato"
         },
         {
+          "title": "« C’est bon pour le moral » : le vice-président de l’OGC Nice Maurice Cohen savoure la qualification en finale de la Coupe de France",
+          "snippet": "",
+          "url": "https://www.nicematin.com/sports/football/c-est-bon-pour-le-moral-le-vice-president-de-l-ogc-nice-maurice-cohen-savoure-la-qualification-en-finale-de-la-coupe-de-france-10677923",
+          "source": "Nice-Matin"
+        },
+        {
           "title": "Coupe de France 2026 — Lens en finale, Strasbourg-Nice 22/4 | Sports Infos",
           "snippet": "",
           "url": "https://www.ski-nordique.net/coupe-de-france-2025-2026-resultats-une-finale-entre-nice-et-lens.6736797-72348.html",
           "source": "Ski-nordique"
-        },
-        {
-          "title": "« Quand il est comme ça... » Wahi, un doublé et une soirée mémorable pour envoyer Nice en finale de Coupe de France",
-          "snippet": "",
-          "url": "https://www.lequipe.fr/Football/Article/-quand-il-est-comme-ca-wahi-un-double-et-une-soiree-memorable-pour-envoyer-nice-en-finale-de-coupe-de-france/1670146",
-          "source": "L'Équipe"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,9 +173,15 @@
       "title": "barca vs",
       "trafficCount": "200+",
       "pubDate": "Wed, 22 Apr 2026 13:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2R_oTGz0k9VeYypXKBJjpv1O536G2IWNo9RjobqWMpiD7YxWhhchbPYtLZEA",
-      "pictureSource": "Yahoo",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSNv_uoZZHGWSsom0rcXZg2NL1-XDlGdCm-4-isI3HqRadHcDjjeJU0oc5j5E",
+      "pictureSource": "Depor",
       "relatedSearch": [
+        {
+          "title": "Video, gol y resumen: Barcelona vs. Celta de Vigo (1-0), por la fecha 33 de LaLiga",
+          "snippet": "",
+          "url": "https://depor.com/futbol-internacional/espana/espn-en-vivo-barcelona-vs-celta-de-vigo-en-directo-ver-gratis-ahora-futbol-libre-tv-directv-disney-plus-movistar-laliga-dazn-video-noticia/",
+          "source": "Depor"
+        },
         {
           "title": "Vuelve Cubarsí y repite Gavi en el once inicial de Flick",
           "snippet": "",
@@ -155,16 +189,10 @@
           "source": "Yahoo"
         },
         {
-          "title": "Qué canal pasa Barcelona vs Celta hoy: dónde ver gratis y EN VIVO LaLiga",
+          "title": "\"Baldé y Lewandowski en el banquillo...\": las reacciones de los aficionados del Barcelona al XI titular contra el Celta de Vigo",
           "snippet": "",
-          "url": "https://www.365scores.com/es/news/que-canal-pasa-barcelona-vs-celta-gratis/",
-          "source": "365Scores"
-        },
-        {
-          "title": "Barça-Celta: GOL y LESIÓN de Lamine Yamal de penalti",
-          "snippet": "",
-          "url": "https://onefootball.com/pt-br/noticias/barca-celta-gol-y-lesion-de-lamine-yamal-de-penalti-42751296",
-          "source": "OneFootball"
+          "url": "https://tribuna.com/es/blogs/balde-y-lewandowski-en-el-banquillo-las-reacciones-de-los-af/",
+          "source": "Tribuna.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,26 +201,26 @@
       "title": "laliga",
       "trafficCount": "500+",
       "pubDate": "Wed, 22 Apr 2026 13:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxGPX9OzCyYyL83AFy12kLYJt0Tfojl6Ui9mRGU9a2tQHigT2bl3IB6FaxXRA",
-      "pictureSource": "beIN SPORTS",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Barcelona vs Celta LIVE: goals, score and lineups in Lamine Yamal’s key LaLiga clash",
+          "title": "Elche vs Atletico Madrid: Spanish La Liga stats & head-to-head",
           "snippet": "",
-          "url": "https://www.beinsports.com/en-us/soccer/la-liga/articles/live-blog-barcelona-vs-celta-vigo-live-goals-and-score-in-lamine-yamal-s-match-2026-04-22",
-          "source": "beIN SPORTS"
+          "url": "https://www.bbc.com/sport/football/live/cn539xpvd2vt",
+          "source": "BBC"
         },
         {
-          "title": "Barcelona vs. Celta Vigo: Preview, Predictions and Lineups",
+          "title": "Barca edge Celta but lose match-winner Yamal to injury",
           "snippet": "",
-          "url": "https://www.si.com/soccer/barcelona-vs-celta-vigo-preview-predictions-and-lineups-4-22-26",
-          "source": "Sports Illustrated"
+          "url": "https://www.rfi.fr/en/sports/20260422-atletico-beaten-again-in-elche-thriller",
+          "source": "RFI"
         },
         {
-          "title": "Barcelona squad named for Celta Vigo",
+          "title": "Nico González hits two stunners, Almada sent off in Atlético loss",
           "snippet": "",
-          "url": "https://www.barcablaugranes.com/barcelona-la-liga/118283/barcelona-celta-vigo-la-liga-team-news-squad-list",
-          "source": "Barca Blaugranes"
+          "url": "https://onefootball.com/en/news/nico-gonzalez-hits-two-stunners-almada-sent-off-in-atletico-loss-42752262",
+          "source": "OneFootball"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,82 +229,54 @@
       "title": "porto vs sporting",
       "trafficCount": "2000+",
       "pubDate": "Wed, 22 Apr 2026 12:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQX87jL5Usm5FUz5yOHfz96Z0pmxsKesogQxTmxUxaNAplSqnma75VhgvQia8E",
-      "pictureSource": "TVH News",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVZdjChEvwGHePQecJpd-k-2KSjVONMTMJjNa1g0nE_DuIGQM0x4jcP73h2so",
+      "pictureSource": "A Bola",
       "relatedSearch": [
         {
-          "title": "Onde assistir o jogo do Sporting hoje? Saiba onde vai passar (quarta, 22/04/2026)",
+          "title": "Rui Borges: «Taça de Portugal não é salvação no Sporting»",
           "snippet": "",
-          "url": "https://tvhnews.com.br/onde-assistir-o-jogo-do-sporting-hoje-saiba-onde-vai-passar-quarta-22-04-2026/",
-          "source": "TVH News"
+          "url": "https://www.abola.pt/video/rui-borges-taca-de-portugal-nao-e-salvacao-no-sporting-2026042222581113886",
+          "source": "A Bola"
         },
         {
-          "title": "Rui Borges: \"Perder tempo? Farioli deve ter-se esquecido das bolas e das toalhas\"",
+          "title": "Muralha leonina segurou o ímpeto de um dragão sem golo",
           "snippet": "",
-          "url": "https://sapo.pt/artigo/rui-borges-perder-tempo-farioli-deve-ter-se-esquecido-das-bolas-e-das-toalhas-69e94d9706655803025a1394",
-          "source": "SAPO"
+          "url": "https://www.jn.pt/desporto/artigo/muralha-leonina-segurou-o-impeto-de-um-dragao-sem-golo/18076113",
+          "source": "Jornal de Notícias"
         },
         {
-          "title": "N Sports transmite semifinais da Taça de Portugal com clássico e duelo de azarões nesta quarta (22) e quinta (23)",
+          "title": "«Hoje a meia-final devia ter sido contra o Santa Clara ou o AVS»",
           "snippet": "",
-          "url": "https://www.ouniversodatv.com/2026/04/n-sports-transmite-semifinais-da-taca.html",
-          "source": "O Universo da TV"
+          "url": "https://cnnportugal.iol.pt/videos/hoje-a-meia-final-devia-ter-sido-contra-o-santa-clara-ou-o-avs/69e9522d0cf2d0ed34b832ed",
+          "source": "CNN Portugal"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "atalanta vs lazio",
+      "title": "fcb",
       "trafficCount": "500+",
-      "pubDate": "Wed, 22 Apr 2026 12:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmSp-rrhL2TiSTd3THPhzuAHYV1Ir6ujoL3Kyr-eEgrUHtClrPX-iU77cy8nc",
-      "pictureSource": "Sports Mole",
+      "pubDate": "Wed, 22 Apr 2026 12:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5FogBQmTGfuXawQ5F6BQpnLq4v0K4cfYvece7FUpv3UnQt0Kz3o67zsJF2Dg",
+      "pictureSource": "Official FC Barcelona Website",
       "relatedSearch": [
         {
-          "title": "Preview: Atalanta BC vs Lazio - prediction, team news, lineups",
+          "title": "Phillip Cocu: 'Frenkie de Jong's influence is key'",
           "snippet": "",
-          "url": "https://www.sportsmole.co.uk/football/atalanta-bc/coppa-italia/preview/atalanta-vs-lazio-prediction-team-news-lineups_596089.html",
-          "source": "Sports Mole"
+          "url": "https://www.fcbarcelona.com/en/news/4489292/phillip-cocu-frenkie-de-jongs-influence-is-key",
+          "source": "Official FC Barcelona Website"
         },
         {
-          "title": "Lazio set up Coppa Italia final with Inter after penalty shootout triumph against Atalanta",
+          "title": "De Jong Makes History with Record",
           "snippet": "",
-          "url": "https://www.flashscore.com/news/lazio-into-coppa-italia-final-after-penalty-shootout-triumph-against-atalanta/6ajohccU/",
-          "source": "Flashscore.com"
+          "url": "https://www.ysscores.com/en/news/13950701/De-Jong-Makes-History-with-Record",
+          "source": "www.ysscores.com"
         },
         {
-          "title": "Sarri on ‘amazing’ Lazio goalkeeper and fan hope for Coppa Italia Final",
+          "title": "Barcelona icon praises club captain on the verge of breaking his record – ‘Perfect profile for Barça’",
           "snippet": "",
-          "url": "https://football-italia.net/sarri-on-amazing-lazio-goalkeeper-coppa-italia/",
-          "source": "Football Italia"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "marc cucurella",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 22 Apr 2026 12:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReyVvCpl0irzI1Q0jnDKmZGcjO0817znQED6XF4PO-gqViaJra24BvoCOiNU8",
-      "pictureSource": "Chelsea official site",
-      "relatedSearch": [
-        {
-          "title": "Liam Rosenior provides update on Cole Palmer and Joao Pedro | News | Official Site",
-          "snippet": "",
-          "url": "https://www.chelseafc.com/en/news/article/liam-rosenior-provides-update-on-cole-palmer-and-joao-pedro-before-brighton",
-          "source": "Chelsea official site"
-        },
-        {
-          "title": "Marc Cucurella's barber and the 'leaked' Chelsea team news",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/articles/c5y9ee97j3lo",
-          "source": "BBC"
-        },
-        {
-          "title": "Brighton 3-0 Chelsea highlights",
-          "snippet": "",
-          "url": "https://www.skysports.com/football/live-blog/11668/13534098/brighton-vs-chelsea-live-premier-league-match-updates-news-score-stream-and-highlights",
-          "source": "Sky Sports"
+          "url": "https://sports.yahoo.com/articles/barcelona-icon-praises-club-captain-122000064.html",
+          "source": "Yahoo Sports"
         }
       ],
       "link": "https://imtaqin.id/"

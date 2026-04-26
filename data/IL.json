@@ -1,30 +1,86 @@
 {
-  "lastUpdate": "2026-04-25 23:52:14",
+  "lastUpdate": "2026-04-26 01:16:07",
   "data": [
+    {
+      "title": "cnn",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 25 Apr 2026 17:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTrl8Jot7NYvHH4h9bTZrlldYyozSciYvjqeM9ESUsFntY9CFFdif6MpswJdQ",
+      "pictureSource": "CNN",
+      "relatedSearch": [
+        {
+          "title": "Trump rushed off stage at White House Correspondents’ Dinner",
+          "snippet": "",
+          "url": "https://www.cnn.com/2026/04/25/politics/trump-rushed-white-house-correspondents-dinner",
+          "source": "CNN"
+        },
+        {
+          "title": "Trump evacuated from the White House correspondents’ dinner",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/2026/4/26/trump-evacuated-from-the-white-house-correspondents-dinner",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Trump rushed from White House correspondents' dinner after suspected gunshots heard",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/c1je28p42ret",
+          "source": "BBC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "trump",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 25 Apr 2026 17:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSuIJ7TJS8UdFNQhlK0kjTxpKTqM4BNUvVk8FLfAU0plQuomDskC7vTGJSiT9M",
+      "pictureSource": "Sky News",
+      "relatedSearch": [
+        {
+          "title": "Iran war latest: Trump cancels sending envoys for Iran talks and says 'we have all the cards'",
+          "snippet": "",
+          "url": "https://news.sky.com/story/iran-war-latest-trump-blockade-strait-of-hormuz-lebanon-13509565",
+          "source": "Sky News"
+        },
+        {
+          "title": "Day 56 of Middle East conflict - Uncertainty remains in US-Iran peace talks",
+          "snippet": "",
+          "url": "https://edition.cnn.com/2026/04/24/world/live-news/iran-war-trump-israel-lebanon",
+          "source": "CNN"
+        },
+        {
+          "title": "Iran-US war latest: Trump’s envoys leaving for Pakistan as Tehran denies direct talks",
+          "snippet": "",
+          "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-updates-trump-israel-falklands-b2964135.html",
+          "source": "The Independent"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "טל בן חיים",
       "trafficCount": "500+",
       "pubDate": "Sat, 25 Apr 2026 14:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8KAY4p1evL0v1eIuP50e47pzy_BQ1lFKasi0R4MIZwTyjGtUWqr8ELv5ThVw",
-      "pictureSource": "ספורט 1",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmFRY0XWohlUDCLsdNEqRHH-EpcBbAQ34jsemcxHOAhWXyyzDOZOEO8m2k3b0",
+      "pictureSource": "ONE - מספר 1 בספורט",
       "relatedSearch": [
         {
-          "title": "הריאיון הטעון הוא קצה הקרחון: כל פרטי הסכסוך בין ברק יצחקי לטל בן חיים",
+          "title": "\"מה שעושים ליצחקי מריח רע, נמאס כבר מקומבינות\"",
           "snippet": "",
-          "url": "https://sport1.maariv.co.il/israeli-soccer/ligat-haal/article/1834988/",
-          "source": "ספורט 1"
-        },
-        {
-          "title": "ברק יצחקי ביקר את טל בן חיים: \"תפסיק להיות פרשן של חברים\"",
-          "snippet": "",
-          "url": "https://sports.walla.co.il/item/3833073",
-          "source": "וואלה ספורט"
+          "url": "https://m.one.co.il/Mobile/Article/25-26/1,1,2,125967/520820.html?ref=hp",
+          "source": "ONE - מספר 1 בספורט"
         },
         {
           "title": "בשידור חי: צפו ביצחקי תוקף את בן חיים",
           "snippet": "",
           "url": "https://m.sport5.co.il/articles.aspx?FolderID=64&docID=542358&showHeader=false",
           "source": "ספורט 5"
+        },
+        {
+          "title": "ברק יצחקי ביקר את טל בן חיים: \"תפסיק להיות פרשן של חברים\"",
+          "snippet": "",
+          "url": "https://sports.walla.co.il/item/3833073",
+          "source": "וואלה ספורט"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -43,23 +99,23 @@
           "source": "ספורט 1"
         },
         {
-          "title": "\"ברצלונה פנתה רשמית לאתלטיקו לגבי סורלות'\"",
-          "snippet": "",
-          "url": "https://m.one.co.il/Mobile/Article/25-26/3,10,135,0/520063.html?ref=hp",
-          "source": "ONE - מספר 1 בספורט"
-        },
-        {
           "title": "הפתרון להתקפה? מילאן מעוניינת באלכסנדר סורלות'",
           "snippet": "",
           "url": "https://www.one.co.il/Article/520486.html",
           "source": "ONE"
+        },
+        {
+          "title": "מצאה מחליף ללבנדובסקי? ברצלונה פנתה רשמית לאחד החלוצים הגדולים באירופה",
+          "snippet": "",
+          "url": "https://sport1.maariv.co.il/world-soccer/article/1828276/",
+          "source": "ספורט 1"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "רעות כהן",
-      "trafficCount": "500+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 25 Apr 2026 13:50:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDlSqLT92NS3u2WnSBfRQV6rolT6_oUTVh0zhNOvVtSQDD0NeRkNhhZhYS0eo",
       "pictureSource": "ynet",
@@ -71,16 +127,16 @@
           "source": "ynet"
         },
         {
-          "title": "טרגדיה בשרון: יולדת והתאומות שבבטנה נפטרו לאחר שהתמוטטה בבית",
+          "title": "טרגדיה ברעננה: יולדת בת 35 ותאומיה מתו",
           "snippet": "",
-          "url": "https://www.mako.co.il/health-news/Article-98d04aaeec5cd91026.htm",
+          "url": "https://www.mako.co.il/news-lifestyle/2026_q2/Article-16f451494d5cd91027.htm",
           "source": "mako"
         },
         {
-          "title": "אסון מזעזע: יולדת בת 35 והתאומים נפטרו",
+          "title": "טרגדיה: יולדת והתאומים שלה נפטרו בפתאומיות",
           "snippet": "",
-          "url": "https://www.emess.co.il/radio/1860416",
-          "source": "אמס"
+          "url": "https://www.kan.org.il/content/kan-news/local/1033092/",
+          "source": "כאן 11"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -105,10 +161,10 @@
           "source": "Voetbal International"
         },
         {
-          "title": "KIJK. “Gewoon talent en intuïtie”: de wereldgoal van Mika Godts waardoor hij zelfs met Zlatan wordt vergeleken",
+          "title": "Regeer kijkt vooruit naar topper: 'PSV kennende staan ze gebrand in de Arena'",
           "snippet": "",
-          "url": "https://www.hln.be/eredivisie/kijk-gewoon-talent-en-intuitie-de-wereldgoal-van-mika-godts-waardoor-hij-zelfs-met-zlatan-wordt-vergeleken~a000f6fb/",
-          "source": "HLN"
+          "url": "https://www.voetbalprimeur.nl/nieuws/2082234/regeer-kijkt-vooruit-naar-duel-met-psv.html",
+          "source": "VoetbalPrimeur"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,13 +201,13 @@
       "title": "האח הגדול 2026",
       "trafficCount": "5000+",
       "pubDate": "Sat, 25 Apr 2026 13:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy2zB6yLR9fDL5r7M48XB_0YoL5LbJ_ZpbLqq5y2BDifnmxc5cjIxzf1a6X6I",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRl2clt6W6ZUd3QdVHcE-hyCNajI0tPmwUTS6GYUMUB2dOFQoY0xx3WJMe6r8c",
       "pictureSource": "רשת 13",
       "relatedSearch": [
         {
-          "title": "האח הגדול, עונה 8, פרק 26: אירוע הכניסה שישנה הכול! לצפייה ישירה - 13+",
+          "title": "\"האח הגדול\" 2026: אירוע הכניסה השנייה שהולך לשנות הכול",
           "snippet": "",
-          "url": "https://13tv.co.il/allshows/series/57/season/1/4384246/",
+          "url": "https://13tv.co.il/item/entertainment/the-big-brother/season-08/articles/q83pn-905106711/",
           "source": "רשת 13"
         },
         {
@@ -204,62 +260,6 @@
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "עדי הימלבלוי",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 25 Apr 2026 12:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvw39lcqWcKKURpyldKehd4orDVE5bAKd7pQu6gn6Ql6oZN_vSBSSHCL4xbH0",
-      "pictureSource": "mako",
-      "relatedSearch": [
-        {
-          "title": "שלב ההוכחות: עדי הימלבלוי והחבר החדש זיו שעיה מבלים שבת יחד",
-          "snippet": "",
-          "url": "https://www.mako.co.il/entertainment-celebs/local-2026/Article-11936e6daa5cd91027.htm",
-          "source": "mako"
-        },
-        {
-          "title": "לא צריכה חשבון טינדר: תכירו את בן הזוג החדש של עדי הימלבלוי",
-          "snippet": "",
-          "url": "https://pplus.ynet.co.il/rechilut/article/ryhuns00pbl",
-          "source": "פנאי פלוס"
-        },
-        {
-          "title": "אחרי הדיווחים על הזוגיות החדשה: סכסוך בין עדי הימלבלוי לגרוש נדב פלד?",
-          "snippet": "",
-          "url": "https://tmi.maariv.co.il/celebs-news/article-1313800",
-          "source": "TMI"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "israeli premier league",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 25 Apr 2026 12:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdMcfhRbZX6dz2wOhAZpmor2JU-6WCzawT3oARZymdfaUD7U_38VwC1_mmEZs",
-      "pictureSource": "The Jerusalem Post",
-      "relatedSearch": [
-        {
-          "title": "Beitar Jerusalem set for crunch championship showdown in Beersheba",
-          "snippet": "",
-          "url": "https://www.jpost.com/israel-news/sports/article-894025",
-          "source": "The Jerusalem Post"
-        },
-        {
-          "title": "Beitar rules Jerusalem derby; Beersheba takes first",
-          "snippet": "",
-          "url": "https://www.jpost.com/israel-news/sports/article-893009",
-          "source": "The Jerusalem Post"
-        },
-        {
-          "title": "המשימה - הישרדות: בני ריינה גברה 1:2 על אשדוד",
-          "snippet": "",
-          "url": "https://www.one.co.il/Article/520724.html",
-          "source": "ONE"
-        }
-      ],
       "link": "https://imtaqin.id/"
     }
   ]

@@ -1,9 +1,18 @@
 {
-  "lastUpdate": "2026-04-26 13:38:31",
+  "lastUpdate": "2026-04-26 14:26:05",
   "data": [
     {
+      "title": "синоптика",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 26 Apr 2026 06:30:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "bērns",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 26 Apr 2026 05:40:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSuaBb0F2TbEdVN9EyFICPz2nInLQQ4ROXhj2tPldQf4SOUTSLy7a8FltAEQIo",
       "pictureSource": "LA.LV",
@@ -31,7 +40,7 @@
     },
     {
       "title": "igaunija",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 26 Apr 2026 05:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_-AbPic7CvoGFXA86bB-rVjMLCOP1tXQkHyPg5ba-0N_xTYy2GOjonVrZyQw",
       "pictureSource": "Apollo.lv",
@@ -49,10 +58,10 @@
           "source": "LSM"
         },
         {
-          "title": "Svētdien neplānoti elektroapgādes traucējumi visvairāk skar Rīgas reģionu un Vidzemi / Raksts",
+          "title": "Visvairāk izsaukumu uz vēja postījumiem saņemti Rīgā un Pierīgā",
           "snippet": "",
-          "url": "https://www.lsm.lv/raksts/zinas/latvija/26.04.2026-svetdien-neplanoti-elektroapgades-traucejumi-visvairak-skar-rigas-regionu-un-vidzemi.a644572/",
-          "source": "LSM"
+          "url": "https://www.tvnet.lv/8459710/visvairak-izsaukumu-uz-veja-postijumiem-sanemti-riga-un-pieriga",
+          "source": "TVNET"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -87,20 +96,45 @@
     },
     {
       "title": "температура",
-      "trafficCount": "2000+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 26 Apr 2026 03:10:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY_KcCT0PzvHww133zfMCIzOSNf4bm66mu2zlcXao8fFoMy3WPeN9wVwxugrU",
+      "pictureSource": "LSM",
+      "relatedSearch": [
+        {
+          "title": "В начале мая в Латвии прогнозируют по-летнему теплую погоду / Статья",
+          "snippet": "",
+          "url": "https://rus.lsm.lv/statja/pogoda/pogoda/26.04.2026-v-nacale-maya-v-latvii-prognoziruyut-po-letnemu-tepluyu-pogodu.a644583/",
+          "source": "LSM"
+        },
+        {
+          "title": "Станет ли теплее? Синоптики сделали прогноз на начало мая",
+          "snippet": "",
+          "url": "https://rus.tvnet.lv/8459535/stanet-li-teplee-sinoptiki-sdelali-prognoz-na-nachalo-maya",
+          "source": "rus tvnet"
+        },
+        {
+          "title": "Резкое переключение: май начнётся почти с летнего тепла — надолго ли, пока неясно",
+          "snippet": "",
+          "url": "https://press.lv/comments/rezkoe-pereklyuchenie-maj-nachnyotsya-pochti-s-letnego-tepla-nadolgo-li-poka-neyasno",
+          "source": "Press.lv"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "vējš",
       "trafficCount": "5000+",
       "pubDate": "Sun, 26 Apr 2026 03:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqO6ZIpytc_8Xgc2lChtXajlfkOJVF65qBJ4hXMAg1Mt1s-zl1ATwU3RHDw8g",
-      "pictureSource": "LSM",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8zy41IadhhTlxsyy0fgdsGMwGYVEvPioQnJIAZdYvxzmYCzv7bmoQmLFjFOg",
+      "pictureSource": "TVNET",
       "relatedSearch": [
+        {
+          "title": "Visvairāk izsaukumu uz vēja postījumiem saņemti Rīgā un Pierīgā",
+          "snippet": "",
+          "url": "https://www.tvnet.lv/8459710/visvairak-izsaukumu-uz-veja-postijumiem-sanemti-riga-un-pieriga",
+          "source": "TVNET"
+        },
         {
           "title": "Svētdien neplānoti elektroapgādes traucējumi visvairāk skar Rīgas reģionu un Vidzemi / Raksts",
           "snippet": "",
@@ -108,15 +142,9 @@
           "source": "LSM"
         },
         {
-          "title": "Svētdien laikapstākļi nelutinās",
-          "snippet": "",
-          "url": "https://www.delfi.lv/laika-zinas/42384664/zinas/120116024/slapjs-sniegs-un-lietus-svetdien-laikapstakli-nelutinas",
-          "source": "Delfi"
-        },
-        {
           "title": "FOTO: Kas tie par jokiem? Latviju aprīļa izskaņā pārsteidzis sniegs un krusa! Valstī spēkā oranžais laikapstākļu brīdinājums",
           "snippet": "",
-          "url": "https://jauns.lv/raksts/zinas/706665-foto-kas-tie-par-jokiem-latviju-aprila-izskana-parsteidzis-sniegs-un-krusa-valsti-speka-oranzais-laikapstaklu-bridinajums",
+          "url": "https://jauns.lv/raksts/zinas/706665-foto-kas-tie-par-jokiem-latviju-aprila-izskana-parsteidzis-sniegs-un-krusa-valsti-speka-oranzais-laikapstaklu-bridinajums?utm_medium=Social&utm_source=Facebook&fbclid=IwY2xjawRa6jZleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR4fLfO610BJZDuC8w_XOpm_nQJCnDfY10RaQi88DhNJkSWj1DY1N61RXXHq1w_aem_2Pafq3nPJP9sxFqmRxnX-A",
           "source": "Jauns.lv"
         }
       ],
@@ -135,26 +163,26 @@
       "title": "jauns.lv",
       "trafficCount": "2000+",
       "pubDate": "Sat, 25 Apr 2026 22:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxTagJIyQ_4UjQqwIz3QbbQsJbeYvjDEyyHnAT76VnD3vr1mPrJltywr95oto",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbOqAF2GWiME8x1iKoMPdQhcnzK7hoodiIs85AGJaPDktyCTKvzyz7qQUb284",
       "pictureSource": "Jauns.lv",
       "relatedSearch": [
         {
-          "title": "Krištopans iekūlies pusmiljona eiro lielos parādos",
+          "title": "Mali notriekts Krievijas armijas helikopters ar desantvienību. VIDEO",
           "snippet": "",
-          "url": "https://jauns.lv/raksts/zinas/706675-kristopans-iekulies-pusmiljona-eiro-lielos-parados",
+          "url": "https://jauns.lv/raksts/arzemes/706708-mali-notriekts-krievijas-armijas-helikopters-ar-desantvienibu-video",
           "source": "Jauns.lv"
         },
         {
-          "title": "Saeimas deputāts Krištopans deklarējis 514 026 eiro parādus",
+          "title": "Mali turpinās uzbrukumi; ANO aicina uz koordinētu starptautisku reakciju / Raksts",
           "snippet": "",
-          "url": "https://www.delfi.lv/193/politics/120116040/saeimas-deputats-kristopans-deklarejis-514-026-eiro-paradsaistibas",
-          "source": "Delfi"
+          "url": "https://www.lsm.lv/raksts/zinas/arzemes/26.04.2026-mali-turpinas-uzbrukumi-ano-aicina-uz-koordinetu-starptautisku-reakciju.a644574/",
+          "source": "LSM"
         },
         {
-          "title": "Cik prāvu summu Krištopans pērn saņēmis par darbu Saeimā? Parādu cipars arī brangs",
+          "title": "Notriekts Krievijas Ārlietu ministrijas Āfrikas korpusa helikopters, visi gājuši bojā",
           "snippet": "",
-          "url": "https://www.la.lv/cik-pravu-summu-kristopans-pern-sanemis-par-darbu-saeima-paradu-cipars-ari-brangs",
-          "source": "LA.LV"
+          "url": "https://nra.lv/pasaule/519688-krievijas-helikoptera-katastrofa-mali-nav-izdzivojuso.htm",
+          "source": "nra"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,16 +201,16 @@
           "source": "Onlíner"
         },
         {
-          "title": "Фотофакт. Апрельский снег в Гродно",
-          "snippet": "",
-          "url": "https://www.sb.by/articles/fotofakt-aprelskiy-sneg-v--grodno.html",
-          "source": "Беларусь сегодня"
-        },
-        {
           "title": "Мокрый снег в Гродно - в объективе фотографа БЕЛТА",
           "snippet": "",
           "url": "https://belta.by/regions/view/mokryj-sneg-v-grodno-v-objektive-fotografa-belta-777404-2026/",
           "source": "БелТА"
+        },
+        {
+          "title": "Фотофакт. Апрельский снег в Гродно",
+          "snippet": "",
+          "url": "https://www.sb.by/articles/fotofakt-aprelskiy-sneg-v--grodno.html",
+          "source": "Беларусь сегодня"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,34 +239,6 @@
           "snippet": "",
           "url": "https://jauns.lv/raksts/sports/706655-rigas-zelli-atgustas-pec-pirma-zaudejuma-un-izlidzina-serijas-rezultatu-sakaujot-valmieriesus",
           "source": "Jauns.lv"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "alga",
-      "trafficCount": "2000+",
-      "pubDate": "Sat, 25 Apr 2026 19:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtGEeRft3y3y079d6d2C_tVJMAJJ6DtM7mckKh4DMDX_aCKPWzDyvaWR2TTvU",
-      "pictureSource": "LA.LV",
-      "relatedSearch": [
-        {
-          "title": "Soctīklotāji “parokas” publiski pieejamos finanšu datos un atklāj interesantu informāciju par “Elindy”",
-          "snippet": "",
-          "url": "https://www.la.lv/soctiklotaji-parokas-publiski-pieejamos-finansu-datos-un-atklaj-interesantu-informaciju-par-elindy",
-          "source": "LA.LV"
-        },
-        {
-          "title": "Atklāta VID vadītājas turība: deklarācijā parādās gan liela alga, gan informācija par viņas auto",
-          "snippet": "",
-          "url": "https://dzentlmenis.lv/atklata-vid-vaditajas-iespaidiga-bagatiba-deklaracija-paradas-gan-milzu-alga-gan-informacija-par-vinas-auto/262486/",
-          "source": "Dzentlmenis.lv"
-        },
-        {
-          "title": "Latvijas algas pret inflāciju: vai tiešām esam kļuvuši turīgāki nekā pirms pieciem gadiem?",
-          "snippet": "",
-          "url": "https://dzentlmenis.lv/latvijas-algas-pret-inflaciju-vai-tiesam-esam-kluvusi-turigaki-neka-pirms-pieciem-gadiem/262457/",
-          "source": "Dzentlmenis.lv"
         }
       ],
       "link": "https://imtaqin.id/"

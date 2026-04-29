@@ -1,58 +1,254 @@
 {
-  "lastUpdate": "2026-04-29 07:10:12",
+  "lastUpdate": "2026-04-29 09:23:02",
   "data": [
     {
-      "title": "giá vàng 29 4 2026",
+      "title": "trường công lập",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 29 Apr 2026 02:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKPgwj8PUqCh1BSZIp4khQHzds-L9aPs4-rL14rnltKMj9OCZqoD0idSJQqxo",
+      "pictureSource": "VnExpress",
+      "relatedSearch": [
+        {
+          "title": "22.000 học sinh Hà Nội bỏ thi lớp 10 công lập",
+          "snippet": "",
+          "url": "https://vnexpress.net/22-000-hoc-sinh-ha-noi-bo-thi-lop-10-cong-lap-5068034.html",
+          "source": "VnExpress"
+        },
+        {
+          "title": "Thi lớp 10 ở Hà Nội: Tỷ lệ chọi giữa nội thành và ngoại thành ngày càng phân hóa",
+          "snippet": "",
+          "url": "https://vov.vn/xa-hoi/thi-lop-10-o-ha-noi-ty-le-choi-giua-noi-thanh-va-ngoai-thanh-ngay-cang-phan-hoa-post1287886.vov",
+          "source": "VOV"
+        },
+        {
+          "title": "Một trường THPT chỉ có 24 thí sinh đăng ký nguyện vọng 1 vào lớp 10",
+          "snippet": "",
+          "url": "https://dantri.com.vn/giao-duc/mot-truong-thpt-chi-co-24-thi-sinh-dang-ky-nguyen-vong-1-vao-lop-10-20260428222528481.htm",
+          "source": "Báo Dân trí"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "giá xăng chiều nay",
       "trafficCount": "2000+",
-      "pubDate": "Tue, 28 Apr 2026 23:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhXhycU1UAEqTrl1EpZ2ovnhK3B_J_B2RK8nxLxEZnaRGm9mML1Pe8i2DNhm8",
+      "pubDate": "Wed, 29 Apr 2026 01:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYvcuDWVMD5tKfzRNDNCqPWV9V6Gc1cDSMkHuPEZWPyzfT4-h5K2tGEGlN-9g",
+      "pictureSource": "Laodong.vn",
+      "relatedSearch": [
+        {
+          "title": "Giá xăng dầu hôm nay 29.4: Đồng loạt giảm",
+          "snippet": "",
+          "url": "https://laodong.vn/kinh-doanh/gia-xang-dau-hom-nay-294-dong-loat-giam-1693423.ldo",
+          "source": "Laodong.vn"
+        },
+        {
+          "title": "UAE rút khỏi OPEC: Cuộc \"chia tay\" tái định hình Trung Đông",
+          "snippet": "",
+          "url": "https://dantri.com.vn/the-gioi/uae-rut-khoi-opec-cuoc-chia-tay-tai-dinh-hinh-trung-dong-20260429153529674.htm",
+          "source": "Báo Dân trí"
+        },
+        {
+          "title": "UAE rời OPEC+ có thể châm ngòi làn sóng rút lui trong liên minh dầu mỏ",
+          "snippet": "",
+          "url": "https://www.24h.com.vn/tin-tuc-quoc-te/uae-roi-opec-co-the-cham-ngoi-lan-song-rut-lui-trong-lien-minh-dau-mo-c415a1757460.html",
+          "source": "Tin tức 24h"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "lao động",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 29 Apr 2026 00:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSg9nJMemcFxEulDZk2G2RdstZxdqTjipyJ1IyEK-IyBau3Ly5f-mqro8wZ1Sk",
+      "pictureSource": "Cổng thông tin điện tử Nghệ An",
+      "relatedSearch": [
+        {
+          "title": "Phát động Tháng hành động về an toàn vệ sinh lao động, Tháng Công nhân trong CAND năm 2026",
+          "snippet": "",
+          "url": "http://congan.nghean.gov.vn/tin-tuc-su-kien/thong-tin-chi-dao-dieu-hanh/202604/phat-dong-thang-hanh-dong-ve-an-toan-ve-sinh-lao-dong-thang-cong-nhan-trong-cand-nam-2026-1056688/",
+          "source": "Cổng thông tin điện tử Nghệ An"
+        },
+        {
+          "title": "Hành động vì lợi ích người lao động",
+          "snippet": "",
+          "url": "https://chinhsachcuocsong.vnanet.vn/hanh-dong-vi-loi-ich-nguoi-lao-dong/85504.html",
+          "source": "chinhsachcuocsong.vnanet.vn"
+        },
+        {
+          "title": "Đẩy mạnh chăm lo cho đoàn viên – lao động trong Tháng Công nhân",
+          "snippet": "",
+          "url": "https://nld.com.vn/day-manh-cham-lo-cho-doan-vien-lao-dong-trong-thang-cong-nhan-196260428194736355.htm",
+          "source": "Báo Người Lao Động"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "người lao động",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 29 Apr 2026 00:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSAPvCr8iVBE9FAs4lJe4koMDQAPzUK-pdj35JpxFFA5AsZf9qInDHLCtnLtM",
+      "pictureSource": "Laodong.vn",
+      "relatedSearch": [
+        {
+          "title": "Sôi nổi hoạt động chăm lo đoàn viên người lao động dịp lễ ở Lâm Đồng",
+          "snippet": "",
+          "url": "https://laodong.vn/ldld-lam-dong/soi-noi-hoat-dong-cham-lo-doan-vien-nguoi-lao-dong-dip-le-o-lam-dong-1693792.ldo",
+          "source": "Laodong.vn"
+        },
+        {
+          "title": "Một công ty ở Đồng Nai chi 1,5 tỉ đồng thưởng lễ 30-4 và 1-5 cho người lao động",
+          "snippet": "",
+          "url": "https://nld.com.vn/mot-cong-ty-o-dong-nai-chi-15-ti-dong-thuong-le-30-4-va-1-5-cho-nguoi-lao-dong-196260429145207711.htm",
+          "source": "Báo Người Lao Động"
+        },
+        {
+          "title": "Trưởng Ban Nội chính Trung ương Lê Minh Trí tiếp xúc cử tri Đồng Nai",
+          "snippet": "",
+          "url": "https://vietnammedia.vnanet.vn/video/truong-ban-noi-chinh-trung-uong-le-minh-tri-tiep-xuc-cu-tri-dong-nai-185622.htm",
+          "source": "Trung tâm Nội dung số và Truyền thông"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "giá xăng dầu hôm nay 29 4",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 29 Apr 2026 00:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQf9url93F5aj2pZwzppkmpndd29xFYEx-lAifO7KJZZR-M-Z4kA-X-7ROcdi0",
       "pictureSource": "Tin tức 24h",
       "relatedSearch": [
         {
-          "title": "Giá vàng đồng loạt giảm rất mạnh",
+          "title": "Giá xăng dầu mới nhất áp dụng từ 15 giờ ngày 29-4",
           "snippet": "",
-          "url": "https://www.24h.com.vn/kinh-doanh/gia-vang-dong-loat-giam-rat-manh-c161a1757533.html",
+          "url": "https://www.24h.com.vn/thi-truong-tieu-dung/gia-xang-dau-moi-nhat-ap-dung-tu-15-gio-ngay-29-4-c52a1757666.html",
           "source": "Tin tức 24h"
         },
         {
-          "title": "Giá vàng nhẫn 9999 tại một doanh nghiệp thấp hơn SJC tới 11 triệu đồng/lượng",
+          "title": "Petrolimex điều chỉnh giá xăng dầu từ 15 giờ 00 phút ngày 29.4.2026",
           "snippet": "",
-          "url": "https://vneconomy.vn/gia-vang-nhan-9999-tai-mot-doanh-nghiep-thap-hon-sjc-toi-11-trieu-dongluong.htm",
-          "source": "VnEconomy"
+          "url": "https://www.petrolimex.com.vn/ndi/thong-cao-bao-chi/petrolimex-dieu-chinh-gia-xang-dau-tu-15-gio-00-phut-ngay-29-4-2026.html",
+          "source": "Petrolimex"
         },
         {
-          "title": "Giá vàng hôm nay: Giá vàng lùi về 166 triệu đồng trước nghỉ lễ",
+          "title": "Bộ Công Thương điều chỉnh giá xăng dầu trước kỳ nghỉ lễ 30-4",
           "snippet": "",
-          "url": "https://vnexpress.net/gia-vang-lui-ve-166-trieu-dong-truoc-nghi-le-5068231.html",
-          "source": "VnExpress"
+          "url": "https://tuoitre.vn/bo-cong-thuong-dieu-chinh-gia-xang-dau-truoc-ky-nghi-le-30-4-20260429145136785.htm",
+          "source": "Tuổi Trẻ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "daniil medvedev",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 29 Apr 2026 00:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTt0RgpLHcytx8wTMuuQ7Ingpv2CIXdXPHvfX7IgxUFmbZ83Gye0XOXRD7wSRU",
+      "pictureSource": "Bleacher Nation",
+      "relatedSearch": [
+        {
+          "title": "Medvedev vs. Cobolli Prediction at the Mutua Madrid Open – Tuesday, April 28",
+          "snippet": "",
+          "url": "https://www.bleachernation.com/picks/2026/04/27/medvedev-vs-cobolli-prediction-at-the-mutua-madrid-open-tuesday-april-28/",
+          "source": "Bleacher Nation"
+        },
+        {
+          "title": "Medvedev: \"It is a tough defeat, but I take very positive things for Rome and Madrid\"",
+          "snippet": "",
+          "url": "https://www.puntodebreak.com/en/2026/04/29/medvedev-it-is-tough-defeat-but-i-take-very-positive-things-for-rome-and-madrid",
+          "source": "Punto de Break"
+        },
+        {
+          "title": "Daniil Medvedev vs Flavio Cobolli Preview: Head-to-Head, Prediction for Madrid Open 2026",
+          "snippet": "",
+          "url": "https://www.profootballnetwork.com/tennis/daniil-medvedev-flavio-cobolli-preview-head-to-head-prediction-madrid-open-2026/",
+          "source": "PFSN"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "văn sỹ sơn",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 29 Apr 2026 00:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNfNoyU5mcUde4Fnn7mLmu_ffoZZI1dkchf4E3-Ff1LPNwdvf9QqiJqGenuw0",
+      "pictureSource": "CafeF",
+      "relatedSearch": [
+        {
+          "title": "Đình Bắc hội ngộ Quế Ngọc Hải sau cú hat-trick lịch sử nhưng nhan sắc mặt mộc của Hoa khôi ĐH Vinh mới chiếm spotlight",
+          "snippet": "",
+          "url": "https://cafef.vn/dinh-bac-hoi-ngo-que-ngoc-hai-sau-cu-hat-trick-lich-su-nhung-nhan-sac-mat-moc-cua-hoa-khoi-dh-vinh-moi-chiem-spotlight-188260428153424835.chn",
+          "source": "CafeF"
+        },
+        {
+          "title": "Nguyễn Đình Bắc bùng nổ tại V.League: Cuộc chuyển giao quyền lực trên hàng công?",
+          "snippet": "",
+          "url": "https://baonghean.vn/nguyen-dinh-bac-bung-no-tai-vleague-cuoc-chuyen-giao-quyen-luc-tren-hang-cong-10334847.html",
+          "source": "baonghean.vn"
+        },
+        {
+          "title": "Truyền thông Đông Nam Á “không thể tin nổi” với kỳ tích của Đình Bắc",
+          "snippet": "",
+          "url": "https://dantri.com.vn/the-thao/truyen-thong-dong-nam-a-khong-the-tin-noi-voi-ky-tich-cua-dinh-bac-20260427112728337.htm",
+          "source": "Báo Dân trí"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "geovane magno",
-      "trafficCount": "100+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 28 Apr 2026 23:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRHgoCUGM5YDl4eJmV0L4seLa5oSvaSuw7XVVxqv1KqDDaEs_OjfejEizROGw",
-      "pictureSource": "Báo Thanh Niên",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgNVjN5IcoaHN5GuzPuTrD8EMuj1NggpuZRKNTDcS7aJ3bJpsS3mkNIXQ_1A8",
+      "pictureSource": "Tin tức 24h",
       "relatedSearch": [
         {
-          "title": "Geovane chính thức có quốc tịch Việt Nam, lấy tên cực 'chất': Nguyễn Tài Lộc",
+          "title": "Geovane chính thức có quốc tịch Việt Nam, ĐT Việt Nam có \"tam tấu\" Son - Hên - Tài Lộc",
           "snippet": "",
-          "url": "https://thanhnien.vn/geovane-chinh-thuc-co-quoc-tich-viet-nam-lay-ten-cuc-chat-nguyen-tai-loc-185260429121321341.htm",
-          "source": "Báo Thanh Niên"
+          "url": "https://www.24h.com.vn/bong-da/geovane-chinh-thuc-co-quoc-tich-viet-nam-dt-viet-nam-co-tam-tau-son-hen-tai-loc-c48a1757613.html",
+          "source": "Tin tức 24h"
         },
         {
-          "title": "Geovane đã có quốc tịch Việt Nam, lấy tên \"Nguyễn Tài Lộc\"",
+          "title": "Ngôi sao Brazil nhập tịch Việt Nam, HLV Kim Sang Sik có “vũ khí mới”",
           "snippet": "",
-          "url": "https://danviet.vn/geovane-da-co-quoc-tich-viet-nam-lay-ten-nguyen-tai-loc-d1422624.html",
-          "source": "Báo Dân Việt"
+          "url": "https://dantri.com.vn/the-thao/ngoi-sao-brazil-nhap-tich-viet-nam-hlv-kim-sang-sik-co-vu-khi-moi-20260429155843269.htm",
+          "source": "Báo Dân trí"
         },
         {
           "title": "Geovane Magno nhập tịch Việt Nam, lấy tên Nguyễn Tài Lộc",
           "snippet": "",
           "url": "https://tuoitre.vn/geovane-magno-nhap-tich-viet-nam-lay-ten-nguyen-tai-loc-2026042913313875.htm",
           "source": "Tuổi Trẻ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "giá vàng 29 4 2026",
+      "trafficCount": "2000+",
+      "pubDate": "Tue, 28 Apr 2026 23:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMLAOBN01yDyrUkssONK31HsUflbSlnf8TaNLZ4n7H__6af8EY4lYeGvUr5Iw",
+      "pictureSource": "Laodong.vn",
+      "relatedSearch": [
+        {
+          "title": "Giá vàng giảm, cửa hàng không giới hạn bán ra trước kỳ nghỉ lễ",
+          "snippet": "",
+          "url": "https://laodong.vn/tien-te-dau-tu/gia-vang-giam-cua-hang-khong-gioi-han-ban-ra-truoc-ky-nghi-le-1693595.ldo",
+          "source": "Laodong.vn"
+        },
+        {
+          "title": "Giá vàng hôm nay: Giá vàng lùi về 166 triệu đồng trước nghỉ lễ",
+          "snippet": "",
+          "url": "https://vnexpress.net/gia-vang-lui-ve-166-trieu-dong-truoc-nghi-le-5068231.html",
+          "source": "VnExpress"
+        },
+        {
+          "title": "Giá vàng giảm sâu, người dân Hà Nội xếp hàng 'bắt đáy’, người bán vắng bóng",
+          "snippet": "",
+          "url": "https://vietnamnet.vn/gia-vang-giam-sau-nguoi-dan-ha-noi-xep-hang-bat-day-nguoi-ban-vang-bong-2511093.html",
+          "source": "Báo VietNamNet"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -81,202 +277,6 @@
           "snippet": "",
           "url": "https://www.ch-aviation.com/news/166562-vietjetair-expects-to-add-first-a330-900n-in-2026",
           "source": "ch-aviation"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "el niño",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 28 Apr 2026 23:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDEqWyaYDV3GT64LJlBC-P6YzHiu1ksE0YEeNk8rDTkr8Q37Wkzeekw1OzK-s",
-      "pictureSource": "IFRC",
-      "relatedSearch": [
-        {
-          "title": "El “Súper Niño” 2026: ¿Cómo nos preparamos para sus efectos en América Latina y el Caribe?",
-          "snippet": "",
-          "url": "https://www.ifrc.org/es/articulo/el-super-nino-2026-como-nos-preparamos-para-sus-efectos-en-america-latina-y-el-caribe",
-          "source": "IFRC"
-        },
-        {
-          "title": "El Niño Global se aproxima al Perú ¿Qué tan preparados estamos?",
-          "snippet": "",
-          "url": "https://www.atv.pe/noticia/el-nino-global-se-aproxima-al-peru-que-tan-preparados-estamos/",
-          "source": "ATV - Atrevámonos"
-        },
-        {
-          "title": "Se esperan temperaturas por arriba del promedio histórico, revela SMN; Fenómeno de 'El Niño' ocasionará intensa humedad en junio",
-          "snippet": "",
-          "url": "http://www.gobernantes.com/vernota.php?id=514391",
-          "source": "Gobernantes.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "doanh nghiệp",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 28 Apr 2026 23:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTo130Mio9fGMSgYsZlvLvXBNiLSWh_HCnULXIy9hUEuS4nu505VJ2IA5ncejU",
-      "pictureSource": "Báo Thanh Niên",
-      "relatedSearch": [
-        {
-          "title": "Xác lập tầm vóc mới cho siêu đô thị TP.HCM",
-          "snippet": "",
-          "url": "https://thanhnien.vn/xac-lap-tam-voc-moi-cho-sieu-do-thi-tphcm-185260428185228862.htm",
-          "source": "Báo Thanh Niên"
-        },
-        {
-          "title": "Hiện đại hóa hạ tầng TP.HCM: Sức hấp dẫn của các đại dự án",
-          "snippet": "",
-          "url": "https://baodauthau.vn/hien-dai-hoa-ha-tang-tphcm-suc-hap-dan-cua-cac-dai-du-an-post197901.html",
-          "source": "Báo Đấu thầu"
-        },
-        {
-          "title": "TP.HCM, đất lành cho doanh nghiệp vươn tầm",
-          "snippet": "",
-          "url": "https://tuoitre.vn/tp-hcm-dat-lanh-cho-doanh-nghiep-vuon-tam-20260428221805225.htm",
-          "source": "Tuổi Trẻ"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "one championship",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 28 Apr 2026 23:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSsOFv8Px8jJQTpe39vtTyCAJ6vHbocORcqJI7Irg0ks1892Hshw7UTNHpbaX0",
-      "pictureSource": "ONE Championship",
-      "relatedSearch": [
-        {
-          "title": "ONE SAMURAI 1 – Results And Highlights For Every Fight",
-          "snippet": "",
-          "url": "https://www.onefc.com/news/one-samurai-1-results-and-highlights-for-every-fight/",
-          "source": "ONE Championship"
-        },
-        {
-          "title": "Takeru says Rodtang rematch \"will define my career\" as he eyes ONE gold in farewell fight",
-          "snippet": "",
-          "url": "https://www.bjpenn.com/mma-news/takeru-segawa/takeru-says-rodtang-rematch-will-define-my-career-as-he-eyes-one-gold-in-farewell-fight/",
-          "source": "BJPenn.com"
-        },
-        {
-          "title": "‘Truly Grateful To Him’ – The Japanese Stars of ONE SAMURAI 1 Share Emotional Takes On Takeru’s Retirement",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/articles/truly-grateful-him-japanese-stars-210526088.html",
-          "source": "Yahoo Sports"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "vietjet",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 28 Apr 2026 23:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRii_Hi4dr8xnKk1jUBU78hzmP--czk-RKPk4nMNbewDSy8_Ws7uPptsjgdcA",
-      "pictureSource": "Tuổi Trẻ",
-      "relatedSearch": [
-        {
-          "title": "Vietjet báo lãi 2025 tăng hơn 50%, chia cổ tức 30%",
-          "snippet": "",
-          "url": "https://tuoitre.vn/vietjet-bao-lai-2025-tang-hon-50-chia-co-tuc-30-20260427181335701.htm",
-          "source": "Tuổi Trẻ"
-        },
-        {
-          "title": "Nóng: Vietjet sẽ mở đường bay tới loạt nước châu Âu ngay trong năm nay",
-          "snippet": "",
-          "url": "https://kenh14.vn/nong-vietjet-se-mo-duong-bay-toi-loat-nuoc-chau-au-ngay-trong-nam-nay-215260428074924792.chn",
-          "source": "Kenh14.vn"
-        },
-        {
-          "title": "Vietjet chia cổ tức 30%, thu hút đầu tư quốc tế",
-          "snippet": "",
-          "url": "https://vnexpress.net/vietjet-chia-co-tuc-30-thu-hut-dau-tu-quoc-te-5067547.html",
-          "source": "VnExpress"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "nga",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 28 Apr 2026 22:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4MzSwMAzdWCiyTK-DVv6Y-9N7oHa290nTYkRnoJBVeM9J16c2Hfz74b9RrIA",
-      "pictureSource": "Tin tức 24h",
-      "relatedSearch": [
-        {
-          "title": "Mỹ thừa nhận điểm yếu trước vũ khí của Nga và Trung Quốc",
-          "snippet": "",
-          "url": "https://www.24h.com.vn/tin-tuc-quoc-te/my-thua-nhan-diem-yeu-truoc-vu-khi-cua-nga-va-trung-quoc-c415a1757466.html",
-          "source": "Tin tức 24h"
-        },
-        {
-          "title": "Lầu Năm Góc bất ngờ thừa nhận sự ‘lép vế’ trước vũ khí siêu vượt âm của Nga và Trung Quốc",
-          "snippet": "",
-          "url": "https://baotintuc.vn/ho-so-quan-su/lau-nam-goc-bat-ngo-thua-nhan-su-lep-ve-truoc-vu-khi-sieu-vuot-am-cua-nga-va-trung-quoc-20260429073042226.htm",
-          "source": "baotintuc.vn"
-        },
-        {
-          "title": "\"Vòm Vàng\" của ông Trump nhằm mục đích chống \"vũ khí siêu thanh và tên lửa hành trình\" Trung Quốc",
-          "snippet": "",
-          "url": "https://viettimes.vn/vom-vang-cua-ong-trump-nham-muc-dich-chong-vu-khi-sieu-thanh-va-ten-lua-hanh-trinh-trung-quoc-post197163.html",
-          "source": "VIETTIMES"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "rodtang vs takeru",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 28 Apr 2026 22:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIPBDpEPgPnR9tT3-F9dKAHr8zZ7lmw0fdmQK95NcAN7_CyzR6PFnv2QoP8Do",
-      "pictureSource": "Thể Thao 247",
-      "relatedSearch": [
-        {
-          "title": "Trực tiếp ONE SAMURAI 1: Rodtang vs Takeru 2, 12h30 hôm nay 29/4",
-          "snippet": "",
-          "url": "https://thethao247.vn/463-truc-tiep-one-samurai-1-rodtang-vs-takeru-2-12h30-hom-nay-29-4-d418600.html",
-          "source": "Thể Thao 247"
-        },
-        {
-          "title": "Rodtang thề sẽ phá hỏng bữa tiệc chia tay của Takeru tại ONE Samurai: \"Trái tim tôi rắn hơn thép\"",
-          "snippet": "",
-          "url": "https://webthethao.vn/mma-boxing/rodtang-the-se-pha-hong-bua-tiec-chia-tay-cua-takeru-tai-one-samurai-trai-tim-toi-ran-hon-thep-iPbwocWgg.htm",
-          "source": "Webthethao.vn"
-        },
-        {
-          "title": "'Thần cước' Muay Thái dự đoán trận Rodtang đấu cao thủ Nhật Bản Takeru",
-          "snippet": "",
-          "url": "https://vtcnews.vn/than-cuoc-muay-thai-du-doan-tran-rodtang-dau-cao-thu-nhat-ban-takeru-ar1014662.html",
-          "source": "Báo điện tử VTC News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "nguyễn đình bắc",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 28 Apr 2026 22:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQeXmRWC1Om2sFc64KK6CGuzyPjwsq3Z_dCF-dH_LPDtsl1B1ZUok7dRiGLoRc",
-      "pictureSource": "Báo Dân trí",
-      "relatedSearch": [
-        {
-          "title": "Truyền thông Đông Nam Á ví Đình Bắc như Messi, tiết lộ bến đỗ ở nước ngoài",
-          "snippet": "",
-          "url": "https://dantri.com.vn/the-thao/truyen-thong-dong-nam-a-vi-dinh-bac-nhu-messi-tiet-lo-ben-do-o-nuoc-ngoai-20260429103143468.htm",
-          "source": "Báo Dân trí"
-        },
-        {
-          "title": "Báo Đông Nam Á: 'Đại gia Nhật Bản muốn mua Đình Bắc'",
-          "snippet": "",
-          "url": "https://tuoitre.vn/bao-dong-nam-a-dai-gia-nhat-ban-muon-mua-dinh-bac-2026042903261682.htm",
-          "source": "Tuổi Trẻ"
-        },
-        {
-          "title": "“Nguyễn Đình Bắc và Nguyễn Xuân Son có thể trở thành “song sát” toàn diện nhất lịch sử ĐT Việt Nam”",
-          "snippet": "",
-          "url": "https://tin.skydoor.net/news/Nguyen_Dinh_Bac_va_Nguyen_Xuan_Son_co_the_tro_thanh_song_sat/8278691",
-          "source": "SkyDoor News"
         }
       ],
       "link": "https://imtaqin.id/"

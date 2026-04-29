@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-29 11:11:16",
+  "lastUpdate": "2026-04-29 12:52:46",
   "data": [
     {
       "title": "oscar bobb",
@@ -31,7 +31,7 @@
     },
     {
       "title": "arbeiderpartiet",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Wed, 29 Apr 2026 01:20:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-GW-wbc1OlzTpZ5GCyGhUH5OHV2o2IGe2Wx3h298I7a1Du9XUVHlfA-CV_w",
       "pictureSource": "NRK",
@@ -43,16 +43,16 @@
           "source": "NRK"
         },
         {
-          "title": "Gir etter for presset",
-          "snippet": "",
-          "url": "https://www.dagbladet.no/nyheter/gir-etter-for-presset/84552803",
-          "source": "Dagbladet"
-        },
-        {
           "title": "LO-topp: – Frp er ikke et parti for arbeidsfolk",
           "snippet": "",
           "url": "https://frifagbevegelse.no/nyheter/lotopp--frp-er-ikke-et-parti-for-arbeidsfolk-6.158.1208649.97f1251be9",
           "source": "FriFagbevegelse"
+        },
+        {
+          "title": "Gir etter for presset",
+          "snippet": "",
+          "url": "https://www.dagbladet.no/nyheter/gir-etter-for-presset/84552803",
+          "source": "Dagbladet"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -83,15 +83,9 @@
       "title": "turøy ulykken",
       "trafficCount": "200+",
       "pubDate": "Tue, 28 Apr 2026 23:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUe-n3BR5vojuCieoCv-oOqv8tbAxb_DpBStHkMKOwGUGZ_WJe-tSQVH5M7C0",
-      "pictureSource": "Bergens Tidende",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKbTyVG2u7P11QksZGHSDrUAsSWai2xg-ch0rdALPc4hIS9Whjv2jZWzRFWMQ",
+      "pictureSource": "NRK",
       "relatedSearch": [
-        {
-          "title": "Helikopterulykken på Turøy: Her hedres de 13 som ikke kom hjem",
-          "snippet": "",
-          "url": "https://www.bt.no/hendelser/i/ExbzBa/helikopterulykken-paa-turoey-her-hedres-de-13-som-ikke-kom-hjem",
-          "source": "Bergens Tidende"
-        },
         {
           "title": "Ti år etter Turøy-ulykka: Helikopter-tryggleiken blei endra",
           "snippet": "",
@@ -99,10 +93,16 @@
           "source": "NRK"
         },
         {
-          "title": "– Deres redsel for at noe skulle skje med meg på jobb, ble forsterket av ulykken",
+          "title": "Ti år siden Turøy-ulykken: – Savnet er helt sinnssykt. Jeg tenker på ham hver eneste dag",
           "snippet": "",
-          "url": "https://www.vestnytt.no/nyheter/n/0pB1VJ/deres-redsel-for-at-noe-skulle-skje-med-meg-paa-jobb-ble-forsterket-av-ulykken",
-          "source": "vestnytt.no"
+          "url": "https://www.aftenbladet.no/okonomi/i/5p3MOm/agate-og-lasse-vasstveit-om-aa-miste-faren-i-helikopterstyrtet-paa-turoey",
+          "source": "Stavanger Aftenblad"
+        },
+        {
+          "title": "Helikopterulykken på Turøy: Her hedres de 13 som ikke kom hjem",
+          "snippet": "",
+          "url": "https://www.bt.no/hendelser/i/ExbzBa/helikopterulykken-paa-turoey-her-hedres-de-13-som-ikke-kom-hjem",
+          "source": "Bergens Tidende"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -111,9 +111,15 @@
       "title": "hetebølge",
       "trafficCount": "200+",
       "pubDate": "Tue, 28 Apr 2026 22:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_jsKBl4vAVU_KaUu6o2bcNzF87q8uIKcSvubx5_YemXgTZHZxeHbUCDtKm88",
-      "pictureSource": "NRK",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1f_1DVto1AYXNyEWtrs1xKovzI_36eHHjOWTU6lYJzPwVURU9lOYfjjhIS1s",
+      "pictureSource": "Dagbladet",
       "relatedSearch": [
+        {
+          "title": "- Får kraftige utslag i Norden",
+          "snippet": "",
+          "url": "https://www.dagbladet.no/nyheter/far-kraftige-utslag-i-norden/84554625",
+          "source": "Dagbladet"
+        },
         {
           "title": "Klimaendringene gjør at Europa varmes opp dobbelt så fort som verden",
           "snippet": "",
@@ -125,12 +131,6 @@
           "snippet": "",
           "url": "https://www.nrk.no/nordland/hetebolgen-i-fjor-sommer-den-lengste-som-noen-gang-er-registrert-1.17865399",
           "source": "NRK"
-        },
-        {
-          "title": "- Får kraftige utslag i Norden",
-          "snippet": "",
-          "url": "https://www.dagbladet.no/nyheter/far-kraftige-utslag-i-norden/84554625",
-          "source": "Dagbladet"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -167,26 +167,26 @@
       "title": "usa",
       "trafficCount": "500+",
       "pubDate": "Tue, 28 Apr 2026 21:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlj51oW3nWk5CUMuxrlNvQX8hLFlBihGzsqO9vCtl5_M2srqryQAMB3UBDkLg",
-      "pictureSource": "Financial Times",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStXIBHW0pdZAIm_ZfcLy-eBKskqYlIwQoXAgPT1gEDD-Xgo6TTmROJXaT8pis",
+      "pictureSource": "The New York Times",
       "relatedSearch": [
         {
-          "title": "EU countries struggle to replenish gas reserves for winter",
+          "title": "Beneath King Charles’s Jokes and Decorum, Some Subtle Rebuttals to Trump",
           "snippet": "",
-          "url": "https://www.ft.com/content/6ca188b0-a4fb-42b4-bc8a-9f5ef3392641?syn-25a6b1a6=1",
-          "source": "Financial Times"
+          "url": "https://www.nytimes.com/2026/04/28/us/politics/king-charles-trump-rebuke.html",
+          "source": "The New York Times"
         },
         {
-          "title": "International LNG prices rise amid Strait of Hormuz closure",
+          "title": "Live updates: King Charles III, Queen Camilla to attend 9/11 memorial event in New York",
           "snippet": "",
-          "url": "https://www.eia.gov/todayinenergy/detail.php?id=67604",
-          "source": "U.S. Energy Information Administration (EIA) (.gov)"
+          "url": "https://www.cnn.com/2026/04/29/us/live-news/king-charles-queen-camilla-us-visit",
+          "source": "CNN"
         },
         {
-          "title": "Global Natural Gas Price Rally Loses Steam as Hopes Grow Iran Could Reopen Strait of Hormuz",
+          "title": "Jeff Bezos and Tim Cook Among Guests at State Dinner Honoring King Charles III and Queen Camilla",
           "snippet": "",
-          "url": "https://naturalgasintel.com/news/global-natural-gas-price-rally-loses-steam-as-hopes-grow-iran-could-reopen-strait-of-hormuz/",
-          "source": "Natural Gas Intelligence"
+          "url": "https://www.wsj.com/politics/policy/jeff-bezos-and-tim-cook-among-guests-at-state-dinner-honoring-king-charles-iii-and-queen-camilla-6b60b9d5",
+          "source": "WSJ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -195,26 +195,26 @@
       "title": "taxi",
       "trafficCount": "100+",
       "pubDate": "Tue, 28 Apr 2026 18:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTH89wZrAn40UeXiQej44an9qpCGVHvYJeZbK5BG_OkuMdZGom1ZsiSuVj2Ous",
-      "pictureSource": "hanoimoi.vn",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3I0nNfowMviYYBC9mmWQmwLpM_GgpxFE31jskN4Hkm58cH3ZW6tzs9wFRFT8",
+      "pictureSource": "Báo VietNamNet",
       "relatedSearch": [
         {
-          "title": "Taxi bay điện lần đầu cất cánh tại Mỹ",
+          "title": "Xác minh clip người đàn ông nhảy khỏi taxi sau cãi vã với bạn gái, bị xe máy tông",
           "snippet": "",
-          "url": "https://hanoimoi.vn/taxi-bay-dien-lan-dau-cat-canh-tai-my-747384.html",
-          "source": "hanoimoi.vn"
+          "url": "https://vietnamnet.vn/xac-minh-clip-nguoi-dan-ong-lao-khoi-taxi-sau-cai-va-voi-ban-gai-bi-xe-may-tong-2511228.html",
+          "source": "Báo VietNamNet"
         },
         {
-          "title": "Joby Aviation thử nghiệm taxi bay điện tại New York: Tham vọng thương mại hóa eVTOL vào 2026",
+          "title": "Sau màn cãi cọ, người đàn ông nhảy khỏi ô tô đang chạy",
           "snippet": "",
-          "url": "https://lag.vn/tin/cong-nghe/joby-aviation-thu-nghiem-taxi-bay-dien-tai-new-york-tham-vong-thuong-mai-hoa-evtol-vao-2026.html",
-          "source": "Lag.vn"
+          "url": "https://tienphong.vn/sau-man-cai-co-nguoi-dan-ong-nhay-khoi-o-to-dang-chay-post1839608.tpo",
+          "source": "Báo điện tử Tiền Phong"
         },
         {
-          "title": "Joby thực hiện các chuyến bay thử nghiệm taxi bay điểm-điểm đầu tiên tại New York",
+          "title": "Người đàn ông ngoại quốc nhảy khỏi ôtô sau khi cãi nhau với bạn gái",
           "snippet": "",
-          "url": "https://vn.investing.com/news/company-news/joby-thuc-hien-cac-chuyen-bay-thu-nghiem-taxi-bay-diemdiem-dau-tien-tai-new-york-93CH-2597283",
-          "source": "Investing.com Việt Nam"
+          "url": "https://znews.vn/video-nguoi-dan-ong-ngoai-quoc-nhay-khoi-oto-sau-khi-cai-nhau-voi-ban-gai-post1647245.html",
+          "source": "Znews"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -251,14 +251,14 @@
       "title": "helena bonham carter",
       "trafficCount": "500+",
       "pubDate": "Tue, 28 Apr 2026 14:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGkDNW1ZHcBChpuN3b1GQPr6J3sxKXRZJiXnVWERJX3Igj9xJ7MHqIBhytnr0",
-      "pictureSource": "Deadline",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxxUwM1ADexvIJSCAWOj9GFhUd4B2cHkB2OGlh-aNVZDF7aYhCxbuGpLBoDHA",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "'The White Lotus' Season 4: Laura Dern Replacing Helena Bonham Carter",
+          "title": "Laura Dern replaces Helena Bonham Carter in The White Lotus",
           "snippet": "",
-          "url": "https://deadline.com/2026/04/laura-dern-white-lotus-season-4-helena-bonham-carter-recast-1236874366/",
-          "source": "Deadline"
+          "url": "https://www.bbc.com/news/articles/cx218w742jzo",
+          "source": "BBC"
         },
         {
           "title": "‘White Lotus’ Season 4 Casts Laura Dern",

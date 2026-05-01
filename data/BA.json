@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-01 20:38:01",
+  "lastUpdate": "2026-05-01 21:32:55",
   "data": [
     {
       "title": "velež – radnik",
@@ -23,26 +23,26 @@
       "title": "политика",
       "trafficCount": "100+",
       "pubDate": "Fri, 1 May 2026 10:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN2rkcv3QmgT7mJMOIlPoMDwb3UusOXd1l8JRjitb84-DoqW8f4FR3KX2ijic",
-      "pictureSource": "Українська правда",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpP9f9bfyRuDTrxIIF6Ee3R4n9oZRS-olesvswlMOGHCR0-IrekOzd5C1DcRw",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "СМИ: Белый дом заявил Конгрессу, что боевые действия против Ирана \"завершились\", несмотря на присутствие там",
+          "title": "Азербайджан прекращает сотрудничество с Европарламентом. Но газ в Европу идет по плану",
           "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2026/05/01/8032772/",
-          "source": "Українська правда"
+          "url": "https://www.bbc.com/russian/articles/cvgzeejpr7eo",
+          "source": "BBC"
         },
         {
-          "title": "Трамп заявил конгрессменам, что боевые действия с Ираном «прекращены». Так он пытается прекратить спор о том, что конгресс должен одобрить войну",
+          "title": "МИД Азербайджана вручил ноту протеста послу ЕС из-за резолюции Европарламента",
           "snippet": "",
-          "url": "https://meduza.io/news/2026/05/01/tramp-zayavil-kongressmenam-chto-boevye-deystviya-s-iranom-prekrascheny-tak-on-pytaetsya-prekratit-spor-o-tom-chto-kongress-dolzhen-odobrit-voynu",
-          "source": "Meduza"
-        },
-        {
-          "title": "Трамп проинформировал Конгресс, что считает операцию в Иране завершенной",
-          "snippet": "",
-          "url": "https://www.interfax.ru/world/1087223",
+          "url": "https://www.interfax.ru/world/1087156",
           "source": "Интерфакс"
+        },
+        {
+          "title": "Азербайджан приостановил сотрудничество с Европарламентом",
+          "snippet": "",
+          "url": "https://rus.err.ee/1610012086/azerbajdzhan-priostanovil-sotrudnichestvo-s-evroparlamentom",
+          "source": "ERR"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -58,7 +58,7 @@
     },
     {
       "title": "međunarodni praznik rada",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Fri, 1 May 2026 09:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqY8IfGOISd7iNmQKHM3knfzNe-ukpRb_TJzHUGm-qy4hViLm-14f6gWW5Zps",
       "pictureSource": "Klix.ba",
@@ -76,10 +76,10 @@
           "source": "Dnevni avaz"
         },
         {
-          "title": "Praznik rada: Sve je počelo prije 140 godina masakrom u Chicagu",
+          "title": "(FOTO) Protesti širom svijeta povodom Prvog maja zbog rata, cijena i radničkih prava",
           "snippet": "",
-          "url": "https://bljesak.info/magazin/zanimljivosti/praznik-rada-sve-je-pocelo-prije-140-godina-masakrom-u-chicagu/560023",
-          "source": "Bljesak.info"
+          "url": "https://www.oslobodjenje.ba/vijesti/svijet/foto-protesti-sirom-svijeta-povodom-prvog-maja-zbog-rata-cijena-i-radnickih-prava/",
+          "source": "Oslobođenje"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -88,9 +88,28 @@
       "title": "tarik prusac",
       "trafficCount": "5000+",
       "pubDate": "Fri, 1 May 2026 09:20:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSn7Am48WzIi4cLszXQbPimNANbJYlE7YHqfqkk9h3Fnge6Xgkfb5WVNLgCrY4",
+      "pictureSource": "Klix.ba",
+      "relatedSearch": [
+        {
+          "title": "Poznat identitet ubijene žene na Dobrinji, riječ je o Elmi Godinjak-Prusac",
+          "snippet": "",
+          "url": "https://www.klix.ba/vijesti/crna-hronika/poznat-identitet-ubijene-zene-na-dobrinji-rijec-je-o-elmi-godinjak-prusac/260501117",
+          "source": "Klix.ba"
+        },
+        {
+          "title": "Muškarac ubio partnerku pa pobjegao s djetetom, naoružan je",
+          "snippet": "",
+          "url": "https://avaz.ba/vijesti/crna-hronika/1039096/muskarac-ubio-partnerku-pa-pobjegao-s-djetetom-naoruzan-je",
+          "source": "Dnevni avaz"
+        },
+        {
+          "title": "Femicid u Sarajevu: Uhapšen osumnjičeni Tarik Prusac",
+          "snippet": "",
+          "url": "https://radiosarajevo.ba/vijesti/crna-hronika/uhapsen-osumnjiceni-za-femicid-na-dobrinji/635726",
+          "source": "Radio Sarajevo"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {

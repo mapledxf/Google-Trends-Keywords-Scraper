@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2026-05-02 19:43:50",
+  "lastUpdate": "2026-05-02 20:24:05",
   "data": [
     {
-      "title": "monaco",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 2 May 2026 12:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuD9w30VBqedVNXFfkhslep83S2vZSSVTIFLymL5xPynnaA3FgURo2SHaP2CA",
-      "pictureSource": "Nice-Matin",
+      "title": "barcelona vs osasuna",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 2 May 2026 12:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkrFA1B7d2-tAAetAZSXJ0_2f4WykKqXzKiFQweAmDXnVQ1kGUxTpPV-6ujU4",
+      "pictureSource": "Diario AS",
       "relatedSearch": [
         {
-          "title": "Paul Pogba vers une titularisation avec l’AS Monaco contre Metz ce samedi",
+          "title": "Alineación confirmada del Barcelona hoy ante Osasuna en LaLiga EA Sports: Eric se ‘vestirá’ de Koundé",
           "snippet": "",
-          "url": "https://www.nicematin.com/sports/football/paul-pogba-vers-une-titularisation-avec-l-as-monaco-contre-metz-ce-samedi-10679018",
-          "source": "Nice-Matin"
+          "url": "https://as.com/futbol/alineacion-confirmada-del-barcelona-hoy-ante-osasuna-en-laliga-ea-sports-eric-se-vestira-de-kounde-f202605-n/",
+          "source": "Diario AS"
         },
         {
-          "title": "FCM-ASM : une victoire folle sur le fil",
+          "title": "Lewandowski, titular en Pamplona",
           "snippet": "",
-          "url": "https://asm-supporters.fr/actualites/65884-fcm-asm-une-victoire-folle-sur-le-fil",
-          "source": "ASM-Supporters"
+          "url": "https://es-us.noticias.yahoo.com/deportes/lewandowski-titular-pamplona-181024267.html",
+          "source": "Yahoo"
         },
         {
-          "title": "Ansu Fati sauve Monaco et condamne officiellement Metz à la Ligue 2",
+          "title": "Budimir pone en peligro el alirón, pero Joan Garcia salva los muebles",
           "snippet": "",
-          "url": "https://www.eurosport.fr/football/ligue-1/2025-2026/ligue-1-buteur-dans-le-temps-additionnel-ansu-fati-sauve-las-monaco-dans-sa-mission-c1-face-a-un-metz-vaillant-mais-condamne-a-la-descente-1-2_sto23295894/story.shtml",
-          "source": "Eurosport"
+          "url": "https://www.sport.es/es/noticias/barca/budimir-pone-peligro-aliron-joan-129780717",
+          "source": "SPORT"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "united kingdom",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 2 May 2026 12:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSY06P-wzZKOZ9yGlzkCXDZfKn1hrhu2TzkLzzipTnZZOCg1beNRCJy1HoW4-o",
+      "pictureSource": "Al Jazeera",
+      "relatedSearch": [
+        {
+          "title": "US embassy warns citizens in UK as threat level raised to ‘severe’",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/2026/5/2/us-embassy-warns-citizens-in-uk-as-threat-level-raised-to-severe",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Toronto police 'maintaining heightened presence' after U.K. increases threat level to severe",
+          "snippet": "",
+          "url": "https://nationalpost.com/news/canada/police-release-images-of-suspect-and-vehicle-in-toronto-area-synagogue-shootings",
+          "source": "National Post"
+        },
+        {
+          "title": "The Terror Britain Bought Itself",
+          "snippet": "",
+          "url": "https://blogs.timesofisrael.com/the-terror-britain-bought-itself/",
+          "source": "The Times of Israel"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -58,6 +86,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "monaco",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 2 May 2026 12:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuD9w30VBqedVNXFfkhslep83S2vZSSVTIFLymL5xPynnaA3FgURo2SHaP2CA",
+      "pictureSource": "Nice-Matin",
+      "relatedSearch": [
+        {
+          "title": "Paul Pogba vers une titularisation avec l’AS Monaco contre Metz ce samedi",
+          "snippet": "",
+          "url": "https://www.nicematin.com/sports/football/paul-pogba-vers-une-titularisation-avec-l-as-monaco-contre-metz-ce-samedi-10679018",
+          "source": "Nice-Matin"
+        },
+        {
+          "title": "FCM-ASM : Les compositions",
+          "snippet": "",
+          "url": "https://asm-supporters.fr/actualites/65882-fcm-asm-les-compositions-3",
+          "source": "ASM-Supporters"
+        },
+        {
+          "title": "Ansu Fati sauve Monaco et condamne officiellement Metz à la Ligue 2",
+          "snippet": "",
+          "url": "https://www.eurosport.fr/football/ligue-1/2025-2026/ligue-1-buteur-dans-le-temps-additionnel-ansu-fati-sauve-las-monaco-dans-sa-mission-c1-face-a-un-metz-vaillant-mais-condamne-a-la-descente-1-2_sto23295894/story.shtml",
+          "source": "Eurosport"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "osasuna vs barcelona",
       "trafficCount": "2000+",
       "pubDate": "Sat, 2 May 2026 12:00:00 -0700",
@@ -71,9 +127,9 @@
           "source": "BBC"
         },
         {
-          "title": "FC Barcelona News: 2 May 2026; All set for La Liga match against Osasuna",
+          "title": "Osasuna vs Barcelona, La Liga: TV & Streaming, Live Thread",
           "snippet": "",
-          "url": "https://www.barcablaugranes.com/barcelona-news/119173/fc-barcelona-news-2-may-2026-all-set-for-la-liga-match-against-osasuna",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/119082/osasuna-barcelona-live-stream-lineups-kickoff-time-tv-channel-how-to-watch-la-liga-online",
           "source": "Barca Blaugranes"
         },
         {
@@ -86,57 +142,85 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "monaco fc",
+      "title": "ios 26",
       "trafficCount": "100+",
       "pubDate": "Sat, 2 May 2026 11:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKP2vXx1aox1cUI9QJ0K1l_fTByFEjd1RygFZqlV6hFWVZJNeL6SUUdoz3dCk",
-      "pictureSource": "Tribuna.com",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmdkMAk9WaDq6gJ64iYAyM_uSsQryGKGIMTJLDe8T3f7sbAh4KbkOoMV-vfd8",
+      "pictureSource": "9to5Mac",
       "relatedSearch": [
         {
-          "title": "Ansu Fati continues fine goalscoring form for Monaco, scores late winner to take goal tally to 10",
+          "title": "iOS 26’s new Phone app won me over with two excellent features",
           "snippet": "",
-          "url": "https://tribuna.com/en/news/2026-05-02-ansu-fati-continues-fine-goalscoring-form-for-monaco-scores-late-winner-to-take-goal-tall/",
-          "source": "Tribuna.com"
+          "url": "https://9to5mac.com/2026/05/01/ios-26s-new-phone-app-won-me-over-with-two-excellent-features/",
+          "source": "9to5Mac"
         },
         {
-          "title": "Metz vs Monaco Prediction, 5/2/2026 Soccer Pick, Tips and Odds",
+          "title": "How to Disable iPhone Predictive Text in iOS 26",
           "snippet": "",
-          "url": "https://www.docsports.com/free-picks/soccer/2026/metz-vs-monaco-prediction-5-2-2026-soccer-pick-tips-and-odds.html",
-          "source": "Doc's Sports"
+          "url": "https://www.macobserver.com/tips/how-to/disable-iphone-inline-predictive-text-in-ios-26/",
+          "source": "The Mac Observer"
         },
         {
-          "title": "🚨 Official: FC Metz are relegated to Ligue 2!",
+          "title": "iOS 26.5 release date: Here’s when new iPhone features are coming",
           "snippet": "",
-          "url": "https://sports.yahoo.com/articles/official-fc-metz-relegated-ligue-185400183.html",
-          "source": "Yahoo Sports"
+          "url": "https://9to5mac.com/2026/05/01/ios-26-5-release-date-heres-when-new-iphone-features-are-coming/",
+          "source": "9to5Mac"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "galatasaray",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 2 May 2026 11:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtjmDMV61ar03uJXraIyHBNUHe5026DEZgxd--XIYhKYeWG9-PKXy0j1__Xr4",
-      "pictureSource": "Goal.com",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTThxWlh4gRONadWfXYY_TW26N2zd8Auf-QdckQDvOs71m6AnzC2Kl-Anl_Rs",
+      "pictureSource": "Sabah",
       "relatedSearch": [
         {
-          "title": "Galatasaray ağır bir yenilgi aldı ve şampiyonluk kutlamalarını ertelemek zorunda kaldı; Talisca Fenerbahçe'ye umut verdi",
+          "title": "Süper Lig’de şampiyonluk yarışı yeniden alevlendi! İşte son 2 hafta kala oluşan puan durumu...",
           "snippet": "",
-          "url": "https://www.goal.com/tr/haber/galatasaray-agir-bir-yenilgi-aldi-ve-sampiyonluk-kutlamalarini-ertelemek-zorunda-kaldi-talisca-fenerbahce-ye-umut-verdi/bltcb645f7f9f7493e9",
-          "source": "Goal.com"
+          "url": "https://www.sabah.com.tr/trend/galeri/spor/super-ligde-sampiyonluk-yarisi-yeniden-alevlendi-iste-olusan-puan-durumu",
+          "source": "Sabah"
         },
         {
-          "title": "Mustafa Ersoy | Derbi kazanmak yetmiyor!",
+          "title": "Galatasaray bu sezon ikinci kez 4 gol yedi",
           "snippet": "",
-          "url": "https://t24.com.tr/yazarlar/mustafa-ersoy/derbi-kazanmak-yetmiyor,55049",
-          "source": "T24"
+          "url": "https://www.marmarisyenisayfa.com/mobil/haber/galatasaray-bu-sezon-ikinci-kez-4-gol-yedi-674442.html",
+          "source": "Marmaris Yeni Sayfa"
         },
         {
-          "title": "Samsunspor 4-1 Galatasaray",
+          "title": "Veysel Bilen: \"Şampiyonluk turu için gelen bir takımı yenmenin gururunu yaşıyoruz\"",
           "snippet": "",
-          "url": "https://www.galatasaray.org/haber/futbol/samsunspor-4-1-galatasaray/60231",
-          "source": "GALATASARAY.ORG"
+          "url": "https://www.karsmanset.com/haber/veysel-bilen-sampiyonluk-turu-icin-gelen-bir-takimi-yenmenin-gururunu-1690043.htm",
+          "source": "Kars Manşet"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "monaco fc",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 2 May 2026 11:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Metz vs Monaco: Ligue 1 stats & head-to-head",
+          "snippet": "",
+          "url": "https://www.bbc.com/sport/football/live/crepdzev754t",
+          "source": "BBC"
+        },
+        {
+          "title": "Fans react after Paul Pogba makes first start in 1,084 days as footage goes viral",
+          "snippet": "",
+          "url": "https://www.sportbible.com/football/football-news/paul-pogba-as-monaco-ligue-1-footage-viral-575950-20260502",
+          "source": "SPORTbible"
+        },
+        {
+          "title": "Loan watch: Ansu Fati hits stoppage-time winner for Monaco",
+          "snippet": "",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/119207/loan-watch-ansu-fati-hits-stoppage-time-winner-for-monaco",
+          "source": "Barca Blaugranes"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,14 +229,14 @@
       "title": "alavés vs athletic club",
       "trafficCount": "500+",
       "pubDate": "Sat, 2 May 2026 11:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRavPC7FQQQS3QL01B--P1TK7JM1POcFmudcD1Ep7QtBHPmuzDTiC12lDMRxQ",
-      "pictureSource": "AsatuNews.co.id",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR24ltctUcayqRyfwSm7PuTVtaCvRzmtjWiOK51KIR_zpQmb5n0Z6k-RMwem9Q",
+      "pictureSource": "EL PAÍS",
       "relatedSearch": [
         {
-          "title": "Antonio Blanco adelanta al Alavés ante el Athletic Club en Mendizorroza",
+          "title": "La mejor versión de Nico Williams impulsa al Athletic y deja tocado al Alavés",
           "snippet": "",
-          "url": "https://www.asatunews.co.id/es/alaves-athletic-laliga-antonio-blanco",
-          "source": "AsatuNews.co.id"
+          "url": "https://elpais.com/deportes/futbol/2026-05-02/la-mejor-version-de-nico-williams-impulsa-al-athletic-y-deja-tocado-al-alaves.html",
+          "source": "EL PAÍS"
         },
         {
           "title": "¡La madre que los parió!",
@@ -161,10 +245,10 @@
           "source": "Diario AS"
         },
         {
-          "title": "2-4: Valverde se lleva un gran regalo de Mendizorrotza",
+          "title": "Antonio Blanco llama a hacer autocrítica: «Nos tiene que doler que nos metan tantos goles»",
           "snippet": "",
-          "url": "https://www.mundodeportivo.com/futbol/athletic-bilbao/20260502/1004177943/cronica.html",
-          "source": "Mundo Deportivo"
+          "url": "https://www.elcorreo.com/alaves/antonio-blanco-autocritica-alaves-doler-metan-tantos-goles-20260502205429-nt.html",
+          "source": "El Correo"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,100 +267,16 @@
           "source": "France 24"
         },
         {
-          "title": "Juventus y AS Roma agradecen al Nápoles el resultado favorable ante el Como",
-          "snippet": "",
-          "url": "https://www.goal.com/es-ar/noticias/juventus-y-as-roma-agradecen-al-napoles-el-resultado-favorable-ante-el-como/blt417af3046ef7503e",
-          "source": "Goal.com"
-        },
-        {
           "title": "Con Nico Paz titular y un Lautaro Martínez que mira atento, el Como recibe al Napoli en un partido que podría definir la Serie A",
           "snippet": "",
           "url": "https://radiodelsolpehuajo.com.ar/articulo/2026/05/con-nico-paz-titular-y-un-lautaro-martinez-que-mira-atento-el-como-recibe-al-napoli-en-un-partido-que-podria-definir-la-serie-a.php",
           "source": "FM Del Sol Pehuajo"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "famalicão vs benfica",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 2 May 2026 11:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjfHyuITykrQPwN7ZpnQEp9wlJVOBDuWkE141cCgFNepc9M4V8EpWz-TfAxaw",
-      "pictureSource": "Alô Alô Bahia",
-      "relatedSearch": [
-        {
-          "title": "FC Famalicão x Benfica: onde assistir e horário pelo Campeonato Português",
-          "snippet": "",
-          "url": "https://aloalobahia.com/esportes/2026/05/02/fc-famalicao-x-benfica-onde-assistir-e-horario-pelo-campeonato-portugues/",
-          "source": "Alô Alô Bahia"
         },
         {
-          "title": "Tom van de Looi: \"Antes do jogo dissemos que queríamos fazer história\"",
+          "title": "Como y Napoli empataron 0-0 por la Liga de Italia 2025",
           "snippet": "",
-          "url": "https://sapo.pt/artigo/tom-van-de-looi-antes-do-jogo-dissemos-que-queriamos-fazer-historia-69f6501916a0a30ace7ee9fb",
-          "source": "SAPO"
-        },
-        {
-          "title": "🔴 Relato em direto do FC Porto - Alverca",
-          "snippet": "",
-          "url": "https://rr.pt/noticia/469173/relato-em-direto-do-fc-porto-alverca",
-          "source": "Renascença"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "jehovah's witnesses",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 2 May 2026 10:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1OkyyEfB6E4xupvRxCp3oTHhb0jzTRQeA-CrOtsbtPmkDEVQoM15l9VYTmeU",
-      "pictureSource": "Bitter Winter",
-      "relatedSearch": [
-        {
-          "title": "Jehovah’s Witnesses Win Landmark Case at the Norwegian Supreme Court",
-          "snippet": "",
-          "url": "https://bitterwinter.org/jehovahs-witnesses-win-landmark-case-at-the-norwegian-supreme-court/",
-          "source": "Bitter Winter"
-        },
-        {
-          "title": "Supreme Court rules in favour of Jehovah's Witnesses, overturns Norway’s deregistration, subsidy ban",
-          "snippet": "",
-          "url": "https://gazettengr.com/supreme-court-rules-in-favour-of-jehovahs-witnesses-overturns-norways-deregistration-subsidy-ban/",
-          "source": "Peoples Gazette Nigeria"
-        },
-        {
-          "title": "Landmark CCPR Ruling: Jehovah’s Witnesses Found to Be Discriminated “Vulnerable Religious Minority” — Case Rooted in 12 Believers from Ufa",
-          "snippet": "",
-          "url": "https://jw-russia.org/en/news/2026/04/241429.html",
-          "source": "Свидетели Иеговы в России"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "napoli",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 2 May 2026 10:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYkCbKk_5ir3SOHJu2FAq0FdCF4g-kHF3TW8QoA_Q9qObUdnUDKjiQzVRemh4",
-      "pictureSource": "RSI Radiotelevisione svizzera",
-      "relatedSearch": [
-        {
-          "title": "Il Como frena il Napoli, Inter a un solo punto dallo Scudetto",
-          "snippet": "",
-          "url": "https://www.rsi.ch/sport/calcio/Il-Como-frena-il-Napoli-Inter-a-un-solo-punto-dallo-Scudetto--3711360.html",
-          "source": "RSI Radiotelevisione svizzera"
-        },
-        {
-          "title": "Calcio: Conte 'niente calcoli, più andiamo in alto e più lustro a scudetto'",
-          "snippet": "",
-          "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/05/02/calcio-conte-niente-calcoli-piu-andiamo-in-alto-e-piu-lustro-a-scudetto_32054da8-8b74-4b71-a5c0-1995783ad825.html",
-          "source": "ANSA"
-        },
-        {
-          "title": "Nico Paz illumina, Diao e Douvikas sempre pericolosi. Alisson Santos prova a creare",
-          "snippet": "",
-          "url": "https://www.sportmediaset.mediaset.it/calcio/nico-paz-illumina-diao-e-douvikas-sempre-pericolosi-alisson-santos-prova-a-creare_111633303-202602k.shtml",
-          "source": "Sportmediaset"
+          "url": "https://www.lanacion.com.ar/deportes/canchallena/como-y-napoli-empataron-0-0-por-la-liga-de-italia-2025-nid02052026/",
+          "source": "La Nación"
         }
       ],
       "link": "https://imtaqin.id/"

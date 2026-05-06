@@ -1,30 +1,86 @@
 {
-  "lastUpdate": "2026-05-06 10:50:40",
+  "lastUpdate": "2026-05-06 12:19:58",
   "data": [
     {
-      "title": "каникулы",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 6 May 2026 03:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_kSAeO4wYyR8dQUlNcLUwj_1mOoMG5dLZmtWLHO725kJoDHbZOLoKakDOiY8",
-      "pictureSource": "Кадровое Дело",
+      "title": "непогода",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 6 May 2026 05:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtzEyWNYDX9tYvKuaR2Z5xlm7rkZD9Ro-I5eSzmIJUffMj8hZk9eHGPScDX-4",
+      "pictureSource": "Tengrinews",
       "relatedSearch": [
         {
-          "title": "Депутаты вновь взялись за праздники",
+          "title": "Сильные дожди и похолодание идут в Казахстан",
           "snippet": "",
-          "url": "https://www.kdelo.ru/news/401781-deputaty-vnov-vzyalis-za-prazdniki",
-          "source": "Кадровое Дело"
+          "url": "https://tengrinews.kz/kazakhstan_news/silnyie-dojdi-i-poholodanie-idut-v-kazahstan-598711/",
+          "source": "Tengrinews"
         },
         {
-          "title": "Сенатор призвал сократить новогодние каникулы в пользу майских праздников: «Это будет справедливое решение",
+          "title": "Погода в Казахстане 7 мая: пройдут дожди с грозами",
           "snippet": "",
-          "url": "https://www.hibiny.ru/murmanskaya-oblast/news/item-senator-prizval-sokratit-novogodnie-kanikuly-vpolzu-mayskih-prazdnikov-eto-budet-spravedlivoe-reshenie-459600/",
-          "source": "Хибины.ру"
+          "url": "https://www.gismeteo.kz/news/klimat/pogoda-v-kazahstane-7-maya-projdut-dozhdi-s-grozami/",
+          "source": "Gismeteo"
         },
         {
-          "title": "Омичам подсказали способ объединить майские праздники в один длинный отпуск",
+          "title": "Дождь, град и туман: в каких регионах Казахстана объявили штормовое предупреждение",
           "snippet": "",
-          "url": "https://omskgazzeta.ru/rubrika/sotsium/omicham-podskazali-sposob-obedinit-majskie-prazdniki-v-odin-dlinnyj-otpusk/",
-          "source": "Вечерний Омск"
+          "url": "https://www.zakon.kz/obshestvo/6516893-dozhd-grad-i-tuman-v-kakikh-regionakh-kazakhstana-obyavili-shtormovoe-preduprezhdenie.html",
+          "source": "Новости Zakon.kz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "турция",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 6 May 2026 04:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRIoYDaGDXDiv1keYW1Lvq5l6kp6ywEcwDbKoZUTri0-77eb4XytW0BsrHiDP4",
+      "pictureSource": "Gismeteo",
+      "relatedSearch": [
+        {
+          "title": "Штормы на юге Турции привели к гибели человека и десяткам пострадавших",
+          "snippet": "",
+          "url": "https://www.gismeteo.kz/news/stihiynye-yavleniya/shtormy-na-juge-turcii-priveli-k-gibeli-cheloveka-i-desyatkam-postradavshih/",
+          "source": "Gismeteo"
+        },
+        {
+          "title": "Снег, ливни, ураганы в Турции: есть погибший и десятки пострадавших",
+          "snippet": "",
+          "url": "https://www.inform.kz/ru/sneg-livni-uragani-v-turtsii-est-pogibshiy-i-desyatki-postradavshih-eff157a6",
+          "source": "Казинформ"
+        },
+        {
+          "title": "На Турцию после майского снегопада обрушились ливни: видео",
+          "snippet": "",
+          "url": "https://pogoda.mail.ru/news/70781903/",
+          "source": "Погода Mail"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "каникулы",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 6 May 2026 03:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR26xTSs0J71xBeGy84Ztl_AhDOmnr13lV8H2s-LAv3DszDtdfcKPcWm60Eth4",
+      "pictureSource": "LSM",
+      "relatedSearch": [
+        {
+          "title": "Летние каникулы — короче, домашних заданий — меньше? Вновь появилась инициатива продлить учебный год",
+          "snippet": "",
+          "url": "https://rus.lsm.lv/statja/novosti/obschestvo/05.05.2026-letnie-kanikuly-koroce-domasnix-zadanii-mense-vnov-poyavilas-iniciativa-prodlit-ucebnyi-god.a645705/",
+          "source": "LSM"
+        },
+        {
+          "title": "На ManaBalss предлагают радикально сократить летние каникулы и отменить домашние задания",
+          "snippet": "",
+          "url": "https://mixnews.lv/latviya/2026/05/05/latvii-predlagayut-radikalno-sokratit-letnie-kanikuly-i-otmenit-domashnie-zadaniya/",
+          "source": "Mixnews"
+        },
+        {
+          "title": "Меньше \"домашек\" и более короткие каникулы. Собирают подписи за изменение учебной нагрузки в школах",
+          "snippet": "",
+          "url": "https://rus.tvnet.lv/8464360/menshe-domashek-i-bolee-korotkie-kanikuly-sobirayut-podpisi-za-izmenenie-uchebnoy-nagruzki-v-shkolah",
+          "source": "rus tvnet"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -42,26 +98,26 @@
       "title": "playstation",
       "trafficCount": "500+",
       "pubDate": "Wed, 6 May 2026 01:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTINvKVZtLARJof_IEknD48ivfGvnlQ1v3MercipNrCWjaVZ648bn-TlUPYTJI",
-      "pictureSource": "WIRED",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9VHW_GwB_G_VNrtBHBbj8VvqmeUnnwWlGP5_lYY9qrPGnbo3DAzOAcJt715k",
+      "pictureSource": "Push Square",
       "relatedSearch": [
         {
-          "title": "What to Know About Sony’s $7.85 Million PlayStation Settlement",
+          "title": "May 2026 PS Plus Essential Games Available to Download Now",
           "snippet": "",
-          "url": "https://www.wired.com/story/what-to-know-about-sony-785-million-playstation-settlement/",
-          "source": "WIRED"
+          "url": "https://www.pushsquare.com/news/2026/05/may-2026-ps-plus-essential-games-available-to-download-now",
+          "source": "Push Square"
         },
         {
-          "title": "Sony Agrees to $7.85M Payout Over PSN Pricing Case: Eligibility & Claims Process",
+          "title": "May's PlayStation Plus Lineup Includes Nine Sols, EA FC 26, Wuchang",
           "snippet": "",
-          "url": "https://www.analyticsinsight.net/news/sony-agrees-to-785m-payout-over-psn-pricing-case-eligibility-claims-process",
-          "source": "Analytics Insight"
+          "url": "https://www.engadget.com/2160452/may-playstation-plus-lineup-nine-sols-ea-fc-26-wuchang/",
+          "source": "Engadget"
         },
         {
-          "title": "PlayStation class action lawsuit: You may qualify",
+          "title": "PS Plus Users Urged to Claim Free DLC for May 2026 Game",
           "snippet": "",
-          "url": "https://www.aol.com/news/playstation-class-action-lawsuit-may-204418858.html",
-          "source": "AOL.com"
+          "url": "https://www.playstationlifestyle.net/2026/05/06/ps-plus-may-2026-game-free-dlc-icons-pack/",
+          "source": "PlayStation LifeStyle"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -70,26 +126,26 @@
       "title": "министерство внутренних дел казахстана",
       "trafficCount": "500+",
       "pubDate": "Wed, 6 May 2026 01:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqMBffWAoaa_0gnhn5zKlvzkltXtHK0cmmliiRpaOEofspjtq1g7NUMBQapbg",
-      "pictureSource": "Казинформ",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgWPgwc_xEu2OUgQ3n1ux31VHEjMx6SpkAq9-3gRAbgDn00ungZR5gvy0KJRI",
+      "pictureSource": "Новости Zakon.kz",
       "relatedSearch": [
         {
-          "title": "Австрия передаст аэропорту Астаны 25 устройств для считывания паспортов",
+          "title": "Служебные авто начнут фиксировать нарушения ПДД в Казахстане",
           "snippet": "",
-          "url": "https://www.inform.kz/ru/avstriya-peredast-aeroportu-astani-25-ustroystv-dlyaschitivaniya-pasportov-02ddb019",
-          "source": "Казинформ"
+          "url": "https://www.zakon.kz/obshestvo/6517010-sluzhebnye-avto-nachnut-fiksirovat-narusheniya-pdd-v-kazakhstane.html",
+          "source": "Новости Zakon.kz"
         },
         {
-          "title": "Казахстан и Австрия подписали меморандум по безопасности",
+          "title": "В Казахстане ужесточат доступ к вождению - кого не пустят за руль",
           "snippet": "",
-          "url": "https://kazislam.kz/ru/2026/05/kazahstan-i-avstriya-podpisali-memorandum-po-bezopasnosti/",
-          "source": "KAZISLAM"
+          "url": "https://tengrinews.kz/kazakhstan_news/kazahstane-ujestochat-dostup-vojdeniyu-kogo-pustyat-rul-598667/",
+          "source": "Tengrinews"
         },
         {
-          "title": "Казахстан и Австрия усиливают сотрудничество: товарооборот превысил $300 млн",
+          "title": "Требования к автошколам предлагают ужесточить в РК",
           "snippet": "",
-          "url": "https://jjtv.kz/ru/kazahstan-i-avstriya-usilivayut-sotrudnichestvo-tovarooborot-prevysil-300-mln_48101",
-          "source": "Телеканал Jibek Joly"
+          "url": "https://24.kz/ru/news/social/767067-trebovaniya-k-avtoshkolam-predlagayut-uzhestochit-v-rk",
+          "source": "24.kz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -107,26 +163,26 @@
       "title": "электромобиль",
       "trafficCount": "2000+",
       "pubDate": "Wed, 6 May 2026 01:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUUerqsFml8d-hw0DOsHzLmPG67-4fkJd-V23VKLhxIWASHQefimcJnjxGSlI",
-      "pictureSource": "Tengrinews",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToJzIefx3mcXout5qhKWicFjVf-O3oMR3_JDHQDhtCl0MkpTlFOgQwu8V9yjU",
+      "pictureSource": "Ulysmedia.kz",
       "relatedSearch": [
-        {
-          "title": "Новый цвет автомобильных номеров появится в Казахстане",
-          "snippet": "",
-          "url": "https://tengrinews.kz/autonews/novyiy-tsvet-avtomobilnyih-nomerov-poyavitsya-v-kazahstane-598663/",
-          "source": "Tengrinews"
-        },
-        {
-          "title": "Госномера другого цвета могут появиться в Казахстане",
-          "snippet": "",
-          "url": "https://www.zakon.kz/obshestvo/6516965-gosnomera-drugogo-tsveta-mogut-poyavitsya-v-kazakhstane.html",
-          "source": "Новости Zakon.kz"
-        },
         {
           "title": "По дорогам Казахстана начнут ездить машины с зелеными номерами",
           "snippet": "",
           "url": "https://ulysmedia.kz/news/73013-po-dorogam-kazakhstana-nachnut-ezdit-mashiny-s-zelenymi-nomerami/",
           "source": "Ulysmedia.kz"
+        },
+        {
+          "title": "В Казахстане хотят ввести «зеленые» номера для электромобилей",
+          "snippet": "",
+          "url": "https://kapital.kz/gosudarstvo/147784/v-kazahstane-hotyat-vvesti-zelenye-nomera-dlya-elektromobilej.html",
+          "source": "Kapital.kz"
+        },
+        {
+          "title": "Новый цвет автомобильных номеров появится в Казахстане",
+          "snippet": "",
+          "url": "https://tengrinews.kz/autonews/novyiy-tsvet-avtomobilnyih-nomerov-poyavitsya-v-kazahstane-598663/",
+          "source": "Tengrinews"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,83 +201,27 @@
           "source": "https://www.championat.ru/"
         },
         {
-          "title": "Нокаутом завершился бой экс-чемпиона UFC в весе Шавката Рахмонова",
+          "title": "UFC значительно изменил рейтинг в дивизионе Шавката Рахмонова",
           "snippet": "",
-          "url": "https://tengrisport.kz/trends/nokautom-zavershilsya-boy-eks-chempiona-UFC-vese-shavkata-598422/",
-          "source": "Tengri Sport"
+          "url": "https://www.nur.kz/sport/mma/2373486-ufc-znachitelno-izmenil-reyting-v-divizione-shavkata-rahmonova/",
+          "source": "NUR.KZ"
         },
         {
-          "title": "Махачев – о потенциальных соперниках: бой с Пратесом был бы наиболее интересным",
+          "title": "Махачев: «Думаю, что Пратес — самый интересный соперник для меня»",
           "snippet": "",
-          "url": "https://mma.metaratings.ru/news/makhachev-o-potencialnykh-sopernikakh-s-pratesom-byl-by-bolee-interesnyi-boi-612927/",
-          "source": "Meta MMA"
+          "url": "https://news.sportbox.ru/Vidy_sporta/UFC/spbnews_NI2322705_Mahachev_Dumaju_chto_Prates__samyj_interesnyj_sopernik_dla_mena",
+          "source": "Sportbox"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "александр зацепин",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 6 May 2026 00:20:00 -0700",
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "украина",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 5 May 2026 23:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqdt03IlRuzRR0GIYrJGT_aU37xkFCrDPYQHqcGBwW1c-d_PUUspvTVX0A3Gk",
-      "pictureSource": "DW.com",
-      "relatedSearch": [
-        {
-          "title": "РФ ударила по Украине, несмотря на предложенный режим тишины",
-          "snippet": "",
-          "url": "https://www.dw.com/ru/rossia-vnov-udarila-po-ukraine-nesmotra-na-predlozennyj-rezim-tisiny/a-77059413",
-          "source": "DW.com"
-        },
-        {
-          "title": "Украина заявляет, что Россия нарушила одностороннее прекращение огня, нанеся авиаудары",
-          "snippet": "",
-          "url": "https://ru.euronews.com/my-europe/2026/05/06/no-victory-day-ceasefire",
-          "source": "Euronews"
-        },
-        {
-          "title": "Вступил в силу «режим тишины», объявленный Зеленским. Россия запустила по Украине больше 100 дронов",
-          "snippet": "",
-          "url": "https://meduza.io/news/2026/05/06/v-ukraine-vstupil-v-silu-rezhim-tishiny-ob-yavlennyy-zelenskim-vsu-obvinili-rossiyu-v-obstrelah",
-          "source": "Meduza"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "такси",
-      "trafficCount": "2000+",
-      "pubDate": "Tue, 5 May 2026 22:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIHSFuOAaLdMaXWK39O3J3M2E3E_sEX5hkYSXECCXTB1WI6LRu3_NQdHkmCvI",
-      "pictureSource": "Новости Zakon.kz",
-      "relatedSearch": [
-        {
-          "title": "Безопасность в такси: перевозчикам обновили правила",
-          "snippet": "",
-          "url": "https://www.zakon.kz/obshestvo/6516913-bezopasnost-v-taksi-perevozchikam-obnovili-pravila.html",
-          "source": "Новости Zakon.kz"
-        },
-        {
-          "title": "Таксистов станет проще привлечь к ответственности при ДТП",
-          "snippet": "",
-          "url": "https://tengrinews.kz/autonews/taksistov-stanet-prosche-privlech-k-otvetstvennosti-pri-dtp-598653/amp/",
-          "source": "Tengrinews"
-        },
-        {
-          "title": "Как стать таксистом в Казахстане: заработок и правила",
-          "snippet": "",
-          "url": "https://el.kz/ru/kak-stat-taksistom-v-kazahstane-zarabotok-i-pravila_400047262/",
-          "source": "El.kz"
-        }
-      ],
       "link": "https://imtaqin.id/"
     }
   ]

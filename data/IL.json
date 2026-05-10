@@ -1,37 +1,233 @@
 {
-  "lastUpdate": "2026-05-10 12:08:54",
+  "lastUpdate": "2026-05-10 13:52:39",
   "data": [
     {
-      "title": "זום אינפו",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 10 May 2026 04:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYinwnqHUe0xYNUQnV_a7u_1U_vblOTwyPcrbcncOEVAOKI5PzoBAbqMSHqts",
+      "title": "יש עתיד",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 10 May 2026 06:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRD0qYCWZaxKHZ-2UgIdCJMoswONwtJc7scUqJ8rrJN_yu2xIQeVNRtJ83-y9I",
+      "pictureSource": "וואלה חדשות",
+      "relatedSearch": [
+        {
+          "title": "שינויים בגוש: מייסדי \"יש עתיד\" ובכירים לשעבר עוברים לתמוך באיזנקוט",
+          "snippet": "",
+          "url": "https://news.walla.co.il/item/3836825",
+          "source": "וואלה חדשות"
+        },
+        {
+          "title": "החבר של בנט שהולך עם איזנקוט נגד נתניהו: \"היחיד בפוליטיקה שמסר שטחים וקרא לערפאת ידיד\"",
+          "snippet": "",
+          "url": "https://www.maariv.co.il/news/politics/article-1316714",
+          "source": "מעריב"
+        },
+        {
+          "title": "\"נוכל להביא קולות נוספים מהימין\": מתן כהנא נערך למרוץ חייו",
+          "snippet": "",
+          "url": "https://www.israelhayom.co.il/news/politics/article/20442225",
+          "source": "היום"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "מיקי גבע",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 10 May 2026 06:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSlv-tJYnafuLqRuzaPG1nOuDtv08kQR6aBUjpbRTFRORecA85_sf4YFkXMdYk",
+      "pictureSource": "mako",
+      "relatedSearch": [
+        {
+          "title": "מיקי גבע מגיב על התיעוד: \"מה הייתה הציפייה ממני?\"",
+          "snippet": "",
+          "url": "https://www.mako.co.il/culture-articles/Article-d37d93349e01e91027.htm",
+          "source": "mako"
+        },
+        {
+          "title": "עיתונאי חדשות 12 עולה למתקפה: \"מה עבר לך בראש?!\"",
+          "snippet": "",
+          "url": "https://www.srugim.co.il/1304015-%D7%A2%D7%99%D7%AA%D7%95%D7%A0%D7%90%D7%99-%D7%97%D7%93%D7%A9%D7%95%D7%AA-12-%D7%A2%D7%95%D7%9C%D7%94-%D7%9C%D7%9E%D7%AA%D7%A7%D7%A4%D7%94-%D7%A2%D7%9C-%D7%9E%D7%99%D7%A7%D7%99-%D7%92%D7%91%D7%A2",
+          "source": "סרוגים"
+        },
+        {
+          "title": "מיקי גבע מגיב לסערה סביבו - ומבטיח להופיע לזכרו של הלוחם שנפל",
+          "snippet": "",
+          "url": "https://www.maariv.co.il/breaking-news/article-1319493",
+          "source": "מעריב"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "גיא מלמד",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 10 May 2026 06:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTriUProE5h-rmrD2J9tOmf3hnlDASzudQYvOHmtDf7_RAumONSXXhD-CDt3Ak",
+      "pictureSource": "ספורט 1",
+      "relatedSearch": [
+        {
+          "title": "גיא מלמד בדרך לקבוצה חדשה בליגת העל? \"מכבי חיפה פשוט לא רוצה אותו\"",
+          "snippet": "",
+          "url": "https://sport1.maariv.co.il/israeli-soccer/ligat-haal/article/1847896/",
+          "source": "ספורט 1"
+        },
+        {
+          "title": "הספסול של אצילי? זאת הבעיה האמיתית של בית\"ר | טור",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/sport/article/s12glgtrzx",
+          "source": "ynet"
+        },
+        {
+          "title": "ניצני הניצחון על בית\"ר נזרעו כבר ברביעי",
+          "snippet": "",
+          "url": "https://www.sport5.co.il/articles.aspx?FolderID=64&docID=543953",
+          "source": "ספורט 5"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "חייל",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 10 May 2026 05:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSa2ddzOZuzfHQXjnfoMvGSHhbr1rgK7GBx-SmXzHgO0RPAEveDB1te82ogczw",
+      "pictureSource": "מעריב",
+      "relatedSearch": [
+        {
+          "title": "\"חיל האוויר החזק באירופה\": יוון חושפת את תוכנית ההתעצמות שתעמיד את טורקיה במקום",
+          "snippet": "",
+          "url": "https://www.maariv.co.il/news/world/article-1319564",
+          "source": "מעריב"
+        },
+        {
+          "title": "ברית עם ישראל ומערכות נגד כטב״מים: כך יוון משנה את מאזן הכוחות",
+          "snippet": "",
+          "url": "https://www.jdn.co.il/news/2647376/",
+          "source": "JDN"
+        },
+        {
+          "title": "התשובה של יוון לטורקיה הגיעה: \"כל חייל בצבא יודע להפעיל את זה\"",
+          "snippet": "",
+          "url": "https://www.maariv.co.il/breaking-news/article-1319585",
+          "source": "מעריב"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "רשות שדות התעופה",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 10 May 2026 05:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTM8ovxfDu31QJCg9plUNMudRwCgZ3CgB19VC2JFYWN0FyrLwejTcZzWOBAVqU",
+      "pictureSource": "mako",
+      "relatedSearch": [
+        {
+          "title": "מהפך: הצ'ק אין בנתב\"ג כבר לא נראה אותו הדבר",
+          "snippet": "",
+          "url": "https://www.mako.co.il/travel-news/israel/Article-45e148b29601e91027.htm",
+          "source": "mako"
+        },
+        {
+          "title": "ישראייר ונתב\"ג משיקים שירות חדש: צ'ק-אין עצמי למזוודות מהאפליקציה",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/vacation/flights/article/rkgru6ar11l",
+          "source": "ynet"
+        },
+        {
+          "title": "חדש בנתב\"ג: כך תשלחו בעצמכם את המזוודה למטוס",
+          "snippet": "",
+          "url": "https://www.emess.co.il/radio/1867771",
+          "source": "אמס"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "מתניהו אנגלמן",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 10 May 2026 05:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKl33Z1aeML6dRdq7PbErHZW_k-UNAVAVo_QNuTH5d8oeZRTcvSgzHujFbyfw",
+      "pictureSource": "ynet",
+      "relatedSearch": [
+        {
+          "title": "מהומה בבג\"ץ חקירת המבקר על 7/10: \"עוד צעקה אחת נסגור את הדיון\"",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/news/article/hy4jhq6011g",
+          "source": "ynet"
+        },
+        {
+          "title": "חמישה שופטים, שאלה אחת: מה למבקר המדינה ולחקירת 7 באוקטובר?",
+          "snippet": "",
+          "url": "https://www.calcalist.co.il/local_news/article/hkab6e0rwg",
+          "source": "calcalist"
+        },
+        {
+          "title": "בג\"ץ דן בעתירות שדורשות למנוע ממבקר המדינה לבדוק את המחדל",
+          "snippet": "",
+          "url": "https://www.mako.co.il/news-politics/2026_q2/Article-4d7e61c84701e91026.htm",
+          "source": "Mako"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "קלאסיקו",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 10 May 2026 05:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2MScFW5bAxjnrFCNuAd45Eak0B3srskpyaUCL6vT0z1iJ0dawZ6kfCsunJ_k",
+      "pictureSource": "ynet",
+      "relatedSearch": [
+        {
+          "title": "שפל אחרי שפל: הקריסה הבלתי נתפסת של ריאל מדריד",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/sport/article/hjwipga011e",
+          "source": "ynet"
+        },
+        {
+          "title": "דרוש מנהיג: המשבר של המועדון הגדול בעולם",
+          "snippet": "",
+          "url": "https://www.sport5.co.il/articles.aspx?FolderID=378&docID=543848",
+          "source": "ספורט 5"
+        },
+        {
+          "title": "הגנון של פלורנטינו: ההתפוררות של ריאל מדריד",
+          "snippet": "",
+          "url": "https://www.one.co.il/Article/522151.html",
+          "source": "ONE"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "פיצוץ",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 10 May 2026 05:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5NqfKqZtSoDuSQ5nFrkfjmac94-XnY6ghJYdtPUxiijQfAEq6Ykj50-fZ8GQ",
       "pictureSource": "Mako",
       "relatedSearch": [
         {
-          "title": "מרכז הפיתוח בישראל נסגר במפתיע, 300 יפוטרו",
+          "title": "טראמפ איים על איראן עם ציוצים ב-AI",
           "snippet": "",
-          "url": "https://www.mako.co.il/nexter-news/Article-0559004fd911e91026.htm",
+          "url": "https://www.mako.co.il/pzm-soldiers/liveblog-a4a913b0f5e0e91026.htm",
           "source": "Mako"
         },
         {
-          "title": "בשיחת זום ובהפתעה מוחלטת: Zoominfo פיטרה 300 עובדים וסוגרת את מרכז הפיתוח בישראל",
+          "title": "דיווח: פיצוצים נשמעו באיראן עקב חילופי אש במיצרי הורמוז",
           "snippet": "",
-          "url": "https://www.geektime.co.il/zoominfo-shuts-down-israeli-rd-center-lays-off-300/",
-          "source": "גיקטיים"
+          "url": "https://www.srugim.co.il/1303965-%D7%93%D7%99%D7%95%D7%95%D7%97-%D7%A4%D7%99%D7%A6%D7%95%D7%A6%D7%99%D7%9D-%D7%91%D7%A0%D7%93%D7%A8-%D7%A2%D7%91%D7%90%D7%A1-%D7%90%D7%99%D7%A8%D7%90%D7%9F",
+          "source": "סרוגים"
         },
         {
-          "title": "זום אינפו סוגרת את מרכז הפיתוח בישראל – 300 עובדים יפוטרו",
+          "title": "בתקשורת האיראנית מדווחים על פיצוצים שנשמעו בדרום המדינה",
           "snippet": "",
-          "url": "https://www.themarker.com/technation/2026-05-10/ty-article/.premium/0000019e-115d-d222-a19f-51df425f0000",
-          "source": "TheMarker"
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001542253",
+          "source": "גלובס"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "יונית לוי",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 10 May 2026 04:50:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKMlUzOHSI72pbZ-o-CdHXYFoifxnSZPJMw_aigmIAGMmHTZ-oi09ZTRfWu0s",
       "pictureSource": "היום",
@@ -58,224 +254,28 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "דונלד טראמפ",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 10 May 2026 04:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQ5ZzGy7HWVYAxPt3itjEUuCcheaHbKH0tudNWop0sWZkRpAiaYcqS_cLUTlE",
-      "pictureSource": "הארץ",
-      "relatedSearch": [
-        {
-          "title": "טראמפ עורר ציפיות להסכם עם איראן, שלא ממהרת ליישר איתו קו",
-          "snippet": "",
-          "url": "https://www.haaretz.co.il/news/politics/2026-05-10/ty-article/.highlight/0000019e-0e36-d790-a3ff-fff750ac0000",
-          "source": "הארץ"
-        },
-        {
-          "title": "דיווח: איראן תעביר היום לארה\"ב תשובה על ההצעה האמריקאית",
-          "snippet": "",
-          "url": "https://www.maariv.co.il/breaking-news/article-1319516",
-          "source": "מעריב"
-        },
-        {
-          "title": "צה\"ל תקף בדרום לבנון; רחפן נפץ ששיגר חיזבאללה אותר בצפון",
-          "snippet": "",
-          "url": "https://www.kan.org.il/content/kan-news/defense/live-1038905/",
-          "source": "כאן 11"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "מישל גרציג",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 10 May 2026 04:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3CDDVOE6TaxLy6ZnjK7-SX6A4HfzQHdFbp7OW5uxK2vEH3LvWYeNGa0vw8eY",
-      "pictureSource": "Mako",
-      "relatedSearch": [
-        {
-          "title": "דיווחים מעבר לים: מישל גרציג הטילה וטו על ההצעה שקיבל בעלה טיבו קורטואה",
-          "snippet": "",
-          "url": "https://www.mako.co.il/entertainment-celebs/local-2026/Article-b8f5ffd46a01e91027.htm",
-          "source": "Mako"
-        },
-        {
-          "title": "משבר בנישואים של מישל גרציג וטיבו קורטואה - יוותר על 30 מיליון יורו",
-          "snippet": "",
-          "url": "https://tmi.maariv.co.il/celebs-news/article-1319488",
-          "source": "TMI"
-        },
-        {
-          "title": "דיווחים מעבר לים: מישל גרציג הטילה וטו על בעלה - בסביבתם טוענים שמדובר בשקר מוחלט",
-          "snippet": "",
-          "url": "https://pplus.ynet.co.il/rechilut/article/s15nvatcze",
-          "source": "פנאי פלוס"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ליונל מסי",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 10 May 2026 04:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAscDlrK8Co7a7bDJak9oC79w8MmmJQX_VYwsgCnHqRZO8N89jwip3P7e_UgE",
-      "pictureSource": "גלובס",
-      "relatedSearch": [
-        {
-          "title": "מושך מיליארדי דולרים: כך הפך מסי למנוע הכסף של מיאמי",
-          "snippet": "",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001542119",
-          "source": "גלובס"
-        },
-        {
-          "title": "\"ניימאר צפוי להיות בסגל המורחב של ברזיל\"",
-          "snippet": "",
-          "url": "https://www.sport5.co.il/articles.aspx?FolderID=5166&docID=543833",
-          "source": "ספורט 5"
-        },
-        {
-          "title": "ההחלטה של אנצ'לוטי? המסר החד משמעי של ליאו מסי על עתיד ניימאר במונדיאל",
-          "snippet": "",
-          "url": "https://sport1.maariv.co.il/world-soccer/article/1846884/",
-          "source": "ספורט 1"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "נאור נרקיס",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 10 May 2026 03:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPEiv42h0vVYrnaAZwBfrxK5BnXzOkhajApAfoQxQrdZXKrcWSjqCeeupAGrs",
-      "pictureSource": "ynet",
-      "relatedSearch": [
-        {
-          "title": "מרדכי דוד וחבורתו התנכלו לנאור נרקיס ובן זוגו - ונכנסו גם לאולם הקולנוע: \"קוקסינל\"",
-          "snippet": "",
-          "url": "https://www.ynet.co.il/news/article/skcbqht011g",
-          "source": "ynet"
-        },
-        {
-          "title": "\"הומואים חולי איידס\": נאור נרקיס ובן זוגו הוטרדו על ידי מרדכי דוד",
-          "snippet": "",
-          "url": "https://tmi.maariv.co.il/celebs-news/article-1319422",
-          "source": "TMI"
-        },
-        {
-          "title": "נאור נרקיס נחסם על ידי מרדכי דוד: \"הקיפו אותנו וקראו לנו חולי איידס\"",
-          "snippet": "",
-          "url": "https://www.ice.co.il/media/news/article/1112388",
-          "source": "ice (אייס)"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "יעל שלביה",
+      "title": "זום אינפו",
       "trafficCount": "1000+",
-      "pubDate": "Sun, 10 May 2026 03:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkCGgugBnpKFKAj-GGkgIfwqVB0UKB7J2fA_6bmzKb5BUlcQo9XcaT-G4cAsg",
-      "pictureSource": "TMI",
+      "pubDate": "Sun, 10 May 2026 04:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYinwnqHUe0xYNUQnV_a7u_1U_vblOTwyPcrbcncOEVAOKI5PzoBAbqMSHqts",
+      "pictureSource": "mako",
       "relatedSearch": [
         {
-          "title": "על יאכטה יוקרתית: לאנס סטרול ויעל שלביה הכי צמודים שיש",
+          "title": "מרכז הפיתוח בישראל נסגר במפתיע, 300 יפוטרו",
           "snippet": "",
-          "url": "https://tmi.maariv.co.il/celebs-news/article-1319448",
-          "source": "TMI"
+          "url": "https://www.mako.co.il/nexter-news/Article-0559004fd911e91026.htm",
+          "source": "mako"
         },
         {
-          "title": "יעל שלביה ולאנס סטרול כובשים יחד",
+          "title": "בשיחת זום ובהפתעה מוחלטת: Zoominfo פיטרה 300 עובדים וסוגרת את מרכז הפיתוח בישראל",
           "snippet": "",
-          "url": "https://www.one.co.il/Glitch/72194/%D7%99%D7%A2%D7%9C-%D7%A9%D7%9C%D7%91%D7%99%D7%94-%D7%95%D7%9C%D7%90%D7%A0%D7%A1-%D7%A1%D7%98%D7%A8%D7%95%D7%9C-%D7%9B%D7%95%D7%91%D7%A9%D7%99%D7%9D-%D7%99%D7%97%D7%93",
-          "source": "ONE"
+          "url": "https://www.geektime.co.il/zoominfo-shuts-down-israeli-rd-center-lays-off-300/",
+          "source": "גיקטיים"
         },
         {
-          "title": "לאנס סטרול ויעל שלביה נצפו באירוע של אסטון מרטין",
+          "title": "זום אינפו סוגרת את מרכז הפיתוח בישראל – 300 עובדים יפוטרו",
           "snippet": "",
-          "url": "https://www.sport5.co.il/articles.aspx?FolderID=618&docID=543270",
-          "source": "ספורט 5"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "lsg vs csk",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 10 May 2026 03:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qY72RNpaUrjGq4cUzyrUqVDjC1wvaqvlT_qFS7Xqyjh8zz-AI1AzTNk-eNY",
-      "pictureSource": "Cricbuzz",
-      "relatedSearch": [
-        {
-          "title": "CSK vs LSG, 53rd Match, Indian Premier League 2026 - Commentary",
-          "snippet": "",
-          "url": "https://www.cricbuzz.com/live-cricket-scores/152086/lsg-vs-csk-53rd-match-indian-premier-league-2026",
-          "source": "Cricbuzz"
-        },
-        {
-          "title": "Akeal's battle with brutal Marsh, Samson's impact: Talking points ahead of CSK-LSG clash",
-          "snippet": "",
-          "url": "https://www.indiasnews.net/news/279041844/akeal-battle-with-brutal-marsh-samson-impact-talking-points-ahead-of-csk-lsg-clash",
-          "source": "India's News.Net"
-        },
-        {
-          "title": "Chennai Super Kings choose to field after winning toss against Lucknow Super Giants",
-          "snippet": "",
-          "url": "https://thenewsmill.com/2026/05/chennai-super-kings-choose-to-field-after-winning-toss-against-lucknow-super-giants/",
-          "source": "The News Mill"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "בן אפלק",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 10 May 2026 02:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBJU7dpJmFCp2-ZoIBMK-yNfm8UP7NN3tlsiqMGIsV4izorfuo1lQAz7ktius",
-      "pictureSource": "Mako",
-      "relatedSearch": [
-        {
-          "title": "בן אפלק ומאט דיימון נתבעים: \"נזק משמעותי\"",
-          "snippet": "",
-          "url": "https://www.mako.co.il/culture-articles/Article-e684afb00501e91027.htm",
-          "source": "Mako"
-        },
-        {
-          "title": "בגלל הלהיט בנטפליקס: בן אפלק ומאט דיימון הסתבכו עם המשטרה",
-          "snippet": "",
-          "url": "https://e.walla.co.il/item/3836904",
-          "source": "וואלה תרבות"
-        },
-        {
-          "title": "הפסד של כמעט 20 מיליון דולר: ג'ניפר לופז מנסה להיפטר מהזיכרון האחרון מבן אפלק",
-          "snippet": "",
-          "url": "https://tmi.maariv.co.il/world-celebs/article-1318574",
-          "source": "TMI"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "אנבידיה",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 10 May 2026 02:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS33iVTLYPWuiwcyX5-YG8oIifg0JUezj-WFwDTCl6ZWT_e3WIXeMxgrk8hR_E",
-      "pictureSource": "Mako",
-      "relatedSearch": [
-        {
-          "title": "השקעת הענק הבאה של אנבידיה בישראל",
-          "snippet": "",
-          "url": "https://www.mako.co.il/finances-real-estate/Article-0b2bb1721c01e91026.htm",
-          "source": "Mako"
-        },
-        {
-          "title": "פרויקט יוצא דופן: חברת NVIDIA מגיעה ליקנעם",
-          "snippet": "",
-          "url": "https://www.maariv.co.il/economy/israel/article-1319374",
-          "source": "מעריב"
-        },
-        {
-          "title": "\"חזרנו לכאן כי זה מקום מקסים, עם הרבה טבע, משהו בין יישוב קהילתי לעיר\"",
-          "snippet": "",
-          "url": "https://www.themarker.com/realestate/openhouse/2026-05-08/ty-article-magazine/.premium/0000019d-e970-d7c2-affd-effdbb2e0000",
+          "url": "https://www.themarker.com/technation/2026-05-10/ty-article/.premium/0000019e-115d-d222-a19f-51df425f0000",
           "source": "TheMarker"
         }
       ],

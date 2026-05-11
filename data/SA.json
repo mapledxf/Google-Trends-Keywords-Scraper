@@ -1,86 +1,254 @@
 {
-  "lastUpdate": "2026-05-11 10:32:15",
+  "lastUpdate": "2026-05-11 13:25:43",
   "data": [
     {
-      "title": "جدة",
+      "title": "ذهب",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 11 May 2026 05:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9qG2S8ZkHiEW7wD2r8TQ0nnH7BHMETpXeknbdNhA3M3yTD2MxKjGHkNFoo7g",
+      "pictureSource": "صحيفة سبق الإلكترونية",
+      "relatedSearch": [
+        {
+          "title": "انخفاض أسعار الذهب بفعل المخاوف من التضخم وارتفاع الدولار",
+          "snippet": "",
+          "url": "https://sabq.org/article/h1AGH4E",
+          "source": "صحيفة سبق الإلكترونية"
+        },
+        {
+          "title": "حذاري من فخ الذهب! أين يتجه الذهب الأسبوع القادم؟ وهل أشتري الآن؟ ?",
+          "snippet": "",
+          "url": "https://sa.investing.com/analysis/article-200501137",
+          "source": "Investing.com"
+        },
+        {
+          "title": "توقعات بوصول الذهب إلى مستوى 5 آلاف دولار للأونصة قبل منتصف العام الحالي",
+          "snippet": "",
+          "url": "https://www.alarabiya.net/aswaq/videos/power-lunch/2026/05/10/%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D8%AA-%D8%A8%D9%88%D8%B5%D9%88%D9%84-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%A7%D9%84%D9%89-%D9%85%D8%B3%D8%AA%D9%88%D9%89-5-%D8%A7%D9%84%D8%A7%D9%81-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%84%D9%84%D8%A7%D9%88%D9%86%D8%B5%D8%A9-%D9%82%D8%A8%D9%84-%D9%85%D9%86%D8%AA%D8%B5%D9%81-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D9%8A",
+          "source": "العربية"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "وقود",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 11 May 2026 04:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8w99pPi_7jhRd8289q9xJQuTN1Vri0BWAeHr1qo77tuXMQWf0B273LXblznw",
+      "pictureSource": "العربية",
+      "relatedSearch": [
+        {
+          "title": "شركات الطيران تخفض الأسعار وسط مخاوف نقص وقود الطائرات",
+          "snippet": "",
+          "url": "https://www.alarabiya.net/aswaq/special-stories/2026/05/11/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%AE%D9%81%D8%B6-%D8%A7%D9%84%D8%A7%D8%B3%D8%B9%D8%A7%D8%B1-%D9%88%D8%B3%D8%B7-%D9%85%D8%AE%D8%A7%D9%88%D9%81-%D9%86%D9%82%D8%B5-%D9%88%D9%82%D9%88%D8%AF-%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA",
+          "source": "العربية"
+        },
+        {
+          "title": "شركات الطيران الأوروبية تخفض أسعار رحلات الصيف مع تراجع الحجوزات",
+          "snippet": "",
+          "url": "https://www.alarabiya.net/aswaq/travel-and-tourism/2026/05/11/-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%A7%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9-%D8%AA%D8%AE%D9%81%D8%B6-%D8%A7%D8%B3%D8%B9%D8%A7%D8%B1-%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D9%8A%D9%81-%D9%85%D8%B9-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%A7%D9%84%D8%AD%D8%AC%D9%88%D8%B2%D8%A7%D8%AA",
+          "source": "العربية"
+        },
+        {
+          "title": "الاتحاد الأوروبي: أزمة إيران لا تستدعي حتى الآن اتخاذ إجراءات لقطاع السياحة",
+          "snippet": "",
+          "url": "https://www.alquds.co.uk/%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A-%D8%A3%D8%B2%D9%85%D8%A9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%84%D8%A7-%D8%AA%D8%B3%D8%AA%D8%AF%D8%B9%D9%8A/",
+          "source": "القدس العربي"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "cbse class 12th result",
       "trafficCount": "100+",
+      "pubDate": "Mon, 11 May 2026 04:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7440N6kzAXkD3tmbe6Q5aw56ddmaXPhci3nIh8drLkp44VEtQ7R0c-rGbgpM",
+      "pictureSource": "NDTV",
+      "relatedSearch": [
+        {
+          "title": "CBSE 12th Result 2026 LIVE Updates: Scorecard Releasing Today? DigiLocker Hints 'Coming Soon'",
+          "snippet": "",
+          "url": "https://www.ndtv.com/education/cbse-12th-result-2026-live-updates-direct-link-at-cbse-gov-in-official-website-marksheet-download-check-pass-percentage-toppers-list-scorecard-details-11477528",
+          "source": "NDTV"
+        },
+        {
+          "title": "CBSE Class 12 results 2026: Whe will the marks be declared?",
+          "snippet": "",
+          "url": "https://www.thehindu.com/education/cbse-class-12-results-2026-how-to-check-marks/article70965164.ece",
+          "source": "The Hindu"
+        },
+        {
+          "title": "CBSE Class 12 Result 2026 Delayed Due To New OSM Scheme? Here’s What We Know So Far",
+          "snippet": "",
+          "url": "https://www.goodreturns.in/news/cbse-class-12-result-2026-delayed-due-to-new-osm-scheme-here-s-what-we-know-so-far-1507473.html",
+          "source": "Goodreturns"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "sam altman",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 11 May 2026 04:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1oXggnd12NsigeaQFrBbXv7PYK1KgY7wfNn-LFASwrhaTNVQxU022Jytv8so",
+      "pictureSource": "AP News",
+      "relatedSearch": [
+        {
+          "title": "OpenAI president discloses his stake in the company is worth $30B",
+          "snippet": "",
+          "url": "https://apnews.com/article/brockman-musk-altman-openai-trial-837bdc3fbced2a02f0f93a1899260bdd",
+          "source": "AP News"
+        },
+        {
+          "title": "Sam Altman’s Empire Crumbles While A Literature Grad Builds A Better One",
+          "snippet": "",
+          "url": "https://www.2oceansvibe.com/artificial-intelligence/sam-altmans-empire-crumbles-while-a-literature-grad-builds-a-better-one/",
+          "source": "2oceansvibe News"
+        },
+        {
+          "title": "Brockman Journal Entries Enter Evidence in Musk Lawsuit",
+          "snippet": "",
+          "url": "https://letsdatascience.com/news/brockman-journal-entries-enter-evidence-in-musk-lawsuit-778495af",
+          "source": "Let's Data Science"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "سهم علم",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 11 May 2026 03:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReNGFkQImDcQoCFF-0eXUZyoMpqiD1FzGjVnhBzBP2woDgfw8pHL5279QQ6lY",
+      "pictureSource": "العربية",
+      "relatedSearch": [
+        {
+          "title": "مؤشر سوق الأسهم السعودية يتداول عند أعلى مستوى في 7 جلسات",
+          "snippet": "",
+          "url": "https://www.alarabiya.net/aswaq/financial-markets/2026/05/11/%D9%85%D8%A4%D8%B4%D8%B1-%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%A7%D8%B3%D9%87%D9%85-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%8A%D8%AA%D8%AF%D8%A7%D9%88%D9%84-%D8%B9%D9%86%D8%AF-%D8%A7%D8%B9%D9%84%D9%89-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D9%81%D9%8A-7-%D8%AC%D9%84%D8%B3%D8%A7%D8%AA",
+          "source": "العربية"
+        },
+        {
+          "title": "مؤشر الأسهم السعودية يغلق فوق 11 ألف نقطة بارتفاع 83 نقطة وتداولات بـ4.8 مليارات ريال",
+          "snippet": "",
+          "url": "https://sabq.org/article/QDfZxep",
+          "source": "صحيفة سبق الإلكترونية"
+        },
+        {
+          "title": "مؤشرات الأسهم في السعوديه ارتفعت عند نهاية جلسة اليوم؛ المؤشر العام السعودي صعد نحو 0.39%",
+          "snippet": "",
+          "url": "https://sa.investing.com/news/stock-market-news/article-3236805",
+          "source": "Investing.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "جدة",
+      "trafficCount": "200+",
       "pubDate": "Mon, 11 May 2026 03:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzmWcU1RvOBNn4zlrpuxjuELocxd2g0UDlhVZ6GjZwy_1OT44BLsw_rmZCses",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxhR7MhdKdOdcCgNXy3APiwPydr4ERGJliSMAO2miHsgQ_pKlhjnME1WDNowM",
       "pictureSource": "وكالة الأنباء السعودية",
       "relatedSearch": [
         {
-          "title": "صحي / نائب أمير القصيم يتسلّم التقرير السنوي لفرع هيئة الهلال الأحمر بالمنطقة",
+          "title": "عام / أمين محافظة جدة السابق يرفع الشكر للقيادة بمناسبة منحه وسام الملك عبدالعزيز من الدرجة الأولى",
           "snippet": "",
-          "url": "https://www.spa.gov.sa/N2582035",
+          "url": "https://www.spa.gov.sa/N2581518",
           "source": "وكالة الأنباء السعودية"
         },
         {
-          "title": "نائب أمير المدينة يطلع على خطة الهلال الأحمر لموسم الحج",
+          "title": "أهالي «العروس».. ينتظرون الأمين رقم 10",
           "snippet": "",
-          "url": "https://www.alriyadh.com/2187915",
-          "source": "جريدة الرياض"
+          "url": "https://www.okaz.com.sa/local/na/2247122",
+          "source": "عكاظ"
         },
         {
-          "title": "محافظ جدة يطّلع على خطة تشغيل الهلال الأحمر لاستقبال الحجاج",
+          "title": "أمانة جدة: إنجازات 'صالح التركي' تعكس شخصية 'الأرقام' على أرض الواقع - جريدة المدينة",
           "snippet": "",
-          "url": "https://www.mnbr.news/463890.html",
-          "source": "صحيفة منبر الإلكترونية"
+          "url": "https://www.al-madina.com/article/988466/%D9%85%D8%AD%D9%84%D9%8A%D8%A7%D8%AA/%D8%A3%D9%85%D8%A7%D9%86%D8%A9-%D8%AC%D8%AF%D8%A9-%D8%A5%D9%86%D8%AC%D8%A7%D8%B2%D8%A7%D8%AA-%D8%B5%D8%A7%D9%84%D8%AD-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D8%AA%D8%B9%D9%83%D8%B3-%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B1%D9%82%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%A3%D8%B1%D8%B6-%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9",
+          "source": "جريدة المدينة"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "إيران",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Mon, 11 May 2026 03:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6qYl2CLY5s6IQcyhoy0JInqPV5JEsd2ZyaijJjxQJHE_iRByoUWVVOaVttqQ",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_THcAggxghDIrw4twqKeo-cG1i5sX_iu0v3Ph8qlJp8zag9VAJEovDyOdfyk",
+      "pictureSource": "CNN Arabic",
       "relatedSearch": [
         {
-          "title": "إيران تقول إنها طالبت بإنهاء الحرب في المنطقة والإفراج عن أصولها المجمّدة رداً على المقترح الأمريكي",
+          "title": "إعلام إيراني يكشف ما جاء في رد طهران على المقترح الأمريكي",
           "snippet": "",
-          "url": "https://www.bbc.com/arabic/live/c4g87rx5e38t",
-          "source": "BBC"
+          "url": "https://arabic.cnn.com/middle-east/article/2026/05/11/state-media-irans-response-to-us-proposal-includes-hormuz-sovereignty-and-compensation",
+          "source": "CNN Arabic"
         },
         {
-          "title": "ترامب يصف أوباما بـ «المغفل الضعيف» بسبب «ضحكات إيران».. اعرف القصة",
+          "title": "الردّ الإيراني على مقترح وقف الحرب.. هذه أبرز التفاصيل",
           "snippet": "",
-          "url": "https://www.youm7.com/story/2026/5/11/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%B5%D9%81-%D8%A3%D9%88%D8%A8%D8%A7%D9%85%D8%A7-%D8%A8%D9%80-%C2%AB%D8%A7%D9%84%D9%85%D8%BA%D9%81%D9%84-%D8%A7%D9%84%D8%B6%D8%B9%D9%8A%D9%81%C2%BB-%D8%A8%D8%B3%D8%A8%D8%A8-%C2%AB%D8%B6%D8%AD%D9%83%D8%A7%D8%AA-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%C2%BB-%D8%A7%D8%B9%D8%B1%D9%81/7411702",
-          "source": "اليوم السابع"
+          "url": "https://www.skynewsarabia.com/world/1868872-%D8%A7%D9%84%D8%B1%D8%AF-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D9%88%D9%82%D9%81-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D9%87%D8%B0%D9%87-%D8%A3%D8%A8%D8%B1%D8%B2-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84",
+          "source": "سكاي نيوز عربية"
         },
         {
-          "title": "إيران ترفض بحث النووي في ردها على المقترح الأميركي وتركّز على مضيق هرمز وأمن الملاحة",
+          "title": "ترمب يرفض الرد الإيراني... وطهران: مطالب واشنطن «غير معقولة» (تغطية حية)",
           "snippet": "",
-          "url": "https://sabq.org/article/PUMGgi7",
-          "source": "صحيفة سبق الإلكترونية"
+          "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/5246834-%D8%AA%D8%B1%D9%85%D8%A8-%D9%8A%D8%B1%D9%81%D8%B6-%D8%A7%D9%84%D8%B1%D8%AF-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%88%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D9%85%D8%B7%D8%A7%D9%84%D8%A8-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%BA%D9%8A%D8%B1-%D9%85%D8%B9%D9%82%D9%88%D9%84%D8%A9-%D8%AA%D8%BA%D8%B7%D9%8A%D8%A9-%D8%AD%D9%8A%D8%A9",
+          "source": "الشرق الأوسط"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ليندسي غراهام",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 11 May 2026 03:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNuMBdtEV7O65o-zf3R_crxX4j0IcPAMDHOtI4CRAHXfDJk7yJ6Ukk3f5ol5Q",
+      "pictureSource": "العربية",
+      "relatedSearch": [
+        {
+          "title": "غراهام يدعو إلى إطلاق \"مشروع الحرية بلس\" بعد رفض ترامب رد إيران",
+          "snippet": "",
+          "url": "https://www.alarabiya.net/arab-and-world/american-elections-2016/2026/05/11/%D8%BA%D8%B1%D8%A7%D9%87%D8%A7%D9%85-%D9%8A%D8%AF%D8%B9%D9%88-%D8%A7%D9%84%D9%89-%D8%A7%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%A9-%D8%A8%D9%84%D8%B3-%D8%A8%D8%B9%D8%AF-%D8%B1%D9%81%D8%B6-%D8%B1%D8%AF-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86",
+          "source": "العربية"
+        },
+        {
+          "title": "ليندسي غراهام يدعو لتغيير نهج التعامل مع إيران",
+          "snippet": "",
+          "url": "https://www.skynewsarabia.com/world/1868717-%D9%84%D9%8A%D9%86%D8%AF%D8%B3%D9%8A-%D8%BA%D8%B1%D8%A7%D9%87%D8%A7%D9%85-%D9%8A%D8%AF%D8%B9%D9%88-%D9%84%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D9%86%D9%87%D8%AC-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%85%D9%84-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+          "source": "سكاي نيوز عربية"
+        },
+        {
+          "title": "فتح باب الحرب.. غراهام يطالب ترامب بتدمير منشآت إيران النووية",
+          "snippet": "",
+          "url": "https://www.eremnews.com/news/world/xiny9bp",
+          "source": "إرم نيوز"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "السودان",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 11 May 2026 02:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0xv356PyR-MU1_MFbpwhraMNiq5BVajowUZLjKBjSpp6jGGYV2zv-BwQD9Xg",
-      "pictureSource": "سكاي نيوز عربية",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBOnwYJj7DTuwesRE6E0iP5V6hsHfZCnMi9UIkw2bBSjh5GAXbGselm2e4lv0",
+      "pictureSource": "الشرق الأوسط",
       "relatedSearch": [
         {
-          "title": "مقتل مدنيين بقصف مسيّرة على طريق في السودان",
+          "title": "880 قتيلاً مدنياً بالمسيّرات في السودان بين يناير وأبريل",
           "snippet": "",
-          "url": "https://www.skynewsarabia.com/video/1868756-%D9%85%D9%82%D8%AA%D9%84-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%B7%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86",
-          "source": "سكاي نيوز عربية"
+          "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7/5271960-880-%D9%82%D8%AA%D9%8A%D9%84%D8%A7%D9%8B-%D9%85%D8%AF%D9%86%D9%8A%D8%A7%D9%8B-%D8%A8%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D9%91%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%A8%D9%8A%D9%86-%D9%8A%D9%86%D8%A7%D9%8A%D8%B1-%D9%88%D8%A3%D8%A8%D8%B1%D9%8A%D9%84",
+          "source": "الشرق الأوسط"
         },
         {
-          "title": "السودان.. تحالف تأسيس يتهم قوات بورتسودان بارتكاب مجزرة في جنوب كردفان",
+          "title": "880 قتيلا مدنيا على الأقل بالمسيّرات في السودان بين كانون الثاني/يناير ونيسان/أبريل (الامم المتحدة)",
           "snippet": "",
-          "url": "https://www.eremnews.com/news/arab-world/k5hbqd6",
-          "source": "إرم نيوز"
+          "url": "https://www.mc-doualiya.com/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9/20260511-880-%D9%82%D8%AA%D9%8A%D9%84%D8%A7-%D9%85%D8%AF%D9%86%D9%8A%D8%A7-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D9%82%D9%84-%D8%A8%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D9%91%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%A8%D9%8A%D9%86-%D9%83%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D9%8A%D9%86%D8%A7%D9%8A%D8%B1-%D9%88%D9%86%D9%8A%D8%B3%D8%A7%D9%86-%D8%A3%D8%A8%D8%B1%D9%8A%D9%84-%D8%A7%D9%84%D8%A7%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9",
+          "source": "مونت كارلو الدولية"
         },
         {
-          "title": "الامم المتحدة :880 قتيلا مدنيا على الأقل بالمسيّرات في السودان بين كانون الثاني ونيسان",
+          "title": "الأمم المتحدة تحذر من اتساع الصراع في السودان - جريدة المدينة",
           "snippet": "",
-          "url": "https://www.nna-leb.gov.lb/ar/news/516429/%D8%A7%D9%84%D8%A7%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-880-%D9%82%D8%AA%D9%8A%D9%84%D8%A7-%D9%85%D8%AF%D9%86%D9%8A%D8%A7-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D9%82%D9%84-%D8%A8%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D9%91%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%A8%D9%8A%D9%86-%D9%83%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D9%88%D9%86%D9%8A%D8%B3%D8%A7%D9%86-2",
-          "source": "nna-leb"
+          "url": "https://www.al-madina.com/article/988692/%D8%AF%D9%88%D9%84%D9%8A%D8%A9/%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%A7%D8%AA%D8%B3%D8%A7%D8%B9-%D8%A7%D9%84%D8%B5%D8%B1%D8%A7%D8%B9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86",
+          "source": "جريدة المدينة"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -109,174 +277,6 @@
           "snippet": "",
           "url": "https://www.whowhatwear.com/fashion/celebrity-style/chanel-jeans-bhavitha-mandava-met-gala-red-carpet-2026",
           "source": "Who What Wear"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "trisha krishnan",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 11 May 2026 01:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcWytHOAJxMwuKeMmVwo3Zn_ll0ah6WFi3s4wk9ZqPto2jF5bTBbTrzOJDP6M",
-      "pictureSource": "The Hindu",
-      "relatedSearch": [
-        {
-          "title": "‘Karuppu’ trailer: Suriya is a godly vigilante lawyer in RJ Balaji’s actioner",
-          "snippet": "",
-          "url": "https://www.thehindu.com/entertainment/movies/karuppu-trailer-suriya-is-a-godly-vigilante-lawyer-in-rj-balajis-actioner/article70965053.ece",
-          "source": "The Hindu"
-        },
-        {
-          "title": "Thalapathy Vijay to release THIS Tamil film after he assumes office?",
-          "snippet": "",
-          "url": "https://www.bollywoodlife.com/viral-stories/thalapathy-vijay-to-release-this-tamil-film-after-he-assumes-office-3341016/",
-          "source": "Bollywood Life"
-        },
-        {
-          "title": "Suriya’s Veera Bhadrudu Gets Big Telugu Boost as Annapurna Studios Steps In",
-          "snippet": "",
-          "url": "https://tmv.in/article/suriyas-veera-bhadrudu-gets-big-telugu-boost-as-annapurna-studios-steps-in",
-          "source": "The Morning Voice"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "كأس العالم",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 11 May 2026 01:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrGirStjF4ypz6S7zqiF_Mp42T6vnZz0EEBYk9Q2DqW5jNcuTWiOBEkOy3KGY",
-      "pictureSource": "Kooora",
-      "relatedSearch": [
-        {
-          "title": "الأزمات تتضاعف.. المونديال يتلقى ضربة قوية من أوروبا",
-          "snippet": "",
-          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D9%84%D8%A7%D9%94%D8%B2%D9%85%D8%A7%D8%AA-%D8%AA%D8%AA%D8%B6%D8%A7%D8%B9%D9%81--%D8%A7%D9%84%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-%D9%8A%D8%AA%D9%84%D9%82%D9%89-%D8%B6%D8%B1%D8%A8%D8%A9-%D9%82%D9%88%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%94%D9%88%D8%B1%D9%88%D8%A8%D8%A7/bltb0982bdedc5071c7",
-          "source": "Kooora"
-        },
-        {
-          "title": "جي بالفين سيكون أحد نجوم حفل افتتاح كأس العالم 2026",
-          "snippet": "",
-          "url": "https://arabic.cnn.com/entertainment/article/2026/05/10/j-balvin-will-be-one-of-the-stars-of-the-2026-world-cup-opening-ceremony",
-          "source": "CNN Arabic"
-        },
-        {
-          "title": "بمشاركة نجوم الموسيقى العالميين..\r3 حفلات افتتاحية في مونديال 2026",
-          "snippet": "",
-          "url": "https://www.okaz.com.sa/sport/na/2247894",
-          "source": "عكاظ"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "etihad",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 11 May 2026 01:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQETjTVpFJVV_7BE47ERbr1nlFLuz-ayTCC6sDG_SX63PAsQ_56hB8W6LoZerw",
-      "pictureSource": "Gulf News",
-      "relatedSearch": [
-        {
-          "title": "Etihad launches flight sale with up to 30% off summer fares",
-          "snippet": "",
-          "url": "https://gulfnews.com/business/aviation/etihad-launches-flight-sale-with-up-to-30-off-summer-fares-1.500536451",
-          "source": "Gulf News"
-        },
-        {
-          "title": "Etihad launches flight sale with return fares from Dhs990",
-          "snippet": "",
-          "url": "https://whatson.ae/2026/05/etihad-launches-flight-sale-with-return-fares-from-dhs990/",
-          "source": "What's On"
-        },
-        {
-          "title": "Etihad Global Economy & Business Up To 30% Off Sale For Travel Through October 2026 (Book By May 14)",
-          "snippet": "",
-          "url": "https://loyaltylobby.com/2026/05/10/etihad-global-economy-business-up-to-30-off-sale-for-travel-through-october-2026-book-by-may-14/",
-          "source": "LoyaltyLobby"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "الغرفة التجارية",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 11 May 2026 01:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTUFn5VFRxrAndMtiiD47lsy0gnMPRfUJe7cFpn7-9kJvQNgMeY73PuLWwzizo",
-      "pictureSource": "Vietnam.vn",
-      "relatedSearch": [
-        {
-          "title": "انخفضت أسعار لحوم الدجاج والبيض بشكل حاد.",
-          "snippet": "",
-          "url": "https://www.vietnam.vn/ar/gia-ga-thit-va-trung-giam-sau",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "توقعات تراجع أسعار الدواجن في مصر مع اقتراب موسم عيد الأضحى",
-          "snippet": "",
-          "url": "https://radar2.net/1094101/%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D8%AA-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D8%AC%D9%86-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D9%85%D8%B9-%D8%A7%D9%82/",
-          "source": "موقع رادار"
-        },
-        {
-          "title": "اليوم العالمي للدواجن.. مصر تقترب من الاكتفاء الذاتي بإنتاج يتجاوز 2.6 مليون طن سنويًا",
-          "snippet": "",
-          "url": "https://www.alboslanews.com/%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9/%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D9%84%D9%84%D8%AF%D9%88%D8%A7%D8%AC%D9%86-%D9%85%D8%B5%D8%B1-%D8%AA%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D9%83%D8%AA%D9%81%D8%A7%D8%A1-%D8%A7%D9%84%D8%B0%D8%A7%D8%AA%D9%8A-%D8%A8%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D9%8A%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-26-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%B7%D9%86-%D8%B3%D9%86%D9%88%D9%8A%D9%8B%D8%A7-418387",
-          "source": "مجلة البوصلة الاقتصادية"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "طارق العريان",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 10 May 2026 22:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMVdCTKJJHt7IJOA6Pxjtujj2lprLBwU6y8r2u7hsIsZA5RSXtPLPHiuZsSKc",
-      "pictureSource": "صدى البلد",
-      "relatedSearch": [
-        {
-          "title": "بالأحمر النارى.. طارق العريان وزوجته يتبادلان الرومانسية فى آخر ظهور لهما",
-          "snippet": "",
-          "url": "https://www.elbalad.news/6966661",
-          "source": "صدى البلد"
-        },
-        {
-          "title": "العريان وريا.. يناقشان تفـوق السينما العربية في كان",
-          "snippet": "",
-          "url": "https://www.alriyadh.com/2188079",
-          "source": "جريدة الرياض"
-        },
-        {
-          "title": "مركز السينما العربية يناقش صعود السينما العربية عالميا خلال مهرجان كان السينمائي",
-          "snippet": "",
-          "url": "https://www.hiamag.com/%D8%AA%D8%B1%D9%81%D9%8A%D9%87-%D9%88%D9%81%D9%86%D9%88%D9%86/%D8%AA%D8%B1%D9%81%D9%8A%D9%87/1797728-%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%B3%D9%8A%D9%86%D9%85%D8%A7-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%8A%D9%86%D8%A7%D9%82%D8%B4-%D8%B5%D8%B9%D9%88%D8%AF-%D8%A7%D9%84%D8%B3%D9%8A%D9%86%D9%85%D8%A7-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A7-%D8%AE%D9%84%D8%A7%D9%84-%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D9%83%D8%A7%D9%86",
-          "source": "www.hiamag.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ماهر الأسد",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 10 May 2026 19:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8QYDaIUPc96xeBAwMuq6ZP689H6JIcHvmFnKP5VcXCbzMNP_DzkoWyLLwh3Y",
-      "pictureSource": "الشرق الأوسط",
-      "relatedSearch": [
-        {
-          "title": "تجريد بشار وماهر الأسد من حقوقهما المدنية",
-          "snippet": "",
-          "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/5271808-%D8%AA%D8%AC%D8%B1%D9%8A%D8%AF-%D8%A8%D8%B4%D8%A7%D8%B1-%D9%88%D9%85%D8%A7%D9%87%D8%B1-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D9%85%D9%86-%D8%AD%D9%82%D9%88%D9%82%D9%87%D9%85%D8%A7-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D8%A9",
-          "source": "الشرق الأوسط"
-        },
-        {
-          "title": "القضاء السوري يتهم عاطف نجيب بانتهاكات في درعا ترقى لـ\"جرائم حرب\"",
-          "snippet": "",
-          "url": "https://www.alarabiya.net/arab-and-world/syria/2026/05/10/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%AC%D9%84%D8%B3%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%85%D8%AD%D8%A7%D9%83%D9%85%D8%A9-%D9%83%D8%A8%D8%A7%D8%B1-%D8%B1%D9%85%D9%88%D8%B2-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%A7%D8%B3%D8%AF",
-          "source": "العربية"
-        },
-        {
-          "title": "مثول \"رمز القمع\" في عهد الأسد مجدداً أمام جنايات دمشق",
-          "snippet": "",
-          "url": "https://www.aljazeera.net/video/2026/5/10/%D9%85%D8%AB%D9%88%D9%84-%D8%B1%D9%85%D8%B2-%D8%A7%D9%84%D9%82%D9%85%D8%B9-%D9%81%D9%8A-%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D9%85%D8%AC%D8%AF%D8%AF%D8%A7",
-          "source": "الجزيرة نت"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,41 +1,103 @@
 {
-  "lastUpdate": "2026-05-11 03:47:36",
+  "lastUpdate": "2026-05-11 06:55:48",
   "data": [
     {
-      "title": "латвия",
+      "title": "ukrainas ārlietu ministrs",
       "trafficCount": "200+",
-      "pubDate": "Sun, 10 May 2026 19:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGjQl8cxhPVb61GJdBy11JsvdtVWJfygq_N-EbBFjkK4EC94Vdcy5O1Xf0BI8",
-      "pictureSource": "LSM",
+      "pubDate": "Sun, 10 May 2026 22:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSjAO0mjKzkeTJPuaHA9FBdoa5P6MVdboH7Fve7BGTs_8f9D_lnYmI4DVT6sFY",
+      "pictureSource": "TVNET",
       "relatedSearch": [
+        {
+          "title": "Andris Sprūds preses konferencē paziņo par atkāpšanos no amata",
+          "snippet": "",
+          "url": "https://www.tvnet.lv/8468179/andris-spruds-preses-konference-pazino-par-atkapsanos-no-amata",
+          "source": "TVNET"
+        },
+        {
+          "title": "Eksperts: Latvija nevar rēķināties ar spēju notriekt visus dronus!",
+          "snippet": "",
+          "url": "https://www.la.lv/eksperts-latvija-nevar-rekinaties-ar-speju-notriekt-visus-dronus",
+          "source": "LA.LV"
+        },
+        {
+          "title": "Frederiks Ozols: Negatavība dronu draudiem Latvijā un Izraēlā. Ko varam mācīties",
+          "snippet": "",
+          "url": "https://www.delfi.lv/898102/versijas/120117721/frederiks-ozols-negataviba-dronu-draudiem-latvija-un-izraela-ko-varam-macities",
+          "source": "Delfi"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "krievija",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 10 May 2026 20:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-UfALDS5Typmp2fIqIAMuprup4ZJWHXdKlhhkSxVJhVyv7MW7iHoHiZbJ4hg",
+      "pictureSource": "nra",
+      "relatedSearch": [
+        {
+          "title": "Nosaukts reģions, kas pirmais atdalīsies no Krievijas",
+          "snippet": "",
+          "url": "https://nra.lv/pasaule/520749-ziemelkaukazs-pirmais-regions-kas-atdalisies-no-krievijas-pec-kara.htm",
+          "source": "nra"
+        },
+        {
+          "title": "VIDEO. Krievijas opozicionārs Kasparovs ukraiņiem norāda, kā ar vienu darbību dot “trīskāršu triecienu” Putinam un Krievijai",
+          "snippet": "",
+          "url": "https://www.la.lv/video-krievijas-opozicionars-kasparovs-ukrainiem-norada-ka-ar-vienu-darbibu-dot-triskarsu-triecienu-putinam-un-krievijai",
+          "source": "LA.LV"
+        },
+        {
+          "title": "VIDEO. Krievijas opozicionārs Kasparovs ukraiņiem norāda, kā ar vienu darbību dot “trīskāršu triecienu” Putinam un Krievijai",
+          "snippet": "",
+          "url": "https://news.inbox.lv/1507hje-video-krievijas-opozicionars-kasparovs-ukrainiem-norada-ka-ar-vienu-darbibu-dot-triskarsu-triecienu-putinam-un-krievijai?language=lv",
+          "source": "Inbox.lv"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "латвия",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 10 May 2026 19:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1HqYw_JIyjQ9zjGejXTmIVAKIVO5rUlkdE2r-x85pmkgeJVdqplgWKmLIfII",
+      "pictureSource": "DW.com",
+      "relatedSearch": [
+        {
+          "title": "Министр обороны Латвии ушел в оставку после инцидента с БПЛА",
+          "snippet": "",
+          "url": "https://www.dw.com/ru/ministr-oborony-latvii-usel-v-ostavku-posle-incidenta-s-dvuma-dronami/a-77112103",
+          "source": "DW.com"
+        },
+        {
+          "title": "Министр обороны Латвии подал в отставку после того, как на территорию страны залетели два украинских дрона",
+          "snippet": "",
+          "url": "https://meduza.io/news/2026/05/10/ministr-oborony-latvii-podal-v-otstavku-posle-togo-kak-na-territoriyu-strany-zaleteli-dva-drona-so-storony-rossii",
+          "source": "Meduza"
+        },
         {
           "title": "Премьер-министр потребовала отставки министра обороны Спрудса. Этот пост предложен Мелнису",
           "snippet": "",
           "url": "https://rus.lsm.lv/statja/novosti/politika/10.05.2026-premer-ministr-potrebovala-otstavki-ministra-oborony-sprudsa-etot-post-predlozen-melnisu.a646474/",
           "source": "LSM"
-        },
-        {
-          "title": "Эстония ждет от Украины более эффективного контроля над БПЛА",
-          "snippet": "",
-          "url": "https://www.dw.com/ru/estonia-ozidaet-ot-ukrainy-bolee-effektivnogo-kontrola-nad-dronami/a-77111306",
-          "source": "DW.com"
-        },
-        {
-          "title": "Минобороны Эстонии призвало Украину лучше контролировать свои беспилотники и держать их подальше от страны",
-          "snippet": "",
-          "url": "https://belta.by/world/view/minoborony-estonii-prizvalo-ukrainu-luchshe-kontrolirovat-svoi-bespilotniki-i-derzhat-ih-podalshe-ot-779899-2026/",
-          "source": "Новости Беларуси | БелТА"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "jānis slaidiņš",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 10 May 2026 19:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIvJNbGpqrgG1VBSdQINNuckJxA0kbv53VRMTJDjE3pFeg8-WDdxCtLs0JQWE",
-      "pictureSource": "LA.LV",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQisPIK73kior3Yl1CC4nfI-sqS1SwD_KpYZCCV50PNbWh0JuFwakGy9woc-IM",
+      "pictureSource": "REplay.lv",
       "relatedSearch": [
+        {
+          "title": "Intervija ar NBS majoru un Zemessardzes štāba virsnieku Jāni Slaidiņu / 11.05.2026 / Ieraksts",
+          "snippet": "",
+          "url": "https://replay.lsm.lv/lv/skaties/ieraksts/ltv/375888/intervija-ar-nbs-majoru-un-zemessardzes-staba-virsnieku-jani-slaidinu?utm_source=new&utm_medium=front&utm_campaign=replay",
+          "source": "REplay.lv"
+        },
         {
           "title": "Krievija visu rūpīgi vēro… Slaidiņš pasaka, kas ir vienīgais veids, kā mazināt Kremļa draudus",
           "snippet": "",
@@ -47,47 +109,13 @@
           "snippet": "",
           "url": "https://www.la.lv/vins-parakstija-ligumu-un-vairs-neatgriezas-slaidins-atklaj-satraucosu-shemu-krievijas-armija",
           "source": "LA.LV"
-        },
-        {
-          "title": "Slaidiņš: Krievija plāno izlaupīt Ukrainas okupētās teritorijas, kamēr pašiem dažos reģionos draud bankrots",
-          "snippet": "",
-          "url": "https://www.la.lv/slaidins-krievija-plano-izlaupit-ukrainas-okupetas-teritorijas-kamer-pasiem-dazos-regionos-draud-bankrots",
-          "source": "LA.LV"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "la liga",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 10 May 2026 12:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDvfV2p4PIDb_7CX0JsU-7I1yTQHOMc7eLiS7wftZ11tBIdfCtrPYpagbDt-E",
-      "pictureSource": "ESPN",
-      "relatedSearch": [
-        {
-          "title": "Rashford's free kick opens the scoring for Barca in El Clasico",
-          "snippet": "",
-          "url": "https://www.espn.com/video/clip/_/id/48733438/marcus-rashford-spectacular-goal",
-          "source": "ESPN"
-        },
-        {
-          "title": "Diaz Gets 7, Asencio With 5.5 | Real Madrid Players Rated In Poor Loss Vs Barcelona",
-          "snippet": "",
-          "url": "https://onefootball.com/en/news/diaz-gets-7-asencio-with-55-real-madrid-players-rated-in-poor-loss-vs-barcelona-42846666",
-          "source": "OneFootball"
-        },
-        {
-          "title": "Official: Real Madrid starting lineup to face Barcelona",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/articles/official-real-madrid-starting-lineup-182000087.html",
-          "source": "Yahoo Sports"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "rallijkross",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 10 May 2026 12:40:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSt-ryDI9o9VGTb9_9br1M-37WobdMvdEmQomOj-Tw6s9b6Jyk-JmfmvGB75bI",
       "pictureSource": "Sportacentrs.com",
@@ -127,16 +155,16 @@
           "source": "MARCA"
         },
         {
-          "title": "Rashford adelanta al Barça con un gol temprano y sentencia el duelo",
+          "title": "El vídeo de Laporta desatado de fiesta al ritmo de Rosalía: \"Despechá...\"",
           "snippet": "",
-          "url": "https://redamazonica.org/rashford-adelanta-al-barca-con-un-gol-temprano-y-sentencia-el-duelo/",
-          "source": "https://redamazonica.org/"
+          "url": "https://www.larazon.es/deportes/video-laporta-desatado-fiesta-ritmo-rosalia-despecha_202605116a0179cddd62c3164d25618c.html",
+          "source": "La Razón"
         },
         {
-          "title": "Pedri: \"Va dedicado al cielo para el padre de Flick\"",
+          "title": "Tomás Roncero: \"Empiezo a ver a Mbappé como un polizón a bordo, prefiero que no esté\"",
           "snippet": "",
-          "url": "https://www.infobae.com/america/agencias/2026/05/10/pedri-va-dedicado-al-cielo-para-el-padre-de-flick/",
-          "source": "Infobae"
+          "url": "https://cadenaser.com/audio/1778442033602/",
+          "source": "Cadena SER"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,26 +173,26 @@
       "title": "barcelona vs real madrid",
       "trafficCount": "500+",
       "pubDate": "Sun, 10 May 2026 12:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2cXB0sxIQRv4qeO1fc8kb9r_Iiac34nC352_ex-zbdbx-QBpKnxgcWFpdtuo",
-      "pictureSource": "Soccer America",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-miadU2ToTDwXfguKQuHSjuYEn0t_q3AEyU88ip-vmCELTzE5d664v9S1pEE",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "DIRETTO~TV** alineaciones de fc barcelona contra real madrid EN VIVO EN DIRECTO vía Tv Azteca",
+          "title": "Barcelona 2-0 Real Madrid: Marcus Rashford scores in El Clasico win as Barca win the title",
           "snippet": "",
-          "url": "http://m.socceramerica.com/video/jav/video-barcelona-v-real-madrid-liv-en-vivo-tbs-04.html",
-          "source": "Soccer America"
+          "url": "https://www.bbc.com/sport/football/live/c78qwgnn3vgt",
+          "source": "BBC"
         },
         {
-          "title": "El Camp Nou regresa como escenario de un Clásico",
+          "title": "Pedri dedicates Barcelona’s La Liga title to emotional Hansi Flick after Clasico win - 'Wanted to do it for him'",
           "snippet": "",
-          "url": "https://www.flashscore.es/noticias/futbol-laliga-ea-sports-el-primer-clasico-en-el-camp-nou-desde-las-semifinales-de-copa-en-2023/vR16B7rR/",
-          "source": "Flashscore.es"
+          "url": "https://barcauniversal.com/pedri-dedicates-barcelonas-la-liga-title-to-emotional-hansi-flick-after-clasico-win-wanted-to-do-it-for-him/",
+          "source": "Barca Universal"
         },
         {
-          "title": "Seguidores del FC Barcelona confían en ganar el Clásico y ser hoy campeones de Liga",
+          "title": "Rashford's free kick opens the scoring for Barca in El Clasico",
           "snippet": "",
-          "url": "https://www.abc.es/deportes/seguidores-barcelona-confian-ganar-clasico-hoy-campeones-20260510205713-nt.html",
-          "source": "ABC"
+          "url": "https://www.espn.com/video/clip/_/id/48733438/marcus-rashford-spectacular-goal",
+          "source": "ESPN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,17 +217,17 @@
           "source": "Champion.com.ua"
         },
         {
-          "title": "Из-за них «Реал» безвольно проиграл «Барселоне»: четыре худших игрока матча и всего ужасного сезона",
+          "title": "\"Барселона\" обыграла \"Реал\" и второй раз подряд стала чемпионом Испании",
           "snippet": "",
-          "url": "https://www.euro-football.ru/article/35/1006192220_iz-za_nih_real_bezvolno_proigral_barselone_chetyire_hudshih_igroka_matcha_i_vsego_ujasnogo_sezona",
-          "source": "Евро-Футбол"
+          "url": "https://www.nur.kz/sport/football/2375085-barselona-obygrala-real-i-vtoroy-raz-podryad-stala-chempionom-ispanii/",
+          "source": "NUR.KZ"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "anna sedokova",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Sun, 10 May 2026 08:40:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTY4fT2z3siZP339VQBnWyzU83HxBSon7EqnFD_VntxlpryLcrsaLJZB_aO73E",
       "pictureSource": "ТВ Mail",
@@ -229,54 +257,26 @@
       "title": "polija",
       "trafficCount": "2000+",
       "pubDate": "Sun, 10 May 2026 04:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwMpCmlnMnwY8Qbprvef-eWalgCocPDleLcxxIiqhOPsCusgaOWa1xW3Sejqk",
-      "pictureSource": "Jauns.lv",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6lTE16MUeUN2EkS6GxX-DNoBSCCB7ZHHtysSLjjPe8nWrlLj-vWOY5QIP81w",
+      "pictureSource": "Delfi",
       "relatedSearch": [
         {
-          "title": "Polijā netālu no Krievijas robežas atrasts lidrobots ar uzrakstu kirilicā",
+          "title": "Polijā apsūdzētais bijušais tieslietu ministrs Zjobro manīts ASV",
           "snippet": "",
-          "url": "https://jauns.lv/raksts/arzemes/708636-polija-netalu-no-krievijas-robezas-atrasts-lidrobots-ar-uzrakstu-kirilica",
-          "source": "Jauns.lv"
+          "url": "https://www.delfi.lv/46713439/arzemes/120117779/polija-apsudzetais-bijusais-tieslietu-ministrs-zjobro-manits-asv",
+          "source": "Delfi"
         },
         {
-          "title": "Nepilnus 20 kilometrus no Krievijas robežas Polijā atrod dronu ar uzrakstiem kirilicā",
+          "title": "Polijā apsūdzētais eksministrs Zjobro paziņo, ka ir ieradies ASV",
           "snippet": "",
-          "url": "https://www.la.lv/nepilnus-20-kilometrus-no-krievijas-robezas-polija-atrod-dronu-ar-uzrakstiem-kirilica",
-          "source": "LA.LV"
-        },
-        {
-          "title": "Polijā 20 kilometrus no Krievijas robežas atrasts drons ar kirilicā rakstītu uzrakstu",
-          "snippet": "",
-          "url": "https://www.apollo.lv/8468069/polija-20-kilometrus-no-krievijas-robezas-atrasts-drons-ar-kirilica-rakstitu-uzrakstu",
+          "url": "https://www.apollo.lv/8468295/polija-apsudzetais-eksministrs-zjobro-pazino-ka-ir-ieradies-asv",
           "source": "Apollo.lv"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "salmonellas",
-      "trafficCount": "5000+",
-      "pubDate": "Sun, 10 May 2026 01:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDUAzpibgvsWRaJ7wxX8_xQPGG3rrKuVXaGAS2qYpXn2lOB7JsfnIuu5VIE7Y",
-      "pictureSource": "EatingWell",
-      "relatedSearch": [
-        {
-          "title": "There's a Nationwide Recall on Popular Snacks Sold at Target, Amazon and More Over Salmonella Concerns",
-          "snippet": "",
-          "url": "https://www.eatingwell.com/target-trail-mix-recall-11969636",
-          "source": "EatingWell"
         },
         {
-          "title": "Recall issued for snack mixes sold in Ohio",
+          "title": "Apsūdzētais Polijas eksministrs Zjobro, iespējams, aizbēdzis uz ASV",
           "snippet": "",
-          "url": "https://fox8.com/news/recallsandsafetyalerts/recall-issued-for-snack-mixes-sold-in-ohio/",
-          "source": "FOX 8 News"
-        },
-        {
-          "title": "Seasoning products recalled due to potential salmonella contamination",
-          "snippet": "",
-          "url": "https://www.livenowfox.com/news/seasoning-products-recalled-potential-salmonella-contamination",
-          "source": "LiveNOW from FOX"
+          "url": "https://jauns.lv/raksts/arzemes/708660-apsudzetais-polijas-eksministrs-zjobro-iespejams-aizbedzis-uz-asv",
+          "source": "Jauns.lv"
         }
       ],
       "link": "https://imtaqin.id/"

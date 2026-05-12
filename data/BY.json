@@ -1,9 +1,93 @@
 {
-  "lastUpdate": "2026-05-12 12:08:50",
+  "lastUpdate": "2026-05-12 14:47:55",
   "data": [
     {
-      "title": "телевидение",
+      "title": "дождь",
       "trafficCount": "2000+",
+      "pubDate": "Tue, 12 May 2026 05:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCM_Lq2p7aIYvc-25H1cGQTGyi5cUfl7A4ZX5a89-4jXPHu87oWxMQVCpNJJ0",
+      "pictureSource": "Погода Mail",
+      "relatedSearch": [
+        {
+          "title": "Леус: в Москву возвращается долгожданное тепло",
+          "snippet": "",
+          "url": "https://pogoda.mail.ru/news/70854921/",
+          "source": "Погода Mail"
+        },
+        {
+          "title": "\"Субтропический ад наступает\": Евгений Тишковец назвал даты, когда в мае в Центральную Россию нагрянет июльская жара",
+          "snippet": "",
+          "url": "https://progorod33.ru/news/128031",
+          "source": "ПроГород Владимир"
+        },
+        {
+          "title": "Климатическое лето идёт к Москве мягкой поступью: синоптики рассказали, когда надевать шорты",
+          "snippet": "",
+          "url": "https://www.pravda.ru/news/districts/2351302-moscow-weather-forecast-may/",
+          "source": "Правда.Ру"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "гроза",
+      "trafficCount": "20000+",
+      "pubDate": "Tue, 12 May 2026 05:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUDksoMSWxd4PNP_MiLxpo80hSLqSGfXWe4NsdaM6SQbJF5SJkArBkiBVxrQQ",
+      "pictureSource": "Gismeteo",
+      "relatedSearch": [
+        {
+          "title": "Грозы, град и шквалы: жителей Беларуси предупреждают о непогоде 12 мая",
+          "snippet": "",
+          "url": "https://www.gismeteo.by/news/klimat/grozy-grad-i-shkvaly-zhitelej-belarusi-preduprezhdajut-o-nepogode-12-maya/",
+          "source": "Gismeteo"
+        },
+        {
+          "title": "Ливни, грозы, ветры, но до +25: у погоды опять качели",
+          "snippet": "",
+          "url": "https://people.onliner.by/2026/05/11/livni-grozy-vetry-no-do-25",
+          "source": "Onlíner"
+        },
+        {
+          "title": "Погода в Беларуси 13 мая: дожди, местами грозы и от +4 °С до +20 °С",
+          "snippet": "",
+          "url": "https://www.sb.by/articles/pogoda-v-belarusi-13-maya-dozhdi-mestami-grozy-i-ot-4-s-do-20-s.html",
+          "source": "СБ. Беларусь сегодня"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "новый мэр гомеля",
+      "trafficCount": "2000+",
+      "pubDate": "Tue, 12 May 2026 04:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRG-VIOAKYV6S3-HmjlclAO3UuVcGUGzBKC4OKTDzEvMwEam-eYSZJyHa7bo18",
+      "pictureSource": "Официальный интернет-портал Президента Республики Беларусь",
+      "relatedSearch": [
+        {
+          "title": "Рассмотрение кадровых вопросов",
+          "snippet": "",
+          "url": "https://president.gov.by/ru/events/rassmotrenie-kadrovyh-voprosov-1778576635",
+          "source": "Официальный интернет-портал Президента Республики Беларусь"
+        },
+        {
+          "title": "Новые руководители Гомеля, Мозырского района и БМЗ: Лукашенко принял ряд кадровых решений",
+          "snippet": "",
+          "url": "https://www.sb.by/articles/novye-rukovoditeli-gomelya-mozyrskogo-rayona-i-bmz-lukashenko-prinyal-ryad-kadrovykh-resheniy.html",
+          "source": "СБ. Беларусь сегодня"
+        },
+        {
+          "title": "Лукашенко согласовал назначение Александра Саковича новым руководителем БМЗ",
+          "snippet": "",
+          "url": "https://belta.by/president/view/lukashenko-soglasoval-naznachenie-aleksandra-sakovicha-novym-rukovoditelem-bmz-780169-2026/",
+          "source": "Новости Беларуси | БелТА"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "телевидение",
+      "trafficCount": "5000+",
       "pubDate": "Tue, 12 May 2026 02:50:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzraiTYkC1ioXW8f5b39mjwh7shs5XHPPEOTVqsvZkwuaN91fNRDaBDiJWsZU",
       "pictureSource": "Новости Беларуси | БелТА",
@@ -30,40 +114,31 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "руслан пархамович",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 12 May 2026 02:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQX-lwdX9j1-HiR55h9Axw0dsbMMLqu2nAkbAFQRY2bexlIa9e7YBZMT-hiX1M",
-      "pictureSource": "Национальный правовой Интернет-портал Республики Беларусь",
-      "relatedSearch": [
-        {
-          "title": "Рассмотрение кадровых вопросов",
-          "snippet": "",
-          "url": "https://pravo.by/novosti/obshchestvenno-politicheskie-i-v-oblasti-prava/2026/maj/93441/",
-          "source": "Национальный правовой Интернет-портал Республики Беларусь"
-        },
-        {
-          "title": "Лукашенко согласовал назначение Александра Саковича новым руководителем БМЗ",
-          "snippet": "",
-          "url": "https://belta.by/president/view/lukashenko-soglasoval-naznachenie-aleksandra-sakovicha-novym-rukovoditelem-bmz-780169-2026/",
-          "source": "Новости Беларуси | БелТА"
-        },
-        {
-          "title": "Улучшение сферы ЖКХ и города-спутники. Пархамович — о планах по развитию Гомеля",
-          "snippet": "",
-          "url": "https://www.sb.by/articles/uluchshenie-sfery-zhkkh-i-goroda-sputniki-parkhamovich-o-planakh-po-razvitiyu-gomelya.html",
-          "source": "Беларусь сегодня"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "госавтоинспекция мвд россии",
       "trafficCount": "2000+",
       "pubDate": "Tue, 12 May 2026 02:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqWFdKl1BO0lXopKNUDjOeL0E2EoP938Xkipa4Z1yTqoJS3zDBY_4afuwXYD4",
+      "pictureSource": "Metronews.ru",
+      "relatedSearch": [
+        {
+          "title": "Где в Петербурге 5 мая ограничат движение транспорта в связи с репетицией парада Победы",
+          "snippet": "",
+          "url": "https://www.metronews.ru/novosti/peterbourg/reviews/gde-v-peterburge-5-maya-ogranichat-dvizhenie-transporta-v-svyazi-s-repeticiey-parada-pobedy-2188158/",
+          "source": "Metronews.ru"
+        },
+        {
+          "title": "По какому графику работают автобусы и метро в майские праздники в Петербурге?",
+          "snippet": "",
+          "url": "https://neva.today/news/2026/5/6/742729",
+          "source": "Neva.Today"
+        },
+        {
+          "title": "Дворцовую площадь в Петербурге украшают ко Дню Победы",
+          "snippet": "",
+          "url": "https://piter.tv/event/Dvorcovuyu_ploschad_v_Peterburge_ukrashayut_ko_Dnyu_Pobedi/",
+          "source": "Piter.tv"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -80,16 +155,16 @@
           "source": "Минск-новости"
         },
         {
-          "title": "«Последний звонок» прозвенит 23 мая для выпускников Минска",
-          "snippet": "",
-          "url": "https://ont.by/ru/society-ru/view/poslednij-zvonok-prozvenit-23-maja-dlja-vypusknikov-minska-318206-2026",
-          "source": "ОНТ"
-        },
-        {
           "title": "В Минске вводят новый формат выпускных: кроме одного района",
           "snippet": "",
           "url": "https://tochka.by/articles/life/v_minske_vvodyat_novyy_format_vypusknykh_krome_odnogo_rayona/",
           "source": "Tochka.by"
+        },
+        {
+          "title": "«Последний звонок» прозвенит 23 мая для выпускников Минска",
+          "snippet": "",
+          "url": "https://ont.by/ru/society-ru/view/poslednij-zvonok-prozvenit-23-maja-dlja-vypusknikov-minska-318206-2026",
+          "source": "ОНТ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -98,33 +173,33 @@
       "title": "владимир путин",
       "trafficCount": "100+",
       "pubDate": "Tue, 12 May 2026 02:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSP14RQoriUx6Wadbr649MCmdsX2X6GWwJrClzDZTqyRxpeOp5-R-QAQxCKD_Q",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2NQr9qW83C7aVyiKqAZWsxVcooRuOxjI0WXyE-H7er3boMjKvVHxe8pHc6C8",
+      "pictureSource": "Радио Свобода",
       "relatedSearch": [
         {
-          "title": "Путин сказал, что война «идет к завершению». Это так?",
+          "title": "Путину доложили об успешном испытании ракеты \"Сармат\"",
           "snippet": "",
-          "url": "https://www.bbc.com/russian/articles/cvgzwl9k2l7o",
-          "source": "BBC"
+          "url": "https://www.svoboda.org/a/putinu-dolozhili-ob-uspeshnom-ispytanii-rakety-sarmat/33755314.html",
+          "source": "Радио Свобода"
         },
         {
-          "title": "Путин заявил, что война с Украиной \"идет к завершению\"",
+          "title": "Преодолевает все системы ПВО: проведен успешный пуск новейшей МБР «Сармат»",
           "snippet": "",
-          "url": "https://ru.euronews.com/2026/05/10/putin-claims-the-war-with-ukraine-could-be-coming-to-an-end",
-          "source": "Euronews.com"
+          "url": "https://eadaily.com/ru/news/2026/05/12/preodolevaet-vse-sistemy-pvo-proveden-uspeshnyy-pusk-noveyshey-mbr-sarmat",
+          "source": "EADaily"
         },
         {
-          "title": "Украине нужно это принять: что значит новое заявление Путина о завершении конфликта",
+          "title": "Президент РФ: «Орешник» может быть оснащен ядерными боеголовками",
           "snippet": "",
-          "url": "https://newizv.ru/news/2026-05-10/ukraine-nuzhno-eto-prinyat-chto-znachit-novoe-zayavlenie-putina-o-zavershenii-konflikta-439553",
-          "source": "Новые Известия"
+          "url": "https://www.aa.com.tr/ru/%D0%BC%D0%B8%D1%80/%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82-%D1%80%D1%84-%D0%BE%D1%80%D0%B5%D1%88%D0%BD%D0%B8%D0%BA-%D0%BC%D0%BE%D0%B6%D0%B5%D1%82-%D0%B1%D1%8B%D1%82%D1%8C-%D0%BE%D1%81%D0%BD%D0%B0%D1%89%D0%B5%D0%BD-%D1%8F%D0%B4%D0%B5%D1%80%D0%BD%D1%8B%D0%BC%D0%B8-%D0%B1%D0%BE%D0%B5%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0%D0%BC%D0%B8/3935231",
+          "source": "Anadolu Ajansı"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "работа",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 12 May 2026 01:50:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFzXNnkBQ9o4QRxVy6Prks-j1wL-5ct3VEUauhn3Vcx5KsYsXLbakIhifvD20",
       "pictureSource": "Myfin.by",
@@ -154,26 +229,26 @@
       "title": "мошенничество",
       "trafficCount": "500+",
       "pubDate": "Tue, 12 May 2026 01:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXroOPRMK_KybWNcYiAZ860j9XUUknKOIBT67JvgclCK5hyVgLFja0Ii8y19k",
-      "pictureSource": "Anti-Malware.ru",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUPo9FVX56jxmT-Q6OYJ3rr9wGXDVfsLksxZ2sDNLtN4r4L7bz5mhDT5trW8s",
+      "pictureSource": "CTV.by",
       "relatedSearch": [
         {
-          "title": "Мошенники продают билеты на фейковые шоу с распаковкой авто",
+          "title": "Белстат: мошенники могут использовать перепись населения в своих целях",
           "snippet": "",
-          "url": "https://www.anti-malware.ru/news/2026-05-12-111332/49997",
-          "source": "Anti-Malware.ru"
+          "url": "https://ctv.by/news/obshestvo/belstat-moshenniki-mogut-ispolzovat-perepis-naseleniya-v-svoih-celyah",
+          "source": "CTV.by"
         },
         {
-          "title": "Хотите выиграть машину у блогера? Россиян предупредили о новой ловушке",
+          "title": "Белстат призывает к бдительности: мошенники могут использовать перепись населения в своих целях",
           "snippet": "",
-          "url": "https://speedme.ru/posts/id-82681-hotite-vyigrat-mashinu-u-blogera-rossijan-predupredili-o-novoj-lovushke",
-          "source": "SpeedMe.ru"
+          "url": "https://belta.by/regions/view/belstat-prizyvaet-k-bditelnosti-moshenniki-mogut-ispolzovat-perepis-naselenija-v-svoih-tseljah-780191-2026/",
+          "source": "Новости Беларуси | БелТА"
         },
         {
-          "title": "Фейковые розыгрыши от имени блогеров: почему опасно участвовать в «распаковках»",
+          "title": "Обязанность принимать участие в переписи населения предложено закрепить на уровне закона",
           "snippet": "",
-          "url": "https://regions.ru/bezopasnost/fejkovye-rozygryshi-ot-imeni-blogerov-pochemu-opasno-uchastvovat-v-raspakovkah",
-          "source": "REGIONS.ru"
+          "url": "https://pravo.by/novosti/obshchestvenno-politicheskie-i-v-oblasti-prava/2026/maj/93382/",
+          "source": "Национальный правовой Интернет-портал Республики Беларусь"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -204,24 +279,6 @@
           "source": "БрестСИТИ"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "прогноз",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 12 May 2026 00:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "телерадиовещание",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 11 May 2026 23:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]

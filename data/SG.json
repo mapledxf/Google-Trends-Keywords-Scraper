@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-05-14 20:47:24",
+  "lastUpdate": "2026-05-14 21:54:21",
   "data": [
+    {
+      "title": "cna news",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 14 May 2026 14:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_BEqzW_WNxIdNepylpYTqe7C68al36xzh3nfAXdXj0g2yrqgabjqDQBiE5LY",
+      "pictureSource": "The Straits Times",
+      "relatedSearch": [
+        {
+          "title": "Avoid using OpenClaw in mission-critical settings, giving unrestricted access: IMDA",
+          "snippet": "",
+          "url": "https://www.straitstimes.com/singapore/avoid-using-openclaw-in-mission-critical-settings-giving-unrestricted-access-imda",
+          "source": "The Straits Times"
+        },
+        {
+          "title": "What is OpenClaw and what are the dangers associated with it?",
+          "snippet": "",
+          "url": "https://www.channelnewsasia.com/singapore/openclaw-dangers-imda-advisory-ai-agent-6121151",
+          "source": "CNA"
+        },
+        {
+          "title": "Singapore warns against unrestricted use of OpenClaw AI agents on sensitive systems",
+          "snippet": "",
+          "url": "https://theonlinecitizen.com/2026/05/14/singapore-warns-against-unrestricted-use-of-open-claw-ai-agents-on-sensitive-systems",
+          "source": "The Online Citizen"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "singapore airlines",
       "trafficCount": "1000+",
@@ -31,27 +59,27 @@
     },
     {
       "title": "real madrid vs real oviedo",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 14 May 2026 12:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBxml0YBA-Kvic7ytGnA2iGC-cZmSJcheuKAd-7_6COGw04I02dY6_EfWLTTE",
-      "pictureSource": "Soccer America",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWDmEmL3CNerFmBGW6B8RRV7ql8w4Ko2Rjr9YvRDP3hPl-D8K9zUqeV6jKyjI",
+      "pictureSource": "Yahoo",
       "relatedSearch": [
         {
-          "title": "#?#[[TRANSMISIÓN EN VIVO!!]] Oviedo - Real Madrid La Liga En Vivo y En Directo Online TV",
+          "title": "2-0. Victoria en el funeral",
           "snippet": "",
-          "url": "http://m.socceramerica.com/pox/video/video-oviedo-real-madrid-la-liga-tvck212.html",
+          "url": "https://es-us.noticias.yahoo.com/deportes/2-0-victoria-funeral-213403956.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "?!![Fútbol",
+          "snippet": "",
+          "url": "http://m.socceramerica.com/pox/video/video-real-madrid-real-oviedo-la-liga-tv698uj.html",
           "source": "Soccer America"
         },
         {
-          "title": "📸 ¡Florentino discute con aficionados y retiran pancartas en el Bernabéu!",
+          "title": "Gonzalo y Brahim piden paso para la 2026-27 y el compromiso salva a Bellingham",
           "snippet": "",
-          "url": "https://onefootball.com/de/news/florentino-discute-con-aficionados-y-retiran-pancartas-en-el-bernabeu-42867618",
-          "source": "OneFootball"
-        },
-        {
-          "title": "Gonzalo anima al Bernabéu con un golazo tras una gran conexión con Brahim",
-          "snippet": "",
-          "url": "https://okdiario.com/diariomadridista/real-madrid/gonzalo-anima-bernabeu-golazo-gran-conexion-brahim-635418",
+          "url": "https://okdiario.com/diariomadridista/real-madrid/gonzalo-brahim-piden-paso-2026-27-compromiso-salva-bellingham-635169",
           "source": "OkDiario"
         }
       ],
@@ -89,17 +117,11 @@
       "title": "cerebras",
       "trafficCount": "200+",
       "pubDate": "Thu, 14 May 2026 08:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAZxPhnLvCojC4g4kicnDp_YNXszDxMiAdV7dbQa4hCQK0C5kZGCxVAyx0hY4",
-      "pictureSource": "Yahoo Finance",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTYvtR30ElEsVIJxbjyr-3ovlnFPOU1RjA9UDFjKFzFp17YzdV3k0-fDE4cbU",
+      "pictureSource": "Financial Times",
       "relatedSearch": [
         {
-          "title": "Cerebras stock surges nearly 70% in biggest IPO of 2026",
-          "snippet": "",
-          "url": "https://finance.yahoo.com/markets/article/cerebras-stock-surges-nearly-70-in-biggest-ipo-of-2026-130757196.html",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "AI chipmaker Cerebras surges more than 100% in Wall Street debut",
+          "title": "AI chipmaker jumps to almost $70bn valuation in IPO",
           "snippet": "",
           "url": "https://www.ft.com/content/4848fbef-d9af-46ee-b6ef-ad344a7a3814?syn-25a6b1a6=1",
           "source": "Financial Times"
@@ -109,6 +131,12 @@
           "snippet": "",
           "url": "https://www.cnbc.com/2026/05/14/cerebras-cbrs-stock-trade-nasdaq-ipo.html",
           "source": "CNBC"
+        },
+        {
+          "title": "Cerebras stock set to start trading in biggest IPO of 2026",
+          "snippet": "",
+          "url": "https://finance.yahoo.com/markets/article/cerebras-stock-set-to-start-trading-in-biggest-ipo-of-2026-130757842.html",
+          "source": "Yahoo Finance"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,15 +145,9 @@
       "title": "clarity act",
       "trafficCount": "200+",
       "pubDate": "Thu, 14 May 2026 08:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZz93bXu-jouiBKhQ0D2hTLmYvm_LWV3BY__7TuvPfsggEE3K_FTyHI_cPBNc",
-      "pictureSource": "CNA",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyAp36hUIh1x_YbYcP7rPP7mM1TUPSLtEu3lMbUqC3i5cglD31aOXQkKpEyDU",
+      "pictureSource": "CNBC",
       "relatedSearch": [
-        {
-          "title": "US Senate committee weighs crypto bill in milestone for digital assets",
-          "snippet": "",
-          "url": "https://www.channelnewsasia.com/business/us-senate-committee-weighs-crypto-bill-in-milestone-digital-assets-6121206",
-          "source": "CNA"
-        },
         {
           "title": "Crypto industry scores win as Clarity Act regulation bill clears Senate hurdle",
           "snippet": "",
@@ -137,6 +159,12 @@
           "snippet": "",
           "url": "https://www.coindesk.com/policy/2026/05/14/live-senate-banking-committee-holds-key-hearing-to-advance-clarity-act",
           "source": "CoinDesk"
+        },
+        {
+          "title": "How Will the CLARITY Act May 14 Vote Impact Bitcoin, ETH and XRP?",
+          "snippet": "",
+          "url": "https://www.disruptionbanking.com/2026/05/12/how-will-the-clarity-act-may-14-vote-impact-bitcoin-eth-and-xrp/",
+          "source": "Disruption Banking"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,10 +189,10 @@
           "source": "VICE"
         },
         {
-          "title": "Subnautica 2 PC optimization guide: Best settings for visuals and performance",
+          "title": "Subnautica 2 sells 1 million copies in first hour after launch",
           "snippet": "",
-          "url": "https://tech.sportskeeda.com/gaming-news/subnautica-2-pc-optimization-guide-best-settings-visuals-performance",
-          "source": "Sportskeeda Tech"
+          "url": "https://www.polygon.com/subnautica-2-first-hour-sales/",
+          "source": "Polygon.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.straitstimes.com/asia/se-asia/update-2-malaysia-to-seek-legal-action-compensation-in-row-with-norway-over-scrapped-defence-deal",
           "source": "The Straits Times"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "cuaca besok",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 14 May 2026 06:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQ3iJn42T5qXc4vfUF1F8G_r-RHOCLguQuDU8JI7OqT1bB4yEDUE2_wwteTOo",
-      "pictureSource": "AsatuNews.co.id",
-      "relatedSearch": [
-        {
-          "title": "BMKG Prediksi Hujan Guyur Jakarta dan Tekankan Kedaulatan Teknologi",
-          "snippet": "",
-          "url": "https://www.asatunews.co.id/bmkg-prediksi-hujan-jakarta-teknologi",
-          "source": "AsatuNews.co.id"
-        },
-        {
-          "title": "BPBD DKI Keluarkan Peringatan Dini Cuaca Ekstrem hingga 17 Mei 2026",
-          "snippet": "",
-          "url": "https://sinpo.id/detail/120347/bpbd-dki-keluarkan-peringatan-dini-cuaca-ekstrem-hingga-17-mei-2026",
-          "source": "SinPo.id"
-        },
-        {
-          "title": "Seluruh Wilayah Jakarta Berawan Kamis Ini",
-          "snippet": "",
-          "url": "https://minanews.net/seluruh-wilayah-jakarta-berawan-kamis-ini/",
-          "source": "Minanews.net"
         }
       ],
       "link": "https://imtaqin.id/"

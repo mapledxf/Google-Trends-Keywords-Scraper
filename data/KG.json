@@ -1,30 +1,104 @@
 {
-  "lastUpdate": "2026-05-20 05:38:12",
+  "lastUpdate": "2026-05-20 08:42:01",
   "data": [
     {
-      "title": "государственный комитет национальной безопасности кыргызстана",
+      "title": "чиновник",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 20 May 2026 00:50:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "министр обороны",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 19 May 2026 23:20:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "снос",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 19 May 2026 23:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2ZREihYj4V23headVGsDCvy_NWk44FYDuJXTCCx18_j9I4tUmpahBBep3ucA",
+      "pictureSource": "РАПСИ",
+      "relatedSearch": [
+        {
+          "title": "ВС отменил решение о сносе гаража, частично находящегося на муниципальных землях",
+          "snippet": "",
+          "url": "http://rapsinews.ru/judicial_analyst/20260519/311854157.html",
+          "source": "РАПСИ"
+        },
+        {
+          "title": "Дифференцированный снос",
+          "snippet": "",
+          "url": "https://archnadzor.ru/2026/05/19/differentsirovannyiy-snos/",
+          "source": "Архнадзор"
+        },
+        {
+          "title": "На Рождественке напротив МАРХИ сносят усадьбу Чекойского — Мышецкого",
+          "snippet": "",
+          "url": "https://moskvichmag.ru/gorod/na-rozhdestvenke-naprotiv-marhi-snosyat-usadbu-chekojskogo-myshetskogo/",
+          "source": "Москвич Mag"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "заместитель министра",
       "trafficCount": "200+",
-      "pubDate": "Tue, 19 May 2026 16:20:00 -0700",
+      "pubDate": "Tue, 19 May 2026 22:30:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaSONoiS2KUeRulZchMINMcbPnB1Jwcbz-m8Y99znSmpi_PbZNVw5VdhGiyXs",
       "pictureSource": "24.KG",
       "relatedSearch": [
         {
-          "title": "В Токмоке бизнесменов запугивали проверками ГКНБ и МВД ради денег",
+          "title": "Всемирный форум городов. Кыргызстан представил макеты туристических комплексов",
           "snippet": "",
-          "url": "https://24.kg/proisshestvija/374216_vtokmoke_biznesmenov_zapugivali_proverkami_gknb_imvd_radi_deneg/",
+          "url": "https://24.kg/obschestvo/374380_vsemirnyiy_forum_gorodov_kyirgyizstan_predstavil_maketyi_turisticheskih_kompleksov/",
           "source": "24.KG"
         },
         {
-          "title": "Дело о вымогательстве. Адвоката задержали с поличным при получении $15 тысяч (фото)",
+          "title": "Садыр Жапаров предложил создать Ассоциацию горных городов",
           "snippet": "",
-          "url": "https://kaktus.media/doc/546271_delo_o_vymogatelstve._advokata_zaderjali_s_polichnym_pri_polychenii_15_tysiach_foto.html",
-          "source": "Kaktus.media"
+          "url": "https://www.vb.kg/doc/458683_sadyr_japarov_predlojil_sozdat_associaciu_gornyh_gorodov.html",
+          "source": "Вечерний Бишкек"
         },
         {
-          "title": "В Токмоке адвоката задержали при получении $15 тысяч",
+          "title": "Садыр Жапаров завершил визит в Азербайджан. Фото из поездки",
           "snippet": "",
-          "url": "https://www.vb.kg/doc/458627_v_tokmoke_advokata_zaderjali_pri_polychenii_15_tysiach.html",
+          "url": "https://kaktus.media/doc/546343_sadyr_japarov_zavershil_vizit_v_azerbaydjan._foto_iz_poezdki.html",
+          "source": "Kaktus.media"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "государственный комитет национальной безопасности кыргызстана",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 19 May 2026 16:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlD1J2xaj6GBvNPyIvjgMYX5XPx58xSataWDN3vPoNr0GCED7VbhFyMgJ_EXc",
+      "pictureSource": "AKIpress",
+      "relatedSearch": [
+        {
+          "title": "Предприниматель пожаловался омбудсмену на пытки со стороны сотрудников ГКНБ: Возбуждено уголовное дело",
+          "snippet": "",
+          "url": "https://svodka.akipress.org/news:2470435/?from=kgnews&place=maincats",
+          "source": "AKIpress"
+        },
+        {
+          "title": "В Кыргызстане расследуют заявление бизнесмена о пытках в ГКНБ",
+          "snippet": "",
+          "url": "https://www.vb.kg/doc/458711_v_kyrgyzstane_rassledyut_zaiavlenie_biznesmena_o_pytkah_v_gknb.html",
           "source": "Вечерний Бишкек"
+        },
+        {
+          "title": "Институт омбудсмена добился возбуждения дела по заявлению предпринимателя о пытках",
+          "snippet": "",
+          "url": "https://open.kg/news/exclusive/98958-institut-ombudsmena-dobilsja-vozbuzhdenija-dela-po-zajavleniju-predprinimatelja-o-pytkah.html",
+          "source": "open.kg"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -49,10 +123,66 @@
           "source": "Soccer.ru"
         },
         {
-          "title": "Макфарлейн: «Результат был самым важным для «Челси» в матче с «Тоттенхэмом»",
+          "title": "«Челси» окончательно лишился Лиги чемпионов, но зато оставил вероятность вылета «Тоттенхэма» в Чемпионшип",
           "snippet": "",
-          "url": "https://www.sport-express.net/football/england/news/kalum-makfarleyn-kommentariy-po-pobede-chelsi-nad-tottenhemom-v-matche-apl-2424380/",
-          "source": "sport-express.ru"
+          "url": "https://chelseanews.ru/novosti/356490-chelsi-okonchatelno-lishilsja-ligi-chempionov-no-zato-ostavil-verojatnost-vyleta-tottenhjema-v-chempionship.html",
+          "source": "ФК Челси | Сайт болельщиков | Chelsea FC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ман сити",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 19 May 2026 13:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVUKRYlYYMjETQUA8eDifqAtB4wuL27zpnKkP-uvtAluhMbtOnch_Qy2ZRtro",
+      "pictureSource": "Евро-Футбол",
+      "relatedSearch": [
+        {
+          "title": "Назван клуб, который может возглавить Гвардиола после ухода из «Манчестер Сити»",
+          "snippet": "",
+          "url": "https://www.euro-football.ru/article/31/1006196823_nazvan_klub_kotoryiy_mojet_vozglavit_gvardiola_posle_uhoda_iz_manchester_siti",
+          "source": "Евро-Футбол"
+        },
+        {
+          "title": "Мареска может вернуть Палмера в «Манчестер Сити»",
+          "snippet": "",
+          "url": "https://www.soccer.ru/news/1428150/palmer-koul-manchester-siti",
+          "source": "Soccer.ru"
+        },
+        {
+          "title": "Гвардиола отреагировал на сообщения об уходе из Манчестер Сити",
+          "snippet": "",
+          "url": "https://sportilinet.kz/football/gvardiola-otreagiroval-soobscheniya-uhode-manchester-siti-13005/",
+          "source": "Спорт Шредингера"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "апл таблица",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 19 May 2026 13:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMBjtzSIX0wlMz5UoZ3Ighstex_aJ-GZQ_YfOGqVezikc-7ePcVTO1xBhBbGU",
+      "pictureSource": "baonghean.vn",
+      "relatedSearch": [
+        {
+          "title": "Премьер-лига 2025/26: сезон невероятных парадоксов и драматического хаоса.",
+          "snippet": "",
+          "url": "https://baonghean.vn/ru/ngoai-hang-anh-202526-mua-giai-cua-nhung-nghich-ly-kho-tin-va-su-hon-loan-kich-tinh-10337360.html",
+          "source": "baonghean.vn"
+        },
+        {
+          "title": "Турнирная таблица АПЛ. Арсенал стал чемпионом, Борнмут вышел в еврокубки",
+          "snippet": "",
+          "url": "https://www.ukr.net/ru/news/details/sport/117561345.html",
+          "source": "UKR.NET"
+        },
+        {
+          "title": "Турнирная таблица Премьер-лиги сезона 2025/26 — 37-й тур: «Арсенал» практически у трофея в руках.",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/ru/nong-bxh-ngoai-hang-anh-2025-26-vong-37-arsenal-cham-1-tay-vao-cup",
+          "source": "Vietnam.vn"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -77,38 +207,10 @@
           "source": "24.KG"
         },
         {
-          "title": "Ираола: «Я очень рад за «Арсенал» и Артету»",
+          "title": "Арсен Венгер отреагировал на чемпионство «Арсенала» в сезоне-2025/2026 АПЛ",
           "snippet": "",
-          "url": "https://www.euro-football.ru/article/31/1006197092_iraola_ya_ochen_rad_za_arsenal_i_artetu",
-          "source": "Евро-Футбол"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "манчестер сити",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 19 May 2026 12:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYlG51fXsg-XHNORkyWJ0wijX5DoQUVqgRGMV9IE5rKhO3Pxe31YQVrqh5z2o",
-      "pictureSource": "Евро-Футбол",
-      "relatedSearch": [
-        {
-          "title": "Гвардиола прокомментировал ничью, лишившую «Манчестер Сити» шансов на чемпионство",
-          "snippet": "",
-          "url": "https://www.euro-football.ru/article/31/1006197028_gvardiola_prokommentiroval_nichyu_lishivshuyu_manchester_siti_shansov_na_chempionstvo",
-          "source": "Евро-Футбол"
-        },
-        {
-          "title": "Романо: Гвардиола уйдет из «Манчестер Сити» после матча с «Астон Виллой», его заменит Мареска",
-          "snippet": "",
-          "url": "https://www.sport-express.net/football/england/news/gvardiola-pokinet-manchester-siti-posle-matcha-s-aston-villoy-ego-zamenit-mareska-2424107/",
-          "source": "sport-express.ru"
-        },
-        {
-          "title": "Мареска может вернуть Палмера в «Манчестер Сити»",
-          "snippet": "",
-          "url": "https://www.soccer.ru/news/1428150/palmer-koul-manchester-siti",
-          "source": "Soccer.ru"
+          "url": "https://www.championat.ru/football/news-6474772-arsen-venger-otreagiroval-na-chempionstvo-arsenala-v-sezone-2025-2026-apl.html",
+          "source": "https://www.championat.ru/"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,156 +229,16 @@
           "source": "Vietnam.vn"
         },
         {
-          "title": "Хусанов выйдет в старте Сити на выездную игру против Борнмута",
+          "title": "\"Ман Сити\" с Хусановым потерял шансы на титул после сенсации в АПЛ",
           "snippet": "",
-          "url": "https://uz.kursiv.media/2026-05-19/husanov-vyjdet-v-starte-siti-na-vyezdnuyu-igru-protiv-bornmuta/",
-          "source": "Kursiv Media"
+          "url": "https://vesti.kz/england/man-siti-husanovyim-poteryal-shansyi-titul-sensatsii-apl-381732/",
+          "source": "Vesti.kz"
         },
         {
           "title": "Экспресс на футбол с большим коэффициентом — 20 мая 2026",
           "snippet": "",
           "url": "https://www.liveresult.ru/tips/football/tip390990-Ekspress-na-futbol-s-bolshim-koeffitsientom",
           "source": "LiveResult"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "мвд",
-      "trafficCount": "2000+",
-      "pubDate": "Tue, 19 May 2026 04:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRiausZWvIHuIZwHtQulw0FvbGx0KBJq0Y5dInqgogzvcG_Ge9Fo2zYmpsQM-U",
-      "pictureSource": "24.KG",
-      "relatedSearch": [
-        {
-          "title": "Ликвидирован крупный канал поставки наркотиков из Токтогула в Бишкек",
-          "snippet": "",
-          "url": "https://24.kg/proisshestvija/374370_likvidirovan_krupnyiy_kanal_postavki_narkotikov_iznbsptoktogula_vnbspbishkek/",
-          "source": "24.KG"
-        },
-        {
-          "title": "Задержаны подозреваемые, перевозившие из Токтогула в Бишкек крупную партию наркотиков. Видео",
-          "snippet": "",
-          "url": "https://svodka.akipress.org/news:2469750",
-          "source": "AKIpress"
-        },
-        {
-          "title": "МВД задержало подозреваемых в перевозке крупной партии наркотиков",
-          "snippet": "",
-          "url": "https://kaktus.media/doc/546407_mvd_zaderjalo_podozrevaemyh_v_perevozke_krypnoy_partii_narkotikov.html",
-          "source": "Kaktus.media"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "средства индивидуальной мобильности",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 19 May 2026 04:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaSONoiS2KUeRulZchMINMcbPnB1Jwcbz-m8Y99znSmpi_PbZNVw5VdhGiyXs",
-      "pictureSource": "24.KG",
-      "relatedSearch": [
-        {
-          "title": "Скорость самокатов снизят до 15 километров в час. Проект вынесли на обсуждение",
-          "snippet": "",
-          "url": "https://24.kg/obschestvo/374485_skorost_samokatov_snizyat_do15kilometrov_vchas_proekt_vyinesli_naobsujdenie/",
-          "source": "24.KG"
-        },
-        {
-          "title": "МВД готовит ограничения для средств индивидуальной мобильности – Новости из Кыргызстана",
-          "snippet": "",
-          "url": "https://kg.akipress.org/news:2469516/?telegram",
-          "source": "AKIpress"
-        },
-        {
-          "title": "Мэр Бишкека: Электросамокаты опасны, но помогают разгрузить дороги",
-          "snippet": "",
-          "url": "https://www.vb.kg/doc/458600_mer_bishkeka:_elektrosamokaty_opasny_no_pomogaut_razgryzit_dorogi.html",
-          "source": "Вечерний Бишкек"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "прокурор",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 19 May 2026 01:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSsjXzma37iT75OICnBTK3H94bcWN66uzTG07NCBWhqB2v4FP-U71Bm9NyReoc",
-      "pictureSource": "Turmush",
-      "relatedSearch": [
-        {
-          "title": "Алайбек Мамыров назначен прокурором города Нарын",
-          "snippet": "",
-          "url": "https://www.turmush.kg/ru/news:2469603",
-          "source": "Turmush"
-        },
-        {
-          "title": "Алайбек Мамыров назначен прокурором города Нарына",
-          "snippet": "",
-          "url": "https://24.kg/obschestvo/374484_alaybek_mamyirov_naznachen_prokurorom_goroda_naryina/",
-          "source": "24.KG"
-        },
-        {
-          "title": "В Сузаке бывшие торговцы «жума-базара» пожаловались на давление и отсутствие компенсации",
-          "snippet": "",
-          "url": "https://www.turmush.kg/ru/news:2470018",
-          "source": "Turmush"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "жогорку кенеш",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 19 May 2026 01:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaSONoiS2KUeRulZchMINMcbPnB1Jwcbz-m8Y99znSmpi_PbZNVw5VdhGiyXs",
-      "pictureSource": "24.KG",
-      "relatedSearch": [
-        {
-          "title": "В Жогорку Кенеше открыли «Школу молодых кадров»",
-          "snippet": "",
-          "url": "https://24.kg/vlast/374429_vjogorku_keneshe_otkryili_shkolu_molodyih_kadrov/",
-          "source": "24.KG"
-        },
-        {
-          "title": "Новые лица для госуправления: в ЖК открыли «Школу молодых кадров»",
-          "snippet": "",
-          "url": "https://economist.kg/vlast/2026/05/19/novye-litsa-dlia-gosupravleniia-v-zhk-otkryli-shkolu-molodykh-kadrov/",
-          "source": "Economist.kg"
-        },
-        {
-          "title": "В Бишкеке обсудили план борьбы со смогом на 2026–2027 годы",
-          "snippet": "",
-          "url": "https://eco.akipress.org/news:2469993",
-          "source": "AKIpress"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "петиция",
-      "trafficCount": "2000+",
-      "pubDate": "Tue, 19 May 2026 00:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaSONoiS2KUeRulZchMINMcbPnB1Jwcbz-m8Y99znSmpi_PbZNVw5VdhGiyXs",
-      "pictureSource": "24.KG",
-      "relatedSearch": [
-        {
-          "title": "Петицию об отставке министра просвещения подписывают кыргызстанцы",
-          "snippet": "",
-          "url": "https://24.kg/obschestvo/374344_petitsiyu_obotstavke_ministra_prosvescheniya_podpisyivayut_kyirgyizstantsyi/",
-          "source": "24.KG"
-        },
-        {
-          "title": "Появилась петиция за отставку Догдуркуль Кендирбаевой",
-          "snippet": "",
-          "url": "https://vesti.kg/obshchestvo/item/150297-poyavilas-petitsiya-za-otstavku-dogdurkul-kendirbaevoj.html",
-          "source": "Вести.kg"
-        },
-        {
-          "title": "В сети появилась петиция об отставке министра просвещения Догдуркуль Кендирбаевой. Ответ ведомства",
-          "snippet": "",
-          "url": "https://reporter.kg/ru/v-seti-poyavilas-petitsiya-ob-otstavke-ministra-prosvescheniya-dogdurkul-kendirbaevoy/",
-          "source": "Reporter.kg"
         }
       ],
       "link": "https://imtaqin.id/"

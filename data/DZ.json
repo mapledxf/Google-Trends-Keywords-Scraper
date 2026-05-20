@@ -1,65 +1,121 @@
 {
-  "lastUpdate": "2026-05-20 05:37:49",
+  "lastUpdate": "2026-05-20 08:41:39",
   "data": [
+    {
+      "title": "linkedin",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 20 May 2026 01:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2dCw50iBjJPUxgp21L0o_3Hgd4nf9nm49wUBoqrg5_EOy9XKf6EryY43OumA",
+      "pictureSource": "SFGATE",
+      "relatedSearch": [
+        {
+          "title": "Engineers laid off in the hundreds at LinkedIn in latest slash to workforce",
+          "snippet": "",
+          "url": "https://www.sfgate.com/tech/article/linkedin-bay-area-job-cuts-22267256.php",
+          "source": "SFGATE"
+        },
+        {
+          "title": "Read the internal memo from LinkedIn's CEO on layoffs and 'scaling back investments'",
+          "snippet": "",
+          "url": "https://www.businessinsider.com/read-the-internal-memo-from-linkedins-ceo-on-layoffs-2026-5",
+          "source": "Business Insider"
+        },
+        {
+          "title": "LinkedIn to lay off more than 600 California workers this summer",
+          "snippet": "",
+          "url": "https://www.sfchronicle.com/tech/article/linkedin-california-layoffs-22267042.php",
+          "source": "San Francisco Chronicle"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "شات جي بي تي",
       "trafficCount": "100+",
       "pubDate": "Tue, 19 May 2026 22:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyQn0iy1x3iQHJHoVCGYQ1_51RKwdxQUndw3qkZgFpHFeod1gxSj79pyOi_iM",
-      "pictureSource": "الجزيرة نت",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHXts5AUIshn7wQEhTsmcOeNCpMBhtrX7MUUspGnRol3nNzIuTobCkkf6nyvo",
+      "pictureSource": "صحيفة الخليج",
       "relatedSearch": [
         {
-          "title": "هل تسلم أموالك للذكاء الاصطناعي؟ ميزة جديدة بشات جي بي تي تثير الجدل",
+          "title": "دعوى تتهم «شات جي.بي.تي» بممارسة المحاماة",
           "snippet": "",
-          "url": "https://www.aljazeera.net/tech/2026/5/17/%D9%87%D9%84-%D8%AA%D8%B3%D9%84%D9%85-%D8%A3%D9%85%D9%88%D8%A7%D9%84%D9%83-%D9%84%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%85%D9%8A%D8%B2%D8%A9",
-          "source": "الجزيرة نت"
-        },
-        {
-          "title": "تجدد مخاوف تسريب البيانات بعد إطلاق ميزة ربط الحساب البنكي بـ«Chat GPT»",
-          "snippet": "",
-          "url": "https://www.alkhaleej.ae/2026-05-17/%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA/%D9%85%D8%AD%D8%B7%D8%A7%D8%AA/%D9%85%D8%AE%D8%A7%D9%88%D9%81-%D9%81%D9%8A-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D9%85%D9%86-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A8%D8%B9%D8%AF-%D8%B1%D8%A8%D8%B7-%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%A8-%D8%A7%D9%84%D8%A8%D9%86%D9%83%D9%8A-%D8%A8chat-gpt",
+          "url": "https://www.alkhaleej.ae/2026-05-19/%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA/%D8%B9%D9%84%D9%88%D9%85-%D9%88%D8%AA%D9%82%D9%86%D9%8A%D8%A9/%D8%AF%D8%B9%D9%88%D9%89-%D8%AA%D8%AA%D9%87%D9%85-%D8%B4%D8%A7%D8%AA-%D8%AC%D9%8A%D8%A8%D9%8A%D8%AA%D9%8A-%D8%A8%D9%85%D9%85%D8%A7%D8%B1%D8%B3%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%85%D8%A7%D8%A9",
           "source": "صحيفة الخليج"
         },
         {
-          "title": "\"تشات جي بي تي\" يدخل عالم المال.. هل يصبح مستشارك المالي الشخصي؟ | التلفزيون العربي",
+          "title": "تقول OpenAI إن ChatGPT ليس محاميًا، وتطلب من المحكمة إلغاء الدعوى المرفوعة من شركة التأمين",
           "snippet": "",
-          "url": "https://www.alaraby.com/news/%D8%AA%D8%B4%D8%A7%D8%AA-%D8%AC%D9%8A-%D8%A8%D9%8A-%D8%AA%D9%8A-%D9%8A%D8%AF%D8%AE%D9%84-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D9%85%D8%A7%D9%84-%D9%87%D9%84-%D9%8A%D8%B5%D8%A8%D8%AD-%D9%85%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D9%83-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A",
-          "source": "التلفزيون العربي"
+          "url": "https://albalad.news/tutorials/%D8%AA%D9%82%D9%88%D9%84-openai-%D8%A5%D9%86-chatgpt-%D9%84%D9%8A%D8%B3-%D9%85%D8%AD%D8%A7%D9%85%D9%8A%D9%8B%D8%A7%D8%8C-%D9%88%D8%AA%D8%B7%D9%84%D8%A8-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%AD%D9%83/474459/",
+          "source": "البلد نيوز"
+        },
+        {
+          "title": "OpenAI تواجه دعوى تتعلق باستخدام ChatGPT في قضايا قانونية",
+          "snippet": "",
+          "url": "https://www.osoulmisrmagazine.com/438398",
+          "source": "أصول مصر"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ccp",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 19 May 2026 21:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlylM8bKOmKZDsLBqlOvjeaooTItcpwKgGYjBUWvXtCl8ZiPiSiVWD9CI6AjQ",
+      "pictureSource": "America Needs Fatima",
+      "relatedSearch": [
+        {
+          "title": "The Great Chinese Firewall Manipulates AI",
+          "snippet": "",
+          "url": "https://americaneedsfatima.org/commentaries/the-great-chinese-firewall-manipulates-ai",
+          "source": "America Needs Fatima"
+        },
+        {
+          "title": "Demanding Humanity in Propaganda",
+          "snippet": "",
+          "url": "https://chinamediaproject.org/2026/05/15/demanding-humanity-in-propaganda/",
+          "source": "China Media Project"
+        },
+        {
+          "title": "A California mayor pleaded guilty to acting as an agent for China. Foreign policy experts aren’t surprised",
+          "snippet": "",
+          "url": "https://www.theguardian.com/us-news/2026/may/18/california-mayor-china-agent",
+          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "عيد الأضحى",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 19 May 2026 21:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbSYBrNoNvxC78_WbpiP4Eg03dE9ckh-AcNE4LxMFjAHtIpjOB4HJcSRJf44Y",
-      "pictureSource": "المصري اليوم",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwKxEnh6eg0fwJA7QG5_plrWoMshMMoM9g1gTmEs4_6_cHG0UNLGeu409hG6E",
+      "pictureSource": "تواصل نيوز",
       "relatedSearch": [
         {
-          "title": "بعد قرار مجلس الوزراء.. تفاصيل إجازة عيد الأضحى 2026 للموظفين",
+          "title": "أسعار الأضاحي 2026 تتفاوت بشكل كبير في الأسواق المصرية قبل عيد الأضحى المبارك",
           "snippet": "",
-          "url": "https://www.almasryalyoum.com/news/details/4273735",
-          "source": "المصري اليوم"
+          "url": "https://tawusal.com/206345/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D8%B6%D8%A7%D8%AD%D9%8A-2026-%D8%AA%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D8%A8%D8%B4%D9%83%D9%84-%D9%83%D8%A8%D9%8A%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3/",
+          "source": "تواصل نيوز"
         },
         {
-          "title": "إجازة البنوك المصرية في عيد الأضحى 2026.. موعد عودة العمل رسمياً بعد العطلة",
+          "title": "وزنه 100 كيلو.. أضخم خروف أضحية العيد وسعره 25 ألف جنيه (فيديو)",
           "snippet": "",
-          "url": "https://www.alkhaleej.ae/2026-05-19/%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA/%D9%85%D8%AD%D8%B7%D8%A7%D8%AA/%D8%A5%D8%AC%D8%A7%D8%B2%D8%A9-%D8%A7%D9%84%D8%A8%D9%86%D9%88%D9%83-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%A3%D8%B6%D8%AD%D9%89-2026-%D9%85%D9%88%D8%B9%D8%AF-%D8%B9%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%B1%D8%B3%D9%85%D9%8A%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%B9%D8%B7%D9%84%D8%A9",
-          "source": "صحيفة الخليج"
+          "url": "https://www.youm7.com/story/2026/5/20/%D9%88%D8%B2%D9%86%D9%87-100-%D9%83%D9%8A%D9%84%D9%88-%D8%A3%D8%B6%D8%AE%D9%85-%D8%AE%D8%B1%D9%88%D9%81-%D8%A3%D8%B6%D8%AD%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%8A%D8%AF-%D9%88%D8%B3%D8%B9%D8%B1%D9%87-25-%D8%A3%D9%84%D9%81/7422134",
+          "source": "اليوم السابع"
         },
         {
-          "title": "رسميا.. إجازة عيد الأضحى 2026 في سلطنة عمان للموظفين والقطاع الخاص",
+          "title": "أسعار الأضاحي 2026 في الأسواق والمنافذ المعتمدة وسعر كيلو اللحم القائم اليوم قبل العيد",
           "snippet": "",
-          "url": "https://al-ain.com/article/eid-al-adha-holiday-2026-in-e-sultanate-oman",
-          "source": "العين الإخبارية"
+          "url": "https://mrj3y.com/461219/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D8%B6%D8%A7%D8%AD%D9%8A-2026-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D9%88%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B0-%D8%A7%D9%84/",
+          "source": "تابع مصر"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "agence nationale de l'amélioration et du développement du logement",
-      "trafficCount": "100+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 19 May 2026 20:50:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-9JL3qziQoKUoGvFwjx1R2YH9AswO1TZn2L7YSgtIaF3AS52AkQhjc6NQCNM",
       "pictureSource": "www.horizons.dz",
@@ -87,7 +143,7 @@
     },
     {
       "title": "7.77 mpt gov dz",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 19 May 2026 15:40:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSlyV2pSXmZurRq-Bm6909Z8dQNaxk6Ve6gha9uMhDcPC-A4jl5QmJlBjRDCqM",
       "pictureSource": "تادامسا نيوز",
@@ -155,16 +211,16 @@
           "source": "الجزيرة نت"
         },
         {
-          "title": "مجلس الأمن يناقش تداعيات استهداف منشآت نووية في الخليج وتحذيرات أممية من مخاطر إشعاعية واسعة",
-          "snippet": "",
-          "url": "https://www.alquds.co.uk/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%8A%D9%86%D8%A7%D9%82%D8%B4-%D8%AA%D8%AF%D8%A7%D8%B9%D9%8A%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D9%86%D8%B4%D8%A2/",
-          "source": "القدس العربي"
-        },
-        {
           "title": "الإمارات تعلن نتائج تحقيقاتها بهجوم محطة براكة للطاقة النووية",
           "snippet": "",
           "url": "https://arabic.cnn.com/middle-east/article/2026/05/19/uae-investigations-results-barakah-nuclear-power-plant-attack",
           "source": "CNN Arabic"
+        },
+        {
+          "title": "مجلس الأمن يناقش تداعيات استهداف منشآت نووية في الخليج وتحذيرات أممية من مخاطر إشعاعية واسعة",
+          "snippet": "",
+          "url": "https://www.alquds.co.uk/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%8A%D9%86%D8%A7%D9%82%D8%B4-%D8%AA%D8%AF%D8%A7%D8%B9%D9%8A%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D9%86%D8%B4%D8%A2/",
+          "source": "القدس العربي"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +239,16 @@
           "source": "ESPN"
         },
         {
-          "title": "Best Sleeper NFL Draft Picks After Round 3 (And Why They Could Be Stars)",
+          "title": "Every NFL Roster's Best-Kept Secret Heading into 2026 OTAs",
           "snippet": "",
-          "url": "https://www.si.com/nfl/draft/onsi/late-round-expert/best-sleeper-nfl-draft-picks-after-round-3-and-why-they-could-be-stars",
-          "source": "Sports Illustrated"
+          "url": "https://bleacherreport.com/articles/25428628-every-nfl-rosters-best-kept-secret-heading-2026-otas",
+          "source": "Bleacher Report"
         },
         {
-          "title": "2026 NFL Draft: Dynasty Fantasy Football Winners And Losers From The AFC East",
+          "title": "2026 NFL All-Breakout Team: Predicting the next great players at every position",
           "snippet": "",
-          "url": "https://dynastyleaguefootball.com/2026/05/17/2026-nfl-draft-dynasty-fantasy-football-winners-and-losers-from-the-afc-east/",
-          "source": "Dynasty League Football"
+          "url": "https://www.pff.com/news/2026-nfl-all-breakout-team-predicting-the-next-great-players-at-every-position",
+          "source": "PFF"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,15 +257,9 @@
       "title": "classement chelsea – tottenham",
       "trafficCount": "2000+",
       "pubDate": "Tue, 19 May 2026 14:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmQWTMOjc4za4yAN6OIlZ_dYBhLz9sYsKEF_A41DSgFVeiZd-FneHmocDYy1k",
-      "pictureSource": "L'Équipe",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUMLb0znvd-DJTuFaUsUELKq4Yi8b5RMZGNd6uC1zbz_dmpvgUlNUWAD_fFv8",
+      "pictureSource": "Eurosport",
       "relatedSearch": [
-        {
-          "title": "Chelsea 2-1 Tottenham, Premier League : résumé du match (19/05/2026)",
-          "snippet": "",
-          "url": "https://www.lequipe.fr/Football/match-direct/championnat-d-angleterre/2025-2026/chelsea-tottenham-live/673867",
-          "source": "L'Équipe"
-        },
         {
           "title": "Premier League I Chelsea se rapproche de l'Europe, Tottenham reste en danger",
           "snippet": "",
@@ -217,66 +267,16 @@
           "source": "Eurosport"
         },
         {
-          "title": "Ang. : Chelsea laisse Tottenham dans le doute",
+          "title": "Chelsea-Tottenham, quelle chaîne diffuse le match ?",
           "snippet": "",
-          "url": "https://m.maxifoot.fr/angleterre/chelsea-laisse-tottenham-dans-le-doute-foot-456266.htm",
-          "source": "Maxifoot - football"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "kpop demon hunters",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 19 May 2026 13:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiTLxA_UmaER4czaHlKuugptsoyHgBl8vwrmd1PjYryFHs888E-D9NlRG_e7A",
-      "pictureSource": "Comicbook.com",
-      "relatedSearch": [
-        {
-          "title": "After Beating KPop Demon Hunters, Netflix’s New Animated Fantasy Movie Needs a Sequel",
-          "snippet": "",
-          "url": "https://comicbook.com/movies/feature/after-beating-kpop-demon-hunters-netflixs-new-animated-fantasy-movie-needs-a-sequel/",
-          "source": "Comicbook.com"
+          "url": "https://fr.news.yahoo.com/sport/chelsea-tottenham-cha%C3%AEne-diffuse-match-181524887.html",
+          "source": "Yahoo Actualités"
         },
         {
-          "title": "Netflix's New Fantasy Adventure Hit Dominates Streaming With 24.4 Million Views in Week 3",
+          "title": "PL : Chelsea s’impose contre Tottenham et peut croire à la Ligue Europa",
           "snippet": "",
-          "url": "https://movieweb.com/swapped-netflix-streaming-ratings-may-11-17-2026/",
-          "source": "MovieWeb"
-        },
-        {
-          "title": "'Swapped' Takes Down 'Apex' to Become Netflix’s Newest Global Hit",
-          "snippet": "",
-          "url": "https://www.imdb.com/news/ni65843829/?ref_=nm_nwr_2",
-          "source": "IMDb"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "سمير نصري",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 19 May 2026 13:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_08s4LJ6R_ryPmGsvJa-5U-sPuoVJTng56bsS73Wa5AQovgkzXmDfbXhl6mw",
-      "pictureSource": "Kooora",
-      "relatedSearch": [
-        {
-          "title": "\"لم يحترمونا\".. سمير نصري ينصح مزدوجي الجنسية بتفضيل الجزائر على فرنسا",
-          "snippet": "",
-          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%84%D9%85-%D9%8A%D8%AD%D8%AA%D8%B1%D9%85%D9%88%D9%86%D8%A7--%D8%B3%D9%85%D9%8A%D8%B1-%D9%86%D8%B5%D8%B1%D9%8A-%D9%8A%D9%86%D8%B5%D8%AD-%D9%85%D8%B2%D8%AF%D9%88%D8%AC%D9%8A-%D8%A7%D9%84%D8%AC%D9%86%D8%B3%D9%8A%D8%A9-%D8%A8%D8%AA%D9%81%D8%B6%D9%8A%D9%84-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D9%8A%D9%94%D8%B1-%D8%B9%D9%84%D9%89-%D9%81%D8%B1%D9%86%D8%B3%D8%A7/bltf6f40d3422bb28e6",
-          "source": "Kooora"
-        },
-        {
-          "title": "ناصري: \"لهذا السبب لم أمثل الجزائر.. وإذا طلب مني تدريبها مستقبلا فسأذهب ركضا\"",
-          "snippet": "",
-          "url": "https://www.dzair-tube.dz/%D9%86%D8%A7%D8%B5%D8%B1%D9%8A-%D9%84%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D8%B3%D8%A8%D8%A8-%D9%84%D9%85-%D8%A3%D9%85%D8%AB%D9%84-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D9%88%D8%A5%D8%B0%D8%A7/",
-          "source": "دزاير توب"
-        },
-        {
-          "title": "«هذا سبب رفضي للجزائر».. سمير نصري يبعث برسالة لمزدوجي الجنسية",
-          "snippet": "",
-          "url": "https://al-ain.com/article/samir-nasri-algeria-cherki-akliouche",
-          "source": "العين الإخبارية"
+          "url": "https://www.footmercato.net/a5080956401268248148-pl-chelsea-simpose-contre-tottenham-et-peut-croire-a-la-ligue-europa",
+          "source": "Foot Mercato"
         }
       ],
       "link": "https://imtaqin.id/"

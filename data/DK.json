@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-21 21:48:07",
+  "lastUpdate": "2026-05-21 22:53:50",
   "data": [
     {
       "title": "ard",
@@ -31,11 +31,17 @@
     },
     {
       "title": "tv 2 fyn",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 21 May 2026 14:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKE9A7PZ3WLzB3FGweo6_-XBe6FVIBsvbw0Qt0eELGazRsJEXZFj82eMq46pU",
-      "pictureSource": "TV2 Fyn",
+      "picture": "",
+      "pictureSource": "Århus Stiftstidende",
       "relatedSearch": [
+        {
+          "title": "Svineproducenter må få afprøvet sag mod TV 2 ved Højesteret",
+          "snippet": "",
+          "url": "https://stiften.dk/alarm112/svineproducenter-maa-faa-afproevet-sag-mod-tv-2-ved-hoejesteret",
+          "source": "Århus Stiftstidende"
+        },
         {
           "title": "Sag mod TV 2 kan gå til Højesteret",
           "snippet": "",
@@ -47,40 +53,6 @@
           "snippet": "",
           "url": "https://www.dr.dk/nyheder/seneste/svineproducenter-maa-faa-sag-mod-tv-2-proevet-ved-hoejesteret",
           "source": "dr.dk"
-        },
-        {
-          "title": "Svineproducenter må få afprøvet sag mod TV 2 ved Højesteret | Indland | Samfund",
-          "snippet": "",
-          "url": "https://www.berlingske.dk/indland/svineproducenter-maa-faa-afproevet-sag-mod-tv-2-ved-hoejesteret?gaa_at=eafs&gaa_n=AVngi4gQcblJhT2Ui5SEhrnUn5nXZ0lFSPGIuQqN2Psf3sOCDWGkT3_lr1ZL&gaa_ts=6a0f811b&gaa_sig=Kq2BmTgZg758XIhUYHrG_NQFbRf2Fm5SC_Y8LZZqmfGHDAi6T2xyexa--1mHEVmZxBiUjqehRYhXW5szatAmTQ%3D%3D",
-          "source": "Berlingske"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "christian eriksen",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 21 May 2026 13:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1G8SMCr4VKbKQHPzTOR2OI639x1nD5DVajbXCMiWgaxbeNEQRlQd5gHBIGzc",
-      "pictureSource": "Politiken",
-      "relatedSearch": [
-        {
-          "title": "Christian Eriksen spillede hovedrolle i Wolfsburgs skæbnekamp",
-          "snippet": "",
-          "url": "https://politiken.dk/sport/fodbold/art10844904/Christian-Eriksen-spillede-hovedrolle-i-Wolfsburgs-sk%C3%A6bnekamp",
-          "source": "Politiken"
-        },
-        {
-          "title": "Mæhle efter overlevelseskamp: Sindssygt at være en del af",
-          "snippet": "",
-          "url": "https://bold.dk/fodbold/klubber/wolfsburg/nyheder/maehle-efter-overlevelseskamp-sindssygt-at-vaere-en-del-af",
-          "source": "Bold"
-        },
-        {
-          "title": "Dansker: – Jeg håber, at det bliver rigtig vildt",
-          "snippet": "",
-          "url": "https://www.tipsbladet.dk/nyhed/bundesliga/dansker-jeg-haaber-at-det-bliver-rigtig-vildt",
-          "source": "Tipsbladet.dk"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -95,7 +67,7 @@
         {
           "title": "Dronning Mary modtog rørende gave: Reaktionen gik lige i hjertet | Royale | Underholdning",
           "snippet": "",
-          "url": "https://www.bt.dk/royale/dronning-mary-modtog-roerende-gave-reaktionen-gik-lige-i-hjertet?gaa_at=eafs&gaa_n=AVngi4h3UjSEAAwQkgDSYNE0IXZ-Xba0bjmFrM63jR6FevCkDgK0Dk1Zto-u&gaa_ts=6a0f811b&gaa_sig=n-h5llweB2mvuQgG_Jl_WXwCn5VniSS9H8Zj0lp2v505O8Xw-NYvf4cX-YqziNqAX0-kr0rlhdlhgai_GxxI6g%3D%3D",
+          "url": "https://www.bt.dk/royale/dronning-mary-modtog-roerende-gave-reaktionen-gik-lige-i-hjertet?gaa_at=eafs&gaa_n=AVngi4g3EghOFPmD96RUrCYwgi6l77q9ec6GApX9jQdJwt4dUOBjXZZug16a&gaa_ts=6a0f9082&gaa_sig=-w_fsk_x6XDpzoIcbswotINDSKDopxHIwSE1rxGIiY3A-c-Q89R2PXp0HrARU8r4zmEuoEKsNEK93ZtrH_Jcsw%3D%3D",
           "source": "B.T."
         },
         {
@@ -114,29 +86,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "christian eriksen",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 21 May 2026 13:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Wolfsburg vs Paderborn: Play-offs 1/2 stats & head-to-head",
+          "snippet": "",
+          "url": "https://www.bbc.com/sport/football/live/cn7pen6zglgt",
+          "source": "BBC"
+        },
+        {
+          "title": "Eriksen on verge of relegation with Wolfsburg after 0-0 playoff draw with second-division Paderborn",
+          "snippet": "",
+          "url": "https://www.couriernews.com/sports/eriksen-on-verge-of-relegation-with-wolfsburg-after-0-0-playoff-draw-with-second-division/article_fa98d80e-b384-5812-a0cf-b1ad30a537d1.html",
+          "source": "couriernews.com"
+        },
+        {
+          "title": "PLAYER RATINGS | Wolfsburg 0-0 Paderborn – Bundesliga play-off in the balance",
+          "snippet": "",
+          "url": "https://sports.yahoo.com/articles/player-ratings-wolfsburg-0-0-202500326.html",
+          "source": "Yahoo Sports"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "tv 2",
       "trafficCount": "500+",
       "pubDate": "Thu, 21 May 2026 13:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMLRqBkzs1wOEVQfe292FVrSEZZWnvJ7dHGmWvhbWqtoFP11lE5O-LVcSY0P8",
-      "pictureSource": "tv2.dk",
+      "picture": "",
+      "pictureSource": "Århus Stiftstidende",
       "relatedSearch": [
         {
-          "title": "2. etape af 4 Jours de Dunkerque / Grand prix des Hauts de France",
+          "title": "Svineproducenter må få afprøvet sag mod TV 2 ved Højesteret",
           "snippet": "",
-          "url": "https://sport.tv2.dk/live/cykling/2026-05-21-2-etape-af-4-jours-de-dunkerque-grand-prix-des-hauts-de-france",
-          "source": "tv2.dk"
+          "url": "https://stiften.dk/alarm112/svineproducenter-maa-faa-afproevet-sag-mod-tv-2-ved-hoejesteret",
+          "source": "Århus Stiftstidende"
         },
         {
-          "title": "Red Bull-profil sejrer på første etape",
+          "title": "Sag mod TV 2 kan gå til Højesteret",
           "snippet": "",
-          "url": "https://www.feltet.dk/landevej/red-bull-profil-sejrer-paa-foerste-etape/11184159",
-          "source": "Feltet"
+          "url": "https://www.tv2fyn.dk/odense/sag-mod-tv-2-kan-ga-til-hojesteret-6e01a",
+          "source": "TV2 Fyn"
         },
         {
-          "title": "Vernon er der",
+          "title": "Svineproducenter må få sag mod TV 2 prøvet ved Højesteret",
           "snippet": "",
-          "url": "https://sport.tv2.dk/live/cykling/2026-05-21-12-etape-af-giro-ditalia/vernon-er-der?entry=76099aeb-48d1-42d5-8363-8a303f81dfdd",
-          "source": "tv2.dk"
+          "url": "https://www.dr.dk/nyheder/seneste/svineproducenter-maa-faa-sag-mod-tv-2-proevet-ved-hoejesteret",
+          "source": "dr.dk"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,7 +145,7 @@
       "title": "tony carruthers",
       "trafficCount": "500+",
       "pubDate": "Thu, 21 May 2026 12:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3XPcfEI10LipDquo6ZhoW4J677gdZWaH9W_2uRdBeQaCTvlY2ew1qN0IWtDo",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpoZA09WfQiRaZzkDg1_reVxw-44YUPRmVrv83pkGoGiJLUQQ3D2ltw-6eaWM",
       "pictureSource": "NBC News",
       "relatedSearch": [
         {
@@ -155,10 +155,10 @@
           "source": "NBC News"
         },
         {
-          "title": "Tennessee governor gives reprieve to inmate after botched execution",
+          "title": "Tennessee Calls Off Execution After Staff Can’t Find Prisoner’s Vein",
           "snippet": "",
-          "url": "https://tennesseelookout.com/2026/05/21/tennessee-governor-gives-reprieve-to-inmate-after-botched-execution/",
-          "source": "Tennessee Lookout"
+          "url": "https://www.nytimes.com/2026/05/21/us/tennessee-execution.html",
+          "source": "The New York Times"
         },
         {
           "title": "New details to be shared on Memphis death row inmate’s execution",
@@ -173,15 +173,9 @@
       "title": "denzel washington",
       "trafficCount": "500+",
       "pubDate": "Thu, 21 May 2026 12:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAtfe4SXsPycha_GBxh0fnS6tisoRyXgDiZujwhdcFPaCJqJpyIiiKQg-MXQ0",
-      "pictureSource": "ScreenRant",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJEbRJ82IPxUUPg3uLP8StxYlEDzR748tkkQzW6LgvyB8KyfzHhaWembT3Foc",
+      "pictureSource": "Yahoo",
       "relatedSearch": [
-        {
-          "title": "20 Years Ago, Denzel Washington's Most Underrated Movie Was Released",
-          "snippet": "",
-          "url": "https://screenrant.com/inside-man-denzel-washington-most-underrated-movie/",
-          "source": "ScreenRant"
-        },
         {
           "title": "Denzel Washington & Morgan Freeman’s Civil War Movie Is Leaving Netflix",
           "snippet": "",
@@ -193,6 +187,12 @@
           "snippet": "",
           "url": "https://www.cbr.com/glory-leaving-netflix-june-2026/",
           "source": "Comic Book Resources"
+        },
+        {
+          "title": "One of Denzel Washington’s most acclaimed movies is leaving Netflix",
+          "snippet": "",
+          "url": "https://www.silive.com/entertainment/tvfilm/2026/05/one-of-denzel-washingtons-most-acclaimed-movies-is-leaving-netflix.html",
+          "source": "SILive.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -254,29 +254,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "luis binks",
+      "title": "oliefelt",
       "trafficCount": "500+",
-      "pubDate": "Thu, 21 May 2026 12:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7OJCpau937momWe5XE1QbCZenm2Y_dLb3AiBZKWFMjtTZvldmUkryeJjCdP8",
-      "pictureSource": "tv2.dk",
+      "pubDate": "Thu, 21 May 2026 12:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyzOppOV01KMl4diZx7jTkHLAwNuHAZMgouul1Mv_1pJiDLxEu2yUK5XfBxsw",
+      "pictureSource": "Politiken",
       "relatedSearch": [
         {
-          "title": "Vanvittigt derby sender FCK ud i Europa",
+          "title": "Danmark godkender kæmpe oliefelt: »Klimapolitik er bare noget, vi leger«",
           "snippet": "",
-          "url": "https://sport.tv2.dk/live/fodbold/2026-05-21-vanvittigt-derby-sender-fck-ud-i-europa",
-          "source": "tv2.dk"
+          "url": "https://politiken.dk/klima/art10852327/Danmark-godkender-k%C3%A6mpe-oliefelt-%C2%BBKlimapolitik-er-bare-noget-vi-leger%C2%AB",
+          "source": "Politiken"
         },
         {
-          "title": "Europa playoff-nederlag til FC København",
+          "title": "Ny plan for oliefelt i Nordsøen godkendt",
           "snippet": "",
-          "url": "https://brondby.com/nyheder/herrer/2026/maj/europa-playoff-nederlag-til-fc-kobenhavn",
-          "source": "Brøndby IF"
+          "url": "https://www.tvsyd.dk/esbjerg/ny-plan-for-oliefelt-i-nordsoen-godkendt-69e16",
+          "source": "tvSyd"
         },
         {
-          "title": "Rødglødende Brøndby-profil revser dommerne",
+          "title": "Energistyrelsen godkender kontroversielt oliefelt - igen",
           "snippet": "",
-          "url": "https://www.tipsbladet.dk/nyhed/superliga/roedgloedende-broendby-profil-revser-dommerne",
-          "source": "Tipsbladet.dk"
+          "url": "https://via.ritzau.dk/pressemeddelelse/14943341/energistyrelsen-godkender-kontroversielt-oliefelt-igen?publisherId=13561876&lang=da",
+          "source": "Via Ritzau"
         }
       ],
       "link": "https://imtaqin.id/"

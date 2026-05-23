@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-05-23 10:47:01",
+  "lastUpdate": "2026-05-23 11:47:36",
   "data": [
     {
       "title": "בית ר ירושלים",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 23 May 2026 03:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTy8d88IHemRZi3zkWCOPsii-hoTEQkCGEgeZVDXPSpmN8eIRj1N_BZiyXcqvo",
       "pictureSource": "ספורט 1",
@@ -87,7 +87,7 @@
     },
     {
       "title": "דניאל פרץ",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 23 May 2026 01:00:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7hXxaeVFqXL25FGmTQDrfi5z8ZBDYd1gFeAUON4RQ09auTAHoP1LkcNKeC_s",
       "pictureSource": "ספורט 5",
@@ -133,21 +133,27 @@
           "source": "ynet"
         },
         {
-          "title": "האדריכל שחיפש את הבלתי ייאמן: ישראל גודוביץ הלך לעולמו",
+          "title": "פרידה מאייקון: האדריכל ומהנדס העיר לשעבר ישראל גודוביץ נפטר בגיל 92",
           "snippet": "",
-          "url": "https://www.israelhayom.co.il/news/local/article/20598726",
-          "source": "היום"
+          "url": "https://www.i24news.tv/he/news/culture/artc-20d450d4",
+          "source": "i24NEWS"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "израиль",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 23 May 2026 00:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgr8qQo1evpug-VtxzTA-1XgzzrsW0FmGUzUNnHow9ffKZ4FFwPpgWjwwfjQs",
-      "pictureSource": "Израиль на ладони - israelinfo",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQroS9i8YV28EYrJDvDikzjP-h5fn5orW3GTpLqh7-cGiszAVp2-3fQ-NM7NZM",
+      "pictureSource": "Cursorinfo",
       "relatedSearch": [
+        {
+          "title": "США убрали военных из Израиля в преддверии новой войны - мнение",
+          "snippet": "",
+          "url": "https://cursorinfo.co.il/israel-news/ssha-ubrali-voennyh-iz-izrailya-v-preddverii-novoj-vojny-mnenie/",
+          "source": "Cursorinfo"
+        },
         {
           "title": "NYTimes: «Нетаниягу превратился из члена экипажа Трампа в простого пассажира»",
           "snippet": "",
@@ -159,12 +165,6 @@
           "snippet": "",
           "url": "https://www.vesty.co.il/main/article/sj1afy1ezg",
           "source": "Vesty.co.il"
-        },
-        {
-          "title": "Счет на дни — Трамп и Нетаниягу поспорили об Иране",
-          "snippet": "",
-          "url": "https://cursorinfo.co.il/world-news/schet-na-dni-tramp-i-netaniyagu-posporili-ob-irane/",
-          "source": "Cursorinfo"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,6 +226,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "ביטוח לאומי",
+      "trafficCount": "2000+",
+      "pubDate": "Fri, 22 May 2026 20:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpasQJjl4VxFdZEy6urOzBsv1LmhJV1QlXOI8giuy_V9h13HYNFnvC0neiL5I",
+      "pictureSource": "ice (אייס)",
+      "relatedSearch": [
+        {
+          "title": "ביטוח לאומי דחה את תשלום הקצבאות: זו ההחלטה המשמעותית שהתקבלה",
+          "snippet": "",
+          "url": "https://www.ice.co.il/law/news/article/1113894",
+          "source": "ice (אייס)"
+        },
+        {
+          "title": "נפגע בתאונת עבודה - וזו הסיבה שלא יקבל דמי פגיעה",
+          "snippet": "",
+          "url": "https://www.bizportal.co.il/takdin/news/article/20032279",
+          "source": "ביזפורטל"
+        },
+        {
+          "title": "\"עבודה קשה לא מספיקה\": עבד בבנייה שנים - ולא יוכר בביטוח לאומי",
+          "snippet": "",
+          "url": "https://www.bizportal.co.il/takdin/news/article/20032132",
+          "source": "ביזפורטל"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "персидский залив",
       "trafficCount": "200+",
       "pubDate": "Fri, 22 May 2026 20:10:00 -0700",
@@ -251,15 +279,6 @@
           "source": "24.KG"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ביטוח לאומי",
-      "trafficCount": "2000+",
-      "pubDate": "Fri, 22 May 2026 20:10:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]

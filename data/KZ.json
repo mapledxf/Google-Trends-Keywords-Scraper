@@ -1,38 +1,10 @@
 {
-  "lastUpdate": "2026-05-24 10:03:27",
+  "lastUpdate": "2026-05-24 11:24:09",
   "data": [
     {
       "title": "гроза",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 24 May 2026 02:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQidXNFH1pQCxTRI72SvI4REOmFrC23cqPkfgVD4hvqMDanE8Ff4K095dPjJf4",
-      "pictureSource": "Здоровье Mail",
-      "relatedSearch": [
-        {
-          "title": "Врач Мойсенко объяснила, как пережить жару на работе в офисе",
-          "snippet": "",
-          "url": "https://health.mail.ru/news/3947948-vrach-mojsenko-obyasnila-kak-perezhit-zharu-na-rabote-v-ofise/?from=swap&swap=2",
-          "source": "Здоровье Mail"
-        },
-        {
-          "title": "МЧС Татарстана: 24 мая в республике ожидаются гроза, град и сильный ветер",
-          "snippet": "",
-          "url": "http://biektaw.ru/news/pogoda/mcs-tatarstana-24-maia-v-respublike-ozidaiutsia-groza-grad-i-silnyi-veter",
-          "source": "Высокогорские вести"
-        },
-        {
-          "title": "Консультация — предупреждение об интенсивности метеорологических явлений с 06 часов до 18 часов 24 мая 2026 года",
-          "snippet": "",
-          "url": "https://laishevskyi.ru/news/novosti/konsultaciia-preduprezdenie-ob-intensivnosti-meteorologiceskix-iavlenii-s-06-casov-do-18-casov-24-ma",
-          "source": "Камская новь"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "погода шымкент",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 24 May 2026 02:40:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_QYcSICzLKSqdRGHwjy7DqAf6AStKudnVJ5vlsVa3Kg9Kl8qn3w265DprKpI",
       "pictureSource": "Ulysmedia.kz",
       "relatedSearch": [
@@ -43,10 +15,10 @@
           "source": "Ulysmedia.kz"
         },
         {
-          "title": "По всему Казахстану объявили штормовое предупреждение на 24 мая",
+          "title": "Дожди с грозами: опубликован прогноз погоды на 25 мая",
           "snippet": "",
-          "url": "https://informburo.kz/novosti/po-vsemu-kazaxstanu-obieiavili-stormovoe-preduprezdenie-na-24-maia",
-          "source": "Informburo.kz"
+          "url": "https://www.zakon.kz/sobytiia/6519036-dozhdi-s-grozami-opublikovan-prognoz-pogody-na-25-maya.html",
+          "source": "Новости Zakon.kz"
         },
         {
           "title": "Штормовая погода ожидается почти по всему Казахстану",
@@ -58,8 +30,45 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "хамза шираз",
+      "title": "құрбан айт",
       "trafficCount": "100+",
+      "pubDate": "Sun, 24 May 2026 02:50:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "погода шымкент",
+      "trafficCount": "2000+",
+      "pubDate": "Sun, 24 May 2026 02:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgKysGZPWynqu2kw9_7dgK2nbrzy-O3C2Q0jpPvjJkbcZx26YMHP6F77rBhQw",
+      "pictureSource": "Gismeteo",
+      "relatedSearch": [
+        {
+          "title": "В Шымкенте 24 мая температура достигнет днем +25 °C",
+          "snippet": "",
+          "url": "https://www.gismeteo.kz/news/klimat/v-shymkente-24-maya-temperatura-dostignet-dnem-25-c/",
+          "source": "Gismeteo"
+        },
+        {
+          "title": "В Шымкенте 25 мая без осадков, днем до +25 °C",
+          "snippet": "",
+          "url": "https://www.gismeteo.kz/news/klimat/v-shymkente-25-maya-bez-osadkov-dnem-do-25-c/",
+          "source": "Gismeteo"
+        },
+        {
+          "title": "Дождь и до +25 градусов: какая погода ожидается в мегаполисах Казахстана",
+          "snippet": "",
+          "url": "https://www.nur.kz/society/2379909-dozhd-i-do-25-gradusov-kakaya-pogoda-ozhidaetsya-v-megapolisah-kazahstana/",
+          "source": "NUR.KZ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "хамза шираз",
+      "trafficCount": "200+",
       "pubDate": "Sun, 24 May 2026 02:40:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg9Sa8q8SJ_EKo4uPmt0VC6cXa7d6_3GZZ3HbY12Dw2DRgfXFxbB4gtMF-9u4",
       "pictureSource": "sportarena.kz",
@@ -87,7 +96,7 @@
     },
     {
       "title": "дональд трамп",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 24 May 2026 00:40:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITlYAYpOMi8oTS-PgXI6RciQ-jQOapKlEH-XEVYIwA_ez8J-2a7TbG0M5JRs",
       "pictureSource": "BBC",
@@ -105,10 +114,10 @@
           "source": "DW.com"
         },
         {
-          "title": "Трамп допустил скорое соглашение с Ираном",
+          "title": "Иран и США продолжают переговоры",
           "snippet": "",
-          "url": "https://forbes.kz/articles/tramp-dopustil-skoroe-soglashenie-s-iranom-3ef166",
-          "source": "Forbes.kz"
+          "url": "https://24.kz/ru/news/in-the-world/770304-iran-i-ssha-prodolzhayut-peregovory",
+          "source": "24.kz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,7 +154,7 @@
       "title": "алла пугачёва",
       "trafficCount": "100+",
       "pubDate": "Sat, 23 May 2026 22:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4Xo5la15z5jMW3o7rvuSZiIKJgmefoDcSoIPHS4hRHFKpVcNVpACCkIhxfck",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWiVO3f51oEzKKmMmcWE9_5dX4FcaLeXFrVGOX08unR6g4TuD4vGQD_htdZ1E",
       "pictureSource": "Газета Metro Москва",
       "relatedSearch": [
         {
@@ -199,28 +208,28 @@
     },
     {
       "title": "улица",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 23 May 2026 21:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSl4Z5MoOSbzMVaM6Tsry27lHSj-BnxD3lpaosuIvVDo3txJz9QaDFmNDiJ1Xw",
-      "pictureSource": "Gismeteo",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSH_syvk1Y2Yb5ybQr9LwJfsGUO1d2usb4Xd4u_hiCScanI6_OhZ9mLrPD8m10",
+      "pictureSource": "24.kz",
       "relatedSearch": [
         {
-          "title": "Слон устроил буйство на улицах города в индийском штате Керала",
+          "title": "Улицу Кенесары частично закроют в Астане",
           "snippet": "",
-          "url": "https://www.gismeteo.kz/news/stihiynye-yavleniya/slon-ustroil-bujstvo-na-ulicah-goroda-v-indijskom-shtate-kerala/",
-          "source": "Gismeteo"
+          "url": "https://24.kz/ru/news/social/770388-ulitsu-kenesary-chastichno-zakroyut-v-astane",
+          "source": "24.kz"
         },
         {
-          "title": "Рабочие разделены на смены, работают днем ​​и ночью, чтобы справиться с экстремальной жарой.",
+          "title": "Часть проспекта Абая в Астане частично закрыли до 27 мая",
           "snippet": "",
-          "url": "https://www.vietnam.vn/ru/nguoi-lao-dong-chia-ca-lam-viec-sang-toi-de-ung-pho-nang-nong-cuc-doan",
-          "source": "Vietnam.vn"
+          "url": "https://informburo.kz/novosti/cast-prospekta-abaia-v-astane-casticno-zakryli-do-27-maia",
+          "source": "Informburo.kz"
         },
         {
-          "title": "Из-за сильной жары рабочим в Нгеане приходится приспосабливаться к условиям.",
+          "title": "Проспект Абая временно перекроют для движения в Астане",
           "snippet": "",
-          "url": "https://baonghean.vn/ru/nang-nong-gay-gat-lao-dong-nghe-an-oan-minh-thich-ung-10337964.html",
-          "source": "baonghean.vn"
+          "url": "https://www.nur.kz/society/2380146-prospekt-abaya-vremenno-perekroyut-dlya-dvizheniya-v-astane/",
+          "source": "NUR.KZ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,54 +238,26 @@
       "title": "курбан байрам 2026",
       "trafficCount": "100+",
       "pubDate": "Sat, 23 May 2026 21:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThlCI0OlBUgkp_a2RZ17gfijDCBS71WDNjzyqN2aAZYL4h3rFOcKXKX8jilCY",
-      "pictureSource": "kz24.news",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9wBcaIHgkfn14XWBcPoNcoWXP8_4pNPlDbESeuT2TxkX_u1eVMV8Lnu7A_FE",
+      "pictureSource": "Нурлат-⁠информ",
       "relatedSearch": [
         {
-          "title": "История Курбан айта: суть, традиции и дата в Казахстане 2026",
+          "title": "Курбан-байрам-2026: С чистыми помыслами и искренней душой",
           "snippet": "",
-          "url": "https://kz24.news/article/istoriya/istoriya-kurban-ayta.html",
-          "source": "kz24.news"
+          "url": "https://nurlat-tat.ru/news/obschestvo/kurban-bairam-2026-s-cistymi-pomyslami-i-iskrennei-dusoi",
+          "source": "Нурлат-⁠информ"
         },
         {
-          "title": "Намаз на Курбан-байрам пройдет в четырех мечетях Москвы",
+          "title": "Что за праздник Курбан-байрам и как его отмечают",
           "snippet": "",
-          "url": "https://nsn.fm/society/namaz-na-kurban-bairam-proidet-v-chetyreh-mechetyah-moskvy",
-          "source": "Национальная Служба Новостей - НСН"
+          "url": "https://altapress.ru/story/chto-za-prazdnik-kurban-bayram-i-kak-ego-otmechayut-387412",
+          "source": "Алтапресс — новости Барнаула и Алтайского края"
         },
         {
           "title": "Курбан с точки зрения шариата: кому, когда и почему",
           "snippet": "",
           "url": "https://spas-rt.ru/news/obschestvo/kurban-s-tocki-zreniia-sariata-komu-kogda-i-pocemu",
           "source": "Новая жизнь (Яна тормыш)"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "моа",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 23 May 2026 20:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGrRzz97PzzHFNCnnJSSLWzPTm7RA0TzKNW8-laWcUB_yFBOthstD54dj2USQ",
-      "pictureSource": "Tengrinews",
-      "relatedSearch": [
-        {
-          "title": "В США хотят воссоздать из синтетических яиц птицу моа, вымершую 500 лет назад",
-          "snippet": "",
-          "url": "https://tengrinews.kz/curious/ssha-hotyat-vossozdat-sinteticheskih-yaits-ptitsu-moa-599944/",
-          "source": "Tengrinews"
-        },
-        {
-          "title": "Гигантскую вымершую птицу попытаются возродить в искусственной скорлупе",
-          "snippet": "",
-          "url": "https://informburo.kz/novosti/gigantskuiu-vymersuiu-pticu-popytaiutsia-vozrodit-v-iskusstvennoi-skorlupe",
-          "source": "Informburo.kz"
-        },
-        {
-          "title": "Из искусственного яйца вылупились птенцы гигантских моа, которые вымерли 500 лет назад",
-          "snippet": "",
-          "url": "https://www.zakon.kz/nauka/6519010-iz-iskusstvennogo-yaytsa-vylupilis-ptentsy-gigantskikh-moa-kotorye-vymerli-500-let-nazad.html",
-          "source": "Новости Zakon.kz"
         }
       ],
       "link": "https://imtaqin.id/"

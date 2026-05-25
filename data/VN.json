@@ -1,9 +1,261 @@
 {
-  "lastUpdate": "2026-05-25 21:53:48",
+  "lastUpdate": "2026-05-25 22:48:55",
   "data": [
     {
-      "title": "tàu chở dầu",
+      "title": "mất điện",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 25 May 2026 15:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr5nJ3OEFePzGJXl0KzcmiEUC9Ak0Ts4kbGy_BJh2ilSHHCsDJP9tC15bpcoo",
+      "pictureSource": "VietnamBiz",
+      "relatedSearch": [
+        {
+          "title": "Lịch cắt điện Hải Phòng ngày mai 26/5 nhiều nơi mất điện kéo dài Thuỷ Nguyên, Tiên Lãng, An Lão, Kiến Thuỵ, Vĩnh Bảo, Hồng Bàng",
+          "snippet": "",
+          "url": "https://vietnambiz.vn/lich-cat-dien-hai-phong-ngay-mai-265-nhieu-noi-mat-dien-keo-dai-thuy-nguyen-tien-lang-an-lao-kien-thuy-vinh-bao-hong-bang-2026523232831609.htm",
+          "source": "VietnamBiz"
+        },
+        {
+          "title": "Lịch cắt điện TP. Hải Phòng và Tỉnh Hải Dương từ 21/05 đến 24/05/2026",
+          "snippet": "",
+          "url": "https://baonghean.vn/lich-cat-dien-tp-hai-phong-va-tinh-hai-duong-tu-2105-den-24052026-10337529.html",
+          "source": "baonghean.vn"
+        },
+        {
+          "title": "Lịch cắt điện Hải Phòng tuần này (từ ngày 25/5 đến 27/5) Thuỷ Nguyên, Tiên Lãng, Kiến An, An Lão, Hồng Bàng, Lê Chân mất điện diện rộng",
+          "snippet": "",
+          "url": "https://vietnammoi.vn/lich-cat-dien-hai-phong-tuan-nay-tu-ngay-255-den-275-thuy-nguyen-tien-lang-kien-an-an-lao-hong-bang-le-chan-mat-dien-dien-rong-202652221436515.htm",
+          "source": "Việt Nam Mới"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "bộ nội vụ",
       "trafficCount": "100+",
+      "pubDate": "Mon, 25 May 2026 15:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOjtfw0trMyLFT6x8XcYqnMdfPNtA0pLQGIwbgubMvMVDP5lZKkKyuzWkKePw",
+      "pictureSource": "Báo Tuổi Trẻ",
+      "relatedSearch": [
+        {
+          "title": "Bộ Nội vụ hướng dẫn về tinh giản biên chế và tiếp nhận người không chuyên trách làm công chức",
+          "snippet": "",
+          "url": "https://tuoitre.vn/bo-noi-vu-huong-dan-ve-tinh-gian-bien-che-va-tiep-nhan-nguoi-khong-chuyen-trach-lam-cong-chuc-20260525115215788.htm",
+          "source": "Báo Tuổi Trẻ"
+        },
+        {
+          "title": "Công văn 4941/BNV-TCBC 2026 hướng dẫn thực hiện Nghị định 154/2025/NĐ-CP",
+          "snippet": "",
+          "url": "https://luatvietnam.vn/lao-dong/cong-van-4941-bnv-tcbc-2026-huong-dan-thuc-hien-nghi-dinh-154-2025-nd-cp-435272-d6.html",
+          "source": "LuatVietnam"
+        },
+        {
+          "title": "Bộ Nội vụ hướng dẫn mới về tinh giản biên chế",
+          "snippet": "",
+          "url": "https://thanhnien.vn/bo-noi-vu-huong-dan-moi-ve-tinh-gian-bien-che-185260522160053458.htm",
+          "source": "Báo Thanh Niên"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "vùng áp thấp",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 25 May 2026 15:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZOjyTs7FitEqyNktvn1YQmS-GMGI7FYRWJKXn3CVolwRMbSchWWJY5O9TIRk",
+      "pictureSource": "Laodong.vn",
+      "relatedSearch": [
+        {
+          "title": "Áp thấp đột ngột quay đầu khi tiến gần Biển Đông",
+          "snippet": "",
+          "url": "https://laodong.vn/du-lich/cong-dong/ap-thap-dot-ngot-quay-dau-khi-tien-gan-bien-dong-1707665.html",
+          "source": "Laodong.vn"
+        },
+        {
+          "title": "Áp thấp ngoài khơi tăng nguy cơ thành bão, diễn biến thời tiết trong ngày tới?",
+          "snippet": "",
+          "url": "https://www.techz.vn/180-526-5-ap-thap-ngoai-khoi-tang-nguy-co-thanh-bao-dien-bien-thoi-tiet-trong-ngay-toi-ylt693355.html",
+          "source": "Techz.vn"
+        },
+        {
+          "title": "Áp thấp ngoài khơi tăng nguy cơ thành bão",
+          "snippet": "",
+          "url": "https://laodong.vn/the-gioi/ap-thap-ngoai-khoi-tang-nguy-co-thanh-bao-1707541.ldo",
+          "source": "Laodong.vn"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "mưa",
+      "trafficCount": "2000+",
+      "pubDate": "Mon, 25 May 2026 15:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyQgkwMyz8IdZiF97hCdTrRJl6bw91O3Kmg5hiPWkkN70a22aR6w2Ni2PM5rU",
+      "pictureSource": "Laodong.vn",
+      "relatedSearch": [
+        {
+          "title": "Dự báo thời tiết 10 ngày tới từ 26.5 đến 4.6 trên cả nước",
+          "snippet": "",
+          "url": "https://laodong.vn/moi-truong/du-bao-thoi-tiet-10-ngay-toi-tu-265-den-46-tren-ca-nuoc-1707976.ldo",
+          "source": "Laodong.vn"
+        },
+        {
+          "title": "Mặt đường gần 50 độ C, lao động tự do kiệt sức giữa đợt nắng đỉnh điểm ở Hà Nội",
+          "snippet": "",
+          "url": "https://kenh14.vn/mat-duong-gan-50-do-c-lao-dong-tu-do-kiet-suc-giua-dot-nang-dinh-diem-o-ha-noi-215260525150338069.chn",
+          "source": "Kenh14.vn"
+        },
+        {
+          "title": "Vì sao mùa hè năm 2026 ở Hà Nội nắng nóng bất thường?",
+          "snippet": "",
+          "url": "https://znews.vn/vi-sao-mua-he-nam-2026-o-ha-noi-nang-nong-bat-thuong-post1654071.html",
+          "source": "Znews"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "câu lạc bộ bóng đá manchester city",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 25 May 2026 15:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjkaLaIDWpwHMBBGkXAZ4D6rbU5Q5D4ej8sp0wfwirGUBWwVZSmBNuPyIqH_M",
+      "pictureSource": "VnExpress",
+      "relatedSearch": [
+        {
+          "title": "Guardiola: 'Các cầu thủ có trách nhiệm giữ vững tiêu chuẩn của Man City'",
+          "snippet": "",
+          "url": "https://vnexpress.net/guardiola-cac-cau-thu-co-trach-nhiem-giu-vung-tieu-chuan-cua-man-city-5077683.html",
+          "source": "VnExpress"
+        },
+        {
+          "title": "Video bóng đá Man City - Aston Villa: Kết buồn ngày chia tay HLV Guardiola (Ngoại hạng Anh)",
+          "snippet": "",
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-man-city-aston-villa-ket-buon-ngay-chia-tay-hlv-guardiola-ngoai-hang-anh-c48a1764500.html",
+          "source": "Tin tức 24h"
+        },
+        {
+          "title": "Pep Guardiola làm lành với vợ, về Barcelona sinh sống",
+          "snippet": "",
+          "url": "https://vietnamnet.vn/pep-guardiola-lam-lanh-voi-vo-ve-barcelona-sinh-song-2518829.html",
+          "source": "Báo VietNamNet"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "siêu dự an",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 25 May 2026 14:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJgC40b51A1_WB4KM8P9nJZnDSa6qVfpPtRAGPBGuZ57zwyYx7QL0KQpzfTfk",
+      "pictureSource": "Báo VietNamNet",
+      "relatedSearch": [
+        {
+          "title": "Khi Hà Nội bước vào cuộc tái thiết lớn nhất nhiều năm qua",
+          "snippet": "",
+          "url": "https://vietnamnet.vn/khi-ha-noi-buoc-vao-cuoc-tai-thiet-lon-nhat-nhieu-nam-qua-2518502.html",
+          "source": "Báo VietNamNet"
+        },
+        {
+          "title": "Từ quy hoạch sông Hồng đến kỳ vọng dịch chuyển giá trị bất động sản",
+          "snippet": "",
+          "url": "https://dantri.com.vn/bat-dong-san/tu-quy-hoach-song-hong-den-ky-vong-dich-chuyen-gia-tri-bat-dong-san-20260525153123663.htm",
+          "source": "Báo Dân trí"
+        },
+        {
+          "title": "Bốn nhóm dự án trục đại lộ cảnh quan sông Hồng",
+          "snippet": "",
+          "url": "https://vnexpress.net/bon-nhom-du-an-truc-dai-lo-canh-quan-song-hong-5076347.html",
+          "source": "VnExpress"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "nghị định 168/2024/nđ–cp",
+      "trafficCount": "1000+",
+      "pubDate": "Mon, 25 May 2026 14:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuKIHYkAp9M44VbtxiThhPa7Z-QihKMmmfgiTISg0y7LWYJZXKbcWRhY0_UUA",
+      "pictureSource": "Laodong.vn",
+      "relatedSearch": [
+        {
+          "title": "Danh sách chủ xe bị phạt nguội lỗi vượt đèn đỏ 20 triệu đồng theo Nghị định 168",
+          "snippet": "",
+          "url": "https://laodong.vn/xe/danh-sach-chu-xe-bi-phat-nguoi-loi-vuot-den-do-20-trieu-dong-theo-nghi-dinh-168-1706757.ldo",
+          "source": "Laodong.vn"
+        },
+        {
+          "title": "640 trường hợp xe máy, ô tô mang biển kiểm soát sau khẩn trương nộp phạt nguội theo Nghị Định 168 trong danh sách mới đây",
+          "snippet": "",
+          "url": "https://cafef.vn/640-truong-hop-xe-may-o-to-mang-bien-kiem-soat-sau-khan-truong-nop-phat-nguoi-theo-nghi-dinh-168-trong-danh-sach-moi-day-188260524080648918.chn",
+          "source": "CafeF"
+        },
+        {
+          "title": "554 chủ phương tiện có tên trong trong danh sách này khẩn trương nộp phạt nguội theo Nghị định 168",
+          "snippet": "",
+          "url": "https://kenh14.vn/554-chu-phuong-tien-co-ten-trong-trong-danh-sach-nay-khan-truong-nop-phat-nguoi-theo-nghi-dinh-168-215260520180134567.chn",
+          "source": "Kenh14.vn"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "giải vô địch bóng đá u 19 đông nam á",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 25 May 2026 14:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXIX88j3Aa_2ZRCbR1MsMZa99uzt58xOsoec9Vppxu24zk4d3zqQlUzkvpyRk",
+      "pictureSource": "Báo Thanh Niên",
+      "relatedSearch": [
+        {
+          "title": "U.19 Việt Nam liên tiếp thắng đối thủ hơn tuổi khi tập huấn Nhật Bản",
+          "snippet": "",
+          "url": "https://thanhnien.vn/u19-viet-nam-lien-tiep-thang-doi-thu-hon-tuoi-khi-tap-huan-nhat-ban-18526051716590442.htm",
+          "source": "Báo Thanh Niên"
+        },
+        {
+          "title": "Lịch thi đấu và trực tiếp U19 Việt Nam ở giải U19 Đông Nam Á 2026",
+          "snippet": "",
+          "url": "https://vov.vn/the-thao/lich-thi-dau-va-truc-tiep-u19-viet-nam-o-giai-u19-dong-nam-a-2026-post1294583.vov",
+          "source": "VOV"
+        },
+        {
+          "title": "Giải tỏa áp lực khi cùng bảng với Việt Nam, HLV Nova Arianto nói gì?",
+          "snippet": "",
+          "url": "https://plo.vn/giai-toa-ap-luc-khi-cung-bang-voi-viet-nam-hlv-nova-arianto-noi-gi-post909640.html",
+          "source": "Báo Pháp Luật TP. Hồ Chí Minh"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tự long",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 25 May 2026 14:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRugAY0sNsD_4xAK8lMgDbLmzOGSy5RvvK80tBCbXS2CgsFGiXy4khLvqozJQ",
+      "pictureSource": "baonghean.vn",
+      "relatedSearch": [
+        {
+          "title": "Con trai út NSND Tự Long gây ấn tượng với năng khiếu nghệ thuật trên sân khấu",
+          "snippet": "",
+          "url": "https://baonghean.vn/con-trai-ut-nsnd-tu-long-gay-an-tuong-voi-nang-khieu-nghe-thuat-tren-san-khau-10338246.html",
+          "source": "baonghean.vn"
+        },
+        {
+          "title": "Con út của NSND Tự Long vừa nhìn đã rõ là bản sao của bố, có năng khiếu chuẩn con nhà nòi",
+          "snippet": "",
+          "url": "https://eva.vn/lang-sao/con-ut-cua-nsnd-tu-long-vua-nhin-da-ro-la-ban-sao-cua-bo-co-nang-khieu-chuan-con-nha-noi-c20a671962.html",
+          "source": "Eva.vn"
+        },
+        {
+          "title": "Con trai út NSND Tự Long gây chú ý với ngoại hình giống hệt bố và năng khiếu nghệ thuật",
+          "snippet": "",
+          "url": "https://baolamdong.vn/con-trai-ut-nsnd-tu-long-gay-chu-y-voi-ngoai-hinh-giong-het-bo-va-nang-khieu-nghe-thuat-444023.html",
+          "source": "Báo Lâm Đồng"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tàu chở dầu",
+      "trafficCount": "200+",
       "pubDate": "Mon, 25 May 2026 14:00:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNh0z6zRxijSJXu10Rtv22mGauRovdpox9-ldnPHb2jrqZiMimmMmyOBneX58",
       "pictureSource": "Laodong.vn",
@@ -27,233 +279,6 @@
           "source": "PetroTimes"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "giải bóng đá ngoại hạng anh",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 25 May 2026 13:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPiE28rBTiCOSNUZeQNuCPIOD-XGUlNMwoyrCSGbDR3neNfJvYEPtE8lxKO-I",
-      "pictureSource": "Báo Tuổi Trẻ",
-      "relatedSearch": [
-        {
-          "title": "Bruno Fernandes lập kỷ lục vô tiền khoáng hậu tại giải Ngoại hạng Anh",
-          "snippet": "",
-          "url": "https://tuoitre.vn/bruno-fernandes-lap-ki-luc-vo-tien-khoang-hau-tai-giai-ngoai-hang-anh-2026052500433911.htm",
-          "source": "Báo Tuổi Trẻ"
-        },
-        {
-          "title": "Video bóng đá Brighton - MU: Rực rỡ kỷ lục Fernandes, tưng bừng ngày hạ màn (Ngoại hạng Anh)",
-          "snippet": "",
-          "url": "https://www.24h.com.vn/bong-da/video-bong-da-brighton-mu-ruc-ro-ky-luc-fernandes-tung-bung-ngay-ha-man-ngoai-hang-anh-c48a1764492.html",
-          "source": "Tin tức 24h"
-        },
-        {
-          "title": "Màn trò chuyện gây chú ý của Bruno với Baleba",
-          "snippet": "",
-          "url": "https://znews.vn/man-tro-chuyen-gay-chu-y-cua-bruno-voi-baleba-post1653918.html",
-          "source": "Znews"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "wayne rooney",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 25 May 2026 13:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSR-J3Gb0gdyKaxWDWeGUbyzsaj8EFqPPcjhVtF5of8DFdL9TU1z0UDK7ymZ8A",
-      "pictureSource": "Thể Thao 247",
-      "relatedSearch": [
-        {
-          "title": "Wayne Rooney chỉ thẳng bản hợp đồng hay nhất mùa giải Ngoại hạng Anh",
-          "snippet": "",
-          "url": "https://thethao247.vn/493-wayne-rooney-chi-thang-ban-hop-dong-hay-nhat-mua-giai-ngoai-hang-anh-d421371.html",
-          "source": "Thể Thao 247"
-        },
-        {
-          "title": "Rooney chọn Gyokeres là bản hợp đồng hay nhất Ngoại hạng Anh",
-          "snippet": "",
-          "url": "https://bongda.com.vn/rooney-chon-gyokeres-la-ban-hop-dong-hay-nhat-ngoai-hang-anh-d832907.html",
-          "source": "bongda.com.vn"
-        },
-        {
-          "title": "Guardiola: 'Các cầu thủ có trách nhiệm giữ vững tiêu chuẩn của Man City'",
-          "snippet": "",
-          "url": "https://vnexpress.net/guardiola-cac-cau-thu-co-trach-nhiem-giu-vung-tieu-chuan-cua-man-city-5077683.html",
-          "source": "VnExpress"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "wolfsburg",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 25 May 2026 11:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQziH1VbJ8Ecys66ZrwHwA2R2q_eLTHKKZC9iSbKq_kJVpe6AL9Cn4bxlfJNGc",
-      "pictureSource": "tagesschau.de",
-      "relatedSearch": [
-        {
-          "title": "Paderborn zurück in der Bundesliga - Wolfsburg steigt erstmals ab",
-          "snippet": "",
-          "url": "https://www.tagesschau.de/sport/relegation-paderborn-wolfsburg-100.html",
-          "source": "tagesschau.de"
-        },
-        {
-          "title": "\"Wolfsburger Weg\" ins Desaster: Die verdiente Quittung - und eine große Chance",
-          "snippet": "",
-          "url": "https://www.kicker.de/wolfsburger-weg-ins-desaster-die-verdiente-quittung-und-eine-grosse-chance-1219828/artikel",
-          "source": "Kicker"
-        },
-        {
-          "title": "Glückwünsche nach Ostwestfalen",
-          "snippet": "",
-          "url": "https://www.dfl.de/de/aktuelles/glueckwuensche-nach-ostwestfalen/",
-          "source": "DFL Deutsche Fußball Liga GmbH"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "lịch cắt điện hà nội",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 25 May 2026 08:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAprZhS2if1mCR4T60Rlx8W3_JuU3ZnvN83DB5oKTS17v-NE3WuTP3SsOZe-Q",
-      "pictureSource": "Laodong.vn",
-      "relatedSearch": [
-        {
-          "title": "Lịch cắt điện ở Quảng Trị ngày 25.5",
-          "snippet": "",
-          "url": "https://laodong.vn/ban-doc/lich-cat-dien-o-quang-tri-ngay-255-1707361.ldo",
-          "source": "Laodong.vn"
-        },
-        {
-          "title": "Lịch tạm ngừng cấp điện Quảng Trị ngày mai 26/5",
-          "snippet": "",
-          "url": "https://bnews.vn/lich-tam-ngung-cap-dien-quang-tri-ngay-mai-26-5/422291.html",
-          "source": "Bnews.vn"
-        },
-        {
-          "title": "Lịch cắt điện ở Quảng Trị ngày 23.5",
-          "snippet": "",
-          "url": "https://laodong.vn/ban-doc/lich-cat-dien-o-quang-tri-ngay-235-1706457.ldo",
-          "source": "Laodong.vn"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ngược đường ngược nắng tập 34",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 25 May 2026 08:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQF12fdZ60hlkYqLBN0T6zAYNwEt2j3piIS2t0jHINN0MhH6ZsYq8OlnIO9aRc",
-      "pictureSource": "Laodong.vn",
-      "relatedSearch": [
-        {
-          "title": "Ngược đường ngược nắng tập 34: Bà Diện xin lỗi Mai, mong bỏ qua quá khứ",
-          "snippet": "",
-          "url": "https://laodong.vn/giai-tri/nguoc-duong-nguoc-nang-tap-34-ba-dien-xin-loi-mai-mong-bo-qua-qua-khu-1707285.ldo",
-          "source": "Laodong.vn"
-        },
-        {
-          "title": "Ngược đường ngược nắng - Tập 34: Ông Trực và ông Phúc \"chốt đơn\" thông gia ngay trên bàn nhậu",
-          "snippet": "",
-          "url": "https://vtv.vn/nguoc-duong-nguoc-nang-tap-34-ong-truc-va-ong-phuc-chot-don-thong-gia-ngay-tren-ban-nhau-100260525230823268.htm",
-          "source": "VTV.vn"
-        },
-        {
-          "title": "Ngược đường ngược nắng tập 34: Bà Diện chủ động gặp Mai trần tình chuyện xưa",
-          "snippet": "",
-          "url": "https://vov.vn/van-hoa/nguoc-duong-nguoc-nang-tap-34-ba-dien-chu-dong-gap-mai-tran-tinh-chuyen-xua-post1294690.vov",
-          "source": "VOV"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "vỉa hè",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 25 May 2026 08:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT79xE_J_Pg_1IWL0XMzkO_o6wSFSqLblKIsyv-DmIvdPd2_huwiHZ2AgZcaO8",
-      "pictureSource": "Báo Tuổi Trẻ",
-      "relatedSearch": [
-        {
-          "title": "Phường Hai Bà Trưng báo cáo Thành ủy Hà Nội vụ 'vỉa hè lát đá trên tuyến đường trăm tỉ bị đục phá'",
-          "snippet": "",
-          "url": "https://tuoitre.vn/phuong-hai-ba-trung-bao-cao-thanh-uy-ha-noi-vu-via-he-lat-da-tren-tuyen-duong-tram-ti-bi-duc-pha-20260525082228656.htm",
-          "source": "Báo Tuổi Trẻ"
-        },
-        {
-          "title": "Phường lên tiếng việc vỉa hè lát đá \"bền trăm năm\" ở Hà Nội bị đục phá",
-          "snippet": "",
-          "url": "https://laodong.vn/ban-doc/phuong-len-tieng-viec-via-he-lat-da-ben-tram-nam-o-ha-noi-bi-duc-pha-1707604.ldo",
-          "source": "Laodong.vn"
-        },
-        {
-          "title": "Phường Hai Bà Trưng báo cáo Thường trực Thành ủy Hà Nội vụ ‘đục phá’ đá lát vỉa hè",
-          "snippet": "",
-          "url": "https://baotintuc.vn/xa-hoi/phuong-hai-ba-trung-bao-cao-thuong-truc-thanh-uy-ha-noi-vu-duc-pha-da-lat-via-he-20260525135722926.htm",
-          "source": "baotintuc.vn"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "nguyễn lâm thảo tâm",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 25 May 2026 07:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTxVYIfAHNCDMx63_z44hN79EP4EAuncb0Dozs3Y463GVNuQYT0l_W3G6Mx_I",
-      "pictureSource": "Znews",
-      "relatedSearch": [
-        {
-          "title": "Diễn viên 'Mắt biếc' trước khi được cầu hôn",
-          "snippet": "",
-          "url": "https://znews.vn/dien-vien-mat-biec-truoc-khi-duoc-cau-hon-post1654096.html",
-          "source": "Znews"
-        },
-        {
-          "title": "Nguyễn Lâm Thảo Tâm khoe nhẫn đính hôn sau chuyến đi biển, dàn sao Việt đồng loạt chúc mừng",
-          "snippet": "",
-          "url": "https://hoahoctro.tienphong.vn/nguyen-lam-thao-tam-khoe-nhan-dinh-hon-sau-chuyen-di-bien-dan-sao-viet-dong-loat-chuc-mung-post1846255.tpo",
-          "source": "Báo điện tử Tiền Phong"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "đội tuyển bóng đá quốc gia indonesia",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 25 May 2026 07:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSa0gYGBRknGxlYcyP_xFWKkQuv6956H_ArgMYq7fR0StcnpczepjgknH4K_6I",
-      "pictureSource": "Báo Dân trí",
-      "relatedSearch": [
-        {
-          "title": "Báo Indonesia nhận xét thẳng thắn về trình độ bóng đá Việt Nam và Thái Lan",
-          "snippet": "",
-          "url": "https://dantri.com.vn/the-thao/bao-indonesia-nhan-xet-thang-than-ve-trinh-do-bong-da-viet-nam-va-thai-lan-20260525154356904.htm",
-          "source": "Báo Dân trí"
-        },
-        {
-          "title": "Bóng đá Việt Nam và Thái Lan: Cuộc đổi ngôi ngoạn mục trong chu kỳ 5 năm",
-          "snippet": "",
-          "url": "https://baohatinh.vn/tv/bong-da-viet-nam-va-thai-lan-cuoc-doi-ngoi-ngoan-muc-trong-chu-ky-5-nam-41441.html",
-          "source": "Báo Hà Tĩnh"
-        },
-        {
-          "title": "Bóng đá Việt Nam và Thái Lan: Sự chuyển dịch quyền lực trong chu kỳ 2021-2026",
-          "snippet": "",
-          "url": "https://baonghean.vn/bong-da-viet-nam-va-thai-lan-su-chuyen-dich-quyen-luc-trong-chu-ky-2021-2026-10338094.html",
-          "source": "baonghean.vn"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "tập đoàn flc",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 25 May 2026 07:10:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]

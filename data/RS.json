@@ -1,58 +1,170 @@
 {
-  "lastUpdate": "2026-05-25 16:11:55",
+  "lastUpdate": "2026-05-25 17:55:42",
   "data": [
     {
-      "title": "полиција",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 25 May 2026 08:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR65Yn_hF5dZhSrzf1LPmmfv8VDV_j1FN7vwOsOjDOaGV0_7PB4iGusZYRY56w",
+      "title": "састанак",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 25 May 2026 10:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwJowCx4f20n2_4pijwzK1jCLz4ntDBO_xOKNhYECBS18hQ8eJkKoIU5caJ14",
+      "pictureSource": "N1",
+      "relatedSearch": [
+        {
+          "title": "Vučić kaže da je Si samo njemu i Putinu lično uručio Orden prijateljstva",
+          "snippet": "",
+          "url": "https://n1info.rs/vesti/vucic-kaze-da-je-si-samo-njemu-i-putinu-licno-urucio-orden-prijateljstva/",
+          "source": "N1"
+        },
+        {
+          "title": "Вучић са Си Ђинпингом: Хвала на поштовању према Србији",
+          "snippet": "",
+          "url": "https://rts.rs/vesti/politika/5957537/vucic-sa-si-djinpingom-hvala-na-postovanju-prema-srbiji.html",
+          "source": "РТС"
+        },
+        {
+          "title": "Dodik čestitao Vučiću Orden prijateljstva i važne sporazume Srbije i Kine",
+          "snippet": "",
+          "url": "https://www.blic.rs/vesti/politika/dodik-cestitao-vucicu-orden-prijateljstva-i-vazne-sporazume-srbije-i-kine/vwh6vew",
+          "source": "Blic"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "telegraf.rs",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 25 May 2026 09:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsnB4sis3kSamixE0DMm70WVhO2TZWM8X_08N1JOhkM7LftlROQeBNVBnzlVk",
       "pictureSource": "Blic",
       "relatedSearch": [
         {
-          "title": "PUCNJAVA U SARAJEVU Ranjen mladić, policija i hitna pomoć odmah izašle na lice mesta",
+          "title": "Dokument koji menja svet: Isplivali detalji tajnog memoranduma Irana i Amerike",
           "snippet": "",
-          "url": "https://www.blic.rs/vesti/hronika/pucnjava-u-sarajevu-ranjen-mladic-policija-i-hitna-pomoc-odmah-izasle-na-lice-mesta/0pbjnp8",
+          "url": "https://www.blic.rs/vesti/svet/dokument-koji-menja-svet-isplivali-detalji-tajnog-memoranduma-irana-i-amerike/slt0kbk",
           "source": "Blic"
         },
         {
-          "title": "Младић тешко рањен у Сарајеву, полицијске патроле и екипе Хитне помоћи на терену",
+          "title": "Al Arabija: Iran spreman da prebaci obogaćeni uranijum u Kinu uz garancije Pekinga",
           "snippet": "",
-          "url": "https://www.politika.rs/scc/clanak/757791/mladic-tesko-ranjen-u-sarajevu-policijske-patrole-i-ekipe-hitne-pomoci-na-terenu",
-          "source": "Politika Online"
+          "url": "https://www.tanjug.rs/bliski-istok/vesti/254601/al-arabija-iran-spreman-da-prebaci-obogaceni-uranijum-u-kinu-uz-garancije-pekinga/vest",
+          "source": "tanjug.rs"
         },
         {
-          "title": "Сарајево: Младић рањен у пуцњави на Алипашином Пољу",
+          "title": "„Ovo je veruj, ali proveri“: Šta sadrži predloženi sporazum koji bi mogao da okonča rat SAD protiv Irana?",
           "snippet": "",
-          "url": "https://www.rtrs.tv/vijesti/vijest.php?id=647008",
-          "source": "Rtrs.tv"
+          "url": "https://www.danas.rs/svet/iran-sad-sporazum-memorandum/",
+          "source": "Danas"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "полиција",
+      "trafficCount": "2000+",
+      "pubDate": "Mon, 25 May 2026 08:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRp0lMQNOLAzEuHotibvYKiDMXtpxiALbRbVjA-Rtp1Q5rlrcCjLsy4fgmhdOg",
+      "pictureSource": "РТС",
+      "relatedSearch": [
+        {
+          "title": "Пуцњава у центру Прокупља након свађе и туче двојице мушкараца",
+          "snippet": "",
+          "url": "https://www.rts.rs/vesti/hronika/5958025/prokuplje-pucnjava-svadja.html",
+          "source": "РТС"
+        },
+        {
+          "title": "Uhapšeni Prokupčani zbog tuče i oružja u pešačkoj zoni",
+          "snippet": "",
+          "url": "https://www.juznevesti.com/hronika/uhapseni-prokupcani-zbog-tuce-i-oruzja-u-pesackoj-zoni/",
+          "source": "Južne vesti"
+        },
+        {
+          "title": "Pucnjava u centru Prokuplja: Svađa dvojice muškaraca eskalirala u oružani sukob",
+          "snippet": "",
+          "url": "https://www.b92.net/info/hronika/236201/pucnjava-u-centru-prokuplja-svadja-dvojice-muskaraca-eskalirala-u-oruzani-sukob/vest",
+          "source": "B92"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "рзав",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 25 May 2026 08:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5UV2Q8YdV1DlFch4tYBKYzcVSnLcnE8XH6K7MpbWx-v1lcEVhN6ISTR1a8lM",
+      "pictureSource": "Ozon Press",
+      "relatedSearch": [
+        {
+          "title": "Uvedena vanredna situacija u Čačku",
+          "snippet": "",
+          "url": "https://www.ozonpress.net/hronika/uvedena-vanredna-situacija-u-cacku/",
+          "source": "Ozon Press"
+        },
+        {
+          "title": "Vladan Milić: Očekujemo da građani tehničku vodu dobiju u sredu",
+          "snippet": "",
+          "url": "https://moravainfo.rs/vladan-milic-ocekujemo-da-gradjani-tehnicku-vodu-dobiju-u-sredu/",
+          "source": "Morava Info"
+        },
+        {
+          "title": "Požega, Čačak, Lučani i Gornji Milanovac bez vode zbog kvara - pukla glavna cev na regionalnom vodosistemu \"Rzav\"",
+          "snippet": "",
+          "url": "https://n1info.rs/vesti/pozega-cacak-lucani-i-gornji-milanovac-bez-vode-zbog-kvara-pukla-glavna-cev-na-regionalnom-vodosistemu-rzav/",
+          "source": "N1"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "vremenska prognoza beograd",
+      "trafficCount": "1000+",
+      "pubDate": "Mon, 25 May 2026 07:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5Pe-x5sPppbLdhKFu9tJ6BbTDckxm7xBOJd61uwgFxKGGGx9ACKDUBbjS-yM",
+      "pictureSource": "Yumama",
+      "relatedSearch": [
+        {
+          "title": "Kakvo nas vreme očekuje 25. maja? Lep i sunčan početak nedelje, isplanirajte zabavne aktivnosti napolju",
+          "snippet": "",
+          "url": "https://yumama.mondo.rs/vesti/zanimljivosti/a57806/vremenska-prognoza-za-25-maj-2026.html",
+          "source": "Yumama"
+        },
+        {
+          "title": "VREMENSKA PROGNOZA ZA BEOGRAD, 25. MAJ",
+          "snippet": "",
+          "url": "https://www.beograduzivo.rs/info/vremenska-prognoza/vremenska-prognoza-za-beograd-25-maj-3/",
+          "source": "Beograduživo.rs"
+        },
+        {
+          "title": "Nastavlja se sunčano i veoma toplo vrijeme (VIDEO)",
+          "snippet": "",
+          "url": "https://tvk3.info/nastavlja-se-suncano-i-veoma-toplo-vrijeme-video/",
+          "source": "Televizija K3"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "фк раднички 1923",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 25 May 2026 07:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4b1wxEnekGSWaaYzTNPXW2wATujG3NrwuwmTFhav9qB2SbMf8F0cGfZibgEs",
-      "pictureSource": "СПОРТСКИ ЖУРНАЛ",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxb4e_FFf8JaxCk5YB70pccA268-Sj9KF9uQaKDBDtQc5BHIf2LHVhEkMxgEI",
+      "pictureSource": "РТС",
       "relatedSearch": [
         {
-          "title": "Раднички 1923 - Јавор (ФОТО: М. Ивановић)",
+          "title": "Хитна реакција ФСС, покренут дисциплински поступак против Радничког из Крагујевца",
           "snippet": "",
-          "url": "https://zurnal.politika.rs/scc/foto-galerija/1241/radnicki-1923-javor-foto-m-ivanovic",
-          "source": "СПОРТСКИ ЖУРНАЛ"
+          "url": "https://www.rts.rs/sport/fudbal/superliga_srbije/5958032/radnicki-kragujevac-superliga-fss-disciplinski-postupak.html",
+          "source": "РТС"
         },
         {
-          "title": "Radnički 1923 - Javor (FOTO: M. Ivanović)",
+          "title": "(ВИДЕО) УЖАСНЕ СЦЕНЕ! Навијачи утрчали на терен и тукли играче, тренер Крагујевчана поднео оставку",
           "snippet": "",
-          "url": "https://zurnal.politika.rs/sr/foto-galerija/1241/radnicki-1923-javor-foto-m-ivanovic",
-          "source": "СПОРТСКИ ЖУРНАЛ"
+          "url": "https://www.dnevnik.rs/sport/fudbal/video-uzasne-scene-navijaci-utrcali-na-teren-tukli-igrace-trener-kragujevcana-podneo-ostavku-2026-05-25",
+          "source": "Dnevnik online"
         },
         {
-          "title": "FSS zatvorio stadion u Kragujevcu",
+          "title": "КАКВИ БОЛЕСНИЦИ! Невиђени хаос у српском фудбалу и то због чега (ВИДЕО)",
           "snippet": "",
-          "url": "https://sportklub.n1info.rs/fudbal/srbija-super-liga/zatvoren-stadion-kragujevac-tuca/",
-          "source": "Sportklub"
+          "url": "https://www.novosti.rs/c/sport/fudbal/1610802/kakvi-bolesnici-nevidjeni-haos-srpskom-fudbalu-zbog-cega-video",
+          "source": "Novosti"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,9 +173,15 @@
       "title": "водовод",
       "trafficCount": "100+",
       "pubDate": "Mon, 25 May 2026 07:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSD_ChYYllLw4aU07u7qfdWai39taSS31qEjBuT0d-rqq3qNStor9HU5Xcjuu8",
-      "pictureSource": "Самарская газета",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRB5lVTKlTDC5QRjUEV8pn3J9KrLPxIinYdvc1Ng472VUZWgkI4XQu9QLQD6I",
+      "pictureSource": "Oskol.City",
       "relatedSearch": [
+        {
+          "title": "В старооскольском селе Шаталовка заменили участок сети водоснабжения",
+          "snippet": "",
+          "url": "https://oskol.city/news/utilities/103653/",
+          "source": "Oskol.City"
+        },
         {
           "title": "Движение на участке улицы Свободы в Самаре перекрыли из-за ремонта водовода",
           "snippet": "",
@@ -75,19 +193,13 @@
           "snippet": "",
           "url": "https://samaragovorit.ru/news/70555-s-25-maya-ogranichat-dvijenie-na-ulice-svobody-v-samare.html",
           "source": "Самара Говорит"
-        },
-        {
-          "title": "Временно ограничено движение по участку улицы Свободы в Самаре",
-          "snippet": "",
-          "url": "https://www.niasam.ru/blagoustrojstvo/vremenno-ogranicheno-dvizhenie-po-uchastku-ulitsy-svobody-v-samare-275684.html",
-          "source": "НИА Самара"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "јутарњи програм ртс-а",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 25 May 2026 06:10:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkyYxDzTlgSMvBQd2co4IJt7m-srwYkgpVHgRXL_lm325DVD8_RFIFzSamgww",
       "pictureSource": "Nova.rs",
@@ -114,34 +226,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "српска напредна странка",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 25 May 2026 06:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTB1U1lGq6jJCMPOQXpZuoG7W7H_wkyW1ECjzMUxyw3YzNF0tN5OWVHrFdutBc",
-      "pictureSource": "Vijesti.me",
-      "relatedSearch": [
-        {
-          "title": "Srbija: SNS u 2025. dobio iz budžeta više nego 21 parlamentarna stranka zajedno",
-          "snippet": "",
-          "url": "https://www.vijesti.me/bbc/810096/srbija-sns-u-2025-dobio-iz-budzeta-vise-nego-21-parlamentarna-stranka-zajedno",
-          "source": "Vijesti.me"
-        },
-        {
-          "title": "СНС у 2025. добио из буџета више него 21 парламентарна странка заједно",
-          "snippet": "",
-          "url": "https://www.bbc.com/serbian/articles/cy928lryx15o/cyr",
-          "source": "BBC"
-        },
-        {
-          "title": "SNS u 2025. dobio iz budžeta više nego 21 parlamentarna stranka zajedno",
-          "snippet": "",
-          "url": "https://naslovi.net/2026-05-25/radio-021/sns-u-2025-dobio-iz-budzeta-vise-nego-21-parlamentarna-stranka-zajedno/41861907",
-          "source": "Naslovi.net"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "климатолог",
       "trafficCount": "500+",
       "pubDate": "Mon, 25 May 2026 05:40:00 -0700",
@@ -152,112 +236,28 @@
     },
     {
       "title": "суперлига србије у фудбалу",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 25 May 2026 04:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo-Mg0u7PsDA5pEkKFUKc7kVwiScO2h8Rjt7zGDVIB5QRzKKAzAMxpSu8wS1w",
-      "pictureSource": "Sportal.rs",
-      "relatedSearch": [
-        {
-          "title": "Biće nikad dramatičnija Superliga: Čeka nas nova seča i velika promena posle \"beogradizacije\"",
-          "snippet": "",
-          "url": "https://sportal.blic.rs/prica/superliga-srbije-pravi-veliku-promenu-za-2027-2026052509221893836",
-          "source": "Sportal.rs"
-        },
-        {
-          "title": "Srpski fudbal dobija novi \"večiti\" derbi: Teleoptik i Grafičar zajedno u Prvoj ligi",
-          "snippet": "",
-          "url": "https://naslovi.net/2026-05-24/mondo/srpski-fudbal-dobija-novi-veciti-derbi-teleoptik-i-graficar-zajedno-u-prvoj-ligi/41860212",
-          "source": "Naslovi.net"
-        },
-        {
-          "title": "Raport sa srpskoligaških terena: Poznata sva četiri nova prvoligaša, slede obračuni za opstanak",
-          "snippet": "",
-          "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-poznata-sva-cetiri-nova-prvoligasa-slede-obracuni-za-opstanak/544178",
-          "source": "Mozzart Sport"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "анита орбан",
-      "trafficCount": "2000+",
-      "pubDate": "Mon, 25 May 2026 03:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuTx6vzRw28ycIbf6ys62pKD2lBI5sgzVIchcVJct_VItJZ9m88OL7s5wHJi0",
-      "pictureSource": "Українські Національні Новини (УНН)",
-      "relatedSearch": [
-        {
-          "title": "Мадьяр заявил, что на Закарпатье живет более 100 тысяч венгров \"без базовых прав человека\"",
-          "snippet": "",
-          "url": "https://unn.ua/ru/news/madyar-zayavil-chto-na-zakarpate-zhivet-bolee-100-tisyach-vengrov-bez-bazovikh-prav-cheloveka",
-          "source": "Українські Національні Новини (УНН)"
-        },
-        {
-          "title": "Сибига провел первую личную встречу с новой главой МИД Венгрии",
-          "snippet": "",
-          "url": "https://www.eurointegration.com.ua/rus/news/2026/05/22/7238090/",
-          "source": "Європейська правда"
-        },
-        {
-          "title": "МИД Венгрии назвал восстановление прав венгерского меньшинства на Украине первостепенным",
-          "snippet": "",
-          "url": "https://www.interfax.ru/world/1091411",
-          "source": "Интерфакс"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "данко лазовић",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 25 May 2026 03:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReThYy8lEx259-seOFXRYuXTVz2qgVpfHwUOuhEizstnHaOaDEZeDRLguPD18",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQu7cyQ2sriLM2dZ4iVYrXcQ0kMm26FEuI12_i3SqJWyxOYYd7iny3P51iq5m8",
       "pictureSource": "Sportklub",
       "relatedSearch": [
         {
-          "title": "Lazović zbunjen: Kome država pomaže, Mijatoviću ili Partizanu?",
+          "title": "Kraj: TSC ispao u Prvu ligu!",
           "snippet": "",
-          "url": "https://sportklub.n1info.rs/fudbal/srbija-super-liga/danko-lazovic-kome-drzava-pomaze-mijatovicu-ili-partizanu/",
+          "url": "https://sportklub.n1info.rs/fudbal/srbija-super-liga/uzivo-dan-odluke-u-super-ligi-ko-je-cetvrti-putnik-u-nizi-rang/",
           "source": "Sportklub"
         },
         {
-          "title": "Lazović: \"Mijatović uništava Partizan\"",
+          "title": "ТСЦ од Лиге Европе до испадања из Суперлиге за две године",
           "snippet": "",
-          "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236154/direktor-danko-lazovic-kaze-da-predsednik-pedja-mijatovic-unistava-partizan-i-da-ga-igraci-mrze/vest",
-          "source": "B92"
+          "url": "https://www.rts.rs/sport/fudbal/superliga_srbije/5957616/tsc-od-lige-evrope-do-ispadanja-iz-superlige-za-dve-godine.html",
+          "source": "РТС"
         },
         {
-          "title": "\"Loš čovek, sa poznatim mentalnim sklopom...\" Mijatović odgovorio Lazoviću: Nek on i njegova mentorka budu što dalje od Partizana!",
+          "title": "Фудбалери ТСЦ-а испали из Суперлиге, Младост и Раднички (КГ) изборили опстанак",
           "snippet": "",
-          "url": "https://sportal.blic.rs/prica/gori-vatra-sad-u-humskoj-mijatovic-odgovorio-lazovicu-2026052512005203837",
-          "source": "Sportal.rs"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "euprava",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 25 May 2026 03:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTy5yG0k73kDLhYrxmq0TZ38UdbtabDkQQGKs5dc7irDC1pEakTAUPL1m3POo4",
-      "pictureSource": "Danas",
-      "relatedSearch": [
-        {
-          "title": "Ubrzana procedura za sticanje statusa „energetski ugroženog kupca“ preko eUprave: Umanjenje računa od 20 do 60 odsto",
-          "snippet": "",
-          "url": "https://www.danas.rs/vesti/ekonomija/ubrazana-procedura-za-sticanje-statusa-energetski-ugrozenog-kupca-preko-euprave-umanjenje-racuna-od-20-do-60-odsto/",
-          "source": "Danas"
-        },
-        {
-          "title": "Građani od sada mogu online da traže popust na struju i gas: Evo ko ima pravo na umanjenje računa do 60 odsto",
-          "snippet": "",
-          "url": "https://www.blic.rs/biznis/pomoc-drzave/popust-na-racune-za-struju-i-gas-sada-moze-da-se-trazi-online-evo-ko-ima-pravo-na/gdxg4vm",
-          "source": "Blic"
-        },
-        {
-          "title": "Ministarka Đedović: Lakša prijava za status energetski ugroženog kupca preko eUprave",
-          "snippet": "",
-          "url": "https://www.tanjug.rs/ekonomija/srbija/254422/ministarka-dedovic-laksa-prijava-za-status-energetski-ugrozenog-kupca-preko-euprave/vest",
-          "source": "tanjug.rs"
+          "url": "https://www.rtv.rs/sr_ci/sport/fudbal/fudbaleri-tsc-a-ispali-iz-superlige-mladost-i-radnicki-(kg)-izborili-opstanak_1716889.html",
+          "source": "Радио-телевизија Војводине"
         }
       ],
       "link": "https://imtaqin.id/"

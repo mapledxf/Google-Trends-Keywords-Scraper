@@ -1,10 +1,131 @@
 {
-  "lastUpdate": "2026-05-31 07:59:52",
+  "lastUpdate": "2026-05-31 10:19:48",
   "data": [
     {
-      "title": "גלובס",
+      "title": "ynet",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 31 May 2026 03:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5uqwi4cvUd2LLgSAgAwhU4knnUuDq931LMet--P15EmX7RPVsOE54tJEqFg4",
+      "pictureSource": "ynetnews",
+      "relatedSearch": [
+        {
+          "title": "Israel braces for weekend heat wave after mild start to week | Weather forecast",
+          "snippet": "",
+          "url": "https://www.ynetnews.com/environment/article/sjazl4fxgg",
+          "source": "ynetnews"
+        },
+        {
+          "title": "Weekend forecast: Light northern drizzle, warmer days ahead",
+          "snippet": "",
+          "url": "https://www.ynetnews.com/environment/article/bkk2j58egx",
+          "source": "ynetnews"
+        },
+        {
+          "title": "Cooler Sunday brings extreme UV risk",
+          "snippet": "",
+          "url": "https://www.ynetnews.com/environment/article/s1v5xbgezx",
+          "source": "ynetnews"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "חדשות 12",
       "trafficCount": "100+",
-      "pubDate": "Sun, 31 May 2026 00:30:00 -0700",
+      "pubDate": "Sun, 31 May 2026 03:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxwt9schBuktxfvraK3jaKNFFFn8ET6V0yFQ6_HWKLx4aCwz6OilCOVl8SJt4",
+      "pictureSource": "מעריב",
+      "relatedSearch": [
+        {
+          "title": "ההודעה של אופירה אסייג סיבכה את עמיתיה בערוץ 12 | ניר קיפניס",
+          "snippet": "",
+          "url": "https://www.maariv.co.il/breaking-news/article-1327426",
+          "source": "מעריב"
+        },
+        {
+          "title": "דנה ויס שיתפה פעולה. מזל שאופירה אסייג קרעה את נתניהו לגזרים",
+          "snippet": "",
+          "url": "https://e.walla.co.il/item/3841932",
+          "source": "וואלה תרבות"
+        },
+        {
+          "title": "אופירה אסייג עשתה בית ספר לכל כתבי חדשות 12 | ניר קיפניס",
+          "snippet": "",
+          "url": "https://www.maariv.co.il/breaking-news/article-1327425",
+          "source": "מעריב"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "הפגנות",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 31 May 2026 02:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNXHN0Y76MzPozRY2u8ED0HBLQGvrsfUCXPFYb3LJ3fGkegCIcNQAUczwpYy0",
+      "pictureSource": "ynet",
+      "relatedSearch": [
+        {
+          "title": "כוננות שיבושים: חרדים קיצונים יפגינו נגד מעצר עריקים",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/news/article/sjhmapylmg",
+          "source": "ynet"
+        },
+        {
+          "title": "הפגנות ענק: הפלג הירושלמי מחריף את המאבק",
+          "snippet": "",
+          "url": "https://www.emess.co.il/radio/1878519",
+          "source": "אמס"
+        },
+        {
+          "title": "\"לא עת לחשות\": הפלג הירושלמי הרשמי יוצא היום להפגנות ענק | השעה והמיקומים שנבחרו",
+          "snippet": "",
+          "url": "https://www.kikar.co.il/haredim/peleg-yerushalmi-mass-protests-yeshiva-arrests",
+          "source": "כיכר השבת"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "טמקא",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 31 May 2026 02:50:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "n12",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 31 May 2026 02:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_-WufWBcce3g_-ZoHextkVm4RQWc4gxzZ5qJGs6XaMid6NZruuvYVZKVridw",
+      "pictureSource": "כאן 11",
+      "relatedSearch": [
+        {
+          "title": "דיווח: טראמפ ביקש לבצע שינויים בטיוטת ההסכם עם איראן",
+          "snippet": "",
+          "url": "https://www.kan.org.il/content/kan-news/global/1046973/",
+          "source": "כאן 11"
+        },
+        {
+          "title": "התמריצים המוצעים על סף הסכם משקפים חילופי תפקידים בין איראן לארה\"ב",
+          "snippet": "",
+          "url": "https://www.haaretz.co.il/news/politics/2026-05-31/ty-article/.premium/0000019e-79d9-d618-a9be-7dffc63c0000",
+          "source": "הארץ"
+        },
+        {
+          "title": "האולטימטום של טראמפ לאיראן: \"המשחקים שלכם הגיעו לסיומם\"",
+          "snippet": "",
+          "url": "https://www.c14.co.il/article/1569676",
+          "source": "C14"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "תשואה",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 31 May 2026 02:40:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8I4PPFoQsG_C4TJbygpkMQySalfucQveYKSRYVV3kfoNsjDNJzzWjZj3Pl3o",
       "pictureSource": "גלובס",
       "relatedSearch": [
@@ -21,262 +142,122 @@
           "source": "פאנדר"
         },
         {
-          "title": "קרנות השתלמות במאי: תשואה של 2% במסלול כללי, 3.3% במסלול מנייתי",
+          "title": "קופות הגמל רשמו תשואה נאה במאי, בעוד הדולר המשיך לכרסם במסלול S&P 500",
           "snippet": "",
-          "url": "https://www.bizportal.co.il/longtermsavings/news/article/20033071",
-          "source": "ביזפורטל"
+          "url": "https://www.themarker.com/markets/2026-05-31/ty-article/.premium/0000019e-7cfa-d618-a9be-7cffe94f0000",
+          "source": "TheMarker"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "yellow",
+      "title": "ערוץ 12",
       "trafficCount": "200+",
-      "pubDate": "Sun, 31 May 2026 00:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfrWm9UT1UFCuS6-3eYiSAzOIhiZrESuTEYt86ArtXqiJ0B4n4m-0guLwu7Qo",
-      "pictureSource": "Deadline",
+      "pubDate": "Sun, 31 May 2026 02:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtAr0aUPekV_LcArKly0aftJNyYX_YHrX446cdrjbVfnAv75i4YDtZBcJGwJA",
+      "pictureSource": "מעריב",
       "relatedSearch": [
         {
-          "title": "Box Office: 'Backrooms' $85M-$89M Opening Is An A24 Record",
+          "title": "רייטינג: הטלפונים שלא הפסיקו לצלצל - מה קרה בין דנה ויס לאיילה חסון",
           "snippet": "",
-          "url": "https://deadline.com/2026/05/box-office-backrooms-1236929953/",
-          "source": "Deadline"
-        },
-        {
-          "title": "Clark’s Monster And ‘Backrooms’ Mysteries, Explained",
-          "snippet": "",
-          "url": "https://www.forbes.com/sites/danidiplacido/2026/05/31/clarks-monster-and-backrooms-mysteries-explained/",
-          "source": "Forbes"
-        },
-        {
-          "title": "Kane Parsons: From YouTube Sensation to A24’s Youngest Director",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2026/05/29/movies/kane-parsons-24-youngest-director-backrooms.html",
-          "source": "The New York Times"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "וואלה",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 31 May 2026 00:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR70K_HTSdDznLZmA0o7qS28q7uNHxbE28BzjmiH6tW4jARxS0wOo1J_SyP_UQ",
-      "pictureSource": "וואלה חדשות",
-      "relatedSearch": [
-        {
-          "title": "אלשיך: שב\"כ והמוסד לא עושים את העבודה. זה מסכן אותנו בכל החזיתות",
-          "snippet": "",
-          "url": "https://news.walla.co.il/item/3841958",
-          "source": "וואלה חדשות"
-        },
-        {
-          "title": "רוני אלשיך על פרשת יונתן אוריך: \"זה הדבר שהכי מטריד פה\"",
-          "snippet": "",
-          "url": "https://www.srugim.co.il/1305627-%D7%A8%D7%95%D7%A0%D7%99-%D7%90%D7%9C%D7%A9%D7%99%D7%9A-%D7%A7%D7%98%D7%90%D7%A8-%D7%9E%D7%A9%D7%A4%D7%99%D7%A2%D7%94-%D7%A2%D7%9C-%D7%94%D7%9E%D7%9C%D7%97%D7%9E%D7%94",
-          "source": "סרוגים"
-        },
-        {
-          "title": "שבע תשע - הפודקאסט - רוני אלשיך: \"החיבוק לאוריך מוציא אותי מדעתי\"",
-          "snippet": "",
-          "url": "https://103fm.maariv.co.il/programs/media.aspx?ZrqvnVq=KGEFFG&c41t4nzVQ=LED",
-          "source": "103FM"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "שר החינוך",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 31 May 2026 00:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0RUPnS60d4BaCEcZ45mMU6ZRRUKy3-RpSIAG1JdtWpSyvOkWteNP0_r3uiWw",
-      "pictureSource": "וואלה חדשות",
-      "relatedSearch": [
-        {
-          "title": "קיש נגד השריונים של נתניהו: \"אי אפשר לשנות את ה-DNA של הליכוד\"",
-          "snippet": "",
-          "url": "https://news.walla.co.il/item/3841561",
-          "source": "וואלה חדשות"
-        },
-        {
-          "title": "6 מורים זכו בתואר \"המורה של המדינה\", הרצוג: \"הם החזית של החברה הישראלית\"",
-          "snippet": "",
-          "url": "https://www.ynet.co.il/news/article/bjl4we8gze",
-          "source": "ynet"
-        },
-        {
-          "title": "המורים של המדינה תשפ\"ו",
-          "snippet": "",
-          "url": "https://www.itu.org.il/news/%D7%94%D7%9E%D7%95%D7%A8%D7%99%D7%9D-%D7%A9%D7%9C-%D7%94%D7%9E%D7%93%D7%99%D7%A0%D7%94-%D7%AA%D7%A9%D7%A4%D7%95/",
-          "source": "אתר הסתדרות המורים"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "classroom",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 31 May 2026 00:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS39q4agOOGnM74qU2nU0TFGIKHud3YlH9oiX4Nz-F1JbF_8g_idcA7rODM5HM",
-      "pictureSource": "Axios",
-      "relatedSearch": [
-        {
-          "title": "Classrooms lean into analog learning in the AI era",
-          "snippet": "",
-          "url": "https://www.axios.com/2026/05/30/no-screen-school-technology-parents-ai",
-          "source": "Axios"
-        },
-        {
-          "title": "America’s tech-filled classrooms are facing a backlash against school-assigned devices",
-          "snippet": "",
-          "url": "https://apnews.com/article/school-screen-time-technology-edtech-07958fb159c7cfbceb7bfdb37b2bb726",
-          "source": "AP News"
-        },
-        {
-          "title": "Teachers’ Union Urges Schools to Curb A.I. Chatbots and Screen Time",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2026/05/27/technology/ai-screens-schools-weingarten.html",
-          "source": "The New York Times"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "פז",
-      "trafficCount": "1000+",
-      "pubDate": "Sat, 30 May 2026 21:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcToHYZLEulqOfT83YJEfRObeTck72HrQln5_AtfyYJGO8--fiWRmLJcehRZrWg",
-      "pictureSource": "mako",
-      "relatedSearch": [
-        {
-          "title": "החל מהיום: תחנות הדלק פז מחלקות לכם קפה ומאפה בחינם",
-          "snippet": "",
-          "url": "https://www.mako.co.il/finances-consumer/Article-89adc283f9a4e91027.htm",
-          "source": "mako"
-        },
-        {
-          "title": "היום בלבד: זה מה שתוכלו לקבל חינם בתחנות הדלק פז",
-          "snippet": "",
-          "url": "https://www.ice.co.il/local-news/news/article/1114835",
-          "source": "ice (אייס)"
-        },
-        {
-          "title": "החל מהיום: תקבלו בתחנת דלק קפה ומאפה בחינם",
-          "snippet": "",
-          "url": "https://www.kipa.co.il/%D7%97%D7%93%D7%A9%D7%95%D7%AA/1225192-0/",
-          "source": "כיפה"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "בופור",
-      "trafficCount": "5000+",
-      "pubDate": "Sat, 30 May 2026 20:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5tj5zjzAZQthU8pSYh3jpRGz_cfB0aImmaCM_DNEsKr7jTquvszJA7qsWogA",
-      "pictureSource": "ynet",
-      "relatedSearch": [
-        {
-          "title": "צה\"ל כבש את הבופור בדרום לבנון",
-          "snippet": "",
-          "url": "https://www.ynet.co.il/news/article/bj8ysqtegg",
-          "source": "ynet"
-        },
-        {
-          "title": "צה\"ל: כבשנו את מבצר בופור שבדרום לבנון",
-          "snippet": "",
-          "url": "https://www.haaretz.co.il/news/politics/2026-05-31/ty-article/.premium/0000019e-7c1c-dd89-a59f-fd3eec1c0000",
-          "source": "הארץ"
-        },
-        {
-          "title": "רצועת הביטחון חוזרת? צה\"ל בדרך לקחת את \"האוצר\" של חיזבאללה",
-          "snippet": "",
-          "url": "https://www.maariv.co.il/news/military/article-1327219",
+          "url": "https://www.maariv.co.il/culture/tv/article-1327332",
           "source": "מעריב"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "цена",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 30 May 2026 19:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9b621-lPsI76Sa7uoxst7l3KtGLI94iUE7ps5gt8t5s_AnepmOXocM-Is8oY",
-      "pictureSource": "Cursorinfo",
-      "relatedSearch": [
-        {
-          "title": "Снижение цен на топливо в Израиле — новый тариф с полуночи - новости Израиля и мира",
-          "snippet": "",
-          "url": "https://cursorinfo.co.il/israel-news/snizhenie-tsen-na-toplivo-v-izraile-novyj-tarif-s-polunochi/",
-          "source": "Cursorinfo"
         },
         {
-          "title": "Прогноз: цены на бензин в Израиле значительно понизятся",
+          "title": "\"רוקדים עם כוכבים\" הגישה נקמה קרה ל\"האח הגדול\"",
           "snippet": "",
-          "url": "https://www.vesty.co.il/main/article/qczawy7sj",
-          "source": "Vesty.co.il"
-        },
-        {
-          "title": "Хорошая новость для водителей: цена на топливо может снизиться с 1 июня",
-          "snippet": "",
-          "url": "https://br7news.co.il/ru/news/news-1779968906",
-          "source": "חדשות באר שבע והנגב"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ישראל היום",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 30 May 2026 19:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1nNrXR1_hPw1CNCRbp9iSoi8NP3AzyETJJDYN92I2laHv_cHmWlNhB506ZY4",
-      "pictureSource": "היום",
-      "relatedSearch": [
-        {
-          "title": "המועמדת המחוזרת לכנסת: \"אני מקבלת הצעות ואני בצומת של קבלת הכרעה\"",
-          "snippet": "",
-          "url": "https://www.israelhayom.co.il/news/politics/article/20650974",
+          "url": "https://www.israelhayom.co.il/culture/tv/article/20652712",
           "source": "היום"
         },
         {
-          "title": "האזהרה החריפה של ד\"ר עליזה בלוך: \"לא נוכל להסתכל במראה ולהגיד 'לא ידענו'\"",
+          "title": "ערוץ 14 בהלם: זו הבשורה שחיכתה לו הבוקר",
           "snippet": "",
-          "url": "https://www.maariv.co.il/news/politics/article-1326578",
-          "source": "מעריב"
-        },
-        {
-          "title": "לראשונה בקולה: עליזה בלוך מתייחסת לעתידה הפוליטי",
-          "snippet": "",
-          "url": "https://www.srugim.co.il/news/1305552",
+          "url": "https://www.srugim.co.il/1305641-%D7%A2%D7%A8%D7%95%D7%A5-14-%D7%91%D7%94%D7%9C%D7%9D-%D7%A0%D7%AA%D7%95%D7%A0%D7%99-%D7%A8%D7%99%D7%99%D7%98%D7%99%D7%A0%D7%92-%D7%A0%D7%9E%D7%95%D7%9B%D7%99%D7%9D",
           "source": "סרוגים"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "גשם",
+      "title": "פיקוד העורף התרעות",
       "trafficCount": "1000+",
-      "pubDate": "Sat, 30 May 2026 19:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR75OmMQRrSv6K2ejAiGFaB7L2KXC_jE54eWxLEvTpTbupc4X6zQBP4v8GYwLw",
-      "pictureSource": "mako",
+      "pubDate": "Sun, 31 May 2026 02:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnIWNwnJfgk-MwiX42pmAkCcyhUnnmLaMRTuZAgP2inAMzDHiE5PBv89dNjkE",
+      "pictureSource": "כאן 11",
       "relatedSearch": [
         {
-          "title": "התחזית: עלייה בטמפרטורות, גשם קל ייתכן בצפון-מזרח הארץ",
+          "title": "רצף השיגורים לצפון: פיקוד העורף הודיע על ביטול הלימודים בקו העימות",
           "snippet": "",
-          "url": "https://www.mako.co.il/hix-nature/Article-a40d30f19d87e91027.htm",
-          "source": "mako"
+          "url": "https://www.kan.org.il/content/kan-news/defense/live-1046628/",
+          "source": "כאן 11"
         },
         {
-          "title": "התחזית: התחממות, היתכנות לגשם מקומי קל בצפון",
+          "title": "פיקוד העורף החמיר את ההגבלות בצפון, לא יתקיימו לימודים באזור קו העימות",
           "snippet": "",
-          "url": "https://www.ynet.co.il/news/article/243t28efo",
+          "url": "https://www.haaretz.co.il/news/politics/2026-05-30/ty-article/0000019e-7a27-d618-a9be-7eeffee30000",
+          "source": "הארץ"
+        },
+        {
+          "title": "לאחר התרחבות הירי: פיקוד העורף החמיר את ההנחיות לתושבים בצפון",
+          "snippet": "",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001544415",
+          "source": "גלובס"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "גננת",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 31 May 2026 02:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEAXnuPL_PWAgKTNlwWc7nFmYkRV_npuwzvl_72I84DF4YLEFO-wQLn4JQLWM",
+      "pictureSource": "כאן 11",
+      "relatedSearch": [
+        {
+          "title": "מחדל בתל אביב: הגננת לא הגיעה, 3 ילדות ברחו מהגן",
+          "snippet": "",
+          "url": "https://www.kan.org.il/content/kan-news/local/1046922/",
+          "source": "כאן 11"
+        },
+        {
+          "title": "שלוש בנות 4 ברחו מהגן במרכז תל אביב - ואותרו בקניון במקרה",
+          "snippet": "",
+          "url": "https://www.israelhayom.co.il/news/education/article/20652390",
+          "source": "היום"
+        },
+        {
+          "title": "שלוש ילדות בנות 4.5 יצאו מגן בתל אביב ונעדרו במשך כ-45 דקות",
+          "snippet": "",
+          "url": "https://www.inn.co.il/news/697948",
+          "source": "ערוץ 7"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "משה כחלון",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 31 May 2026 02:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRA9zVLU9OxTmWL2ndC0NnKUy9pdNikH-x7Rich7m21sdid5KM0pdKznOEtzdA",
+      "pictureSource": "ynet",
+      "relatedSearch": [
+        {
+          "title": "אחרי שהודה והורשע: מאסר על תנאי וקנס של 180 אלף שקל לשר לשעבר משה כחלון",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/economy/article/skpcquklfl",
           "source": "ynet"
         },
         {
-          "title": "שבוע אביבי: יציבות בטמפרטורות ומזג אוויר נוח",
+          "title": "כחלון הודה והורשע בפרשת יונט קרדיט. העונש: מאסר על תנאי",
           "snippet": "",
-          "url": "https://www.emess.co.il/radio/1878237",
-          "source": "אמס"
+          "url": "https://www.calcalist.co.il/local_news/article/r1ia11uyxmx",
+          "source": "calcalist"
+        },
+        {
+          "title": "העונש של כחלון: מאסר על-תנאי והגבלת כהונה בחברות ציבוריות. ואיזה קנס ישלם?",
+          "snippet": "",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001544425",
+          "source": "גלובס"
         }
       ],
       "link": "https://imtaqin.id/"

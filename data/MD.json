@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-02 21:29:32",
+  "lastUpdate": "2026-06-02 23:16:04",
   "data": [
     {
       "title": "яблоко",
@@ -15,16 +15,16 @@
           "source": "Интерфакс"
         },
         {
-          "title": "Россельхознадзор запретил ввоз вишни, черешни, абрикосов, сливы, персиков и винограда из Армении",
-          "snippet": "",
-          "url": "https://www.currenttime.tv/a/armeniya-chereshnya/33770352.html",
-          "source": "Настоящее Время"
-        },
-        {
           "title": "Россия продолжает запрещать импорт из Армении — теперь это яблоки, баклажаны и сухофрукты. Пашинян пообещал субсидии пострадавшим экспортерам",
           "snippet": "",
           "url": "https://meduza.io/news/2026/06/02/rossiya-prodolzhaet-zapreschat-import-iz-armenii-teper-eto-yabloki-baklazhany-i-suhofrukty-pashinyan-poobeschal-subsidii-postradavshim-eksporteram",
           "source": "Meduza"
+        },
+        {
+          "title": "Россельхознадзор запретил ввоз вишни, черешни, абрикосов, сливы, персиков и винограда из Армении",
+          "snippet": "",
+          "url": "https://www.currenttime.tv/a/armeniya-chereshnya/33770352.html",
+          "source": "Настоящее Время"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,35 +33,48 @@
       "title": "топливо",
       "trafficCount": "1000+",
       "pubDate": "Tue, 2 Jun 2026 07:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjp0hyhX9uYNYPVSZqOhf7H2V64qjX_y1j3wDDf54opg977QVLxoZNVeq7tIY",
+      "pictureSource": "Национальная Служба Новостей - НСН",
+      "relatedSearch": [
+        {
+          "title": "СМИ: правительство России готовит новый запрет на экспорт топлива",
+          "snippet": "",
+          "url": "https://nsn.fm/economy/smi-pravitelstvo-rossii-gotovit-novyi-zapret-na-eksport-topliva",
+          "source": "Национальная Служба Новостей - НСН"
+        },
+        {
+          "title": "Эксперт предупредил о возможном повторении дефицита бензина на юге России",
+          "snippet": "",
+          "url": "https://www.yuga.ru/news/482376-ekspert-predupredil-o-vozmozhnom-povtorenii-deficita-benzina-na-yuge-rossii/",
+          "source": "Юга.ру"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "дождь",
       "trafficCount": "500+",
       "pubDate": "Tue, 2 Jun 2026 06:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9FPFZfwq2G3PiLFxAuhDlqqRPzH91FrSeY44aAZYzmMPailcATZGVddW-G98",
-      "pictureSource": "Газета.uz",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYhqB3qZtXQ6xlPCTv6PXc5rlrF1eMoU9fWWiNTJIczK9OG3Rx60mY0eGjTBE",
+      "pictureSource": "Українська правда",
       "relatedSearch": [
         {
-          "title": "Узгидромет предупредил об опасности селей и паводков в 9 регионах",
+          "title": "Дожди, грозы и до +27° – погода на 3-5 июня",
           "snippet": "",
-          "url": "https://www.gazeta.uz/ru/2026/06/01/sel/",
-          "source": "Газета.uz"
+          "url": "https://www.pravda.com.ua/rus/news/2026/06/02/8037420/",
+          "source": "Українська правда"
         },
         {
-          "title": "Жара отступает. В Узбекистан идут грозы, сильный ветер и пыльные бури",
+          "title": "Лето в Украине будет теплее нормы: метеоролог назвала самый жаркий месяц",
           "snippet": "",
-          "url": "https://podrobno.uz/cat/obchestvo/zhara-otstupaet-v-uzbekistan-idut-grozy-silnyy-veter-i-pylnye-buri/",
-          "source": "Podrobno.uz"
+          "url": "https://www.unian.net/pogoda/news/leto-2026-pogoda-meteorolog-rasskazala-kakoy-mesyac-v-ukraine-budet-samym-zharkim-13398516.html",
+          "source": "УНИАН"
         },
         {
-          "title": "На этой неделе ожидаются кратковременные дожди и небольшое понижение температуры",
+          "title": "Синоптики предупреждают о резкой смене погоды: чего ожидать в Киеве и области 2 июня",
           "snippet": "",
-          "url": "https://www.uznews.uz/ru/news/110112",
-          "source": "UzNews.uz"
+          "url": "https://kyiv.tsn.ua/ru/kyiv/sinoptiki-preduprezhdayut-o-rezkoy-smene-pogody-chego-ozhidat-v-kieve-i-oblasti-2-iyunya-3096569.html",
+          "source": "ТСН"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -71,13 +84,13 @@
       "trafficCount": "1000+",
       "pubDate": "Mon, 1 Jun 2026 21:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcdaP0TKN49H7SqEIeEbj3uJjHJ2wtMvcuXWkDMe_geg2emDsfgtH5C3CNSOw",
-      "pictureSource": "DW.com",
+      "pictureSource": "DW",
       "relatedSearch": [
         {
           "title": "Расширение ЕС на новых условиях: что ждет Украину и Молдову?",
           "snippet": "",
           "url": "https://www.dw.com/ru/rassirenie-es-na-novyh-usloviah-cto-zdet-ukrainu-i-moldovu/a-77350038",
-          "source": "DW.com"
+          "source": "DW"
         },
         {
           "title": "Венгрия снимет вето на вступление Украины в Евросоюз",

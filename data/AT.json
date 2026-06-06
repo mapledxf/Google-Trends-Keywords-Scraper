@@ -1,9 +1,93 @@
 {
-  "lastUpdate": "2026-06-06 08:11:53",
+  "lastUpdate": "2026-06-06 10:20:43",
   "data": [
     {
-      "title": "stromausfall",
+      "title": "konrad laimer",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 6 Jun 2026 02:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5vWpN1JDOMQ3EDtoHRhOAy_go4g6h6nLBx9rrpSVtt5_RjXJL7_i2KGz9mRU",
+      "pictureSource": "ORF ON",
+      "relatedSearch": [
+        {
+          "title": "Konrad Laimer: Die Allzweckwaffe im Portrait",
+          "snippet": "",
+          "url": "https://on.orf.at/video/14325118/16096438/konrad-laimer-die-allzweckwaffe-im-portrait",
+          "source": "ORF ON"
+        },
+        {
+          "title": "Bayern-Knall um Konrad Laimer – noch vor der WM",
+          "snippet": "",
+          "url": "https://www.oe24.at/a/bayern-knall-um-konrad-laimer-noch-vor-der-wm-900089855",
+          "source": "oe24.at"
+        },
+        {
+          "title": "Servus, WM - We are from Austria",
+          "snippet": "",
+          "url": "https://www.heute.at/tv/s/GD5_sH6SAZ4BmU6qjXWyF9pG/servus-wm-we-are-from-austria",
+          "source": "Heute"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "goldpreis",
       "trafficCount": "200+",
+      "pubDate": "Sat, 6 Jun 2026 01:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR11pNNYmjh0eCxGpdXrJ_QQgqnj5gA3bLcX0jo6TZW26GrlONPMwYfgYHK3Vk",
+      "pictureSource": "VOL.AT",
+      "relatedSearch": [
+        {
+          "title": "Inflationssorgen und Zinsängste belasten Gold, Silber und Kryptowährungen",
+          "snippet": "",
+          "url": "https://www.vol.at/gold-auf-tiefstem-stand-seit-ende-maerz-silber-bricht-deutlich-ein/10234001",
+          "source": "VOL.AT"
+        },
+        {
+          "title": "Goldpreis & Bitcoin Prognose brechen ein: US-Arbeitsmarkt schockiert Märkte",
+          "snippet": "",
+          "url": "https://www.xtb.com/de/Marktanalysen/Trading-News/goldpreis-bitcoin-prognose-brechen-ein-us-arbeitsmarkt-schockiert-maerkte",
+          "source": "XTB.com"
+        },
+        {
+          "title": "Goldpreis vor wichtigem Test: Hochspannung vor US-Arbeitsmarktdaten",
+          "snippet": "",
+          "url": "https://www.finanzen.net/nachricht/rohstoffe/goldpreis-und-oelpreis-goldpreis-vor-wichtigem-test-hochspannung-vor-us-arbeitsmarktdaten-15719779",
+          "source": "Finanzen.net"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "inflation",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 6 Jun 2026 01:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHQkDhaF0-LI5h6GWR4vKRdC21NuQEi_aFDoN7xQ-rfulFA1HxFaWEwl-X0yc",
+      "pictureSource": "AP News",
+      "relatedSearch": [
+        {
+          "title": "FACT FOCUS: Is inflation a red state vs. blue state issue? It's increasing no matter how you cut it",
+          "snippet": "",
+          "url": "https://apnews.com/article/inflation-blue-states-fact-check-9cb276119b4dcaa9e433106cc29ca3a1",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump’s economic chief says inflation is falling. Data says otherwise",
+          "snippet": "",
+          "url": "https://www.aol.com/news/trump-economic-chief-says-inflation-194827080.html",
+          "source": "AOL.com"
+        },
+        {
+          "title": "FACT FOCUS: Is inflation a red state vs. blue state issue? It's increasing no matter how you cut it",
+          "snippet": "",
+          "url": "https://www.dcourier.com/news/national-international/fact-focus-is-inflation-a-red-state-vs-blue-state-issue-its-increasing-no-matter/article_9df42818-dea8-5b65-98ea-8180fa4d97d8.html",
+          "source": "Prescott Daily Courier"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "stromausfall",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 6 Jun 2026 00:40:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwFLGSBHhItp3ZJvMiAncjM9VmMrGyVUShJOxIvVa50sJnERzujdspZEvXl_M",
       "pictureSource": "VOL.AT",
@@ -15,23 +99,23 @@
           "source": "VOL.AT"
         },
         {
-          "title": "Karibik - Landesweiter Stromausfall auf Jamaika",
+          "title": "Landesweiter Stromausfall auf Jamaika",
           "snippet": "",
-          "url": "https://www.deutschlandfunk.de/landesweiter-stromausfall-auf-jamaika-102.html",
-          "source": "Deutschlandfunk"
+          "url": "https://www.sn.at/panorama/international/landesweiter-stromausfall-auf-jamaika-art-654914",
+          "source": "Salzburger Nachrichten"
         },
         {
-          "title": "„Unakzeptabler“ Stromausfall legt Jamaika lahm",
+          "title": "Dunkelheit über Jamaika: Komplette Insel ohne Strom",
           "snippet": "",
-          "url": "https://www.krone.at/4167192",
-          "source": "Kronen Zeitung"
+          "url": "https://www.express.de/panorama/jamaika-im-dunkeln-totaler-stromausfall-legt-karibikinsel-lahm-minister-wuetend-1295100",
+          "source": "Express"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "salmonellen",
-      "trafficCount": "100+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 6 Jun 2026 00:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnnKaOQ5rgAKV4lmDANZKSRr5uCfQIPqNRZWklhxG7wts7OxgqV4-jzvq9_C4",
       "pictureSource": "BILD",
@@ -43,10 +127,10 @@
           "source": "BILD"
         },
         {
-          "title": "Basilikum-Rückruf bei Aldi Nord",
+          "title": "Gefahr im Gewürzregal? – Rückruf für Basilikum bei Aldi Nord",
           "snippet": "",
-          "url": "https://www.magdeburg-klickt.de/basilikum-rueckruf-bei-aldi-nord/",
-          "source": "Presseportal Magdeburg"
+          "url": "https://www.thueringer-allgemeine.de/panorama/article412184377/gefahr-im-gewuerzregal-rueckruf-fuer-basilikum-bei-aldi-nord.html",
+          "source": "Thüringer Allgemeine"
         },
         {
           "title": "Salmonellen-Fund: Aldi ruft dieses Gewürz in Brandenburg zurück",
@@ -59,22 +143,22 @@
     },
     {
       "title": "autobahn",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 6 Jun 2026 00:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9L0Ie9tEmg8mEVXs6YTlG-iFItxAlpBop-NCUj8xRcYEL18jNghKqY0qOfWs",
-      "pictureSource": "Kronen Zeitung",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4gP2-k-OFlayQBnT-oZkTGED6OSe9TYdLgRDlezmDGhN6SQoq4IDA4hfkA88",
+      "pictureSource": "stol.it",
       "relatedSearch": [
         {
-          "title": "Erneut Belastungsprobe - Nach Megastau rollt Rückreisewelle durch Tirol",
+          "title": "Verkehrschaos: Bis zu 70 Minuten Zeitverlust auf A22-Brennerautobahn",
           "snippet": "",
-          "url": "https://www.krone.at/4164589",
-          "source": "Kronen Zeitung"
+          "url": "https://www.stol.it/artikel/chronik/verkehrschaos-bis-zu-70-minuten-zeitverlust-auf-a22-brennerautobahn",
+          "source": "stol.it"
         },
         {
-          "title": "Staus und Kolonnenverkehr im ganzen Land",
+          "title": "Staus, Behinderungen - Lkw-Massen kämpfen sich am Fenstertag durch Tirol",
           "snippet": "",
-          "url": "https://www.stol.it/artikel/chronik/staus-und-kolonnenverkehr-im-ganzen-land",
-          "source": "stol.it"
+          "url": "https://www.krone.at/4166337",
+          "source": "Kronen Zeitung"
         },
         {
           "title": "Stau-Chaos: Lange Lkw-Kolonnen und überlastete Straßen",
@@ -87,7 +171,7 @@
     },
     {
       "title": "zug",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 5 Jun 2026 23:50:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTARISVS18Tzn_oLqqxVUPMA4IGpMDW6d1BsmYzuiUCHC7k4zmxMnasgWHbWmw",
       "pictureSource": "ooe.ORF.at",
@@ -125,6 +209,18 @@
           "snippet": "",
           "url": "https://www.t-online.de/unterhaltung/tv/bergdoktor/id_100350032/ronja-forcher-das-ist-der-beruehmte-freund-des-zdf-stars.html",
           "source": "T-Online"
+        },
+        {
+          "title": "Immer wieder sonntags: Ganze Folge 1 - hier anschauen",
+          "snippet": "",
+          "url": "https://www.ardmediathek.de/video/immer-wieder-sonntags/ganze-folge-1/swr/Y3JpZDovL3N3ci5kZS9hZXgvbzIzMjUwNDk",
+          "source": "ARD Mediathek"
+        },
+        {
+          "title": "«Immer wieder sonntags»-Aus: Jetzt schiesst Nicole gegen ARD",
+          "snippet": "",
+          "url": "https://www.blick.ch/people-tv/international/kritik-an-immer-wieder-sonntags-aus-jetzt-schiesst-auch-schlagerlegende-nicole-gegen-die-ard-id22001900.html",
+          "source": "Blick"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -143,16 +239,16 @@
           "source": "ORF ON"
         },
         {
-          "title": "Hier im Video - Sportboss Schöttel spricht über Werben um Rangnick",
-          "snippet": "",
-          "url": "https://www.krone.at/4167117",
-          "source": "Kronen Zeitung"
-        },
-        {
           "title": "Glasner? \"Wünsche ihm Verein, wo Geld keine Rolle spielt\"",
           "snippet": "",
           "url": "https://www.laola1.at/de/red/fussball/sonstiges/news/glasner--wuensche-ihm-verein--wo-geld-keine-rolle-spielt-/",
           "source": "LAOLA1"
+        },
+        {
+          "title": "Hier im Video - Sportboss Schöttel spricht über Werben um Rangnick",
+          "snippet": "",
+          "url": "https://www.krone.at/4167117",
+          "source": "Kronen Zeitung"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -181,90 +277,6 @@
           "snippet": "",
           "url": "https://www.golem.de/news/starker-sonnensturm-chance-auf-polarlichter-in-der-nacht-zum-samstag-2606-209449.html",
           "source": "Golem.de"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "christian ulmen",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 5 Jun 2026 22:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0eOqC-zJYS4s-x2TC5hFI3rHtm6wnDoBdg2ATOqfOxW884NnL329t-fqiRL4",
-      "pictureSource": "DIE ZEIT",
-      "relatedSearch": [
-        {
-          "title": "Collien Fernandes und Christian Ulmen • Z+ Empfehlung: Herr Ulmen möchte nun doch nicht",
-          "snippet": "",
-          "url": "https://www.zeit.de/2026/25/collien-fernandes-christian-ulmen-gewalt-fake-profile-digitale-gewalt",
-          "source": "DIE ZEIT"
-        },
-        {
-          "title": "Christian Ulmen bricht sein Schweigen – in einem „Zeit“-Interview, das keines gewesen sein soll",
-          "snippet": "",
-          "url": "https://www.diepresse.com/28271523/christian-ulmen-bricht-sein-schweigen-in-einem-zeit-interview-das-sein",
-          "source": "DiePresse.com"
-        },
-        {
-          "title": "Streit um \"Zeit\"-Gespräch: Collien Fernandes reagiert auf Christian Ulmens Rückzieher",
-          "snippet": "",
-          "url": "https://www.t-online.de/unterhaltung/stars/id_101283470/collien-fernandes-reagiert-auf-zeit-absage-von-christian-ulmen.html",
-          "source": "T-Online"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "bitcoin kurs",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 5 Jun 2026 22:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzephZEMGbzxx8Pt7rm5mgtnkvmKTEsK47CZFFQ6AyU8UOR2TUXQ-Gth6nSUA",
-      "pictureSource": "Blick",
-      "relatedSearch": [
-        {
-          "title": "Bitcoin-Kurs stürzt ab: Droht jetzt der totale Einbruch?",
-          "snippet": "",
-          "url": "https://www.blick.ch/wirtschaft/invest/bitcoin-taucht-anleger-zittern-verteidigungslinie-faellt-droht-jetzt-der-totale-einbruch-id22005555.html",
-          "source": "Blick"
-        },
-        {
-          "title": "Bitcoin auf Talfahrt: Wohin steuert der Kryptomarkt?",
-          "snippet": "",
-          "url": "https://www.deraktionaer.de/artikel/aktien/bitcoin-auf-talfahrt-wohin-steuert-der-kryptomarkt-20402279.html",
-          "source": "Der Aktionär"
-        },
-        {
-          "title": "280 Milliarden US-Dollar VERNICHTET! - Bietet der Absturz dieser Aktie jetzt eine Chance?",
-          "snippet": "",
-          "url": "https://stock3.com/news/280-milliarden-us-dollar-vernichtet-bietet-der-absturz-dieser-aktie-jetzt-eine-chance-17107163",
-          "source": "stock3"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "rtl television",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 5 Jun 2026 22:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJr9otiYjiDtQI6XFsqKo-c099c5NE1jWrAUVXkDmyWK3k-jpMo2Cjp1_eKD8",
-      "pictureSource": "Netzwelt",
-      "relatedSearch": [
-        {
-          "title": "Aus aktuellem Anlass: RTL ändert am Samstag (6.6.) sein TV-Programm",
-          "snippet": "",
-          "url": "https://www.netzwelt.de/news/254613-aktuellem-anlass-rtl-aendert-samstag-66-tv-programm.html",
-          "source": "Netzwelt"
-        },
-        {
-          "title": "Wie Peter Kloeppel seinen Ruhestand verbringt",
-          "snippet": "",
-          "url": "https://www.rtl.de/news/peter-kloeppel-ueber-sein-leben-als-rentner-wie-man-es-sich-vorstellt-id30896288.html",
-          "source": "RTL.de"
-        },
-        {
-          "title": "Nach Übernahme: Plettenberg tritt bei RTL auf",
-          "snippet": "",
-          "url": "https://www.digitalfernsehen.de/news/inhalte/streaming/nach-uebernahme-plettenberg-tritt-bei-rtl-auf-1181712/",
-          "source": "digital fernsehen"
         }
       ],
       "link": "https://imtaqin.id/"

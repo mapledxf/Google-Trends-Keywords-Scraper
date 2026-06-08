@@ -1,30 +1,170 @@
 {
-  "lastUpdate": "2026-06-08 01:57:38",
+  "lastUpdate": "2026-06-08 06:42:23",
   "data": [
     {
-      "title": "клубника",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 7 Jun 2026 12:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0WgCo-A8bn8xbFuQo_1wEsFfRGY1vWZJOInAVWEDemdgfhv6SwCfYGuOG3F4",
-      "pictureSource": "Новости Беларуси | БелТА",
+      "title": "погода",
+      "trafficCount": "20000+",
+      "pubDate": "Sun, 7 Jun 2026 21:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5HbJKpnqKdEO-N6NRtXL12kKDC4yH6Ug-eUIBO6RJAbi9HmF_mYRpF7wN2no",
+      "pictureSource": "ФОНТАНКА.ру",
       "relatedSearch": [
         {
-          "title": "Калий и древесная зола: чем подкормить клубнику для сладости",
+          "title": "Греет, но не жарит. Хороший летний день перед тем, как погода резко изменится",
           "snippet": "",
-          "url": "https://belta.by/society/view/kalij-i-drevesnaja-zola-chem-podkormit-klubniku-dlja-sladosti-784993-2026/",
+          "url": "https://www.fontanka.ru/2026/06/08/76466554/",
+          "source": "ФОНТАНКА.ру"
+        },
+        {
+          "title": "Холодный фронт пришел в Ленобласть",
+          "snippet": "",
+          "url": "https://www.47news.ru/articles/288200/",
+          "source": "47 новостей из Ленинградской области"
+        },
+        {
+          "title": "В Петербурге 8 июня температура превысит климатическую норму на 3-4 градуса",
+          "snippet": "",
+          "url": "https://spbdnevnik.ru/news/2026-06-08/v-peterburge-8-iyunya-temperatura-prevysit-klimaticheskuyu-normu-na-3-4-gradusa",
+          "source": "spbdnevnik.ru"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "выборы в армении",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 7 Jun 2026 20:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTliCnxSWYqJyzlMn7SPNh-wETjo4OMQsoDibkyxMXODKIqodg6ekOQMCmsnJM",
+      "pictureSource": "Euronews.com",
+      "relatedSearch": [
+        {
+          "title": "В Армении идет подсчет голосов на решающих выборах за будущее Южного Кавказа",
+          "snippet": "",
+          "url": "https://ru.euronews.com/2026/06/07/counting-is-underway-in-armenias-pivotal-vote-for-the-south-caucasus-future",
+          "source": "Euronews.com"
+        },
+        {
+          "title": "Выборы в Армении: борьба мира и войны",
+          "snippet": "",
+          "url": "https://www.bbc.com/russian/articles/cddl47gr4ymo",
+          "source": "BBC"
+        },
+        {
+          "title": "Обеспечение транспарентности и законности. Наблюдатель от Беларуси на выборах в Армении о задачах международных миссий",
+          "snippet": "",
+          "url": "https://belta.by/society/view/obespechenie-transparentnosti-i-zakonnosti-nabljudatel-ot-belarusi-na-vyborah-v-armenii-o-zadachah-785045-2026/",
+          "source": "Новости Беларуси | БелТА"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ветер",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 7 Jun 2026 19:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTBhDqssqyRRU3TyEca0ogG_X-HoEUwAwWmhAPHkTTGQtXdmJSraA867bBsGlk",
+      "pictureSource": "Дзержинское время",
+      "relatedSearch": [
+        {
+          "title": "Вполне тепло, но с небольшими дождями: какая ожидается погода в Дзержинске",
+          "snippet": "",
+          "url": "https://dzer.ru/vpolne-teplo-no-s-nebolshimi-dozhdyami-kakaya-ozhidaetsya-pogoda-v-dzerzhinske/",
+          "source": "Дзержинское время"
+        },
+        {
+          "title": "Теплее, умеренные дожди: Прогноз погоды в Уральске и ЗКО",
+          "snippet": "",
+          "url": "https://www.uralskweek.kz/2026/06/08/teplee-umerennye-dozhdi-prognoz-pogody-v-uralske-i-zko/",
+          "source": "Уральская неделя"
+        },
+        {
+          "title": "Какая погода ожидается в Западном Казахстане 8 июня",
+          "snippet": "",
+          "url": "https://mgorod.kz/news/kakaia-pogoda-ozidaetsia-v-zapadnom-kazaxstane-8-iiunia",
+          "source": "Мой ГОРОД"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "турция",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 7 Jun 2026 19:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8MNYxvKlahoxWqFMfXW4OlReUJG1WaEp3d6v6FZWiF6PoymZ5PKsukglktdY",
+      "pictureSource": "Интерфакс",
+      "relatedSearch": [
+        {
+          "title": "Главы МИД Азербайджана, Турции и Грузии встретятся в Стамбуле 8 июня",
+          "snippet": "",
+          "url": "https://www.interfax.ru/world/1094580",
+          "source": "Интерфакс"
+        },
+        {
+          "title": "Джейхун Байрамов отправился с рабочим визитом в Турцию",
+          "snippet": "",
+          "url": "https://azertag.az/ru/xeber/dzheihun_bairamov_otpravilsya_s_rabochim_vizitom_v_turciyu-4247379",
+          "source": "Azərtac"
+        },
+        {
+          "title": "Байрамов выступит в Стамбуле",
+          "snippet": "",
+          "url": "https://caliber.az/post/bajramov-vystupit-v-stambule",
+          "source": "Caliber.Az"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "дождь",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 7 Jun 2026 19:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQU10A2VKPx4uB8NdvoJz7e1bVAZiuYTBWKVHaEofXBXNrhQ-ME5Lup48QmB1s",
+      "pictureSource": "Gismeteo",
+      "relatedSearch": [
+        {
+          "title": "Грозы, ливни и шквалы: в Беларуси 8 июня ожидаются экстремальные погодные условия",
+          "snippet": "",
+          "url": "https://www.gismeteo.by/news/klimat/grozy-livni-i-shkvaly-v-belarusi-8-ijulya-ozhidajutsya-ekstremalnye-pogodnye-usloviya/",
+          "source": "Gismeteo"
+        },
+        {
+          "title": "Грозы и сильные дожди. Синоптики объявили оранжевый уровень опасности на 8 июня",
+          "snippet": "",
+          "url": "https://belta.by/society/view/grozy-i-silnye-dozhdi-sinoptiki-objjavili-oranzhevyj-uroven-opasnosti-na-8-ijunja-784984-2026/",
           "source": "Новости Беларуси | БелТА"
         },
         {
-          "title": "Как повысить урожай клубники? Изучаем качество воды для полива и наличие питания в почве",
+          "title": "Ждать ли сюрпризов? Синоптик рассказал, какой будет погода с 8 по 14 июня",
           "snippet": "",
-          "url": "https://www.sb.by/articles/kak-ugodit-klubnike.html",
-          "source": "СБ. Беларусь сегодня"
+          "url": "https://ont.by/ru/novosti-pogody-ru/view/zhdat-li-sjurprizov-sinoptik-rasskazal-kakoj-budet-pogoda-s-8-po-14-ijunja-319761-2026",
+          "source": "ОНТ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "клубника",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 7 Jun 2026 12:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSc_q5Z2CFL2nK16i7OKkf3k7ToIltO5no5S7_1J6S6ybKeTH85D-aFkiytm9Y",
+      "pictureSource": "Smartpress.by",
+      "relatedSearch": [
+        {
+          "title": "Клубника на минской Комаровке подешевела до 8 рублей - а что по ценам на черешню",
+          "snippet": "",
+          "url": "https://smartpress.by/news/klubniku-na-komarovke-mozhno-kupit-uzhe-po-8-rubley-za-1-kg-a-chereshnyu/",
+          "source": "Smartpress.by"
         },
         {
-          "title": "Никакой серой гнили весь сезон: 10 капель — и клубника как с картинки, сладкая, ароматная, красная",
+          "title": "Молодая белорусская картошка уже на Комаровке. А еще море пионов",
           "snippet": "",
-          "url": "https://www.hibiny.ru/murmanskaya-oblast/news/item-nikakoy-seroy-gnili-ves-sezon-10-kapel-klubnika-kak-s-kartinki-sladkaya-aromatnaya-krasnaya-462691/",
-          "source": "Хибины.ру"
+          "url": "https://money.onliner.by/2026/06/05/molodaya-belorusskaya-kartoshka-uzhe-na-komarovke-a-eshhe-more-pionov",
+          "source": "Onlíner"
+        },
+        {
+          "title": "Сезон пионов и свежих ягод: что почем на Комаровке в первые выходные лета",
+          "snippet": "",
+          "url": "https://minsknews.by/sezon-pionov-i-svezhih-yagod-chto-pochem-na-komarovke-v-pervye-vyhodnye-leta/",
+          "source": "Минск-новости"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -34,25 +174,25 @@
       "trafficCount": "500+",
       "pubDate": "Sun, 7 Jun 2026 09:30:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrhKJAIZCNuIfduVAsvcBpj0_AwUIn2rO4HbUtJbEf84blh4coW4YkBlcktN8",
-      "pictureSource": "Euronews",
+      "pictureSource": "Euronews.com",
       "relatedSearch": [
         {
           "title": "Датский футболист Кристиан Эриксен в сознании после падения на поле",
           "snippet": "",
           "url": "https://ru.euronews.com/2026/06/07/danish-footballer-christian-eriksen-is-conscious-after-collapsing-on-the-field",
-          "source": "Euronews"
+          "source": "Euronews.com"
         },
         {
-          "title": "В сборной Дании сообщили, что Эриксен пришел в сознание, товарищеский матч с командой Украины отменен",
+          "title": "Врач сборной Дании: \"Эриксен чувствует себя хорошо\"",
           "snippet": "",
-          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/spbnews_NI2333332_V_sbornoj_Danii_soobshhili_chto_Eriksen_prishel_v_soznanije_tovarishheskij_match_s_komandoj_Ukrainy_otmenen",
-          "source": "Sportbox"
+          "url": "https://football.by/news/219339",
+          "source": "Football.by"
         },
         {
-          "title": "Ямаль пообещал отрастить усы и бороду, если Испания выиграет ЧМ: «Буду носить их три недели»",
+          "title": "Стало известно состояние здоровья Эриксена, потерявшего сознание во время игры с Украиной",
           "snippet": "",
-          "url": "https://sportmail.ru/news/football/71183142/",
-          "source": "Спорт Mail"
+          "url": "https://www.gazeta.press/sport/news/2026/06/07/28638613.shtml",
+          "source": "https://www.gazeta.press/"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -62,13 +202,13 @@
       "trafficCount": "200+",
       "pubDate": "Sun, 7 Jun 2026 07:20:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuG7qmvfeRaUCUi1vL39K35WplAuAM4piGVWsUPt5YznATWZqNlFXkdmI7w1I",
-      "pictureSource": "Euronews",
+      "pictureSource": "Euronews.com",
       "relatedSearch": [
         {
           "title": "Александр Зверев : триумф на \"Ролан Гаррос\" и первый \"мейджор\"",
           "snippet": "",
           "url": "https://ru.euronews.com/2026/06/07/alexander-zverev-wins-the-french-open-for-his-first-grand-slam-tennis-title",
-          "source": "Euronews"
+          "source": "Euronews.com"
         },
         {
           "title": "Зверев выиграл у Коболли в финале Открытого чемпионата Франции по теннису",
@@ -77,38 +217,38 @@
           "source": "СБ. Беларусь сегодня"
         },
         {
-          "title": "Немецкий теннисист Зверев впервые выиграл \"Ролан Гаррос\"",
+          "title": "Немецкий теннисист Александр Зверев выиграл \"Ролан Гаррос\"",
           "snippet": "",
-          "url": "https://belta.by/sport/view/nemetskij-tennisist-zverev-vpervye-vyigral-rolan-garros-785026-2026/",
-          "source": "Новости Беларуси | БелТА"
+          "url": "https://www.dw.com/ru/nemeckij-tennisist-aleksandr-zverev-vyigral-rolan-garros/a-77451817",
+          "source": "DW"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "мошенничество",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 7 Jun 2026 06:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVpwPFGbiZJZacJzhjwcNGNhfuqrwxEPcsnD23KqMIP3lKbPFKD_nQFjy3BLA",
-      "pictureSource": "Вечерний Ставрополь",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ465v3WD64D31JwQFNkSZ6AmkQhFm5rgUoVwvoGolWdr-J6V8eI_XXp0IYj0",
+      "pictureSource": "region29",
       "relatedSearch": [
         {
-          "title": "Полицейские Пятигорска провели профилактику мошенничества со студентами",
+          "title": "Жительницу Котласа оштрафовали за мошенничество при перерасчёте пенсии",
           "snippet": "",
-          "url": "https://vechorka.ru/news/law/policzejskie-pyatigorska-proveli-profilaktiku-moshennichestva-so-studentami",
-          "source": "Вечерний Ставрополь"
+          "url": "https://region29.ru/2026/06/08/6a2657749e8bac69bf0bf8d7.html",
+          "source": "region29"
         },
         {
-          "title": "В банковской системе говорят о существенном росте фишинговых атак и мошенничества - NEWSru.co.il",
+          "title": "Для получения выплат фиктивно трудоустроилась на предприятии Северодвинска",
           "snippet": "",
-          "url": "https://www.newsru.co.il/finance/7jun2026/bankim503.html",
-          "source": "NEWSru.co.il"
+          "url": "https://tv29.ru/new/index.php/bk-obshchestvo/48616-dlya-polucheniya-vyplat-fiktivno-trudoustroilas-na-predpriyatii-severodvinska",
+          "source": "Беломорканал Северодвинск tv29.ru"
         },
         {
-          "title": "Новое мошенничество против израильтян в WhatsApp",
+          "title": "Южноуральцев предупредили об опасных схемах мошенничества с домашними животными",
           "snippet": "",
-          "url": "https://cursorinfo.co.il/israel-news/novoe-moshennichestvo-protiv-izrailtyan-v-whatsapp/",
-          "source": "Cursorinfo"
+          "url": "https://polit74.ru/society/yuzhnouraltsev_predupredili_ob_opasnykh_skhemakh_moshennichestva_s_domashnimi_zhivotnymi/",
+          "source": "Полит74"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -139,127 +279,6 @@
           "source": "Alcoexpert"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "уефа",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 7 Jun 2026 02:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2T7fYRRjMTeI_stKfcwC39cwVcsy9fSE7S4MBiQvMJARWokAKVy3qu5e80ys",
-      "pictureSource": "Euronews",
-      "relatedSearch": [
-        {
-          "title": "УЕФА продлил запрет на участие команд из РФ в футбольных турнирах",
-          "snippet": "",
-          "url": "https://ru.euronews.com/my-europe/2026/06/07/russia-uefa-ban",
-          "source": "Euronews"
-        },
-        {
-          "title": "Российские клубы не включены в состав участников еврокубков на сезон-2026/2027",
-          "snippet": "",
-          "url": "https://sport5.by/news/football/evrokubki/Rossiyskie-kluby-ne-vystupyat-v-evrokubkakh-v-sezone20262027/",
-          "source": "Sport5.by"
-        },
-        {
-          "title": "УЕФА продлил отстранение российских клубов",
-          "snippet": "",
-          "url": "https://sportmail.ru/news/football-eurocups/71176087/",
-          "source": "Спорт Mail"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "абонент",
-      "trafficCount": "5000+",
-      "pubDate": "Sun, 7 Jun 2026 00:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQs8sR20EY6Lt-zomxoC37L50xgbR3HwvWm_eVslHgRj55cPD8TtTDqmYnzmlg",
-      "pictureSource": "Onlíner",
-      "relatedSearch": [
-        {
-          "title": "В Беларуси заработал лимит задолженности по мобильной связи",
-          "snippet": "",
-          "url": "https://tech.onliner.by/2026/06/07/v-belarusi-zarabotal-limit-zadolzhennosti-po-mobilnoj-svyazi",
-          "source": "Onlíner"
-        },
-        {
-          "title": "В Беларуси ввели лимит задолженности на балансах абонентов сотовой связи",
-          "snippet": "",
-          "url": "https://www.sb.by/articles/v-belarusi-vveli-limit-zadolzhennosti-na-balansakh-abonentov-sotovoy-svyazi.html",
-          "source": "СБ. Беларусь сегодня"
-        },
-        {
-          "title": "Лимит задолженности на балансах абонентов мобильной связи появился в Беларуси",
-          "snippet": "",
-          "url": "https://officelife.media/news/72432-limit-zadolzhennosti-na-balansakh-abonentov-mobilnoy-svyazi-poyavilsya-v-belarusi-/",
-          "source": "officelife.media"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "китай",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 6 Jun 2026 23:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQaWlJ2Q4SdyjPkDxA3CShZ8fOn_9ZE4sIVsgeFMQYG44ZK0ATLvH_dzGmjDVw",
-      "pictureSource": "Meduza",
-      "relatedSearch": [
-        {
-          "title": "Китай начал свою «специальную операцию» в водах к востоку от Тайваня. Это ответ на территориальный спор с Японией и Филиппинами",
-          "snippet": "",
-          "url": "https://meduza.io/feature/2026/06/07/kitay-nachal-svoyu-spetsialnuyu-operatsiyu-v-vodah-k-vostoku-ot-tayvanya-eto-otvet-na-territorialnyy-spor-s-yaponiey-i-filippinami",
-          "source": "Meduza"
-        },
-        {
-          "title": "Китай провел морскую правоохранительную спецоперацию",
-          "snippet": "",
-          "url": "https://belta.by/world/view/kitaj-provel-morskuju-pravoohranitelnuju-spetsoperatsiju-784988-2026/",
-          "source": "Новости Беларуси | БелТА"
-        },
-        {
-          "title": "Китай объявил о морской \"спецоперации\" у побережья Тайваня",
-          "snippet": "",
-          "url": "https://www.dw.com/ru/kitaj-obavil-o-specoperacii-u-vostocnyh-beregov-tajvana-tajbej-napravil-voennye-korabli/a-77449993",
-          "source": "DW"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "виза",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 6 Jun 2026 21:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-iutYfCSoJsGn4WM63CEbWY4La-3c7XQwBUuzhsLnHu6ywcSCaXHPbHzUB14",
-      "pictureSource": "ВФокусе Mail",
-      "relatedSearch": [
-        {
-          "title": "11 стран ЕС требуют запретить шенгенские визы для россиян",
-          "snippet": "",
-          "url": "https://vfokuse.mail.ru/news/69624986-11-stran-es-trebuyut-zapretit-shengenskie-vizy-dlya-rossiyan/",
-          "source": "ВФокусе Mail"
-        },
-        {
-          "title": "Комиссия ЕС обещает ужесточить выдачу виз для россиян",
-          "snippet": "",
-          "url": "https://www.dw.com/ru/evrokomissia-obesaet-uzestocit-vydacu-viz-dla-rossian/a-77443053",
-          "source": "DW"
-        },
-        {
-          "title": "ЕС введет точечные ограничения на визы для россиян на фоне критики",
-          "snippet": "",
-          "url": "https://ru.euronews.com/my-europe/2026/06/05/eu-vows-targeted-restrictions-on-schengen-visas-for-russians-amid-backlash",
-          "source": "Euronews"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "доллар сша",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 6 Jun 2026 21:10:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]

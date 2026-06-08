@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-06-08 11:29:40",
+  "lastUpdate": "2026-06-08 14:56:38",
   "data": [
+    {
+      "title": "бензин",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 8 Jun 2026 05:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd0mooNJvFHCiqrcOe8pz-UhFIYmSvoH9g7Xz9RfYL3i0Bpul0XjZse3hK3cA",
+      "pictureSource": "Интерфакс",
+      "relatedSearch": [
+        {
+          "title": "Песков заявил, что в Крыму работают над тем, чтобы не допустить дефицита энергоносителей",
+          "snippet": "",
+          "url": "https://www.interfax.ru/russia/1094742",
+          "source": "Интерфакс"
+        },
+        {
+          "title": "Топливный кризис в Крыму распугал туристов",
+          "snippet": "",
+          "url": "https://www.banki.ru/news/lenta/?id=11024840",
+          "source": "Банки.ру"
+        },
+        {
+          "title": "Принят ряд управленческих мер, связанных с дефицитом автомобильного топлива в Крыму",
+          "snippet": "",
+          "url": "https://glava.rk.gov.ru/articles/1d8b2c95-2581-4d62-86f4-216f5733983b",
+          "source": "Глава Республики Крым Сергей Аксёнов"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "point",
       "trafficCount": "100+",
@@ -49,10 +77,10 @@
           "source": "NewsTracker"
         },
         {
-          "title": "Цены на бензин растут в Ростовской области",
+          "title": "Топливо дорожает без остановки: в Пермском крае обновились ценники на АЗС",
           "snippet": "",
-          "url": "https://rostovgazeta.ru/news/2026-06-07/dorozhaet-kazhdye-dva-dnya-chto-proishodit-na-zapravkah-v-rostove-5611728",
-          "source": "Rostovgazeta.ru"
+          "url": "https://properm.ru/news/2026-06-04/v-permskom-krae-vyrosli-tseny-na-vse-marki-benzina-i-dizel-5610686",
+          "source": "Properm.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,41 +89,28 @@
       "title": "волна похолодания",
       "trafficCount": "200+",
       "pubDate": "Sun, 7 Jun 2026 21:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrc0HF27MwFutfu0SkW_NEaUcK8j7fnotBM1fNzsqBxTHSa42XnoYmqEvian8",
-      "pictureSource": "Today.ua",
-      "relatedSearch": [
-        {
-          "title": "Погода в Украине 2 июня: где пройдут дожди и где сохранится тепло",
-          "snippet": "",
-          "url": "https://today.ua/ru/490438-pogoda-v-ukrayini-2-chervnya-de-projdut-doshi-ta-de-zberezhetsya-teplo/",
-          "source": "Today.ua"
-        },
-        {
-          "title": "Часть Украины накроют сильные дожди: где ожидать непогоды 3 июня",
-          "snippet": "",
-          "url": "https://today.ua/ru/490480-chastinu-ukrayini-nakriyut-silni-doshi-de-chekati-negodi-3-chervnya/",
-          "source": "Today.ua"
-        }
-      ],
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "никол пашинян",
       "trafficCount": "100+",
       "pubDate": "Sun, 7 Jun 2026 20:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJOYHjliuCT1TFmD3tONnDSo4sy7TEooxnQqj7w6LZYqJZ2BBKTU6vKeC9us8",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTP8hifAZhnUGMJrA5bIzxvnHqeZsJ_Z13Uper5K696wMiv0DcCliPge3Roitg",
+      "pictureSource": "Интерфакс",
       "relatedSearch": [
         {
-          "title": "Борьба мира и войны на выборах в Армении: партия Пашиняна набрала почти 50% голосов",
+          "title": "В Кремле фиксируют сообщения о нарушениях в ходе выборов в Армении",
           "snippet": "",
-          "url": "https://www.bbc.com/russian/articles/cddl47gr4ymo",
-          "source": "BBC"
+          "url": "https://www.interfax.ru/russia/1094740",
+          "source": "Интерфакс"
         },
         {
-          "title": "МИД России: Выборы в Армении сопровождались репрессиями оппозиции",
+          "title": "Выборы в Армении: оппозиции нужно найти своего «Анти-Пашиняна», чтобы победить",
           "snippet": "",
-          "url": "https://vfokuse.mail.ru/news/69625121-mid-rossii-vyiboryi-v-armenii-soprovozhdalis-repressiyami-oppozitsii/",
+          "url": "https://vfokuse.mail.ru/articles/69625160-ekspert-pochemu-vybory-v-armenii-stali-nichej-i-chto-zhdet-pashinyana-dalshe/",
           "source": "ВФокусе Mail"
         },
         {
@@ -137,8 +152,36 @@
     },
     {
       "title": "дрон-перехватчик",
-      "trafficCount": "1000+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 7 Jun 2026 19:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq_8WnofEHGXGy8S76sngIbotfEXbWVmOKfQ8WSk8GNt3cYESkSjoS5h07HmQ",
+      "pictureSource": "Korrespondent.net",
+      "relatedSearch": [
+        {
+          "title": "Киев испытал автономный перехватчик \"шахедов\"",
+          "snippet": "",
+          "url": "https://korrespondent.net/ukraine/4884958-kyev-yspytal-avtonomnyi-perekhvatchyk-shakhedov",
+          "source": "Korrespondent.net"
+        },
+        {
+          "title": "На Харьковщине испытали беспилотник, который в один клик сбивает \"Шахеды\"",
+          "snippet": "",
+          "url": "https://2day.kh.ua/ru/kharkow/na-kharkovschine-ispytali-bespilotnik-kotoryy-v-odin-klik-sbivaet-shakhedy",
+          "source": "Харків Тудей"
+        },
+        {
+          "title": "Украинские дроны-перехватчики уже автономно сбивают Shahed: Федоров раскрыл подробности",
+          "snippet": "",
+          "url": "https://rubryka.com/ru/2026/06/08/ukrayinski-drony-perehoplyuvachi/",
+          "source": "Rubryka"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "майя санду",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 7 Jun 2026 12:00:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIQzIRI9S-JqeLVJWidsZZ1sv7-6apHu7Jt1Vmd5z0UFmuXxlrNMAQ3sr8q9c",
       "pictureSource": "NewsMaker",
       "relatedSearch": [
@@ -149,16 +192,16 @@
           "source": "NewsMaker"
         },
         {
+          "title": "Молдова запустит производство дронов-перехватчиков из-за российской угрозы",
+          "snippet": "",
+          "url": "https://ru.themoscowtimes.com/2026/06/08/moldova-zapustit-proizvodstvo-dronov-perehvatchikov-iz-za-rossiiskoi-ugrozi-a197621",
+          "source": "Русская служба The Moscow Times"
+        },
+        {
           "title": "Санду: Молдавия должна начать собственное производство БПЛА",
           "snippet": "",
           "url": "https://www.ritmeurasia.ru/news--2026-06-08--sandu-moldavija-dolzhna-nachat-sobstvennoe-proizvodstvo-bpla-88229",
           "source": "Ритм Евразии"
-        },
-        {
-          "title": "Молдова хочет производить перехватчики дронов. Санду не исключает помощи от Украины",
-          "snippet": "",
-          "url": "https://news.liga.net/world/news/moldova-hochet-proizvodit-perehvatchiki-dronov-sandu-ne-isklyuchaet-pomoshti-ot-ukrainy",
-          "source": "ЛІГА.net"
         }
       ],
       "link": "https://imtaqin.id/"

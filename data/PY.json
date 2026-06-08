@@ -1,9 +1,83 @@
 {
-  "lastUpdate": "2026-06-08 06:42:48",
+  "lastUpdate": "2026-06-08 11:29:48",
   "data": [
     {
-      "title": "pronostico",
+      "title": "tiempo",
+      "trafficCount": "5000+",
+      "pubDate": "Mon, 8 Jun 2026 02:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlzH5XRtlhBEE_OIQ84wrhylVy63hyFO4VR5qx-rGgRATN9E27AGtF6Y2Dsmg",
+      "pictureSource": "ABC Color",
+      "relatedSearch": [
+        {
+          "title": "Clima en Paraguay: Lunes con lluvias y alerta de tormentas",
+          "snippet": "",
+          "url": "https://www.abc.com.py/clima/2026/06/08/meteorologia-lunes-lluvioso-y-con-alerta-de-tormentas-en-paraguay/",
+          "source": "ABC Color"
+        },
+        {
+          "title": "Sábado con amanecer fresco y una tarde cálida a calurosa, anuncia Meteorología",
+          "snippet": "",
+          "url": "https://www.ultimahora.com/sabado-con-amanecer-fresco-y-una-tarde-calida-a-calurosa-anuncia-meteorologia",
+          "source": "Última Hora"
+        },
+        {
+          "title": "DMH anuncia máximas de hasta treinta grados como despedida del mes",
+          "snippet": "",
+          "url": "https://www.latribuna.com.py/lifestyle/clima/2026/05/31/dmh-anuncia-maximas-de-hasta-treinta-grados-como-despedida-del-mes/",
+          "source": "https://www.latribuna.com.py/"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tormenta",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 8 Jun 2026 01:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcijJ5uBplmPFUFQwfyleiBLnZK-2XZc1yrgsGltqfw7Q9L0wJk7yC67QCkyE",
+      "pictureSource": "NTN24",
+      "relatedSearch": [
+        {
+          "title": "Amenaza por Depresión Tropical Dos-E en las costas del pacífico: La CNPC alerta una fuerte tormenta",
+          "snippet": "",
+          "url": "https://www.ntn24.com/noticias-actualidad/amenaza-por-depresion-tropical-dos-e-en-las-costas-del-pacifico-la-cnpc-alerta-una-fuerte-tormenta-626001",
+          "source": "NTN24"
+        },
+        {
+          "title": "Guerrero suspende clases y cierra puertos ante el avance de la Depresión Tropical Dos-E",
+          "snippet": "",
+          "url": "https://www.sopitas.com/noticias/guerrero-suspende-clases-cierra-puertos-avance-depresion-tropical-dos-e/",
+          "source": "Sopitas.com"
+        },
+        {
+          "title": "EN VIVO | Clima en CDMX y resto de México hoy 8 de junio: lluvias de la depresión tropical Dos-E amenazan a Guerrero esta noche",
+          "snippet": "",
+          "url": "https://www.infobae.com/mexico/2026/06/08/en-vivo-clima-en-cdmx-y-resto-de-mexico-hoy-8-de-junio/",
+          "source": "Infobae"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "alerta por tormenta eléctrica",
       "trafficCount": "200+",
+      "pubDate": "Mon, 8 Jun 2026 00:10:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "pronostico del tiempo",
+      "trafficCount": "2000+",
+      "pubDate": "Sun, 7 Jun 2026 19:20:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "pronostico",
+      "trafficCount": "500+",
       "pubDate": "Sun, 7 Jun 2026 19:20:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFWPG_LqxbuOErl-xReK9QCW_azb3-_PApkx7iyz6cF0f5d1VeX5A9HaiZzJQ",
       "pictureSource": "Clarin.com",
@@ -21,9 +95,9 @@
           "source": "Infobae"
         },
         {
-          "title": "Prepárate antes de salir: conoce el pronóstico del clima en Encarnación",
+          "title": "Clima en Encarnación: cuál será la temperatura máxima y mínima este 5 de junio",
           "snippet": "",
-          "url": "https://www.infobae.com/noticias/2026/05/30/preparate-antes-de-salir-conoce-el-pronostico-del-clima-en-encarnacion/",
+          "url": "https://www.infobae.com/noticias/2026/06/03/clima-en-encarnacion-cual-sera-la-temperatura-maxima-y-minima-este-5-de-junio/",
           "source": "Infobae"
         }
       ],
@@ -33,26 +107,26 @@
       "title": "alerta meteorológica",
       "trafficCount": "200+",
       "pubDate": "Sun, 7 Jun 2026 16:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRV0yW8HGayTPG9wrjn0jMN3xnX5zR21kq49stXbKZzSZUl_OrxEEamVj1BCgU",
-      "pictureSource": "TN",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTA9mW_FGIJxmYIddVA-8gxwD3SPmiEga11IuEGxyAJ4-fleRl3he2JKg0pVg4",
+      "pictureSource": "Clarín",
       "relatedSearch": [
         {
-          "title": "Hay alerta amarilla por lluvias para este lunes 8 de junio en Santa Fe: las zonas afectadas",
+          "title": "Alerta amarilla para la madrugada del lunes: qué dice el pronóstico del SMN en el AMBA mientras una multitud despide al Indio Solari",
           "snippet": "",
-          "url": "https://tn.com.ar/clima/alertas/2026/06/08/hay-alerta-amarilla-por-lluvias-para-este-lunes-8-de-junio-en-santa-fe-las-zonas-afectadas/",
-          "source": "TN"
-        },
-        {
-          "title": "Clima hoy en San Nicolás de los Arroyos, Buenos Aires: el pronóstico del tiempo para este lunes 8 junio de 2026",
-          "snippet": "",
-          "url": "https://www.clarin.com/informacion-general/clima-hoy-san-nicolas-arroyos-buenos-aires-pronostico-tiempo-lunes-8-junio-2026_0_jX7b44JkYQ.html",
+          "url": "https://www.clarin.com/sociedad/lluvias-tarde-alerta-amarilla-madrugada-dice-pronostico-smn-amba-multitud-despide-indio-solari_0_DU9KzxWGJb.html",
           "source": "Clarín"
         },
         {
-          "title": "Tras más de dos semanas sin lluvias, prevén precipitaciones en los próximas días en San Nicolás",
+          "title": "Pronostican lluvias persistentes en regiones clave del agro y tormentas fuertes en el norte",
           "snippet": "",
-          "url": "https://diarioelnorte.com.ar/tras-mas-de-dos-semanas-sin-lluvias-preven-precipitaciones-en-los-proximas-dias-en-san-nicolas/",
-          "source": "Diario El Norte"
+          "url": "https://ruralnet.com.ar/lluvias-persistentes-regiones-clave-agro-tormentas-norte/",
+          "source": "Ruralnet"
+        },
+        {
+          "title": "Clima en CABA: cómo seguirá el tiempo este domingo 7 de junio",
+          "snippet": "",
+          "url": "https://www.cadena3.com/noticia/clima/clima-en-caba-como-seguira-el-tiempo-este-domingo-7-de-junio_559773",
+          "source": "Cadena 3 Argentina"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,14 +135,14 @@
       "title": "colombia - jordania",
       "trafficCount": "2000+",
       "pubDate": "Sun, 7 Jun 2026 15:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNbAkuDOJVTY989IMrZcMdERPmWaqaAyHuFRk-NvgrWzVFajWiqwf9UxrlIos",
-      "pictureSource": "ESPN Deportes",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEFWmoKe50sm-h8XDahebwVu6PjLKwGhh2ZdREvI8S-OqomBJK_1uVVKUgz4Y",
+      "pictureSource": "AS Colombia",
       "relatedSearch": [
         {
-          "title": "Colombia venció a Jordania con doblete de Arias en amistoso previo al Mundial",
+          "title": "Lorenzo, satisfecho con el último amistoso: “Jordania es parecida a Uzbekistán, fue beneficioso enfrentarla”",
           "snippet": "",
-          "url": "https://espndeportes.espn.com/futbol/mundial/nota/_/id/16796363/colombia-vs-jordania-amistoso-equipo-fecha-hora-y-tv-en-vivo",
-          "source": "ESPN Deportes"
+          "url": "https://colombia.as.com/futbol/mundial/lorenzo-satisfecho-con-el-ultimo-amistoso-jordania-es-parecida-a-uzbekistan-fue-beneficioso-enfrentarla-f202606-n/",
+          "source": "AS Colombia"
         },
         {
           "title": "¿Cómo quedó Colombia vs Jordania? Rumbo al Mundial 2026: James Rodríguez brilla y les espera Guadalajara",
@@ -77,10 +151,10 @@
           "source": "MARCA"
         },
         {
-          "title": "Lorenzo, satisfecho con el último amistoso: “Jordania es parecida a Uzbekistán, fue beneficioso enfrentarla”",
+          "title": "VIDEO: Jhon Arias abrió el marcador y puso la ventaja para Colombia ante Jordania",
           "snippet": "",
-          "url": "https://colombia.as.com/futbol/mundial/lorenzo-satisfecho-con-el-ultimo-amistoso-jordania-es-parecida-a-uzbekistan-fue-beneficioso-enfrentarla-f202606-n/",
-          "source": "AS Colombia"
+          "url": "https://www.directvsports.com/futbol/video-jhon-arias-abrio-el-marcador-y-puso-la-ventaja-para-colombia-ante-jordania-20260607-0033.html",
+          "source": "DSports"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,26 +163,26 @@
       "title": "camilo perez",
       "trafficCount": "200+",
       "pubDate": "Sun, 7 Jun 2026 14:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRktKeFqM_aaQOnXJ-jFt2he_Do-Le08s4-VjSrFfw_ZjavO17oUrzUWUwAv0",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHlrt_Bvzp5N7f8cSh8fOJ09EL7tBEiS_X4-3k5vBi-7MqDLBrzrVW7IyLaAM",
       "pictureSource": "ABC Color",
       "relatedSearch": [
         {
-          "title": "¿Quién es Camilo Pérez, el elegido del cartismo como candidato a la intendencia de Asunción?",
+          "title": "Internas ANR: Latorre anuncia reunión de abrazo republicano",
           "snippet": "",
-          "url": "https://www.abc.com.py/politica/2026/06/07/quien-es-camilo-perez-el-elegido-del-cartismo-como-candidato-a-la-intendencia-de-asuncion/",
+          "url": "https://www.abc.com.py/politica/2026/06/08/internas-anr-latorre-celebra-triunfo-de-perez-y-anuncia-reunion-de-abrazo-con-colorado-anetete/",
           "source": "ABC Color"
+        },
+        {
+          "title": "Camilo toma distancia sobre Arnaldo tras primeros datos del TREP",
+          "snippet": "",
+          "url": "https://www.hoy.com.py/politica/2026/06/07/camilo-toma-distancia-sobre-arnaldo-tras-primeros-datos-del-trep",
+          "source": "Diario HOY – En Paraguay y el Mundo"
         },
         {
           "title": "Tribunal electoral de la ANR estima participación entre el 37 al 40 %",
           "snippet": "",
           "url": "https://www.lanacion.com.py/politica/2026/06/07/tribunal-electoral-de-la-anr-estima-participacion-entre-el-37-al-40/",
           "source": "La Nación"
-        },
-        {
-          "title": "Con 35% de los votos, Camilo Pérez duplica a Arnaldo Samaniego en Asunción",
-          "snippet": "",
-          "url": "https://www.ultimahora.com/con-35-de-porcentaje-escrutado-camilo-perez-duplica-a-arnaldo-samaniego-en-asuncion",
-          "source": "Última Hora"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -142,65 +216,9 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "tsje elecciones municipales 2026",
-      "trafficCount": "500+",
+      "title": "tsje resultados",
+      "trafficCount": "10000+",
       "pubDate": "Sun, 7 Jun 2026 12:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrzWrJsliz7RAnkQH4uuRuPBmdkQiTc8Hp6j1vUPAE4wEVTs9zWw4-9Z7MYzA",
-      "pictureSource": "ABC Color",
-      "relatedSearch": [
-        {
-          "title": "Elecciones internas: estos son los ganadores de ANR en Central, según TREP",
-          "snippet": "",
-          "url": "https://www.abc.com.py/politica/2026/06/07/elecciones-internas-estos-son-los-ganadores-de-anr-en-central-segun-trep/",
-          "source": "ABC Color"
-        },
-        {
-          "title": "HC arrasa en Central al imponerse en 18 de los 19 distritos en disputa",
-          "snippet": "",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/06/08/hc-arrasa-en-central-al-imponerse-en-18-de-los-19-distritos-en-disputa/",
-          "source": "La Nación"
-        },
-        {
-          "title": "Con una sola excepción, Central queda bajo dominio de Honor Colorado",
-          "snippet": "",
-          "url": "https://www.hoy.com.py/politica/2026/06/07/con-una-sola-excepcion-central-queda-bajo-dominio-de-honor-colorado",
-          "source": "Diario HOY – En Paraguay y el Mundo"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ecuador - guatemala",
-      "trafficCount": "2000+",
-      "pubDate": "Sun, 7 Jun 2026 12:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc2d51FHDvHZ-ZDdYcJ6HN4hTkSffHERr6w9DT1OWgPWbIwXpgU7Rwdj6pWgg",
-      "pictureSource": "Versus",
-      "relatedSearch": [
-        {
-          "title": "Ecuador golea a Guatemala en su último amistoso previo al Mundial 2026",
-          "snippet": "",
-          "url": "https://www.vssports.com.py/versus/2026/06/07/ecuador-golea-a-guatemala-en-su-ultimo-amistoso-previo-al-mundial-2026",
-          "source": "Versus"
-        },
-        {
-          "title": "Pervis Estupiñán cree a muerte en el grupo de La Tri para encarar el Mundial (VIDEO)",
-          "snippet": "",
-          "url": "https://onefootball.com/es/noticias/pervis-estupinan-cree-a-muerte-en-el-grupo-de-la-tri-para-encarar-el-mundial-video-42978882",
-          "source": "OneFootball"
-        },
-        {
-          "title": "SE DEMORÓ EL INICIO: El cambio de buzo en el portero de Guatemala ante Ecuador",
-          "snippet": "",
-          "url": "https://studiofutbol.com.ec/2026/06/07/se-demoro-el-inicio-el-cambio-de-buzo-en-el-portero-de-guatemala-ante-ecuador/",
-          "source": "Studiofutbol"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "trep resultados",
-      "trafficCount": "20000+",
-      "pubDate": "Sun, 7 Jun 2026 12:00:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz7ocm7g9K0vJ_2UQPLityk5lEmgSoNAZlolekKbKzs0UI1qVVKc--0ztuxPA",
       "pictureSource": "ABC Color",
       "relatedSearch": [
@@ -221,62 +239,6 @@
           "snippet": "",
           "url": "https://www.hoy.com.py/politica/2026/06/07/a-las-2000-se-conocera-a-los-ganadores-de-las-elecciones",
           "source": "Diario HOY – En Paraguay y el Mundo"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "grecia - italia",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 7 Jun 2026 11:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK5fHpG3xyGdVvujwrb5yeytSpBAO5jlkc7OoFR1Gh26j4FU-tehwcfZIBIoI",
-      "pictureSource": "Versus",
-      "relatedSearch": [
-        {
-          "title": "Italia, en plena reconstrucción, gana a Grecia en amistoso",
-          "snippet": "",
-          "url": "https://www.vssports.com.py/versus/2026/06/07/italia-en-plena-reconstruccion-gana-a-grecia-en-amistoso",
-          "source": "Versus"
-        },
-        {
-          "title": "Grecia 0-1 Italia: Esposito vuelve a marcar para la joven Italia de Baldini",
-          "snippet": "",
-          "url": "https://www.fotmob.com/es/news/1dpgwtff8hi011pnk0zlgqbkx8_es-grecia-0-1-italia-esposito-vuelve-marcar-para-la-joven-italia-de-baldini",
-          "source": "FotMob"
-        },
-        {
-          "title": "Baldini se despide de Italia con otra victoria",
-          "snippet": "",
-          "url": "https://as.com/futbol/internacional/baldini-se-despide-de-italia-con-otra-victoria-f202606-n/",
-          "source": "Diario AS"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "marruecos - noruega",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 7 Jun 2026 11:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-_w5NHa02P6wJvxBp8Olybz9IS97AQLyBL4sD2kcXXlPvct2ekCwNshLpRa0",
-      "pictureSource": "Infobae",
-      "relatedSearch": [
-        {
-          "title": "Alerta en Marruecos: dos de sus figuras fueron reemplazadas por lesión a días del debut en el Mundial",
-          "snippet": "",
-          "url": "https://www.infobae.com/deportes/2026/06/07/alerta-en-marruecos-dos-de-sus-figuras-fueron-reemplazadas-por-lesion-a-dias-del-debut-en-el-mundial/",
-          "source": "Infobae"
-        },
-        {
-          "title": "Marruecos y Noruega empatan en ensayo rumbo al Mundial",
-          "snippet": "",
-          "url": "https://espndeportes.espn.com/futbol/mundial/nota/_/id/16809624/marruecos-noruega-partido-amistoso-mundial-2026",
-          "source": "ESPN Deportes"
-        },
-        {
-          "title": "Odegaard frena a Brahim",
-          "snippet": "",
-          "url": "https://as.com/futbol/internacional/odegaard-frena-a-brahim-f202606-n/",
-          "source": "Diario AS"
         }
       ],
       "link": "https://imtaqin.id/"

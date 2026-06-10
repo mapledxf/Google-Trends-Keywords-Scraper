@@ -1,37 +1,177 @@
 {
-  "lastUpdate": "2026-06-10 13:51:39",
+  "lastUpdate": "2026-06-10 16:52:01",
   "data": [
     {
-      "title": "הפלג הירושלמי",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 10 Jun 2026 06:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPIttn4og_d0cKaVE6BunV7zb2TI5WKl5UeJT-rwyThXx2WCmzAQbhUShzRSY",
+      "title": "בסיס רמת דוד",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 10 Jun 2026 08:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6DFhy6pJ8wrU3yohmNzl7R0DRZV53Zs2CMN6TkU4dpL2W6uI3YPqA-CWgJ-U",
       "pictureSource": "ynet",
       "relatedSearch": [
         {
-          "title": "החרדים: הפגנות ב-4 מוקדים בגלל \"העברה לצה\"ל של עריקים שנעצרו מול בית סולברג\"",
+          "title": "בצה\"ל מאשרים: הייתה פגיעה בבסיס חיל האוויר ברמת דוד בירי האיראני",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/news/article/ttrdbrbi7",
+          "source": "ynet"
+        },
+        {
+          "title": "בצה\"ל מאשרים: בסיס חיל האוויר רמת דוד נפגע במטח מאיראן",
+          "snippet": "",
+          "url": "https://www.kan.org.il/content/kan-news/defense/1051308/",
+          "source": "כאן 11"
+        },
+        {
+          "title": "צה\"ל מאשר: חלק מטיל איראני פגע בבסיס חיל האוויר",
+          "snippet": "",
+          "url": "https://www.mako.co.il/news-military/2026_q2/Article-d7b6cea37a1be91027.htm",
+          "source": "mako"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "חברת תעופה",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 10 Jun 2026 08:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTssU5yB9xfoqaRLSXR-_aFBMpZ0hO-tBqTX6mBVPUxDNjozK5ju8FFAYAzJiw",
+      "pictureSource": "ynet",
+      "relatedSearch": [
+        {
+          "title": "ההסלמה מול איראן: אלה חברות התעופה שביטלו טיסות לישראל",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/vacation/flights/article/bkdwqsmbfl",
+          "source": "ynet"
+        },
+        {
+          "title": "\"אף טיסה לא בוטלה\": איך השפיע הירי מאיראן על נתב\"ג?",
+          "snippet": "",
+          "url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s1/1050450/",
+          "source": "כאן 11"
+        },
+        {
+          "title": "וויז אייר מבטלת את טיסותיה בישראל ביומיים הקרובים",
+          "snippet": "",
+          "url": "https://www.calcalist.co.il/local_news/article/r1eyzxezgl",
+          "source": "calcalist"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ויניסיוס ז וניור",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 10 Jun 2026 07:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJ-ryQRdfvifNSBr20_VT8F6YSn0wBOnvkn2CONACjSdPZvR_It2xzGNLZk7s",
+      "pictureSource": "ספורט 1",
+      "relatedSearch": [
+        {
+          "title": "לזה לא ציפו בריאל מדריד: ויניסיוס קיבל החלטה דרמטית לגבי עתידו",
+          "snippet": "",
+          "url": "https://sport1.maariv.co.il/world-soccer/article/1870330/",
+          "source": "ספורט 1"
+        },
+        {
+          "title": "מונדיאל 2026 עשוי להכריע את עתידו של ויניסיוס.",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/he/world-cup-2026-co-the-quyet-dinh-tuong-lai-vinicius",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "דאגה בברצלונה: זה מה שעלול לשבש את התוכניות סביב לאמין ימאל",
+          "snippet": "",
+          "url": "https://sport1.maariv.co.il/mundial-2026/article/1870113/",
+          "source": "ספורט 1"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "авиакомпания",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 10 Jun 2026 07:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9XDcwt0XP4gXCyev3fWfWfFyTWRFtSfrtiOHmQWUCZ6_B4IWesE_fSkeQbTk",
+      "pictureSource": "Финансы Mail",
+      "relatedSearch": [
+        {
+          "title": "Авиакомпании готовятся отменить десятки тысяч рейсов: причины, сроки, прогнозы IATA",
+          "snippet": "",
+          "url": "https://finance.mail.ru/article/ft-aviakompanii-mogut-sokratit-chislo-rejsov-zimoj-69212513/",
+          "source": "Финансы Mail"
+        },
+        {
+          "title": "Как конфликт на Ближнем Востоке скажется на мировой авиационной отрасли",
+          "snippet": "",
+          "url": "https://forbes.kz/articles/kak-konflikt-na-blizhnem-vostoke-skazhetsya-na-mirovoy-aviatsionnoy-otrasli-383b46",
+          "source": "Forbes.kz"
+        },
+        {
+          "title": "Бюджетные авиакомпании оказались на грани банкротства",
+          "snippet": "",
+          "url": "https://cursorinfo.co.il/economics/byudzhetnye-aviakompanii-okazalis-na-grani-bankrotstva/",
+          "source": "Cursorinfo"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "תאיר איפרגן",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 10 Jun 2026 06:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjbEafK4fx_DoJT1Pd38JL6_hIJqI_yvb9PyzxQCR6da9KpR_grrXCu81jCiU",
+      "pictureSource": "TheMarker",
+      "relatedSearch": [
+        {
+          "title": "המנכ\"ליות נוהרות לפוליטיקה: תאיר איפרגן מצטרפת אל גדי איזנקוט",
+          "snippet": "",
+          "url": "https://www.themarker.com/news/2026-06-10/ty-article/0000019e-b1e5-d0c7-a5fe-b7f747ee0000",
+          "source": "TheMarker"
+        },
+        {
+          "title": "חיזוק נוסף: המנכ\"לית לשעבר מצטרפת לאיזנקוט",
+          "snippet": "",
+          "url": "https://www.srugim.co.il/101003790-%D7%97%D7%99%D7%96%D7%95%D7%A7-%D7%A0%D7%95%D7%A1%D7%A3-%D7%94%D7%9E%D7%A0%D7%9B%D7%9C%D7%99%D7%AA-%D7%9C%D7%A9%D7%A2%D7%91%D7%A8-%D7%9E%D7%A6%D7%98%D7%A8%D7%A4%D7%AA-%D7%9C%D7%90%D7%99%D7%96%D7%A0%D7%A7%D7%95%D7%98",
+          "source": "סרוגים"
+        },
+        {
+          "title": "איזנקוט הודיע: זו המצטרפת החדשה למפלגת \"ישר!\"",
+          "snippet": "",
+          "url": "https://www.israelhayom.co.il/news/politics/article/20732403",
+          "source": "היום"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "הפלג הירושלמי",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 10 Jun 2026 06:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDG1cMU4fl0hzGk_tBbBc5OhxAEyMcwqIH98ayXMgpnFDO2w2g7TtSA58xEiU",
+      "pictureSource": "ynet",
+      "relatedSearch": [
+        {
+          "title": "מהומות בירושלים ובאבו כביר: מכת\"זית ופרשים מול חרדים שניסו למנוע העברת עריקים",
           "snippet": "",
           "url": "https://www.ynet.co.il/news/article/hkbvdclzgl",
           "source": "ynet"
         },
         {
-          "title": "המוני חרדים מפגינים באבו כביר: מחאות הפלג הירושלמי על רקע מעצרי העריקים",
+          "title": "עריקים הוסגרו, ובפלג הירושלמי איימו: \"הפגנות שטרם נראו\"",
           "snippet": "",
-          "url": "https://www.mako.co.il/news-israel/2026_q2/Article-11d0c3f8f71be91027.htm",
-          "source": "mako"
+          "url": "https://www.kan.org.il/content/kan-news/local/1051275/",
+          "source": "כאן 11"
         },
         {
-          "title": "המחאות הסוערות שצפויות מחר במרכז - ו\"מפת החסימות\" של הפלג הירושלמי",
+          "title": "מאות חרדים הפגינו מול מתקני מעצר ומתעמתים עם המשטרה בשל מעצר עריקים",
           "snippet": "",
-          "url": "https://www.bhol.co.il/news/1730080",
-          "source": "בחדרי חרדים"
+          "url": "https://www.haaretz.co.il/news/law/2026-06-10/ty-article/.premium/0000019e-b1a9-d02c-afbf-fbaf42aa0000",
+          "source": "הארץ"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "אלי שרעבי",
-      "trafficCount": "500+",
+      "trafficCount": "2000+",
       "pubDate": "Wed, 10 Jun 2026 06:00:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSI3Ooz57zPirTuP9vovq4oE37kWRGgm7dlOqlhoIl1NBhB511rViYlNAfI7d4",
       "pictureSource": "מעריב",
@@ -49,10 +189,10 @@
           "source": "כאן 11"
         },
         {
-          "title": "אלי שרעבי על נתניהו: \"זה לא משהו שאני צריך או מצפה לו\"",
+          "title": "אלי שרעבי תוקף את נתניהו: \"נאיביות לחשוב שמשהו ישתנה\"",
           "snippet": "",
-          "url": "https://www.maariv.co.il/breaking-news/article-1331399",
-          "source": "מעריב"
+          "url": "https://www.srugim.co.il/101003775-%D7%90%D7%9C%D7%99-%D7%A9%D7%A8%D7%A2%D7%91%D7%99-%D7%AA%D7%95%D7%A7%D7%A3-%D7%90%D7%AA-%D7%A0%D7%AA%D7%A0%D7%99%D7%94%D7%95-%D7%A0%D7%90%D7%99%D7%91%D7%99%D7%95%D7%AA-%D7%9C%D7%97%D7%A9%D7%95%D7%91-%D7%A9%D7%9E%D7%A9%D7%94%D7%95-%D7%99%D7%A9%D7%AA%D7%A0%D7%94",
+          "source": "סרוגים"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,26 +201,26 @@
       "title": "אקזיט",
       "trafficCount": "200+",
       "pubDate": "Wed, 10 Jun 2026 05:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd_5s2oCWF586j3iULz8tTkrNGPqANJE0LHi-3hfr6FppEHebwq1IMJDWhEEY",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQa6N5MCx1CSJpypZOuzuAc2PUZ4g22CGIkhWLdU7OHfpOkWYSIR9VDpdmHp0E",
       "pictureSource": "calcalist",
       "relatedSearch": [
         {
-          "title": "דיווח: פיוניר במו\"מ למכירתה לחברה קנדית ב-2.7 מיליארד דולר",
+          "title": "האקזיט של רמת רחל: הקיבוץ מוכר שני בניינים באשקלון ב-105 מיליון שקל",
           "snippet": "",
-          "url": "https://www.calcalist.co.il/calcalistech/article/s1xnjxibzx",
+          "url": "https://www.calcalist.co.il/real-estate/article/hyhe9xdwge",
           "source": "calcalist"
         },
         {
-          "title": "החברה שבדרך לאקזיט של 2.7 מיליארד דולר, והקשר הישראלי",
+          "title": "פנטהאוז חתמה על מזכר הבנות לרכישת מקבץ דיור בן 170 יחידות באשקלון תמורת 105 מיליון ₪ מאת Investing.com",
           "snippet": "",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001545459",
-          "source": "גלובס"
+          "url": "https://il.investing.com/news/global-filings/article-93CH-875618",
+          "source": "Investing.com Israel"
         },
         {
-          "title": "דיווח: החברה שהקימו ישראלים תימכר במיליארדים",
+          "title": "170 יחידות דיור ועמידר כשוכרת: פנטהאוז בדרך לעסקה של 105 מיליון שקל",
           "snippet": "",
-          "url": "https://www.mako.co.il/nexter-news/Article-c6323d02340be91026.htm",
-          "source": "mako"
+          "url": "https://passportnews.co.il/article/206667",
+          "source": "PassportNews"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,10 +239,10 @@
           "source": "ynet"
         },
         {
-          "title": "האיום הגדול ביותר על ישראל היא טורקיה, לא איראן",
+          "title": "יומן מלחמה: יום רביעי, 10 ביוני 2026",
           "snippet": "",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001545508",
-          "source": "גלובס"
+          "url": "https://www.zman.co.il/693491/",
+          "source": "זמן ישראל"
         },
         {
           "title": "ארדואן: ישראל - איום על טורקיה; נתניהו: רודן אנטישמי",
@@ -117,14 +257,14 @@
       "title": "חוק יסוד לימוד תורה",
       "trafficCount": "1000+",
       "pubDate": "Wed, 10 Jun 2026 04:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9lNnx20vaFnp5D9kF3odDVHlf4UW3hhDvZG2fcO2J-aCpZqRrzb9njd6dv70",
-      "pictureSource": "הארץ",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnFCyyGGJnmdbEaJhn8H_ETfxCbdCliU2Uu5fyY6POv05AfsNEUvWCGE4Sk2c",
+      "pictureSource": "ynet",
       "relatedSearch": [
         {
-          "title": "הכנסת אישרה בטרומית חוק יסוד שיעניק מעמד מיוחד ללומדי תורה",
+          "title": "\"לא אעשה שקר בנפשי\": סמוטריץ' העניש ח\"כ שמרד בהצבעה על \"חוק יסוד לימוד תורה\"",
           "snippet": "",
-          "url": "https://www.haaretz.co.il/news/elections/2026-06-10/ty-article/0000019e-b132-dd6c-a3df-f176dd390000",
-          "source": "הארץ"
+          "url": "https://www.ynet.co.il/news/article/syxj1lpzfx",
+          "source": "ynet"
         },
         {
           "title": "אם הרב הראשי מלשין על בית עסק ומתגאה בזה — ישראל במכירת חיסול",
@@ -133,131 +273,10 @@
           "source": "TheMarker"
         },
         {
-          "title": "4 ח\"כים מהקואליציה מרדו: מהומה בכנסת בהצבעה על חוק יסוד: לימוד תורה",
+          "title": "הכנסת אישרה בטרומית חוק יסוד שיעניק מעמד מיוחד ללומדי תורה",
           "snippet": "",
-          "url": "https://www.mako.co.il/news-politics/2026_q2/Article-8deb2285f21be91026.htm",
-          "source": "mako"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "экономика",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 10 Jun 2026 03:40:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "מיכל ויצמן",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 10 Jun 2026 03:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0Peil4CORtCZ5sQQJ75qyg2LPqZIHP2UZeedxXC2ai7-FT6ShOyJoxjZgCoI",
-      "pictureSource": "mako",
-      "relatedSearch": [
-        {
-          "title": "45 מיליון שקלים וזה שלכם: מיכל הקטנה והגרוש מוכרים את הפנטהאוז",
-          "snippet": "",
-          "url": "https://www.mako.co.il/entertainment-celebs/local-2026/Article-5c07ead4d80be91026.htm",
-          "source": "mako"
-        },
-        {
-          "title": "תמורת 45 מיליון שקל: מיכל הקטנה וניר ויצמן מוכרים את הפנטהאוז בתל אביב",
-          "snippet": "",
-          "url": "https://pplus.ynet.co.il/rechilut/article/syzixcibfg",
-          "source": "פנאי פלוס"
-        },
-        {
-          "title": "תג מחיר מסחרר: דירת הפאר של מיכל הקטנה והגרוש ניר ויצמן מוצעת ב-45 מיליון שקל",
-          "snippet": "",
-          "url": "https://www.maariv.co.il/breaking-news/article-1331335",
-          "source": "מעריב"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "מס",
-      "trafficCount": "2000+",
-      "pubDate": "Wed, 10 Jun 2026 02:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvU9_G2_wrd8IPM2Yx5puRtngmlUyHSICcNxiefSd4T2qIFnTyPn1KlVk4baA",
-      "pictureSource": "מעריב",
-      "relatedSearch": [
-        {
-          "title": "תשכחו מאילת ומעלי אקספרס: הגזירה החדשה שתעלה לכל משפחה אלפי שקלים בשנה",
-          "snippet": "",
-          "url": "https://www.maariv.co.il/breaking-news/article-1331272",
-          "source": "מעריב"
-        },
-        {
-          "title": "הסוף לפטור ממע\"מ באילת? הגזרות החדשות של רשות המסים",
-          "snippet": "",
-          "url": "https://www.ice.co.il/finance/news/article/1116354",
-          "source": "ice (אייס)"
-        },
-        {
-          "title": "סוף לפטור המוכר: הגזירה הדרמטית של רשות המסים שתעלה לבעלי הדירות ביוקר",
-          "snippet": "",
-          "url": "https://www.maariv.co.il/economy/israel/article-1331131",
-          "source": "מעריב"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "אירופה",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 10 Jun 2026 01:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6M-Z13tUkAcBeFOhgxiBVtq1FM6GsPGkaYtHoNhJU3pbRJFQfuJ46-FaLHJ0",
-      "pictureSource": "מידה",
-      "relatedSearch": [
-        {
-          "title": "האם אפשר להציל את אירופה?",
-          "snippet": "",
-          "url": "https://mida.org.il/2026/06/10/%D7%94%D7%90%D7%9D-%D7%90%D7%A4%D7%A9%D7%A8-%D7%9C%D7%94%D7%A6%D7%99%D7%9C-%D7%90%D7%AA-%D7%90%D7%99%D7%A8%D7%95%D7%A4%D7%94/",
-          "source": "מידה"
-        },
-        {
-          "title": "לונדוניסטן ופריז הבוערת: ההשלכות הכלכליות של משבר ההגירה באירופה - והאם עדיין כדאי לארוז מזוודות?",
-          "snippet": "",
-          "url": "https://www.bizportal.co.il/globalmarkets/news/article/20033293",
-          "source": "ביזפורטל"
-        },
-        {
-          "title": "\"מזימה קטלנית\": אירופה ומדינות המערב בגינוי נגד משמרות המהפכה",
-          "snippet": "",
-          "url": "https://www.maariv.co.il/breaking-news/article-1331418",
-          "source": "מעריב"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "משפחת המלוכה הבריטית",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 10 Jun 2026 00:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv3hg62aU3xhWsp54hfKCITpPAjWWpaQgqoYewgtgsWfnvviqBiSMcEmgxF1c",
-      "pictureSource": "כיפה",
-      "relatedSearch": [
-        {
-          "title": "הלוק הצנוע של קייט מידלטון גנב את ההצגה בזכות דבר אחד",
-          "snippet": "",
-          "url": "https://www.kipa.co.il/%D7%9C%D7%99%D7%99%D7%A3-%D7%A1%D7%98%D7%99%D7%99%D7%9C/%D7%90%D7%95%D7%A4%D7%A0%D7%94/1225737-0/",
-          "source": "כיפה"
-        },
-        {
-          "title": "בלי הארי ומייגן: אחיינו של המלך צ'ארלס התחתן בשנית",
-          "snippet": "",
-          "url": "https://www.mako.co.il/entertainment-celebs/world-2026/Article-d1975903070ae91026.htm",
-          "source": "mako"
-        },
-        {
-          "title": "קייט מידלטון גנבה את ההצגה בחתונה המלכותית - בזכות פריט קטן",
-          "snippet": "",
-          "url": "https://www.c14.co.il/article/1579454",
-          "source": "C14"
+          "url": "https://www.haaretz.co.il/news/elections/2026-06-10/ty-article/0000019e-b132-dd6c-a3df-f176dd390000",
+          "source": "הארץ"
         }
       ],
       "link": "https://imtaqin.id/"

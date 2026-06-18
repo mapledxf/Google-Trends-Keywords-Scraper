@@ -1,52 +1,182 @@
 {
-  "lastUpdate": "2026-06-18 07:28:00",
+  "lastUpdate": "2026-06-18 11:34:55",
   "data": [
     {
-      "title": "геолокация",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 17 Jun 2026 21:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdzrxkLhFzgx11W3XelLunlM-2uPeh2-6d_5JxxYsSdeY1pBUoZkPnIkfnZaI",
+      "title": "синоптика",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 18 Jun 2026 04:20:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "элина свитолина",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 18 Jun 2026 04:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRyBlp70lCmd9hLcxWQ5iSflRLml59q922WMWQAQz77Na_2ZuCn-xkCokQE8o4",
+      "pictureSource": "Sportbox",
+      "relatedSearch": [
+        {
+          "title": "Российская теннисистка Калинская не доиграла матч против Свитолиной из‑за травмы",
+          "snippet": "",
+          "url": "https://news.sportbox.ru/Vidy_sporta/Tennis/spbnews_NI2335753_Rossijskaja_tennisistka_Kalinskaja_ne_doigrala_match_protiv_Svitolinoj_izza_travmy",
+          "source": "Sportbox"
+        },
+        {
+          "title": "\"Отправлюсь на концерт\". Элина Свитолина рассказала, что будет делать, если не дойдёт до финала турнира в Берлине",
+          "snippet": "",
+          "url": "https://gotennis.ru/read/news/otpravlyus_na_kontsert__elina_svitolina_rasskazala_chto_budet_delat_esli_ne_dojidyot_do_finala_turni.html",
+          "source": "GoTennis.ru"
+        },
+        {
+          "title": "Элина Свитолина – Ева Лис. Прогноз и анонс на матч WTA 500 в Берлине",
+          "snippet": "",
+          "url": "https://sport.ua/news/880639-elina-svitolina-eva-lis-prognoz-i-anons-na-match-wta-500-v-berline",
+          "source": "Sport.ua"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "новости москва",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 18 Jun 2026 02:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROGwmEmwV6TcL9Wm2WLSOAoZ8SkzuAMbnfqDSWF5zFYuFUwO9fFLug59eSjdQ",
+      "pictureSource": "Euronews",
+      "relatedSearch": [
+        {
+          "title": "Украина массово атаковала Москву: снова под ударом НПЗ в Капотне",
+          "snippet": "",
+          "url": "https://ru.euronews.com/my-europe/2026/06/18/massive-ukrainian-drone-attack-targets-moscow-oil-refinery-local-authorities-say",
+          "source": "Euronews"
+        },
+        {
+          "title": "Беспилотники ударили по Московскому нефтеперерабатывающему заводу",
+          "snippet": "",
+          "url": "https://www.interfax.ru/moscow/1096649",
+          "source": "Интерфакс"
+        },
+        {
+          "title": "Главное об атаке беспилотников на Москву и регионы России",
+          "snippet": "",
+          "url": "https://www.vedomosti.ru/society/articles/2026/06/18/1206890-ob-atake-bespilotnikov",
+          "source": "Ведомости"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "атака",
+      "trafficCount": "5000+",
+      "pubDate": "Thu, 18 Jun 2026 02:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcUqBHOiZMFjKUL61_GLAz9kL2sYgd4ROuCGZBI312CjCoLqImSbFAlC8mYPM",
       "pictureSource": "Новости Беларуси | БелТА",
       "relatedSearch": [
         {
-          "title": "Можно ли не передавать свою геолокацию в банки, рассказали в Нацбанке",
+          "title": "Лукашенко прокомментировал атаку дрона на автобус с гражданами Беларуси",
           "snippet": "",
-          "url": "https://belta.by/economics/view/mozhno-li-ne-peredavat-svoju-geolokatsiju-v-banki-rasskazali-v-natsbanke-786742-2026/",
+          "url": "https://belta.by/president/view/lukashenko-prokommentiroval-ataku-drona-na-avtobus-s-grazhdanami-belarusi-786866-2026/",
           "source": "Новости Беларуси | БелТА"
         },
         {
-          "title": "Можно ли отказаться от передачи геолокации в банки – отвечает Нацбанк",
+          "title": "Доклад о предложениях по корректировке мероприятий Плана строительства и развития Вооруженных Сил на 2026-2030 годы",
           "snippet": "",
-          "url": "https://tochka.by/articles/technology/mozhno_li_otkazatsya_ot_peredachi_geolokatsii_v_banki_otvechaet_natsbank/",
-          "source": "Tochka.by"
+          "url": "https://president.gov.by/ru/events/doklad-o-predlozeniah-po-korrektirovke-meropriatij-plana-stroitel-stva-i-razvitia-vooruzennyh-sil-na-2026-2030-gody",
+          "source": "Официальный интернет-портал Президента Республики Беларусь"
         },
         {
-          "title": "«В авторизации будет отказано». Учитывайте эти нюансы, пользуясь банковским приложением",
+          "title": "Идет эвакуация белорусов, попавших под удар БПЛА под Брянском: что известно",
           "snippet": "",
-          "url": "https://money.onliner.by/2026/06/16/ne-udivlyajtes-i-ne-pugajtes-ocherednoj-bank-poprosit-u-klientov-dostup-k-geolokacii",
+          "url": "https://people.onliner.by/2026/06/18/idet-evakuaciya",
           "source": "Onlíner"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "узбекистан колумбия",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 17 Jun 2026 20:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5OcspY11c1V_9y9WCDcD98Hx0XkRULU1PsUS2JbAp4XM8cweVinym-TJwme0",
-      "pictureSource": "Sportbox",
+      "title": "москва новости",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 18 Jun 2026 01:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWvw19ZpqvSi4IVGVUUbt0vls77FK-liuPZYSokhGRjthavBr-mZC6mXHkjHo",
+      "pictureSource": "Новости Беларуси | БелТА",
       "relatedSearch": [
         {
-          "title": "Узбекистан - Колумбия. Голы и лучшие моменты (видео). Чемпионат мира-2026. Футбол",
+          "title": "\"Аэрофлот\" отменил два рейса Москва-Минск-Москва",
           "snippet": "",
-          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbvideo_NI2336366_clip_Uzbekistan___Kolumbija_Goly_i_luchshije_momenty_video_Chempionat_mira_2026_Futbol",
-          "source": "Sportbox"
+          "url": "https://belta.by/society/view/aeroflot-otmenil-dva-rejsa-moskva-minsk-moskva-786852-2026/",
+          "source": "Новости Беларуси | БелТА"
         },
+        {
+          "title": "Новая атака беспилотников на Москву побила двухлетний рекорд: уничтожено около 200 БПЛА",
+          "snippet": "",
+          "url": "https://ont.by/ru/accidents-ru/view/novaja-ataka-bespilotnikov-na-moskvu-pobila-dvuxletnij-rekord-unichtozheno-okolo-200-bpla-320425-2026",
+          "source": "ОНТ"
+        },
+        {
+          "title": "Из-за атаки дронов \"Аэрофлот\" отменил четыре рейса между Москвой и Минском",
+          "snippet": "",
+          "url": "https://pozirk.online/ru/news/192363/",
+          "source": "Позірк"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "вооружённые силы российской федерации",
+      "trafficCount": "1000+",
+      "pubDate": "Thu, 18 Jun 2026 01:20:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "геолокация",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 17 Jun 2026 21:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNy6Ui8VfSeSQ6Iw1Kah_TrcqXGRaZlE3sHgo3zwtuXOWzROWDH1qGzmOvChc",
+      "pictureSource": "Onlíner",
+      "relatedSearch": [
+        {
+          "title": "«В авторизации будет отказано». Учитывайте эти нюансы, пользуясь банковским приложением",
+          "snippet": "",
+          "url": "https://money.onliner.by/2026/06/16/ne-udivlyajtes-i-ne-pugajtes-ocherednoj-bank-poprosit-u-klientov-dostup-k-geolokacii",
+          "source": "Onlíner"
+        },
+        {
+          "title": "Можно ли отказаться от передачи геолокации в банки – ответил Нацбанк",
+          "snippet": "",
+          "url": "https://tochka.by/articles/technology/mozhno_li_otkazatsya_ot_peredachi_geolokatsii_v_banki_otvechaet_natsbank/",
+          "source": "Tochka.by"
+        },
+        {
+          "title": "«Цифровой шпионаж»: зачем банкам запрашивать геолокацию?",
+          "snippet": "",
+          "url": "https://ont.by/ru/society-ru/view/tsifrovoj-shpionazh-zachem-bankam-zaprashivat-geolokatsiju-320375-2026",
+          "source": "ОНТ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "узбекистан колумбия",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 17 Jun 2026 20:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_8sPVNizh9a0SUwNyDrmBOErXz37BneZLV88OSgyq1M5kku_SdOL4IiT1n-k",
+      "pictureSource": "СБ. Беларусь сегодня",
+      "relatedSearch": [
         {
           "title": "Команда Узбекистана дебютировала на ЧМ по футболу с поражения от сборной Колумбии",
           "snippet": "",
           "url": "https://www.sb.by/articles/komanda-uzbekistana-debyutirovala-na-chm-po-futbolu-s-porazheniya-ot-sbornoy-kolumbii.html",
           "source": "СБ. Беларусь сегодня"
+        },
+        {
+          "title": "Гол Аббосбека Файзуллаева. Узбекистан - Колумбия. 1:1 (видео). Чемпионат мира-2026. Футбол",
+          "snippet": "",
+          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbvideo_NI2336351_clip_Gol_Abbosbeka_Fajzullajeva_Uzbekistan___Kolumbija_11_video_Chempionat_mira_2026_Futbol",
+          "source": "Sportbox"
         },
         {
           "title": "ЧМ-2026. Группа \"К\". Дебютный гол, мастер-класс от Диаса и один пострадавший оператор: Узбекистан с Хусановым стартовал на чемпионате мира с поражения - Новости : football.by",
@@ -58,29 +188,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "чемпионат мира по футболу",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 17 Jun 2026 20:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSol2i4uS2H4XFdZA90zzD1kgmhAgI69-9hrqo7ef3cehN4WgKMtABhAxwFBBg",
-      "pictureSource": "Новая газета",
+      "title": "чм по футболу 2026",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 17 Jun 2026 20:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQM8eVVyGJAx9ZDXZJoF9w8GpQu6u3xUbj_vHcArkfMu6NNCo08DP9Vuj2QB0g",
+      "pictureSource": "Новости Беларуси | БелТА",
       "relatedSearch": [
         {
-          "title": "Итальянская надежда Узбекистана. 52-летний Фабио Каннаваро, единственный обладатель «Золотого мяча» среди тренеров ЧМ-2026, везет «Белых волков» на их первую большую охоту — Новая Газета",
+          "title": "Месси забил три гола на старте чемпионата мира",
           "snippet": "",
-          "url": "https://novayagazeta.ru/articles/2026/06/16/italianskaia-nadezhda-uzbekistana",
-          "source": "Новая газета"
+          "url": "https://belta.by/sport/view/messi-i-holann-zabili-po-tri-gola-na-starte-chempionata-mira-786625-2026/",
+          "source": "Новости Беларуси | БелТА"
         },
         {
-          "title": "Каннаваро стал четвертым обладателем «Золотого мяча», возглавлявшим сборную на ЧМ",
+          "title": "Видео. Месси догнал Клозе по голам на ЧМ, Аргентина разгромила Алжир 3:0",
           "snippet": "",
-          "url": "https://www.sport-express.net/football/world/chempionat-mira-2026/news/fabio-kannavaro-stal-chetvertym-obladatelem-zolotogo-myacha-vozglavlyavshim-sbornuyu-na-chm-2432033/",
-          "source": "sport-express.net"
+          "url": "https://ru.euronews.com/video/2026/06/17/ru-lionel-messi-scores-first-world-cup-hat-trick-in-3-0-win-over-algeria",
+          "source": "Euronews"
         },
         {
-          "title": "Легендарный итальянец повторил уникальный результат Блохина",
+          "title": "Дневник ЧМ-2026. День 6: хет-трик Месси, дубли Мбаппе и Холанда",
           "snippet": "",
-          "url": "https://korrespondent.net/sport/football/4887432-lehendarnyi-ytalianets-povtoryl-unykalnyi-rezultat-blokhyna",
-          "source": "Korrespondent.net"
+          "url": "https://football.by/news/219836",
+          "source": "Football.by"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,7 +219,7 @@
       "title": "чемпионат мира по футболу 2026",
       "trafficCount": "100+",
       "pubDate": "Wed, 17 Jun 2026 20:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLwFBaEc69rK9B8O2vTu3i6ozLLlFsbRblHLKs1ZwdqaLnadUcKBCY04BuAMM",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7Ir-SrPJi1DPN0XOzQ6KmOhW0ZrV6nPVJlBqhvH6_6sdDsN1EEVzBCTy1iK0",
       "pictureSource": "Смартпресс",
       "relatedSearch": [
         {
@@ -105,140 +235,10 @@
           "source": "Football.by"
         },
         {
-          "title": "Первый тур ЧМ-2026 завершился поражением Узбекистана. С чего начнётся второй? LIVE дня",
+          "title": "Чемпионат мира по футболу 2026: результаты матчей и турнирная таблица",
           "snippet": "",
-          "url": "https://www.championat.ru/football/article-6510172-chempionat-mira-po-futbolu-2026-onlajn-translyaciya-18-iyunya-2026-uzbekistan-kolumbiya-gana-chehiya-yuar-shvejcariya-bosniya.html",
-          "source": "https://www.championat.ru/"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "футбол чм 2026",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 17 Jun 2026 19:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQsTDLXDUE3fu6I5Nt6O1d3zqrp1kV9lrxr2Te0EIW3utTJ7VI-gUJMRuITBqI",
-      "pictureSource": "Прессбол",
-      "relatedSearch": [
-        {
-          "title": "ЧМ-2026. Этого не показали по телевизору: по ходу встречи сборных Катара и Швейцарии на поле выбежала голая болельщица (ВИДЕО, 18+)",
-          "snippet": "",
-          "url": "https://pressball.by/news/football/chm-2026-etogo-ne-pokazali-po-televizoru-po-hodu-vstrechi-sbornyh-katara-i-shvejtsarii-na-pole-vybezhala-golaya-bolelshhitsa-video-18/",
-          "source": "Прессбол"
-        },
-        {
-          "title": "Катар пишет историю: первое очко на ЧМ в драматичном матче",
-          "snippet": "",
-          "url": "https://ru.euronews.com/2026/06/14/qatar-football-win",
-          "source": "Euronews.com"
-        },
-        {
-          "title": "Сборные Швейцарии и Катара сыграли вничью со счетом 1:1 в матче чемпионата мира по футболу",
-          "snippet": "",
-          "url": "https://www.sb.by/articles/sbornye-shveytsarii-i-katara-sygrali-vnichyu-so-schetom-1-1-v-matche-chempionata-mira-po-futbolu.html",
-          "source": "СБ. Беларусь сегодня"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "чм по футболу 2026 результаты",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 17 Jun 2026 19:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSM_rtMuXrVtvKO3wFLaA0EycurK4nYzRHKxhBfXsO4zp5F7zlAiSwuoxwqm78",
-      "pictureSource": "Zerkalo",
-      "relatedSearch": [
-        {
-          "title": "Вместо красно-зеленого флага взяли БЧБ. Эту страну сейчас обсуждает весь мир — и у нее есть забавное совпадение с Беларусью",
-          "snippet": "",
-          "url": "https://news.zerkalo.io/cellar/129658.html",
-          "source": "Zerkalo"
-        },
-        {
-          "title": "Четыре матча футбольного чемпионата мира завершились вничью",
-          "snippet": "",
-          "url": "https://belta.by/sport/view/chetyre-matcha-futbolnogo-chempionata-mira-zavershilis-vnichjju-786443-2026/",
-          "source": "Новости Беларуси | БелТА"
-        },
-        {
-          "title": "Ночной герой #5: «Бабушка», начал в 25, фолил на красную на Морозове и остановил Испанию",
-          "snippet": "",
-          "url": "https://bel.football/articles/nochnoy-geroy-5-babushka-nachal-v-25-folil-na-krasnuyu-na-morozove-i-ostanovil-ispaniyu",
-          "source": "Bel.Football"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "гомель",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 17 Jun 2026 19:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxSmkm-I0Q8Lz1H2SZiVoEISXVN9lh6Br7i5JSrLk7vy71UMEcWBu7pD9LhWk",
-      "pictureSource": "БрестСИТИ",
-      "relatedSearch": [
-        {
-          "title": "Возбуждено уголовное дело за клевету на экс-председателя Гомельского горисполкома",
-          "snippet": "",
-          "url": "https://brestcity.com/blog/gomelskogo-gorispolkoma",
-          "source": "БрестСИТИ"
-        },
-        {
-          "title": "Пропавший бывший глава Гомеля нашелся в следственном изоляторе – «Флагшток»",
-          "snippet": "",
-          "url": "https://ru.belsat.eu/93837758/privalov-nashelsya",
-          "source": "belsat.ru"
-        },
-        {
-          "title": "На бывшего руководителя Гомеля Привалова завели уголовное дело",
-          "snippet": "",
-          "url": "https://udf.name/news/society/291169-na-byvshego-rukovoditelja-gomelja-privalova-zaveli-ugolovnoe-delo.html",
-          "source": "UDF | Новости Беларуси"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "сбербанк россии",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 17 Jun 2026 19:10:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "сбербанк",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 17 Jun 2026 12:50:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "англия хорватия",
-      "trafficCount": "5000+",
-      "pubDate": "Wed, 17 Jun 2026 12:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovp0DsTtYeR_262mjbZ_dwo4bstzP_dw_qIUc8OFIYSmRrY1UNq4TldnMFvQ",
-      "pictureSource": "СБ. Беларусь сегодня",
-      "relatedSearch": [
-        {
-          "title": "Команда Англии выиграла у сборной Хорватии в матче групповой стадии чемпионата мира по футболу",
-          "snippet": "",
-          "url": "https://www.sb.by/articles/komanda-anglii-vyigrala-u-sbornoy-khorvatii-v-matche-gruppovoy-stadii-chempionata-mira-po-futbolu.html",
-          "source": "СБ. Беларусь сегодня"
-        },
-        {
-          "title": "ЧМ-2026. Группа \"L\". Англия мощно стартовала на чемпионате мира, на пару с Хорватией выдав феерию, Кейн догнал Линекера - Новости : football.by",
-          "snippet": "",
-          "url": "https://football.by/news/219889",
-          "source": "Football.by"
-        },
-        {
-          "title": "ЧМ-2026. Исторический дубль Кейна и шесть голов! Сборная Англии в залихватском матче одолела команду Хорватии",
-          "snippet": "",
-          "url": "https://pressball.by/news/football/chm-2026-istoricheskij-dubl-kejna-i-shest-golov-sbornaya-anglii-v-zalihvatskom-matche-odolela-komandu-horvatii/",
-          "source": "Прессбол"
+          "url": "https://www.olympics.com/ru/news/chempionat-mira-po-futbolu-2026-rezultaty-matchei-i-turnirnaya-tablica",
+          "source": "Olympics"
         }
       ],
       "link": "https://imtaqin.id/"

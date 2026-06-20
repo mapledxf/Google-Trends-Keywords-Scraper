@@ -1,71 +1,239 @@
 {
-  "lastUpdate": "2026-06-20 01:53:17",
+  "lastUpdate": "2026-06-20 06:06:29",
   "data": [
     {
-      "title": "haiti",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 19 Jun 2026 17:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_efXm1OhGdPfdAYIZQ3nz_8Xg6qFRmHiD7JjTWgcBhxdtYpGo5eLOg34GWi0",
+      "title": "tv tänään",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 19 Jun 2026 21:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQO-9tJm_3ALoodmf_bR6t-1avYuVIRMYne6gA9M3OmrWmHbGrasm_dVYhMLD4",
+      "pictureSource": "Iltalehti",
+      "relatedSearch": [
+        {
+          "title": "Tänään tv:ssä: Selviytyjissä ennennäkemätön tilanne – Jeff Probst murtuu kyyneliin",
+          "snippet": "",
+          "url": "https://www.iltalehti.fi/tv-ja-leffat/a/725e44dd-24af-43ae-a423-4f234abaefe5",
+          "source": "Iltalehti"
+        },
+        {
+          "title": "Tänään tv:ssä: Pirkka-Pekka Petelius ja Vesa Vierikko vuoden 1999 menestyselokuvassa – Lähes 200 000 katsojaa",
+          "snippet": "",
+          "url": "https://www.episodi.fi/uutiset/tanaan-tvssa-pirkka-pekka-petelius-ja-vesa-vierikko-vuoden-1999-menestyselokuvassa-lahes-200-000-katsojaa/",
+          "source": "Episodi"
+        },
+        {
+          "title": "Tänään tv:ssä neljän tähden arvoinen rakkauselokuva",
+          "snippet": "",
+          "url": "https://www.is.fi/tv-ja-elokuvat/art-2000012052678.html",
+          "source": "Ilta-Sanomat"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "karjalainen",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 19 Jun 2026 21:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTBEzexxRcUTLpCAB-PtgwTRe7ovJLXrk4zK1FzRC6diA1-JPupL2l8K4PFiE",
+      "pictureSource": "Karjalainen",
+      "relatedSearch": [
+        {
+          "title": "Oma pesä Joensuun jokirannassa – Historiallisen Virkailijain talon asukkaat arvostavat \"piilotettua helmeään\"",
+          "snippet": "",
+          "url": "https://www.karjalainen.fi/teemat/9523672",
+          "source": "Karjalainen"
+        },
+        {
+          "title": "Euroopan ja Lahden läpi pyöräillyt Sarah Ruggins rikkoi maailmanennätyksen",
+          "snippet": "",
+          "url": "https://www.ess.fi/paikalliset/9554191",
+          "source": "Etelä-Suomen Sanomat"
+        },
+        {
+          "title": "Fingerpori 20.6.2026",
+          "snippet": "",
+          "url": "https://www.ksml.fi/teemat/9554232",
+          "source": "Keskisuomalainen"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "финляндия",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 19 Jun 2026 20:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaW3ESNgymvS5qckC1Aoz8rCt9CpfbYiQlCDxusa7KvjP2_TTsA4lBVk6FPus",
+      "pictureSource": "Главный Региональный",
+      "relatedSearch": [
+        {
+          "title": "DP: на скалах у финских берегов увидели странные белые метки",
+          "snippet": "",
+          "url": "https://glavny.tv/last-news/world-news/dp-na-skalah-u-finskih-beregov-uvideli-strannye-belye-metki/",
+          "source": "Главный Региональный"
+        },
+        {
+          "title": "На прибрежных скалах в Финляндии появились загадочные белые метки",
+          "snippet": "",
+          "url": "https://news.rambler.ua/local/56633057-na-pribrezhnyh-skalah-v-finlyandii-poyavilis-zagadochnye-belye-metki/",
+          "source": "Рамблер/новости"
+        },
+        {
+          "title": "Власти Финляндии объяснили появление белых меток на побережье",
+          "snippet": "",
+          "url": "https://www.osnmedia.ru/world/vlasti-finlyandii-obyasnili-poyavlenie-belyh-metok-na-poberezhe/",
+          "source": "Общественная служба новостей"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "yle uutiset",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 19 Jun 2026 20:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVhfjvfkXoEwR2T0VMptHsyeR4Ruy_cdEqbTm79ddajMrvEtlx9o1u9CNVXhA",
       "pictureSource": "Ilta-Sanomat",
       "relatedSearch": [
         {
-          "title": "Ennätys uusiksi! Kisojen nopein maali riitti Marokolle",
+          "title": "Jättishokki MM-kisoissa, menestyjäehdokas ulkona!",
           "snippet": "",
-          "url": "https://www.is.fi/mm-futis/art-2000012091113.html",
+          "url": "https://www.is.fi/mm-futis/art-2000012091408.html",
           "source": "Ilta-Sanomat"
         },
         {
-          "title": "Brasilia–Haiti -ottelun kokoonpanot",
+          "title": "”Surffari” Matheus Cunha iski kahdesti, kun Brasilia puhalsi eloa MM-kisoihinsa – Neymarin pelikunnosta iso tieto",
           "snippet": "",
-          "url": "https://yle.fi/a/74-20232508/64-3-302380",
+          "url": "https://yle.fi/a/74-20232524",
           "source": "Yle"
         },
         {
-          "title": "MM-seuranta | Salamamaali riitti Marokolle niukkaan voittoon – Brasilia johtaa Haitia vastaan",
+          "title": "Brasilian voittotili rävähti komeasti auki – Marokko upotti pikamaalilla Skotlannin",
           "snippet": "",
-          "url": "https://www.hs.fi/urheilu/art-2000012091136.html",
+          "url": "https://www.mtvuutiset.fi/artikkeli/brasilian-voittotili-ravahti-komeasti-auki-marokko-upotti-pikamaalilla-skotlannin/9355870",
+          "source": "mtvuutiset.fi"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "yle.fi",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 19 Jun 2026 20:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGNM_cvcjn6F-ip6zgtHBj-H4zwtjb_07AXaUz6ltsGSzLtlP7yzUVGsRbScU",
+      "pictureSource": "Yle",
+      "relatedSearch": [
+        {
+          "title": "Analyysi: Yhdysvaltain tärkein liittolainen lensi bussin alle – tätä se tarkoittaa Suomelle",
+          "snippet": "",
+          "url": "https://yle.fi/a/74-20232401",
+          "source": "Yle"
+        },
+        {
+          "title": "Lähi-itä | Iranin sota sai Trumpin ja Netanjahun pitkän suhteen säröille",
+          "snippet": "",
+          "url": "https://www.hs.fi/maailma/art-2000012085262.html",
           "source": "HS.fi"
+        },
+        {
+          "title": "Iran lykkää neuvotteluja – Libanonin taisteluille vaaditaan loppua",
+          "snippet": "",
+          "url": "https://www.verkkouutiset.fi/a/iran-lykkaa-neuvotteluja-libanonin-taisteluille-vaaditaan-loppua/",
+          "source": "Verkkouutiset"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "timanttiliiga",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 19 Jun 2026 19:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUAktsihxATBugD_ooL7TMCYJk6MUq3O2jDTpdxbMEMDSJZM5Uyy6geRhFNIQ",
+      "pictureSource": "Suomen Urheiluliitto",
+      "relatedSearch": [
+        {
+          "title": "Timanttiliiga Dohassa: Pathirage 88,68, Zapletalová 400 metrin aidoissa 52,30, kolmiloikassa kauden kärkituloksia",
+          "snippet": "",
+          "url": "https://www.yleisurheilu.fi/uutinen/timanttiliiga-dohassa-pathirage-8868-zapletalova-400-metrin-aidoissa-5230-kolmiloikassa-kauden-karkituloksia/",
+          "source": "Suomen Urheiluliitto"
+        },
+        {
+          "title": "Ennätykset paukkuivat – Dohassa kova keihäskaari",
+          "snippet": "",
+          "url": "https://www.is.fi/yleisurheilu/art-2000012091244.html",
+          "source": "Ilta-Sanomat"
+        },
+        {
+          "title": "Mikael Jantunen on Turkin mestari",
+          "snippet": "",
+          "url": "https://yle.fi/urheilu/lyhyesti/74-20232514",
+          "source": "Yle"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "mette-marit",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 19 Jun 2026 19:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNdOUqO2PHXMeDNbS20V2ln_mMdYvvcMA3x198AmJqJnumQsEOIojphzZjtdM",
+      "pictureSource": "Ilta-Sanomat",
+      "relatedSearch": [
+        {
+          "title": "Norjan kuningasperheeltä kova päätös – lapset jättävät Mette-Maritin",
+          "snippet": "",
+          "url": "https://www.is.fi/mm-futis/art-2000012091200.html",
+          "source": "Ilta-Sanomat"
+        },
+        {
+          "title": "Mette-Marit sai uudet keuhkot poikkeuksellisen nopeasti – asiantuntijat avaavat syitä",
+          "snippet": "",
+          "url": "https://yle.fi/a/74-20232141",
+          "source": "Yle"
+        },
+        {
+          "title": "Expressen: Näin Mette-Maritin keuhkot päätyivät sairaalaan",
+          "snippet": "",
+          "url": "https://www.iltalehti.fi/kuninkaalliset/a/ca2fe9a1-46d4-42aa-8a6c-b2d34b4030a5",
+          "source": "Iltalehti"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "brazil vs haiti",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 19 Jun 2026 17:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYgTT_aoSqE_RUuZ83mEb_zRQb7302xQvO9ZS-7pm5K9G06ph5_ZInnF9BFmM",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTAVBV68Hfcyxo2y6Zpw6NRL17-FEMTuj9O_7sZMTe4fZUeEHBzIhwrd2nSZ1E",
+      "pictureSource": "FOX Sports",
       "relatedSearch": [
         {
-          "title": "FIFA World Cup Group C LIVE: Brazil vs Haiti - score, radio commentary, text updates & match stats",
+          "title": "Brazil vs Haiti Highlights | 2026 FIFA World Cup™",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cwy0e228196t",
-          "source": "BBC"
+          "url": "https://www.foxsports.com/watch/fmc-p3htbhimvwtc6hxa",
+          "source": "FOX Sports"
         },
         {
-          "title": "LIVE: Brazil vs Haiti: Where to watch, TV channel, live stream & kick-off time | World Cup 2026",
+          "title": "Ancelotti praises Cunha and Vini, highlights Brazil progress v Haiti",
           "snippet": "",
-          "url": "https://www.goal.com/en/news/live-stream-online-tv-where-to-watch-brazil-v-haiti/bltcad8b05878291f1a",
-          "source": "Goal.com"
+          "url": "https://sports.yahoo.com/articles/ancelotti-praises-cunha-vini-highlights-053000286.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "Brazil vs. Haiti—World Cup: Preview, Predictions and Lineups",
+          "title": "Massive crowds gather in Philly for 2 high-profile World Cup matches Friday",
           "snippet": "",
-          "url": "https://www.si.com/soccer/brazil-vs-haiti-world-cup-preview-predictions-lineups-6-19-26",
-          "source": "Sports Illustrated"
+          "url": "https://www.nbcphiladelphia.com/news/local/fifa-fan-fest-world-cup-philadelphia-brazil-haiti-stadium-lemon-hill/4420165/",
+          "source": "NBC10 Philadelphia"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "morocco vs scotland",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 19 Jun 2026 16:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTifphRK7buDMT71PAU3Ynb1zhiswamF91H_Fkwv7XB0pzLlfgrerPrP0GwGi8",
+      "title": "scotland vs morocco",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 19 Jun 2026 14:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLTD1V7NlrcT3AaNq_vFMbqIdAKO-1DXfhH94qfrNZiaXd0Usc56YgzF31c5Q",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Scotland vs Morocco LIVE: FIFA World Cup 2026 Group C score, radio commentary, prediction & stats",
+          "title": "Scotland 0-1 Morocco: FIFA World Cup 2026 Group C score, report, reaction & stats",
           "snippet": "",
           "url": "https://www.bbc.com/sport/football/live/crr8dw70x51t",
           "source": "BBC"
@@ -77,206 +245,38 @@
           "source": "The Guardian"
         },
         {
-          "title": "World Cup: Man of the Match? Saibari, Of Course!",
+          "title": "'Soon to be Kim Min-jae's teammate,' Moroccan star scores again... Ismael Saibari nets back-to-back goals, Morocco secures thrilling 1-0 victory over Scotland",
           "snippet": "",
-          "url": "https://www.moroccoworldnews.com/2026/06/322533/world-cup-man-of-the-match-saibari-of-course/",
-          "source": "Morocco World News"
+          "url": "https://www.starnewskorea.com/en/sports/2026/06/20/2026062007364326442",
+          "source": "스타뉴스"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "scotland vs morocco",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 19 Jun 2026 14:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQU7ZQDVjMYG8N1L671olxb6G5bEt_GyLP23qujBI7f2RhJujjPNdp5KSN7rFc",
-      "pictureSource": "BBC",
+      "title": "giorgia meloni",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 19 Jun 2026 13:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRLdCIa7lAfPGcOBCtWSjW6jacnjTL6RtTYHkkj3rjkWTowGR3ZEE4vb7hxyQ",
+      "pictureSource": "The New York Times",
       "relatedSearch": [
         {
-          "title": "Scotland vs Morocco LIVE: FIFA World Cup 2026 Group C score, radio commentary, prediction & stats",
+          "title": "Italy Doesn’t ‘Beg,’ Giorgia Meloni Tells Trump",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/crr8dw70x51t",
-          "source": "BBC"
+          "url": "https://www.nytimes.com/2026/06/19/world/europe/meloni-trump-italy.html",
+          "source": "The New York Times"
         },
         {
-          "title": "Scott McTominay was HEATED after not getting this call",
+          "title": "Trump ‘totally fabricated’ claim she begged him for a photo, Italy’s Giorgia Meloni says",
           "snippet": "",
-          "url": "https://www.foxsports.com/watch-vertical/fmc-alk1h9doz441mhbl",
-          "source": "FOX Sports"
+          "url": "https://www.nbcnews.com/world/italy/trump-italy-meloni-begged-photo-fabricated-g7-summit-france-rcna350836",
+          "source": "NBC News"
         },
         {
-          "title": "Steve Clarke: 'Sometimes they give it, sometimes they don't'",
+          "title": "From Trump whisperer to Trump basher: Meloni takes on US president",
           "snippet": "",
-          "url": "https://news.stv.tv/sport/steve-clarke-sometimes-they-give-it-sometimes-they-dont",
-          "source": "STV News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "neymar",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 19 Jun 2026 13:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLzF1JqFe1cwCJZHj74MDUXw37Bl5UABgOVE3eeqVmiA0WLHI9k0fLZSSPc6Y",
-      "pictureSource": "Mundo Deportivo",
-      "relatedSearch": [
-        {
-          "title": "Lo nunca visto: Lula, presidente de Brasil, se mofa de Neymar",
-          "snippet": "",
-          "url": "https://www.mundodeportivo.com/futbol/mundial/20260619/1004197232/nunca-visto-lula-presidente-brasil-mofa-neymar.html",
-          "source": "Mundo Deportivo"
-        },
-        {
-          "title": "Neymar es el primer \"jugador ‘home office’\" de un Mundial, bromea Lula",
-          "snippet": "",
-          "url": "https://www.jornada.com.mx/noticia/2026/06/19/mundial/neymar-es-el-primer-jugador-home-office-de-un-mundial-bromea-lula",
-          "source": "La Jornada"
-        },
-        {
-          "title": "\"El primer futbolista home office\": la chicana de Lula contra Neymar",
-          "snippet": "",
-          "url": "https://www.clarin.com/videos/primer-futbolista-home-office-chicana-lula-neymar_3_YYQM1f0UTA.html",
-          "source": "Clarin.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "raid elokuva",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 19 Jun 2026 13:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwjOH41moe_YQo6ef979P8G94M13676BjFWsoKKRe2SYmTU-O6nwpDGCLMERs",
-      "pictureSource": "Ilta-Sanomat",
-      "relatedSearch": [
-        {
-          "title": "Tänään tv:ssä suomalaiselokuva, joka joutui viranomaisten hampaisiin",
-          "snippet": "",
-          "url": "https://www.is.fi/viihde/art-2000012051427.html",
-          "source": "Ilta-Sanomat"
-        },
-        {
-          "title": "Tänään tv:ssä: Kaikkien aikojen parhaaksi äänestetty suomalainen poliisisarja sai jatkoa elokuvana",
-          "snippet": "",
-          "url": "https://www.episodi.fi/uutiset/tanaan-tvssa-kaikkien-aikojen-parhaaksi-aanestetty-suomalainen-poliisisarja-sai-jatkoa-elokuvana/",
-          "source": "Episodi"
-        },
-        {
-          "title": "Takavuosien suosikki palaa - Raid ystäville tuplasti iloa",
-          "snippet": "",
-          "url": "https://www.suomi24.fi/viihde/takavuosien-suosikki-palaa-raid-ystaville-tuplasti-iloa",
-          "source": "Suomi24"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "jonathan toews",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 19 Jun 2026 12:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8iIcXVXj4gjiKX4mZ3YovB4EUHLZh0MYloORzpciG2yE51D18x9neXIis6Eo",
-      "pictureSource": "NHL.com",
-      "relatedSearch": [
-        {
-          "title": "NHL Tonight: Jonathan Toews announces his retirement",
-          "snippet": "",
-          "url": "https://www.nhl.com/nhl-network/topic/nhln-latest-video/nhl-tonight-jonathan-toews-announces-his-retirement-6398894293112",
-          "source": "NHL.com"
-        },
-        {
-          "title": "Jonathan Toews says farewell",
-          "snippet": "",
-          "url": "https://www.iihf.com/en/news/75251/toews_says_farewell",
-          "source": "IIHF"
-        },
-        {
-          "title": "Toews, Stanley Cup and Olympic champ, retires",
-          "snippet": "",
-          "url": "https://www.espnlacrosse.com/2026/06/19/toews-stanley-cup-and-olympic-champ-retires/",
-          "source": "ESPN La Crosse 105.5"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "zara larsson",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 19 Jun 2026 12:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fAxTMm9ZbRKZkBUZBlV7UypzYah3pEmyY2zmxBrbrvVdVvoN5gXEWQkO4_M",
-      "pictureSource": "Billboard",
-      "relatedSearch": [
-        {
-          "title": "Zara Larsson’s ‘Midnight Sun’ Shines at No. 1 on Pop Airplay Chart",
-          "snippet": "",
-          "url": "https://www.billboard.com/music/chart-beat/zara-larsson-midnight-sun-number-one-pop-airplay-chart-1236276941/",
-          "source": "Billboard"
-        },
-        {
-          "title": "Zara Larsson has a 'Chicken Shop Date,' replaces herself atop 'Billboard' Pop Airplay chart",
-          "snippet": "",
-          "url": "https://www.yahoo.com/entertainment/music/articles/zara-larsson-chicken-shop-date-200000835.html",
-          "source": "Yahoo"
-        },
-        {
-          "title": "PinkPantheress & Zara Larsson's 'Stateside' Climbs To No. 1 On Billboard's Pop Airplay Chart",
-          "snippet": "",
-          "url": "https://www.rttnews.com/3661276/pinkpantheress-zara-larsson-s-stateside-climbs-to-no-1-on-billboard-s-pop-airplay-chart.aspx",
-          "source": "RTTNews"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "peräänajo",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 19 Jun 2026 12:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8fbaiwPeNCLDwB6CVLKrQ5yX0oqUwGNNt5tcShLtIYhvK7PntEbx4uwV-xmU",
-      "pictureSource": "Yle",
-      "relatedSearch": [
-        {
-          "title": "Neljän auton peräänajo Ylöjärvellä, tilanne onnettomuuspaikalla ohi",
-          "snippet": "",
-          "url": "https://yle.fi/a/74-20232352",
-          "source": "Yle"
-        },
-        {
-          "title": "Päivitetty | Mäntsälässä Lahdenväylällä neljän auton peräänajo perjantaina aamupäivällä – tilanne ohi",
-          "snippet": "",
-          "url": "https://www.mantsalanuutiset.fi/paikalliset/9553519",
-          "source": "Mäntsälän Uutiset"
-        },
-        {
-          "title": "Neljän auton ketjukolari ruuhkautti moottoritien liikennettä Mäntsälässä",
-          "snippet": "",
-          "url": "https://tilannemedia.fi/neljan-auton-ketjukolari-ruuhkautti-moottoritien-liikennetta-mantsalassa/",
-          "source": "Tilannemedia"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "edward norton",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 19 Jun 2026 11:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-CpQyPRyHLWq14p5GyHYJ7F0fCH3AKaK0zRfLHmYYK_6daVEFN8kqoGCwOg0",
-      "pictureSource": "Episodi",
-      "relatedSearch": [
-        {
-          "title": "Tiesitkö tätä? Yli 2000 näyttelijää tavoitteli samaa roolia – tuntematon Edward Norton lähetti faxia ja muutti koko roolin",
-          "snippet": "",
-          "url": "https://www.episodi.fi/uutiset/tiesitko-tata-yli-2000-nayttelijaa-tavoitteli-samaa-roolia-tuntematon-edward-norton-lahetti-faxia-ja-muutti-koko-roolin/",
-          "source": "Episodi"
-        },
-        {
-          "title": "Tiesitkö tätä? Yli 2000 näyttelijää tavoitteli samaa roolia – tuntematon Edward Norton lähetti faxia ja muutti koko roolin",
-          "snippet": "",
-          "url": "https://www.msn.com/fi-fi/viihde/tv-ja-elokuvat/tiesitk%C3%B6-t%C3%A4t%C3%A4-yli-2000-n%C3%A4yttelij%C3%A4%C3%A4-tavoitteli-samaa-roolia-tuntematon-edward-norton-l%C3%A4hetti-faxia-ja-muutti-koko-roolin/ar-AA2653Y4?cvid=6a35bd1ad1e243bb8056f2d0468768a1&ocid=hpmsn",
-          "source": "MSN"
-        },
-        {
-          "title": "“The Invite” Is a Witty Relationship Comedy That Could Be Wilder",
-          "snippet": "",
-          "url": "https://www.newyorker.com/magazine/2026/06/29/the-invite-movie-review",
-          "source": "The New Yorker"
+          "url": "https://www.reuters.com/world/trump-whisperer-trump-basher-meloni-takes-us-president-2026-06-19/",
+          "source": "Reuters"
         }
       ],
       "link": "https://imtaqin.id/"

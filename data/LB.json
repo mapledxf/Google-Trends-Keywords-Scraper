@@ -1,37 +1,93 @@
 {
-  "lastUpdate": "2026-06-23 08:53:52",
+  "lastUpdate": "2026-06-23 11:50:15",
   "data": [
     {
-      "title": "إيران",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 23 Jun 2026 00:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS06sbJ5Eq858J4q48S1DSdgJTjo0dgRdwrHJzbL-KUKbuSPjJaH_4Ex5YOO3A",
-      "pictureSource": "annahar.com",
+      "title": "خبر",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 23 Jun 2026 02:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFdy7hwz0fDDU6Su1cPD3HioA3a9qa7LDr9EXcVV5PLjb6Yhi7WspI20AY8KM",
+      "pictureSource": "Al Akhbar",
       "relatedSearch": [
         {
-          "title": "هل تُفرِغ خلية سويسرا مفاوضات واشنطن بين لبنان وإسرائيل من مضمونها؟",
+          "title": "العدو يخرق وقف إطلاق النار جنوباً... والمقاومة تحذّر",
           "snippet": "",
-          "url": "https://www.annahar.com/lebanon/323104/%D8%AE%D9%84%D9%8A%D8%A9-%D8%B3%D9%88%D9%8A%D8%B3%D8%B1%D8%A7-%D9%87%D9%84-%D8%AA%D9%81%D8%B1%D8%BA-%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D9%85%D9%86-%D9%85%D8%B6%D9%85%D9%88%D9%86%D9%87%D8%A7",
+          "url": "https://www.al-akhbar.com/news/lebanon/896790/%D8%A7%D9%84%D8%B9%D8%AF%D9%88-%D9%8A%D8%AE%D8%B1%D9%82-%D9%88%D9%82%D9%81-%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D8%AC%D9%86%D9%88%D8%A8%D8%A7----%D9%88%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%A9-%D8%AA%D8%AD%D8%B0%D8%B1",
+          "source": "Al Akhbar"
+        },
+        {
+          "title": "الجزيرة: القوات الإسرائيلية تطلق النار باتجاه مواطنين في حي الدير ببلدة النبطية الفوقا",
+          "snippet": "",
+          "url": "https://www.elnashra.com/news/show/1787212/%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D8%A8%D8%A7%D8%AA%D8%AC%D8%A7%D9%87-%D9%85%D9%88%D8%A7%D8%B7%D9%86",
+          "source": "Elnashra"
+        },
+        {
+          "title": "'النهار' تجول في النبطية وجوارها... دمار هائل وقرى مكنوبة (صور وفيديو)",
+          "snippet": "",
+          "url": "https://www.annahar.com/lebanon/322738/%D8%A7%D9%84%D8%A8%D9%86%D8%B7%D9%8A%D8%A9",
+          "source": "annahar.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "وزير الخارجية",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 23 Jun 2026 02:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQila4CpSCioHei8CEbPkBo2Aa1X_SW6Tfd-TpbNKpwI5wyn8ZMUMohip7v0i0",
+      "pictureSource": "Lebanon Debate",
+      "relatedSearch": [
+        {
+          "title": "وزير الخارجية خارج الخدمة",
+          "snippet": "",
+          "url": "https://www.lebanondebate.com/article/851359-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A9",
+          "source": "Lebanon Debate"
+        },
+        {
+          "title": "وزير الخارجية اللبناني يشارك في قمة جامعة الدول العربية",
+          "snippet": "",
+          "url": "https://www.annahar.com/lebanon/323377/%D9%8A%D9%88%D8%B3%D9%81-%D8%B1%D8%AC%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%8A%D8%AC%D8%A8-%D8%A3%D9%86-%D9%8A%D9%83%D9%88%D9%86-%D8%B4%D8%B1%D9%8A%D9%83%D8%A7-%D9%81%D9%8A-%D8%B1%D8%B3%D9%85-%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9",
           "source": "annahar.com"
         },
         {
-          "title": "ضغوط أميركيّة \"هائلة\" على تل أبيب",
+          "title": "رجي من عمّان: لاستقلالية المسار التفاوضي اللبناني عن المسار الأميركي ـ الإيراني",
           "snippet": "",
-          "url": "https://www.mtv.com.lb/news/1709269",
-          "source": "MTV Lebanon"
-        },
-        {
-          "title": "إيران تواجه مناورة أميركية: الاتفاق يلزمكم ضمان انسحاب إسرائيل",
-          "snippet": "",
-          "url": "https://www.al-akhbar.com/NewspaperArticles/lebanon/896664",
+          "url": "https://www.al-akhbar.com/news/lebanon/896779/%D8%B1%D8%AC%D9%8A-%D9%85%D9%86-%D8%B9%D9%85%D8%A7%D9%86--%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B1-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D9%88%D8%B6%D9%8A-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B1-%D8%A7",
           "source": "Al Akhbar"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "إيران",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 23 Jun 2026 00:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnN7wJa1DH3NxJ_Nrdz8rhIIjk5y93j41fpIi9KSJM9fNdy4UM2rAPm-hW46I",
+      "pictureSource": "annahar.com",
+      "relatedSearch": [
+        {
+          "title": "تصعيد عسكري بين إسرائيل ولبنان قبيل المفاوضات",
+          "snippet": "",
+          "url": "https://www.annahar.com/lebanon/323378/%D9%82%D8%AA%D9%8A%D9%84-%D9%88%D8%AC%D8%B1%D9%8A%D8%AD%D8%A7%D9%86-%D8%A8%D9%86%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%AC%D9%86%D9%88%D8%A8-%D9%84%D8%A8%D9%86%D8%A7%D9%86",
+          "source": "annahar.com"
+        },
+        {
+          "title": "روبيو يعرض مناورة إسرائيلية: اطردوا حزب الله من علي الطاهر | لماذا يحاول عون ضم الوفد العسكري إلى الوفد السـياسي؟",
+          "snippet": "",
+          "url": "https://www.al-akhbar.com/NewspaperArticles/lebanon/896660",
+          "source": "Al Akhbar"
+        },
+        {
+          "title": "مسؤول في الخارجية الأميركية للجزيرة: محادثات لبنان وإسرائيل ستواصل الدفع نحو سلام شامل واتفاق أمني بين البلدين",
+          "snippet": "",
+          "url": "https://www.elnashra.com/news/show/1787172/%D9%85%D8%B3%D8%A4%D9%88%D9%84-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D9%84%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%88%D8%A5%D8%B3",
+          "source": "Elnashra"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "ضريبة",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 22 Jun 2026 23:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3tfH_etAMCk6uCLOzTOBmZo8Tw-2YTEA7tNghlSEGlVb5ygIcwOKOCSD5kYI",
       "pictureSource": "Al Akhbar",
@@ -67,46 +123,12 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "fifa world cup stats",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 22 Jun 2026 22:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQH3J2y99T9vaRJ5V86s3kMFACWWJ-Y4YlmxMPRF3AZB8pNF4pDm80OcP7PcI",
-      "pictureSource": "Wego Travel Blog",
-      "relatedSearch": [
-        {
-          "title": "Brazil’s World Cup Record: Five Titles, Wins, Matches and All-Time Stats",
-          "snippet": "",
-          "url": "https://blog.wego.com/brazils-world-cup-record/",
-          "source": "Wego Travel Blog"
-        },
-        {
-          "title": "Brazil's other World Cup team has already won it all",
-          "snippet": "",
-          "url": "https://www.marca.com/en/football/2026/06/21/brazil-s-other-world-cup-team-has-already-won-it-all-video.html",
-          "source": "MARCA"
-        },
-        {
-          "title": "Brazil’s FIFA World Cup History: From Pelé to Neymar",
-          "snippet": "",
-          "url": "https://blog.wego.com/brazil-world-cup-history/",
-          "source": "Wego Travel Blog"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "الأردن ضد الجزائر",
       "trafficCount": "500+",
       "pubDate": "Mon, 22 Jun 2026 20:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRN5Xoq0G8G3Jh5lgbEF9B63rqAc98hCN34kcDFRlx41mjIj8qRIW5TJC_PhvY",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS0B9rz0l99F-BSFlipERr6_I88zw7EOeEgAxHX4hhBtQRHPl9ectxDK9BIlHQ",
+      "pictureSource": "annahar.com",
       "relatedSearch": [
-        {
-          "title": "الجزائر تسجل هدف التعادل في مرمى الأردن",
-          "snippet": "",
-          "url": "https://www.bbc.com/arabic/live/c5yzlvzvx9yt",
-          "source": "BBC"
-        },
         {
           "title": "ملخص وأهداف مباراة الأردن والجزائر في كأس العالم 2026 (فيديو)",
           "snippet": "",
@@ -114,38 +136,44 @@
           "source": "annahar.com"
         },
         {
-          "title": "التعمري يفشل في الرد على الجزائري زكري.. ويخرج بأسوأ تقييم",
+          "title": "كأس العالم 2026: الجزائر تقلب تأخرها أمام الأردن وتقصيه من دور المجموعات، وفرنسا تهزم العراق بثلاثية",
           "snippet": "",
-          "url": "https://www.alarabiya.net/sport/2026/06/23/%D8%A7%D9%84%D8%AA%D8%B9%D9%85%D8%B1%D9%8A-%D9%8A%D9%81%D8%B4%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A-%D8%B2%D9%83%D8%B1%D9%8A-%D9%88%D9%8A%D8%AE%D8%B1%D8%AC-%D8%A8%D8%A7%D8%B3%D9%88%D8%A7-%D8%AA%D9%82%D9%8A%D9%8A%D9%85-",
-          "source": "العربية"
+          "url": "https://www.bbc.com/arabic/articles/cp8r9036l1no",
+          "source": "BBC"
+        },
+        {
+          "title": "قمة عربية خالصة بين الأردن والجزائر في كأس العالم",
+          "snippet": "",
+          "url": "https://www.al-akhbar.com/news/sports/896750/%D9%82%D9%85%D8%A9-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AE%D8%A7%D9%84%D8%B5%D8%A9-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D9%88%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D9%81%D9%8A-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85",
+          "source": "Al Akhbar"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "أمن",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Mon, 22 Jun 2026 19:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQB69zEtHc4ZaRne7m813F4hfi1gbwCB8X2oNec0ZcuW3vuS7BfKCR29lhG68",
-      "pictureSource": "annahar.com",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVMghxsDsNwtzGuWL4ZgmBTzXD_aY1lm_08COaufQDx0Y_NFoQC6XsADuXSoI",
+      "pictureSource": "Elnashra",
       "relatedSearch": [
         {
-          "title": "مَن يُفشل الآخر: ترامب أم نتنياهو؟",
+          "title": "وزير خارجية قطر لنظيره السعودي: ندعم مفاوضات أميركا وإيران للتوصل لحلول للقضايا العالقة",
           "snippet": "",
-          "url": "https://www.annahar.com/articles/annahar-writers/322714/%D9%85%D9%86-%D9%8A%D9%81%D8%B4%D9%84-%D8%A7%D9%84%D8%AE%D8%B1-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A3%D9%85-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88",
-          "source": "annahar.com"
-        },
-        {
-          "title": "\"جيروزاليم بوست\": أمن إسرائيل لا يمكن أن يتوقف على الدبلوماسية الأميركية الإيرانية غير المكتملة",
-          "snippet": "",
-          "url": "https://www.elnashra.com/news/show/1787020/%D8%AC%D9%8A%D8%B1%D9%88%D8%B2%D8%A7%D9%84%D9%8A%D9%85-%D8%A8%D9%88%D8%B3%D8%AA%C2%A0%D8%A3%D9%85%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%8A%D9%85%D9%83%D9%86-%D9%8A%D8%AA%D9%88%D9%82%D9%81-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AF%D8%A8%D9%84%D9%88%D9%85%D8%A7",
+          "url": "https://www.elnashra.com/news/show/1787148/%D9%88%D8%B2%D9%8A%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D9%82%D8%B7%D8%B1-%D9%84%D9%86%D8%B8%D9%8A%D8%B1%D9%87-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D9%86%D8%AF%D8%B9%D9%85-%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D8%A7",
           "source": "Elnashra"
         },
         {
-          "title": "أبعاد الخلاف الأميركي-الإسرائيلي بشأن التسوية مع إيران",
+          "title": "مرحلة مفصلية في لبنان... والجيش عنوانها",
           "snippet": "",
-          "url": "https://www.almodon.com/arabworld/2026/06/22/%D8%A3%D8%A8%D8%B9%D8%A7%D8%AF-%D8%A7%D9%84%D8%AE%D9%84%D8%A7%D9%81-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D8%A9-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
-          "source": "المدن"
+          "url": "https://www.lebanondebate.com/article/850772-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D9%85%D9%81%D8%B5%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%B9%D9%86%D9%88%D8%A7%D9%86%D9%87%D8%A7",
+          "source": "Lebanon Debate"
+        },
+        {
+          "title": "في محادثات سويسرا.. إيران رفضت!",
+          "snippet": "",
+          "url": "https://www.aljadeed.tv/news/%D8%B9%D8%B1%D8%A8%D9%8A%D8%A7%D8%AA/579118/%D9%81%D9%8A-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D9%8A%D8%B3%D8%B1%D8%A7-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%B1%D9%81%D8%B6%D8%AA",
+          "source": "aljadeed"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -164,16 +192,16 @@
           "source": "BBC"
         },
         {
-          "title": "Jordan 1-2 Algeria | Highlights",
-          "snippet": "",
-          "url": "https://www.beinsports.com/en-mena/football/fifa-world-cup-2026/articles-video/algeria-come-from-behind-to-eliminate-jordan-2026-06-23",
-          "source": "beIN SPORTS"
-        },
-        {
           "title": "Licensable picture: Jordanians watch their national team's match at the Roman Theatre in Amman",
           "snippet": "",
-          "url": "https://www.reutersconnect.com/item/jordanians-watch-their-national-teams-match-at-the-roman-theatre-in-amman/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwUEFNS0dN",
+          "url": "https://www.reutersconnect.com/item/jordanians-watch-their-national-teams-match-at-the-roman-theatre-in-amman/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwUEFNS0dQ",
           "source": "Reuters Connect"
+        },
+        {
+          "title": "Algeria wins over Jordan while Iraq concedes against France",
+          "snippet": "",
+          "url": "https://www.arabnews.com/node/2648211/sport",
+          "source": "Arab News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -192,16 +220,16 @@
           "source": "annahar.com"
         },
         {
-          "title": "هالاند: مواجهة مبابي غير مهمة.. فرنسا ستهزمنا وتفوز بالمونديال",
-          "snippet": "",
-          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%87%D8%A7%D9%84%D8%A7%D9%86%D8%AF-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D9%85%D8%A8%D8%A7%D8%A8%D9%8A-%D8%BA%D9%8A%D8%B1-%D9%85%D9%87%D9%85%D8%A9--%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%B3%D8%AA%D9%87%D8%B2%D9%85%D9%86%D8%A7-%D9%88%D8%AA%D9%81%D9%88%D8%B2-%D8%A8%D8%A7%D9%84%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84/blt9f70a48678bbb119",
-          "source": "Kooora"
-        },
-        {
           "title": "مونديال 2026: مباراة واعدة بين النرويج والسنغال",
           "snippet": "",
           "url": "https://www.al-akhbar.com/news/sports/896749/%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026--%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D9%88%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%86%D8%B1%D9%88%D9%8A%D8%AC-%D9%88%D8%A7%D9%84%D8%B3%D9%86%D8%BA%D8%A7%D9%84",
           "source": "Al Akhbar"
+        },
+        {
+          "title": "هالاند: مواجهة مبابي غير مهمة.. فرنسا ستهزمنا وتفوز بالمونديال",
+          "snippet": "",
+          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%87%D8%A7%D9%84%D8%A7%D9%86%D8%AF-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D9%85%D8%A8%D8%A7%D8%A8%D9%8A-%D8%BA%D9%8A%D8%B1-%D9%85%D9%87%D9%85%D8%A9--%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%B3%D8%AA%D9%87%D8%B2%D9%85%D9%86%D8%A7-%D9%88%D8%AA%D9%81%D9%88%D8%B2-%D8%A8%D8%A7%D9%84%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84/blt9f70a48678bbb119",
+          "source": "Kooora"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -230,34 +258,6 @@
           "snippet": "",
           "url": "https://www.reutersconnect.com/item/football-fans-gather-in-dakar-as-senegal-falls-3-2-to-norway/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwUEFNS0Ux",
           "source": "Reuters Connect"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "mbappe age",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 22 Jun 2026 14:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSloJdk9U_m39fAR6ZS7oVNOE-IfvLp6thCQ4nKSAApWCncUfU3A-DenJL3Dx8",
-      "pictureSource": "Real Madrid CF | Web Oficial",
-      "relatedSearch": [
-        {
-          "title": "Mbappé reaches 100 matches with the French national team",
-          "snippet": "",
-          "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/mbappe-alcanza-los-100-partidos-con-la-seleccion-francesa-22-06-2026",
-          "source": "Real Madrid CF | Web Oficial"
-        },
-        {
-          "title": "Didier Deschamps was loving Mbappé's second goal of the day",
-          "snippet": "",
-          "url": "https://www.foxsports.com/watch-vertical/fmc-g8n3fvmyh8bzbsbn",
-          "source": "FOX Sports"
-        },
-        {
-          "title": "Live: France v Iraq - Football World Cup Group I match",
-          "snippet": "",
-          "url": "https://www.rnz.co.nz/news/sport/616581/live-france-v-iraq-football-world-cup-group-i-match",
-          "source": "RNZ"
         }
       ],
       "link": "https://imtaqin.id/"

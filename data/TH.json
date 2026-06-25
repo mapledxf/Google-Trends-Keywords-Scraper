@@ -1,58 +1,170 @@
 {
-  "lastUpdate": "2026-06-25 08:38:42",
+  "lastUpdate": "2026-06-25 11:19:58",
   "data": [
     {
-      "title": "outlook",
+      "title": "กระทรวงมหาดไทย",
       "trafficCount": "200+",
-      "pubDate": "Thu, 25 Jun 2026 00:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqB3jzQMBx79VFVAcObJ_6eXKeBOkKmOhKW02znPEvmq8pdhA2DA2WmRabpZk",
-      "pictureSource": "CNBC",
+      "pubDate": "Thu, 25 Jun 2026 03:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxBtdfIRPtrPlTxftmZKn_lSMx_Z2ItR4L294xgK5-DC2hlg5xjDYJd_-fNhE",
+      "pictureSource": "Thairath.co.th",
       "relatedSearch": [
         {
-          "title": "Micron stock jumps 15% as soaring prices from memory crunch lead to quadrupling of revenue",
+          "title": "โผล่อีก 2 ราย ข้าราชการ สังกัด เทศบาลเมืองปลายบาง เอี่ยวโกงสอบท้องถิ่น นายกฯ รับตกใจ",
           "snippet": "",
-          "url": "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html",
+          "url": "https://www.thairath.co.th/news/crime/2942005",
+          "source": "Thairath.co.th"
+        },
+        {
+          "title": "ผบช.ก. เรียกถกกองปราบฯ ลุยคดีโกงสอบท้องถิ่น ขีดเส้น 7-10 วันรู้ผล",
+          "snippet": "",
+          "url": "https://thestandard.co/police-local-exam-fraud-probe/",
+          "source": "thestandard.co"
+        },
+        {
+          "title": "ก.กลาง เคาะตรวจข้อสอบท้องถิ่นใหม่ทั้งหมด ปมทุจริตสอบปี 68 ไม่ต้องสอบใหม่ ปลดล็อกผู้สอบผ่านรายงานตัว 1 ก.ค.ได้ตามปกติ",
+          "snippet": "",
+          "url": "https://mgronline.com/politics/detail/9690000060947",
+          "source": "ผู้จัดการออนไลน์"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ฟุตบอล",
+      "trafficCount": "1000+",
+      "pubDate": "Thu, 25 Jun 2026 03:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnkYpWD_qiCsJL6c7rmvho2G96ZgTPmMFTLMZd1_ncZ03oZOuFrmk08RDpgu8",
+      "pictureSource": "Siamsport",
+      "relatedSearch": [
+        {
+          "title": "อัปเดตทีมเข้ารอบฟุตบอลโลก 2026 ล่าสุด! 13 ชาติการันตีลุยรอบ 32 ทีมสุดท้าย",
+          "snippet": "",
+          "url": "https://www.siamsport.co.th/worldcup/105685/",
+          "source": "Siamsport"
+        },
+        {
+          "title": "เปิด 7 ทีม การันตีเข้ารอบ 32 ทีม หลังจบแบ่งกลุ่ม นัด 2 บอลโลก 2026",
+          "snippet": "",
+          "url": "https://www.pptvhd36.com/sport/news/278242",
+          "source": "pptvhd36"
+        },
+        {
+          "title": "สรุปผลบอลโลก25มิ.ย. : แซมบ้าเข้าฝัก-โสมขาวพัง-เจ้าภาพลิ่ว",
+          "snippet": "",
+          "url": "https://today.line.me/th/v3/article/LXzNjJr",
+          "source": "LINE TODAY"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ยาง",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 25 Jun 2026 02:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmoM-8I3kuPVI8HzYcDLUmK-voC2Qy0fxt6fiX9RZqIAbwvLMpFqSm_Es-oA8",
+      "pictureSource": "ผู้จัดการออนไลน์",
+      "relatedSearch": [
+        {
+          "title": "กยท.เดินหน้าลดโลกร้อน ดึงชาวสวนยางจ.เลย ร่วมโครงการคาร์บอนเครดิต 1.1 แสนไร่",
+          "snippet": "",
+          "url": "https://mgronline.com/local/detail/9690000060505",
+          "source": "ผู้จัดการออนไลน์"
+        },
+        {
+          "title": "กยท. ผนึก วช. ขับเคลื่อนงานวิจัย-นวัตกรรมยางพารา เสริมแกร่งอุตสาหกรรมฯ",
+          "snippet": "",
+          "url": "https://www.springnews.co.th/news/pr-news/863960",
+          "source": "springnews"
+        },
+        {
+          "title": "กยท.ปั้นยางพรีเมียมคาร์บอนต่ำ ดันราคาพุ่งเกือบ 100 บาท/กก.",
+          "snippet": "",
+          "url": "https://www.bangkokbiznews.com/economics/1239749",
+          "source": "bangkokbiznews"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "วรงค์ เดชกิจวิกรม",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 25 Jun 2026 01:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2JJfpYuiQdqop3lZV2Ss7h_1pDdmt4lve-2dBR7p4pyYaqOCZgcr5RFI16sU",
+      "pictureSource": "Thairath.co.th",
+      "relatedSearch": [
+        {
+          "title": "“หมอวรงค์” เตือน รมว.ดีอี ดูคดี “จำนำข้าว” เป็นตัวอย่าง เตรียมยื่น ป.ป.ช. พรุ่งนี้",
+          "snippet": "",
+          "url": "https://www.thairath.co.th/news/politic/2941917",
+          "source": "Thairath.co.th"
+        },
+        {
+          "title": "'หมอวรงค์' เดือด! แถลงซัดเผด็จการรัฐสภา ปิดปากไม่ให้อภิปรายงบ 'TH-AI' ลุยยื่น ป.ป.ช. พรุ่งนี้",
+          "snippet": "",
+          "url": "https://www.thaipost.net/politics-news/1020665/",
+          "source": "Thaipost.net"
+        },
+        {
+          "title": "สส.ภูมิใจไทย หนุน \"TH-AI Passport\" ชี้ คุ้มค่า หากนักเรียน นักศึกษา 5 ล้านคนใช้",
+          "snippet": "",
+          "url": "https://news.ch7.com/detail/880950",
+          "source": "Ch7.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "outlook",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 25 Jun 2026 00:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2xiJ6DKhEuAS_HqvEgbSW5YfB8TXdOdy8wUxBD40Xb54hlvbXAt-6WoJpg48",
+      "pictureSource": "Yahoo Finance",
+      "relatedSearch": [
+        {
+          "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as Micron eases AI jitters ahead of PCE",
+          "snippet": "",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-micron-eases-ai-jitters-ahead-of-pce-232650645.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Micron stock jumps over 16% in premarket trading after blockbuster earnings",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2026/06/25/micron-stock-3q-earnings-memory.html",
           "source": "CNBC"
         },
         {
-          "title": "Stock Market Today: Micron Earnings Spark Tech Rebound — Live Updates",
+          "title": "SK Hynix, Micron Solidify Memory Chips as Runaway Stars of AI",
           "snippet": "",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-25-2026",
-          "source": "WSJ"
-        },
-        {
-          "title": "The memory chip crunch is paying off for this US company",
-          "snippet": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/memory-chip-crunch-paying-off-213055742.html",
-          "source": "Yahoo Finance"
+          "url": "https://www.bloomberg.com/news/articles/2026-06-25/sk-hynix-micron-solidify-memory-chips-as-runaway-stars-of-ai",
+          "source": "Bloomberg"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "เวเนซุเอลาแผ่นดินไหว",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 25 Jun 2026 00:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5EW1hRqqOL58UqGz02cgzvTtnb9Ncx6BVb_cD2Fd9qeu4rgtp7bjVr2gm49k",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhStASYNO_ew30PTzxT8wp1lePz0eHdjKCAgTllCtGHAdJRFR1vVChl6dGj7w",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "แผ่นดินไหวรุนแรงขนาด 7.2 และ 7.5 เขย่าเวเนซุเอลา สร้างความเสียหายหนักในเขตเมืองหลวง เรารู้อะไรบ้าง ?",
+          "title": "แผ่นดินไหวใหญ่สองลูก เขย่าเวเนซุเอลา",
           "snippet": "",
-          "url": "https://www.bbc.com/thai/articles/cly94w4qjrgo",
+          "url": "https://www.bbc.com/thai/articles/cn07g3kz322o",
           "source": "BBC"
         },
         {
-          "title": "คาดยอดผู้เสียชีวิตจากแผ่นดินไหวระดับ 7.2 และ 7.5 ในเวเนซุเอลา อาจสูงถึง 10,000 ถึง 100,000 คน | The Better",
+          "title": "สถานทูตยืนยัน ไม่มีคนไทยได้รับผลกระทบจากเหตุแผ่นดินไหวเวเนซุเอลา พร้อมช่วยเหลือในกรณีจำเป็น",
           "snippet": "",
-          "url": "https://today.line.me/th/v3/article/j7K5rnD",
-          "source": "LINE TODAY"
+          "url": "https://thestandard.co/venezuela-earthquake-thais-unaffected/",
+          "source": "thestandard.co"
         },
         {
-          "title": "'ทรัมป์' ประกาศให้ความช่วยเหลือ 'เวเนซุเอลา' หลังเจอแผ่นดินไหวซ้ำซ้อน ยอดตายล่าสุดพุ่ง 32 บาดเจ็บกว่า 700 คน",
+          "title": "มท.3 รียกประชุม ปภ. เตรียมพร้อมทีม USAR Thailand สนับสนุนการค้นหาเหตุแผ่นดินไหวเวเนซุเอลา",
           "snippet": "",
-          "url": "https://mgronline.com/around/detail/9690000060885",
-          "source": "ผู้จัดการออนไลน์"
+          "url": "https://news.ch7.com/detail/881248",
+          "source": "Ch7.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -71,60 +183,51 @@
           "source": "LINE TODAY"
         },
         {
-          "title": "แผ่นดินไหว 6.9 เขย่านอกชายฝั่งญี่ปุ่น ไม่มีรายงานความเสียหายรุนแรง",
+          "title": "แผ่นดินไหว 6.9 เขย่าทางตอนเหนือของญี่ปุ่น รถไฟชินคันเซนหยุดวิ่ง เตือนเกิดอาฟเตอร์ช็อกตามมา",
           "snippet": "",
-          "url": "https://mgronline.com/around/detail/9690000060733",
-          "source": "ผู้จัดการออนไลน์"
+          "url": "https://www.thairath.co.th/news/foreign/2941827",
+          "source": "Thairath.co.th"
         },
         {
-          "title": "ข่าวเหตุแผ่นดินไหว 7.2 นอกชายฝั่งญี่ปุ่น",
+          "title": "แผ่นดินไหว! ใกล้ชายฝั่งตะวันออกของเกาะฮอนชู ประเทศญี่ปุ่น ขนาด 6.8",
           "snippet": "",
-          "url": "https://news.ch7.com/detail/881158",
-          "source": "Ch7.com"
+          "url": "https://www.amarintv.com/news/social/549739",
+          "source": "อมรินทร์ทีวี ช่อง 34"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "ข้าราชการ พลเรือน สามัญ",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Wed, 24 Jun 2026 22:10:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "สุชาติชมกลิ่น",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 24 Jun 2026 22:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS10zo2Nztvp9o6EMsAvReaKTVcIzLoNXTbxACNCGTXdWASjE1_Wnz9kUITfsE",
-      "pictureSource": "Thairath.co.th",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQivZnQNVkIW9TjtUViRr8UKFs4mxqBsso2nfrMKYnZjbGqF6WvhSEkpPcR38",
+      "pictureSource": "Thaigov",
       "relatedSearch": [
         {
-          "title": "“สุชาติ” ลั่นไม่เคยสั่งให้ฝ่ายกฎหมายฟ้อง “อิงฟ้า” หรือดำเนินคดีกับใคร ปมทับลาน",
+          "title": "สรุปข่าวการประชุมคณะรัฐมนตรี 23 มิถุนายน 2569",
           "snippet": "",
-          "url": "https://www.thairath.co.th/news/politic/2941894",
+          "url": "https://www.thaigov.go.th/th/news/165536",
+          "source": "Thaigov"
+        },
+        {
+          "title": "เช็ก มติครม. 23 มิถุนายน 2569 แต่งตั้ง-โยกย้าย ครบทุกตำแหน่ง",
+          "snippet": "",
+          "url": "https://www.matichon.co.th/politics/news_5774989",
+          "source": "มติชนออนไลน์"
+        },
+        {
+          "title": "ครม. เคาะเพิ่ม \"ขนส่งทางราง\" บอร์ดผ่านแดน ดัน \"ปกรณ์เกียรติ\" นั่งรองเลขาฯ นายกรัฐมนตรีฝ่ายการเมือง",
+          "snippet": "",
+          "url": "https://www.thairath.co.th/news/politic/2941495",
           "source": "Thairath.co.th"
-        },
-        {
-          "title": "สุชาติ ปัดสั่งฟ้อง ‘อิงฟ้า-มรรค’ ปมทับลาน ยันไม่เคยมีนโยบายดำเนินคดีกับใคร",
-          "snippet": "",
-          "url": "https://thestandard.co/suchart-denies-engfa-mark-lawsuit/",
-          "source": "thestandard.co"
-        },
-        {
-          "title": "‘ชัยวัฒน์’ หอบหลักฐานเด็ดบุกสภา แฉปมฮุบป่าทับลาน ซัดใช้แผน ‘เล่นแปรธาตุ’ ฟอกขาวกลุ่มทุนกว้านซื้อที่ดิน",
-          "snippet": "",
-          "url": "https://www.dailynews.co.th/news/5973864/",
-          "source": "เดลินิวส์"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "venezuela",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 24 Jun 2026 22:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRqOQICPByY5YouMqmODFzjk6iq7EdI0wveI7JmczNVV3kBmdWpJ6xFnsNZCk",
       "pictureSource": "BBC",
@@ -136,16 +239,16 @@
           "source": "BBC"
         },
         {
-          "title": "La franja costera de La Guaira, declarada “zona de desastre” tras el doble terremoto",
-          "snippet": "",
-          "url": "https://www.lavanguardia.com/internacional/20260625/11574665/zona-costera-guaira-declarada-zona-desastre-doble-terremoto.html",
-          "source": "La Vanguardia"
-        },
-        {
           "title": "“Nunca en mi vida había visto algo así”: vecinos de Caracas comparten sus historias de terror por los terremotos",
           "snippet": "",
           "url": "https://www.infobae.com/venezuela/2026/06/25/nunca-en-mi-vida-habia-visto-algo-asi-vecinos-de-caracas-comparten-sus-historias-de-terror-por-los-terremotos/",
           "source": "Infobae"
+        },
+        {
+          "title": "El rescate de un joven de entre los escombros de un edificio tras el terremoto de Venezuela",
+          "snippet": "",
+          "url": "https://elpais.com/videos/2026-06-25/el-rescate-de-un-joven-de-entre-los-escombros-de-un-edificio-tras-el-terremoto-de-venezuela.html",
+          "source": "EL PAÍS"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -154,104 +257,26 @@
       "title": "เพลง",
       "trafficCount": "500+",
       "pubDate": "Wed, 24 Jun 2026 20:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIYWqQp4YpDGqd30gkkrQfWGI1-zmQDfVTf2pDzNtOku1N1GtiIkGBLLXXajY",
-      "pictureSource": "Vietnam.vn",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkAE8AJBirXtoLm1Fj4A8RDabbL2tv9ur4Cn210u3z1z3OI3u2GQGQjdC7K00",
+      "pictureSource": "LINE TODAY",
       "relatedSearch": [
         {
-          "title": "เพลงกล่อมเด็กที่หลอกลวง",
+          "title": "เจ้าขุน จักรภัทร เปิดตัว EP อัลบั้มแรกในชีวิต “Take Off” ยกพี่ชายเป็นไอดอล ช่วยแนะนำโปรดิวเซอร์และงานเพลง",
           "snippet": "",
-          "url": "https://www.vietnam.vn/th/loi-ru-doi-lua",
-          "source": "Vietnam.vn"
+          "url": "https://today.line.me/th/v3/article/RB5Wq0e",
+          "source": "LINE TODAY"
         },
         {
-          "title": "ZEAL ประกาศคอนเสิร์ตในรอบ 10 ปี เตรียมเลย 1 ส.ค. นี้",
+          "title": "‘ลูกทุ่งฟีเวอร์’ ที่สุรินทร์! คนรักเสียงเพลงแห่ร่วม ‘ซีเจ มอร์ ไมค์ทองคำออนทัวร์’ คึกคักข้ามจังหวัด",
           "snippet": "",
-          "url": "https://www.khaosod.co.th/entertainment/news_10297681",
+          "url": "https://www.khaosod.co.th/advertorial/news_10298082",
           "source": "ข่าวสด"
         },
         {
-          "title": "“เสก โลโซ” คืนอิสรภาพ! เปิดใจบทเรียน 1 ปีในเรือนจำ ขอบคุณเมียรักฟาดงานให้เดือนละ 40 งาน",
+          "title": "‘ซีเจ มอร์’ เปิดเวทีไมค์ทองคำออนทัวร์ จันทบุรี ส่ง 2 ตัวแทนชุมชนสู่เวทีระดับประเทศ",
           "snippet": "",
-          "url": "https://www.thairath.co.th/entertain/news/2941597",
-          "source": "Thairath.co.th"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "line",
-      "trafficCount": "5000+",
-      "pubDate": "Wed, 24 Jun 2026 20:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWZg6cUaNCvTugUmxsmqo5cXrhwqPaAzAkjRCdr58znY9Lgwj8ZSOagtXh2Qo",
-      "pictureSource": "FOX 9 Minneapolis-St. Paul",
-      "relatedSearch": [
-        {
-          "title": "Metro Blue Line trains shutting down June 29–Aug. 19 between Target Field, Mall of America",
-          "snippet": "",
-          "url": "https://www.fox9.com/news/metro-blue-line-shutdown-june-29-aug-19-between-target-field-mall-america",
-          "source": "FOX 9 Minneapolis-St. Paul"
-        },
-        {
-          "title": "Buses to replace Metro Transit Blue Line, parts of Green Line for maintenance this summer",
-          "snippet": "",
-          "url": "https://www.cbsnews.com/minnesota/news/buses-replace-blue-line-green-line-metro-transit/",
-          "source": "CBS News"
-        },
-        {
-          "title": "Blue Line trains closing down for seven weeks starting June 29",
-          "snippet": "",
-          "url": "https://bringmethenews.com/minnesota-news/blue-line-trains-closing-down-for-seven-weeks-starting-june-29",
-          "source": "Bring Me The News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "จักรพงษ์จักราจุฑาธิบดิ์",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 24 Jun 2026 20:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtqERQh8MSRvy2hE5ELxO6--XsOjrru8_kNvX2uCNf5dlW7VyHh7urIfGnnGM",
-      "pictureSource": "ข่าวสด",
-      "relatedSearch": [
-        {
-          "title": "ศาลอาญาอนุญาตให้ ก.ล.ต. ขยายระยะเวลาอายัดทรัพย์สิน แอน JKN และพวก",
-          "snippet": "",
-          "url": "https://www.khaosod.co.th/economics/news_10295083",
-          "source": "ข่าวสด"
-        },
-        {
-          "title": "ก.ล.ต. เผย “ศาลอาญา” ขยายอายัดทรัพย์สิน “เจ๊แอน” พร้อมพวกคดีหุ้น JKN อีก 180 วัน",
-          "snippet": "",
-          "url": "https://www.kaohoon.com/news/general/840919",
-          "source": "ข่าวหุ้นธุรกิจออนไลน์"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "남아공 대 한국",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 24 Jun 2026 18:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhAjNIMNzD6jIohfkcBwV-qUEz_xZYPUpE6NsRt0eKZD18TY_SZd4qtQOlmc0",
-      "pictureSource": "미주중앙일보",
-      "relatedSearch": [
-        {
-          "title": "김희철, 남아공전 패배에 깊은 실망..\"화가 안 멈추네\"",
-          "snippet": "",
-          "url": "https://www.koreadaily.com/article/20260625001413073",
-          "source": "미주중앙일보"
-        },
-        {
-          "title": "고개 숙인 선수들, 모두 반성문 \"우리가 못 해서 졌다\"(종합)",
-          "snippet": "",
-          "url": "https://www.news1.kr/sports/soccer/6208661",
-          "source": "뉴스1"
-        },
-        {
-          "title": "\"한국 때문에 우리 탈락한다\"... 홍명보호 충격패에 '28년 만의 월드컵' 스코틀랜드 초비상",
-          "snippet": "",
-          "url": "https://www.starnewskorea.com/sports/2026/06/25/2026062516550366921",
-          "source": "스타뉴스"
+          "url": "https://www.matichon.co.th/advertorial/news_5765853",
+          "source": "Matichon Online"
         }
       ],
       "link": "https://imtaqin.id/"

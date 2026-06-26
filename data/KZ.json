@@ -1,52 +1,108 @@
 {
-  "lastUpdate": "2026-06-26 13:32:56",
+  "lastUpdate": "2026-06-26 15:54:09",
   "data": [
     {
-      "title": "армения",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 26 Jun 2026 05:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMtyJgqQbI-C-1Bn3d9xZAeeK2OS-RcZzGVDi2HWCMfKN_w7ou0cKvNQpHE1M",
-      "pictureSource": "Независимая газета",
+      "title": "национальный банк республики казахстан",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 26 Jun 2026 07:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6S_S2066XGg61C8ndX2bAwXZ8nTk02J_YEEPAI3IYVvseP6CIgmHPI-KIbEM",
+      "pictureSource": "Новости Zakon.kz",
       "relatedSearch": [
         {
-          "title": "Евросоюз смягчает удар по экономике Армении / СНГ",
+          "title": "Нацбанк расширил перечень иностранных валют, к которым устанавливается официальный курс тенге",
           "snippet": "",
-          "url": "https://www.ng.ru/cis/2026-06-21/1_5_9520_armenia.html",
-          "source": "Независимая газета"
+          "url": "https://www.zakon.kz/pravo/6522683-natsbank-rasshiril-perechen-inostrannykh-valyut-k-kotorym-ustanavlivaetsya-ofitsialnyy-kurs-tenge.html",
+          "source": "Новости Zakon.kz"
         },
         {
-          "title": "ЕС выделил Армении 34 миллиона евро на фоне ограничений импорта в Россию",
+          "title": "Нацбанк добавил 9 новых валют к теңге: зачем это нужно казахстанцам?",
           "snippet": "",
-          "url": "https://m.business-gazeta.ru/news/705035",
-          "source": "БИЗНЕС Online — Новости Казани"
+          "url": "https://www.lada.kz/kazakhstan-news/154742-natsbank-dobavil-9-novykh-valiut-k-tenge-zachem-eto-nuzhno-kazakhstantsam.html",
+          "source": "Новости Актау и Мангистауской области"
         },
         {
-          "title": "Представители Армении в Гааге приняли участие в обсуждении перспектив экспорта армянских цветов на европейский рынок",
+          "title": "Ждать осталось недолго: как изменится тенге с 1 июля 2026 года",
           "snippet": "",
-          "url": "https://armenpress.am/ru/article/1254099",
-          "source": "Armenpress"
+          "url": "https://almaty.tv/ru/news/ekonomika/ostalos-nedolgo-kak-izmenitsa-tenge-s-1-iula-2026-goda",
+          "source": "Almaty.tv"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "погода астана",
+      "trafficCount": "2000+",
+      "pubDate": "Fri, 26 Jun 2026 07:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT23gH9RGS9-DWE5_M3xZibOh5eupTenEcU-wrWPYVt_zhTTH4372WrPjLVkuQ",
+      "pictureSource": "Gismeteo",
+      "relatedSearch": [
+        {
+          "title": "Погода в Казахстане 27 июня: дожди с грозами и шквалами и жара до +40 °C",
+          "snippet": "",
+          "url": "https://www.gismeteo.kz/news/klimat/pogoda-v-kazahstane-27-ijunya-dozhdi-s-grozami-i-shkvalami-i-zhara-do-40-c/",
+          "source": "Gismeteo"
+        },
+        {
+          "title": "До +41°C в тени: синоптики сделали предупреждение для жителей Казахстана",
+          "snippet": "",
+          "url": "https://www.zakon.kz/obshestvo/6522622-do-41C-v-teni-sinoptiki-sdelali-preduprezhdenie-dlya-zhiteley-kazakhstana.html",
+          "source": "Новости Zakon.kz"
+        },
+        {
+          "title": "Штормовую погоду обещают синоптики в ряде регионов Казахстана",
+          "snippet": "",
+          "url": "https://24.kz/ru/news/top-news/776418-shtormovuyu-pogodu-obeshchayut-sinoptiki-v-ryade-regionov-kazakhstana",
+          "source": "24.kz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "армения",
+      "trafficCount": "2000+",
+      "pubDate": "Fri, 26 Jun 2026 05:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTaofwdZSy-KT_PEyQtvex08m2XXCvA3tOOA0E46jeIfSwoPpzgEJdjKWb2n2U",
+      "pictureSource": "Panorama.am",
+      "relatedSearch": [
+        {
+          "title": "Дрмеян: Административный ресурс незаметно меняет правила игры на выборах",
+          "snippet": "",
+          "url": "https://www.panorama.am/ru/news/2026/06/26/%D0%94%D1%80%D0%BC%D0%B5%D1%8F%D0%BD-%D0%9A%D0%A1/3162791",
+          "source": "Panorama.am"
+        },
+        {
+          "title": "Если власть не получила большинства, то эти голоса принадлежат оппозиции",
+          "snippet": "",
+          "url": "http://www.yerkramas.org/article/202043/esli-vlast-ne-poluchila-bolshinstva--to-eti-golosa-prinadlezhat-oppozicii",
+          "source": "Газета армян России"
+        },
+        {
+          "title": "Экс глава МИД Армении: Опора властей на структуры безопасности создает серьезную проблему легитимности",
+          "snippet": "",
+          "url": "https://arminfo.info/full_news.php?id=102224",
+          "source": "АрмИнфо"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "учебный год",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 26 Jun 2026 05:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7KqESWxw_27gXCEiH6h0_aaDNDL-ZBCNrRE4VYG4ueyiHRh9Dj3Y8juY_YVo",
-      "pictureSource": "ИЗДАТЕЛЬСТВО «ПРЕССА»",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9MGBNpfiLB0FxN1H3HR6_DZUj59RjYBfwwIowRzos-RNPP0ZBJ25txt9JSsc",
+      "pictureSource": "Vietnam.vn",
       "relatedSearch": [
         {
-          "title": "Стадион у школы №54 в Рязани реконструируют до нового учебного года |",
+          "title": "Академия политических наук выражает признательность выдающимся студентам 2025-2026 учебного года.",
           "snippet": "",
-          "url": "https://ryazpressa.ru/stadion-u-shkoly-%E2%84%9654-v-ryazani-rekonstruiruyut-do-novogo-uchebnogo-goda/",
-          "source": "ИЗДАТЕЛЬСТВО «ПРЕССА»"
+          "url": "https://www.vietnam.vn/ru/hoc-vien-chinh-tri-tuyen-duong-hoc-sinh-gioi-nam-hoc-2025-2026",
+          "source": "Vietnam.vn"
         },
         {
-          "title": "В Рязани 11 миллионов рублей потратят на благоустройство стадионов трех школ",
+          "title": "129-я военно-морская эскадра отмечает достижения студентов, отличившихся выдающимися успехами, и вручает им подарки.",
           "snippet": "",
-          "url": "https://www.rzn.info/news/2026/6/26/v-ryazani-11-millionov-rublej-potratyat-na-blagoustrojstvo-stadionov-treh-shkol-348247.html",
-          "source": "RZN.info"
+          "url": "https://www.vietnam.vn/ru/hai-doan-129-tuyen-duong-tang-qua-hoc-sinh-co-thanh-tich-tieu-bieu",
+          "source": "Vietnam.vn"
         },
         {
           "title": "В Рязани отремонтируют три школьных стадиона",
@@ -71,10 +127,10 @@
           "source": "Motor1.com"
         },
         {
-          "title": "Hyundai debuts eighth-generation Avante sedan",
+          "title": "Hyundai unveils all-new Avante with AI, larger cabin",
           "snippet": "",
-          "url": "https://breakingthenews.net/Article/Hyundai-debuts-eighth-generation-Avante-sedan/66579805",
-          "source": "Breakingthenews.net"
+          "url": "https://www.theinvestor.co.kr/article/10789957",
+          "source": "m.theinvestor.co.kr"
         },
         {
           "title": "2027 Hyundai i30 Sedan: New gen gets fresh tech, styling",
@@ -89,26 +145,26 @@
       "title": "башнефть",
       "trafficCount": "200+",
       "pubDate": "Fri, 26 Jun 2026 02:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4YF42MECx5la5BLcUzbjhDGuDNFpNccmzJDClLSDY7kifilZaLEGXNKZRGqM",
-      "pictureSource": "Inbusiness.kz",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ1AH1rCp1uW_XLz8Uhch_bEs89IYE54aqPPBsDfPl4B0agt5QDL_DNcLjZ1qg",
+      "pictureSource": "Финансы Mail",
       "relatedSearch": [
         {
-          "title": "Под удар попал один из крупнейших нефтеперерабатывающих комплексов России",
+          "title": "Продажа акций «Башнефти» Башкирией: сумма сделки, покупатель и условия обратного выкупа",
           "snippet": "",
-          "url": "https://inbusiness.kz/ru/last/pod-udar-popal-odin-iz-krupnejshih-neftepererabatyvayushih-kompleksov-rossii",
-          "source": "Inbusiness.kz"
+          "url": "https://finance.mail.ru/article/bashkiriya-prodala-chast-paketa-bashnefti-za-148-mlrd-rublej-69214909/",
+          "source": "Финансы Mail"
         },
         {
-          "title": "Дроны СБУ ударили по НПЗ \"Башнефти\" в Уфе",
+          "title": "\"Исполнение бюджета идет очень плохо\". Власти Башкортостана продали часть акций \"Башнефти\"",
           "snippet": "",
-          "url": "https://www.dw.com/ru/drony-sbu-udarili-po-npz-basnefti-v-ufe/a-77709803",
-          "source": "DW.com"
+          "url": "https://www.svoboda.org/a/ispolnenie-byudzheta-idet-ochenj-ploho-vlasti-bashkortostana-prodali-chastj-aktsiy-bashnefti/33787774.html",
+          "source": "Радио Свобода"
         },
         {
-          "title": "Радий Хабиров сообщил об атаке беспилотников на Уфу",
+          "title": "Республика продала акции «Башнефти» на 14,8 млрд рублей",
           "snippet": "",
-          "url": "https://i-gazeta.com/news/novosti/2026-06-25/radiy-habirov-soobschil-ob-atake-bespilotnikov-na-ufu-4730744",
-          "source": "Электрогазета"
+          "url": "https://news.rambler.ua/business/56659632-respublika-prodala-aktsii-bashnefti-na-14-8-mlrd-rubley/",
+          "source": "Рамблер/новости"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -133,10 +189,10 @@
           "source": "Казинформ"
         },
         {
-          "title": "После 50 без работы? Государство предлагает решение.",
+          "title": "Казахстанцам после 50 открыли доступ к программе с выплатами до 129,7 тысяч тенге",
           "snippet": "",
-          "url": "https://alau.kz/posle-50-bez-raboty-gosudarstvo-predlagaet-reshenie/",
-          "source": "ALAU.KZ"
+          "url": "https://finratings.kz/news/15038-kazakhstantsam-posle-50-otkryli-dostup-k-programme-s-vyplatami-do-129-7-tysiach-tenge/",
+          "source": "Finratings"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,9 +201,15 @@
       "title": "сборная парагвая по футболу – сборная австралии по футболу турнирная таблица",
       "trafficCount": "500+",
       "pubDate": "Thu, 25 Jun 2026 21:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThvggqpchlFa7kji-TcRJ04rqcR9imApMez_7384CB5csSE55Gk42Jzr0xsFk",
-      "pictureSource": "NUR.KZ",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsU7tfQWJxefG5DmHh9C8UCnLrty9M2mfO6widWkK8SRetCYeHCBUE601Lheo",
+      "pictureSource": "sport-express.net",
       "relatedSearch": [
+        {
+          "title": "Парагвай и Австралия ожидаемо раскатали ничью. Стоит ли их в этом обвинять?",
+          "snippet": "",
+          "url": "https://www.sport-express.net/football/world/chempionat-mira-2026/reviews/paragvay-avstraliya-rezultat-i-obzor-matcha-gruppovogo-turnira-chempionata-mira-26-iyunya-2026-goda-2434238/",
+          "source": "sport-express.net"
+        },
         {
           "title": "Сборные Австралии и Парагвая сыграли вничью в последнем матче группового этапа ЧМ-2026",
           "snippet": "",
@@ -155,16 +217,10 @@
           "source": "NUR.KZ"
         },
         {
-          "title": "Норвегия — Франция. Онлайн-трансляция начнется в 22:00",
+          "title": "Хавбек Австралии О’Нил признан игроком матча с Парагваем на ЧМ-2026",
           "snippet": "",
-          "url": "https://sportmail.ru/news/football/71411604/",
+          "url": "https://sportmail.ru/news/football/71411524/",
           "source": "Спорт Mail"
-        },
-        {
-          "title": "Парагвай и Австралия ожидаемо раскатали ничью. Стоит ли их в этом обвинять?",
-          "snippet": "",
-          "url": "https://www.sport-express.net/football/world/chempionat-mira-2026/reviews/paragvay-avstraliya-rezultat-i-obzor-matcha-gruppovogo-turnira-chempionata-mira-26-iyunya-2026-goda-2434238/",
-          "source": "sport-express.net"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,38 +245,10 @@
           "source": "KOHA.net"
         },
         {
-          "title": "Salih Özcan: \"Bu takım daha fazlasını hak ediyor\"",
+          "title": "Dünya efsanelerinden Arda Güler’e büyük övgü!",
           "snippet": "",
-          "url": "https://beinsports.com.tr/haber/salih-ozcan-bu-takim-daha-fazlasini-hak-ediyor",
-          "source": "beinsports.com.tr"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "погода актобе",
-      "trafficCount": "1000+",
-      "pubDate": "Thu, 25 Jun 2026 20:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT23gH9RGS9-DWE5_M3xZibOh5eupTenEcU-wrWPYVt_zhTTH4372WrPjLVkuQ",
-      "pictureSource": "Gismeteo",
-      "relatedSearch": [
-        {
-          "title": "Погода в Казахстане 27 июня: дожди с грозами и шквалами и жара до +40 °C",
-          "snippet": "",
-          "url": "https://www.gismeteo.kz/news/klimat/pogoda-v-kazahstane-27-ijunya-dozhdi-s-grozami-i-shkvalami-i-zhara-do-40-c/",
-          "source": "Gismeteo"
-        },
-        {
-          "title": "До +39°С и грозы: синоптики рассказали о погоде в Астане, Алматы и Шымкенте",
-          "snippet": "",
-          "url": "https://www.zakon.kz/sobytiia/6522736-do-39s-i-grozy-sinoptiki-rasskazali-o-pogode-v-astane-almaty-i-shymkente.html",
-          "source": "Новости Zakon.kz"
-        },
-        {
-          "title": "По всему Казахстану объявлено штормовое предупреждение: 26 июня 01:44",
-          "snippet": "",
-          "url": "https://tengrinews.kz/kazakhstan_news/po-vsemu-kazahstanu-obyyavleno-shtormovoe-preduprejdenie-602516/",
-          "source": "TengriNews"
+          "url": "https://sporbursa.tr/dunya-efsanelerinden-arda-gulere-buyuk-ovgu",
+          "source": "SporBursa"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -242,41 +270,13 @@
           "title": "Мексика, Швейцария и Бразилия выиграли свои группы на ЧМ-2026",
           "snippet": "",
           "url": "https://ru.euronews.com/2026/06/25/meksika-shvejcariya-i-braziliya-vyigrali-svoi-gruppy-na-chm-2026",
-          "source": "Euronews"
+          "source": "Euronews.com"
         },
         {
           "title": "Определились еще шесть сборных, вышедших в плей-офф ЧМ-2026",
           "snippet": "",
           "url": "https://sportmail.ru/article/football-worldcup/71412400/",
           "source": "Спорт Mail"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "турция сша",
-      "trafficCount": "2000+",
-      "pubDate": "Thu, 25 Jun 2026 19:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXyTJXYk2ZgipyU4_9JRjpHi1zbzV4ApXXrfgVYgz9pNXxien8vr5T5t26l_s",
-      "pictureSource": "Казинформ",
-      "relatedSearch": [
-        {
-          "title": "Победа над США и рекорд Гюлера не спасли Турцию от вылета с ЧМ-2026",
-          "snippet": "",
-          "url": "https://www.inform.kz/ru/sbornaya-turtsii-postavila-rekord-na-chm-2026-i-edet-domoy-654d3b2e",
-          "source": "Казинформ"
-        },
-        {
-          "title": "На матч Турция – США пришли звезды Голливуда",
-          "snippet": "",
-          "url": "https://www.zakon.kz/kultura-shoubiz/6522668-na-match-turtsiya--ssha-prishli-zvezdy-gollivuda.html",
-          "source": "Новости Zakon.kz"
-        },
-        {
-          "title": "Первая победа Турции и выгодная ничья: итоги матчей ЧМ-2026",
-          "snippet": "",
-          "url": "https://tengrisport.kz/world-cup-2022/pervaya-pobeda-turtsii-vyigodnaya-nichya-itogi-matchey-chm-602534/",
-          "source": "Tengri Sport"
         }
       ],
       "link": "https://imtaqin.id/"

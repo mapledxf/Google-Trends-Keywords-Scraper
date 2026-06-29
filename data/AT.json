@@ -1,282 +1,263 @@
 {
-  "lastUpdate": "2026-06-29 01:37:55",
+  "lastUpdate": "2026-06-29 06:21:28",
   "data": [
     {
-      "title": "bier",
+      "title": "friedrich schiller",
       "trafficCount": "200+",
-      "pubDate": "Sun, 28 Jun 2026 15:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStik9IVzehACpmQ_PTLps6HCW0aaouj2q8CLXUBiuHxwN-oJES_A2PS1RGwSI",
+      "pubDate": "Sun, 28 Jun 2026 23:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbyTE3yDRZUH-Cjcc04DDgRu1YQKe7RObGz3whQB0hUQF-LIbNSYLdc0ecX00",
+      "pictureSource": "Heute",
+      "relatedSearch": [
+        {
+          "title": "Er wurde 78 Jahre alt – Society-Legende Friedrich Schiller ist tot",
+          "snippet": "",
+          "url": "https://www.heute.at/s/society-legende-friedrich-schiller-ist-tot-120215646",
+          "source": "Heute"
+        },
+        {
+          "title": "Society-Legende Friedrich Schiller (✝78) verstorben",
+          "snippet": "",
+          "url": "https://www.oe24.at/a/society-legende-friedrich-schiller-78-verstorben-900095783",
+          "source": "oe24.at"
+        },
+        {
+          "title": "Trauer um Wiener Society-Urgestein: Friedrich Schiller ist tot",
+          "snippet": "",
+          "url": "https://www.5min.at/wien/5202606290742/trauer-um-wiener-society-urgestein-friedrich-schiller-ist-tot/",
+          "source": "5 Minuten"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "bürs",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 28 Jun 2026 22:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5cE-objaw3acWSlSUvAyn1M7UChjDvACl8pBzva9gbKHceHqOegIsS51Sz_Y",
+      "pictureSource": "vorarlberg.ORF.at",
+      "relatedSearch": [
+        {
+          "title": "Zwei Todesopfer nach Badeunfall in der Ill",
+          "snippet": "",
+          "url": "https://vorarlberg.orf.at/stories/3360422/",
+          "source": "vorarlberg.ORF.at"
+        },
+        {
+          "title": "Zwei Tote nach Badeunfall in der Ill: Zehnjähriger und 22-Jähriger sterben",
+          "snippet": "",
+          "url": "https://www.vol.at/ein-toter-und-zwei-schwerverletzte-nach-badeunfall-in-buers/10284743",
+          "source": "VOL.AT"
+        },
+        {
+          "title": "Jüngstes Opfer erst 10 - Zwei Tote! Strömung zieht Badegäste unter Wasser",
+          "snippet": "",
+          "url": "https://www.krone.at/4198282",
+          "source": "Kronen Zeitung"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "öbb",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 28 Jun 2026 22:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7UfQNYW65KCzL_0FN9XMv26J44BLShDmiEuQfTIUHEHWgUQdx-_ULp5jg_rY",
+      "pictureSource": "ORF",
+      "relatedSearch": [
+        {
+          "title": "Hitzeschäden: Schäden auf A1, Einschränkungen bei ÖBB",
+          "snippet": "",
+          "url": "https://orf.at/stories/3434632/",
+          "source": "ORF"
+        },
+        {
+          "title": "ÖBB warnen vor Einschränkungen im Bahnbetrieb aufgrund extremer Hitze",
+          "snippet": "",
+          "url": "https://presse-oebb.at/news-oebb-warnen-vor-einschraenkungen-im-bahnbetrieb-aufgrund-extremer-hitze?id=244380&menueid=27022&l=deutsch",
+          "source": "ÖBB"
+        },
+        {
+          "title": "Stärkste Juni-Hitzewelle in Österreich setzt auch den Autobahnen zu",
+          "snippet": "",
+          "url": "https://www.asfinag.at/ueber-uns/presse/pressemeldungen/hitzewelle-setzt-auch-den-autobahnen-zu/",
+          "source": "ASFINAG"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "időjárás",
+      "trafficCount": "2000+",
+      "pubDate": "Sun, 28 Jun 2026 22:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGdh3S6eCYA8BnPdXvUBOE_IBzNoThg9sytPIeVW3M5gxwnegwaSK_8emOu7I",
+      "pictureSource": "Index.hu",
+      "relatedSearch": [
+        {
+          "title": "Ebben a két megyében jégeső ás villámlás mossa el a 40 fokos meleget",
+          "snippet": "",
+          "url": "https://index.hu/belfold/2026/06/29/idojaras-elorejelzes-hetfo-legmozgas-harmadfoku-hosegriasztas-veszelyjelzes-figyelmeztetes-hoseg-kanikula-radar/",
+          "source": "Index.hu"
+        },
+        {
+          "title": "Élet+Stílus: Megdőlt a napi melegrekord, vízkorlátozás Pátyon, szenved egész Európa",
+          "snippet": "",
+          "url": "https://hvg.hu/elet/20260628_megdolt-a-napi-melegrekord",
+          "source": "| hvg.hu"
+        },
+        {
+          "title": "A hőség már a tavakat is kiszárítja: egy nap alatt nagyot apadt a Balaton és a Velencei-tó",
+          "snippet": "",
+          "url": "https://www.portfolio.hu/gazdasag/20260627/a-hoseg-mar-a-tavakat-is-kiszaritja-egy-nap-alatt-nagyot-apadt-a-balaton-es-a-velencei-to-846132",
+          "source": "Portfolio.hu"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "hagel",
+      "trafficCount": "2000+",
+      "pubDate": "Sun, 28 Jun 2026 22:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqKnqGjb224gbH8bGMQPGwx-ur5UKcHfhjxr94A36ubPdr95hChhPDJrtmSrA",
       "pictureSource": "Kronen Zeitung",
       "relatedSearch": [
         {
-          "title": "Zeugen riefen Polizei - Eltern gaben Baby am Badesee Bier zu trinken",
+          "title": "Österreich zweigeteilt - Starkregen, Hagel, Böen im Westen, Hitze im Osten",
           "snippet": "",
-          "url": "https://www.krone.at/4197790",
+          "url": "https://www.krone.at/4197654",
           "source": "Kronen Zeitung"
         },
         {
-          "title": "Berlin-Kaulsdorf: Eltern geben Kleinkind und Säugling Bier zu trinken",
+          "title": "Westen: Gewitter- und Starkregen ab Mittag",
           "snippet": "",
-          "url": "https://www.bild.de/regional/berlin/berlin-kaulsdorf-eltern-geben-kleinkind-und-saeugling-bier-zu-trinken-6a4121de113e90346dc5012a",
-          "source": "BILD"
-        },
-        {
-          "title": "Live-Ticker Hitze: Schlimmer Vorfall an Badesee in Berlin! Eltern geben Säugling und Kleinkind (3) Alkohol",
-          "snippet": "",
-          "url": "https://www.rtl.de/news/live-ticker-hitze-schlimmer-vorfall-an-badesee-in-berlin-eltern-geben-saeugling-und-kleinkind-3-alkohol-id30995376.html",
-          "source": "RTL.de"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "турнирная сетка чемпионата мира по футболу fifa – 2026",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 28 Jun 2026 15:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUDJIy_DPCRsm8zleaaXmNNiX8aKqZyXedWT6XpMUfPwDMCmvpzo3sJyIoyzQ",
-      "pictureSource": "Sportbox",
-      "relatedSearch": [
-        {
-          "title": "Натиск на ворота ЮАР (видео). ЮАР - Канада. Чемпионат мира-2026. Футбол",
-          "snippet": "",
-          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbvideo_NI2339831_clip_Natisk_na_vorota_JuAR_video_JuAR___Kanada_Chempionat_mira_2026_Futbol",
-          "source": "Sportbox"
-        },
-        {
-          "title": "Тренер ЮАР Уго Броос поделился ожиданиями от матча с Канадой в 1/16 финала ЧМ-2026",
-          "snippet": "",
-          "url": "https://www.championat.ru/football/news-6524822-trener-yuar-ugo-broos-podelilsya-ozhidaniyami-pered-matchem-s-kanadoj-v-1-16-finala-chm-2026.html",
-          "source": "https://www.championat.ru/"
-        },
-        {
-          "title": "Канада впервые вырвалась в 1/8 финала Чемпионата мира по футболу",
-          "snippet": "",
-          "url": "https://ura.news/news/1053105205",
-          "source": "URA.RU"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ingeborg bachmann",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 28 Jun 2026 14:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEl7MklwBZEdocdVAhyZkQ3QyWCaaRpIfQ4T7nnCM-qYsYqvmLp_-SjrWuZ0",
-      "pictureSource": "ORF",
-      "relatedSearch": [
-        {
-          "title": "50. Tage der deutschsprachigen Literatur: Lena Schätte holt den Bachmannpreis",
-          "snippet": "",
-          "url": "https://orf.at/stories/3434627/",
-          "source": "ORF"
-        },
-        {
-          "title": "Bachmann-Preis für Lena Schätte: Eine solche Siegerin haben sie dort nie gesehen",
-          "snippet": "",
-          "url": "https://www.sueddeutsche.de/kultur/lena-schaette-gewinnerin-ingeborg-bachmann-preis-keskinkilic-kinga-toth-jury-kritik-li.3498063",
-          "source": "SZ.de"
-        },
-        {
-          "title": "Bewegend und bildstark - Bachmannpreis: Lena Schätte als große Gewinnerin",
-          "snippet": "",
-          "url": "https://www.krone.at/4197680",
-          "source": "Kronen Zeitung"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "waffenstillstand",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 28 Jun 2026 14:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7cbyABcG-PK6FsU4Zd9uKzGfY001xGDEI7IzK5kkPpkpSMFiibeQJGqhYq0k",
-      "pictureSource": "ORF",
-      "relatedSearch": [
-        {
-          "title": "Neue Angriffe: Lage zwischen USA und Iran bleibt angespannt",
-          "snippet": "",
-          "url": "https://orf.at/stories/3434619/",
-          "source": "ORF"
-        },
-        {
-          "title": "„Dann wird der Iran nicht mehr existieren“: Trump droht nach wechselseitigen Angriffen",
-          "snippet": "",
-          "url": "https://www.diepresse.com/33414622/explosionen-am-golf-usa-und-iran-liefern-sich-angriffe",
-          "source": "DiePresse.com"
-        },
-        {
-          "title": "Trotz Waffenruhe: USA greifen erneut Iran an – Teheran schlägt zurück - Livebericht - Nahost",
-          "snippet": "",
-          "url": "https://www.derstandard.at/jetzt/livebericht/3000000329109/trotz-waffenruhe-usa-greifen-erneut-iran-an-teheran-schlaegt-zurueck",
-          "source": "Der Standard"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "robert lewandowski",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 28 Jun 2026 14:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9fih2C7vGEXF41XYt0hQsXBQ5VR-2NuX31WZfCHJ-2me1xzzAhMV2WbT4xWo",
-      "pictureSource": "Przegląd Sportowy",
-      "relatedSearch": [
-        {
-          "title": "Robert Lewandowski wybrał, oto jego nowy klub! Mamy wieści z jego otoczenia",
-          "snippet": "",
-          "url": "https://przegladsportowy.onet.pl/pilka-nozna/mls/media-robert-lewandowski-wybral-oto-jego-nowy-klub-przelom-jakiego-nie-bylo/qq79z4b",
-          "source": "Przegląd Sportowy"
-        },
-        {
-          "title": "Fabrizio Romano ogłosił światu, gdzie przechodzi Lewandowski",
-          "snippet": "",
-          "url": "https://sportowefakty.wp.pl/pilka-nozna/1259396/here-we-go-oto-nowy-klub-lewandowskiego",
-          "source": "SportoweFakty"
-        },
-        {
-          "title": "Odpalono bombę ws. Lewandowskiego. Nagle taki głos z samego klubu. \"Nie podpisano\"",
-          "snippet": "",
-          "url": "https://sport.interia.pl/robert-lewandowski/news-odpalono-bombe-ws-lewandowskiego-nagle-taki-glos-z-samego-kl,nId,23506506",
-          "source": "Interia Sport"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "canada vs south africa",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 28 Jun 2026 14:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbzxLnmkMh_q8lKGAesyHgLKDYQtz1RiCC8Uq_RJlgbX8ifrRQqr7fKrlwTqQ",
-      "pictureSource": "The New York Times",
-      "relatedSearch": [
-        {
-          "title": "Canada scores in stoppage time to reach World Cup last 16. How far can the co-hosts go?",
-          "snippet": "",
-          "url": "https://www.nytimes.com/athletic/7400916/2026/06/28/south-africa-vs-canada-world-cup-2026-score-results-takeaways/",
-          "source": "The New York Times"
-        },
-        {
-          "title": "FIFA World Cup 2026 stats: Eustáquio equals Pirlo's World Cup record with 5 as Canada make history",
-          "snippet": "",
-          "url": "https://www.espn.com/soccer/story/_/id/49211754/fifa-world-cup-2026-stats-stephen-eustaquio-equals-andrea-pirlo-world-cup-record-5-canada-south-africa-make-history",
-          "source": "ESPN"
-        },
-        {
-          "title": "Canada's Can-Do Spirit: 4 Takeaways From Historic World Cup Win vs. South Africa",
-          "snippet": "",
-          "url": "https://www.foxsports.com/stories/soccer/canadas-can-do-spirit-4-takeaways-from-last-gasp-historic-world-cup-win",
-          "source": "FOX Sports"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "kaunertal",
-      "trafficCount": "2000+",
-      "pubDate": "Sun, 28 Jun 2026 13:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSROFhD8nX2sn7kmRRQzEHAn4FGb7rV3igomFMSTbI1_B8vTZOim8-vMbKL5IA",
-      "pictureSource": "tirol.ORF.at",
-      "relatedSearch": [
-        {
-          "title": "Muren: Hunderte sitzen im Kaunertal fest",
-          "snippet": "",
-          "url": "https://tirol.orf.at/stories/3360426/",
+          "url": "https://tirol.orf.at/stories/3360293/",
           "source": "tirol.ORF.at"
         },
         {
-          "title": "Muren, Hagel - Unwetter nach Hitze: 200 Personen eingeschlossen",
+          "title": "Neue Woche startet sehr heiß, Unwetter und Abkühlung in Sicht",
           "snippet": "",
-          "url": "https://www.krone.at/4197942",
+          "url": "https://uwz.at/de/a/neue-woche-startet-sehr-heiss-unwetter-und-abkuehlung-in-sicht",
+          "source": "uwz.at"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "vrijeme",
+      "trafficCount": "2000+",
+      "pubDate": "Sun, 28 Jun 2026 21:20:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "pogoda",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 28 Jun 2026 21:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmkGo3vAbDC-umX3I1p4MKSd2Ud41LEo7cxqwQNic6gIKwkl5oJkMUxFgZMdE",
+      "pictureSource": "Opoczno Nasze Miasto",
+      "relatedSearch": [
+        {
+          "title": "Pogoda tygodniowa dla Opoczna. Sprawdź, jaka pogoda będzie od jutra (30.06) do niedzieli",
+          "snippet": "",
+          "url": "https://opoczno.naszemiasto.pl/pogoda-tygodniowa-dla-opoczna-sprawdz-jaka-pogoda-bedzie-od-jutra-30-06-do-niedzieli/ar/c1p1-19944425",
+          "source": "Opoczno Nasze Miasto"
+        },
+        {
+          "title": "Prognoza pogody na dzisiaj dla Opoczna - 29.06. Jakiej temperatury możemy się spodziewać?",
+          "snippet": "",
+          "url": "https://opoczno.naszemiasto.pl/prognoza-pogody-na-dzisiaj-dla-opoczna-29-06-jakiej-temperatury-mozemy-sie-spodziewac/ar/c1p1-19943281",
+          "source": "Opoczno Nasze Miasto"
+        },
+        {
+          "title": "Prognoza pogody dla Opoczna na jutro - 28.06. Co przewidują meteorolodzy?",
+          "snippet": "",
+          "url": "https://opoczno.naszemiasto.pl/prognoza-pogody-dla-opoczna-na-jutro-28-06-co-przewiduja-meteorolodzy/ar/c1p1-19943281",
+          "source": "Opoczno Nasze Miasto"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "villach",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 28 Jun 2026 21:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRp30eusxQSlKMIM97-91agQ8G4o51rW1mXQ3SUead2HrzdfKeLuYGJA34HmSA",
+      "pictureSource": "5 Minuten",
+      "relatedSearch": [
+        {
+          "title": "Nächtlicher Polizeieinsatz in Villach: Das ist der Grund",
+          "snippet": "",
+          "url": "https://www.5min.at/villach/5202606281016/naechtlicher-polizeieinsatz-in-villach-das-ist-der-grund/",
+          "source": "5 Minuten"
+        },
+        {
+          "title": "Am 3. Juli: Dritter Villacher Klimatag unter dem Motto „Lass dich pflanzen“",
+          "snippet": "",
+          "url": "https://www.meinbezirk.at/villach/c-freizeit/dritter-villacher-klimatag-unter-dem-motto-lass-dich-pflanzen_a8750334",
+          "source": "MeinBezirk.at"
+        },
+        {
+          "title": "„Lass dich pflanzen“: Klimatag in Villach lädt zum Mitmachen ein",
+          "snippet": "",
+          "url": "https://www.5min.at/villach/5202606230904/lass-dich-pflanzen-klimatag-in-villach-laedt-zum-mitmachen-ein/",
+          "source": "5 Minuten"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tt",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 28 Jun 2026 21:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoPX2p4Q1Ac8FcdoEH8HyTJbB5y22vBK2cctla8AMUv3p7KG4S3t-NejaoB3I",
+      "pictureSource": "Kronen Zeitung",
+      "relatedSearch": [
+        {
+          "title": "„Götter wohlgesonnen“ - Titelverteidiger Ogier gewinnt Akropolis-Rallye",
+          "snippet": "",
+          "url": "https://www.krone.at/4197709",
           "source": "Kronen Zeitung"
         },
         {
-          "title": "Murenabgänge auf Gletscherstraße in Tirol, Gäste sitzen fest",
+          "title": "Formel 1 Österreich GP 2026 - Startaufstellung - Ergebnis",
           "snippet": "",
-          "url": "https://www.sn.at/panorama/oesterreich/murenabgaenge-auf-gletscherstrasse-in-tirol-gaeste-sitzen-fest-art-659157",
-          "source": "Salzburger Nachrichten"
+          "url": "https://www.motorsport-magazin.com/formel1/ergebnisse/2026/session/oesterreich-gp-startaufstellung-41593.html",
+          "source": "Motorsport-Magazin.com"
+        },
+        {
+          "title": "Akropolis-Rallye: Neuville und Ogier kämpfen um Sieg",
+          "snippet": "",
+          "url": "https://www.rallye-magazin.de/wrc/artikel/akropolis-rallye-neuville-und-ogier-kaempfen-um-sieg/",
+          "source": "rallye-magazin.de"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "alphonso davies",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 28 Jun 2026 13:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkE7rR8FaKg-13rgV3EW7IaBF31WODPMFyAQ7P0l6t0sLj2lE1sWbFjGduoGU",
-      "pictureSource": "Reuters",
+      "title": "eiffelturm blitzeinschlag",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 28 Jun 2026 20:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2xnJCwwTiAbtpBhOatGP0ZTxjVVzxnBqKW7D8a6WbIPQllxIeiPBbmtN_fyQ",
+      "pictureSource": "Kronen Zeitung",
       "relatedSearch": [
         {
-          "title": "Canada's Davies on the bench for World Cup last-32 clash with South Africa",
+          "title": "Spektakuläre Aufnahmen - Gewitter über Paris: Blitzschlag trifft Eiffelturm",
           "snippet": "",
-          "url": "https://www.reuters.com/sports/soccer/canadas-davies-bench-world-cup-last-32-clash-with-south-africa-2026-06-28/",
-          "source": "Reuters"
+          "url": "https://www.krone.at/4198327",
+          "source": "Kronen Zeitung"
         },
         {
-          "title": "Alphonso Davies is the key to Canada's success 🇨🇦",
+          "title": "Spektakuläre Bilder! Blitz trifft Eiffelturm",
           "snippet": "",
-          "url": "https://www.foxsports.com/watch-vertical/fmc-p0z6o93stana5l84",
-          "source": "FOX Sports"
+          "url": "https://www.vol.at/nach-hitzewelle-spektakulaerer-blitzeinschlag-in-paris-gefilmt/10284254",
+          "source": "VOL.AT"
         },
         {
-          "title": "Reaction in Toronto fan zone as Davies comes on for Canada",
+          "title": "Blitz trifft Eiffelturm und sorgt für spektakuläre Bilder",
           "snippet": "",
-          "url": "https://www.espn.in/video/clip/_/id/49209368/reaction-toronto-fan-zone-davies-comes-canada",
-          "source": "ESPN India"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "robert de niro",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 28 Jun 2026 13:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPm_nnQpNmJR5ttWT4hvQ9QTHg71X7PWebvCrcYiuy_XW6TtABni3cqs9Nx4c",
-      "pictureSource": "IMDb",
-      "relatedSearch": [
-        {
-          "title": "Robert De Niro And Christopher Walken's Classic '70s War Movie Still Holds Up Today",
-          "snippet": "",
-          "url": "https://www.imdb.com/fr-ca/news/ni65903215/?ref_=nm_nwr_1",
-          "source": "IMDb"
-        },
-        {
-          "title": "Robert De Niro And Christopher Walken's Classic '70s War Movie Still Holds Up Today",
-          "snippet": "",
-          "url": "https://www.yahoo.com/entertainment/movies/articles/robert-niro-christopher-walkens-classic-150000492.html",
-          "source": "Yahoo"
-        },
-        {
-          "title": "Robert De Niro’s Two 2026 Movies Couldn’t Be More Different",
-          "snippet": "",
-          "url": "https://screenrant.com/robert-de-niro-two-2026-movies-the-whisper-man-focker-in-law/",
-          "source": "ScreenRant"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "fc arsenal",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 28 Jun 2026 13:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-nJS19Yq7Zi7jOzKmnJRrzWSX8LlBsGhIytEKn0MTDZnuQ0aIQBZACNStQwg",
-      "pictureSource": "The New York Times",
-      "relatedSearch": [
-        {
-          "title": "Liverpool reject €25m offer from Inter for Curtis Jones - The Athletic",
-          "snippet": "",
-          "url": "https://www.nytimes.com/athletic/7380846/2026/06/21/curtis-jones-liverpool-inter-transfer-news/",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Lewis Steele: Arsenal considering shock move for Liverpool star",
-          "snippet": "",
-          "url": "https://onefootball.com/fr/news/lewis-steele-arsenal-considering-shock-move-for-liverpool-star-43069373",
-          "source": "OneFootball"
-        },
-        {
-          "title": "Liverpool reject £21.7m Inter Milan offer for Jones",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/articles/cwy05x9gldyo",
-          "source": "BBC"
+          "url": "https://www.gmx.at/magazine/panorama/videos/aus-aller-welt/blitz-trifft-eiffelturm-sorgt-spektakulaere-bilder-42439590",
+          "source": "GMX.AT"
         }
       ],
       "link": "https://imtaqin.id/"

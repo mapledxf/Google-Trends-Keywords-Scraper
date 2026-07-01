@@ -1,10 +1,75 @@
 {
-  "lastUpdate": "2026-07-01 11:42:02",
+  "lastUpdate": "2026-07-01 13:53:56",
   "data": [
     {
+      "title": "tanker",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 1 Jul 2026 06:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfVD-V60klREovKySaC8LwX9DJIsYSumOt21FdtrFIRBZZIO2Fc1yDZywdXWU",
+      "pictureSource": "The National Law Review",
+      "relatedSearch": [
+        {
+          "title": "STAX Engineering Secures $150 Million Financing from Bain Capital",
+          "snippet": "",
+          "url": "https://natlawreview.com/press-releases/stax-engineering-secures-150-million-financing-bain-capital-scale-maritime",
+          "source": "The National Law Review"
+        },
+        {
+          "title": "STAX lands $150m Bain backing",
+          "snippet": "",
+          "url": "https://splash247.com/stax-lands-150m-bain-backing/",
+          "source": "Splash247"
+        },
+        {
+          "title": "STAX Engineering Secures $150 Million to Scale Tanker Emissions-Capture Network in California",
+          "snippet": "",
+          "url": "https://www.tipranks.com/news/private-companies/stax-engineering-secures-150-million-to-scale-tanker-emissions-capture-network-in-california",
+          "source": "TipRanks"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "самолёт",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 1 Jul 2026 05:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN87TiSbHHZVNP9s5P-qeiT9j88mwaQNVI0VABuu-x2mmV1esSeK5MdbRY-Q8",
+      "pictureSource": "Израиль на ладони - israelinfo",
+      "relatedSearch": [
+        {
+          "title": "Странная история: пилот самолета, летящего в Израиль, подал сигнал о захвате, а потом передумал",
+          "snippet": "",
+          "url": "https://news.israelinfo.co.il/145576",
+          "source": "Израиль на ладони - israelinfo"
+        },
+        {
+          "title": "Инцидент с рейсом в Израиль – в Болгарии сделали заявление",
+          "snippet": "",
+          "url": "https://cursorinfo.co.il/interest/intsident-s-rejsom-v-izrail-v-bolgarii-sdelali-zayavlenie/",
+          "source": "Cursorinfo"
+        },
+        {
+          "title": "Израильские истребители подняты по тревоге из-за ошибки пилота самолета, летящего в Тель-Авив - NEWSru.co.il",
+          "snippet": "",
+          "url": "https://www.newsru.co.il/israel/30jun2026/electra_ta_003.html",
+          "source": "NEWSru.co.il"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "kethi uibomägi",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 1 Jul 2026 02:40:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tulekahju",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 1 Jul 2026 01:50:00 -0700",
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
@@ -23,25 +88,25 @@
       "title": "экономика",
       "trafficCount": "500+",
       "pubDate": "Tue, 30 Jun 2026 23:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR64yLQ8oDL3IgYzSCGjOozkyP9P0cgjiaCDrrveWFL8BuX7cCNWK3HR4ZlQUw",
-      "pictureSource": "Meduza",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSriNDYpY5HS2Gg49G6okAHOiOpwpTCgT1b16foCLKlqR7RpLazRx5Mviz7SNU",
+      "pictureSource": "Интерфакс",
       "relatedSearch": [
         {
-          "title": "Греф заявил, что при текущей ключевой ставке экономика «долго существовать не может»",
+          "title": "Набиуллина ответила Грефу на слова о переохлаждении экономики",
           "snippet": "",
-          "url": "https://meduza.io/news/2026/06/30/gref-zayavil-chto-pri-tekuschey-klyuchevoy-stavke-ekonomika-dolgo-suschestvovat-ne-mozhet",
-          "source": "Meduza"
-        },
-        {
-          "title": "Греф заявил о переохлаждении экономики РФ и призвал снизить ключевую ставку",
-          "snippet": "",
-          "url": "https://www.interfax.ru/business/1099197",
+          "url": "https://www.interfax.ru/business/1099507",
           "source": "Интерфакс"
         },
         {
-          "title": "Грефу не нравится ключевая ставка, что дальше будет с рублем. Главное за день",
+          "title": "Резюме обсуждения ключевой ставки",
           "snippet": "",
-          "url": "https://www.banki.ru/news/lenta/?id=11025468",
+          "url": "https://www.cbr.ru/dkp/mp_dec/decision_key_rate/summary_key_rate_01072026/",
+          "source": "Центральный Банк России"
+        },
+        {
+          "title": "«Осторожно и жестко»: о чем предупредил ЦБ в резюме по ключевой ставке",
+          "snippet": "",
+          "url": "https://www.banki.ru/news/lenta/?id=11025482",
           "source": "Банки.ру"
         }
       ],
@@ -69,26 +134,26 @@
       "title": "россия",
       "trafficCount": "100+",
       "pubDate": "Tue, 30 Jun 2026 19:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTexmjR8iqz82YblTDtoqhWzrquk1BvAZvTAvSAEjAQL1JkatHhwTqzvjbAhMw",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQSiGfSTRhBna_CDBteoXl_cruNsTd-0WRFzH0qHV5SFe8Oeujcv3Zyun9iQFA",
       "pictureSource": "Meduza",
       "relatedSearch": [
         {
-          "title": "«Контакты осуществляются». В Кремле заявили, что ведут переговоры о покупке бензина за рубежом",
+          "title": "Россия начала закупать бензин у Индии",
           "snippet": "",
-          "url": "https://meduza.io/news/2026/06/30/kontakty-osuschestvlyayutsya-v-kremle-zayavili-chto-vedut-peregovory-o-pokupke-benzina-za-rubezhom",
+          "url": "https://meduza.io/news/2026/07/01/rossiya-nachala-zakupat-benzin-u-indii",
           "source": "Meduza"
+        },
+        {
+          "title": "Россия выпросила у Казахстана 50 тысяч тонн бензина в рамках гуманитарной помощи",
+          "snippet": "",
+          "url": "https://ru.themoscowtimes.com/2026/07/01/rossiya-viprosila-ukazahstana-50-tisyach-tonn-benzina-vramkah-gumanitarnoi-pomoschi-a199716",
+          "source": "Русская служба The Moscow Times"
         },
         {
           "title": "Песков подтвердил обсуждение с другими странами возможного импорта нефтепродуктов",
           "snippet": "",
           "url": "https://www.interfax.ru/business/1099218",
           "source": "Интерфакс"
-        },
-        {
-          "title": "Песков назвал возможный импорт топлива шагом к стабилизации рынка",
-          "snippet": "",
-          "url": "https://www.vedomosti.ru/economics/news/2026/06/30/1209964-import-topliva",
-          "source": "Ведомости"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -113,94 +178,10 @@
           "source": "Sky Sports"
         },
         {
-          "title": "France's Didier Deschamps returns from family tragedy and makes World Cup request",
+          "title": "FIFA World Cup 2026 stats: Mbappe tops Messi, beats Ronaldo record; Olise one behind Pele; Haaland 25 in 13",
           "snippet": "",
-          "url": "https://sports.yahoo.com/articles/frances-didier-deschamps-returns-family-223742499.html",
-          "source": "Yahoo Sports"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "cote d'ivoire",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 30 Jun 2026 11:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJyDLK2j2Upa5P8gvmVx_OsRCZhq9tA1D0GD58PIbU1Ofqe-6EwWMFOp0pwqw",
-      "pictureSource": "Starsporttv",
-      "relatedSearch": [
-        {
-          "title": "Coupe du monde 2026 - Erling Haaland après la qualification: \"Cela va changer la Norvège pour toujours\"",
-          "snippet": "",
-          "url": "https://starsporttv.be/fr/content/coupe-du-monde-2026-erling-haaland-apres-la-qualification-cela-va-changer-la-norvege-pour-toujours",
-          "source": "Starsporttv"
-        },
-        {
-          "title": "« Aujourd’hui, c’est très difficile de parler, il a manqué des détails » : la désillusion de Kessié et de trois joueurs de Serie A éliminés du Mondial par la Norvège de Haaland",
-          "snippet": "",
-          "url": "https://onefootball.com/en/news/aujourdhui-cest-tres-difficile-de-parler-il-a-manque-des-details-la-desillusion-de-kessie-et-de-trois-joueurs-de-serie-a-elimines-du-mondial-par-la-norvege-de-haaland-43081717",
-          "source": "OneFootball"
-        },
-        {
-          "title": "Amad Diallo marque et défend lors d’une entrée en jeu de 30 minutes contre la Norvège en Coupe du monde",
-          "snippet": "",
-          "url": "https://www.sofascore.com/fr/news/amad-diallo-marque-et-defend-lors-dune-entree-en-jeu-de-30-minutes-contre-la-norvege-en-coupe-du-monde",
-          "source": "Sofascore"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "fifa",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 30 Jun 2026 11:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvF_Q2dYa04X1Uqz4NMOTayxwIX-CvM_y61ur1lF1LbRHGefoAhqdGMb9yT9I",
-      "pictureSource": "ESPN",
-      "relatedSearch": [
-        {
-          "title": "Mexico oust Ecuador for 1st World Cup knockout win in 40 years",
-          "snippet": "",
-          "url": "https://www.espn.com/soccer/story/_/id/49232657/mexico-ecuador-2026-world-cup-knockout-win",
-          "source": "ESPN"
-        },
-        {
-          "title": "Mexico ends a 40-year knockout drought in 2-0 win over Ecuador to reach the round of 16",
-          "snippet": "",
-          "url": "https://www.nbcnews.com/sports/soccer/mexico-ecuador-world-cup-rcna352512",
-          "source": "NBC News"
-        },
-        {
-          "title": "FIFA reverse decision to scrap hydration break after Mexico vs Ecuador delayed due to electrical storm",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/articles/fifa-reverse-decision-scrap-hydration-015155861.html",
-          "source": "Yahoo Sports"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "fifa world cup games",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 30 Jun 2026 10:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy02foq7lWc-nhj9tbch9yYDgqZFZ1wvHs3JE-keyVSoBZPVlwgjJvh-nF5-g",
-      "pictureSource": "Al Jazeera",
-      "relatedSearch": [
-        {
-          "title": "USA face Bosnia in World Cup knockouts, with pride, credentials on the line",
-          "snippet": "",
-          "url": "https://www.aljazeera.com/sports/2026/7/1/usa-face-bosnia-in-world-cup-knockouts-with-pride-credentials-on-the-line",
-          "source": "Al Jazeera"
-        },
-        {
-          "title": "Barbarez: America is the favorite, but we will give the last Atom of Strength to move on",
-          "snippet": "",
-          "url": "https://sarajevotimes.com/barbarez-america-is-the-favorite-but-we-will-give-the-last-atom-of-strength-to-move-on/",
-          "source": "Sarajevo Times"
-        },
-        {
-          "title": "Daily Cup: USMNT knockout preview and Mexico’s dark horse chances",
-          "snippet": "",
-          "url": "https://www.nytimes.com/athletic/7410397/2026/07/01/daily-cup-usmnt-knockout-preview-and-mexicos-dark-horse-chances/",
-          "source": "The New York Times"
+          "url": "https://www.heraldonline.co.zw/fifa-world-cup-2026-stats-mbappe-tops-messi-beats-ronaldo-record-olise-one-behind-pele-haaland-25-in-13/",
+          "source": "Herald.co.zw"
         }
       ],
       "link": "https://imtaqin.id/"

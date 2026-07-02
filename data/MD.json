@@ -1,58 +1,114 @@
 {
-  "lastUpdate": "2026-07-02 16:21:30",
+  "lastUpdate": "2026-07-02 18:06:58",
   "data": [
     {
-      "title": "guvern",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 2 Jul 2026 08:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSB5zX_e1c6M4yJ7kd6fZmKM2r-fzO8qbxNLUT95ETAGpvNXfpkvYveM6o89vI",
-      "pictureSource": "Moldova 1",
+      "title": "погода завтра",
+      "trafficCount": "5000+",
+      "pubDate": "Thu, 2 Jul 2026 10:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-0dFr4_tKdmypMfuiN_7ynWiC7Hk7lCumvS-M3b3QW2zs-vtVmIkguV5KWoU",
+      "pictureSource": "Твой Иркутск",
       "relatedSearch": [
         {
-          "title": "„Întăriri” pentru Guvern: 85 de tineri își încep stagiile în instituțiile publice, cu burse achitate de UE",
+          "title": "Грозы, град и ливни прогнозируют в Иркутской области 3 июля",
           "snippet": "",
-          "url": "https://moldova1.md/p/79798/-intariri-pentru-guvern-85-de-tineri-isi-incep-stagiile-in-institutiile-publice-cu-burse-achitate-de-ue",
-          "source": "Moldova 1"
+          "url": "https://www.irk.ru/news/20260702/weather/",
+          "source": "Твой Иркутск"
         },
         {
-          "title": "Trei tineri au început un stagiu plătit de două luni la Serviciul Vamal",
+          "title": "Гроза и жара до +29 градусов ожидается в Иркутске 1 июля",
           "snippet": "",
-          "url": "https://telegraph.md/trei-tineri-au-inceput-un-stagiu-platit-de-doua-luni-la-serviciul-vamal/",
-          "source": "telegraph.md"
+          "url": "https://pogoda.mail.ru/news/71468778/",
+          "source": "Погода Mail"
         },
         {
-          "title": "Serviciul Fiscal de Stat a lansat programul de stagii plătite pentru studenți",
+          "title": "В Усолье настоящее пекло. Сколько продлится жара » Городской портал Усолье-Сибирское",
           "snippet": "",
-          "url": "https://noi.md/md/societate/serviciul-fiscal-de-stat-a-lansat-programul-de-stagii-platite-pentru-studenti",
-          "source": "noi.md"
+          "url": "https://usolie-citi.ru/news/29573-v-usole-nastoyaschee-peklo-skolko-prodlitsya-zhara.html",
+          "source": "Usolie-citi"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "vremea de mâine",
+      "trafficCount": "10000+",
+      "pubDate": "Thu, 2 Jul 2026 10:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKfb1HzGF9NOY1Rx-NsBKHYbI3HHrw8yJdfK3kPrccPAzpo8ldAq77SMBVfv4",
+      "pictureSource": "Digi24",
+      "relatedSearch": [
+        {
+          "title": "Toată țara, sub cod portocaliu și galben de furtuni: sunt așteptate vijelii și grindină. ANM a emis și noi...",
+          "snippet": "",
+          "url": "https://www.digi24.ro/meteo/toata-tara-sub-cod-portocaliu-si-galben-de-furtuni-sunt-asteptate-vijelii-si-grindina-anm-a-emis-si-noi-alerte-de-canicula-harta-3843991",
+          "source": "Digi24"
+        },
+        {
+          "title": "Toată țara, sub avertizare de furtuni. Noi alerte meteo emise acum de ANM",
+          "snippet": "",
+          "url": "https://hotnews.ro/toata-tara-sub-avertizare-de-furtuni-cand-expira-alerta-meteo-2290081",
+          "source": "HotNews.ro"
+        },
+        {
+          "title": "Caniculă joi în cea mai mare parte a Moldovei şi a Transilvaniei, averse torenţiale, vijelii puternice şi grindină, în Banat, Crişana, Maramureş, Transilvania, nord-vestul Moldovei, Dobrogea, nordul, centrul şi estul Munteniei până vineri la 3.00 - HARTA",
+          "snippet": "",
+          "url": "https://www.news.ro/social/canicula-joi-cea-mare-parte-moldovei-transilvaniei-averse-torentiale-vijelii-puternice-grindina-banat-crisana-maramures-transilvania-nord-vestul-moldovei-dobrogea-nordul-centrul-estul-munteniei-pana-1922404602582026071022502481",
+          "source": "News.ro"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "guvern",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 2 Jul 2026 08:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMjlTbF1P4CCVu9YyxxBuuv8OwikkOPvSFvR2N4Fc_DyF2Xje-dA2uWkIcVSI",
+      "pictureSource": "HotNews.ro",
+      "relatedSearch": [
+        {
+          "title": "„Este fără precedent”. Înalta Curte reacționează vehement după mutarea anunțată de Bolojan cu privire la restanțele salariale ale magistraților. Intervine și Parchetul General",
+          "snippet": "",
+          "url": "https://hotnews.ro/este-fara-precedent-inalta-curte-reactioneaza-vehement-dupa-mutarea-anuntata-de-bolojan-cu-privire-la-restantele-salariale-ale-magistratilor-2290654",
+          "source": "HotNews.ro"
+        },
+        {
+          "title": "Guvernul va sesiza CCR în conflictul cu ÎCCJ. Ilie Bolojan: Instanța perturbă echilibrul bugetar",
+          "snippet": "",
+          "url": "https://stirileprotv.ro/stiri/politic/sedinta-de-guvern-executivul-pregateste-noi-exproprieri-pentru-autostrazi-si-si-sesizarea-ccr-in-conflictul-cu-iccj.html",
+          "source": "Stirile ProTV"
+        },
+        {
+          "title": "Separaţia puterilor în statul român este însoţită de „checks and balances”. Justiţia este independentă,...",
+          "snippet": "",
+          "url": "https://adevarul.ro/blogurile-adevarul/separatia-puterilor-in-statul-roman-este-insotita-2540624.html",
+          "source": "Adevarul"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "furtună",
-      "trafficCount": "100+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 2 Jul 2026 07:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQql1g2TQWiI4nLLlJcMb25jjcB4kuX_K7Nm3A2haoqh5NmErnfPK8Xa_JbMSE",
-      "pictureSource": "TV8.md",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHorvPKwi58e49XC2yLDrMXxzaEocn-xnrSMDN3jogsVjnf7_0Iv8jofVho6c",
+      "pictureSource": "HotNews.ro",
       "relatedSearch": [
         {
-          "title": "/VIDEO/ Furtună puternică în România: Un bărbat a murit după ce un copac s-a prăbușit peste o mașină",
+          "title": "Atenționare cod roșu de ploi torențiale în cele mai populare stațiuni de pe litoral. A fost emis RO-Alert",
           "snippet": "",
-          "url": "https://tv8.md/2026/07/01/video-furtuna-puternica-in-romania-un-barbat-a-murit-dupa-ce-un-copac-s-a-prabusit-peste-o-masina/305105",
-          "source": "TV8.md"
+          "url": "https://hotnews.ro/atentionare-cod-rosu-de-ploi-torentiale-in-cele-mai-populare-statiuni-de-pe-litoral-a-fost-emis-ro-alert-2290768",
+          "source": "HotNews.ro"
         },
         {
-          "title": "De ce s-a inundat Bucureștiul. Explicațiile Apa Nova: Ploaia care vine o dată la 40 de ani și canalizarea sub presiune, într-un oraș tot mai betonat",
+          "title": "Ploile se mută în sudul litoralului. Mesaj RO-Alert pentru cinci localități",
           "snippet": "",
-          "url": "https://spotmedia.ro/stiri/social/de-ce-s-a-inundat-bucurestiul-explicatiile-apa-nova-ploaia-care-vine-o-data-la-40-de-ani-si-canalizarea-sub-presiune-intr-un-oras-tot-mai-betonat",
-          "source": "Spotmedia.ro"
+          "url": "https://cugetliber.ro/stiri-eveniment-ploile-se-muta-in-sudul-litoralului-mesaj-ro-alert-pentru-cinci-localitati-558162",
+          "source": "CugetLiber.ro"
         },
         {
-          "title": "Avertizări Cod Roșu de furtuni violente în mai multe regiuni ale țării. Inundații și copaci doborâți. Au...",
+          "title": "ANM: Cod Roșu de vijelie în județele Ilfov și Ialomița / Cod Portocaliu în județele Constanța și Tulcea",
           "snippet": "",
-          "url": "https://www.digi24.ro/stiri/actualitate/social/anm-cod-rosu-in-cluj-si-cod-portocaliu-de-furtuni-in-mai-multe-regiuni-vijelii-grindina-si-ploi-torentiale-in-urmatoarele-ore-3843065",
-          "source": "Digi24"
+          "url": "https://www.g4media.ro/cod-rosu-de-vijelie-in-judetul-ilfov-si-ialomita.html",
+          "source": "G4Media"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -164,16 +220,16 @@
           "source": "Спорт Mail"
         },
         {
-          "title": "Камбэк Бельгии, слезы Сенегала. Чемпионат мира подарил новую драму в плей-офф — подробности",
-          "snippet": "",
-          "url": "https://news.zerkalo.io/cellar/131031.html",
-          "source": "Zerkalo"
-        },
-        {
           "title": "Бельгия обыграла в дополнительное время Сенегал в матче 1/16 ЧМ",
           "snippet": "",
           "url": "https://www.bfm.ru/news/611064",
           "source": "BFM.ru"
+        },
+        {
+          "title": "Футболисты Бельгии и США вышли в 1/8 финала чемпионата планеты",
+          "snippet": "",
+          "url": "https://belta.by/sport/view/futbolisty-belgii-i-ssha-vyshli-v-18-finala-chempionata-planety-789302-2026/",
+          "source": "Новости Беларуси | БелТА"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -202,62 +258,6 @@
           "snippet": "",
           "url": "https://belta.by/world/view/verhovnaja-rada-ukrainy-odobrila-zakonoproekt-o-sozdanii-ukrainskogo-panteona-789241-2026/",
           "source": "Новости Беларуси | БелТА"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "vremea de mâine",
-      "trafficCount": "5000+",
-      "pubDate": "Wed, 1 Jul 2026 11:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKfb1HzGF9NOY1Rx-NsBKHYbI3HHrw8yJdfK3kPrccPAzpo8ldAq77SMBVfv4",
-      "pictureSource": "Digi24",
-      "relatedSearch": [
-        {
-          "title": "Toată țara, sub cod portocaliu și galben de furtuni: sunt așteptate vijelii și grindină. ANM a emis și noi...",
-          "snippet": "",
-          "url": "https://www.digi24.ro/meteo/toata-tara-sub-cod-portocaliu-si-galben-de-furtuni-sunt-asteptate-vijelii-si-grindina-anm-a-emis-si-noi-alerte-de-canicula-harta-3843991",
-          "source": "Digi24"
-        },
-        {
-          "title": "Toată țara, sub avertizare de furtuni. Noi alerte meteo emise acum de ANM",
-          "snippet": "",
-          "url": "https://hotnews.ro/toata-tara-sub-avertizare-de-furtuni-cand-expira-alerta-meteo-2290081",
-          "source": "HotNews.ro"
-        },
-        {
-          "title": "Caniculă joi în cea mai mare parte a Moldovei şi a Transilvaniei, averse torenţiale, vijelii puternice şi grindină, în Banat, Crişana, Maramureş, Transilvania, nord-vestul Moldovei, Dobrogea, nordul, centrul şi estul Munteniei până vineri la 3.00 - HARTA",
-          "snippet": "",
-          "url": "https://www.news.ro/social/canicula-joi-cea-mare-parte-moldovei-transilvaniei-averse-torentiale-vijelii-puternice-grindina-banat-crisana-maramures-transilvania-nord-vestul-moldovei-dobrogea-nordul-centrul-estul-munteniei-pana-1922404602582026071022502481",
-          "source": "News.ro"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "погода завтра",
-      "trafficCount": "5000+",
-      "pubDate": "Wed, 1 Jul 2026 11:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlJvTgw4UpePWkq8_p-jq-HVxWEci4yiR9Pe8eEOw7UCFqcUpKCd860h6ALg8",
-      "pictureSource": "Minval Politika",
-      "relatedSearch": [
-        {
-          "title": "Лето набирает обороты: синоптики рассказали о погоде на завтра",
-          "snippet": "",
-          "url": "https://minval.az/news/124541644",
-          "source": "Minval Politika"
-        },
-        {
-          "title": "Прогноз погоды в Азербайджане на 03.07.2026",
-          "snippet": "",
-          "url": "https://oxu.az/ru/obshestvo/prognoz-pogody-v-azerbajdzhane-na-03-07-2026",
-          "source": "Oxu.Az"
-        },
-        {
-          "title": "В Азербайджане выпал снег",
-          "snippet": "",
-          "url": "https://1news.az/news/20260701115955470-V-Azerbaidzhane-vypal-sneg",
-          "source": "1News.az"
         }
       ],
       "link": "https://imtaqin.id/"

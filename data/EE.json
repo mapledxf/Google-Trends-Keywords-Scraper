@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2026-07-05 11:55:03",
+  "lastUpdate": "2026-07-05 13:13:29",
   "data": [
     {
+      "title": "гроза",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 5 Jul 2026 04:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJuv0FFeq3646QdgKsnd3_groMW2jiIsHY2_BHsObrNjD9nqia7MGDzBIBIm0",
+      "pictureSource": "Росбалт",
+      "relatedSearch": [
+        {
+          "title": "На Петербург надвигается мощный шторм с тропическими ливнями",
+          "snippet": "",
+          "url": "https://www.rosbalt.ru/news/2026-07-05/na-peterburg-nadvigaetsya-moschnyy-shtorm-s-tropicheskimi-livnyami-5631122",
+          "source": "Росбалт"
+        },
+        {
+          "title": "МЧС предупредило Петербург о новом раунде ливней и гроз",
+          "snippet": "",
+          "url": "https://www.fontanka.ru/2026/07/05/76517171/",
+          "source": "ФОНТАНКА.ру"
+        },
+        {
+          "title": "Ливни и грозы нагрянут в Петербург 5 июля",
+          "snippet": "",
+          "url": "https://pogoda.mail.ru/news/71516004/",
+          "source": "Погода Mail"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "грузия",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 5 Jul 2026 04:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFvPE4vnj6kUjRt_1YSN74rtOKwYn8up45UE7ZB850RAfgd0_2ZaaPgC0dxfY",
       "pictureSource": "president.uz",
@@ -30,34 +58,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "гроза",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 5 Jul 2026 04:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRe6S4A-Xcllfk1mXmLKsUbWUJ9a5M_99u7Vwv3768k0IaRi9rDKCi-kKUozWg",
-      "pictureSource": "Inkazan.ru",
-      "relatedSearch": [
-        {
-          "title": "Погода 6 и 7 июля 2026: грозы, град и падение температуры до +23˚",
-          "snippet": "",
-          "url": "https://inkazan.ru/news/2026-07-05/tatarstan-nakroyut-livni-grad-i-veter-20-m-s-podrobnyy-prognoz-5631006",
-          "source": "Inkazan.ru"
-        },
-        {
-          "title": "В Татарстане в понедельник обещают грозу и сильный ветер до 20 м/с",
-          "snippet": "",
-          "url": "https://m.business-gazeta.ru/news/706130",
-          "source": "БИЗНЕС Online — Новости Казани"
-        },
-        {
-          "title": "В Татарстане ожидаются грозы, сильный дождь и порывистый ветер 5 июля",
-          "snippet": "",
-          "url": "https://pogoda.mail.ru/news/71520246/",
-          "source": "Погода Mail"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "баскетболист",
       "trafficCount": "100+",
       "pubDate": "Sun, 5 Jul 2026 02:40:00 -0700",
@@ -76,51 +76,23 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "санкт-петербург",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 5 Jul 2026 00:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBSCLMrX_BUCvbiAzBF_n7UVkDrwkxPkDuuABbR2RIQ3vkoJQ41B7zqhmuROo",
-      "pictureSource": "Росбалт",
-      "relatedSearch": [
-        {
-          "title": "Лето на паузе: на Петербург надвигается похолодание до +16°",
-          "snippet": "",
-          "url": "https://www.rosbalt.ru/news/2026-07-04/leto-na-pauze-na-peterburg-nadvigaetsya-poholodanie-do-16-5630782",
-          "source": "Росбалт"
-        },
-        {
-          "title": "Дожди не отступают: Петербург ждут ливни с грозами",
-          "snippet": "",
-          "url": "https://www.fontanka.ru/2026/07/05/76516994/",
-          "source": "ФОНТАНКА.ру"
-        },
-        {
-          "title": "Ливни и грозы нагрянут в Петербург 5 июля",
-          "snippet": "",
-          "url": "https://pogoda.mail.ru/news/71516004/",
-          "source": "Погода Mail"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "paraguay vs france",
       "trafficCount": "100+",
       "pubDate": "Sat, 4 Jul 2026 23:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkKB1QOW5yyoJ0xGlljQag8DSEo1A7tsSokTLfcRAK5Erklsus_0cF9QMm9AQ",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2gQPkSkV_MMngebGcW34rrdZgU0y5LgGJn37FvFXNCwy76Rqw9Vw7ZSm2PEI",
       "pictureSource": "ESPN",
       "relatedSearch": [
         {
-          "title": "France pass toughest World Cup test yet in beating feisty Paraguay",
+          "title": "France's Kylian Mbappé on Paraguay tactics: 'We can also get our hands dirty'",
           "snippet": "",
-          "url": "https://www.espn.com/soccer/story/_/id/49272197/france-kylian-mbappe-paraguay-world-cup-reaction-analysis",
+          "url": "https://www.espn.com/soccer/story/_/id/49272367/france-kylian-mbappe-paraguay-tactics-get-our-hands-dirty",
           "source": "ESPN"
         },
         {
-          "title": "Kylian Mbappe delighted with France win over Paraguay – “We know how to play ugly football”",
+          "title": "Paraguay goalie tosses ball at France's Kylian Mbappé after World Cup showdown",
           "snippet": "",
-          "url": "https://sports.yahoo.com/articles/kylian-mbappe-delighted-france-win-113000409.html",
-          "source": "Yahoo Sports"
+          "url": "https://www.foxnews.com/sports/paraguay-goalie-tosses-ball-france-kylian-mbappe-world-cup-showdown",
+          "source": "Fox News"
         },
         {
           "title": "France ready for ‘war’ at World Cup after winning the ‘disgrace’ of Philadelphia",
@@ -135,33 +107,33 @@
       "title": "штормовое предупреждение",
       "trafficCount": "200+",
       "pubDate": "Sat, 4 Jul 2026 22:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9ZYSCJ6aUszZpu4BakcdA-Kau_dxww0qjldGDjc80M14BqsxwPgknH20sA7g",
-      "pictureSource": "Rus.Postimees.ee",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS176vrWkr4ss44cZ0dpQ7C0tN3j2vf23H0VIfp8IaIKS3kaZhIIjWVRnwTFs",
+      "pictureSource": "Ulysmedia.kz",
       "relatedSearch": [
         {
-          "title": "Синоптики предупреждают: Эстонию снова накроет стихия",
+          "title": "Сильные дожди прогнозируют в трёх регионах Казахстана 4 июля",
           "snippet": "",
-          "url": "https://rus.postimees.ee/8503061/sinoptiki-preduprezhdayut-estoniyu-snova-nakroet-stihiya",
-          "source": "Rus.Postimees.ee"
+          "url": "https://ulysmedia.kz/news/76412-silnye-dozhdi-prognoziruiut-v-triokh-regionakh-kazakhstana-4-iiulia/",
+          "source": "Ulysmedia.kz"
         },
         {
-          "title": "В воскресенье возможны осадки, +17...+23",
+          "title": "Опубликовано штормовое предупреждение на 6 июля",
           "snippet": "",
-          "url": "https://rus.err.ee/1610070160/v-voskresene-vozmozhny-osadki-17-23",
-          "source": "ERR"
+          "url": "https://www.zakon.kz/sobytiia/6523696-opublikovano-shtormovoe-preduprezhdenie-na-6-iyulya.html",
+          "source": "Новости Zakon.kz"
         },
         {
-          "title": "ОНЛАЙН-КАРТА | Куда движутся грозы и молнии?",
+          "title": "Штормовое предупреждение объявлено по всему Казахстану: 05 июля 01:50",
           "snippet": "",
-          "url": "https://pogoda.delfi.ee/statja/120594915/onlayn-karta-kuda-dvizhutsya-grozy-i-molnii",
-          "source": "Delfi"
+          "url": "https://tengrinews.kz/kazakhstan_news/shtormovoe-preduprejdenie-obyyavleno-po-vsemu-kazahstanu-603241/",
+          "source": "TengriNews"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "kerr kriisa",
-      "trafficCount": "5000+",
+      "trafficCount": "10000+",
       "pubDate": "Sat, 4 Jul 2026 21:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRU2kFctIW33vUrqKZdsvHH1tX89eQH1qU8_Fe33y-McGS4K6tAo7R1hKeWqzk",
       "pictureSource": "On3",
@@ -173,16 +145,16 @@
           "source": "On3"
         },
         {
-          "title": "Report: FBI arrests former West Virginia, Kentucky player Kerr Kriisa",
-          "snippet": "",
-          "url": "https://www.reuters.com/sports/report-fbi-arrests-former-west-virginia-kentucky-player-kerr-kriisa--flm-2026-07-05/",
-          "source": "Reuters"
-        },
-        {
           "title": "FBI arrests Estonian basketballer Kerr Kriisa",
           "snippet": "",
           "url": "https://news.err.ee/1610070388/fbi-arrests-estonian-basketballer-kerr-kriisa",
           "source": "ERR"
+        },
+        {
+          "title": "Ex-NCAA basketball star Kerr Kriisa arrested by FBI in alleged multimillion-dollar fraud scheme",
+          "snippet": "",
+          "url": "https://nypost.com/2026/07/05/sports/ex-ncaa-basketball-player-kerr-kriisa-arrested-by-fbi-in-alleged-multimillion-dollar-fraud-scheme/",
+          "source": "New York Post"
         }
       ],
       "link": "https://imtaqin.id/"

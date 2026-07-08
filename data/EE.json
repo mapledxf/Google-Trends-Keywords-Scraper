@@ -1,19 +1,13 @@
 {
-  "lastUpdate": "2026-07-08 22:53:26",
+  "lastUpdate": "2026-07-08 23:57:04",
   "data": [
     {
       "title": "министерство иностранных дел",
       "trafficCount": "200+",
       "pubDate": "Wed, 8 Jul 2026 11:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX-pCyA9o-2iW2dMf946PLM-dxKG0IXR4tAT8sep8wGizb_NM37UF1bTmQ9LI",
-      "pictureSource": "Rus.Postimees.ee",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoWOr-7bjakQuWl1NySzclPUBzOu0D6_d0UkMCbUELaddd5L4h7EtovEllKcE",
+      "pictureSource": "ERR",
       "relatedSearch": [
-        {
-          "title": "МИД вручил посольству России ноту в связи с распространением антиэстонской дезинформации",
-          "snippet": "",
-          "url": "https://rus.postimees.ee/8505369/mid-vruchil-posolstvu-rossii-notu-v-svyazi-s-rasprostraneniem-antiestonskoy-dezinformacii",
-          "source": "Rus.Postimees.ee"
-        },
         {
           "title": "Государство отвергает сомнения относительно потенциала Эстонии в сфере борьбы с дронами",
           "snippet": "",
@@ -21,10 +15,16 @@
           "source": "ERR"
         },
         {
-          "title": "Латвию предупредили о последствиях ударов по России",
+          "title": "МИД вручил посольству России ноту в связи с распространением антиэстонской дезинформации",
           "snippet": "",
-          "url": "https://ura.news/news/1053107200",
-          "source": "URA.RU"
+          "url": "https://rus.postimees.ee/8505369/mid-vruchil-posolstvu-rossii-notu-v-svyazi-s-rasprostraneniem-antiestonskoy-dezinformacii",
+          "source": "Rus.Postimees.ee"
+        },
+        {
+          "title": "В МИД заявили об открытии странами Балтии неба для ударов ВСУ по России",
+          "snippet": "",
+          "url": "https://www.forbes.ru/society/564334-v-mid-zaavili-ob-otkrytii-stranami-baltii-neba-dla-udarov-vsu-po-rossii",
+          "source": "Forbes.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +155,16 @@
           "source": "DW.com"
         },
         {
-          "title": "Суд в РФ приговорил проживающую в Литве певицу Монеточку к году колонии заочно",
-          "snippet": "",
-          "url": "https://rus.err.ee/1610072560/sud-v-rf-prigovoril-prozhivajuwuju-v-litve-pevicu-monetochku-k-godu-kolonii-zaochno",
-          "source": "ERR"
-        },
-        {
           "title": "Певицу Монеточку заочно приговорили к году колонии",
           "snippet": "",
           "url": "https://www.forbes.ru/forbeslife/564486-pevicu-monetocku-zaocno-prigovorili-k-godu-kolonii",
           "source": "Forbes.ru"
+        },
+        {
+          "title": "Певицу Монеточку заочно приговорили к одному году колонии",
+          "snippet": "",
+          "url": "https://www.svoboda.org/a/pevitsu-monetochku-zaochno-prigovorili-k-odnomu-godu-kolonii/33798550.html",
+          "source": "Радио Свобода"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,15 +173,9 @@
       "title": "москва",
       "trafficCount": "200+",
       "pubDate": "Wed, 8 Jul 2026 00:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpMbMrgfgHZ8CHbj6YShuTIgUz25_VGPEuarTPWZD5ANccJlD8R5O46_Il9k4",
-      "pictureSource": "Ведомости",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQflp0eof7KzqDAbuNyiP6YQEIeO9_kaDuGTVOGe-QuG9Zv8DBWfe4X8IhWZLM",
+      "pictureSource": "BBC",
       "relatedSearch": [
-        {
-          "title": "Что сказал Трамп о мирном урегулировании на Украине и ударах по России",
-          "snippet": "",
-          "url": "https://www.vedomosti.ru/politics/articles/2026/07/08/1212206-o-uregulirovanii-i-udarah",
-          "source": "Ведомости"
-        },
         {
           "title": "Трамп пообещал предоставить Киеву лицензию на производство ракет-перехватчиков Patriot",
           "snippet": "",
@@ -189,10 +183,16 @@
           "source": "BBC"
         },
         {
-          "title": "1596-й день войны: США могут дать Украине лицензию на производство ракет Patriot",
+          "title": "Что сказал Трамп о мирном урегулировании на Украине и ударах по России",
           "snippet": "",
-          "url": "https://rus.err.ee/1610072563/1596-j-den-vojny-ssha-mogut-dat-ukraine-licenziju-na-proizvodstvo-raket-patriot",
-          "source": "ERR"
+          "url": "https://www.vedomosti.ru/politics/articles/2026/07/08/1212206-o-uregulirovanii-i-udarah",
+          "source": "Ведомости"
+        },
+        {
+          "title": "Трамп сообщил Радио Свобода, почему считает вероятным скорое завершение войны в Украине",
+          "snippet": "",
+          "url": "https://www.currenttime.tv/a/prezident-ssha-donald-tramp-skoroe-zavershenie-voyny/33799488.html",
+          "source": "Настоящее Время"
         }
       ],
       "link": "https://imtaqin.id/"

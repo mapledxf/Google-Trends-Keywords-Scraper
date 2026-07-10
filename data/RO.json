@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-07-10 22:38:49",
+  "lastUpdate": "2026-07-10 23:36:01",
   "data": [
+    {
+      "title": "flight radar",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 10 Jul 2026 14:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwChhzh1loQ-c6CB9Fu7DRF83nU34luUalCzRevIxqG-q9H3Ag6B9y_8iXnMY",
+      "pictureSource": "The New York Times",
+      "relatedSearch": [
+        {
+          "title": "Passenger Is Partly Sucked Through Window on Ryanair Subsidiary Flight, Reports Say",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2026/07/10/world/europe/ryanair-plane-greece-passenger-broken-window.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Passenger partly sucked through airplane window",
+          "snippet": "",
+          "url": "https://www.nbcnews.com/nightly-news/video/passenger-partly-sucked-through-airplane-window-266520133852",
+          "source": "NBC News"
+        },
+        {
+          "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/cgk65knkyzdo",
+          "source": "BBC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "prognoza meteo anm",
       "trafficCount": "200+",
@@ -21,9 +49,9 @@
           "source": "HotNews.ro"
         },
         {
-          "title": "VIDEO: Vin ploile cu furtuni, grindină și rafale de 80 km/h. ANM a publicat prognoza meteo pe 4 săptămâni. Unde va fi cel mai cald",
+          "title": "Vin ploile cu furtuni, grindină și rafale de 80 km/h. ANM a publicat prognoza meteo pe 4 săptămâni....",
           "snippet": "",
-          "url": "https://www.antena3.ro/video/vin-ploile-cu-furtuni-grindina-si-rafale-de-80-km-h-anm-a-publicat-prognoza-meteo-pe-4-saptamani-unde-va-fi-cel-mai-cald-227155.html",
+          "url": "https://www.antena3.ro/meteo/vin-ploile-cu-furtuni-grindina-si-rafale-de-80-km-h-anm-a-publicat-prognoza-meteo-pe-4-saptamani-unde-va-fi-cel-mai-cald-795137.html",
           "source": "Antena 3"
         }
       ],
@@ -58,34 +86,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "norway vs england",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 10 Jul 2026 14:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2GLWuX9ZJTqLWB81tmc6BZPLhcX2K37tANOQNQyMETyghiBMtHdyP5VaJR-k",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "England v Norway tactics: How can Thomas Tuchel disrupt World Cup opponents - and Erling Haaland?",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/articles/c621jyxkvzko",
-          "source": "BBC"
-        },
-        {
-          "title": "Erling Haaland claims pressure is all on England in quarter-final with Norway",
-          "snippet": "",
-          "url": "https://www.theguardian.com/football/2026/jul/09/erling-haaland-claims-pressure-is-all-on-england-in-quarter-final-with-norway",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Latest weather forecast for England vs Norway in Miami and how hot it could get",
-          "snippet": "",
-          "url": "https://www.thesun.co.uk/sport/39715714/england-vs-norway-miami-weather-forecast-temperature/",
-          "source": "The Sun"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "mcgregor vs holloway",
       "trafficCount": "200+",
       "pubDate": "Fri, 10 Jul 2026 14:10:00 -0700",
@@ -105,10 +105,38 @@
           "source": "Yahoo Sports"
         },
         {
-          "title": "Cold Open | UFC 329: McGregor vs Holloway 2",
+          "title": "Official Weigh-In Results | UFC 329: McGregor vs Holloway 2",
           "snippet": "",
-          "url": "https://www.ufc.com/video/158267",
+          "url": "https://www.ufc.com/news/official-weigh-results-ufc-329-mcgregor-vs-holloway-2",
           "source": "UFC.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "norway vs england",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 10 Jul 2026 14:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2GLWuX9ZJTqLWB81tmc6BZPLhcX2K37tANOQNQyMETyghiBMtHdyP5VaJR-k",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "England v Norway tactics: How can Thomas Tuchel disrupt World Cup opponents - and Erling Haaland?",
+          "snippet": "",
+          "url": "https://www.bbc.com/sport/football/articles/c621jyxkvzko",
+          "source": "BBC"
+        },
+        {
+          "title": "Erling Haaland claims pressure is all on England in quarter-final with Norway",
+          "snippet": "",
+          "url": "https://www.theguardian.com/football/2026/jul/09/erling-haaland-claims-pressure-is-all-on-england-in-quarter-final-with-norway",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Licensable picture: Norway head coach Stale Solbakken",
+          "snippet": "",
+          "url": "https://www.reutersconnect.com/item/norway-head-coach-stale-solbakken/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwUDYyQ1hM",
+          "source": "Reuters Connect"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,13 +145,13 @@
       "title": "mondial 2026",
       "trafficCount": "1000+",
       "pubDate": "Fri, 10 Jul 2026 14:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHRzJdBoPxkq3i6ZNI04bdFIbZieNZ1Qa0uPOmxMHAzFP-Axy9ixwySH92sAY",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSe3NwRKrPOUQgmNZSagAbExqLDbrvkfO7rT6Bd1pxDZ0ofY4LGiJhz3bJaPGY",
       "pictureSource": "Digi Sport",
       "relatedSearch": [
         {
-          "title": "Franța a primit vestea, după ce Kylian Mbappe a cerut schimbare la meciul cu Maroc",
+          "title": "\"E clar că Mondialul este aranjat!\" Reacții virulente, după scenele din Franța - Maroc 2-0",
           "snippet": "",
-          "url": "https://www.digisport.ro/fotbal/cm-2026/franta-a-primit-vestea-dupa-ce-kylian-mbappe-a-cerut-schimbare-la-meciul-cu-maroc-4371267",
+          "url": "https://www.digisport.ro/fotbal/cm-2026/e-clar-ca-mondialul-este-aranjat-reactii-virulente-dupa-scenele-din-franta-maroc-2-0-4369673",
           "source": "Digi Sport"
         },
         {
@@ -201,26 +229,26 @@
       "title": "senne lammens",
       "trafficCount": "1000+",
       "pubDate": "Fri, 10 Jul 2026 13:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXTOKkg2RQgjKgTnNUvIOs8T1hukn9bA9QL7MZFiQOTLLA-XjJgkUROvKvrP4",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZ1EDml_TI5lnDT_-1RVufRLVUYZ7WStRbtXBABWZfpxFKClOoO0desXLffm0",
       "pictureSource": "Sporza",
       "relatedSearch": [
         {
-          "title": "Doodjammer WK-einde: Rode Duivels kraken in slot onder Spaanse druk (en door pijnlijke fout) na moedige kwartfinale",
+          "title": "LIVESTREAM: Erop en erover? Rode Duivels gaan op zoek naar verdere mirakelwerken in tweede helft",
           "snippet": "",
-          "url": "https://sporza.be/nl/matches/voetbal/wld/fifa-wereldkampioenschap/2026/kwartfinale/01/spanje-belgie-doodjammer-wk-einde-rode-duivels-kraken-in-slot-onder-spaanse-druk-en-door-pijnlijke-fout-na-moedige-kwartfinale~1764862741077/",
+          "url": "https://sporza.be/nl/matches/voetbal/wld/fifa-wereldkampioenschap/2026/kwartfinale/01/spanje-belgie-livestream-erop-en-erover-rode-duivels-gaan-op-zoek-naar-verdere-mirakelwerken-in-tweede-helft~1764862741077/",
           "source": "Sporza"
         },
         {
-          "title": "Voetbalgekte compleet in Leuven, maar het mag niet baten: bomvolle Oude én Grote Markt zien Rode Duivels verliezen",
+          "title": "Courtois reageert na gedwongen wissel in kwartfinale: \"De coach maakte zijn keuze\"",
           "snippet": "",
-          "url": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/leuven/voetbalgekte-compleet-in-leuven-maar-het-mag-niet-baten-bomvolle-oude-en-grote-markt-zien-rode-duivels-verliezen/158532502.html",
-          "source": "Nieuwsblad"
+          "url": "https://www.voetbalprimeur.be/nieuws/2110843/courtois-reageert-na-wissel-tegen-spanje.html",
+          "source": "VoetbalPrimeur.be"
         },
         {
-          "title": "LIVE De Ketelaere maakt gelijk: 1-1",
+          "title": "Ook in Middelkerke waren de supporters ontgoocheld na de uitschakeling van de Rode Duivels",
           "snippet": "",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/de-ketelaere-maakt-gelijk-11~1783653761646/",
-          "source": "VRT"
+          "url": "https://www.hln.be/middelkerke/ook-in-middelkerke-waren-de-supporters-ontgoocheld-na-de-uitschakeling-van-de-rode-duivels~a85aa5e0/",
+          "source": "HLN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,44 +267,16 @@
           "source": "Telemundo"
         },
         {
-          "title": "Nico Williams, necesaria amenaza bilateral para España",
+          "title": "El gesto de Nico Williams en el gol de Mikel Merino, aclarado",
           "snippet": "",
-          "url": "https://www.lavozdegalicia.es/noticia/mundial2026/2026/07/10/nico-williams-necesaria-amenaza-bilateral-espana/00031783719494247802825.htm",
-          "source": "La Voz de Galicia"
+          "url": "https://www.estadiodeportivo.com/futbol/seleccion-espanola/gesto-nico-williams-gol-mikel-merino-aclarado-20260710-542076.html",
+          "source": "Estadio Deportivo"
         },
         {
-          "title": "Nico explica la celebración del gol: \"La gente se piensa que no, pero estaba eufórico\"",
+          "title": "Nico Williams: \"Ya hemos ganado a Francia dos veces y queremos volver a hacerlo\"",
           "snippet": "",
-          "url": "https://www.sport.es/es/noticias/mundial-futbol/nico-explica-celebracion-gol-gente-132348545",
-          "source": "SPORT"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "gavi",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 10 Jul 2026 13:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMB3cedHnOliCjSuMP1MVpFIvfJyHmEPNGH7dJGgC7Xpom0OLNZ9VapvAVjk8",
-      "pictureSource": "FOX Deportes",
-      "relatedSearch": [
-        {
-          "title": "España: \"Preferimos a Marruecos en la semifinal\"",
-          "snippet": "",
-          "url": "https://www.foxdeportes.com/mundial/nota/espana-tiene-sed-de-revancha-y-quiere-a-marruecos-en-semifinales",
-          "source": "FOX Deportes"
-        },
-        {
-          "title": "Gavi sueña con un gol de chilena a la Argentina de Messi en plena Final del Mundial",
-          "snippet": "",
-          "url": "https://www.tudn.com/embed/mx/mundial-2026/gavi-suena-con-un-gol-de-chilena-a-la-argentina-de-messi-en-plena-final-del-mundial-video-vertical",
-          "source": "TUDN"
-        },
-        {
-          "title": "“Si canta Justin Bieber en la final, mejor…”",
-          "snippet": "",
-          "url": "https://as.com/futbol/seleccion/si-canta-justin-bieber-en-la-final-mejor-f202607-n/",
-          "source": "Diario AS"
+          "url": "https://www.mundodeportivo.com/seleccion-espanola/20260711/1004205250/nico-williams-hemos-ganado-francia-dos-veces-queremos-volver-hacerlo.html",
+          "source": "Mundo Deportivo"
         }
       ],
       "link": "https://imtaqin.id/"

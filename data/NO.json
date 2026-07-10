@@ -1,6 +1,90 @@
 {
-  "lastUpdate": "2026-07-10 11:28:57",
+  "lastUpdate": "2026-07-10 13:27:18",
   "data": [
+    {
+      "title": "spania",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 10 Jul 2026 06:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIYJx4Cc1zSK9SrmWBfoyBkkCLiFST858wC9S1_cGIltvj_1SyuyCqRIIlhFY",
+      "pictureSource": "The New York Times",
+      "relatedSearch": [
+        {
+          "title": "At Least 11 People Die in Southern Spain Wildfire",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "One of Spain’s Deadliest-Ever Wildfires Claims at Least 11 Lives",
+          "snippet": "",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-10/one-of-spain-s-deadliest-ever-wildfires-claims-at-least-11-lives?",
+          "source": "Bloomberg.com"
+        },
+        {
+          "title": "Twelve killed, 23 missing in one of Spain's deadliest wildfires",
+          "snippet": "",
+          "url": "https://www.reuters.com/business/environment/wildfires-southern-spain-kill-12-emergency-agency-says-2026-07-10/",
+          "source": "Reuters"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "openai",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 10 Jul 2026 06:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbqQgsqbzD21B5t-UrxJicbk-Mv7uqIcUaIBWZWpNS3BMxn87raC3aRDC86s8",
+      "pictureSource": "OpenAI",
+      "relatedSearch": [
+        {
+          "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+          "snippet": "",
+          "url": "https://openai.com/index/gpt-5-6/",
+          "source": "OpenAI"
+        },
+        {
+          "title": "OpenAI's newest AI model is 54% more token efficient on agentic coding, Altman tells CNBC",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2026/07/09/open-ai-sam-altman-chatgpt-5-6-sol.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2026/07/09/technology/openai-sol-ai.html",
+          "source": "The New York Times"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ryanair",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 10 Jul 2026 05:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQs_3CoxS-vuGVjO2ItcxwCT7z50cXIqhHwsJRYrTvNA2Dq1tItpoKV3K3qCLs",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Passenger 'nearly sucked out of window mid-air' on Ryanair plane",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/cgk65knkyzdo",
+          "source": "BBC"
+        },
+        {
+          "title": "Ryanair passenger almost sucked out of shattered window during flight",
+          "snippet": "",
+          "url": "https://www.theguardian.com/business/2026/jul/10/ryanair-passenger-almost-sucked-out-of-shattered-window-during-flight",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Ryanair Passenger Partly Sucked Out of Jet as Window Breaks",
+          "snippet": "",
+          "url": "https://www.seattletimes.com/business/passenger-partly-sucked-out-of-boeing-jet-as-window-dislodges/",
+          "source": "The Seattle Times"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "skogbrann",
       "trafficCount": "200+",
@@ -15,16 +99,16 @@
           "source": "NRK"
         },
         {
+          "title": "Minst tolv personer døde i skogbrann",
+          "snippet": "",
+          "url": "https://www.dagbladet.no/nyheter/minst-tolv-personer-dode-i-skogbrann/84885911",
+          "source": "Dagbladet"
+        },
+        {
           "title": "Fredag 10. juli: Dette skjedde i natt",
           "snippet": "",
           "url": "https://www.vg.no/nyheter/i/Ar00vz/fredag-10-juli-dette-skjedde-i-natt",
           "source": "VG"
-        },
-        {
-          "title": "Spania: Minst tolv døde i voldsom skogbrann",
-          "snippet": "",
-          "url": "https://www.tv2.no/nyheter/minst-tolv-dode-i-voldsom-skogbrann/19035235/",
-          "source": "TV 2"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -43,16 +127,16 @@
           "source": "E24"
         },
         {
+          "title": "SSB: Prisene steg 2,7 prosent i juni",
+          "snippet": "",
+          "url": "https://www.tv2.no/nyheter/ssb-prisene-steg-27-prosent-i-juni/19034969/",
+          "source": "TV 2"
+        },
+        {
           "title": "Sjeføkonom: VM-fest kan gi rentehåp",
           "snippet": "",
           "url": "https://borsen.dagbladet.no/nyheter/sjefokonom-vm-fest-kan-gi-rentehap/84880580",
           "source": "Dagbladet"
-        },
-        {
-          "title": "SSB: Inflasjonen i Norge var 2,7 prosent i juni",
-          "snippet": "",
-          "url": "https://www.dn.no/makrookonomi/ssb/makrookonomi/ssb-inflasjonen-i-norge-var-27-prosent-i-juni/2-1-2015363",
-          "source": "Dagens Næringsliv"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,26 +145,26 @@
       "title": "+49",
       "trafficCount": "500+",
       "pubDate": "Fri, 10 Jul 2026 02:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTukEqG9KjflpUSsyYHOotCy6o08vEY7dmp1fz7o966uukBq9N520kY_zlnHq8",
-      "pictureSource": "WAPT",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQV__vD5Tg6E8zIMEdcE8LL3tEoEX9Zp2OcQMn1q6SaTVC9XpuGi8ff-hpwX1U",
+      "pictureSource": "Junior Mining Network",
       "relatedSearch": [
         {
-          "title": "18-wheeler collides with vehicle shutting down traffic on Highway 49 near Star",
+          "title": "Tocvan Enters Into Definitive Agreement to Acquire Remaining 49% Interest in Original Pilar Concessions, Consolidating 100% Ownership of Flagship Gran Pilar Gold-Silver Project",
           "snippet": "",
-          "url": "https://www.wapt.com/article/18-wheeler-collides-with-vehicle-shutting-down-traffic-on-highway-49-near-star/71894859",
-          "source": "WAPT"
+          "url": "https://www.juniorminingnetwork.com/junior-miner-news/press-releases/2727-cse/toc/207060-tocvan-enters-into-definitive-agreement-to-acquire-remaining-49-interest-in-original-pilar-concessions-consolidating-100-ownership-of-flagship-gran-pilar-gold-silver-project.html",
+          "source": "Junior Mining Network"
         },
         {
-          "title": "49 Knighton Road, Elizabeth North, SA 5113",
+          "title": "Colibri Announces Definitive Agreement to Sell Remaining 49% Interest in Pilar for C$3.6 Million While Retaining 1% NSR",
           "snippet": "",
-          "url": "https://www.realestate.com.au/property-house-sa-elizabeth+north-151737760",
-          "source": "Real Estate"
+          "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Newsfile/3215418/colibri-announces-definitive-agreement-to-sell-remaining-49-interest-in-pilar-for-c3-6-million-while-retaining-1-nsr/",
+          "source": "The Globe and Mail"
         },
         {
-          "title": "Liminal, Mass. Episode 49",
+          "title": "Tocvan to acquire 49% stake in Pilar mining concessions",
           "snippet": "",
-          "url": "https://walthamtimes.org/2026/07/09/liminal-mass-episode-49/",
-          "source": "Waltham Times"
+          "url": "https://www.mining-technology.com/news/tocvan-to-acquire-49-pilar-concessions/",
+          "source": "Mining Technology"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,26 +201,26 @@
       "title": "tv 2 direkte",
       "trafficCount": "500+",
       "pubDate": "Fri, 10 Jul 2026 01:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAW_HlNlr1DyWFZGizkwoBBtGaj-L_lqKe0liLQYxyV2mqX5QqUrU9-iEEyz4",
-      "pictureSource": "Nettavisen",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVw2XVDwOf_m9rMAYK_jHUJnDppfd7xvh8q-wiA5XNjEDlrqQeVPJCbqO47-Y",
+      "pictureSource": "TV 2",
       "relatedSearch": [
         {
-          "title": "Dette må du se nå (uke 28): Fotball-VM, Eliteserien og klassisk sitcom",
+          "title": "Tour de France: Sjefen gir opp målet: – Avstanden er for lang",
           "snippet": "",
-          "url": "https://www.nettavisen.no/strommeguide/serier/streaming/dette-ma-du-se-na-uke-28-her-er-ukas-beste-tv-tips/s/5-95-3134952",
-          "source": "Nettavisen"
+          "url": "https://www.tv2.no/sport/sjefen-gir-opp-malet-avstanden-er-for-lang/19035950/",
+          "source": "TV 2"
         },
         {
-          "title": "Slik blir siste del av VM",
+          "title": "Hushovd hever Tour de France-lista etter «drømme-vår»: – Ikke mange i verden har et slikt mål",
           "snippet": "",
-          "url": "https://www.klartale.no/sport/slik-blir-siste-del-av-vm/10434510",
-          "source": "Klar Tale"
+          "url": "https://www.nrk.no/sport/hushovd-hever-tour-de-france-lista-etter-_dromme-var__-_-ikke-mange-i-verden-har-et-slikt-mal-1.17912181",
+          "source": "NRK"
         },
         {
-          "title": "Dette er VM-veien for Norge og England",
+          "title": "Dette irriterer ham grenseløst",
           "snippet": "",
-          "url": "https://www.fvn.no/sport/i/M7ddBR/dette-er-vm-veien-for-norge-og-england",
-          "source": "fvn.no"
+          "url": "https://www.tv2.no/sport/dette-irriterer-ham-grenselost/18942968/",
+          "source": "TV 2"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,110 +257,26 @@
       "title": "almeria",
       "trafficCount": "200+",
       "pubDate": "Fri, 10 Jul 2026 01:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRS8ba40cyR0s4QuJoK0ZK6-knwU4wXjQ-cthQLsAHccS_HykWUSDTPZa1owUw",
-      "pictureSource": "EL PAÍS",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzp7ZSManQRj0gfzjsJcW2BhPq_getiLfSpqQndViyvRB3lg_aNFvg3zQeXAQ",
+      "pictureSource": "Diócesis de Almería",
       "relatedSearch": [
         {
-          "title": "Últimas noticias del incendio forestal de Los Gallardos (Almería), en directo | Al menos 11 muertos y 19 desaparecidos en el incendio más trágico registrado en Andalucía",
+          "title": "Mensaje de nuestro Obispo D. Antonio ante el trágico incendio de Bédar y Los Gallardos",
           "snippet": "",
-          "url": "https://elpais.com/espana/2026-07-10/ultimas-noticias-del-incendio-forestal-de-los-gallardos-almeria-en-directo.html",
+          "url": "https://diocesisalmeria.org/mensaje-de-nuestro-obispo-ante-el-tragico-incendio-de-bedar-y-los-gallardos/",
+          "source": "Diócesis de Almería"
+        },
+        {
+          "title": "Los muertos podrían ascender a 12 y hay 19 desaparecidos en el incendio desatado en España",
+          "snippet": "",
+          "url": "https://www.infobae.com/america/agencias/2026/07/10/los-muertos-podrian-ascender-a-12-y-hay-19-desaparecidos-en-el-incendio-desatado-en-espana/",
+          "source": "Infobae"
+        },
+        {
+          "title": "El Gobierno ofrece todos los medios a la Junta en la extinción del incendio de Los Gallardos: “Trabajamos con la máxima colaboración”",
+          "snippet": "",
+          "url": "https://elpais.com/espana/2026-07-10/el-gobierno-ofrece-todos-los-medios-a-la-junta-en-la-extincion-del-incendio-de-los-gallardos-trabajamos-con-la-maxima-colaboracion.html",
           "source": "EL PAÍS"
-        },
-        {
-          "title": "El Rey envía su cariño a quienes han perdido seres queridos y a los que sufren angustia por los desaparecidos",
-          "snippet": "",
-          "url": "https://www.eldebate.com/espana/casa-real/20260710/rey-envia-carino-quienes-han-perdido-seres-queridos-sufren-angustia-desaparecidos_438251.html",
-          "source": "El Debate"
-        },
-        {
-          "title": "La clase política, unida ante la tragedia en Almería",
-          "snippet": "",
-          "url": "https://www.abc.es/espana/andalucia/almeria/clase-politica-unida-ante-tragedia-almeria-20260710111303-nts.html",
-          "source": "ABC"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "droneangrep",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 10 Jul 2026 00:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWbf9fu81ox4Iifo6ryGTfDc2TGL_QKvLZ99SB-x5Nk7VUFrGkxhvgkEEw6bo",
-      "pictureSource": "VG",
-      "relatedSearch": [
-        {
-          "title": "«Putin bryr seg bare når det brenner i Moskva»",
-          "snippet": "",
-          "url": "https://www.vg.no/nyheter/i/e7qw7g/putin-bryr-seg-bare-naar-det-brenner-i-moskva",
-          "source": "VG"
-        },
-        {
-          "title": "Russiske oljeanlegg i brann etter ukrainske droneangrep",
-          "snippet": "",
-          "url": "https://www.dagbladet.no/nyheter/russiske-oljeanlegg-i-brann/84885075",
-          "source": "Dagbladet"
-        },
-        {
-          "title": "Zelenskyj: Angrep på russiske oljelagre",
-          "snippet": "",
-          "url": "https://www.aftenposten.no/verden/i/wrxvoM/ukraina-angrep-russiske-oljelagre-langt-fra-frontlinjen",
-          "source": "Aftenposten"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "dn",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 9 Jul 2026 22:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZul1Id9S2LnFcQn8NHh4jth1_BcuizdOyzV46q3CBbY4ax91cLGG9eNbGxFs",
-      "pictureSource": "fvn.no",
-      "relatedSearch": [
-        {
-          "title": "Nytt milliontap - kutter 400 årsverk",
-          "snippet": "",
-          "url": "https://www.fvn.no/nyheter/okonomi/s/Ar00gq/milliontap-for-elkem-i-andre-kvartal",
-          "source": "fvn.no"
-        },
-        {
-          "title": "Elkem leverte et justert driftsresultat på 523 mill. – tapte penger før skatt",
-          "snippet": "",
-          "url": "https://www.dn.no/marked/elkem/kraftig-resultatfall-for-elkem-men-bedre-enn-ventet/2-1-2015350",
-          "source": "Dagens Næringsliv"
-        },
-        {
-          "title": "Resultatfall for Elkem",
-          "snippet": "",
-          "url": "https://e24.no/bors/nyheter/a/304996?pinnedEntry=304996",
-          "source": "E24"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "firda",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 9 Jul 2026 22:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZbTcA5ABOAtyYLrAwiB-tR2MTbDtbuoAaK4keyKIxdMMQMY9GFzDLlN_a_9Q",
-      "pictureSource": "Firda",
-      "relatedSearch": [
-        {
-          "title": "Askvoll, Bulandet | Fekk arktisk gjest på flytebrygga",
-          "snippet": "",
-          "url": "https://www.firda.no/fekk-arktisk-gjest-pa-flytebrygga/s/5-15-2075699",
-          "source": "Firda"
-        },
-        {
-          "title": "Countryfestivalen i Breim er i gang",
-          "snippet": "",
-          "url": "https://www.nrk.no/video/countryfestivalen-i-breim-er-i-gang_e8e637f4-eace-4966-8a4c-de417f7b8db1",
-          "source": "NRK"
-        },
-        {
-          "title": "Gloppen, Breim | Gunn har deltatt på countryfestivalen i nesten 30 år",
-          "snippet": "",
-          "url": "https://www.firda.no/gunn-har-deltatt-pa-countryfestivalen-i-nesten-30-ar/s/5-15-2075662",
-          "source": "Firda"
         }
       ],
       "link": "https://imtaqin.id/"

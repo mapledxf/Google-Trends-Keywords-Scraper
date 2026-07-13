@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-07-13 21:09:33",
+  "lastUpdate": "2026-07-13 22:06:57",
   "data": [
     {
       "title": "غسان المحرصي",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 13 Jul 2026 13:10:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIaMsoFRHBm1R9Y-t-39VtpEyQK5pY9VFI69Xyr_cEbFpkIXE9v50sZb_mB2I",
       "pictureSource": "Mosaique FM",
@@ -27,26 +27,54 @@
       "title": "météo demain",
       "trafficCount": "20000+",
       "pubDate": "Mon, 13 Jul 2026 12:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtebng7JnpctIUr1jtB2hWbGpcnt_bb1AfpPB5qVi0KeAtKvf9SdK8pzr3Bo8",
-      "pictureSource": "Yahoo Actualités",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZ-nAOk6FzE0xeS8FpJTRL-UAXUIXYUwYesNpdl7a6nMC716BM_zoE6-iPTp4",
+      "pictureSource": "La Chaîne Météo",
       "relatedSearch": [
         {
-          "title": "Maroc: le système de santé face au défi des vagues de chaleur récurrentes",
+          "title": "Alerte rouge canicule",
           "snippet": "",
-          "url": "https://fr.news.yahoo.com/maroc-syst%C3%A8me-sant%C3%A9-face-au-042810851.html",
-          "source": "Yahoo Actualités"
+          "url": "https://actualite.lachainemeteo.com/alerte-meteo/9355-alerte-rouge-canicule",
+          "source": "La Chaîne Météo"
         },
         {
-          "title": "La météo du samedi 11 juillet 2026",
+          "title": "Vague de chaleur : le ministère de la Santé appelle à la vigilance",
           "snippet": "",
-          "url": "https://www.mosaiquefm.net/fr/national-tunisie/1523310/la-meteo-du-samedi-11-juillet-2026",
-          "source": "Mosaique FM"
+          "url": "https://news.gnet.tn/vague-de-chaleur-le-ministere-de-la-sante-appelle-a-la-vigilance/",
+          "source": "Gnet news"
         },
         {
-          "title": "Temps chaud jusqu’à samedi, puis baisse progressive du mercure",
+          "title": "Canicule : poursuite des très fortes chaleurs et nuits chaudes",
           "snippet": "",
-          "url": "https://fr.le360.ma/societe/temps-chaud-jusqua-samedi-puis-baisse-progressive-du-mercure_WT5AF4JCSNCY5CLP2JXFRENKAI/",
-          "source": "Le360"
+          "url": "https://meteofrance.com/actualites-et-dossiers/actualites/nouvel-episode-de-fortes-chaleurs",
+          "source": "Météo-France"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "الطقس غدًا",
+      "trafficCount": "1000+",
+      "pubDate": "Mon, 13 Jul 2026 12:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR23xaqk5kkFDg0pnA6GVuwy8Gn2KnhUc0Jz2IVcKQbLTsoLGM80D_kivya03I",
+      "pictureSource": "صحيفة الخليج",
+      "relatedSearch": [
+        {
+          "title": "الأرصاد تكشف موعد انكسار الموجة الحارة في مصر.. هل يتحسن الطقس قريباً؟",
+          "snippet": "",
+          "url": "https://www.alkhaleej.ae/2026-07-13/%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA/%D9%85%D8%AD%D8%B7%D8%A7%D8%AA/%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%AA%D9%83%D8%B4%D9%81-%D9%85%D9%88%D8%B9%D8%AF-%D8%A7%D9%86%D9%83%D8%B3%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D9%88%D8%AC%D8%A9-%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%A9-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D9%87%D9%84-%D9%8A%D8%AA%D8%AD%D8%B3%D9%86-%D8%A7%D9%84%D8%B7%D9%82%D8%B3-%D9%82%D8%B1%D9%8A%D8%A8%D8%A7",
+          "source": "صحيفة الخليج"
+        },
+        {
+          "title": "الأرصاد الجوية تكشف عن درجات الحرارة المحسوسة اليوم الإثنين في مدن مصر",
+          "snippet": "",
+          "url": "https://plus.ahdath-alyom.com/news/%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D8%A7-5-430498/",
+          "source": "أحداث اليوم"
+        },
+        {
+          "title": "ظاهرة غير متوقعة في طقس اليوم تلطف الأجواء بهذه المحافظات.. ما القصة؟",
+          "snippet": "",
+          "url": "https://www.elwatannews.com/news/details/8319310",
+          "source": "الوطن"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -80,36 +108,8 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "الطقس غدًا",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 13 Jul 2026 12:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR23xaqk5kkFDg0pnA6GVuwy8Gn2KnhUc0Jz2IVcKQbLTsoLGM80D_kivya03I",
-      "pictureSource": "صحيفة الخليج",
-      "relatedSearch": [
-        {
-          "title": "الأرصاد تكشف موعد انكسار الموجة الحارة في مصر.. هل يتحسن الطقس قريباً؟",
-          "snippet": "",
-          "url": "https://www.alkhaleej.ae/2026-07-13/%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA/%D9%85%D8%AD%D8%B7%D8%A7%D8%AA/%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%AA%D9%83%D8%B4%D9%81-%D9%85%D9%88%D8%B9%D8%AF-%D8%A7%D9%86%D9%83%D8%B3%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D9%88%D8%AC%D8%A9-%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%A9-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D9%87%D9%84-%D9%8A%D8%AA%D8%AD%D8%B3%D9%86-%D8%A7%D9%84%D8%B7%D9%82%D8%B3-%D9%82%D8%B1%D9%8A%D8%A8%D8%A7",
-          "source": "صحيفة الخليج"
-        },
-        {
-          "title": "الأرصاد الجوية تكشف عن درجات الحرارة المحسوسة اليوم الإثنين في مدن مصر",
-          "snippet": "",
-          "url": "https://plus.ahdath-alyom.com/news/%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D8%A7-5-430498/",
-          "source": "أحداث اليوم"
-        },
-        {
-          "title": "ظاهرة غير متوقعة في طقس اليوم تلطف الأجواء بهذه المحافظات.. ما القصة؟",
-          "snippet": "",
-          "url": "https://www.elwatannews.com/news/details/8319310",
-          "source": "الوطن"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "wetter morgen",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 13 Jul 2026 12:50:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSiezR4IWaYhF_Mo1Kl2jH5Kx-bCWynUYeW8ZFKOCsRKzs0CJ0saoH1DtD-TZo",
       "pictureSource": "WetterOnline",
@@ -121,10 +121,10 @@
           "source": "WetterOnline"
         },
         {
-          "title": "Neue Hitzewelle: Unsere Live-Karten zeigen wie warm es heute wird",
+          "title": "Hitzewelle endet: Wetterwechsel bringt Regen und Abkühlung - Hochsommer bleibt Thema",
           "snippet": "",
-          "url": "https://www.stern.de/panorama/wetter/neue-hitzewelle--unsere-live-karten-zeigen-wie-warm-es-heute-wird-37958370.html",
-          "source": "STERN.de"
+          "url": "https://www.wetterprognose-wettervorhersage.de/wetter-jahreszeiten/sommer/wetter-sommer-2026/13691-hitzewelle-endet-wetterwechsel-bringt-regen-und-abkuehlung-hochsommer-bleibt-thema.html",
+          "source": "Wetterprognose und Wettervorhersage"
         },
         {
           "title": "Wetter-Vorhersage: Viel Sonne - aber auch Blitz und Donner",
@@ -220,10 +220,10 @@
           "source": "The Times"
         },
         {
-          "title": "Trump confirms he asked Infantino for review of Folarin Balogun red card",
+          "title": "Trump Asked FIFA to Review U.S. Player’s Suspension. Now He’s Eligible to Play.",
           "snippet": "",
-          "url": "https://www.theguardian.com/football/2026/jul/06/trump-fifa-balogun-red-card-review-intervention",
-          "source": "The Guardian"
+          "url": "https://www.nytimes.com/2026/07/05/us/politics/trump-fifa-balogun-world-cup.html",
+          "source": "The New York Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -242,10 +242,10 @@
           "source": "Middle East Eye"
         },
         {
-          "title": "Pro-Palestine donor faces 30 years in prison as US targets activists",
+          "title": "Solidarity is not a crime! FRSO statement on the arrest and extradition of Fergie Chambers",
           "snippet": "",
-          "url": "https://www.thecanary.co/trending/2026/07/13/palestine-donor-fergie-chambers/",
-          "source": "The Canary"
+          "url": "https://fightbacknews.org/articles/solidarity-is-not-a-crime-frso-statement-on-the-arrest-and-extradition-of",
+          "source": "Fight Back! News"
         }
       ],
       "link": "https://imtaqin.id/"

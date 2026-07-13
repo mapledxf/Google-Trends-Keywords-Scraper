@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-13 18:53:27",
+  "lastUpdate": "2026-07-13 20:05:04",
   "data": [
     {
       "title": "samsung galaxy",
@@ -59,17 +59,11 @@
     },
     {
       "title": "météo",
-      "trafficCount": "5000+",
+      "trafficCount": "10000+",
       "pubDate": "Mon, 13 Jul 2026 00:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyAMPqLPiqpA_mBR2aj-JaTdtu5bUIyEdhu9H-9yUoloRPmuTx7SdRITyc71U",
-      "pictureSource": "La Chaîne Météo",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlHiCRyVQ_ingVJVF7MTq-JRAUCvVeFqYy42-cpIHDkD0WN2nwX_02GbTpTak",
+      "pictureSource": "Météo-France",
       "relatedSearch": [
-        {
-          "title": "Météo week-end : retour d'un temps calme et ensoleillé après les orages",
-          "snippet": "",
-          "url": "https://actualite.lachainemeteo.com/actualite-meteo/2026-06-09/meteo-week-end-retour-d-un-temps-calme-et-ensoleille-apres-les-orages-82413",
-          "source": "La Chaîne Météo"
-        },
         {
           "title": "Canicule : poursuite des très fortes chaleurs et nuits chaudes",
           "snippet": "",
@@ -81,6 +75,12 @@
           "snippet": "",
           "url": "https://www.ledevoir.com/monde/europe/994364/pic-vague-chaleur-france-trois-reacteurs-nucleaires-arretes",
           "source": "Le Devoir"
+        },
+        {
+          "title": "Cette nuit où l’organisation terroriste FETÖ a été mise en échec",
+          "snippet": "",
+          "url": "https://www.aa.com.tr/fr/info/infographie/52935",
+          "source": "Anadolu Ajansı"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -109,34 +109,6 @@
           "snippet": "",
           "url": "https://news.laodong.vn/moi-truong/du-bao-khu-vuc-sap-mua-dong-chieu-toi-nay-co-noi-vuot-moc-100mm-1734288.ldo",
           "source": "Laodong.vn"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "météo demain",
-      "trafficCount": "5000+",
-      "pubDate": "Sun, 12 Jul 2026 13:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlHiCRyVQ_ingVJVF7MTq-JRAUCvVeFqYy42-cpIHDkD0WN2nwX_02GbTpTak",
-      "pictureSource": "Météo-France",
-      "relatedSearch": [
-        {
-          "title": "Canicule : poursuite des très fortes chaleurs et nuits chaudes",
-          "snippet": "",
-          "url": "https://meteofrance.com/actualites-et-dossiers/actualites/nouvel-episode-de-fortes-chaleurs",
-          "source": "Météo-France"
-        },
-        {
-          "title": "Pic de la vague de chaleur en France, trois réacteurs nucléaires arrêtés",
-          "snippet": "",
-          "url": "https://www.ledevoir.com/monde/europe/994364/pic-vague-chaleur-france-trois-reacteurs-nucleaires-arretes",
-          "source": "Le Devoir"
-        },
-        {
-          "title": "Cette nuit où l’organisation terroriste FETÖ a été mise en échec",
-          "snippet": "",
-          "url": "https://www.aa.com.tr/fr/info/infographie/52935",
-          "source": "Anadolu Ajansı"
         }
       ],
       "link": "https://imtaqin.id/"

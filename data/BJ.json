@@ -1,17 +1,73 @@
 {
-  "lastUpdate": "2026-07-14 05:42:30",
+  "lastUpdate": "2026-07-14 07:27:53",
   "data": [
     {
+      "title": "météo",
+      "trafficCount": "10000+",
+      "pubDate": "Mon, 13 Jul 2026 22:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKGOdtR9iJDffBxhJFml0Q9sVPrXlwpj0Mo2_vLF1nBl29oN2DAHwN0p3-mCg",
+      "pictureSource": "La Provence",
+      "relatedSearch": [
+        {
+          "title": "Orages : jusqu'à 53mm de pluie près de Manosque ce samedi, 44mm à Cabrières-d'Avignon... pas de dégâts mais d'assez fortes averses",
+          "snippet": "",
+          "url": "https://www.laprovence.com/article/ecoplanete/5374992105653314/orages-jusqua-53mm-sont-tombes-pres-de-manosque-ce-samedi-44mm-a-cabrieres-davignon-pas-de-degats-mais-dassez-fortes-averses",
+          "source": "La Provence"
+        },
+        {
+          "title": "Météo : la Loire maintenue en vigilance orange canicule, risque d’orages localisé",
+          "snippet": "",
+          "url": "https://www.tl7.fr/actualites-loire/actualite/actualite_1/meteo-la-loire-maintenue-en-vigilance-orange-canicule-risque-d-orages-localise_14363.html",
+          "source": "TL7, Télévision loire 7"
+        },
+        {
+          "title": "Chute des températures et violents orages cette semaine",
+          "snippet": "",
+          "url": "https://www.meteo-paris.com/bulletins/chute-des-temperatures-et-violents-orages-cette-semaine",
+          "source": "Meteo-Paris.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 13 Jul 2026 22:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtkumQ1oQ1VYRLi0q3XFd9bC0ACyjNtt6RG2KoB3bgpXm9zQKVKUI-7psqlSI",
+      "pictureSource": "ClickOnDetroit | WDIV Local 4",
+      "relatedSearch": [
+        {
+          "title": "4Warn Weather Alert: Dangerous heat builds across Metro Detroit",
+          "snippet": "",
+          "url": "https://www.clickondetroit.com/weather/2026/07/14/4warn-weather-alert-dangerous-heat-builds-across-metro-detroit/",
+          "source": "ClickOnDetroit | WDIV Local 4"
+        },
+        {
+          "title": "Hot and humid conditions return this week, with little to no rain",
+          "snippet": "",
+          "url": "https://www.wifr.com/2026/07/13/hot-humid-conditions-return-this-week-with-little-no-rain/",
+          "source": "WIFR"
+        },
+        {
+          "title": "Washtenaw County Summer Cooling Sites",
+          "snippet": "",
+          "url": "https://thesuntimesnews.com/washtenaw-county-summer-cooling-sites/",
+          "source": "The Sun Times News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "pluie",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 13 Jul 2026 14:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP1FtFC9AUP7OSyAbfdsXYR59Gex2YDiNWdreoJq2WQ2fp0xAQBOarEE5LjQE",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_KqZCdt1NnQzy-h61WDsr9h5Wg7Clfd8_bcfNWDmvfd-9IMrrp3ERWzSYHFo",
       "pictureSource": "Vietnam.vn",
       "relatedSearch": [
         {
-          "title": "Le nord du Vietnam connaît une vague de chaleur, avec des températures atteignant 36 degrés Celsius dans certaines régions.",
+          "title": "Vague de chaleur généralisée avec des températures dépassant les 36°C dans le Nord.",
           "snippet": "",
-          "url": "https://www.vietnam.vn/fr/bac-bo-nang-nong-co-noi-36-do-c",
+          "url": "https://www.vietnam.vn/fr/nang-nong-dien-rong-tren-36c-o-mien-bac",
           "source": "Vietnam.vn"
         },
         {
@@ -23,7 +79,7 @@
         {
           "title": "Les intempéries provoquent de lourds dégâts dans plusieurs provinces du Nord",
           "snippet": "",
-          "url": "https://vietnam.vnanet.vn/french/tin-van/les-intemperies-provoquent-de-lourds-degats-dans-plusieurs-provinces-du-nord-456512.html",
+          "url": "https://vietnam.vnanet.vn/french/tin-tuc/les-intemperies-provoquent-de-lourds-degats-dans-plusieurs-provinces-du-nord-456512.html",
           "source": "Thông tấn xã Việt Nam (TTXVN)"
         }
       ],
@@ -58,64 +114,36 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "météo demain",
-      "trafficCount": "5000+",
-      "pubDate": "Mon, 13 Jul 2026 12:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlHiCRyVQ_ingVJVF7MTq-JRAUCvVeFqYy42-cpIHDkD0WN2nwX_02GbTpTak",
-      "pictureSource": "Météo-France",
-      "relatedSearch": [
-        {
-          "title": "Canicule : poursuite des très fortes chaleurs et nuits chaudes",
-          "snippet": "",
-          "url": "https://meteofrance.com/actualites-et-dossiers/actualites/nouvel-episode-de-fortes-chaleurs",
-          "source": "Météo-France"
-        },
-        {
-          "title": "Pic de la vague de chaleur en France, trois réacteurs nucléaires arrêtés",
-          "snippet": "",
-          "url": "https://www.ledevoir.com/monde/europe/994364/pic-vague-chaleur-france-trois-reacteurs-nucleaires-arretes",
-          "source": "Le Devoir"
-        },
-        {
-          "title": "Cette nuit où l’organisation terroriste FETÖ a été mise en échec",
-          "snippet": "",
-          "url": "https://www.aa.com.tr/fr/info/infographie/52935",
-          "source": "Anadolu Ajansı"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "weather tomorrow",
       "trafficCount": "200+",
       "pubDate": "Mon, 13 Jul 2026 12:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwoF-IgzJ-DcAtQwGpyBGhicz2D9o4Z193kSvzitGrp4X2ag9HCN-SwgXdjyQ",
-      "pictureSource": "ABC27",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAYdlkIedI_LPDvtxePN7Qj3d0EJS_gGo4ihUDSlb_bVk5cbvqQNK-3850SUo",
+      "pictureSource": "Reuters Connect",
       "relatedSearch": [
         {
-          "title": "Dry pattern sets up as heat kicks in",
+          "title": "Licensable picture: Rain Lashes Parts of West Bengal's Nadia District",
           "snippet": "",
-          "url": "https://www.abc27.com/weather/isolated-thunderstorms-today-less-humid-and-more-sunshine-for-sunday/",
-          "source": "ABC27"
+          "url": "https://www.reutersconnect.com/item/rain-lashes-parts-of-west-bengals-nadia-district/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFTTkVXUzIwMjYwNzEzMTI0TA",
+          "source": "Reuters Connect"
         },
         {
-          "title": "A change in our weather pattern is on the way",
+          "title": "Monsoon: Intense deluge anchors East while heatwaves scorch South India",
           "snippet": "",
-          "url": "https://www.wtvq.com/a-change-in-our-weather-pattern-is-on-the-way/",
-          "source": "WTVQ"
+          "url": "https://ddnews.gov.in/en/monsoon-intense-deluge-anchors-east-while-heatwaves-scorch-south-india/",
+          "source": "DD News"
         },
         {
-          "title": "FORECAST: Quiet and hot days before late-week storm chances",
+          "title": "IMD forecasts heavy to very heavy rainfall over Bihar, Odisha",
           "snippet": "",
-          "url": "https://www.wave3.com/2026/07/13/forecast-hot-humid-week-ahead/",
-          "source": "WAVE News"
+          "url": "https://newsonair.gov.in/imd-forecasts-heavy-to-very-heavy-rainfall-over-bihar-odisha/",
+          "source": "News On AIR"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "ousmane sonko",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 13 Jul 2026 10:20:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbJtHnwK_gGTwmT4Gw-eEF81-6MXyRdBYXn1zGl9PCekNCEdnyFllbvdyfaoo",
       "pictureSource": "RFI",
@@ -133,10 +161,10 @@
           "source": "SenePlus"
         },
         {
-          "title": "Sonko-Diomaye : la rupture prend une nouvelle tournure après le meeting de Mbacké",
+          "title": "« Nous déposerons une motion de censure si la renégociation des contrats n’est pas respectée » : Sonko (vidéo)",
           "snippet": "",
-          "url": "https://xalimasn.com/2026/07/13/sonko-diomaye-la-rupture-prend-une-nouvelle-tournure-apres-le-meeting-de-mbacke/",
-          "source": "Xalima"
+          "url": "https://sanslimitesn.com/nous-deposerons-une-motion-de-censure-si-la-renegociation-des-contrats-nest-pas-respectee-sonko-video/",
+          "source": "SANSLIMITESN.COM"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,19 +173,19 @@
       "title": "france vs espagne",
       "trafficCount": "500+",
       "pubDate": "Mon, 13 Jul 2026 06:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTT1ohAUUkqQPPL8QNbRFBSg5yKTrDQtMGJ18h7Rxxjp4opZolL6oINWxSxIfc",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYVVy0TNmDIy1qUXzHVoBmMSfecSr3cqGdFGNbr3BUEQWB6wjw-uAyHhsh0qc",
       "pictureSource": "Foot Mercato",
       "relatedSearch": [
         {
-          "title": "Coupe du Monde 2026 : la sortie cash de Laporte sur son choix de représenter l’Espagne",
+          "title": "Équipe de France : Didier Deschamps face à un choix risqué ?",
           "snippet": "",
-          "url": "https://www.footmercato.net/a3747578960350730116-coupe-du-monde-2026-la-sortie-cash-de-laporte-sur-son-choix-de-representer-lespagne",
+          "url": "https://www.footmercato.net/a1491528382551545042-equipe-de-france-didier-deschamps-face-a-un-choix-risque",
           "source": "Foot Mercato"
         },
         {
-          "title": "Kylian Mbappé, mauvaise nouvelle confirmée avant France-Espagne !",
+          "title": "Kylian Mbappé le dos bloqué, la très grosse inquiétude avant la demi-finale",
           "snippet": "",
-          "url": "https://www.sports.fr/football/equipe-de-france/kylian-mbappe-mauvaise-nouvelle-avant-france-espagne-1028480.html",
+          "url": "https://www.sports.fr/football/equipe-de-france/kylian-mbappe-le-dos-bloque-la-tres-grosse-inquietude-avant-la-demie-1028743.html",
           "source": "Sports.fr"
         },
         {
@@ -183,9 +211,9 @@
           "source": "The New York Times"
         },
         {
-          "title": "Facebook and Instagram’s ‘addictive design’ may violate European law, EU Commission finds",
+          "title": "Facebook and Instagram’s ‘addictive design’ may violate European law, EU Commission finds | CNN Business",
           "snippet": "",
-          "url": "https://www.cnn.com/2026/07/10/tech/meta-eu-addictive-design",
+          "url": "https://edition.cnn.com/2026/07/10/tech/meta-eu-addictive-design",
           "source": "CNN"
         },
         {
@@ -193,34 +221,6 @@
           "snippet": "",
           "url": "https://finance.yahoo.com/technology/ai/articles/meta-meta-faces-2-billion-210801965.html",
           "source": "Yahoo Finance"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "score argentine suisse",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 12 Jul 2026 23:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5iQqxZNjdMGzUGD4CM7rfbdbq_kwKNw4otDm_U1Fk37FG1rPPdzbFsQM8BDo",
-      "pictureSource": "beninwebtv.com",
-      "relatedSearch": [
-        {
-          "title": "Mondial 2026 : les onze de départ de l’Argentine et de la Suisse",
-          "snippet": "",
-          "url": "https://beninwebtv.com/mondial-2026-les-onze-de-depart-de-largentine-et-de-la-suisse/",
-          "source": "beninwebtv.com"
-        },
-        {
-          "title": "'Nous avons joué contre 70 000 Argentins, l'arbitre et la VAR'",
-          "snippet": "",
-          "url": "https://fr.besoccer.com/info/nous-avons-joue-contre-70-000-argentins-larbitre-et-la-var-1419215",
-          "source": "BeSoccer FR"
-        },
-        {
-          "title": "Avec la chaleur estivale et les incertitudes dans le Golfe, les prix des hôtels chutent à Dubaï. Notamment dans des établissements haut de gamme. 👉 Retrouvez l'article complet : https://brnw.ch/21x46zq",
-          "snippet": "",
-          "url": "https://www.facebook.com/blickfr/posts/avec-la-chaleur-estivale-et-les-incertitudes-dans-le-golfe-les-prix-des-h%C3%B4tels-c/1401111855407403/",
-          "source": "Facebook"
         }
       ],
       "link": "https://imtaqin.id/"

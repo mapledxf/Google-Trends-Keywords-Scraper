@@ -1,37 +1,121 @@
 {
-  "lastUpdate": "2026-07-15 03:33:29",
+  "lastUpdate": "2026-07-15 05:55:59",
   "data": [
     {
-      "title": "россия",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 14 Jul 2026 20:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9kpTw05GBWxL5J6rw7RzGpXjPV_CrcExajX1pLUYOLhNmt5RgWOMIRP8rw_c",
-      "pictureSource": "Погода Mail",
+      "title": "доллар",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 14 Jul 2026 21:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGLS6iD3SkAH5-PLTsGV-Qgc4gXGKrC7156mACgPauIZHyMfhqEniGkvr1IKk",
+      "pictureSource": "TengriNews",
       "relatedSearch": [
         {
-          "title": "На Камчатке произошло ощущаемое землетрясение",
+          "title": "Курс доллара к тенге резко упал на дневных торгах KASE в Казахстане 14 июля",
           "snippet": "",
-          "url": "https://pogoda.mail.ru/news/71581872/",
-          "source": "Погода Mail"
+          "url": "https://tengrinews.kz/kazakhstan_news/dollar-rezko-podeshevel-v-kazahstane-603903/",
+          "source": "TengriNews"
         },
         {
-          "title": "Умеренное землетрясение маг. 4.2 - North Pacific Ocean, 68 km к востоку от Остров Шумшу , Камчатский край, Россия, Среда 15 июл 2026 в 08:18 (Kamchatka время)",
+          "title": "Курс валют в Казахстане на 14 июля: сколько стоят доллар, евро и рубль",
           "snippet": "",
-          "url": "https://www.volcanodiscovery.com/ru/zemletryaseniya/quake-info/23186131/mag4quake-Jul-14-2026-Russia-Kuril-Islands.html",
-          "source": "Volcano Discovery"
+          "url": "https://astanatv.kz/ru/news/172813/",
+          "source": "«Астана» телеарнасы"
         },
         {
-          "title": "Ощущаемое землетрясение магнитудой 6,0 произошло на Камчатке",
+          "title": "Курсы валют на 15 июля, цены на нефть и металлы",
           "snippet": "",
-          "url": "https://kamchatkamedia.ru/news/2558923/",
-          "source": "KamchatkaMedia"
+          "url": "https://kapital.kz/finance/150449/kursy-valyut-na-15-iyulya-ceny-na-neft-i-metally.html",
+          "source": "Kapital.kz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "тенгри ньюс",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 14 Jul 2026 21:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVd1fm4Ap9cjkvQWU1qVf9VRlpNiLHIuIVM4yTh-d2JZNFTWle-vp0gQb278U",
+      "pictureSource": "24.kz",
+      "relatedSearch": [
+        {
+          "title": "Ильхам Алиев: без активных контактов с Казахстаном ни один проект в регионе невозможен",
+          "snippet": "",
+          "url": "https://24.kz/ru/news/policy/779773-ilkham-aliev-bez-aktivnykh-kontaktov-s-kazakhstanom-ni-odin-proekt-v-regione-nevozmozhen",
+          "source": "24.kz"
+        },
+        {
+          "title": "Президент Азербайджана отметил стратегическую роль Казахстана в двусторонних проектах",
+          "snippet": "",
+          "url": "https://www.inform.kz/ru/ilham-aliev-rasskazal-oklyuchevoy-roli-kazahstana-vrazvitii-natsproektov-sazerba-6f7a1693",
+          "source": "Казинформ"
+        },
+        {
+          "title": "Ильхам Алиев: Без активных контактов с Казахстаном ни один проект в регионе невозможен",
+          "snippet": "",
+          "url": "https://el.kz/ru/ilham-aliev-bez-aktivnyh-kontaktov-s-kazahstanom-ni-odin-proekt-v-regione-nevozmozhen_400049921/",
+          "source": "El.kz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "пожар",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 14 Jul 2026 21:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrK41Sp7WKK-1nytxaWECoQG9PXBkDsZo1Vbol8nCs6qhsaSoOp8yUIVRmXjw",
+      "pictureSource": "ПроОрен",
+      "relatedSearch": [
+        {
+          "title": "Пожар в Саракташском районе унес жизнь мужчины",
+          "snippet": "",
+          "url": "https://prooren.ru/news/proisshestviya/pozhar-v-saraktashskom-rayone-unes-zhizn-muzhchiny",
+          "source": "ПроОрен"
+        },
+        {
+          "title": "В Оренбуржье на пожаре погиб 43-летний мужчина",
+          "snippet": "",
+          "url": "https://orenday.ru/2026/150726101742",
+          "source": "Новости Оренбурга Orenday.ru"
+        },
+        {
+          "title": "Трагедия в Саракташском районе: на пожаре в доме погиб 43-летний мужчина",
+          "snippet": "",
+          "url": "https://ria56.ru/posts/tragediya-v-saraktashskom-rajone-na-pozhare-v-dome-pogib-43-letnij-muzhchina.htm",
+          "source": "RIA56"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "россия",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 14 Jul 2026 20:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRT5TJ4DOSkcXfByQcM6kFwQi7t4-ES6z_BNHfNx8kjEyA4kzGC_4Q8m7sFTbQ",
+      "pictureSource": "КМБПЧ",
+      "relatedSearch": [
+        {
+          "title": "Татуаж – шпионаж: казахстанцу в России грозят тяжелые последствия",
+          "snippet": "",
+          "url": "https://bureau.kz/novosti/tatuazh-shpionazh/",
+          "source": "КМБПЧ"
+        },
+        {
+          "title": "РФ ударила по ещё трём судам в Чёрном море. Погиб капитан",
+          "snippet": "",
+          "url": "https://www.svoboda.org/a/rf-udarila-po-eschyo-dvum-sudam-v-chyornom-more-pogib-kapitan/33803665.html",
+          "source": "Радио Свобода"
+        },
+        {
+          "title": "Минобороны РФ сообщило об очередной серии ударов по украинским портам",
+          "snippet": "",
+          "url": "https://neftegaz.ru/news/incidental/929861-minoborony-rf-soobshchilo-ob-ocherednoy-serii-udarov-po-ukrainskim-portam/",
+          "source": "Neftegaz"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "шымкент",
-      "trafficCount": "100+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 14 Jul 2026 19:10:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9HtLZq6Xn4geYKuYGVmIw_bAF8dym3kdmdR3T8PH7u_5EkteqYZ7e58fJLIQ",
       "pictureSource": "TengriNews",
@@ -59,7 +143,7 @@
     },
     {
       "title": "российско-казахстанская граница",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 14 Jul 2026 18:10:00 -0700",
       "picture": "",
       "pictureSource": "",
@@ -70,82 +154,26 @@
       "title": "нефтепродукты",
       "trafficCount": "100+",
       "pubDate": "Tue, 14 Jul 2026 18:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4pwfVH9nOaZyF-LgGq96rrLPhnd3tYrwxyE-s8CjgDV9S2x2g9g_xTqPyr_o",
-      "pictureSource": "TengriNews",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThbRbhXNpaC0d2KKRFDbif2BpAslMcr8qW2JScjWCiJ1DZ5EzOwGMt6Non79I",
+      "pictureSource": "Интерфакс",
       "relatedSearch": [
         {
-          "title": "Кыргызстан ввёл запрет на вывоз нефти и ГСМ",
+          "title": "Петербургская биржа внедрит механизм поставки бензина только конечным потребителям",
           "snippet": "",
-          "url": "https://tengrinews.kz/sng/kyirgyizstan-vvl-zapret-na-vyivoz-nefti-i-gsm-603912/",
-          "source": "TengriNews"
+          "url": "https://www.interfax.ru/business/1103287",
+          "source": "Интерфакс"
         },
         {
-          "title": "Кыргызстан временно запретил экспорт нефти и нефтепродуктов",
+          "title": "Новые требования вводятся на бирже для покупки бензина",
           "snippet": "",
-          "url": "https://www.inform.kz/ru/kirgizstan-vremenno-zapretil-eksport-nefti-inefteproduktov-ddb9d408",
-          "source": "Казинформ"
+          "url": "https://altapress.ru/story/novie-trebovaniya-vvodyatsya-na-birzhe-dlya-pokupki-benzina-390684",
+          "source": "Алтапресс"
         },
         {
-          "title": "Кабмин бессрочно запретил вывоз бензина и дизтоплива из Кыргызстана",
+          "title": "Биржа ужесточает правила и ограничивает покупку бензина с 21 июля | IF | 14.07.2026",
           "snippet": "",
-          "url": "https://24.kg/ekonomika/381673_kabmin_bessrochno_zapretil_vyivoz_benzina_idiztopliva_izkyirgyizstana/",
-          "source": "24.KG"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "fifa",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 14 Jul 2026 14:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhw1poo1WUaImjdnD4bd4huyvCJP4A1V8VEj5w6jQWj2KlaB9lZ5b_4snes40",
-      "pictureSource": "The Times",
-      "relatedSearch": [
-        {
-          "title": "Fifa to break rules with 30-minute half-time in World Cup final",
-          "snippet": "",
-          "url": "https://www.thetimes.com/sport/football/world-cup/article/fifa-half-time-show-world-cup-final-madonna-shakira-bts-coldplay-justin-bieber-3zvrnt9l6",
-          "source": "The Times"
-        },
-        {
-          "title": "FIFA targeting 20-minute break for World Cup half-time - The Athletic",
-          "snippet": "",
-          "url": "https://www.nytimes.com/athletic/7445380/2026/07/14/world-cup-half-time-length-fifa/",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Justin Bieber to co-headline Final Halftime Show with Madonna, Shakira and BTS",
-          "snippet": "",
-          "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/justin-bieber-to-co-headline-final-halftime-show-with-madonna-shakira-bts",
-          "source": "FIFA"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "чемпионат мира по футболу статистика",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 14 Jul 2026 14:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbo6JKaHuFelIerCaLmTYwgg-bU2zTMo8qiIoJSmYfWC4A7Pv6pG-QKRXxbIo",
-      "pictureSource": "Olympics",
-      "relatedSearch": [
-        {
-          "title": "Чемпионат мира по футболу 2026. Испания: результаты, голы, положение в группе, плей-офф",
-          "snippet": "",
-          "url": "https://www.olympics.com/ru/news/chempionat-mira-po-futbolu-2026-ispaniya-rezultaty-goly-polozhenie-v-gruppe-plei-off",
-          "source": "Olympics"
-        },
-        {
-          "title": "Лидеры сборной Испании проводят слабый чемпионат мира. Но у этой команды есть оружие помощнее Ямаля...",
-          "snippet": "",
-          "url": "https://www.sport-express.net/football/world/chempionat-mira-2026/reviews/chm-2026-sbornaya-ispanii-pobedila-belgiyu-v-1-4-finala-v-chem-sila-ispancev-na-chempionate-mira-po-futbolu-2438466/",
-          "source": "sport-express.net"
-        },
-        {
-          "title": "Сборная Испании вышла в финал ЧМ-2026, пропустив всего один гол",
-          "snippet": "",
-          "url": "https://stavkiprognozy.ru/novosti/football/ispaniya-vyshla-v-final-chm-2026-propustiv-odin-gol",
-          "source": "StavkiPrognozy.ru"
+          "url": "https://investfuture.ru/articles/birzha-uzhestochaet-pravila-i-ogranichivaet-pokupku-benzina-s-21-iyulya-37272244",
+          "source": "InvestFuture"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -154,54 +182,26 @@
       "title": "преступление",
       "trafficCount": "500+",
       "pubDate": "Tue, 14 Jul 2026 13:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbT4HcMY3aBBVJLXTT7UbaNj-8sAD35IUGBssKOiLwLTcU33xFiE2F-Fg8sMY",
-      "pictureSource": "Интерфакс",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpMkyC2_mawd3GcAqI3Yzb9Dsq8W4tg5F3HXsSEKaxQhq7iCh15nEcSMWS8mA",
+      "pictureSource": "Ақпараттық медиа-портал POLISIA.KZ",
       "relatedSearch": [
         {
-          "title": "Американские военные завершили семичасовую серию ударов по Ирану",
+          "title": "МВД: Международная спецоперация по пресечению деятельности транснациональной ОПГ проведена на территории трех стран",
           "snippet": "",
-          "url": "https://www.interfax.ru/world/1103353",
-          "source": "Интерфакс"
+          "url": "https://polisia.kz/ru/mvd-mezhdunarodnaya-spetsoperatsiya-po-presecheniyu-deyatel-nosti-transnatsional-noj-opg-provedena-na-territorii-treh-stran/",
+          "source": "Ақпараттық медиа-портал POLISIA.KZ"
         },
         {
-          "title": "США и Иран обменялись серией ударов",
+          "title": "Убийство казахстанца в Стамбуле вывело на ОПГ во главе с криминальным авторитетом из США",
           "snippet": "",
-          "url": "https://24.kz/ru/news/in-the-world/780007-ssha-i-iran-obmenyalis-seriej-udarov",
-          "source": "24.kz"
+          "url": "https://tengrinews.kz/crime/ubiystvo-kazahstantsa-stambule-vyivelo-opg-glave-603947/",
+          "source": "TengriNews"
         },
         {
-          "title": "США начали серию новых ударов по Ирану и возобновили блокаду иранских портов, Трамп рассчитывает на Ирак",
+          "title": "Застреленного в Стамбуле казахстанца убили по заказу — МВД",
           "snippet": "",
-          "url": "https://www.bbc.com/russian/articles/c36y6w3g65po",
-          "source": "BBC"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "mbappe",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 14 Jul 2026 13:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS64Ca6N2ZzjYeKaXmtA3PI4cWGBmZHOTs9cqAEKw4VNWvM6HaNPHlPN7uUkIU",
-      "pictureSource": "FourFourTwo",
-      "relatedSearch": [
-        {
-          "title": "World Cup 2026: Do goals in the third place play-off count towards the Golden Boot?",
-          "snippet": "",
-          "url": "https://www.fourfourtwo.com/person/player/world-cup-2026-do-goals-in-the-third-place-play-off-count-towards-the-golden-boot",
-          "source": "FourFourTwo"
-        },
-        {
-          "title": "كرة قدم: صراع الأجيال على الحذاء الذهبي infographic",
-          "snippet": "",
-          "url": "https://www.graphicnews.com/ar/pages/48220/kr-kdm-sraaa-alagyal-aal-alhthaaa-althhby",
-          "source": "Graphic News"
-        },
-        {
-          "title": "Goal has named the favorites for the World Cup Golden Ball",
-          "snippet": "",
-          "url": "https://ua.news/en/sport/goal-viznachiv-favoritiv-na-zolotii-miach-chempionatu-svitu-z-futbolu",
-          "source": "UA.NEWS"
+          "url": "https://orda.kz/zastrelennogo-v-stambule-kazahstanca-ubili-po-zakazu-mvd-416815/",
+          "source": "Orda.kz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -210,26 +210,26 @@
       "title": "офсайд",
       "trafficCount": "100+",
       "pubDate": "Tue, 14 Jul 2026 13:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRS7zcpz_HOO8vur7Tpy1UPw9fEohpIY3IntIkeXhd35W-qahwT1U8ktaW6hD4",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9YUNJvyaMLVeTNjkhhpmOmyba93dvS0KEkxoY0t7ANXuF0C1kghXkgTav0NI",
       "pictureSource": "Sportbox",
       "relatedSearch": [
         {
-          "title": "«Арбитр пропускал много фолов». Тренер Испании де ла Фуэнте — о полуфинале ЧМ‑2026 против сборной Франции",
+          "title": "Ямаль сделал разницу в полуфинале чемпионата мира-2026. Франция жестоко наказана",
           "snippet": "",
-          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbnews_NI2343977_Arbitr_propuskal_mnogo_folov_Trener_Ispanii_de_la_Fuente__o_polufinale_ChM2026_protiv_sbornoj_Francii",
+          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbnews_NI2343938_Jamal_sdelal_raznicu_v_polufinale_chempionata_mira_2026_Francija_zhestoko_nakazana",
           "source": "Sportbox"
         },
         {
-          "title": "Шерки: «Арбитр не справился со своей работой, но это ничего не меняет»",
+          "title": "Де ла Фуэнте ответил на критику Дешама в адрес судей матча ЧМ-2026 Франция — Испания",
           "snippet": "",
-          "url": "https://www.sport-express.net/football/world/chempionat-mira-2026/news/rayan-sherki-kommentariy-po-rabote-sudey-v-matche-1-2-finala-chm-2026-franciya-ispaniya-2439502/",
-          "source": "sport-express.ru"
+          "url": "https://www.sport-express.net/football/world/chempionat-mira-2026/news/de-la-fuente-otvetil-na-kritiku-deshama-v-adres-sudey-matcha-chm-2026-franciya-ispaniya-2439488/",
+          "source": "sport-express.net"
         },
         {
-          "title": "«Я подумал, что судья отменит пенальти, потому что Ямаль принял мяч рукой. Это игра рукой в атаке — ВАР мог сообщить об этом». Экс-судья Итурральде об 11-метровом Испании",
+          "title": "Тренер Испании – о сборной Франции: Они играли против лучшей команды мира",
           "snippet": "",
-          "url": "https://sportmail.ru/news/football/71634216/",
-          "source": "Спорт Mail"
+          "url": "https://www.ua-football.com/foreign/worldcup/1784084643-trener-ispanii-o-sbornoy-francii-oni-igrali-protiv-luchshey-komandy-mira.html",
+          "source": "UA-Football"
         }
       ],
       "link": "https://imtaqin.id/"

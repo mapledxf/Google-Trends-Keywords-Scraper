@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2026-07-15 14:29:01",
+  "lastUpdate": "2026-07-15 16:02:27",
   "data": [
     {
+      "title": "meningococo",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 15 Jul 2026 08:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaaghsDXcWl43NCuTpm_VD6S4aRbbYxNuIJgZBdNHliX9QNc_KgPpU4yuRnr0",
+      "pictureSource": "Montevideo Portal",
+      "relatedSearch": [
+        {
+          "title": "Montevideo: murió una niña por meningococo y la escuela a la que iba permanece cerrada",
+          "snippet": "",
+          "url": "https://www.montevideo.com.uy/Noticias/Montevideo-murio-una-nina-por-meningococo-y-la-escuela-a-la-que-iba-permanece-cerrada-uc968387",
+          "source": "Montevideo Portal"
+        },
+        {
+          "title": "Niña de 11 años murió por meningococo: escuela de Montevideo a la que asistía activó protocolos de higiene",
+          "snippet": "",
+          "url": "https://www.elobservador.com.uy/nacional/nina-11-anos-murio-meningococo-escuela-montevideo-la-que-asistia-activo-protocolos-higiene-n6050863",
+          "source": "El Observador"
+        },
+        {
+          "title": "Murió por meningococo una alumna de la Escuela 102 de Montevideo",
+          "snippet": "",
+          "url": "https://www.subrayado.com.uy/murio-meningococo-una-alumna-la-escuela-102-montevideo-n1012823",
+          "source": "subrayado.com.uy"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "gasolina",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 15 Jul 2026 03:20:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaM8mdzdjsaOQiZYhQsZZXAfyAPEtpsM4N41lApVWcZjgA5V_zt7KMG1qCOEQ",
       "pictureSource": "Fox News",
@@ -46,34 +74,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "tiempo",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 15 Jul 2026 03:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQij_S5ZDbyYSoGjuK1jy8LQ2VbZirvn7RZiH2p05RDm5wXmyNdCY0ggUfi7bY",
-      "pictureSource": "subrayado.com.uy",
-      "relatedSearch": [
-        {
-          "title": "Miércoles templado e inestable; jueves con lluvias, tormentas y marcado ascenso de temperatura: máxima de 26º el viernes",
-          "snippet": "",
-          "url": "https://www.subrayado.com.uy/miercoles-templado-e-inestable-jueves-lluvias-tormentas-y-marcado-ascenso-temperatura-maxima-26-el-viernes-n1012817",
-          "source": "subrayado.com.uy"
-        },
-        {
-          "title": "Arranca la semana con frío, nieblas y una máxima de apenas 13°C",
-          "snippet": "",
-          "url": "https://www.diariodebatepregon.com/locales/arranca-la-semana-con-frio-nieblas-y-una-maxima-de-apenas-13c",
-          "source": "Diario El Debate Pregón"
-        },
-        {
-          "title": "Semana fría e inestable, con lluvias y tormentas desde el jueves: el informe de Nubel Cisneros",
-          "snippet": "",
-          "url": "https://www.subrayado.com.uy/semana-fria-e-inestable-lluvias-y-tormentas-el-jueves-el-informe-nubel-cisneros-n1012722",
-          "source": "subrayado.com.uy"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "chatgpt",
       "trafficCount": "1000+",
       "pubDate": "Tue, 14 Jul 2026 16:50:00 -0700",
@@ -93,10 +93,10 @@
           "source": "Inc.com"
         },
         {
-          "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+          "title": "OpenAI’s First Consumer Device Will Be A Smart Speaker, Report Says",
           "snippet": "",
-          "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
-          "source": "TechCrunch"
+          "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/07/14/openais-first-consumer-device-will-be-a-smart-speaker-report-says/",
+          "source": "Forbes"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -115,16 +115,16 @@
           "source": "Montevideo Portal"
         },
         {
-          "title": "Mundial 2026: al igual que Scaloni, Thomas Tuchel llamó a no meter a \"los acontecimientos históricos\" en el partido entre Argentina e Inglaterra",
-          "snippet": "",
-          "url": "https://www.elobservador.com.uy/mundial-2026/mundial-2026-al-igual-que-scaloni-thomas-tuchel-llamo-no-meter-los-acontecimientos-historicos-el-partido-argentina-e-inglaterra-n6050816",
-          "source": "El Observador"
-        },
-        {
           "title": "Thomas Tuchel coincidió con Scaloni previo al Argentina-Inglaterra: \"No es importante evocar la historia\"",
           "snippet": "",
           "url": "https://www.elpais.com.uy/ovacion/mundial/thomas-tuchel-coincidio-con-scaloni-previo-al-argentina-inglaterra-no-es-importante-evocar-la-historia",
           "source": "EL PAÍS Uruguay"
+        },
+        {
+          "title": "Mundial 2026: al igual que Scaloni, Thomas Tuchel llamó a no meter a \"los acontecimientos históricos\" en el partido entre Argentina e Inglaterra",
+          "snippet": "",
+          "url": "https://www.elobservador.com.uy/mundial-2026/mundial-2026-al-igual-que-scaloni-thomas-tuchel-llamo-no-meter-los-acontecimientos-historicos-el-partido-argentina-e-inglaterra-n6050816",
+          "source": "El Observador"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -149,10 +149,10 @@
           "source": "TechCrunch"
         },
         {
-          "title": "Major book publishers sue Google over Gemini AI stealing millions of copyrighted works, argue tech giant will ‘weaken the incentive to create’",
+          "title": "Hatchette and Elsevier Sue Google for Using Their Work to Train AI",
           "snippet": "",
-          "url": "https://www.amny.com/law/publishers-sue-google-gemini-ai/",
-          "source": "amNewYork"
+          "url": "https://gizmodo.com/hatchette-and-elsevier-sue-google-for-using-their-work-to-train-ai-2000785480",
+          "source": "Gizmodo"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -217,26 +217,26 @@
       "title": "impuesto",
       "trafficCount": "2000+",
       "pubDate": "Tue, 14 Jul 2026 14:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYhuXFjiGjsDtCX_3SVFvxoUnBr_4AT3KoUO_cutkoUvHbEo0rx_Dkeb0NLXk",
-      "pictureSource": "Ambito",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdkJybGhSPUEqQXJZWebwUSItMHlE5_aXg7rngiKqtRNg9vXdzFAiGJasByLI",
+      "pictureSource": "GUB.UY",
       "relatedSearch": [
         {
-          "title": "Prevén un aluvión de compras de autos eléctricos antes de que empiece a regir el nuevo impuesto en 2027",
+          "title": "IASS: Jubilados y pensionistas no estarán obligados a presentar declaración jurada del impuesto",
           "snippet": "",
-          "url": "https://www.ambito.com/uruguay/preven-un-aluvion-compras-autos-electricos-antes-que-empiece-regir-el-nuevo-impuesto-2027-n6299107",
-          "source": "Ambito"
+          "url": "https://www.gub.uy/direccion-general-impositiva/comunicacion/noticias/iass-jubilados-pensionistas-estaran-obligados-presentar-declaracion-jurada",
+          "source": "GUB.UY"
         },
         {
-          "title": "Álvaro Perrone a favor de aplicar Imesi a los vehículos eléctricos: \"Era momento de revisarlo\"",
+          "title": "Jubilados y pensionistas dejarán de presentar la declaración jurada del IASS: así funcionará el nuevo sistema automático de DGI",
           "snippet": "",
-          "url": "https://www.telenoche.com.uy/nacionales/alvaro-perrone-favor-aplicar-imesi-los-vehiculos-electricos-era-momento-revisarlo-n5402042",
-          "source": "Telenoche"
+          "url": "https://www.elobservador.com.uy/nacional/jubilados-y-pensionistas-dejaran-presentar-la-declaracion-jurada-del-iass-asi-funcionara-el-nuevo-sistema-automatico-dgi-n6050822",
+          "source": "El Observador"
         },
         {
-          "title": "“El impuesto a los vehículos eléctricos tiene un afán recaudatorio para cubrir el déficit de la Rendición de Cuentas”",
+          "title": "Declaración jurada del IASS para pasivos no será obligatoria a partir de 2027",
           "snippet": "",
-          "url": "https://www.xn--lamaana-7za.uy/actualidad/el-impuesto-a-los-vehiculos-electricos-tiene-un-afan-recaudatorio-para-cubrir-el-deficit-de-la-rendicion-de-cuentas/",
-          "source": "La Mañana"
+          "url": "https://www.duraznodigital.uy/2026/07/declaracion-jurada-del-iass-para.html",
+          "source": "duraznodigital.uy"
         }
       ],
       "link": "https://imtaqin.id/"

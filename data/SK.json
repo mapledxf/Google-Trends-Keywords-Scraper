@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2026-07-15 05:56:24",
+  "lastUpdate": "2026-07-15 07:56:06",
   "data": [
-    {
-      "title": "idnes",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 14 Jul 2026 21:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRmtmWeCwmNCL98rVZUOiBelbN0uKORwrjRudvbYyVimpZ9KJ4mR649TGHETEY",
-      "pictureSource": "Sport.cz",
-      "relatedSearch": [
-        {
-          "title": "MS fotbal | Školácká chyba, nebo daň za výchovu? Experty rozděluje moment, který začal zkázu Francie",
-          "snippet": "",
-          "url": "https://www.sport.cz/clanek/fotbal-ms-skolacka-chyba-nebo-dan-za-vychovu-experty-rozdeluje-moment-ktery-zacal-zkazu-francie-5504804",
-          "source": "Sport.cz"
-        },
-        {
-          "title": "Prohra hrozně bolí, jsme zdrceni, řekl kouč Francie. Rýpl si do sudího ze Salvadoru",
-          "snippet": "",
-          "url": "https://www.idnes.cz/fotbal/mistrovstvi-sveta-ve-fotbale/trener-didier-deschamps-francie-spanelsko-semifinale-ms-2026.A260715_003341_ms-fotbal_min",
-          "source": "iDNES.cz"
-        },
-        {
-          "title": "Yamal bavil, ale Francii rozbili pracanti. Španělsko je ve finále",
-          "snippet": "",
-          "url": "https://www.seznamzpravy.cz/clanek/sport-fotbal-ms-ve-fotbale-yamal-bavil-ale-francii-rozbili-pracanti-spanelsko-je-ve-finale-311022",
-          "source": "Seznam Zprávy"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "búrka",
       "trafficCount": "1000+",
@@ -49,9 +21,9 @@
           "source": "TERAZ.sk"
         },
         {
-          "title": "Zamračené, prehánky a oblačno. Slovensko čaká zachmúrený júlový deň",
+          "title": "Čaká nás oblačná noc: Na západe sa pripravte na dážď a ojedinelé búrky",
           "snippet": "",
-          "url": "https://www.aktuality.sk/clanok/0Lbll1T/zamracene-prehanky-a-oblacno-slovensko-caka-zachmureny-julovy-den/",
+          "url": "https://www.aktuality.sk/clanok/kWBp5wc/caka-nas-oblacna-noc-na-zapade-sa-pripravte-na-dazd-a-ojedinele-burky/",
           "source": "Aktuality"
         }
       ],
@@ -59,7 +31,7 @@
     },
     {
       "title": "ryanair",
-      "trafficCount": "200+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 14 Jul 2026 21:20:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN6LeqeF_2YVkqrYw1ad0Fl9FG2CDo3LHRBbrfpPE4vcHYnujf2Bw4f6fTEBw",
       "pictureSource": "BBC",
@@ -77,10 +49,10 @@
           "source": "Yahoo"
         },
         {
-          "title": "Ryanair mid-air scare: Wife recalls terrifying moments after husband nearly sucked out of plane",
+          "title": "Wife of Ryanair passenger sucked out of dislodged window recalls incident",
           "snippet": "",
-          "url": "https://abc7.com/post/ryanair-mid-air-scare-wife-recalls-terrifying-moments-husband-sucked-plane/19510022/",
-          "source": "ABC7 Los Angeles"
+          "url": "https://www.reuters.com/world/wife-ryanair-passenger-sucked-out-dislodged-window-recalls-incident-2026-07-14/",
+          "source": "Reuters"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,26 +61,26 @@
       "title": "погода",
       "trafficCount": "200+",
       "pubDate": "Tue, 14 Jul 2026 19:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVCOxlpipJtysgUlJhzNpMhFoZF4ubi1hbDDNK6QHnAVgU-ZnGUuflBv7jnqE",
-      "pictureSource": "УНИАН",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ57JxaROqZjV4HPPpCsVlEFQZY_Tsz1RdYmOO6cw4ur3l6tVSNtX01ZRksQ88",
+      "pictureSource": "Тайшет24",
       "relatedSearch": [
         {
-          "title": "Жара возвращается в Украину: синоптик назвал точную дату (карта)",
+          "title": "Иркутский гидрометцентр — о погоде на 16 июля",
           "snippet": "",
-          "url": "https://www.unian.net/pogoda/news/zhara-vozvrashchaetsya-v-ukrainu-sinoptik-nazval-tochnuyu-datu-13440180.html",
-          "source": "УНИАН"
+          "url": "https://www.t24.su/irkutskiy-gidromettsentr-160726/",
+          "source": "Тайшет24"
         },
         {
-          "title": "Атмосферные фронты приносят ливни и град: синоптики назвали регионы, где будет бушевать непогода",
+          "title": "+25 градусов и небольшой дождь ожидается в Иркутске 15 июля",
           "snippet": "",
-          "url": "https://tsn.ua/ru/ukrayina/atmosfernye-fronty-prinosyat-livni-i-grad-sinoptiki-nazvali-regiony-gde-budet-bushevat-nepogoda-3127061.html",
-          "source": "ТСН"
+          "url": "https://pogoda.mail.ru/news/71634903/",
+          "source": "Погода Mail"
         },
         {
-          "title": "Тепло, но воды в реках может стать больше: где в Украине ждать грозы 15 июля (карта)",
+          "title": "14 июля в Иркутской области снова пройдут сильные дожди",
           "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/teplo-ale-vodi-richkah-mozhe-stati-bilshe-1784038141.html",
-          "source": "РБК-Україна"
+          "url": "https://www.irk.ru/news/20260713/rains/",
+          "source": "Твой Иркутск"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,9 +89,15 @@
       "title": "počasie bratislava",
       "trafficCount": "100+",
       "pubDate": "Tue, 14 Jul 2026 18:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZrODSe6VFnwNTeN2Lxc3zaSOpxUMdH4oQDH5V6tVUHEI5kn-EdUzfnM1a_i4",
-      "pictureSource": "iMeteo.sk",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrbP48Ctnx8EozS0PRKuf0drNRrVjOJLmwYQxkSnkrQAgaCsD8C6H--4IiEGQ",
+      "pictureSource": "tnlive",
       "relatedSearch": [
+        {
+          "title": "Počasie ako na hojdačke. Slovensko čaká dážď aj slnečné lúče",
+          "snippet": "",
+          "url": "https://tnlive.sk/domace/clanok/1040909-pocasie-ako-na-hojdacke-slovensko-caka-dazd-aj-slnecne-luce",
+          "source": "tnlive"
+        },
         {
           "title": "Počasie na týždeň: Horúčavy zosilnejú, ale pridajú sa aj búrky",
           "snippet": "",
@@ -127,16 +105,10 @@
           "source": "iMeteo.sk"
         },
         {
-          "title": "Predpoveď počasia na dnešný deň (12.7.2026)",
+          "title": "12. 7. – Ranná a denná predpoveď počasia na nedeľu",
           "snippet": "",
-          "url": "https://kosicednes.sk/pocasie/predpoved-pocasia-na-dnesny-den-12-7-2026",
-          "source": "košice:dnes"
-        },
-        {
-          "title": "Počasie ako na hojdačke. Slovensko čaká dážď aj slnečné lúče",
-          "snippet": "",
-          "url": "https://tnlive.sk/domace/clanok/1040909-pocasie-ako-na-hojdacke-slovensko-caka-dazd-aj-slnecne-luce",
-          "source": "tnlive"
+          "url": "https://www.pohodafestival.sk/sk/novinky/12-7-ranna-a-denna-predpoved-pocasia-na-nedelu",
+          "source": "Pohoda Festival"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,41 +117,13 @@
       "title": "argentina anglicko",
       "trafficCount": "200+",
       "pubDate": "Tue, 14 Jul 2026 14:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZQnoafZnRXmQ5EJEDt4-EAkoi42yBQSJc3FCNk1owPoJMHGVEKHjM4GO0MA8",
-      "pictureSource": "Denník N",
-      "relatedSearch": [
-        {
-          "title": "Argentína postúpila aj bez Messiho gólu. Švajčiar vyviedol hlúposť, akú sme nevideli 20 rokov",
-          "snippet": "",
-          "url": "https://dennikn.sk/5450765/argentina-postupila-aj-bez-messiho-golu-svajciar-vyviedol-hlupost-aku-sme-nevideli-20-rokov/",
-          "source": "Denník N"
-        },
-        {
-          "title": "Messi kričal a krepčil, Argentína využila darček. Spasiteľom je najdrahší hráč",
-          "snippet": "",
-          "url": "https://sportnet.sme.sk/spravy/argentina-svajciarsko-reakcie-stvrtfinale-ms-vo-futbale-2026/",
-          "source": "SPORTNET"
-        },
-        {
-          "title": "Messi mal výmenu názorov s rozhodcom: Nebuď neúctivý! Vyzýval ho kapitán Argentíny",
-          "snippet": "",
-          "url": "https://sport24.pluska.sk/futbal/messi-mal-vymenu-nazorov-s-rozhodcom-nebud-neuctivy-vyzyval-ho-kapitan-argentiny-ms-vo-futbale-2026",
-          "source": "Šport24.sk"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "futbal",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 14 Jul 2026 14:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJndwXXJoTTLXQhjXEruPQuhgMM1liMFarwOwBHGM8k1BlwJsdkJdK7_Pc1NA",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNkU6tbv9u5WaoHdBGWKqtniyMN7ZUV1TqyY7N9rxelthpAwUnbroviUJVoZI",
       "pictureSource": "Šport.sk",
       "relatedSearch": [
         {
-          "title": "MS vo futbale 2026: Program dňa - streda 15. júl - je tu absolútny vrchol semifinále!",
+          "title": "Rivalita, ktorá presahuje hranice športu. Prečo sa Anglicko a Argentína nenávidia?",
           "snippet": "",
-          "url": "https://sport.aktuality.sk/futbal/clanok/ms-vo-futbale-2026-program-a-vysledky-futbal-dnes-v-tv-15-jul-2026071504301149849",
+          "url": "https://sport.aktuality.sk/futbal/clanok/ms-vo-futbale-2026-rivalita-anglicko-argentina-2026071506304373731",
           "source": "Šport.sk"
         },
         {
@@ -189,10 +133,10 @@
           "source": "Denník N"
         },
         {
-          "title": "Záhadná nominácia pred bojom o finále. Angličania hovoria o Messiho mužovi",
+          "title": "Rice sa stihol zotaviť a bude hrať v semifinále s Argentínou",
           "snippet": "",
-          "url": "https://sportnet.sme.sk/spravy/anglicko-argentina-preview-semifinale-ms-vo-futbale-2026/",
-          "source": "SPORTNET"
+          "url": "https://www.teraz.sk/sport/rice-sa-stihol-zotavit-a-bude-hrat-v-s/977931-clanok.html",
+          "source": "TERAZ.sk"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,13 +145,13 @@
       "title": "mikel oyarzabal",
       "trafficCount": "200+",
       "pubDate": "Tue, 14 Jul 2026 13:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtbzq0RvWlCV8vYQwGZky_rw8Xl9UtQrtaMjfcU7VaaTO68SdS9ygDmm7Izpo",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_MAzA2W4BrE5R8zzVRzMzGa3N50bKTqxGc6eEqqj8olLstHReynoAtIefHOU",
       "pictureSource": "EL PAÍS",
       "relatedSearch": [
         {
-          "title": "Los goles de Mikel Oyarzabal y Pedro Porro en el Francia 0 - España 2 en el Mundial 2026",
+          "title": "‘Big foot’ Mikel Oyarzabal",
           "snippet": "",
-          "url": "https://elpais.com/deportes/mundial-futbol/2026-07-14/los-goles-de-mikel-oyarzabal-y-pedro-porro-en-el-francia-0-espana-2-en-el-mundial.html",
+          "url": "https://elpais.com/deportes/mundial-futbol/2026-07-14/big-foot-mikel-oyarzabal.html",
           "source": "EL PAÍS"
         },
         {
@@ -217,10 +161,10 @@
           "source": "MARCA"
         },
         {
-          "title": "Francia - España: Declaraciones de Mikel Oyarzabal | Mundial | Ver vídeo",
+          "title": "Sigue haciendo historia",
           "snippet": "",
-          "url": "https://www.rtve.es/play/videos/copa-mundial-de-la-fifa-2026/mundial-2026-francia-espana-eclaraciones-oyarzabal-mundial-2026-francia-espana-declaraciones-oyarzabal/17156697/",
-          "source": "RTVE.es"
+          "url": "https://www.realsociedad.eus/es/noticias/detalle/sigue-haciendo-historia",
+          "source": "Real Sociedad"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,38 +189,82 @@
           "source": "JOJ24"
         },
         {
-          "title": "Prírodné zdroje musia prispievať k mieru, nie konfliktom, tvrdí Blanár",
+          "title": "Črtá sa veľký úspech Ficovej politiky na štyri svetové strany?",
           "snippet": "",
-          "url": "https://hnonline.sk/slovensko/96291632-prirodne-zdroje-musia-prispievat-k-mieru-nie-konfliktom-tvrdi-blanar",
+          "url": "https://hnonline.sk/komentare/komentare-hn/96291781-crta-sa-velky-uspech-ficovej-politiky-na-styri-svetove-strany",
           "source": "HNonline"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "joj",
-      "trafficCount": "500+",
+      "title": "mbappe",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 14 Jul 2026 12:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTK7KUnh4bqNl2M8cH670WQZsriFgEiozf4FjW84FQ7S_N-Sw5wovhB_23Y2BI",
-      "pictureSource": "Nový čas pre Ženy",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS64Ca6N2ZzjYeKaXmtA3PI4cWGBmZHOTs9cqAEKw4VNWvM6HaNPHlPN7uUkIU",
+      "pictureSource": "FourFourTwo",
       "relatedSearch": [
         {
-          "title": "V roku 1987 bola prváčka, a dnes MODERUJE správy na JOJ-ke! Hádajte, kto je to?",
+          "title": "World Cup 2026: Do goals in the third place play-off count towards the Golden Boot?",
           "snippet": "",
-          "url": "https://casprezeny.pluska.sk/celebrity/v-roku-1987-bola-prvacka-a-dnes-moderuje-spravy-na-joj-ke-hadajte-kto-je-to",
-          "source": "Nový čas pre Ženy"
+          "url": "https://www.fourfourtwo.com/person/player/world-cup-2026-do-goals-in-the-third-place-play-off-count-towards-the-golden-boot",
+          "source": "FourFourTwo"
         },
         {
-          "title": "V roku 1987 bola prváčka, a dnes MODERUJE správy na JOJ-ke! Hádajte, kto je to?",
+          "title": "كرة قدم: صراع الأجيال على الحذاء الذهبي infographic",
           "snippet": "",
-          "url": "https://casprezeny.pluska.sk/celebrity/v-roku-1987-bola-prvacka-a-dnes-moderuje-spravy-na-joj-ke-hadajte-kto-je-to/2",
-          "source": "Nový čas pre Ženy"
+          "url": "https://www.graphicnews.com/ar/pages/48220/kr-kdm-sraaa-alagyal-aal-alhthaaa-althhby",
+          "source": "Graphic News"
         },
         {
-          "title": "Tragédia v Ľubochni: Nezvestného muža našli bez známok života v úložnom priestore gauča",
+          "title": "Goal has named the favorites for the World Cup Golden Ball",
           "snippet": "",
-          "url": "https://www.noviny.sk/krimi/1233685-tragedia-v-lubochni-nezvestneho-muza-nasli-bez-znamok-zivota-v-uloznom-priestore-gauca",
-          "source": "Noviny.sk"
+          "url": "https://ua.news/en/sport/goal-viznachiv-favoritiv-na-zolotii-miach-chempionatu-svitu-z-futbolu",
+          "source": "UA.NEWS"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "rtvs",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 14 Jul 2026 12:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6pDhvqOzXfsCcQDOMPff71q3u9wP4TA9lQURNMdt_0h3mDwDD5UVwTFBjbPk",
+      "pictureSource": "STVR",
+      "relatedSearch": [
+        {
+          "title": "Na Dvojku sa vracia oceňovaný slovenský seriál. Dve povahy, dva svety, jedna Bratislava",
+          "snippet": "",
+          "url": "https://www.stvr.sk/novinky/filmy-a-serialy/452741/na-dvojku-sa-vracia-ocenovany-slovensky-serial-dve-povahy-dva-svety-jedna-bratislava",
+          "source": "STVR"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "franciaország–spanyolország",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 14 Jul 2026 12:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTd_7kvGbzaPwdrbzwJ86biZ_1TK3RzMUpVl5x-4IwEFQ_ppHeDJ4GThfHO4o",
+      "pictureSource": "Nemzeti Sport",
+      "relatedSearch": [
+        {
+          "title": "Rayan Cherki: Egyértelmű, hogy a játékvezető nem nőtt fel a feladathoz",
+          "snippet": "",
+          "url": "https://www.nemzetisport.hu/foci-vb-2026/2026/07/rayan-cherki-egyertelmu-hogy-a-jatekvezeto-nem-nott-fel-a-feladathoz",
+          "source": "Nemzeti Sport"
+        },
+        {
+          "title": "Spanyolország nem adott esélyt a franciáknak, 16 év után játszhat vb-döntőt",
+          "snippet": "",
+          "url": "https://telex.hu/sport/2026/07/14/spanyol-francia-vb-elodonto-osszefoglalo",
+          "source": "Telex"
+        },
+        {
+          "title": "Sport: Spanyolország az első döntős, a franciáknak semmi sem jött össze",
+          "snippet": "",
+          "url": "https://hvg.hu/sport/20260714_foci-vb-franciaorszag-spanyolorszag-elo-ebx",
+          "source": "| hvg.hu"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,122 +1,234 @@
 {
-  "lastUpdate": "2026-07-15 12:46:54",
+  "lastUpdate": "2026-07-15 14:28:30",
   "data": [
     {
-      "title": "victoria von schweden",
-      "trafficCount": "5000+",
-      "pubDate": "Wed, 15 Jul 2026 05:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQmvcv_3qEcxqcgru-L4aLLEPoug5z2dGly8cklCQkEk7dX3zUzlR0gpk9JUY",
-      "pictureSource": "GALA.de",
+      "title": "schiff",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 15 Jul 2026 07:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxRgUD_SUAwE9vifYULO86b5Ci4bv7zGJm-ULBfE0JlLDcrhcjerfsOmB421s",
+      "pictureSource": "Spiegel",
       "relatedSearch": [
         {
-          "title": "Prinzessin Victoria wird 49 – und Baby Ines feiert Victoriatag-Debüt",
+          "title": "Gelendschik: Ukrainische Seedrohne zerstört offenbar russisches FSB-Schiff in Schwarzmeerhafen",
           "snippet": "",
-          "url": "https://www.gala.de/royals/skandinavier/prinzessin-victoria-wird-49---und-baby-ines-feiert-victoriatag-debuet-24634662.html",
-          "source": "GALA.de"
+          "url": "https://www.spiegel.de/ausland/gelendschik-ukrainische-seedrohne-zerstoert-offenbar-russisches-fsb-schiff-in-schwarzmeerhafen-a-84994e9c-32c7-4311-9e63-819b827a4cf0",
+          "source": "Spiegel"
         },
         {
-          "title": "Geburtstagsfeier von Victoria: Den schönsten Moment des Tages lieferte der Abend",
+          "title": "Ukraine: Haben russisches Geheimdienst-Schiff versenkt",
           "snippet": "",
-          "url": "https://web.de/magazine/unterhaltung/adel/schweden-royals/geburtstagsfeier-victoria-schoensten-moment-lieferte-abend-42504192",
+          "url": "https://www.t-online.de/nachrichten/ukraine/id_101340260/ukraine-krieg-aktuell-kiew-hat-wohl-russisches-geheimdienstschiff-versenkt.html",
+          "source": "T-Online"
+        },
+        {
+          "title": "Satellitenbilder zeigen zerstörtes russisches Patrouillenschiff",
+          "snippet": "",
+          "url": "https://www.ukrinform.de/rubric-ato/4144295-satellitenbilder-zeigen-zerstortes-russisches-patrouillenschiff.html",
+          "source": "Ukrinform News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "hubschrauber",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 15 Jul 2026 07:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSM5Svtt24sRLmlI7EHMf5CPGk-gn1ZYHXRBDNxidbOGF_TG-lPCGi6S_slgsQ",
+      "pictureSource": "T-Online",
+      "relatedSearch": [
+        {
+          "title": "Ukrainische Drohne trifft russischen Kampfhubschrauber – Ukraine-Krieg aktuell",
+          "snippet": "",
+          "url": "https://www.t-online.de/nachrichten/ukraine/id_101340260/ukraine-krieg-aktuell-russischer-kampfhubschrauber-von-drohne-abgeschossen.html",
+          "source": "T-Online"
+        },
+        {
+          "title": "Ukraine-Drohne trifft Schwachstelle von Russen-Heli",
+          "snippet": "",
+          "url": "https://www.focus.de/politik/ausland/ukraine-drohne-trifft-schwachstelle-von-russen-heli_a2cd2ad3-607e-4562-9d08-4f7423c42672.html",
+          "source": "FOCUS online"
+        },
+        {
+          "title": "Ukrainische Drohne schlägt gezielt in Schwachstelle von russischem Hubschrauber ein",
+          "snippet": "",
+          "url": "https://www.fr.de/politik/ukrainische-drohne-schlaegt-gezielt-in-schwachstelle-von-russischem-hubschrauber-ein-zr-94398353.html",
+          "source": "Frankfurter Rundschau"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "politik",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 15 Jul 2026 06:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSURshHSNJdDifdeGTppmXKErbuWa4vnjPkefTFYum3ZUKs_Fb3ZsUiX7i8-1s",
+      "pictureSource": "tagesschau.de",
+      "relatedSearch": [
+        {
+          "title": "Sommerpressekonferenz des Kanzlers: \"Die Koalition hat Tritt gefasst\"",
+          "snippet": "",
+          "url": "https://www.tagesschau.de/inland/merz-pk-108.html",
+          "source": "tagesschau.de"
+        },
+        {
+          "title": "Pressekonferenz: Friedrich Merz, aufgeräumt wie ein gut gepackter Koffer",
+          "snippet": "",
+          "url": "https://www.welt.de/debatte/plus6a5769d9b95fa94b3abc254a/pressekonferenz-friedrich-merz-aufgeraeumt-wie-ein-gut-gepackter-koffer.html",
+          "source": "WELT"
+        },
+        {
+          "title": "Sommerpressekonferenz des Bundeskanzlers: Friedrich Merz gibt sich trotz hoher AfD-Umfragewerte optimistisch",
+          "snippet": "",
+          "url": "https://www.zeit.de/politik/deutschland/2026-07/sommerpressekonferenz-friedrich-merz-bundeskanzler-fragen-schwarz-rot-live",
+          "source": "DIE ZEIT"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "victoria-tag",
+      "trafficCount": "2000+",
+      "pubDate": "Wed, 15 Jul 2026 06:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvocAtVY-90E5d6xqkklhSdQEmEugANfbeG0CmBmYng6GGbLv3_i4csaIsQSM",
+      "pictureSource": "WEB.DE",
+      "relatedSearch": [
+        {
+          "title": "Darum trug Prinz Julian am Victoriatag einen Gips",
+          "snippet": "",
+          "url": "https://web.de/magazine/unterhaltung/adel/schweden-royals/prinz-julian-victoriatag-gips-42507516",
           "source": "WEB.DE"
         },
         {
-          "title": "Victoria von Schweden teilt Familienfoto – ein Detail überrascht",
+          "title": "Prinzessin Sofias Sohn Julian mit Gips am Victoriatag – Palast gibt Entwarnung",
           "snippet": "",
-          "url": "https://www.t-online.de/unterhaltung/royals/id_101343652/victoria-von-schweden-teilt-familienfoto-mit-daniel-estelle-und-oscar.html",
-          "source": "T-Online"
+          "url": "https://www.bunte.de/royals/schwedisches-koenigshaus/prinzessin-sofias-sohn-julian-erscheint-mit-gips-palast-gibt-entwarnung_8dee8836-aa3a-42af-83b5-bc37947dfc62.html",
+          "source": "BUNTE.de"
+        },
+        {
+          "title": "Prinz Julian: Schwedischer Hof erklärt Grund für Gipsarm",
+          "snippet": "",
+          "url": "https://www.freenet.de/unterhaltung/royals/prinz-julian-schwedischer-hof-erklaert-grund-fuer-gipsarm-40521430.html",
+          "source": "Freenet"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "tierquälerei",
+      "title": "cenk özkacar",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 15 Jul 2026 06:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGrgqqmLnSDfzITTAQp28XDMsPy7-yPMl0PoGirr8vLyPrZ0ribplJSBi1dUs",
+      "pictureSource": "Sözcü Gazetesi",
+      "relatedSearch": [
+        {
+          "title": "Ezeli rakipler, Cenk Özkaçar için karşı karşıya",
+          "snippet": "",
+          "url": "https://www.sozcu.com.tr/ezeli-rakipler-cenk-ozkacar-icin-karsi-karsiya-p336675",
+          "source": "Sözcü Gazetesi"
+        },
+        {
+          "title": "Beşiktaş ve Trabzonspor, Cenk Özkacar için devrede – Schalke 04 görüşmelere başladı",
+          "snippet": "",
+          "url": "https://www.transfermarkt.com.tr/besiktas-ve-trabzonspor-cenk-ozkacar-icin-devrede-schalke-04-gorusmelere-basladi/view/news/482980",
+          "source": "Transfermarkt"
+        },
+        {
+          "title": "Alman ekibinden Cenk Özkaçar hamlesi",
+          "snippet": "",
+          "url": "https://www.fanatik.com.tr/schalke-04/alman-ekibinden-cenk-ozkacar-hamlesi-2630860",
+          "source": "Fanatik"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "niedrigwasser",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 15 Jul 2026 06:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqXdedQpRzr2-Lb089moQVq0RvhAfTXVCUTiy4zniRBZ21rk9xOIRDh3mpfBw",
+      "pictureSource": "BILD",
+      "relatedSearch": [
+        {
+          "title": "Pegel fallen immer weiter: Der Rhein trocknet aus",
+          "snippet": "",
+          "url": "https://www.bild.de/regional/nordrhein-westfalen/pegel-fallen-immer-weiter-der-rhein-trocknet-aus-6a55ff99714bf8869b95e9d5",
+          "source": "BILD"
+        },
+        {
+          "title": "Niedrigwasser im Rhein bedroht die Düsseldorfer Kirmesfähre | Video",
+          "snippet": "",
+          "url": "https://www1.wdr.de/mediathek/video/nrw-video/kirmesfaehre-duesseldorf-rhein-kirmesfaehre-100.html",
+          "source": "WDR"
+        },
+        {
+          "title": "Dürre: Niedrigwasser lässt Ahr-Zufluss in den Rhein versiegen",
+          "snippet": "",
+          "url": "https://www.faz.net/video/niedrigwasser-laesst-ahr-zufluss-in-den-rhein-versiegen-201029297.html",
+          "source": "FAZ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "hitzetod",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 15 Jul 2026 06:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS69YJytlABy1dC_UfWNCQTtguYMdIbsiPezEfrv1l8Ju6brwnSxjb80tciBo8",
+      "pictureSource": "BILD",
+      "relatedSearch": [
+        {
+          "title": "Bei Hitze kalt oder warm trinken? Ein Experte klärt auf",
+          "snippet": "",
+          "url": "https://www.bild.de/leben-wissen/ernaehrung-diaet/bei-hitze-kalt-oder-warm-trinken-ein-experte-klaert-auf-6a561d9688b6b373594b15a6",
+          "source": "BILD"
+        },
+        {
+          "title": "Hitze-Trick laut Studie: Diese Alltagsgetränke versorgen Sie länger mit Flüssigkeit als Wasser",
+          "snippet": "",
+          "url": "https://www.chip.de/news/gesundheit-fitness/hitze-trick-laut-studie-diese-alltagsgetraenke-versorgen-sie-laenger-mit-fluessigkeit-als-wasser_91a2046d-a5a4-4cc7-ba4e-ecabd2bf8190.html",
+          "source": "CHIP"
+        },
+        {
+          "title": "Trotz der Hitze: Auf diese zwei Getränke sollten Sie lieber verzichten",
+          "snippet": "",
+          "url": "https://www.stern.de/genuss/trinken/trotz-der-hitze--auf-diese-zwei-getraenke-sollten-sie-lieber-verzichten-37637016.html",
+          "source": "STERN.de"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "hansa rostock – greifswalder fc",
+      "trafficCount": "2000+",
+      "pubDate": "Wed, 15 Jul 2026 06:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgVvfXsx1nZrcQuVRI6GTgql_o4zYtLmdzJI8xoKjG6NwRCRVStFMPVKaaagY",
+      "pictureSource": "Tipico",
+      "relatedSearch": [
+        {
+          "title": "Hansa Rostock vs. Greifswalder FC heute live: Übertragung im Gratis-Stream",
+          "snippet": "",
+          "url": "https://www.tipico.de/wett-tipps/sportwetten-news/hansa-rostock-vs-greifswalder-fc-heute-live-uebertragung-im-gratis-stream",
+          "source": "Tipico"
+        },
+        {
+          "title": "Heute ab 16 Uhr im Liveticker: Hansa Rostock testet gegen Greifswalder FC",
+          "snippet": "",
+          "url": "https://www.ostsee-zeitung.de/sport/regional/heute-ab-16-uhr-im-liveticker-hansa-rostock-testet-gegen-greifswalder-fc-O6EAXVCH7ZFC3JCXBMWPSHGDQA.html",
+          "source": "Ostsee Zeitung"
+        },
+        {
+          "title": "Testspiele in Mecklenburg-Vorpommern: Diese Teams sind im Einsatz",
+          "snippet": "",
+          "url": "https://www.fupa.net/news/testspiele-in-mecklenburg-vorpommern-diese-teams-sind-im-einsatz-3199731",
+          "source": "FuPa ⚽️"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "team visma | lease a bike",
       "trafficCount": "1000+",
-      "pubDate": "Wed, 15 Jul 2026 05:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyd6IVCPocB7NeoOvFF2Ffaph8GIHCfoS5nfAsSjFqcdqPCRiWFyrwR94rIRU",
-      "pictureSource": "DIE HARKE",
-      "relatedSearch": [
-        {
-          "title": "Schäferhunde in Transportboxen gesperrt: Prozess wegen Tierquälerei",
-          "snippet": "",
-          "url": "https://www.dieharke.de/lokales/nienburg-lk/weser-aue/prozess-wegen-tierquaelerei-in-nienburg-schaeferhunde-in-transportboxen-gesperrt-S5YTEWJWD5BBVBUIQ5POTILSHI.html",
-          "source": "DIE HARKE"
-        },
-        {
-          "title": "Tierquälerei in der Landwirtschaft: Er hilft erst den Menschen – und rettet so die Tiere",
-          "snippet": "",
-          "url": "https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/tierquaelerei-auf-bauernhoefen-in-sh-die-wahren-ursachen-50871734",
-          "source": "shz.de"
-        },
-        {
-          "title": "Tierquälerei in Berne: Kater in Warfleth mit Luftgewehr angeschossen",
-          "snippet": "",
-          "url": "https://www.nwzonline.de/wesermarsch/tierquaelerei-in-berne-kater-in-warfleth-mit-luftgewehr-angeschossen_a_4,3,1085766758.html",
-          "source": "NWZonline"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "partnerschaft",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 15 Jul 2026 05:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY2jnrnxpFlH05PTd9NtB8vjEVyH44jLteGt4IhzNc2-QSgdrh3n2OjEFS4Z4",
-      "pictureSource": "brigitte.de",
-      "relatedSearch": [
-        {
-          "title": "Tiny House, Camper, Mini-Wohnung: Hält die Liebe diese Enge aus? 3 Paare erzählen",
-          "snippet": "",
-          "url": "https://www.brigitte.de/liebe/beziehung/wohnen-auf-wenig-raum--wieviel-enge-haelt-eine-partnerschaft-aus--14086664.html",
-          "source": "brigitte.de"
-        },
-        {
-          "title": "Covestro und BYD schließen strategische Partnerschaft für Zukunftsindustrien",
-          "snippet": "",
-          "url": "https://www.chemie.de/news/1189257/covestro-und-byd-schliessen-strategische-partnerschaft-fuer-zukunftsindustrien.html",
-          "source": "Chemie.de"
-        },
-        {
-          "title": "Covestro und BYD: Partnerschaft für innovative Materialien",
-          "snippet": "",
-          "url": "https://www.maschinenmarkt.vogel.de/covestro-byd-partnerschaft-innovative-materialien-a-2d33fcf171a41d66c21a83b43c62277c/",
-          "source": "MM MaschinenMarkt"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "alexander hoffmann",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 15 Jul 2026 05:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXXoUfIQe9d0XOFFMBnj29_a7C4-V4ha1MwGRoGlRkJAn7jCAcof7yiJ9mU5Y",
-      "pictureSource": "WELT",
-      "relatedSearch": [
-        {
-          "title": "Regierung: CSU-Landesgruppenchef Alexander Hoffmann will acht Jahre Schwarz-Rot",
-          "snippet": "",
-          "url": "https://www.welt.de/politik/deutschland/article6a57430f664e99bc41e93728/regierung-csu-landesgruppenchef-alexander-hoffmann-will-acht-jahre-schwarz-rot.html",
-          "source": "WELT"
-        },
-        {
-          "title": "phoenix parlament - Alexander Hoffmann und Franziska Brantner zu den Reformplänen - hier anschauen",
-          "snippet": "",
-          "url": "https://www.ardmediathek.de/video/phoenix-parlament/alexander-hoffmann-und-franziska-brantner-zu-den-reformplaenen/phoenix/Y3JpZDovL3Bob2VuaXguZGUvNTIxNjczNQ",
-          "source": "ARD Mediathek"
-        },
-        {
-          "title": "CSU-Politiker: Schwarz-Rot ist ein Projekt für acht Jahre",
-          "snippet": "",
-          "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/Politik__Inland_/article6a56ebe6664e99bc41e9333c/csu-politiker-schwarz-rot-ist-ein-projekt-fuer-acht-jahre.html",
-          "source": "WELT"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "team visma-lease a bike",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 15 Jul 2026 05:00:00 -0700",
+      "pubDate": "Wed, 15 Jul 2026 06:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTW7eDEfPvGD5ut8dDfg2mHIeWVlV_1bdP0c2T64L3tP9lXSA8KXph5s_qAcvo",
       "pictureSource": "Eurosport",
       "relatedSearch": [
@@ -142,141 +254,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "albertus akkermann",
+      "title": "jonathan tah",
       "trafficCount": "500+",
-      "pubDate": "Wed, 15 Jul 2026 04:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEdvmccjMNomKRjIx2hwpX6tSgvwhyjfUdPbO4Mk5-uf3w4KgzIupi3lt7VUc",
-      "pictureSource": "BILD",
-      "relatedSearch": [
-        {
-          "title": "Er wurde nur 59 Jahre alt: Berühmtester Borkumer gestorben",
-          "snippet": "",
-          "url": "https://www.bild.de/regional/niedersachsen/er-wurde-nur-59-jahre-alt-beruehmtester-borkumer-gestorben-6a5633b088b6b373594b1841",
-          "source": "BILD"
-        },
-        {
-          "title": "Farewell, mein großer Friese. Nachruf auf Albertus Akkermann",
-          "snippet": "",
-          "url": "https://www.ankerherz.de/blogs/news/farewell-mein-grosser-friese-nachruf-auf-albertus-akkermann",
-          "source": "Ankerherz Verlag"
-        },
-        {
-          "title": "Singender Wattführer auf Borkum: Albertus Akkermann ist gestorben",
-          "snippet": "",
-          "url": "https://www.nwzonline.de/wirtschaft/singender-wattfuehrer-auf-borkum-albertus-akkermann-ist-gestorben_a_4,3,1154913484.html",
-          "source": "NWZonline"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "katherina reiche",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 15 Jul 2026 04:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS03ZFywlJO1RhjKW-jIwEgE5znq_8kyo9-Yh9S0HDsrQfEP1jMjTnmNBVLkuY",
+      "pubDate": "Wed, 15 Jul 2026 06:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxgHuo_qDZp1T_KJWic9UwcXG5vEmOpb7_uBC__aIdcHbJi3T2DNy-qoBCGno",
       "pictureSource": "T-Online",
       "relatedSearch": [
         {
-          "title": "Trennungsgerüchte um Katherina Reiche und Karl-Theodor zu Guttenberg: Anwalt äußert sich",
+          "title": "Auszeit nach frühem WM-Aus: Jonathan Tah teilt Foto mit seiner Frau",
           "snippet": "",
-          "url": "https://www.t-online.de/unterhaltung/stars/id_101344766/katherina-reiche-und-karl-theodor-zu-guttenberg-dementieren-trennung.html",
+          "url": "https://www.t-online.de/sport/fussball/wm/id_101344468/nach-wm-aus-dfb-spieler-jonathan-tah-teilt-foto-mit-seiner-frau.html",
           "source": "T-Online"
         },
         {
-          "title": "Katherina Reiche und Karl-Theodor zu Guttenberg dementieren Trennung",
+          "title": "Was Formel1-Segler vom Fußball lernen können",
           "snippet": "",
-          "url": "https://www.bild.de/unterhaltung/stars-und-leute/katherina-reiche-und-karl-theodor-zu-guttenberg-dementieren-trennung-6a573982664e99bc41e9366a",
-          "source": "BILD"
+          "url": "https://floatmagazin.de/leute/was-formel1-segler-vom-fussball-lernen-koennen/",
+          "source": "float Magazin"
         },
         {
-          "title": "Schertz Bergmann Rechtsanwälte: Presseerklärung / Katherina Reiche und Karl-Theodor zu Guttenberg",
+          "title": "„Wer, wenn nicht er?!“: Sportpsychologe Weiland würde Tah wieder schießen lassen",
           "snippet": "",
-          "url": "https://www.volksfreund.de/pr/presseportal/presseerklaerung-katherina-reiche-und-karl-theodor-zu-guttenberg_aid-151543393",
-          "source": "Volksfreund"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "arzneimittel",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 15 Jul 2026 04:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUhS9qPzyRC0eiwGJUKnjBUm5MLCRf126Eg_ytOIYzRC1h2NZXYknA8qQHLsA",
-      "pictureSource": "TARA24",
-      "relatedSearch": [
-        {
-          "title": "Wenn Medikamente auf die Waage schlagen",
-          "snippet": "",
-          "url": "https://www.tara24.at/apothekenpraxis/wenn-medikamente-auf-die-waage-schlagen/",
-          "source": "TARA24"
-        },
-        {
-          "title": "Macht mein Medikament dick? Welche Wirkstoffe eine Gewichtszunahme auslösen können",
-          "snippet": "",
-          "url": "https://www.aponet.de/artikel/macht-mein-medikament-dick-welche-wirkstoffe-eine-gewichtszunahme-ausloesen-koennen-31808",
-          "source": "aponet.de"
-        },
-        {
-          "title": "Versand aus Emmen: Rossmann sucht Apotheker und PTA",
-          "snippet": "",
-          "url": "https://www.pharmazeutische-zeitung.de/rossmann-sucht-apotheker-und-pta-166781/",
-          "source": "Pharmazeutische Zeitung"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "robert de niro",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 15 Jul 2026 04:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSX9-Vpv12ZnVMAyR8NTqU46lp8GeBbAPl5kyehy8z-w9MafLXAT5PXsi9vRMI",
-      "pictureSource": "IMDb",
-      "relatedSearch": [
-        {
-          "title": "Robert De Niro Leads Netflix’s Creepy New Thriller",
-          "snippet": "",
-          "url": "https://www.imdb.com/news/ni65929342/?ref_=nm_nwr_1",
-          "source": "IMDb"
-        },
-        {
-          "title": "Adam Scott and Michelle Monaghan star in Netflix thriller 'The Whisper Man' arriving August 28",
-          "snippet": "",
-          "url": "https://www.foxnews.com/outkick-culture/adam-scott-michelle-monaghan-star-netflix-thriller-whisper-man-arriving-august-28",
-          "source": "Fox News"
-        },
-        {
-          "title": "'The Whisper Man' Trailer Reveals Chilling Mystery of Robert De Niro & Adam Scott Netflix Film",
-          "snippet": "",
-          "url": "https://www.tvinsider.com/1275350/the-whisper-man-cast-date-trailer-book-details/",
-          "source": "TV Insider"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "geesthacht",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 15 Jul 2026 04:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKxS50DuyXlEQJ8AFZHe0o_YOlLvf-gBvJH-NDyYdafeSdoG8CSt-CTwitl1M",
-      "pictureSource": "Herzogtum direkt",
-      "relatedSearch": [
-        {
-          "title": "Baumpflegearbeiten in Geesthacht",
-          "snippet": "",
-          "url": "https://herzogtum-direkt.de/index.php/2026/07/15/baumpflegearbeiten-in-geesthacht/",
-          "source": "Herzogtum direkt"
-        },
-        {
-          "title": "B404 in Geesthacht nach Unfall zeitweise gesperrt",
-          "snippet": "",
-          "url": "https://www.ln-online.de/lokales/herzogtum-lauenburg/b404-in-geesthacht-nach-unfall-zeitweise-gesperrt-VNZDN3GHVZFCRKKJAVREXMZBWU.html",
-          "source": "Lübecker Nachrichten"
-        },
-        {
-          "title": "Geesthacht: Neue Inhaber des Café Plus mit schwierigem Start – wegen eines Kopftuchs",
-          "snippet": "",
-          "url": "https://www.abendblatt.de/schleswig-holstein/kreis-lauenburg/article412567524/neue-cafC3A9-inhaber-erleben-steinigen-start-wegen-des-kopftuchs-1.html",
-          "source": "Hamburger Abendblatt"
+          "url": "https://www.rnd.de/sport/sportpsychologe-frank-weiland-wuerde-nationalspieler-jonathan-tah-wieder-einen-elfmeter-schiessen-B5V57WKLYVCMPCAKYCONZXDMWM.html",
+          "source": "RND.de"
         }
       ],
       "link": "https://imtaqin.id/"

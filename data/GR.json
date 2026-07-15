@@ -1,24 +1,108 @@
 {
-  "lastUpdate": "2026-07-15 00:12:35",
+  "lastUpdate": "2026-07-15 03:33:22",
   "data": [
+    {
+      "title": "αθλητικέσ εφημερίδεσ",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 14 Jul 2026 20:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZi2Fc8h7Oiw3I0oW9WxQI2WHbJfup5VoxhV1XVShPIzQs1fFeNcGosjKEmzQ",
+      "pictureSource": "CNN.gr",
+      "relatedSearch": [
+        {
+          "title": "Τα πρωτοσέλιδα των εφημερίδων (14 Ιουλίου)",
+          "snippet": "",
+          "url": "https://www.cnn.gr/ellada/story/543394/ta-protoselida-ton-efimeridon-14-iouliou",
+          "source": "CNN.gr"
+        },
+        {
+          "title": "Τα πρωτοσέλιδα της Τετάρτης 14 Ιουλίου",
+          "snippet": "",
+          "url": "https://www.ethnos.gr/greece/article/414445/taprotoselidathstetarths14ioylioy",
+          "source": "Ethnos"
+        },
+        {
+          "title": "Εφημερίδες 14/07/2026: Τα πρωτοσέλιδα της ημέρας",
+          "snippet": "",
+          "url": "https://www.tvopen.gr/watch/273790/efhmerides142f072f2026taprotoselidathshmeras",
+          "source": "Open TV"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "gemini",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 14 Jul 2026 17:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0a4gBE9KQucYyQD8VyIj7wbtWPv-Aijq5KNWEC4EUx-LVna0mjvOHlnoMzw",
+      "pictureSource": "blog.google",
+      "relatedSearch": [
+        {
+          "title": "How Gemini is speaking the language of Southeast Asia",
+          "snippet": "",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-southeast-asia-report-2026/",
+          "source": "blog.google"
+        },
+        {
+          "title": "Turns out, Indonesia is the most creative country using visual AI",
+          "snippet": "",
+          "url": "https://voi.id/en/technology/584720",
+          "source": "VOI.ID"
+        },
+        {
+          "title": "Google says Gemini app users doubled in SEA",
+          "snippet": "",
+          "url": "https://www.techinasia.com/news/google-gemini-app-users-doubled-sea",
+          "source": "Tech in Asia"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "chatgpt",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 14 Jul 2026 16:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiOwaoEFrPDI6aBkbD2owpFJJQiDfuev-R8ZrQpAD_WCdbLzfjWv019oK5VDs",
+      "pictureSource": "Bloomberg",
+      "relatedSearch": [
+        {
+          "title": "OpenAI’s First Device Will Be Movable, Screenless Speaker Built as AI Companion",
+          "snippet": "",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-14/openai-s-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "OpenAI's first hardware device will be a speaker, Bloomberg News reports",
+          "snippet": "",
+          "url": "https://www.reuters.com/technology/openais-first-hardware-device-will-be-speaker-bloomberg-news-reports-2026-07-14/",
+          "source": "Reuters"
+        },
+        {
+          "title": "OpenAI Is Trying to Rip Our Screens Away With Its New Device",
+          "snippet": "",
+          "url": "https://www.businessinsider.com/open-ai-new-device-screen-addiction-jony-ive-2026-7",
+          "source": "Business Insider"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "ai",
       "trafficCount": "100+",
       "pubDate": "Tue, 14 Jul 2026 16:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0-xp6zlXU3h1TwGRNOJnR_Q1QB_3pyYjgHJp86L44DIReZ2IFjto0TVqEQI",
-      "pictureSource": "Reuters",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF95Q2G5wkGFmHDfVl2aNqWhreRUPVtmAwAMYXnConlbNjL6PuXdfaZnCF2fE",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
-        {
-          "title": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims",
-          "snippet": "",
-          "url": "https://www.reuters.com/world/meta-used-ai-target-workers-with-medical-conditions-layoffs-former-employees-2026-07-14/",
-          "source": "Reuters"
-        },
         {
           "title": "Meta used AI to tag workers who took leave to be laid off, lawsuit claims",
           "snippet": "",
           "url": "https://www.theguardian.com/technology/2026/jul/14/meta-ai-mass-layoffs-lawsuit",
           "source": "The Guardian"
+        },
+        {
+          "title": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims",
+          "snippet": "",
+          "url": "https://www.reuters.com/world/meta-used-ai-target-workers-with-medical-conditions-layoffs-former-employees-2026-07-14/",
+          "source": "Reuters"
         },
         {
           "title": "Current and former employees sue Meta, alleging discrimination in using AI to conduct layoffs",
@@ -49,38 +133,10 @@
           "source": "ProtoThema"
         },
         {
-          "title": "Ρεπόρτερ της Χαλ κάνουν λόγο για προχωρημένες επαφές με Ολυμπιακό για Τζολάκη και μεταφέρουν αισιοδοξία για συμφωνία!",
+          "title": "England Calling, νέα εμπόδια για τον στόπερ του Παναθηναϊκού και deals που κλείνουν άμεσα",
           "snippet": "",
-          "url": "https://www.sport-fm.gr/article/podosfairo/PremierLeague/olumpiakos-reporter-tis-xal-kanei-logo-gia-proxwrimenes-epafes/5136020",
-          "source": "bwinΣΠΟΡ FM 94.6"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "κιλιάν μπαπέ",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 14 Jul 2026 14:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSLLqTSrQRDXoRh-3M52ocC68v4hnEMU-3-G93kgJ8v8XvpzMoOD1aeNyoupc",
-      "pictureSource": "In.gr",
-      "relatedSearch": [
-        {
-          "title": "Μακελελέ: «Φαινόμενο ο Βραζιλιάνος Ρονάλντο, φαινόμενο και ο Εμπαπέ»",
-          "snippet": "",
-          "url": "https://www.in.gr/2026/07/14/sports/mountial-2026/makelele-fainomeno-o-vrazilianos-ronalnto-fainomeno-kai-o-empape",
-          "source": "In.gr"
-        },
-        {
-          "title": "Μουντιάλ 2026, Μακελελέ: “Ο Εμπαπέ έρχεται όλο και πιο κοντά στον Βραζιλιάνο Ρονάλντο, είναι το φαινόμενο της γενιάς του”",
-          "snippet": "",
-          "url": "https://www.sport24.gr/football/mountial-2026-makelele-o-empape-erxetai-olo-kai-pio-konta-ston-vraziliano-ronalnto-einai-to-fainomeno-tis-genias-tou/",
-          "source": "Sport24"
-        },
-        {
-          "title": "Ασταμάτητος ο Εμπαπέ στο Παγκόσμιο Κύπελλο – Γκολ ή ασίστ ανά 47′!",
-          "snippet": "",
-          "url": "https://www.novasports.gr/sport/podosfairo/event/fifa-world-cup/article/14992879/astamatitos-o-empape-sto-pagkosmio-kypello-gkol-i-asist-ana-47/",
-          "source": "Novasports"
+          "url": "https://www.newsbeast.gr/sports/arthro/13235376/england-calling-nea-ebodia-gia-ton-stoper-tou-panathinaikou-kai-deals-pou-kleinoun-amesa",
+          "source": "Newsbeast"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,15 +145,9 @@
       "title": "ντόναλντ τραμπ",
       "trafficCount": "500+",
       "pubDate": "Tue, 14 Jul 2026 14:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQXwVYGnW_N9GJpY0cBx5EqL0DBSplpyVVmr-ItiBUGCDYY1OEXZZxBNx_sIM",
-      "pictureSource": "LiFO",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRr7QN65AKQtI269VqziNzLiPn1m7kMUQT2T3op-1869MFc0S-nAFLeEjG_dk",
+      "pictureSource": "η ναυτεμπορικη",
       "relatedSearch": [
-        {
-          "title": "Γιατί ο Τραμπ θέλει να συρρικνώσει το μέγεθος δύο εθνικών μνημείων στη Γιούτα;",
-          "snippet": "",
-          "url": "https://www.lifo.gr/now/world/giati-o-tramp-thelei-na-syrriknosei-megethos-dyo-ethnikon-mnimeion-sti-gioyta",
-          "source": "LiFO"
-        },
         {
           "title": "Τραμπ: Αποσύρει τα «διόδια» 20% στα Στενά του Ορμούζ και προαναγγέλλει επενδύσεις-μαμούθ από τα Κράτη του Κόλπου",
           "snippet": "",
@@ -105,38 +155,16 @@
           "source": "η ναυτεμπορικη"
         },
         {
-          "title": "Πώς το Ιράν φαίνεται να κερδίζει τον Τραμπ στο δικό του παιχνίδι",
+          "title": "ΗΠΑ: «Στροφή» Τραμπ για τα τέλη που θα εισέπραττε για τα Στενά του Ορμούζ - Τα αντικαθιστά με «επενδυτικές συμφωνίες»",
           "snippet": "",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/pos-to-iran-fainetai-na-kerdizei-ton-tramp-sto-diko-tou-paixnidi/",
+          "url": "https://www.lifo.gr/now/world/ipa-strofi-tramp-gia-ta-teli-poy-tha-eisepratte-gia-ta-stena-toy-ormoyz-ta-antikathista",
+          "source": "LiFO"
+        },
+        {
+          "title": "CNN: Πώς το Ιράν φαίνεται να κερδίζει τον Τραμπ στο δικό του παιχνίδι",
+          "snippet": "",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/cnn-pos-to-iran-fainetai-na-kerdizei-ton-tramp-sto-diko-tou-paixnidi/",
           "source": "ertnews.gr"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "στατιστικά μουντιάλ",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 14 Jul 2026 14:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSjrexZU254jwrdH5-kk9k0LhJ15aPMoDwzMeINHwUVmbuHZNOBNSHjX8AfVu8",
-      "pictureSource": "η ναυτεμπορικη",
-      "relatedSearch": [
-        {
-          "title": "Ο Μέσι ξαναγράφει την ιστορία του Μουντιάλ με δύο νέα μυθικά ρεκόρ",
-          "snippet": "",
-          "url": "https://www.naftemporiki.gr/sports/2136554/o-mesi-xanagrafei-tin-istoria-toy-moyntial-me-dyo-nea-mythika-rekor/",
-          "source": "η ναυτεμπορικη"
-        },
-        {
-          "title": "Το δικό του Μουντιάλ: Τα μυθικά στατιστικά του 39χρονου Μέσι!",
-          "snippet": "",
-          "url": "https://www.gazzetta.gr/football/mundial/2553725/moyntial-2026-ta-apithana-statistika-toy-39hronoy-mesi-sto-toyrnoya",
-          "source": "Gazzetta.gr"
-        },
-        {
-          "title": "Πρώτος Σκόρερ Μουντιάλ 2026: Βγάζει μάτι το 11άρι",
-          "snippet": "",
-          "url": "https://www.sport24.gr/stoixima/protos-skorer-mountial-2026-vgazei-mati-to-11ari/",
-          "source": "Sport24"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +183,44 @@
           "source": "NU"
         },
         {
-          "title": "Acteur Cees Geel, bekend van Simon en Flikken Rotterdam, op 61-jarige leeftijd overleden",
+          "title": "Marcel Hensema: Cees speelde een legendarische rol in Simon",
           "snippet": "",
-          "url": "https://www.rtl.nl/boulevard/artikel/5627920/acteur-cees-geel-bekend-van-simon-en-flikken-rotterdam-op-61-jarige",
+          "url": "https://www.rtl.nl/boulevard/artikel/5627938/marcel-hensema-cees-speelde-een-legendarische-rol-simon",
           "source": "RTL.nl"
         },
         {
-          "title": "Acteur Cees Geel op 61-jarige leeftijd plotseling overleden",
+          "title": "Producent Rolf Koot: Cees was altijd enthousiast en professioneel",
           "snippet": "",
-          "url": "https://www.ad.nl/show/acteur-cees-geel-op-61-jarige-leeftijd-plotseling-overleden~ae5a9da4/",
-          "source": "AD.nl"
+          "url": "https://www.msn.com/nl-nl/entertainment/nieuws/producent-rolf-koot-cees-was-altijd-enthousiast-en-professioneel/ar-AA27UFi0?cvid=6a56a9eed8ea420686dc6d2a89f91a4a&ocid=hpmsn",
+          "source": "MSN"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "στατιστικά μουντιάλ",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 14 Jul 2026 14:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmbQeTwIFdh3KdQSOV88DRMbVQSSf8AioNSEvLMedMrRJOScF2PHRn1gYR1js",
+      "pictureSource": "Μακεδονικό Πρακτορείο Ειδήσεων",
+      "relatedSearch": [
+        {
+          "title": "Μουντιάλ 2026: Ο Μέσι και οι άλλοι παίκτες... ευκαιρίες",
+          "snippet": "",
+          "url": "https://www.amna.gr/sport/article/1008906/Mountial-2026-O-Mesi-kai-oi-alloi-paiktes-eukairies",
+          "source": "Μακεδονικό Πρακτορείο Ειδήσεων"
+        },
+        {
+          "title": "Μουντιάλ 2026: Ο Μέσι σπάει το ένα ρεκόρ μετά το άλλο!",
+          "snippet": "",
+          "url": "https://www.antenna.gr/Sports/article/4/1001521/moyntial-2026-o-mesi-spaei-to-ena-rekor-meta-to-allo-",
+          "source": "ANT1 TV"
+        },
+        {
+          "title": "Πρώτος Σκόρερ Μουντιάλ 2026: Βγάζει μάτι το 11άρι",
+          "snippet": "",
+          "url": "https://www.sport24.gr/stoixima/protos-skorer-mountial-2026-vgazei-mati-to-11ari/",
+          "source": "Sport24"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,20 +229,20 @@
       "title": "argentina england",
       "trafficCount": "1000+",
       "pubDate": "Tue, 14 Jul 2026 14:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRIfOTLyCMn6ehp4ZTjv3jw0dpmImpXavR-61I5xtkt0JF-rndBvEQomyuDQa0",
-      "pictureSource": "The Guardian",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSA3HoFeE9E2oHFYizmCk8xIkFRxxU5vc-xtyBr71p4iwlQzCzHTpy-s7lKtlk",
+      "pictureSource": "BBC",
       "relatedSearch": [
-        {
-          "title": "Lionel Messi’s first meeting with England will be a contest of will and aura",
-          "snippet": "",
-          "url": "https://www.theguardian.com/football/2026/jul/14/lionel-messis-first-meeting-with-england-will-be-a-contest-of-will-and-aura",
-          "source": "The Guardian"
-        },
         {
           "title": "World Cup 2026: England and Argentina semi-final to have extra security, say authorities",
           "snippet": "",
           "url": "https://www.bbc.com/sport/football/articles/clyey5glv4ko",
           "source": "BBC"
+        },
+        {
+          "title": "Lionel Messi’s first meeting with England will be a contest of will and aura",
+          "snippet": "",
+          "url": "https://www.theguardian.com/football/2026/jul/14/lionel-messis-first-meeting-with-england-will-be-a-contest-of-will-and-aura",
+          "source": "The Guardian"
         },
         {
           "title": "England-Argentina confirmed: Lionel Messi ready for 'special' World Cup semfinal vs 'powerhouse'",
@@ -201,15 +257,9 @@
       "title": "λαμίν γιαμάλ",
       "trafficCount": "500+",
       "pubDate": "Tue, 14 Jul 2026 14:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8eqgE9jJ3YKSmufCATWTG_7K9UOA8UoKhXwANdoWNgK0OZ170OjZx7xlAg1w",
-      "pictureSource": "Gazzetta.gr",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnP0qQUDqGcBD1n7_HPAbFrPCPcmK9xPTLEsJaGO653u-FV3X9phys4-fN-4c",
+      "pictureSource": "Sport24",
       "relatedSearch": [
-        {
-          "title": "Ο Γιαμάλ θέλησε να «πικάρει» τη Γαλλία πριν τη σέντρα του ημιτελικού",
-          "snippet": "",
-          "url": "https://www.gazzetta.gr/football/mundial/2554346/giamal-i-anartisi-toy-sto-instagram-prin-ton-megalo-imiteliko",
-          "source": "Gazzetta.gr"
-        },
         {
           "title": "Ντε λα Φουέντε μετά την πρόκριση της Ισπανίας: “Αντιμετωπίσαμε μία από τις καλύτερες ομάδες στον κόσμο, αλλά σήμερα αυτοί αντιμετώπισαν την καλύτερη ομάδα στον κόσμο”",
           "snippet": "",
@@ -221,62 +271,12 @@
           "snippet": "",
           "url": "https://www.in.gr/2026/07/13/sports/mountial-2026/nte-la-fouente-o-giamal-den-exei-kanei-akoma-to-kalytero-paixnidi-tou-sto-mountial/",
           "source": "In.gr"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ντάριο σίμιτσ",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 14 Jul 2026 14:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYhce2fF6OtvOjvm-_qyV1bSVckchxV2661bAPctVI5HlB9V9dHXJkTZQ8HZQ",
-      "pictureSource": "ProtoThema",
-      "relatedSearch": [
-        {
-          "title": "Ο πρώην διεθνής ποδοσφαιριστής Ντάριο Σίμιτς συνελήφθη ως ύποπτος για διαφθορά",
-          "snippet": "",
-          "url": "https://www.protothema.gr/sports/article/1850949/o-proin-diethnis-podosfairistis-dario-simits-sunelifthi-os-upoptos-gia-diafthora/",
-          "source": "ProtoThema"
         },
         {
-          "title": "Συνελήφθη παλαίμαχος άσος για υπόθεση διαφθοράς!",
+          "title": "Μουντιάλ 2026 – Γιαμάλ: «Με ρώτησαν εάν φοβάμαι και απάντησα όχι»",
           "snippet": "",
-          "url": "https://www.novasports.gr/sport/podosfairo/event/diethneis-pagkosmio-podosfairo/article/14992818/synelifthi-palaimaxos-asos-gia-ypothesi-diafthoras/",
-          "source": "Novasports"
-        },
-        {
-          "title": "Κροατία: Συνελήφθη για υπόθεση διαφθοράς ο πρώην διεθνής Ντάριο Σίμιτς",
-          "snippet": "",
-          "url": "https://www.parapolitika.gr/sports/article/1761792/kroatia-sunelifthi-gia-upothesi-diafthoras-o-proin-diethnis-dario-simits/",
-          "source": "Παραπολιτικά"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "heridas",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 14 Jul 2026 14:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWpsHuPvr7ry4zW2aw-TpdtDATnJ8jM-W_vMwB2YqSUaI1ELT6onKb3SbAIx0",
-      "pictureSource": "Vértigo Político",
-      "relatedSearch": [
-        {
-          "title": "Atender las heridas a tiempo para prevenir infecciones",
-          "snippet": "",
-          "url": "https://www.vertigopolitico.com/bienestar/notas/atender-las-heridas-a-tiempo-para-prevenir-infecciones/",
-          "source": "Vértigo Político"
-        },
-        {
-          "title": "Tres personas heridas tras choque en la ruta Huanuni – Llallagua",
-          "snippet": "",
-          "url": "https://lapatria.bo/actualidad/seguridad/tres-personas-heridas-choque-ruta-huanuni-llallagua/",
-          "source": "La Patria 3.0"
-        },
-        {
-          "title": "Dos ladrones asaltan una casa del Camino del Pino y causan heridas graves a una mujer de 77 años",
-          "snippet": "",
-          "url": "https://www.alcantarilladigital.com/2026/07/15/dos-ladrones-asaltan-una-casa-del-camino-del-pino-y-causan-heridas-graves-a-una-mujer-de-77-anos/",
-          "source": "Alcantarilla Digital"
+          "url": "https://www.real.gr/athlitismos/arthro/mountial-2026-giamal-me-rotisan-ean-fovamai-kai-apantisa-ochi-882133/",
+          "source": "Real.gr"
         }
       ],
       "link": "https://imtaqin.id/"

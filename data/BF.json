@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-17 16:50:53",
+  "lastUpdate": "2026-07-17 17:51:54",
   "data": [
     {
       "title": "weather tomorrow",
@@ -33,9 +33,28 @@
       "title": "météo demain",
       "trafficCount": "10000+",
       "pubDate": "Thu, 16 Jul 2026 14:10:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSlhBjGgI22bmOlp8fFQdKCtxFWqXYtLM_x73OMyBXz5CnzyEtuBg2VJa-OU9w",
+      "pictureSource": "Meteo-Paris.com",
+      "relatedSearch": [
+        {
+          "title": "Une quatrième canicule déjà prévue en France ? Les signaux sont déjà là 13/07/2026",
+          "snippet": "",
+          "url": "https://www.meteo-paris.com/actualites/une-4e-vague-de-chaleur-menace-t-elle-deja-la-france",
+          "source": "Meteo-Paris.com"
+        },
+        {
+          "title": "Canicule : les fortes chaleurs régressent",
+          "snippet": "",
+          "url": "https://meteofrance.com/actualites-et-dossiers/actualites/nouvel-episode-de-fortes-chaleurs",
+          "source": "Météo-France"
+        },
+        {
+          "title": "La météo du vendredi 17 juillet : une chaleur toujours bien installée, des orages en embuscade",
+          "snippet": "",
+          "url": "https://www.sudradio.fr/sud-radio/meteo-du-vendredi-17-juillet-une-chaleur-toujours-bien-installee-des-orages-en-embuscade",
+          "source": "Sud Radio"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {

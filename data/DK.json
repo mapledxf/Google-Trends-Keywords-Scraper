@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-07-17 22:21:27",
+  "lastUpdate": "2026-07-17 23:11:51",
   "data": [
     {
       "title": "landbrug",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 17 Jul 2026 14:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0H0WfBgU113SyAfnhjmGlBI6xLQ-wA-BRGqijkRCdh-HpglaIsYDCDPPNJ0c",
       "pictureSource": "Fyens.dk",
@@ -59,7 +59,7 @@
     },
     {
       "title": "mohamed salah",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 17 Jul 2026 13:00:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRallaklTnojyGp3aj9nMzPw5RKci7zVP0qPcWE76JyXpMl4T0aWS4FO0a3uj4",
       "pictureSource": "The New York Times",
@@ -114,34 +114,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "tauson",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 17 Jul 2026 13:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbEt5CbbBZIY_OBjZU0HPEIr8XFsPjjv7lfGpfhbYZQQlxb7WA4ViZUS6D7kg",
-      "pictureSource": "tv2.dk",
-      "relatedSearch": [
-        {
-          "title": "Tauson buldrer videre – klar til semifinale",
-          "snippet": "",
-          "url": "https://sport.tv2.dk/live/tennis/2026-07-17-tauson-buldrer-videre-klar-til-semifinale",
-          "source": "tv2.dk"
-        },
-        {
-          "title": "Sprudlende Tauson fejer tjekke af vejen i Athen",
-          "snippet": "",
-          "url": "https://ekstrabladet.dk/sport/anden_sport/tennis/sprudlende-tauson-fejer-tjekke-af-vejen-i-athen/11236071",
-          "source": "Ekstra Bladet"
-        },
-        {
-          "title": "Kvartfinale: Tauson - Bejlek",
-          "snippet": "",
-          "url": "https://sport.tv2.dk/live/tennis/2026-07-17-kvartfinale-tauson-bejlek",
-          "source": "tv2.dk"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "brand",
       "trafficCount": "200+",
       "pubDate": "Fri, 17 Jul 2026 12:40:00 -0700",
@@ -155,16 +127,16 @@
           "source": "Franken Fernsehen"
         },
         {
-          "title": "Wilburgstetten | Großeinsatz in der Nacht",
-          "snippet": "",
-          "url": "https://www.radio8.de/wilburgstetten-grosseinsatz-in-der-nacht-491855/",
-          "source": "Radio 8"
-        },
-        {
           "title": "Großbrand auf Rinderhof: 350 Einsatzkräfte rücken aus",
           "snippet": "",
           "url": "https://www.infranken.de/videos/franken/grossbrand-auf-rinderhof-350-einsatzkraefte-ruecken-aus-sts-484292",
           "source": "inFranken.de"
+        },
+        {
+          "title": "Wilburgstetten | Großeinsatz in der Nacht",
+          "snippet": "",
+          "url": "https://www.radio8.de/wilburgstetten-grosseinsatz-in-der-nacht-491855/",
+          "source": "Radio 8"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,9 +183,37 @@
           "source": "Avisen Danmark"
         },
         {
-          "title": "Schweizer tager sin første Tour-sejr efter vild udbrudsetape",
+          "title": "BLÅ BOG: Etapevinderen Mauro Schmid",
           "snippet": "",
-          "url": "https://nordjyske.dk/nyheder/sport/schweizer-overrasker-og-vinder-dramatisk-tour-etape/6110623",
+          "url": "https://nordjyske.dk/nyheder/sport/blaa-bog-etapevinderen-mauro-schmid/6110627",
+          "source": "Nordjyske"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "bejlek",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 17 Jul 2026 12:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGfstmPV15jQbx4KhQUuDM2Q9M14Q4Oh-NcYOXhtAIRWYiH15lYB4bk44r1qc",
+      "pictureSource": "tv2.dk",
+      "relatedSearch": [
+        {
+          "title": "Tauson buldrer videre – klar til semifinale",
+          "snippet": "",
+          "url": "https://sport.tv2.dk/live/tennis/2026-07-17-tauson-buldrer-videre-klar-til-semifinale",
+          "source": "tv2.dk"
+        },
+        {
+          "title": "Sprudlende Tauson fejer tjekke af vejen i Athen",
+          "snippet": "",
+          "url": "https://ekstrabladet.dk/sport/anden_sport/tennis/sprudlende-tauson-fejer-tjekke-af-vejen-i-athen/11236071",
+          "source": "Ekstra Bladet"
+        },
+        {
+          "title": "Clara Tauson banker italiener i to sæt i Athen",
+          "snippet": "",
+          "url": "https://nordjyske.dk/nyheder/sport/clara-tauson-banker-italiener-i-to-saet-i-athen/6109934",
           "source": "Nordjyske"
         }
       ],
@@ -223,26 +223,26 @@
       "title": "rente",
       "trafficCount": "100+",
       "pubDate": "Fri, 17 Jul 2026 12:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMszxB2I0Q9rHwFCKTMqGBQccn0om7IYVITo4k6FHAFr8Gy8B4SM4S1NDOfoQ",
-      "pictureSource": "Ad Hoc News",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYqpvJ27sbrnmww6sjYLqG6A5Zk5k9lnZajOItTBDwnTb10hKj9lNt1wup09w",
+      "pictureSource": "BR",
       "relatedSearch": [
         {
-          "title": "Rentenkommission fordert radikale Reform: Abschaffung der Frührentenoptionen",
+          "title": "Rente vor dem Umbau: Was eine Reform für Beschäftigte bedeutet",
           "snippet": "",
-          "url": "https://www.ad-hoc-news.de/wissenschaft/rentenkommission-fordert-radikale-reform-abschaffung-der/69790587",
-          "source": "Ad Hoc News"
+          "url": "https://www.br.de/nachrichten/wirtschaft/rente-vor-dem-umbau-was-eine-reform-fuer-beschaeftigte-bedeutet,VPXjATN",
+          "source": "BR"
         },
         {
-          "title": "Doppelt kassieren, früher aufhören: Rentenreform kostet Milliarden – und bewirkt das Gegenteil",
+          "title": "Diskussionsveranstaltung: Sichere Renten – Zukunft der Altersvorsorge",
           "snippet": "",
-          "url": "https://www.fr.de/verbraucher/system-belasten-rente-und-gehalt-studie-zeigt-wie-fruehrentner-das-94400084.html",
-          "source": "Frankfurter Rundschau"
+          "url": "https://www.bernburg-erleben.de/events/diskussionsveranstaltung-in-bernburg-sichere-renten-wie-machen-wir-unser-alterssicherungssystem-fit-fuer-die-zukunft/",
+          "source": "Bernburg erleben"
         },
         {
-          "title": "Frührente wird für Babyboomer attraktiver – auch dank unbegrenztem Hinzuverdienst",
+          "title": "mehr/wert - Studiogespräch - hier anschauen",
           "snippet": "",
-          "url": "https://www.versicherungsjournal.de/markt-und-politik/fruehrente-wird-fuer-babyboomer-attraktiver-auch-dank-unbegrenztem-hinzuverdienst-156283",
-          "source": "Versicherungsjournal Deutschland"
+          "url": "https://www.ardmediathek.de/video/mehr-wert/studiogespraech/br/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNVdPMDIxMzYyQTAvc2VjdGlvbi82MGFmNmE1Zi1lYzc2LTRlZTktODNmMC1iNWQwZDAyNzdhMzE",
+          "source": "ARD Mediathek"
         }
       ],
       "link": "https://imtaqin.id/"

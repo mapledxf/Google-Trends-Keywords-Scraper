@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2026-07-19 11:21:21",
+  "lastUpdate": "2026-07-19 12:08:50",
   "data": [
     {
-      "title": "radar počasí",
+      "title": "radar",
       "trafficCount": "20000+",
-      "pubDate": "Sun, 19 Jul 2026 04:00:00 -0700",
+      "pubDate": "Sun, 19 Jul 2026 04:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSq6Snxd6xaVMDyRh4iItob3T91qtUWSWt0q3wrye0HpS2YpKDrwlxRHAceIYA",
       "pictureSource": "Novinky",
       "relatedSearch": [
@@ -15,16 +15,100 @@
           "source": "Novinky"
         },
         {
-          "title": "Meteorologové zpřísnili varování na dnešek. Nebezpečný bude vítr, přijít mohou povodně",
+          "title": "Zpřísněná výstraha před bouřkami: Kroupy přes 2 cm, přívalové povodně. Sledujte radar Blesku",
           "snippet": "",
-          "url": "https://zpravy.aktualne.cz/domaci/meteorologove-zprisnili-varovani-na-dnesek-nebezpecny-bude-vitr-prijit-mohou-povodne/r~aaa2924287a69cbff3ff05f7f7d8461d/",
-          "source": "Aktuálně.cz"
+          "url": "https://pocasi.blesk.cz/clanek/zpravy-pocasi/844193/zprisnena-vystraha-pred-bourkami-kroupy-pres-2-cm-privalove-povodne-sledujte-radar-blesku",
+          "source": "Blesk"
         },
         {
           "title": "Do Česka dorazí silné bouřky s větrem i kroupami. Kde si dát největší pozor?",
           "snippet": "",
           "url": "https://www.idnes.cz/zpravy/domaci/cesko-nedele-hrozi-silne-bourky-vitr-kroupy-dest-pocasi.A260718_113526_domaci_sahu",
           "source": "iDNES.cz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "zdražení benzínu",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 19 Jul 2026 04:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrZhRKxC-4AiE8CxEDlOVWzi01dvzx5dHGq5GWWvitP6De_vOMYnU98shvKes",
+      "pictureSource": "Novinky",
+      "relatedSearch": [
+        {
+          "title": "FOTO: Ceny na pumpách už před koncem regulace rostou",
+          "snippet": "",
+          "url": "https://www.novinky.cz/clanek/domaci-foto-ceny-na-pumpach-uz-pred-koncem-regulace-rostou-40588580",
+          "source": "Novinky"
+        },
+        {
+          "title": "Končí regulace cen paliv. Byla vůbec potřeba? A co bude dál?",
+          "snippet": "",
+          "url": "https://www.garaz.cz/clanek/novinky-konci-regulace-cen-paliv-byla-vubec-potreba-a-co-bude-dal-21017442",
+          "source": "Garáž.cz"
+        },
+        {
+          "title": "Paliva zdražují, nafta o téměř dvě koruny. V pondělí skončí regulace cen",
+          "snippet": "",
+          "url": "https://www.idnes.cz/ekonomika/domaci/pohonna-hmota-cenova-regulace-zdrazeni-benzin-nafta.A260719_105522_domaci_hock",
+          "source": "iDNES.cz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "počasí brno",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 19 Jul 2026 04:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwIWupgYcjsi5uYhSywSFIeqQnjsdzacgUjSkAvwgdf6Usy6nSzorUjT1FHpQ",
+      "pictureSource": "Novinky",
+      "relatedSearch": [
+        {
+          "title": "Kroupy na Břeclavsku poničily místy půlku úrody ve vinohradech",
+          "snippet": "",
+          "url": "https://www.novinky.cz/clanek/domaci-zpravy-jihomoravsky-kraj-kroupy-na-breclavsku-ponicily-misty-pulku-urody-ve-vinohradech-40588396",
+          "source": "Novinky"
+        },
+        {
+          "title": "Kroupy zasáhly největší vinařskou obec v Česku",
+          "snippet": "",
+          "url": "https://nasregion.cz/kroupy-zasahly-nejvetsi-vinarskou-obec-v-cesku-438483/",
+          "source": "Náš REGION"
+        },
+        {
+          "title": "Supercela zdevastovala vinohrady u Velkých Bílovic",
+          "snippet": "",
+          "url": "https://tv.idnes.cz/domaci/vinohrady-ve-velkych-bilovicich-a-okoli-po-radeni-stredecni-supercely.V260716_144412_idnestv_jda",
+          "source": "iDNES.tv"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "radar počasí",
+      "trafficCount": "2000+",
+      "pubDate": "Sun, 19 Jul 2026 04:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7jJ7LegeNL7LPm8V4Si9sTOC2AxLJzywgvSETwvMOdHpyWLmsdabKGEV0xds",
+      "pictureSource": "Dřevostavitel",
+      "relatedSearch": [
+        {
+          "title": "Radar počasí ukazuje i déšť, který nedopadne na zem. Většina lidí v radaru neumí číst",
+          "snippet": "",
+          "url": "https://www.drevostavitel.cz/clanek/radar-pocasi-ukazuje-i-dest-ktery-realne-nedopadne-na-zem",
+          "source": "Dřevostavitel"
+        },
+        {
+          "title": "Kroupy na Břeclavsku poničily místy půlku úrody ve vinohradech",
+          "snippet": "",
+          "url": "https://www.novinky.cz/clanek/domaci-zpravy-jihomoravsky-kraj-kroupy-na-breclavsku-ponicily-misty-pulku-urody-ve-vinohradech-40588396",
+          "source": "Novinky"
+        },
+        {
+          "title": "Kroupy zasáhly největší vinařskou obec v Česku",
+          "snippet": "",
+          "url": "https://nasregion.cz/kroupy-zasahly-nejvetsi-vinarskou-obec-v-cesku-438483/",
+          "source": "Náš REGION"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -49,10 +133,10 @@
           "source": "VTM.cz"
         },
         {
-          "title": "Udeří velmi silné bouřky, meteorologové zpřísnili výstrahu",
+          "title": "Radar počasí ukazuje i déšť, který nedopadne na zem. Většina lidí v radaru neumí číst",
           "snippet": "",
-          "url": "https://www.novinky.cz/clanek/pocasi-uderi-velmi-silne-bourky-meteorologove-zprisnili-vystrahu-40588759",
-          "source": "Novinky"
+          "url": "https://www.drevostavitel.cz/clanek/radar-pocasi-ukazuje-i-dest-ktery-realne-nedopadne-na-zem",
+          "source": "Dřevostavitel"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -105,10 +189,10 @@
           "source": "ČT24"
         },
         {
-          "title": "Týden v Trumpově Americe: Bílý dům řeší konflikt s Íránem i smog z Kanady",
+          "title": "Odveta za padlé. USA zasáhly íránskou protivzdušnou obranu a sklady raket",
           "snippet": "",
-          "url": "https://forbes.cz/tyden-v-trumpove-americe-bily-dum-resi-konflikt-s-iranem-i-uhelnaty-smog-z-kanady/",
-          "source": "Forbes Česko"
+          "url": "https://www.idnes.cz/zpravy/zahranicni/usa-utok-proti-iranu-kuvajt-blizky-vychod-vojaci-obeti.A260719_065258_zahranicni_sahu",
+          "source": "iDNES.cz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,10 +211,10 @@
           "source": "CNN"
         },
         {
-          "title": "How old is Lionel Messi? Argentina star takes on Spain in World Cup final",
+          "title": "What TV channel is the World Cup on today?",
           "snippet": "",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/19/lionel-messi-age-for-argentina-vs-spain-world-cup-final/90970721007/",
-          "source": "USA Today"
+          "url": "https://www.al.com/sports/2026/07/what-tv-channel-is-the-world-cup-on-today.html",
+          "source": "AL.com"
         },
         {
           "title": "‘Spanish style’ wins over New York’s die-hard World Cup fans ahead of final",
@@ -143,7 +227,7 @@
     },
     {
       "title": "andrew tate",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 18 Jul 2026 23:50:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwYXZYMOMbPPMDQDuPtXzbwIBC8ntc_E3lyLL1PA2aSKKlhn-ojhQv-q2zcvk",
       "pictureSource": "Novinky",
@@ -155,23 +239,23 @@
           "source": "Novinky"
         },
         {
-          "title": "Británie žádá vydání bratrů Tateových z USA, čelí novým obviněním. Policie v Miami je zatkla",
+          "title": "Andrew a Tristan Tate zatčeni v USA. Počet obvinění vzrostl na 59",
           "snippet": "",
-          "url": "https://www.irozhlas.cz/zpravy-svet/britanie-zada-vydani-bratru-tateovych-z-usa-celi-novym-obvinenim-policie-v-miami_2607191152_jva",
-          "source": "iROZHLAS"
+          "url": "https://forbes.cz/andrew-a-tristan-tate-zatceni-v-usa-pocet-obvineni-vzrostl-na-59/",
+          "source": "Forbes Česko"
         },
         {
-          "title": "Andrew Tate lítá v dalším průšvihu. S bratrem ho zatkli v Miami, Británie žádá jejich vydání",
+          "title": "V Miami zadrželi influencera Tateho a jeho bratra, čelí novým obviněním",
           "snippet": "",
-          "url": "https://www.extra.cz/andrew-tate-lita-v-dalsim-prusvihu-s-bratrem-ho-zatkli-v-miami-britanie-zada-jejich-vydani-920d9",
-          "source": "Extra.cz"
+          "url": "https://www.seznamzpravy.cz/clanek/zahranicni-v-miami-zadrzeli-bratry-tateovy-v-britanii-oba-celi-novym-obvinenim-311318",
+          "source": "Seznam Zprávy"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "vrtulník",
-      "trafficCount": "1000+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 18 Jul 2026 23:30:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpZigKiWVQEKx_k2EI6wLJ_tLe4aIjZ5fM9T_WaXCOTg_MBGlo4RVICosTbEo",
       "pictureSource": "Novinky",
@@ -193,90 +277,6 @@
           "snippet": "",
           "url": "https://www.ceskatelevize.cz/porady/1097181328-udalosti/226411000100718/cast/1198959/",
           "source": "Česká televize"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "windy",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 18 Jul 2026 23:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQwzCbi3TKlkOlYFCVS6M7rVjVt3QyoviUBSvveNNfQUJGaVY0au2wQmQ-PQE",
-      "pictureSource": "The Western Producer",
-      "relatedSearch": [
-        {
-          "title": "Drought designation lifted from agricultural Prairies",
-          "snippet": "",
-          "url": "https://www.producer.com/crops/drought-designation-lifted-from-agricultural-prairies/",
-          "source": "The Western Producer"
-        },
-        {
-          "title": "Ground still soaked in Lloydminster-area fields",
-          "snippet": "",
-          "url": "https://borderpulse.ca/ground-still-soaked-in-lloydminster-area-fields/",
-          "source": "The Border Pulse"
-        },
-        {
-          "title": "Hot weather helped advance crops in central Alberta over the last week",
-          "snippet": "",
-          "url": "https://rdnewsnow.com/2026/07/17/hot-weather-helped-advance-crops-in-central-alberta-over-the-last-week/",
-          "source": "rdnewsnow.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "centrum",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 18 Jul 2026 23:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThyO1pKJqX9THvhEaVZuzGnGTG1n4nHTuEb55e2OV5_g6MguygZ9EGUhVUITw",
-      "pictureSource": "Centrum.cz",
-      "relatedSearch": [
-        {
-          "title": "Kdo si pamatuje Pavla Poulíčka, ten bude překvapen: Bývalý moderátor dnes vede zcela odlišný život",
-          "snippet": "",
-          "url": "https://www.centrum.cz/clanek/kdo-si-pamatuje-pavla-poulicka-ten-bude-prekvapen-byvaly-moderator-dnes-vede-zcela-odlisny-zivot-249227",
-          "source": "Centrum.cz"
-        },
-        {
-          "title": "Viděl jsem toho už hodně, ale tohle ne. Řekové jsou zděšení z chování turistů",
-          "snippet": "",
-          "url": "https://tn.nova.cz/zpravodajstvi/clanek/652566-videl-jsem-toho-uz-hodne-ale-tohle-ne-rekove-jsou-zdeseni-z-chovani-turistu",
-          "source": "TN.cz"
-        },
-        {
-          "title": "Řekové mají turistů plné zuby: Některé jejich chování už odmítají tolerovat, mají toho plné zuby",
-          "snippet": "",
-          "url": "https://www.centrum.cz/clanek/rekove-maji-turistu-plne-zuby-nektere-jejich-chovani-uz-odmitaji-tolerovat-maji-toho-plne-zuby-249219",
-          "source": "Centrum.cz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "weather",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 18 Jul 2026 22:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTposPD0XPqqNo2nkna1efkdZv6jt8pILUWW2OKr0T_CgYV83E9Dwbj_9_k86o",
-      "pictureSource": "CollingwoodToday.ca",
-      "relatedSearch": [
-        {
-          "title": "Good morning, Collingwood. Here's today's weather",
-          "snippet": "",
-          "url": "https://www.collingwoodtoday.ca/good-morning-collingwood/good-morning-collingwood-heres-todays-weather-12563854",
-          "source": "CollingwoodToday.ca"
-        },
-        {
-          "title": "Good morning, Innisfil! Here's today's weather!",
-          "snippet": "",
-          "url": "https://www.innisfiltoday.ca/good-morning/good-morning-innisfil-heres-todays-weather-12551797",
-          "source": "InnisfilToday.ca"
-        },
-        {
-          "title": "Good morning, Barrie! Here's today's weather!",
-          "snippet": "",
-          "url": "https://www.barrietoday.com/good-morning/good-morning-barrie-heres-todays-weather-12557519",
-          "source": "Barrie News"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,282 +1,263 @@
 {
-  "lastUpdate": "2026-07-19 03:46:14",
+  "lastUpdate": "2026-07-19 06:17:09",
   "data": [
+    {
+      "title": "počasí",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 18 Jul 2026 22:00:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "smrť",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 18 Jul 2026 21:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRv6AZEYAh6Ht8koi4kyzbmGOEV2OgEOpyZeaXTYI3ha3o2Fl5rfITy3bLCr1c",
+      "pictureSource": "Koktejl.sk",
+      "relatedSearch": [
+        {
+          "title": "Náhla smrť speváčky († 36) megahitu, otec Richard sa pustil do lekárov: Mesiace pred smrťou mala...",
+          "snippet": "",
+          "url": "https://koktejl.azet.sk/clanok/XbhTITO/nahla-smrt-spevacky-36-megahitu-otec-richard-sa-pustil-do-lekarov-mesiace-pred-smrtou-mala/",
+          "source": "Koktejl.sk"
+        },
+        {
+          "title": "Sedemročnému dievčatku vtiahol odtok v bazéne vlasy. Zraneniam podľahlo v nemocnici",
+          "snippet": "",
+          "url": "https://www.noviny.sk/zahranicie/1235244-sedemrocnemu-dievcatku-vtiahol-odtok-vlasy-zostala-uveznena-pod-vodou",
+          "source": "Noviny.sk"
+        },
+        {
+          "title": "Desivá smrť dievčatka (†11): Vlasy sa jej zachytili v odtoku bazéna! Zúfalý pokus o záchranu",
+          "snippet": "",
+          "url": "https://www.cas.sk/spravy/desiva-smrt-dievcatka-11-vlasy-sa-jej-zachytili-v-odtoku-bazena-zufaly-pokus-o-zachranu",
+          "source": "Nový Čas"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "topky",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 18 Jul 2026 21:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuY7kpXIPt5zLHcqtqUeywprpX_Qs0A-Gr67E_GOU8qGbTRh_UsNGqXAERKCo",
+      "pictureSource": "Topky",
+      "relatedSearch": [
+        {
+          "title": "Dedina zažíva INVÁZIU záhadných ČERVOV: Sú takmer všade, obyvatelia opúšťajú svoje domovy!",
+          "snippet": "",
+          "url": "https://www.topky.sk/cl/11/9447831/Dedina-zaziva-INVAZIU-zahadnych-CERVOV--Su-takmer-vsade--obyvatelia-opustaju-svoje-domovy-",
+          "source": "Topky"
+        },
+        {
+          "title": "Čierne húsenice obsadili dedinu v Španielsku. Miestni hovoria o invázii",
+          "snippet": "",
+          "url": "https://news.refresher.sk/206907-Tisice-ciernych-husenic-obsadili-dedinu-v-Spanielsku-Obyvatelia-opustaju-svoje-domovy",
+          "source": "Refresher News"
+        },
+        {
+          "title": "Dedinu v Španielsku obsadili tisíce živočíchov: Ľudí vyhnali z vlastných domovov!",
+          "snippet": "",
+          "url": "https://www.cas.sk/spravy/dedinu-v-spanielsku-obsadili-tisice-zivocichov-ludi-vyhnali-z-vlastnych-domovov",
+          "source": "Nový Čas"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "pravda",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 18 Jul 2026 21:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_CDbfIE_S5xLPd63EfPHatTZWyKEa64sf1U-aMmwJBFCWqrGjeQgE1wSNWZA",
+      "pictureSource": "Reuters",
+      "relatedSearch": [
+        {
+          "title": "Russia intensifies strikes on Ukraine Black Sea ports, killing three",
+          "snippet": "",
+          "url": "https://www.reuters.com/world/europe/russian-attack-ukrainian-port-kills-two-damages-three-vessels-prosecutors-say-2026-07-17/",
+          "source": "Reuters"
+        },
+        {
+          "title": "Russian Offensive Campaign Assessment, July 15, 2026",
+          "snippet": "",
+          "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-july-15-2026/",
+          "source": "Institute for the Study of War"
+        },
+        {
+          "title": "Russia strikes Marshall Islands-flagged vessel in Odesa Oblast port again, injuring four",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/eng/news/2026/07/17/8044644/",
+          "source": "Українська правда"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "novy cas",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 18 Jul 2026 21:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTessSNPtRulCtP_1FVBuNjH-aWwyo62w3T41OoFERNCp1B9WgDhHckKNvEjs",
+      "pictureSource": "Nový Čas",
+      "relatedSearch": [
+        {
+          "title": "Týždenný HOROSKOP: Blíženec zažije veľké prekvapenie! A u koho všetko zmení jeden dokument?",
+          "snippet": "",
+          "url": "https://www.cas.sk/horoskop/tyzdenny-horoskop-blizenec-zazije-velke-prekvapenie-a-u-koho-vsetko-zmeni-jeden-dokument",
+          "source": "Nový Čas"
+        },
+        {
+          "title": "Týždenný HOROSKOP pre BLÍŽENCOV: Čo vás čaká a neminie od 17.7. do 23.7.?",
+          "snippet": "",
+          "url": "https://zivot.pluska.sk/horoskop/tyzdenny-horoskop-pre-blizencov-co-vas-caka-a-neminie-od-177-do-237",
+          "source": "Život"
+        },
+        {
+          "title": "Týždenný HOROSKOP pre BLÍŽENCOV: Čo vás čaká a neminie od 10.7. do 16.7.?",
+          "snippet": "",
+          "url": "https://zivot.pluska.sk/horoskop/tyzdenny-horoskop-pre-blizencov-co-vas-caka-a-neminie-od-107-do-167",
+          "source": "Život"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "vysledky",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 18 Jul 2026 20:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9rVXyitQE0bbrupriPtuXyVytE6zJP_oONEnWmVa1O9_XtwKMo3JIhuCVuns",
+      "pictureSource": "Šport.sk",
+      "relatedSearch": [
+        {
+          "title": "Veľké problémy pred finále MS vo futbale. Španielsko ani Argentína sa nedostali na trávnik",
+          "snippet": "",
+          "url": "https://sport.aktuality.sk/futbal/clanok/ms-vo-futbale-2026-spanielsko-a-argentina-pred-finale-bez-treningu-2026071815583171495",
+          "source": "Šport.sk"
+        },
+        {
+          "title": "Futbalový víkend | Majstri Európy verzus úradujúci majstri sveta a bronzové finále",
+          "snippet": "",
+          "url": "https://www.postoj.sk/197518/majstri-europy-verzus-uradujuci-majstri-sveta-a-bronzove-finale",
+          "source": "Postoj"
+        },
+        {
+          "title": "De la Fuente bude Messimu venovať špeciálnu pozornosť. Osobka to nebude | Flashscore.sk",
+          "snippet": "",
+          "url": "https://www.flashscore.sk/spravy/futbal-majstrovstva-sveta-messimu-budu-spanieli-venovat-specialnu-pozornost-de-la-fuente-pred-nim-hracov-varoval/zZ4JYH0L/",
+          "source": "Výsledky"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "robot",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 18 Jul 2026 19:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOG7SUIKemcLfwM6J0-sOMvd7-E_FpRAcnb6TEiDiDqlpL6b34o2n90-w6dCE",
+      "pictureSource": "NDTV",
+      "relatedSearch": [
+        {
+          "title": "Video: Humanoid Robot Keeps Fighting After Losing Its Head, Stuns Crowd At China Combat Event",
+          "snippet": "",
+          "url": "https://www.ndtv.com/offbeat/video-humanoid-robot-keeps-fighting-even-after-losing-its-head-stuns-crowd-at-china-combat-event-11790639",
+          "source": "NDTV"
+        },
+        {
+          "title": "Robots battle with punches, high kicks and even fight on after losing heads in debut global humanoid fighting contest in Shenzhen",
+          "snippet": "",
+          "url": "https://www.globaltimes.cn/page/202607/1366175.shtml",
+          "source": "Global Times"
+        },
+        {
+          "title": "Amid Fears of Killer Robots, Humanoid MMA Fight in China Ends With Decapitation",
+          "snippet": "",
+          "url": "https://www.commondreams.org/news/humanoid-robot-fights",
+          "source": "Common Dreams"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "sme",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 18 Jul 2026 19:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShuv3xVztVhZjiY2UnQ2Seau42Ya-7aU82Qdvqo64ENEmLsPWkPDJMYSlDjpQ",
+      "pictureSource": "SME.sk",
+      "relatedSearch": [
+        {
+          "title": "V Miami zadržali bratov Tateovcov, Británia žiada o ich vydanie",
+          "snippet": "",
+          "url": "https://www.sme.sk/svet/c/v-miami-zadrzali-bratov-tateovcov-britania-ziada-o-ich-vydanie",
+          "source": "SME.sk"
+        },
+        {
+          "title": "Andrewa Tatea a jeho brata zadržali v USA. Británia proti nim vzniesla nové obvinenia",
+          "snippet": "",
+          "url": "https://www.noviny.sk/zahranicie/1235833-andrewa-tatea-a-jeho-brata-zadrzali-v-usa-britania-proti-nim-vzniesla-nove-obvinenia",
+          "source": "Noviny.sk"
+        },
+        {
+          "title": "Idoly mladých smeráckych vlkov skončili za mrežami. Bratov Tateovcov zatkli v USA",
+          "snippet": "",
+          "url": "https://plus7dni.pluska.sk/kauzy/idoly-mladych-smerackych-vlkov-skoncili-za-mrezami-bratov-tateovcov-zatkli-v-usa",
+          "source": "Plus 7 Dní"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "чемпионат мира по футболу fifa –2026",
       "trafficCount": "100+",
       "pubDate": "Sat, 18 Jul 2026 16:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBgH_rJHgOwzW8-o-wAmxV5k35jPGnEihebDEuCawFXoCSdr8f15Utun4gkoQ",
-      "pictureSource": "ERR",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTewCmkF3whk4YWSbC9CAtY7AosgLauGHzP8VRa1ky0F7XeluzYHtC1siKWHek",
+      "pictureSource": "Sportbox",
       "relatedSearch": [
         {
-          "title": "ЧМ-2026: сборная Англии обыграла Францию со счетом 6:4 и завоевала бронзу",
+          "title": "«Это был лучший матч ЧМ‑2026». Гришин — об игре за третье место Англия — Франция",
           "snippet": "",
-          "url": "https://rus.err.ee/1610079970/chm-2026-sbornaja-anglii-obygrala-franciju-so-schetom-6-4-i-zavoevala-bronzu",
-          "source": "ERR"
-        },
-        {
-          "title": "Франция - Англия. Голы и лучшие моменты (видео). Чемпионат мира-2026. Матч за 3-е место. Футбол",
-          "snippet": "",
-          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbvideo_NI2344883_clip_Francija___Anglija_Goly_i_luchshije_momenty_video_Chempionat_mira_2026_Match_za_3_je_mesto_Futbol",
+          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbnews_NI2344914_Eto_byl_luchshij_match_ChM2026_Grishin__ob_igre_za_tretje_mesto_Anglija__Francija",
           "source": "Sportbox"
         },
         {
-          "title": "Англия в сумасшедшем матче за третье место ЧМ-2026 с теннисным счётом обыграла Францию",
+          "title": "Сборная Франции впервые за 58 лет пропустила 4 гола в первом тайме",
           "snippet": "",
-          "url": "https://champion.com.ua/rus/football/chm-2026-sbornaya-anglii-pobedila-sbornuyu-francii-v-matche-za-bronzu-1080198/",
-          "source": "Champion.com.ua"
+          "url": "https://sportmail.ru/news/football-worldcup/71682011/",
+          "source": "Спорт Mail"
+        },
+        {
+          "title": "Англия в третий раз в истории чемпионата мира забила шесть голов в одном матче",
+          "snippet": "",
+          "url": "https://www.sport-express.net/football/world/chempionat-mira-2026/news/angliya-v-tretiy-raz-v-istorii-chempionata-mira-po-futbolu-zabila-shest-golov-v-odnom-matche-2440571/",
+          "source": "sport-express.net"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "kylian mbappé",
-      "trafficCount": "1000+",
-      "pubDate": "Sat, 18 Jul 2026 15:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWB-Ooie61-EzYhv_qKkV_SKV6NIOg2WvE7d7rFI5-IQ8JZp70nvG6ulFIG8A",
-      "pictureSource": "HITC",
+      "title": "humenné búrka",
+      "trafficCount": "20000+",
+      "pubDate": "Sat, 18 Jul 2026 15:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUJrrIZDB-hIuvvzOeEsb3ekMtu2YcR0e3E9jKHIwp5DWwSXbJxIuwvad2snM",
+      "pictureSource": "Nový Čas",
       "relatedSearch": [
         {
-          "title": "World Cup fans come up with new bronze match rule after Kylian Mbappe brace",
+          "title": "FOTO Humenné zasiahla POHROMA: Silná búrka, krúpy a zaplavené cesty! Strašné následky",
           "snippet": "",
-          "url": "https://www.hitc.com/world-cup-fans-come-up-with-new-bronze-match-rule-after-kylian-mbappe-brace/",
-          "source": "HITC"
+          "url": "https://www.cas.sk/spravy/foto-humenne-zasiahla-pohroma-silna-burka-krupy-a-zaplavene-cesty-strasne-nasledky",
+          "source": "Nový Čas"
         },
         {
-          "title": "\"Goal king? Messi will score anyway tomorrow?\" Mbappé, bittersweet after '10 goals': \"I wish I had played in the final...\"",
+          "title": "SHMÚ: V niektorých častiach východného Slovenska platia výstrahy pred povodňou",
           "snippet": "",
-          "url": "https://www.starnewskorea.com/en/sports/2026/07/19/2026071910524437570",
-          "source": "스타뉴스"
+          "url": "https://www.sme.sk/domov/c/v-niektorych-castiach-vychodneho-slovenska-platia-vystrahy-pred-povodnou",
+          "source": "SME.sk"
         },
         {
-          "title": "World Cup 2026: France's Mbappé becomes all-time tournament goalscorer",
+          "title": "Slovensko zasiahli NIČIVÉ BÚRKY! VIDEO Hlásia škody, zasahujú hasiči, ľudia sú bez elektriny. Rútia sa ďalšie",
           "snippet": "",
-          "url": "https://www.france24.com/en/sport/20260719-world-cup-2026-france-s-mbapp%C3%A9-becomes-all-time-tournament-goalscorer",
-          "source": "France 24"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "flashscore",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 18 Jul 2026 15:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJgEeRjGst-GN1SE8GWZA-bDjXsSk7G-nfZB8wxfsM_OSGnuhsTifDe_Fi9Ss",
-      "pictureSource": "Flashscore.com",
-      "relatedSearch": [
-        {
-          "title": "Granada CF v Torremolinos (18/07/2026)",
-          "snippet": "",
-          "url": "https://www.flashscore.com/match/football/granada-cf-EXuxl1xP/torremolinos-AB8XRSBQ/",
-          "source": "Flashscore.com"
-        },
-        {
-          "title": "Varadkar slams US ambassador over McGregor pub visit",
-          "snippet": "",
-          "url": "https://www.businesspost.ie/politics/varadkar-slams-us-ambassador-over-mcgregor-pub-visit/",
-          "source": "Business Post"
-        },
-        {
-          "title": "Antonelli charges to pole position in Belgian GP Qualifying",
-          "snippet": "",
-          "url": "https://www.formula1.com/en/latest/article/antonelli-charges-to-pole-position-in-exhilarating-belgian-gp-qualifying.zpGgC6xi6e3QnZEOmi6qS",
-          "source": "Formula 1"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "festival",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 18 Jul 2026 15:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7XpEaNF5g-gCmeCxYaYPajbXNx9TCpAKAjivvpgXmoHMiQaCeXxlr5oA7djo",
-      "pictureSource": "TERAZ.sk",
-      "relatedSearch": [
-        {
-          "title": "Organizátori Colours of Ostrava kvôli búrke prerušili program",
-          "snippet": "",
-          "url": "https://www.teraz.sk/zahranicie/organizatori-colours-of-ostrava-kvoli/978700-clanok.html",
-          "source": "TERAZ.sk"
-        },
-        {
-          "title": "Meteorológovia zvýšili výstrahu. Silné búrky mieria na obľúbený festival",
-          "snippet": "",
-          "url": "https://www.imeteo.sk/spravy/meteorologovia-zvysili-vystrahu-silne-burky-mieria-na-oblubeny-festival",
-          "source": "iMeteo.sk"
-        },
-        {
-          "title": "Obľúbený hudobný festival Slovákov pod útokom šialeného počasia: Organizátori museli pre búrku zrušiť veľké koncerty",
-          "snippet": "",
-          "url": "https://emefka.sk/oblubeny-hudobny-festival-slovakov-pod-utokom-sialeneho-pocasia-organizatori-museli-pre-burku-zrusit-velke-koncerty/",
-          "source": "Emefka.sk"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "wc 2026",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 18 Jul 2026 15:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkwrrS3l506Vcvw4C9UQTb4OuTRqQMp-dydu-LJvau3qlRTKL5KVMzscYFJk8",
-      "pictureSource": "Thể Thao 247",
-      "relatedSearch": [
-        {
-          "title": "Kết quả - tỷ số World Cup 2026 hôm nay 19/7 (MỚI NHẤT)",
-          "snippet": "",
-          "url": "https://thethao247.vn/world-cup/175391-ket-qua-ty-so-world-cup-2026-hom-nay-19-7-moi-nhat-d428866.html",
-          "source": "Thể Thao 247"
-        },
-        {
-          "title": "Mbappe gây tranh cãi vì đổi áo, cười nói khi Pháp bị Anh dẫn 0-4",
-          "snippet": "",
-          "url": "https://laodong.vn/the-thao/mbappe-gay-tranh-cai-vi-doi-ao-cuoi-noi-khi-phap-bi-anh-dan-0-4-1737314.ldo",
-          "source": "Laodong.vn"
-        },
-        {
-          "title": "Bukayo Saka lập hat-trick giúp Anh hạ Pháp 6-4 trong trận cầu điên rồ nhất World Cup",
-          "snippet": "",
-          "url": "https://baolamdong.vn/bukayo-saka-lap-hat-trick-giup-anh-ha-phap-6-4-trong-tran-cau-dien-ro-nhat-world-cup-454306.html",
-          "source": "Báo Lâm Đồng"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "declan rice",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 18 Jul 2026 14:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdxbJ1kv6rH4h35sSxdZksBQ7f06yJX511GScY1dAjgKzoOpZCm1U1aRVFeCo",
-      "pictureSource": "The Times of India",
-      "relatedSearch": [
-        {
-          "title": "Declan Rice enters World Cup history books after breaking 90-year-old record with first World Cup goal",
-          "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/declan-rice-enters-world-cup-history-books-after-breaking-90-year-old-record-with-first-world-cup-goal/articleshow/132488964.cms",
-          "source": "The Times of India"
-        },
-        {
-          "title": "Declan Rice footage shows England star's true mentality right after carnage against France",
-          "snippet": "",
-          "url": "https://www.mirror.co.uk/sport/football/news/world-cup-france-england-rice-37448973",
-          "source": "The Mirror"
-        },
-        {
-          "title": "Declan Rice Scores 2nd Fastest Goal By English Player In FIFA World Cup History | Watch",
-          "snippet": "",
-          "url": "https://www.news18.com/sports/football/declan-rice-scores-2nd-fastest-goal-by-english-player-in-fifa-world-cup-history-watch-10220928.html",
-          "source": "News18"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "fifa world cup 2026",
-      "trafficCount": "1000+",
-      "pubDate": "Sat, 18 Jul 2026 14:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpGCfc1nAxZR1HZOLZe9gd_4M044fny_wTanxRKaCg2IzOOY9GTqid9XBXGNw",
-      "pictureSource": "Reuters Connect",
-      "relatedSearch": [
-        {
-          "title": "Licensable video: World Cup 2026 – Argentina Supporters Take Over Times Square Ahead of Final 2",
-          "snippet": "",
-          "url": "https://www.reutersconnect.com/item/world-cup-2026-argentina-supporters-take-over-times-square-ahead-of-final-2/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XU1BDQzI2MDE1MjIwMg",
-          "source": "Reuters Connect"
-        },
-        {
-          "title": "Thousands of Argentines mob Times Square, NYPD eyes Central Park",
-          "snippet": "",
-          "url": "https://onefootball.com/fr/news/thousands-of-argentines-mob-times-square-nypd-eyes-central-park-43156712",
-          "source": "OneFootball"
-        },
-        {
-          "title": "The Argentinian Fans May Just Will Lionel Messi & Co. to World Cup Victory",
-          "snippet": "",
-          "url": "https://www.fotmob.com/embed/news/01kxvet2jet4/argentinian-fans-may-just-will-lionel-messi-co-world-cup-victory",
-          "source": "FotMob"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "world cup 2026",
-      "trafficCount": "1000+",
-      "pubDate": "Sat, 18 Jul 2026 14:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4dFHzZrRCgkOHReiegXgeG3OsKCLBYmFS8mBo3ymI9OmAp_Ne7s_WgpTCudI",
-      "pictureSource": "FIFA",
-      "relatedSearch": [
-        {
-          "title": "FIFA World Cup 2026™ Final",
-          "snippet": "",
-          "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/final",
-          "source": "FIFA"
-        },
-        {
-          "title": "Shackle Rodri the metronome and Argentina’s passion play can floor Spain | Jonathan Wilson",
-          "snippet": "",
-          "url": "https://www.theguardian.com/football/2026/jul/18/shackle-rodri-the-metronome-and-argentinas-passion-play-can-floor-spain",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Lionel Messi Speaks in Advance of World Cup Final, Says Argentina 'Will Give it Our All'",
-          "snippet": "",
-          "url": "https://english.aawsat.com/sports/5297438-lionel-messi-speaks-advance-world-cup-final-says-argentina-will-give-it-our-all",
-          "source": "ASHARQ AL-AWSAT English"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "world cup",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 18 Jul 2026 14:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROUYKwLGJMyzDQkkOVTVtI9SE1JUzeneWFFvRAm9Gz8Hdu32hC8mqkBZvh_oI",
-      "pictureSource": "The Guardian",
-      "relatedSearch": [
-        {
-          "title": "America’s World Cup report card: some As for atmosphere, but F for affordability",
-          "snippet": "",
-          "url": "https://www.theguardian.com/football/2026/jul/18/world-cup-report-card-united-states",
-          "source": "The Guardian"
-        },
-        {
-          "title": "How The 2026 World Cup Has Forever Changed Soccer In The U.S.",
-          "snippet": "",
-          "url": "https://www.forbes.com/sites/clementelisi/2026/07/18/how-the-2026-world-cup-has-forever-changed-soccer-in-the-us/",
-          "source": "Forbes"
-        },
-        {
-          "title": "Things World Cups Travelers Have Loved And Been Surprised By In America",
-          "snippet": "",
-          "url": "https://www.aol.com/articles/things-world-cups-travelers-loved-150102000.html",
-          "source": "AOL.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "franciaország–anglia",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 18 Jul 2026 14:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ01Z_w8XaSYAFoFxmnydwlwCpT519hw3w8npOEXGLv0Ao_XhKmO4OCpa1rRlA",
-      "pictureSource": "Nemzeti Sport",
-      "relatedSearch": [
-        {
-          "title": "A vb-történelem legjobb meccsét láttuk? Anglia kis híján leadta négygólos előnyét, de Saka triplájával bronzérmes!",
-          "snippet": "",
-          "url": "https://www.nemzetisport.hu/foci-vb-2026/2026/07/vb-2026-a-3-helyert-franciaorszag-anglia",
-          "source": "Nemzeti Sport"
-        },
-        {
-          "title": "Szürreális meccset játszottak, az angolok négygólos előny után is torkukon érezhették a francia kést",
-          "snippet": "",
-          "url": "https://index.hu/sport/futball/2026/vb/2026/07/19/tudositas-franciaorszag-anglia-vilagbajnoki-bronzmerkozes-helyszini-beszamolo-miami-gardens/",
-          "source": "Index.hu"
-        },
-        {
-          "title": "Sport: Őrült, tízgólos meccsen vitték el a vb-bronzot az angolok a franciák elől",
-          "snippet": "",
-          "url": "https://hvg.hu/sport/20260718_foci-vb-bronzmeccs-franciaorszag-anglia-elo-ebx",
-          "source": "| hvg.hu"
+          "url": "https://regiony.zoznam.sk/aktualne-slovensko-zasiahli-nicive-burky-video-hlasia-skody-zasahuju-hasici-ludia-su-bez-elektriny-1/",
+          "source": "Regióny.sk"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-07-23 14:27:54",
+  "lastUpdate": "2026-07-23 16:06:56",
   "data": [
     {
       "title": "дорожно-транспортное происшествие",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 23 Jul 2026 05:50:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaSONoiS2KUeRulZchMINMcbPnB1Jwcbz-m8Y99znSmpi_PbZNVw5VdhGiyXs",
       "pictureSource": "24.KG",
@@ -23,7 +23,7 @@
         {
           "title": "Погоня в Бишкеке. Пьяный водитель пытался скрыться от сотрудников ГУОБДД",
           "snippet": "",
-          "url": "https://24.kg/proisshestvija/382775_pogonya_vbishkeke_pyanyiy_voditel_pyitalsya_skryitsya_otsotrudnikov_guobdd/",
+          "url": "http://www.24.kg/proisshestvija/382775_pogonya_vbishkeke_pyanyiy_voditel_pyitalsya_skryitsya_otsotrudnikov_guobdd/",
           "source": "24.KG"
         }
       ],
@@ -59,11 +59,30 @@
     },
     {
       "title": "министерство иностранных дел",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 23 Jul 2026 02:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaSONoiS2KUeRulZchMINMcbPnB1Jwcbz-m8Y99znSmpi_PbZNVw5VdhGiyXs",
+      "pictureSource": "24.KG",
+      "relatedSearch": [
+        {
+          "title": "МИД подключился к ситуации со студентами из Кыргызстана в Германии",
+          "snippet": "",
+          "url": "https://24.kg/obschestvo/382741_mid_podklyuchilsya_ksituatsii_sostudentami_izkyirgyizstana_vgermanii/",
+          "source": "24.KG"
+        },
+        {
+          "title": "В Германии досрочно прекратили контракты с 130 кыргызстанцами, занятыми на сезонных работах",
+          "snippet": "",
+          "url": "https://kg.akipress.org/news:2506940?from=eco&place=nowread",
+          "source": "AKIpress"
+        },
+        {
+          "title": "Ситуацией кыргызстанских студентов в Германии займется посол Омурбек Текебаев",
+          "snippet": "",
+          "url": "https://24.kg/obschestvo/382771_situatsiey_kyirgyizstanskih_studentov_vgermanii_zaymetsya_posol_omurbek_tekebaev/",
+          "source": "24.KG"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -80,16 +99,16 @@
           "source": "OpenAI"
         },
         {
-          "title": "OpenAI says rogue AI models broke free from human control. Some see it as a 'warning shot'",
+          "title": "Trump tech adviser was briefed on OpenAI agent going rogue",
           "snippet": "",
-          "url": "https://apnews.com/article/openai-hugging-face-hacking-ai-model-708cb598bc1e33cef560e7196adb2afa",
-          "source": "AP News"
+          "url": "https://www.reuters.com/technology/trump-tech-adviser-was-briefed-openai-agent-going-rogue-2026-07-23/",
+          "source": "Reuters"
         },
         {
-          "title": "A Startling Glimpse at AI’s Ruthless Efficiency",
+          "title": "OpenAI Says Its A.I. Models Hacked Into Hugging Face, a Digital Library",
           "snippet": "",
-          "url": "https://www.theatlantic.com/technology/2026/07/openai-hugging-face-hack/688025/",
-          "source": "The Atlantic"
+          "url": "https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html",
+          "source": "The New York Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -98,9 +117,15 @@
       "title": "хулиан альварес",
       "trafficCount": "100+",
       "pubDate": "Wed, 22 Jul 2026 23:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQSc9awxfoegBSWzHWEWCYivJ0ndptc1JQFXuWY9iJ6rQeOjquguFVw0-1k8Lk",
-      "pictureSource": "UA-Football",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmIZXs23iqKeSolV5XEplmjIsat8IUwCwk2VPE08sc0zjItCqESDlxvuYWRAM",
+      "pictureSource": "Vesti.kz",
       "relatedSearch": [
+        {
+          "title": "Экс-форвард \"Ливерпуля\" за 100 миллионов может перейти в \"Барселону\"",
+          "snippet": "",
+          "url": "https://vesti.kz/spain/eks-forvard-liverpulya-100-millionov-pereyti-barselonu-385336/",
+          "source": "Vesti.kz"
+        },
         {
           "title": "Барселона нашла способ давления на Атлетико ради трансфера Альвареса",
           "snippet": "",
@@ -108,16 +133,10 @@
           "source": "UA-Football"
         },
         {
-          "title": "Экс-форвард \"Ливерпуля\" за 100 миллионов может перейти в \"Барселону\"",
+          "title": "Дарвин Нуньес хочет перейти в «Барселону»",
           "snippet": "",
-          "url": "https://vesti.kz/spain/eks-forvard-liverpulya-100-millionov-pereyti-barselonu-385336/amp/",
-          "source": "Vesti.kz"
-        },
-        {
-          "title": "«Барселона» нацелена на Дарвина Нуньеса: попытка перестроить атаку при ограниченном бюджете.",
-          "snippet": "",
-          "url": "https://www.vietnam.vn/ru/barcelona-nham-darwin-nunez-no-luc-tai-thiet-hang-cong-voi-ngan-sach-han-hep",
-          "source": "Vietnam.vn"
+          "url": "https://www.euro-football.ru/article/35/1006236081_darvin_nunes_hochet_pereyti_v_barselonu",
+          "source": "Евро-Футбол"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -126,26 +145,26 @@
       "title": "погода",
       "trafficCount": "5000+",
       "pubDate": "Wed, 22 Jul 2026 18:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJaBFY3XDEIcq-uPgDHonuAgFVJ7CNb2yOp6rzCZLdawiDqFlgr4kWfDvAPdU",
-      "pictureSource": "ИСКРА Кунгур",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgnuYfOl4xc1ijm514BYgcbIhNHPK27ga_1bCBDlZtRl9sCh0Dl1s4878FIoA",
+      "pictureSource": "NEWS.ru",
       "relatedSearch": [
         {
-          "title": "НОВОСТИ - Дождь, гроза, туман и + 30... + 32°С",
+          "title": "Холодные ночи, осадки и сильный ветер: погода в Москве в конце лета",
           "snippet": "",
-          "url": "https://iskra-kungur.ru/all/2026/07/22/46138/?mobil=",
-          "source": "ИСКРА Кунгур"
+          "url": "https://news.ru/society/holodnye-nochi-osadki-i-silnyj-veter-pogoda-v-moskve-v-konce-leta",
+          "source": "NEWS.ru"
         },
         {
-          "title": "Дожди, гроза и град. Погода в Перми и Пермском крае на 24 июля 2026 года",
+          "title": "Погода на август 2026 в Свердловской области: прогноз по декадам",
           "snippet": "",
-          "url": "https://pogoda.mail.ru/news/71736180/",
-          "source": "Погода Mail"
+          "url": "https://tagilcity.ru/news/2026-07-23/dostaem-zonty-i-galoshi-kakaya-pogoda-budet-v-avguste-2026-v-sverdlovskoy-oblasti-5643847",
+          "source": "TagilCity"
         },
         {
-          "title": "В ближайшие часы Пермский край накроет шквалистый ветер с крупным градом",
+          "title": "Август качнёт страну от +37 до почти нуля за считанные дни",
           "snippet": "",
-          "url": "https://ura.news/news/1053112145",
-          "source": "URA.RU"
+          "url": "https://bv02.info/news/novosti/2026-07-23/avgust-kachnyot-stranu-ot-37-do-pochti-nulya-za-schitannye-dni-4760097",
+          "source": "Баймакский вестник"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -154,26 +173,26 @@
       "title": "weather",
       "trafficCount": "200+",
       "pubDate": "Wed, 22 Jul 2026 18:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQw_endDhJIJtZ0Txf0DrnUu1RBSYRFUn5gXN4ohZbhPO4B1U0PRpg72EImE_U",
-      "pictureSource": "North Country Now",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS073MgQK_HqNPUcqzLPqqKjfb4Qa0hwHKCOM8EnKSSuXf_GJYabfNP8nXiQHA",
+      "pictureSource": "FOX 13 Tampa Bay",
       "relatedSearch": [
         {
-          "title": "St. Lawrence County to see cool Thursday before weekend warmup",
+          "title": "Tampa Weather | Thursday morning forecast",
           "snippet": "",
-          "url": "http://northcountrynow.com/stories/st-lawrence-county-to-see-cool-thursday-before-weekend-warmup,381987",
-          "source": "North Country Now"
+          "url": "https://www.fox13news.com/video/fmc-6mqxcdcd2zc2ur53",
+          "source": "FOX 13 Tampa Bay"
         },
         {
-          "title": "Tranquil weather in store for the Tri-State area",
+          "title": "Forecast: Hot with a few isolated PM showers",
           "snippet": "",
-          "url": "https://pix11.com/weather/tranquil-weather-in-store-for-the-tri-state-area/",
-          "source": "PIX11"
+          "url": "https://www.tampabay28.com/weather/forecast-hot-with-a-few-isolated-pm-showers",
+          "source": "Tampa Bay 28"
         },
         {
-          "title": "Smooth sailing, and sunshine lasts into the weekend",
+          "title": "Hot day with spotty evening storms Thursday",
           "snippet": "",
-          "url": "https://www.wcax.com/2026/07/23/smooth-sailing-sunshine-lasts-into-weekend/",
-          "source": "WCAX"
+          "url": "https://www.wfla.com/weather/forecast/hot-day-with-spotty-evening-storms-thursday/",
+          "source": "WFLA"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -248,16 +267,16 @@
           "source": "CNN"
         },
         {
+          "title": "Samsung unveils Galaxy Z Fold 8 Ultra: Everything you need to know about the flagship foldable",
+          "snippet": "",
+          "url": "https://mashable.com/tech/samsung-galaxy-z-fold-8-ultra-announcement-specs-price-preorder",
+          "source": "Mashable"
+        },
+        {
           "title": "The fight for the future of foldable phones is here",
           "snippet": "",
           "url": "https://www.nbcnews.com/tech/gadgets/samsung-vs-apple-fight-foldable-phones-rcna588802",
           "source": "NBC News"
-        },
-        {
-          "title": "Samsung Overhauls Foldable Phones Ahead of Apple's Category Debut",
-          "snippet": "",
-          "url": "https://www.bloomberg.com/news/features/2026-07-22/samsung-revamps-foldable-lineup-with-galaxy-z-fold-8-z-fold-8-ultra-z-flip-8",
-          "source": "Bloomberg.com"
         }
       ],
       "link": "https://imtaqin.id/"

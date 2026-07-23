@@ -1,45 +1,163 @@
 {
-  "lastUpdate": "2026-07-23 05:41:00",
+  "lastUpdate": "2026-07-23 08:00:12",
   "data": [
     {
-      "title": "ז'וזה מוריניו",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 22 Jul 2026 22:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXiwg7R5U2hxttnXiKxXcX7EBWigkzqrczKJlN9nJcam_0_eYWHfW1QvX5hNg",
+      "title": "נפט",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 23 Jul 2026 00:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS93sCeR8vY-zBI3uKc4xEzQcZlr6hxLawiFhDJUBdn0ioUliDhUUa9jvHxV8g",
+      "pictureSource": "TheMarker",
+      "relatedSearch": [
+        {
+          "title": "פגיעה במכליות ליד סעודיה מקפיצה את הנפט; המרוויחה הגדולה - נורווגיה",
+          "snippet": "",
+          "url": "https://www.themarker.com/wallstreet/2026-07-23/ty-article-live/0000019f-7422-d4cc-abbf-76aeb19e0000",
+          "source": "TheMarker"
+        },
+        {
+          "title": "תתכוננו לפתוח את הכיס: הדלק הולך להתייקר משמעותית",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/economy/article/s1e5om1hze",
+          "source": "ynet"
+        },
+        {
+          "title": "הנפט מטפס מעל ל-96 דולר; בורסת סיאול מזנקת ב-3.5%",
+          "snippet": "",
+          "url": "https://www.calcalist.co.il/market/article/bk3pmctvfx",
+          "source": "calcalist"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "תאילנד",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 22 Jul 2026 23:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxYgsRCwMLZwnaD2ACQ7Ti6oz1Deey-hz1X-VZIOPCx2m3fpgg4UHW2Lr3EHY",
+      "pictureSource": "כאן 11",
+      "relatedSearch": [
+        {
+          "title": "דיווח: 5 חיילים תאילנדים נהרגו בפיגוע טרור בדרום המדינה",
+          "snippet": "",
+          "url": "https://www.kan.org.il/content/kan-news/global/1080379/",
+          "source": "כאן 11"
+        },
+        {
+          "title": "פיגוע טרור בדרום תאילנד: לפחות חמישה בני אדם נהרגו",
+          "snippet": "",
+          "url": "https://www.mako.co.il/news-world/2026_q3/Article-62302eb11ad8f91027.htm",
+          "source": "mako"
+        },
+        {
+          "title": "פיגוע קטלני בתאילנד: הצבא פתח במצוד אחר המחבלים",
+          "snippet": "",
+          "url": "https://www.maariv.co.il/news/world/article-1347749",
+          "source": "מעריב"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "דלק",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 22 Jul 2026 23:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2ZILq2u12yFflTdjHizNzzIh1IEWeRlVRdp8waXwZMXIuGyQLaRP934i9VJ4",
       "pictureSource": "ynet",
       "relatedSearch": [
+        {
+          "title": "תתכוננו לפתוח את הכיס: הדלק הולך להתייקר משמעותית",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/economy/article/s1e5om1hze",
+          "source": "ynet"
+        },
+        {
+          "title": "הנפט מטפס מעל ל-96 דולר; בורסת סיאול מזנקת ב-3.5%",
+          "snippet": "",
+          "url": "https://www.calcalist.co.il/market/article/bk3pmctvfx",
+          "source": "calcalist"
+        },
+        {
+          "title": "מכה קשה לנהגים: מחיר הדלק צפוי לזנק דרמטית",
+          "snippet": "",
+          "url": "https://www.srugim.co.il/101006884-%D7%9E%D7%9B%D7%94-%D7%A7%D7%A9%D7%94-%D7%9C%D7%A0%D7%94%D7%92%D7%99%D7%9D-%D7%9E%D7%97%D7%99%D7%A8-%D7%94%D7%93%D7%9C%D7%A7-%D7%A6%D7%A4%D7%95%D7%99-%D7%9C%D7%96%D7%A0%D7%A7",
+          "source": "סרוגים"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "קריירה",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 22 Jul 2026 23:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdRl7QM6seZQIbCZ6KBrlUbkLUIceXuG7L6UVY1vg6pes9LyBumFly_EPPOiM",
+      "pictureSource": "Vietnam.vn",
+      "relatedSearch": [
+        {
+          "title": "הזדמנויות קריירה הן בשפע בלימודי מוליכים למחצה וטכנולוגיה עילית.",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/he/co-hoi-nghe-nghiep-rong-mo-khi-hoc-nganh-ban-dan-va-cong-nghe-cao",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "מגוון מסלולי קריירה לתלמידים לאחר חטיבת הביניים.",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/he/nhieu-huong-di-cho-hoc-sinh-sau-thcs",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "להפוך את בית הספר התיכון המקצועי לאופציה אטרקטיבית לאחר חטיבת הביניים.",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/he/de-trung-hoc-nghe-tro-thanh-lua-chon-hap-dan-sau-thcs",
+          "source": "Vietnam.vn"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ז'וזה מוריניו",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 22 Jul 2026 22:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRlYx6nKs_KXWX2dpFuZercDcrgN6yvlzASKc5iezU7P9BbMqi3P68QuvFbts",
+      "pictureSource": "ספורט 1",
+      "relatedSearch": [
+        {
+          "title": "מוריניו כבר עושה סדר: הכישרון שנרכש ב-60 מיליון בדרך החוצה?",
+          "snippet": "",
+          "url": "https://sport1.maariv.co.il/world-soccer/article/1906726/",
+          "source": "ספורט 1"
+        },
+        {
+          "title": "ריאל מדריד מוכנה לשחרר את פרנקו מסטנטואונו: 4 יעדים פוטנציאליים עבור הכוכב העולה הארגנטינאי.",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/he/real-madrid-san-sang-de-franco-mastantuono-roi-di-4-ben-do-tiem-nang-cho-sao-mai-argentina",
+          "source": "Vietnam.vn"
+        },
         {
           "title": "ממתין לאור ירוק: רודרי בדרך לריאל מדריד",
           "snippet": "",
           "url": "https://www.ynet.co.il/sport/worldsoccer/article/syljdarvfg",
           "source": "ynet"
-        },
-        {
-          "title": "דיווח בספרד: ריאל מדריד לא מעוניינת לצרף את אחד השחקנים הטובים בעולם",
-          "snippet": "",
-          "url": "https://sport1.maariv.co.il/world-soccer/la-liga/article/1906951/",
-          "source": "ספורט 1"
-        },
-        {
-          "title": "המעבר אפשרי? המצב בין רודרי לריאל מדריד",
-          "snippet": "",
-          "url": "https://www.sport5.co.il/articles.aspx?FolderID=378&docID=554075",
-          "source": "Sport5"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "צבא ארצות הברית",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 22 Jul 2026 22:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuqZ_M69kQFXmv1hI9yLCBIo-ASCSYBceSu2F3insNDaeN6LnRm0dpUyaQbWc",
-      "pictureSource": "mako",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNTV70Kqlenu98rMbDd2c5dr8oAXijmeHVcusTaJc_ssDgAHW9DnEqcJAFnGw",
+      "pictureSource": "מעריב",
       "relatedSearch": [
         {
-          "title": "לקראת אפשרות של הסלמה: כוחות מיוחדים של צבא ארה\"ב הגיעו לאזור, מפציצים נמצאים בכוננות גבוהה | דיווח",
+          "title": "מפציצים, כוחות מיוחדים וצוותי רפואה כבר נשלחו: טראמפ נערך להסלמה מול איראן",
           "snippet": "",
-          "url": "https://www.mako.co.il/news-world/2026_q3/Article-d3cb273b3fb8f91027.htm",
+          "url": "https://www.maariv.co.il/news/world/article-1347695",
+          "source": "מעריב"
+        },
+        {
+          "title": "דיון החירום בנתב\"ג - והאזהרה: עלולים להתבטל 5,000 כרטיסים ביום",
+          "snippet": "",
+          "url": "https://www.mako.co.il/news-money/2026_q3/Article-b40b21c2b608f91027.htm",
           "source": "mako"
         },
         {
@@ -47,40 +165,34 @@
           "snippet": "",
           "url": "https://www.ynet.co.il/vacation/flights/article/s157n634gx",
           "source": "ynet"
-        },
-        {
-          "title": "יו\"ר רשות שדות התעופה: \"לא יהיו ביטולי טיסות\"",
-          "snippet": "",
-          "url": "https://www.kan.org.il/content/kan-news/local/1080027/",
-          "source": "כאן 11"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "мошенничество",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 22 Jul 2026 21:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7hT7YLha8gCFRNmf7YFiY_A8zpwGWAw9X5xBvyHi-IPhDBkUUjzm20HIonSc",
-      "pictureSource": "РБК-Україна",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmRowXMqU-ykia05x9QCzHPLg_wJPgMb2uCpXRFswRzmYOG6LxtwqaKHT7cAQ",
+      "pictureSource": "Новый компаньон",
       "relatedSearch": [
         {
-          "title": "Мошенники придумали новую схему для любителей образования и курсов - Нацполиция",
+          "title": "Пермячку осудят за мошенничество при продаже туристических путевок",
           "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/shahrayi-vigadali-novu-shemu-potsinovuvachiv-1784780064.html",
-          "source": "РБК-Україна"
+          "url": "https://www.newsko.ru/news/nk-9325883.html",
+          "source": "Новый компаньон"
         },
         {
-          "title": "Мошенники рассылают электронные письма, маскируя их под сообщения от известных образовательных платформ",
+          "title": "Пермячка обманула знакомых и клиентов турфирмы на шесть млн рублей",
           "snippet": "",
-          "url": "https://www.gorod.dp.ua/news/261100",
-          "source": "Gorod.dp.ua"
+          "url": "https://permnews.ru/novosti/incidents/2026/07/22/ermyachka_obmanula_znakomyh_i_klientov_turfirmy_na_shest_mln_rubley/",
+          "source": "PermNews.ru"
         },
         {
-          "title": "Вы получили сертификат - Киберполиция предупредила о новой мошеннической схеме",
+          "title": "В Перми женщина предстанет перед судом за мошенничество при продаже туров",
           "snippet": "",
-          "url": "https://informator.ua/ru/vy-poluchili-sertifikat-kiberpoliciya-predupredila-o-novoy-moshennicheskoy-sheme",
-          "source": "Інформатор UA"
+          "url": "https://zwezda.su/article/v-permi-zhenshchina-predstanet-pered-sudom-za-moshennichestvo-pri-prodazhe-turov",
+          "source": "«Интернет – газета «Звезда"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,26 +201,26 @@
       "title": "погода",
       "trafficCount": "500+",
       "pubDate": "Wed, 22 Jul 2026 20:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDFkECZBjqu2QU6YvW8xLMHVN2ABMuW9uCfS5VZZpyNf51DWMaW9qTnx_HMdE",
-      "pictureSource": "BFM.ru",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXbOs9zHWe4Zmuo1KMaLacNuQ1hwj4x1mieOUFBINySYNNWqEbvCRFpP5d500",
+      "pictureSource": "Интерфакс",
       "relatedSearch": [
         {
-          "title": "В столице после кратковременной жары вновь похолодание",
+          "title": "В Петербурге 21 июля стало самым холодным днем месяца",
           "snippet": "",
-          "url": "https://www.bfm.ru/news/612856",
-          "source": "BFM.ru"
+          "url": "https://www.interfax.ru/russia/1104825",
+          "source": "Интерфакс"
         },
         {
-          "title": "В начале следующей недели в Москву придет резкое похолодание",
+          "title": "Дожди не отпускают Петербург. Воздух прогреется максимум до +20",
           "snippet": "",
-          "url": "https://pogoda.mail.ru/news/71729069/",
-          "source": "Погода Mail"
+          "url": "https://www.fontanka.ru/2026/07/23/76548674/",
+          "source": "ФОНТАНКА.ру"
         },
         {
-          "title": "Сильные дожди принесут в центр России похолодание до +15 градусов",
+          "title": "Какую погоду ждать в Санкт-Петербурге: прогноз на 23-26 июля",
           "snippet": "",
-          "url": "https://tnv.ru/news/pogoda/563452-silnye-dozhdi-prinesut-v-tsentr-rossii-pokholodanie-do-15-gradusov-/",
-          "source": "Телеканал ТНВ Татарстан"
+          "url": "https://ura.news/news/1053111825",
+          "source": "URA.RU"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +239,16 @@
           "source": "MLSsoccer.com"
         },
         {
-          "title": "🎥 Watch it: Messi's side concede the oddest goal of the day, and year?",
+          "title": "Who are the Commentators for Inter Miami vs. Chicago Fire Match?",
           "snippet": "",
-          "url": "https://onefootball.com/fr/news/watch-it-messis-side-concede-the-oddest-goal-of-the-day-and-year-43173556",
-          "source": "OneFootball"
+          "url": "https://athlonsports.com/soccer/commentators-inter-miami-chicago-fire",
+          "source": "Athlon Sports"
         },
         {
-          "title": "Messi-less Miami beat Fire 3-2 to spoil Lewandowski's MLS debut",
+          "title": "WATCH: Every touch from Antoine Griezmann's ELECTRIC Orlando City debut",
           "snippet": "",
-          "url": "https://www.rfi.fr/en/sports/20260723-messi-less-miami-beat-fire-3-2-to-spoil-lewandowski-s-mls-debut",
-          "source": "RFI"
+          "url": "https://www.mlssoccer.com/video/watch-every-touch-from-antoine-griezmann-s-electric-orlando-city-debut",
+          "source": "MLSsoccer.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,128 +267,16 @@
           "source": "Sport5"
         },
         {
-          "title": "\"זה מעליב\": המכתב החריג שקיבלו אוהדי בית\"ר ירושלים מהמלון בקפריסין",
+          "title": "שעות לפני המשחק בלרנקה: אכזבה גדולה בקרב אוהדי בית\"ר ירושלים",
           "snippet": "",
-          "url": "https://sport1.maariv.co.il/israeli-soccer/ligat-haal/article/1906741/",
+          "url": "https://sport1.maariv.co.il/israeli-soccer/ligat-haal/article/1906939/",
           "source": "ספורט 1"
         },
         {
-          "title": "הצום, החשש והמכתב המפתיע לאוהדים: בבית\"ר מתכוננים למשחק באירופה",
+          "title": "אוהדי בית\"ר ירושלים מואשמים בוונדליזם חמור בקפריסין",
           "snippet": "",
-          "url": "https://www.ynet.co.il/sport/israelisoccer/article/ryellk04gg",
-          "source": "ynet"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "евро",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 22 Jul 2026 19:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxvFSdNMUn76OvdiBlION1zyPy28H8xylxvblvSnOIqQ6WdZL-6K1bdHbwvwI",
-      "pictureSource": "Банки.ру",
-      "relatedSearch": [
-        {
-          "title": "Рубль укрепился. Курсы доллара, евро и юаня на 23 июля",
-          "snippet": "",
-          "url": "https://www.banki.ru/news/lenta/?id=11025994",
-          "source": "Банки.ру"
-        },
-        {
-          "title": "Официальные курсы валют на заданную дату, устанавливаемые ежедневно",
-          "snippet": "",
-          "url": "https://www.cbr.ru/currency_base/daily/",
-          "source": "Центральный Банк России"
-        },
-        {
-          "title": "ЦБ поднял официальный курс доллара до максимума за три месяца",
-          "snippet": "",
-          "url": "https://www.vedomosti.ru/finance/news/2026/07/21/1215426-kurs-dollara",
-          "source": "Ведомости"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "המזרח התיכון",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 22 Jul 2026 19:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ1qZ-n-de51uEkXMIFA4oX7FmngacvDgodN34lrwnenRz-A4JxzoU7zMUdmS4",
-      "pictureSource": "הארץ",
-      "relatedSearch": [
-        {
-          "title": "איראן פגעה החודש במקלטי כטב\"מים ומערכות מכ\"ם בבסיסים אמריקאיים במזרח התיכון",
-          "snippet": "",
-          "url": "https://www.haaretz.co.il/news/world/middle-east/2026-07-23/ty-article/0000019f-8c5b-db22-a5df-ed5b7e730000",
-          "source": "הארץ"
-        },
-        {
-          "title": "משמרות המהפכה טוענים: אלו היעדים שתקפנו בירדן",
-          "snippet": "",
-          "url": "https://www.srugim.co.il/101006847-%D7%9E%D7%A9%D7%9E%D7%A8%D7%95%D7%AA-%D7%94%D7%9E%D7%94%D7%A4%D7%9B%D7%94-%D7%98%D7%95%D7%A2%D7%A0%D7%99%D7%9D-%D7%90%D7%9C%D7%95-%D7%94%D7%99%D7%A2%D7%93%D7%99%D7%9D-%D7%A9%D7%AA%D7%A7%D7%A4%D7%A0%D7%95",
-          "source": "סרוגים"
-        },
-        {
-          "title": "כווית: מערכות ההגנה האווירית מיירטובת כטב\"מים שנורו מאיראן",
-          "snippet": "",
-          "url": "https://www.israelhayom.co.il/israelnow/article/21033121",
-          "source": "היום"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "италия",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 22 Jul 2026 18:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8D5LKThkh3nfwhRA7UP1O3m6fKCu4A2M7wjaVUeuEL6IXzFQ7aoXVk2b8B-s",
-      "pictureSource": "Sportbox",
-      "relatedSearch": [
-        {
-          "title": "В Италии убит спортивный журналист Луиджи Эспозито",
-          "snippet": "",
-          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/spbnews_NI2345863_V_Italii_ubit_sportivnyj_zhurnalist_Luidzhi_Espozito",
-          "source": "Sportbox"
-        },
-        {
-          "title": "В Италии убили спортивного журналиста Луиджи Эспозито: 22 июля, подробности",
-          "snippet": "",
-          "url": "https://ura.news/news/1053111893",
-          "source": "URA.RU"
-        },
-        {
-          "title": "В Италии убит спортивный журналист Лука Эспозито",
-          "snippet": "",
-          "url": "https://www.championat.ru/football/news-6555268-v-italii-ubit-sportivnyj-zhurnalist-luka-espozito.html",
-          "source": "https://www.championat.ru/"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "tsla",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 22 Jul 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOThLGLdlag6RqDsnPoPjvdrNCu-i-UH92N3z4ilMP5PZNmyMvVCQSr90Kow8",
-      "pictureSource": "Yahoo Finance",
-      "relatedSearch": [
-        {
-          "title": "Tesla reports Q2 earnings miss but beats on revenue; cap-ex spending seen at $25 billion for the year",
-          "snippet": "",
-          "url": "https://finance.yahoo.com/markets/stocks/article/tesla-reports-q2-earnings-miss-but-beats-on-revenue-cap-ex-spending-seen-at-25-billion-for-the-year-110300122.html",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Tesla misses on earnings, as free cash flow turns negative and margins slide",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Tesla Earnings Miss Despite Strong EV Sales; Elon Musk Preaches Robotaxi Caution",
-          "snippet": "",
-          "url": "https://www.investors.com/news/tesla-earnings-elon-musk-robotaxi-optimus-electric-vehicle-evs/",
-          "source": "Investor's Business Daily"
+          "url": "https://sports.walla.co.il/item/3855546",
+          "source": "וואלה ספורט"
         }
       ],
       "link": "https://imtaqin.id/"

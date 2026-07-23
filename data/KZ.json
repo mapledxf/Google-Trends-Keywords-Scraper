@@ -1,13 +1,243 @@
 {
-  "lastUpdate": "2026-07-23 02:49:51",
+  "lastUpdate": "2026-07-23 05:41:02",
   "data": [
+    {
+      "title": "чёрное море",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 22 Jul 2026 22:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8BWZKWsDHPTOUoCTyHQx7M1M9WOJyQa6A_MNnmzpaS4-WpzPmPOX-zL6RM3A",
+      "pictureSource": "TengriNews",
+      "relatedSearch": [
+        {
+          "title": "Беспилотники снова атаковали танкер на КТК: заявление Минэнерго Казахстана: 20 июля 16:46",
+          "snippet": "",
+          "url": "https://tengrinews.kz/kazakhstan_news/bespilotniki-snova-atakovali-tanker-ktk-zayavlenie-minenergo-604364/",
+          "source": "TengriNews"
+        },
+        {
+          "title": "Reuters: КТК прекратил прием казахстанской нефти",
+          "snippet": "",
+          "url": "https://forbes.kz/articles/reuters-ktk-prekratil-priem-kazahstanskoy-nefti-978571",
+          "source": "Forbes.kz"
+        },
+        {
+          "title": "Украина отрицает причастность к атакам на танкеры с казахстанской нефтью",
+          "snippet": "",
+          "url": "https://azh.kz/ru/news/view/130378",
+          "source": "Ак Жайык"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "августа",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 22 Jul 2026 20:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqIsKPC2J8Efka7Z1L3eE6WhWLQJ53KwwdPZ9LRk2PHJJxOUIoPmAcsUgsYH0",
+      "pictureSource": "Финансы Mail",
+      "relatedSearch": [
+        {
+          "title": "Индексация пенсий в 2027 году: два этапа повышения, сроки, проценты",
+          "snippet": "",
+          "url": "https://finance.mail.ru/article/strahovye-pensii-v-2027-godu-proindeksiruyut-v-dva-etapa-69218970/",
+          "source": "Финансы Mail"
+        },
+        {
+          "title": "Определены категории пенсионеров, имеющих право на повышенную пенсию",
+          "snippet": "",
+          "url": "https://www.osnmedia.ru/obshhestvo/opredeleny-kategorii-pensionerov-imeyushhih-pravo-na-povyshennuyu-pensiyu/",
+          "source": "Общественная служба новостей"
+        },
+        {
+          "title": "Пенсии омичей пересчитают: кому и на сколько увеличат выплаты",
+          "snippet": "",
+          "url": "https://www.om1.ru/news/society/427689-pensii_omichejj_pereschitajut_komu_i_na_skolko_uvelichat_vyplaty/",
+          "source": "Om1.ru"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "тенгри ньюс",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 22 Jul 2026 20:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi5dHuj0u_HSU2i6ztEghGPJzAYtNgTmE7DkIzUBMNn8Z5YbMoL2HGc0Bi5bQ",
+      "pictureSource": "«Астана» телеарнасы",
+      "relatedSearch": [
+        {
+          "title": "Третий район за три дня пострадал от урагана в Павлодарской области",
+          "snippet": "",
+          "url": "https://astanatv.kz/ru/news/173404/",
+          "source": "«Астана» телеарнасы"
+        },
+        {
+          "title": "Жителей Павлодарской области предупредили о локальных смерчах: 22 июля 01:49",
+          "snippet": "",
+          "url": "https://tengrinews.kz/kazakhstan_news/jiteley-pavlodarskoy-oblasti-predupredili-lokalnyih-smerchah-604477/",
+          "source": "TengriNews"
+        },
+        {
+          "title": "Режим ЧС природного характера ввели в Экибастузе",
+          "snippet": "",
+          "url": "https://www.nur.kz/incident/emergency/2402966-rezhim-chs-prirodnogo-haraktera-vveli-v-ekibastuze/",
+          "source": "NUR.KZ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "openai",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 22 Jul 2026 19:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSpmBvWIsbzHUKyq65uGKBLM3uBHYYqio0vzfefkfqG9y1Pfdu-ZfaklDrX1I",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Co-founder of firm hacked by rogue OpenAI models says it is 'a wake up call'",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/cdrvy3pn3r0o",
+          "source": "BBC"
+        },
+        {
+          "title": "OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know",
+          "snippet": "",
+          "url": "https://www.npr.org/2026/07/23/g-s1-135085/openai-hacking-ai-models",
+          "source": "NPR"
+        },
+        {
+          "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+          "snippet": "",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+          "source": "OpenAI"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "пожар",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 22 Jul 2026 19:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXf2ffk-Ik-ZOTWkAOjjsIJcucfyNGli9AUrepOrOypYqlv6qhjSKxIId6xbY",
+      "pictureSource": "Azərtac",
+      "relatedSearch": [
+        {
+          "title": "В Агдаме продолжается пожар на открытой местности ОБНОВЛЕНО 2",
+          "snippet": "",
+          "url": "https://azertag.az/ru/xeber/v_agdame_prodolzhaetsya_pozhar_na_otkrytoi_mestnosti__obnovleno_2-4333237",
+          "source": "Azərtac"
+        },
+        {
+          "title": "В Агдамском районе потушен сильный пожар - ВИДЕО - ОБНОВЛЕНО",
+          "snippet": "",
+          "url": "https://1news.az/news/20260722190612329-V-Agdamskom-raione-potushen-silnyi-pozhar-VIDEO-OBNOVLENO",
+          "source": "1News.az"
+        },
+        {
+          "title": "В селе Кенгерли Агдамского района вспыхнул пожар",
+          "snippet": "",
+          "url": "https://report.az/ru/proisshestviya/v-sele-kengerli-agdamskogo-rajona-vspyhnul-pozhar",
+          "source": "Report.az"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "заработная плата",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 22 Jul 2026 18:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_xETUAUuMhpbFBiGUrzMnHa4qW4OJZkuU8QvF8AVLkZcjHJiue_L5J9VUeVw",
+      "pictureSource": "Ulysmedia.kz",
+      "relatedSearch": [
+        {
+          "title": "Названы два региона Казахстана, где реальные зарплаты рухнули сильнее всего",
+          "snippet": "",
+          "url": "https://ulysmedia.kz/news/77418-nazvany-dva-regiona-kazakhstana-gde-realnye-zarplaty-rukhnuli-silnee-vsego/",
+          "source": "Ulysmedia.kz"
+        },
+        {
+          "title": "Реальные зарплаты казахстанцев продолжают падать, сильнее всего – в IT и образовании",
+          "snippet": "",
+          "url": "https://kz.kursiv.media/2026-07-22/fvfv-realnye-zarplaty-kazahstancev-prodolzhayut-padat-silnee-vsego-v-it-i-obrazovanii/",
+          "source": "Kursiv Media Казахстан: последние новости Казахстана и мира"
+        },
+        {
+          "title": "Где в Казахстане самые высокие и самые низкие зарплаты",
+          "snippet": "",
+          "url": "https://24.kz/ru/news/social/781291-gde-v-kazakhstane-samye-vysokie-i-samye-nizkie-zarplaty",
+          "source": "24.kz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "сборная россии по футболу",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 22 Jul 2026 18:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWdSp6CMeaXL8gNBPZt7VCyxv6zatt9XxeSOL06owzrRzMWC4C-sYjx71kSqo",
+      "pictureSource": "Vesti.kz",
+      "relatedSearch": [
+        {
+          "title": "ФИФА приняла решение по сборной России после ЧМ-2026",
+          "snippet": "",
+          "url": "https://vesti.kz/national/fifa-prinyala-reshenie-po-sbornoy-rossii-posle-chm-2026-385283/",
+          "source": "Vesti.kz"
+        },
+        {
+          "title": "Первый после ЧМ-2026 рейтинг ФИФА: Казахстан сохраняет позиции",
+          "snippet": "",
+          "url": "https://www.inform.kz/ru/perviy-posle-chm-2026-reyting-fifa-kazahstan-sohranyaet-pozitsii-27f4ec35",
+          "source": "Казинформ"
+        },
+        {
+          "title": "ФИФА обновила рейтинг сборных: на каком месте оказался Казахстан",
+          "snippet": "",
+          "url": "https://24.kz/ru/news/sport/781056-fifa-obnovila-rejting-sbornykh-na-kakom-meste-okazalsya-kazakhstan",
+          "source": "24.kz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "усть-каменогорск",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 22 Jul 2026 18:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3GDby4rX6ueMldfheR13Aq_z2Fs6_nxQQWmpylTWyK0TV_RqVXhM1nqOm__E",
+      "pictureSource": "YK-news.kz",
+      "relatedSearch": [
+        {
+          "title": "В Усть-Каменогорске расширяют детские сады и намерены строить новые",
+          "snippet": "",
+          "url": "https://yk-news.kz/news/v-ust-kamenogorske-rasshiryayut-detskie-sady-i-namereny-stroit-novye-75347",
+          "source": "YK-news.kz"
+        },
+        {
+          "title": "В ВКО дошкольным образованием охвачены 99,3% детей от двух до шести лет",
+          "snippet": "",
+          "url": "https://sozmedia.kz/127635/",
+          "source": "• | SOZmedia"
+        },
+        {
+          "title": "Мужчина прыгнул с Иртышского моста в Усть-Каменогорске",
+          "snippet": "",
+          "url": "https://yk.kz/news/chp/muzhchina-pryignul-s-irtyishskogo-mosta-v-ust-kamenogorske-444999.html",
+          "source": "Yk.kz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "погода караганда",
       "trafficCount": "200+",
       "pubDate": "Wed, 22 Jul 2026 18:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1OJNh38_YRNF7kLV5uqa3VvQhsjOVX9ITK0El-R72E4Zd3c9OknLTia7NkJY",
-      "pictureSource": "www.gismeteo.kz",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuQTQPhEKnLUbeUwmVVLwJkdUrqACS2zXPrnUuRETHyxAZ7gYM18SHtjsscGk",
+      "pictureSource": "Новости Караганды",
       "relatedSearch": [
+        {
+          "title": "Жара вернётся: прогноз погоды в Караганде и области на 23 июля",
+          "snippet": "",
+          "url": "https://ekaraganda.kz/?mod=news_read&id=169570",
+          "source": "Новости Караганды"
+        },
         {
           "title": "Погода в Караганде вчера",
           "snippet": "",
@@ -15,268 +245,38 @@
           "source": "www.gismeteo.kz"
         },
         {
-          "title": "Жара вернётся: прогноз погоды в Караганде и области на 23 июля",
-          "snippet": "",
-          "url": "https://vcentre.kz/2026/07/22/zhara-vernjotsja-prognoz-pogody-v-karagande-i-oblasti-na-23-ijulja/",
-          "source": "https://vcentre.kz/"
-        },
-        {
           "title": "Комфортное лето: прогноз погоды в Караганде и области на 22 июля",
           "snippet": "",
-          "url": "https://ekaraganda.kz/?mod=news_read&id=169536",
-          "source": "Новости Караганды"
+          "url": "https://vcentre.kz/2026/07/21/komfortnoe-leto-prognoz-pogody-v-karagande-i-oblasti-na-22-ijulja/",
+          "source": "https://vcentre.kz/"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "восточно-казахстанская область",
+      "title": "процентная ставка",
       "trafficCount": "100+",
-      "pubDate": "Wed, 22 Jul 2026 18:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUjGGpA8ffZm7z4jxdcvY5cMB0zrBVIy_b0HFZ_WPwuWGWy5D_qQub-A8e8jY",
-      "pictureSource": "Казинформ",
+      "pubDate": "Wed, 22 Jul 2026 18:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7miJuwt5QL2xro-Bkto-pyvuuh8VRiqT0kCPXjFN5XOIcgHEAdlxpWyemXdA",
+      "pictureSource": "Vietnam.vn",
       "relatedSearch": [
         {
-          "title": "Дархан Сапанов назначен первым заместителем акима ВКО",
+          "title": "Процентные ставки по банковским вкладам сегодня, 23 июля 2026 года: долгосрочные сберегательные депозиты до 7,8% годовых.",
           "snippet": "",
-          "url": "https://www.inform.kz/ru/darhan-sapanov-naznachen-pervim-zamestitelem-akima-vko-52cb5340",
-          "source": "Казинформ"
-        },
-        {
-          "title": "Кто сменил осужденного Жаксылыка Омара на посту первого заместителя акима ВКО",
-          "snippet": "",
-          "url": "https://www.zakon.kz/politika/6525560-kto-smenil-osuzhdennogo-zhaksylyka-omara-na-postu-pervogo-zamestitelya-akima-vko.html",
-          "source": "Новости Zakon.kz"
-        },
-        {
-          "title": "В акимате ВКО место Жаксылыка Омара больше не вакантно",
-          "snippet": "",
-          "url": "https://yk-news.kz/news/v-akimate-vko-mesto-zhaksylyka-omara-bolshe-ne-vakantno-75339",
-          "source": "YK-news.kz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "автокредит",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 22 Jul 2026 17:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwfxVd2i7O_s7jd_1pMJZjdE3YAkXaFUIufjL1lorqD-h1OcS6z57H4yX0MNU",
-      "pictureSource": "Газета.uz",
-      "relatedSearch": [
-        {
-          "title": "Octobank запустил ипотеку и автокредиты для физических лиц – Новости Узбекистана",
-          "snippet": "",
-          "url": "https://www.gazeta.uz/ru/2026/07/22/octobank/",
-          "source": "Газета.uz"
-        },
-        {
-          "title": "Три новые автомобильные марки будут выпускать в Казахстане",
-          "snippet": "",
-          "url": "https://informburo.kz/novosti/tri-novye-avtomobilnye-marki-budut-vypuskat-v-kazaxstane",
-          "source": "Informburo.kz"
-        },
-        {
-          "title": "Казахстанцам хотят упростить получение автокредитов",
-          "snippet": "",
-          "url": "https://tengrinews.kz/autonews/kazahstantsam-hotyat-uprostit-poluchenie-avtokreditov-604407/",
-          "source": "TengriNews"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "водительское удостоверение",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 22 Jul 2026 17:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTjF14fN7sTxqWtg_Gs3e-2tWcPTUrRefW5kG9OmeEq7SJRxa7ENFgbgzsQJM",
-      "pictureSource": "Ulysmedia.kz",
-      "relatedSearch": [
-        {
-          "title": "Кого лишат водительских прав по новому закону: МВД Казахстана раскрыло подробности",
-          "snippet": "",
-          "url": "https://ulysmedia.kz/news/77408-kogo-lishat-voditelskikh-prav-po-novomu-zakonu-mvd-kazakhstana-raskrylo-podrobnosti/",
-          "source": "Ulysmedia.kz"
-        },
-        {
-          "title": "Новые основания для лишения водительских прав введут в Казахстане с 25 августа",
-          "snippet": "",
-          "url": "https://www.zakon.kz/pravo/6525315-novye-osnovaniya-dlya-lisheniya-voditelskikh-prav-vvedut-v-kazakhstane-s-25-avgusta.html",
-          "source": "Новости Zakon.kz"
-        },
-        {
-          "title": "С 25 августа 2026 г. в Казахстане вступают в силу изменения в закон \"О дорожном движении\"",
-          "snippet": "",
-          "url": "https://astanatv.kz/ru/news/173510/",
-          "source": "«Астана» телеарнасы"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "интер майами – чикаго файр",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 22 Jul 2026 16:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTk-uUFjii72O-PatB9PBhDtIWQO6Jhta_0cv5sAfFszVU8ZKIGe4I1eEnrAW0",
-      "pictureSource": "https://www.championat.ru/",
-      "relatedSearch": [
-        {
-          "title": "«Интер Майами» одолел «Чикаго» в дебютной игре Левандовского в МЛС. У Суареса — дубль",
-          "snippet": "",
-          "url": "https://www.championat.ru/football/news-6555598-inter-majami-chikago-fajr-rezultat-matcha-23-iyulya-2026-schet-3-2-mls-lionel-messi-luis-suares-robert-levandovski.html",
-          "source": "https://www.championat.ru/"
-        },
-        {
-          "title": "«Интер Майами» Месси выиграл 5-й матч подряд в МЛС и идет вторым на Востоке",
-          "snippet": "",
-          "url": "https://sportmail.ru/news/football/71729730/",
-          "source": "Спорт Mail"
-        },
-        {
-          "title": "«Интер Майами» без Месси обыграл «Чикаго» в матче MLS",
-          "snippet": "",
-          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/rest_of_the_world/spbnews_NI2345918_Inter_Majami_bez_Messi_obygral_Chikago_v_matche_MLS",
-          "source": "Sportbox"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "валенсия – эльденсе",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 22 Jul 2026 13:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRILUrX4j9VEV4uzZ80GmeJ-ey-ZJAmuQCP_T5eR5MdnJgDgx09I69JTQDw4lo",
-      "pictureSource": "StavkiPrognozy.ru",
-      "relatedSearch": [
-        {
-          "title": "Японский дебютант Сато Рюносукэ вышел в стартовом составе «Валенсии» на товарищеский матч",
-          "snippet": "",
-          "url": "https://stavkiprognozy.ru/novosti/football/yaponskiy_debyutant_sato_ryunosuke_vyshel_v_startovom_sostave_valensii_na_tovari",
-          "source": "StavkiPrognozy.ru"
-        },
-        {
-          "title": "Прямая трансляция матча Валенсия — Эльденсе: по итогам первого тайма Валенсия ведёт со счётом 3:0.",
-          "snippet": "",
-          "url": "https://www.vietnam.vn/ru/truc-tieptruc-tiep-valencia-vs-eldense-het-hiep-1-valencia-dan-3-0",
+          "url": "https://www.vietnam.vn/ru/lai-suat-ngan-hang-hom-nay-23-7-2026-gui-tiet-kiem-ky-han-dai-len-toi-7-8-nam",
           "source": "Vietnam.vn"
         },
         {
-          "title": "Наполи - Сельта прямая онлайн трансляция матча 8 Августа 2026",
+          "title": "Процентные ставки банков на 23 июля 2026 года: долгосрочные ставки достигли 7,8% годовых, межбанковский рынок охладился.",
           "snippet": "",
-          "url": "https://www.euro-football.ru/online/match/1006235617-napoli-selta-smotret-onlajn-pryamuyu-translyatsiyu-8-august-2026",
-          "source": "Евро-Футбол"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "рекреативо – реал бетис",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 22 Jul 2026 13:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1axCuFVHIyQUGw36g__goKdAI_qpZON--eTenMvPjZfqJqyiCaZ1YtqPJ_Lo",
-      "pictureSource": "StavkiPrognozy.ru",
-      "relatedSearch": [
-        {
-          "title": "«Бетис» завоевал шестой Кубок Коломбино",
-          "snippet": "",
-          "url": "https://stavkiprognozy.ru/novosti/football/betis_zavoeval_shestoy_kubok_kolombino",
-          "source": "StavkiPrognozy.ru"
+          "url": "https://baonghean.vn/ru/lai-suat-ngan-hang-ngay-23072026-ky-han-dai-cham-moc-78nam-thi-truong-lien-ngan-hang-ha-nhiet-10345354.html",
+          "source": "baonghean.vn"
         },
         {
-          "title": "Статистика матча «Рекративо Уэльва» 0-1 «Реал Бетис»: Х. Бельерин блистает, «Реал Бетис» обеспечивает себе все 3 очка.",
+          "title": "Средние процентные ставки по кредитам выросли почти до 11% в год.",
           "snippet": "",
-          "url": "https://www.vietnam.vn/ru/thong-ke-tran-dau-recreativo-huelva-0-1-real-betis-h-bellerin-toa-sang-real-betis-gianh-tron-3-diem",
+          "url": "https://www.vietnam.vn/ru/lai-suat-cho-vay-binh-quan-len-gan-11-nam",
           "source": "Vietnam.vn"
-        },
-        {
-          "title": "Рекреативо — Бетис. Товарищеский матч. Прямая трансляция 22.07.2026 в 21:30",
-          "snippet": "",
-          "url": "https://srrb.ru/translyacii-sportivnyx-sobytij/translyacii-futbol/rekreativo-betis-tovarishheskij-match-pryamaya-translyaciya-22-07-2026-v-2130.html",
-          "source": "ВСЕ ТРАНСЛЯЦИИ СПОРТА СЕГОДНЯ"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "истанбул башакшехир – интер турку",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 22 Jul 2026 11:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKyXopbaHzf4KZRKaokFZGp2w2YcIkO7suq1DW450dTK_ZIYVxC60P5oVNMHA",
-      "pictureSource": "UEFA.com",
-      "relatedSearch": [
-        {
-          "title": "Истанбул Башакшехир vs Интер Турку | Лига конференций УЕФА 2026/27",
-          "snippet": "",
-          "url": "https://ru.uefa.com/uefaconferenceleague/match/2048818--basaksehir-vs-inter-turku/",
-          "source": "UEFA.com"
-        },
-        {
-          "title": "«Истанбул Башакшехир» — «Интер» Турку. Шомуродов и Файзуллаев слишком сильны",
-          "snippet": "",
-          "url": "https://www.championat.ru/bets/article-6552774-istanbul-bashakshehir-inter-turku-prognoz-na-match-ligi-konferencij-22-iyulya-2026-goda.html",
-          "source": "https://www.championat.ru/"
-        },
-        {
-          "title": "Экспресс дня на 22 июля 2026 года: два футбола и CS2",
-          "snippet": "",
-          "url": "https://stavka.tv/articles/express/express-2026-july-22",
-          "source": "Ставка ТВ"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "қайрат",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 22 Jul 2026 11:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWYhtH2LsLoJjuVnRs7-rQumn3iSZPOaAcP5eOAziVpTaY-m-IJxcw2qCI9QM",
-      "pictureSource": "Tengri Sport",
-      "relatedSearch": [
-        {
-          "title": "С минимальным счётом завершился матч “Кайрата“ в Лиге чемпионов",
-          "snippet": "",
-          "url": "https://tengrisport.kz/tnsport/minimalnyim-schtom-zavershilsya-match-kayrata-lige-604570/",
-          "source": "Tengri Sport"
-        },
-        {
-          "title": "\"Дома постараемся\": тренер \"Кайрата\" высказался о поражении команды в матче Лиге чемпионов",
-          "snippet": "",
-          "url": "https://www.nur.kz/sport/football/2403002-doma-postaraemsya-trener-kayrata-vyskazalsya-o-porazhenii-komandy-v-matche-lige-chempionov/",
-          "source": "NUR.KZ"
-        },
-        {
-          "title": "Прямая трансляция матча \"Омония\" - \"Кайрат\" в Лиге чемпионов",
-          "snippet": "",
-          "url": "https://vesti.kz/league/pryamaya-translyatsiya-matcha-omoniya-kayrat-lige-chempionov-385248/",
-          "source": "Vesti.kz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "mercedes-benz",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 22 Jul 2026 10:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp3n9RdTtMVFyCbxRqkbmhH64aJmHyC7xtWwYqMFk-stZDuoJU18h0uy2BOUo",
-      "pictureSource": "Bloomberg",
-      "relatedSearch": [
-        {
-          "title": "Bill Risking Mercedes Ban Over China Ties Advances in US Senate",
-          "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-22/bill-risking-mercedes-ban-over-china-ties-advances-in-us-senate",
-          "source": "Bloomberg"
-        },
-        {
-          "title": "US Senate panel approves bill to crack down on Chinese vehicles",
-          "snippet": "",
-          "url": "https://www.reuters.com/business/autos-transportation/us-senate-panel-approves-bill-crack-down-chinese-vehicles-2026-07-22/",
-          "source": "Reuters"
-        },
-        {
-          "title": "Senate panel advances China auto bill that could bar Mercedes-Benz from U.S.",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2026/07/22/ted-cruz-china-auto-bill-mercedes-benz-gm.html",
-          "source": "CNBC"
         }
       ],
       "link": "https://imtaqin.id/"

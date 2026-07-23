@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2026-07-23 22:16:17",
+  "lastUpdate": "2026-07-23 23:13:23",
   "data": [
     {
+      "title": "windy",
+      "trafficCount": "1000+",
+      "pubDate": "Thu, 23 Jul 2026 15:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsBJQ5INXF2gL65UcZJMyQhAQlfuCkMsAXHqYdnVHaVG9kx-XZOSAl-c_qVbk",
+      "pictureSource": "NBC Montana",
+      "relatedSearch": [
+        {
+          "title": "Thunderstorms with heavy rainfall today, Flood Watch; hot, dry and breezy into the weekend",
+          "snippet": "",
+          "url": "https://nbcmontana.com/weather/forecasts/thunderstorms-with-heavy-rainfall-today-flood-watch-hot-dry-and-breezy-into-the-weekend",
+          "source": "NBC Montana"
+        },
+        {
+          "title": "Billings Area Weather: Heavy rain could cause localized flooding Wednesday evening",
+          "snippet": "",
+          "url": "https://www.ktvq.com/weather/todays-forecast/billings-area-weather-heavy-rain-could-cause-localized-flooding-wednesday-evening",
+          "source": "KTVQ"
+        },
+        {
+          "title": "Storms could lead to flooding on Wednesday",
+          "snippet": "",
+          "url": "https://www.kbzk.com/weather/todays-forecast/storms-could-lead-to-flooding-on-wednesday",
+          "source": "KBZK News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "weather update",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 23 Jul 2026 14:20:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJdbVVi8C93J4KSbPvJVc6C7y894vGfuAVcb9vK2Q6ObqHDozFBEVok9Ni7g",
       "pictureSource": "WVUA 23",
@@ -31,7 +59,7 @@
     },
     {
       "title": "weather today",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Thu, 23 Jul 2026 14:10:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV5Iy2yRK574umLqQBf_ZVbUGz_-sKc5fwTXfXOEOeP8pgPu3EgW6rbhpJvA",
       "pictureSource": "The Manila Times",
@@ -58,36 +86,64 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "news",
+      "title": "weather forecast today",
       "trafficCount": "200+",
+      "pubDate": "Thu, 23 Jul 2026 14:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMk8dM96-y61C9gAomX-MXmncl-JEIzqXbmk7ajgppVbdF2afpoZMt7c3Np7s",
+      "pictureSource": "KHBS",
+      "relatedSearch": [
+        {
+          "title": "Another Day of Sunshine and Seasonal Temps in Arkansas - KHBS",
+          "snippet": "",
+          "url": "https://www.4029tv.com/article/another-day-of-sunshine-and-seasonal-temps/73241746",
+          "source": "KHBS"
+        },
+        {
+          "title": "Weather Blog: Another great summer day expected!",
+          "snippet": "",
+          "url": "https://www.nwahomepage.com/weather/weather-blog/weather-blog-another-great-summer-day-expected/",
+          "source": "KNWA FOX24"
+        },
+        {
+          "title": "Arkansas Storm Team Forecast: Mildest day of the week!",
+          "snippet": "",
+          "url": "https://www.kark.com/weather/weather-forecasts/arkansas-storm-team-forecast-mildest-day-of-the-week/",
+          "source": "KARK"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "news",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 23 Jul 2026 13:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnVC2uPSqyBXkBCY3m_G4-j71Sb1Je_kHpVTDpcOx4yW2j_MzuJmI3tWdEmlg",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoudfu6mgc4S9jWIH4JF0aYVhfL3VrL6uYXbS4crAzhD2C_olbWPW0Zl2BipM",
       "pictureSource": "Philippine News Agency",
       "relatedSearch": [
         {
-          "title": "No valid ID required for Postal ID application – PHLPost",
+          "title": "Myanmar returning to ASEAN official meetings ‘still far off’— Lazaro",
           "snippet": "",
-          "url": "https://www.pna.gov.ph/articles/1280054",
+          "url": "https://www.pna.gov.ph/articles/1280185",
           "source": "Philippine News Agency"
         },
         {
-          "title": "PHLPost Honors Deaf Workers and 40 Years of Inclusive Employment in National Disability Rights Week",
+          "title": "Myanmar's return to ASEAN fold remains 'far off,' Philippines says",
           "snippet": "",
-          "url": "https://tribune.net.ph/2026/07/23/phlpost-celebrates-deaf-workers-decades-of-workplace-inclusion",
-          "source": "Daily Tribune"
+          "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/myanmar-s-return-to-asean-fold-remains-far-off-philippines-says",
+          "source": "Nikkei Asia"
         },
         {
-          "title": "PHLPost: These are the only documents you need to apply for a postal ID",
+          "title": "Asean foreign ministers reaffirm commitment to advancing lasting peace in Myanmar",
           "snippet": "",
-          "url": "https://www.rappler.com/bulletin-board/postal-id-requirements/",
-          "source": "Rappler"
+          "url": "https://www.manilatimes.net/2026/07/23/news/national/asean-foreign-ministers-reaffirm-commitment-to-advancing-lasting-peace-in-myanmar/2389548",
+          "source": "The Manila Times"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "petroleum",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 23 Jul 2026 12:30:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbSIH211Pw2z9f-E_KGF6px8ALMrHo_VyWyqmniRKUmlSV3XQetlEmU-q7y-c",
       "pictureSource": "PR Newswire",
@@ -105,10 +161,10 @@
           "source": "Drilling Contractor"
         },
         {
-          "title": "Horizon Petroleum begins production testing at Lachowice gas field in Poland",
+          "title": "Horizon Petroleum Advances Lachowice Gas Development in Poland",
           "snippet": "",
-          "url": "https://worldoil.com/news/2026/7/23/horizon-petroleum-begins-production-testing-at-lachowice-gas-field-in-poland/",
-          "source": "World Oil"
+          "url": "https://www.indexbox.io/blog/horizon-petroleum-advances-lachowice-gas-development-in-poland/",
+          "source": "IndexBox"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -143,7 +199,7 @@
     },
     {
       "title": "resident evil 2026",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 23 Jul 2026 08:40:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQr0DfVBVvQqma9MlLL38FXkl3j5U_qkquof2oSNKkOKVdmqsJpn2Ew2S--nVs",
       "pictureSource": "Anime News Network",
@@ -155,10 +211,10 @@
           "source": "Anime News Network"
         },
         {
-          "title": "We Saw 18 Minutes of the New ‘Resident Evil’ Movie: Full Breakdown and Reaction",
+          "title": "Even The New Resident Evil Movie Isn't Safe From Sony Backlash",
           "snippet": "",
-          "url": "https://www.mensjournal.com/entertainment/resident-evil-trailer-opening-sequence-reaction",
-          "source": "Men's Journal"
+          "url": "https://www.thegamer.com/resident-evil-movie-new-trailer-bombarded-physical-media-comments/",
+          "source": "TheGamer"
         },
         {
           "title": "Resident Evil Director Zach Cregger Reveals The Movie's Hardest Scene To Shoot",
@@ -183,16 +239,16 @@
           "source": "Rappler"
         },
         {
-          "title": "#WalangPasok: Class suspensions for July 24, 2026 due to Kiyapo, habagat",
-          "snippet": "",
-          "url": "https://www.abs-cbn.com/news/weather-traffic/2026/7/23/-walangpasok-class-suspensions-for-july-24-2026-due-to-kiyapo-habagat-2355",
-          "source": "ABS-CBN"
-        },
-        {
           "title": "Manila suspends face-to-face classes from kinder to SHS",
           "snippet": "",
           "url": "https://www.msn.com/en-ph/money/general/manila-suspends-face-to-face-classes-from-kinder-to-shs/ar-AA27ARSt",
           "source": "MSN"
+        },
+        {
+          "title": "WALANG PASOK: Class suspensions for Friday, July 24, 2026",
+          "snippet": "",
+          "url": "https://www.gmanetwork.com/news/serbisyopubliko/content/995941/walang-pasok-class-suspensions-for-friday-july-24-2026/story/",
+          "source": "GMA Network"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -221,62 +277,6 @@
           "snippet": "",
           "url": "https://www.manilatimes.net/2026/07/22/news/marcoleta-defensor-plead-not-guilty-before-sandiganbayan-over-indirect-bribery-charges/2389120",
           "source": "The Manila Times"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "accuweather",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 23 Jul 2026 06:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjpbsg7WkI2sYWc9NIYfSOhlYilU1q-NdQk8AzvUDIQfzWz2EtVbRy9BMwIhw",
-      "pictureSource": "NPR",
-      "relatedSearch": [
-        {
-          "title": "Climate: Fighting Extreme Heat In 2026 : 1A",
-          "snippet": "",
-          "url": "https://www.npr.org/2026/07/23/nx-s1-5904513/climate-fighting-extreme-heat-in-2026",
-          "source": "NPR"
-        },
-        {
-          "title": "Climate Studies Predict Dangerous Heat for Parts of the World Within 50 Years",
-          "snippet": "",
-          "url": "https://colombiaone.com/2026/07/23/climate-prediction-dangerous-heat-50-years/",
-          "source": "ColombiaOne.com"
-        },
-        {
-          "title": "HERE COMES THE SUN: Climate Justice-based Recommendations for Protecting Communities from Extreme Heat",
-          "snippet": "",
-          "url": "https://www.greenpeace.org/philippines/publication/70106/climate-justice-based-recommendations-for-protecting-communities-from-extreme-heat/",
-          "source": "Greenpeace"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "free",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 23 Jul 2026 06:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKzkheIEqJURkslan9vkJDdbW9NR8yLQjkO0d_6EaGvaHaPpEEIeNj3ztJs9g",
-      "pictureSource": "Yahoo Sports",
-      "relatedSearch": [
-        {
-          "title": "The Indecision: What's LeBron James waiting for?",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/nba/article/the-indecision-whats-lebron-james-waiting-for-221704877.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "The hottest market on Kalshi is one the NBA doesn’t think should exist",
-          "snippet": "",
-          "url": "https://www.washingtonpost.com/sports/2026/07/23/hottest-market-kalshi-is-one-nba-doesnt-think-should-exist/",
-          "source": "The Washington Post"
-        },
-        {
-          "title": "Rich Paul: No rush on LeBron decision; teams have done enough",
-          "snippet": "",
-          "url": "https://www.espn.com/nba/story/_/id/49415142/rich-paul-says-there-no-rush-lebron-james-make-free-agency-decision",
-          "source": "ESPN"
         }
       ],
       "link": "https://imtaqin.id/"

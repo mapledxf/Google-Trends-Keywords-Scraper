@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2026-07-24 03:39:57",
+  "lastUpdate": "2026-07-24 06:12:29",
   "data": [
+    {
+      "title": "новости",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 23 Jul 2026 20:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDOJhSiMa3qRQfu3Sw0BkHup4C-tha6TpInX-GxNXCyNu1S9g24ns16aRKSvU",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Война в Украине: Санкт-Петербург подвергся атаке дронов, под ударом снова склады Wildberries",
+          "snippet": "",
+          "url": "https://www.bbc.com/russian/live/cn4d2pv3jplt",
+          "source": "BBC"
+        },
+        {
+          "title": "Технологию нейроголоса начали тестировать в поездах Арбатско-Покровской линии",
+          "snippet": "",
+          "url": "https://www.mos.ru/news/item/173238073/",
+          "source": "Официальный сайт Мэра Москвы"
+        },
+        {
+          "title": "В Рузском округе приводят в порядок ЛЭП",
+          "snippet": "",
+          "url": "https://ruzaregion.ru/news/kartina_dnya/70179",
+          "source": "Администрация Рузского муниципального округа"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "автомобиль",
       "trafficCount": "1000+",
       "pubDate": "Thu, 23 Jul 2026 11:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYLWzW2STqUAoR1J-KAync5O81VlLKpBUgMEVyhSUszvD9FPJnaDvX8cXd8pM",
-      "pictureSource": "Rus.Postimees.ee",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPXWIJrzL2VfwAnLz1pouUQ3rYsqJqYsU-eRGTZD7B60dhhh6ZyZmgPUO6QXw",
+      "pictureSource": "Zerkalo",
       "relatedSearch": [
         {
-          "title": "ФОТО На шоссе Таллинн-Нарва столкнулись два автомобиля, у одного отвалилось колесо",
+          "title": "Минчанину рассказали, что его автомобиль выставили на аукцион злоумышленники. Он решил «спасти» легковушку и сделал только хуже",
           "snippet": "",
-          "url": "https://rus.postimees.ee/8514438/foto-na-shosse-tallinn-narva-stolknulis-dva-avtomobilya-u-odnogo-otvalilos-koleso",
-          "source": "Rus.Postimees.ee"
+          "url": "https://news.zerkalo.io/accidents/132713.html",
+          "source": "Zerkalo"
         },
         {
-          "title": "ФОТО ⟩ На шоссе Таллинн-Нарва столкнулись два автомобиля, у одного отвалилось колесо",
+          "title": "Спасая семью, 14-летний подросток отдал мошенникам 129 тыс. BYN и сбежал из дома",
           "snippet": "",
-          "url": "https://news.inbox.lv/150jhwa-foto-na-sosse-tallinn-narva-stolknulis-dva-avtomobila-u-odnogo-otvalilos-koleso?language=ru",
-          "source": "Inbox.lv"
+          "url": "https://minsknews.by/spasaya-semyu-14-letnij-podrostok-otdal-moshennikam-129-tys-byn-i-sbezhal-iz-doma/",
+          "source": "Минск-новости"
         },
         {
-          "title": "В Новокузнецке автомобиль подбил выехавшую из-за автобуса машину (ФОТО, ВИДЕО МОМЕНТА ДТП)",
+          "title": "Дорогой код из СМС",
           "snippet": "",
-          "url": "https://www.city-n.ru/view/485099.html",
-          "source": "Новости Новокузнецка. Кузбасс, Кемеровская область."
+          "url": "https://shahter.by/chelovek-i-zakon/dorogoj-kod-iz-sms/",
+          "source": "http://shahter.by/"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,37 +89,52 @@
       "title": "ilves",
       "trafficCount": "200+",
       "pubDate": "Thu, 23 Jul 2026 08:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAl5lEDk9A_37NzngrXom9BV7ecU68NMdgOiNYsF7jZ_Paik6emOcFXBd6KBE",
-      "pictureSource": "Iltalehti",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5OtwpIiQlGTF4s8G31_aKjCVMF-1PP44EoLd6ymLdeW7mEmBDSEZN4q7H1nQ",
+      "pictureSource": "https://www.ilvesfootball.com/",
       "relatedSearch": [
         {
-          "title": "Markkina ylireagoi viime viikonlopun tuloksiin – Stjarnania ei kannata aliarvioida kotikentällään",
+          "title": "Sauli päätöksestään jatkaa Ilveksessä: ”Halu oli jäädä, niin oli aika helppo.”",
           "snippet": "",
-          "url": "https://www.iltalehti.fi/vedonlyonti/a/11e31892-5722-4d7a-af24-3f2ea321eb9d",
-          "source": "Iltalehti"
+          "url": "https://www.ilvesfootball.com/sauli-paatoksestaan-jatkaa-ilveksessa-halu-oli-jaada-niin-oli-aika-helppo/",
+          "source": "https://www.ilvesfootball.com/"
         },
         {
-          "title": "Nousukunnossa? – Tuoko pikakeikka Islantiin toivotun tuloksen?",
+          "title": "Ilves kiinnitti kapteeninsa jatkosopimuksella",
           "snippet": "",
-          "url": "https://kymppipaikka.fi/haastattelut/nousukunnossa-tuoko-pikakeikka-islantiin-toivotun-tuloksen/",
-          "source": "Kymppipaikka"
+          "url": "https://www.mtvuutiset.fi/artikkeli/ilves-kiinnitti-kapteeninsa-jatkosopimuksella/9369540",
+          "source": "mtvuutiset.fi"
         },
         {
-          "title": "Ilves pelaa puolityhjälle katsomolle – jalkapallopomo toivoo, että kansa löytää takaisin Tammelan stadionille",
+          "title": "\"Tärkeää jatkuvuuden kannalta\" - Ilves-kapteeni Sauli Väisäselle kaksivuotinen jatkosopimus",
           "snippet": "",
-          "url": "https://yle.fi/a/74-20236625",
-          "source": "Yle"
+          "url": "https://www.veikkausliiga.com/uutiset/2026/07/23/tarkeaa-jatkuvuuden-kannalta-ilves-kapteeni-sauli-vaisaselle-kaksivuotinen-jatkosopimus",
+          "source": "Veikkausliiga"
         }
       ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "rannarootsi reklaam",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 23 Jul 2026 08:00:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "suhhoi su-57",
       "trafficCount": "200+",
       "pubDate": "Thu, 23 Jul 2026 07:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXVYAuUw2GSIeITJtIhFZVwKXz2ZEPcvNlNG5gnCC_CxK7bEApznjv9tbUziE",
-      "pictureSource": "Military Watch Magazine",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjKrUeXb2sS9FVYQRSTmly0eKDo5_Hal4xQZSpHrSPTzfVWO-K7PXdekFcQg",
+      "pictureSource": "MiGFlug",
       "relatedSearch": [
+        {
+          "title": "Sukhoi Su-57 Felon — History, Specs & Stories",
+          "snippet": "",
+          "url": "https://migflug.com/he/%D7%9B%D6%BC%D6%B0%D7%9C%D6%B4%D7%99-%D7%98%D6%B7%D7%99%D6%B4%D7%A1/su-57-felon/",
+          "source": "MiGFlug"
+        },
         {
           "title": "Rare Russian Su-57 Stealth Fighter Shot Down in Friendly Fire Incident Near Moscow - Reports",
           "snippet": "",
@@ -103,12 +146,6 @@
           "snippet": "",
           "url": "https://www.themoscowtimes.com/2026/07/23/warplane-crashes-during-training-flight-in-moscow-region-a93323",
           "source": "The Moscow Times"
-        },
-        {
-          "title": "Claims Swirl Around Possible Su-57 Crash near Moscow",
-          "snippet": "",
-          "url": "https://theaviationist.com/2026/07/23/claims-swirl-around-possible-su-57-crash-near-moscow/",
-          "source": "The Aviationist"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,6 +154,15 @@
       "title": "karistus",
       "trafficCount": "500+",
       "pubDate": "Thu, 23 Jul 2026 07:30:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "triinu kivilaan",
+      "trafficCount": "1000+",
+      "pubDate": "Thu, 23 Jul 2026 06:20:00 -0700",
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
@@ -154,52 +200,6 @@
       "title": "katrin siska",
       "trafficCount": "100+",
       "pubDate": "Thu, 23 Jul 2026 03:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "pankrot",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 23 Jul 2026 01:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "indrek laul",
-      "trafficCount": "2000+",
-      "pubDate": "Wed, 22 Jul 2026 23:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXXWhHozHwd-GNDimvebAx3Apg2Au8fQ7_FinqHTyNj3hPidvlZUKDZ59tMas",
-      "pictureSource": "TV3",
-      "relatedSearch": [
-        {
-          "title": "TV3 uudised: Kas klaverivabriku juht kolib Kadriorgu? Indrek Laul astus presidendiringi",
-          "snippet": "",
-          "url": "https://www.tv3.ee/tv3telekanal/tv3-uudised/tv3-uudised-kas-klaverivabriku-juht-kolib-kadriorgu-indrek-laul-astus-presidendiringi/",
-          "source": "TV3"
-        },
-        {
-          "title": "Kaljulaid: Laulul võib süsteemivälise kandidaadina olla keeruline toetust leida",
-          "snippet": "",
-          "url": "https://uudis.net/12764861",
-          "source": "Uudis.net"
-        },
-        {
-          "title": "Hanschmidt, Hääl, Kunila ja teised nimekad ettevõtjad soovivad Eesti presidendiks klaverivabriku juhti",
-          "snippet": "",
-          "url": "https://www.aripaev.ee/uudised/2026/07/23/hanschmidt-haal-kunila-ja-teised-nimekad-ettevotjad-soovivad-eesti-presidendiks-klaverivabriku-juhti",
-          "source": "Äripäev"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "rannarootsi",
-      "trafficCount": "2000+",
-      "pubDate": "Wed, 22 Jul 2026 23:10:00 -0700",
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],

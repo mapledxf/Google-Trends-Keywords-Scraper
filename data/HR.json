@@ -1,9 +1,93 @@
 {
-  "lastUpdate": "2026-07-27 11:43:50",
+  "lastUpdate": "2026-07-27 13:58:39",
   "data": [
     {
-      "title": "nafta",
+      "title": "prijevara",
+      "trafficCount": "1000+",
+      "pubDate": "Mon, 27 Jul 2026 06:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHEiXPS6_VfhxX7mY6Z_pWTbAVte7UZd9PyArR22EcnE_Oekv2cOe75wiN0D8",
+      "pictureSource": "KAportal.hr",
+      "relatedSearch": [
+        {
+          "title": "Nova prijevara na A1: Austrijanac na odmorištu Dobra ostao bez 710 eura, prevaranti koristili isti trik kao i prošli tjedan",
+          "snippet": "",
+          "url": "https://kaportal.net.hr/ostalo/1400181/nova-prijevara-na-a1-austrijanac-na-odmoristu-dobra-ostao-bez-710-eura-prevaranti-koristili-isti-trik-kao-i-prosli-tjedan/",
+          "source": "KAportal.hr"
+        },
+        {
+          "title": "U Policijskoj postaji Ogulin jučer je zaprimljena prijava – još jedna prijevara na odmorištu",
+          "snippet": "",
+          "url": "https://ogportal.com/2026/07/27/u-policijskoj-postaji-ogulin-jucer-je-zaprimljena-prijava-jos-jedna-prijevara-na-odmoristu/",
+          "source": "OG Portal"
+        },
+        {
+          "title": "Ostao bez tisuću eura na odmorištu Dobra: Povjerovao strancima koji su tvrdili da se moraju vratiti u Škotsku",
+          "snippet": "",
+          "url": "https://radio-mreznica.hr/ostao-bez-tisucu-eura-na-odmoristu-dobra-povjerovao-strancima-koji-su-tvrdili-da-se-moraju-vratiti-u-skotsku/",
+          "source": "Radio Mrežnica"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "film",
       "trafficCount": "200+",
+      "pubDate": "Mon, 27 Jul 2026 06:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmQA04xU4-kaiJ7OwqeTrpTBJfVjUIMqb6rkt59Yvjukjz9ZL0lzDffJGVolY",
+      "pictureSource": "Variety",
+      "relatedSearch": [
+        {
+          "title": "Box Office: ‘The Odyssey’ Soars to $639 Million Globally After Two Weekends, Including $140 Million in Imax",
+          "snippet": "",
+          "url": "https://variety.com/2026/film/box-office/the-odyssey-global-box-office-600-million-imax-1236821428/",
+          "source": "Variety"
+        },
+        {
+          "title": "‘It reminded me of James Bond’: Guardian readers on The Odyssey",
+          "snippet": "",
+          "url": "https://www.theguardian.com/film/2026/jul/27/it-reminded-me-of-james-bond-guardian-readers-on-the-odyssey",
+          "source": "The Guardian"
+        },
+        {
+          "title": "‘The Odyssey’ shows how online rage finds a home",
+          "snippet": "",
+          "url": "https://www.washingtonpost.com/opinions/2026/07/26/christopher-nolan-odyssey-shows-cost-online-rage/",
+          "source": "The Washington Post"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "roko brajković",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 27 Jul 2026 06:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg_mzNCnJijOdvq8ugKcQl5-4y8AJHKAPLWvsywtmP_1DnVswGORVuzy-4LWw",
+      "pictureSource": "Slobodna Dalmacija",
+      "relatedSearch": [
+        {
+          "title": "Potvrđene crne vijesti: Brajkovića neće biti do kraja sezone! Oglasio se nakon ozljede, evo što poručuje",
+          "snippet": "",
+          "url": "https://slobodnadalmacija.hr/sport/hajduk/potvrdene-crne-vijesti-brajkovica-nece-biti-do-kraja-sezone-oglasio-se-nakon-ozljede-evo-sto-porucuje-1570332",
+          "source": "Slobodna Dalmacija"
+        },
+        {
+          "title": "Brajković je bio ključ Garcíjina Hajduka. Sad trener ima četiri opcije, a jedna otvara prostor Livaji...",
+          "snippet": "",
+          "url": "https://www.tportal.hr/sport/clanak/brajkovic-je-bio-kljuc-garcijina-hajduka-sad-trener-ima-cetiri-opcije-a-jedna-otvara-prostor-livaji-20260727",
+          "source": "tportal.hr"
+        },
+        {
+          "title": "Loše vijesti za Hajduk pred uzvrat s Pafosom: Ozlijedio se igrač u formi",
+          "snippet": "",
+          "url": "https://net.hr/sport/nogomet/roko-brajkovic-otpao-za-uzvrat-s-pafosom-d1a7ebff-8928-11f1-936f-9600040c8f8e",
+          "source": "Net.hr"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "nafta",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 27 Jul 2026 04:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQO8K60y9oeUUZnuZO087Ggt20_u1Kz6XAT1J6q7CsDRSZ1cpVzYkl8VLtIUeM",
       "pictureSource": "Poslovni dnevnik",
@@ -31,11 +115,17 @@
     },
     {
       "title": "lekenik",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 27 Jul 2026 04:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0n51leukEVKozieXZNrnQtW_PIXgBiKYQPt63R-gImPo2VWvQxOmFPb9HGhw",
-      "pictureSource": "Jutarnji list",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo8ATZE1C7cEUhIPOicOUQX3rGb32UredSNdZiLYXbsMyHle10fR6Nt82vc88",
+      "pictureSource": "Slobodna Dalmacija",
       "relatedSearch": [
+        {
+          "title": "Preminuo mladi zaposlenik KBC-a Rebro, kolege se emotivno opraštaju: 'Sudbina je bila okrutna...'",
+          "snippet": "",
+          "url": "https://slobodnadalmacija.hr/vijesti/hrvatska/preminuo-mladi-zaposlenik-kbc-a-rebro-kolege-se-emotivno-oprastaju-sudbina-je-bila-okrutna-1570170",
+          "source": "Slobodna Dalmacija"
+        },
         {
           "title": "Poginuo mladi medicinski tehničar Stjepan (24), kolege u šoku: ‘Neki ljudi odu prerano...‘",
           "snippet": "",
@@ -47,40 +137,34 @@
           "snippet": "",
           "url": "https://www.tportal.hr/vijesti/clanak/stjepan-24-poginuo-u-nesreci-kod-lekenika-ostavio-si-primjer-dobrote-i-ljudskosti-20260727",
           "source": "tportal.hr"
-        },
-        {
-          "title": "| U Pešćenici smrtno stradao motociklist",
-          "snippet": "",
-          "url": "https://sisakportal.hr/zupanija/u-pescenici-smrtno-stradao-motociklist/",
-          "source": "Sisak portal"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "promet",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 27 Jul 2026 03:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdx3D2Gxtzz6Vh5vuEesNXejib6jL6KOp37MU_yVcQhgRtOkEHWyQ23syIOGA",
-      "pictureSource": "Jutarnji list",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwasQ-pw5PMI-_4s_aUbuUYI-TQcmfzyOc92FYkNoJYU0H7j-fOK4jJN-1-SY",
+      "pictureSource": "24sata.hr",
       "relatedSearch": [
         {
-          "title": "Promet potpuno stao na A1, vozači izlaze iz automobila",
+          "title": "FOTO Sudari i kaos na A1: Ljudi stoje u kolonama i na granici!",
           "snippet": "",
-          "url": "https://www.jutarnji.hr/vijesti/hrvatska/kolaps-a1-kolone-nesrece-ogracenja-lucko-krcki-most-istarski-ipsilon-15731711",
-          "source": "Jutarnji list"
+          "url": "https://www.24sata.hr/news/foto-sudari-i-kaos-na-a1-ljudi-stoje-u-kolonama-i-na-granici-1143710",
+          "source": "24sata.hr"
         },
         {
-          "title": "Paraliziran promet na A1: Kolona zbog prometne nesreće formirana od Karlovca",
+          "title": "Promet potpuno stao nakon Lučkog, ljudi izlazili iz automobila",
           "snippet": "",
-          "url": "https://www.tportal.hr/vijesti/clanak/paraliziran-promet-na-a1-kolona-zbog-prometne-nesrece-formirana-od-karlovca-20260727",
-          "source": "tportal.hr"
+          "url": "https://www.index.hr/mobile/vijesti/clanak/promet-potpuno-stao-nakon-luckog-ljudi-izlazili-iz-automobila/2817964.aspx?index_ref=homepage_comment_box_m&commentId=11640438",
+          "source": "Index.hr"
         },
         {
-          "title": "Zašto se na ravnoj autocesti stvaraju gužve iako nema nesreće ni radova? Ovo je pravi uzrok, a ne ono što mnogi misle",
+          "title": "Gužve na istarskom ipsilonu: Kolona prema Sloveniji duga oko dva kilometra",
           "snippet": "",
-          "url": "https://autoportal.hr/aktualno/zasto-se-na-ravnoj-autocesti-stvaraju-guzve-iako-nema-nesrece-ni-radova-ovo-je-pravi-uzrok-a-ne-ono-sto-vecina-misli/",
-          "source": "Autoportal.hr"
+          "url": "https://www.glasistre.hr/istra/2026/07/26/guzve-na-istarskom-ipsilonu-kolona-prema-sloveniji-duga-oko-dva-kilometra-1080460",
+          "source": "Glas Istre"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,24 +183,80 @@
           "source": "Jutarnji list"
         },
         {
-          "title": "Kreće velika sanacija Pelješkog mosta: 'Mikro-pukotine su na svih šest pilona'",
+          "title": "Ministar otkrio koliko su opasne pukotine na Pelješkom mostu i tko će plaćati sanaciju. Ima važnu informaciju za vozače",
           "snippet": "",
-          "url": "https://www.tportal.hr/vijesti/clanak/krece-velika-sanacija-peljeskog-mosta-mikro-pukotine-su-na-svih-sest-pilona-foto-20260727",
-          "source": "tportal.hr"
+          "url": "https://slobodnadalmacija.hr/dalmacija/s-mora-i-kraja/ministar-otkrio-koliko-su-opasne-pukotine-na-peljeskom-mostu-i-tko-ce-placati-sanaciju-ima-vaznu-informaciju-za-vozace-1570312",
+          "source": "Slobodna Dalmacija"
         },
         {
-          "title": "Pojavili se problemi na Pelješkom mostu, uskoro kreću radovi - Evo što će biti s prometom",
+          "title": "Sjećate se spektakla? Vatromet, dvije himne i blagoslov biskupa, a svi su pričali o njihovom rukovanju",
           "snippet": "",
-          "url": "https://net.hr/danas/vijesti/pojavili-se-problemi-na-peljeskom-mostu-uskoro-krecu-radovi-evo-sto-ce-biti-s-prometom-da87e0af-899c-11f1-936f-9600040c8f8e",
+          "url": "https://net.hr/danas/vijesti/otvaranje-peljeskog-mosta-prosle-su-cetiri-godine-od-spektakla-c06fd10b-89ae-11f1-936f-9600040c8f8e",
           "source": "Net.hr"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "thompson vukovar",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 27 Jul 2026 03:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR7RnwTwboSkAEViG174V1G4wHFqllNf4ipwBmrVcvDGINXa7BEH1Dr20Sg-w",
+      "pictureSource": "SiB.hr",
+      "relatedSearch": [
+        {
+          "title": "Bliži se spektakl: Evo kada počinje prodaja ulaznica za Thompsonov koncert u Vukovaru",
+          "snippet": "",
+          "url": "https://sib.net.hr/lifestyle/koncerti/1279653/blizi-se-spektakl-evo-kada-pocinje-prodaja-ulaznica-za-thompsonov-koncert-u-vukovaru/",
+          "source": "SiB.hr"
+        },
+        {
+          "title": "Drama oko ulaznica za Thompsona: Objave se proširile mrežama, stigla reakcija njegova tima",
+          "snippet": "",
+          "url": "https://dalmatinskiportal.hr/drama-oko-ulaznica-za-thompsona-objave-se-prosirile-mrezama-stigla-reakcija-njegova-tima",
+          "source": "Dalmatinski Portal"
+        },
+        {
+          "title": "Thompsonov tim upozorio fanove: \"Šire se lažne informacije o koncertu u Vukovaru\"",
+          "snippet": "",
+          "url": "https://www.index.hr/magazin/clanak/thompsonov-tim-upozorio-fanove-sire-se-lazne-informacije-o-koncertu-u-vukovaru/2818013.aspx?utm_source=adios.hr",
+          "source": "Index.hr"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "vijest",
-      "trafficCount": "5000+",
+      "trafficCount": "10000+",
       "pubDate": "Mon, 27 Jul 2026 01:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLCu08QF33dDcpJNFnAHNTzr2meNX_W2HcWjRUpsnpbKvnkki5Q1ReHAoMe1E",
+      "pictureSource": "Dnevnik.hr",
+      "relatedSearch": [
+        {
+          "title": "Loše vijesti za vozače: Zbog velike promjene neki će morati izdvajati oko 60 eura više...",
+          "snippet": "",
+          "url": "https://dnevnik.hr/vijesti/hrvatska/zbog-novih-pristojbi-rastu-cijene-kineskih-guma---993282.html",
+          "source": "Dnevnik.hr"
+        },
+        {
+          "title": "Loša vijest: Stiže velika promjena koja bi hrvatske vozače mogla koštati 64 eura",
+          "snippet": "",
+          "url": "https://www.tportal.hr/autozona/clanak/losa-vijest-stize-velika-promjena-koja-bi-hrvatske-vozace-mogla-kostati-64-eura-20260726",
+          "source": "tportal.hr"
+        },
+        {
+          "title": "Sportske novosti - Nakon 57 godina gasi se hrvatski klub: 'Kraj jedne priče'",
+          "snippet": "",
+          "url": "https://www.jutarnji.hr/sportske/sport-mix/rukomet/rk-polet-stancic-gasenje-nakon-57-godina-15731609",
+          "source": "Jutarnji list"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "rukometni klub polet",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 27 Jul 2026 01:00:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-ePISbpasWzXd7rCo4NE4Xg5jFKBWDDxymw-eA_x9RlqE3jhEC5uTQNDgC5I",
       "pictureSource": "Jutarnji list",
       "relatedSearch": [
@@ -127,156 +267,16 @@
           "source": "Jutarnji list"
         },
         {
-          "title": "Zaludio hrvatske navijače, sad je stigla tužna vijest: ‘Kraj jedne priče‘",
+          "title": "MRK Dugo Selo i RK Polet spajaju snage – od sada zajedno kao MRK Dugo Selo Polet",
           "snippet": "",
-          "url": "https://www.dnevno.hr/sport/zaludio-hrvatske-navijace-sad-je-stigla-tuzna-vijest-kraj-jedne-price-3372011/",
-          "source": "Dnevno.hr"
+          "url": "https://01portal.hr/mrk-dugo-selo-i-rk-polet-spajaju-snage-od-sada-zajedno-kao-mrk-dugo-selo-polet/",
+          "source": "01Portal"
         },
         {
           "title": "Nakon 57 godina gasi se rukometni klub koji je odgojio dva hrvatska reprezentativca",
           "snippet": "",
           "url": "https://sportklub.n1info.hr/rukomet/nakon-57-godina-gasi-se-rukometni-klub-koji-je-odgojio-dva-hrvatska-reprezentativca/",
           "source": "Sportklub"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "trener",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 26 Jul 2026 22:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOtpLPVsuANuYi3lTrtGdfP9R37wBWtsMMXObxizjvtNC189OzA2NTRlkcS2w",
-      "pictureSource": "24sata.hr",
-      "relatedSearch": [
-        {
-          "title": "Trener Edo iz 'Života na vagi' otkrio je od čega točno boluje",
-          "snippet": "",
-          "url": "https://www.24sata.hr/show/trener-edo-iz-zivota-na-vagi-otkrio-je-od-cega-tocno-boluje-1143601",
-          "source": "24sata.hr"
-        },
-        {
-          "title": "'Ja ću poludjeti...': Dok čeka odluku o operaciji, bolne riječi omiljenog trenera Ede ganule su stotine ljudi",
-          "snippet": "",
-          "url": "https://www.rtl.hr/tv-emisije/zivot-na-vagi/ja-cu-poludjeti-dok-ceka-odluku-o-operaciji-bolne-rijeci-omiljenog-trenera-ede-ganule-su-stotine-ljudi.html",
-          "source": "RTL.hr"
-        },
-        {
-          "title": "Trener Edo bori se s ozbiljnim zdravstvenim problemom: 'Čekam. Presudu na koju nisam spreman'",
-          "snippet": "",
-          "url": "https://www.jutarnji.hr/scena/domace-zvijezde/edin-mehmedovic-bolovi-moguca-operacija-iskrena-objava-15731243",
-          "source": "Jutarnji list"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "glas istre",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 26 Jul 2026 22:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQx1oaLZ3YiKGsUemROSAeSqktx5lEfbeqzSkxMhtIF1iV9XBqF8CXGDRN-A1M",
-      "pictureSource": "Jutarnji list",
-      "relatedSearch": [
-        {
-          "title": "Preminula žena koja je stradala u eksploziji u Puli",
-          "snippet": "",
-          "url": "https://www.jutarnji.hr/vijesti/crna-kronika/eksplozija-sijana-preminula-zena-sumnja-plinska-boca-15731535",
-          "source": "Jutarnji list"
-        },
-        {
-          "title": "NADOPUNA: Eksplozija u kući u Puli",
-          "snippet": "",
-          "url": "https://istarska-policija.gov.hr/vijesti/nadopuna-eksplozija-u-kuci-u-puli/39201",
-          "source": "istarska-policija.gov.hr"
-        },
-        {
-          "title": "Utvrđeno kako je došlo do eksplozije u Puli",
-          "snippet": "",
-          "url": "https://www.glasistre.hr/crna-kronika/2026/07/27/utvrdeno-kako-je-doslo-do-eksplozije-u-puli-1080538",
-          "source": "Glas Istre"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "cijene goriva",
-      "trafficCount": "2000+",
-      "pubDate": "Sun, 26 Jul 2026 21:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkyyDvy9ahXWzidU-9xSJE-QMPnnEVPnKmfpVae0lSF_uMHavuWrN-at61KoM",
-      "pictureSource": "24sata.hr",
-      "relatedSearch": [
-        {
-          "title": "VIDEO Gužve na pumpama na Pagu uoči novih cijena goriva: 'Ispred mene je bilo 40 auta!'",
-          "snippet": "",
-          "url": "https://www.24sata.hr/news/video-guzve-na-pumpama-na-pagu-uoci-novih-cijena-goriva-ispred-mene-je-bilo-40-auta-1143734",
-          "source": "24sata.hr"
-        },
-        {
-          "title": "Nakon utorka još jedan veliki šok za džepove građana? \"Ako se održi ova situacija, onda će biti problema\"...",
-          "snippet": "",
-          "url": "https://dnevnik.hr/vijesti/hrvatska/novi-udar-na-dzepove-gradjana-cijene-goriva-od-utorka-opet-rastu-ceka-se-potez-vlade---993210.html",
-          "source": "Dnevnik.hr"
-        },
-        {
-          "title": "Vlada odlučila: Od sutra ćemo gorivo plaćati po novim, višim cijenama; evo koliko će koštati super, a koliko dizel",
-          "snippet": "",
-          "url": "https://slobodnadalmacija.hr/vijesti/hrvatska/vlada-odlucila-od-sutra-cemo-gorivo-placati-po-novim-visim-cijenama-evo-koliko-ce-kostati-super-a-koliko-dizel-1570266",
-          "source": "Slobodna Dalmacija"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "meghan, vojvotkinja od sussexa",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 26 Jul 2026 21:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAIeqAqMEYSEPck2KvpzVlqo7Y_w9mwTJ4TYIxCL1oRWspgPaXeeOxyDnuQzM",
-      "pictureSource": "Večernji.hr",
-      "relatedSearch": [
-        {
-          "title": "Meghan Markle poslala jasnu poruku o kraljevskoj tituli: Evo kako želi da je zovu",
-          "snippet": "",
-          "url": "https://www.vecernji.hr/showbiz/meghan-markle-poslala-jasnu-poruku-o-kraljevskoj-tituli-evo-kako-zeli-da-je-zovu-1981295",
-          "source": "Večernji.hr"
-        },
-        {
-          "title": "Mnogi se rugaju Meghan radi gostovanja u 'Masterchefu': Evo kako je tražila da ju svi zovu",
-          "snippet": "",
-          "url": "https://www.24sata.hr/show/mnogi-se-rugaju-meghan-radi-gostovanja-u-masterchefu-evo-kako-je-trazila-da-ju-svi-zovu-1143684",
-          "source": "24sata.hr"
-        },
-        {
-          "title": "Meghan Markle u crnom od glave do pete privukla sve poglede",
-          "snippet": "",
-          "url": "https://www.tportal.hr/lifestyle/clanak/meghan-markle-u-crnom-od-glave-do-pete-privukla-sve-poglede-20260727",
-          "source": "tportal.hr"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "hnk hajduk split",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 26 Jul 2026 20:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6-zKhRPGClJRtPOQJEHzRgYuW4xIacq4WGtmlQveqYshJQkt-MoJzZebBVrM",
-      "pictureSource": "Dalmatinski Portal",
-      "relatedSearch": [
-        {
-          "title": "Tko umjesto Brajkovića?",
-          "snippet": "",
-          "url": "https://dalmatinskiportal.hr/tko-umjesto-brajkovica",
-          "source": "Dalmatinski Portal"
-        },
-        {
-          "title": "Sportske novosti - Važna karika Hajduka otpala za gostovanje na Cipru, ozlijedio se na nedjeljnom treningu",
-          "snippet": "",
-          "url": "https://www.jutarnji.hr/sportske/nogomet/hajduk-bez-rokija-brajkovica-ozljeda-uoci-uzvrata-s-pafosom-na-cipru-15731597",
-          "source": "Jutarnji list"
-        },
-        {
-          "title": "Katastrofalne vijesti za Hajduk: Sumnja se na tešku ozljedu važnog aduta, mogao bi izbivati pola godine",
-          "snippet": "",
-          "url": "https://www.tportal.hr/sport/clanak/katastrofalne-vijesti-za-hajduk-sumnja-se-na-tesku-ozljedu-vaznog-aduta-mogao-bi-izbivati-pola-godine-20260726",
-          "source": "tportal.hr"
         }
       ],
       "link": "https://imtaqin.id/"

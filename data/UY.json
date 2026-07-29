@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-07-28 23:16:11",
+  "lastUpdate": "2026-07-29 00:11:05",
   "data": [
     {
       "title": "nafta",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 28 Jul 2026 15:40:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7wNcY4cZ-Qz906lkZRvHUIVIMj2XXJGpXMHkvVhnekCOTD9yT4Yz86H-eO5w",
       "pictureSource": "Reuters",
@@ -33,23 +33,36 @@
       "title": "club nacional de football",
       "trafficCount": "200+",
       "pubDate": "Tue, 28 Jul 2026 15:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_LZL-SzktIbxd0yK712dPKgW6NRNozOKjTG-XZF8VBKK6dQgtKm9bKCDQLZc",
+      "pictureSource": "OneFootball",
+      "relatedSearch": [
+        {
+          "title": "Colón wanted him, Rubén Botta now close to joining Nacional",
+          "snippet": "",
+          "url": "https://onefootball.com/es/noticias/colon-wanted-him-ruben-botta-now-close-to-joining-nacional-43198449",
+          "source": "OneFootball"
+        },
+        {
+          "title": "Colón wanted him but missed out: Rubén Botta close to Nacional",
+          "snippet": "",
+          "url": "https://onefootball.com/de/news/colon-wanted-him-but-missed-out-ruben-botta-close-to-nacional-43198449",
+          "source": "OneFootball"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "paramount",
       "trafficCount": "200+",
       "pubDate": "Tue, 28 Jul 2026 15:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2xYfDsuqfMD72Ak0JJngj0es0c1KqY7MbuFB-XOtvSbhig1rDwjRvZy1kKBU",
-      "pictureSource": "The New York Times",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYKmWS8oJJMrUxRCJ1xZgQWVtUmh8V5lJsJAWu3qo97Y7q5-2rDYNeyoUxrXY",
+      "pictureSource": "Deadline",
       "relatedSearch": [
         {
-          "title": "Opinion | A Setback for the MAGA Media Takeover",
+          "title": "Ari Emanuel Backs Paramount-WBD Deal In WSJ Op-Ed, Blasts States’ Antitrust Lawsuit As “Trash”",
           "snippet": "",
-          "url": "https://www.nytimes.com/2026/07/27/opinion/media-ellison-paramount.html",
-          "source": "The New York Times"
+          "url": "https://deadline.com/2026/07/ari-emanuel-paramount-warner-bros-discovery-merger-wsj-1237006229/",
+          "source": "Deadline"
         },
         {
           "title": "Ari Emanuel Supports Paramount-Warners Deal in New Op-Ed",
@@ -58,10 +71,10 @@
           "source": "The Hollywood Reporter"
         },
         {
-          "title": "Could Cable TV, That Vestige Of Bygone Media Glory, Undo The Paramount-WBD Merger?",
+          "title": "Opinion | A Setback for the MAGA Media Takeover",
           "snippet": "",
-          "url": "https://deadline.com/2026/07/cable-tv-issue-paramount-wbd-merger-1237002560/",
-          "source": "Deadline"
+          "url": "https://www.nytimes.com/2026/07/27/opinion/media-ellison-paramount.html",
+          "source": "The New York Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -70,26 +83,54 @@
       "title": "futbol",
       "trafficCount": "100+",
       "pubDate": "Tue, 28 Jul 2026 15:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTRhYcaJZJjT6zQYNm_h1L_UUaB-77CiZoJXokyF3ciUHYGUxSmGIbeIh1mE0",
-      "pictureSource": "la diaria",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe2BUUFIu4OolgAAseQWnLq-O-2TzkBwKumaGeN-mpgOT_s_gk4mAqMmwRbxg",
+      "pictureSource": "El Observador",
       "relatedSearch": [
         {
-          "title": "¿Mundial a la venta? Infantino impulsa una FIFA con inversores privados",
+          "title": "El fútbol mundial cambió: los que no cambian son los argentinos",
           "snippet": "",
-          "url": "https://ladiaria.com.uy/deporte/articulo/2026/7/mundial-a-la-venta-infantino-impulsa-una-fifa-con-inversores-privados/",
+          "url": "https://www.elobservador.com.uy/espana/miradas/el-futbol-mundial-cambio-lo-que-no-cambian-son-los-argentinos-n6052216",
+          "source": "El Observador"
+        },
+        {
+          "title": "La idea de un estilo",
+          "snippet": "",
+          "url": "https://seul.ar/la-nuestra-futbol-argentino/",
+          "source": "Revista Seúl"
+        },
+        {
+          "title": "Guille Franco regresa a San Lorenzo como nuevo Director de Fútbol",
+          "snippet": "",
+          "url": "https://www.beinsports.com/es-us/football/articles/una-figura-ligada-a-m%C3%A9xico-vuelve-al-club-donde-comenz%C3%B3-todo-para-asumir-un-desaf%C3%ADo-completamente-diferente-2026-07-28",
+          "source": "beIN SPORTS"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "dgo",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 28 Jul 2026 15:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYZmhjmGITEX0maCGjQzSPYtZEQlx53XTDi2qVfqhXglwF6DDzEL1V8Czd9_o",
+      "pictureSource": "Club Nacional de Football",
+      "relatedSearch": [
+        {
+          "title": "Información para los hinchas que viajarán al partido ante Tigre",
+          "snippet": "",
+          "url": "https://nacional.uy/noticias/informacion-para-los-hinchas-que-viajaran-al-partido-ante-tigre",
+          "source": "Club Nacional de Football"
+        },
+        {
+          "title": "Con cambios y bajas: el once de Nacional que perfila Bava para ir por la hazaña ante Tigre",
+          "snippet": "",
+          "url": "https://www.montevideo.com.uy/Deportes/Con-cambios-y-bajas-el-once-de-Nacional-que-perfila-Bava-para-ir-por-la-hazana-ante-Tigre-uc969784",
+          "source": "Montevideo Portal"
+        },
+        {
+          "title": "A todo o nada: Nacional visita a Tigre por la Copa Sudamericana",
+          "snippet": "",
+          "url": "https://ladiaria.com.uy/deporte/articulo/2026/7/a-todo-o-nada-nacional-visita-a-tigre-por-la-copa-sudamericana/",
           "source": "la diaria"
-        },
-        {
-          "title": "La UEFA estalla ante la idea de FIFA de vender el Mundial",
-          "snippet": "",
-          "url": "https://as.com/futbol/internacional/guerra-fifa-uefa-por-la-propiedad-del-mundial-f202607-n/",
-          "source": "Diario AS"
-        },
-        {
-          "title": "El plan de la FIFA para la Copa del Mundo que generó un cortocircuito con UEFA y abrió un debate en el fútbol mundial",
-          "snippet": "",
-          "url": "https://www.infobae.com/deportes/2026/07/28/el-plan-de-la-fifa-para-la-copa-del-mundo-que-genero-un-cortocircuito-con-uefa-y-abrio-un-debate-en-el-futbol-mundial/",
-          "source": "Infobae"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -114,10 +155,10 @@
           "source": "Club Nacional de Football"
         },
         {
-          "title": "A todo o nada: Nacional visita a Tigre por la Copa Sudamericana",
+          "title": "Tigre pierde con Nacional de Uruguay por un lugar en los octavos de la Copa Sudamericana",
           "snippet": "",
-          "url": "https://ladiaria.com.uy/deporte/articulo/2026/7/a-todo-o-nada-nacional-visita-a-tigre-por-la-copa-sudamericana/",
-          "source": "la diaria"
+          "url": "https://www.infobae.com/deportes/2026/07/28/tigre-se-enfrentara-con-nacional-de-uruguay-por-un-lugar-en-los-octavos-de-la-copa-sudamericana-hora-tv-y-formaciones/",
+          "source": "Infobae"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -126,26 +167,26 @@
       "title": "primera división",
       "trafficCount": "200+",
       "pubDate": "Tue, 28 Jul 2026 13:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeZ1neIYl_WCHVMqs6PnJk9CgSL4rc2A7kGGamM3SPRJUz37zlod7KXhVNEWg",
-      "pictureSource": "Infobae",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQw62Eqt7c-2OLGcJ4uyy4a2HCzj3TDI0cgNo1L_lsTU4uFKFiUCvZTZpXAr54",
+      "pictureSource": "Diario AS",
       "relatedSearch": [
         {
-          "title": "Arranca la 2ª fecha del Torneo Clausura con San Lorenzo-Gimnasia de Mendoza y Banfield-Sarmiento: hora, TV y formaciones",
+          "title": "José María Muñoz reafirma el modelo del Málaga",
           "snippet": "",
-          "url": "https://www.infobae.com/deportes/2026/07/28/arranca-la-2-fecha-del-torneo-clausura-con-san-lorenzo-gimnasia-de-mendoza-y-banfield-sarmiento-hora-tv-y-formaciones/",
-          "source": "Infobae"
+          "url": "https://as.com/futbol/primera/jose-maria-munoz-reafirma-el-modelo-del-malaga-f202607-n/",
+          "source": "Diario AS"
         },
         {
-          "title": "ESPN Premium transmitirá los partidos más destacados de la segunda fecha del Torneo Clausura",
+          "title": "La Liga da la bienvenida a Segunda al Celta Fortuna y los demás ascendidos",
           "snippet": "",
-          "url": "https://television.com.ar/noticias/streaming/espn-premium-transmitira-los-partidos-mas-destacados-de-la-segunda-fecha-del-torneo-clausura/",
-          "source": "Inicio - Television"
+          "url": "https://www.lavozdegalicia.es/noticia/gradario/2026/07/28/liga-da-bienvenida-segunda-celta-fortuna-demas-ascendidos/00031785246581608384667.htm",
+          "source": "La Voz de Galicia"
         },
         {
-          "title": "Las probables formaciones de los partidos del martes",
+          "title": "El Málaga, recibido por LaLiga en un acto para los ascendidos a Primera",
           "snippet": "",
-          "url": "https://fm977.com.ar/articulo/2026/07/las-probables-formaciones-de-los-partidos-del-martes.php",
-          "source": "La Señal FM - 97.7"
+          "url": "https://www.diariosur.es/malagacf/malaga-recibido-laliga-acto-ascendidos-primera-20260728185149-nt.html",
+          "source": "Diario Sur"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -154,15 +195,9 @@
       "title": "aston villa - real sociedad",
       "trafficCount": "200+",
       "pubDate": "Tue, 28 Jul 2026 12:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvljU0S-OPBAd84liE6r7yaOzOASUDD3xtJ4FzMF1eneIiZfQCbQAfXy4Fg1c",
-      "pictureSource": "Aston Villa",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwRnzT_Ppfpr2FZEGSRPLCDB0jVez7I4zLTygDp8VKyjO53m16DIlUH0lXIFs",
+      "pictureSource": "The Sports Bank",
       "relatedSearch": [
-        {
-          "title": "Aston Villa Football Club - The Official Club Website",
-          "snippet": "",
-          "url": "https://www.avfc.co.uk/news/2026/july/27/memberships-prematch-how-to-watch-villa-v-sociedad/",
-          "source": "Aston Villa"
-        },
         {
           "title": "Aston Villa Team News vs Real Sociedad: Kamara, Garnacho, Abraham",
           "snippet": "",
@@ -174,6 +209,40 @@
           "snippet": "",
           "url": "https://www.birminghamworld.uk/sport/football/aston-villa/live-villa-2-real-sociedad-2-madjo-in-on-act-to-bring-villa-level-8826518?itm_source=internal&itm_campaign=breaking-news-ticker&itm_channel=section_banner&itm_content=0",
           "source": "BirminghamWorld"
+        },
+        {
+          "title": "Aston Villa vs Real Sociedad Predictions, Lineups, Odds & Tips: La Real edge to victory",
+          "snippet": "",
+          "url": "https://www.goal.com/en/betting/tips/aston-villa-vs-real-sociedad-predictions-28-07-2026/A%3Ablta26c61f0af8ad652",
+          "source": "Goal.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "policía",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 28 Jul 2026 11:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrwRkfluar7XPBGN2FImlVcgrXtXyNuLHXZH9mH6WDKxMadZCPgwHDOtJXUBY",
+      "pictureSource": "subrayado.com.uy",
+      "relatedSearch": [
+        {
+          "title": "La Policía detuvo a un hombre por el intento de secuestro de un joven en Piedras Blancas",
+          "snippet": "",
+          "url": "https://www.subrayado.com.uy/la-policia-detuvo-un-hombre-el-intento-secuestro-un-joven-piedras-blancas-n1013921",
+          "source": "subrayado.com.uy"
+        },
+        {
+          "title": "Detuvieron a dos sospechosos por el intento de secuestro frustrado en Piedras Blancas",
+          "snippet": "",
+          "url": "https://www.telenoche.com.uy/sociedad/detuvieron-dos-sospechosos-el-intento-secuestro-frustrado-piedras-blancas-123",
+          "source": "Telenoche"
+        },
+        {
+          "title": "Un hombre fue secuestrado por tres falsos policías armados en Montevideo",
+          "snippet": "",
+          "url": "https://www.debate.com.uy/seguridad/un-hombre-fue-secuestrado-por-tres-falsos-policias-armados-en-montevideo-20260724-0017.html",
+          "source": "El Debate - Uruguay"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -198,60 +267,10 @@
           "source": "subrayado.com.uy"
         },
         {
-          "title": "Policía dio detalles del caso de la mujer que apareció muerta en la ruta y después fue atropellada por un auto",
+          "title": "Conductora encontró a una mujer muerta en la ruta, solicitó ayuda a un auto que pasaba, pero el vehículo no se detuvo y embistió a la fallecida",
           "snippet": "",
-          "url": "https://www.elpais.com.uy/informacion/policiales/policia-dio-detalles-del-caso-de-la-mujer-que-aparecio-muerta-en-la-ruta-y-despues-fue-atropellada-por-un-auto",
-          "source": "EL PAÍS Uruguay"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "dale que va",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 28 Jul 2026 11:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6Httw3brGgk7ioGkRbqv0DamqgQsTWgmbP-zwkJelecNaaiI3ibTLfoBlLRA",
-      "pictureSource": "la diaria",
-      "relatedSearch": [
-        {
-          "title": "“La esencia es la misma”: Dale que va regresa a la televisión por la pantalla de Canal 5",
-          "snippet": "",
-          "url": "https://ladiaria.com.uy/cultura/articulo/2026/7/la-esencia-es-la-misma-dale-que-va-regresa-a-la-television-por-la-pantalla-de-canal-5/",
-          "source": "la diaria"
-        },
-        {
-          "title": "\"Dale que va\" vuelve a la TV: deja Canal 10 y desembarca en nueva pantalla con cambios en la conducción",
-          "snippet": "",
-          "url": "https://www.elpais.com.uy/tvshow/tv-y-radio/dale-que-va-vuelve-a-la-tv-deja-canal-10-y-desembarca-en-nueva-pantalla-y-cambios-en-la-conduccion",
-          "source": "EL PAÍS Uruguay"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "bono",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 28 Jul 2026 08:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvC2amwkq5wxZmY0RMTjULOYrYrApEq7Kzkluc1FOemag10RxWLIMMlQwxIRM",
-      "pictureSource": "El Observador",
-      "relatedSearch": [
-        {
-          "title": "Uruguay vuelve al mercado internacional de deuda con reapertura de bonos globales en pesos y en dólares",
-          "snippet": "",
-          "url": "https://www.elobservador.com.uy/economia-y-empresas/uruguay-vuelve-al-mercado-internacional-deuda-reapertura-bonos-globales-pesos-y-dolares-n6052262",
-          "source": "El Observador"
-        },
-        {
-          "title": "El gobierno explora el interés de inversores para volver a los mercados internacionales de deuda",
-          "snippet": "",
-          "url": "https://www.elpais.com.uy/negocios/noticias/el-gobierno-explora-el-interes-de-inversores-para-volver-a-los-mercados-internacionales-de-deuda",
-          "source": "EL PAÍS Uruguay"
-        },
-        {
-          "title": "Una de cal y una de arena: ¿qué pasó con las últimas licitaciones de deuda?",
-          "snippet": "",
-          "url": "https://ladiaria.com.uy/economia/articulo/2026/7/una-de-cal-y-una-de-arena-que-paso-con-las-ultimas-licitaciones-de-deuda/",
-          "source": "la diaria"
+          "url": "https://www.teledoce.com/telemundo/policiales/conductora-encontro-a-una-mujer-muerta-en-la-ruta-solicito-ayuda-a-un-auto-que-pasaba-pero-el-vehiculo-no-se-detuvo-y-embistio-a-la-fallecida/",
+          "source": "Teledoce.com"
         }
       ],
       "link": "https://imtaqin.id/"

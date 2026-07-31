@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-07-31 19:14:21",
+  "lastUpdate": "2026-07-31 20:36:47",
   "data": [
     {
       "title": "μπέρμιγχαμ σίτι εναντίον μπαρτσελόνα",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 31 Jul 2026 11:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCi-RhDlwrJ_BwZsHr2JFOpDdmTgWNXTWJza7Hddf7YXYkdQSj07_XsyBtqTY",
       "pictureSource": "Vietnam.vn",
@@ -31,7 +31,7 @@
     },
     {
       "title": "birmingham vs barcelona",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 31 Jul 2026 11:00:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAFEW1jhvYCnRkEewSgpA2HrJLHlKEl2XtIRiHDIevRfGp73GWo1P5qTkSDOg",
       "pictureSource": "Sports Illustrated",
@@ -59,28 +59,28 @@
     },
     {
       "title": "apoel",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 31 Jul 2026 10:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxYkPIJKbfRx6U3Wt2BAnuMP-A6jde3PXRN-yIURJGH6GuVTwlDbSYd4GHh7E",
-      "pictureSource": "https://sports.rik.cy/",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKMAmTBNEAiBelC96CPDb_ZIdZBoVGLd61tY8ciNQEWn72wvhLMCsUvsdnrkg",
+      "pictureSource": "24Sports & News",
       "relatedSearch": [
         {
-          "title": "ΑΠΟΕΛ: Δανεικός στον Ηρακλή ο Βίτορ Μιρ",
+          "title": "ΑΠΟΕΛ: Ήττα από την πιο έτοιμη Φορτούνα Σιτάρντ",
           "snippet": "",
-          "url": "https://sports.rik.cy/article/2026/7/31/apoel-daneikos-ston-erakle-o-bitor-mir/",
-          "source": "https://sports.rik.cy/"
-        },
-        {
-          "title": "Κοντά στον Ηρακλή ο Βίτορ Μιρ",
-          "snippet": "",
-          "url": "https://m.24sports.com.cy/gr/sports/podosfairo/kypros/a-katigoria/apoel/konta-ston-irakli-o-bitor-mir",
+          "url": "https://m.24sports.com.cy/gr/sports/podosfairo/kypros/a-katigoria/apoel/apoel-itta-apo-tin-pio-etoimi-fortoyna-sitarnt",
           "source": "24Sports & News"
         },
         {
-          "title": "«Κοντά στον Ηρακλή ο Βίτορ Μιρ»",
+          "title": "Δυνατό crash test ετοιμότητας με Φορτούνα Σιτάρντ",
           "snippet": "",
-          "url": "https://sportime.sigmalive.com/konta-ston-irakli-o-bitor-mir/",
+          "url": "https://sportime.sigmalive.com/dynato-crash-test-etoimotitas-me-fortoyna-sitarnt/",
           "source": "Sportime/SigmaLive"
+        },
+        {
+          "title": "Η εντεκάδα του ΑΠΟΕΛ",
+          "snippet": "",
+          "url": "https://www.kerkida.net/eidiseis/a-katigoria/apoel/i-entekada-toy-apoel-142",
+          "source": "Kerkida"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,29 +89,48 @@
       "title": "τουρκία",
       "trafficCount": "100+",
       "pubDate": "Fri, 31 Jul 2026 09:40:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3XbBB_izmavTtX-ku63Xl2ty3QTdQL9jY-1pfvRTDCPeI4IrKESAxteuoa10",
+      "pictureSource": "Kathimerini.com.cy",
+      "relatedSearch": [
+        {
+          "title": "Η Τουρκία ζητά διαβεβαιώσεις από τον Λίβανο μετά τη συμφωνία με Κύπρο",
+          "snippet": "",
+          "url": "https://m.kathimerini.com.cy/gr/politiki/i-toyrkia-zita-diabebaiwseis-apo-ton-libano-meta-ti-symfonia-me-kypro",
+          "source": "Kathimerini.com.cy"
+        },
+        {
+          "title": "Ερντογάν: Συνεχίζουμε τη στήριξη και την ανοικοδόμηση του Λιβάνου",
+          "snippet": "",
+          "url": "https://www.sigmalive.com/news/all/1324088/erntoghan-sinekhizoyme-ti-stiriksi-kai-tin-anoikodomisi-toy-livanoy",
+          "source": "Sigmalive"
+        },
+        {
+          "title": "Θέλουμε συμμετοχή στις πρωτοβουλίες για διασφάλιση της κυριαρχίας του Λιβάνου λέει ο Ερντογάν",
+          "snippet": "",
+          "url": "https://www.cna.org.cy/article/10677740/theloyme-symmetochi-stis-protovoylies-gia-diasfalisi-tis-kyriarchias-toy-livanoy-leei-o-erntogan",
+          "source": "ΚΥΠΕ"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "πατέρασ",
       "trafficCount": "200+",
       "pubDate": "Fri, 31 Jul 2026 07:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSL57I7JJ3QomJa04aZSo0Y41wXZvyw1TNVxF7-5FBx0I6cuztsW0GIDEJxNU0",
-      "pictureSource": "Philenews",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiBUslccLwDqxz1VNeVbiD6AhNho9rJQhuojRZbVT-zKoVAKF7MmEDlCjo3rg",
+      "pictureSource": "Sigmalive",
       "relatedSearch": [
-        {
-          "title": "Θάνατος δύο αδελφών: Κόλλησε σε νομικά ζητήματα η απόφαση για το αν θα πάει στην κηδεία των παιδιών του ο πατέρας – Παραμένουν στις Βάσεις οι σοροί",
-          "snippet": "",
-          "url": "https://www.philenews.com/kipros/koinonia/article/1754021/thanatos-dio-adelfon-kollise-se-nomika-zitimata-i-apofasi-gia-to-an-tha-pai-stin-kidia-ton-pedion-tou-o-pateras-paramenoun-stis-vasis-i-sori/",
-          "source": "Philenews"
-        },
         {
           "title": "Τραγωδία Ξυλοφάγου: Αύριο η απόφαση αν θα μεταβεί στην κηδεία ο πατέρας",
           "snippet": "",
           "url": "https://www.sigmalive.com/news/local/1324019/traghodia-ksilofaghoy-aurio-i-apofasi-ghia-aitima-apofilakisis-toy-patera",
           "source": "Sigmalive"
+        },
+        {
+          "title": "Θάνατος δύο αδελφών: Κόλλησε σε νομικά ζητήματα η απόφαση για το αν θα πάει στην κηδεία των παιδιών του ο πατέρας – Παραμένουν στις Βάσεις οι σοροί",
+          "snippet": "",
+          "url": "https://www.philenews.com/kipros/koinonia/article/1754021/thanatos-dio-adelfon-kollise-se-nomika-zitimata-i-apofasi-gia-to-an-tha-pai-stin-kidia-ton-pedion-tou-o-pateras-paramenoun-stis-vasis-i-sori/",
+          "source": "Philenews"
         },
         {
           "title": "Νέα στοιχεία στη δίκη για τον θάνατο των δύο παιδιών στην Ξυλοφάγου – Αύριο η απόφαση για το αίτημα του πατέρα να παραστεί στην κηδεία",
@@ -154,15 +173,9 @@
       "title": "πυρκαγιά",
       "trafficCount": "500+",
       "pubDate": "Fri, 31 Jul 2026 05:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMP9v9j2h1FYseTTmHfscUp3Q_NKokY_R9t-zKfzt8LEA0O8TJJXLtnVdjjVM",
-      "pictureSource": "ΠΟΛΙΤΗΣ",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR54Z2KfWCTLcz1KNQ9Q47YSCBrTA9dwhOVzJeUqP8HDW7SJapoPZUcFdcrwcE",
+      "pictureSource": "Philenews",
       "relatedSearch": [
-        {
-          "title": "Πυρκαγιά: Συγγνώμη από ΥΠΑΜ και αρχηγό Εθνικής Φρουράς – Μετακίνηση του πεδίου βολής ζητούν οι κοινότητες",
-          "snippet": "",
-          "url": "https://www.politis.com.cy/politis-news/cyprus/1023070/paradokhes-meta-tin-pirkaghia-simmakhiki-khwra-simmetikhe-stin-askisi-to-ypam-kai-okhi-to-yp-georghias-analamvanei-tin-kataghrafi-ton-zimiwn",
-          "source": "ΠΟΛΙΤΗΣ"
-        },
         {
           "title": "Πυρκαγιά Καλού Χωριού: Έκθεση γεγονότων από Στεφάνου",
           "snippet": "",
@@ -170,17 +183,23 @@
           "source": "Philenews"
         },
         {
-          "title": "Φωτιά Καλού Χωριού: Με έγκριση του ΓΕΕΦ η συνεργασία με Αμερικανούς",
+          "title": "Συγνώμη Πάλμα για την φωτιά - Οδικός χάρτης για μέτρα και αποζημιώσεις",
           "snippet": "",
-          "url": "https://m.kathimerini.com.cy/gr/kypros/fotia-kaloy-xorioy-me-egkrisi-toy-geef-i-synergasia-me-amerikanoys",
+          "url": "https://m.kathimerini.com.cy/gr/kypros/palmas-mesa-tis-allis-bdomadas-to-porisma-gia-ti-fotia-sto-pedio-bolis",
           "source": "Kathimerini.com.cy"
+        },
+        {
+          "title": "«Ήταν προγραμματισμένη διεθνής στρατιωτική εκπαίδευση»-Η θέση ΣΑΚΣ για φωτιά",
+          "snippet": "",
+          "url": "https://www.sigmalive.com/news/all/1323874/itan-proghrammatismeni-diethnis-stratiotiki-ekpaidefsi-h-thesi-saks-ghia-fotia",
+          "source": "Sigmalive"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "king evelthon beach hotel and resort",
-      "trafficCount": "500+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 31 Jul 2026 03:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQb-hebdJOD1n_F1Y_RWpaWDgv4zdXyuYXGipUv_zPtcRMqxUG0GXbombrqpmc",
       "pictureSource": "Kathimerini.com.cy",
@@ -252,12 +271,6 @@
           "snippet": "",
           "url": "https://www.kerkida.net/eidiseis/b-katigoria/anorthosi/pire-ioannoy-apo-tin-anorthosi",
           "source": "Kerkida"
-        },
-        {
-          "title": "Πραγματοποιήθηκε η κλήρωση της Β' Κατηγορίας",
-          "snippet": "",
-          "url": "https://m.24sports.com.cy/gr/sports/podosfairo/kypros/b-katigoria/pragmatopoiithike-i-klirosi-tis-b-katigorias",
-          "source": "24Sports & News"
         }
       ],
       "link": "https://imtaqin.id/"

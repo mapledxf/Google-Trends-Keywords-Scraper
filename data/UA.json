@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-08-02 20:36:46",
+  "lastUpdate": "2026-08-02 21:30:58",
   "data": [
     {
       "title": "том холланд",
-      "trafficCount": "500+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 2 Aug 2026 13:20:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJ_FL-V4w-jA-jByWvBhlWpXrTaKbKw5Q0PsUxc7vZqioyIeFl2yiuPu1ATt4",
       "pictureSource": "NV",
@@ -31,7 +31,7 @@
     },
     {
       "title": "мінімальна заробітна плата",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 2 Aug 2026 12:40:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR97DdW7hzp6tBrLSpMZF7Cv0c_fEVOpyjxUEoo-3mrxX9cnVMbRlX7pyzfrp4",
       "pictureSource": "Судово-юридична газета",
@@ -143,11 +143,30 @@
     },
     {
       "title": "укренерго",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 2 Aug 2026 11:40:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpuxSCkTgNQU2LMwNpfD88ZiJ6pwZtDkIgwV1BsNgqRbqmdcq_Flt0fnZGL0U",
+      "pictureSource": "UA.NEWS",
+      "relatedSearch": [
+        {
+          "title": "Укренерго дало прогноз на відключення 3 серпня",
+          "snippet": "",
+          "url": "https://ua.news/ua/ukraine/ukrenergo-dalo-prognoz-na-vidkliuchennia-3-serpnia",
+          "source": "UA.NEWS"
+        },
+        {
+          "title": "Графіки відключень світла в Україні: чи застосовуватимуться 3 серпня",
+          "snippet": "",
+          "url": "https://fakty.com.ua/ua/ukraine/20260802-grafiki-vidklyuchen-svitla-v-ukrayini-chi-zastosovuvatimutsya-3-serpnya/",
+          "source": "Факти ICTV"
+        },
+        {
+          "title": "У понеділок відключень світла не прогнозується, - Укренерго",
+          "snippet": "",
+          "url": "https://lb.ua/society/2026/08/02/756230_ponedilok_vidklyuchen_svitla.html",
+          "source": "LB.ua"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {

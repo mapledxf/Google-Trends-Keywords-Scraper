@@ -1,259 +1,246 @@
 {
-  "lastUpdate": "2026-08-02 23:29:59",
+  "lastUpdate": "2026-08-03 01:07:22",
   "data": [
     {
-      "title": "被害",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 2 Aug 2026 16:20:00 -0700",
+      "title": "ボストン・レッドソックス",
+      "trafficCount": "5000+",
+      "pubDate": "Sun, 2 Aug 2026 17:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQH8rlJdjQk7c__MAH4O9zvCpFepAqSL3rn_i9bwRxIbVLgz_TJnrJkx6UdtbQ",
+      "pictureSource": "Yahoo!ニュース",
+      "relatedSearch": [
+        {
+          "title": "スクバル獲得報道 山本由伸は驚き",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/pickup/6590272",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "日米通算13勝プロがドジャース戦を豪華俳優陣と生観戦 試合後には山本由伸と食事会「久しぶりに色々話せてめっちゃ楽しかった」",
+          "snippet": "",
+          "url": "https://article.auone.jp/detail/1/6/10/507_10_r_20260803_1785709231948849",
+          "source": "au Webポータル"
+        },
+        {
+          "title": "ドジャース 山本由伸 8回3失点も7敗目 吉田と大リーグで初対戦",
+          "snippet": "",
+          "url": "https://news.web.nhk/newsweb/na/na-k10015194191000",
+          "source": "NHKニュース"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "日経平均株価",
+      "trafficCount": "10000+",
+      "pubDate": "Sun, 2 Aug 2026 17:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3aD7uMtxtbQc4Ea2xL3pu2soUFzIMDfIO_GrV9ygsUL563ibJyPWYgmTAwds",
+      "pictureSource": "株探",
+      "relatedSearch": [
+        {
+          "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (8月3日記）",
+          "snippet": "",
+          "url": "https://kabutan.jp/news/marketnews/?b=n202608030030",
+          "source": "株探"
+        },
+        {
+          "title": "【テクニカル】日経平均株価テクニカル分析－下降トレンドラインが上値抵抗に",
+          "snippet": "",
+          "url": "https://www.gaitame.com/media/entry/2026/08/01/003526",
+          "source": "外為どっとコム"
+        },
+        {
+          "title": "伊藤智洋が読むマーケット・シナリオ【週間展望】 8月2日版",
+          "snippet": "",
+          "url": "https://kabutan.jp/news/marketnews/?b=n202608020040",
+          "source": "株探"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "東京エレクトロン株価",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 2 Aug 2026 17:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLmCmLn-_xmDa6O-fkYqv8lM5kmgVnA8Lf_IIOUXiWcKOenYZODi78OESZ9yE",
+      "pictureSource": "Yahoo!ファイナンス",
+      "relatedSearch": [
+        {
+          "title": "TEL、7月31日の株価は好決算で+6.24%高(LIMO)",
+          "snippet": "",
+          "url": "https://finance.yahoo.co.jp/news/detail/d47d057b696050cc49e96efe47f133796f9849f0",
+          "source": "Yahoo!ファイナンス"
+        },
+        {
+          "title": "東京エレクトロン株価急伸、「盟主」健在 業績と市場の両成長を好感",
+          "snippet": "",
+          "url": "https://www.nikkei.com/article/DGXZQOFL310HPTR30C26A7000000/",
+          "source": "日本経済新聞"
+        },
+        {
+          "title": "東エレク、上期経常を6％上方修正・最高益予想を上乗せ、上期配当も23円増額",
+          "snippet": "",
+          "url": "https://kabutan.jp/news/?b=k202607300117",
+          "source": "株探"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "アドバンテスト 株価",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 2 Aug 2026 17:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvb43mcz9W3XaDGtXoTuFOMJWE-XPkNw7I3zMJ-YRKEkDnxcIoF_vscGRtQLk",
+      "pictureSource": "Yahoo!ニュース",
+      "relatedSearch": [
+        {
+          "title": "当期益75％増…アドバンテストが通期上方修正、過去最高業績更新へ（ニュースイッチ）",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/8bbf5dd845ead5ca7591eb9945f177d331a9d843",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "今日の株価材料（新聞など、30日）アドテストの27年3月期、純利益76%増に上方修正",
+          "snippet": "",
+          "url": "https://www.nikkei.com/article/DGXZQOFL29CWA0Z20C26A7000000/",
+          "source": "日本経済新聞"
+        },
+        {
+          "title": "前場に注目すべき3つのポイント～アドバンテストのリバウンドを見極め～",
+          "snippet": "",
+          "url": "https://kabutan.jp/news/marketnews/?b=n202607300367",
+          "source": "株探"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "オリエンタルランド 株価",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 2 Aug 2026 17:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSaulpFQdzAJzbT9WhYawteoFs3cNAa43FSZ1E1wDGGU1nNqSdwagdvjFlWufs",
+      "pictureSource": "Yahoo!ファイナンス",
+      "relatedSearch": [
+        {
+          "title": "【アナリスト評価】ＯＬＣ、レーティング強気を継続、目標株価3,800円に引上げ（米系大手証券）(アイフィス株予報)",
+          "snippet": "",
+          "url": "https://finance.yahoo.co.jp/news/detail/fe3bca74b9b3539f44f8a5a3b22669d1045a26bd",
+          "source": "Yahoo!ファイナンス"
+        },
+        {
+          "title": "OLC目標株価3,800円に、米系大手が強気継続 アナリスト間で評価分かれる",
+          "snippet": "",
+          "url": "https://finance.biggo.jp/news/18a7f629-eb23-4879-b900-f8ab953cdc4f",
+          "source": "BigGo ファイナンス"
+        },
+        {
+          "title": "東京ディズニーの増収報告に「当たり前だろ！」“値上げ・値上げ・値上げ” でクオリティ低下、募る不満（週刊女性PRIME）",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/261106085a8814fc86416a31a14d376397ade07f",
+          "source": "Yahoo!ニュース"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ソニー株価",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 2 Aug 2026 17:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAfanqG_J0YTETwuiBasQehxsSRKQAqVExXI3UInCZKtcI6TROnQMvN8XuxfM",
+      "pictureSource": "EE Times Japan",
+      "relatedSearch": [
+        {
+          "title": "ソニー半導体は1Q過去最高益、スマホ市況停滞も主要顧客ら拡大：地震影響の見立ても言及（1/2 ページ）",
+          "snippet": "",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/31/news110.html",
+          "source": "EE Times Japan"
+        },
+        {
+          "title": "決算:ソニーＧの純利益17%増に上振れ 27年3月期、ゲーム好調",
+          "snippet": "",
+          "url": "https://www.nikkei.com/article/DGXZQOUB312LF0R30C26A7000000/",
+          "source": "日本経済新聞"
+        },
+        {
+          "title": "ソニーG、'26年度第1四半期は増収増益。モバイル向けイメージセンサやゲーム好調",
+          "snippet": "",
+          "url": "https://av.watch.impress.co.jp/docs/news/2129615.html",
+          "source": "AV Watch"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "イビデン 株価",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 2 Aug 2026 17:40:00 -0700",
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "退職",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 2 Aug 2026 16:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxnd-Ke4AZMZWBjEJ_2uAYOZO-m591ERjVAW4zD2tz1hsmPtwHLALyTbJC_yk",
-      "pictureSource": "産経ニュース",
+      "title": "ヤフーファイナンス",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 2 Aug 2026 17:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnBmF41RrcPnIv0fN19cMpldJEaHp-vjbhgTwAGMfdKLQmWYP4g1zScGNZnQY",
+      "pictureSource": "日本経済新聞",
       "relatedSearch": [
         {
-          "title": "夏季休暇を前に、退職後の不安を整理──退職代行モラエル、「夏の再出発相談キャンペーン」を8月31日まで実施",
+          "title": "日経平均株価、一時1200円安 戻り待ちの売り先行",
           "snippet": "",
-          "url": "https://www.sankei.com/pressrelease/prtimes/SWIS367CNNMURGSWVN2YRIKDCQ/",
-          "source": "産経ニュース"
+          "url": "https://www.nikkei.com/article/DGXZQOFL030FZ0T00C26A8000000/",
+          "source": "日本経済新聞"
         },
         {
-          "title": "退職金の平均相場はいくら？勤続年数・学歴別の平均相場と、定年前に確認すべき「平均値の落とし穴」（LIMO）",
+          "title": "〔東京株式〕反落＝AI中心に売り（3日前場寄り付き）(時事通信)",
           "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/0cc8e9dca5e1c926a59f6dc1fc383eac1e5f9485?page=2",
-          "source": "Yahoo!ニュース"
+          "url": "https://finance.yahoo.co.jp/news/detail/6d8d36b94ba3941a18a7709b13b13e15892dea1f",
+          "source": "Yahoo!ファイナンス"
         },
         {
-          "title": "【画像】退職金2000万円の手取りはいくら？一括・分割の税負担の違いを解説 1/2",
+          "title": "日経平均、一時１０００円超下落…６万３２００円台で推移",
           "snippet": "",
-          "url": "https://news.livedoor.com/article/image_detail/31967900/?img_id=55460405",
-          "source": "ライブドアニュース"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "平埜生成",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 2 Aug 2026 16:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnC3Utzd2MwFgvNlxD_1TZNH1zxy8avy0VNNWzkmQJV7Dp5_OrlMJjp8bZ1vw",
-      "pictureSource": "Yahoo!ニュース",
-      "relatedSearch": [
-        {
-          "title": "【風、薫る】演じながら急成長している直美役「上坂樹里」 大化けの背景にモデルと全然違う複雑な境遇（デイリー新潮）",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/56094cf2e1acb75a3a2b9b3900721241884edc69",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "明日の「風、薫る」第92回 りん奮闘も増える感染者…まさかの人物が援軍に＜8月4日＞",
-          "snippet": "",
-          "url": "https://www.sankei.com/article/20260803-JYXKLDEGVBAF3PIJH3V5WBNGRM/",
-          "source": "産経ニュース"
-        },
-        {
-          "title": "朝ドラヒロインが雰囲気ガラリ「パッと見わからなかった」「スタイル神だから」「かっこいい」上坂樹里が話題",
-          "snippet": "",
-          "url": "https://www.yomiuri.co.jp/culture/hochi/20260802064-OHT1T51248/",
+          "url": "https://www.yomiuri.co.jp/economy/20260803-GYT1T00072/",
           "source": "読売新聞"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "税額控除",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 2 Aug 2026 16:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3r7Rg00-AvHx8JUTif1R0HWhZimR090OrTThZryiFWplKakvUFZMKyA2Csbw",
-      "pictureSource": "自由民主党",
-      "relatedSearch": [
-        {
-          "title": "令和11年度本格導入「所得連動給付」「一律給付」と異なる画期的意義 | お知らせ | ニュース",
-          "snippet": "",
-          "url": "https://www.jimin.jp/news/information/213918.html",
-          "source": "自由民主党"
-        },
-        {
-          "title": "【給付付き税額控除】家計を助ける新制度、いつ始まる？現金給付と減税をめぐる最新動向を整理（LIMO）",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/4870498ed96bb748385f1617f24ce08d4d96376a?page=3",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "官房長官、車中泊や在宅避難者への支援指示",
-          "snippet": "",
-          "url": "https://www.nippon.com/ja/news/kd1456583057572888809/",
-          "source": "nippon.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "護衛艦",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 2 Aug 2026 16:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfFuDXktapMkLGZmwdFEFTDd1NOAWYtyZ0uZgc5rCuqXE9AzGZJJltMnlpFtU",
-      "pictureSource": "テレ朝NEWS",
-      "relatedSearch": [
-        {
-          "title": "シャワーセット自衛隊輸送機で被災地へ",
-          "snippet": "",
-          "url": "https://news.tv-asahi.co.jp/news_politics/articles/000523499.html",
-          "source": "テレ朝NEWS"
-        },
-        {
-          "title": "空母のような「巨大護衛艦」が爆速で熊本へ “海上物流拠点”となった様子が公開 ヘリ多数を同時に運用",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/500907b6ca0493bdcc9e4907a21e4fa9f5f6237b",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "自衛隊が仮設風呂開設 熱中症対策で浴槽は設けず 4日ぶり入浴の被災者「全て流れた」",
-          "snippet": "",
-          "url": "https://www.sankei.com/article/20260731-CIFZAGVCNFIKDJNE2WRMIQL4TM/",
-          "source": "産経ニュース"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "秋元優里",
+      "title": "太陽誘電 株価",
       "trafficCount": "500+",
-      "pubDate": "Sun, 2 Aug 2026 16:00:00 -0700",
+      "pubDate": "Sun, 2 Aug 2026 17:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMHC0xOn9lES78mOjexPaxDHdnxyuZtCRWUYuD6HKdCdz36hDccZC3rhekTkk",
+      "pictureSource": "株探",
+      "relatedSearch": [
+        {
+          "title": "太陽誘電について、野村証は保有割合が増加したと報告 [変更報告書No.110]",
+          "snippet": "",
+          "url": "https://kabutan.jp/news/marketnews/?b=n202607310698",
+          "source": "株探"
+        },
+        {
+          "title": "野村證券株式会社が太陽誘電株式会社＜6976＞株式の変更報告書を提出",
+          "snippet": "",
+          "url": "https://topics.smt.docomo.ne.jp/article/maonline/business/maonline-sh-s100ytdg",
+          "source": "ｄメニューニュース"
+        },
+        {
+          "title": "太陽誘電について、野村証は保有割合が減少したと報告 [変更報告書No.109]",
+          "snippet": "",
+          "url": "https://kabutan.jp/news/marketnews/?b=n202607290429",
+          "source": "株探"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "第一三共 株価",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 2 Aug 2026 17:40:00 -0700",
       "picture": "",
-      "pictureSource": "ｄメニューニュース",
-      "relatedSearch": [
-        {
-          "title": "TVから消えたフジテレビ“元人気女子アナ”、キャミソール＆日焼けした素肌に反響",
-          "snippet": "",
-          "url": "https://topics.smt.docomo.ne.jp/article/crankin/entertainment/crankin-18898203",
-          "source": "ｄメニューニュース"
-        },
-        {
-          "title": "フジ元アナの秋元優里さん、赤パンツ×黒タンクトップでイメージガラリ！「ギャップやばすぎ」「新鮮」「メロメロ」",
-          "snippet": "",
-          "url": "https://www.yomiuri.co.jp/culture/hochi/20260801064-OHT1T51237/",
-          "source": "読売新聞"
-        },
-        {
-          "title": "TVから消えたフジテレビ“元人気女子アナ”、キャミソール＆日焼けした素肌に反響 - エンタメ - ニュース",
-          "snippet": "",
-          "url": "https://www.crank-in.net/news/188982",
-          "source": "クランクイン！"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "黒柳徹子",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 2 Aug 2026 15:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSjD8Ba2V_jMu2UOmjJ5UpdLtIH0jyp9el8FBhaIXHseCpZYOBBbwfbqYnQQfY",
-      "pictureSource": "テレ朝NEWS",
-      "relatedSearch": [
-        {
-          "title": "磯野貴理子（62歳）、終活で「洗濯機」に続き“まさかの必需品”も処分「1年なんとかなってます」【徹子の部屋】",
-          "snippet": "",
-          "url": "https://news.tv-asahi.co.jp/news_geinou/articles/900196256.html",
-          "source": "テレ朝NEWS"
-        },
-        {
-          "title": "６２歳・磯野貴理子「江戸時代から続く」家業を明かす…「父が１５代目です」黒柳徹子も驚き「すごい！」",
-          "snippet": "",
-          "url": "https://topics.smt.docomo.ne.jp/article/hochi/entertainment/hochi-20260731-OHT1T51154",
-          "source": "ｄメニューニュース"
-        },
-        {
-          "title": "磯野貴理子「終活」の進捗 クレジットカード、口座、取引銀行をエンディングノートに「私、一人なので」（デイリースポーツ）",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/c5d3886d9f1ee95d1dd5d38f83cdc5ffcdd268cc",
-          "source": "Yahoo!ニュース"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "windy",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 2 Aug 2026 15:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSTIFHr5-Ozv-fmRoTwKCRJBWfNYk16aaeJCvRkVFqUGnN_nXT38bFE9PKkOQ",
-      "pictureSource": "Elkhorn Media Group",
-      "relatedSearch": [
-        {
-          "title": "Evacuations urged near Hagen Fire ahead of extreme weather; New Level 1 evacuations issued in Union Co.",
-          "snippet": "",
-          "url": "https://elkhornmediagroup.com/evacuations-urged-near-hagen-fire-ahead-of-extreme-weather/",
-          "source": "Elkhorn Media Group"
-        },
-        {
-          "title": "Firefighters advance in containing fires on Umatilla National Forest",
-          "snippet": "",
-          "url": "https://lagrandeobserver.com/2026/07/29/firefighters-advance-in-containing-fires-on-umatilla-national-forest/",
-          "source": "La Grande Observer"
-        },
-        {
-          "title": "Fire officials to discuss Umatilla County wildfires at public meeting",
-          "snippet": "",
-          "url": "https://eastoregonian.com/2026/07/31/fire-officials-to-discuss-paradise-hagen-and-horse-ridge-fires-at-public-meeting/",
-          "source": "East Oregonian"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ねこずみ うささわ",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 2 Aug 2026 15:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-0NplAByQY3vuy7SrkfujFp3o2NXA3ACgPkSSB6iohQHNaaNmrTXu4mm7uOk",
-      "pictureSource": "TBSラジオ",
-      "relatedSearch": [
-        {
-          "title": "「Sunday Heavens」販売開始！",
-          "snippet": "",
-          "url": "https://www.tbsradio.jp/articles/110840/",
-          "source": "TBSラジオ"
-        },
-        {
-          "title": "放送後記＆「『ねこずみ・うささわ』販売開始！」",
-          "snippet": "",
-          "url": "https://www.tbsradio.jp/articles/110858/",
-          "source": "TBSラジオ"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "井上清華",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 2 Aug 2026 15:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ja4E5w7SqPB3db6JE3JiAdxlnagcuboR1Ih3xvx9D3cPLyxYAN_gsFhcRR0",
-      "pictureSource": "Yahoo!ニュース",
-      "relatedSearch": [
-        {
-          "title": "本人に〝リアルくりまんじゅう〟を見せつける井上清華アナに反響「本当に嬉しそう」「せいかわ」（西スポWEB OTTO!）",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/e5af93d32b82095df348a8e79172f29cd2adcc4c",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "本人に〝リアルくりまんじゅう〟を見せつける井上清華アナに反響「本当に嬉しそう」「せいかわ」",
-          "snippet": "",
-          "url": "https://topics.smt.docomo.ne.jp/article/nishispo/entertainment/nishispo-1028283",
-          "source": "ｄメニューニュース"
-        },
-        {
-          "title": "山田五郎さん、“最後の授業”に臨んだ思い語る「メメント・モリの対句…」",
-          "snippet": "",
-          "url": "https://www.oricon.co.jp/news/2471412/",
-          "source": "オリコンニュース"
-        }
-      ],
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]

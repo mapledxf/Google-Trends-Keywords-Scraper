@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-08-07 17:12:27",
+  "lastUpdate": "2026-08-07 18:00:52",
   "data": [
     {
       "title": "град",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 7 Aug 2026 09:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSW8oZe1W1i4pbhW6vpN9oBluVoORQaaPHSRvXcUKJ4QEgqROamop3FAARzMzU",
       "pictureSource": "Новости Zakon.kz",
@@ -15,15 +15,15 @@
           "source": "Новости Zakon.kz"
         },
         {
-          "title": "В Алматы 8 августа температура взлетит до +33 °С",
+          "title": "Температура в Казахстане вырастет до +41 градуса из-за влияния воздушных масс из Ирана",
           "snippet": "",
-          "url": "https://www.gismeteo.kz/news/klimat/v-almaty-8-avgusta-temperatura-vzletit-do-33-s/",
-          "source": "Gismeteo"
+          "url": "https://www.pravda.ru/news/kazakhstan/2385684-kazakhstan-weather-august/",
+          "source": "Правда.Ру"
         },
         {
-          "title": "Казахстан раскалится до +41: страну накроет новая волна жары",
+          "title": "До +40 уже в выходные: какая погода ожидается в крупных городах Казахстана",
           "snippet": "",
-          "url": "https://24.kz/ru/news/incidents/784390-kazakhstan-raskalitsya-do-41-stranu-nakroet-novaya-volna-zhary",
+          "url": "https://24.kz/ru/news/social/784446-do-40-uzhe-v-vykhodnye-kakaya-pogoda-ozhidaetsya-v-krupnykh-gorodakh-kazakhstana",
           "source": "24.kz"
         }
       ],
@@ -31,7 +31,7 @@
     },
     {
       "title": "дорожно-транспортное происшествие",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 7 Aug 2026 07:50:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQecnqtv8oY7xgJPXQRTlqqgGIUbUOx1_o8OYJfdZr95WR5MzSdJ5vnoh6qX0I",
       "pictureSource": "ПроОрен",
@@ -117,15 +117,9 @@
       "title": "штормовое предупреждение",
       "trafficCount": "2000+",
       "pubDate": "Fri, 7 Aug 2026 03:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZciMnaKcyjmatdvGUYZbQHjgNZOXMVE5l6TZMeZ2AJOSfPOnO4SJWsPRLJQ4",
-      "pictureSource": "Погода Mail",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQACpX40VgLViUEVECEf7oCtDJK2oLwdqN2b_570Ih0tttD8dhXu-FCj-kmYhQ",
+      "pictureSource": "Дон24",
       "relatedSearch": [
-        {
-          "title": "На Ростовскую область надвигаются мощные дожди с градом",
-          "snippet": "",
-          "url": "https://pogoda.mail.ru/news/71916767/",
-          "source": "Погода Mail"
-        },
         {
           "title": "Штормовое предупреждение: на Ростовскую область надвигаются ливни с градом",
           "snippet": "",
@@ -137,6 +131,12 @@
           "snippet": "",
           "url": "https://www.panram.ru/news/prognoz/na-rostovskuyu-oblast-idyet-novyy-shtorm-/",
           "source": "Panram.ru"
+        },
+        {
+          "title": "Ростовские спасатели рассказали о погодных рисках 9 и 10 августа",
+          "snippet": "",
+          "url": "https://privet-rostov.ru/gorod/131871-rostovskie-spasateli-rasskazali-o-pogodnyh-riskah-9-i-10-avgusta.html",
+          "source": "Privet-Rostov.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,10 +245,10 @@
           "source": "Спорт Mail"
         },
         {
-          "title": "Тренер «Монтеррея» — о дубле Месси перед матчем с его «Интер Майами»: «Лео не хотел еще побыть в отпуске после ЧМ?»",
+          "title": "Месси стал лучшим бомбардиром в истории Кубка лиг",
           "snippet": "",
-          "url": "https://sport24.ru/football/news-871934-trener-monterreya-o-duble-messi-pered-matchem-s-yego-inter-mayami-leo-ne-khotel-yeshche-pobyt-v-otpuske-posle-chm",
-          "source": "Sport24.ru"
+          "url": "https://sport.ua/news/896199-messi-stal-luchshim-bombardirom-v-istorii-kubka-lig",
+          "source": "Sport.ua"
         }
       ],
       "link": "https://imtaqin.id/"

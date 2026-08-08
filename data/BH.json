@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-08 16:03:17",
+  "lastUpdate": "2026-08-08 16:46:28",
   "data": [
     {
       "title": "kuwait",
@@ -61,13 +61,19 @@
       "title": "السعودية",
       "trafficCount": "100+",
       "pubDate": "Sat, 8 Aug 2026 01:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqRTgkfAGeCIsCHCjA3l6f-DpWcsAVgWCzm6npg4SvBVGgLKytpworR4l_kUU",
-      "pictureSource": "الأيام البحرينية",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJrZC4aDQ2b7hUTZogpXlYHB_lapJsgFF1t09-1ZVE8VL5V4lfDiZxCiHmekg",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "مملكة البحرين تُدين الاعتداء الإيراني على ناقلة نفط تابعة لشركة أدنوك الاماراتية في مضيق هرمز",
+          "title": "هجوم على ناقلة نفط إماراتية في هرمز، وواشنطن تتوقع \"اتفاقاً قريباً\" مع طهران",
           "snippet": "",
-          "url": "https://www.alayam.com/online/local/1141711/News.html",
+          "url": "https://www.bbc.com/arabic/articles/cy8eyy7eyqwo",
+          "source": "BBC"
+        },
+        {
+          "title": "السعودية تدين وتستنكر بأشد العبارات استهداف ناقلة إماراتية أثناء عبورها مضيق هرمز",
+          "snippet": "",
+          "url": "https://www.alayam.com/online/international/1141717/News.html",
           "source": "الأيام البحرينية"
         },
         {
@@ -75,12 +81,6 @@
           "snippet": "",
           "url": "https://www.reuters.com/ar/world/B34276HDMJOQJEPEOVTXMFVXV4-2026-08-08/",
           "source": "Reuters"
-        },
-        {
-          "title": "قطر عن استهداف ناقلة نفط إماراتية: نرفض استخدام هرمز كورقة ضغط",
-          "snippet": "",
-          "url": "https://www.aa.com.tr/ar/%D8%AF%D9%88%D9%84%D9%8A/%D9%82%D8%B7%D8%B1-%D8%B9%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%86%D9%81%D8%B7-%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A%D8%A9-%D9%86%D8%B1%D9%81%D8%B6-%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D9%87%D8%B1%D9%85%D8%B2-%D9%83%D9%88%D8%B1%D9%82%D8%A9-%D8%B6%D8%BA%D8%B7-/4021824",
-          "source": "Anadolu Ajansı"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,26 +89,26 @@
       "title": "weather",
       "trafficCount": "1000+",
       "pubDate": "Fri, 7 Aug 2026 20:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxM18BxiQkJoUo_CzbNRN3MaeK4FVECEUl0PRBmm-pIvBeqIbtJie2csv1DfA",
-      "pictureSource": "KOLD",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_5G3dJJqYc4w6aNCtes6vuBN82N-kfIZMjI1DiAG24jbaypCUAtmWcR0J6wk",
+      "pictureSource": "KFOX",
       "relatedSearch": [
         {
-          "title": "Major heat risk today before midweek storms and 90’s return",
+          "title": "Overnight thunderstorm forces temporary closure of El Paso Zoo and Botanical Gardens",
           "snippet": "",
-          "url": "https://www.kold.com/2026/08/08/major-heat-risk-today-before-midweek-storms-90s-return/",
-          "source": "KOLD"
+          "url": "https://kfoxtv.com/news/local/overnight-thunderstorm-forces-temporary-closure-of-el-paso-zoo-and-botanical-gardens",
+          "source": "KFOX"
         },
         {
-          "title": "Cochise County Forecast",
+          "title": "El Paso Zoo temporarily closed due to weather-related damages",
           "snippet": "",
-          "url": "https://www.yahoo.com/news/videos/cochise-county-forecast-025616561.html",
-          "source": "Yahoo"
+          "url": "https://www.ktsm.com/local/el-paso-news/el-paso-zoo-temporarily-closed-due-to-weather-related-damages/",
+          "source": "KTSM 9 News"
         },
         {
-          "title": "Tracking rain chances coming to Arizona next week",
+          "title": "El Paso Zoo & Botanical Gardens closed temporarily due to storm damage",
           "snippet": "",
-          "url": "https://www.azfamily.com/video/2026/08/07/tracking-rain-chances-coming-arizona-next-week/",
-          "source": "AZ Family"
+          "url": "https://kvia.com/news/2026/08/08/el-paso-zoo-botanical-gardens-closed-temporarily-due-to-storm-damage/",
+          "source": "KVIA"
         }
       ],
       "link": "https://imtaqin.id/"

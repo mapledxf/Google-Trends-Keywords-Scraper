@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-08-09 14:01:44",
+  "lastUpdate": "2026-08-09 14:42:59",
   "data": [
+    {
+      "title": "ливерпуль – монако",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 9 Aug 2026 07:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5zWqXxzOdUpWhG0WJNivb7EKVLziQkZLw6ib2oNUELRhesmnzr_78PPPtfPk",
+      "pictureSource": "Vietnam.vn",
+      "relatedSearch": [
+        {
+          "title": "Анонс матча «Ливерпуль» — «Монако», 20:30, 9 августа: Ираола дебютирует на «Энфилде».",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/ru/nhan-dinh-liverpool-vs-monaco-20h30-ngay-9-8-iraola-ra-mat-anfield",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "«Ливерпуль» — «Монако»: Флориан Вирц забил гол на 29-й минуте",
+          "snippet": "",
+          "url": "https://www.championat.ru/football/news-6575946-liverpul-monako-florian-virc-zabil-gol-na-29-j-minute-v-tovarischeskom-matche.html",
+          "source": "www.championat.ru"
+        },
+        {
+          "title": "Головин заработал и реализовал пенальти в матче «Монако» с «Ливерпулем»",
+          "snippet": "",
+          "url": "https://www.sport-express.net/football/friendly/news/aleksandr-golovin-zarabotal-i-realizoval-penalti-v-matche-monako-s-liverpulem-2445801/",
+          "source": "sport-express.net"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "arsenal vs dortmund",
       "trafficCount": "100+",
@@ -87,7 +115,7 @@
     },
     {
       "title": "джохор дарул такзим – челси",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 9 Aug 2026 05:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2MPk-qOrEHVTTZ4hXQsXs5oq28eJq1gEHK4CCeNIiSftNxJLrxKHAsc_FqVE",
       "pictureSource": "Tengri Sport",
@@ -105,10 +133,10 @@
           "source": "Vesti.kz"
         },
         {
-          "title": "Хаби Алонсо принял решение по Дастану Сатпаеву на последний матч «Челси» в Азии",
+          "title": "«Челси» дважды забил с пенальти, но не смог обыграть малазийский клуб",
           "snippet": "",
-          "url": "https://amanvibe.kz/news/15277-habi-alonso-prinyal-reshenie-po-dastanu-satpaevu-na-poslednii-match-chelsi-v-azii/",
-          "source": "amanvibe.kz"
+          "url": "https://www.soccer.ru/news/1433463/dzhohor-darul-takzim-chelsi",
+          "source": "Soccer.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,10 +183,10 @@
           "source": "El Minnesota de Hoy"
         },
         {
-          "title": "El PSG ya ha contactado con el Barça por Ferran Torres, que quiere irse a París",
+          "title": "Ferran Torres da el 'Sí quiero' al PSG",
           "snippet": "",
-          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260808/1004214287/psg-contactado-barca-ferran-torres-quiere-irse-paris.html",
-          "source": "Mundo Deportivo"
+          "url": "https://www.sport.es/es/noticias/barca/ferran-torres-da-quiero-psg-133129339",
+          "source": "SPORT"
         },
         {
           "title": "Esperando la llamada de París",
@@ -173,9 +201,28 @@
       "title": "циклон",
       "trafficCount": "200+",
       "pubDate": "Sat, 8 Aug 2026 12:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8m63wOypoFZmS_TlkC07UK6tTBxfc_FfSsme7HWVzdg05r8Oi7LNshDSv_rI",
+      "pictureSource": "Ведомости",
+      "relatedSearch": [
+        {
+          "title": "В Москве после аномальной жары ожидается резкое похолодание",
+          "snippet": "",
+          "url": "https://www.vedomosti.ru/society/news/2026/08/09/1219801-moskve-poholodanie",
+          "source": "Ведомости"
+        },
+        {
+          "title": "Синоптик Тишковец: На предстоящей неделе москвичей ждет репетиция осени",
+          "snippet": "",
+          "url": "https://vfokuse.mail.ru/news/69635417-sinoptik-tishkovets-na-predstoyaschej-nedele-moskvichej-zhdet-repetitsiya-oseni/",
+          "source": "ВФокусе Mail"
+        },
+        {
+          "title": "Лето в Москве сдалось: +30,7 °C — последний пик жары, дальше столицу ждет арктический сюрприз",
+          "snippet": "",
+          "url": "https://www.pravda.ru/news/districts/2386484-moscow-weather-forecast-cold-snap/",
+          "source": "Правда.Ру"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -230,34 +277,6 @@
           "snippet": "",
           "url": "https://sport.news.am/rus/news/168197/manchester-siti-oderzhal-volevuyu-pobedu-nad-atletiko-video.html",
           "source": "NEWS.am Sport"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ференцварош – реал мадрид",
-      "trafficCount": "2000+",
-      "pubDate": "Sat, 8 Aug 2026 10:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVkuEDB3frgwAjGUdxtL7-SUBfUt55pc3FnlfY2CH6He1N-926NrUbMSc3o_c",
-      "pictureSource": "https://www.championat.ru/",
-      "relatedSearch": [
-        {
-          "title": "Ференцварош - Реал Мадрид, 8 августа 2026, результаты матча",
-          "snippet": "",
-          "url": "https://www.championat.ru/football/_other/tournament/6876/match/1336928/",
-          "source": "https://www.championat.ru/"
-        },
-        {
-          "title": "«Реал» высмеивают и обвиняют в жульничестве даже в товарищеских матчах. Заслужили?",
-          "snippet": "",
-          "url": "https://sport24.ru/football/article-872377-real-vysmeivayut-i-obvinyayut-v-zhulnichestve-dazhe-v-tovarishcheskikh-matchakh-zasluzhili",
-          "source": "Sport24.ru"
-        },
-        {
-          "title": "«Ференцварош» – «Реал Мадрид» 1-2. Смешанная зона",
-          "snippet": "",
-          "url": "https://fondoruso.ru/news/26315-ferenczvarosh-real-madrid-1-2-smeshannaya-zona/",
-          "source": "Fondoruso.ru"
         }
       ],
       "link": "https://imtaqin.id/"

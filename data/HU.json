@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-08-10 15:32:01",
+  "lastUpdate": "2026-08-10 16:25:13",
   "data": [
     {
       "title": "járvány",
-      "trafficCount": "200+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 10 Aug 2026 08:00:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDnwrnSJBsP4dbuSzBSLROo3SGAHvYyebdFV6GMSnMkQ40KNfZSXoZHY3E628",
       "pictureSource": "Dívány",
@@ -31,7 +31,7 @@
     },
     {
       "title": "demcsák zsuzsa",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 10 Aug 2026 07:10:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk4alG1uxXWJjal2yiDm8psiWPItl2JZ09YymuZK_wP3UXTrZZ2NfFPmJqNf0",
       "pictureSource": "Femina.hu",
@@ -133,10 +133,10 @@
           "source": "Reuters Connect"
         },
         {
-          "title": "The End Of Oak Street Reactions: Is Anne Hathaway's Dinosaur Movie Worth Watching?",
+          "title": "Anne Hathaway's Blue-and-Crimson Couture Moment Demands Attention",
           "snippet": "",
-          "url": "https://www.imdb.com/it/news/ni65965560/?ref_=nwc_art_perm",
-          "source": "IMDb"
+          "url": "https://elle.in/fashion/celebrity-style/anne-hathaways-blue-and-crimson-couture-moment-12247092",
+          "source": "Elle India"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -170,34 +170,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "új szó",
-      "trafficCount": "2000+",
-      "pubDate": "Mon, 10 Aug 2026 05:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNVFXgXwRDoF5AnrT6WZMNGIts0fU2UzK-tFH2WirOPYY46-vid2Q3m944sFM",
-      "pictureSource": "Új Szó",
-      "relatedSearch": [
-        {
-          "title": "A Slovnaft Magyarországon adózik, miközben nálunk üres a kassza és drága a benzin, állítják a Demokraták",
-          "snippet": "",
-          "url": "https://ujszo.com/kozelet/a-slovnaft-magyarorszagon-adozik-mikozben-nalunk-ures-a-kassza-es-draga-a-benzin-allitjak-a",
-          "source": "Új Szó"
-        },
-        {
-          "title": "A történeteknek is kell egy otthon",
-          "snippet": "",
-          "url": "https://ujszo.com/szalon/a-torteneteknek-is-kell-egy-otthon",
-          "source": "Új Szó"
-        },
-        {
-          "title": "Óriási baleset: 16 éves fiú vezette a fának ütköző kocsit, amiben hat fiatal ült (FOTÓK)",
-          "snippet": "",
-          "url": "https://ujszo.com/regio/oriasi-baleset-16-eves-fiu-vezette-a-fanak-utkozo-kocsit-amiben-hat-fiatal-ult-fotok",
-          "source": "Új Szó"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "ben affleck",
       "trafficCount": "200+",
       "pubDate": "Mon, 10 Aug 2026 05:10:00 -0700",
@@ -211,16 +183,44 @@
           "source": "Startlap"
         },
         {
-          "title": "Megrázó: Ben Affleck otthonában halt meg az édesanyja, itt az utolsó közös fotó",
+          "title": "Ben Affleck édesanyja a színész Los Angeles-i otthonában hunyt el",
           "snippet": "",
-          "url": "https://story.hu/kulfoldi-sztar/2026/08/10/ben-affleck-edesanyja-meghalt/fvy3nnp",
-          "source": "Story"
+          "url": "https://thegeek.hu/2026/08/10/ben-affleck-edesanyja-chris-affleck-elhunyt/",
+          "source": "theGeek"
         },
         {
           "title": "Megrázó: Ben Affleck otthonában halt meg az édesanyja, itt az utolsó közös fotó",
           "snippet": "",
-          "url": "https://www.hirstart.hu/hk/20260810_legyozte_a_gyilkos_kor_osszeomlott_a_gyasztol_ben_affleck",
-          "source": "Hírstart"
+          "url": "https://story.hu/kulfoldi-sztar/2026/08/10/ben-affleck-edesanyja-meghalt/fvy3nnp",
+          "source": "Story"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "új szó",
+      "trafficCount": "2000+",
+      "pubDate": "Mon, 10 Aug 2026 05:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNVFXgXwRDoF5AnrT6WZMNGIts0fU2UzK-tFH2WirOPYY46-vid2Q3m944sFM",
+      "pictureSource": "Új Szó",
+      "relatedSearch": [
+        {
+          "title": "A Slovnaft Magyarországon adózik, miközben nálunk üres a kassza és drága a benzin, állítják a Demokraták",
+          "snippet": "",
+          "url": "https://ujszo.com/kozelet/a-slovnaft-magyarorszagon-adozik-mikozben-nalunk-ures-a-kassza-es-draga-a-benzin-allitjak-a",
+          "source": "Új Szó"
+        },
+        {
+          "title": "Több százezer lakót érinthet az új szabályozás: erre kell figyelniük a panelházakban élőknek",
+          "snippet": "",
+          "url": "https://ujszo.com/kozelet/tobb-szazezer-lakot-erinthet-az-uj-szabalyozas-erre-kell-figyelniuk-a-panelhazakban-eloknek",
+          "source": "Új Szó"
+        },
+        {
+          "title": "A történeteknek is kell egy otthon",
+          "snippet": "",
+          "url": "https://ujszo.com/szalon/a-torteneteknek-is-kell-egy-otthon",
+          "source": "Új Szó"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,15 +229,9 @@
       "title": "mobile",
       "trafficCount": "200+",
       "pubDate": "Mon, 10 Aug 2026 05:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwq30Hjo5EPJpnIkzyy-y2_OSh0A-Jzb4YE8wKU4CoXB9Mc7HFHcxijKEiqwA",
-      "pictureSource": "Yahoo Finance",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwdGoz2FRDf7bHuie29Akt6dbN_IQSXYeMPJRg-6znNHN-x-fKOyxeQ7A2GQ0",
+      "pictureSource": "Barron's",
       "relatedSearch": [
-        {
-          "title": "T-Mobile's CEO Just Dismantled SpaceX's Starlink Mobile Ambitions as Musk's Firm Pours Billions Into Buying Spectrum: 'What's Their Differentiation?'",
-          "snippet": "",
-          "url": "https://finance.yahoo.com/technology/articles/t-mobiles-ceo-just-dismantled-003102806.html",
-          "source": "Yahoo Finance"
-        },
         {
           "title": "SpaceX Looms Large. These Are the Best Telecom Dividends.",
           "snippet": "",
@@ -245,10 +239,16 @@
           "source": "Barron's"
         },
         {
-          "title": "SpaceX is coming for T-Mobile, AT&T and Verizon",
+          "title": "Starlink mobile threat has been exaggerated, says T-Mobile CEO",
           "snippet": "",
-          "url": "https://www.theverge.com/science/975480/spacex-mobile-terrestrial-cellphone-company",
-          "source": "The Verge"
+          "url": "https://www.ft.com/content/5d6b7dcf-fe0e-4cb1-ad1d-0157407296cc?syn-25a6b1a6=1",
+          "source": "Financial Times"
+        },
+        {
+          "title": "SpaceX lays out plan to compete with Big 3 wireless carriers",
+          "snippet": "",
+          "url": "https://www.fierce-network.com/wireless/spacex-lays-out-plan-compete-big-3-wireless-carriers",
+          "source": "Fierce Network"
         }
       ],
       "link": "https://imtaqin.id/"

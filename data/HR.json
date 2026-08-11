@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-11 06:32:01",
+  "lastUpdate": "2026-08-11 07:47:35",
   "data": [
     {
       "title": "marko šapit",
@@ -87,7 +87,7 @@
     },
     {
       "title": "kijev",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Mon, 10 Aug 2026 16:40:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXJV_Y_BH2QF_oum4Kj3do6JeuxTNAfrdcxa5QAqxJ_yYOrcBUogrFC0wahmc",
       "pictureSource": "Dnevnik.hr",
@@ -117,26 +117,26 @@
       "title": "prognoza",
       "trafficCount": "10000+",
       "pubDate": "Mon, 10 Aug 2026 12:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSPFs4MPjCX_YFd-vCP52_RhZdQ2q2WAavYFjNHsNlhzWzzdQxerkvdnXJfKQ",
-      "pictureSource": "Dnevnik.hr",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAY65Md_qhiFdPZJ0HIvDFgn8k6sGSTfUO5CAJlSlEcaM5tYIYrw05NOhfiA",
+      "pictureSource": "Večernji.hr",
       "relatedSearch": [
         {
-          "title": "Stižu pljuskovi s grmljavinom: Ovaj dio zemlje zahvatit će promjena...",
+          "title": "Temperature do 40 stupnjeva, evo kad bi moglo osvježenje",
           "snippet": "",
-          "url": "https://dnevnik.hr/vijesti/hrvatska/ocekuju-se-pljuskovi-s-grmljavinom-u-dijelu-zemlje---995488.html",
-          "source": "Dnevnik.hr"
+          "url": "https://www.vecernji.hr/vijesti/temperature-do-40-stupnjeva-evo-kad-bi-moglo-osvjezenje-1985354",
+          "source": "Večernji.hr"
         },
         {
-          "title": "Vrućina ponegdje popušta, ali u ovoj regiji ostaje nemilosrdna: Evo gdje se očekuje 40 °C",
+          "title": "Puna vam je kapa ove nesnosne vrućine? Loša vijest je - potrajat će još, a dobra - prestat će, evo kad",
           "snippet": "",
-          "url": "https://www.tportal.hr/vijesti/clanak/vrucina-ponegdje-popusta-ali-u-ovoj-regiji-ostaje-nemilosrdna-evo-gdje-se-ocekuje-40-degc-20260811",
-          "source": "tportal.hr"
+          "url": "https://slobodnadalmacija.hr/vijesti/hrvatska/vrucinski-val-hrvatska-temperature-rekordi-pljuskovi-osvjezenje-1572874",
+          "source": "Slobodna Dalmacija"
         },
         {
-          "title": "Upaljen crveni meteoalarm, temperature blizu 40 stupnjeva, evo kada točno stiže pravo osvježenje",
+          "title": "Vrućina ne staje: Bit će do 39 °C, mogući pljuskovi s grmljavinom",
           "snippet": "",
-          "url": "https://www.jutarnji.hr/vijesti/hrvatska/toplinski-val-hrvatska-crveni-meteoalarm-temperature-do-39-stupnjeva-15735600",
-          "source": "Jutarnji list"
+          "url": "https://www.24sata.hr/news/vrucina-ne-staje-bit-ce-do-39-degc-moguci-pljuskovi-s-grmljavinom-1146637",
+          "source": "24sata.hr"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -165,6 +165,34 @@
           "snippet": "",
           "url": "https://www.index.hr/vijesti/clanak/u-moru-kod-iza-umro-sef-zadarske-urologije/2822493.aspx",
           "source": "Index.hr"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "meteo di domani",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 10 Aug 2026 12:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTr7WwmrMUPxugEorAaFAqNlkG2XYeWgKqB2O8_cF1eLAunmu6uHYftJBnM5TE",
+      "pictureSource": "RaiNews",
+      "relatedSearch": [
+        {
+          "title": "Meteo: nella bolla di calore almeno fino a Ferragosto. Ecco quando finirà",
+          "snippet": "",
+          "url": "https://www.rainews.it/articoli/2026/08/meteo-nella-bolla-di-calore-ferragosto-a-40-gradi-ecco-quando-finira-le-previsioni-del-tempo-22e158e3-be1d-48d8-b3e9-b06367fde967.html",
+          "source": "RaiNews"
+        },
+        {
+          "title": "Morsa da afa e bollino rosso. Ma le oasi di refrigerio chiudono per ferie",
+          "snippet": "",
+          "url": "https://www.ilrestodelcarlino.it/cesena/cronaca/morsa-da-afa-e-bollino-a0c4c290",
+          "source": "Il Resto del Carlino"
+        },
+        {
+          "title": "Caldo record, pronto soccorso sotto pressione: a Santa Maria Nuova accessi aumentati del 19%",
+          "snippet": "",
+          "url": "https://www.firenzedintorni.it/it/articolo/44790/caldo-record-pronto-soccorso-sotto-pressione-a-santa-maria-nuova-accessi-aumentati-del-19-anziani-e-turisti-tra-i-piu-colpiti-circa-il-10-degli-ingressi-e-legato-allafa.html",
+          "source": "Firenze e dintorni"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,72 +239,44 @@
           "source": "Slobodna Dalmacija"
         },
         {
+          "title": "Što povratak domaćih turista na Jadran govori o hrvatskom turizmu?",
+          "snippet": "",
+          "url": "https://danica.hr/sto-povratak-domacih-turista-na-jadran-govori-o-hrvatskom-turizmu/",
+          "source": "Danica.hr"
+        },
+        {
           "title": "Povećanje noćenja domaćih turista, a smanjenje stranih turista!",
           "snippet": "",
           "url": "https://dalmatinskiportal.hr/povecanje-nocenja-domacih-turista-a-smanjenje-stranih-turista",
           "source": "Dalmatinski Portal"
-        },
-        {
-          "title": "PODBAČAJ Turista u Županiji jedan posto manje; Čvrljak: Srpanj i kolovoz iziskivat će temeljite promjene strategije cijena i ponude",
-          "snippet": "",
-          "url": "https://www.antenazadar.hr/clanak/2026/08/podbacaj-turista-u-zupaniji-jedan-posto-manje-cvrljak-srpanj-i-kolovoz-iziskivat-ce-temeljite-promjene-strategije-cijena-i-ponude/",
-          "source": "Antena Zadar"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "neven frangeš",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 10 Aug 2026 09:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYpzlSgTyprpwEaVv89u2H8EDphpAE7pLu-DJKRcFzdYvKlzDV-tECja6vvAo",
-      "pictureSource": "Jutarnji list",
+      "title": "nataša pirc musar",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 10 Aug 2026 10:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgvK_qS9kxDeQWytvl7UO66at_l7d3U4NEtOO5Ce_UdttDp59gd7BoDoaHHWg",
+      "pictureSource": "rtvslo.si",
       "relatedSearch": [
         {
-          "title": "Preminuo je Neven Frangeš, jedna od najistaknutijih ličnosti u hrvatskoj glazbi",
+          "title": "\"Poskušajo se zavarovati na način, da ne bi povedali ali pa da ne bi še povedali\"",
           "snippet": "",
-          "url": "https://www.jutarnji.hr/kultura/glazba/preminuo-je-neven-franges-jedan-od-najistaknutijih-hrvatskih-jazz-glazbenika-15735823",
-          "source": "Jutarnji list"
+          "url": "https://www.rtvslo.si/slovenija/poskusajo-se-zavarovati-na-nacin-da-ne-bi-povedali-ali-pa-da-ne-bi-se-povedali/790430",
+          "source": "rtvslo.si"
         },
         {
-          "title": "Preminuo je ugledni jazz pijanist i glazbeni aktivist Neven Frangeš",
+          "title": "Pirc Musar: Najboljši prijateljici že 20 let, bila je varnostno preverjena",
           "snippet": "",
-          "url": "https://www.tportal.hr/kultura/clanak/preminuo-je-ugledni-jazz-pijanist-i-glazbeni-aktivist-neven-franges-20260810",
-          "source": "tportal.hr"
+          "url": "https://www.24ur.com/novice/slovenija/pirc-musar-najboljsi-prijateljici-ze-20-let-bila-je-varnostno-preverjena.html",
+          "source": "24ur.com"
         },
         {
-          "title": "Preminuo Neven Frangeš, jedan od najznačajnijih hrvatskih jazz glazbenika",
+          "title": "Predsednica “ne bom tiho” je zdaj tiho: ali prikriva morebitno kršenje zakonodaje?",
           "snippet": "",
-          "url": "https://www.glasistre.hr/glazba/2026/08/10/preminuo-neven-franges-jedan-od-najznacajnijih-hrvatskih-jazz-glazbenika-1081819",
-          "source": "Glas Istre"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "komunalna policija",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 10 Aug 2026 09:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxe6jswJm2KZ2D3seecznyltR4PrhwtwDSMptZDRMiZtYEqnbbiw--17S7ERk",
-      "pictureSource": "Poslovni dnevnik",
-      "relatedSearch": [
-        {
-          "title": "Komunalna policija krenula u veliku čistku: Zbog ove navike pljušte kazne",
-          "snippet": "",
-          "url": "https://www.poslovni.hr/regija/komunalna-policija-krenula-u-veliku-cistku-zbog-ove-navike-pljuste-kazne-4550549",
-          "source": "Poslovni dnevnik"
-        },
-        {
-          "title": "Putujete u Crnu Goru? Obratite pažnju na nova pravila i kazne",
-          "snippet": "",
-          "url": "https://gpmaljevac.com/putujete-u-crnu-goru-obratite-paznju-na-nova-pravila-i-kazne/",
-          "source": "GPMaljevac.COM"
-        },
-        {
-          "title": "Podgorica: Počelo izricanje novčanih kazni za nepropisno zaustavljanje i parkiranje vozila",
-          "snippet": "",
-          "url": "https://www.cdm.me/hronika/podgorica-pocelo-izricanje-novcanih-kazni-za-nepropisno-zaustavljanje-i-parkiranje-vozila/",
-          "source": "CdM"
+          "url": "https://nova24tv.si/predsednica-ne-bom-tiho-je-zdaj-tiho-ali-prikriva-morebitno-krsenje-zakonodaje-2/",
+          "source": "Nova24TV"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,13 +1,32 @@
 {
-  "lastUpdate": "2026-08-15 09:56:17",
+  "lastUpdate": "2026-08-15 10:17:06",
   "data": [
     {
       "title": "clima",
       "trafficCount": "200+",
       "pubDate": "Fri, 14 Aug 2026 20:10:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLhlIE0k7YQFOE4OL7Zsxb_t72Is2MdBalsaW5GuOS3yadfZU-vyqnbfE74_8",
+      "pictureSource": "La Nación",
+      "relatedSearch": [
+        {
+          "title": "Clima en San Miguel de Tucumán hoy: cuál es el pronóstico del tiempo para el 15 de agosto de 2026",
+          "snippet": "",
+          "url": "https://www.lanacion.com.ar/clima/tucuman/clima-en-san-miguel-de-tucuman-hoy-cual-es-el-pronostico-del-tiempo-para-el-15-de-agosto-de-2026-nid14082026/",
+          "source": "La Nación"
+        },
+        {
+          "title": "Buen tiempo para el fin de semana: a cuánto llegará la máxima este sábado en Tucumán",
+          "snippet": "",
+          "url": "https://www.enteratenoticias.com.ar/actualidad/buen-tiempo-para-el-fin-de-semana-a-cuanto-llegara-la-maxima-este-sabado-en-tucuman/",
+          "source": "Enterate Noticias"
+        },
+        {
+          "title": "Fin de semana largo en Tucumán: anticipan lluvias, frío y nevadas en las zonas de altura",
+          "snippet": "",
+          "url": "https://www.lagaceta.com.ar/nota/1149730/sociedad/fin-semana-largo-tucuman-anticipan-lluvias-frio-nevadas-zonas-altura.html",
+          "source": "La Gaceta"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -42,26 +61,26 @@
       "title": "galatasaray fc",
       "trafficCount": "100+",
       "pubDate": "Fri, 14 Aug 2026 13:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaNkK_FZwkGKMW9us9JHhx5bhlKvxijk-egRMvV9eTU0WkFgPoF5uwW2lsM6I",
-      "pictureSource": "The New York Times",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSa7sN4CtV-B47Sf-T-i5QdRocDFnMjyWfDhJHFO21obtlfBeCjKU-xINb3gPI",
+      "pictureSource": "ESPN",
       "relatedSearch": [
         {
-          "title": "Arsenal informed that Gabriel Martinelli has no interest in Galatasaray move - The Athletic",
+          "title": "Transfer rumors, news: Tottenham continue interest for Liverpool's Gakpo",
           "snippet": "",
-          "url": "https://www.nytimes.com/athletic/7510407/2026/08/14/gabriel-martinelli-galatasaray-arsenal-transfer/",
-          "source": "The New York Times"
+          "url": "https://www.espn.com/soccer/story/_/id/49607175/transfer-rumors-news-arsenal-hold-talks-galatasaray-victor-osimhen-deal",
+          "source": "ESPN"
         },
         {
-          "title": "Football transfer rumours: Galatasaray to spend £38m on Arsenal’s Martinelli?",
+          "title": "Arsenal and Galatasaray hold talks over Victor Osimhen",
           "snippet": "",
-          "url": "https://www.theguardian.com/football/2026/aug/13/football-transfer-rumour-mill-galatasaray-38m-arsenal-gabriel-martinelli",
+          "url": "https://www.telegraph.co.uk/football/2026/08/13/arsenal-and-galatasaray-hold-talks-over-victor-osimhen/",
+          "source": "The Telegraph"
+        },
+        {
+          "title": "Football transfer rumours: Arsenal offered Osimhen in exchange deal? Newcastle to make Baleba bid?",
+          "snippet": "",
+          "url": "https://www.theguardian.com/football/2026/aug/14/football-transfer-rumours-arsenal-osimhen-exchange-deal-newcastle-baleba-bid",
           "source": "The Guardian"
-        },
-        {
-          "title": "Arsenal invite offers for Martinelli and Nwaneri",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/articles/cwy42yqwk30o",
-          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -207,6 +226,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "la liga",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 14 Aug 2026 09:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTd6q-m9nEMXxfXCqm_xFUgk8gN8qIigTRsiINo_zUOe79wyprobAgpTwQG09o",
+      "pictureSource": "The Guardian",
+      "relatedSearch": [
+        {
+          "title": "La Liga 2026-27 preview: Madrid look to Mourinho in bid to dethrone Barcelona",
+          "snippet": "",
+          "url": "https://www.theguardian.com/football/2026/aug/15/2026-2027-la-liga-preview-real-madrid-jose-mourinho-barcelona",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Who Will Win LaLiga, Finish as Top Scorer and Be the Biggest Disappointment?",
+          "snippet": "",
+          "url": "https://www.beinsports.com/en-us/soccer/la-liga/articles/who-will-win-laliga-finish-as-top-scorer-and-be-the-biggest-disappointment-2026-08-14",
+          "source": "beIN SPORTS"
+        },
+        {
+          "title": "Let the games begin",
+          "snippet": "",
+          "url": "https://www.surinenglish.com/sport/let-the-games-begin-20260814092118-nt.html",
+          "source": "Sur in English"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "josé mourinho",
       "trafficCount": "500+",
       "pubDate": "Fri, 14 Aug 2026 08:00:00 -0700",
@@ -230,34 +277,6 @@
           "snippet": "",
           "url": "https://www.thesun.co.uk/sport/40017589/jose-mourinho-chelsea-eva-carneiro-netflix-documentary/",
           "source": "The Sun"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "linha aérea",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 14 Aug 2026 07:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRM1se9jscAlU1I1nc8fLru1j8GXqamwt1vPVIzQFZAlOZVpudjtx3i01qUVMg",
-      "pictureSource": "Brazil Journal",
-      "relatedSearch": [
-        {
-          "title": "GOL troca CEO: Ferrer vai para a Boeing e Fehlauer assume",
-          "snippet": "",
-          "url": "https://braziljournal.com/gol-troca-ceo-ferrer-vai-para-a-boeing-e-fehlauer-assume/",
-          "source": "Brazil Journal"
-        },
-        {
-          "title": "Boeing nomeia Celso Ferrer novo presidente para a América Latina e as Caraíbas",
-          "snippet": "",
-          "url": "https://newsavia.com/boeing-nomeia-celso-ferrer-novo-presidente-para-a-america-latina-e-as-caraibas/",
-          "source": "NewsAvia"
-        },
-        {
-          "title": "Gol reorganiza cúpula executiva para iniciar fase de criação de valor",
-          "snippet": "",
-          "url": "https://www.seudinheiro.com/2026/empresas/gol-reorganiza-cupula-executiva-para-iniciar-fase-de-criacao-de-valor-ccgg/",
-          "source": "Seu Dinheiro"
         }
       ],
       "link": "https://imtaqin.id/"

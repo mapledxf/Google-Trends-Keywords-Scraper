@@ -1,13 +1,47 @@
 {
-  "lastUpdate": "2026-08-15 08:23:38",
+  "lastUpdate": "2026-08-15 08:50:42",
   "data": [
     {
-      "title": "ohjus",
+      "title": "turun sanomat",
       "trafficCount": "200+",
-      "pubDate": "Sat, 15 Aug 2026 01:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRAXoRDdYF94v8mOin_4RLMwKmRxgoorujW7HhrDHpiqe4XbUoOALJB-BdNNhM",
-      "pictureSource": "Yle",
+      "pubDate": "Sat, 15 Aug 2026 01:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8wK4WM9R7vdEJr2XOxiPKBePc1dS9CNMLVSyGNFD-xZ4NzJTserCAdQHV0fA",
+      "pictureSource": "ts.fi",
       "relatedSearch": [
+        {
+          "title": "Auto ajautui aamuyöllä ojaan Aurassa – törmäsi siltarumpuun",
+          "snippet": "",
+          "url": "https://www.ts.fi/a/7058161",
+          "source": "ts.fi"
+        },
+        {
+          "title": "Henkilöauto ajautui ojaan Aurassa",
+          "snippet": "",
+          "url": "https://yle.fi/a/74-20241178",
+          "source": "Yle"
+        },
+        {
+          "title": "Turkulaisperhe pakeni oravanpyörää yli vuoden mittaiselle purjehdukselle",
+          "snippet": "",
+          "url": "https://www.ts.fi/a/7050053",
+          "source": "ts.fi"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ohjus",
+      "trafficCount": "2000+",
+      "pubDate": "Sat, 15 Aug 2026 01:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgWmGnX8b-7MgjSkZXZTBev9ioRRrfaLi8AXd2EeaMMNMsdVAUayjo1pBrfDM",
+      "pictureSource": "Ilta-Sanomat",
+      "relatedSearch": [
+        {
+          "title": "Ukraina moukaroi Venäjää ohjuksin – yllättävä kohde",
+          "snippet": "",
+          "url": "https://www.is.fi/ulkomaat/art-2000012207549.html",
+          "source": "Ilta-Sanomat"
+        },
         {
           "title": "Ukrainan hyökkäys Novorossiiskiin oli poikkeuksellinen: käytössä yhtä aikaa jopa 15 ohjus- ja droonityyppiä",
           "snippet": "",
@@ -19,19 +53,13 @@
           "snippet": "",
           "url": "https://www.hs.fi/maailma/art-2000012204804.html",
           "source": "HS.fi"
-        },
-        {
-          "title": "Sota Mustallamerellä kiihtyy – satelliittikuvat paljastavat Ukrainan iskun tuhot venäläisaluksille",
-          "snippet": "",
-          "url": "https://www.is.fi/ulkomaat/art-2000012203119.html",
-          "source": "Ilta-Sanomat"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "mandatum",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 15 Aug 2026 00:40:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQL9CH_n5WlNksAce38oPpHZfTDBQqRwWfmNkHZbHkjifbBdFQabCmkhaECTeU",
       "pictureSource": "Kauppalehti",
@@ -61,20 +89,20 @@
       "title": "aku partanen",
       "trafficCount": "500+",
       "pubDate": "Fri, 14 Aug 2026 23:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnHqoh6q1UuValkv0Bctq37jUqks7JET_C8ueGFBbhA-vcsAoL8ekED320QP8",
-      "pictureSource": "Ilta-Sanomat",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTymSrpivDfivoAxY-_0OP_yYz9K4XQwzoQ-XOg-iA8vhjcUatTwdzAjMO8qCY",
+      "pictureSource": "Iltalehti",
       "relatedSearch": [
-        {
-          "title": "Jerry Jokiselle huippusijoitus – Aku Partaselle karu kohtalo",
-          "snippet": "",
-          "url": "https://www.is.fi/yleisurheilu/art-2000012207532.html",
-          "source": "Ilta-Sanomat"
-        },
         {
           "title": "IL seuraa: Kävelyn puolimaraton käynnistää kisapäivän – Kuusi suomalaista viivalle",
           "snippet": "",
           "url": "https://www.iltalehti.fi/yleisurheilun-em-2026/a/06c2e725-c2fa-4c01-bd49-8f27c862320f",
           "source": "Iltalehti"
+        },
+        {
+          "title": "Jerry Jokiselle huippusijoitus – Aku Partaselle karu kohtalo",
+          "snippet": "",
+          "url": "https://www.is.fi/yleisurheilu/art-2000012207532.html",
+          "source": "Ilta-Sanomat"
         },
         {
           "title": "Birminghamissa tuhti EM-lauantai – kävelijät kamppailevat aamuruuhkassa, illan finaaleissa ainakin kolme suomalaista",
@@ -133,10 +161,10 @@
           "source": "Deadline"
         },
         {
-          "title": "Hollywood Minute: ‘Spider-Man’ breaks another record",
+          "title": "In Just 12 Days, ‘Spider-Man: Brand New Day’ Beats Marvel’s Original Blockbuster at the Box Office",
           "snippet": "",
-          "url": "https://www.cnn.com/2026/08/14/entertainment/video/hollywood-entertainment-movies-spider-man-brand-new-day-streaming-ted-lasso-charlize-theron-colman-domingo-john-carpenter",
-          "source": "CNN"
+          "url": "https://www.imdb.com/news/ni65970427/?ref_=ttnw_art_perm",
+          "source": "IMDb"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,25 +173,25 @@
       "title": "sodankylä",
       "trafficCount": "200+",
       "pubDate": "Fri, 14 Aug 2026 22:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwHUBC8_cb5e38eyghJI1vIKSRy8yaVHadrziYyLkoR-pDF96imtP4LR-_blM",
-      "pictureSource": "Iltalehti",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSANu_uprhgy9Hc_EtO6pUDHmXVzz0KuM8-XPW0I8OuarmjxBpCKiOg6ZEPuGg",
+      "pictureSource": "Yle",
       "relatedSearch": [
         {
-          "title": "Onnettomuus Sodankylässä – Kaksi alaikäistä loukkaantui vakavasti",
+          "title": "Viisi ihmistä loukkaantui rajussa ulosajossa Sodankylässä",
           "snippet": "",
-          "url": "https://www.iltalehti.fi/kotimaa/a/c89efb41-1161-40ac-9d7f-99906dc415f0",
-          "source": "Iltalehti"
+          "url": "https://yle.fi/a/74-20241163",
+          "source": "Yle"
         },
         {
-          "title": "Sodankylässä vakava ulosajo – kaikki alaikäisiä",
+          "title": "Alaikäiset vakavassa ulosajossa Sodankylässä",
           "snippet": "",
           "url": "https://www.is.fi/kotimaa/art-2000012207595.html",
           "source": "Ilta-Sanomat"
         },
         {
-          "title": "Sodankylässä vakava ulosajo – kaksi ihmistä jouduttiin irrottamaan autosta, kolme loukkaantui lievästi",
+          "title": "Viisi 15–17-vuotiasta nuorta loukkaantui ulosajossa Sodankylässä perjantai-iltana",
           "snippet": "",
-          "url": "https://www.lapinkansa.fi/sodankylassa-vakava-ulosajo-kaksi-ihmista-joudutti/13623020",
+          "url": "https://www.lapinkansa.fi/viisi-1517-vuotiasta-nuorta-loukkaantui-ulosajossa/13623020",
           "source": "Lapin Kansa"
         }
       ],
@@ -173,13 +201,13 @@
       "title": "florida panthers",
       "trafficCount": "500+",
       "pubDate": "Fri, 14 Aug 2026 21:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbgb_1f3NjNWD5rOrtOEwATLJJyTAQDpDw1_76yRU204JHvn9t6OdidUGKfAc",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRM-T8hJLIXyrLnI_GqrsSCPA3iaW8enPXgtO9dLdxl2c8MlIUXdDdddWA_0u0",
       "pictureSource": "NHL.com",
       "relatedSearch": [
         {
-          "title": "Top prospects for Florida Panthers",
+          "title": "Inside look at Florida Panthers",
           "snippet": "",
-          "url": "https://www.nhl.com/news/topic/32-in-32/florida-panthers-top-prospects-for-2026-27-season-32-in-32",
+          "url": "https://www.nhl.com/news/topic/32-in-32/florida-panthers-inside-look-for-2026-27-season-32-in-32",
           "source": "NHL.com"
         },
         {
@@ -189,9 +217,9 @@
           "source": "Spectors Hockey"
         },
         {
-          "title": "Inside look at Florida Panthers",
+          "title": "Top prospects for Florida Panthers",
           "snippet": "",
-          "url": "https://www.nhl.com/news/topic/32-in-32/florida-panthers-inside-look-for-2026-27-season-32-in-32",
+          "url": "https://www.nhl.com/news/topic/32-in-32/florida-panthers-top-prospects-for-2026-27-season-32-in-32",
           "source": "NHL.com"
         }
       ],
@@ -239,44 +267,16 @@
           "source": "Yle"
         },
         {
+          "title": "Pääkirjoitus SDP on huolissaan maahanmuuttajien kielitaidosta – Ja nuorista kantasuomalaisista miehistä",
+          "snippet": "",
+          "url": "https://www.iltalehti.fi/paakirjoitus/a/bfbc427e-b6f1-4b95-9eb3-a91de9508512",
+          "source": "Iltalehti"
+        },
+        {
           "title": "Sdp linjasi maahanmuutosta – tätä mieltä muut puolueet ovat",
           "snippet": "",
           "url": "https://www.is.fi/politiikka/art-2000012203609.html",
           "source": "Ilta-Sanomat"
-        },
-        {
-          "title": "Vestman: SDP:n maahan­muuttopuheet \"sumutusta\"",
-          "snippet": "",
-          "url": "https://www.iltalehti.fi/politiikka/a/2d2d00bd-8d26-4086-bf28-3ddb06d31666",
-          "source": "Iltalehti"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ruotsi",
-      "trafficCount": "2000+",
-      "pubDate": "Fri, 14 Aug 2026 16:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQe9IV__gsNRfiGKXB5P-_OzeUGxnO3OUaqc4ZcYkQpQkqusMytmM1Uzha60YM",
-      "pictureSource": "Iltalehti",
-      "relatedSearch": [
-        {
-          "title": "Kommentti: Ruotsi teki rajun päätöksen, jota vastustivat lähes kaikki asiantuntijat",
-          "snippet": "",
-          "url": "https://www.iltalehti.fi/ulkomaat/a/583315d2-bb08-49dd-89b5-6b91500fda44",
-          "source": "Iltalehti"
-        },
-        {
-          "title": "Ruotsissa äänestettiin: 14-vuotiaat voidaan tuomita vankeuteen",
-          "snippet": "",
-          "url": "https://www.is.fi/ulkomaat/art-2000012204663.html",
-          "source": "Ilta-Sanomat"
-        },
-        {
-          "title": "Ruotsissa rikosoikeudellisen vastuun alaikärajaa lasketaan 14 vuoteen",
-          "snippet": "",
-          "url": "https://www.ess.fi/uutissuomalainen/9698242",
-          "source": "Etelä-Suomen Sanomat"
         }
       ],
       "link": "https://imtaqin.id/"

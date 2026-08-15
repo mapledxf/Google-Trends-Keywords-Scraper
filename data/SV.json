@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-08-15 13:26:16",
+  "lastUpdate": "2026-08-15 13:50:26",
   "data": [
+    {
+      "title": "newcastle - leverkusen",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 15 Aug 2026 06:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxKHMVVXKaA1wZO26XkDOGXxImKk25Lr2X-zYRoOpTqWa_00IIIYz4oMFru4U",
+      "pictureSource": "The Mag",
+      "relatedSearch": [
+        {
+          "title": "Confirmed Newcastle United team v Bayer Leverkusen as Woltemade, Wissa, Lewis Miley all start",
+          "snippet": "",
+          "url": "https://www.themag.co.uk/2026/08/confirmed-newcastle-united-team-v-bayer-leverkusen-as-woltemade-wissa-lewis-miley-all-start/",
+          "source": "The Mag"
+        },
+        {
+          "title": "Latest. Confirmed line-up: Miley brothers start together in opening VisitMalta Weekender fixture",
+          "snippet": "",
+          "url": "https://www.newcastleunited.com/en/news/bayer-leverkusen-h-friendly-team-news-26-27",
+          "source": "Newcastle United"
+        },
+        {
+          "title": "Newcastle United major injury update after three-month blow as Matthias Jaissle hands 17y/o first start",
+          "snippet": "",
+          "url": "https://www.shieldsgazette.com/sport/football/newcastle-united/lewis-miley-injury-newcastle-united-8922859",
+          "source": "Shields Gazette"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "clima",
       "trafficCount": "5000+",
@@ -12,7 +40,7 @@
     },
     {
       "title": "pensión",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 15 Aug 2026 05:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWChE47tEpr-3YfsctsP_yK__-4rgaypf3PLMp9s20aTaY-l49XACh-YVU72Y",
       "pictureSource": "La Prensa Gráfica",
@@ -34,34 +62,6 @@
           "snippet": "",
           "url": "https://www.infobae.com/el-salvador/2026/08/12/el-salvador-ante-un-dilema-previsional-analistas-destacan-incertidumbre-por-la-reforma-de-pensiones/",
           "source": "Infobae"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "tormenta",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 15 Aug 2026 04:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShYcXTHdlGMigf0nTRufvhfExbo-7KDWkGHT1rmeelezO-rZDzMXHgp2Y-yu0",
-      "pictureSource": "El Debate",
-      "relatedSearch": [
-        {
-          "title": "Cambio brusco de tiempo en Castilla y León este sábado: la Aemet alerta de tormentas muy fuertes y granizo en estas zonas",
-          "snippet": "",
-          "url": "https://www.eldebate.com/espana/castilla-y-leon/20260815/cambio-brusco-tiempo-castilla-leon-este-sabado-aemet-alerta-tormentas-fuertes-granizo-estas-zonas_449608.html",
-          "source": "El Debate"
-        },
-        {
-          "title": "León se prepara para una jornada de calor estival con probabilidad de chubascos por la tarde",
-          "snippet": "",
-          "url": "https://ahoraleon.com/leon-se-prepara-para-una-jornada-de-calor-estival-con-probabilidad-de-chubascos-por-la-tarde/",
-          "source": "Ahora León"
-        },
-        {
-          "title": "Castilla y León alerta por lluvias y tormentas en las nueve provincias",
-          "snippet": "",
-          "url": "https://www.tribunasegovia.com/noticias/455546/castilla-y-leon-alerta-por-lluvias-y-tormentas-en-las-nueve-provincias",
-          "source": "Tribuna de Segovia."
         }
       ],
       "link": "https://imtaqin.id/"
@@ -95,23 +95,51 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "tormenta",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 15 Aug 2026 04:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShYcXTHdlGMigf0nTRufvhfExbo-7KDWkGHT1rmeelezO-rZDzMXHgp2Y-yu0",
+      "pictureSource": "El Debate",
+      "relatedSearch": [
+        {
+          "title": "Cambio brusco de tiempo en Castilla y León este sábado: la Aemet alerta de tormentas muy fuertes y granizo en estas zonas",
+          "snippet": "",
+          "url": "https://www.eldebate.com/espana/castilla-y-leon/20260815/cambio-brusco-tiempo-castilla-leon-este-sabado-aemet-alerta-tormentas-fuertes-granizo-estas-zonas_449608.html",
+          "source": "El Debate"
+        },
+        {
+          "title": "León se prepara para una jornada de calor estival con probabilidad de chubascos por la tarde",
+          "snippet": "",
+          "url": "https://ahoraleon.com/leon-se-prepara-para-una-jornada-de-calor-estival-con-probabilidad-de-chubascos-por-la-tarde/",
+          "source": "Ahora León"
+        },
+        {
+          "title": "León pasa a aviso naranja este sábado por fuertes tormentas, granizo y lluvias intensas",
+          "snippet": "",
+          "url": "https://www.leon24horas.net/tiempo/leon-pasa-aviso-naranja-sabado-fuertes-tormentas-granizo-lluvias-intensas/20260815083818206173.html",
+          "source": "León 24 Horas"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "weather tomorrow",
       "trafficCount": "200+",
       "pubDate": "Fri, 14 Aug 2026 19:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmfy7b7hRf8of5xqsonbvO80cWsu-1vnF1pkndCVw_nMB8FqQnEHqI45b5niw",
-      "pictureSource": "The Times of India",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQirFIrR6xvzRLs4UfjG3vFaK-rak5QtRxRVFIYXc2qghH-KAAKodEx4E9ujJc",
+      "pictureSource": "Inshorts",
       "relatedSearch": [
         {
-          "title": "Weather tomorrow: IMD warns of heavy to very heavy rain in 7 states; thunderstorms, gusty winds likely",
+          "title": "IMD predicts rainfall in Delhi till August 21 | Delhi recorded AQI of 93 as of 4 pm today | Inshorts",
           "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/city/delhi/weather-tomorrow-imd-warns-of-heavy-to-very-heavy-rain-in-7-states-thunderstorms-gusty-winds-likely/articleshow/133256173.cms",
-          "source": "The Times of India"
+          "url": "https://inshorts.com/en/news/imd-predicts-rainfall-in-delhi-till-august-21-1786799873025",
+          "source": "Inshorts"
         },
         {
-          "title": "Heavy Rain, Thunderstorms In Delhi-NCR, More Showers Likely On Independence Day Weekend",
+          "title": "Weather forecast for August 16: Heavy rain, storms, and high-speed winds for 16 states tomorrow; IMD update",
           "snippet": "",
-          "url": "https://cobrapost.com/blog/heavy-rain-thunderstorms-in-delhi-ncr-more-showers-likely-on-independence-day-weekend",
-          "source": "Cobrapost"
+          "url": "https://www.india.com/news/india/weather-forecast-august-16-heavy-rain-storms-high-speed-winds-16-states-tomorrow-imd-update-monsoon-uttar-pradesh-rajasthan-delhi-uttarakhand-himachal-pradesh-jammu-kashmir-west-bengal-odisha-8502314/",
+          "source": "India.com"
         },
         {
           "title": "Daily weather tracker: Monsoon depression triggers heavy rain alert across Eastern and Northern India; clouds will also pour heavily over the mountains",
@@ -142,10 +170,10 @@
           "source": "CNN en Español"
         },
         {
-          "title": "Dos muertos y un herido por un terremoto de 7,7 en la costa de Indonesia",
+          "title": "Indonesia, sacudida por dos terremotos en un mismo día",
           "snippet": "",
-          "url": "https://diario1.com/mundo/dos-muertos-y-un-herido-por-un-terremoto-de-77-en-la-costa-de-indonesia/",
-          "source": "Diario1"
+          "url": "https://www.rfi.fr/es/asia-pacifico/20260815-fuerte-terremoto-en-indonesia-de-magnitud-7-7-provoca-al-menos-38-v%C3%ADctimas-mortales-y-graves-da%C3%B1os",
+          "source": "RFI"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -180,7 +208,7 @@
     },
     {
       "title": "iman de jordania",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 14 Aug 2026 15:20:00 -0700",
       "picture": "",
       "pictureSource": "",
@@ -191,54 +219,26 @@
       "title": "la liga",
       "trafficCount": "500+",
       "pubDate": "Fri, 14 Aug 2026 12:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnO_Pt-UzeDCBIlWhahLFjR4s80y2HiOsliyY2RuKvoUjNyADErGc4xTnlIzE",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRV3In7pi87L0ooDI9BtsPPhhBKs6RwSqUnxkLsBp-kqcC3ij_-refhDKf-rPo",
       "pictureSource": "beIN SPORTS",
       "relatedSearch": [
         {
-          "title": "Fungal outbreak on pitch postpones LaLiga game",
+          "title": "Atletico sign veteran Argentinian defender Romero from Spurs",
           "snippet": "",
-          "url": "https://www.beinsports.com/en-nz/football/laliga/articles-video/fungal-outbreak-on-pitch-postpones-laliga-game-2026-08-13",
+          "url": "https://www.beinsports.com/en-mena/football/la-liga/articles-video/atletico-sign-veteran-argentinian-defender-romero-from-spurs-2026-08-15",
           "source": "beIN SPORTS"
         },
         {
-          "title": "Opening day clash postponed as pitch left 'unsuitable for playing football' following heatwave",
+          "title": "“Atlético” and “PSG” have signed two world champions",
           "snippet": "",
-          "url": "https://www.thesun.co.uk/sport/40055114/celta-vigo-osasuna-postponed-pitch-fungus-la-liga/",
-          "source": "The Sun"
+          "url": "https://unn.ua/en/news/atletico-and-psg-have-signed-two-world-champions",
+          "source": "Українські Національні Новини (УНН)"
         },
         {
-          "title": "Official Statement: Celta – Osasuna Postponed",
+          "title": "Richarlison and Xavi Simons send messages as Tottenham exit confirmed",
           "snippet": "",
-          "url": "https://rccelta.es/en/club/actualidad/official-statement-celta-vs-osasuna-postponed/",
-          "source": "Celta"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "fiorentina - benevento",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 14 Aug 2026 12:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR4AmvvKDpfxviXtVpED9bevfqhVzV8vDX2MGeDrce1VHtN_E5tzCA2-ZF9Ukk",
-      "pictureSource": "la Repubblica",
-      "relatedSearch": [
-        {
-          "title": "Fiorentina, Grosso frena l’entusiasmo: \"Tanto ancora da fare. Kean? Lo voglio trascinatore\"",
-          "snippet": "",
-          "url": "https://firenze.repubblica.it/sport/2026/08/15/news/fiorentina_grosso_futuro_mercato-425530391/",
-          "source": "la Repubblica"
-        },
-        {
-          "title": "Buona la prima di Coppa, e Mastantuono infiamma il Franchi",
-          "snippet": "",
-          "url": "https://www.nove.firenze.it/buona-la-prima-di-coppa-e-mastantuono-infiamma-il-franchi.htm",
-          "source": "www.nove.firenze.it"
-        },
-        {
-          "title": "COPPA ITALIA FRECCIAROSSA: FIORENTINA-BENEVENTO 4-1 LE FOTO",
-          "snippet": "",
-          "url": "https://www.beneventocalcio.club/gallery/foto/3664/coppa-italia-frecciarossa-fiorentina-benevento-4-1-le-foto.shtml",
-          "source": "Benevento Calcio"
+          "url": "https://sports.yahoo.com/articles/richarlison-xavi-simons-send-messages-091823006.html",
+          "source": "Yahoo Sports"
         }
       ],
       "link": "https://imtaqin.id/"

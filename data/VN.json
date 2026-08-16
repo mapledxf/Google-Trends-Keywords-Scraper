@@ -1,33 +1,52 @@
 {
-  "lastUpdate": "2026-08-16 05:42:48",
+  "lastUpdate": "2026-08-16 06:01:22",
   "data": [
     {
-      "title": "nhà chọc trời",
+      "title": "đợt lạnh",
       "trafficCount": "200+",
-      "pubDate": "Sat, 15 Aug 2026 21:20:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "pubDate": "Sat, 15 Aug 2026 22:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQrHPDh8HHSxKIsg3rHnshlHOaM_IOw9CzZS-LX2188kRaUDtsKzVRWmI5mJ8",
+      "pictureSource": "Tin tức 24h",
+      "relatedSearch": [
+        {
+          "title": "Thời điểm miền Bắc xuất hiện không khí lạnh gây rét đậm rét hại mùa đông tới",
+          "snippet": "",
+          "url": "https://www.24h.com.vn/tin-tuc-trong-ngay/thoi-diem-mien-bac-xuat-hien-khong-khi-lanh-gay-ret-dam-ret-hai-mua-dong-toi-c46a1786965.html",
+          "source": "Tin tức 24h"
+        },
+        {
+          "title": "Mùa đông năm nay đến muộn, ít có rét đậm rét hại",
+          "snippet": "",
+          "url": "https://suckhoedoisong.vn/mua-dong-nam-nay-den-muon-it-co-ret-dam-ret-hai-169260816064737641.htm",
+          "source": "Báo Sức khỏe & Đời sống"
+        },
+        {
+          "title": "Khi nào miền Bắc sẽ xuất hiện đợt không khí lạnh đầu tiên?",
+          "snippet": "",
+          "url": "https://soha.vn/khi-nao-mien-bac-se-xuat-hien-dot-khong-khi-lanh-dau-tien-198260816090217658.htm",
+          "source": "SOHA"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "taxi",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 15 Aug 2026 21:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQySOtUTwxU9mDOkkRM6RT49QTrBDKLo5OvAvoJ1x2bXaQptxi7aEGV-SUqDc4",
-      "pictureSource": "Tin tức 24h",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-SI2G-AAlw4zye7ISHq0jwx8rvIiCBAA1P2IuTt3QmespveT4OTP3n68rMgw",
+      "pictureSource": "Tuổi Trẻ",
       "relatedSearch": [
+        {
+          "title": "Giây phút ô tô 7 chỗ lật ngửa sau va chạm xe khác, 9 người bị thương ở Bà Rịa",
+          "snippet": "",
+          "url": "https://tuoitre.vn/video/giay-phut-o-to-7-cho-lat-ngua-sau-va-cham-xe-khac-9-nguoi-bi-thuong-o-ba-ria-201637.htm",
+          "source": "Tuổi Trẻ"
+        },
         {
           "title": "Xe 16 chỗ tông taxi 'lấm lưng trắng bụng', nhiều người bị thương, có trẻ em",
           "snippet": "",
-          "url": "https://www.24h.com.vn/tin-tuc-trong-ngay/xe-16-cho-tong-taxi-lam-lung-trang-bung-nhieu-nguoi-bi-thuong-co-tre-em-c46a1786992.html",
-          "source": "Tin tức 24h"
-        },
-        {
-          "title": "Tông xe ở Bà Rịa, 5 người trong gia đình bị thương",
-          "snippet": "",
-          "url": "https://tuoitre.vn/tong-xe-o-ba-ria-5-nguoi-trong-gia-dinh-bi-thuong-10026081610405501.htm",
-          "source": "Tuổi Trẻ"
+          "url": "https://kenh14.vn/xe-16-cho-tong-taxi-lam-lung-trang-bung-nhieu-nguoi-bi-thuong-co-tre-em-215260816125023257.chn",
+          "source": "Kenh14.vn"
         },
         {
           "title": "TP.HCM: Ô tô du lịch lật ngửa sau va chạm giao thông, 9 người nhập viện cấp cứu",
@@ -39,6 +58,15 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "nhà chọc trời",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 15 Aug 2026 21:20:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "alexander zverev",
       "trafficCount": "200+",
       "pubDate": "Sat, 15 Aug 2026 21:20:00 -0700",
@@ -46,7 +74,7 @@
       "pictureSource": "Tin tức 24h",
       "relatedSearch": [
         {
-          "title": "Rực lửa tennis Cincinnati Open: De Minaur ngược dòng cảm xúc, Pegula phô diễn đẳng cấp",
+          "title": "Rực lửa tennis Cincinnati Open: \"Truyền nhân Nadal\" khổ chiến 3 set trước Shapovalov",
           "snippet": "",
           "url": "https://www.24h.com.vn/the-thao/ruc-lua-tennis-cincinnati-open-de-minaur-nguoc-dong-cam-xuc-pegula-pho-dien-dang-cap-c101a1786895.html",
           "source": "Tin tức 24h"
@@ -213,15 +241,6 @@
           "source": "VoThuat.vn"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "엘에이 fc 대 샌디에이고 fc",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 15 Aug 2026 19:40:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]

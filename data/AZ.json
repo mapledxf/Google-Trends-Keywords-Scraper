@@ -1,19 +1,13 @@
 {
-  "lastUpdate": "2026-08-16 09:35:27",
+  "lastUpdate": "2026-08-16 09:54:46",
   "data": [
     {
       "title": "ветер",
       "trafficCount": "200+",
       "pubDate": "Sat, 15 Aug 2026 19:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3LoSQoft_5Q6YD8MhIVSrM8_42w3kO5zc6x_hUjiu9ILiSbHKQcHdIeFVl7s",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQoQ_MslwF12OvCqIvMxxHhpqLK8Bau5DVvAePkpnIC-zHx4eLMPwYyj5-2hAc",
       "pictureSource": "Report.az",
       "relatedSearch": [
-        {
-          "title": "В Баку скорость ветра превысила 20 м/с",
-          "snippet": "",
-          "url": "https://report.az/ru/ekologiya/v-baku-skorost-vetra-prevysila-20-m-s",
-          "source": "Report.az"
-        },
         {
           "title": "В Баку и на Абшероне завтра ожидается погода без осадков",
           "snippet": "",
@@ -25,6 +19,12 @@
           "snippet": "",
           "url": "https://azertag.az/ru/xeber/obyavleno_zheltoe_preduprezhdenie_v_svyazi_s_vetrenoi_pogodoi-4367521",
           "source": "Azərtac"
+        },
+        {
+          "title": "Накрыло ветром: в Баку порывы достигли 21 м/с",
+          "snippet": "",
+          "url": "https://minval.az/news/124548858",
+          "source": "Minval Politika"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,26 +61,26 @@
       "title": "rusiya",
       "trafficCount": "500+",
       "pubDate": "Sat, 15 Aug 2026 17:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcD5j7tpx25JY7hOJYOCp3BNCbAmerEDmfN9K1DJsmgyBwgfhbeC__um2KdG0",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbkoJ4VNkAjKjl7BD3cQUj5wODf9o-oE7eRY0qxlOXg4YwvcqMeLESb961B70",
+      "pictureSource": "AP News",
       "relatedSearch": [
         {
-          "title": "Russia launches wave of strikes on Ukraine as Kyiv hits Wildberries warehouse near Moscow",
+          "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
           "snippet": "",
-          "url": "https://www.bbc.com/news/live/c61k110gny00t",
-          "source": "BBC"
+          "url": "https://apnews.com/article/russia-ukraine-war-01294bf8744282086e8f76c8130e16ba",
+          "source": "AP News"
         },
         {
-          "title": "Russia attacks Kyiv overnight, injuring three, Ukraine officials say",
+          "title": "Ukraine launches hundreds of drones into Russia in one of the largest aerial attacks of the war",
           "snippet": "",
-          "url": "https://www.reuters.com/world/europe/russian-missile-attack-kyiv-sparks-fires-injures-one-ukraine-officials-say-2026-08-16/",
+          "url": "https://www.cbsnews.com/news/ukraine-moscow-russia-drone-attack-largest-wildberries/",
+          "source": "CBS News"
+        },
+        {
+          "title": "Ukrainian drones strike Moscow region, killing one",
+          "snippet": "",
+          "url": "https://www.reuters.com/world/ukrainian-drones-strike-moscow-region-killing-one-2026-08-16/",
           "source": "Reuters"
-        },
-        {
-          "title": "Russian Offensive Campaign Assessment, August 11, 2026",
-          "snippet": "",
-          "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-august-11-2026/",
-          "source": "Institute for the Study of War"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +127,16 @@
           "source": "Transfermarkt"
         },
         {
-          "title": "ÖZET | Gençlerbirliği 2-1 Fenerbahçe",
-          "snippet": "",
-          "url": "https://beinsports.com.tr/haber/genclerbirligi-fenerbahce-10",
-          "source": "beinsports.com.tr"
-        },
-        {
           "title": "Fenerbahçe'den sert tepki: 'Bu lig devam etmez'",
           "snippet": "",
           "url": "https://www.sozcu.com.tr/mahmut-usludan-hakemlere-sert-tepki-bu-sekilde-bu-lig-devam-etmez-p349705",
           "source": "Sözcü Gazetesi"
+        },
+        {
+          "title": "(ÖZET) Fenerbahçe üstünlüğünü koruyamadı! Başkent'te kazanan Gençlerbirliği oldu | Gençlerbirliği - Fenerbahçe maç sonucu: 2-1",
+          "snippet": "",
+          "url": "https://www.fanatik.com.tr/fenerbahce/live-ozet-fenerbahce-ustunlugunu-koruyamadi-baskentte-kazanan-genclerbirligi-oldu-genclerbirligi-fenerbahce-2634400",
+          "source": "Fanatik"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,10 +161,10 @@
           "source": "CNN Türk"
         },
         {
-          "title": "Vincenzo Italiano’dan Leandro Trossard kararı!",
+          "title": "Yeni sezona ön bakış: Eyüpspor",
           "snippet": "",
-          "url": "https://ajansspor.com/haber/vincenzo-italianodan-leandro-trossard-karari-732754",
-          "source": "Ajansspor"
+          "url": "https://www.mackolik.com/futbol/haber/yeni-sezona-on-bakis-eyupspor/1526ba39-da75-456e-aa76-80857956b810",
+          "source": "Mackolik.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +183,16 @@
           "source": "Yeni Şafak"
         },
         {
+          "title": "BUGÜNKÜ MAÇLAR 15 AĞUSTOS 2026 PRORAMI: Bugün kimin maçı var, kimin maçı hangi kanalda, saat kaçta?",
+          "snippet": "",
+          "url": "https://www.milliyet.com.tr/galeri/bugunku-maclar-15-agustos-2026-takvimi-bugun-kimin-maci-var-kimin-maci-hangi-kanalda-saat-kacta-7641798",
+          "source": "Milliyet"
+        },
+        {
           "title": "Bugün kimin hangi takımın maçı var? Süper Lig ve 1. Lig heyecanı devam ediyor! 16 Ağustos maç programı: Beşiktaş - Eyüpspor maçı ne zaman saat kaçta?",
           "snippet": "",
           "url": "https://www.haberturk.com/bilgi/foto/bugun-kimin-hangi-takimin-maci-var-super-lig-ve-1-lig-heyecani-devam-ediyor-16-agustos-mac-programi-besiktas-eyupspor-maci-saat-kacta-3905937",
           "source": "Habertürk"
-        },
-        {
-          "title": "15 Ağustos maç programı: Bugün kimin maçı var? (Fenerbahçe ve Trabzonspor sahada!)",
-          "snippet": "",
-          "url": "https://www.izgazete.net/15-agustos-mac-programi-bugun-kimin-maci-var-fenerbahce-ve-trabzonspor-sahada",
-          "source": "İz Gazete"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -227,28 +227,28 @@
     },
     {
       "title": "самолет",
-      "trafficCount": "2000+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 15 Aug 2026 11:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1UnUOeJT0yetJGLA1yccj1PYIU7kDbigWMdg2C6W8wDyo-OlBtwdW9NP7EFY",
-      "pictureSource": "Vietnam.vn",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwgJuopaF-xjCuQvAcYK_tc6qXePyvJaO_Qos-YS09O0mrdcQWJLhPQN-3wO0",
+      "pictureSource": "BFM.ru",
       "relatedSearch": [
         {
-          "title": "Самолет авиакомпании Vietnam Airlines, выполнявший рейс из Германии во Вьетнам, был вынужден вернуться обратно из-за технических неполадок.",
+          "title": "Россия и Сирия возобновляют прямое авиасообщение",
           "snippet": "",
-          "url": "https://www.vietnam.vn/ru/may-bay-vietnam-airlines-tu-duc-ve-viet-nam-phai-quay-dau-vi-ly-do-ky-thuat",
-          "source": "Vietnam.vn"
+          "url": "https://www.bfm.ru/news/615271",
+          "source": "BFM.ru"
         },
         {
-          "title": "Самолет авиакомпании Vietnam Airlines, следовавший в Ханой, был вынужден вернуться в Мюнхен после взлета.",
+          "title": "Московский аэропорт Шереметьево встретил первый рейс Syrian Airlines",
           "snippet": "",
-          "url": "https://www.vietnam.vn/ru/may-bay-vietnam-airlines-bay-ve-ha-noi-phai-quay-lai-munich-sau-khi-cat-canh",
-          "source": "Vietnam.vn"
+          "url": "https://www.aa.com.tr/ru/%D0%BC%D0%B8%D1%80/%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82-%D1%88%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D1%82%D1%8C%D0%B5%D0%B2%D0%BE-%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%82%D0%B8%D0%BB-%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D1%80%D0%B5%D0%B9%D1%81-syrian-airlines/4028589",
+          "source": "Anadolu Ajansı"
         },
         {
-          "title": "В Мюнхене произошел инцидент с самолетом авиакомпании Vietnam Airlines, все пассажиры в безопасности.",
+          "title": "В Шереметьево опубликовали расписание рейсов между Дамаском и Москвой",
           "snippet": "",
-          "url": "https://www.vietnam.vn/ru/may-bay-vietnam-airlines-gap-su-co-o-munich-toan-bo-hanh-khach-an-toan",
-          "source": "Vietnam.vn"
+          "url": "https://vfokuse.mail.ru/news/69636468-v-sheremetevo-opublikovali-raspisanie-rejsov-mezhdu-damaskom-i-moskvoj/",
+          "source": "ВФокусе Mail"
         }
       ],
       "link": "https://imtaqin.id/"

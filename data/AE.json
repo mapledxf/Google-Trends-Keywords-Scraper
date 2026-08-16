@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2026-08-16 06:01:21",
+  "lastUpdate": "2026-08-16 06:53:00",
   "data": [
     {
-      "title": "icc",
+      "title": "weather today",
       "trafficCount": "100+",
+      "pubDate": "Sat, 15 Aug 2026 22:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5GlqCe-uY1GXEPoULUUthOCtBAvtt85EzoReaYVHsf2EZ-WyIbjy6eQzh1NQ",
+      "pictureSource": "KOHA.net",
+      "relatedSearch": [
+        {
+          "title": "Weather today in Kosovo",
+          "snippet": "",
+          "url": "https://www.koha.net/en/arberi/moti-sot-kryesisht-me-diell-temperaturat-deri-33-grade-celsius",
+          "source": "KOHA.net"
+        },
+        {
+          "title": "Ditë e ngrohtë sot, maksimalja deri në 35 gradë",
+          "snippet": "",
+          "url": "https://reporteri.net/en/NEWS/Warm-day-today--maximum-up-to-35-degrees/",
+          "source": "Reporteri"
+        },
+        {
+          "title": "Hot weather today",
+          "snippet": "",
+          "url": "https://periskopi.com/en/2026/8/hot-weather",
+          "source": "Periskopi"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "icc",
+      "trafficCount": "200+",
       "pubDate": "Sat, 15 Aug 2026 21:50:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlTFuhzQk9uVnr-iSvWoze6BmTbgAmzR4xzec1TDPEcdvSkJLXYysKZ3xXiOM",
       "pictureSource": "Khel Now",
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://sundayguardianlive.com/india/icc-world-cup-2027-is-october-2-being-considered-as-the-opening-date-to-honour-mahatma-gandhi-heres-what-we-know-so-far-262075/",
           "source": "The Sunday Guardian"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "today weather",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 15 Aug 2026 21:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVXF3RJjOugjhAgfmxpPMZDND7w8KMqzXm0CJR7Tbx_S8CZLbXxpgS8C_33BE",
-      "pictureSource": "The Times of India",
-      "relatedSearch": [
-        {
-          "title": "Birmingham weather today: Sunny intervals and mild temperatures expected, 20°C high",
-          "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/world/uk/birmingham-weather-today-sunny-intervals-and-mild-temperatures-expected-20c-high/articleshow/133270163.cms",
-          "source": "The Times of India"
-        },
-        {
-          "title": "Birmingham weather forecast: Sunny skies and mild temperatures expected August 10th",
-          "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/world/uk/birmingham-weather-forecast-sunny-skies-and-mild-temperatures-expected-august-10th/articleshow/133084957.cms",
-          "source": "The Times of India"
-        },
-        {
-          "title": "Birmingham weather forecast: Sunny skies and warm temperatures on August 12, 2026",
-          "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/world/uk/birmingham-weather-forecast-sunny-skies-and-warm-temperatures-on-august-12-2026/articleshow/133171152.cms",
-          "source": "The Times of India"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -87,7 +87,7 @@
     },
     {
       "title": "weather sharjah",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 15 Aug 2026 21:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfk35b-C35yI6C9MdNcserf_tHiNkjUrL-shvn4lA3dAWKvgFCPEO7BhVbsIo",
       "pictureSource": "The National",
@@ -99,9 +99,9 @@
           "source": "The National"
         },
         {
-          "title": "UAE weather: Fog alert issued; slight dip in temperatures expected",
+          "title": "UAE weather: Red, yellow alerts issued for fog; light rainfall expected",
           "snippet": "",
-          "url": "https://www.khaleejtimes.com/uae/weather/august-15-2026",
+          "url": "https://www.khaleejtimes.com/uae/weather/august-16-2026",
           "source": "Khaleej Times"
         },
         {
@@ -115,7 +115,7 @@
     },
     {
       "title": "live cricket",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 15 Aug 2026 21:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6zdOzotAgTmklRgNFYlNm18jr0TBByVa1oZd7DURJl2hnSwlOQCm13LPjnQ4",
       "pictureSource": "Cricket World",
@@ -161,10 +161,10 @@
           "source": "Gulf News"
         },
         {
-          "title": "‘Win is still in our mind’",
+          "title": "Four 300-wicket bowlers could not stop Bangladesh",
           "snippet": "",
-          "url": "https://www.daily-sun.com/winner/892495",
-          "source": "www.daily-sun.com"
+          "url": "https://en.banglanews24.com/sports/news/bd/194939.details",
+          "source": "Banglanews24"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,12 +189,21 @@
           "source": "MMAWeekly.com"
         },
         {
-          "title": "'This is not a good look'... Mackenzie Dern slammed by Joe Rogan during fight with Gillian Robertson at UFC 330",
+          "title": "Mackenzie Dern Post-Fight Press Conference | UFC 330",
           "snippet": "",
-          "url": "https://www.sporf.com/this-is-not-a-good-look-mackenzie-dern-slammed-by-joe-rogan-during-fight-with-gillian-robertson-at-ufc-330/",
-          "source": "SPORF"
+          "url": "https://www.ufc.com/video/159287",
+          "source": "UFC.com"
         }
       ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "آبوهوا",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 15 Aug 2026 19:40:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -229,54 +238,26 @@
       "title": "मौसम",
       "trafficCount": "500+",
       "pubDate": "Sat, 15 Aug 2026 19:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhpwAQ-JX7YJvKzHg609UFoL6BwTeLUOwCMfL6jP7aHOblhPhY4TwUGEgRYUQ",
-      "pictureSource": "Good News Today",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHR6tPgPY4Fg8MkVVsbN2wgz3Xxy1Pl9BvKMCkGUBfCjryV2Ml-bw8sD8n49g",
+      "pictureSource": "Dainik Bhaskar",
       "relatedSearch": [
         {
-          "title": "Top News: देशभर में मानसून का कहर, देखें देश-दुनिया की बड़ी खबरें",
+          "title": "IND vs SL Test Series Schedule; Test Match Time Table, Today’s Match Timings, Upcoming Matches Details",
           "snippet": "",
-          "url": "https://www.gnttv.com/shows/gnt-express/video/ram-lalla-jhula-vihar-in-ayodhya-after-500-years-jaipur-teej-mahotsav-and-rashtrapati-bhavan-sns-at-home-reception-frvd-1438477-2026-08-16",
-          "source": "Good News Today"
+          "url": "https://www.bhaskar.com/sports/cricket/sri-lanka-vs-india/scorecard/slin08152026272145",
+          "source": "Dainik Bhaskar"
         },
         {
-          "title": "मौसम: देश के कई हिस्सों में मूसलाधार बारिश का अनुमान",
+          "title": "क्रिकेट: श्रीलंका के खिलाफ भारत टेस्ट के दूसरे दिन 288 रन से पारी आगे बढ़ाएगा",
           "snippet": "",
-          "url": "https://newsonair.gov.in/hi/weather-heavy-rain-forecast-in-many-parts-of-the-country/",
+          "url": "https://newsonair.gov.in/hi/cricket-india-will-continue-their-innings-at-288-on-the-second-day-of-the-test-against-sri-lanka/",
           "source": "News On AIR"
         },
         {
-          "title": "यूपी-उत्तराखंड समेत कई राज्यों में भारी बारिश का ऑरेंज अलर्ट, बिहार-झारखंड में आंधी-तूफान का अनुमान",
+          "title": "सरफराज खान को नहीं मिली एंट्री, आकिब नबी-सारांश जैन भी बाहर, देखिए भारत की प्लेइंग XI",
           "snippet": "",
-          "url": "https://www.indiatv.in/india/national/imd-predicts-heavy-rainfall-over-up-bihar-mp-uttarakhand-west-bengal-jharkhand-arunachal-odisha-2026-08-16-1237560",
-          "source": "India TV Hindi"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "mitchell starc",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 15 Aug 2026 18:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs2BjoIJZ5zIO-885_0ogjiLSj37YyCuY1WzxNx05NrtCWLYuYOFO6juEIsOU",
-      "pictureSource": "The Times of India",
-      "relatedSearch": [
-        {
-          "title": "'You’re not in Bangladesh now': Mitchell Starc, Mehidy Hasan clash as visitors dominate Darwin Test - Wat",
-          "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/youre-not-in-bangladesh-now-mitchell-starc-mehidy-hasan-clash-as-visitors-dominate-darwin-test-watch/articleshow/133238380.cms",
-          "source": "The Times of India"
-        },
-        {
-          "title": "'Get off the wicket!' Mitchell Starc's heated argument with Mehidy: Tanzid's ton gives Bangladesh 153-run l...",
-          "snippet": "",
-          "url": "https://www.bhaskarenglish.in/sports/cricket/news/australia-vs-bangladesh-1st-test-day-2-tanzid-hasan-century-najmul-hossain-shanto-pat-cummins-138723306.html",
-          "source": "Bhaskar English"
-        },
-        {
-          "title": "Bangladesh dominate day two despite fiery Starc-Miraz incident",
-          "snippet": "",
-          "url": "https://tribune.com.pk/story/2623868/bangladesh-dominate-day-two-despite-fiery-starc-miraz-incident",
-          "source": "The Express Tribune"
+          "url": "https://www.livehindustan.com/cricket/ind-vs-sl-what-is-india-playing-xi-for-first-test-against-sri-lanka-sarfaraz-khan-aaqib-nabi-and-saransh-jain-no-entry-201786768142767.html",
+          "source": "Hindustan"
         }
       ],
       "link": "https://imtaqin.id/"

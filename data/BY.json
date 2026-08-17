@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-08-17 21:45:10",
+  "lastUpdate": "2026-08-17 22:00:45",
   "data": [
     {
       "title": "милиция",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 17 Aug 2026 13:20:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZgDSK7YbCMpOV7qThqZrLh0VO_8bwj5b6MoC_KF5GW-2NqkVkMrGc8lkZKc",
       "pictureSource": "Smartpress.by",
@@ -71,16 +71,16 @@
           "source": "Новости Беларуси | БелТА"
         },
         {
-          "title": "В Черном море атаковали греческий танкер с российской нефтью",
-          "snippet": "",
-          "url": "https://ru.themoscowtimes.com/2026/08/17/vchernom-more-atakovali-grecheskii-tanker-srossiiskoi-neftyu-a203686",
-          "source": "Русская служба The Moscow Times"
-        },
-        {
           "title": "В Черном море атакован греческий танкер Skiros",
           "snippet": "",
           "url": "https://ont.by/ru/world-ru/view/v-chernom-more-atakovan-grecheskij-tanker-skiros-324062-2026",
           "source": "ОНТ"
+        },
+        {
+          "title": "Россия пока не ответила на запрос Украины о перемирии на Черном море",
+          "snippet": "",
+          "url": "https://www.profinance.ru/news2/2026/08/14/cjzi-rossiya-poka-ne-otvetila-na-zapros-ukrainy-o-peremirii-na-chernom-more.html",
+          "source": "ProFinance.Ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -170,34 +170,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "динамо минск",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 17 Aug 2026 09:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKYFrNiAeQPAwMSD3Gz4LyhmkaV9SrArIqTLI7VVmh7Xf_3wb-9dyW-nRpNPo",
-      "pictureSource": "Новости Хоккея Беларуси",
-      "relatedSearch": [
-        {
-          "title": "Стало известно итоговое распределение команд на Кубке Минска",
-          "snippet": "",
-          "url": "https://belarushockey.com/kubok-minska/news/2026/08/17/stalo-izvestno-itogovoe-raspredelenie-komand-na-kubke-minska/",
-          "source": "Новости Хоккея Беларуси"
-        },
-        {
-          "title": "Сергей Брылин: многие ребята показали себя с очень хорошей стороны, и это радует",
-          "snippet": "",
-          "url": "https://hcdinamo.by/news/intervyu/sergey-brylin-mnogie-rebyata-pokazali-sebya-s-ochen-khoroshey-storony-i-eto-raduet/",
-          "source": "Динамо-Минск"
-        },
-        {
-          "title": "Хет-трик Арсения Чухраева помог минскому «Динамо» обыграть «Сибирь» и занять третье место на Belbet Кубке Минска",
-          "snippet": "",
-          "url": "https://hockey.by/news/match/news439869.html",
-          "source": "Хоккей Беларуси"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "армения",
       "trafficCount": "500+",
       "pubDate": "Mon, 17 Aug 2026 09:00:00 -0700",
@@ -277,6 +249,34 @@
           "snippet": "",
           "url": "https://news.zerkalo.io/accidents/134400.html",
           "source": "Zerkalo"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "сергей владимирович брылин",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 17 Aug 2026 08:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKYFrNiAeQPAwMSD3Gz4LyhmkaV9SrArIqTLI7VVmh7Xf_3wb-9dyW-nRpNPo",
+      "pictureSource": "Новости Хоккея Беларуси",
+      "relatedSearch": [
+        {
+          "title": "Стало известно итоговое распределение команд на Кубке Минска",
+          "snippet": "",
+          "url": "https://belarushockey.com/kubok-minska/news/2026/08/17/stalo-izvestno-itogovoe-raspredelenie-komand-na-kubke-minska/",
+          "source": "Новости Хоккея Беларуси"
+        },
+        {
+          "title": "Сергей Брылин: многие ребята показали себя с очень хорошей стороны, и это радует",
+          "snippet": "",
+          "url": "https://hcdinamo.by/news/intervyu/sergey-brylin-mnogie-rebyata-pokazali-sebya-s-ochen-khoroshey-storony-i-eto-raduet/",
+          "source": "Динамо-Минск"
+        },
+        {
+          "title": "Хет-трик Арсения Чухраева помог минскому «Динамо» обыграть «Сибирь» и занять третье место на Belbet Кубке Минска",
+          "snippet": "",
+          "url": "https://hockey.by/news/match/news439869.html",
+          "source": "Хоккей Беларуси"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,41 +1,47 @@
 {
-  "lastUpdate": "2026-08-17 12:32:46",
+  "lastUpdate": "2026-08-17 13:22:36",
   "data": [
     {
-      "title": "аэропорт",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 17 Aug 2026 05:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7ymi6h3IPTJkG-l9VWk5HnebnpAIv0RLdpgpU53yCqKVw7z7nEOl0UyKxTyQ",
-      "pictureSource": "Zerkalo",
+      "title": "18 августа",
+      "trafficCount": "1000+",
+      "pubDate": "Mon, 17 Aug 2026 05:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQN_Vq5YIxWXIjukjuShMuDbiZOfA32B4dFn1UirahanszzwudLDd0wKeTF3Ws",
+      "pictureSource": "Новости Беларуси | БелТА",
       "relatedSearch": [
         {
-          "title": "Сотни летевших из Турции российских туристов застряли в аэропорту Минска",
+          "title": "Стоит достать дождевики? Синоптики рассказали о погоде 18 августа",
           "snippet": "",
-          "url": "https://news.zerkalo.io/accidents/134391.html",
+          "url": "https://belta.by/society/view/stoit-dostat-dozhdeviki-sinoptiki-rasskazali-o-pogode-18-avgusta-796423-2026/",
+          "source": "Новости Беларуси | БелТА"
+        },
+        {
+          "title": "В Минске 18 августа резко похолодает и пройдет сильный дождь",
+          "snippet": "",
+          "url": "https://www.gismeteo.by/news/klimat/v-minske-18-avgusta-rezko-poholodaet-i-projdet-silnyj-dozhd/",
+          "source": "www.gismeteo.by"
+        },
+        {
+          "title": "Оранжевый уровень опасности объявили на 18 августа",
+          "snippet": "",
+          "url": "https://news.zerkalo.io/life/134427.html",
           "source": "Zerkalo"
-        },
-        {
-          "title": "Turkish Airlines объявила пассажирам о «наземной транспортировке» из Минска в Москву",
-          "snippet": "",
-          "url": "https://news.rambler.ua/community/56916026-turkish-airlines-obyavila-passazhiram-o-nazemnoy-transportirovke-iz-minska-v-moskvu/",
-          "source": "Рамблер"
-        },
-        {
-          "title": "Turkish Airlines объявила пассажирам о «наземной транспортировке» из Минска в Москву",
-          "snippet": "",
-          "url": "https://prospect.com.ru/news/6948471/turkish-airlines-obyavila-passagiram-o-nazemnoj-transportirovke-iz-minska-v-moskvu.html",
-          "source": "prospect.com.ru"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "канье уэст",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 17 Aug 2026 04:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1_VhrWD5pBEzh-0jFXVhhWA0Atg-lnliQmN2jpIipmC7r4jIRPYCWEVFSHBI",
-      "pictureSource": "https://www.championat.ru/",
+      "title": "канье уэст санкт петербург",
+      "trafficCount": "1000+",
+      "pubDate": "Mon, 17 Aug 2026 05:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKlw6aVKZPnJr9ra3yodBJiNstwkvCI9lBZUJvhFyXjCA9ij72SeX6SKDbjVc",
+      "pictureSource": "Smartpress.by",
       "relatedSearch": [
+        {
+          "title": "Канье Уэст выступит в Петербурге: цены на билеты и дорогу из Беларуси",
+          "snippet": "",
+          "url": "https://smartpress.by/news/kane-uest-dast-dva-kontserta-v-peterburge-v-oktyabre-bilety-stoyat-do-1-9-tysyachi/",
+          "source": "Smartpress.by"
+        },
         {
           "title": "В «Зените» отреагировали на будущий концерт Канье Уэста на «Газпром Арене»",
           "snippet": "",
@@ -43,23 +49,45 @@
           "source": "https://www.championat.ru/"
         },
         {
-          "title": "Канье Уэст выступит в Санкт-Петербурге 10 и 11 октября",
+          "title": "В Санкт-Петербурге 10 и 11 октября пройдут концерты Канье Уэста",
           "snippet": "",
-          "url": "https://bg.ru/bg/weekend/weekend-news/33243-kanye-west-spb",
-          "source": "Большой город"
+          "url": "https://tv.mail.ru/news/135084-v-sankt-peterburge-10-i-11-oktyabrya-projdut-kontsertyi-kane-uesta/",
+          "source": "ТВ Mail"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "аэропорт",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 17 Aug 2026 05:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSMuC9U_tTarHh79ffFV_zaEh_kQpYE9Wu2QBU8whDd6Ql5EPe0eqmSsVU52s",
+      "pictureSource": "TodayPress.tv",
+      "relatedSearch": [
+        {
+          "title": "Аэропорт Стамбула снова побил рекорд: более 290 тысяч пассажиров...",
+          "snippet": "",
+          "url": "https://todaypress.tv/ru/v-mire/aeroport-stambula-snova-pobil-rekord-bolee-290-tysiac-passazirov",
+          "source": "TodayPress.tv"
         },
         {
-          "title": "Раскрыта стоимость самого дорогого билета на концерт Канье Уэста в России",
+          "title": "Аэропорт Стамбула установил рекорд Европы",
           "snippet": "",
-          "url": "https://news.ru/culture/raskryta-stoimost-samogo-dorogogo-bileta-na-koncert-kane-uesta-v-rossii",
-          "source": "NEWS.ru"
+          "url": "https://www.yenisafak.com/ru/news/51110",
+          "source": "Yeni Şafak"
+        },
+        {
+          "title": "Новый аэропорт Стамбула стал рекордсменом по суточным перевозкам",
+          "snippet": "",
+          "url": "https://vestikavkaza.ru/news/novyj-aeroport-stambula-stal-rekordsmenom-po-sutocnym-perevozkam.html",
+          "source": "Вестник Кавказа"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "водитель автобуса",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 17 Aug 2026 03:50:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7_mKGRT60HBcjAdOghgSWQFk4YROqY8nTgbym0TAras4-DW1K0w3EoW25CD8",
       "pictureSource": "https://tvatv.ru/",
@@ -105,10 +133,10 @@
           "source": "Наша Ніва"
         },
         {
-          "title": "В Петербурге и Ленобласти на дорогах стартовал рейд Госавтоинспекции",
+          "title": "В Могилеве сгорел автосервис: огонь уничтожил два автомобиля",
           "snippet": "",
-          "url": "https://spbdnevnik.ru/news/2026-08-17/v-peterburge-i-lenoblasti-na-dorogakh-startoval-reyd-gosavtoinspektsii",
-          "source": "spbdnevnik.ru"
+          "url": "https://nashaniva.com/ru/402471",
+          "source": "Наша Ніва"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,26 +173,26 @@
       "title": "анталья",
       "trafficCount": "200+",
       "pubDate": "Mon, 17 Aug 2026 02:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEEVyYdvAEC9ghFpChdFaPcQr1Ze3wt_EHLF2ZxDKYqHkE1z46eQLrVbIpoYM",
-      "pictureSource": "Profi.Travel",
+      "picture": "",
+      "pictureSource": "Рамблер",
       "relatedSearch": [
         {
-          "title": "Туристы сутки не смогут вылететь в Турцию рейсами Turkish Airlines",
+          "title": "Названа стоимость отдыха Петросяна с женой в Турции",
           "snippet": "",
-          "url": "https://profi.travel/news/64972/details",
-          "source": "Profi.Travel"
+          "url": "https://news.rambler.ua/starlife/56916176-nazvana-stoimost-otdyha-petrosyana-s-zhenoy-v-turtsii/",
+          "source": "Рамблер"
         },
         {
-          "title": "Регулярные ограничения в \"Гагарине\" изменили расписание рейсов в Анталию и из нее",
+          "title": "80-летний Евгений Петросян показал фото с двухлетней дочерью: «Папина звезда!»",
           "snippet": "",
-          "url": "https://www.vzsar.ru/news/2026/08/13/regylyarnye-ogranicheniya-v-gagarine-izmenili-raspisanie-reysov-v-antaliu-i-iz-nee.html",
-          "source": "Взгляд-инфо"
+          "url": "https://tv.mail.ru/news/134518-80-letnij-evgenij-petrosyan-pokazal-foto-s-dvuhletnej-docheryu-papina-zvezda/",
+          "source": "ТВ Mail"
         },
         {
-          "title": "Туристы натерпелись страху: 2 рейса из Турции в РФ развернулись обратно",
+          "title": "«Никогда не поздно»: Брухунова показала вечерние игрища с 80-летним Петросяном",
           "snippet": "",
-          "url": "https://glavny.tv/last-news/russia/turisty-v-strahe-proshli-cherez-razvorot-dvuh-reysov-iz-turtsii-v-rossiyu/",
-          "source": "Главный Региональный"
+          "url": "https://7days.ru/news/nikogda-ne-pozdno-brukhunova-pokazala-vechernie-igrishcha-s-80letnim-petrosyanom.htm",
+          "source": "7Дней.ру"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,10 +217,10 @@
           "source": "NBC News"
         },
         {
-          "title": "Hayden Panettiere’s Death at 36 Involved No ‘Signs of Foul Play,’ Preliminary Report Reveals",
+          "title": "Hayden Panettiere: 911 Call For A Female in 'Cardiac Arrest,' Possible Overdose",
           "snippet": "",
-          "url": "https://people.com/hayden-panettiere-death-at-36-involved-no-signs-of-foul-play-report-reveals-12061083",
-          "source": "People.com"
+          "url": "https://www.tmz.com/2026/08/17/hayden-panettiere-found-dead-by-a-friend-inside-greenville-home/",
+          "source": "TMZ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,54 +257,26 @@
       "title": "снег",
       "trafficCount": "200+",
       "pubDate": "Sun, 16 Aug 2026 22:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeKOjmVsLAFriw4tyhlFE3UsEmobjvnkfaW0ZlNP2uC3rjxYVrLAD6PDB7wDk",
-      "pictureSource": "Новости Беларуси | БелТА",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRnWT0i8c1fQnnnjaGrqtsoj8uUIv8baWECDUFXgbKH5GVaDnBsh9RQ39ShDw",
+      "pictureSource": "Росбалт",
       "relatedSearch": [
         {
-          "title": "В США более 280 тыс. абонентов остались без света из-за урагана и наводнения",
+          "title": "Какая погода будет в сентябре в России: выпадет снег",
           "snippet": "",
-          "url": "https://belta.by/special/world/view/v-ssha-bolee-280-tys-abonentov-ostalis-bez-sveta-iz-za-uragana-i-navodnenija-796366-2026/",
-          "source": "Новости Беларуси | БелТА"
+          "url": "https://www.rosbalt.ru/news/2026-08-16/sneg-v-sentyabre-vypadet-v-ryade-regionov-rossii-5660443",
+          "source": "Росбалт"
         },
         {
-          "title": "На вершине Мауна-Кеа на Гавайях выпал снег",
+          "title": "Первый снег на Ямале: когда ждать осадки и метель",
           "snippet": "",
-          "url": "https://www.gismeteo.by/news/klimat/na-vershine-mauna-kea-na-gavajyah-vypal-sneg/",
-          "source": "Gismeteo"
+          "url": "https://muksun.fm/news/2026-08-17/yamalskuyu-osen-sozhmut-do-pary-nedel-pervyy-sneg-i-metel-obeschayut-uzhe-24-sentyabrya-5660972",
+          "source": "Muksun.fm"
         },
         {
-          "title": "Ураган \"Лала\" на Гавайях оставил 60 тыс. домов без электричества",
+          "title": "Синоптики назвали дату первого снегопада на Ямале",
           "snippet": "",
-          "url": "https://news.by/news/v_mire/uragan-lala-na-gavayyakh-ostavil-60-tys-domov-bez-elektrichestva",
-          "source": "News.by"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "хейден панеттьери",
-      "trafficCount": "5000+",
-      "pubDate": "Sun, 16 Aug 2026 22:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFOZLus8b7Xoa_-odZVtZ10nUHlKujyZcdMH7xgWTOXAtzOkOu5PkpvVIwHXU",
-      "pictureSource": "Onlíner",
-      "relatedSearch": [
-        {
-          "title": "Умерла актриса Хейден Панеттьери — звезда сериала «Герои» и бывшая невеста Владимира Кличко",
-          "snippet": "",
-          "url": "https://people.onliner.by/2026/08/17/umerla-aktrisa-xejden-panetteri",
-          "source": "Onlíner"
-        },
-        {
-          "title": "Появились подробности последних месяцев жизни умершей актрисы Хайден Панеттьери",
-          "snippet": "",
-          "url": "https://kino.mail.ru/news/135045-stalo-izvestno-o-problemah-so-zdorovem-u-skonchavshejsya-aktrisy-panetteri/",
-          "source": "Кино Mail"
-        },
-        {
-          "title": "Умерла актриса и бывшая жена Владимира Кличко Хейден Панеттьери",
-          "snippet": "",
-          "url": "https://www.forbes.ru/forbeslife/566770-umerla-aktrisa-i-byvsaa-zena-vladimira-klicko-hejden-panett-eri",
-          "source": "Forbes.ru"
+          "url": "https://ks-yanao.ru/news/obschestvo/pervyj-sneg-mozhet-prijti-na-jamal-uzhe-v-sentjabre",
+          "source": "Красный Север"
         }
       ],
       "link": "https://imtaqin.id/"

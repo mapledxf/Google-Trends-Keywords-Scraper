@@ -1,33 +1,52 @@
 {
-  "lastUpdate": "2026-08-18 12:37:03",
+  "lastUpdate": "2026-08-18 13:26:49",
   "data": [
     {
       "title": "alerta inumet",
       "trafficCount": "1000+",
       "pubDate": "Tue, 18 Aug 2026 02:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3b0GAwM4622YtP6Jh4NRNCIwWvk7vq8c7elTXD8eOlOspI4cwuhlCx07T-jM",
+      "pictureSource": "El Telégrafo",
+      "relatedSearch": [
+        {
+          "title": "Continuarán lluvias copiosas, tormentas y vientos fuertes",
+          "snippet": "",
+          "url": "https://www.eltelegrafo.com/2026/08/continuaran-lluvias-copiosas-tormentas-y-vientos-fuertes/",
+          "source": "El Telégrafo"
+        },
+        {
+          "title": "Inumet emitió una alerta amarilla por tormentas puntualmente fuertes: las zonas afectadas",
+          "snippet": "",
+          "url": "https://www.elpais.com.uy/informacion/servicios/inumet-alerta-amarilla-tormentas-puntualmente-fuertes-zonas-afectadas-martes-18-agosto-2026",
+          "source": "EL PAÍS Uruguay"
+        },
+        {
+          "title": "Inumet emitió un aviso especial por precipitaciones copiosas y tormentas muy fuertes hasta este jueves",
+          "snippet": "",
+          "url": "https://ladiaria.com.uy/articulo/2026/8/inumet-emitio-un-aviso-especial-por-precipitaciones-copiosas-y-tormentas-muy-fuertes-hasta-este-jueves/",
+          "source": "la diaria"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "pronostico del tiempo",
       "trafficCount": "100+",
       "pubDate": "Tue, 18 Aug 2026 02:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMR-u4e_PyDSSB5lki3QGDKv3GWFaY_pW66tEEznVPYykEEIAjSB4I2IUp0No",
-      "pictureSource": "El Observador",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqP0yP8_HQJSB2UphkvU2d6Rrc14RnAeyrb_62KEb-SI2EI7YoKw52o8HDlc",
+      "pictureSource": "EL PAÍS Uruguay",
       "relatedSearch": [
-        {
-          "title": "Clima en Uruguay hoy: lo que hay que saber según Inumet para este martes 18 de agosto",
-          "snippet": "",
-          "url": "https://www.elobservador.com.uy/nacional/clima-uruguay-hoy-lo-que-hay-que-saber-segun-inumet-este-martes-18-agosto-n6054345",
-          "source": "El Observador"
-        },
         {
           "title": "Tiempo de hoy martes 18 de agosto: temperaturas, lluvias y tormentas, según el pronóstico de Inumet",
           "snippet": "",
           "url": "https://www.elpais.com.uy/informacion/servicios/el-pronostico-para-el-martes-18-de-agosto-de-2026-como-estara-el-tiempo-en-cada-zona-del-pais-segun-inumet",
           "source": "EL PAÍS Uruguay"
+        },
+        {
+          "title": "Clima en Uruguay hoy: lo que hay que saber según Inumet para este martes 18 de agosto",
+          "snippet": "",
+          "url": "https://www.elobservador.com.uy/nacional/clima-uruguay-hoy-lo-que-hay-que-saber-segun-inumet-este-martes-18-agosto-n6054345",
+          "source": "El Observador"
         },
         {
           "title": "Lunes con lluvias y tormentas y rachas de viento de hasta 60Km/h",
@@ -40,11 +59,17 @@
     },
     {
       "title": "frío",
-      "trafficCount": "2000+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 18 Aug 2026 01:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuZhZAgZWoGq7Qr2KVo9FIivNjPdSXbh2uGiCKmhuoK4SQczFtX35Skspugko",
-      "pictureSource": "subrayado.com.uy",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzrHVG5cKpOrF69G0b0bwDZ18G7bc4xmTfx_7I9Ek7ZHdN_AyHZCLnP7YUGF0",
+      "pictureSource": "El Economista",
       "relatedSearch": [
+        {
+          "title": "El frío no puede encontrarnos a ciegas",
+          "snippet": "",
+          "url": "https://www.eleconomista.com.mx/opinion/frio-encontrarnos-ciegas-20260818-828763.html",
+          "source": "El Economista"
+        },
         {
           "title": "Se viene un fin de semana muy frío con probables chaparrones de aguanieve en la costa de San José a Rocha",
           "snippet": "",
@@ -56,12 +81,6 @@
           "snippet": "",
           "url": "https://diariocambio.com.uy/se-viene-un-fin-de-semana-muy-frio-con-probables-chaparrones-de-aguanieve",
           "source": "Diario Cambio Salto"
-        },
-        {
-          "title": "SUNCA aprobó preacuerdo y mañana se firma con las cámaras",
-          "snippet": "",
-          "url": "https://maldonadonoticias.com/beta/actualidad/30295-fin-de-semana-gris,-h%C3%BAmedo-y-con-nubosidad-prev%C3%A9-inumet.html",
-          "source": "Maldonado Noticias"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -151,6 +170,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "aguanieve",
+      "trafficCount": "1000+",
+      "pubDate": "Mon, 17 Aug 2026 15:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuZhZAgZWoGq7Qr2KVo9FIivNjPdSXbh2uGiCKmhuoK4SQczFtX35Skspugko",
+      "pictureSource": "subrayado.com.uy",
+      "relatedSearch": [
+        {
+          "title": "Se viene un fin de semana muy frío con probables chaparrones de aguanieve en la costa de San José a Rocha",
+          "snippet": "",
+          "url": "https://www.subrayado.com.uy/se-viene-un-fin-semana-muy-frio-probables-chaparrones-aguanieve-la-costa-san-jose-rocha-n1015536",
+          "source": "subrayado.com.uy"
+        },
+        {
+          "title": "Se viene un fin de semana muy frío con probables chaparrones de aguanieve",
+          "snippet": "",
+          "url": "https://diariocambio.com.uy/se-viene-un-fin-de-semana-muy-frio-con-probables-chaparrones-de-aguanieve",
+          "source": "Diario Cambio Salto"
+        },
+        {
+          "title": "SUNCA aprobó preacuerdo y mañana se firma con las cámaras",
+          "snippet": "",
+          "url": "https://maldonadonoticias.com/beta/actualidad/30295-fin-de-semana-gris,-h%C3%BAmedo-y-con-nubosidad-prev%C3%A9-inumet.html",
+          "source": "Maldonado Noticias"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "internacional - remo",
       "trafficCount": "500+",
       "pubDate": "Mon, 17 Aug 2026 15:40:00 -0700",
@@ -226,38 +273,10 @@
           "source": "Infobae"
         },
         {
-          "title": "Escándalo en el final de Vélez - Defensa y Justicia: así fue el cruce entre Guillermo Barros Schelotto y Vaccari",
+          "title": "Vélez vs. Defensa y Justicia terminó en escándalo y con pelea Vaccari-Guillermo",
           "snippet": "",
-          "url": "https://tn.com.ar/deportes/futbol/2026/08/17/escandalo-tras-el-partido-de-velez-con-defensa-y-justicia-el-fuerte-cruce-de-guillermo-barros-schelotto-con-un-dt-rival/",
-          "source": "TN"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "casa pia - benfica",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 17 Aug 2026 14:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSs7ajdVSAfeOSSPBiXFt1B19MeTO2-qGZSrS79WLEdntF_ZzvckMRWi3SOoTk",
-      "pictureSource": "Disney Plus",
-      "relatedSearch": [
-        {
-          "title": "Assistir a Casa Pia x Benfica | Disney+",
-          "snippet": "",
-          "url": "https://www.disneyplus.com/pt-br/browse/entity-0900b057-0bfe-4c01-a2b2-d5d21e6f9b72",
-          "source": "Disney Plus"
-        },
-        {
-          "title": "13.º Passeio de BTT Noturno Dia 22 de agosto, sábado, 20h30, Santa Catarina de …",
-          "snippet": "",
-          "url": "https://sapo.pt/artigo/13-passeio-de-btt-noturno-dia-22-de-agosto-sabado-20h30-santa-catarina-de-6a841ad07b96e18390fc8533",
-          "source": "SAPO"
-        },
-        {
-          "title": "Marco Silva e a reação desejada para a segunda jornada",
-          "snippet": "",
-          "url": "https://www.sporttv.pt/noticias/764025/marco-silva-e-a-reacao-desejada-para-a-segunda-jornada",
-          "source": "Sport TV"
+          "url": "https://www.espn.com.uy/futbol/argentina/nota/_/id/17131395/velez-vs-defensa-y-justicia-termino-con-pelea-guillermo-vaccari-que-paso",
+          "source": "ESPN Uruguay"
         }
       ],
       "link": "https://imtaqin.id/"

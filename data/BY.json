@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-08-18 08:54:55",
+  "lastUpdate": "2026-08-18 09:23:01",
   "data": [
     {
       "title": "автобус",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 18 Aug 2026 01:30:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4TgM85zhbXPUuOwVOACAXkCMq_qC3SmAyL-16HU4zr7yUQMCRAAHtB3m9aZQ",
       "pictureSource": "Новости Нурлата",
@@ -21,21 +21,40 @@
           "source": "Волгодонская Правда"
         },
         {
-          "title": "В Камышине проверили безопасность школьных автобусов",
+          "title": "В Неклиновском районе проходит операция «Школьный автобус»",
           "snippet": "",
-          "url": "https://dialog1918.ru/archives/181845",
-          "source": "dialog1918.ru/feed"
+          "url": "https://priazovstep.ru/v-neklinovskom-rajone-prohodit-operacziya-shkolnyj-avtobus-2/",
+          "source": "priazovstep.ru"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "трактор",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 17 Aug 2026 22:40:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMHK97STNsB8fftTvDwR1Ha0l00rjFx2IIkmjhs6VP62COxFpu-1O0OdXAlmE",
+      "pictureSource": "Auto Onliner",
+      "relatedSearch": [
+        {
+          "title": "Повредил три авто и пытался скрыться: тракториста-бесправника задержали",
+          "snippet": "",
+          "url": "https://auto.onliner.by/2026/08/17/povredil-tri-avto",
+          "source": "Auto Onliner"
+        },
+        {
+          "title": "В Минском районе бесправник на тракторе повредил три легковушки и попытался скрыться",
+          "snippet": "",
+          "url": "https://belta.by/incident/view/v-minskom-rajone-bespravnik-na-traktore-povredil-tri-legkovushki-i-popytalsja-skrytsja-796494-2026",
+          "source": "Новости Беларуси | БелТА"
+        },
+        {
+          "title": "В Минском районе тракторист без водительского удостоверения повредил три авто и попытался скрыться",
+          "snippet": "",
+          "url": "https://www.sb.by/articles/v-minskom-rayone-voditel-traktora-bez-voditelskogo-udostovereniya-povredil-tri-avto-i-popytalsya-skr.html",
+          "source": "СБ. Беларусь сегодня"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -95,28 +114,56 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "погода",
+      "trafficCount": "50000+",
+      "pubDate": "Mon, 17 Aug 2026 20:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmeZrMiEZm8XrVfCrHrGRzKnqg6hvvBIp745FMkE0bs0wsXFkisy7ID79UsQc",
+      "pictureSource": "MenToday",
+      "relatedSearch": [
+        {
+          "title": "Дожди испортят июльское тепло: погода и магнитные бури в Москве 18 августа",
+          "snippet": "",
+          "url": "https://www.mentoday.ru/life/news/18-08-2026/dojdi-isportyat-iyulskoe-teplo-pogoda-i-magnitnye-buri-v-moskve-18-avgusta/",
+          "source": "MenToday"
+        },
+        {
+          "title": "Дыхание осени: прогноз погоды в Москве на 17―23 августа",
+          "snippet": "",
+          "url": "https://rtvi.com/news/dyhanie-oseni-prognoz-pogody-v-moskve-na-17-23-avgusta/",
+          "source": "RTVI"
+        },
+        {
+          "title": "Вторник в Москве будет теплым, но с дождем",
+          "snippet": "",
+          "url": "https://360.ru/news/obschestvo/vtornik-v-moskve-budet-teplym-no-s-dozhdem/",
+          "source": "360.ru"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "погода бобруйск",
       "trafficCount": "100+",
       "pubDate": "Mon, 17 Aug 2026 20:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvopVWEyJRERaVp_HmyPgiw-Dutd7f66TVFoXqZnv1raN9EEaY-LxH6qKk2Os",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThoUUwfQd0y5T3ZCpKl1ig0015SnJPSzugbh9DQuSjus3pWQp6bQK7s7oM1R4",
       "pictureSource": "BOBR.BY",
       "relatedSearch": [
         {
-          "title": "Погода на 18 августа в Бобруйске",
+          "title": "Погода на 17 августа в Бобруйске",
           "snippet": "",
-          "url": "https://bobr.by/news/relevant/198472",
+          "url": "https://bobr.by/news/relevant/198464",
+          "source": "BOBR.BY"
+        },
+        {
+          "title": "Погода на 10 августа в Бобруйске",
+          "snippet": "",
+          "url": "https://bobr.by/news/relevant/198383",
           "source": "BOBR.BY"
         },
         {
           "title": "Погода на 13 августа в Бобруйске",
           "snippet": "",
           "url": "https://bobr.by/news/relevant/198419",
-          "source": "BOBR.BY"
-        },
-        {
-          "title": "Погода на 16 августа в Бобруйске",
-          "snippet": "",
-          "url": "https://bobr.by/news/relevant/198456",
           "source": "BOBR.BY"
         }
       ],
@@ -126,26 +173,26 @@
       "title": "топливо",
       "trafficCount": "500+",
       "pubDate": "Mon, 17 Aug 2026 20:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEr0mlF6z7CJR_PGUIHbqRksYnIjFrAZo1M6GpWPmLOzNjVxie3ELpFnqeFII",
-      "pictureSource": "Национальная Служба Новостей",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgGTDriMuhB83_1X152FDqg6qgJ5FBMSSiKdCKXaCdmOeHEpeoFh6rheCcA8c",
+      "pictureSource": "URA.RU",
       "relatedSearch": [
         {
-          "title": "СМИ: Ремонты на НПЗ РФ и Белоруссии могут привести к нехватке топлива в сентябре",
+          "title": "Ситуация с топливом осложнилась на АЗС на юге России",
           "snippet": "",
-          "url": "https://nsn.fm/economy/smi-remonty-na-npz-rf-i-belorussii-mogut-privesti-k-nehvatke-topliva-v-sentyabre",
-          "source": "Национальная Служба Новостей"
+          "url": "https://ura.news/news/1053119245",
+          "source": "URA.RU"
         },
         {
-          "title": "В России новая волна топливного кризиса: что будет с бензином осенью",
+          "title": "Ситуация с бензином в Сочи и на трассе М‑4 «Дон»: сводка для автотуристов, 17 августа",
           "snippet": "",
-          "url": "https://rtvi.com/news/v-rossii-novaya-volna-toplivnogo-krizisa-chto-budet-s-benzinom-osenyu/",
-          "source": "RTVI"
+          "url": "https://www.tourprom.ru/news/88360/",
+          "source": "Tourprom"
         },
         {
-          "title": "Регионам Урала и Сибири вновь велели свозить бензин в Москву",
+          "title": "Бензина на всех не хватает. Чтобы не обижать инвалидов, в Сочи на АЗС установили особые правила",
           "snippet": "",
-          "url": "https://ru.themoscowtimes.com/2026/08/17/regionam-urala-isibiri-vnov-veleli-svozit-benzin-vmoskvu-a203628",
-          "source": "Русская служба The Moscow Times"
+          "url": "https://www.livekuban.ru/news/zhizn/benzina-na-vsekh-ne-khvataet-chtoby-ne-obizhat-invalidov-v-sochi-na-azs-ustanovili-osobye-pravila",
+          "source": "Живая Кубань"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,34 +258,6 @@
           "snippet": "",
           "url": "https://nashkraj.by/news/kaleydoskop/17-avgusta-v-kalendare-po-etomu-dnyu-opredelyali-kakim-budet-noyabr/",
           "source": "Наш край"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "милиция",
-      "trafficCount": "10000+",
-      "pubDate": "Mon, 17 Aug 2026 13:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZgDSK7YbCMpOV7qThqZrLh0VO_8bwj5b6MoC_KF5GW-2NqkVkMrGc8lkZKc",
-      "pictureSource": "Smartpress.by",
-      "relatedSearch": [
-        {
-          "title": "Милиция стала выборочно прослушивать звонки белорусов? Вот о чем нельзя говорить по телефону",
-          "snippet": "",
-          "url": "https://smartpress.by/news/militsiya-stala-vyborochno-proslushivat-zvonki-belorusov-vot-o-chem-nelzya-govorit-po-telefonu/",
-          "source": "Smartpress.by"
-        },
-        {
-          "title": "Брестчанка поверила телефонным аферистам и перевела на \"безопасный счет\" более 37 тыс. рублей",
-          "snippet": "",
-          "url": "https://belta.by/regions/view/brestchanka-poverila-telefonnym-aferistam-i-perevela-na-bezopasnyj-schet-bolee-37-tys-rublej-796046-2026/",
-          "source": "Новости Беларуси | БелТА"
-        },
-        {
-          "title": "Поверила мошенникам и лишилась денег",
-          "snippet": "",
-          "url": "https://www.malorita.by/?p=142394",
-          "source": "malorita.by"
         }
       ],
       "link": "https://imtaqin.id/"

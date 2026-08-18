@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2026-08-18 02:47:42",
+  "lastUpdate": "2026-08-18 03:30:09",
   "data": [
     {
+      "title": "claude",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 17 Aug 2026 20:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4RwWJ6rbnaGFRSoIAVYuSt8uvf6ZbIqWY1-fLJXw1mPYI7b2s2XdcEMzLHJU",
+      "pictureSource": "Anthropic",
+      "relatedSearch": [
+        {
+          "title": "How Claude's text watermarking works",
+          "snippet": "",
+          "url": "https://www.anthropic.com/news/claude-text-watermark",
+          "source": "Anthropic"
+        },
+        {
+          "title": "What Claude's AI text watermark actually does",
+          "snippet": "",
+          "url": "https://mashable.com/tech/what-claude-ai-text-watermark-actually-does",
+          "source": "Mashable"
+        },
+        {
+          "title": "Claude Users Can’t Opt Out Of New Watermarks—Here’s What We Know",
+          "snippet": "",
+          "url": "https://www.forbes.com/sites/maryroeloffs/2026/08/11/claude-will-put-invisible-watermarks-on-ai-text-and-images-and-the-internet-isnt-happy/",
+          "source": "Forbes"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "venäjä",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 17 Aug 2026 19:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWxiJmQ8MbU2weglhnmF8OdZkhU5HT7nW8AmPIFXIPIj7KAgxGIaMIVGUzpjk",
       "pictureSource": "Iltalehti",
@@ -55,33 +83,33 @@
       "title": "uutiset tänään",
       "trafficCount": "500+",
       "pubDate": "Mon, 17 Aug 2026 15:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_vAX5DMLPgumP1Y1AST-2FpV26vgo533PekCKajk_IXnOoqo0tTYkgKPbxJ0",
-      "pictureSource": "Yle",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR3t8SQ6Ulk48ki5foFMlCfGY8pf0jQGgf7YkK73-E_fByrV-YM7MlxudjLnc",
+      "pictureSource": "Iltalehti",
       "relatedSearch": [
         {
-          "title": "Tutkimus: Ikääntyvät aiempaa luultua haavoittuvaisempia ilmaston lämpenemiselle",
+          "title": "Toimittaja testasi Alisa Vainion maratonvauhtia – Näin pian tuli noutaja",
           "snippet": "",
-          "url": "https://yle.fi/uutiset/lyhyesti/74-20241525",
-          "source": "Yle"
-        },
-        {
-          "title": "Toimitusjohtajan ampumisesta epäillyn Mangionen osavaltion tason oikeudenkäyntiä lykättiin",
-          "snippet": "",
-          "url": "https://www.savonsanomat.fi/uutissuomalainen/9708382",
-          "source": "Savon Sanomat"
-        },
-        {
-          "title": "Luigi Mangione tunnusti syyllisyytensä",
-          "snippet": "",
-          "url": "https://www.iltalehti.fi/ulkomaat/a/83bf68d0-0bf6-41a8-a7b2-037feff3d5a2",
+          "url": "https://www.iltalehti.fi/yleisurheilu/a/0c0f4e60-4a88-4062-a851-4067095ef386",
           "source": "Iltalehti"
+        },
+        {
+          "title": "Nyt tuli melkoinen tieto Alisa Vainion palkkiosta – ”Päätös on tehty”",
+          "snippet": "",
+          "url": "https://www.is.fi/yleisurheilu/art-2000012211630.html",
+          "source": "Ilta-Sanomat"
+        },
+        {
+          "title": "Yleisurheilun EM | Raimo Helminen putosi penkiltä, kun näki Alisa Vainion mestaruusjuoksun",
+          "snippet": "",
+          "url": "https://www.hs.fi/urheilu/art-2000012211686.html",
+          "source": "HS.fi"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "horoskooppi",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 17 Aug 2026 14:10:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeSww9eJHM4COS_GivPRWsieVUq29nzqJkbhhMoVPGYRckHmMPyY8QzafItSQ",
       "pictureSource": "Ilta-Sanomat",
@@ -227,15 +255,6 @@
           "source": "Seura.fi"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "eveliina heinäluoma",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 17 Aug 2026 11:20:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]

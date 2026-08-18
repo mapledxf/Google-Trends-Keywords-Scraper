@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-08-18 11:37:12",
+  "lastUpdate": "2026-08-18 11:56:35",
   "data": [
     {
       "title": "эльбрус",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 18 Aug 2026 03:40:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwUWuV9o3tCFaxVcCQTmNYmvX2fiXwjJBof13m7hBURpqHOb2V_RS-0NvGa0I",
       "pictureSource": "Meduza — Новости",
@@ -33,7 +33,7 @@
       "title": "колбаса",
       "trafficCount": "500+",
       "pubDate": "Tue, 18 Aug 2026 02:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJMxjJ-Xs8u6aqzpyKzqst-86bGApH7m369H_VIP1fk7XvvWo_T4BK-GlzqZ8",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzEAvcCAK2OxNSvDu-LnhFH_BIyImyuqrE-6S-MW8iDat3egwxvuCjaqo5RDM",
       "pictureSource": "Onlíner",
       "relatedSearch": [
         {
@@ -161,10 +161,10 @@
           "source": "Новости Беларуси | БелТА"
         },
         {
-          "title": "В Минском районе тракторист без водительского удостоверения повредил три авто и попытался скрыться",
+          "title": "Тракторист-бесправник зацепил три иномарки в Минском районе и попытался сбежать",
           "snippet": "",
-          "url": "https://www.sb.by/articles/v-minskom-rayone-voditel-traktora-bez-voditelskogo-udostovereniya-povredil-tri-avto-i-popytalsya-skr.html",
-          "source": "СБ. Беларусь сегодня"
+          "url": "https://mlyn.by/17082026/traktorist-bespravnik-zaczepil-tri-inomarki-v-minskom-rajone-i-popytalsya-sbezhat/",
+          "source": "Минская правда"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,6 +226,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "погода",
+      "trafficCount": "50000+",
+      "pubDate": "Mon, 17 Aug 2026 20:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmeZrMiEZm8XrVfCrHrGRzKnqg6hvvBIp745FMkE0bs0wsXFkisy7ID79UsQc",
+      "pictureSource": "MenToday",
+      "relatedSearch": [
+        {
+          "title": "Дожди испортят июльское тепло: погода и магнитные бури в Москве 18 августа",
+          "snippet": "",
+          "url": "https://www.mentoday.ru/life/news/18-08-2026/dojdi-isportyat-iyulskoe-teplo-pogoda-i-magnitnye-buri-v-moskve-18-avgusta/",
+          "source": "MenToday"
+        },
+        {
+          "title": "Дыхание осени: прогноз погоды в Москве на 17―23 августа",
+          "snippet": "",
+          "url": "https://rtvi.com/news/dyhanie-oseni-prognoz-pogody-v-moskve-na-17-23-avgusta/",
+          "source": "RTVI"
+        },
+        {
+          "title": "Вторник в Москве будет теплым, но с дождем",
+          "snippet": "",
+          "url": "https://360.ru/news/obschestvo/vtornik-v-moskve-budet-teplym-no-s-dozhdem/",
+          "source": "360.ru"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "погода бобруйск",
       "trafficCount": "100+",
       "pubDate": "Mon, 17 Aug 2026 20:20:00 -0700",
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://bobr.by/news/relevant/198464",
           "source": "BOBR.BY"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "топливо",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 17 Aug 2026 20:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEnGQeG0urnwg2wgvu6ocSc_AJCm3Yn1Rl_4kPih-ckh_hJiDGq9IBqTN56WM",
-      "pictureSource": "DW.com",
-      "relatedSearch": [
-        {
-          "title": "РФ атаковала энергетическую инфраструктуру и порт в Украине",
-          "snippet": "",
-          "url": "https://www.dw.com/ru/rf-atakovala-energeticeskuu-i-portovuu-infrastrukturu-ukrainy/a-78394925",
-          "source": "DW.com"
-        },
-        {
-          "title": "Возле Одессы в Черном море накрыли сухогруз, везший на Украину западное оружие",
-          "snippet": "",
-          "url": "https://www.eadaily.com/ru/news/2026/08/16/vozle-odessy-v-chernom-more-nakryli-suhogruz-vezshiy-na-ukrainu-zapadnoe-oruzhie",
-          "source": "EADaily"
-        },
-        {
-          "title": "Русская ярость вскипела как волна: наши войска бахнули очень сильно — на Украине огненное пекло",
-          "snippet": "",
-          "url": "https://dzen.ru/a/aoMHfcrFknuN7L6z",
-          "source": "Дзен"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-19 14:56:11",
+  "lastUpdate": "2026-08-19 15:24:43",
   "data": [
     {
       "title": "biatlons",
@@ -31,21 +31,15 @@
     },
     {
       "title": "lietus",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 19 Aug 2026 06:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRg2M_5bN6lnMDOaowKMu7VtoUeI-fmK0njFOHEnH5CvtTdgpAINvTP1mrq8c",
-      "pictureSource": "NRA",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThPUCVVBfgjktHuK3B9zzmyDU0kM5mKzE-vSoXIE0U0XsoISX3u1qcXlUGnUw",
+      "pictureSource": "Jauns.lv",
       "relatedSearch": [
         {
-          "title": "Zināma laika prognoze atlikušajai nedēļai",
+          "title": "Sinoptiķu prognoze: Latvijai tuvojas lietus un pērkona negaiss",
           "snippet": "",
-          "url": "https://nra.lv/laika-zinas/528031-laika-prognoze-lidz-23-08.htm",
-          "source": "NRA"
-        },
-        {
-          "title": "Daļā Latvijas gaidāms ilgstošs lietus: sinoptiķi atklāj, kurā reģionā līs visvairāk",
-          "snippet": "",
-          "url": "https://jauns.lv/raksts/zinas/724302-dala-latvijas-gaidams-ilgstoss-lietus-sinoptiki-atklaj-kura-regiona-lis-visvairak",
+          "url": "https://jauns.lv/raksts/zinas/724554-sinoptiku-prognoze-latvijai-tuvojas-lietus-un-perkona-negaiss",
           "source": "Jauns.lv"
         },
         {
@@ -53,13 +47,19 @@
           "snippet": "",
           "url": "https://press.lv/lat/post/jaunnedel-laiks-bus-lietainaks-un-mazliet-vesaks",
           "source": "Press.lv"
+        },
+        {
+          "title": "Sinoptiķi brīdina par stipru lietu un pērkonu tuvākajās dienās. Kad atgriezīsies sausāks laiks?",
+          "snippet": "",
+          "url": "https://www.la.lv/sinoptiki-bridina-par-stipru-lietu-un-perkonu-tuvakajas-dienas-kad-atgriezisies-sausaks-laiks",
+          "source": "LA.LV"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "штраф",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Wed, 19 Aug 2026 06:30:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIvC6rhAzxOB2OaES3_XT9FoxhfqEvVmrO98rHROfYdEvXxrG7ZMgzM9wr-t0",
       "pictureSource": "Meduza",
@@ -89,28 +89,9 @@
       "title": "дождь",
       "trafficCount": "200+",
       "pubDate": "Wed, 19 Aug 2026 05:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJlpCaEuFop3Wqu8qJ5iGgjeyzbAtskuw8-zM7VKTJ0_mZbr3CLl6dMOH_tSg",
-      "pictureSource": "TengriNews",
-      "relatedSearch": [
-        {
-          "title": "Сильные дожди обрушатся на Казахстан",
-          "snippet": "",
-          "url": "https://tengrinews.kz/kazakhstan_news/silnyie-dojdi-obrushatsya-na-kazahstan-606500/",
-          "source": "TengriNews"
-        },
-        {
-          "title": "Экстремальная жара до +40°С вернется в Казахстан",
-          "snippet": "",
-          "url": "https://www.zakon.kz/obshestvo/6528511-ekstremalnaya-zhara-do-40s-vernetsya-v-kazakhstan.html",
-          "source": "Новости Zakon.kz"
-        },
-        {
-          "title": "Жару до +41 градуса, дожди и град прогнозируют в Казахстане",
-          "snippet": "",
-          "url": "https://informburo.kz/novosti/zaru-do-41-gradusa-dozdi-i-grad-prognoziruiut-v-kazaxstane",
-          "source": "Informburo.kz"
-        }
-      ],
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -220,16 +201,16 @@
           "source": "Sportbox"
         },
         {
-          "title": "Принял решение: тренер Жироны рассказал о ситуации с Цыганковым перед туром",
-          "snippet": "",
-          "url": "https://www.ua-football.com/ukrainian/ukrainians/1787145979-prinyal-reshenie-trener-zhirony-rasskazal-o-situacii-s-cygankovym-pered-turom.html",
-          "source": "UA-Football"
-        },
-        {
           "title": "Тренер Жироны выступил с заявлением о Ванате и Цыганкове после скандала",
           "snippet": "",
           "url": "https://sport.ua/news/899469-trener-zhironyvystupil-s-zayavleniem-o-vanate-i-tsygankove-posle-skandala",
           "source": "Sport.ua"
+        },
+        {
+          "title": "«Жирона» открыла дисциплинарное дело против украинца Цыганкова",
+          "snippet": "",
+          "url": "https://sportmail.ru/article/football-foreign/72038207/",
+          "source": "Спорт Mail"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -238,26 +219,26 @@
       "title": "новости",
       "trafficCount": "200+",
       "pubDate": "Tue, 18 Aug 2026 19:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPkI5ToeOM9U4pmwaEBQwMEQph1FVSfsJXNJB2fQkJMO_Z5vxqIcivXBNkWmc",
-      "pictureSource": "Финансы Mail",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6zuS1SOitG3BOPPyKggggAv7fQsvu-0ZrrNxJUM7nzFXwmVB4OgtWTzpy_zE",
+      "pictureSource": "Наша Газета",
       "relatedSearch": [
         {
-          "title": "Минфин США удвоит объем выкупа госдолга для стабилизации рынка облигаций",
+          "title": "Астана теперь в Костанае – здесь открыли фабрику «Кондитерская столица»",
           "snippet": "",
-          "url": "https://finance.mail.ru/article/minfin-ssha-udvoit-obem-vyikupa-gosdolga-dlya-stabilizatsii-ryinka-obligatsij-69223526/",
-          "source": "Финансы Mail"
+          "url": "https://ng.kz/news/astana-teper-v-kostanae-zdes-otkryli-fabriku-konditerskaya-stolitsa",
+          "source": "Наша Газета"
         },
         {
-          "title": "Доходность 30-летних облигаций США достигла максимума за 19 лет / 18.08.2026",
+          "title": "Баян Сулу запустила масштабный инвестпроект на 20 млрд тенге",
           "snippet": "",
-          "url": "https://thebell.io/dokhodnost-30-letnikh-obligatsiy-ssha-dostigla-maksimuma-za-19-let",
-          "source": "The Bell"
+          "url": "https://kapital.kz/economic/151866/bayan-sulu-zapustila-masshtabnyj-investproekt-na-20-mlrd-tenge.html",
+          "source": "Kapital.kz"
         },
         {
-          "title": "Доходность казначейских облигаций США достигла максимума с 2007",
+          "title": "«Баян Сулу» вложит 20 млрд тенге в новый комплекс в Костанае",
           "snippet": "",
-          "url": "https://bcs-express.ru/novosti-i-analitika/mirovye-rynki/dokhodnost-kaznacheiskikh-obligatsii-ssha-dostigla-maksimuma-s-2007",
-          "source": "БКС Экспресс"
+          "url": "https://dknews.kz/ru/biznes/401476-bayan-sulu-vlozhit-20-mlrd-tenge-v-novyy-kompleks-v",
+          "source": "DKNews.kz"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,30 +1,226 @@
 {
-  "lastUpdate": "2026-08-19 04:08:07",
+  "lastUpdate": "2026-08-19 04:48:17",
   "data": [
     {
-      "title": "sports",
+      "title": "погода",
       "trafficCount": "200+",
-      "pubDate": "Tue, 18 Aug 2026 20:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMQbzxF0XhRAOuYo62cUXDJi24ofjEs3m9Dz9_zCsbnKMjeYxRtOoKCcgoATE",
-      "pictureSource": "RFI",
+      "pubDate": "Tue, 18 Aug 2026 21:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1Qi_aoUhxWDtjr2Frr-H8wZnCOlDfqvPSwbbi8FiHzFi44QAGFWH3SM_eP48",
+      "pictureSource": "GISMETEO.Новости",
       "relatedSearch": [
         {
-          "title": "Five Premier League stars to watch this season",
+          "title": "В столичном регионе 19 августа будет ветрено",
           "snippet": "",
-          "url": "https://www.rfi.fr/en/sports/20260819-five-premier-league-stars-to-watch-this-season",
+          "url": "https://www.gismeteo.ru/news/weather/v-stolichnom-regione-19-avgusta-budet-vetreno/",
+          "source": "GISMETEO.Новости"
+        },
+        {
+          "title": "Гроза ожидается в Москве",
+          "snippet": "",
+          "url": "https://www.interfax.ru/moscow/1110005",
+          "source": "Интерфакс"
+        },
+        {
+          "title": "В Москве и Подмосковье объявили «желтый» уровень погодной опасности",
+          "snippet": "",
+          "url": "https://www.gazeta.press/social/news/2026/08/18/29131231.shtml",
+          "source": "Газета"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "hava durumu",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 18 Aug 2026 21:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS48P2n_bAm05XU4kyTpI6aONZmWUMD5kTiBqZ8Of3ZsdkttnWVt6Zenr4MWqo",
+      "pictureSource": "24 Saat Gazetesi Ankara",
+      "relatedSearch": [
+        {
+          "title": "Ankara hava durumu: Meteoroloji uyardı! Ankara'da çöl sıcakları etkili oluyor (19 Ağustos 2026 ilçe ilçe hava durumu)",
+          "snippet": "",
+          "url": "https://www.24saatgazetesi.com/ankara-hava-durumu-meteoroloji-uyardi-ankarada-col-sicaklari-etkili-oluyor-19-agustos-2026-ilce-ilce-hava-durumu-1",
+          "source": "24 Saat Gazetesi Ankara"
+        },
+        {
+          "title": "Ankara'da bugün parçalı bulutlu hava hakim olacak",
+          "snippet": "",
+          "url": "https://www.baskentgazete.com.tr/ankarada-bugun-parcali-bulutlu-hava-hakim-olacak",
+          "source": "Başkent Gazetesi"
+        },
+        {
+          "title": "Ankara’da sıcaklıklar yükseliyor: Hafta sonu 35 derece",
+          "snippet": "",
+          "url": "https://www.gazeteilksayfa.com/ankarada-sicakliklar-yukseliyor-hafta-sonu-35-derece-309133h.htm",
+          "source": "Gazete İlk Sayfa"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "prison",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 18 Aug 2026 21:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJxzOhdGk7QProtNaQBLYZluZ3IfTGBPBH1QC-mD4zSxmlyjslD4OtZFZA-wk",
+      "pictureSource": "The Arkansas Democrat-Gazette",
+      "relatedSearch": [
+        {
+          "title": "Franklin County prison proposal canceled; officials working on plan to expand existing prisons",
+          "snippet": "",
+          "url": "https://www.arkansasonline.com/news/2026/aug/17/franklin-county-prison-proposal-cancelled/",
+          "source": "The Arkansas Democrat-Gazette"
+        },
+        {
+          "title": "Newport’s Grimes Unit joins Batesville, Calico Rock in state expansion talks",
+          "snippet": "",
+          "url": "https://www.whiterivernow.com/2026/08/17/newports-grimes-unit-joins-batesville-calico-rock-in-state-expansion-talks/",
+          "source": "White River Now"
+        },
+        {
+          "title": "Memo says state ‘should consider’ shuttering Texarkana correctional center",
+          "snippet": "",
+          "url": "https://www.texarkanagazette.com/news/2026/aug/17/memo-says-state-should-consider-shuttering/",
+          "source": "Texarkana Gazette"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "clima",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 18 Aug 2026 21:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4TlexNvID7ubh9-RtOmCGSi5Qo6B17c1tyLKlFZjAqLWrAK9B5MNsStmzjq8",
+      "pictureSource": "Clarin.com",
+      "relatedSearch": [
+        {
+          "title": "Clima hoy en Valencia, Carabobo, Venezuela: el pronóstico del tiempo para este miércoles 19 agosto de 2026",
+          "snippet": "",
+          "url": "https://www.clarin.com/informacion-general/clima-hoy-valencia-carabobo-venezuela-pronostico-tiempo-miercoles-19-agosto-2026_0_0Nj02PWWcR.html",
+          "source": "Clarin.com"
+        },
+        {
+          "title": "Clima hoy en Valencia, Carabobo, Venezuela: el pronóstico del tiempo para este lunes 17 agosto de 2026",
+          "snippet": "",
+          "url": "https://www.clarin.com/informacion-general/clima-hoy-valencia-carabobo-venezuela-pronostico-tiempo-lunes-17-agosto-2026_0_HZc6uqcit0.html",
+          "source": "Clarin.com"
+        },
+        {
+          "title": "Clima hoy en Valencia, Carabobo, Venezuela: el pronóstico del tiempo para este martes 11 agosto de 2026",
+          "snippet": "",
+          "url": "https://www.clarin.com/informacion-general/clima-hoy-valencia-carabobo-venezuela-pronostico-tiempo-martes-11-agosto-2026_0_sYN67jn8uS.html",
+          "source": "Clarin.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "cour pénale internationale",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 18 Aug 2026 21:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTJ7S8CQpcclgt8VNE6OsHdkMK926WkqZvkXt4R4ZoWM26ZYEaXvaxbOuqn3w",
+      "pictureSource": "Le Monde.fr",
+      "relatedSearch": [
+        {
+          "title": "Les Etats-Unis sanctionnent la juriste Tomoko Akane, présidente de la CPI",
+          "snippet": "",
+          "url": "https://www.lemonde.fr/international/article/2026/08/18/les-etats-unis-sanctionnent-la-presidente-de-la-cour-penale-internationale-tomoko-akane_6749085_3210.html",
+          "source": "Le Monde.fr"
+        },
+        {
+          "title": "Washington s'en va-t-en guerre contre la Cour pénale internationale, sanctionne sa présidente",
+          "snippet": "",
+          "url": "https://www.boursorama.com/actualite-economique/actualites/washington-s-en-va-t-en-guerre-contre-la-cour-penale-internationale-sanctionne-sa-presidente-52da62835a97fd986579e14799235650",
+          "source": "Boursorama"
+        },
+        {
+          "title": "Les Etats-Unis sanctionnent la présidente de la Cour pénale internationale, l'institution dénonce une décision qui sape \"l'Etat de droit\"",
+          "snippet": "",
+          "url": "https://www.franceinfo.fr/monde/usa/les-etats-unis-sanctionnent-la-presidente-de-la-cour-penale-internationale-l-institution-denonce-une-decision-qui-sape-l-etat-de-droit_8152721.html",
+          "source": "franceinfo"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "meteo reims",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 18 Aug 2026 21:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoMlRqJF223rtXZQY2JZq7s5KuYzf58dtkvrADsYRzgEo7k1Fb2bloi9TJc3c",
+      "pictureSource": "Ouest-France",
+      "relatedSearch": [
+        {
+          "title": "Météo. Quel temps fera-t-il à Châlons-en-Champagne et ses environs le mercredi 19 août 2026 ?",
+          "snippet": "",
+          "url": "https://www.ouest-france.fr/meteo/grand-est/chalons-en-champagne-51000/la-meteo-du-jour-a-chalons-en-champagne-185ac626-1576-41e9-85d4-01a486f1c763",
+          "source": "Ouest-France"
+        },
+        {
+          "title": "Météo. Quel temps est-il prévu à Reims et ses environs le mercredi 19 août 2026 ?",
+          "snippet": "",
+          "url": "https://www.ouest-france.fr/meteo/grand-est/reims-51100/la-meteo-du-jour-a-reims-df3c0bb9-49fd-46c8-9e5c-b0b41596c2f0",
+          "source": "Ouest-France"
+        },
+        {
+          "title": "Météo. Les prévisions météorologiques du mardi 18 août 2026 à Châlons-en-Champagne et ses environs",
+          "snippet": "",
+          "url": "https://www.ouest-france.fr/meteo/grand-est/chalons-en-champagne-51000/la-meteo-du-jour-a-chalons-en-champagne-9ac9fc58-7903-4a48-9c45-82528c13b13f",
+          "source": "Ouest-France"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "togo",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 18 Aug 2026 21:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnKQajbvLcsoTRcw7rwA-S-4hhiS19OqdOTI6lJ127P2Da0vTwJCNLGa69f0c",
+      "pictureSource": "20 Minutes",
+      "relatedSearch": [
+        {
+          "title": "Deux journalistes réalisateurs Français arrêtés et détenus au Togo",
+          "snippet": "",
+          "url": "https://www.20minutes.fr/monde/4239797-20260819-togo-deux-journalistes-realisateurs-francais-arretes-detenus-depuis-27-juillet",
+          "source": "20 Minutes"
+        },
+        {
+          "title": "Deux Français ont été arrêtés et sont retenus au Togo depuis le 27 juillet",
+          "snippet": "",
+          "url": "https://www.ouest-france.fr/monde/togo/deux-francais-ont-ete-arretes-et-sont-retenus-au-togo-depuis-le-27-juillet-e25fcbe2-9b3f-11f1-a150-d338aff2f727",
+          "source": "Ouest-France"
+        },
+        {
+          "title": "Togo: deux Français arrêtés et détenus depuis le 27 juillet",
+          "snippet": "",
+          "url": "https://www.rfi.fr/fr/en-bref/20260818-togo-deux-fran%C3%A7ais-arr%C3%AAt%C3%A9s-et-d%C3%A9tenus-depuis-le-27-juillet",
           "source": "RFI"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "foot",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 18 Aug 2026 21:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUzwYJjMsmo5rIqiTZZasa9MySbtvnrw1WhEPkwn3SYVDIl8DF-qr6gQQd0Zw",
+      "pictureSource": "L'Équipe",
+      "relatedSearch": [
+        {
+          "title": "Un Ballon d'Or arrive au FC Barcelone : Rodri quitte officiellement Manchester City pour le Barça",
+          "snippet": "",
+          "url": "https://www.lequipe.fr/Football/Actualites/Un-ballon-d-or-arrive-au-fc-barcelone-rodri-quitte-officiellement-manchester-city-pour-le-barca/1711966",
+          "source": "L'Équipe"
         },
         {
-          "title": "Premier League 2026-27: Players to watch in the new season",
+          "title": "La victoire philosophique du Barça, le péché d'orgueil du Real",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/articles/c1l197j4gvro",
-          "source": "BBC"
+          "url": "https://www.eurosport.fr/football/transferts/2026-2027/mercato-larrivee-de-rodri-une-victoire-philosophique-pour-le-fc-barcelone-un-peche-dorgueil-pour-real-madrid_sto23328872/story.shtml",
+          "source": "Eurosport"
         },
         {
-          "title": "Premier League's 15 best players ranked - only 2 Man Utd players make the cut",
+          "title": "Rodri explique pourquoi il a recalé le Real Madrid pour rejoindre le FC Barcelone !",
           "snippet": "",
-          "url": "https://www.express.co.uk/sport/football/2240145/premier-league-best-players-ranked-manchester-united",
-          "source": "Daily Express"
+          "url": "https://www.footmercato.net/a9011106757589289257-rodri-explique-pourquoi-il-a-recale-le-real-madrid-pour-rejoindre-le-fc-barcelone",
+          "source": "Foot Mercato"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -81,202 +277,6 @@
           "snippet": "",
           "url": "https://www.on3.com/teams/tennessee-volunteers/news/dejuan-lane-tennessee-football-depth-chart-safety-jim-knowles/",
           "source": "On3"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "astronaute française sophie adenot",
-      "trafficCount": "5000+",
-      "pubDate": "Tue, 18 Aug 2026 19:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOJBPhvn3raehpFFm_5foM1D9eTpcfnLsmQQUWO5UTdwCsNqyt9niMb6fIoT4",
-      "pictureSource": "RTL",
-      "relatedSearch": [
-        {
-          "title": "Un problème de déboulonnage à 400 km de la Terre : pourquoi la fin de la mission de Sophie Adenot dans l'espace a été reportée",
-          "snippet": "",
-          "url": "https://www.rtl.fr/actu/sciences-tech/un-probleme-de-deboulonnage-a-400-km-de-la-terre-pourquoi-la-fin-de-la-mission-de-sophie-adenot-dans-l-espace-a-ete-reportee-7900663076",
-          "source": "RTL"
-        },
-        {
-          "title": "L’édito. Une Française dans l’histoire",
-          "snippet": "",
-          "url": "https://www.lalsace.fr/science-et-technologie/2026/08/19/une-francaise-dans-l-histoire",
-          "source": "L'Alsace"
-        },
-        {
-          "title": "Sophie Adenot est devenue la première Française à sortir dans l’espace",
-          "snippet": "",
-          "url": "https://www.lemonde.fr/sciences/article/2026/08/18/sophie-adenot-devient-la-premiere-francaise-a-sortir-dans-l-espace-suivez-l-evenement-en-video_6748734_1650685.html",
-          "source": "Le Monde.fr"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "morts vendanges champagne",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 18 Aug 2026 18:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ93H3tl3_XigQm-u_YA4sI8dgREodOs6Vzb4BDX4E4udOkJwAIz7AxPOU1DwU",
-      "pictureSource": "Vitisphere",
-      "relatedSearch": [
-        {
-          "title": "Deux morts en trois jours de vendanges en Champagne",
-          "snippet": "",
-          "url": "https://www.vitisphere.com/actualite-107212-deux-morts-en-trois-jours-de-vendanges-en-champagne.html",
-          "source": "Vitisphere"
-        },
-        {
-          "title": "Un deuxième décès parmi les vendangeurs en Champagne",
-          "snippet": "",
-          "url": "https://www.champagnefm.com/un-deuxieme-deces-parmi-les-vendangeurs-en-champagne",
-          "source": "Champagne FM"
-        },
-        {
-          "title": "Vendanges : une deuxième personne trouve la mort dans la Marne",
-          "snippet": "",
-          "url": "https://www.lest-eclair.fr/id822952/article/2026-08-17/vendanges-une-deuxieme-personne-trouve-la-mort-dans-la-marne",
-          "source": "L'Est éclair"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "edf archipel guadeloupe",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 18 Aug 2026 18:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQthJesD5jSgD4DrOmOqcqeYKRKORfMG0HM1JMgsJNuIHErWL6R_VAJUgFip2M",
-      "pictureSource": "Outre-mer La 1ère",
-      "relatedSearch": [
-        {
-          "title": "EDF appelle à réduire la consommation d’électricité pour éviter de nouvelles coupures en Guadeloupe",
-          "snippet": "",
-          "url": "https://la1ere.franceinfo.fr/guadeloupe/edf-appelle-a-reduire-la-consommation-d-electricite-pour-eviter-de-nouvelles-coupures-en-guadeloupe-1729090.html",
-          "source": "Outre-mer La 1ère"
-        },
-        {
-          "title": "EDF : des coupures électriques possibles ce mardi soir sur l’ensemble de l’archipel",
-          "snippet": "",
-          "url": "https://rci.fm/guadeloupe/infos/Societe/EDF-des-coupures-electriques-possibles-ce-soir-sur-lensemble-de-larchipel",
-          "source": "RCI"
-        },
-        {
-          "title": "Guadeloupe : des coupures d’électricité possibles ce mardi soir, la population appelée à réduire sa consommation",
-          "snippet": "",
-          "url": "https://www.zayactu.org/guadeloupe/guadeloupe-des-coupures-d-electricite-possibles-ce-mardi-soir-la-population-appelee-a-reduire-sa-consommation",
-          "source": "ZayActu"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "election presidentielle 2027 sondages",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 18 Aug 2026 18:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-SpaWltdrqxxW_Gi87hUv5ox-6Fja8rsegzy6XfWEpWMN7Gd0IBmMulsX7bQ",
-      "pictureSource": "Orange Actualités",
-      "relatedSearch": [
-        {
-          "title": "2027 : Macron peut-il convaincre Lecornu d’y aller ? - 17/08",
-          "snippet": "",
-          "url": "https://actu.orange.fr/videos/politique/2027-macron-peut-il-convaincre-lecornu-d-y-aller-17-08-CNT000002rnf8b.html",
-          "source": "Orange Actualités"
-        },
-        {
-          "title": "Présidentielle 2027 : les sondages confirment la France des trois blocs et une gauche profondément divisée",
-          "snippet": "",
-          "url": "https://www.ladepeche.fr/2026/08/17/presidentielle-2027-les-sondages-confirment-la-france-des-trois-blocs-13509358.php",
-          "source": "ladepeche.fr"
-        },
-        {
-          "title": "Présidentielle 2027, quelle campagne pour Emmanuel Macron ?",
-          "snippet": "",
-          "url": "https://www.lopinion.fr/politique/presidentielle-2027-quelle-campagne-pour-emmanuel-macron",
-          "source": "l'Opinion"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "gta 6",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 18 Aug 2026 17:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTb-ZMBXAjSUdlGxVLn28EvzgqTJUbTI5cUM4wfP2_yK-vQgxKJG5ac_Agq3kw",
-      "pictureSource": "N-Gamz.com",
-      "relatedSearch": [
-        {
-          "title": "GTA 6 : gameplay vidéo et map entière en fuite !!!",
-          "snippet": "",
-          "url": "https://n-gamz.com/2026/08/gta-6-gameplay-video-et-map-entiere-en-fuite/",
-          "source": "N-Gamz.com"
-        },
-        {
-          "title": "GTA VI : un aperçu du jeu prochainement diffusé... sur Netflix",
-          "snippet": "",
-          "url": "https://www.europe1.fr/societe/gta-vi-un-apercu-du-jeu-prochainement-diffuse-sur-netflix-1019171",
-          "source": "Europe 1"
-        },
-        {
-          "title": "[Grand Theft Auto VI] 4,38 millions de jeux déjà réservés?",
-          "snippet": "",
-          "url": "https://www.gamekyo.com/blog_article487383.html",
-          "source": "Gamekyo.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "meilleur joueur",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 18 Aug 2026 16:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcHzWIvbWHOariql3mC7Pr8K86VVMy7-wZmmoEPCKnzWfMoBUQFAHvNbCR0vc",
-      "pictureSource": "L'Équipe",
-      "relatedSearch": [
-        {
-          "title": "Mercato : le PSG espère Laciné Megnan-Pavé, jeune attaquant de Montpellier",
-          "snippet": "",
-          "url": "https://www.lequipe.fr/Football/Actualites/Mercato-le-psg-espere-lacine-megnan-pave-jeune-attaquant-de-montpellier/1710106",
-          "source": "L'Équipe"
-        },
-        {
-          "title": "10 millions et cette merveille française de 16 ans va signer au PSG",
-          "snippet": "",
-          "url": "https://www.sport.fr/football/10-millions-et-cette-merveille-francaise-de-16-ans-va-signer-au-psg-1473830.shtm",
-          "source": "Sport.fr"
-        },
-        {
-          "title": "«C’est le meilleur joueur de sa génération» : Le PSG va recruter le futur numéro 9 de l'équipe de France ?",
-          "snippet": "",
-          "url": "https://le10sport.com/football/mercato/cest-le-meilleur-joueur-de-sa-generation-le-psg-va-recruter-le-futur-numero-9-de-lequipe-de-france-790255",
-          "source": "Le10Sport"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "bayern munich jamal musiala",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 18 Aug 2026 16:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSg-BEv_rxi6HcBW2ge-OTAkeXJcV2duaSK0Qpxy3BvArdIO1IN8NW_CmZk0lg",
-      "pictureSource": "Foot Mercato",
-      "relatedSearch": [
-        {
-          "title": "Le Bayern Munich sort du silence après le deuxième malaise de Jamal Musiala en 3 jours !",
-          "snippet": "",
-          "url": "https://www.footmercato.net/a5140345173667803768-le-bayern-munich-sort-du-silence-apres-le-deuxieme-malaise-de-jamal-musiala-en-3-jours",
-          "source": "Foot Mercato"
-        },
-        {
-          "title": "Deuxième malaise en deux matches: Qu’arrive-t-il à Jamal Musiala ?",
-          "snippet": "",
-          "url": "https://www.sports.fr/football/allemagne/deuxieme-malaise-en-deux-matches-quarrive-t-il-a-jamal-musiala-1037533.html",
-          "source": "Sports.fr"
-        },
-        {
-          "title": "Bayern : trois blessés face à Leipzig",
-          "snippet": "",
-          "url": "https://news.maxifoot.fr/bayern/trois-blesses-face-a-leipzig-foot-461875.htm",
-          "source": "Maxifoot"
         }
       ],
       "link": "https://imtaqin.id/"

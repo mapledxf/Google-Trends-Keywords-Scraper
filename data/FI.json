@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-19 17:38:28",
+  "lastUpdate": "2026-08-19 17:56:38",
   "data": [
     {
       "title": "melania trump",
@@ -89,9 +89,15 @@
       "title": "sara parikka",
       "trafficCount": "100+",
       "pubDate": "Wed, 19 Aug 2026 09:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQok8kbbjupmXOPqjdpU4BGu-Oiy_jG43cxNWYskHEdLJje0h9nJSF8QGsCyF0",
-      "pictureSource": "Seiska.fi",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhMNgD2rCtBpFFC9pTl9qL04egFTbB7ZmCRFpsXYRX_cbg-p9dZVg7oyA_Fdg",
+      "pictureSource": "Voice.fi",
       "relatedSearch": [
+        {
+          "title": "Sara ja Mikko Parikka myyvät rakennuttamansa hirsitalon – avara ja valoisa koti ei irtoa taskurahoilla",
+          "snippet": "",
+          "url": "https://www.voice.fi/viihde/sara-ja-mikko-parikka-myyvat-rakennuttamansa-hirsitalon-avara-ja-valoisa-koti-ei-irtoa-taskurahoilla",
+          "source": "Voice.fi"
+        },
         {
           "title": "Sara ja Mikko Parikka kauppaavat rakentamaansa kotia – huima hintapyyntö!",
           "snippet": "",
@@ -103,12 +109,6 @@
           "snippet": "",
           "url": "https://www.como.fi/uutiset/sara-ja-mikko-parikan-koti-on-myynnissa-katso-ennennakemattomat-kuvat/",
           "source": "Como.fi"
-        },
-        {
-          "title": "Sara ja Mikko Parikka myyvät rakennuttamansa hirsitalon – avara ja valoisa koti ei irtoa taskurahoilla",
-          "snippet": "",
-          "url": "https://www.voice.fi/viihde/sara-ja-mikko-parikka-myyvat-rakennuttamansa-hirsitalon-avara-ja-valoisa-koti-ei-irtoa-taskurahoilla",
-          "source": "Voice.fi"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -142,34 +142,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "turun palloseura",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 19 Aug 2026 09:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAB-wls1FBQnxLJFR7n_SwTa3ohMzLVHQ5WdXEeZq0HDwy2Va0l747OD_9a-Y",
-      "pictureSource": "Iltalehti",
-      "relatedSearch": [
-        {
-          "title": "Nyt tulee rahaa! Miljoonapanos Turussa, TPS jäi pulaan",
-          "snippet": "",
-          "url": "https://www.iltalehti.fi/veikkausliiga/a/8b7903b6-2ea2-4cd0-a82e-dcf5acec9f92",
-          "source": "Iltalehti"
-        },
-        {
-          "title": "Saku Koivusta iso ilmoitus",
-          "snippet": "",
-          "url": "https://www.is.fi/sm-liiga/art-2000012212795.html",
-          "source": "Ilta-Sanomat"
-        },
-        {
-          "title": "TPS jäädyttää Saku Koivun pelinumeron",
-          "snippet": "",
-          "url": "https://yle.fi/a/74-20241611",
-          "source": "Yle"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "liiga",
       "trafficCount": "200+",
       "pubDate": "Wed, 19 Aug 2026 09:40:00 -0700",
@@ -198,6 +170,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "turun palloseura",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 19 Aug 2026 09:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAB-wls1FBQnxLJFR7n_SwTa3ohMzLVHQ5WdXEeZq0HDwy2Va0l747OD_9a-Y",
+      "pictureSource": "Iltalehti",
+      "relatedSearch": [
+        {
+          "title": "Nyt tulee rahaa! Miljoonapanos Turussa, TPS jäi pulaan",
+          "snippet": "",
+          "url": "https://www.iltalehti.fi/veikkausliiga/a/8b7903b6-2ea2-4cd0-a82e-dcf5acec9f92",
+          "source": "Iltalehti"
+        },
+        {
+          "title": "Saku Koivusta iso ilmoitus",
+          "snippet": "",
+          "url": "https://www.is.fi/sm-liiga/art-2000012212795.html",
+          "source": "Ilta-Sanomat"
+        },
+        {
+          "title": "TPS jäädyttää Saku Koivun pelinumeron",
+          "snippet": "",
+          "url": "https://yle.fi/a/74-20241611",
+          "source": "Yle"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "espoo motonet gp",
       "trafficCount": "100+",
       "pubDate": "Wed, 19 Aug 2026 09:20:00 -0700",
@@ -213,7 +213,7 @@
         {
           "title": "Licensable picture: Lotta Kemppinen Wins Women's 100m Heat At Motonet GP Espoo 2026",
           "snippet": "",
-          "url": "https://www.reutersconnect.com/item/lotta-kemppinen-wins-womens-100m-heat-at-motonet-gp-espoo-2026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBFNERRSkg",
+          "url": "https://www.reutersconnect.com/item/lotta-kemppinen-wins-womens-100m-heat-at-motonet-gp-espoo-2026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBFNERRSkY",
           "source": "Reuters Connect"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-19 21:02:50",
+  "lastUpdate": "2026-08-19 21:33:30",
   "data": [
     {
       "title": "клубные товарищеские матчи",
@@ -31,11 +31,17 @@
     },
     {
       "title": "атлетико мадрид – малага",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 19 Aug 2026 11:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTBLcwIsrWrmYZq9Gh13Qb0IXyd6QmUYAVIPT7uqIa6mrJKVhGVJmyDYNsZrlI",
-      "pictureSource": "Vietnam.vn",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7r3gW4ZBiwj_NZDVQ3GAepIGzwXS-QF8TKfdeg4MQtmAHbhz0wleal2UNNbk",
+      "pictureSource": "Футбол на Куличках",
       "relatedSearch": [
+        {
+          "title": "Чемпионат Испании. \"Атлетико\" справился с \"Малагой\".",
+          "snippet": "",
+          "url": "https://football.kulichki.net/worldnews/news.htm?879234-Chempionat-Ispanii-Atletiko-spravilsja-s-Malagoi",
+          "source": "Футбол на Куличках"
+        },
         {
           "title": "Прогноз на матч «Атлетико Мадрид» — «Малага»: ожидаемые составы.",
           "snippet": "",
@@ -47,12 +53,6 @@
           "snippet": "",
           "url": "https://sportmail.ru/news/football/72053026/",
           "source": "Спорт Mail"
-        },
-        {
-          "title": "\"Атлетико\" отказался от Хулиана Альвареса. Подробности",
-          "snippet": "",
-          "url": "https://vesti.kz/spain/atletiko-otkazalsya-ot-huliana-alvaresa-podrobnosti-386695/",
-          "source": "Vesti.kz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,9 +89,15 @@
       "title": "barcelona",
       "trafficCount": "200+",
       "pubDate": "Wed, 19 Aug 2026 11:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfu0T2VsEoPFNX4gLq-jYYhm_lYtpWPCDAa9C0ovDJEBVamniFw7cag0u2zLc",
-      "pictureSource": "Mundo Deportivo",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuz20LbVPql_ri2qR9qWS0ZnzRCLqcfA9gKlWh37jOVQLRcE-jP8TwLBSOZr8",
+      "pictureSource": "MARCA",
       "relatedSearch": [
+        {
+          "title": "Los fichajes convencen antes del arranque de LaLiga",
+          "snippet": "",
+          "url": "https://www.marca.com/futbol/barcelona/2026/08/19/fichajes-convencen-arranque-laliga.html",
+          "source": "MARCA"
+        },
         {
           "title": "El 1x1 del Barça en la primera parte del Gamper",
           "snippet": "",
@@ -103,12 +109,6 @@
           "snippet": "",
           "url": "https://www.vietnam.vn/es/nhan-dinh-barcelona-vs-al-ahly-doi-hinh-du-kien",
           "source": "Vietnam.vn"
-        },
-        {
-          "title": "Los fichajes convencen antes del arranque de LaLiga",
-          "snippet": "",
-          "url": "https://www.marca.com/futbol/barcelona/2026/08/19/fichajes-convencen-arranque-laliga.html",
-          "source": "MARCA"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,26 +145,26 @@
       "title": "температура",
       "trafficCount": "200+",
       "pubDate": "Wed, 19 Aug 2026 07:00:00 -0700",
-      "picture": "",
-      "pictureSource": "Рамблер",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSk5ZMxTOREDTUssM60GwC2KKIy1lVYl1hfRpiVmznSa6ubHve0Q3XKICFru50",
+      "pictureSource": "Новини.Live",
       "relatedSearch": [
         {
-          "title": "Завтра похолодание до +11 градусов ночью",
+          "title": "Гидрометцентр предупредил о дождях и грозах в Украине сегодня",
           "snippet": "",
-          "url": "https://news.rambler.ua/moscow_city/56922659-zavtra-poholodanie-do-11-gradusov-nochyu/",
-          "source": "Рамблер"
+          "url": "https://news.novyny.live/ru/gidromettsentr-predupredil-o-dozhdiakh-i-grozakh-v-ukraine-segodnia-340677.html",
+          "source": "Новини.Live"
         },
         {
-          "title": "«Днем до +27, ночью до +6 градусов»: прогноз погоды на 19, 20 и 21 августа",
+          "title": "Температура подскочит до +30°С: украинцев предупредили о новой волне жары",
           "snippet": "",
-          "url": "http://xn----8sbef8axpew9i.xn--p1ai/archives/126846",
-          "source": "Вся Округа"
+          "url": "https://glavred.info/synoptic/temperatura-podskochit-do-300s-ukraincev-predupredili-o-novoy-volne-zhary-10789550.html",
+          "source": "Главред"
         },
         {
-          "title": "Прогноз погоды на 20 августа",
+          "title": "Завтра в Киев вернется 30-градусная жара",
           "snippet": "",
-          "url": "https://takt-tv.ru/takt-novosti/prognoz-pogody-na-20-avgusta1",
-          "source": "Телекомпания ТАКТ"
+          "url": "https://www.unian.net/pogoda/news/pogoda-v-kieve-20-avgusta-stanet-zharche-tochnyy-prognoz-novosti-kieva-13474683.html",
+          "source": "УНИАН"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +183,16 @@
           "source": "WJHL"
         },
         {
-          "title": "2 dead, multiple injured after crash involving vehicle and Milligan cyclists",
+          "title": "2 members of Tennessee college cycling team killed in highway collision, officials say",
           "snippet": "",
-          "url": "https://katu.com/news/nation-world/carter-county-authorities-respond-to-crash-involving-vehicle-and-multiple-bicycles",
-          "source": "KATU"
+          "url": "https://www.cbsnews.com/news/tennessee-milligan-university-cycling-team-fatalities-highway-crash/",
+          "source": "CBS News"
         },
         {
-          "title": "University in East TN identifies 2 students from cycling team killed in crash with car",
+          "title": "2 dead, multiple injured after crash involving vehicle and Milligan cyclists",
           "snippet": "",
-          "url": "https://www.wvlt.tv/2026/08/19/2-dead-after-crash-involving-car-group-bicyclists-east-tennessee-troopers-say/",
-          "source": "WVLT"
+          "url": "https://wcyb.com/news/local/carter-county-authorities-respond-to-crash-involving-vehicle-and-multiple-bicycles",
+          "source": "WCYB"
         }
       ],
       "link": "https://imtaqin.id/"

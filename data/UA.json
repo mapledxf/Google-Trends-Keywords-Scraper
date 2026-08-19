@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-19 23:25:40",
+  "lastUpdate": "2026-08-19 23:44:24",
   "data": [
     {
       "title": "х101",
@@ -31,7 +31,7 @@
     },
     {
       "title": "вокзал",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 19 Aug 2026 16:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRq5jwRZqXfffxjWucQfR5JWb1778ZrcxiFW2pB9_w0dGBL0OWsZFUTQafOqMQ",
       "pictureSource": "Цензор.НЕТ",
@@ -108,16 +108,16 @@
           "source": "24 Канал"
         },
         {
+          "title": "В Броварском районе в результате вражеской атаки погиб мужчина, ещё один получил ранения",
+          "snippet": "",
+          "url": "https://ru.interfax.com.ua/news/general/1194503-amp.html",
+          "source": "Інтерфакс-Україна"
+        },
+        {
           "title": "Россия атаковала распределительный центр EVA в Киевской области",
           "snippet": "",
           "url": "https://kyiv.novyny.live/ru/rossiia-atakovala-raspredelitelnyi-tsentr-populiarnogo-magazina-kosmetiki-340557.html",
           "source": "Новини.Live"
-        },
-        {
-          "title": "В Киеве в девятый раз за сутки звучит воздушная тревога: во дворе дома упали обломки беспилотника",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2026/08/18/8049210/",
-          "source": "Українська правда"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -179,6 +179,15 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "укрнет",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 19 Aug 2026 14:40:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "повітряна тривога зараз",
       "trafficCount": "200+",
       "pubDate": "Wed, 19 Aug 2026 14:40:00 -0700",
@@ -207,38 +216,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "укрнет",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 19 Aug 2026 14:40:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "новости киев",
       "trafficCount": "200+",
       "pubDate": "Wed, 19 Aug 2026 14:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTuhCuuiabiesKsqpblxxp0eSMWueM45KUqMOmeEafhrNai2CYichbrn82xBGk",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvicuG2EieOjzfuqAXlofHpVzKxY7UGePgZVS4qlV6fHnIhftHcCzorNsOdw",
       "pictureSource": "Українська правда",
       "relatedSearch": [
         {
-          "title": "Россия атакует Киев баллистическими ракетами: раздались взрывы",
+          "title": "Российский удар по Киеву: один человек погиб, трое ранены",
           "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2026/08/20/8049422/",
+          "url": "https://www.pravda.com.ua/rus/news/2026/08/20/8049423/",
           "source": "Українська правда"
-        },
-        {
-          "title": "В Киеве после атаки часть двух районов осталась без света: выросло количество жертв коварной российской атаки",
-          "snippet": "",
-          "url": "https://kyiv.tsn.ua/ru/kyiv/v-kieve-posle-ataki-chast-dvuh-rayonov-ostalas-bez-sveta-vyroslo-kolichestvo-zhertv-kovarnoy-rossiyskoy-ataki-3151991.html",
-          "source": "ТСН"
         },
         {
           "title": "В Киеве и области раздались взрывы на фоне баллистической угрозы",
           "snippet": "",
           "url": "https://nv.ua/ukraine/events/v-kiyevi-ta-oblasti-prolunali-vibuhi-na-tli-balistichnoji-zagrozi-50634167.html",
           "source": "NV"
+        },
+        {
+          "title": "Поврежденные дома, больница, люди заблокированы в укрытии: последствия массированного обстрела Киева",
+          "snippet": "",
+          "url": "https://24tv.ua/ru/vzryvy-kieve-segodnja-20-avgusta-kakie-posledstvija-ataki-ballistiki_n3126636",
+          "source": "24 Канал"
         }
       ],
       "link": "https://imtaqin.id/"

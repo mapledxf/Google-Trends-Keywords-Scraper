@@ -1,10 +1,94 @@
 {
-  "lastUpdate": "2026-08-20 01:21:22",
+  "lastUpdate": "2026-08-20 02:32:01",
   "data": [
     {
-      "title": "pogoda wroclaw",
+      "title": "ukraina",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 19 Aug 2026 19:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjws2Y6tAfaQurHci3BCgthIT5c2RuR0_AgAIGUb4bV2iCkg_E5XIK6Ykz4s4",
+      "pictureSource": "Onet",
+      "relatedSearch": [
+        {
+          "title": "Polska poderwała myśliwce. Wojsko wydało pilny komunikat",
+          "snippet": "",
+          "url": "https://www.onet.pl/informacje/onetwiadomosci/intensywny-atak-rosji-na-ukraine-polska-poderwala-mysliwce/6xd5p37,79cfc278",
+          "source": "Onet"
+        },
+        {
+          "title": "Rosjanie uderzyli w ukraińskie miasta. Najpierw nocny ostrzał, później dron trafił w autobus",
+          "snippet": "",
+          "url": "https://wydarzenia.interia.pl/ukraina-rosja/news-eksplozje-pozar-zniszczenia-noca-rosja-zaatakowala-ukraine,nId,23530790",
+          "source": "Interia Wydarzenia"
+        },
+        {
+          "title": "Nocny atak na Kijów. Rosjanie uderzyli w szpital dziecięcy",
+          "snippet": "",
+          "url": "https://wiadomosci.wp.pl/nocny-atak-na-kijow-rosjanie-uderzyli-w-szpital-dzieciecy-7320277921540288a",
+          "source": "WP Wiadomości"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "pogoda opole",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 19 Aug 2026 18:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQaPywEZOALARa21AK1h3S_D9zP3AWynjTthNZPJxLIkNsqesrvyfS1RL-pNBM",
+      "pictureSource": "Wiadomości Onet",
+      "relatedSearch": [
+        {
+          "title": "Opole. Sprawdź prognozę pogody w dniu 19.08.2026",
+          "snippet": "",
+          "url": "https://wiadomosci.onet.pl/opole/opole-prognoza-pogody-w-dniu-19082026/t2ld9hp",
+          "source": "Wiadomości Onet"
+        },
+        {
+          "title": "Jak zapowiada się dzień 20.08? Zobacz prognozę dla Opola",
+          "snippet": "",
+          "url": "https://opole.naszemiasto.pl/pogoda-na-jutro-dla-opola-zobacz-prognoze-pogody-na-czwartek-20-08-w-opolu/ar/c1p1-19942917",
+          "source": "Opole Nasze Miasto"
+        },
+        {
+          "title": "Z każdym dniem temperatura będzie wyraźnie piąć się w górę. Tak zapowiada się długi weekend w Opolu",
+          "snippet": "",
+          "url": "https://www.se.pl/opole/szykuje-sie-goracy-dlugi-weekend-w-opolu-temperatura-z-kazdym-dniem-bedzie-wyzsza-aa-MkT9-A8Y2-gD5v.html",
+          "source": "Super Express"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "radar burz",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 19 Aug 2026 18:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQaVNxUDmhirok7f0WDbNrfrDcHSxYwknlL4PesV_WyRl2zaoBJIVXXF8jSreA",
+      "pictureSource": "Interia Wydarzenia",
+      "relatedSearch": [
+        {
+          "title": "Z zachodu nadciąga poważne zagrożenie. Szykuje się koszmarna noc, wiele województw z alertami",
+          "snippet": "",
+          "url": "https://wydarzenia.interia.pl/kraj/news-ostatnie-godziny-spokoju-w-pogodzie-zalamanie-nadciaga-z-zac,nId,23531120",
+          "source": "Interia Wydarzenia"
+        },
+        {
+          "title": "Czwartek z nowym uderzeniem nawałnic i ulew. Najgorsze przyjdzie wieczorem",
+          "snippet": "",
+          "url": "https://wiadomosci.onet.pl/pogoda/beda-ulewy-wichury-i-grad-czwartek-z-nowym-uderzeniem-nawalnic-pogoda/mry09e5",
+          "source": "Wiadomości Onet"
+        },
+        {
+          "title": "Czy czeka nas powrót gorąca? Prognozy pokazują wyraźne ocieplenie",
+          "snippet": "",
+          "url": "https://wiadomosci.gazeta.pl/polska/7,198072,32975597,czy-upaly-jeszcze-wroca-w-tej-czesci-polski-zrobi-sie-naprawde.html",
+          "source": "Gazeta"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "pogoda wrocław",
       "trafficCount": "500+",
-      "pubDate": "Wed, 19 Aug 2026 18:00:00 -0700",
+      "pubDate": "Wed, 19 Aug 2026 18:20:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTilGi008dxfw0WyC1qhCZhFFckXWP_L1TQOkxeKz6Vfir9n4LW9LM3FRT01c",
       "pictureSource": "Wiadomości Onet",
       "relatedSearch": [
@@ -25,6 +109,34 @@
           "snippet": "",
           "url": "https://wiadomosci.onet.pl/wroclaw/wroclaw-prognoza-pogody-w-dniu-18082026/y85lw75",
           "source": "Wiadomości Onet"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "inter miami",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 19 Aug 2026 18:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0DPY6zwGX-4WIGHA1Gt-yZvvxqr7pWYnVkZZr0zlf7ovA8-NOe9R2OG16kmU",
+      "pictureSource": "LiveScore",
+      "relatedSearch": [
+        {
+          "title": "Five suggestions to help Inter Miami improve its defense",
+          "snippet": "",
+          "url": "https://www.livescore.com/en/news/football/more/five-suggestions-to-help-inter-miami-improve-its-defense-inter-heron/",
+          "source": "LiveScore"
+        },
+        {
+          "title": "Union could embarrass Inter Miami's porous defense tonight in Philadelphia",
+          "snippet": "",
+          "url": "https://www.livescore.com/en/news/football/more/union-could-embarrass-inter-miamis-porous-defense-tonight-in-philadelphia-inter-heron/",
+          "source": "LiveScore"
+        },
+        {
+          "title": "MLS Fight in Trending Video Leads to Red Card for 16-Year-Old Cavan Sullivan",
+          "snippet": "",
+          "url": "https://bleacherreport.com/articles/25476326-mls-fight-trending-video-leads-red-card-16-year-old-cavan-sullivan",
+          "source": "Bleacher Report"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -87,35 +199,35 @@
     },
     {
       "title": "philadelphia union – inter miami",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 19 Aug 2026 16:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4BXETVjGFutomAPUFoCZgBdUDTuwj3pkLV7xcCCf9pu3thyOdZNslkgt0vLI",
-      "pictureSource": "Inquirer.com",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2IBf7o2xzBA4cvNC3mbwuEeu0Pwr36voBmcSuejxBgwE22MU6HPDs7y6iSvo",
+      "pictureSource": "MLSsoccer.com",
       "relatedSearch": [
         {
-          "title": "Cavan Sullivan is set to host Lionel Messi for the first time as the Union face Miami",
+          "title": "Goal: J. Valiente vs. RSL, 17'",
           "snippet": "",
-          "url": "https://www.inquirer.com/soccer/cavan-sullivan-lionel-messi-philadelphia-union-inter-miami-20260818.html",
-          "source": "Inquirer.com"
+          "url": "https://www.mlssoccer.com/video/goal-j-valiente-vs-rsl-17",
+          "source": "MLSsoccer.com"
         },
         {
-          "title": "MLS Inter Miami Union Soccer",
+          "title": "HIGHLIGHTS: Toronto FC vs. Charlotte FC | August 19, 2026",
           "snippet": "",
-          "url": "https://www.couriernews.com/sports/mls-inter-miami-union-soccer/image_3e070f7d-73cf-53d9-8924-14d229ce86fc.html",
-          "source": "couriernews.com"
+          "url": "https://www.mlssoccer.com/video/highlights-toronto-fc-vs-charlotte-fc-august-19-2026",
+          "source": "MLSsoccer.com"
         },
         {
-          "title": "Union could embarrass Inter Miami's porous defense tonight in Philadelphia",
+          "title": "Match Trailer | Griezmann & Lewandowski set for superstar showdown",
           "snippet": "",
-          "url": "https://www.livescore.com/en/news/football/more/union-could-embarrass-inter-miamis-porous-defense-tonight-in-philadelphia-inter-heron/",
-          "source": "LiveScore"
+          "url": "https://www.mlssoccer.com/video/match-trailer-griezmann-lewandowski-set-for-superstar-showdown",
+          "source": "MLSsoccer.com"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "putin",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 19 Aug 2026 16:10:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZiTNnDRpj-j1tS7Qb8_WVBsCJidACcr3NydesuBXQfOyQuC-7f39IwG7WQHk",
       "pictureSource": "WP Wiadomości",
@@ -143,7 +255,7 @@
     },
     {
       "title": "orlando city – fire",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Wed, 19 Aug 2026 15:40:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzHELvkGZXzxWZj-ZUtWvX_7yBkvTnAA9J571IZLOpkD0q5cexACZ_Kxi8vpc",
       "pictureSource": "Przegląd Sportowy",
@@ -155,9 +267,9 @@
           "source": "Przegląd Sportowy"
         },
         {
-          "title": "Mecz Lewandowskiego nagle przerwany. Bezlitosna decyzja Amerykanów",
+          "title": "\"Lewy\" się wycofał. Awaryjna opcja w MLS. Wzięli mistrza świata zamiast Polaka",
           "snippet": "",
-          "url": "https://sport.interia.pl/robert-lewandowski/news-mecz-lewandowskiego-nagle-przerwany-spelnil-sie-najgorszy-sc,nId,23531305",
+          "url": "https://sport.interia.pl/robert-lewandowski/news-lewy-sie-wycofal-awaryjna-opcja-w-mls-wzieli-mistrza-swiata,nId,23531211",
           "source": "Interia Sport"
         },
         {
@@ -165,118 +277,6 @@
           "snippet": "",
           "url": "https://sport.tvp.pl/94931304/orlando-city-chicago-fire-na-zywo-relacja-online-dzisiaj-z-meczu-lewandowskiego-w-mls-20082026",
           "source": "sport.tvp.pl"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ethereum",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 19 Aug 2026 14:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGOm2MUU4XpY0Z12ofpAw3f_96Tyk01SyxLXYEravCPijc0fkE52VmR6gZdE0",
-      "pictureSource": "eciks.org",
-      "relatedSearch": [
-        {
-          "title": "Ethereum price holds near $1,920 amid modest daily gains",
-          "snippet": "",
-          "url": "https://eciks.org/21971-ethereum-price-1920-daily-gains",
-          "source": "eciks.org"
-        },
-        {
-          "title": "Key facts: CRYPTO:ETHUSD $1,900; Below 200d; $735M/$604M; U.S. Adds ETH",
-          "snippet": "",
-          "url": "https://www.tradingview.com/news/tradingview:5239fcb79e4e3:0-key-facts-crypto-ethusd-1-900-below-200d-735m-604m-u-s-adds-eth/",
-          "source": "TradingView"
-        },
-        {
-          "title": "Google Gemini AI Predicts Whether ETH Holders Will Finally Be Rewarded in 2026",
-          "snippet": "",
-          "url": "https://99bitcoins.com/news/presales/google-gemini-ai-predicts-whether-eth-holders-will-finally-be-rewarded-in-2026/",
-          "source": "99Bitcoins"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "jelena rybakina",
-      "trafficCount": "2000+",
-      "pubDate": "Wed, 19 Aug 2026 14:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFCT6451JrfrGXahPvUJHFnNdzIV9iHwCkOFrzob1PxPbRd1RzVo1mWvrgjcI",
-      "pictureSource": "Przegląd Sportowy",
-      "relatedSearch": [
-        {
-          "title": "Diana Sznajder - Jelena Rybakina: relacja na żywo. WTA 1000 w Cincinnati LIVE",
-          "snippet": "",
-          "url": "https://przegladsportowy.onet.pl/tenis/diana-sznajder-jelena-rybakina-relacja-na-zywo-wta-1000-w-cincinnati-live/n3h5wpj",
-          "source": "Przegląd Sportowy"
-        },
-        {
-          "title": "Stało się. Będzie wielki hit ze Świątek o półfinał",
-          "snippet": "",
-          "url": "https://sportowefakty.wp.pl/tenis/1269024/stalo-sie-bedzie-wielki-hit-ze-swiatek-o-polfinal",
-          "source": "SportoweFakty"
-        },
-        {
-          "title": "Szczęście Świątek, wielki pech Rybakiny. Po północy Polka poznała rywalkę",
-          "snippet": "",
-          "url": "https://sport.interia.pl/tenis/news-szczescie-swiatek-wielki-pech-rybakiny-po-polnocy-polka-pozn,nId,23531288",
-          "source": "Interia Sport"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "dawid kownacki",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 19 Aug 2026 14:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJlA19gtfRxsUlp9BQXaGmXrAC7V724EVBk_Ja5DMqx2kZgqQuPudhp77dcCs",
-      "pictureSource": "Przegląd Sportowy",
-      "relatedSearch": [
-        {
-          "title": "Dawid Kownacki na wylocie z klubu. Dyrektor sportowy mówi jasno",
-          "snippet": "",
-          "url": "https://przegladsportowy.onet.pl/pilka-nozna/bundesliga/dawid-kownacki-na-wylocie-z-klubu-dyrektor-sportowy-mowi-jasno/frmmmym",
-          "source": "Przegląd Sportowy"
-        },
-        {
-          "title": "Kłopoty reprezentanta Polski. Ostateczny wyrok, Niemcy nie mieli dla niego litości",
-          "snippet": "",
-          "url": "https://sport.interia.pl/pilka-nozna/bundesliga/news-koniec-zludzen-niemcy-zdecydowali-ws-przyszlosci-reprezentan,nId,23530743",
-          "source": "Interia Sport"
-        },
-        {
-          "title": "Niepokojące doniesienia ws. Polaka. Niemcy stanowczo postawili sprawę",
-          "snippet": "",
-          "url": "https://sportowefakty.wp.pl/pilka-nozna/1268746/niepokojace-doniesienia-ws-polaka-niemcy-stanowczo-postawili-sprawe",
-          "source": "SportoweFakty"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "bitcoin kurs",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 19 Aug 2026 14:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJIWlOCibEnJH-cSqM5ChBeYahY5FVEKyDXLuT39BJEnusliLVBpFKfpaTmIw",
-      "pictureSource": "XTB.com",
-      "relatedSearch": [
-        {
-          "title": "Krypto News & Bitcoin Prognose: Fällt BTC auf 54.000 USD?",
-          "snippet": "",
-          "url": "https://www.xtb.com/de/Marktanalysen/Trading-News/krypto-news-bitcoin-kurs-erweist-sich-trotz-verlusten-an-der-wall-street-als-widerstandsfaehig-befindet-sich-die-kryptowaehrung-an-einem-entscheidenden-wendepunkt",
-          "source": "XTB.com"
-        },
-        {
-          "title": "Einblicke von KimHotbae(@Rohan_Kishibe)",
-          "snippet": "",
-          "url": "https://www.binance.com/de/square/post/357217406060353",
-          "source": "Binance"
-        },
-        {
-          "title": "Bitcoin, Ethereum und XRP: Technische Marken steuern die nächste Kursphase",
-          "snippet": "",
-          "url": "https://www.it-boltwise.de/bitcoin-ethereum-und-xrp-technische-marken-steuern-die-naechste-kursphase.html",
-          "source": "it boltwise"
         }
       ],
       "link": "https://imtaqin.id/"

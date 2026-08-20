@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-20 16:53:40",
+  "lastUpdate": "2026-08-20 17:17:54",
   "data": [
     {
       "title": "казань коттедж",
@@ -61,15 +61,9 @@
       "title": "непогода",
       "trafficCount": "20000+",
       "pubDate": "Thu, 20 Aug 2026 08:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMPWFR5MqVPZV0HfQadMXyr9lLrZjfCfmXqbVlmn7HvwKQallEY6HM9x5CH_Y",
-      "pictureSource": "Новости Беларуси | БелТА",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUDksoMSWxd4PNP_MiLxpo80hSLqSGfXWe4NsdaM6SQbJF5SJkArBkiBVxrQQ",
+      "pictureSource": "Gismeteo",
       "relatedSearch": [
-        {
-          "title": "От зноя в +34°С к ночным +6°С: как изменится погода в Беларуси 21-26 августа",
-          "snippet": "",
-          "url": "https://belta.by/society/view/ot-znoja-v-34s-k-nochnym-6s-kak-izmenitsja-pogoda-v-belarusi-21-26-avgusta-796974-2026/",
-          "source": "Новости Беларуси | БелТА"
-        },
         {
           "title": "Грозы, сильные дожди и шквалы: жителей Беларуси предупреждают о непогоде 20 августа",
           "snippet": "",
@@ -81,6 +75,12 @@
           "snippet": "",
           "url": "https://people.onliner.by/2026/08/20/grozy-zhara-i-oranzhevyj-uroven-opasnosti-prognoz-pogody-na-21-avgusta",
           "source": "Onlíner"
+        },
+        {
+          "title": "От зноя в +34°С к ночным +6°С: как изменится погода в Беларуси 21-26 августа",
+          "snippet": "",
+          "url": "https://belta.by/society/view/ot-znoja-v-34s-k-nochnym-6s-kak-izmenitsja-pogoda-v-belarusi-21-26-avgusta-796974-2026/",
+          "source": "Новости Беларуси | БелТА"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -142,34 +142,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "николай золотов",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 20 Aug 2026 05:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7pG7W66saq4qqDpG9wxwMCvojLDRJefWpQkMyniSvFMAXHAwB8N6M2yBLCPE",
-      "pictureSource": "Zerkalo",
-      "relatedSearch": [
-        {
-          "title": "Экс-вратаря футбольной сборной Беларуси Тумиловича объявили в розыск",
-          "snippet": "",
-          "url": "https://news.zerkalo.io/life/134661.html",
-          "source": "Zerkalo"
-        },
-        {
-          "title": "Футболист сборной Беларуси Николай Золотов объявлен в розыск МВД",
-          "snippet": "",
-          "url": "https://nashaniva.com/ru/402675",
-          "source": "Наша Ніва"
-        },
-        {
-          "title": "МВД Беларуси объявило в розыск бывшего игрока сборной по футболу Николая Золотова",
-          "snippet": "",
-          "url": "https://www.currenttime.tv/a/belarus-zolotov-rozysk/33834282.html",
-          "source": "Настоящее Время"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "волк",
       "trafficCount": "200+",
       "pubDate": "Thu, 20 Aug 2026 05:40:00 -0700",
@@ -193,6 +165,34 @@
           "snippet": "",
           "url": "https://qumash.kz/news/volk-i-kaban-stali-zhertvami-tigritsi-umt/",
           "source": "Qumash.kz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "николай золотов",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 20 Aug 2026 05:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7pG7W66saq4qqDpG9wxwMCvojLDRJefWpQkMyniSvFMAXHAwB8N6M2yBLCPE",
+      "pictureSource": "Zerkalo",
+      "relatedSearch": [
+        {
+          "title": "Экс-вратаря футбольной сборной Беларуси Тумиловича объявили в розыск",
+          "snippet": "",
+          "url": "https://news.zerkalo.io/life/134661.html",
+          "source": "Zerkalo"
+        },
+        {
+          "title": "Футболист сборной Беларуси Николай Золотов объявлен в розыск МВД",
+          "snippet": "",
+          "url": "https://nashaniva.com/ru/402675",
+          "source": "Наша Ніва"
+        },
+        {
+          "title": "МВД Беларуси объявило в розыск бывшего игрока сборной по футболу Николая Золотова",
+          "snippet": "",
+          "url": "https://www.currenttime.tv/a/belarus-zolotov-rozysk/33834282.html",
+          "source": "Настоящее Время"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,7 +245,7 @@
           "source": "Финансы Mail"
         },
         {
-          "title": "Первая мРНК-вакцина от рака выиграла третью фазу. Причем здесь ИИ?",
+          "title": "Первая мРНК-вакцина от рака выиграла третью фазу. При чем здесь ИИ?",
           "snippet": "",
           "url": "https://habr.com/ru/articles/1072308/",
           "source": "Хабр"

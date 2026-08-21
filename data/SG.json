@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-08-21 09:09:45",
+  "lastUpdate": "2026-08-21 09:50:33",
   "data": [
     {
       "title": "buangkok",
-      "trafficCount": "500+",
+      "trafficCount": "100+",
       "pubDate": "Fri, 21 Aug 2026 01:10:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaRYcLvyLEdFOt6Skc5tKXTE0Du2o5FKBIzwz9q9AUDyPYP6S57eEcmshtwCU",
       "pictureSource": "The Straits Times",
@@ -33,15 +33,9 @@
       "title": "land transport authority",
       "trafficCount": "100+",
       "pubDate": "Fri, 21 Aug 2026 00:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTi43QrHPwEWdZZ5kKd6KZgcDDkPSPi3Hj8Nr7oGlsd4C1x4fzl08dVeMEvqIM",
-      "pictureSource": "CNA",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSXLAB0YsPJeXB1ocC9s8sA96sqVTLnN4sQA5AZq-WuzPoJZDfG0_5ek5azr0",
+      "pictureSource": "The Straits Times",
       "relatedSearch": [
-        {
-          "title": "LTA to roll out AI system using bus cameras to detect bus lane encroachments, road defects",
-          "snippet": "",
-          "url": "https://www.channelnewsasia.com/singapore/lta-ai-bus-camera-traffic-violations-road-defects-6332771",
-          "source": "CNA"
-        },
         {
           "title": "Humanoid robot trial for directions at Little India MRT station",
           "snippet": "",
@@ -53,6 +47,12 @@
           "snippet": "",
           "url": "https://www.asiaone.com/singapore/lta-new-humanoid-robot-olly-little-india-station-aug-31",
           "source": "AsiaOne"
+        },
+        {
+          "title": "You can ask humanoid robot at Little India MRT station for directions from Aug. 31-Sep. 11",
+          "snippet": "",
+          "url": "https://mothership.sg/2026/08/humanoid-robot-little-india-mrt/",
+          "source": "Mothership"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -121,16 +121,16 @@
           "source": "Yahoo News Singapore"
         },
         {
-          "title": "Motorcyclist, 37, with pillion rider, 26, flees & crashes in Farrer Road, police find vape & drugs",
-          "snippet": "",
-          "url": "https://mothership.sg/2026/08/motorcycle-flees-farrer-road-crash/",
-          "source": "Mothership"
-        },
-        {
           "title": "Motorcyclist arrested after fleeing police roadblock and getting into accident in Farrer Road",
           "snippet": "",
           "url": "https://www.straitstimes.com/singapore/motorcyclist-arrested-after-fleeing-police-roadblock-and-getting-into-accident-in-farrer-road",
           "source": "The Straits Times"
+        },
+        {
+          "title": "Motorcyclist, 37, with pillion rider, 26, flees & crashes in Farrer Road, police find vape & drugs",
+          "snippet": "",
+          "url": "https://mothership.sg/2026/08/motorcycle-flees-farrer-road-crash/",
+          "source": "Mothership"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -139,26 +139,26 @@
       "title": "openai",
       "trafficCount": "200+",
       "pubDate": "Thu, 20 Aug 2026 21:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQakKjuCoR9w38yrjMMxTHnyM7uClgBcGpXPONzkGPhxNXXQH0NOsRlDXeZkC4",
-      "pictureSource": "WSJ",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZGqEdEXbiza7u5Jaebz1GVjk6gT-GC9ABy2KygtfJbALDZWXOqJCG1--8OtY",
+      "pictureSource": "TradingView",
       "relatedSearch": [
         {
-          "title": "Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic",
+          "title": "OpenAI Rolls Out Deeper Integration With Apple’s Macs: ChatGPT Can Now Read, Draft And Send IMessages",
           "snippet": "",
-          "url": "https://www.wsj.com/tech/ai/openais-second-quarter-sales-show-tepid-growth-compared-with-anthropic-5cb42998",
-          "source": "WSJ"
+          "url": "https://www.tradingview.com/news/stocktwits:dff80a4b0094b:0-openai-rolls-out-deeper-integration-with-apple-s-macs-chatgpt-can-now-read-draft-and-send-imessages/",
+          "source": "TradingView"
         },
         {
-          "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+          "title": "ChatGPT Plugin Reads and Sends Apple Messages on Apple Silicon Macs",
           "snippet": "",
-          "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+          "url": "https://www.unite.ai/chatgpt-plugin-reads-and-sends-apple-messages-on-apple-silicon-macs/",
+          "source": "Unite.AI"
+        },
+        {
+          "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+          "snippet": "",
+          "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Tech stocks today: OpenAI's growth disappoints, chip stock slide continues",
-          "snippet": "",
-          "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-openais-growth-disappoints-chip-stock-slide-continues-132945569.html",
-          "source": "Yahoo Finance"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -251,26 +251,26 @@
       "title": "epic",
       "trafficCount": "100+",
       "pubDate": "Thu, 20 Aug 2026 18:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCvcE4RBFMkCF_YDjsUiFSaq-Fliq1GiSpST7SehEsQXKh_GHcwpFSsv61YYo",
-      "pictureSource": "Polygon.com",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7l5eeg-h6R2D3_UVl97RIamtPayZYSI40jJvYsqSH_BGCnZQcQG4ckbL05O8",
+      "pictureSource": "IXBT.games",
       "relatedSearch": [
         {
-          "title": "PC Gamers Can Get 2 Great Games Completely Free of Charge From Epic for a Limited Time",
+          "title": "Post-apocalyptic adventure Caravan SandWitch is free on the mobile Epic Games Store",
           "snippet": "",
-          "url": "https://www.polygon.com/epic-games-store-free-games-8-20-2026-download/",
-          "source": "Polygon.com"
+          "url": "https://ixbt.games/en/news/2026/08/21/429477-postapokalipticeskoe-prikliucenie-caravan-sandwitch-besplatno-razdaiut-v-mobilnom-epic-games-store.html",
+          "source": "IXBT.games"
         },
         {
-          "title": "Epic Games Store announces next week's giveaway with two free games",
+          "title": "Jackbox Party Pack 12, Trivia Murder Party 3 Release Dates, Streaming Service",
           "snippet": "",
-          "url": "https://www.notebookcheck.net/Epic-Games-Store-announces-next-week-s-giveaway-with-two-free-games.1374093.0.html",
-          "source": "Notebookcheck"
+          "url": "https://variety.com/2026/gaming/news/jackbox-party-pack-12-trivia-murder-party-3-release-dates-1236838174/",
+          "source": "Variety"
         },
         {
-          "title": "Epic Games Store is giving away the charming sci-fi game Caravan SandWitch",
+          "title": "Trivia Murder Party 3 slashes onto Steam Early Access in September",
           "snippet": "",
-          "url": "https://www.dlcompare.com/gaming-news/epic-games-store-is-giving-away-the-charming-sci-fi-game-caravan-sandwitch-82302",
-          "source": "DLCompare.com"
+          "url": "http://www.shacknews.com/article/150426/trivia-murder-party-3-early-access-release-date-september-2026",
+          "source": "Shacknews"
         }
       ],
       "link": "https://imtaqin.id/"

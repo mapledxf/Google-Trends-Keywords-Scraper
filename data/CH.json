@@ -1,9 +1,46 @@
 {
-  "lastUpdate": "2026-08-21 04:48:35",
+  "lastUpdate": "2026-08-21 05:18:27",
   "data": [
     {
+      "title": "neutralitätsinitiative",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 20 Aug 2026 21:50:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "погода",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 20 Aug 2026 21:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWdZYV7bPsMz7CSXfhBCGJNFiAEtKudZIbYKf_0MBI99Os-bQ0ST2F8d_Y1Ow",
+      "pictureSource": "Arigus.tv",
+      "relatedSearch": [
+        {
+          "title": "Какая погода ждет жителей Бурятии в выходные",
+          "snippet": "",
+          "url": "https://arigus.tv/news/society/177574-kakaya-pogoda-zhdet-zhiteley-buryatii-v-vykhodnye/",
+          "source": "Arigus.tv"
+        },
+        {
+          "title": "В Бурятии ожидается град",
+          "snippet": "",
+          "url": "https://www.infpol.ru/280516-v-buryatii-ozhidaetsya-grad/",
+          "source": "Infpol.ru"
+        },
+        {
+          "title": "Улан-Удэ предстоят по-настоящему тёплые выходные",
+          "snippet": "",
+          "url": "https://gazeta-n1.ru/news/society/165605/",
+          "source": "Номер Один - Новости Бурятии и Улан-Удэ сегодня"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "wetter",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Thu, 20 Aug 2026 21:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTv3bZToaU0bN92Zaz9hQO_JP2qX17Z23xgMRosDTz22-qyrKb976nwCPCyoVs",
       "pictureSource": "SRF",
@@ -15,60 +52,23 @@
           "source": "SRF"
         },
         {
-          "title": "Wetter Schweiz: So kühl «wie schon seit über zwei Monaten nicht mehr»",
+          "title": "«Kühl wie seit über 2 Monaten nicht mehr»: Temperatursturz ist da",
           "snippet": "",
-          "url": "https://www.20min.ch/story/wetter-schweiz-hitze-773827943300",
+          "url": "https://www.20min.ch/story/wetter-schweiz-kuehl-wie-seit-ueber-2-monaten-nicht-mehr-temperatursturz-ist-da-103620415",
           "source": "20 Minuten"
         },
         {
-          "title": "Regen und Gewitter: Gluthitze für dieses Jahr überstanden",
+          "title": "Temperatursturz: Nur 16 bis 21 Grad am Freitag",
           "snippet": "",
-          "url": "https://www.blick.ch/schweiz/kaeltester-tag-seit-anfang-juli-wars-das-jetzt-mit-dem-sommer-id22188427.html",
+          "url": "https://www.blick.ch/schweiz/kommt-es-wieder-zu-ueberflutungen-nasser-freitag-kraeftige-regenguesse-im-anmarsch-id22198710.html",
           "source": "Blick"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "el niño 2027",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 20 Aug 2026 21:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7pMCI85K8fUiCwncVc_ndODedSL3mBCm5vlCNQOTCaFm6J4AlNqw_9O-7BTw",
-      "pictureSource": "CNN",
-      "relatedSearch": [
-        {
-          "title": "El Niño will upend winter weather in the US. Here’s who will feel it the most",
-          "snippet": "",
-          "url": "https://www.cnn.com/2026/08/20/weather/super-el-nino-us-winter-forecast-climate",
-          "source": "CNN"
-        },
-        {
-          "title": "Brewing Super El Niño expected to be strongest anyone alive on the planet has ever experienced",
-          "snippet": "",
-          "url": "https://www.foxweather.com/weather-news/super-el-nino-strongest-anyone-alive-experienced-2026",
-          "source": "FOX Weather"
-        },
-        {
-          "title": "What is a strong El Niño and what does it mean for California?",
-          "snippet": "",
-          "url": "https://ucanr.edu/blog/green-blog/article/elninofacts",
-          "source": "UC Agriculture and Natural Resources"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "meteo",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 20 Aug 2026 21:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "weather",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 20 Aug 2026 21:30:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQk8TQ3Gs-MT-1u3PZjOHz5ywgcKvqUPm2_yGc_vkjbFlaffsEV_1OS5B6elQ",
       "pictureSource": "MillenniumPost",
@@ -90,6 +90,34 @@
           "snippet": "",
           "url": "https://odishatv.in/videosodisha/society/heavy-rain-causes-waterlogging-on-delhi-airport-road-otv-12398417",
           "source": "Odisha TV"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "el niño 2027",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 20 Aug 2026 21:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7pMCI85K8fUiCwncVc_ndODedSL3mBCm5vlCNQOTCaFm6J4AlNqw_9O-7BTw",
+      "pictureSource": "CNN",
+      "relatedSearch": [
+        {
+          "title": "El Niño will upend winter weather in the US. Here’s who will feel it the most",
+          "snippet": "",
+          "url": "https://www.cnn.com/2026/08/20/weather/super-el-nino-us-winter-forecast-climate",
+          "source": "CNN"
+        },
+        {
+          "title": "Strengthening El Niño has a stronger presence in the new winter outlook",
+          "snippet": "",
+          "url": "https://www.ktvu.com/news/strengthening-el-nino-has-stronger-presence-new-winter-outlook",
+          "source": "KTVU"
+        },
+        {
+          "title": "Brewing Super El Niño expected to be strongest anyone alive on the planet has ever experienced",
+          "snippet": "",
+          "url": "https://www.foxweather.com/weather-news/super-el-nino-strongest-anyone-alive-experienced-2026",
+          "source": "FOX Weather"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -124,35 +152,25 @@
     },
     {
       "title": "météo",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Thu, 20 Aug 2026 21:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTFVlhm3zTLbAqUqnQzZJKgrblhnqZWYkwV3YFnBPLXh7SIUTlWoBGaB78XiA",
-      "pictureSource": "Ouest-France",
-      "relatedSearch": [
-        {
-          "title": "Météo. La météo du vendredi 21 août 2026 à La Flèche et ses environs",
-          "snippet": "",
-          "url": "https://www.ouest-france.fr/meteo/pays-de-la-loire/la-fleche-72200/la-meteo-du-jour-a-la-fleche-15df27b8-3e97-431a-a00a-c9f8243a0b96",
-          "source": "Ouest-France"
-        },
-        {
-          "title": "Météo. La météo du dimanche 16 août 2026 à La Flèche et ses environs",
-          "snippet": "",
-          "url": "https://www.ouest-france.fr/meteo/pays-de-la-loire/la-fleche-72200/la-meteo-du-jour-a-la-fleche-7f668e16-c4d3-4129-985b-4a5c137ef80a",
-          "source": "Ouest-France"
-        },
-        {
-          "title": "Météo. Les prévisions météorologiques du mardi 18 août 2026 à La Flèche et ses environs",
-          "snippet": "",
-          "url": "https://www.ouest-france.fr/meteo/pays-de-la-loire/la-fleche-72200/la-meteo-du-jour-a-la-fleche-eeb5409c-c8e3-44ce-bf33-50bffd30f0dd",
-          "source": "Ouest-France"
-        }
-      ],
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "clima",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 20 Aug 2026 21:20:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "tiempo",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 20 Aug 2026 21:10:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDvAix9ExBd7lNFSOSH5pkhRq6v3PdTN9aBgawkmhMuAV1Y9AE-bdTTEEyYg",
       "pictureSource": "El Debate",
@@ -164,16 +182,16 @@
           "source": "El Debate"
         },
         {
-          "title": "AEMET y la previsión del tiempo en Madrid para mañana, viernes 21 de agosto",
+          "title": "El tiempo cambia de cara en Madrid: la nubosidad crecerá y la Sierra podría recibir lluvias dispersas",
           "snippet": "",
-          "url": "https://www.elconfidencial.com/el-tiempo/2026-08-20/el-tiempo-en-madrid-viernes_4409194/",
-          "source": "El Confidencial"
+          "url": "https://www.eldiario.es/madrid/somos/tiempo-cambia-cara-madrid-nubosidad-crecera-sierra-recibir-lluvias-dispersas-pm_1_13458706.html",
+          "source": "elDiario.es"
         },
         {
-          "title": "¿Cómo estará el clima en Madrid este 21 de agosto?",
+          "title": "Las Rozas de Madrid: previsión meteorológica de AEMET para mañana, jueves 20 de agosto",
           "snippet": "",
-          "url": "https://www.infobae.com/espana/2026/08/21/como-estara-el-clima-en-madrid-este-21-de-agosto/",
-          "source": "Infobae"
+          "url": "https://www.elconfidencial.com/el-tiempo/2026-08-19/el-tiempo-en-las-rozas-de-madrid-jueves_4408530/",
+          "source": "El Confidencial"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -202,62 +220,6 @@
           "snippet": "",
           "url": "https://snrtnews.com/article/escroquerie-par-faux-virement-bancaire-comment-fonctionnent-ces-fraudes-157299",
           "source": "SNRTnews"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "pogoda",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 20 Aug 2026 21:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxXc5kUU3G_bkKCui99y7FI5LIxDo4uA8bAP6albo2Vg9Na5hEj868eyisCjM",
-      "pictureSource": "Wiadomości Onet",
-      "relatedSearch": [
-        {
-          "title": "Olsztyn: jaka pogoda czeka nas 21.08.2026?",
-          "snippet": "",
-          "url": "https://wiadomosci.onet.pl/olsztyn/olsztyn-prognoza-pogody-w-dniu-21082026/g20sq18",
-          "source": "Wiadomości Onet"
-        },
-        {
-          "title": "Jakie warunki wystąpią podczas najbliższego weekendu w Olecku? Sprawdź szczegóły",
-          "snippet": "",
-          "url": "https://olecko.naszemiasto.pl/pogoda-na-weekend-dla-olecka-15-08-16-08-sobota-niedziela-sprawdz-prognoze/ar/c1p1-19945731",
-          "source": "Olecko Nasze Miasto"
-        },
-        {
-          "title": "Jeden dzień będzie wyraźnie cieplejszy od pozostałych. Tak minie długi weekend w Olsztynie",
-          "snippet": "",
-          "url": "https://www.se.pl/olsztyn/aura-w-olsztynie-pokaze-dwa-oblicza-jeden-dzien-dlugiego-weekendu-bedzie-kluczowy-aa-icFu-YQJR-bgzy.html",
-          "source": "Super Express"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "flugzeug",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 20 Aug 2026 21:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxf3d33xDpmwg2tfgMK5koby954sqX_2_OZkPCS0OSKIlRQMZay1MUX9oyUP8",
-      "pictureSource": "n-tv.de",
-      "relatedSearch": [
-        {
-          "title": "Ukraine-Krieg im Liveticker: +++ 18:52 Putin redet offen über Kriegsschäden in Russland +++",
-          "snippet": "",
-          "url": "https://www.n-tv.de/politik/18-52-Putin-redet-offen-ueber-Kriegsschaeden-in-Russland-id30859357.html",
-          "source": "n-tv.de"
-        },
-        {
-          "title": "Ukraine-Krieg aktuell: Selenskyj warnt vor Patriot-Mangel – „weitreichende“ Reaktionen auf Angriffe geplant",
-          "snippet": "",
-          "url": "https://www.fr.de/politik/in-russland-ukraine-krieg-aktuell-keine-putin-muedigkeit-zr-94449802.html",
-          "source": "Frankfurter Rundschau"
-        },
-        {
-          "title": "Ukraine-Krieg: Rumänische Jets zerstören Drohne vor Gasprojekt im Schwarzen Meer",
-          "snippet": "",
-          "url": "https://www.handelsblatt.com/politik/international/ukraine-krieg-korruptionsvorwuerfe-ukraine-geht-gegen-bankenvertreter-vor/27982126.html",
-          "source": "Handelsblatt"
         }
       ],
       "link": "https://imtaqin.id/"

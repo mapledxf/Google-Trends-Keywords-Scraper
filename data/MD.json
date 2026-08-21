@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2026-08-21 02:09:50",
+  "lastUpdate": "2026-08-21 03:13:54",
   "data": [
+    {
+      "title": "топливо",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 20 Aug 2026 19:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWVqXIM5YsjfrlAVjPs2KCL1k0vL40cbURH_Ne2gZN3iiV5laoNMsnu6rcftY",
+      "pictureSource": "Європейська правда",
+      "relatedSearch": [
+        {
+          "title": "Строительство завода украинского производителя ракет Fire Point в Дании отложили",
+          "snippet": "",
+          "url": "https://www.eurointegration.com.ua/rus/news/2026/08/20/7243850/",
+          "source": "Європейська правда"
+        },
+        {
+          "title": "Fire Point отложила строительство в Дании завода по производству топлива для ракет Flamingo",
+          "snippet": "",
+          "url": "https://nv.ua/world/geopolitics/raketa-flamingo-fire-point-otlozhila-stroitelstvo-zavoda-tverdogo-topliva-v-danii-50634392.html",
+          "source": "NV"
+        },
+        {
+          "title": "Дания отложила запуск завода топлива для ракет Украины",
+          "snippet": "",
+          "url": "https://ura.news/news/1053120099",
+          "source": "URA.RU"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "электричество",
       "trafficCount": "200+",
       "pubDate": "Thu, 20 Aug 2026 12:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLIlIBFqR6qEjnDWlh0QCPaOGwe4g18rwUR_PcCcIC2AO3Zi9oVH9Yuj6HNC8",
-      "pictureSource": "TengriNews",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRj47DDRie_B6J9eoVfWTanCwRoNw2BZWhShXaCHplfbPrK-jZDzU5ofFoGfVw",
+      "pictureSource": "NV",
       "relatedSearch": [
         {
-          "title": "Блэкаут в Алматы. Что на самом деле произошло в энергосистеме Центральной Азии",
+          "title": "Дроны ударили по подстанции Тамань, которая является одним из ключевых узлов энергомоста в оккупированный Крым",
           "snippet": "",
-          "url": "https://tengrinews.kz/kazakhstan_news/blekaut-almatyi-na-dele-proizoshlo-energosisteme-tsentralnoy-606328/",
-          "source": "TengriNews"
+          "url": "https://nv.ua/world/countries/ataka-bespilotnikov-na-podstanciyu-taman-500-kv-i-terminal-tamangazneft-50634186.html",
+          "source": "NV"
         },
         {
-          "title": "Свет отключился в нескольких районах Алматы",
+          "title": "В Крыму - блэкаут после ударов по подстанциям",
           "snippet": "",
-          "url": "https://informburo.kz/novosti/svet-otkliucilsia-v-neskolkix-raionax-almaty",
-          "source": "Informburo.kz"
+          "url": "https://www.svoboda.org/a/v-krymu-blekaut-posle-udarov-po-podstantsiyam/33834224.html",
+          "source": "Радио Свобода"
         },
         {
-          "title": "Сразу в трех районах Алматы отключили электричество",
+          "title": "«Тотальный блэкаут»: почему Крым остался без света и чем это грозит Крымскому полуострову",
           "snippet": "",
-          "url": "https://www.zakon.kz/sobytiia/6528753-srazu-v-trekh-rayonakh-almaty-otklyuchili-elektrichestvo.html",
-          "source": "Новости Zakon.kz"
+          "url": "https://ru.krymr.com/a/totalnyy-blekaut-krym-bez-sveta-chem-eto-grozit/33834987.html",
+          "source": "Крым.Реалии"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,15 +61,9 @@
       "title": "пожар",
       "trafficCount": "500+",
       "pubDate": "Thu, 20 Aug 2026 10:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3qRDnSSvrj4xtc3UMvHVJ05E2FcLwWdc8zhKkkmU0Wb-vQQ5NpzG50jl2B2E",
-      "pictureSource": "Економічна правда",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0B4uC9NwtsMH0eo58wZZZo1QXwkqbZBu2zF5StcGfdERbcaGECpP6l2p4Sek",
+      "pictureSource": "Українська правда",
       "relatedSearch": [
-        {
-          "title": "Враг нанёс удар по гражданской инфраструктуре Сум",
-          "snippet": "",
-          "url": "https://epravda.com.ua/rus/infrastruktura/rossiyane-nanesli-udar-po-grazhdanskoy-infrastrukture-sum-824674/",
-          "source": "Економічна правда"
-        },
         {
           "title": "Российские дроны атаковали Сумы: есть раненые",
           "snippet": "",
@@ -49,10 +71,16 @@
           "source": "Українська правда"
         },
         {
-          "title": "В нескольких украинских городах прозвучали взрывы",
+          "title": "Сумы атаковали вражеские дроны: загорелась жилая двухэтажка",
           "snippet": "",
-          "url": "https://news.rambler.ua/svo/56939260-v-neskolkih-ukrainskih-gorodah-prozvuchali-vzryvy/",
-          "source": "Рамблер"
+          "url": "https://www.rbc.ua/ukr/news/sumi-atakuvali-vorozhi-droni-zagorilas-zhitlova-1787268232.html",
+          "source": "РБК-Україна"
+        },
+        {
+          "title": "Враг нанёс удар по гражданской инфраструктуре Сум",
+          "snippet": "",
+          "url": "https://epravda.com.ua/rus/infrastruktura/rossiyane-nanesli-udar-po-grazhdanskoy-infrastrukture-sum-824674/",
+          "source": "Економічна правда"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -77,9 +105,9 @@
           "source": "DW.com"
         },
         {
-          "title": "В Молдове снова упал, вероятно, российский беспилотник",
+          "title": "Президент Молдовы призывает усилить давление на Россию после очередного вторжения дрона",
           "snippet": "",
-          "url": "https://www.eurointegration.com.ua/rus/news/2026/08/20/7243842/",
+          "url": "https://www.eurointegration.com.ua/rus/news/2026/08/20/7243874/",
           "source": "Європейська правда"
         }
       ],
@@ -133,38 +161,10 @@
           "source": "Пруфы"
         },
         {
-          "title": "Сбер запустил вклад «Выгодный старт» со ставкой до 12,5%",
+          "title": "Сбербанк запустил еще один вклад",
           "snippet": "",
-          "url": "https://blog.domclick.ru/novosti/post/sber-zapustil-vklad-vygodnyj-start-so-stavkoj-do-125",
-          "source": "Журнал Домклик"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "фламинго",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 20 Aug 2026 06:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWVqXIM5YsjfrlAVjPs2KCL1k0vL40cbURH_Ne2gZN3iiV5laoNMsnu6rcftY",
-      "pictureSource": "Європейська правда",
-      "relatedSearch": [
-        {
-          "title": "Строительство завода украинского производителя ракет Fire Point в Дании отложили",
-          "snippet": "",
-          "url": "https://www.eurointegration.com.ua/rus/news/2026/08/20/7243850/",
-          "source": "Європейська правда"
-        },
-        {
-          "title": "Fire Point отложила строительство в Дании завода по производству топлива для ракет Flamingo",
-          "snippet": "",
-          "url": "https://nv.ua/world/geopolitics/raketa-flamingo-fire-point-otlozhila-stroitelstvo-zavoda-tverdogo-topliva-v-danii-50634392.html",
-          "source": "NV"
-        },
-        {
-          "title": "Дания отложила запуск завода топлива для ракет Украины",
-          "snippet": "",
-          "url": "https://ura.news/news/1053120099",
-          "source": "URA.RU"
+          "url": "https://www.banki.ru/news/lenta/?id=11026634",
+          "source": "Банки.ру"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,26 +173,26 @@
       "title": "dorin junghietu",
       "trafficCount": "100+",
       "pubDate": "Thu, 20 Aug 2026 03:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtmfFd9HIeUXpaqslhNjwYqrJi03edUsiTzzpyY1unHC5Ef3NjmsPnthCXtF0",
-      "pictureSource": "Deschide.md",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfekWdwVsOb5VqYF52am889nY4HpMpkCk1JidicZK9qKT27IiVl3peBtHT0kE",
+      "pictureSource": "NewsMaker.md",
       "relatedSearch": [
         {
-          "title": "Dorin Junghietu: Introducerea taxei de 48 de bani pe fiecare litru de carburant vândut ar putea fi amânată din nou",
+          "title": "Junghietu: „Șase bănuți” din tariful la gaze pentru salariile Energocom este „o cifră infimă”",
           "snippet": "",
-          "url": "https://deschide.md/articole/dorin-junghietu-introducerea-taxei-de-48-de-bani-pe-fiecare-litru-de-carburant-vandut-ar-putea-fi-amanata-din-nou",
-          "source": "Deschide.md"
+          "url": "https://newsmaker.md/ro/junghietu-%C8%99ase-b%C4%83nu%C8%9Bi-din-tariful-la-gaze-pentru-salariile-energocom-este-o-cifr%C4%83-infim%C4%83",
+          "source": "NewsMaker.md"
         },
         {
-          "title": "Atacurile rusești asupra Kievului s-au soldat cu 12 morți și 34 de răniți",
+          "title": "Junghietu explică profitul Energocom: „Întreprinderea are grijă de securitatea energetică a țării”",
           "snippet": "",
-          "url": "https://ipn.md/atacurile-rusesti-asupra-kievului-s-au-soldat-cu-12-morti-si-34-de-raniti/",
-          "source": "ipn.md"
+          "url": "https://noi.md/md/societate/junghietu-explica-profitul-energocom-intreprinderea-are-grija-de-securitatea-energetica-a-tarii",
+          "source": "noi.md"
         },
         {
-          "title": "Taxa de 48 de bani pentru benzină și motorină ar putea fi amânată din nou",
+          "title": "Gazul scump cumpărat pe vremea lui Spînu: Pierderile Energocom, acoperite de stat",
           "snippet": "",
-          "url": "https://nordnews.md/stiri-nationale/economic/taxa-de-48-de-bani-pentru-benzina-si-motorina-ar-putea-fi-amanata-din-nou/",
-          "source": "Nordnews.md"
+          "url": "https://stiri.md/article/economic/gazul-scump-cumparat-pe-vremea-lui-spinu-pierderile-energocom-acoperite-de-stat",
+          "source": "Stiri.md"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -217,10 +217,10 @@
           "source": "СБ. Беларусь сегодня"
         },
         {
-          "title": "Литва построит лагерь НАТО за €40 млн",
+          "title": "Усиление восточного фланга: что НАТО готовит у белорусской границы",
           "snippet": "",
-          "url": "https://24.kz/ru/news/in-the-world/786850-litva-postroit-lager-nato-za-eur40-mln",
-          "source": "24.kz"
+          "url": "https://voennoedelo.com/posts/id88779-usilenie-vostochnogo-flanga-chto-nato-gotovit-u-belorusskoj-granitsy",
+          "source": "Военное дело"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,10 +245,10 @@
           "source": "Интерфакс"
         },
         {
-          "title": "Россия попросила больше бензина в Индии и странах Азии из-за второй волны топливного кризиса",
+          "title": "«Есть просадка»: почему в России начали продавать импортный бензин на бирже",
           "snippet": "",
-          "url": "https://ru.themoscowtimes.com/2026/08/20/rossiya-poprosila-bolshe-benzina-vindii-istranah-azii-iz-za-vtoroi-volni-toplivnogo-krizisa-a203920",
-          "source": "Русская служба The Moscow Times"
+          "url": "https://rtvi.com/news/est-prosadka-pochemu-v-rossii-nachali-prodavat-importnyj-benzin-na-birzhe/",
+          "source": "RTVI"
         }
       ],
       "link": "https://imtaqin.id/"

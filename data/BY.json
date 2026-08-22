@@ -1,9 +1,18 @@
 {
-  "lastUpdate": "2026-08-22 06:37:53",
+  "lastUpdate": "2026-08-22 07:16:43",
   "data": [
     {
+      "title": "погода яндекс",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 21 Aug 2026 23:10:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "яндекс погода",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 21 Aug 2026 22:50:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNbYSs6_U8UsDw6rIddoChiggl3cBSUcyHTdH0vUiBFzSgPSI6D187OlNUsTA",
       "pictureSource": "Погода Mail",
@@ -31,7 +40,7 @@
     },
     {
       "title": "гисметео минск",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 21 Aug 2026 22:40:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrJPFQxent9gvAuQ9PTPqheevGJYEqvDMpX-EcSjZgfVqKMF3AXbCcK7JYiOU",
       "pictureSource": "Gismeteo",
@@ -86,23 +95,51 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "погода",
+      "trafficCount": "50000+",
+      "pubDate": "Fri, 21 Aug 2026 20:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQTJ7gbvhbj4rDmZskYbjzUYfHBj84lBYkrdc7WEWpD0gVpGkWkhLhFCMqbJgk",
+      "pictureSource": "Gismeteo",
+      "relatedSearch": [
+        {
+          "title": "Грозы и сильный ветер: жителей Беларуси предупреждают о непогоде 22 августа",
+          "snippet": "",
+          "url": "https://www.gismeteo.by/news/klimat/grozy-i-silnyj-veter-zhitelej-belarusi-preduprezhdajut-o-nepogode-22-avgusta/",
+          "source": "Gismeteo"
+        },
+        {
+          "title": "От +34°С к холодным +6°С: синоптики рассказали, когда в Беларуси рухнет температура",
+          "snippet": "",
+          "url": "https://smartpress.by/news/ot-34-s-k-kholodnym-6-s-sinoptiki-rasskazali-kogda-v-belarusi-rukhnet-temperatura/",
+          "source": "Smartpress.by"
+        },
+        {
+          "title": "Как вести себя на дороге в грозу и ветер — рекомендации милиции",
+          "snippet": "",
+          "url": "https://www.sb.by/articles/kak-vesti-sebya-na-doroge-v-grozu-i-veter-rekomendatsii-militsii.html",
+          "source": "СБ. Беларусь сегодня"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "гауфф, кори",
       "trafficCount": "500+",
       "pubDate": "Fri, 21 Aug 2026 20:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5UEm6_eBBmLJZLZ3eqQ2aI2-oseKXvDnxWY3UxNlwEmK8IQRndyBGkxvCLjk",
-      "pictureSource": "Sportbox",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfR7rPEOFRaeuBRQzockEUW0ZD5vdyB5ADbd_RPNmvNYeuGnjyVoKnRj1I-kg",
+      "pictureSource": "https://www.championat.ru/",
       "relatedSearch": [
+        {
+          "title": "Кори Гауфф отреагировала на победу над Мартой Костюк в Цинциннати",
+          "snippet": "",
+          "url": "https://www.championat.ru/tennis/news-6591608-kori-gauff-otreagirovala-na-pobedu-nad-martoj-kostyuk-v-cincinnati.html",
+          "source": "https://www.championat.ru/"
+        },
         {
           "title": "Гауфф победила Костюк и вышла в полуфинал теннисного турнира в Цинциннати",
           "snippet": "",
           "url": "https://news.sportbox.ru/Vidy_sporta/Tennis/WTA/spbnews_NI2356433_Gauff_pobedila_Kostuk_i_vyshla_v_polufinal_tennisnogo_turnira_v_Cincinnati",
           "source": "Sportbox"
-        },
-        {
-          "title": "Четыре американские теннисистки вышли в 1/4 финала Цинциннати впервые с 1988 года",
-          "snippet": "",
-          "url": "https://www.championat.ru/tennis/news-6589374-chetyre-amerikanskie-tennisistki-vyshli-v-1-4-finala-cincinnati-vpervye-s-1988-goda.html",
-          "source": "https://www.championat.ru/"
         },
         {
           "title": "Гауфф сравнялась с Шараповой по количеству полуфиналов на уровне WTA 1000 до 23 лет",
@@ -217,49 +254,12 @@
           "source": "Русская служба The Moscow Times"
         },
         {
-          "title": "Польша подняла истребители во время удара по Киеву",
+          "title": "США, Британия и Франция стягивают подразделения к белорусской границе",
           "snippet": "",
-          "url": "https://ru.euronews.com/my-europe/2026/08/20/poland-fighter-jets-kyiv-strike",
-          "source": "Euronews.com"
+          "url": "https://news.by/news/obshchestvo/ssha-britaniya-i-frantsiya-styagivayut-podrazdeleniya-k-belorusskoy-granitse",
+          "source": "News.by"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "минск",
-      "trafficCount": "2000+",
-      "pubDate": "Fri, 21 Aug 2026 19:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZcG0yz-AzkHkU-pAesVGJHn614izfclGHTIohlJMN_RLp_n2pTBoZW5RKfM0",
-      "pictureSource": "Новости Беларуси | БелТА",
-      "relatedSearch": [
-        {
-          "title": "Угрожал продавцу предметом, похожим на пистолет. Следователи работают на месте нападения на ювелирный магазин в Минске",
-          "snippet": "",
-          "url": "https://belta.by/society/view/ugrozhal-prodavtsu-predmetom-pohozhim-na-pistolet-sledovateli-rabotajut-na-meste-napadenija-na-797275-2026/",
-          "source": "Новости Беларуси | БелТА"
-        },
-        {
-          "title": "В Минске грабят ювелирку? Необычное скопление служебных машин и спецназа на Востоке",
-          "snippet": "",
-          "url": "https://smartpress.by/news/v-minske-grabyat-yuvelirku-neobychnoe-skoplenie-sluzhebnykh-mashin-i-spetsnaza-na-vostoke/",
-          "source": "Smartpress.by"
-        },
-        {
-          "title": "В столице ограблен ювелирный салон – введен план «Перехват»",
-          "snippet": "",
-          "url": "https://mlyn.by/21082026/v-stolicze-ograblen-yuvelirnyj-salon-vveden-plan-perehvat/",
-          "source": "Минская правда"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "пантера казань",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 21 Aug 2026 14:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]

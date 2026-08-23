@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2026-08-23 22:27:37",
+  "lastUpdate": "2026-08-23 22:47:20",
   "data": [
-    {
-      "title": "псж",
-      "trafficCount": "2000+",
-      "pubDate": "Sun, 23 Aug 2026 13:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSmAcxzWiT1X6hcEDLjzmdeE2VtezFYJkQ3KU8hOvuDx8fv1NpNf9daaSWxcI",
-      "pictureSource": "Евро-Футбол",
-      "relatedSearch": [
-        {
-          "title": "Два испанца и Пачо спасли Луиса Энрике в матче против «Ренна»: кто увёл «ПСЖ» от поражения со счёта 0:2",
-          "snippet": "",
-          "url": "https://www.euro-football.ru/article/36/1006271341_dva_ispanca_i_pacho_spasli_luisa_enrike_v_matche_protiv_renna_kto_uvel_psj_ot_porajeniya_so_scheta_02",
-          "source": "Евро-Футбол"
-        },
-        {
-          "title": "Дубль Феррана Торреса помог «ПСЖ» уйти от поражения в матче Лиги 1 с «Ренном»",
-          "snippet": "",
-          "url": "https://matchtv.ru/football/matchtvnews_NI2357318_Dubl_Ferrana_Torresa_pomog_PSZh_ujti_ot_porazhenija_v_matche_Ligi_1_s_Rennom",
-          "source": "Матч ТВ"
-        },
-        {
-          "title": "Гави травмировался в матче с «Эльче». Педри заменил хавбека «Барсы» на 45-й минуте",
-          "snippet": "",
-          "url": "https://sportmail.ru/news/football/72091348/",
-          "source": "Спорт Mail"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "эльче – барселона",
       "trafficCount": "2000+",
@@ -53,6 +25,34 @@
           "snippet": "",
           "url": "https://www.vietnam.vn/ru/nhan-dinh-elche-vs-barcelona-02h30-ngay-24-8-elche-khong-the-gay-kho-cho-nha-vo-dich",
           "source": "Vietnam.vn"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ренн – псж",
+      "trafficCount": "2000+",
+      "pubDate": "Sun, 23 Aug 2026 10:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSmAcxzWiT1X6hcEDLjzmdeE2VtezFYJkQ3KU8hOvuDx8fv1NpNf9daaSWxcI",
+      "pictureSource": "Евро-Футбол",
+      "relatedSearch": [
+        {
+          "title": "Два испанца и Пачо спасли Луиса Энрике в матче против «Ренна»: кто увёл «ПСЖ» от поражения со счёта 0:2",
+          "snippet": "",
+          "url": "https://www.euro-football.ru/article/36/1006271341_dva_ispanca_i_pacho_spasli_luisa_enrike_v_matche_protiv_renna_kto_uvel_psj_ot_porajeniya_so_scheta_02",
+          "source": "Евро-Футбол"
+        },
+        {
+          "title": "Дубль Феррана Торреса помог «ПСЖ» уйти от поражения в матче Лиги 1 с «Ренном»",
+          "snippet": "",
+          "url": "https://matchtv.ru/football/matchtvnews_NI2357318_Dubl_Ferrana_Torresa_pomog_PSZh_ujti_ot_porazhenija_v_matche_Ligi_1_s_Rennom",
+          "source": "Матч ТВ"
+        },
+        {
+          "title": "Гави травмировался в матче с «Эльче». Педри заменил хавбека «Барсы» на 45-й минуте",
+          "snippet": "",
+          "url": "https://sportmail.ru/news/football/72091348/",
+          "source": "Спорт Mail"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,16 +99,16 @@
           "source": "24.KG"
         },
         {
+          "title": "Самое высокое колесо обозрения в Центральной Азии появилось в Бишкеке, - мэрия – Новости из Кыргызстана",
+          "snippet": "",
+          "url": "https://kg.akipress.org/news:2521569?from=mportal&place=last",
+          "source": "Akipress"
+        },
+        {
           "title": "Реконструкция \"Асман Парка\" в Бишкеке завершена более чем на 90%",
           "snippet": "",
           "url": "https://kaktus.media/doc/551938_rekonstrykciia_asman_parka_v_bishkeke_zavershena_bolee_chem_na_90.html",
           "source": "Кактус Медиа"
-        },
-        {
-          "title": "В Бишкеке устанавливают самое высокое колесо обозрения в Центральной Азии",
-          "snippet": "",
-          "url": "https://economist.kg/society/2026/08/23/bishkek-koleso-obozreniya-92-metra/",
-          "source": "Economist.kg"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,10 +189,10 @@
           "source": "Sportbox"
         },
         {
-          "title": "Турецкая Суперлига: \"Трабзонспор\" побеждает благодаря дублю Салаха, \"Бешикташ\" терпит поражение на своем поле - ВИДЕО",
+          "title": "Салах забил первый гол за «Трабзонспор»",
           "snippet": "",
-          "url": "https://www.idman.biz/ru/news/world-football/152601",
-          "source": "İdman.Biz"
+          "url": "https://by.tribuna.com/football/1113086459-salax-zabiu-pershy-gol-za-trabzonspor/",
+          "source": "Tribuna.com Беларусь"
         }
       ],
       "link": "https://imtaqin.id/"

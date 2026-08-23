@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-08-23 10:13:45",
+  "lastUpdate": "2026-08-23 10:40:47",
   "data": [
+    {
+      "title": "запоріжжя",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 23 Aug 2026 03:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHDXtX4jbQ9YSOE69Vx3uh0qDoX0TDyA_ovU3NtkUt8gDc8fiRKfF-W4NNYfo",
+      "pictureSource": "NV",
+      "relatedSearch": [
+        {
+          "title": "Росіяни атакували територію торговельного центру у Запоріжжі",
+          "snippet": "",
+          "url": "https://nv.ua/ukr/ukraine/events/ataka-na-torgovelniy-centr-u-zaporizhzhi-postrazhdav-cholovik-vlada-zaklikala-pereglyanuti-bezpeku-50634994.html",
+          "source": "NV"
+        },
+        {
+          "title": "На Запоріжжі армія РФ завдала 559 ударів по території 40 населених пунктів: є загиблі та поранені",
+          "snippet": "",
+          "url": "https://suspilne.media/zaporizhzhia/1385456-na-zaporizzi-armia-rf-zavdala-559-udariv-po-teritorii-40-naselenih-punktiv-e-zagibli-ta-poraneni/",
+          "source": "Суспільне | Новини"
+        },
+        {
+          "title": "Росія вгатила по торговельному центру у Запоріжжі",
+          "snippet": "",
+          "url": "https://tsn.ua/ukrayina/rosiia-vhatyla-po-torhovelnomu-tsentru-u-zaporizzi-3153890.html",
+          "source": "ТСН"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "погода миколаїв",
       "trafficCount": "200+",
@@ -30,34 +58,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "локомотив",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 23 Aug 2026 03:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTElzm_RBQQO--nexeXwv-sh8K20Wnbzjt8O9FnYu5wPYf38arQOk-CkxsNIwM",
-      "pictureSource": "Футбол на Куличках",
-      "relatedSearch": [
-        {
-          "title": "Обзор матча ЦСКА - Локомотив. 22 августа 2026, Чемпионат России, 5 тур - на ФНК",
-          "snippet": "",
-          "url": "https://football.kulichki.net/ruschamp/2027/5/6-CSKA-Lokomotiv-obzor-matcha-ruschamp-2027.htm",
-          "source": "Футбол на Куличках"
-        },
-        {
-          "title": "ЦСКА обыграл \"Локомотив\" в чемпионате России по футболу",
-          "snippet": "",
-          "url": "https://www.sport-interfax.ru/1110722",
-          "source": "sport-interfax.ru"
-        },
-        {
-          "title": "Россия, \"Локомотив\" С Русланом Мялковским потерпел поражение от ЦСКА Артема Шуманского",
-          "snippet": "",
-          "url": "https://football.by/news/223064",
-          "source": "Football.by"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "погода николаев",
       "trafficCount": "500+",
       "pubDate": "Sun, 23 Aug 2026 02:50:00 -0700",
@@ -80,10 +80,10 @@
           "source": "Українська правда"
         },
         {
-          "title": "У Києві російська балістика вдарила по залізничному підприємству: загинув працівник",
+          "title": "\"Шахед\" влучив у поїзд із 600 пасажирами — перші деталі",
           "snippet": "",
-          "url": "https://www.unian.ua/economics/transport/u-kiyevi-rosiyska-balistika-vdarila-po-zaliznichnomu-pidpriyemstvu-zaginuv-pracivnik-novini-kiyeva-13477113.html",
-          "source": "УНІАН"
+          "url": "https://tsn.ua/ukrayina/rosiiany-atakuvaly-shakhedom-pasazyrskyy-poyizd-pershi-detali-3153836.html",
+          "source": "ТСН"
         },
         {
           "title": "На Одещині дрон влучив у локомотив пасажирського поїзда Житомир — Одеса: усіх пасажирів евакуювали",
@@ -142,10 +142,10 @@
           "source": "Патріот Донбасу"
         },
         {
-          "title": "Вибух в аптеці Львова - несправність електромережі призвела до смертельних наслідків",
+          "title": "У Львові під час пожежі в аптеці загинула людина, ЗМІ повідомляли про вибух",
           "snippet": "",
-          "url": "https://unn.ua/news/vybukh-v-aptetsi-lvova-nespravnist-elektromerezhi-pryzvela-do-smertelnykh-naslidkiv",
-          "source": "Українські Національні Новини (УНН)"
+          "url": "https://nv.ua/ukr/ukraine/events/lviv-vibuh-v-apteci-pid-chas-pozhezhi-zaginula-lyudina-u-miskiy-radi-pokazali-naslidki-50634980.html",
+          "source": "NV"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -154,20 +154,20 @@
       "title": "24 серпня",
       "trafficCount": "200+",
       "pubDate": "Sun, 23 Aug 2026 01:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBktSw8tyxCMuAcn0Xr36W5_knGZaQWXRG1rlc4mRVCBsSf8OViDZoeMjrhKM",
-      "pictureSource": "КУРС",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpAi5FU5iWklOvWxbMiK8CoO1ehAOEOiKNvXc4kdgFS1MQXqt7YCff6j1JZkI",
+      "pictureSource": "Інформатор Івано-Франківськ",
       "relatedSearch": [
-        {
-          "title": "Концерти, фестивалі та кіновечори: куди піти у Франківську 22-24 серпня | Курс",
-          "snippet": "",
-          "url": "https://kurs.if.ua/konczerty-festyvali-ta-kinovechory-kudy-pity-u-frankivsku-22-24-serpnya/",
-          "source": "КУРС"
-        },
         {
           "title": "Від фентезі-романів до кераміки: у Франківську триває ярмарок ветеранського бізнесу",
           "snippet": "",
           "url": "https://if.informator.ua/2026/08/22/vid-fentezi-romaniv-do-keramiky-u-frankivsku-tryvaye-yarmarok-veteranskogo-biznesu/",
           "source": "Інформатор Івано-Франківськ"
+        },
+        {
+          "title": "Концерти, фестивалі та кіновечори: куди піти у Франківську 22-24 серпня | Курс",
+          "snippet": "",
+          "url": "https://kurs.if.ua/konczerty-festyvali-ta-kinovechory-kudy-pity-u-frankivsku-22-24-serpnya/",
+          "source": "КУРС"
         },
         {
           "title": "Для дітей Захисників у Франківську проведуть святковий квест до Дня Незалежності",
@@ -192,16 +192,16 @@
           "source": "Українська правда"
         },
         {
+          "title": "Багато загиблих знайшли саме там. У Кривому Розі оголосили підозру директору одного з супермаркетів, який працював під час тривоги",
+          "snippet": "",
+          "url": "https://nv.ua/ukr/ukraine/events/kriviy-rig-direktoru-supermarketu-v-tc-ogolosili-pidozru-pislya-ataki-rf-50634945.html",
+          "source": "NV"
+        },
+        {
           "title": "Удар РФ по Кривому Рогу: директору одного з магазинів повідомили про підозру через реакцію на тривогу",
           "snippet": "",
           "url": "https://www.radiosvoboda.org/a/news-udar-rf-kryvyi-rih-pidozra-dyrektor-odnoho-z-mahazyniv/33836257.html",
           "source": "Радіо Свобода"
-        },
-        {
-          "title": "Гроші тижня. Росія знищила ТРЦ у Кривому Розі та склади, Кличко заплутався у відсотках, у Сенс Банку завівся Форест Гамп",
-          "snippet": "",
-          "url": "https://biz.nv.ua/ukr/economics/groshi-tizhnya-tragediya-u-krivomu-rozi-udari-po-skladah-pid-kiyevom-gotovnist-ukrajini-do-zimi-50634971.html",
-          "source": "NV Бизнес"
         }
       ],
       "link": "https://imtaqin.id/"

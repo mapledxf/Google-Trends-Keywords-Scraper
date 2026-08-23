@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-08-23 05:22:13",
+  "lastUpdate": "2026-08-23 05:50:51",
   "data": [
     {
       "title": "gta6",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 22 Aug 2026 21:40:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTk8yxeXKybM7D3UT8okUUPKD8jnPJ6V758FU_4JKbFsH1ai6H8m7mmF1doabU",
       "pictureSource": "Variety",
@@ -31,26 +31,39 @@
     },
     {
       "title": "виза",
-      "trafficCount": "100+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 22 Aug 2026 21:20:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZzYsuZRKLOJDNqLGwA_hIwJhtLfouDapbC0MNTDKErG-37SdbPtSa83H0A4g",
+      "pictureSource": "DW.com",
+      "relatedSearch": [
+        {
+          "title": "В США суд отменил запрет на выдачу виз гражданам 75 стран",
+          "snippet": "",
+          "url": "https://www.dw.com/ru/v-ssa-sud-otmenil-resenie-o-priostanovke-vydaci-immigracionnyh-viz-grazdanam-75-stran/a-78472129",
+          "source": "DW.com"
+        },
+        {
+          "title": "Суд в США отменил запрет Госдепа на выдачу иммиграционных виз гражданам 75 стран (в том числе России)",
+          "snippet": "",
+          "url": "https://meduza.io/news/2026/08/22/sud-v-ssha-otmenil-zapret-gosdepa-na-vydachu-immigratsionnyh-viz-grazhdanam-75-stran-v-tom-chisle-rossii",
+          "source": "Meduza"
+        },
+        {
+          "title": "Суд в Нью-Йорке отменил решение о приостановке выдачи иммиграционных виз США гражданам России и еще 74 стран",
+          "snippet": "",
+          "url": "https://theins.ru/news/296333",
+          "source": "The Insider"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "валютный курс",
       "trafficCount": "1000+",
       "pubDate": "Sat, 22 Aug 2026 19:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTSABZRgQonIq8_ixk34GTejT-s0GGUbyOAbN4-KNVT7QGc6Kka0xEmHck0z4",
-      "pictureSource": "Daryo.uz",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRtuQwGTkwjdOfLHgSWJOm6qDF2qjz1XC1-Iw9iY0NfjvTeH1941927PNjO6c",
+      "pictureSource": "Repost.uz",
       "relatedSearch": [
-        {
-          "title": "Курс валют в Узбекистане на 24 августа",
-          "snippet": "",
-          "url": "https://daryo.uz/ru/2026/08/21/kurs-valyut-dollar-uzbekistan-24-avgust/",
-          "source": "Daryo.uz"
-        },
         {
           "title": "Курс валют в Узбекистане на 22 августа",
           "snippet": "",
@@ -58,10 +71,16 @@
           "source": "Repost.uz"
         },
         {
-          "title": "Объявлены валютные курсы на 24 августа",
+          "title": "Курс валют в Узбекистане на 24 августа",
           "snippet": "",
-          "url": "https://zamin.uz/ru/ekonomika/218840-obyavleny-valyutnye-kursy-na-24-avgusta.html",
-          "source": "Zamin.uz"
+          "url": "https://daryo.uz/ru/2026/08/21/kurs-valyut-dollar-uzbekistan-24-avgust/",
+          "source": "Daryo.uz"
+        },
+        {
+          "title": "Курс доллара упал до минимума с августа 2023 года",
+          "snippet": "",
+          "url": "https://kun.uz/ru/news/2026/08/17/kurs-dollara-upal-do-minimuma-s-avgusta-2023-goda",
+          "source": "Kun.uz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -80,16 +99,16 @@
           "source": "Tribuna.uz"
         },
         {
-          "title": "«Интер Майами» проиграл «Торонто» в матче MLS, Месси забил гол",
-          "snippet": "",
-          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/rest_of_the_world/spbnews_NI2356850_Inter_Majami_proigral_Toronto_v_matche_MLS_Messi_zabil_gol",
-          "source": "Sportbox"
-        },
-        {
           "title": "Месси забивает, но «Интер Майами» по-прежнему не выигрывает, Дэвид Бекхэм выйдет на замену.",
           "snippet": "",
           "url": "https://www.vietnam.vn/ru/messi-ghi-ban-inter-miami-van-chua-thang-david-beckham-se-ra-tay",
           "source": "Vietnam.vn"
+        },
+        {
+          "title": "Месси сам не свой, Суарес – тоже: Из-за кого «Интер Майами» проиграл «Торонто»",
+          "snippet": "",
+          "url": "https://www.euro-football.ru/article/1003413647/1006270882_messi_sam_ne_svoy_suares__toje_iz-za_kogo_inter_mayami_proigral_toronto",
+          "source": "Евро-Футбол"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -231,8 +250,8 @@
         {
           "title": "Bellingham: “Una victoria de mentalidad; Espí marcó un gol como Joselu Júnior”",
           "snippet": "",
-          "url": "https://es-us.noticias.yahoo.com/deportes/bellingham-victoria-mentalidad-esp%C3%AD-marc%C3%B3-232153773.html",
-          "source": "Yahoo"
+          "url": "https://holanews.com/bellingham-una-victoria-de-mentalidad-espi-marco-un-gol-como-joselu-junior/",
+          "source": "HolaNews"
         },
         {
           "title": "Carlos Espí es \"el hombre más feliz del mundo\" tras darle el triunfo a Real Madrid",

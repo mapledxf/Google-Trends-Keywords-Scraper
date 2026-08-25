@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-08-25 23:10:46",
+  "lastUpdate": "2026-08-25 23:35:43",
   "data": [
     {
       "title": "11 de septiembre",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 25 Aug 2026 15:20:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH_Kf83uEECNrbwsNSzpOxw-6Stg2AV9VQJbeUW8DAwD9iD1N-VoW72-Bnjww",
       "pictureSource": "Primera Hora",
@@ -61,9 +61,15 @@
       "title": "dolly parton",
       "trafficCount": "10000+",
       "pubDate": "Tue, 25 Aug 2026 11:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0UJurmd77mw46jxG8nfQxoXvG1eEMRtqSW20bdj6x-T7Y8ShPXHaSSj_XgFs",
-      "pictureSource": "People.com",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9OqIE-qmGdroYoU35CWQ-PMPWKITcnvm6yaVTvqnjWUUpk-Q-jZSmarncKmk",
+      "pictureSource": "TMZ",
       "relatedSearch": [
+        {
+          "title": "Dolly Parton Dead at 80",
+          "snippet": "",
+          "url": "https://www.tmz.com/2026/08/25/dolly-parton-dead/",
+          "source": "TMZ"
+        },
         {
           "title": "Dolly Parton, Country Music Legend, Dies at 80, Just 4 Days After Saying, ‘I Still Have So Many Things I Want to Achieve’",
           "snippet": "",
@@ -75,12 +81,6 @@
           "snippet": "",
           "url": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html",
           "source": "The New York Times"
-        },
-        {
-          "title": "Dolly Parton, legendary US country singer, dies aged 80 - updates",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/live/c0ry0yzxeyxt",
-          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,20 +89,20 @@
       "title": "depresión tropical",
       "trafficCount": "1000+",
       "pubDate": "Tue, 25 Aug 2026 11:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaZ44BIte2ypawHnEbW38g5JpKzgltbO8Qqpwq1AQ04bXInbzToufV7dnU3Sk",
-      "pictureSource": "El Nuevo Día",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZBuYEUIWa-qRTVOcrIqHxwfYktq2XSLaL4ZvI9w-4MaUuvmIFfMxA-rA9sDU",
+      "pictureSource": "Primera Hora",
       "relatedSearch": [
-        {
-          "title": "Invest 96L podría convertirse en depresión tropical en los próximos días",
-          "snippet": "",
-          "url": "https://www.elnuevodia.com/noticias/el-tiempo/notas/invest-96l-podria-convertirse-en-depresion-tropical-en-los-proximos-dias/",
-          "source": "El Nuevo Día"
-        },
         {
           "title": "¡Sube otra vez! AL96 gana organización y eleva su probabilidad de desarrollo ciclónico",
           "snippet": "",
           "url": "https://www.primerahora.com/noticias/estados-unidos/notas/sube-otra-vez-al96-gana-organizacion-y-eleva-su-probabilidad-de-desarrollo-ciclonico/",
           "source": "Primera Hora"
+        },
+        {
+          "title": "Invest 96L podría convertirse en depresión tropical en los próximos días",
+          "snippet": "",
+          "url": "https://www.elnuevodia.com/noticias/el-tiempo/notas/invest-96l-podria-convertirse-en-depresion-tropical-en-los-proximos-dias/",
+          "source": "El Nuevo Día"
         },
         {
           "title": "Vigilan onda tropical con potencial desarrollo ciclónico",
@@ -117,15 +117,9 @@
       "title": "boeing 777",
       "trafficCount": "200+",
       "pubDate": "Tue, 25 Aug 2026 09:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoneWw-qH0tv0eONJQ4vqveSJ8dg6InDmlFg04lBwVtc07Eh8VmV5USxujZFg",
-      "pictureSource": "Simple Flying",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsenSchMCFlxZ3H-VhsYIgrKH3js8v6afMgp5vte2z0ZyB6EqAlzjFItJ00sQ",
+      "pictureSource": "airlive",
       "relatedSearch": [
-        {
-          "title": "Stranded In The Azores: Mystery Odor Forces SWISS Boeing 777 Diversion",
-          "snippet": "",
-          "url": "https://simpleflying.com/swiss-boeing-777-azores-diversion/",
-          "source": "Simple Flying"
-        },
         {
           "title": "Swiss LX9 from Chicago declared an emergency and diverted to airbase in middle of the Atlantic",
           "snippet": "",
@@ -133,10 +127,16 @@
           "source": "airlive"
         },
         {
-          "title": "Chicago-Switzerland flight diverts to Portuguese island after odor sickens 6",
+          "title": "Newsbrief (Flight LX9): Diversion to Terceira",
           "snippet": "",
-          "url": "https://www.washingtontimes.com/news/2026/aug/25/chicago-switzerland-flight-diverts-portuguese-island-odor-sickens-6/",
-          "source": "Washington Times"
+          "url": "https://newsroom.swiss.com/en/newsbrief-flight-lx9-diversion-to-terceira/",
+          "source": "SWISS Newsroom"
+        },
+        {
+          "title": "Stranded In The Azores: Mystery Odor Forces SWISS Boeing 777 Diversion",
+          "snippet": "",
+          "url": "https://simpleflying.com/swiss-boeing-777-azores-diversion/",
+          "source": "Simple Flying"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +155,16 @@
           "source": "Primera Hora"
         },
         {
-          "title": "Acusan a turista que habría agredido y mordido a policías tras incidente en hotel de Condado",
+          "title": "Buscan sospechoso responsable de tiroteo en dos negocios en NYC",
           "snippet": "",
-          "url": "https://www.elnuevodia.com/noticias/tribunales/notas/acusan-a-turista-que-habria-agredido-y-mordido-a-policias-tras-incidente-en-hotel-de-condado/",
-          "source": "El Nuevo Día"
+          "url": "https://www.telemundo47.com/video/videos/videos-noticias/buscan-sospechoso-responsable-de-tiroteo-en-dos-negocios-en-nyc/2650923/",
+          "source": "Telemundo New York"
         },
         {
-          "title": "Perdió $500: mujer denuncia fraude en compra de boletos para concierto de Bad Bunny",
+          "title": "El NYPD identifica a sospechoso vinculado a tiroteos en El Bronx y Brooklyn",
           "snippet": "",
-          "url": "https://www.elnuevodia.com/noticias/seguridad/notas/perdio-500-mujer-denuncia-fraude-en-compra-de-boletos-para-concierto-de-bad-bunny/",
-          "source": "El Nuevo Día"
+          "url": "https://spectrumnoticias.com/ny/nyc/noticias/2026/08/25/la-policia-identifica-a-sospechoso-vinculado-a-tiroteos-mortales-en-el-bronx-y-brooklyn",
+          "source": "Spectrum Noticias"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,26 +173,26 @@
       "title": "premio",
       "trafficCount": "2000+",
       "pubDate": "Tue, 25 Aug 2026 06:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7f7bess9OE_CqgDLospI5KqHeYrSZF0ejt7TqRmvuuqqKsD2-J7rZPM0gbgw",
-      "pictureSource": "MARCA",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHwpjxUiIJnOhb0c8GWQQdRCcjFxeIhxf9whBe-8_W5ofvwaGgE9l_TPJMJ2c",
+      "pictureSource": "Primera Hora",
       "relatedSearch": [
         {
-          "title": "Resultados Lotería Nacional Sorteo Mayor 4025: Premios y números ganadores del martes 25 de agosto 202",
+          "title": "Boleto vendido en Puerto Rico gana $100,000 en el Powerball",
           "snippet": "",
-          "url": "https://www.marca.com/mx/actualidad/loteria/2026/08/26/resultados-loteria-nacional-sorteo-mayor-4025-premios-numeros-ganadores-martes-25-agosto-202.html",
-          "source": "MARCA"
+          "url": "https://www.primerahora.com/noticias/consumo/notas/boleto-vendido-en-puerto-rico-gana-100000-en-el-powerball/",
+          "source": "Primera Hora"
         },
         {
-          "title": "Lotería Nacional conmemora 90 años del Tribunal Federal de Justicia Administrativa con billete conmemorativo",
+          "title": "Premio de $100,000 del Powerball cae en Puerto Rico",
           "snippet": "",
-          "url": "https://revistafortuna.com.mx/2026/08/24/loteria-nacional-conmemora-90-anos-del-tribunal-federal-de-justicia-administrativa-con-billete-conmemorativo/",
-          "source": "Revista Fortuna"
+          "url": "https://www.telemundopr.com/noticias/puerto-rico/premio-de-100000-del-powerball-cae-en-puerto-rico-2/2838675/",
+          "source": "Telemundo Puerto Rico"
         },
         {
-          "title": "Reconocen con billete conmemorativo de Lotería 90 años de compromiso social del Tribunal Federal de Justicia Administrativa",
+          "title": "¡Verifica tu boleto! Jugador afortunado en Puerto Rico gana $100,000 en el Powerball",
           "snippet": "",
-          "url": "https://es-us.noticias.yahoo.com/reconocen-billete-conmemorativo-loter%C3%ADa-90-234233165.html",
-          "source": "Yahoo"
+          "url": "https://www.elnuevodia.com/negocios/consumo/notas/verifica-tu-boleto-jugador-afortunado-en-puerto-rico-gana-100000-en-el-powerball/",
+          "source": "El Nuevo Día"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +211,16 @@
           "source": "CNBC"
         },
         {
-          "title": "Earnings live updates: Dick's Sporting Goods stock tanks after retailer slashes outlook amid 'challenging conditions'",
-          "snippet": "",
-          "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-q2-nvidia-115314802.html",
-          "source": "Yahoo Finance"
-        },
-        {
           "title": "Foot Locker owner plunges after warning nervous consumers are cutting spending",
           "snippet": "",
           "url": "https://www.ft.com/content/1b066355-4412-43bd-b832-74956d3c0a52?syn-25a6b1a6=1",
           "source": "Financial Times"
+        },
+        {
+          "title": "Earnings live updates: Dick's Sporting Goods stock tanks after retailer slashes outlook amid 'challenging conditions'",
+          "snippet": "",
+          "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-q2-nvidia-115314802.html",
+          "source": "Yahoo Finance"
         }
       ],
       "link": "https://imtaqin.id/"

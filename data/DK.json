@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2026-08-25 07:12:56",
+  "lastUpdate": "2026-08-25 07:57:59",
   "data": [
     {
       "title": "personpåkørsel",
       "trafficCount": "100+",
       "pubDate": "Mon, 24 Aug 2026 21:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvCDf4k4p7N2NPGP0Ld3v5-nMpkgNVygqjGiusW5i3sqdm4ByKROs3R9CE-Yo",
-      "pictureSource": "migogvejen",
+      "picture": "",
+      "pictureSource": "dr.dk",
       "relatedSearch": [
+        {
+          "title": "Tog mellem Kolding og Esbjerg holder stille - driften genoptages sent mandag aften",
+          "snippet": "",
+          "url": "https://www.dr.dk/nyheder/seneste/tog-mellem-kolding-og-esbjerg-holder-stille",
+          "source": "dr.dk"
+        },
         {
           "title": "Dræbt mod tog",
           "snippet": "",
@@ -19,12 +25,6 @@
           "snippet": "",
           "url": "https://jv.dk/vejen/togtrafik-indstillet-efter-personpaakoersel",
           "source": "JydskeVestkysten"
-        },
-        {
-          "title": "Togtrafikken lammet efter dødelig hændelse: Flere strækninger ramt",
-          "snippet": "",
-          "url": "https://presse-fotos.dk/togtrafikken-lammet-efter-doedelig-haendelse-flere-straekninger-ramt/",
-          "source": "Presse-fotos.dk"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -58,18 +58,40 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "svostrup",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 24 Aug 2026 21:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBR5noegpmsVEDKjZeONJxhOvXXXZltCsoD5dwPW3HTDpacef0X0Sm0be9iLA",
+      "pictureSource": "dr.dk",
+      "relatedSearch": [
+        {
+          "title": "Politiet efterlyser konkrete vidner efter en mand er fundet død i Gudenåen",
+          "snippet": "",
+          "url": "https://www.dr.dk/nyheder/seneste/mand-fundet-doed-i-gudenaaen",
+          "source": "dr.dk"
+        },
+        {
+          "title": "Politiet undersøger mistænkeligt forhold | Krimi | Nyheder",
+          "snippet": "",
+          "url": "https://www.bt.dk/krimi/politiet-undersoeger-mistaenkeligt-forhold-17?gaa_at=eafs&gaa_n=AXbw80TkyXkVDRQC33sUIM5srpk7ClkKO9qQlZsY_b0xcGHq7rDOvAFDpDfB&gaa_ts=6a8d4e8b&gaa_sig=wtngGNIoi4E6cJxD2s4uObMEjPwSi-PMtroByahOWWrxDpp-cRaxXeR3K-Pv5vQdk6Fcad97oBy8pQwSCeS7Zw%3D%3D",
+          "source": "B.T."
+        },
+        {
+          "title": "Massiv udrykning: Dykkere er i vandet",
+          "snippet": "",
+          "url": "https://presse-fotos.dk/massiv-udrykning-mulig-drukneulykke/",
+          "source": "Presse-fotos.dk"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "fitness",
       "trafficCount": "100+",
       "pubDate": "Mon, 24 Aug 2026 20:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAjZFYXKQ9EDlN-WJmzHabS1aBsAha2p7KQmDy93rjhYPjyl8tdPgm08gvwLY",
-      "pictureSource": "St George & Sutherland Shire Leader",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvyMIyO4C2UrRbnd5ur8IS2G42xjuiNEwfYq9lSJRG23THtJSvVDNR64g2ids",
+      "pictureSource": "WhatNow",
       "relatedSearch": [
-        {
-          "title": "24-hour gym plan for former Toys 'R' Us site in Westfield Miranda",
-          "snippet": "",
-          "url": "https://www.theleader.com.au/story/9337129/planet-fitness-new-24-hour-gym-proposed-for-westfield-miranda/",
-          "source": "St George & Sutherland Shire Leader"
-        },
         {
           "title": "EoS Fitness to Open its Fifth Henderson Studio Next Year",
           "snippet": "",
@@ -77,10 +99,16 @@
           "source": "WhatNow"
         },
         {
-          "title": "Can't hit gym during monsoon? 7 exercises to try at home to stay active and fit",
+          "title": "24-hour gym plan for former Toys 'R' Us site in Westfield Miranda",
           "snippet": "",
-          "url": "https://www.moneycontrol.com/health-and-fitness/can-t-hit-gym-during-monsoon-7-exercises-to-try-at-home-to-stay-active-and-fit-article-14014660.html",
-          "source": "Moneycontrol.com"
+          "url": "https://www.theleader.com.au/story/9337129/planet-fitness-new-24-hour-gym-proposed-for-westfield-miranda/",
+          "source": "St George & Sutherland Shire Leader"
+        },
+        {
+          "title": "The Best Home Gym Kit Under £20 for Building Muscle and Strength",
+          "snippet": "",
+          "url": "https://www.menshealth.com/uk/building-muscle/g73492543/best-cheap-gym-equipment/",
+          "source": "Men's Health"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,10 +183,10 @@
           "source": "CNBC"
         },
         {
-          "title": "US' Iran D-Day Threat Hinges On Willingness To Hit China",
+          "title": "Dozens of China, Hong Kong Firms Hit by Bessent’s Iran Sanctions",
           "snippet": "",
-          "url": "https://www.ndtv.com/world-news/us-iran-war-uss-iran-d-day-threat-hinges-on-willingness-to-hit-china-11954874",
-          "source": "NDTV"
+          "url": "https://www.bloomberg.com/news/articles/2026-08-25/dozens-of-chinese-firms-hit-by-bessent-s-d-day-iran-sanctions",
+          "source": "Bloomberg"
         },
         {
           "title": "Trump’s Attempt to Strangle Iran’s Economy Depends on China’s Cooperation",
@@ -193,34 +221,6 @@
           "snippet": "",
           "url": "https://www.nbcdfw.com/news/local/device-catches-fire-american-airlines-flight-dallas/4066436/",
           "source": "NBC 5 Dallas-Fort Worth"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "elmer møller",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 24 Aug 2026 15:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf1G_d5f9bps_07EOAOfViMKN9pGY6VSdb2FVxrxOyAJ7B98OaFlecJcfF6_g",
-      "pictureSource": "Ekstra Bladet",
-      "relatedSearch": [
-        {
-          "title": "August Holmgren misser US Open",
-          "snippet": "",
-          "url": "https://ekstrabladet.dk/sport/anden_sport/tennis/august-holmgren-misser-us-open/11267534",
-          "source": "Ekstra Bladet"
-        },
-        {
-          "title": "Elmer Møller i US Open-kval mod Coleman Wong",
-          "snippet": "",
-          "url": "https://www.spilxperten.com/tennis/us-open/elmer-moeller-i-us-open-kval-mod-coleman-wong/",
-          "source": "SpilXperten"
-        },
-        {
-          "title": "Møller og Holmgren kæmper for US Open-deltagelse mandag aften",
-          "snippet": "",
-          "url": "https://www.eurosport.dk/tennis/us-open/2026/us-open-2026-kvalifikation-elmer-moller-og-august-holmgren-kaemper-for-us-open-deltagelse-mandag-aften_sto23330731/story.shtml",
-          "source": "Eurosport"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -263,7 +263,7 @@
         {
           "title": "Aldrig set før - grev Nikolai og kæresten tager stort skridt: 'Det er helt klart en blåstempling' | Royale | Underholdning",
           "snippet": "",
-          "url": "https://www.bt.dk/royale/aldrig-set-foer-grev-nikolai-og-kaeresten-tager-stort-skridt-det-er-helt-klart-en-blaastempling?gaa_at=eafs&gaa_n=AXbw80Rxf-C3TCds43zb3-aegWg6oQ7670gHlDtCGBu2wRd1EMsYK5attuFv&gaa_ts=6a8d43fc&gaa_sig=ulhb7u53JEQ-fCx0dgdNhK9zp-zaQc9LgCADz49BLTke4xsePI7Dv8EHokTQW7me7fnsb6syekv4tfgFaOaacg%3D%3D",
+          "url": "https://www.bt.dk/royale/aldrig-set-foer-grev-nikolai-og-kaeresten-tager-stort-skridt-det-er-helt-klart-en-blaastempling?gaa_at=eafs&gaa_n=AXbw80RFyLItvMOpEDS5i3faBJ30TPH3DvF75-QXk64EIAtA0Vg_vXsTyDuF&gaa_ts=6a8d4e8b&gaa_sig=xHFVyfTz-nPe02gIGa49M90KDMRRdgm6mdrmrUHyXzUliarKH03itNdxA2eYfoKtpiOz7hKvVkkY-eSC-uWZRA%3D%3D",
           "source": "B.T."
         },
         {

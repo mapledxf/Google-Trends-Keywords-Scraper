@@ -1,9 +1,149 @@
 {
-  "lastUpdate": "2026-08-25 04:47:02",
+  "lastUpdate": "2026-08-25 05:18:22",
   "data": [
     {
-      "title": "meteo",
+      "title": "hélicoptère",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 24 Aug 2026 22:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8pZZV_GAdOQcY1RE7UfgskltTaHY06EYgwebQDVpkl2QfAf_LkI5lvprDprI",
+      "pictureSource": "Rhône FM",
+      "relatedSearch": [
+        {
+          "title": "Un hélicoptère s'écrase à Anzère, pas de victime",
+          "snippet": "",
+          "url": "https://www.rhonefm.ch/valais/un-helicoptere-s-ecrase-a-anzere-pas-de-victime-1724169",
+          "source": "Rhône FM"
+        },
+        {
+          "title": "Choc entre Goeblange et Simmerschmelz, l’hélicoptère de secours intervient",
+          "snippet": "",
+          "url": "https://lequotidien.lu/a-la-une/choc-entre-goeblange-et-simmerschmelz-lhelicoptere-de-secours-intervient/",
+          "source": "Le Quotidien.lu"
+        },
+        {
+          "title": "Accident de circulation: L'hélicoptère de secours mobilisé entre Goeblange et Simmerschmelz",
+          "snippet": "",
+          "url": "https://infos.rtl.lu/news/luxembourg/lhelicoptere-de-secours-mobilise-entre-goeblange-et-simmerschmelz-495555792",
+          "source": "RTL Lëtzebuerg"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather",
       "trafficCount": "500+",
+      "pubDate": "Mon, 24 Aug 2026 22:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTBh5IJK2EnAdjS6IWNABlzMIQtJB62wsc3T6ei-GayD_LMAGFRI7-vtpv--8",
+      "pictureSource": "Reuters Connect",
+      "relatedSearch": [
+        {
+          "title": "Licensable picture: Rain lashes parts of New Delhi",
+          "snippet": "",
+          "url": "https://www.reutersconnect.com/item/rain-lashes-parts-of-new-delhi/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFTTkVXUzIwMjYwODI0NDIxTA",
+          "source": "Reuters Connect"
+        },
+        {
+          "title": "Heavy Rain In Delhi For Second Day, Red Alert Issued",
+          "snippet": "",
+          "url": "https://www.ndtv.com/india-news/delhi-rain-alert-delhi-red-alert-delhi-witnesses-heavy-rain-for-2nd-day-red-alert-issued-11954448",
+          "source": "NDTV"
+        },
+        {
+          "title": "Severe Rainfall Disrupts Delhi-NCR with Flight Diversions and Flooding",
+          "snippet": "",
+          "url": "https://www.indianewsnetwork.com/en/severe-rainfall-disrupts-delhi-ncr-flight-diversions-flooding-20260825",
+          "source": "India News Network"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "погода",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 24 Aug 2026 21:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWzIzDtXHKxSDOD7XUbeZYdeoLRxalZXnSR4INgJAHINSU5UNClbeuYQWI33E",
+      "pictureSource": "Городовой",
+      "relatedSearch": [
+        {
+          "title": "Синоптики предупредили о необычном сентябре: бабье лето пойдет по капризному сценарию",
+          "snippet": "",
+          "url": "https://gorodovoy.ru/news/sinoptiki-predupredili-o-neobychnom-sentyabre-babe-leto-poydet-po-kapriznomu-scenariyu_id911485_a195_c5_dp260825",
+          "source": "Городовой"
+        },
+        {
+          "title": "Каким будет бабье лето в 2026 году по народным приметам",
+          "snippet": "",
+          "url": "https://ura.news/articles/1053119037",
+          "source": "URA.RU"
+        },
+        {
+          "title": "«Неклассическое» бабье лето. Сколько дней тепла осень подарит москвичам",
+          "snippet": "",
+          "url": "https://360.ru/tekst/obschestvo/skolko-dnej-tepla-osen-podarit-moskvicham/",
+          "source": "360.ru"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "wetter",
+      "trafficCount": "5000+",
+      "pubDate": "Mon, 24 Aug 2026 21:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSp3RYDWUuiKbf3BlcIIxliHWJoGwXw55ER6Vw7JyM_Mrtq42ouKYCkV-waXRc",
+      "pictureSource": "Berner Zeitung",
+      "relatedSearch": [
+        {
+          "title": "Unwetterschäden bei Flamatt: Steinbrocken auf den Gleisen – Zuglinie Bern-Freiburg zweimal unterbrochen",
+          "snippet": "",
+          "url": "https://www.bernerzeitung.ch/erdrutsch-sbb-zuege-zwischen-bern-und-freiburg-eingeschraenkt-925018090327",
+          "source": "Berner Zeitung"
+        },
+        {
+          "title": "Bahnverkehr von Bern nach Freiburg wegen Hangrutsch eingeschränkt",
+          "snippet": "",
+          "url": "https://www.watson.ch/schweiz/oev/566565324-bahnverkehr-von-bern-nach-freiburg-wegen-hangrutsch-eingeschraenkt",
+          "source": "Watson"
+        },
+        {
+          "title": "Wetter Schweiz: Erdrutsch: Bahnverkehr zwischen Bern und Freiburg eingeschränkt",
+          "snippet": "",
+          "url": "https://www.20min.ch/story/wetter-schweiz-hitze-773827943300",
+          "source": "20 Minuten"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "hava durumu",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 24 Aug 2026 21:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRI6GklM5WXoPMdHd5cRFK6mpx3aKaEq6MSNQTUI6zSGz_LkwxA_npLwVYFen0",
+      "pictureSource": "Halk TV",
+      "relatedSearch": [
+        {
+          "title": "Havalar serinleyecek sıcaklar 6 derece düşecek! Rusya'dan gelecek soğuk hava için tarih verildi",
+          "snippet": "",
+          "url": "https://halktv.com.tr/turkiye/havalar-serinleyecek-sicaklar-6-derece-dusecek-rusyadan-gelen-soguk-hava-icin-tarih-verildi-1050849h",
+          "source": "Halk TV"
+        },
+        {
+          "title": "Meteoroloji’den İstanbul dahil birçok il için sağanak alarmı: İşte sıcakların bitiş tarihi",
+          "snippet": "",
+          "url": "https://haberglobal.com/ekonomi/meteorolojiden-istanbul-dahil-bircok-il-icin-saganak-alarmi-iste-sicaklarin-bitis-tarihi-540885",
+          "source": "Haber Global"
+        },
+        {
+          "title": "Zonguldak ve Bartın kıyıları için kuvvetli rüzgar uyarısı",
+          "snippet": "",
+          "url": "https://hibya.com/zonguldak-ve-bartin-kiyilari-icin-kuvvetli-ruzgar-uyarisi-1009883",
+          "source": "hibya.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "meteo",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 24 Aug 2026 21:20:00 -0700",
       "picture": "",
       "pictureSource": "",
@@ -12,7 +152,7 @@
     },
     {
       "title": "srf meteo",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 24 Aug 2026 21:00:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrjJMV_gpDMrFCg9JLvRuc3Ns9F6HItnbMAZHHZqk0UDzr4q6UWjAPgdMUCI8",
       "pictureSource": "20 Minuten",
@@ -40,7 +180,7 @@
     },
     {
       "title": "meteo suisse",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 24 Aug 2026 20:50:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiMyRO1ZAzlGVdVv9Bg4zHXQYnbpvAMOJcoK1KpCxefsQhskgoL6ARuQ47ZW8",
       "pictureSource": "24 Heures",
@@ -52,44 +192,44 @@
           "source": "24 Heures"
         },
         {
-          "title": "Après de brefs orages, le retour de la chaleur se confirme",
-          "snippet": "",
-          "url": "https://www.blick.ch/fr/suisse/meteo-apres-de-brefs-orages-la-fournaise-sera-de-retour-id22203975.html",
-          "source": "Blick"
-        },
-        {
           "title": "Météo de la semaine : attention aux violents orages de mardi avant le retour de la chaleur et du soleil",
           "snippet": "",
           "url": "https://www.24heures.ch/meteo-orages-mardi-puis-retour-du-soleil-en-suisse-romande-115326188111",
           "source": "24 Heures"
+        },
+        {
+          "title": "Après de brefs orages, le retour de la chaleur se confirme",
+          "snippet": "",
+          "url": "https://www.blick.ch/fr/suisse/meteo-apres-de-brefs-orages-la-fournaise-sera-de-retour-id22203975.html",
+          "source": "Blick"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "pogoda",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 24 Aug 2026 20:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQI9dX7U_NVl7WOei0hFeO8R-Rxc4-zlLNTvgYxG4zWTD0PQdZ5pSnyfj4e5PA",
-      "pictureSource": "Koszalin Nasze Miasto",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-xfSAsKaQ1wYlWJzxRkE3AeOq5uPZRPVDXU0lNZ6bF8Hz0-iZeG8PiYSc7YY",
+      "pictureSource": "Interia Wydarzenia",
       "relatedSearch": [
         {
-          "title": "Pogoda na dziś (25.08) dla Koszalina. Odkryj, co może Cię czekać",
+          "title": "Chłód w najbliższą noc, a później powrót potężnych upałów. Nad Polskę nadciąga fala gorąca",
           "snippet": "",
-          "url": "https://koszalin.naszemiasto.pl/pogoda-w-koszalinie-dzisiaj-25-08-jaka-bedzie-temperatura-we-wtorek/ar/c1p1-19942935",
-          "source": "Koszalin Nasze Miasto"
+          "url": "https://wydarzenia.interia.pl/kraj/news-lato-nie-powiedzialo-ostatniego-slowa-upaly-wroca-z-cala-moc,nId,23532970",
+          "source": "Interia Wydarzenia"
         },
         {
-          "title": "Jakie warunki czekają w najbliższych dniach od 25 sierpnia w Koszalinie? Poznaj szczegóły prognozy",
+          "title": "Nadejście upału tylko kwestią czasu. Lato nie mówi ostatniego słowa",
           "snippet": "",
-          "url": "https://koszalin.naszemiasto.pl/pogoda-na-tydzien-w-koszalinie-sprawdzona-prognoza-pogody-na-7-dni-od-25-08-jakie-beda-temperatury/ar/c1p1-19944027",
-          "source": "Koszalin Nasze Miasto"
+          "url": "https://wiadomosci.wp.pl/nadejscie-upalu-tylko-kwestia-czasu-lato-nie-mowi-ostatniego-slowa-7321668753954944a",
+          "source": "WP Wiadomości"
         },
         {
-          "title": "Co mówią prognozy na wolne dni w Koszalinie? Sprawdź aktualne przewidywania",
+          "title": "Szykuje się ostatni wybuch lata w tym miesiącu. Potem nastąpią kolejne zmiany w pogodzie",
           "snippet": "",
-          "url": "https://koszalin.naszemiasto.pl/koszalin-pogoda-na-weekend-prognoza-od-22-08-sobota-do-23-08-niedziela-sprawdz-prognoze-dlugoterminowa/ar/c1p1-19945261",
-          "source": "Koszalin Nasze Miasto"
+          "url": "https://www.polsatnews.pl/wiadomosc/2026-08-24/lato-zacznie-mieszac-sie-z-jesienia-najblizsze-tygodnie-nie-beda-spokojne/",
+          "source": "PolsatNews.pl"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -118,146 +258,6 @@
           "snippet": "",
           "url": "https://www.forbes.com/sites/paultassi/2026/08/24/a-new-gta-6-nudist-town-leak-is-stunning-and-lucia-spoilers-are-next/",
           "source": "Forbes"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "erdbeben",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 24 Aug 2026 20:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMIqf39yFlE6SKn6XrxNBDYmwW2f6vceAjpsjIeRzpmwEWn5txed1sL4xOFxQ",
-      "pictureSource": "Schwäbische.de",
-      "relatedSearch": [
-        {
-          "title": "Erdbeben am Bodensee in den frühen Morgenstunden",
-          "snippet": "",
-          "url": "https://www.schwaebische.de/regional/bodensee/radolfzell/erdbeben-am-bodensee-in-den-fruehen-erdbeben-4806345",
-          "source": "Schwäbische.de"
-        },
-        {
-          "title": "Leichtes Beben am Bodensee: Für Menschen wohl nicht spürbar",
-          "snippet": "",
-          "url": "https://www.wochenblatt-reporter.de/c-lokales/leichtes-beben-am-bodensee-fuer-menschen-wohl-nicht-spuerbar_a861484",
-          "source": "Wochenblatt Reporter"
-        },
-        {
-          "title": "Erdbeben erschüttert Bondensee",
-          "snippet": "",
-          "url": "https://www.oe24.at/a/erdbeben-erschuettert-bondensee-900109411",
-          "source": "oe24"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "villa der versuchung",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 24 Aug 2026 20:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUybB7RacV_DGLuGQWVsmtSV8vupKyQyAfPErXuAJTycmzBqOE_6ouCEFI28M",
-      "pictureSource": "RTL+",
-      "relatedSearch": [
-        {
-          "title": "Sendepause Fehlanzeige: Elsalationsstufe Rot 22.08.2026",
-          "snippet": "",
-          "url": "https://plus.rtl.de/sendepause-fehlanzeige-p_66905/audio/22-08-26-c_2095497",
-          "source": "RTL+"
-        },
-        {
-          "title": "„Villa der Versuchung“: Schock für die Promis! 250.000-Euro-Jackpot fällt unter die Hälfte",
-          "snippet": "",
-          "url": "https://www.hoerzu.de/aktuelles/villa-der-versuchung-schock-fuer-die-promis-250.000-euro-jackpot-faellt-unter-die-haelfte/",
-          "source": "HÖRZU"
-        },
-        {
-          "title": "Villa der Versuchung 2026: Wer ist raus? SIE fliegt in Folge 4",
-          "snippet": "",
-          "url": "https://www.swp.de/unterhaltung/tv/villa-der-versuchung-2026-wer-ist-raus-folge-4-79392393.html",
-          "source": "swp.de"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "meteorologia",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 24 Aug 2026 20:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBcYFptD_wcVAfUepF9f7kybOvQdOOw_nownYQ0HnfFskE4gPVWN_5CGg3GO8",
-      "pictureSource": "Expresso",
-      "relatedSearch": [
-        {
-          "title": "Depressões incomuns podem fazer deste agosto o mais chuvoso dos últimos anos",
-          "snippet": "",
-          "url": "https://expresso.pt/meteorologia/2026-08-24-depressoes-incomuns-podem-fazer-deste-agosto-o-mais-chuvoso-dos-ultimos-anos-d377630b",
-          "source": "Expresso"
-        },
-        {
-          "title": "Tempo melhora ligeiramente antes de voltar a piorar na quarta-feira",
-          "snippet": "",
-          "url": "https://sicnoticias.pt/meteorologia/2026-08-24-video-tempo-melhora-ligeiramente-na-terca-feira-antes-de-voltar-a-piorar-na-quarta-f76d2f4b",
-          "source": "SIC Notícias"
-        },
-        {
-          "title": "\"Há uma facilidade de se registar uma grande enxurrada com este mau tempo\"",
-          "snippet": "",
-          "url": "https://cnnportugal.iol.pt/videos/ha-uma-facilidade-de-se-registar-uma-grande-enxurrada-com-este-mau-tempo/6a8c34f90cf2f6a1a1e75118",
-          "source": "CNN Portugal"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "tiempo",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 24 Aug 2026 20:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRl34PxczhE6-vnd2-U-ORTC5KlW3tb75DNh9r3MHhQ_RMcNXQIXS0UDYo2NNI",
-      "pictureSource": "El Confidencial",
-      "relatedSearch": [
-        {
-          "title": "El tiempo en Madrid hoy, martes 25 de agosto: previsión de AEMET",
-          "snippet": "",
-          "url": "https://www.elconfidencial.com/el-tiempo/2026-08-25/el-tiempo-en-madrid-martes_4410850/",
-          "source": "El Confidencial"
-        },
-        {
-          "title": "Clima: las temperaturas que predominarán este 25 de agosto en Madrid",
-          "snippet": "",
-          "url": "https://www.infobae.com/espana/2026/08/25/clima-las-temperaturas-que-predominaran-este-25-de-agosto-en-madrid/",
-          "source": "Infobae"
-        },
-        {
-          "title": "Pronóstico del tiempo de HOY martes 25 de agosto en España",
-          "snippet": "",
-          "url": "https://www.cronista.com/espana/actualidad-es/pronostico-del-tiempo-de-hoy-martes-25-de-agosto-en-espana/",
-          "source": "El Cronista"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "schweiz",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 24 Aug 2026 20:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPQRbtKYO9xQbZdYuxThp-K_JOlZuNMdC-YaRfbcdaWS9-I5DOKqQH-VNN7VI",
-      "pictureSource": "bluewin.ch",
-      "relatedSearch": [
-        {
-          "title": "«Das Einzige, was gesalzen war, war der Preis»",
-          "snippet": "",
-          "url": "https://www.bluewin.ch/de/lifestyle/reisen/das-einzige-was-gesalzen-war-war-der-preis-li.3570509",
-          "source": "bluewin.ch"
-        },
-        {
-          "title": "IMD-Professor: «Die Schweiz ist schlecht aufgestellt»",
-          "snippet": "",
-          "url": "https://www.nzz.ch/wirtschaft/die-schweizer-neigen-zur-genuegsamkeit-der-imd-professor-sieht-das-land-im-niedergang-ld.10020117",
-          "source": "NZZ – Neue Zürcher Zeitung"
-        },
-        {
-          "title": "Sollte die Schweiz mehr wie Singapur und Hongkong sein?",
-          "snippet": "",
-          "url": "https://www.blick.ch/wirtschaft/finanzprofessor-die-juengsten-daten-zeigen-tatsaechlich-den-beginn-eines-niederganges-an-sollte-die-schweiz-mehr-wie-singapur-und-hongkong-sein-id22204602.html",
-          "source": "Blick"
         }
       ],
       "link": "https://imtaqin.id/"

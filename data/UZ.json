@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-25 05:50:59",
+  "lastUpdate": "2026-08-25 06:19:59",
   "data": [
     {
       "title": "человек паук",
@@ -33,20 +33,20 @@
       "title": "электробус",
       "trafficCount": "200+",
       "pubDate": "Mon, 24 Aug 2026 18:30:00 -0700",
-      "picture": "",
-      "pictureSource": "Рамблер",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKx8YsVIIG_zagiq7Lid149TO1TVbPKoopcnKY1SlVtwwviybz2xXDprolsm4",
+      "pictureSource": "DixiNews",
       "relatedSearch": [
-        {
-          "title": "В Москве на маршрут вышел первый электробус среднего класса",
-          "snippet": "",
-          "url": "https://news.rambler.ua/moscow_city/56951382-v-moskve-na-marshrut-vyshel-pervyy-elektrobus-srednego-klassa/",
-          "source": "Рамблер"
-        },
         {
           "title": "На маршрут № 260 в Москве вышли электробусы",
           "snippet": "",
           "url": "https://msk.dixinews.ru/news/transport/elektrobusy-vyshli-na-marshrut-260-v-moskve/",
           "source": "DixiNews"
+        },
+        {
+          "title": "В Москве на маршрут вышел первый электробус среднего класса",
+          "snippet": "",
+          "url": "https://news.rambler.ua/moscow_city/56951382-v-moskve-na-marshrut-vyshel-pervyy-elektrobus-srednego-klassa/",
+          "source": "Рамблер"
         },
         {
           "title": "В Москве начали тестировать электробус среднего класса ПАЗ е-Ситимакс 9",
@@ -142,6 +142,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "футбол",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 24 Aug 2026 16:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSgUsKIfDa8sLiUny5fz6Q7se-dccXAxk09Ekp_jo0_lUDInyL_D2YgUe2F5po",
+      "pictureSource": "Tribuna.uz",
+      "relatedSearch": [
+        {
+          "title": "«Барселона» достигла соглашения с Альваресом — источник",
+          "snippet": "",
+          "url": "https://tribuna.uz/ru/news/barselona-dostigla-soglasheniya-s-alvaresom-istochnik-1327954/",
+          "source": "Tribuna.uz"
+        },
+        {
+          "title": "Атлетико согласился отпустить Альвареса за 150 миллионов, но только в один клуб",
+          "snippet": "",
+          "url": "https://www.ua-football.com/foreign/spain/1787563316-atletiko-soglasilsya-otpustit-alvaresa-za-150-millionov-no-tolko-v-odin-klub.html",
+          "source": "UA-Football"
+        },
+        {
+          "title": "«Отвратительно»: Морган обратился к нападающему «Атлетико» Альваресу",
+          "snippet": "",
+          "url": "https://www.euro-football.ru/article/31/1006271923_otvratitelno_morgan_obratilsya_k_napadayuschemu_atletiko_alvaresu",
+          "source": "Евро-Футбол"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "сборная узбекистана по футболу",
       "trafficCount": "500+",
       "pubDate": "Mon, 24 Aug 2026 16:10:00 -0700",
@@ -173,9 +201,15 @@
       "title": "монета",
       "trafficCount": "500+",
       "pubDate": "Mon, 24 Aug 2026 14:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZwlVOiLLELWxeoyBkMJNWSZT5V2KaIbgMADBn3At0gTT2Wal6EVCKHys8Yd0",
-      "pictureSource": "bulak.kg",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaSONoiS2KUeRulZchMINMcbPnB1Jwcbz-m8Y99znSmpi_PbZNVw5VdhGiyXs",
+      "pictureSource": "24.KG",
       "relatedSearch": [
+        {
+          "title": "В Кыргызстане к Играм кочевников выпустили серебряную монету «Тайган жарыш»",
+          "snippet": "",
+          "url": "https://24.kg/obschestvo/386448_vkyirgyizstane_kigram_kochevnikov_vyipustili_serebryanuyu_monetu_taygan_jaryish/",
+          "source": "24.KG"
+        },
         {
           "title": "В Кыргызстане ввели в оборот серебряную монету «Тайган жарыш» («Гонки тайганов»)",
           "snippet": "",
@@ -187,12 +221,6 @@
           "snippet": "",
           "url": "https://open.kg/news/exclusive/117616-tajgan-zharysh-nacbank-vypustil-novuju-kollekcionnuju-monetu.html",
           "source": "open.kg"
-        },
-        {
-          "title": "Нацбанк выпустил новую монету в честь Игр кочевников - с тайганом",
-          "snippet": "",
-          "url": "https://kaktus.media/doc/552048_nacbank_vypystil_novyu_monety_v_chest_igr_kochevnikov_s_tayganom.html",
-          "source": "Кактус Медиа"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://bookies.com/uk/news/chelsea-trophy-multiples-odds-on-blues-to-win-quadruple-treble-double-in-2026-27-before-fulham-monday",
           "source": "Bookies.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "фулхэм – челси",
-      "trafficCount": "2000+",
-      "pubDate": "Mon, 24 Aug 2026 11:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwwURLpSEgppixqxoRFAO9q05vTGlInnM6ftz0Md7Q9brfiJ5EF4BGXU67uWs",
-      "pictureSource": "Tribuna.uz",
-      "relatedSearch": [
-        {
-          "title": "Алонсо: «Ранний гол придал нам уверенности»",
-          "snippet": "",
-          "url": "https://tribuna.uz/ru/news/alonso-rannii-gol-pridal-nam-uverennosti-1328452/",
-          "source": "Tribuna.uz"
-        },
-        {
-          "title": "\"Челси\" отстоял победу против \"Фулхэма\"",
-          "snippet": "",
-          "url": "https://fapl.ru/posts/124032/",
-          "source": "FAPL.ru"
-        },
-        {
-          "title": "Арбелоа – о поражении от «Челси»: «Пропустили в самые неподходящие моменты»",
-          "snippet": "",
-          "url": "https://www.euro-football.ru/article/31/1006271838_arbeloa__o_porajenii_ot_chelsi_propustili_v_samyie_nepodhodyaschie_momentyi",
-          "source": "Евро-Футбол"
         }
       ],
       "link": "https://imtaqin.id/"

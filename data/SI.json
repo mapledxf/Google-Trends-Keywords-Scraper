@@ -1,24 +1,24 @@
 {
-  "lastUpdate": "2026-08-25 05:18:20",
+  "lastUpdate": "2026-08-25 05:50:52",
   "data": [
     {
       "title": "vreme",
-      "trafficCount": "5000+",
+      "trafficCount": "10000+",
       "pubDate": "Mon, 24 Aug 2026 21:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlLi71gIdX9yqB6rwodTlBKM_OEt8_pdZcvL9XLVl5k2lHKGonyhVVLllO018",
-      "pictureSource": "24ur.com",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSh05Oejf9QhyZq5lTLilVpX4pXlcqCL59-3CPEwKNa0oZLIIByU8WxJgIJSxw",
+      "pictureSource": "Žurnal24",
       "relatedSearch": [
-        {
-          "title": "Po nevihtnem torku bo do konca tedna vse bolj toplo",
-          "snippet": "",
-          "url": "https://www.24ur.com/novice/slovenija/po-nevihtnem-torku-bo-do-konca-tedna-vse-bolj-toplo.html",
-          "source": "24ur.com"
-        },
         {
           "title": "Začelo se je: Nevihte se že širijo nad državo, ponekod bi lahko močno treskalo",
           "snippet": "",
           "url": "https://www.zurnal24.si/slovenija/vreme-25-8-2026-napoved-radarska-slika-padavin-nevihte-464087",
           "source": "Žurnal24"
+        },
+        {
+          "title": "Po nevihtnem torku bo do konca tedna vse bolj toplo",
+          "snippet": "",
+          "url": "https://www.24ur.com/novice/slovenija/po-nevihtnem-torku-bo-do-konca-tedna-vse-bolj-toplo.html",
+          "source": "24ur.com"
         },
         {
           "title": "Slovenijo čaka vremenski vrtiljak: Iz neviht v skoraj 37 stopinj Celzija",
@@ -31,28 +31,28 @@
     },
     {
       "title": "weather",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 24 Aug 2026 21:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRyvJSErQ4zFmr-PE5fRSos9KBFxWQliwM1DWdOE1K79HJSXqNbM3sMmFjYqfA",
-      "pictureSource": "Mirage News",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCPHFF06-fGKqlTY1_viIBnnSPGHOjSfZYCOTxoNiFnCjZGsIIkLP9LjmRBNw",
+      "pictureSource": "nippon.com",
       "relatedSearch": [
+        {
+          "title": "JMA to Extend Weather Forecasts to 2 Weeks by 2030",
+          "snippet": "",
+          "url": "https://www.nippon.com/en/news/yjj2026082500111/jma-to-extend-weather-forecasts-to-2-weeks-by-2030.html",
+          "source": "nippon.com"
+        },
+        {
+          "title": "Japan’s weather agency to extend daily forecasts to two weeks",
+          "snippet": "",
+          "url": "https://www.japantimes.co.jp/news/2026/08/25/japan/science-health/japan-weather-forecasts-update/",
+          "source": "The Japan Times"
+        },
         {
           "title": "Severe Storms, Rain Hit NSW and Vic",
           "snippet": "",
           "url": "https://www.miragenews.com/severe-storms-rain-hit-nsw-and-vic-1732594/",
           "source": "Mirage News"
-        },
-        {
-          "title": "BOM weekly rainfall update 25 August 2026 + outlook",
-          "snippet": "",
-          "url": "https://www.graincentral.com/weather/bom-weekly-rainfall-update-25-august-2026-outlook/",
-          "source": "Grain Central"
-        },
-        {
-          "title": "It looks like winter has decided to go out with a bang.",
-          "snippet": "",
-          "url": "https://www.goldcentralvictoria.com.au/trending/stories/nsw-is-about-to-get-a-very-wild-weather-day/",
-          "source": "Gold Central Victoria"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -68,7 +68,7 @@
     },
     {
       "title": "padel",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 24 Aug 2026 20:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnDaoAg2USonxbOwAUGWboCPhQOIUk9UjegETxBhhYrfoNAD9qCzMLRV88r6I",
       "pictureSource": "Večer",
@@ -136,23 +136,23 @@
           "source": "Nova24TV"
         },
         {
-          "title": "Duhovnik po 37 letih zapušča cerkev zaradi poroke: »Ljubezen me kliče k ženi«",
-          "snippet": "",
-          "url": "https://www.dnevnik.si/novice/svet/duhovnik-po-37-letih-zapusca-cerkev-zaradi-poroke-ljubezen-me-klice-k-zeni-2823525/",
-          "source": "Dnevnik"
-        },
-        {
           "title": "Po 37 letih duhovništva presenetil vernike: \"Dolgo me je čakala, zdaj je dovolj\"",
           "snippet": "",
           "url": "https://n1info.si/magazin/po-37-letih-duhovnistva-presenetil-vernike-dolgo-me-je-cakala-zdaj-je-dovolj/",
           "source": "N1 Slovenija"
+        },
+        {
+          "title": "Duhovnik po 37 letih zapušča cerkev zaradi poroke: »Ljubezen me kliče k ženi«",
+          "snippet": "",
+          "url": "https://www.dnevnik.si/novice/svet/duhovnik-po-37-letih-zapusca-cerkev-zaradi-poroke-ljubezen-me-klice-k-zeni-2823525/",
+          "source": "Dnevnik"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "zdravnik",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 24 Aug 2026 15:40:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRppwhUYvNScsc-lgdVwsfz-iUc4EzlWx9880G3qrezgbyJRn-Ice2lb339kog",
       "pictureSource": "24ur.com",
@@ -228,7 +228,7 @@
         {
           "title": "Aktuelle Wettervorhersage für Deutschland",
           "snippet": "",
-          "url": "https://www.rnd.de/panorama/wetter-heute-montag-24-8-2026-die-aktuelle-vorhersage-fuer-die-kommenden-tage-TRUEJY7TK23HE7EQYF7AVQWYRU.html",
+          "url": "https://www.rnd.de/panorama/wetter-heute-dienstag-25-8-2026-die-aktuelle-vorhersage-fuer-die-kommenden-tage-TRUEJY7TK23HE7EQYF7AVQWYRU.html",
           "source": "RND.de"
         }
       ],
@@ -254,10 +254,10 @@
           "source": "rtvslo.si"
         },
         {
-          "title": "Tako visoke cene še ni bilo - Dizel v Sloveniji z rekordno ceno, od jutri liter že 1,903 evra",
+          "title": "Zahtevamo kmečki punt!",
           "snippet": "",
-          "url": "https://www.avtomanija.com/2026/08/118042/dizel-v-sloveniji-z-rekordno-ceno-od-jutri-liter-ze-1-903-evra/",
-          "source": "Avtomanija"
+          "url": "https://www.dnevnik.si/mnenja/odprta-stran/zahtevamo-kmecki-punt-2822391/",
+          "source": "Dnevnik"
         }
       ],
       "link": "https://imtaqin.id/"

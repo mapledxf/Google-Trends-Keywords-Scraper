@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2026-08-26 03:17:48",
+  "lastUpdate": "2026-08-26 04:05:47",
   "data": [
     {
-      "title": "וואלה חדשות",
+      "title": "נפט",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 25 Aug 2026 20:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiEtbbA66ZHrtmC-s8LHdCctj1OK2HdVGs19SzQS2-as2DBehFaDDIlWWrjaQ",
+      "pictureSource": "mako",
+      "relatedSearch": [
+        {
+          "title": "התיעוד שמוכיח: איראן נמצאת בבעיה גדולה",
+          "snippet": "",
+          "url": "https://www.mako.co.il/pzm-soldiers/liveblog-4b84f60ff8a30a1026.htm",
+          "source": "mako"
+        },
+        {
+          "title": "מתחת לרדאר: ארה\"ב מצליחה לפתוח את הורמוז",
+          "snippet": "",
+          "url": "https://www.srugim.co.il/101009276-%D7%9E%D7%AA%D7%97%D7%AA-%D7%9C%D7%A8%D7%93%D7%90%D7%A8-%D7%90%D7%A8%D7%94%D7%91-%D7%9E%D7%A6%D7%9C%D7%99%D7%97%D7%94-%D7%9C%D7%A4%D7%AA%D7%95%D7%97-%D7%90%D7%AA-%D7%94%D7%95%D7%A8%D7%9E%D7%95%D7%96",
+          "source": "סרוגים"
+        },
+        {
+          "title": "איראן משגרת איומים: 45 מכליות ברשימה השחורה",
+          "snippet": "",
+          "url": "https://www.emess.co.il/radio/1920259",
+          "source": "אמס"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "גשם",
       "trafficCount": "100+",
       "pubDate": "Tue, 25 Aug 2026 19:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVkc_bIvdMfVQZahQBblYts3I_S6KIFnx2CE4ymCNOCFqCC397Nfo5mRMxGlY",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGo_S83FitQ9UAf0kYuN4Sl8frki8nQlWadlu396vkn_nRuCv7qwkwc87gu88",
       "pictureSource": "ynet",
       "relatedSearch": [
         {
-          "title": "בפעילות ימ\"מ במחסן בחדרה: נעצר החשוד המרכזי ברצח ראש המאפיה הקווקזית",
+          "title": "עלייה בטמפרטורות, ובסוף השבוע תפנית: גשם וסופות רעמים בדרך | התחזית המלאה",
           "snippet": "",
-          "url": "https://www.ynet.co.il/news/article/byuf94ovmx",
+          "url": "https://www.ynet.co.il/news/article/spsp99z00",
           "source": "ynet"
         },
         {
-          "title": "חשוד בחיסול יאניס יושבייב נעצר - במקום הלא צפוי בחדרה | תיעוד",
+          "title": "אוגוסט משוגע: מזג האוויר החריג שצפוי בשבוע הבא - ואלו האזורים בהם זה יקרה",
           "snippet": "",
-          "url": "https://www.maariv.co.il/news/law/article-1359615",
-          "source": "מעריב"
+          "url": "https://www.kikar.co.il/israel-news/rare-august-rain-forecast-israel",
+          "source": "כיכר השבת"
         },
         {
-          "title": "תעלומה בעולם התחתון: מי רצח את ראש המאפיה הקווקזית? מי שיתף פעולה עם היורה - והאם הוא נמלט מהארץ?",
+          "title": "עומס החום מתגבר - אך בקרוב הסתיו יקפוץ לגיחה עם גשם מפתיע באוגוסט | תחזית מזג האוויר",
           "snippet": "",
-          "url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s1/1092394/",
-          "source": "כאן 11"
+          "url": "https://www.maariv.co.il/news/weather/article-1359657",
+          "source": "מעריב"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -43,16 +71,16 @@
           "source": "Reuters"
         },
         {
-          "title": "NVDA Stock Today: China Revenue Halved Before Earnings",
-          "snippet": "",
-          "url": "https://easternherald.com/2026/08/26/nvda-stock-price-today-august-26-2026/",
-          "source": "The Eastern Herald"
-        },
-        {
           "title": "$NVDA: Four Tests, One Level, Earnings Wednesday pour NASDAQ:NVDA par Cedric_Invests",
           "snippet": "",
           "url": "https://fr.tradingview.com/chart/NVDA/KewJTQdk-NVDA-Four-Tests-One-Level-Earnings-Wednesday/",
           "source": "TradingView"
+        },
+        {
+          "title": "Nvidia Slides Into Earnings on Longest Losing Streak Since 2022",
+          "snippet": "",
+          "url": "https://finance.biggo.com/news/c3387345-0f1f-4fd0-9ce9-a88f5657a892",
+          "source": "BigGo Finance"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -224,34 +252,6 @@
           "snippet": "",
           "url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s1/1092110/",
           "source": "כאן 11"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "סאות'המפטון נגד ווסטהאם",
-      "trafficCount": "2000+",
-      "pubDate": "Tue, 25 Aug 2026 12:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHziHE4lvE7A67-vEgzUhvdlXfw5UUoBMQhO0RAVwnV-wQAh0AHEeI8g-P-RI",
-      "pictureSource": "Sport5",
-      "relatedSearch": [
-        {
-          "title": "1:4 לווסטהאם על סאות'המפטון, 31 דקות למנור סולומון",
-          "snippet": "",
-          "url": "https://www.sport5.co.il/articles.aspx?FolderID=3075&docID=558590",
-          "source": "Sport5"
-        },
-        {
-          "title": "הדרבי הישראלי באנגליה: 1:4 מוחץ לווסטהאם וסולומון על סאות'המפטון ופרץ",
-          "snippet": "",
-          "url": "https://www.ynet.co.il/sport/worldsoccer/article/hjrrr00owze",
-          "source": "ynet"
-        },
-        {
-          "title": "ווסטהאם ומנור סולומון הביסו את סאות'המפטון ודניאל פרץ 1:4 בגביע הליגה",
-          "snippet": "",
-          "url": "https://www.haaretz.co.il/sport/world-soccer/2026-08-25/ty-article/000001a0-3aa9-d02f-a9ed-7eeb7fe80000",
-          "source": "הארץ"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-26 04:05:47",
+  "lastUpdate": "2026-08-26 04:51:13",
   "data": [
     {
       "title": "news",
@@ -58,6 +58,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "time",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 25 Aug 2026 18:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6mBLgIVkbg5yTbNUjzIQ4utyA_fJ9fJy9B5Da_cm87Ckyie9IUaaA7bncaoE",
+      "pictureSource": "The Irish Times",
+      "relatedSearch": [
+        {
+          "title": "What is an apprenticeship and would it work for me?",
+          "snippet": "",
+          "url": "https://www.irishtimes.com/ireland/education/2026/08/25/what-is-an-apprenticeship-and-would-it-work-for-me/",
+          "source": "The Irish Times"
+        },
+        {
+          "title": "Apprenticeships: ‘It’s hard, working and studying at the same time’",
+          "snippet": "",
+          "url": "https://www.irishtimes.com/ireland/education/2026/08/26/apprenticeships-its-hard-working-and-studying-at-the-same-time/",
+          "source": "The Irish Times"
+        },
+        {
+          "title": "Young Louth butcher: 'Apprenticeship was best thing for me'",
+          "snippet": "",
+          "url": "https://www.rte.ie/news/education/2026/0818/1588211-louth-butcher-apprentice/",
+          "source": "RTE.ie"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "pizza",
       "trafficCount": "500+",
       "pubDate": "Tue, 25 Aug 2026 18:40:00 -0700",
@@ -77,38 +105,10 @@
           "source": "Investing.com"
         },
         {
-          "title": "Domino’s shares crash 12%: Are the shares a buy, sell or hold today?",
+          "title": "Domino’s looks to grow orders after franchise-focused year",
           "snippet": "",
-          "url": "https://www.fool.com.au/2026/08/26/dominos-shares-crash-12-are-the-shares-a-buy-sell-or-hold-today/",
-          "source": "The Motley Fool Australia"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "sports",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 25 Aug 2026 18:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT06kJojsGjvDecj-YiYEU6VgWA_9ANJWWhBk3uAacrAbOmAWV_UTsCAOwYKLY",
-      "pictureSource": "ESPN",
-      "relatedSearch": [
-        {
-          "title": "SEC draws rule to stop NFL, NBA, WNBA players from returning",
-          "snippet": "",
-          "url": "https://www.espn.com/college-football/story/_/id/49726430/sec-draws-rule-stop-nfl-nba-wnba-players-returning",
-          "source": "ESPN"
-        },
-        {
-          "title": "SEC joins Big Ten in banning pros from returning to college, including basketball players",
-          "snippet": "",
-          "url": "https://apnews.com/article/big-ten-nfl-f2a4b95071d634c22ffba31a56224085",
-          "source": "AP News"
-        },
-        {
-          "title": "LSU v. SEC? Lane Kiffin's brazen approach raises question of whether league would sue its own school",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/college-football/breaking-news/article/lsu-v-sec-lane-kiffins-brazen-approach-raises-question-of-whether-league-would-sue-its-own-school-023306985.html",
-          "source": "Yahoo Sports"
+          "url": "https://insideretail.com.au/business/financial/dominos-looks-to-grow-orders-after-franchise-focused-year-202608",
+          "source": "Inside Retail Australia"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -142,57 +142,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "fitness",
+      "title": "sports",
       "trafficCount": "500+",
-      "pubDate": "Tue, 25 Aug 2026 18:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO_GC5XGJ0PAaI09pGD4ruKeh1bggSHIq_NpGPvF05oewKNpicfEYBK9v55Fc",
-      "pictureSource": "Men's Fitness",
+      "pubDate": "Tue, 25 Aug 2026 18:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT06kJojsGjvDecj-YiYEU6VgWA_9ANJWWhBk3uAacrAbOmAWV_UTsCAOwYKLY",
+      "pictureSource": "ESPN",
       "relatedSearch": [
         {
-          "title": "How Elite Athletes Train vs. Fitness Influencers",
+          "title": "SEC draws rule to stop NFL, NBA, WNBA players from returning",
           "snippet": "",
-          "url": "https://www.mensfitness.com/training/how-elite-athletes-train-vs-fitness-influencers",
-          "source": "Men's Fitness"
+          "url": "https://www.espn.com/college-football/story/_/id/49726430/sec-draws-rule-stop-nfl-nba-wnba-players-returning",
+          "source": "ESPN"
         },
         {
-          "title": "Robert Downey Jr's Training at 61: Strength, Martial Arts and 20 Years of Superhero Fitness",
+          "title": "SEC joins Big Ten in banning pros from returning to college, including basketball players",
           "snippet": "",
-          "url": "https://www.menshealth.com/uk/fitness/a73482068/robert-downey-jr-chinese-martial-art-61/",
-          "source": "Men's Health"
+          "url": "https://apnews.com/article/big-ten-nfl-f2a4b95071d634c22ffba31a56224085",
+          "source": "AP News"
         },
         {
-          "title": "Robert Downey Jr. at 61 Shows Off Ripped Beach Physique. His Iron Man Trainer Predicted This Would Be Impossible Years Ago",
+          "title": "College athletics' latest mess: Court orders say athletes can play, but SEC and Big Ten ready to fight",
           "snippet": "",
-          "url": "https://boxlifemagazine.com/robert-downey-jr-beach-training-method/",
-          "source": "BoxLife Magazine"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "swimming",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 25 Aug 2026 18:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT29JAblhyodWKwCc4Pqcdk0Tw-266EyVVJywcfayvu1ZQjllTZGcCP_gB2TQ",
-      "pictureSource": "The Guardian",
-      "relatedSearch": [
-        {
-          "title": "Scrapping of Berlin swimming day for Black children becomes latest in long list of race-linked pool rows",
-          "snippet": "",
-          "url": "https://www.theguardian.com/world/2026/aug/24/scrapping-of-berlin-swimming-day-for-black-children-becomes-latest-in-long-list-of-race-linked-pool-rows",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Why has a swimming day for Black children in Berlin been cancelled?",
-          "snippet": "",
-          "url": "https://www.independent.co.uk/bulletin/news/swimming-day-black-children-berlin-cancelled-volksbuhne-b3038381.html",
-          "source": "The Independent"
-        },
-        {
-          "title": "Germansplaining: Inside the culture war over Berlin’s ‘woke’ swimming pool",
-          "snippet": "",
-          "url": "https://www.thenewworld.co.uk/tanit-koch-inside-the-culture-war-over-berlins-woke-swimming-pool/",
-          "source": "The New European"
+          "url": "https://www.foxnews.com/outkick-sports/college-athletics-latest-mess-court-orders-say-athletes-can-play-sec-big-ten-ready-fight",
+          "source": "Fox News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,29 +198,57 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "restaurants",
+      "title": "events",
       "trafficCount": "500+",
       "pubDate": "Tue, 25 Aug 2026 18:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWzwGQof_71O9sN_YbyV6e3_imQd0YE7c2LGtMgommlBPBV43D3MMZWRNKBSk",
-      "pictureSource": "RTE.ie",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTsM_d_MDP4kAfCoDbFbz_HZeZiR5ERsnZ_92ei387mWniS-cWucRhrBOuYME",
+      "pictureSource": "Reuters",
       "relatedSearch": [
         {
-          "title": "6 Irish restaurants added to the Michelin Guide",
+          "title": "Taiwan foreign minister to attend Pacific islands leaders summit events",
           "snippet": "",
-          "url": "https://www.rte.ie/lifestyle/food/2026/0824/1589038-6-irish-restaurants-added-to-the-michelin-guide/",
+          "url": "https://www.reuters.com/world/china/taiwan-foreign-minister-attend-pacific-islands-leaders-summit-events-2026-08-26/",
+          "source": "Reuters"
+        },
+        {
+          "title": "Taiwan foreign minister to attend Pacific islands leaders summit events",
+          "snippet": "",
+          "url": "https://www.aol.com/articles/taiwan-foreign-minister-attend-pacific-032638000.html",
+          "source": "AOL.com"
+        },
+        {
+          "title": "Clare prepares for two major golf events next month",
+          "snippet": "",
+          "url": "https://www.rte.ie/news/regional/2026/0825/1589193-clare-golf-events/",
           "source": "RTE.ie"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "fitness",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 25 Aug 2026 18:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO_GC5XGJ0PAaI09pGD4ruKeh1bggSHIq_NpGPvF05oewKNpicfEYBK9v55Fc",
+      "pictureSource": "Men's Fitness",
+      "relatedSearch": [
+        {
+          "title": "How Elite Athletes Train vs. Fitness Influencers",
+          "snippet": "",
+          "url": "https://www.mensfitness.com/training/how-elite-athletes-train-vs-fitness-influencers",
+          "source": "Men's Fitness"
         },
         {
-          "title": "Michelin adds Galway restaurant to Guide",
+          "title": "$5.5 Billion Modular Fitness Furniture Market Opportunity, 2035 - Core Health & Fitness, Eleiko, Life Fitness, Matrix Fitness, Peloton Lead the Industry",
           "snippet": "",
-          "url": "https://www.connachttribune.ie/lifestyle/food-and-drink/michelin-galway-restaurant-guide-8939601",
-          "source": "Connacht Tribune"
+          "url": "https://uk.finance.yahoo.com/news/5-5-billion-modular-fitness-154700658.html",
+          "source": "Yahoo Finance UK"
         },
         {
-          "title": "Six Irish restaurants added to the Michelin Guide, with three in Dublin",
+          "title": "Science Finally Reveals How Fast Muscle Actually Grows",
           "snippet": "",
-          "url": "https://evoke.ie/2026/08/25/food/restaurants/michelin-guide-six-additions",
-          "source": "EVOKE"
+          "url": "https://health.yahoo.com/wellness/fitness/exercise/articles/science-finally-reveals-fast-muscle-172854052.html",
+          "source": "Yahoo Health"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,26 +257,26 @@
       "title": "games",
       "trafficCount": "500+",
       "pubDate": "Tue, 25 Aug 2026 18:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpydVdx0KnZAtQToBQabZCNtaBZiiSXNZ98UevOiFbP6YTPhVdIDXNZk-j8Ew",
-      "pictureSource": "ClutchPoints",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7O2CrRPwWY43iaI2sRoXPu2ITMEjfTDZ7FQe77BYTBAMzQlAaHhtKAExHJYE",
+      "pictureSource": "The Verge",
       "relatedSearch": [
         {
-          "title": "Cubs news: Chicago breaks bonkers record that's held since 1969",
+          "title": "Gamescom Opening Night Live 2026: The biggest announcements and trailers",
           "snippet": "",
-          "url": "https://clutchpoints.com/mlb/chicago-cubs/cubs-news-chicago-bonkers-record-1969",
-          "source": "ClutchPoints"
+          "url": "https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley",
+          "source": "The Verge"
         },
         {
-          "title": "Chicago Cubs score 30 unanswered runs over 3 straight games, setting franchise record",
+          "title": "The 7 Most-Anticipated Games at Gamescom 2026, the Show's Biggest Year Yet",
           "snippet": "",
-          "url": "https://www.eagletribune.com/chicago-cubs-score-30-unanswered-runs-over-3-straight-games-setting-franchise-record/article_b950f26d-a170-522b-8bdb-b2e687d0059b.html",
-          "source": "Eagle-Tribune"
+          "url": "https://www.polygon.com/gamescom-2026-confirmed-games/",
+          "source": "Polygon.com"
         },
         {
-          "title": "Chicago Cubs score 30 unanswered runs over 3 straight games, setting franchise record",
+          "title": "Here are the major Xbox and PC game announcements at Gamescom 2026 Opening Night Live",
           "snippet": "",
-          "url": "https://kdhnews.com/sports/baseball/chicago-cubs-score-30-unanswered-runs-over-3-straight-games-setting-franchise-record/article_e6dcf0c3-2144-53d7-9d90-233bd3379d9c.html",
-          "source": "The Killeen Daily Herald"
+          "url": "https://www.windowscentral.com/gaming/all-the-xbox-and-pc-game-announcements-at-gamescom-2026-opening-night-live-as-it-happens",
+          "source": "Windows Central"
         }
       ],
       "link": "https://imtaqin.id/"

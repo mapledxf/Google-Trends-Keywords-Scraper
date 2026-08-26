@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-26 04:51:00",
+  "lastUpdate": "2026-08-26 05:19:06",
   "data": [
     {
       "title": "pogoda",
@@ -30,17 +30,8 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "meteo",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 25 Aug 2026 21:20:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "motorrijder",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 25 Aug 2026 21:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPqjRro2LBaIvfj-ywzCA3hJTpG62eSTI3bKKdVTd0f1ELn2dakUYcX3jXGrM",
       "pictureSource": "HLN",
@@ -95,8 +86,36 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "geld",
+      "title": "grève tec",
       "trafficCount": "100+",
+      "pubDate": "Tue, 25 Aug 2026 20:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTADG7lTn7czqHp1ULq-KKvZfZiWoRZ-3tcE2BHZlAPVFuuxA57VNWtIKkcr6o",
+      "pictureSource": "Le Soir",
+      "relatedSearch": [
+        {
+          "title": "La grève sur le réseau TEC aura bien lieu : d’importantes perturbations attendues",
+          "snippet": "",
+          "url": "https://www.lesoir.be/767065/article/2026-08-25/la-greve-sur-le-reseau-tec-aura-bien-lieu-dimportantes-perturbations-attendues",
+          "source": "Le Soir"
+        },
+        {
+          "title": "Préavis de grève maintenu: suppressions et retards sont à prévoir sur le réseau Letec ces jeudi et vendredi",
+          "snippet": "",
+          "url": "https://www.levif.be/societe/mobilite/preavis-de-greve-maintenu-suppressions-et-retards-sont-a-prevoir-sur-le-reseau-letec-ces-jeudi-et-vendredi/",
+          "source": "Le Vif"
+        },
+        {
+          "title": "“Un manque de respect total”: le préavis de grève sur le réseau Letec est maintenu",
+          "snippet": "",
+          "url": "https://www.7sur7.be/belgique/un-manque-de-respect-total-le-preavis-de-greve-sur-le-reseau-letec-est-maintenu~a501661e/",
+          "source": "7sur7.be"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "geld",
+      "trafficCount": "200+",
       "pubDate": "Tue, 25 Aug 2026 20:10:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqwTxrhlZHQXGcrJgQQS0mnYcI9GiktUu4gd8Ot-aABGs2Dqrxam8ILy4_c8E",
       "pictureSource": "boerse.de",
@@ -114,10 +133,10 @@
           "source": "Lüneburg Aktuell"
         },
         {
-          "title": "Aus für Halko in Halberstadt: Alle Mitarbeiter verlieren ihren Job",
+          "title": "Fußball-Bundesliga: So verteilt sich das TV-Geld bis 2028/29",
           "snippet": "",
-          "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/rettung-gescheitert-100,halberstaedter-konserven-100.html",
-          "source": "tagesschau.de"
+          "url": "https://www.it-boltwise.de/fussball-bundesliga-so-verteilt-sich-das-tv-geld-bis-2028-29.html",
+          "source": "it boltwise"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -136,16 +155,16 @@
           "source": "BBC"
         },
         {
-          "title": "LASK reaction: Robert Ljubičić on comeback win against Celtic",
+          "title": "\"Yang Hyun-jun set the table, but he overturned it with 'automatic door defense'... Despite recording his first assist of the season, a shocking 4-0 to 5-1 collapse led to 'Celtic FC's failure to reach the UCL group stage.'",
           "snippet": "",
-          "url": "https://www.uefa.com/uefachampionsleague/video/02a8-216f9a999885-e4bb5be110ad-1000--lask-reaction-robert-ljubicic-on-comeback-win-against-celtic/",
-          "source": "UEFA.com"
+          "url": "https://www.starnewskorea.com/en/sports/2026/08/26/2026082608111064288",
+          "source": "스타뉴스"
         },
         {
-          "title": "LASK vs Celtic LIVE! Champions League play-off commentary, updates, scores and team news",
+          "title": "Celtic throw away four-goal aggregate lead to crash out of Champions League against Lask",
           "snippet": "",
-          "url": "https://www.skysports.com/football/live-blog/11945/13576659/lask-vs-celtic-live-champions-league-play-off-commentary-updates-scores-and-team-news",
-          "source": "Sky Sports"
+          "url": "https://www.theguardian.com/football/2026/aug/25/champions-league-celtic",
+          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -154,9 +173,15 @@
       "title": "forest - leeds",
       "trafficCount": "100+",
       "pubDate": "Tue, 25 Aug 2026 14:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzEsCdyZyqeEXjiFd_FNfuVfA2c_mp34PPinP94lM1zH41lUMtIp525UW2o2o",
-      "pictureSource": "Sky Sports",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkFEq8Odbrt_PgfDXKkoe-mRKG6WT9otcytdL4dsaMJvfM9jQ0jrayaycq_dI",
+      "pictureSource": "BBC",
       "relatedSearch": [
+        {
+          "title": "EFL Cup LIVE: Build-up, team news, live text & score updates as it happens from across the EFL Cup",
+          "snippet": "",
+          "url": "https://www.bbc.com/sport/football/live/cw62e12m895nt",
+          "source": "BBC"
+        },
         {
           "title": "Carabao Cup round two LIVE! Commentary, updates, scores, streams and team news with Leeds, Brentford, West Ham in action",
           "snippet": "",
@@ -164,16 +189,10 @@
           "source": "Sky Sports"
         },
         {
-          "title": "Forest agree £50m deal for Chelsea striker Delap",
+          "title": "Nottingham Forest vs Leeds Lineups Today: The Big Changes After a Painful Defeat",
           "snippet": "",
-          "url": "https://realnewsmagazine.net/forest-agree-50m-deal-for-chelsea-striker-delap/",
-          "source": "Realnews Magazine"
-        },
-        {
-          "title": "Nottingham Forest 0-2 Leeds: What Farke and Rodon said",
-          "snippet": "",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cr504407v5qo",
-          "source": "BBC"
+          "url": "https://heavy.com/sports/soccer/nottingham-forest-vs-leeds-lineups-today/",
+          "source": "Heavy.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -235,29 +254,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "charlie kirk",
+      "title": "serena williams",
       "trafficCount": "100+",
-      "pubDate": "Tue, 25 Aug 2026 13:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxLPKDX3q7GMsnenTT_5S5wn8u4EbuB_wUMO04l2ayLnfYrF9lSAyGD0CvWfY",
-      "pictureSource": "The New York Times",
+      "pubDate": "Tue, 25 Aug 2026 13:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBZowsZzJyK-egVSUVVIiNVBqcq1rrs3RBKOb00Yy78Lu_9N3iYmM7prUPpgQ",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Washington Post Ordered to Rehire Fired Columnist Karen Attiah",
+          "title": "Alcaraz and Williams thrill in US Open mixed doubles",
           "snippet": "",
-          "url": "https://www.nytimes.com/2026/08/24/business/washington-post-karen-attiah.html",
-          "source": "The New York Times"
+          "url": "https://www.bbc.com/sport/tennis/articles/cn5drv06w2ro",
+          "source": "BBC"
         },
         {
-          "title": "WaPo ordered to rehire columnist who said Charlie Kirk ‘espoused violence’ | RISING",
+          "title": "Erin Routliffe loses to tennis greats at US Open",
           "snippet": "",
-          "url": "https://thehill.com/video/wapo-ordered-to-rehire-columnist-who-said-charlie-kirk-%E2%80%98espoused-violence%E2%80%99-rising/12102904/",
-          "source": "The Hill"
+          "url": "https://www.nzsportswire.com/post/erin-routliffe-loses-to-tennis-greats-at-us-open",
+          "source": "NZ Sports Wire"
         },
         {
-          "title": "What Karen Attiah’s Reinstatement Exposes About Free Speech in America",
+          "title": "Top tennis stars team up for the U.S. Open mixed doubles tournament, in photos",
           "snippet": "",
-          "url": "https://emeraldbook.org/news/aug-2426-2/",
-          "source": "Emerald Book"
+          "url": "https://sports.yahoo.com/articles/top-tennis-stars-team-u-204656318.html",
+          "source": "Yahoo Sports"
         }
       ],
       "link": "https://imtaqin.id/"

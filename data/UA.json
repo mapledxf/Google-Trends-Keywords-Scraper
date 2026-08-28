@@ -1,282 +1,263 @@
 {
-  "lastUpdate": "2026-08-28 00:23:39",
+  "lastUpdate": "2026-08-28 11:33:35",
   "data": [
     {
-      "title": "прогноз погоди",
-      "trafficCount": "50000+",
-      "pubDate": "Thu, 27 Aug 2026 14:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQrefl3pj09YcXe0LGZ1LOalIkmdUTZej4viIYIZ4-BW-4WAc-9pFOn0trYLI",
-      "pictureSource": "РБК-Україна",
+      "title": "громадський транспорт",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 28 Aug 2026 04:10:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "завод хортиця",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 28 Aug 2026 03:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLntJX7koENmmibuLMYHvjNrDE7J3Jy48rorgLXDSPj6dzNct4Ueqxuf3cUlE",
+      "pictureSource": "Економічна правда",
       "relatedSearch": [
         {
-          "title": "Незначне похолодання та дощ: якою буде погода в Україні сьогодні",
+          "title": "РФ знищила завод горілки \"Хортиця\"",
           "snippet": "",
-          "url": "https://www.rbc.ua/rus/news/neznachne-poholodannya-ta-doshch-koyu-bude-1787747878.html",
+          "url": "https://epravda.com.ua/biznes/znishcheno-zavod-horticya-global-spirits-u-zaporizhzhi-825019/",
+          "source": "Економічна правда"
+        },
+        {
+          "title": "РФ знищила завод «Хортиця» у Запоріжжі, він не підлягає ві?...",
+          "snippet": "",
+          "url": "https://hromadske.radio/news/2026/08/28/rf-znyshchyla-zavod-khortytsia-u-zaporizhzhi-vin-ne-pidliahaie-vidnovlenniu",
+          "source": "Громадське радіо"
+        },
+        {
+          "title": "Завод Хортиця у Запоріжжі знищила російська атака | The Page",
+          "snippet": "",
+          "url": "https://thepage.ua/ua/news/zavod-horticya-u-zaporizhzhi-znishila-rosijska-ataka",
+          "source": "The Page"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "прожитковий мінімум",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 28 Aug 2026 03:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSef8QMpxjWwJMojWLfJ735bbf2S6d8WpJ6iSmGZhMak1N_GQ1maGzke9J5fgs",
+      "pictureSource": "ТСН",
+      "relatedSearch": [
+        {
+          "title": "Прожитковий мінімум у вересні 2026 року: чи чекати українцям на підвищення виплат",
+          "snippet": "",
+          "url": "https://tsn.ua/ukrayina/prozytkovyy-minimum-u-veresni-2026-roku-chy-chekaty-ukrayintsiam-na-pidvyshchennia-vyplat-3157421.html",
+          "source": "ТСН"
+        },
+        {
+          "title": "Яким буде прожитковий мінімум в Україні з 1 вересня 2026 року",
+          "snippet": "",
+          "url": "https://kreschatic.kiev.ua/ukrayina/2026/08/28/prozhytkovyj-minimum-v-ukrayini-z-1-veresnya-2026-roku-chy-zminyatsya-sumy-vyplat.html",
+          "source": "Хрещатик"
+        },
+        {
+          "title": "Працівники, які працюють неповний робочий день, можуть скористатися податковою соціальною пільгою — ДПС",
+          "snippet": "",
+          "url": "https://sud.ua/uk/news/ukraine/370532-pratsivnyky-iaki-pratsiuiut-nepovnyi-robochyi-den-mozhut-skorystatysia-podatkovoiu-sotsialnoiu-pilhoiu-dps",
+          "source": "Судово-юридична газета"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "сергей лавров",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 28 Aug 2026 03:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpn7q0NPgZSmzKd3Hev08JjiYsf9SvxAFgWgpjG10hb5M5mqDJrKt9q0H8DEw",
+      "pictureSource": "Русская служба The Moscow Times",
+      "relatedSearch": [
+        {
+          "title": "Лавров заявил о желании решить вопрос Украины с Трампом «по-пацански»",
+          "snippet": "",
+          "url": "https://ru.themoscowtimes.com/2026/08/28/lavrov-zayavil-o-zhelanii-reshit-vopros-ukraini-s-trampom-po-patsanski-a204623",
+          "source": "Русская служба The Moscow Times"
+        },
+        {
+          "title": "Россия хочет \"по-пацански\" решить с Трампом вопрос Украины, - Лавров",
+          "snippet": "",
+          "url": "https://www.rbc.ua/ukr/news/rosiya-hoche-po-patsanski-virishiti-trampom-1787912962.html",
           "source": "РБК-Україна"
         },
         {
-          "title": "В Україну йдуть дощі та грози: синоптик назвав, коли зміниться погода",
+          "title": "Лавров раскрыл, что конкретно обсуждали РФ и США на Аляске",
           "snippet": "",
-          "url": "https://24tv.ua/poholodannya-ukrayini-budut-doshhi-serpni-prognoz-pogodi_n3130167",
-          "source": "24 Канал"
-        },
-        {
-          "title": "Гідрометцентр: 28 серпня в частині областей України очікуються дощі та грози",
-          "snippet": "",
-          "url": "https://lb.ua/society/2026/08/27/761932_gidromettsentr_28_serpnya.html",
-          "source": "LB.ua"
+          "url": "https://ura.news/news/1053122095",
+          "source": "URA.RU"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "peter cullen",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 27 Aug 2026 13:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHGgxuBmm39OVNwRxjL_ORvlpeQUsSW1Mhoywj5qdQ2AedQIfQD950dSEC8Q8",
-      "pictureSource": "ABC News - Breaking News, Latest News and Videos",
+      "title": "змиев",
+      "trafficCount": "2000+",
+      "pubDate": "Fri, 28 Aug 2026 03:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGPxfzVSjMWx5MOerBJCs39vNHMt0GUg-zZiNBE-EAtBc3M7-15mOHy1Y79eo",
+      "pictureSource": "Українська правда",
       "relatedSearch": [
         {
-          "title": "Peter Cullen, voice of 'Transformers,' 'Winnie the Pooh' characters, dies at 85",
+          "title": "Дрон РФ попал в дом в Змееве в Харьковской области: погибла женщина, её 10-летняя дочь пострадала",
           "snippet": "",
-          "url": "https://abcnews.com/GMA/Culture/peter-cullen-voice-transformers-winnie-pooh-characters-dies/story?id=136006176",
-          "source": "ABC News - Breaking News, Latest News and Videos"
+          "url": "https://www.pravda.com.ua/rus/news/2026/08/28/8050705/",
+          "source": "Українська правда"
         },
         {
-          "title": "Peter Cullen, prolific voice actor who gave Optimus Prime his authoritative baritone, has died",
+          "title": "Российские войска ударили дроном по торговому центру в Харькове",
           "snippet": "",
-          "url": "https://apnews.com/article/peter-cullen-dies-optimus-prime-4e85ea7046b8bdb5ddceaef5cbe0a8a2",
-          "source": "AP News"
+          "url": "https://nv.ua/ukraine/events/harkov-28-avgusta-drony-atakovali-tc-v-kievskom-rayone-novosti-harkova-50636482.html",
+          "source": "NV"
         },
         {
-          "title": "Peter Cullen, Voice of Optimus Prime in ‘Transformers,’ Dies at 85",
+          "title": "Двое погибших, 13 пострадавших: РФ массированно атаковала Харьков и область",
           "snippet": "",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/peter-cullen-optimus-prime-transformers-eeyore-1236683075/",
-          "source": "The Hollywood Reporter"
+          "url": "https://korrespondent.net/ukraine/4906902-dvoe-pohybshykh-13-postradavshykh-rf-massyrovanno-atakovala-kharkov-y-oblast",
+          "source": "Korrespondent.net"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "лунное затмение",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 27 Aug 2026 12:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjttqTascUgaGl7aR96VctpO8Db_IHZxIqUjlpfLGcUtMDz_p2aTcufYnlybA",
-      "pictureSource": "UA.NEWS",
+      "title": "хортица",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 28 Aug 2026 02:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOy-gGn-Fynij-qBh-9Zt82AVqGctn-lx3THzJ_cuZHOcYCxVXCMxzPNdqTWc",
+      "pictureSource": "NV Бизнес",
       "relatedSearch": [
         {
-          "title": "Почти полное лунное затмение увидят в Северной и Южной Америке",
+          "title": "Российские агрессоры уничтожили один из крупнейших заводов известного производителя алкоголя — NV Бизнес узнал подробности",
           "snippet": "",
-          "url": "https://ua.news/ru/world/maizhe-povne-misiachne-zatemnennia-pobachat-u-pivnichnii-i-pivdennii-ameritsi",
-          "source": "UA.NEWS"
+          "url": "https://biz.nv.ua/markets/proizvoditel-vodki-hortica-v-zaporozhe-polnostyu-unichtozhen-v-rezultate-rossiyskoy-ataki-podrobnosti-50636318.html",
+          "source": "NV Бизнес"
         },
         {
-          "title": "Лунное затмение 28 августа 2026: во сколько начнется и увидят ли его в России",
+          "title": "Россияне сожгли завод \"Хортица\" в Запорожье. Он не подлежит восстановлению",
           "snippet": "",
-          "url": "https://www.rosbalt.ru/news/2026-08-27/redkoe-zatmenie-28-avgusta-2026-pochemu-ego-ne-uvidyat-v-moskve-i-regionah-5669160",
-          "source": "Росбалт"
-        },
-        {
-          "title": "Лунное затмение 28 августа: что нельзя делать в этот день и кому следует быть особенно осторожными",
-          "snippet": "",
-          "url": "https://tsn.ua/ru/astrologiya/lunnoe-zatmenie-28-avgusta-chto-nelzya-delat-v-etot-den-i-komu-sleduet-byt-osobenno-ostorozhnymi-3155960.html",
-          "source": "ТСН"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ps5 pro",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 27 Aug 2026 12:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-6tYsV_aTAnDnsHm_tlVOZTgGq8X8k7uiHqtYblbSzO6t0uVcFuUtOaaa6pI",
-      "pictureSource": "LIGA.net",
-      "relatedSearch": [
-        {
-          "title": "CD Projekt Red won't include Russian voice acting in new Witcher 3 DLC",
-          "snippet": "",
-          "url": "https://biz.liga.net/en/it/news/cd-projekt-red-wont-include-russian-voice-acting-in-new-witcher-3-dlc",
+          "url": "https://biz.liga.net/other-industries/news/rossiyane-sozhgli-zavod-hortitsa-v-zaporozhe-on-ne-podlezhit-vosstanovleniyu",
           "source": "LIGA.net"
         },
         {
-          "title": "The Witcher 3: Wild Hunt — Remastered Announced, Songs of the Past Gets First Look",
+          "title": "Россия уничтожила завод водки \"Хортица\"",
           "snippet": "",
-          "url": "https://press.cdprojektred.com/en/news/1839/the-witcher-3-wild-hunt-remastered-announced-songs-of-the-past-gets-first-look",
-          "source": "CD PROJEKT RED Press Center"
-        },
-        {
-          "title": "Pre-orders for Company of Heroes: The Board Game expansions are now open",
-          "snippet": "",
-          "url": "https://ixbt.games/en/news/2026/08/27/otkrylsia-predzakaz-na-dopolneniia-k-nastolnoi-igre-company-of-heroes-the-board-game.html",
-          "source": "IXBT.games"
+          "url": "https://epravda.com.ua/rus/biznes/unichtozhen-zavod-hortica-global-spirits-v-zaporozhe-825019/",
+          "source": "Економічна правда"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "ps5",
+      "title": "міністерство оборони",
       "trafficCount": "200+",
-      "pubDate": "Thu, 27 Aug 2026 12:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSU3FyUqT0Hw3XflyzUyUIwD6SHU92vWsH8TIn__9TjSS1GPupjfqArNzd0Alc",
-      "pictureSource": "Forbes",
+      "pubDate": "Fri, 28 Aug 2026 02:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQa-EJr4bcxwx7nboiQZEIQc3FCASGexNCe5SRHjLEa-BpCFGdJ_OLEeePSkPg",
+      "pictureSource": "Міністерство оборони України",
       "relatedSearch": [
         {
-          "title": "Bad Xbox ‘Fable’ Combat Video Goes Viral, But It’s Pretty Misleading",
+          "title": "Підрозділи на фронті тестують нові роботизовані турелі з автоматами",
           "snippet": "",
-          "url": "https://www.forbes.com/sites/paultassi/2026/08/27/bad-xbox-fable-combat-video-goes-viral-but-its-pretty-misleading/",
-          "source": "Forbes"
+          "url": "https://mod.gov.ua/news/pidrozdily-na-fronti-testuiut-novi-robotyzovani-tureli-z-avtomatamy",
+          "source": "Міністерство оборони України"
         },
         {
-          "title": "The new 18 minute Fable gameplay has sold me - I want it",
+          "title": "Роботизована турель проти ворожих засідок: нові НРК уже працюють на передовій",
           "snippet": "",
-          "url": "https://www.gamingonlinux.com/2026/08/the-new-18-minute-fable-gameplay-has-sold-me-i-want-it/",
-          "source": "GamingOnLinux"
+          "url": "https://www.armyfm.com.ua/robotyzovana-turel-proty-vorozhykh-zasidok-novi-nrk-uzhe-pratsiuiut-na-peredovii/",
+          "source": "Армія FM"
         },
         {
-          "title": "Xbox releases an extended 18 minute Fable gameplay demonstration",
+          "title": "Сили оборони почали застосовувати нові ударні НРК з автоматами, а на фронті мінус 1 630 окупантів",
           "snippet": "",
-          "url": "https://www.videogameschronicle.com/news/xbox-releases-an-extended-18-minute-fable-gameplay-demonstration/",
-          "source": "Video Games Chronicle"
+          "url": "https://espreso.tv/viyna-z-rosiyeyu-sili-oboroni-pochali-zastosovuvati-novi-udarni-nrk-z-avtomatami-a-na-fronti-vidbulosya-206-boiv",
+          "source": "Еспресо"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "playstation 5",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 27 Aug 2026 12:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxDJss08hdOGpRpDOFKQmmCgyhtEPJC3F1rjnVz5u3mowgA7O5ajzGYoxa3Yc",
-      "pictureSource": "Currently.com",
-      "relatedSearch": [
-        {
-          "title": "Popular Open-World PlayStation 5 Game 90% Off on PlayStation Store",
-          "snippet": "",
-          "url": "https://currently.att.yahoo.com/att/popular-open-world-playstation-5-232107012.html",
-          "source": "Currently.com"
-        },
-        {
-          "title": "Popular Open-World PS5 Game Is 75% Off on PlayStation Store",
-          "snippet": "",
-          "url": "https://www.aol.com/articles/popular-open-world-ps5-game-214243000.html",
-          "source": "AOL.com"
-        },
-        {
-          "title": "PlayStation 27-inch Gaming Monitor with DualSense Charging Hook Review: Exactly as the Name Suggests, and Nothing More",
-          "snippet": "",
-          "url": "https://gizmodo.com/playstation-27-inch-gaming-monitor-with-dualsense-charging-hook-review-exactly-as-the-name-suggests-and-nothing-more-2000802986",
-          "source": "Gizmodo"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "гта 6",
-      "trafficCount": "1000+",
-      "pubDate": "Thu, 27 Aug 2026 11:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFi2SkzMQgFwqMZuGoSkLVGGnGMaQhUbfEH13szjlol9l4RHa35NwxrkH94XQ",
-      "pictureSource": "УНИАН",
-      "relatedSearch": [
-        {
-          "title": "Rockstar выпустила третий трейлер GTA 6 и показала геймплей с PS5",
-          "snippet": "",
-          "url": "https://www.unian.net/techno/games/gta-6-geympley-rockstar-nakonec-pokazala-samuyu-ozhidaemuyu-igru-desyatiletiya-13482300.html",
-          "source": "УНИАН"
-        },
-        {
-          "title": "GTA 6: полная версия геймплейного трейлера, показанного на Netflix. Новые скриншоты и подробности",
-          "snippet": "",
-          "url": "https://www.obozrevatel.com/kino-oboz/grand-theft-auto-6-rasshirennaya-translyatsiya-gde-i-kogda-posmotret-grandioznuyu-premeru-na-netflix.htm",
-          "source": "Obozrevatel"
-        },
-        {
-          "title": "Новый ультиматум от авторов утечки GTA VI. Хакеры требуют от Rockstar вернуть физические диски",
-          "snippet": "",
-          "url": "https://techno.nv.ua/games/gta-vi-hakery-davyat-na-rockstar-games-trebuya-fizicheskie-diski-50636052.html",
-          "source": "NV Техно"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "бомба",
+      "title": "золотий м'яч",
       "trafficCount": "200+",
-      "pubDate": "Thu, 27 Aug 2026 11:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtHplfjEk31_2Bm50mM6EQXaxzRVM-Nn4SFv251LZGJ85bx93S6RtKWFw3v-Q",
-      "pictureSource": "ВФокусе Mail",
+      "pubDate": "Fri, 28 Aug 2026 02:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmSZq-_f80eQqcV61NmawlOIYHbS-_m9WVF7-aVOFfJLvH6FOFmQptbCh8M28",
+      "pictureSource": "Sport.ua",
       "relatedSearch": [
         {
-          "title": "Новейшая бомба с реактивным двигателем поразила цель в районе Кривого Рога",
+          "title": "Ямаль – 2-й, Родрі – 4-й. Оновлено рейтинг Золотого м'яча – 2026",
           "snippet": "",
-          "url": "https://vfokuse.mail.ru/news/69638429-novejshaya-bomba-s-reaktivnyim-dvigatelem-porazila-tsel-v-rajone-krivogo-roga/",
-          "source": "ВФокусе Mail"
-        },
-        {
-          "title": "Названо уникальное оружие для ударов по Украине",
-          "snippet": "",
-          "url": "https://news.rambler.ua/army/56970746-nazvano-unikalnoe-oruzhie-dlya-udarov-po-ukraine/",
-          "source": "Рамблер"
-        },
-        {
-          "title": "СМИ сообщили о применении ВС РФ новейшей бомбы на Украине",
-          "snippet": "",
-          "url": "https://www.gazeta.press/army/news/2026/08/27/29190259.shtml",
-          "source": "Газета"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "брайтон – тромсе",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 27 Aug 2026 11:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcST-BDYD3flCPlB5WyPA2ARDzIjFS4EgoGoKBCNlMqGveGKruAxrcBFgfAYxgY",
-      "pictureSource": "UA-Football",
-      "relatedSearch": [
-        {
-          "title": "Брайтон – Тромсе. Анонс и прогноз матча плей-офф Лиги конференций на 27.08.2026",
-          "snippet": "",
-          "url": "https://www.ua-football.com/predictions/other/1787771309-brayton-tromse-anons-i-prognoz-matcha-pley-off-ligi-konferenciy-na-27-08-2026.html",
-          "source": "UA-Football"
-        },
-        {
-          "title": "Брайтон – Тромсе. Прогноз и анонс на матч квалификации ЛК",
-          "snippet": "",
-          "url": "https://sport.ua/news/901585-brayton-tromse-prognoz-i-anons-na-match-kvalifikatsii-lk",
+          "url": "https://sport.ua/uk/news/901562-yamal-2-y-rodri-4-y-onovleno-reyting-zolotogo-myacha-2026",
           "source": "Sport.ua"
         },
         {
-          "title": "«Брайтон» и «Хетафе» завоевали путёвки в основной этап Лиги конференций",
+          "title": "Ексфутболіст збірної Англії назвав двох фаворитів на \"Золотий м'яч-2026\"",
           "snippet": "",
-          "url": "https://www.euro-football.ru/article/1004590778/1006298377_brayton_i_partizan_zavoevali_putevki_v_osnovnoy_etap_ligi_konferenciy",
-          "source": "Евро-Футбол"
+          "url": "https://champion.com.ua/ukr/football/hto-maye-otrimati-zolotiy-m-yach-2026-dumka-hargrivza-1083774/",
+          "source": "Champion.com.ua"
+        },
+        {
+          "title": "«Він — номер один»: Кроос не вважає Мессі та Мбаппе фаворитами на Золотий м’яч — назвав несподіваного кандидата",
+          "snippet": "",
+          "url": "https://sport.nv.ua/ukr/football/zolotiy-m-yach-2026-toni-kroos-nazvav-favorita-sered-kandidativ-na-nagorodu-50635403.html",
+          "source": "Sport.nv.ua."
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "аякс – сьон",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 27 Aug 2026 11:30:00 -0700",
-      "picture": "",
-      "pictureSource": "Евро-Футбол",
+      "title": "ukr.net",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 28 Aug 2026 01:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCPHfuTUDNCDHMaLg6e0fczfnn8KGhfbJCYhe2oWquuk28-mld8ZzNw_TkqcI",
+      "pictureSource": "Українська правда",
       "relatedSearch": [
         {
-          "title": "Точный прогноз и ставка на матч Аякс − Сьон раунда плей-офф Лиги конференций − 27 августа 2026",
+          "title": "Гончаренко заявив, що Федоров не відповідає на виклик ТСК і пригрозив примусовим приводом",
           "snippet": "",
-          "url": "https://www.euro-football.ru/prognozy/1006297504_tochnyiy_prognoz_i_stavka_na_match_ayaks__son_raunda_pley-off_ligi_konferenciy__27_avgusta_2026",
-          "source": "Евро-Футбол"
+          "url": "https://www.pravda.com.ua/news/2026/08/28/8050727/",
+          "source": "Українська правда"
         },
         {
-          "title": "Новый клуб Цыганкова одержал победу в матче, в котором было забито 8 голов, а кандидат в сборную Украины вылетел – Лига конференций",
+          "title": "\"Дуже багато питань\": ексміністра оборони Федорова викликали до ТСК Ради щодо операції \"Мідас\"",
           "snippet": "",
-          "url": "https://www.ukr.net/ru/news/details/sport/119179351.html",
-          "source": "Ukr.net"
+          "url": "https://www.5.ua/polityka/duzhe-bahato-pytan-eksministra-oborony-fedorova-vyklykaly-do-tsk-rady-shchodo-operatsii-midas-382244.html",
+          "source": "5.UA"
         },
         {
-          "title": "«Аякс» и «Аталанта» сыграют в основном раунде Лиги конференций",
+          "title": "Ексміністра оборони Михайла Федорова викликали на засідання ТСК Ради",
           "snippet": "",
-          "url": "https://worldinform.ru/articles/id-ajaks-i-atalanta-sygrayut-v-osnovnom-raunde-ligi-konferencii.html",
-          "source": "The World Inform"
+          "url": "https://bukvy.org/eksministra-oborony-myhajla-fedorova-vyklykaly-na-zasidannya-tsk-rady/",
+          "source": "Букви"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "торговое судно",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 28 Aug 2026 01:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHhfINV5Ka_KE9BN1aqy39GJ8raCo4bSSlqv3odyxZuv3-JZONtW0qvc1bHg8",
+      "pictureSource": "Європейська правда",
+      "relatedSearch": [
+        {
+          "title": "В водах Румынии загорелось торговое судно, президент предполагает, что был удар",
+          "snippet": "",
+          "url": "https://www.eurointegration.com.ua/rus/news/2026/08/28/7244354/",
+          "source": "Європейська правда"
+        },
+        {
+          "title": "Судно загорелось и затонуло в Черном море у берегов Румынии",
+          "snippet": "",
+          "url": "https://www.interfax.ru/world/1111689",
+          "source": "Интерфакс"
+        },
+        {
+          "title": "У берегов Румынии после удара загорелось и затонуло коммерческое судно",
+          "snippet": "",
+          "url": "https://focus.ua/world/766015-u-beregov-rumynii-posle-udara-zagorelos-i-zatonulo-kommercheskoe-sudno",
+          "source": "ФОКУС"
         }
       ],
       "link": "https://imtaqin.id/"

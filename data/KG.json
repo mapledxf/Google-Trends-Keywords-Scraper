@@ -1,69 +1,159 @@
 {
-  "lastUpdate": "2026-08-28 00:23:14",
+  "lastUpdate": "2026-08-28 11:33:19",
   "data": [
     {
-      "title": "бишкек",
+      "title": "автомобильная заправочная станция",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 28 Aug 2026 03:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTL5Hlod-1bQLdVj7RsvrFnmeUpmBvW0P0Dk-FGoCcC8tEHZo7271MYEOVt6zI",
+      "pictureSource": "Meduza",
+      "relatedSearch": [
+        {
+          "title": "В России — вторая волна топливного кризиса. Насколько все плохо?",
+          "snippet": "",
+          "url": "https://meduza.io/feature/2026/08/27/vtoruyu-volnu-benzinovogo-krizisa-v-rossii-nazyvayut-novoy-toplivnoy-realnostyu-naskolko-vse-ploho",
+          "source": "Meduza"
+        },
+        {
+          "title": "АИ-95 можно найти только на 22% российских АЗС",
+          "snippet": "",
+          "url": "https://itek.ru/news/ai-95-mozhno-najti-tolko-na-22-rossijskih-azs/",
+          "source": "ИнфоТЭК"
+        },
+        {
+          "title": "Александр Новак провёл совещание по ситуации на внутреннем рынке топлива",
+          "snippet": "",
+          "url": "http://government.ru/news/59652/",
+          "source": "Правительство России"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "узбекистан",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 28 Aug 2026 00:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTBLcsZBp6ZTTX06LoznKluPwpHn5C-Ctb_fZX8AoB63Gv70Qv43gAwoKZ74uc",
+      "pictureSource": "UzDaily.uz",
+      "relatedSearch": [
+        {
+          "title": "Узбекско-Кыргызский фонд одобрил 37 проектов на $100 млн",
+          "snippet": "",
+          "url": "https://www.uzdaily.uz/ru/uzbeksko-kyrgyzskii-fond-odobril-37-proektov-na-100-mln/",
+          "source": "UzDaily.uz"
+        },
+        {
+          "title": "Кыргызстан планирует открыть генконсульство в Андижане",
+          "snippet": "",
+          "url": "https://www.uzdaily.uz/ru/kyrgyzstan-planiruet-otkryt-genkonsulstvo-v-andizhane/",
+          "source": "UzDaily.uz"
+        },
+        {
+          "title": "Товарооборот Узбекистана и Кыргызстана вырос на 45%",
+          "snippet": "",
+          "url": "https://www.uzdaily.uz/ru/tovarooborot-uzbekistana-i-kyrgyzstana-vyros-na-45/",
+          "source": "UzDaily.uz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "актёр юрий цурило",
       "trafficCount": "200+",
+      "pubDate": "Thu, 27 Aug 2026 23:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxMNhUGgyhQzAUTYVN9OJYtyr2x3cRACcMYSoX5GMiADvF2UsMc_p8QDpZ1M8",
+      "pictureSource": "Meduza",
+      "relatedSearch": [
+        {
+          "title": "Умер актер Юрий Цурило",
+          "snippet": "",
+          "url": "https://meduza.io/news/2026/08/27/umer-akter-yuriy-tsurilo",
+          "source": "Meduza"
+        },
+        {
+          "title": "Церемония прощания с Юрием Цурило состоится в петербургском крематории",
+          "snippet": "",
+          "url": "https://gazeta.spb.ru/2665365-czeremoniya-proshhaniya-s-yuriem-czurilo-sostoitsya-v-peterburgskom-krematorii/",
+          "source": "Газета СПБ РУ"
+        },
+        {
+          "title": "Безруков и Матисон вспомнили о последней роли умершего от рака Юрия Цурило",
+          "snippet": "",
+          "url": "https://www.osnmedia.ru/shou-biznes/bezrukov-i-matison-vspomnili-o-poslednej-roli-umershego-ot-raka-yuriya-tsurilo/",
+          "source": "Общественная служба новостей"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "бишкек",
+      "trafficCount": "2000+",
       "pubDate": "Thu, 27 Aug 2026 16:40:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaSONoiS2KUeRulZchMINMcbPnB1Jwcbz-m8Y99znSmpi_PbZNVw5VdhGiyXs",
       "pictureSource": "24.KG",
       "relatedSearch": [
         {
-          "title": "С 30 августа по 6 сентября в Бишкеке и на Иссык-Куле ограничат движение машин",
+          "title": "В центре Бишкека ограничили движение электросамокатов",
           "snippet": "",
-          "url": "https://24.kg/obschestvo/385723_s30avgusta_po6sentyabrya_vbishkeke_inaissyik-kule_ogranichat_dvijenie_mashin/",
+          "url": "https://24.kg/obschestvo/386938_vtsentre_bishkeka_ogranichili_dvijenie_elektrosamokatov/",
           "source": "24.KG"
-        },
-        {
-          "title": "Аэропорт \"Манас\" временно ограничит рейсы 31 августа и 1 сентября",
-          "snippet": "",
-          "url": "https://www.vb.kg/doc/461140_aeroport_manas_vremenno_ogranichit_reysy_31_avgysta_i_1_sentiabria.html",
-          "source": "Вечерний Бишкек"
         },
         {
           "title": "В Бишкеке ограничат движение с 29 августа (список улиц)",
           "snippet": "",
           "url": "https://kaktus.media/doc/552247_v_bishkeke_ogranichat_dvijenie_s_29_avgysta_spisok_ylic.html",
           "source": "Кактус Медиа"
+        },
+        {
+          "title": "В Бишкеке согласовывают документы к предстоящему саммиту ШОС",
+          "snippet": "",
+          "url": "https://www.vb.kg/doc/461169_v_bishkeke_soglasovyvaut_dokymenty_k_predstoiashemy_sammity_shos.html",
+          "source": "Вечерний Бишкек"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "барселона – атлетик",
-      "trafficCount": "5000+",
+      "trafficCount": "10000+",
       "pubDate": "Thu, 27 Aug 2026 11:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL2rgkWx_OLtJBPJyd2BCRW65ZY6C9KSWjRvy_4YU2rd0vvzFpVlY0aTOLHaw",
-      "pictureSource": "UA-Football",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQK2nt6tGeCucig8UuJHRxyLn6M8A80Efop8uTINTOFC1f9ZyCzduDcn08uA8o",
+      "pictureSource": "sport-express.net",
       "relatedSearch": [
         {
-          "title": "Флик сделал выбор: Барселона объявила состав на матч с Атлетиком",
+          "title": "«Барселона» обыграла «Атлетик» и одержала вторую победу на старте сезона в Ла лиге",
           "snippet": "",
-          "url": "https://www.ua-football.com/foreign/spain/1787854745-flik-sdelal-vybor-barselona-obyavila-sostav-na-match-s-atletikom.html",
-          "source": "UA-Football"
-        },
-        {
-          "title": "Флик — о победе «Барселоны» над «Атлетиком»: «Мы забили только дважды, но создали много голевых моме...",
-          "snippet": "",
-          "url": "https://www.sport-express.net/football/spain/news/hans-diter-flik-ocenil-pobedu-barselony-nad-atletikom-v-1-ture-la-ligi-2450515/",
+          "url": "https://www.sport-express.net/football/spain/news/barselona-atletik-schet-i-rezultat-matcha-1-tura-la-ligi-27-avgusta-2026-2450505/",
           "source": "sport-express.net"
         },
         {
-          "title": "Спонсоры победы в эконом-режиме: четыре лучших игрока матча «Барселона» – «Атлетик»",
+          "title": "«Барселона» в эконом-режиме разобралась с «Атлетиком» и вернула себе первую строчку",
           "snippet": "",
-          "url": "https://www.euro-football.ru/article/35/1006298392_sponsoryi_pobedyi_v_ekonom-rejime_chetyire_luchshih_igroka_matcha_barselona__atletik",
+          "url": "https://www.euro-football.ru/article/35/1006298374_barselona_v_ekonom-rejime_razobralas_s_atletikom_i_vernula_sebe_pervuyu_strochku",
           "source": "Евро-Футбол"
+        },
+        {
+          "title": "Терзич - после 0:2 от Барселоны: Это самое сложное поле",
+          "snippet": "",
+          "url": "https://www.ua-football.com/foreign/spain/1787913830-terzich-posle-0-2-ot-barselony-yeto-samoe-slozhnoe-pole.html",
+          "source": "UA-Football"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "челси – лутон",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Thu, 27 Aug 2026 10:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvXCsLHYRJWwHr0oo5ilk7QLUnGiFRXk7h860bicuREX1Z-FTKRH18Y4LdDY8",
-      "pictureSource": "ФК Челси | Сайт болельщиков | Chelsea FC",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdiPjQfhMnQmPjyl2KkWqJhq_Fa7Y2o_3b86gDtKix37URbqa7z_UqlxY2OQ4",
+      "pictureSource": "FAPL.ru",
       "relatedSearch": [
+        {
+          "title": "Уэлбек помог \"Челси\" победить \"Лутон\"",
+          "snippet": "",
+          "url": "https://fapl.ru/posts/124095/",
+          "source": "FAPL.ru"
+        },
         {
           "title": "Хаби Алонсо дал обновленную информацию по трем новичкам «Челси»",
           "snippet": "",
@@ -75,12 +165,6 @@
           "snippet": "",
           "url": "https://www.euro-football.ru/article/1003386065/1006298447_uelbek_zabit_v_pervom_matche_-_eto_nechto",
           "source": "Евро-Футбол"
-        },
-        {
-          "title": "Прогноз на матч Челси против Лутона: победа гарантирует выход в следующий раунд.",
-          "snippet": "",
-          "url": "https://www.vietnam.vn/ru/nhan-dinh-chelsea-vs-luton-thang-de-di-tiep",
-          "source": "Vietnam.vn"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -93,22 +177,22 @@
       "pictureSource": "UEFA.com",
       "relatedSearch": [
         {
-          "title": "Жеребьевка общего этапа Лиги чемпионов: все 36 команд узнали своих соперников",
+          "title": "Жеребьевка общего этапа Лиги чемпионов: все 36 команд узнали соперников",
           "snippet": "",
-          "url": "https://ru.uefa.com/uefachampionsleague/news/02a8-217326a7074e-ee06289fd94c-1000--%D0%B6%D0%B5%D1%80%D0%B5%D0%B1%D1%8C/",
+          "url": "https://ru.uefa.com/uefachampionsleague/news/02a8-217326a7074e-ee06289fd94c-1000--%D0%B6%D0%B5%D1%80%D0%B5%D0%B1%D1%8C%D0%B5%D0%B2%D0%BA%D0%B0/",
           "source": "UEFA.com"
         },
         {
-          "title": "«Галатасарай» сыграет с «Барселоной» и ПСЖ в Лиге чемпионов",
+          "title": "Определены соперники «Арсенала» на групповой стадии ЛЧ",
           "snippet": "",
-          "url": "https://fclm.news/football/137322-galatasaray-sygraet.html",
-          "source": "fclmnews"
+          "url": "https://fc-arsenal.com/oficialno/opredeleny-soperniki-arsenala-na-gruppovoy-stadii-lch",
+          "source": "FC-Arsenal.com."
         },
         {
-          "title": "Шесть россиян могут сыграть в общем этапе Лиги чемпионов",
+          "title": "Дуэль Батракова и Сафонова, вновь сложный календарь «ПСЖ» и жребий мечты у «Сабаха». Каким будет общ...",
           "snippet": "",
-          "url": "https://sportmail.ru/article/football-eurocups/72133569/",
-          "source": "Спорт Mail"
+          "url": "https://www.sport-express.net/football/champions-league/reviews/zherebevka-obschego-etapa-liga-chempionov-sezon-2026-27-27-avgusta-glavnye-intrigi-i-topovye-matchi-2450494/",
+          "source": "sport-express.net"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,20 +201,20 @@
       "title": "певец",
       "trafficCount": "200+",
       "pubDate": "Thu, 27 Aug 2026 07:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwI1cHB9h7EiYM4UOVi-mDO1fU_hZXm1dcYGiuar1rgS4sy0qFEibHwoQqQvw",
-      "pictureSource": "ТВ Mail",
+      "picture": "",
+      "pictureSource": "Рамблер",
       "relatedSearch": [
-        {
-          "title": "Сергей Жуков опроверг гонорар в 50 миллионов: реакция лидера «Руки Вверх!», слова о частном самолете",
-          "snippet": "",
-          "url": "https://tv.mail.ru/news/136125-zhukov-prokommentiroval-soobsheniya-o-zarabotke-v-razmere-50-millionov-za-koncert/",
-          "source": "ТВ Mail"
-        },
         {
           "title": "50 млн рублей на руки: назван самый богатый российский артист",
           "snippet": "",
           "url": "https://news.rambler.ua/starlife/56963365-50-mln-rubley-na-ruki-nazvan-samyy-bogatyy-rossiyskiy-artist/",
           "source": "Рамблер"
+        },
+        {
+          "title": "Почему «Руки вверх!» держат лидерство на эстраде: продюсер о таланте Жукова и его гонорарах",
+          "snippet": "",
+          "url": "https://finance.mail.ru/article/raskryto-pochemu-sergej-zhukov-poluchaet-samye-vysokie-gonorary-69224913/",
+          "source": "Финансы Mail"
         },
         {
           "title": "Сергей Жуков из «Руки Вверх!» стал самым высокооплачиваем?...",
@@ -145,138 +229,54 @@
       "title": "указ",
       "trafficCount": "1000+",
       "pubDate": "Thu, 27 Aug 2026 06:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaSONoiS2KUeRulZchMINMcbPnB1Jwcbz-m8Y99znSmpi_PbZNVw5VdhGiyXs",
-      "pictureSource": "24.KG",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRf4PkQAXWEQ4CxjFZjcyCYHh5EL3YM7abiwn6-agTXz6tDJp13w-hWhUa9PN4",
+      "pictureSource": "Economist.kg",
       "relatedSearch": [
         {
-          "title": "Садыр Жапаров поручил ликвидировать ОАО «Тундук»",
+          "title": "Вице-президент Казахстана: как изменилась система передачи власти после реформы",
           "snippet": "",
-          "url": "https://24.kg/vlast/386832_sadyir_japarov_poruchil_likvidirovat_oao_tunduk/",
-          "source": "24.KG"
+          "url": "https://economist.kg/vlast/2026/08/28/vitse-prezident-kazakhstana-kak-izmenilas-sistema-peredachi-vlasti-posle-reformy/",
+          "source": "Economist.kg"
         },
         {
-          "title": "«Түндүк» ликвидируют, его функции передадут ГУ «Кызмат» при Управделами президента",
+          "title": "Правительство Бектенова ушло в отставку после выборов в курултай",
           "snippet": "",
-          "url": "https://kg.akipress.org/news:2523625",
-          "source": "Akipress"
+          "url": "https://bes.media/news/ryba-pravitelstvo-bektenova-ushlo-v-otstavku-posle-vyborov-v-kurultay/",
+          "source": "BES.media"
         },
         {
-          "title": "В Кыргызстане реорганизируют «Түндүк»",
+          "title": "Президент подписал указ о Правительстве Республики Казахстан",
           "snippet": "",
-          "url": "https://open.kg/news/exclusive/118201-v-kyrgyzstane-reorganizirujut-tndk.html",
-          "source": "open.kg"
+          "url": "https://khabar.kz/ru/news/politika/189958-prezident-podpisal-ukaz-o-pravitelstve-respubliki-kazakhstan",
+          "source": "khabar.kz"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "смерть",
-      "trafficCount": "500+",
+      "trafficCount": "2000+",
       "pubDate": "Thu, 27 Aug 2026 05:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRh9aG4NDrgt8T5sa7tXChqcZyP2mYbLpSanvHaAVo97rFcUK5YC4KxJQcdg5I",
-      "pictureSource": "Meduza",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNIdzmJPXjd2qg4JnzGL0lAYEfP0vEoIDS0QtYQPXLx2ROidcku9ZQLz96wRo",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "В Гааге умер сербский командир Ратко Младич. Он был пожизненно осужден за геноцид в Сребренице",
+          "title": "«Народный король». Умер король Норвегии Харальд V",
           "snippet": "",
-          "url": "https://meduza.io/news/2026/08/27/v-gaage-umer-serbskiy-komandir-ratko-mladich-on-byl-pozhiznenno-osuzhden-za-genotsid-v-srebrenitse",
-          "source": "Meduza"
-        },
-        {
-          "title": "Умер бывший командующий армией боснийских сербов Ратко Младич. Он отбывал пожизненный срок за геноцид",
-          "snippet": "",
-          "url": "https://www.bbc.com/russian/articles/c93eq5ekqeko",
+          "url": "https://www.bbc.com/russian/articles/c5ywj122rvlo",
           "source": "BBC"
         },
         {
-          "title": "Умер осужденный за геноцид в Сребренице Ратко Младич",
+          "title": "Умер король Норвегии Харальд V",
           "snippet": "",
-          "url": "https://www.svoboda.org/a/umer-osuzhdennyy-za-genotsid-v-srebrenitse-ratko-mladich/33841859.html",
-          "source": "Радио Свобода"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "золотой мяч",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 27 Aug 2026 05:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3ddpiNgFvWD_U_f4NsdEYvbbY6lZ_B7x8AJK5dfzfmQcrl7unhaVBJHgudog",
-      "pictureSource": "Vesti.kz",
-      "relatedSearch": [
-        {
-          "title": "Опубликован рейтинг претендентов на \"Золотой мяч\"-2026: Ямаль - 2-й, Холанд - 5-й, Месси - 10-й",
-          "snippet": "",
-          "url": "https://vesti.kz/mirfutbol/opublikovan-reyting-pretendentov-zolotoy-myach-2026-yamal-2-386791/",
-          "source": "Vesti.kz"
-        },
-        {
-          "title": "Кварацхелия вошел в топ-5 главных кандидатов на «Золотой мяч»-2026",
-          "snippet": "",
-          "url": "https://www.sports.kz/news/kvaratsheliya-voshel-v-top-5-glavnyih-kandidatov-na-zolotoy-myach-2026",
-          "source": "Sports.kz"
-        },
-        {
-          "title": "Игрок “Барселоны“ назван новым фаворитом “Золотого мяча“",
-          "snippet": "",
-          "url": "https://tengrisport.kz/trends/igrok-barselonyi-nazvan-novyim-favoritom-zolotogo-myacha-606984/",
-          "source": "Tengri Sport"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "заработная плата",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 27 Aug 2026 04:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaSONoiS2KUeRulZchMINMcbPnB1Jwcbz-m8Y99znSmpi_PbZNVw5VdhGiyXs",
-      "pictureSource": "24.KG",
-      "relatedSearch": [
-        {
-          "title": "Зарплаты в финансовом секторе Кыргызстана превысили 100 тысяч сомов",
-          "snippet": "",
-          "url": "https://24.kg/ekonomika/386808_zarplatyi_vfinansovom_sektore_kyirgyizstana_prevyisili_100_tyisyach_somov/",
+          "url": "https://24.kg/obschestvo/386939_umer_korol_norvegii_haraldV/",
           "source": "24.KG"
         },
         {
-          "title": "Средняя зарплата в Таджикистане выросла до $411, но остается ниже, чем у соседей",
+          "title": "Умер король Норвегии Харальд V",
           "snippet": "",
-          "url": "https://asiaplus.news/2026/08/26/srednyaya-zarplata-v-tadzhikistane-vyrosla-do-411-no-ostaetsya-nizhe-chem-u-sosedej/",
-          "source": "Азия-Плюс"
-        },
-        {
-          "title": "В СНГ стабильно растет номинальная зарплата",
-          "snippet": "",
-          "url": "https://gctu-cgs.org/news/glavnoe/v-sng-stabilno-rastet-nominalnaya-zarplata-/",
-          "source": "Всеобщая конфедерация профсоюзов"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "корумду",
-      "trafficCount": "1000+",
-      "pubDate": "Thu, 27 Aug 2026 02:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaSONoiS2KUeRulZchMINMcbPnB1Jwcbz-m8Y99znSmpi_PbZNVw5VdhGiyXs",
-      "pictureSource": "24.KG",
-      "relatedSearch": [
-        {
-          "title": "Установлены личности двух альпинистов, погибших на пике Корумду",
-          "snippet": "",
-          "url": "https://24.kg/obschestvo/386855_ustanovlenyi_lichnosti_dvuh_alpinistov_pogibshih_napike_korumdu/",
-          "source": "24.KG"
-        },
-        {
-          "title": "«Подошли настолько близко, насколько эта гора позволила подойти». В Кыргызстане приостановили поиски третьего пропавшего альпиниста",
-          "snippet": "",
-          "url": "https://news.zerkalo.io/life/135177.html",
-          "source": "Zerkalo"
-        },
-        {
-          "title": "Трагедия на пике Корумду: тела двух альпинистов спустили с горы, поиски третьего временно прекращены",
-          "snippet": "",
-          "url": "https://vesti.kg/proisshestviya/item/152107-tragediya-na-pike-korumdu-tela-dvukh-alpinistov-spustili-s-gory-poiski-tretego-vremenno-prekrashcheny.html",
-          "source": "Вести.kg"
+          "url": "https://meduza.io/news/2026/08/28/umer-korol-norvegii-harald",
+          "source": "Meduza"
         }
       ],
       "link": "https://imtaqin.id/"

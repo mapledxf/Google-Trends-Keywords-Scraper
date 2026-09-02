@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2026-09-02 14:09:36",
+  "lastUpdate": "2026-09-02 17:53:12",
   "data": [
+    {
+      "title": "flight",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 2 Sep 2026 04:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRndRc4leyguwRJ9_PhKYBDSJUUMifkFMvtzG2kQ1-vzwqGemDAITDSQmW7QuA",
+      "pictureSource": "Sky News",
+      "relatedSearch": [
+        {
+          "title": "Ukraine war: Russia responds to Zelenskyy's civil aviation threat",
+          "snippet": "",
+          "url": "https://news.sky.com/story/ukraine-war-latest-putin-russia-aviation-threat-12541713",
+          "source": "Sky News"
+        },
+        {
+          "title": "Russian airspace becoming unsafe for commercial airlines, Zelenskyy says",
+          "snippet": "",
+          "url": "https://www.theguardian.com/world/2026/sep/02/russian-airspace-unsafe-commercial-airlines-zelenskyy",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Putin and Zelenskyy issue threats as strikes rock Ukraine, Russia",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/2026/9/2/putin-and-zelenskyy-issue-threats-as-strikes-rock-ukraine-russia",
+          "source": "Al Jazeera"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "chatgpt",
       "trafficCount": "1000+",
       "pubDate": "Tue, 1 Sep 2026 22:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEjZoiR83D7guYXB0TQQlcK_XiAZeocp95KTMfIEHAWvxrewtjG1Bj_JEqJGU",
-      "pictureSource": "Fortune",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0fILV11v9m9mNve2gyNMI_g6-kuV0UQ4DKcLQEhczlqB_-zkCmt0GwXjt8J8",
+      "pictureSource": "OpenAI",
       "relatedSearch": [
         {
-          "title": "Pentagon gives 3 million workers access to special ChatGPT and Grok versions for ‘warfighter needs’",
+          "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
           "snippet": "",
-          "url": "https://fortune.com/2026/09/01/pentagon-chatgpt-grok-government-military-ai-members-pete-hegseth-defense-department/",
-          "source": "Fortune"
+          "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources/",
+          "source": "OpenAI"
         },
         {
-          "title": "Defense Dept opens use of three major AI tools for employees",
+          "title": "ChatGPT for Healthcare unveils new integrations with Epic, public health data sources",
           "snippet": "",
-          "url": "https://federalnewsnetwork.com/federal-newscast/2026/09/defense-dept-opens-use-of-three-major-ai-tools-for-employees/",
-          "source": "Federal News Network"
+          "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/chatgpt-healthcare-unveils-new-integrations-epic-ehr-public-health-data",
+          "source": "Fierce Healthcare"
         },
         {
-          "title": "The military’s ChatGPT is now live via the Pentagon’s GenAI platform",
+          "title": "OpenAI Brings Epic Health Records to ChatGPT for Clinicians",
           "snippet": "",
-          "url": "https://www.militarytimes.com/industry/techwatch/2026/08/31/the-militarys-chatgpt-is-now-live-via-the-pentagons-genai-platform/",
-          "source": "Military Times"
+          "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-brings-epic-health-records-to-chatgpt-for-clinicians/",
+          "source": "PYMNTS.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,26 +61,26 @@
       "title": "teams",
       "trafficCount": "100+",
       "pubDate": "Tue, 1 Sep 2026 22:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvULLjfeTchBglBzJD318DRwbpr5j8nc-QkkKPQMSs1RuPdvU9Xhi7O0QQpnI",
-      "pictureSource": "Sports Illustrated",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeYY6VCdbRYW0uzs-g_9oUx_uZh5UGeYLH8wKeMSXGroYv_5UutrlHhLwMlFY",
+      "pictureSource": "NHL.com",
       "relatedSearch": [
         {
-          "title": "Albert Breer: Why Some NFL Teams Kept Four QBs and How It Impacts Game-day Rosters",
+          "title": "Blues, Prime Video reach agreement to stream locally-televised games | St. Louis Blues",
           "snippet": "",
-          "url": "https://www.si.com/nfl/albert-breer-why-nfl-teams-kept-four-qbs-impact-game-day-rosters",
-          "source": "Sports Illustrated"
+          "url": "https://www.nhl.com/blues/news/blues-prime-video-reach-agreement-to-stream-locally-televised-games",
+          "source": "NHL.com"
         },
         {
-          "title": "Four NFL teams keeping a quartet of QBs on their 53-man roster | 'The NFL Report'",
+          "title": "Victory+ dissolved, will no longer stream Texas high school football games",
           "snippet": "",
-          "url": "https://www.nfl.com/videos/four-nfl-teams-keeping-a-quartet-of-qbs-on-their-53-man-roster-the-nfl-report",
-          "source": "NFL.com"
+          "url": "https://www.dallasnews.com/high-school-sports/football/article/victory-no-longer-broadcast-texas-high-school-22412811.php",
+          "source": "Dallas News"
         },
         {
-          "title": "NFL teams keeping four quarterbacks isn't a big deal, and here's why",
+          "title": "Wild Fans Have New Network to Watch Games This Season",
           "snippet": "",
-          "url": "https://sports.yahoo.com/nfl/article/nfl-teams-keeping-four-quarterbacks-isnt-a-big-deal-and-heres-why-142755361.html",
-          "source": "Yahoo Sports"
+          "url": "https://thehockeywriters.com/wild-fans-have-new-network-to-watch-games-this-season/",
+          "source": "The Hockey Writers"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,26 +89,26 @@
       "title": "games",
       "trafficCount": "100+",
       "pubDate": "Tue, 1 Sep 2026 21:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuli4_TNi8bz8xdjkgwOblqtSbGntdP59YgCq1dZSXacTH7X1uglV34SdOa7M",
-      "pictureSource": "Polygon.com",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgknQOEVV6p7l9X8Ez5h1PNCfCP6m0j2LKET8vAmzYk3gKVjRqO0LR8uEbMg8",
+      "pictureSource": "NHL.com",
       "relatedSearch": [
         {
-          "title": "Days After GTA 6's Big Reveal, Rockstar Announces A Major GTA 5 Update",
+          "title": "Ducks 2026-27 National TV Schedule Announced | Anaheim Ducks",
           "snippet": "",
-          "url": "https://www.polygon.com/gta-5-nopixel-beta-when-is-roleplay-customization-new-gameplay/",
-          "source": "Polygon.com"
+          "url": "https://www.nhl.com/ducks/news/ducks-2026-27-national-tv-schedule-announced",
+          "source": "NHL.com"
         },
         {
-          "title": "Rockstar Games Reveals Its Official GTA Online Roleplaying Server, nopixel V",
+          "title": "How to watch Anaheim Ducks games on TV and Prime Video in 2026-27",
           "snippet": "",
-          "url": "https://nordic.ign.com/grand-theft-auto-online/112224/rockstar-games-reveals-its-official-gta-online-roleplaying-server-nopixel-v",
-          "source": "IGN Nordic"
+          "url": "https://www.nytimes.com/athletic/7559467/2026/09/02/ducks-tv-broadcast-prime-2026/",
+          "source": "The New York Times"
         },
         {
-          "title": "Rockstar Games Reveals RP ‘Evolution’ While Keeping Silent About GTA 6 Multiplayer",
+          "title": "NHL, Prime Video strike local streaming deal for 6 teams",
           "snippet": "",
-          "url": "https://insider-gaming.com/rockstar-nopixel-rp-evolution-no-gta-6-multiplayer/",
-          "source": "Insider Gaming"
+          "url": "https://www.nytimes.com/athletic/7558997/2026/09/02/nhl-prime-video-wild-blues-blue-jackets-ducks-hurricanes-stars/",
+          "source": "The New York Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,15 +127,15 @@
           "source": "Cricket World"
         },
         {
+          "title": "Bahrain were bowled out for 87 on Monday, and on Wednesday they beat Hong Kong",
+          "snippet": "",
+          "url": "https://www.sportsadda.asia/cricket/news/bahrain-were-bowled-out-for-87-on-monday-and-on-wednesday-they-beat-hong-kong/",
+          "source": "SportsAdda"
+        },
+        {
           "title": "ACC Men’s Premier Cup 2026 Match Predictions: Bahrain vs Hong Kong; Oman vs Qatar – September 2",
           "snippet": "",
           "url": "https://www.cricketworld.com/match-predictions-acc-mens-premier-cup-2026-match-7-group-a-bahrain-vs-hong-kong-and-match-8-group-b-oman-vs-qatar-september-2nd/113009.htm",
-          "source": "Cricket World"
-        },
-        {
-          "title": "Match Predictions: ACC Mens Premier Cup 2026 - Match 9 & 10 - Kuwait vs UAE; Malaysia vs Nepal - September 3rd",
-          "snippet": "",
-          "url": "https://www.cricketworld.com/match-predictions-acc-mens-premier-cup-2026-match-9-10-kuwait-vs-uae-malaysia-vs-nepal-september-3rd/113033.htm",
           "source": "Cricket World"
         }
       ],
@@ -117,26 +145,54 @@
       "title": "alexandra eala",
       "trafficCount": "500+",
       "pubDate": "Tue, 1 Sep 2026 19:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLTMj9bL-eXHmAYUGUxXN6Aopz1FC05jijGtCMS2mAGfo2bQ8PZMbNWzZQh4Q",
-      "pictureSource": "Forbes",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThugGEUvnfFkj_wz6X6EY9fIncviN0yGUiNQuxibB6RxS6-VCk3Qk5VlLBs8U",
+      "pictureSource": "TennisTemple",
       "relatedSearch": [
         {
-          "title": "The Inside Story Of Tennis Phenom Alex Eala’s Rise And Rise",
+          "title": "US Open: Alexandra Eala opens up about her new status — \"I still have so much to learn\"",
           "snippet": "",
-          "url": "https://www.forbes.com/sites/mattcraig/2026/08/28/the-inside-story-of-tennis-phenom-alex-ealas-rise-and-rise/",
-          "source": "Forbes"
+          "url": "https://en.tennistemple.com/actu/us-open-alexandra-eala-opens-up-about-her-new/gjz6",
+          "source": "TennisTemple"
         },
         {
-          "title": "Filipino basketball players JC Intal and James Yap were seen in attendance to support Alex Eala in her first round match at the US Open. | via TJ Manotoc, ABS-CBN News",
+          "title": "Four years on from junior glory, can Alex Eala claim the US Open’s biggest prize?",
           "snippet": "",
-          "url": "https://www.facebook.com/abscbnNEWS/posts/filipino-basketball-players-jc-intal-and-james-yap-were-seen-in-attendance-to-su/1661206619387921/",
-          "source": "Facebook"
+          "url": "https://gulfnews.com/sport/four-years-on-from-junior-glory-can-alex-eala-claim-the-us-opens-biggest-prize-1.500660305",
+          "source": "Gulf News"
         },
         {
-          "title": "Eala fans make presence felt in NY",
+          "title": "Alex Eala Balances Rising Tennis Success With Smart Money Moves and Future Investments",
           "snippet": "",
-          "url": "https://www.sunstar.com.ph/network/eala-fans-make-presence-felt-in-ny",
-          "source": "SunStar Publishing Inc."
+          "url": "https://tribune.net.ph/2026/09/02/alex-eala-keeps-money-in-perspective-as-tennis-career-reaches-new-heights",
+          "source": "Daily Tribune"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "iran",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 1 Sep 2026 19:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqZSHEkwqThGKo3J3u90cl6XCsMtkXPXQZOZ8cmIL6D-cKShx0EkB6akNjtKs",
+      "pictureSource": "CNN",
+      "relatedSearch": [
+        {
+          "title": "Iran retaliates after US strikes, defying Trump’s warning it could be hit ‘much harder’",
+          "snippet": "",
+          "url": "https://www.cnn.com/2026/09/01/middleeast/us-military-strikes-iran",
+          "source": "CNN"
+        },
+        {
+          "title": "What do we know about the fatal US bombing of a wedding in Iran’s Sirik?",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/2026/9/2/what-do-we-know-about-the-fatal-us-bombing-of-a-wedding-in-irans-sirik",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Iran accuses US of war crime over wedding strike as Trump suggests renaming strait of Hormuz ‘Trump strait’ – Middle East crisis live",
+          "snippet": "",
+          "url": "https://www.theguardian.com/world/live/2026/sep/02/iran-us-middle-east-war-strikes-tehran-washington-wedding-trump-kuwait-jordan-latest-news-updates",
+          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +211,16 @@
           "source": "The Peninsula Qatar"
         },
         {
-          "title": "Qatar Airways brings back four Saudi routes this winter and adds more flights",
-          "snippet": "",
-          "url": "https://gulfnews.com/business/aviation/qatar-airways-brings-back-four-saudi-routes-this-winter-and-adds-more-flights-1.500659537",
-          "source": "Gulf News"
-        },
-        {
           "title": "Qatar Airways resumes four Saudi routes in winter network expansion",
           "snippet": "",
           "url": "https://gulfbusiness.com/en/2026/aviation/qatar-airways-resumes-four-saudi-routes-in-winter-network-expansion/",
           "source": "Gulf Business"
+        },
+        {
+          "title": "Qatar Airways restores four Saudi routes | Gulf Times",
+          "snippet": "",
+          "url": "https://www.gulf-times.com/article/732407/qatar/qatar-airways-restores-four-saudi-routes",
+          "source": "Gulf Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,26 +229,26 @@
       "title": "hebc vs dortmund",
       "trafficCount": "200+",
       "pubDate": "Tue, 1 Sep 2026 12:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQH81XjN_MrXe4ryzt0LU9SKruvTv5A0Wf_oR46iK4Wo7-_anqDYisAM_lzZs8",
-      "pictureSource": "OneFootball",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbDTv3MxeAGIXCEOrqN8gzx-IGEt3xBpw46odqrtJs9YEOfsq2QPpl74rIZa0",
+      "pictureSource": "sportschau.de",
       "relatedSearch": [
         {
-          "title": "Für Alex Meyer war es ein doppelt schönes Erlebnis in Hamburg",
+          "title": "Borussia Dortmund gewinnt nach Stotterstart gegen HEBC im DFB-Pokal",
           "snippet": "",
-          "url": "https://onefootball.com/de/news/fuer-alex-meyer-war-es-ein-doppelt-schoenes-erlebnis-in-hamburg-43387844",
-          "source": "OneFootball"
+          "url": "https://www.sportschau.de/fussball/dfbpokal/pflichtsieg-nach-stotterstart-bvb-gegen-couragierte-eimsbuetteler-weiter,spielbericht-dfb-pokal-eimsbuettel-borussia-dortmund-100.html",
+          "source": "sportschau.de"
         },
         {
-          "title": "HEBC-Coach Obloch schwärmt von Kovac – Vamvakidis: „Die Steigerung der Steigerung“",
+          "title": "Mit Kovac auf der Bühne: Spiel des Lebens gegen BVB - Ostfriese ist mittendrin",
           "snippet": "",
-          "url": "https://www.transfermarkt.de/hebc-coach-obloch-schwarmt-von-kovac-vamvakidis-die-steigerung-der-steigerung-quot-/view/news/486412",
-          "source": "Transfermarkt"
+          "url": "https://www.oz-online.de/artikel/1683463/Spiel-des-Lebens-gegen-BVB-Ostfriese-ist-mittendrin",
+          "source": "OZ online"
         },
         {
-          "title": "RTL dominiert in den Zielgruppen mit dem DFB-Pokal",
+          "title": "Der Sport-Tag: Matthäus ist schockverliebt: Die schönste Szene des Pokalabends",
           "snippet": "",
-          "url": "https://www.dwdl.de/zahlenzentrale/107678/rtl_dominiert_in_den_zielgruppen_mit_dem_dfbpokal/",
-          "source": "DWDL"
+          "url": "https://www.n-tv.de/sport/der_sport_tag/Matthaeus-ist-schockverliebt-Die-schoenste-Szene-des-Pokalabends-id31261174.html",
+          "source": "n-tv.de"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,72 +267,16 @@
           "source": "BBC"
         },
         {
-          "title": "West Ham fight off Wolves as Divine Mukasa double eases pressure on Nuno",
-          "snippet": "",
-          "url": "https://www.theguardian.com/football/2026/sep/01/west-ham-wolves-championship-match-report",
-          "source": "The Guardian"
-        },
-        {
           "title": "Player Ratings: Mukasa brace gives West Ham first win of season",
           "snippet": "",
           "url": "https://greenstreethammers.com/player-ratings-another-brace-from-an-18-year-old-leads-to-win-over-wolves-01m1fva9rws2",
           "source": "Green Street Hammers"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "pakistan women's national cricket team vs thailand women's national cricket team standings",
-      "trafficCount": "2000+",
-      "pubDate": "Tue, 1 Sep 2026 11:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMBPoM_MjJoKnUwUOVc9IILEW5sRAGuPin19MagRrSYT6QhFHZtTLj9DocH4A",
-      "pictureSource": "Cricinfo",
-      "relatedSearch": [
-        {
-          "title": "PAK Women beat THA Women, PAK Women won by 35 runs",
-          "snippet": "",
-          "url": "https://www.cricinfo.com/series/women-s-asia-cup-2026-1548888/pakistan-women-vs-thailand-women-5th-match-group-a-1548895/live-cricket-score",
-          "source": "Cricinfo"
         },
         {
-          "title": "Pakistan off to a winning start in Asia Cup",
+          "title": "West Ham 4-2 Wolves - fans' verdict",
           "snippet": "",
-          "url": "https://www.icc-cricket.com/news/pakistan-off-to-a-winning-start-in-asia-cup",
-          "source": "ICC"
-        },
-        {
-          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
-          "snippet": "",
-          "url": "https://www.cricbuzz.com/player-match-performance/match/169821/player/33260/batting?inningsId=1",
-          "source": "Cricbuzz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "الهلال ضد الأهلي",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 1 Sep 2026 11:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXgC3UtDgCyNLhTS46GKSw7OzTXzsjQPpdamCoqQSJsf-3d5jYyXgUni1tP54",
-      "pictureSource": "Kooora",
-      "relatedSearch": [
-        {
-          "title": "من الكلاسيكو الأول للأخير.. إنزاجي يكسب الرهان ويهزم جماهير الهلال بيد الأهلي",
-          "snippet": "",
-          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%A6%D9%85/%D9%85%D9%86-%D8%A7%D9%84%D9%83%D9%84%D8%A7%D8%B3%D9%8A%D9%83%D9%88-%D8%A7%D9%84%D8%A7%D9%94%D9%88%D9%84-%D9%84%D9%84%D8%A7%D9%94%D8%AE%D9%8A%D8%B1--%D8%A7%D9%95%D9%86%D8%B2%D8%A7%D8%AC%D9%8A-%D9%8A%D9%83%D8%B3%D8%A8-%D8%A7%D9%84%D8%B1%D9%87%D8%A7%D9%86-%D9%88%D9%8A%D9%87%D8%B2%D9%85-%D8%AC%D9%85%D8%A7%D9%87%D9%8A%D8%B1-%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84-%D8%A8%D9%8A%D8%AF-%D8%A7%D9%84%D8%A7%D9%94%D9%87%D9%84%D9%8A/blt3b0ff1cf90dc357a",
-          "source": "Kooora"
-        },
-        {
-          "title": "\"الكثير من اللاعبين لا يقدمون ما يكفي!\" .. إيفان توني يهاجم زملاءه ويدافع عن بوسيتش وروي بيدرو بعد السقوط أمام الهلال",
-          "snippet": "",
-          "url": "https://www.goal.com/ar/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%A6%D9%85/%D8%A7%D9%95%D9%8A%D9%81%D8%A7%D9%86-%D8%AA%D9%88%D9%86%D9%8A-%D8%A7%D9%84%D8%A7%D9%94%D9%87%D9%84%D9%8A-%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A/bltc1a29ea1862f6a7a",
-          "source": "Goal.com"
-        },
-        {
-          "title": "«هلال المملكة» يسطع بثلاثية في الشباك الأهلاوية",
-          "snippet": "",
-          "url": "https://twaslnews1.twaslnews.com/4578461/",
-          "source": "شبكة تواصل الإخبارية"
+          "url": "https://sports.yahoo.com/articles/west-ham-4-2-wolves-095630737.html",
+          "source": "Yahoo Sports"
         }
       ],
       "link": "https://imtaqin.id/"

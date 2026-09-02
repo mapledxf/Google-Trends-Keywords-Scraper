@@ -1,38 +1,75 @@
 {
-  "lastUpdate": "2026-09-02 09:58:52",
+  "lastUpdate": "2026-09-02 14:09:39",
   "data": [
     {
-      "title": "google maps",
+      "title": "traktorist",
       "trafficCount": "500+",
-      "pubDate": "Wed, 2 Sep 2026 01:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREh_P-3h4Bw1rFFWIHKYTuoOYnEp4FFZ4xY-OwbLXEh_IacBibwiqGx8holjA",
-      "pictureSource": "The Washington Post",
+      "pubDate": "Wed, 2 Sep 2026 05:00:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tanja fajon",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 2 Sep 2026 04:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBpRqzXgIluHLpqEcTuJt7W9_a8t7n2Al27TqZMxWDwbZNkwS8j_gOHR60PUQ",
+      "pictureSource": "Svet24.si",
       "relatedSearch": [
         {
-          "title": "Lake Ontario is now Lake America. Residents of Trump-voting Ontario have thoughts.",
+          "title": "Tanje Fajon ne bo nazaj, novo službo si je našla v tujini",
           "snippet": "",
-          "url": "https://www.washingtonpost.com/politics/2026/09/01/lake-ontario-is-now-lake-america-residents-trump-voting-ontario-have-thoughts/",
-          "source": "The Washington Post"
+          "url": "https://svet24.si/novice/slovenija/tanja-fajon-nova-sluzba-1923612",
+          "source": "Svet24.si"
         },
         {
-          "title": "Joe Rogan slams Trump’s Lake Ontario name change as ‘a distraction’",
+          "title": "Nov izziv za Tanjo Fajon: sodelovala bo z nemškim svetovalno-lobističnim podjetjem",
           "snippet": "",
-          "url": "https://www.the-independent.com/news/world/americas/us-politics/joe-rogan-trump-lake-ontario-b3043270.html",
-          "source": "The Independent"
+          "url": "https://n1info.si/novice/slovenija/nov-izziv-za-tanjo-fajon-sodelovala-bo-z-nemskim-svetovalno-lobisticnim-podjetjem/",
+          "source": "N1 Slovenija"
         },
         {
-          "title": "Apple Maps renames Lake Ontario as Lake America after Trump order",
+          "title": "Janša ji je zaprl vrata EU, zdaj odhaja med nemške lobiste",
           "snippet": "",
-          "url": "https://www.bbc.com/news/articles/cddvyyz0e47o",
-          "source": "BBC"
+          "url": "https://www.dnevnik.si/novice/slovenija/jansa-ji-je-zaprla-vrata-eu-zdaj-odhaja-med-nemske-lobiste-2825387/",
+          "source": "Dnevnik"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "štajerska avtocesta",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 2 Sep 2026 00:30:00 -0700",
+      "title": "izrael",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 2 Sep 2026 03:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3Au5kV-jFIm9pGf6W9GO3B3v1yifs80aPe-hBia3xhh2Grv-vuKlJEA_-afg",
+      "pictureSource": "Defence24",
+      "relatedSearch": [
+        {
+          "title": "Wielka tarcza na południu Europy. Patrioty i S-300 do lamusa – co w zamian?",
+          "snippet": "",
+          "url": "https://defence24.pl/sily-zbrojne/wielka-tarcza-na-poludniu-europy-patrioty-i-s-300-do-lamusa-co-w-zamian",
+          "source": "Defence24"
+        },
+        {
+          "title": "Wideo. Grecja–Izrael: umowa na „Tarczę Achillesa” za 3 mld euro",
+          "snippet": "",
+          "url": "https://pl.euronews.com/video/2026/08/31/grecjaizrael-podpisano-umowe-w-sprawie-tarczy-achillesa-warta-3-mld-euro",
+          "source": "Euronews.com"
+        },
+        {
+          "title": "Shalom moje misiaczki! Psy szczekają a karawana jedzie dalej i zarabia... (@ZionOfel)",
+          "snippet": "",
+          "url": "https://wykop.pl/wpis/87465609/shalom-moje-misiaczki-psy-szczekaja-a-karawana-jed",
+          "source": "Wykop"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "prometna nesreča",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 1 Sep 2026 23:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQD--Q2EX1Qw-zxdF_LkrwhQ74Zhtr4mo7qfkXMpqez-YDDfcbEJg1j7E_BbNg",
       "pictureSource": "Žurnal24",
       "relatedSearch": [
@@ -43,80 +80,43 @@
           "source": "Žurnal24"
         },
         {
-          "title": "Štajerka po nesreči spet odprta, zastoji ostajajo",
-          "snippet": "",
-          "url": "https://www.dnevnik.si/novice/slovenija/na-stajerki-zaprt-vozni-pas-zastoji-tudi-drugod-po-sloveniji-2825275/",
-          "source": "Dnevnik"
-        },
-        {
           "title": "Nesreča zaprla štajersko avtocesto, zastoji na Dolenjskem in Primorskem, danes zapirajo priključek Ivančna Gorica",
           "snippet": "",
           "url": "https://www.nadlani.si/novice/nesreca-zaprla-stajersko-avtocesto-zastoji-na-dolenjskem-in-primorskem-danes-zapirajo-prikljucek-ivancna-gorica/",
           "source": "NaDlani.si"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "prometna nesreča",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 1 Sep 2026 23:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5hesS-L4hsWASC4Yfw_9ZCEMW0Go06TbyNR15gjCfbRAJqKJjuKJUQXIUZGc",
-      "pictureSource": "24ur.com",
-      "relatedSearch": [
-        {
-          "title": "'Pri 150 kilometrih na uro je bilo 30 metrov razdalje nekoliko premalo'",
-          "snippet": "",
-          "url": "https://www.24ur.com/novice/slovenija/nesreca-pirc-musar.html",
-          "source": "24ur.com"
         },
         {
-          "title": "Objavljen posnetek prometne nesreče predsednice republike",
+          "title": "Nesreča popolnoma zaprla štajersko avtocesto pri Slovenskih Konjicah.",
           "snippet": "",
-          "url": "https://www.rtvslo.si/slovenija/objavljen-posnetek-prometne-nesrece-predsednice-republike/792526",
-          "source": "rtvslo.si"
-        },
-        {
-          "title": "(VIDEO) Objavljen posnetek nesreče, v kateri je bila poškodovana predsednica Nataša Pirc Musar",
-          "snippet": "",
-          "url": "https://vecer.com/slovenija/video-objavljen-posnetek-nesrece-v-kateri-je-bila-poskodovana-predsednica-natasa-pirc-musar-10425757",
-          "source": "Večer"
+          "url": "https://tv3m.si/article/nesreca-popolnoma-zaprla-stajersko-avtocesto-pri-slovenskih-konjicah",
+          "source": "https://tv3m.si/"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "slovenske novice",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 1 Sep 2026 23:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "siol.net",
       "trafficCount": "2000+",
       "pubDate": "Tue, 1 Sep 2026 22:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5tNnohNnZ5WJun8yzJ748WddpqJ63jjbILMUkhR_lmUyb3JzFDd9OqWLwq24",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtjpKRzrJgXXFHNS0FAvVXQBcYvKgXMfi6NcvwD2ogca4juO1tdh6Ml5k14y4",
       "pictureSource": "Siol.net",
       "relatedSearch": [
         {
-          "title": "Šok že prvi šolski dan: dijaki brutalno nad darilo države",
+          "title": "Predsednik parlamenta Republike Srbske trdi, da so jim \"napovedali vojno\"",
           "snippet": "",
-          "url": "https://siol.net/novice/slovenija/sok-ze-prvi-solski-dan-dijaki-brutalno-nad-ustavo-republike-slovenije-700427",
+          "url": "https://siol.net/novice/svet/predsednik-parlamenta-republike-srbske-napovedali-so-nam-vojno-700456",
           "source": "Siol.net"
         },
         {
-          "title": "Prvošolcem prvič v roke zastava in ustava",
+          "title": "(VIDEO) Stevanovićev gost paradiral naokoli z avtomatsko puško, nekdanji slovenski evroposlanec: \"Nagravžno\"",
           "snippet": "",
-          "url": "https://www.24ur.com/novice/slovenija/prvosolcem-prvic-v-roke-zastava-in-ustava.html",
-          "source": "24ur.com"
+          "url": "https://vecer.com/slovenija/zoran-stevanovic-nenad-stevandic-gost-zlocini-zlocinec-puska-klemen-groselj-10425553",
+          "source": "Večer"
         },
         {
-          "title": "Prvošolci dobili ustavo, a manj slikanic Bralne značke",
+          "title": "\"Neformalni obisk\": Stevanović sprejel predsednika parlamenta Republike Srbske, v opoziciji kritični",
           "snippet": "",
-          "url": "https://www.rtvslo.si/kultura/knjige/prvosolci-dobili-ustavo-a-manj-slikanic-bralne-znacke/792517",
+          "url": "https://www.rtvslo.si/slovenija/neformalni-obisk-stevanovic-sprejel-predsednika-parlamenta-republike-srbske-v-opoziciji-kriticni/792047",
           "source": "rtvslo.si"
         }
       ],
@@ -124,56 +124,37 @@
     },
     {
       "title": "24ur",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Tue, 1 Sep 2026 22:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIz91q7a8h65DrwsEPV0IG7XV5EQnmHPl2TlNQ04PNuX_YH4aQFVMlVcs4GF4",
-      "pictureSource": "24ur.com",
-      "relatedSearch": [
-        {
-          "title": "Anton Rop bo kandidiral za župana Ljubljane",
-          "snippet": "",
-          "url": "https://www.24ur.com/novice/slovenija/anton-rop-bo-kandidiral-za-zupana-ljubljane.html",
-          "source": "24ur.com"
-        },
-        {
-          "title": "Urška Klakočar Zupančič se vrača, s Tonetom Ropom ustanavlja stranko",
-          "snippet": "",
-          "url": "https://www.zurnal24.si/slovenija/urka-klakocar-zupancic-in-tone-rop-ustanavljata-stranko-464517",
-          "source": "Žurnal24"
-        },
-        {
-          "title": "Tone Rop in Urška Klakočar Zupančič bosta razkrila kdo bo izzval Jankovića",
-          "snippet": "",
-          "url": "https://odkrito.svet24.si/novice/politika/rop-klakocar-zupancic-volitve-jankovic-1923419",
-          "source": "Svet24.si"
-        }
-      ],
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "google",
       "trafficCount": "200+",
       "pubDate": "Tue, 1 Sep 2026 22:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaP3D8bF-fYrFXZrgrMCYUZCbnpdQci8NjTQIbzQvsloWMyRIrGeTcQ2JOlss",
-      "pictureSource": "WSJ",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfyzvd-atsNrX3rEHlSWvJfO9HzDMuEzX2jbqz-CDnt3XiefdFqFSNYJOkwWc",
+      "pictureSource": "blog.google",
       "relatedSearch": [
         {
-          "title": "Exclusive | New Google AI Model Said to Narrow Gap on Coding Ability",
+          "title": "September Android Drop: Remember where you put things, ease motion sickness, and more",
           "snippet": "",
-          "url": "https://www.wsj.com/tech/ai/new-google-ai-model-said-to-narrow-gap-on-coding-ability-264c6052",
-          "source": "WSJ"
+          "url": "https://blog.google/products-and-platforms/platforms/android/android-drop-september-2026/",
+          "source": "blog.google"
         },
         {
-          "title": "Google Employees Are Already Testing the Next Gemini Flash AI Model",
+          "title": "Google Find Hub will soon help you locate things without a tracker",
           "snippet": "",
-          "url": "https://www.businessinsider.com/google-employees-testing-next-gemini-flash-3-8-model-2026-8",
-          "source": "Business Insider"
+          "url": "https://www.theverge.com/tech/987339/google-september-android-drop-motion-assist-gemini-find-hub",
+          "source": "The Verge"
         },
         {
-          "title": "Gemini 3.8 Flash leaks in a Tencent paper, but it is one line",
+          "title": "Android’s New Features Have Me Excited, Especially This One for Motion Sickness",
           "snippet": "",
-          "url": "https://pasqualepillitteri.it/en/news/13781/gemini-3-8-flash-leak-tencent-paper",
-          "source": "Pasquale Pillitteri"
+          "url": "https://www.cnet.com/tech/mobile/android-new-features-motion-sickness-chat-updates/",
+          "source": "CNET"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -182,26 +163,54 @@
       "title": "rtv",
       "trafficCount": "100+",
       "pubDate": "Tue, 1 Sep 2026 22:10:00 -0700",
-      "picture": "",
-      "pictureSource": "rtvslo.si",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSeRSYvu4-bWVaIdoqW67jGfInc4ho8UydqkrtdMmGuQuHcrHDYKulCTf5HTcE",
+      "pictureSource": "Info360",
       "relatedSearch": [
         {
-          "title": "Včasih mora športnik izgubiti, da ga lahko vzljubimo",
+          "title": "Zaposlena na RTV zgrožena: Vesna Milek ne bo delala za ljubezen, ampak denar!",
           "snippet": "",
-          "url": "https://www.rtvslo.si/kolumne/slavko-jeric/vcasih-mora-sportnik-izgubiti-da-ga-lahko-vzljubimo/792437",
-          "source": "rtvslo.si"
+          "url": "https://info360.si/aktualno/zaposlena-na-rtv-zgrozena-vesna-milek-ne-bo-delala-za-ljubezen-ampak-denar/",
+          "source": "Info360"
         },
         {
-          "title": "Pogačarjev rival z nasvetom za Tadeja: Stori to. Tudi če si kralj, je ...",
+          "title": "Ne bo jih Janša zlahka izstradal: igrajo na karto - denar za plače in info program, ostalo jih ne briga. In un kreten Golob",
           "snippet": "",
-          "url": "https://ekipa.svet24.si/sport/kolesarstvo/mikel-landa-tadej-pogacar-nasvet-1923213",
-          "source": "Ekipa"
+          "url": "https://pozareport.si/post/ne-bo-jih-jansa-zlahka-izstradal-igrajo-na-karto-denar-za-place-ter-info-program-ostalo-jih-ne-briga-in-kreten-golob",
+          "source": "pozareport.si"
         },
         {
-          "title": "Za Pogačarja šel do skrajnih meja: To sem želel storiti zanj, za ekipo in zase",
+          "title": "Vrag je odnesel šalo: RTV Slovenija je tik pred finančnim kolapsom",
           "snippet": "",
-          "url": "https://www.delo.si/sport/kolesarstvo/za-pogacarja-sel-do-skrajnih-meja-to-sem-zelel-storiti-zanj-za-ekipo-in-zase",
+          "url": "https://nova24tv.si/vrag-je-odnesel-salo-rtv-slovenija-je-tik-pred-financnim-kolapsom/",
+          "source": "Nova24TV"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "žurnal",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 1 Sep 2026 21:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaOUvSfcdHXCbr9nAyns2v1TyIiU-y8mQ4gLW0yMsg1FilHPt_2W5618mxWFI",
+      "pictureSource": "24ur.com",
+      "relatedSearch": [
+        {
+          "title": "Janša: Gospodarstvo bistven faktor stabilnosti Slovenije",
+          "snippet": "",
+          "url": "https://www.24ur.com/novice/slovenija/jansa-gospodarstvo-bistven-faktor-stabilnosti-slovenije.html",
+          "source": "24ur.com"
+        },
+        {
+          "title": "Kaj je davčno sidro, s katerim želi Janša zagotoviti stabilnost?",
+          "snippet": "",
+          "url": "https://www.delo.si/novice/slovenija/jansa-davcno-sidro-je-najvecje-zagotovilo-za-stabilnost",
           "source": "Delo.si"
+        },
+        {
+          "title": "Janša: nasprotovanje interventnemu zakonu je nasprotovanje uspešni Sloveniji",
+          "snippet": "",
+          "url": "https://nova24tv.si/jansa-nasprotovanje-interventnemu-zakonu-je-nasprotovanje-uspesni-sloveniji/",
+          "source": "Nova24TV"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -210,48 +219,26 @@
       "title": "24",
       "trafficCount": "1000+",
       "pubDate": "Tue, 1 Sep 2026 21:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-TBS5B5QpTAqrjHl-BSJnpG6Xa7v_xe2uZ-J_EsNmcc34OYqxbM8O9l11GGw",
-      "pictureSource": "24ur.com",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvtg2KLFb3klqHaM3sUAYaTqL25-USg7ALb0SqLHvLst6FHEr28Ptb-_CHU3E",
+      "pictureSource": "Dnevnik",
       "relatedSearch": [
         {
-          "title": "Za posledicami eksplozije v Kalabriji umrla še 44-letnica, občina razglasila žalovanje",
+          "title": "»Švedska je moj dom«: tam je živel 24 let, zdaj so ga brcnili nazaj v Anglijo",
           "snippet": "",
-          "url": "https://www.24ur.com/novice/slovenija/za-posledicami-eksplozije-v-kalabriji-umrla-se-44-letnica-obcina-razglasila-zalovanje.html",
-          "source": "24ur.com"
+          "url": "https://www.dnevnik.si/novice/svet/svedska-je-moj-dom-tam-je-zivel-24-let-zdaj-so-ga-gladko-deportirali-v-anglijo-2825399/",
+          "source": "Dnevnik"
         },
         {
-          "title": "Po eksploziji v Italiji umrla tudi desetletna hčerka para iz Koroške",
+          "title": "Naceta operirali že 24 ur po rojstvu, to ga še čaka ...",
           "snippet": "",
-          "url": "https://n1info.si/novice/slovenija/po-eksploziji-v-italiji-umrla-tudi-desetletna-hcerka-para-s-koroske/",
-          "source": "N1 Slovenija"
+          "url": "https://www.zurnal24.si/zdravje/otrok/hudo-bolni-nace-postal-ambasador-464550",
+          "source": "Žurnal24"
         },
         {
-          "title": "Dopust v Italiji se je končal tragično: Slovenec umrl, žena in hči hudo poškodovani",
+          "title": "Enoletni Nace se je rodil z izjemno redko deformacijo obeh nog, prestal je že tri operacije",
           "snippet": "",
-          "url": "https://obalaplus.si/dopust-v-italiji-se-je-koncal-tragicno-slovenec-umrl-zena-in-hci-hudo-poskodovani/",
-          "source": "OBALAplus"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "radio 1",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 1 Sep 2026 21:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSSO21pb2zvCGvPaGNzsdx6eeNlrb4m5WxE7An8eqTTZvRC3_SeUO9wB61_88",
-      "pictureSource": "The Sun",
-      "relatedSearch": [
-        {
-          "title": "BBC Radio 1 star's final show airs in just days as he's AXED & takes parting swipe saying he lost his 'views' on network",
-          "snippet": "",
-          "url": "https://www.thesun.co.uk/tvandshowbiz/40244994/bbc-radio1-star-axed-takes-parting-swipe-dean-mccullough/",
-          "source": "The Sun"
-        },
-        {
-          "title": "Awkward moment DJ Spoony gets caught out by prank caller with VERY rude name live on Radio 2",
-          "snippet": "",
-          "url": "https://www.thesun.ie/tvandshowbiz/17555270/dj-spoony-prank-caller-rude-name-live-radio/",
-          "source": "The Irish Sun"
+          "url": "https://www.nadlani.si/novice/enoletni-nace-se-je-rodil-z-izjemno-redko-deformacijo-obeh-nog-prestal-je-ze-tri-operacije/",
+          "source": "NaDlani.si"
         }
       ],
       "link": "https://imtaqin.id/"

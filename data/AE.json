@@ -1,32 +1,125 @@
 {
-  "lastUpdate": "2026-09-02 09:58:58",
+  "lastUpdate": "2026-09-02 14:09:45",
   "data": [
     {
-      "title": "on",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 2 Sep 2026 01:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKmS7NqzkPQ7zawOF31qGUsq8RTCUXWSM2IxyLsmkio7JH2ee8MlbmxpYlWmQ",
-      "pictureSource": "BBC",
+      "title": "news",
+      "trafficCount": "2000+",
+      "pubDate": "Wed, 2 Sep 2026 06:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzclrNGlNtqDhu7iIm3RtJ02-_JEBcOThahHCAR2pTa_n1e_uWwaj0QpElCOg",
+      "pictureSource": "Al Jazeera",
       "relatedSearch": [
         {
-          "title": "Iran hits US targets in Middle East after five reportedly killed at wedding celebration",
+          "title": "Iran war live: US bombing inflicts heavy casualties as Gulf states targeted",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Iran attacks US targets in Middle East after four reportedly killed at wedding celebration",
           "snippet": "",
           "url": "https://www.bbc.com/news/live/cm86xq9261xdt",
           "source": "BBC"
         },
         {
-          "title": "Iran, US exchange new attacks: Who was hit in latest strikes?",
+          "title": "Iran Says Attacked US Military Targets In UAE, Kuwait",
           "snippet": "",
-          "url": "https://www.aljazeera.com/news/2026/9/2/iran-us-exchange-new-attacks-who-was-hit-in-latest-strikes",
-          "source": "Al Jazeera"
-        },
-        {
-          "title": "Iran attacks US bases in Middle East after reports of fatal strike on wedding – Middle East crisis live",
-          "snippet": "",
-          "url": "https://www.theguardian.com/world/live/2026/sep/02/iran-us-middle-east-war-strikes-tehran-washington-wedding-trump-kuwait-jordan-latest-news-updates",
-          "source": "The Guardian"
+          "url": "https://www.ndtv.com/world-news/iran-says-attacked-us-military-targets-in-uae-kuwait-11991010",
+          "source": "NDTV"
         }
       ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "നേപ്പാള്",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 2 Sep 2026 05:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Ht6Bwh5Zvkt5ekHmqrcjzVG6TaZ8E0yI0M3RSC54d5zq44tH4xhdjhvpfAI",
+      "pictureSource": "Manorama Online",
+      "relatedSearch": [
+        {
+          "title": "പ്രളയ സഹായമല്ല, നഷ്ടപരിഹാരം വേണം: ഇന്ത്യ, ചൈന, യുഎസ് രാജ്യങ്ങളെ ലക്ഷ്യമിട്ട് നേപ്പാൾ",
+          "snippet": "",
+          "url": "https://www.manoramaonline.com/news/latest-news/2026/09/02/climate-justice-greenhouse-gas-liability-nepal-flood-compensation.html",
+          "source": "Manorama Online"
+        },
+        {
+          "title": "ഭൂകമ്പമല്ല, മേഘവിസ്ഫോടനവുമല്ല! നേപ്പാൾ മിന്നൽ പ്രളയത്തിന് പിന്നിലെ യഥാർത്ഥ കാരണമെന്ത്?",
+          "snippet": "",
+          "url": "https://www.mathrubhumi.com/videos/newsplus/nepal-tibet-rasuwa-flash-flood-scientific-reasons-avf9fv2j",
+          "source": "Mathrubhumi"
+        },
+        {
+          "title": "‘അതൊരു പര്‍വതമായിരുന്നു, നിലവില്‍ വലിയൊരു ഗര്‍ത്തം’; നേപ്പാള്‍ ദുരന്തത്തിന്‍റെ ഭീതി തുറന്നുകാട്ടി ദൃശ്യം",
+          "snippet": "",
+          "url": "https://www.manoramanews.com/gulf-and-global/world/2026/08/29/nepal-avalanche-new-footage-high-risk-glacial-lake-threat.html",
+          "source": "Manorama News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "حادث",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 2 Sep 2026 05:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh_SsvWPkTV1vDDHl92zgUcmp1K_tmKycXJi4pFQIjyHjqQO6g9c_1qTXVWvA",
+      "pictureSource": "الجزيرة نت",
+      "relatedSearch": [
+        {
+          "title": "بينهم أردنيون.. 22 قتيلا و28 مصابا إثر انقلاب حافلة جنوب سيناء بمصر",
+          "snippet": "",
+          "url": "https://www.aljazeera.net/news/2026/9/2/%D9%85%D8%B5%D8%B1-16-%D9%82%D8%AA%D9%8A%D9%84%D8%A7-%D9%8828-%D9%85%D8%B5%D8%A7%D8%A8%D8%A7-%D8%A5%D8%AB%D8%B1-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-%D8%AD%D8%A7%D9%81%D9%84%D8%A9-%D9%81%D9%8A",
+          "source": "الجزيرة نت"
+        },
+        {
+          "title": "حادث نويبع: انقلاب حافلة يودي بحياة 22 شخصاً",
+          "snippet": "",
+          "url": "https://www.bbc.com/arabic/articles/cz6z10y2z6qo",
+          "source": "BBC"
+        },
+        {
+          "title": "مصر.. فاجعة حافلة جنوب سيناء تودي بحياة 22 شخصاً بينهم 10 أردنيين",
+          "snippet": "",
+          "url": "https://www.albayan.ae/news/middle-east/egypt/1549607",
+          "source": "البيان"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "تقاعد",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 2 Sep 2026 05:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZpf38cNNcJb1sus4xoDvu6Oawzaovi2Hx7GF_R3KQvTxzLKs_DmsS56AkWOs",
+      "pictureSource": "الإمارات اليوم",
+      "relatedSearch": [
+        {
+          "title": "\"أبوظبي للتقاعد\": 4,083 مليون درهم منافع تأمينية مصروفة خلال النصف الأول من 2026",
+          "snippet": "",
+          "url": "https://www.emaratalyoum.com/business/local/2026-09-01-1.2078760",
+          "source": "الإمارات اليوم"
+        },
+        {
+          "title": "بخمس مزايا نوعية.. نظام التقاعد في أبوظبي يعزز تمكين المرأة واستقرارها",
+          "snippet": "",
+          "url": "https://www.alkhaleej.ae/2026-08-26/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%A8%D8%AE%D9%85%D8%B3-%D9%85%D8%B2%D8%A7%D9%8A%D8%A7-%D9%86%D9%88%D8%B9%D9%8A%D8%A9-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B9%D8%AF-%D9%81%D9%8A-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D9%8A%D8%B9%D8%B2%D8%B2-%D8%AA%D9%85%D9%83%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D8%A3%D8%A9-%D9%88%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1%D9%87%D8%A7",
+          "source": "صحيفة الخليج"
+        },
+        {
+          "title": "بلاك روك: نظام التقاعد في الإمارات بوابة لتعزيز الاستثمارات",
+          "snippet": "",
+          "url": "https://roayahnews.com/%D8%A8%D9%84%D8%A7%D9%83-%D8%B1%D9%88%D9%83-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B9%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A8%D9%88%D8%A7%D8%A8/",
+          "source": "شبكة رؤية الإخبارية"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "manorama",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 2 Sep 2026 03:30:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -49,10 +142,38 @@
           "source": "الإمارات اليوم"
         },
         {
-          "title": "«أبوظبي للصيد».. قطاع الفروسية يجمع الموروث بالحلول الذكية",
+          "title": "\"الظاهرة\" تستعرض حلولاً رقمية للأعلاف في \"أبوظبي للصيد والفروسية\"",
           "snippet": "",
-          "url": "https://www.alkhaleej.ae/2026-08-31/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D9%84%D9%84%D8%B5%D9%8A%D8%AF-%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D9%8A%D8%AC%D9%85%D8%B9-%D8%A7%D9%84%D9%85%D9%88%D8%B1%D9%88%D8%AB-%D8%A8%D8%A7%D9%84%D8%AD%D9%84%D9%88%D9%84-%D8%A7%D9%84%D8%B0%D9%83%D9%8A%D8%A9",
-          "source": "صحيفة الخليج"
+          "url": "https://24.ae/article/966649/-%D8%A7%D9%84%D8%B8%D8%A7%D9%87%D8%B1%D8%A9-%D8%AA%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%AD%D9%84%D9%88%D9%84%D8%A7%D9%8B-%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%84%D9%84%D8%A3%D8%B9%D9%84%D8%A7%D9%81-%D9%81%D9%8A-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D9%84%D9%84%D8%B5%D9%8A%D8%AF-%D9%88%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-",
+          "source": "موقع 24"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "gulfnews",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 2 Sep 2026 01:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJBASegK_QFdrDB03mZjS8BNI1dpvTK_eb-lRqVXn4NWFDrguM1Gl0ZzfmYpM",
+      "pictureSource": "The New York Times",
+      "relatedSearch": [
+        {
+          "title": "Bus Crash in Egypt Kills at Least 22",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2026/09/02/world/africa/bus-crash-egypt-sinai.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "At Least 16 Dead and 28 Injured After Bus Crashes and Overturns in Popular Tourist Area",
+          "snippet": "",
+          "url": "https://people.com/at-least-16-dead-28-injured-after-bus-crashes-overturns-egypt-12076477",
+          "source": "People.com"
+        },
+        {
+          "title": "At least 21 killed, several wounded during bus accident in Egypt's South Sinai",
+          "snippet": "",
+          "url": "https://www.jpost.com/middle-east/article-907300",
+          "source": "The Jerusalem Post"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,61 +182,33 @@
       "title": "gold rate",
       "trafficCount": "100+",
       "pubDate": "Wed, 2 Sep 2026 01:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrgpWqk2VLygkbgsHQI7XJepGt2BFf-7e0vht6cinHCPAbyYWIdBnMabeZYl8",
-      "pictureSource": "Kerala Kaumudi",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ8-16Ch9OP3CCaEmUTu39RHFxK2rOmMzTVCZx-TLmekLA4nL9pb1aA3Q5N-k",
+      "pictureSource": "Reuters",
       "relatedSearch": [
         {
-          "title": "Good time to buy gold; prices continue to fall, check today's rates",
+          "title": "Gold falls to two-week low as rising Treasury yields, dollar weigh",
           "snippet": "",
-          "url": "https://keralakaumudi.com/en/kerala/general/gold-prices-continue-to-fall-in-kerala-1798582",
-          "source": "Kerala Kaumudi"
+          "url": "https://www.reuters.com/world/india/gold-muted-traders-await-us-jobs-data-monitor-mideast-tensions-2026-09-01/",
+          "source": "Reuters"
         },
         {
-          "title": "Gold Rate Today, September 2: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities",
+          "title": "Gold Extends Decline as Inflation Risks Lift Fed Rate-Hike Bets",
           "snippet": "",
-          "url": "https://indianexpress.com/article/india/gold-rate-today-september-2-check-18-22-and-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10859713/",
-          "source": "The Indian Express"
+          "url": "https://www.bloomberg.com/news/articles/2026-09-01/gold-holds-drop-as-higher-oil-bond-selloff-raise-rate-hike-bets",
+          "source": "Bloomberg.com"
         },
         {
-          "title": "Gold Futures Fall 7th Day; MCX Oct Drops to ₹1,50,170 per 10g",
+          "title": "TD Securities sees gold risk to 4200 near term, 5350 target by 2027",
           "snippet": "",
-          "url": "https://hdfcsky.com/news/gold-futures-slip-for-7th-day-drop-to-rs-1-5-lakh-10g-amid-us-iran-tensions",
-          "source": "HDFC Sky"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "google maps",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 2 Sep 2026 01:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREh_P-3h4Bw1rFFWIHKYTuoOYnEp4FFZ4xY-OwbLXEh_IacBibwiqGx8holjA",
-      "pictureSource": "The Washington Post",
-      "relatedSearch": [
-        {
-          "title": "Lake Ontario is now Lake America. Residents of Trump-voting Ontario have thoughts.",
-          "snippet": "",
-          "url": "https://www.washingtonpost.com/politics/2026/09/01/lake-ontario-is-now-lake-america-residents-trump-voting-ontario-have-thoughts/",
-          "source": "The Washington Post"
-        },
-        {
-          "title": "Joe Rogan slams Trump’s Lake Ontario name change as ‘a distraction’",
-          "snippet": "",
-          "url": "https://www.the-independent.com/news/world/americas/us-politics/joe-rogan-trump-lake-ontario-b3043270.html",
-          "source": "The Independent"
-        },
-        {
-          "title": "Apple Maps renames Lake Ontario as Lake America after Trump order",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/cddvyyz0e47o",
-          "source": "BBC"
+          "url": "https://investinglive.com/commodities/td-securities-sees-gold-risk-to-4200-near-term-5350-target-by-2027/",
+          "source": "investingLive"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "etihad airways flight disruptions uae",
-      "trafficCount": "1000+",
+      "trafficCount": "5000+",
       "pubDate": "Tue, 1 Sep 2026 23:50:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfTP5LAHzXiADilTGklrUVEaa665x2oAzEZjKSg7lm6QoxFLskoxwHfN9jjxc",
       "pictureSource": "The National",
@@ -133,144 +226,38 @@
           "source": "Gulf News"
         },
         {
-          "title": "The latest flight advice for Abu Dhabi airport travellers: Etihad, Air Arabia & more",
+          "title": "Middle East Aviation Disrupted as Airports Record 1,261 Delays and 59 Cancellations",
           "snippet": "",
-          "url": "https://www.timeoutabudhabi.com/news/abu-dhabi-flight-travel-guidance-september-2026",
-          "source": "Time Out Abu Dhabi"
+          "url": "https://www.nomadlawyer.org/middle-east-flight-disruptions-1261-delays-59-cancellations-dubai-riyadh-2026",
+          "source": "Nomad Lawyer"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "mitsubishi pajero",
-      "trafficCount": "200+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 1 Sep 2026 23:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsOHWuODRWbumz47KqBsupzUuRHpy39dhJING86gU8uNmH7h0BTPZKx_JTrJg",
-      "pictureSource": "Drive Arabia",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyUjjLkROLXX8muASxTMIwT6Ec6dW40rwvGOjOL8AUWbZKP6ynQh-HE9ClHzM",
+      "pictureSource": "The National",
       "relatedSearch": [
         {
-          "title": "All-new 2027 Mitsubishi Pajero revealed",
+          "title": "Mitsubishi Pajero returns after five years with a bigger, more luxurious new SUV",
           "snippet": "",
-          "url": "https://www.drivearabia.com/news/2026/09/02/all-new-2027-mitsubishi-pajero-revealed/",
-          "source": "Drive Arabia"
+          "url": "https://www.thenationalnews.com/lifestyle/motoring/2026/09/02/mitsubishi-pajero-returns-after-five-years-with-a-bigger-more-luxurious-new-suv/",
+          "source": "The National"
         },
         {
-          "title": "Mitsubishi Pajero goes premium in pursuit of Toyota Land Cruiser",
+          "title": "2027 Mitsubishi Pajero revealed: Off-road icon reborn as Triton ute-based SUV",
           "snippet": "",
-          "url": "https://www.autonews.com/mitsubishi/an-mitsubishi-pajero-montero-suv-launch-revival-next-generation-crossover-0902/",
-          "source": "Automotive News"
+          "url": "https://www.carexpert.com.au/car-news/2027-mitsubishi-pajero-revealed-off-road-icon-reborn-as-triton-ute-based-suv",
+          "source": "CarExpert"
         },
         {
-          "title": "REVEALED: This is the new Pajero, here's everything you need to know",
+          "title": "2026 Mitsubishi Pajero Unveiled: All About Fortuner's Japanese Rival",
           "snippet": "",
-          "url": "https://www.drive.com.au/news/2027-mitsubishi-pajero-revealed-due-in-australia-by-end-of-2026/",
-          "source": "Drive"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "middle east energy",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 1 Sep 2026 23:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRiNM3WuEq1E2viytUQZjdVdMCGTCxUnJV7BLglBPwyuBMnjk3ufj7FHWXDEY",
-      "pictureSource": "Gulf News",
-      "relatedSearch": [
-        {
-          "title": "Oman Cables to debut OCI-UltraFlex at Middle East Energy 2026 as regional energy and digital infrastructure demand accelerates",
-          "snippet": "",
-          "url": "https://gulfnews.com/gn-focus/company-news/oman-cables-to-debut-oci-ultraflex-at-middle-east-energy-2026-as-regional-energy-and-digital-infrastructure-demand-accelerates-1.500659230",
-          "source": "Gulf News"
-        },
-        {
-          "title": "Ultimate Power Solution Group launches AI-powered smart generators at Middle East Energy 2026",
-          "snippet": "",
-          "url": "https://www.wam.ae/en/article/c210gs1-ultimate-power-solution-group-launches-ai-powered",
-          "source": "وكالة وام"
-        },
-        {
-          "title": "Power demand in MENA region set to double by 2050, forecasts Rystad Energy",
-          "snippet": "",
-          "url": "https://internationalfinance.com/commodity/power-demand-in-mena-region-set-to-double-by-2050-forecasts-rystad-energy/",
-          "source": "https://internationalfinance.com/"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "القوات المسلحة الأردنية",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 1 Sep 2026 22:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMRTF2C0TOhh6hfqkRKuMAOvBSejVY3gdbX7yxIVT7U2lU0xikf8uBnjsedmo",
-      "pictureSource": "سكاي نيوز عربية",
-      "relatedSearch": [
-        {
-          "title": "الجيش الأردني يكشف حصيلة الهجوم الإيراني",
-          "snippet": "",
-          "url": "https://www.skynewsarabia.com/middle-east/1889472-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86%D9%8A-%D9%8A%D9%83%D8%B4%D9%81-%D8%AD%D8%B5%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A",
-          "source": "سكاي نيوز عربية"
-        },
-        {
-          "title": "الجيش الأردني يعلن التعامل مع 13 صاروخاً باليستياً أطلقت من إيران",
-          "snippet": "",
-          "url": "https://www.albayan.ae/news/middle-east/jordan/1549540",
-          "source": "البيان"
-        },
-        {
-          "title": "الجيش الأردني يعلن اعتراض 10 صواريخ أُطلقت من إيران",
-          "snippet": "",
-          "url": "https://arabic.cnn.com/middle-east/article/2026/09/02/jordan-says-it-intercepted-10-missiles-launched-from-iran",
-          "source": "CNN Arabic"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "qat vs oma",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 1 Sep 2026 22:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNKvqK6wugptBoIGDP48_5WHcOmdpB-KevXntWNVX2OcDf_W2ycC7GiDuCpEc",
-      "pictureSource": "NDTV Profit",
-      "relatedSearch": [
-        {
-          "title": "Oman vs Qatar Live Streaming: When And Where To Watch ACC Men's Premier Cup, 2026",
-          "snippet": "",
-          "url": "https://www.ndtvprofit.com/sports/oman-vs-qatar-live-streaming-when-and-where-to-watch-acc-mens-premier-cup-2026-11986474",
-          "source": "NDTV Profit"
-        },
-        {
-          "title": "Hammad Mirza’s Unbeaten 84 Leads Oman to Five-Wicket Win Over Qatar",
-          "snippet": "",
-          "url": "https://www.cricketworld.com/hammad-mirza-s-unbeaten-84-leads-oman-to-five-wicket-win-over-qatar/113028.htm",
-          "source": "Cricket World"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "roblox",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 1 Sep 2026 22:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRm-QKKWqWa-9MukvMe9gL-VUz_z6voVmWnwFnTAKsU32gOuGxIMtV_srLi7WY",
-      "pictureSource": "Gulf News",
-      "relatedSearch": [
-        {
-          "title": "ChatGPT becomes first AI chatbot to face tougher EU rules",
-          "snippet": "",
-          "url": "https://gulfnews.com/technology/chatgpt-becomes-first-ai-chatbot-to-face-tougher-eu-rules-1.500658078",
-          "source": "Gulf News"
-        },
-        {
-          "title": "LLMs, Meet The DSA; The Social Media Controversy Continues",
-          "snippet": "",
-          "url": "https://www.adexchanger.com/daily-news-roundup/tuesday-01092026/",
-          "source": "AdExchanger"
-        },
-        {
-          "title": "ChatGPT, Roblox, Reddit to face extra scrutiny under EU's Digital Services Act",
-          "snippet": "",
-          "url": "https://www.telecompaper.com/news/chatgpt-roblox-reddit-to-face-extra-scrutiny-under-eus-digital-services-act--1581229",
-          "source": "Telecompaper"
+          "url": "https://www.ndtv.com/auto/2026-mitsubishi-pajero-unveiled-all-about-fortuners-japanese-rival-11991235",
+          "source": "NDTV"
         }
       ],
       "link": "https://imtaqin.id/"

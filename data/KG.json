@@ -1,30 +1,114 @@
 {
-  "lastUpdate": "2026-09-03 13:49:02",
+  "lastUpdate": "2026-09-03 17:17:46",
   "data": [
     {
-      "title": "узбекистан",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 3 Sep 2026 05:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSefaNiFLZsY5HxnNbrAfoh7H_F4g0TYsUXSSzte104Wn7hujE0dG6s1YAuFPY",
-      "pictureSource": "Газета.uz",
+      "title": "украина",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 3 Sep 2026 09:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaSONoiS2KUeRulZchMINMcbPnB1Jwcbz-m8Y99znSmpi_PbZNVw5VdhGiyXs",
+      "pictureSource": "24.KG",
       "relatedSearch": [
         {
-          "title": "Уникальные экспонаты из семи музеев Узбекистана представлены на выставке в Дохе",
+          "title": "Украина официально предупредила ИКАО о «небезопасности российского неба»",
           "snippet": "",
-          "url": "https://www.gazeta.uz/ru/2026/09/03/heritage-in-motion/",
-          "source": "Газета.uz"
+          "url": "https://24.kg/obschestvo/387709_ukraina_ofitsialno_predupredila_ikao_onebezopasnosti_rossiyskogo_neba/",
+          "source": "24.KG"
+        },
+        {
+          "title": "Угрозы Зеленского российским авиакомпаниям - это заявка на гостерроризм, - Путин",
+          "snippet": "",
+          "url": "https://centralasia.media/news:2526745",
+          "source": "Новости Центральной Азии"
+        },
+        {
+          "title": "Небо РФ закрывается?",
+          "snippet": "",
+          "url": "https://www.dw.com/ru/rossia-obojdetsa-bez-gete-nebo-rf-zakryvaetsa-udary-po-kievu-i-moskve-krizis-vw-dw-novosti/video-78895220",
+          "source": "DW.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "chatgpt",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 3 Sep 2026 08:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqJRSNMKc5_vghUGKziuT6F3P_AS1b0-d6VlVRR73rvdMrUEsoTXpvTce0RIM",
+      "pictureSource": "Axios",
+      "relatedSearch": [
+        {
+          "title": "Widespread AI outage underway",
+          "snippet": "",
+          "url": "https://www.axios.com/2026/09/03/chatgpt-claude-grok-outages",
+          "source": "Axios"
+        },
+        {
+          "title": "OpenAI, Anthropic, SpaceXAI Hit by Service Outages for AI Models",
+          "snippet": "",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-03/openai-anthropic-spacexai-hit-by-service-outages-for-ai-models",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "AI outage hits Claude, OpenAI, Grok as users report disruption",
+          "snippet": "",
+          "url": "https://www.newsnationnow.com/business/tech/ai/ai-outage-disruption/",
+          "source": "NewsNation"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "климат",
+      "trafficCount": "2000+",
+      "pubDate": "Thu, 3 Sep 2026 06:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaSONoiS2KUeRulZchMINMcbPnB1Jwcbz-m8Y99znSmpi_PbZNVw5VdhGiyXs",
+      "pictureSource": "24.KG",
+      "relatedSearch": [
+        {
+          "title": "Климат ударит по здоровью. Кыргызстанцам прогнозируют всплеск болезней",
+          "snippet": "",
+          "url": "https://24.kg/obschestvo/387800_klimat_udarit_pozdorovyu_kyirgyizstantsam_prognoziruyut_vsplesk_bolezney/",
+          "source": "24.KG"
+        },
+        {
+          "title": "Ледники тают, воды не хватает. Кыргызстан подготовил план адаптации к изменению климата",
+          "snippet": "",
+          "url": "https://kaktus.media/doc/552588_ledniki_taut_vody_ne_hvataet._kyrgyzstan_podgotovil_plan_adaptacii_k_izmeneniu_klimata.html",
+          "source": "Кактус Медиа"
+        },
+        {
+          "title": "Кыргызстану потребуется 74.5 млрд сомов на адаптацию к изменению климата до 2035 года",
+          "snippet": "",
+          "url": "https://economist.kg/novosti/2026/09/03/kyrgyzstan-klimat-74-5-mlrd/",
+          "source": "Economist.kg"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "узбекистан",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 3 Sep 2026 05:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRsGhS1irdiUOCuyMx_2xqDLECHjcTbShW8ck7TzmriNfy3aWjTvRWi6A5-wSU",
+      "pictureSource": "IslamNews",
+      "relatedSearch": [
+        {
+          "title": "Выставка «Узбекистан: наследие в движении» начала работу в Катаре",
+          "snippet": "",
+          "url": "https://islamnews.ru/2026/9/3/vystavka-uzbekistan-nasledie-v-dvizhenii-nachala-rabotu-v-katare",
+          "source": "IslamNews"
+        },
+        {
+          "title": "Узбекистан и Катар обсудили совместные инициативы во всех сферах сотрудничества",
+          "snippet": "",
+          "url": "https://www.pravda.ru/news/uzbekiston/2401072-uzbekistan-qatar-cooperation/",
+          "source": "Правда.Ру"
         },
         {
           "title": "Саида Мирзиёева встретилась с эмиром Катара",
           "snippet": "",
-          "url": "https://repost.uz/ukreplyayutsa-doveritelnie-otnosheniya",
-          "source": "Repost.uz"
-        },
-        {
-          "title": "Саида Мирзиёева приняла участие в открытии выставки «Узбекистан: наследие в движении» в Катаре",
-          "snippet": "",
-          "url": "https://zamon.uz/ru/2026/09/03/saida-mirziyoeva-prinyala-uchastie-v-otkrytii-vystavki-uzbekistan-nasledie-v-dvizhenii-v-katare",
-          "source": "Zamon"
+          "url": "https://www.uzdaily.uz/ru/saida-mirziioeva-vstretilas-s-emirom-katara/",
+          "source": "UzDaily.uz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,26 +117,26 @@
       "title": "садыр жапаров",
       "trafficCount": "2000+",
       "pubDate": "Thu, 3 Sep 2026 03:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaSONoiS2KUeRulZchMINMcbPnB1Jwcbz-m8Y99znSmpi_PbZNVw5VdhGiyXs",
-      "pictureSource": "24.KG",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS57WfxADcQdvLRyey4mYenXjWIyFwxBSJiW5PbzPJtVGqUgoQKSD9h0wpfOws",
+      "pictureSource": "Akipress",
       "relatedSearch": [
-        {
-          "title": "Садыр и Айгуль Жапаровы заехали в кафе в Бооме по дороге на Иссык-Куль",
-          "snippet": "",
-          "url": "https://24.kg/vlast/387815_sadyir_iaygul_japarovyi_zaehali_vkafe_vboome_podoroge_naissyik-kul_/",
-          "source": "24.KG"
-        },
-        {
-          "title": "Садыр Жапаров с супругой заехал в кафе \"Апамдын каттамасы\" по дороге на Иссык-Куль",
-          "snippet": "",
-          "url": "https://kaktus.media/doc/552637_sadyr_japarov_s_syprygoy_zaehal_v_kafe_apamdyn_kattamasy_po_doroge_na_issyk_kyl.html",
-          "source": "Кактус Медиа"
-        },
         {
           "title": "Садыр Жапаров лично отвез Шахбаза Шарифа в аэропорт – Новости из Кыргызстана",
           "snippet": "",
           "url": "https://kg.akipress.org/news:2527490",
           "source": "Akipress"
+        },
+        {
+          "title": "Медицинское образование, климат и торговля. Кыргызстан и Пакистан подписали ряд документов",
+          "snippet": "",
+          "url": "https://kaktus.media/doc/552535_medicinskoe_obrazovanie_klimat_i_torgovlia._kyrgyzstan_i_pakistan_podpisali_riad_dokymentov.html",
+          "source": "Кактус Медиа"
+        },
+        {
+          "title": "Премьер-министр Пакистана Шахбаз Шариф прибыл в Кыргызстан",
+          "snippet": "",
+          "url": "https://24.kg/vlast/387299_premer-ministr_pakistana_shahbaz_sharif_pribyil_vkyirgyizstan/",
+          "source": "24.KG"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,9 +145,28 @@
       "title": "новорождённый",
       "trafficCount": "100+",
       "pubDate": "Thu, 3 Sep 2026 01:20:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2IYNgctNIP18KIW6OjRuwn82_8u-IG4FYKp2mEw1DBnNfMv2PoOiPppYeyIw",
+      "pictureSource": "Aysor.am",
+      "relatedSearch": [
+        {
+          "title": "Теперь новорождённого можно зарегистрировать в поликлинике онлайн",
+          "snippet": "",
+          "url": "https://www.aysor.am/ru/news/2026/09/02/%D0%BF%D0%BE%D0%BB%D0%B8%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0/2430243",
+          "source": "Aysor.am"
+        },
+        {
+          "title": "Одессит Роман стал первым новорождённым в День города » Новости Одессы | ГРАД",
+          "snippet": "",
+          "url": "https://grad.ua/ru/news/105291-odessyt-roman-stal-pervym-novorozhdennym-v-den-goroda.html",
+          "source": "Телерадіокомпанія «ГРАД"
+        },
+        {
+          "title": "Данила Поперечный об отцовстве: первые месяцы с дочерью, усталость и эмоциональные качели",
+          "snippet": "",
+          "url": "https://tv.mail.ru/news/136990-danila-poperechnyj-rasskazal-o-pervyh-nedelyah-otcovstva/",
+          "source": "ТВ Mail"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -80,16 +183,44 @@
           "source": "https://www.championat.ru/"
         },
         {
+          "title": "Энцо Фернандес: \"Мареска — тренер топ-уровня\"",
+          "snippet": "",
+          "url": "https://fapl.ru/posts/124234/",
+          "source": "FAPL.ru"
+        },
+        {
           "title": "Энцо Фернандес взял в Манчестер Сити номер Кевина де Брюйне",
           "snippet": "",
           "url": "https://terrikon.com/posts/582611",
           "source": "Террикон"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "сумо",
+      "trafficCount": "2000+",
+      "pubDate": "Wed, 2 Sep 2026 20:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaSONoiS2KUeRulZchMINMcbPnB1Jwcbz-m8Y99znSmpi_PbZNVw5VdhGiyXs",
+      "pictureSource": "24.KG",
+      "relatedSearch": [
+        {
+          "title": "Торага Жогорку Кенеша и депутаты присоединились к танцам на Кырчыне",
+          "snippet": "",
+          "url": "https://24.kg/obschestvo/387780_toraga_jogorku_kenesha_ideputatyi_prisoedinilis_ktantsam_nakyirchyine/",
+          "source": "24.KG"
         },
         {
-          "title": "Трансфер аргентинца в «Манчестер Сити» — в топ-5 самых дорогих в истории",
+          "title": "Церемонию открытия ВИК готовила международная команда. Имена и что о них известно",
           "snippet": "",
-          "url": "https://sportsnews.kz/ru/transfery/transfer-argentintsa-v-manchester-siti-v-top-5-samykh-dorogikh-v-istorii",
-          "source": "https://sportsnews.kz/"
+          "url": "https://kaktus.media/doc/552420_ceremoniu_otkrytiia_vik_gotovila_mejdynarodnaia_komanda._imena_i_chto_o_nih_izvestno.html",
+          "source": "Кактус Медиа"
+        },
+        {
+          "title": "Кыргызстан завоевал первое золото на VI Всемирных играх кочевников",
+          "snippet": "",
+          "url": "https://www.vb.kg/doc/461293_kyrgyzstan_zavoeval_pervoe_zoloto_na_vi_vsemirnyh_igrah_kochevnikov.html",
+          "source": "Вечерний Бишкек"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -111,9 +242,15 @@
       "pictureSource": "24.KG",
       "relatedSearch": [
         {
-          "title": "Прогноз погоды в Кыргызстане на 3 сентября: ожидаются дожди, местами с грозами",
+          "title": "Сегодня в Бишкеке. Погода, мероприятия, даты",
           "snippet": "",
-          "url": "https://24.kg/obschestvo/387655_prognoz_pogodyi_vkyirgyizstane_na3sentyabrya_ojidayutsya_dojdi_mestami_sgrozami/",
+          "url": "https://24.kg/obschestvo/387659_segodnya_vbishkeke_pogoda_meropriyatiya_datyi/",
+          "source": "24.KG"
+        },
+        {
+          "title": "Прогноз погоды в Кыргызстане на 4 сентября: грозы",
+          "snippet": "",
+          "url": "https://24.kg/obschestvo/387656_prognoz_pogodyi_vkyirgyizstane_na4sentyabrya_grozyi/",
           "source": "24.KG"
         },
         {
@@ -121,105 +258,6 @@
           "snippet": "",
           "url": "https://eco.akipress.org/news:2527473",
           "source": "Akipress"
-        },
-        {
-          "title": "Синоптики обещают возвращение жары. Прогноз погоды в Бишкеке и по Кыргызстану на неделю",
-          "snippet": "",
-          "url": "https://kaktus.media/doc/552617_sinoptiki_obeshaut_vozvrashenie_jary._prognoz_pogody_v_bishkeke_i_po_kyrgyzstany_na_nedelu.html",
-          "source": "Кактус Медиа"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "погода на сегодня",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 2 Sep 2026 18:10:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "погода",
-      "trafficCount": "20000+",
-      "pubDate": "Wed, 2 Sep 2026 17:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaSONoiS2KUeRulZchMINMcbPnB1Jwcbz-m8Y99znSmpi_PbZNVw5VdhGiyXs",
-      "pictureSource": "24.KG",
-      "relatedSearch": [
-        {
-          "title": "Сегодня в Бишкеке. Погода, мероприятия, даты",
-          "snippet": "",
-          "url": "https://24.kg/obschestvo/387659_segodnya_vbishkeke_pogoda_meropriyatiya_datyi/",
-          "source": "24.KG"
-        },
-        {
-          "title": "Прогноз погоды на завтра",
-          "snippet": "",
-          "url": "https://azertag.az/ru/xeber/prognoz_pogody_na_zavtra-4394257",
-          "source": "Azərtac"
-        },
-        {
-          "title": "Погода на пятницу: В Баку ожидается до 30 градусов тепла",
-          "snippet": "",
-          "url": "https://1news.az/news/20260903141933414-Pogoda-na-pyatnitsu-V-Baku-ozhidaetsya-do-30-gradusov-tepla",
-          "source": "1News.az"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "отходы",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 2 Sep 2026 15:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUpqSt9skcCRV3QflHXDX2V2mTVfHfKcb1D2XmPH6XliRAIWERbry7uqgut3w",
-      "pictureSource": "СБ. Беларусь сегодня",
-      "relatedSearch": [
-        {
-          "title": "Простая привычка — большая польза. Зачем сортировать отходы и как это делать правильно",
-          "snippet": "",
-          "url": "https://www.sb.by/articles/prostaya-privychka-bolshaya-polza-zachem-sortirovat-otkhody-i-kak-eto-delat-pravilno.html",
-          "source": "СБ. Беларусь сегодня"
-        },
-        {
-          "title": "Сортировка мусора – важная часть экологической культуры",
-          "snippet": "",
-          "url": "https://www.osh.by/?p=138987",
-          "source": "Ошмянский вестник"
-        },
-        {
-          "title": "Тест: умеешь ли ты сортировать мусор?",
-          "snippet": "",
-          "url": "https://peopletalk.ru/article/test-umeesh-li-ty-sortirovat-musor/",
-          "source": "Peopletalk"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "оснабрюк – бавария",
-      "trafficCount": "2000+",
-      "pubDate": "Wed, 2 Sep 2026 10:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT3j3Bcur_bOGkQUW2YuVaGrMbI97IzwhT7HhBu6sXfkTxXYS5IKmkkISfjfM",
-      "pictureSource": "Футбол 24",
-      "relatedSearch": [
-        {
-          "title": "Бавария одержала волевую победу в Кубке Германии – тренер соперника готовился к сенсации",
-          "snippet": "",
-          "url": "https://football24.ua/ru/news/bavarija-oderzhala-volevuju-pobedu-v-kubke-germanii-trener-sopernika-gotovilsja-k-sensacii-962530",
-          "source": "Футбол 24"
-        },
-        {
-          "title": "Фанаты «Оснабрюка» запустили американские горки во время кубкового матча с «Баварией»",
-          "snippet": "",
-          "url": "https://kick-or-die.ru/2026/09/fanaty-osnabryuka-zapustili-amerikanskie-gorki-vo-vremya-kubkovogo-matcha-s-bavariej/",
-          "source": "Кик"
-        },
-        {
-          "title": "Реакция Гарри Кейна после его первого гола в сезоне.",
-          "snippet": "",
-          "url": "https://www.vietnam.vn/ru/phan-ung-cua-harry-kane-sau-ban-dau-tien-trong-mua",
-          "source": "Vietnam.vn"
         }
       ],
       "link": "https://imtaqin.id/"

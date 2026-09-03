@@ -1,30 +1,39 @@
 {
-  "lastUpdate": "2026-09-03 19:54:53",
+  "lastUpdate": "2026-09-03 22:02:06",
   "data": [
+    {
+      "title": "tõnis sildaru",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 3 Sep 2026 12:40:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "hiina",
       "trafficCount": "200+",
       "pubDate": "Thu, 3 Sep 2026 12:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwfPz1tKMH0oTED_1hJ7Zp4qgkPi_2bO1u22b8FWXtB0dlgSZD7naHjovXnlM",
-      "pictureSource": "Al Jazeera",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSS64yRZGJwh4GBFm8o2yjLkk3gFAPxXMPDj7gjZwoD0RapuG3Ih8eZIrlDlCA",
+      "pictureSource": "The New York Times",
       "relatedSearch": [
         {
-          "title": "China’s support for Iran shows its limits as US ramps up pressure on Tehran",
+          "title": "In Egypt, Xi Challenges America’s Influence in the Middle East",
           "snippet": "",
-          "url": "https://www.aljazeera.com/economy/2026/9/3/chinas-support-for-iran-shows-its-limits-as-us-ramps-up-pressure-on-tehran",
-          "source": "Al Jazeera"
+          "url": "https://www.nytimes.com/2026/09/02/world/asia/china-egypt-xi-jinping-el-sisi.html",
+          "source": "The New York Times"
         },
         {
-          "title": "China Isn’t Scared of Trump’s Squeeze on Iran",
+          "title": "Chinese FM: Xi's proposal offers Chinese solution for Mideast peace",
           "snippet": "",
-          "url": "https://foreignpolicy.com/2026/09/03/china-iran-economy-sanctions-trade-trump-bessent/",
-          "source": "Foreign Policy"
+          "url": "https://news.cgtn.com/news/2026-09-03/Chinese-FM-Xi-s-proposal-offers-Chinese-solution-for-Mideast-peace-1Q8SlibQQP6/p.html",
+          "source": "CGTN"
         },
         {
-          "title": "Iran bets on China to blunt Trump’s economic offensive",
+          "title": "China deepens its footprint in Egypt as Xi visits Cairo after a decade",
           "snippet": "",
-          "url": "https://www.iranintl.com/en/202608285901",
-          "source": "Iran International"
+          "url": "https://www.euronews.com/business/2026/09/02/from-infrastructure-to-military-drills-china-deepens-footprint-in-egypt-as-xi-visits-cairo",
+          "source": "Euronews.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -36,6 +45,62 @@
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "gpt",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 3 Sep 2026 08:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQppYxNi3gXPo7t-Gxr8YRmuObj7hSEPdSyCfNy7MRq-26BP3Woh0HKCJxsDg",
+      "pictureSource": "ARC Prize",
+      "relatedSearch": [
+        {
+          "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+          "snippet": "",
+          "url": "https://arcprize.org/blog/astra",
+          "source": "ARC Prize"
+        },
+        {
+          "title": "OpenAI hails ‘new era of artificial general intelligence’ with Astra model release",
+          "snippet": "",
+          "url": "https://www.theguardian.com/technology/2026/sep/03/openai-artificial-general-intelligence-astra-release",
+          "source": "The Guardian"
+        },
+        {
+          "title": "OpenAI says it has overtaken Anthropic with its latest AI model",
+          "snippet": "",
+          "url": "https://www.ft.com/content/55ab40c0-59e2-4c0b-97c9-4f4f5a71a8bb?syn-25a6b1a6=1",
+          "source": "Financial Times"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ai",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 3 Sep 2026 08:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvIlcwP1octjXuDaHzG4cJKLpwfaa1khU-IXQuePnWhfSZ-Ugol9I1qHMJzVM",
+      "pictureSource": "CNBC",
+      "relatedSearch": [
+        {
+          "title": "Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Nvidia bets on open source models, acquiring AI startup HuggingFace",
+          "snippet": "",
+          "url": "https://www.usatoday.com/story/tech/2026/09/03/nvidia-buys-huggingface-13-billion/91591916007/",
+          "source": "USA Today"
+        },
+        {
+          "title": "Nvidia confirms $13 billion acquisition of open-weight AI platform Hugging Face",
+          "snippet": "",
+          "url": "https://finance.yahoo.com/markets/article/nvidia-confirms-13-billion-acquisition-of-open-weight-ai-platform-hugging-face-141058641.html",
+          "source": "Yahoo Finance"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -58,38 +123,10 @@
           "source": "Ars Technica"
         },
         {
-          "title": "ChatGPT down: OpenAI chatbot not working in major outage",
+          "title": "OpenAI, Anthropic, SpaceXAI Hit by Service Outages for AI Models",
           "snippet": "",
-          "url": "https://uk.finance.yahoo.com/news/chatgpt-down-openai-chatbot-not-151605806.html",
-          "source": "Yahoo Finance UK"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "chat gpt",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 3 Sep 2026 08:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_XE9fhqDn8kBzJdrRwi2Zg2VzZyXE7dHq5uvZGF2mgqJrs6Dm-vCW0VlXeUc",
-      "pictureSource": "Axios",
-      "relatedSearch": [
-        {
-          "title": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts",
-          "snippet": "",
-          "url": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman",
-          "source": "Axios"
-        },
-        {
-          "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
-          "snippet": "",
-          "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
-          "source": "WIRED"
-        },
-        {
-          "title": "Path to Astra: critical capabilities and frontier safeguards",
-          "snippet": "",
-          "url": "https://openai.com/index/path-to-astra/",
-          "source": "OpenAI"
+          "url": "https://finance.yahoo.com/technology/ai/articles/openai-anthropic-spacexai-hit-outages-153529608.html",
+          "source": "Yahoo Finance"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -108,16 +145,16 @@
           "source": "ERR"
         },
         {
+          "title": "Кылварт подверг избранного президента Юлле Мадизе резкой критике и назвал выборы инсценировкой",
+          "snippet": "",
+          "url": "https://rus.postimees.ee/8539220/kylvart-podverg-izbrannogo-prezidenta-yulle-madize-rezkoy-kritike-i-nazval-vybory-inscenirovkoy",
+          "source": "Rus.Postimees.ee"
+        },
+        {
           "title": "Президентом Эстонии избрана Юлле Мадизе",
           "snippet": "",
           "url": "https://www.interfax.ru/world/1112730",
           "source": "Интерфакс"
-        },
-        {
-          "title": "Супруг Юлле Мадизе продолжит работать судьей в Суде Европейского союза",
-          "snippet": "",
-          "url": "https://rus.postimees.ee/8539443/suprug-yulle-madize-prodolzhit-rabotat-sudey-v-sude-evropeyskogo-soyuza",
-          "source": "Rus.Postimees.ee"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -151,6 +188,15 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "dagbladet",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 3 Sep 2026 06:00:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "пациент",
       "trafficCount": "200+",
       "pubDate": "Thu, 3 Sep 2026 05:40:00 -0700",
@@ -170,94 +216,10 @@
           "source": "ERR"
         },
         {
-          "title": "В Эстонии задержали подозреваемого в скачивании данных пациентов",
+          "title": "Полиция расследует крупную утечку данных пациентов",
           "snippet": "",
-          "url": "https://rus.delfi.ee/statja/120608097/centralnaya-kriminalnaya-policiya-zaderzhala-muzhchinu-po-podozreniyu-v-nezakonnom-skachivanii-dannyh-pacientov",
-          "source": "Delfi RUS"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "maps",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 3 Sep 2026 05:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFUPsldZgat3opY5bYO3jK7kaR38ITknilg0IfHnVlHzlt6u3ak8NkTaZbhXc",
-      "pictureSource": "The New York Times",
-      "relatedSearch": [
-        {
-          "title": "Lake Ontario Is One of Many Bodies of Water Caught in a Naming Fight",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2026/09/03/world/americas/lake-ontario-bodies-of-water-naming-disputes-south-china-sea.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Donald Trump’s shallow renaming of the Great Lakes | Letters",
-          "snippet": "",
-          "url": "https://www.theguardian.com/us-news/2026/sep/03/donald-trumps-shallow-renaming-of-the-great-lakes",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Trump’s Lake America order hits a nerve in red-leaning towns along its shore",
-          "snippet": "",
-          "url": "https://www.politico.com/news/2026/09/02/trump-lake-america-lake-ontario-mayors-backlash-01061440",
-          "source": "Politico"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "el niño",
-      "trafficCount": "1000+",
-      "pubDate": "Thu, 3 Sep 2026 03:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8EShd7SD3udEzqtYIYjTkrOvI8Wr0LAESiLO0dUUFEUNq5krYJqkBjwALgt0",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c17jqp0xzpzo",
-          "source": "BBC"
-        },
-        {
-          "title": "El Niño update warns of 'supersized' climate disruptor",
-          "snippet": "",
-          "url": "https://www.usatoday.com/story/news/weather/2026/09/03/el-nino-update-un-sounds-alarm/91594337007/",
-          "source": "USA Today"
-        },
-        {
-          "title": "‘Supersizing before our eyes’: UN warns of record El Niño approaching",
-          "snippet": "",
-          "url": "https://www.theguardian.com/environment/2026/sep/03/el-nino-supersizing-before-our-eyes-united-nations",
-          "source": "The Guardian"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "украина",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 3 Sep 2026 03:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzm09Vaj1qb6HBJ6VYfnpwPoTzfHjB18kIjaajVuX8yPL0eLhrH2mUXz-bjls",
-      "pictureSource": "Українська правда",
-      "relatedSearch": [
-        {
-          "title": "Трамп заявил, что будет требовать от Европы деньги за помощь Украине, которую США оказали при Байдене",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2026/09/03/8051809/",
-          "source": "Українська правда"
-        },
-        {
-          "title": "Трамп потребовал от Европы вернуть миллиарды, переданные Украине Байденом",
-          "snippet": "",
-          "url": "https://www.vedomosti.ru/politics/news/2026/09/03/1226193-tramp-potreboval-vernut",
-          "source": "Ведомости"
-        },
-        {
-          "title": "Трамп намерен потребовать от Европы оплатить помощьСША Украине, оказанную при Байдене",
-          "snippet": "",
-          "url": "https://www.eurointegration.com.ua/rus/news/2026/09/3/7244765/",
-          "source": "Європейська правда"
+          "url": "https://www.dv.ee/novosti/2026/09/03/policija-rassleduet-krupnuju-utechku-dannyh-pacientov",
+          "source": "Деловые ведомости"
         }
       ],
       "link": "https://imtaqin.id/"

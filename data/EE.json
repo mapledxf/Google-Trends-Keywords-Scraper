@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-03 22:02:06",
+  "lastUpdate": "2026-09-03 23:59:03",
   "data": [
     {
       "title": "tõnis sildaru",
@@ -14,26 +14,26 @@
       "title": "hiina",
       "trafficCount": "200+",
       "pubDate": "Thu, 3 Sep 2026 12:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSS64yRZGJwh4GBFm8o2yjLkk3gFAPxXMPDj7gjZwoD0RapuG3Ih8eZIrlDlCA",
-      "pictureSource": "The New York Times",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuy5H-9Ns8URePA5jKBPbkOpLdcL8dv7Teectvxm28UikvL7lNwLF1K_SnqNw",
+      "pictureSource": "NPR",
       "relatedSearch": [
         {
-          "title": "In Egypt, Xi Challenges America’s Influence in the Middle East",
+          "title": "Xi visits Egypt as China seeks deeper influence across the Mideast",
           "snippet": "",
-          "url": "https://www.nytimes.com/2026/09/02/world/asia/china-egypt-xi-jinping-el-sisi.html",
-          "source": "The New York Times"
+          "url": "https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt",
+          "source": "NPR"
         },
         {
-          "title": "Chinese FM: Xi's proposal offers Chinese solution for Mideast peace",
+          "title": "Xi Jinping visits Egypt in rare foreign travel flurry ahead of Donald Trump summit",
           "snippet": "",
-          "url": "https://news.cgtn.com/news/2026-09-03/Chinese-FM-Xi-s-proposal-offers-Chinese-solution-for-Mideast-peace-1Q8SlibQQP6/p.html",
-          "source": "CGTN"
+          "url": "https://www.ft.com/content/69671716-02bb-496c-88ad-10befe4a9d63?syn-25a6b1a6=1",
+          "source": "Financial Times"
         },
         {
-          "title": "China deepens its footprint in Egypt as Xi visits Cairo after a decade",
+          "title": "Egypt’s Sisi welcomes China’s President Xi in Grand Egyptian Museum tour",
           "snippet": "",
-          "url": "https://www.euronews.com/business/2026/09/02/from-infrastructure-to-military-drills-china-deepens-footprint-in-egypt-as-xi-visits-cairo",
-          "source": "Euronews.com"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/egypts-sisi-welcomes-chinas-president-xi-in-grand-egyptian-museum-tour",
+          "source": "Al Jazeera"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -48,9 +48,37 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "gpt",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 3 Sep 2026 08:20:00 -0700",
+      "title": "ai",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 3 Sep 2026 08:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvIlcwP1octjXuDaHzG4cJKLpwfaa1khU-IXQuePnWhfSZ-Ugol9I1qHMJzVM",
+      "pictureSource": "CNBC",
+      "relatedSearch": [
+        {
+          "title": "Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Nvidia confirms $13 billion acquisition of open-weight AI platform Hugging Face",
+          "snippet": "",
+          "url": "https://finance.yahoo.com/markets/article/nvidia-confirms-13-billion-acquisition-of-open-weight-ai-platform-hugging-face-141058641.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Nvidia Extends A.I. Spending Spree With $12.9 Billion Deal for Hugging Face",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html",
+          "source": "The New York Times"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "chatgpt",
+      "trafficCount": "2000+",
+      "pubDate": "Thu, 3 Sep 2026 08:00:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQppYxNi3gXPo7t-Gxr8YRmuObj7hSEPdSyCfNy7MRq-26BP3Woh0HKCJxsDg",
       "pictureSource": "ARC Prize",
       "relatedSearch": [
@@ -76,57 +104,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "ai",
+      "title": "gemini",
       "trafficCount": "200+",
-      "pubDate": "Thu, 3 Sep 2026 08:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvIlcwP1octjXuDaHzG4cJKLpwfaa1khU-IXQuePnWhfSZ-Ugol9I1qHMJzVM",
-      "pictureSource": "CNBC",
-      "relatedSearch": [
-        {
-          "title": "Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Nvidia bets on open source models, acquiring AI startup HuggingFace",
-          "snippet": "",
-          "url": "https://www.usatoday.com/story/tech/2026/09/03/nvidia-buys-huggingface-13-billion/91591916007/",
-          "source": "USA Today"
-        },
-        {
-          "title": "Nvidia confirms $13 billion acquisition of open-weight AI platform Hugging Face",
-          "snippet": "",
-          "url": "https://finance.yahoo.com/markets/article/nvidia-confirms-13-billion-acquisition-of-open-weight-ai-platform-hugging-face-141058641.html",
-          "source": "Yahoo Finance"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "chatgpt",
-      "trafficCount": "2000+",
       "pubDate": "Thu, 3 Sep 2026 08:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqJRSNMKc5_vghUGKziuT6F3P_AS1b0-d6VlVRR73rvdMrUEsoTXpvTce0RIM",
-      "pictureSource": "Axios",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYqgwCYWFALn4zXEiGUl58t1gTCQke6rpkhUPWsujOYUATCJNF5bXM6iQVoOk",
+      "pictureSource": "San Francisco Chronicle",
       "relatedSearch": [
         {
-          "title": "Widespread AI outage underway",
+          "title": "Climbers rescued from Mount Shasta after relying on AI chatbot to plan trip",
           "snippet": "",
-          "url": "https://www.axios.com/2026/09/03/chatgpt-claude-grok-outages",
-          "source": "Axios"
+          "url": "https://www.sfchronicle.com/outdoors/article/shasta-climbers-rescued-chatgpt-22414629.php",
+          "source": "San Francisco Chronicle"
         },
         {
-          "title": "Four major AI models suffer rare overlapping downtime",
+          "title": "3 Men Relied on AI to Plan Their Climbing Trip. They Later Became Stranded and Needed Rescuing",
           "snippet": "",
-          "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
-          "source": "Ars Technica"
+          "url": "https://people.com/3-men-relied-on-ai-to-plan-their-climbing-trip-they-later-found-themselves-stranded-and-needed-rescuing-12107474",
+          "source": "People.com"
         },
         {
-          "title": "OpenAI, Anthropic, SpaceXAI Hit by Service Outages for AI Models",
+          "title": "3 hikers who say they used AI to plan trip rescued after becoming stranded on Mount Shasta",
           "snippet": "",
-          "url": "https://finance.yahoo.com/technology/ai/articles/openai-anthropic-spacexai-hit-outages-153529608.html",
-          "source": "Yahoo Finance"
+          "url": "https://abcnews.com/US/3-hikers-ai-plan-trip-rescued-after-becoming/story?id=136176177",
+          "source": "ABC News - Breaking News, Latest News and Videos"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -163,26 +163,26 @@
       "title": "президент",
       "trafficCount": "200+",
       "pubDate": "Thu, 3 Sep 2026 06:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2VHU89lxupJY9a1KWCdbK1rLmOA1MtrhLC6QOhrhKf2Bs2_8zGIDNMUHG-3E",
-      "pictureSource": "Президент России",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT43CtnJKPAAY-jWzaCS5vWGEKYbU62yHc4J8xZwP-5SCRRwZRUXrei32Q_uIU",
+      "pictureSource": "Meduza",
       "relatedSearch": [
         {
-          "title": "Совещание по вопросам развития Дальнего Востока",
+          "title": "Зеленский рассказал, что представители Трампа приедут в Киев и Москву",
           "snippet": "",
-          "url": "http://kremlin.ru/events/president/news/80673",
-          "source": "Президент России"
+          "url": "https://meduza.io/news/2026/09/03/zelenskiy-rasskazal-chto-predstaviteli-trampa-priedut-v-kiev-i-moskvu",
+          "source": "Meduza"
         },
         {
-          "title": "Путин выступил на пленарной сессии ВЭФ. Он рассказал о планах по тестированию дронов на Дальнем Востоке и отверг сообщения о мобилизации",
+          "title": "Зеленский: представители Трампа планируют приехать в Киев и Москву",
           "snippet": "",
-          "url": "https://novayagazeta.eu/articles/2026/09/03/putin-obiavil-o-perekhode-k-novomu-etapu-razvitiia-dalnego-vostoka-v-regione-vvedut-osobyi-rezhim-dlia-testirovaniia-bespilotnikov-news",
-          "source": "Новая газета Европа"
+          "url": "https://www.svoboda.org/a/zelenskiy-predstaviteli-trampa-planiruyut-priehatj-v-kiev-i-moskvu/33846509.html",
+          "source": "Радио Свобода"
         },
         {
-          "title": "Путин выступит на пленарном заседании ВЭФ 3 сентября",
+          "title": "Зеленский после разговора с представителями Трампа, главкомом и СБУ: Сентябрь может многое изменить",
           "snippet": "",
-          "url": "https://www.interfax.ru/russia/1112839",
-          "source": "Интерфакс"
+          "url": "https://www.pravda.com.ua/rus/news/2026/08/31/8051224/",
+          "source": "Українська правда"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -200,26 +200,26 @@
       "title": "пациент",
       "trafficCount": "200+",
       "pubDate": "Thu, 3 Sep 2026 05:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTBlr4GAqiG4Dk3eZJQgL6fQ3ACbF5f1_UQ5Rm7vAyo979GsI2SJMs4RYusFaI",
-      "pictureSource": "Rus.Postimees.ee",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRES3DnrGpxUsy-Dqi_CiKW1CSGxkBetmVGVbywtKwkaLE-oeQSoFVsu07hwPo",
+      "pictureSource": "Minval Politika",
       "relatedSearch": [
         {
-          "title": "Полиция задержала жителя Эстонии, который скачал данные пациентов из сотен клиник",
+          "title": "«Я всегда сравнивала свою зарплату с чужими доходами». Врачи с нетерпеньем ждут октября",
           "snippet": "",
-          "url": "https://rus.postimees.ee/8539104/policiya-zaderzhala-zhitelya-estonii-kotoryy-skachal-dannye-pacientov-iz-soten-klinik",
-          "source": "Rus.Postimees.ee"
+          "url": "https://minval.az/news/124551483",
+          "source": "Minval Politika"
         },
         {
-          "title": "Полиция задержала мужчину по подозрению в незаконном скачивании данных пациентов",
+          "title": "Инвестиции в медицину - инвестиции в будущее: как инициатива Первого вице-президента изменит здравоохранение Азербайджана",
           "snippet": "",
-          "url": "https://rus.err.ee/1610127019/policija-zaderzhala-muzhchinu-po-podozreniju-v-nezakonnom-skachivanii-dannyh-pacientov",
-          "source": "ERR"
+          "url": "https://oxu.az/ru/politika/investicii-v-medicinu-investicii-v-budushee-kak-iniciativa-pervogo-vice-prezidenta-izmenit-zdravoohranenie-azerbajdzhana",
+          "source": "Oxu.Az"
         },
         {
-          "title": "Полиция расследует крупную утечку данных пациентов",
+          "title": "Внимание и забота, уделяемые медицинским работникам, очень ценны - главная медсестра",
           "snippet": "",
-          "url": "https://www.dv.ee/novosti/2026/09/03/policija-rassleduet-krupnuju-utechku-dannyh-pacientov",
-          "source": "Деловые ведомости"
+          "url": "https://news.day.az/society/1857636.html",
+          "source": "Day.Az"
         }
       ],
       "link": "https://imtaqin.id/"

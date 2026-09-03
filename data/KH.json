@@ -1,24 +1,24 @@
 {
-  "lastUpdate": "2026-09-03 17:17:32",
+  "lastUpdate": "2026-09-03 19:54:47",
   "data": [
     {
       "title": "google gemini",
       "trafficCount": "200+",
       "pubDate": "Thu, 3 Sep 2026 08:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdq9DejkHRMw7I6cQwF_iIcDWma9aAjcq6bjx7WnmR6Dh6P3zfXbmAynqPoJc",
-      "pictureSource": "CNBC",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjTKqpKlTAkqb6RO93Nvp_nhdG2hWrzEgAVKJgB0p1liFkTmoLV0yb8xKUNg",
+      "pictureSource": "blog.google",
       "relatedSearch": [
+        {
+          "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+          "snippet": "",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+          "source": "blog.google"
+        },
         {
           "title": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
           "snippet": "",
           "url": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
           "source": "CNBC"
-        },
-        {
-          "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
-          "snippet": "",
-          "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
-          "source": "Ars Technica"
         },
         {
           "title": "Exclusive | New Google AI Model Said to Narrow Gap on Coding Ability",
@@ -31,7 +31,7 @@
     },
     {
       "title": "chatgpt",
-      "trafficCount": "5000+",
+      "trafficCount": "2000+",
       "pubDate": "Thu, 3 Sep 2026 08:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqJRSNMKc5_vghUGKziuT6F3P_AS1b0-d6VlVRR73rvdMrUEsoTXpvTce0RIM",
       "pictureSource": "Axios",
@@ -43,16 +43,44 @@
           "source": "Axios"
         },
         {
-          "title": "OpenAI, Anthropic, SpaceXAI Hit by Service Outages for AI Models",
+          "title": "Four major AI models suffer rare overlapping downtime",
           "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-03/openai-anthropic-spacexai-hit-by-service-outages-for-ai-models",
-          "source": "Bloomberg"
+          "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
+          "source": "Ars Technica"
         },
         {
-          "title": "AI outage hits Claude, OpenAI, Grok as users report disruption",
+          "title": "ChatGPT down: OpenAI chatbot not working in major outage",
           "snippet": "",
-          "url": "https://www.newsnationnow.com/business/tech/ai/ai-outage-disruption/",
-          "source": "NewsNation"
+          "url": "https://uk.finance.yahoo.com/news/chatgpt-down-openai-chatbot-not-151605806.html",
+          "source": "Yahoo Finance UK"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "gpt",
+      "trafficCount": "1000+",
+      "pubDate": "Thu, 3 Sep 2026 08:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_XE9fhqDn8kBzJdrRwi2Zg2VzZyXE7dHq5uvZGF2mgqJrs6Dm-vCW0VlXeUc",
+      "pictureSource": "Axios",
+      "relatedSearch": [
+        {
+          "title": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts",
+          "snippet": "",
+          "url": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman",
+          "source": "Axios"
+        },
+        {
+          "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+          "snippet": "",
+          "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
+          "source": "WIRED"
+        },
+        {
+          "title": "Path to Astra: critical capabilities and frontier safeguards",
+          "snippet": "",
+          "url": "https://openai.com/index/path-to-astra/",
+          "source": "OpenAI"
         }
       ],
       "link": "https://imtaqin.id/"

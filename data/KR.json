@@ -1,6 +1,22 @@
 {
-  "lastUpdate": "2026-09-03 17:18:00",
+  "lastUpdate": "2026-09-03 19:55:20",
   "data": [
+    {
+      "title": "폐쇄회로 텔레비전",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 3 Sep 2026 10:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrtM9YU-ZUzSd4FoJ2B87CGgwWw7WWR_86CBABrIAV9Fvg75EWeHuTSC69EBg",
+      "pictureSource": "뉴스핌",
+      "relatedSearch": [
+        {
+          "title": "범죄 예방 CCTV도 '재정' 따라…서울 자치구별 설치 격차",
+          "snippet": "",
+          "url": "https://www.newspim.com/news/view/20260903001160",
+          "source": "뉴스핌"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "스낳대",
       "trafficCount": "200+",
@@ -21,9 +37,9 @@
           "source": "인벤"
         },
         {
-          "title": "[스낳대] “ACDC 약팀이라며” 첫날 6점 쓸어 담은 알파고 팀",
+          "title": "[스낳대] 알파고가 만든 괴물 저그 ‘스타종’",
           "snippet": "",
-          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=111159",
+          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=111199",
           "source": "게임톡"
         }
       ],
@@ -33,26 +49,26 @@
       "title": "제미나이",
       "trafficCount": "10000+",
       "pubDate": "Thu, 3 Sep 2026 08:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS17DyTwU3hQJLDScPrmO7MfhmHncRIfZTHSXqhUWju3P15KMvWIJLSz0hfVkw",
-      "pictureSource": "AI타임스",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3VKttqMsG3HDWwzUXDfBjXfiL1m4RumvON_uxVLxyR9mup1CNVBF-3O7BNhM",
+      "pictureSource": "보안뉴스",
       "relatedSearch": [
         {
-          "title": "WSJ \"구글, '제미나이 3.5 프로' 폐기...차세대 모델 집중\"",
+          "title": "구글, 사이버 보안 특화 ‘제미나이 3.8 플래시 사이버’ 공개... 추론·코딩 특화 ‘제미나이 3.8 플래시’ 함께",
           "snippet": "",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214803",
-          "source": "AI타임스"
+          "url": "https://www.boannews.com/news/articleView.html?idxno=145626",
+          "source": "보안뉴스"
+        },
+        {
+          "title": "요즘 ‘재미 못보는’ 제미나이",
+          "snippet": "",
+          "url": "https://v.daum.net/v/20260904000414876",
+          "source": "Daum"
         },
         {
           "title": "[AI는 지금] 오픈AI·앤트로픽·구글·메타, 9월 신모델 러시…AI 경쟁, '성능·효율'로 확전",
           "snippet": "",
           "url": "https://zdnet.co.kr/view/?no=20260903162530",
           "source": "지디넷코리아"
-        },
-        {
-          "title": "‘제미나이 3.8 플래시’와 ‘3.8 플래시 사이버’를 소개합니다",
-          "snippet": "",
-          "url": "https://blog.google/intl/ko-kr/company-news/technology/3-8-flash-and-3-8-flash-cyber-kr/",
-          "source": "blog.google"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,9 +77,15 @@
       "title": "챗gpt",
       "trafficCount": "2000+",
       "pubDate": "Thu, 3 Sep 2026 08:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS08ELqlML7T8_wr-sQPm7USL1nT1B9EYeKCQMhooNe5skOynx8UDbP7e2xFZE",
-      "pictureSource": "뉴스핌",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQj9PWfquxXPqucCoZ_Em3S7iCuRpsaYUBqWZcCk9G62sBPfe8Kk4DbEoTnz4Q",
+      "pictureSource": "KBS 뉴스",
       "relatedSearch": [
+        {
+          "title": "챗GPT·클로드·그록, 한때 일제히 ‘먹통’…이용자들 불편",
+          "snippet": "",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8654478",
+          "source": "KBS 뉴스"
+        },
         {
           "title": "[미국 특징주] 오픈AI·앤스로픽·스페이스XAI, 동시다발 서비스 장애…AI 3사 고객 '불편'",
           "snippet": "",
@@ -71,44 +93,10 @@
           "source": "뉴스핌"
         },
         {
-          "title": "MS 이메일 서비스 수시간 먹통…\"인증 오류 때문\"",
+          "title": "챗GPT·클로드·그록, 한때 일제히 '먹통'…이례적 동시 장애",
           "snippet": "",
-          "url": "https://zdnet.co.kr/view/?no=20260901131727",
-          "source": "지디넷코리아"
-        },
-        {
-          "title": "MS·오픈AI 동시 장애 발생...클라우드 인프라 연관성에 주목",
-          "snippet": "",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214676",
-          "source": "AI타임스"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ai",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 3 Sep 2026 08:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvIlcwP1octjXuDaHzG4cJKLpwfaa1khU-IXQuePnWhfSZ-Ugol9I1qHMJzVM",
-      "pictureSource": "CNBC",
-      "relatedSearch": [
-        {
-          "title": "Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Nvidia inks $13 billion deal to buy the AI startup that was hacked by OpenAI",
-          "snippet": "",
-          "url": "https://www.cnn.com/2026/09/03/tech/nvidia-hugging-face-ai-acquisition",
-          "source": "CNN"
-        },
-        {
-          "title": "Nvidia (NVDA) Nears $14 Billion AI Deal As Copyright Case Heads To Court",
-          "snippet": "",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-nears-14-billion-150541629.html",
-          "source": "Yahoo Finance"
+          "url": "https://news.nate.com/view/20260904n00810",
+          "source": "네이트"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,33 +105,61 @@
       "title": "저작권",
       "trafficCount": "100+",
       "pubDate": "Thu, 3 Sep 2026 08:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfARzuSAonvkpNdPAFdFeBqeQaWKn7v0mksrk49ijsjHEz6Ptl_dbHPbbGSag",
-      "pictureSource": "전자신문",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjSs9IYPj1InMCR7QT2bXyPTqQnF8dis_oD7C10TyV_G9tjBOrn7bB_hfBpVQ",
+      "pictureSource": "Daum",
       "relatedSearch": [
         {
-          "title": "저작권위원회, 생활 속 저작권 콘텐츠 제작…2주간 순차 공개",
+          "title": "미 정부, 저작권 소송서 AI 빅테크 옹호…\"AI 경쟁력은 안보\"",
           "snippet": "",
-          "url": "https://www.etnews.com/20260903000319",
-          "source": "전자신문"
+          "url": "https://v.daum.net/v/20260903094500463",
+          "source": "Daum"
         },
         {
-          "title": "한국저작권위원회, ‘슬기로운 저작권 생활’ 콘텐츠 공개",
+          "title": "미 법무부, 법원에 \"인공지능 저작권 침해 안해\" 의견서",
           "snippet": "",
-          "url": "https://www.donga.com/news/Economy/article/all/20260903/134599239/1",
-          "source": "동아일보"
+          "url": "https://www.newsis.com/view/NISX20260903_0003774329",
+          "source": "뉴시스"
         },
         {
-          "title": "저작권위원회 '슬기로운 저작권 생활' 공개",
+          "title": "미국 정부, AI 저작권 소송서 오픈AI 지지…\"학습 제한하면 혁신 저해\"",
           "snippet": "",
-          "url": "http://www.consumuch.com/news/articleView.html?idxno=78951",
-          "source": "컨슈머치"
+          "url": "https://zdnet.co.kr/view/?no=20260903171308",
+          "source": "지디넷코리아"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "gpt",
+      "trafficCount": "10000+",
+      "pubDate": "Thu, 3 Sep 2026 08:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_XE9fhqDn8kBzJdrRwi2Zg2VzZyXE7dHq5uvZGF2mgqJrs6Dm-vCW0VlXeUc",
+      "pictureSource": "Axios",
+      "relatedSearch": [
+        {
+          "title": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts",
+          "snippet": "",
+          "url": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman",
+          "source": "Axios"
+        },
+        {
+          "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+          "snippet": "",
+          "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
+          "source": "WIRED"
+        },
+        {
+          "title": "Path to Astra: critical capabilities and frontier safeguards",
+          "snippet": "",
+          "url": "https://openai.com/index/path-to-astra/",
+          "source": "OpenAI"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "chatgpt",
-      "trafficCount": "20000+",
+      "trafficCount": "5000+",
       "pubDate": "Thu, 3 Sep 2026 08:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqJRSNMKc5_vghUGKziuT6F3P_AS1b0-d6VlVRR73rvdMrUEsoTXpvTce0RIM",
       "pictureSource": "Axios",
@@ -155,16 +171,16 @@
           "source": "Axios"
         },
         {
-          "title": "OpenAI, Anthropic, SpaceXAI Hit by Service Outages for AI Models",
+          "title": "Four major AI models suffer rare overlapping downtime",
           "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-03/openai-anthropic-spacexai-hit-by-service-outages-for-ai-models",
-          "source": "Bloomberg"
+          "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
+          "source": "Ars Technica"
         },
         {
-          "title": "AI outage hits Claude, OpenAI, Grok as users report disruption",
+          "title": "ChatGPT down: OpenAI chatbot not working in major outage",
           "snippet": "",
-          "url": "https://www.newsnationnow.com/business/tech/ai/ai-outage-disruption/",
-          "source": "NewsNation"
+          "url": "https://uk.finance.yahoo.com/news/chatgpt-down-openai-chatbot-not-151605806.html",
+          "source": "Yahoo Finance UK"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,10 +227,10 @@
           "source": "국제신문"
         },
         {
-          "title": "‘등록금 0원’ 이제 안 갈 이유가 없다?…거점국립대 합격선 5년 새 최고 찍었다 [세상&]",
+          "title": "[단독]지방국립대 수시합격선 큰 격차… ‘거점 쏠림’ 우려",
           "snippet": "",
-          "url": "https://v.daum.net/v/20260903164638479",
-          "source": "Daum"
+          "url": "https://www.donga.com/news/Society/article/all/20260904/134602987/2",
+          "source": "동아일보"
         },
         {
           "title": "최교진 \"지역 사립대 소외되지 않도록 적극 지원하겠다\"",
@@ -229,54 +245,26 @@
       "title": "은행",
       "trafficCount": "5000+",
       "pubDate": "Thu, 3 Sep 2026 07:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR321NpK9iv5UrpbzNGtKJ-zvPOiURF8iooPOeq9w3oUHocBFd8UHwzlw5KJnc",
-      "pictureSource": "KBS 뉴스",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhJ8G2wFV4M1JfBQl5oMWxaaWEvMbKaCBLPGiVcG1ab0D-39ygx7HY98VFoiw",
+      "pictureSource": "JTBC",
       "relatedSearch": [
         {
-          "title": "정부 “수도권 소재 중앙행정기관 내년 상반기 세종 이전…109개 공공기관 감축”",
+          "title": "법무·성평등부 \"세종으로\"…반발 거센 금융은 ‘일단’ 빠졌다",
           "snippet": "",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8653806",
-          "source": "KBS 뉴스"
+          "url": "https://news.jtbc.co.kr/article/NB12316603",
+          "source": "JTBC"
         },
         {
-          "title": "울산, 통합본사 유치·고유 기능 방어에 사활",
+          "title": "정부 “민간 건물 임차해서라도 공공기관 지방 이전 내년 착수”",
           "snippet": "",
-          "url": "https://v.daum.net/v/20260904004432459",
-          "source": "Daum"
+          "url": "https://www.donga.com/news/Economy/article/all/20260904/134603090/2",
+          "source": "동아일보"
         },
         {
-          "title": "경마공원 이어 법무부도 이전…과천시 \"도시 공동화 작정했나\"",
+          "title": "\"끌려가느니 먼저 손들고‥\"‥지역 선점 나서",
           "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20260903164500061",
-          "source": "연합뉴스"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "미국 증권거래위원회",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 3 Sep 2026 07:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRk4ZBXlhaVnk74MpWEjds8h48jOHgq7PNg6veA4sfjIDJ5-jDxR5qIDcu6W8A",
-      "pictureSource": "뉴스1",
-      "relatedSearch": [
-        {
-          "title": "코인베이스 CEO \"대다수 은행, 클래리티법 기회로 인식\"",
-          "snippet": "",
-          "url": "https://www.news1.kr/finance/blockchain-fintech/6278805",
-          "source": "뉴스1"
-        },
-        {
-          "title": "[데일리픽] 클래리티법 이달 통과 기대…아이폰18 프로 '3대 변화' 주목",
-          "snippet": "",
-          "url": "https://news.nate.com/view/20260903n31171",
-          "source": "네이트"
-        },
-        {
-          "title": "SEC 위원장 \"클래리티법안 2주 내 상원 표결 전망\"",
-          "snippet": "",
-          "url": "https://www.digitalasset.works/news/articleView.html?idxno=42777",
-          "source": "디지털애셋"
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6849448_37004.html",
+          "source": "MBC 뉴스"
         }
       ],
       "link": "https://imtaqin.id/"

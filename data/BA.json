@@ -1,39 +1,83 @@
 {
-  "lastUpdate": "2026-09-03 17:17:31",
+  "lastUpdate": "2026-09-03 19:54:46",
   "data": [
     {
-      "title": "дарко младић",
-      "trafficCount": "1000+",
-      "pubDate": "Thu, 3 Sep 2026 08:30:00 -0700",
+      "title": "el niño",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 3 Sep 2026 10:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8EShd7SD3udEzqtYIYjTkrOvI8Wr0LAESiLO0dUUFEUNq5krYJqkBjwALgt0",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c17jqp0xzpzo",
+          "source": "BBC"
+        },
+        {
+          "title": "El Niño update warns of 'supersized' climate disruptor",
+          "snippet": "",
+          "url": "https://www.usatoday.com/story/news/weather/2026/09/03/el-nino-update-un-sounds-alarm/91594337007/",
+          "source": "USA Today"
+        },
+        {
+          "title": "‘Supersizing before our eyes’: UN warns of record El Niño approaching",
+          "snippet": "",
+          "url": "https://www.theguardian.com/environment/2026/sep/03/el-nino-supersizing-before-our-eyes-united-nations",
+          "source": "The Guardian"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "hšk zrinjski mostar",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 3 Sep 2026 10:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEKGwrMT-RhPYRoxHelOPKQb8dFWnCD-Tx2LrzNKUZFYyiO29PQ_-yKg2ZJ0s",
+      "pictureSource": "Gibraltar Chronicle",
+      "relatedSearch": [
+        {
+          "title": "Lincoln Red Imps youth to play HŠK Zrinjski Mostar.",
+          "snippet": "",
+          "url": "https://www.chronicle.gi/lincoln-red-imps-youth-to-play-hsk-zrinjski-mostar/",
+          "source": "Gibraltar Chronicle"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "rtrs",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 3 Sep 2026 10:50:00 -0700",
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "gemini ai",
-      "trafficCount": "100+",
+      "title": "chat gpt",
+      "trafficCount": "500+",
       "pubDate": "Thu, 3 Sep 2026 08:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdq9DejkHRMw7I6cQwF_iIcDWma9aAjcq6bjx7WnmR6Dh6P3zfXbmAynqPoJc",
-      "pictureSource": "CNBC",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_XE9fhqDn8kBzJdrRwi2Zg2VzZyXE7dHq5uvZGF2mgqJrs6Dm-vCW0VlXeUc",
+      "pictureSource": "Axios",
       "relatedSearch": [
         {
-          "title": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
+          "title": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts",
           "snippet": "",
-          "url": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
-          "source": "CNBC"
+          "url": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman",
+          "source": "Axios"
         },
         {
-          "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+          "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
           "snippet": "",
-          "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
-          "source": "Ars Technica"
+          "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
+          "source": "WIRED"
         },
         {
-          "title": "Exclusive | New Google AI Model Said to Narrow Gap on Coding Ability",
+          "title": "Path to Astra: critical capabilities and frontier safeguards",
           "snippet": "",
-          "url": "https://www.wsj.com/tech/ai/new-google-ai-model-said-to-narrow-gap-on-coding-ability-264c6052",
-          "source": "WSJ"
+          "url": "https://openai.com/index/path-to-astra/",
+          "source": "OpenAI"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -52,46 +96,55 @@
           "source": "Axios"
         },
         {
-          "title": "OpenAI, Anthropic, SpaceXAI Hit by Service Outages for AI Models",
+          "title": "Four major AI models suffer rare overlapping downtime",
           "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-03/openai-anthropic-spacexai-hit-by-service-outages-for-ai-models",
-          "source": "Bloomberg"
+          "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
+          "source": "Ars Technica"
         },
         {
-          "title": "AI outage hits Claude, OpenAI, Grok as users report disruption",
+          "title": "ChatGPT down: OpenAI chatbot not working in major outage",
           "snippet": "",
-          "url": "https://www.newsnationnow.com/business/tech/ai/ai-outage-disruption/",
-          "source": "NewsNation"
+          "url": "https://uk.finance.yahoo.com/news/chatgpt-down-openai-chatbot-not-151605806.html",
+          "source": "Yahoo Finance UK"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "pentagon",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 3 Sep 2026 07:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6Tc4dtfEqZYOjm2dkn1IqXktHHqwF6rPKnnlthrYn682uxSu1e8PC80dUBHM",
-      "pictureSource": "CBS News",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRG4_-Ehk26hRohrCUYfqTJ4CLGEQ1k2nFcduepAnoQ8oJ_PX1u-t41ryHbMQE",
+      "pictureSource": "Reuters",
       "relatedSearch": [
         {
-          "title": "Pentagon rolls out guidelines to test service members for testosterone",
+          "title": "EXCLUSIVE: Pentagon temporarily rescinds guidance on testosterone screening for US troops",
+          "snippet": "",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/pentagon-temporarily-rescinding-guidance-testosterone-screening-us-troops-2026-09-03/",
+          "source": "Reuters"
+        },
+        {
+          "title": "New testosterone guidelines temporarily rescinded, Pentagon says",
           "snippet": "",
           "url": "https://www.cbsnews.com/news/pentagon-testosterone-testing-hegseth-policy/",
           "source": "CBS News"
         },
         {
-          "title": "Pentagon orders mandatory testosterone tests for male troops 30 and older",
+          "title": "Pentagon expands hormone screening guidance to include female service members",
           "snippet": "",
-          "url": "https://www.foxnews.com/politics/pentagon-orders-mandatory-testosterone-tests-male-troops-30-older",
-          "source": "Fox News"
-        },
-        {
-          "title": "Pentagon’s guidelines for testosterone testing vanishes after being posted online",
-          "snippet": "",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/pete-hegseth-military-testosterone-guidelines-b3044150.html",
-          "source": "The Independent"
+          "url": "https://www.militarytimes.com/news/pentagon-congress/2026/09/03/pentagon-expands-hormone-screening-guidance-to-include-female-service-members/",
+          "source": "Military Times"
         }
       ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ратко младић",
+      "trafficCount": "2000+",
+      "pubDate": "Thu, 3 Sep 2026 07:10:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -123,10 +176,10 @@
           "source": "srpske.rs"
         },
         {
-          "title": "Schalke striker Edin Džeko announces Bosnia & Herzegovina retirement",
+          "title": "It will be emotional on October 2nd in Zenica: Edin Džeko announces his retirement from the BiH national team",
           "snippet": "",
-          "url": "https://www.bundesliga.com/en/bundesliga/news/edin-dzeko-announces-bosnia-herzegovina-retirement-schalke-world-cup-39006",
-          "source": "Bundesliga | official website"
+          "url": "https://en.vijesti.me/sports-e/football-c/824957/It-will-be-emotional-on-October-2nd-in-Zenica-as-Edin-Dzeko-announced-his-retirement-from-the-Bosnia-and-Herzegovina-national-team.",
+          "source": "vijesti.me"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -135,52 +188,6 @@
       "title": "esmir bajraktarević",
       "trafficCount": "100+",
       "pubDate": "Wed, 2 Sep 2026 20:20:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "sport",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 2 Sep 2026 13:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSz2CGLFOoF7iER3r9gpnl44jtYxtNjiTvP9bGTz3XwPexXvAEr_Bz4FQZ0jYE",
-      "pictureSource": "The New York Times",
-      "relatedSearch": [
-        {
-          "title": "U.S. Open recap Day 4: A 10-minute tennis microdrama as rain finally clears - The Athletic",
-          "snippet": "",
-          "url": "https://www.nytimes.com/athletic/7559155/2026/09/03/us-open-recap-bracket-results-analysis-day-4/",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Who won on Wednesday at the 2026 US Open? Results and highlights",
-          "snippet": "",
-          "url": "https://www.usopen.org/en_US/news/articles/2026-09-02/who_won_on_wednesday_at_the_2026_us_open_results_and_highlights.html",
-          "source": "US Open Tennis"
-        },
-        {
-          "title": "US Open 2026: Full order of play, Wednesday 2 September - all matches, complete schedule",
-          "snippet": "",
-          "url": "https://www.olympics.com/en/news/us-open-2026-order-of-play-2-september-matches-schedule",
-          "source": "Olympics"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "cijena",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 2 Sep 2026 11:40:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "široki brijeg – sarajevo",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 2 Sep 2026 11:40:00 -0700",
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],

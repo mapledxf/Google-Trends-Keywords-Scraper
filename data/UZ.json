@@ -1,58 +1,142 @@
 {
-  "lastUpdate": "2026-09-04 02:48:21",
+  "lastUpdate": "2026-09-04 07:33:22",
   "data": [
     {
-      "title": "weather",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 3 Sep 2026 18:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBXSJUrt6aYg2qBZsQ5crcTyhSONnTyIcwl0G1OF2Q5W0YRJ_AECRlgKcofg",
-      "pictureSource": "blog.google",
+      "title": "дождь",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 3 Sep 2026 23:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5dGhRh9jRrg4yFSQcrTHmNSId21rv0qrR5imBzT7bLl0RdqgTwt08qaDqvP4",
+      "pictureSource": "Погода Mail",
       "relatedSearch": [
         {
-          "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "title": "Жителей Петербурга предупредили о дождливой пятнице",
           "snippet": "",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
-          "source": "blog.google"
+          "url": "https://pogoda.mail.ru/news/72222793/",
+          "source": "Погода Mail"
         },
         {
-          "title": "AI’s eye on the tropics",
+          "title": "Половина от месячной нормы: в Петербурге может выпасть 25 миллиметров осадков 4 сентября",
           "snippet": "",
-          "url": "https://news.miami.edu/stories/2026/08/ais-eye-on-the-tropics.html",
-          "source": "University of Miami News"
+          "url": "https://vecherka-spb.ru/2026/09/04/polovina-ot-mesyachnoi-normi-v-peterburge-mozhet-vipast-25-millimetrov-osadkov-4-sentyabrya",
+          "source": "Вечерний Санкт-Петербург"
         },
         {
-          "title": "Google weather forecasts are getting more local and more accurate",
+          "title": "🌧 Дожди вернутся в Петербург",
           "snippet": "",
-          "url": "https://www.androidauthority.com/google-weathernext-3-weather-forecasts-3707156/",
-          "source": "Android Authority"
+          "url": "https://paperpaper.io/papernews/2026/9/3/dozhdi-vernutsya-v-peterburg/",
+          "source": "«Бумага»"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "гарри поттер",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 3 Sep 2026 21:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdTCY0FUPvA-1SUZESqsedaZl37uorRjfC6eou8zNEzmv6Qa9ZjaGOdrrTeKQ",
+      "pictureSource": "360.ru",
+      "relatedSearch": [
+        {
+          "title": "Квиддич, безглазый тролль и Распределительная Шляпа. Что показали в трейлере сериала «Гарри Поттер»",
+          "snippet": "",
+          "url": "https://360.ru/tekst/kultura/chto-pokazali-v-trejlere-seriala-garri-potter/",
+          "source": "360.ru"
+        },
+        {
+          "title": "Распределяющая шляпа и квиддич: вышел новый трейлер сериала по «Гарри Поттеру»",
+          "snippet": "",
+          "url": "https://www.vokrug.tv/article/show/17884211973/",
+          "source": "Vokrug.tv"
+        },
+        {
+          "title": "HBO представила трейлер первого сезона сериала «Гарри Поттер»",
+          "snippet": "",
+          "url": "https://www.forbes.ru/forbeslife/567827-hbo-predstavila-trejler-pervogo-sezona-seriala-garri-potter",
+          "source": "Forbes.ru"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "дастан сатпаев",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 3 Sep 2026 20:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ38_BVNM7Uh7I50ip4nMa8ByHhC5BIiycMkolDoixbB92rp7wrDyqHsb2eIPo",
+      "pictureSource": "Sports24.kz",
+      "relatedSearch": [
+        {
+          "title": "«Брутальная лига»: тренер «Бернли» сообщил подробности о травме Дастана Сатпаева",
+          "snippet": "",
+          "url": "https://sports24.kz/exclusives/news/brutalnaya-liga-trener-bernli-soobschil-podrobnosti-o-travme-dastana-satpaeva/",
+          "source": "Sports24.kz"
+        },
+        {
+          "title": "\"Мне плевать...\". Тренер \"Бернли\" высказался о Сатпаеве после матча",
+          "snippet": "",
+          "url": "https://vesti.kz/england/mne-plevat-trener-bernli-vyiskazalsya-satpaeve-matcha-387432/",
+          "source": "Vesti.kz"
+        },
+        {
+          "title": "Сатпаев впечатлил британцев игрой против «Мидлсбро»: что пишут в СМИ",
+          "snippet": "",
+          "url": "https://offside.kz/football/36503-satpaev-vpechatlil-britantsev-igroi-protiv-midlsbro-chto-pishut-v-smi",
+          "source": "Offside.kz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 3 Sep 2026 18:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkoNdlUKziVfxet3aDonrMycYkqUftU1TlZ0ftvvRVul0FK-RWxHXe-ZE9Tfo",
+      "pictureSource": "Irish Examiner",
+      "relatedSearch": [
+        {
+          "title": "Cork weather and traffic: Light rain expected amid overcast weather",
+          "snippet": "",
+          "url": "https://www.irishexaminer.com/news/munster/arid-41906602.html",
+          "source": "Irish Examiner"
+        },
+        {
+          "title": "Woman hospitalised after crash between car and van near Cork-Kerry border",
+          "snippet": "",
+          "url": "https://www.corkbeo.ie/news/local-news/woman-hospitalised-after-crash-between-34529887",
+          "source": "Cork Beo"
+        },
+        {
+          "title": "Woman rushed to hospital after horror crash between car and van in Cork",
+          "snippet": "",
+          "url": "https://www.irishmirror.ie/news/irish-news/woman-rushed-hospital-after-horror-37601442",
+          "source": "Irish Mirror"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "погода",
-      "trafficCount": "20000+",
+      "trafficCount": "50000+",
       "pubDate": "Thu, 3 Sep 2026 18:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsbLRZHoQCdpQsVUJ4aMmgVycGCWMWvJSy6kJOO1975r_-Cx_52iQaqcu7J7w",
-      "pictureSource": "Ulysmedia.kz",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKVvIXpOpjedueyEfYu4LV7_xoyXaWYgQFye7k7XNfxwbgIiOp-y6yFan0vuI",
+      "pictureSource": "BFM.ru",
       "relatedSearch": [
         {
-          "title": "Казахстан под влиянием антициклона: жара вернётся на запад и юг страны",
+          "title": "В День города столицу накроет шторм",
           "snippet": "",
-          "url": "https://ulysmedia.kz/news/79978-kazakhstan-pod-vliianiem-antitsiklona-zhara-verniotsia-na-zapad-i-iug-strany/",
-          "source": "Ulysmedia.kz"
+          "url": "https://www.bfm.ru/news/616912",
+          "source": "BFM.ru"
         },
         {
-          "title": "Мокрый снег в Алматы, заморозки до -3 и жара до +35: какой будет погода 4 сентября",
+          "title": "Синоптик Леус спрогнозировал до плюс 22 градусов в Москве в пятницу",
           "snippet": "",
-          "url": "https://bes.media/news/mokryy-sneg-v-almaty-zamorozki-do-3-i-zhara-do-35-kakoy-budet-pogoda-4-sentyabrya/",
-          "source": "BES.media"
+          "url": "https://www.osnmedia.ru/obshhestvo/sinoptik-leus-sprognoziroval-do-plyus-22-gradusov-v-moskve-v-pyatnitsu/",
+          "source": "Общественная служба новостей"
         },
         {
-          "title": "Штормовые предупреждения объявлены на пятницу в 15 регионах Казахстана",
+          "title": "Дождь и до 22 градусов тепла ожидаются в столице 4 сентября",
           "snippet": "",
-          "url": "https://kaztag.kz/ru/news/shtormovye-preduprezhdeniya-obyavleny-na-pyatnitsu-v-15-regionakh-kazakhstana-03-09-2026",
-          "source": "КазТАГ"
+          "url": "https://saomos.news/news/society/dozhd-i-do-22-gradusov-tepla-ozhidayutsya-v-stolitse-4-sentyabrya/",
+          "source": "https://saomos.news/"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,13 +145,13 @@
       "title": "погода ташкент",
       "trafficCount": "500+",
       "pubDate": "Thu, 3 Sep 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYCPbKHr6eio8qTEHswjftxN47tVjV14ntZK_Kp_Tn1qeKnx9nUUc2JmwqvVA",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEWlAwFTm1iT-0ZFQMPGfTV_fSiE1M3qhoMAei0y2LsNiZ81Rj9doO67iAlek",
       "pictureSource": "Газета.uz",
       "relatedSearch": [
         {
-          "title": "Тёплая погода сохранится в Узбекистане во второй половине недели",
+          "title": "В выходные по Узбекистану сохранится тёплая погода",
           "snippet": "",
-          "url": "https://www.gazeta.uz/ru/2026/09/02/weather/",
+          "url": "https://www.gazeta.uz/ru/2026/09/04/weather/",
           "source": "Газета.uz"
         },
         {
@@ -77,38 +161,38 @@
           "source": "Repost.uz"
         },
         {
-          "title": "Прогноз погоды на 3 сентебря",
+          "title": "В выходные по всей республике ожидается тёплая погода до +35 градусов",
           "snippet": "",
-          "url": "https://nuz.uz/2026/09/03/prognoz-pogody-na-3-sentebrya/",
-          "source": "Nuz.uz"
+          "url": "https://uznews.uz/ru/news/112463",
+          "source": "UzNews.uz"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "pogoda",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 3 Sep 2026 17:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSouhIcxz-ExiVCp9s4LVsN_aQhyDUDI-6Lhjf9wTNbb4k308CQCtx-PDdzWEI",
-      "pictureSource": "TwojaPogoda.pl",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEB-dItiLLGi9UK_Ompfr5kB0L2O1azsFdDrQaMWfW4KC-Mg-VPmiZstfTnaA",
+      "pictureSource": "Dębica Nasze Miasto",
       "relatedSearch": [
         {
-          "title": "6 września nadciągnie nad Polskę. To będzie prawdziwy gigant",
+          "title": "Pogoda w weekend w Dębicy: prognozy na piątek (04.09), sobotę (05.09), niedzielę (06.09). Długoterminowa prognoza pogody",
           "snippet": "",
-          "url": "https://www.twojapogoda.pl/wiadomosc/2026-09-03/6-wrzesnia-nadciagnie-nad-polske-to-bedzie-prawdziwy-gigant/",
-          "source": "TwojaPogoda.pl"
+          "url": "https://debica.naszemiasto.pl/pogoda-w-weekend-w-debicy-prognozy-na-piatek-04-09-sobote-05-09-niedziele-06-09-dlugoterminowa-prognoza-pogody/ar/c1p1-19945385",
+          "source": "Dębica Nasze Miasto"
         },
         {
-          "title": "Prognoza pogody na czwartek i piątek. Szykuje się radykalna zmiana",
+          "title": "Dzisiejsza prognoza pogody (03.09) dla Nowej Dęby. Sprawdź najważniejsze informacje",
           "snippet": "",
-          "url": "https://strefabiznesu.pl/prognoza-pogody-na-czwartek-i-piatek-szykuje-sie-radykalna-zmiana/ar/c8p2-29318743",
-          "source": "Strefa Biznesu"
+          "url": "https://nowadeba.naszemiasto.pl/pogoda-na-dzisiaj-dla-nowej-deby-03-09-sprawdz-jaka-bedzie-pogoda-w-czwartek/ar/c1p1-19943619",
+          "source": "Nowa Dęba Nasze Miasto"
         },
         {
-          "title": "Załamanie pogody tuż-tuż. Czekają nas nawalne opady",
+          "title": "Jak będzie dziś (03.09) dla mieszkańców Dębna? Zobacz pełną prognozę",
           "snippet": "",
-          "url": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-zalamanie-aury-tuz-tuz-lokalnie-opady-beda-nawalne-st9220088",
-          "source": "TVN24"
+          "url": "https://debno.naszemiasto.pl/pogoda-dla-debna-na-dzisiaj-03-09-prognoza-pogody-na-czwartek/ar/c1p1-19943507",
+          "source": "Dębno Nasze Miasto"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,9 +201,15 @@
       "title": "pagoda",
       "trafficCount": "200+",
       "pubDate": "Thu, 3 Sep 2026 17:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSeZzj_ENhvrNFFKly_z3CGrvONcYgWHg-1Gug_F7icgIul4wM4EJBwJtAEGjY",
-      "pictureSource": "AD HOC NEWS",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPkwwCCgAHp2FrEKNnQxls3D5NZC5SMN01-UdgxkxF9cJ8MW7Y5QpF1QNruds",
+      "pictureSource": "Myanmar International TV",
       "relatedSearch": [
+        {
+          "title": "Renovation of Pagodas: Donation for earthquake-damaged Dhammarazika Pagoda",
+          "snippet": "",
+          "url": "https://www.myanmaritv.com/news/renovation-pagodas-donation-earthquake-damaged-dhammarazika-pagoda",
+          "source": "Myanmar International TV"
+        },
         {
           "title": "Sule Pagoda and Yangon’s octagonal centre",
           "snippet": "",
@@ -165,114 +255,11 @@
     },
     {
       "title": "вымогательство",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 3 Sep 2026 10:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQBH-1YeJFeZJT7xxkt9tF-NJhpJr5n_4X-IqUH0ohiK3JI6gA4PoGgsKAndHQ",
-      "pictureSource": "Газета \"Местное время\"",
-      "relatedSearch": [
-        {
-          "title": "В Нижневартовске вынесли приговор по делу о вымогательстве 47 млн рублей",
-          "snippet": "",
-          "url": "https://mvremya.ru/article/36595/",
-          "source": "Газета \"Местное время\""
-        },
-        {
-          "title": "В Нижневартовске осудили вымогательницу, которая требовала у бизнесмена 47 миллионов",
-          "snippet": "",
-          "url": "https://nv86.ru/news/nizhnevartovsk/1691199/",
-          "source": "NV86.ru"
-        },
-        {
-          "title": "Жительница ХМАО вымогала у бизнесмена почти 50 миллионов рублей",
-          "snippet": "",
-          "url": "https://ura.news/news/1053124087",
-          "source": "URA.RU"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "vladimir putin",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 3 Sep 2026 10:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1EluiuWwb1tF-7s13DB79jDqso8Paytx9JtdTHSx35EtJICVAq2wc2dWVibs",
-      "pictureSource": "CNBC",
-      "relatedSearch": [
-        {
-          "title": "Putin floats 'chance' at peace with Ukraine as NATO chief warns Russia is becoming 'increasingly reckless'",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2026/09/03/putin-peace-russia-ukraine-nato-defense.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Putin Hardens Anti-Western Rhetoric and Names Possible Intermediaries for Talks With Trump",
-          "snippet": "",
-          "url": "https://mezha.net/eng/news/8a3e0854_putin_hardens_anti-western/",
-          "source": "Межа. Новини України."
-        },
-        {
-          "title": "Licensable video: Putin says Russia seeks to end, not freeze, Ukraine conflict and is ready for talks",
-          "snippet": "",
-          "url": "https://www.reutersconnect.com/item/putin-says-russia-seeks-to-end-not-freeze-ukraine-conflict-and-is-ready-for-talks/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1ZBOTU1NDAxMDkyMDI2UlAx",
-          "source": "Reuters Connect"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "узбекский сум",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 3 Sep 2026 08:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7XuUTv4r8X8cq49PVgpMe_EWuLY25euDOImJxvNqPm2HclkQYH5--Yfx9LK4",
-      "pictureSource": "Repost.uz",
-      "relatedSearch": [
-        {
-          "title": "Курсы валют на 3 сентября: доллар упал",
-          "snippet": "",
-          "url": "https://repost.uz/kursi-valyut-0309",
-          "source": "Repost.uz"
-        },
-        {
-          "title": "В Узбекистане обновили курс иностранных валют на 3 сентября",
-          "snippet": "",
-          "url": "https://upl.uz/economy/66225-news.html",
-          "source": "Новости Узбекистана — Upl.uz"
-        },
-        {
-          "title": "Сум стартует в сентябре с сильных уровней",
-          "snippet": "",
-          "url": "https://www.uzdaily.uz/ru/sum-startuet-v-sentiabre-s-silnykh-urovnei/",
-          "source": "UzDaily.uz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ai",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 3 Sep 2026 08:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvIlcwP1octjXuDaHzG4cJKLpwfaa1khU-IXQuePnWhfSZ-Ugol9I1qHMJzVM",
-      "pictureSource": "CNBC",
-      "relatedSearch": [
-        {
-          "title": "Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "The ‘Deeply Nerdy’ Founders Behind Nvidia’s $13 Billion Bet on Hugging Face",
-          "snippet": "",
-          "url": "https://www.wsj.com/tech/ai/the-deeply-nerdy-founders-behind-nvidias-13-billion-bet-on-hugging-face-3a4b5227",
-          "source": "WSJ"
-        },
-        {
-          "title": "Nvidia confirms $13 billion acquisition of open-weight AI platform Hugging Face",
-          "snippet": "",
-          "url": "https://finance.yahoo.com/markets/article/nvidia-confirms-13-billion-acquisition-of-open-weight-ai-platform-hugging-face-141058641.html",
-          "source": "Yahoo Finance"
-        }
-      ],
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]

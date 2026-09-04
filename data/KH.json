@@ -1,24 +1,24 @@
 {
-  "lastUpdate": "2026-09-03 23:58:57",
+  "lastUpdate": "2026-09-04 02:47:42",
   "data": [
     {
-      "title": "gemini",
-      "trafficCount": "1000+",
-      "pubDate": "Thu, 3 Sep 2026 08:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYqgwCYWFALn4zXEiGUl58t1gTCQke6rpkhUPWsujOYUATCJNF5bXM6iQVoOk",
-      "pictureSource": "San Francisco Chronicle",
+      "title": "google gemini",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 3 Sep 2026 08:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIkPxk4nfR9CA9DqSEQUtsHK1tjsdJRc9cfxSu3I1jZ55lRCOVwwHapUd8udo",
+      "pictureSource": "KDRV",
       "relatedSearch": [
+        {
+          "title": "AI hiking advice stranded 3 Roseville men on Mt. Shasta",
+          "snippet": "",
+          "url": "https://www.kdrv.com/news/ai-hiking-advice-stranded-3-roseville-men-on-mt-shasta/article_43df91db-3417-4ec0-9f35-20c7d6a0a366.html",
+          "source": "KDRV"
+        },
         {
           "title": "Climbers rescued from Mount Shasta after relying on AI chatbot to plan trip",
           "snippet": "",
           "url": "https://www.sfchronicle.com/outdoors/article/shasta-climbers-rescued-chatgpt-22414629.php",
           "source": "San Francisco Chronicle"
-        },
-        {
-          "title": "3 Men Relied on AI to Plan Their Climbing Trip. They Later Became Stranded and Needed Rescuing",
-          "snippet": "",
-          "url": "https://people.com/3-men-relied-on-ai-to-plan-their-climbing-trip-they-later-found-themselves-stranded-and-needed-rescuing-12107474",
-          "source": "People.com"
         },
         {
           "title": "3 hikers who say they used AI to plan trip rescued after becoming stranded on Mount Shasta",
@@ -33,9 +33,15 @@
       "title": "chatgpt",
       "trafficCount": "2000+",
       "pubDate": "Thu, 3 Sep 2026 08:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQppYxNi3gXPo7t-Gxr8YRmuObj7hSEPdSyCfNy7MRq-26BP3Woh0HKCJxsDg",
-      "pictureSource": "ARC Prize",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtwfCWcpiPIcV1KEvHCPmfD3O0z3EpgzOl0Na6oR1gctrunQrj0pXL2nLO3yM",
+      "pictureSource": "OpenAI",
       "relatedSearch": [
+        {
+          "title": "GPT-6 Astra: A new generation of intelligence",
+          "snippet": "",
+          "url": "https://openai.com/index/gpt-6-astra/",
+          "source": "OpenAI"
+        },
         {
           "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
           "snippet": "",
@@ -43,16 +49,38 @@
           "source": "ARC Prize"
         },
         {
-          "title": "OpenAI hails ‘new era of artificial general intelligence’ with Astra model release",
+          "title": "OpenAI launches new Astra model amid growing scrutiny over agents' safety",
           "snippet": "",
-          "url": "https://www.theguardian.com/technology/2026/sep/03/openai-artificial-general-intelligence-astra-release",
-          "source": "The Guardian"
+          "url": "https://www.reuters.com/legal/litigation/openai-launches-new-astra-model-amid-growing-scrutiny-over-agents-safety-2026-09-03/",
+          "source": "Reuters"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "chat gpt",
+      "trafficCount": "2000+",
+      "pubDate": "Thu, 3 Sep 2026 08:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqJRSNMKc5_vghUGKziuT6F3P_AS1b0-d6VlVRR73rvdMrUEsoTXpvTce0RIM",
+      "pictureSource": "Axios",
+      "relatedSearch": [
+        {
+          "title": "Widespread AI outage underway",
+          "snippet": "",
+          "url": "https://www.axios.com/2026/09/03/chatgpt-claude-grok-outages",
+          "source": "Axios"
         },
         {
-          "title": "OpenAI says it has overtaken Anthropic with its latest AI model",
+          "title": "Four major AI models suffer rare overlapping downtime",
           "snippet": "",
-          "url": "https://www.ft.com/content/55ab40c0-59e2-4c0b-97c9-4f4f5a71a8bb?syn-25a6b1a6=1",
-          "source": "Financial Times"
+          "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+          "snippet": "",
+          "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+          "source": "WIRED"
         }
       ],
       "link": "https://imtaqin.id/"

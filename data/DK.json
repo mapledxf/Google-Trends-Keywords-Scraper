@@ -1,282 +1,270 @@
 {
-  "lastUpdate": "2026-09-08 17:34:01",
+  "lastUpdate": "2026-09-08 20:11:50",
   "data": [
     {
-      "title": "preben elkjær",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 8 Sep 2026 10:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzUD6H0kZ_-mDr-hBxzQbTOAU7gZ0-0fBkvtYr14sFW6ab9-ceiwtLq58wYZo",
+      "title": "navier stokes",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 8 Sep 2026 12:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNRroCBb2WWsQ_8V3fmReT5LpPPQHQbJ4ihGodZQeWjM0NOoMh-BIxDL61z9k",
+      "pictureSource": "OpenAI",
+      "relatedSearch": [
+        {
+          "title": "On the Navier–Stokes Millennium Prize Problem",
+          "snippet": "",
+          "url": "https://openai.com/index/navier-stokes-solution/",
+          "source": "OpenAI"
+        },
+        {
+          "title": "AI may have just solved a million-dollar math problem. The field will never be the same",
+          "snippet": "",
+          "url": "https://www.scientificamerican.com/article/ai-may-have-just-solved-a-million-dollar-math-problem-the-field-will-never-be-the-same/",
+          "source": "Scientific American"
+        },
+        {
+          "title": "OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html",
+          "source": "The New York Times"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "canada",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 8 Sep 2026 12:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_dIDOj_jHznj7yq2Qj-QA-MGTrAjh8vEK8l4g3owGIblz2XnjpmXVGk87WCo",
+      "pictureSource": "The Washington Post",
+      "relatedSearch": [
+        {
+          "title": "As Canada’s countertariffs kick in, Trump’s escalating threats draw political rebuke",
+          "snippet": "",
+          "url": "https://www.washingtonpost.com/business/2026/09/08/trump-threatens-ban-bombardier-jet-sales-canadas-tariffs-take-effect/",
+          "source": "The Washington Post"
+        },
+        {
+          "title": "Canadian countertariffs escalate trade war",
+          "snippet": "",
+          "url": "https://www.detroitnews.com/story/business/autos/2026/09/08/canada-us-trade-war-tariffs-trump/91659596007/",
+          "source": "The Detroit News"
+        },
+        {
+          "title": "Canada understands what we refuse to: Trump is a joke | Opinion",
+          "snippet": "",
+          "url": "https://www.usatoday.com/story/opinion/columnist/2026/09/08/canada-tariffs-trump-bombardier-ai-images/91653983007/",
+          "source": "USA Today"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "s.s.c. napoli",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 8 Sep 2026 12:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRF6_h5E2tTUMeL3lEaqG4io0TXOeIYkZ4kG1t9uDUGkvuwErseMzKTT5F3z2I",
+      "pictureSource": "Metro.co.uk",
+      "relatedSearch": [
+        {
+          "title": "Max Allegri makes Arsenal Champions League claim ahead of Napoli clash",
+          "snippet": "",
+          "url": "https://metro.co.uk/2026/09/08/max-allegri-makes-arsenal-champions-league-claim-ahead-napoli-clash-29564664/",
+          "source": "Metro.co.uk"
+        },
+        {
+          "title": "Mac Allister: 'I've seen something special in Iraola'",
+          "snippet": "",
+          "url": "https://onefootball.com/en/video/mac-allister-ive-seen-something-special-in-iraola-43423736",
+          "source": "OneFootball"
+        },
+        {
+          "title": "Napoli vs Arsenal: Surprise Bruno Guimaraes odds you should back for Champions League clash",
+          "snippet": "",
+          "url": "https://footballwhispers.com/blog/napoli-vs-arsenal-surprise-bruno-guimaraes-odds-you-should-back-for-champions-league-clash/",
+          "source": "Football Whispers"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "real madrid",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 8 Sep 2026 12:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8CK_vsOiCg7vtSy-FUeFm7vFBGx-FQ5dHF9YR4NAiEICUQhBQHUaz4aJ5iGY",
+      "pictureSource": "Diario AS",
+      "relatedSearch": [
+        {
+          "title": "Real Madrid - Inter hoy, en directo: fase liga de Champions League, última hora en el Bernabéu",
+          "snippet": "",
+          "url": "https://as.com/futbol/champions/real-madrid-inter-hoy-en-directo-previa-y-ultima-hora-de-la-champions-league-en-vivo-f202609-d/",
+          "source": "Diario AS"
+        },
+        {
+          "title": "Mourinho sobre el regreso de Endrick: 'Cinco o diez minutos como máximo' (VIDEO)",
+          "snippet": "",
+          "url": "https://es-us.noticias.yahoo.com/deportes/mourinho-regreso-endrick-diez-minutos-163000029.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "(VIDEO) ¡El blooper del día! Error de Josep Martínez y gol de Valverde para el Real Madrid",
+          "snippet": "",
+          "url": "https://onefootball.com/es/noticias/video-el-blooper-del-dia-error-de-josep-martinez-y-gol-de-valverde-para-el-real-madrid-43425240",
+          "source": "OneFootball"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "viaplay",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 8 Sep 2026 12:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1G8SpMp3qfMiwiztoHibwRjGJlPNN9kWfOlnTX_jJS1p9s3HIJOmUFOaiECQ",
       "pictureSource": "tv2.dk",
       "relatedSearch": [
         {
-          "title": "Overrasket Laudrup retter kritik mod DBU - TV 2",
+          "title": "Hvordan kommer CL til at gå? Her er eksperternes forudsigelser",
           "snippet": "",
-          "url": "https://sport.tv2.dk/live/fodbold/2024-12-19-brentford-henter-liverpool-keeper/overrasket-laudrup-retter-kritik-mod-dbu?entry=743967a8-79fe-4da4-8128-e917fb4945f2",
+          "url": "https://sport.tv2.dk/fodbold/2026-09-08-hvordan-kommer-cl-til-at-gaa-her-er-eksperternes-forudsigelser",
           "source": "tv2.dk"
         },
         {
-          "title": "Hjulmand om misset VM: 'Det gør ondt at se'",
+          "title": "Lisberg: Tips til 1. runde i Champions League d. 8/9 – 10/9",
           "snippet": "",
-          "url": "https://www.viaplaysportnews.dk/sport/fodbold/hjulmand-om-misset-vm-det-gor-ondt-at-se",
-          "source": "Viaplay Sport News"
+          "url": "https://www.spilxperten.com/fodbold/champions-league/lisberg-tips-til-1-runde-i-champions-league-d-8-9-10-9/",
+          "source": "SpilXperten"
         },
         {
-          "title": "Michael Laudrup og Preben Elkjær revser DBU efter VM-skuffelse",
+          "title": "Dumt: Champions League er ved at kede os ihjel",
           "snippet": "",
-          "url": "https://ekstrabladet.dk/sport/fodbold/landsholdsfodbold/michael-laudrup-og-preben-elkjaer-revser-dbu-efter-vm-skuffelse/11280966",
-          "source": "Ekstra Bladet"
+          "url": "https://campo.dk/2026/09/08/dumt-champions-league-er-ved-at-kede-os-ihjel/",
+          "source": "Campo.dk"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "joyride musical",
+      "title": "arnold schwarzenegger",
       "trafficCount": "200+",
-      "pubDate": "Tue, 8 Sep 2026 09:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQljZYlPSUP6d-jWUX3CZ9BqFso3sAkACso8JCL-Nam1TAw7CYs7mQ78x2ZzTU",
-      "pictureSource": "Ekstra Bladet",
+      "pubDate": "Tue, 8 Sep 2026 11:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxGGVhfMopsjrIbbB0gt9uePOE4ms_4UyTAjTfuXPQWkBbWLhLGendBCRo0YE",
+      "pictureSource": "SlashFilm",
       "relatedSearch": [
         {
-          "title": "Sissal overrasker: Springer ud som musicalstjerne",
+          "title": "Arnold Schwarzenegger's Classic '80s Fantasy Movie Is Waiting To Be Rediscovered On Netflix",
           "snippet": "",
-          "url": "https://ekstrabladet.dk/underholdning/dkkendte/sissal-overrasker-springer-ud-som-musicalstjerne/11282571",
-          "source": "Ekstra Bladet"
-        },
-        {
-          "title": "Det har hun holdt godt skjult: Dejlig nyhed fra Annette Heick",
-          "snippet": "",
-          "url": "https://www.billedbladet.dk/kendte/danmark/det-har-hun-holdt-godt-skjult-dejlig-nyhed-fra-annette-heick",
-          "source": "BILLED-BLADET"
-        },
-        {
-          "title": "ROXETTEs ikoniske hits i romantisk POP-komedie: Lion Musicals præsenterer JOYRIDE – THE MUSICAL i Falkonersalen",
-          "snippet": "",
-          "url": "https://www.mynewsdesk.com/dk/have-as/pressreleases/roxettes-ikoniske-hits-i-romantisk-pop-komedie-lion-musicals-praesenterer-joyride-the-musical-i-falkonersalen-3465212",
-          "source": "Mynewsdesk"
+          "url": "https://www.slashfilm.com/2251566/arnold-schwarzenegger-80s-fantasy-movie-conan-the-barbarian-streaming-netflix/",
+          "source": "SlashFilm"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "tv2 bornholm",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 8 Sep 2026 09:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQdctmY2wKfoKCeTFFWbSpA90_cqIBitdrpG4KVyH49cFGz8Uway3qmYnFSMs",
-      "pictureSource": "TV2 Bornholm",
-      "relatedSearch": [
-        {
-          "title": "Soloulykke fik bil til at trille rundt",
-          "snippet": "",
-          "url": "https://www.tv2bornholm.dk/bornholm/soloulykke-fik-bil-til-at-trille-rundt-e0363",
-          "source": "TV2 Bornholm"
-        },
-        {
-          "title": "Skraldebil i problemer forhindrer affaldsafhentning",
-          "snippet": "",
-          "url": "https://www.tv2bornholm.dk/bornholm/skraldebil-i-problemer-forhindrer-affaldsafhentning-d0d6c",
-          "source": "TV2 Bornholm"
-        },
-        {
-          "title": "Erhvervsgrund i Rønne endte i budkrig",
-          "snippet": "",
-          "url": "https://www.tv2bornholm.dk/bornholm/erhvervsgrund-i-ronne-endte-i-budkrig-cc1ea",
-          "source": "TV2 Bornholm"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "club brugge - aston villa",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 8 Sep 2026 09:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJA3u60fG2CPSgCSOOw8h-qKM_hVw8OmiHOcX7mIYhnXANl2EAzRbIy6GgOtc",
+      "title": "real madrid - inter",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 8 Sep 2026 11:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Club Brugge vs Aston Villa: UEFA Champions League stats & head-to-head",
+          "title": "Real Madrid vs Inter Milan: UEFA Champions League stats & head-to-head",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cq62jg67rl35t",
+          "url": "https://www.bbc.com/sport/football/live/cm7903l5470dt",
           "source": "BBC"
         },
         {
-          "title": "Emery ready to ignite Aston Villa’s season at Club Brugge after familiar slow start",
+          "title": "Real Madrid v Inter, Millwall v Newcastle: Champions League and Carabao Cup – live",
           "snippet": "",
-          "url": "https://www.theguardian.com/football/2026/sep/07/emery-ready-to-ignite-aston-villas-season-at-club-brugge-after-familiar-slow-start",
+          "url": "https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live",
           "source": "The Guardian"
         },
         {
-          "title": "Joao Gomes has chance to redeem horror Aston Villa debut against Club Brugge",
+          "title": "From the 1964 final to the new Bernabéu: the history of Real Madrid vs. Inter",
           "snippet": "",
-          "url": "https://www.livescore.com/en/news/football/premier-league/joao-gomes-has-chance-to-redeem-horror-aston-villa-debut-against-club-brugge-claret-villans/",
-          "source": "LiveScore"
+          "url": "https://onefootball.com/en/news/from-the-1964-final-to-the-new-bernabeu-the-history-of-real-madrid-vs-inter-43425005",
+          "source": "OneFootball"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "jelena ostapenko",
+      "title": "porto - man city",
       "trafficCount": "500+",
-      "pubDate": "Tue, 8 Sep 2026 09:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiYFJQoDUiHc0yNcvEEApcx-nY4o9stHDfVgYwrvGHr3ChsGwi61F5tZFh6E4",
-      "pictureSource": "New York Post",
+      "pubDate": "Tue, 8 Sep 2026 11:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAcyuTTszk_VvUeObRBQz1PdVRo6_53T1swxlUz1QWF2rYIDWxYgoUb8_qDAo",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
         {
-          "title": "Jelena Ostapenko left stunned by US Open handshake drama as Taiwanese stars' feud appears to boil over",
+          "title": "Porto v Manchester City: Champions League – live",
           "snippet": "",
-          "url": "https://nypost.com/2026/09/07/sports/jelena-ostapenko-left-stunned-by-us-open-handshake-drama-as-taiwanese-stars-feud-appears-to-boil-over/",
-          "source": "New York Post"
+          "url": "https://www.theguardian.com/football/live/2026/sep/08/porto-v-manchester-city-champions-league-live",
+          "source": "The Guardian"
         },
         {
-          "title": "US Open star halts match over opponent's 'disrespectful' behaviour and demands translator",
+          "title": "Maresca: Now Haaland's the complete person - on and off the pitch",
           "snippet": "",
-          "url": "https://www.express.co.uk/sport/tennis/2246487/Jelena-Ostapenko-US-Open-Maya-Joint-Chan-Hao-Ching",
-          "source": "Daily Express"
+          "url": "https://www.mancity.com/news/mens/enzo-maresca-fc-porto-v-manchester-city-preview-63924396",
+          "source": "Manchester City FC"
         },
         {
-          "title": "Aussie Maya Joint caught up in handshake snub at US Open",
+          "title": "Francesco Farioli: Porto boss out to stun Man City in Champions League",
           "snippet": "",
-          "url": "https://www.abc.net.au/news/2026-09-08/aussie-maya-joint-caught-up-in-handshake-snub-at-us-open/107127004",
-          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+          "url": "https://www.bbc.com/sport/football/articles/c072j1r4e2do",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "pension",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 8 Sep 2026 09:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0iQ-8p0ucl77f62rAalxYOICE2kl8MV1xIXbkauoed-jic6TXwYWoxESSEKs",
-      "pictureSource": "Finans",
-      "relatedSearch": [
-        {
-          "title": "PFA Pension gafler ny storkunde fra to konkurrenter",
-          "snippet": "",
-          "url": "https://finans.dk/finans/ECE19616919/pfa-pension-gafler-ny-storkunde-fra-to-konkurrenter/",
-          "source": "Finans"
-        },
-        {
-          "title": "AG Gruppen og Lægernes Pension etablerer fælles ejendomsforvalter",
-          "snippet": "",
-          "url": "https://www.mynewsdesk.com/dk/ag-gruppen/pressreleases/ag-gruppen-og-laegernes-pension-etablerer-faelles-ejendomsforvalter-3465425",
-          "source": "Mynewsdesk"
-        },
-        {
-          "title": "AG Gruppen og Lægernes Pension samler kræfter om 900 boliger",
-          "snippet": "",
-          "url": "https://dansk-byudvikling.dk/ag-gruppen-og-laegernes-pension-samler-kraefter-om-900-boliger/",
-          "source": "Dansk Byudvikling"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "magnus cort",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 8 Sep 2026 09:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFhZeCdF7Klda6fFp_j6Lm__EveNuSanNpoHfeGjTaXcHdRP8jO1p1KnxTCKA",
-      "pictureSource": "tv2.dk",
-      "relatedSearch": [
-        {
-          "title": "Ustyrlig stjerne vinder for fjerde gang",
-          "snippet": "",
-          "url": "https://sport.tv2.dk/live/cykling/2026-09-08-ustyrlig-stjerne-vinder-for-fjerde-gang",
-          "source": "tv2.dk"
-        },
-        {
-          "title": "Matthew Brennan vinder 16. etape af Vuelta a España",
-          "snippet": "",
-          "url": "https://ekstrabladet.dk/sport/cykling/matthew-brennan-vinder-16.-etape-af-vuelta-a-espana/11283066",
-          "source": "Ekstra Bladet"
-        },
-        {
-          "title": "Cort bliver nummer fem i Spanien",
-          "snippet": "",
-          "url": "https://www.tv2bornholm.dk/bornholm/cort-bliver-nummer-fem-i-spanien-5d3dc",
-          "source": "TV2 Bornholm"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "københavn syd",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 8 Sep 2026 08:30:00 -0700",
-      "picture": "",
+      "title": "kronprinsesse",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 8 Sep 2026 10:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCnQB6U0QR9a2lDqVcl7MF9s63c059hxJwsy1sxFxr9g6hegZM76k430L-isY",
       "pictureSource": "dr.dk",
       "relatedSearch": [
         {
-          "title": "S-togtrafik var standset på København Syd",
+          "title": "Vulkan ændrer kronprinsesse Victorias rejse",
           "snippet": "",
-          "url": "https://www.dr.dk/nyheder/seneste/s-togtrafik-standset-paa-koebenhavn-syd",
+          "url": "https://www.dr.dk/nyheder/udland/vulkan-aendrer-kronprinsesse-victorias-rejse",
           "source": "dr.dk"
         },
         {
-          "title": "Togtrafikken standset på S-togsstation efter politiaktion",
+          "title": "Lufthavne i Indonesien genåbner efter vulkanudbrud | Udland | Nyheder",
           "snippet": "",
-          "url": "https://www.tv2kosmopol.dk/koebenhavn/s-togtrafikken-standset-pa-kobenhavn-syd-station-4bcf9",
-          "source": "TV 2 Kosmopol"
-        },
-        {
-          "title": "Politiet i aktion: Togtrafik standset | Krimi | Nyheder",
-          "snippet": "",
-          "url": "https://www.bt.dk/krimi/politiet-i-aktion-togtrafik-standset?gaa_at=eafs&gaa_n=AXbw80S3AHc79xShSaM51L0DZNS_n8_wmt7vRxpMvYEJ4taLqs9q4u_3mDER&gaa_ts=6aa04a8d&gaa_sig=wHaIcuzeP4Aml7Hgi_C4S-sZnS9h1uJhMwioiXRXUOK02T1IxhA7rXMTvmSbVu2NMsG7qsQfPR4jYLB2u9ERiQ%3D%3D",
-          "source": "B.T."
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "tivolirevyen",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 8 Sep 2026 07:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcVdfLq4Y_5jru3IfsMu5Qbk2a4oOIGYIj8R4Pj1Na_lATSS2utG-TD-rriUc",
-      "pictureSource": "B.T.",
-      "relatedSearch": [
-        {
-          "title": "Afslører: Her er det nye hold til Tivolirevyen | Kendte | Underholdning",
-          "snippet": "",
-          "url": "https://www.bt.dk/kendte/afsloerer-her-er-det-nye-hold-til-tivolirevyen?gaa_at=eafs&gaa_n=AXbw80QjvFmiHx620ddXzy-EK7reGC1_c8jkwgqsnarLSfiluuH3cX-FQxIr&gaa_ts=6aa04a22&gaa_sig=VBp9lg3bkRDR-amlUN3_1jx-9VYeHb3dES-e7a3gf3_hqZOwVJkVqGi5Va4ArYuM4HN42dXrM3Dxlv9387yVAw%3D%3D",
+          "url": "https://www.bt.dk/udland/lufthavne-i-indonesien-genaabner-efter-vulkanudbrud?gaa_at=eafs&gaa_n=AXbw80S1pT50GJz1Mzpg3j4pxeJIZ3hORmfUlCILi5MFkIItx3E0nK0PShAi&gaa_ts=6aa06ea5&gaa_sig=Ps9jTj4B-k3S-b0ILzk0-o8YmyAL3oRx1xk4BoIfFzTPMaijFdUK3w6Lw2AfucLOUuX_7zKBunyB2-7d4jkfIw%3D%3D",
           "source": "B.T."
         },
         {
-          "title": "Gengangere og debutanter: Nu er holdet afsløret",
+          "title": "Kronprinsesse sadler om efter vulkanudbrud: Tvunget til at ændre planer før begravelse",
           "snippet": "",
-          "url": "https://ekstrabladet.dk/underholdning/kultur/nu-er-tivoli-holdet-afsloeret-overrasker-med-to-kendte-debutanter/11282156",
+          "url": "https://ekstrabladet.dk/underholdning/kongelige/udenlandskekongelige/kronprinsesse-sadler-om-efter-vulkanudbrud-tvunget-til-at-aendre-planer-foer-begravelse/11281033",
           "source": "Ekstra Bladet"
-        },
-        {
-          "title": "Nu er det afsløret: Her er Tivolirevyens hold",
-          "snippet": "",
-          "url": "https://www.billedbladet.dk/kendte/danmark/teater/nu-er-det-afsloeret-her-er-tivolirevyens-hold",
-          "source": "BILLED-BLADET"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "ballon d'or 2026",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 8 Sep 2026 07:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMg3-AdEkVmCa6kYgBIUjK0DapKvIJJxpQdJdPT-rXQ-_5IS7i7vx9RZwzQBE",
-      "pictureSource": "OneFootball",
+      "title": "ryanair",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 8 Sep 2026 10:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNiFZ9B5Gm6CWOFj4uCMh7tniSkt4NG7CfAYxmUxuLlOH4Z95Jgw0qQf_7CHI",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Ballon d'Or 2026: OL Lyonnes well represented across shortlists",
+          "title": "Hundreds of flights cancelled at UK airports as air traffic control issue causes widespread disruption",
           "snippet": "",
-          "url": "https://onefootball.com/en/news/ballon-dor-2026-ol-lyonnes-well-represented-across-shortlists-43424374",
-          "source": "OneFootball"
+          "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
+          "source": "BBC"
         },
         {
-          "title": "He broke his own record: Paris Saint-Germain make history in the Ballon d'Or",
+          "title": "UK air traffic control problem strands hundreds of thousands of passengers",
           "snippet": "",
-          "url": "https://www.goal.com/en/news/he-broke-his-own-record-paris-saint-germain-make-history-in-the-ballon-d-or/blt319644bbf7cc60e3",
-          "source": "Goal.com"
+          "url": "https://www.theguardian.com/business/2026/sep/08/air-traffic-control-issue-flights-delays-disruption-uk",
+          "source": "The Guardian"
         },
         {
-          "title": "17 Ballon d'Or nominations: Lionel Messi closes on Cristiano Ronaldo record",
+          "title": "UK air traffic control glitch prompts nearly 300 cancellations, monitor says",
           "snippet": "",
-          "url": "https://onefootball.com/en/news/17-ballon-dor-nominations-lionel-messi-closes-on-cristiano-ronaldo-record-43424392",
-          "source": "OneFootball"
+          "url": "https://abcnews.com/Business/wireStory/airports-uk-report-disruptions-after-technical-issue-national-136275963",
+          "source": "ABC News - Breaking News, Latest News and Videos"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,263 +1,282 @@
 {
-  "lastUpdate": "2026-09-11 06:05:52",
+  "lastUpdate": "2026-09-11 11:11:21",
   "data": [
     {
-      "title": "počasí",
+      "title": "luka vušković",
       "trafficCount": "200+",
-      "pubDate": "Thu, 10 Sep 2026 22:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "pogoda",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 10 Sep 2026 22:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHIKBEumfFHYvJA15c9K2S1qncGVJ9bRb6YsoSpD1B1YA5DfXPzAAguEarT-c",
-      "pictureSource": "Wieluń Nasze Miasto",
-      "relatedSearch": [
-        {
-          "title": "Prognoza pogody weekendowa dla Wielunia. Sprawdź, jaka będzie pogoda od 11.09 (piątek) do 13.09 (niedziela)?",
-          "snippet": "",
-          "url": "https://wielun.naszemiasto.pl/prognoza-pogody-weekendowa-dla-wielunia-sprawdz-jaka-bedzie-pogoda-od-11-09-piatek-do-13-09-niedziela/ar/c1p1-19945571",
-          "source": "Wieluń Nasze Miasto"
-        },
-        {
-          "title": "Opady deszczu w Wieluniu. Ile go spadnie dzisiaj (10.09.2026) i w kolejnych 10 dniach?",
-          "snippet": "",
-          "url": "https://wielun.naszemiasto.pl/opady-deszczu-w-wieluniu-ile-go-spadnie-dzisiaj-10-09-2026-i-w-kolejnych-10-dniach/ar/c1p1-20090556",
-          "source": "Wieluń Nasze Miasto"
-        },
-        {
-          "title": "Jakie zmiany w warunkach pogodowych przewiduje się dziś (10.09) dla Wielunia? Sprawdź najświeższe informacje",
-          "snippet": "",
-          "url": "https://wielun.naszemiasto.pl/pogoda-w-wieluniu-dzisiaj-29-08-jaka-bedzie-temperatura-w-sobote/ar/c1p1-19943255",
-          "source": "Wieluń Nasze Miasto"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "időjárás",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 10 Sep 2026 22:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxgWMFTFo9pjJmk_liwXWKhuiW5K9wV4QdBznDaXSxxtBOaxXTyZ1t61G1wM8",
-      "pictureSource": "Agroinform",
-      "relatedSearch": [
-        {
-          "title": "Több hullámban érkezik az eső: mutatjuk, mely térségek kapnak 30 millimétert és kik maradnak ki",
-          "snippet": "",
-          "url": "https://www.agroinform.hu/idojaras_hirek/tobb-hullamban-erkezik-az-eso-mutatjuk-mely-tersegek-kapnak-30-millimetert-es-kik-maradnak-ki-105667-001",
-          "source": "Agroinform"
-        },
-        {
-          "title": "Alig vonult el az előző vihar, máris itt az újabb: az ország háromnegyedére figyelmeztetést adtak ki",
-          "snippet": "",
-          "url": "https://index.hu/belfold/2026/09/10/idojaras-eso-csapadek-zapor-zivatar-csapadekzona-szel-szellokes-homerseklet-figyelmeztetes/",
-          "source": "Index.hu"
-        },
-        {
-          "title": "Megérkezett a várva várt eső",
-          "snippet": "",
-          "url": "https://24.hu/belfold/2026/09/11/idojaras-2026-szeptember-11/",
-          "source": "24.hu"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "wetter",
-      "trafficCount": "1000+",
-      "pubDate": "Thu, 10 Sep 2026 22:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQk3BZB8VVbZu2OUn-dx0k-5U9R-E4He_Z6L6LBbWAAp26cRWwusFBtTDhDHzE",
-      "pictureSource": "DIE ZEIT",
-      "relatedSearch": [
-        {
-          "title": "Wetter: Freundlicher Start ins Wochenende – Am Sonntag Regen möglich",
-          "snippet": "",
-          "url": "https://www.zeit.de/news/2026-09/11/freundlicher-start-ins-wochenende-am-sonntag-regen-moeglich",
-          "source": "DIE ZEIT"
-        },
-        {
-          "title": "Zweiteilung am Wochenende - Im Süden richtig schön",
-          "snippet": "",
-          "url": "https://www.wetteronline.de/wetterticker/zweiteilung-am-wochenende-im-sueden-richtig-schoen--8c460c04-054e-4517-99c9-9482327edf70",
-          "source": "WetterOnline"
-        },
-        {
-          "title": "Wetteraussichten für Rheinland-Pfalz und Hessen",
-          "snippet": "",
-          "url": "https://www.1730live.de/2026/09/09/wetteraussichten-fuer-rheinland-pfalz-und-hessen-303/",
-          "source": "https://www.1730live.de"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "vrijeme",
-      "trafficCount": "20000+",
-      "pubDate": "Thu, 10 Sep 2026 21:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTp1qmf4MjWxRP4crMTiNal3tGGHgZS7bgn15F8rwMYjCr-hLgzn-g9qw9ddlM",
-      "pictureSource": "Večernji.hr",
-      "relatedSearch": [
-        {
-          "title": "Upaljeni alarmi za cijelu zemlju, prijeti nevrijeme: 'Moguće su bujične poplave, olujni udari vjetra i tuča'",
-          "snippet": "",
-          "url": "https://www.vecernji.hr/vijesti/upaljeni-alarmi-za-cijelu-zemlju-prijeti-nevrijeme-moguce-su-bujicne-poplave-olujni-udari-vjetra-i-tuca-1994327",
-          "source": "Večernji.hr"
-        },
-        {
-          "title": "Norvežani kažu da nam ozbiljnija kiša dolazi iza ponoći, evo kad točno i nad kojim područjem, imamo prognozu po satima",
-          "snippet": "",
-          "url": "https://slobodnadalmacija.hr/dalmacija/s-mora-i-kraja/norvezani-kazu-da-nam-ozbiljnija-kisa-dolazi-iza-ponoci-evo-kad-tocno-i-nad-kojim-podrucjem-imamo-prognozu-po-satima-1578166",
-          "source": "Slobodna Dalmacija"
-        },
-        {
-          "title": "Izdan niz upozorenja za opasno vrijeme, posebno zabrinjava što prijeti Dalmaciji",
-          "snippet": "",
-          "url": "https://www.jutarnji.hr/vijesti/hrvatska/narancasti-alarmi-bura-pljuskovi-sjeverni-jadran-rijeka-gospic-dhmz-upozorenje-15745064",
-          "source": "Jutarnji list"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "novinar",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 10 Sep 2026 21:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs6AGuE2H5-zMYjNTZ7DoyhyKjm89Qs1AsQjh2HJpfbL1_DfEKSjoBBlsFgo0",
+      "pubDate": "Fri, 11 Sep 2026 03:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRLzINHb1IscLKAedJpEIlCrqxpdAq0S0ZU5fSXSFufnIHBTOqvRLhcvVdwpg",
       "pictureSource": "Index.hr",
       "relatedSearch": [
         {
-          "title": "U Njemačkoj se ljudima više isplati sjediti doma nego raditi. Zato je AfD pobijedio",
+          "title": "Kapetan Brightona: Vušković može biti vrhunski, vrhunski, vrhunski stoper",
           "snippet": "",
-          "url": "https://www.index.hr/vijesti/clanak/u-njemackoj-se-ljudima-vise-isplati-sjediti-doma-nego-raditi-zato-je-afd-pobijedio/2832958.aspx",
+          "url": "https://www.index.hr/amp/sport/clanak/kapetan-brightona-vuskovic-moze-biti-vrhunski-vrhunski-vrhunski-stoper/2832959.aspx",
           "source": "Index.hr"
         },
         {
-          "title": "AfD opet prijeti velikim iznenađenjem: Na pragu su još jednog izbornog trijumfa",
+          "title": "Ovo mogu samo opaki igrači! Vušković je griješio i patio, a onda se digao poput pravog monstruma i izdominirao",
           "snippet": "",
-          "url": "https://www.tportal.hr/vijesti/clanak/afd-opet-prijeti-velikim-iznenadenjem-na-pragu-su-jos-jednog-izbornog-trijumfa-20260910",
-          "source": "tportal.hr"
+          "url": "https://www.jutarnji.hr/sportske/nogomet/premiership/luka-vuskovic-prvijenac-brighton-leeds-premier-liga-analiza-15743693",
+          "source": "Jutarnji list"
         },
         {
-          "title": "U nedjelju su mogli biti iznenađeni samo oni koji vjeruju u bajke i čuda. AfD je pokazao što je sve moguće",
+          "title": "Utakmica još traje, a navijači ne mogu vjerovati što radi Luka Vušković: 'Posramljuje naše napadače'",
           "snippet": "",
-          "url": "https://www.jutarnji.hr/vijesti/svijet/merz-najavljuje-reset-cdu-a-dok-afd-jaca-pred-izbore-15745162",
-          "source": "Jutarnji list"
+          "url": "https://www.tportal.hr/sport/clanak/utakmica-jos-traje-a-navijaci-ne-mogu-vjerovati-sto-radi-luka-vuskovic-posramljuje-nase-napadace-20260905",
+          "source": "tportal.hr"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "poplava",
+      "title": "angelina jolie",
       "trafficCount": "100+",
-      "pubDate": "Thu, 10 Sep 2026 21:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjcis5wdyiyVaKQWBHUVpz2L1YcvcLbOvpk64HmwJYoPKRPMYkZ9hohKBBHl8",
-      "pictureSource": "Požeški.hr",
+      "pubDate": "Fri, 11 Sep 2026 03:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT71bPAuGRoUfivTK6m40_MP98gqwuyPLtrjm6oJ_rLqpdkGH-DJMIySHmZkQE",
+      "pictureSource": "L'OFFICIEL USA",
       "relatedSearch": [
         {
-          "title": "Čeka li se nova poplava? Korita Orljave i Vučjaka zatrpana i zakrčena",
+          "title": "L'OFFICIEL's September 2026 Issue: Letter From the Editor",
           "snippet": "",
-          "url": "https://pozeski.hr/ceka-li-se-nova-poplava-korita-orljave-i-vucjaka-zatrpana-i-zakrcena/",
-          "source": "Požeški.hr"
+          "url": "https://www.lofficielusa.com/fashion/lofficiel-usa-september-2026-issue-letter-from-the-editor-angelina-jolie-cover",
+          "source": "L'OFFICIEL USA"
         },
         {
-          "title": "Hlebine ulažu u sigurnost i turizam, načelnica Trnski: 'Milijunski projekt zaštite od poplava, a stiže i proslava Dana Općine'",
+          "title": "Angelina Jolie Is Taking Her Fashion Collective Global",
           "snippet": "",
-          "url": "https://drava.info/2026/09/hlebine-ulazu-u-sigurnost-i-turizam-nacelnica-trnski-milijunski-projekt-zastite-od-poplava-a-stize-i-proslava-dana-opcine/",
-          "source": "Drava.info"
+          "url": "https://www.yahoo.com/entertainment/videos/angelina-jolie-taking-her-fashion-100144962.html",
+          "source": "Yahoo"
         },
         {
-          "title": "SUSJEDNE OPĆINE Sigurnije Hlebine i nova turistička priča, Načelnica Trnski otkrila planove Općine",
+          "title": "Angelina Jolie on Atelier Jolie, Motherhood, and What Comes Next",
           "snippet": "",
-          "url": "https://podravskiradio.hr/susjedne-opcine-sigurnije-hlebine-i-nova-turisticka-prica-nacelnica-trnski-otkrila-planove-opcine/",
-          "source": "Podravski radio"
+          "url": "https://www.lofficielusa.com/film-tv/angelina-jolie-interview-kids-without-blood-movie-atelier-jolie",
+          "source": "L'OFFICIEL USA"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "pogreb",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 10 Sep 2026 20:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQy-hS-hbbyvZzD9j2K4EeI4DoudK3rjE0kjgF-6_RFdTJLI_sD4mPb_-9-DZA",
+      "title": "valdas dambrauskas",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 11 Sep 2026 03:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLUkCTZaFzJsE3ghhZ6238RRsJwo6kp124esSZS3YP02gkV3P-kN02nIWCoxY",
       "pictureSource": "Jutarnji list",
       "relatedSearch": [
         {
-          "title": "Mirjana Rakić bez okolišanja odgovorila na pitanje kako treba kazniti Srbiju zbog Ratka Mladića",
+          "title": "Razočarani Dambrauskas nakon potopa na Old Traffordu: ‘Svi idemo kući s istim osjećajem...‘",
           "snippet": "",
-          "url": "https://www.jutarnji.hr/vijesti/svijet/mirjana-rakic-trazi-obustavu-eu-sredstava-srbiji-nakon-pokopa-mladica-15745330",
+          "url": "https://www.jutarnji.hr/sportske/nogomet/dambrauskas-nedostajalo-hrabrosti-sabah-poraz-0-4-old-trafford-manchester-united-15745482",
           "source": "Jutarnji list"
         },
         {
-          "title": "Mirjana Rakić o Mladićevu pokopu: 'To je bilo van pameti'; otkrila kako EU može kazniti Srbiju: 'Na to su osjetljivi'",
+          "title": "LIGA PRVAKA: Gol i asistencija Baturine, Dambrauskas poražen na Old Traffordu",
           "snippet": "",
-          "url": "https://slobodnadalmacija.hr/vijesti/regija/mirjana-rakic-o-mladicevu-pokopu-to-je-bilo-van-pameti-eu-ovako-moze-kazniti-srbiju-na-to-su-i-oni-osjetljivi-1578203",
-          "source": "Slobodna Dalmacija"
+          "url": "https://dalmatinskiportal.hr/liga-prvaka-gol-i-asistencija-baturine-dambrauskas-porazen-na-old-traffordu",
+          "source": "Dalmatinski Portal"
         },
         {
-          "title": "Je li Porfirije na opijelu Mladiću samo otvarao usta? Treba li blokirati Srbiju i zabraniti SPC?",
+          "title": "Video. Dambrauskasov Sabah uvjerljivo izgubio od Manchester Uniteda",
           "snippet": "",
-          "url": "https://www.vecernji.hr/vijesti/je-li-porfirije-na-opijelu-mladicu-samo-otvarao-usta-treba-li-blokirati-srbiju-i-zabraniti-spc-1993956",
+          "url": "https://www.telegram.hr/telesport/na-prvu/valdas-dambrauskas-nastradao-u-ligi-prvaka-manchester-united-uvjerljivo-je-svladao-njegov-sabah/",
+          "source": "Telegram.hr"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ratni zločin",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 11 Sep 2026 03:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwQlyU3XojxtCFFhN6qMm9laajw34DSwK0qG0KQxccx2ZV2FrXRrwEVnFsC5c",
+      "pictureSource": "Jutarnji list",
+      "relatedSearch": [
+        {
+          "title": "Komandant Teritorijalne obrane Darde osumnjičen za ratne zločine!",
+          "snippet": "",
+          "url": "https://www.jutarnji.hr/vijesti/hrvatska/prijava-za-ratne-zlocine-u-baranji-protiv-68-godisnjaka-bivseg-komandanta-15744888",
+          "source": "Jutarnji list"
+        },
+        {
+          "title": "Novi slučaj ratnog zločina u Baranji: U Dardi ubijeno 45 civila, prijavljen bivši zapovjednik",
+          "snippet": "",
+          "url": "https://www.tportal.hr/vijesti/clanak/novi-slucaj-ratnog-zlocina-u-baranji-u-dardi-ubijeno-45-civila-prijavljen-bivsi-zapovjednik-20260909",
+          "source": "tportal.hr"
+        },
+        {
+          "title": "NAKON 35 GODINA Komandant Teritorijalne obrane Darde prijavljen za ratni zločin",
+          "snippet": "",
+          "url": "https://dalmatinskiportal.hr/nakon-35-godina-komandant-teritorijalne-obrane-darde-prijavljen-za-ratni-zlocin",
+          "source": "Dalmatinski Portal"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "prometna nesreća zagreb",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 11 Sep 2026 03:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoHLAGA0patzhwYp4thPePq5qvWT0WtuMeXcGvoHf49E4QsYSJhLr26-zQuF8",
+      "pictureSource": "Jutarnji list",
+      "relatedSearch": [
+        {
+          "title": "Dvoje poginulih u teškoj nesreći kod Zagreba: Auto se prepolovio, prizori su strašni",
+          "snippet": "",
+          "url": "https://www.jutarnji.hr/vijesti/crna-kronika/teska-prometna-nesreca-velika-mlaka-dvoje-poginulih-zatvorena-zagrebacka-ulica-15745372",
+          "source": "Jutarnji list"
+        },
+        {
+          "title": "FOTO Potresni prizor na mjestu nesreće kod Velika Gorice: Auto se prepolovio, dvoje poginulo",
+          "snippet": "",
+          "url": "https://www.vecernji.hr/vijesti/foto-potresni-prizor-na-mjestu-nesrece-kod-velika-gorice-auto-se-prepolovio-dvoje-poginulo-1994333",
+          "source": "Večernji.hr"
+        },
+        {
+          "title": "FOTO Autom se zabili u stup kod V. Gorice, dvoje mrtvih. Auto je prepolovljen, scene stravične...",
+          "snippet": "",
+          "url": "https://www.24sata.hr/news/foto-prizori-strave-kod-gorice-zatvorili-zagrebacku-ulicu-1153457",
+          "source": "24sata.hr"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "elektrotehnička škola zagreb",
+      "trafficCount": "2000+",
+      "pubDate": "Fri, 11 Sep 2026 01:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6A1heXcibDwVoqSrtiHHEHcHSGwXfj2ZTEH0MlBEOkSKFUUeTT5hGazc-1lA",
+      "pictureSource": "Jutarnji list",
+      "relatedSearch": [
+        {
+          "title": "Učenik u školi ranio drugog učenika i spremačicu, Tomašević: 'Nama je poznato malo više detalja...'",
+          "snippet": "",
+          "url": "https://www.jutarnji.hr/vijesti/zagreb/napad-elektrotehnicka-skola-zagreb-ozlijedjeni-ucenik-i-spremacica-15745404",
+          "source": "Jutarnji list"
+        },
+        {
+          "title": "UŽIVO Krvavi napad u zagrebačkoj školi: Izbodeni učenik i spremačica...",
+          "snippet": "",
+          "url": "https://dnevnik.hr/vijesti/hrvatska/policija-ispred-srednje-skole-u-zagrebu---1000873.html",
+          "source": "Dnevnik.hr"
+        },
+        {
+          "title": "Učenik izbo drugog učenika i spremačicu u srednjoj školi u Zagrebu",
+          "snippet": "",
+          "url": "https://www.index.hr/vijesti/clanak/ucenik-izbo-drugog-ucenika-i-spremacicu-u-srednjoj-skoli-u-zagrebu/2833324.aspx",
+          "source": "Index.hr"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "francuska",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 11 Sep 2026 01:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2Gdh7_5cvbuA0_oBVU1-gdNd_Jb7qdw0p5Pg99_1XNQb2-ZAeVvzRrJU-jx8",
+      "pictureSource": "Jutarnji list",
+      "relatedSearch": [
+        {
+          "title": "Francuska kreće u lov na Štuku! Sutkinja u Parizu priprema međunarodni nalog za uhićenje ubojice",
+          "snippet": "",
+          "url": "https://www.jutarnji.hr/vijesti/hrvatska/pariz-izdaje-tjeralicu-spasoje-petkovic-slucaj-nicolier-ovcara-15745311",
+          "source": "Jutarnji list"
+        },
+        {
+          "title": "Francuska kreće u lov na ubojicu Jean-Michela Nicoliera: \"Ako Beograd nije čuo Zagreb, čut će kad zagrmi iz Pariza\"",
+          "snippet": "",
+          "url": "https://n1info.hr/vijesti/francuska-krece-u-lov-na-ubojicu-jean-michela-nicoliera-ako-beograd-nije-cuo-zagreb-cut-ce-kad-zagrmi-iz-pariza/",
+          "source": "N1"
+        },
+        {
+          "title": "Francuska raspisuje međunarodnu tjeralicu za ubojicom Jean-Michela Nicoliera, na udaru i Šljivančanin",
+          "snippet": "",
+          "url": "https://www.vecernji.hr/vijesti/francuska-raspisuje-medunarodnu-tjeralicu-za-ubojicom-jean-michela-nicoliera-na-udaru-i-sljivancanin-1994286",
           "source": "Večernji.hr"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "virus",
+      "title": "dnevnik hr",
       "trafficCount": "200+",
-      "pubDate": "Thu, 10 Sep 2026 20:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEpcTqk5OKzWtJCigy_OzjAIHJZSGu5l54wL06VuYb8AOUmgoDI2pp9mqpzI0",
-      "pictureSource": "Georgia Public Broadcasting",
+      "pubDate": "Fri, 11 Sep 2026 00:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQekf2UgZkCDDkjKzErJtuhNIVdR0YQz2ponJyEs07vQCMbnIer2NWAvSfN2U",
+      "pictureSource": "Dnevnik.hr",
       "relatedSearch": [
         {
-          "title": "West Nile virus is entering its peak season. Here’s how you can protect yourself",
+          "title": "Je li Ćorić odškrinuo vrata otpadnoj mafiji? Ovo pitanje nije mu dobro sjelo! Evo što je odgovorio...",
           "snippet": "",
-          "url": "https://www.gpb.org/news/2026/09/10/west-nile-virus-entering-its-peak-season-heres-how-you-can-protect-yourself",
-          "source": "Georgia Public Broadcasting"
+          "url": "https://dnevnik.hr/vijesti/hrvatska/tomislav-coric-u-dnevniku-nove-tv---1000825.html",
+          "source": "Dnevnik.hr"
         },
         {
-          "title": "West Nile Virus Cases Grow In Active Mosquito Year: What To Know In MA",
+          "title": "Ministarstvo: Zakonske izmjene nisu ukinule kontrolu prekograničnog prometa otpada",
           "snippet": "",
-          "url": "https://patch.com/massachusetts/across-ma/west-nile-virus-cases-grow-active-mosquito-year-what-know-ma",
-          "source": "Patch"
+          "url": "https://www.jutarnji.hr/vijesti/hrvatska/ministarstvo-kaze-kontrole-otpada-ostaju-birokracija-smanjena-e-onto-15744825",
+          "source": "Jutarnji list"
         },
         {
-          "title": "West Nile Risk Doesn’t End With Summer: What josephine and Jackson County Residents Should Know",
+          "title": "DZS otkriva propuštene prilike poslova s otpadom – uvoz oštro pada, a izvoz buja",
           "snippet": "",
-          "url": "https://www.grantspasstribune.com/west-nile-risk-doesnt-end-with-summer-what-josephine-and-jackson-county-residents-should-know/",
-          "source": "Grants Pass Tribune"
+          "url": "https://www.poslovni.hr/hrvatska/dzs-otkriva-propustene-prilike-poslova-s-otpadom-uvoz-ostro-pada-a-izvoz-buja-4553918",
+          "source": "Poslovni dnevnik"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "weather",
-      "trafficCount": "2000+",
-      "pubDate": "Thu, 10 Sep 2026 20:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBXSJUrt6aYg2qBZsQ5crcTyhSONnTyIcwl0G1OF2Q5W0YRJ_AECRlgKcofg",
-      "pictureSource": "blog.google",
+      "title": "emmanuel macron",
+      "trafficCount": "1000+",
+      "pubDate": "Thu, 10 Sep 2026 23:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4CKf-e-vEx67P_uC13RxZcThfzflReOEZrF-6DZ5bRNV0Z7RPXuWq9TRYsyw",
+      "pictureSource": "Ouest-France",
       "relatedSearch": [
         {
-          "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "title": "Emmanuel Macron assistera-t-il au concert de Céline Dion à Paris ? La drôle de réponse en chanson d’un de ses proches",
           "snippet": "",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
-          "source": "blog.google"
+          "url": "https://www.ouest-france.fr/culture/musiques/celine-dion/emmanuel-macron-assistera-t-il-au-concert-de-celine-dion-a-paris-la-drole-de-reponse-en-chanson-dun-de-ses-proches-61e9fcec-adc5-11f1-8483-804bbf8224d2",
+          "source": "Ouest-France"
         },
         {
-          "title": "Google’s WeatherNext 3 AI model in Search, Gemini has ’50% more accurate precipitation forecasts’",
+          "title": "Réception d’archives sur le Président Hô Chi Minh remises par la France",
           "snippet": "",
-          "url": "https://9to5google.com/2026/09/03/google-weathernext-3/",
-          "source": "9to5Google"
+          "url": "https://lecourrier.vn/reception-darchives-sur-le-president-ho-chi-minh-remises-par-la-france/1355222.html",
+          "source": "lecourrier.vn"
         },
         {
-          "title": "Update to Google’s AI weather model improves forecast accuracy",
+          "title": "Visite officielle du président vietnamien en France",
           "snippet": "",
-          "url": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
-          "source": "Ars Technica"
+          "url": "http://french.xinhuanet.com/20260911/84ada5a4794f4f999b5bcc781cb19fb1/c.html",
+          "source": "Xinhua - french.news.cn"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "teams",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 10 Sep 2026 23:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBph1nYNerjh2moVxDl7s9HcQ4CVC7v-Teu8NZh7B72h3lo4H3_6xcPMd17Pk",
+      "pictureSource": "ESPN",
+      "relatedSearch": [
+        {
+          "title": "MLB Power Rankings Week 24: AL contender rising in mid-September",
+          "snippet": "",
+          "url": "https://www.espn.com/mlb/story/_/id/49880556/mlb-2026-power-rankings-week-24-brewers-dodgers-braves-yankees-rays-blue-jays",
+          "source": "ESPN"
+        },
+        {
+          "title": "MLB Power Rankings: Teams start to settle in as we look toward the playoff push",
+          "snippet": "",
+          "url": "https://www.nytimes.com/athletic/7559532/2026/09/08/mlb-power-rankings-brewers-athletics-callups/",
+          "source": "The New York Times"
+        },
+        {
+          "title": "MLB Power Rankings: National League playoff race looks like a baseball fan's dream (just don't look at the AL)",
+          "snippet": "",
+          "url": "https://www.cbssports.com/mlb/news/mlb-power-rankings-national-league-playoff-race/",
+          "source": "CBS Sports"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,58 +1,123 @@
 {
-  "lastUpdate": "2026-09-14 01:19:13",
+  "lastUpdate": "2026-09-14 06:26:33",
   "data": [
     {
-      "title": "novice",
+      "title": "weather",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 13 Sep 2026 21:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoCj1KHvqst_Nyro9MOdC3VC6Tddg9wR9mtU2Y5NPlgaPk_jrgFmN_kq7H8ZQ",
+      "pictureSource": "Cleveland 19 News",
+      "relatedSearch": [
+        {
+          "title": "Northeast Ohio Weather: Cool today; warmer tomorrow",
+          "snippet": "",
+          "url": "https://www.cleveland19.com/2026/09/14/northeast-ohio-weather-cool-today-warmer-tomorrow/",
+          "source": "Cleveland 19 News"
+        },
+        {
+          "title": "FORECAST: Fall-like start to the week!",
+          "snippet": "",
+          "url": "https://fox8.com/weather/forecast-fall-like-start-to-the-week/",
+          "source": "FOX 8 News"
+        },
+        {
+          "title": "Isolated storms this evening, much cooler Monday",
+          "snippet": "",
+          "url": "https://www.whio.com/news/local/isolated-storms-this-evening-much-cooler-monday/QSORKCLPBFD6JIJ6HKDSG5Y3MQ/",
+          "source": "WHIO TV"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "luka dončić",
       "trafficCount": "500+",
-      "pubDate": "Sun, 13 Sep 2026 18:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLKN0XdE5lCKOsqwPIdXHyCe_CqZSy99SFGbrMbhaf7ocigtyVdh4trH2tV7w",
+      "pubDate": "Sun, 13 Sep 2026 20:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXCv28Phe5gmftvxrUqQT39BIXclnA55naGjRJHjp1z9dDauellBTDLZYfvmY",
+      "pictureSource": "Ekipa",
+      "relatedSearch": [
+        {
+          "title": "Dončić z doktorjem, Amerika na nogah - toliko poškodb ni imel nihče",
+          "snippet": "",
+          "url": "https://ekipa.svet24.si/sport/kosarka/slovenci-v-tujini-kosarka/luka-doncic-doktor-los-angeles-lakers-poskodbe-okrepitev-1925974",
+          "source": "Ekipa"
+        },
+        {
+          "title": "Dončić pri 105 kilogramih? Američani navdušeni nad njegovo novo podobo",
+          "snippet": "",
+          "url": "https://www.delo.si/sport/kosarka/doncic-pri-105-kilogramih-americani-navduseni-nad-njegovo-novo-podobo",
+          "source": "Delo.si"
+        },
+        {
+          "title": "Luka Dončić povsem spremenjen, tehnica naj bi kazala 105 kilogramov",
+          "snippet": "",
+          "url": "https://slovenskenovice.delo.si/sport/sportni-traci/luka-doncic-povsem-spremenjen-tehnica-naj-bi-kazala-105-kilogramov",
+          "source": "Slovenske novice"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "vrijeme",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 13 Sep 2026 20:10:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "nesreča",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 13 Sep 2026 19:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVbAXAxgRFkReSKn7G9f9M7kYF_eXP3vIhaqeWpA_xdeFERj8rLHhZpVDc-6o",
       "pictureSource": "24ur.com",
       "relatedSearch": [
         {
-          "title": "Pogorela sedmina otoka, več sto ljudi evakuirali",
+          "title": "Nesreča tovornjaka in avtomobila v predoru za več ur zaprla avtocesto",
           "snippet": "",
-          "url": "https://www.24ur.com/novice/tujina/evakuacije-na-bracu-turisti-sami-plavali-do-colnov.html",
+          "url": "https://www.24ur.com/novice/slovenija/od-jutra-zaprta-stajerska-avtocesta.html",
           "source": "24ur.com"
         },
         {
-          "title": "Grozljivo dogajanje na Braču med evakuacijo: ženska padla s plovila, bori se za življenje (VIDEO in FOTO)",
+          "title": "Znane so podrobnosti nesreče, ki je zaprla štajersko avtocesto",
           "snippet": "",
-          "url": "https://slovenskenovice.delo.si/novice/svet/peklenska-noc-na-bracu-pozar-se-je-priblizal-milni-evakuirali-227-ljudi-poskodovanih-vec-objektov-video-in-foto",
-          "source": "Slovenske novice"
+          "url": "https://siol.net/avtomoto/promet/zaradi-prometne-nesrece-zaprta-stajerska-avtocesta-701279",
+          "source": "Siol.net"
         },
         {
-          "title": "(VIDEO) Britanka po dramatični noči na Braču: Bili smo v vodi z dojenčkom, kričali smo in jokali",
+          "title": "Pozor, zaradi nesreče več ur zaprta avtocesta!",
           "snippet": "",
-          "url": "https://vecer.com/kronika/britanka-brac-dojencek-jok-pozar-gasenje-10426987",
-          "source": "Večer"
+          "url": "https://www.zurnal24.si/slovenija/pozor-zaradi-nesrece-zaprta-avtocesta-465060",
+          "source": "Žurnal24"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "brest – psg",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 13 Sep 2026 12:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwgjazMjIfuWaUHcz431DKT0_6eq7oB8OgvFNanIwTIyzJ_CRCdZXbB2PwvWk",
-      "pictureSource": "Football365",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJeMG43OHexiKhYXbB6l-LIeJsazgdEqz-VXk-pfOXKkdGNLn198NIHNTX0Gc",
+      "pictureSource": "Starsporttv",
       "relatedSearch": [
         {
-          "title": "Ligue 1 : Le PSG dans la douleur",
+          "title": "Les Belges à l'étranger - Le PSG s'impose enfin à Brest, Sassuolo s'offre la Juventus, le PSV poursuit sa route",
           "snippet": "",
-          "url": "https://www.football365.fr/le-psg-dans-la-douleur-10314422.html",
-          "source": "Football365"
+          "url": "https://starsporttv.be/fr/content/les-belges-a-letranger-le-psg-simpose-enfin-a-brest-sassuolo-soffre-la-juventus-le-psv-poursuit-sa-route",
+          "source": "Starsporttv"
         },
         {
-          "title": "L1 : le classement complet",
+          "title": "Ligue 1 Matchday 4 fixtures",
           "snippet": "",
-          "url": "https://www.maxifoot.fr/ligue-1/le-classement-complet-foot-463937.htm",
-          "source": "Maxifoot"
+          "url": "https://www.psg.fr/en/content/results-from-matchday-4-of-ligue-1-2026-2027-stade-brestois-29-paris-saint-germain/",
+          "source": "Paris Saint-Germain"
         },
         {
-          "title": "Brest - PSG (0-1) : « C’est notre pire match », Luis Enrique agacé malgré une première victoire de la saison en Ligue 1",
+          "title": "Safonov, la perf après les questions",
           "snippet": "",
-          "url": "https://www.leparisien.fr/sports/football/psg/brest-psg-0-1-cest-notre-pire-match-luis-enrique-agace-malgre-une-premiere-victoire-de-la-saison-en-ligue-1-14-09-2026-6GIV3LO2IJBK7AES2GL5XLOHRE.php",
-          "source": "Le Parisien"
+          "url": "https://fr.news.yahoo.com/safonov-perf-apr%C3%A8s-questions-032015031.html",
+          "source": "Yahoo Actualités"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,15 +126,9 @@
       "title": "ben shelton",
       "trafficCount": "500+",
       "pubDate": "Sun, 13 Sep 2026 12:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1bZ_wywxsd0UpEy37vkbcBRTWmRFYA7vJ5ZSdOr1-R86q7v_GucUGjNkyNDI",
-      "pictureSource": "The Guardian",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQukpzd4Vl8hhAkYJold_sMyRSSROFxgJspC8h8Sv1MSbwsA96HYk0WwYHl_vg",
+      "pictureSource": "BBC",
       "relatedSearch": [
-        {
-          "title": "US Open 2026 men’s final: Alexander Zverev beats Ben Shelton in four sets to claim title – as it happened",
-          "snippet": "",
-          "url": "https://www.theguardian.com/sport/live/2026/sep/13/us-open-tennis-2026-mens-final-alexander-zverev-v-ben-shelton-live-updates",
-          "source": "The Guardian"
-        },
         {
           "title": "US Open 2026 LIVE: Alexander Zverev vs Ben Shelton - scores, radio & live text updates",
           "snippet": "",
@@ -77,10 +136,16 @@
           "source": "BBC"
         },
         {
-          "title": "John McEnroe reacts as Alexander Zverev beats Ben Shelton and wins the US Open title",
+          "title": "Licensable video: Brad Pitt, Pink, and Ronaldo Lead Star-Studded Parade at US Open Final",
           "snippet": "",
-          "url": "https://tennishead.net/john-mcenroe-reacts-as-alexander-zverev-beats-ben-shelton-and-wins-the-us-open-title/",
-          "source": "Tennishead"
+          "url": "https://www.reutersconnect.com/item/brad-pitt-pink-and-ronaldo-lead-star-studded-parade-at-us-open-final/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XRUZWQzU1MDIxMzkxNDUwMDAx",
+          "source": "Reuters Connect"
+        },
+        {
+          "title": "All the celebrities spotted at 2026 US Open: The star-studded guest list",
+          "snippet": "",
+          "url": "https://www.geo.tv/latest/681966-all-the-celebrities-spotted-at-2026-us-open-the-star-studded-guest-list",
+          "source": "Geo News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,16 +164,44 @@
           "source": "India Today"
         },
         {
-          "title": "Weather Tomorrow September 14: heavy rain, thunderstorms, gusty winds warning for several states – Check IMD",
+          "title": "Heavy rain likely over Haryana, Punjab during Sept 14-17: IMD",
           "snippet": "",
-          "url": "https://www.india.com/news/india/weather-tomorrow-september-14-heavy-rain-thunderstorms-gusty-winds-warning-for-several-states-check-imd-forecast-for-maharashtra-delhi-odisha-bihar-uttar-pradesh-mp-8523594/",
-          "source": "India.com"
+          "url": "https://www.uniindia.com/north-india/heavy-rain-likely-over-haryana-punjab-during-sept-14-17-imd/179004",
+          "source": "United News of India"
         },
         {
-          "title": "Delhi Hosts BRICS Leaders Amid Improved Air Quality as AQI Drops to 62",
+          "title": "Delhi-NCR braces for another spell of rain; dry weather likely from September 17",
           "snippet": "",
-          "url": "https://thecsrjournal.in/delhi-hosts-brics-leaders-amid-improved-air-quality-aqi-drops-62",
-          "source": "The CSR Journal"
+          "url": "https://ddindia.co.in/2026/09/delhi-ncr-braces-for-another-spell-of-rain-dry-weather-likely-from-september-17/",
+          "source": "DD India"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "vrijeme sutra",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 13 Sep 2026 11:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRD-xIGZ_9hCOmacWAmZU16Qo-7Bl3EOMy_tcPGGmqz6EBFbAvWytvYShYofQU",
+      "pictureSource": "HRT",
+      "relatedSearch": [
+        {
+          "title": "Nedjelja pretežno sunčana i još malo toplija, ali jutro svježe, magla, bura",
+          "snippet": "",
+          "url": "https://vrijeme-i-promet.hrt.hr/vrijeme/vremenska-prognoza-za-13-9-2026-12902101",
+          "source": "HRT"
+        },
+        {
+          "title": "Danas će biti pretežno sunčano, a navečer oblačnije",
+          "snippet": "",
+          "url": "https://karlovacki.hr/danas-ce-biti-pretezno-suncano-a-navecer-vise-oblaka/",
+          "source": "Karlovački.hr"
+        },
+        {
+          "title": "DHMZ: Na Jadranu sunčano, u unutrašnjosti promjenljiva naoblaka",
+          "snippet": "",
+          "url": "https://www.hina.hr/vijest/12497733",
+          "source": "HINA"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,26 +210,26 @@
       "title": "slovenci",
       "trafficCount": "2000+",
       "pubDate": "Sun, 13 Sep 2026 11:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTF1vK9x4kc5KI9_9wrZeB3kaWtA4ULdSZg1EDQlSoE5KKpdwITOHrPGVYMzUE",
-      "pictureSource": "Siol.net",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaFwbBxSM2OE1ZVDXW8FT9StwWnZrHPg9RJtjoKt1SvxCfoffmVtKdHfVKDR8",
+      "pictureSource": "24ur.com",
       "relatedSearch": [
         {
-          "title": "Soli v boj poslal mlade, ti navdušili, Mujanović izpostavil pomembno stvar #video",
+          "title": "Slovenci po Slovaški želijo poln izkupiček tudi proti Švedski",
           "snippet": "",
-          "url": "https://siol.net/sportal/odbojka/ep-odbojka-peti-dan-2026-701292",
-          "source": "Siol.net"
+          "url": "https://www.24ur.com/sport/ostalo/slovence-po-suvereni-uvodni-zmagi-caka-trsi-oreh.html",
+          "source": "24ur.com"
+        },
+        {
+          "title": "Slovenci upravičili vlogo favorita in Švedski niso prepustili niti niza",
+          "snippet": "",
+          "url": "https://www.rtvslo.si/sport/odbojka/ep-v-odbojki-2026/slovenci-upravicili-vlogo-favorita-in-svedski-niso-prepustili-niti-niza/793597",
+          "source": "rtvslo.si"
         },
         {
           "title": "Po igri mačke z mišjo Marovt opozoril soigralce",
           "snippet": "",
           "url": "https://www.delo.si/sport/drugi-sporti/po-igri-macke-z-misjo-marovt-opozoril-soigralce",
           "source": "Delo.si"
-        },
-        {
-          "title": "Slovenski odbojkarji gladko čez Švede",
-          "snippet": "",
-          "url": "https://www.dnevnik.si/sport/slovenija-gladko-cez-svedsko-2827203/",
-          "source": "Dnevnik"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -165,118 +258,6 @@
           "snippet": "",
           "url": "https://es-us.noticias.yahoo.com/deportes/xis-confirmados-prueba-l%C3%ADmite-cholo-181000817.html",
           "source": "Yahoo"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "kronika",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 13 Sep 2026 11:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2jtb7dck87K_IcownjKvGZU6-w3p1q6sLERliDAMjpppDGpkTctu_FUeOp5E",
-      "pictureSource": "24ur.com",
-      "relatedSearch": [
-        {
-          "title": "Na bencinskem servisu zabodel sopotnika, nato mirno počakal policiste",
-          "snippet": "",
-          "url": "https://www.24ur.com/novice/crna-kronika/na-bencinskem-servisu-zabodel-sopotnika-nato-mirno-pocakal-policiste.html",
-          "source": "24ur.com"
-        },
-        {
-          "title": "Panika na črpalki: Z nožem napadel očima, intervencija v teku",
-          "snippet": "",
-          "url": "https://www.zurnal24.si/slovenija/panika-na-crpalki-z-nozem-napadel-ocima-intervencija-v-teku-465086",
-          "source": "Žurnal24"
-        },
-        {
-          "title": "Grozljiv prizor v Vinici: Policija razkriva nove podrobnosti današnjega krvavega napada na črpalki",
-          "snippet": "",
-          "url": "https://www.nadlani.si/novice/grozljiv-prizor-na-crpalki-policija-razkriva-krvave-podrobnosti-iz-vinice/",
-          "source": "NaDlani.si"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "radomlje – maribor",
-      "trafficCount": "2000+",
-      "pubDate": "Sun, 13 Sep 2026 10:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6z-OgjKntWOYhV82yRjQv80-flSJpvpJuoXk_HyCgwWJjH5dNBNfIR6Mrf9c",
-      "pictureSource": "rtvslo.si",
-      "relatedSearch": [
-        {
-          "title": "Mariborčani z zanesljivo zmago nad Radomljami odskočili tekmecem",
-          "snippet": "",
-          "url": "https://www.rtvslo.si/sport/kalcer-radomlje-maribor-0-3-drugi-polcas/793610",
-          "source": "rtvslo.si"
-        },
-        {
-          "title": "Dve gostujoči zmagi: Maribor ugnal Radomlje, Aluminij deklasiral Muro",
-          "snippet": "",
-          "url": "https://www.24ur.com/sport/nogomet/prva-liga-mura-aluminij-radomlje-maribor.html",
-          "source": "24ur.com"
-        },
-        {
-          "title": "Karničnik se je podpisal pod peto zmago Maribora, teniška zmaga Aluminija",
-          "snippet": "",
-          "url": "https://siol.net/sportal/nogomet/1-snl-9-krog-olimpija-zmaga-bravo-preobrat-celje-aluminij-6-golov-maribor-peta-zmaga-701187",
-          "source": "Siol.net"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "manchester united : manchester city lestvica",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 13 Sep 2026 10:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWB87MP0bcmJbkRhMUH1pztvSP7e2ZF-K2J6kCziCivbqJJRaWWOCLXZFAEac",
-      "pictureSource": "rtvslo.si",
-      "relatedSearch": [
-        {
-          "title": "Manchester United - Manchester City 0:1",
-          "snippet": "",
-          "url": "https://www.rtvslo.si/sport/nogomet/anglesko-nogometno-prvenstvo/sesko-pred-mestnim-derbijem-vesel-da-ni-hitel-z-vrnitvijo/793614",
-          "source": "rtvslo.si"
-        },
-        {
-          "title": "Šeško in soigralci na mestnem derbiju izgubili proti sinjemodri deseterici",
-          "snippet": "",
-          "url": "https://www.24ur.com/sport/nogomet/manchester-united-manchester-city.html",
-          "source": "24ur.com"
-        },
-        {
-          "title": "Šeško v stranski vlogi, Haaland pa zadel za zmago Cityja z igralcem manj",
-          "snippet": "",
-          "url": "https://siol.net/sportal/nogomet/anglesko-prvenstvo-4-krog-chelsea-arsenal-manchester-sesko-poraz-701232",
-          "source": "Siol.net"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "man utd – man city",
-      "trafficCount": "2000+",
-      "pubDate": "Sun, 13 Sep 2026 07:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJW9vd0oSj_utzJpZDVPUAUHC3ljQe7e_QNiQQ8HG_ftyKgj8nKzoIrrqXK_g",
-      "pictureSource": "Sky Sports",
-      "relatedSearch": [
-        {
-          "title": "Erling Haaland’s Man City goal decision vs Man Utd an ‘error of judgement', says Pro Ref",
-          "snippet": "",
-          "url": "https://www.skysports.com/football/news/11095/13585607/erling-haaland-s-man-city-goal-decision-vs-man-utd-an-error-of-judgement-says-pro-ref",
-          "source": "Sky Sports"
-        },
-        {
-          "title": "Manchester City recover from Foden red card as Haaland wins derby at United",
-          "snippet": "",
-          "url": "https://www.theguardian.com/football/2026/sep/13/manchester-united-manchester-city-premier-league-match-report",
-          "source": "The Guardian"
-        },
-        {
-          "title": "LONDON. – There are games that define a season and a team.",
-          "snippet": "",
-          "url": "https://www.heraldonline.co.zw/london-there-are-games-that-define-a-season-and-a-team/",
-          "source": "Herald.co.zw"
         }
       ],
       "link": "https://imtaqin.id/"

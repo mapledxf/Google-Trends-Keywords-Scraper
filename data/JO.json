@@ -1,263 +1,95 @@
 {
-  "lastUpdate": "2026-09-17 18:46:29",
+  "lastUpdate": "2026-09-17 21:47:50",
   "data": [
     {
-      "title": "مان سيتي ضد نورويتش",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 17 Sep 2026 11:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDnwyAZnjssDgNl8RBWG_5Jrvb7d27CRm-mjFX-xOAehRB33OwtxG0eKJsPq8",
-      "pictureSource": "جريدة الدستور",
-      "relatedSearch": [
-        {
-          "title": "مانشستر سيتي يسعى لمواصلة انتصاراته أمام نوريتش",
-          "snippet": "",
-          "url": "https://www.addustour.com/articles/1590962-%D9%85%D8%A7%D9%86%D8%B4%D8%B3%D8%AA%D8%B1-%D8%B3%D9%8A%D8%AA%D9%8A-%D9%8A%D8%B3%D8%B9%D9%89-%D9%84%D9%85%D9%88%D8%A7%D8%B5%D9%84%D8%A9-%D8%A7%D9%86%D8%AA%D8%B5%D8%A7%D8%B1%D8%A7%D8%AA%D9%87-%D8%A3%D9%85%D8%A7%D9%85-%D9%86%D9%88%D8%B1%D9%8A%D8%AA%D8%B4",
-          "source": "جريدة الدستور"
-        },
-        {
-          "title": "ماريسكا: عودة دوكو اقتربت",
-          "snippet": "",
-          "url": "https://www.filgoal.com/articles/537319",
-          "source": "FilGoal"
-        },
-        {
-          "title": "مواعيد مباريات دور الـ32 من كأس رابطة المحترفين الإنجليزية 2027 والقنوات الناقلة",
-          "snippet": "",
-          "url": "https://www.365scores.com/ar/news/magazine/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D9%8032-%D9%85%D9%86-%D9%83%D8%A3%D8%B3-%D8%B1%D8%A7%D8%A8%D8%B7%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D8%B1%D9%81%D9%8A%D9%86/",
-          "source": "365Scores"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "الطقس غدًا",
-      "trafficCount": "2000+",
-      "pubDate": "Thu, 17 Sep 2026 11:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgim4YX5RLecO_R-bxVwKzzpR6rG4Z8h6xrwCWQQWoBpuYaNT1aRbY3tbUtuk",
-      "pictureSource": "اليوم السابع",
-      "relatedSearch": [
-        {
-          "title": "موجة حارة أخيرة قبل الخريف.. الأرصاد تكشف مفاجآت الطقس خلال الـ48 ساعة المقبلة",
-          "snippet": "",
-          "url": "https://www.youm7.com/story/2026/9/17/%D9%85%D9%88%D8%AC%D8%A9-%D8%AD%D8%A7%D8%B1%D8%A9-%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9-%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%AE%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%AA%D9%83%D8%B4%D9%81-%D9%85%D9%81%D8%A7%D8%AC%D8%A2%D8%AA-%D8%A7%D9%84%D8%B7%D9%82%D8%B3-%D8%AE%D9%84%D8%A7%D9%84/7549336",
-          "source": "اليوم السابع"
-        },
-        {
-          "title": "«الأرصاد»: استمرار الانخفاض التدريجي في درجات الحرارة يومي الجمعة والسبت",
-          "snippet": "",
-          "url": "https://www.nogoumfm.net/2026/09/%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A7%D9%84%D8%AA%D8%AF%D8%B1%D9%8A%D8%AC%D9%8A/",
-          "source": "نجوم إف إم"
-        },
-        {
-          "title": "انكسار الموجة الحارة.. الأرصاد: انخفاض الحرارة 5 درجات غدًا",
-          "snippet": "",
-          "url": "https://www.masrawy.com/news/news_egypt/details/2026/9/17/3049700/%D8%A7%D9%86%D9%83%D8%B3%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D9%88%D8%AC%D8%A9-%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-5-%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA-%D8%BA%D8%AF-%D8%A7",
-          "source": "Masrawy"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "weather tomorrow",
-      "trafficCount": "1000+",
-      "pubDate": "Thu, 17 Sep 2026 11:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMYAfnRY5thtV8LITRM6w4kRxQBtcXbWNoOzN2vquTh01iicWV39YvuA1lqSo",
-      "pictureSource": "National Oceanic and Atmospheric Administration (.gov)",
-      "relatedSearch": [
-        {
-          "title": "NOAA selects Tomorrow.io to help advance U.S. weather forecasting",
-          "snippet": "",
-          "url": "https://www.noaa.gov/news-release/noaa-selects-tomorrowio-to-help-advance-us-weather-forecasting",
-          "source": "National Oceanic and Atmospheric Administration (.gov)"
-        },
-        {
-          "title": "UAE weather: Chance of rainfall; temperature to drop to 28°C in Sharjah",
-          "snippet": "",
-          "url": "https://www.khaleejtimes.com/uae/weather/september-15-2026",
-          "source": "Khaleej Times"
-        },
-        {
-          "title": "UAE weather forecast: Mercury to hit 46°C as humidity brings fog and mist risk in coming days",
-          "snippet": "",
-          "url": "https://gulfnews.com/uae/weather/uae-weather-forecast-mercury-to-hit-46c-as-humidity-brings-fog-and-mist-risk-in-coming-days-1.500677559",
-          "source": "Gulf News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "man city vs norwich city",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 17 Sep 2026 10:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSztlbxb8vHsvfSYprK9vXX0oUh-g0wW4e59zHYvX_R-GugZd5jsJyggcVhuXY",
-      "pictureSource": "Manchester City FC",
-      "relatedSearch": [
-        {
-          "title": "Rulli, Allan and Samba handed debuts for Norwich Carabao Cup clash",
-          "snippet": "",
-          "url": "https://www.mancity.com/news/mens/manchester-city-v-norwich-team-news-and-tactics-1-63925262",
-          "source": "Manchester City FC"
-        },
-        {
-          "title": "Ladbrokes' football tip - Thursday, September 17, 2026: Norwich to score against Man City",
-          "snippet": "",
-          "url": "https://www.ladbrokes.com/en/news/thursday-football-tips-september-17-2026/",
-          "source": "Ladbrokes"
-        },
-        {
-          "title": "Watch Manchester City vs. Norwich City",
-          "snippet": "",
-          "url": "https://www.disneyplus.com/en-ag/browse/entity-2c2b562e-f937-48b4-85b2-b03a7a4f0dbc",
-          "source": "Disney Plus"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "موعد اذان العشاء",
-      "trafficCount": "2000+",
-      "pubDate": "Thu, 17 Sep 2026 10:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbezP6-OOxh5_2NibHhqoJZMVXbphE7THV1c5LD07_Hymdmj62J1_XG53VQ_4",
-      "pictureSource": "شبكة تواصل الإخبارية",
-      "relatedSearch": [
-        {
-          "title": "موعد آذان المغرب.. مواقيت الصلاة اليوم الخميس 17 سبتمبر",
-          "snippet": "",
-          "url": "https://twaslnews1.twaslnews.com/5039402/",
-          "source": "شبكة تواصل الإخبارية"
-        },
-        {
-          "title": "مواقيت الصلاة اليوم.. موعد العصر والمغرب والعشاء",
-          "snippet": "",
-          "url": "https://www.youlyou.com/54873",
-          "source": "https://www.youlyou.com/"
-        },
-        {
-          "title": "مواقيت الصلاة اليوم الخميس، موعد أذان العصر في القاهرة والمحافظات",
-          "snippet": "",
-          "url": "https://www.vetogate.com/5727672",
-          "source": "فيتو"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ذهب",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 17 Sep 2026 08:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTAroCFCJ37zdpM4rt4dCpPzdoPYn0TuDaL1AgW3SQmERplUDl7E4V9rM5A7c",
-      "pictureSource": "رؤيا الإخباري",
-      "relatedSearch": [
-        {
-          "title": "ارتفاع أسعار الذهب عالميا يوم الخميس",
-          "snippet": "",
-          "url": "https://royanews.tv/news/395204/%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3",
-          "source": "رؤيا الإخباري"
-        },
-        {
-          "title": "الفيدرالي يحسمها الليلة.. الذهب أمام صدمة الفائدة: صعود قوي أم سقوط جديد؟",
-          "snippet": "",
-          "url": "https://sa.investing.com/analysis/article-200503446",
-          "source": "Investing.com"
-        },
-        {
-          "title": "الذهب يرتفع مع استيعاب قرار رفع الفائدة الأمريكية وتراجع النفط",
-          "snippet": "",
-          "url": "https://www.alquds.co.uk/%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%8A%D8%B1%D8%AA%D9%81%D8%B9-%D9%85%D8%B9-%D8%A7%D8%B3%D8%AA%D9%8A%D8%B9%D8%A7%D8%A8-%D9%82%D8%B1%D8%A7%D8%B1-%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D8%AF/",
-          "source": "القدس العربي"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "شاي",
+      "title": "اعتقال",
       "trafficCount": "100+",
-      "pubDate": "Thu, 17 Sep 2026 08:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQCm5O-zWk_mtCTa5Yyn5hzuDZYCrWUC5bpbnzAg7yw5oVxsADSoU5huxqdPw",
-      "pictureSource": "الكونسلتو",
+      "pubDate": "Thu, 17 Sep 2026 13:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRY4ma1l1MA3qax9ARlufavij7LKJk-FyS0Ax0ZQhzado5H6vqQB3oAL2fYdn0",
+      "pictureSource": "القدس العربي",
       "relatedSearch": [
         {
-          "title": "أفضل مشروب لعلاج الدهون الثلاثية- تناول هذا الشاي يوميًا",
+          "title": "نادي الأسير: إسرائيل ترفع عدد الصحافيين الفلسطينيين المعتقلين إلى 39",
           "snippet": "",
-          "url": "https://www.elconsolto.com/chronic/chronic-news/details/2026/9/16/3049219/%D8%A3%D9%81%D8%B6%D9%84-%D9%85%D8%B4%D8%B1%D9%88%D8%A8-%D9%84%D8%B9%D9%84%D8%A7%D8%AC-%D8%A7%D9%84%D8%AF%D9%87%D9%88%D9%86-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A9-%D8%AA%D9%86%D8%A7%D9%88%D9%84-%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D8%B4%D8%A7%D9%8A-%D9%8A%D9%88%D9%85%D9%8A-%D8%A7",
-          "source": "الكونسلتو"
+          "url": "https://www.alquds.co.uk/%D9%86%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%A3%D8%B3%D9%8A%D8%B1-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D8%B1%D9%81%D8%B9-%D8%B9%D8%AF%D8%AF-%D8%A7%D9%84%D8%B5%D8%AD%D8%A7%D9%81%D9%8A%D9%8A/",
+          "source": "القدس العربي"
         },
         {
-          "title": "5 فوائد صحية لشرب الشاي",
+          "title": "الاحتلال يعتقل الصحافي علاء الريماوي بعد إطلاقه مبادرة اجتماعية",
           "snippet": "",
-          "url": "https://www.emaratalyoum.com/life/four-sides/2026-09-10-1.2081533",
-          "source": "الإمارات اليوم"
+          "url": "https://www.alaraby.co.uk/entertainment_media/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%B9%D8%AA%D9%82%D9%84-%D8%A7%D9%84%D8%B5%D8%AD%D8%A7%D9%81%D9%8A-%D8%B9%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D8%B1%D9%8A%D9%85%D8%A7%D9%88%D9%8A-%D8%A8%D8%B9%D8%AF-%D8%A5%D8%B7%D9%84%D8%A7%D9%82%D9%87-%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9",
+          "source": "العربي الجديد"
         },
         {
-          "title": "دراسة: الشاي الأخضر يحمي صحة القلب",
+          "title": "إسرائيل تعتقل صحافية فلسطينية أميركية في الضفة الغربية",
           "snippet": "",
-          "url": "https://www.cairo24.com/2495825",
-          "source": "القاهرة 24"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "نجاة الصغيرة",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 17 Sep 2026 04:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRl6SOBvJzWsxb7N4LXLEOadBVAmavrLX7iDGBUYLWzZQB2A4Ekdvd9PWTMPbA",
-      "pictureSource": "الجزيرة نت",
-      "relatedSearch": [
-        {
-          "title": "نجاة الصغيرة في ظهور نادر بمعرض أبو ظبي للكتاب.. تكريم لمسيرة \"قيثارة الفن\"",
-          "snippet": "",
-          "url": "https://www.aljazeera.net/arts/2026/9/16/%D9%86%D8%AC%D8%A7%D8%A9-%D8%A7%D9%84%D8%B5%D8%BA%D9%8A%D8%B1%D8%A9-%D9%81%D9%8A-%D8%B8%D9%87%D9%88%D8%B1-%D9%86%D8%A7%D8%AF%D8%B1-%D8%A8%D9%85%D8%B9%D8%B1%D8%B6-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A",
-          "source": "الجزيرة نت"
-        },
-        {
-          "title": "نجاة الصغيرة تتوج بجائزة \"شخصية العام الثقافية\" في أبوظبي - صور",
-          "snippet": "",
-          "url": "https://www.jordanzad.com/index.php?page=article&id=760921",
-          "source": "زاد الاردن"
-        },
-        {
-          "title": "ظهور استثنائي لنجاة في «أبوظبي للكتاب» يخطف اهتمام مصريين",
-          "snippet": "",
-          "url": "https://aawsat.com/%D9%8A%D9%88%D9%85%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D9%82/5319555-%D8%B8%D9%87%D9%88%D8%B1-%D8%A7%D8%B3%D8%AA%D8%AB%D9%86%D8%A7%D8%A6%D9%8A-%D9%84%D9%86%D8%AC%D8%A7%D8%A9-%D9%81%D9%8A-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D9%84%D9%84%D9%83%D8%AA%D8%A7%D8%A8-%D9%8A%D8%AE%D8%B7%D9%81-%D8%A7%D9%87%D8%AA%D9%85%D8%A7%D9%85-%D9%85%D8%B5%D8%B1%D9%8A%D9%8A%D9%86",
+          "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/5318855-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D8%B9%D8%AA%D9%82%D9%84-%D8%B5%D8%AD%D8%A7%D9%81%D9%8A%D8%A9-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B6%D9%81%D8%A9-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9",
           "source": "الشرق الأوسط"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "صدام حسين",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 17 Sep 2026 04:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5pxw7IDHzsRppIDadgYLSnX_FCcT2lrEzJ_ps4HVratG4mi1tIBrkQ8es3DI",
-      "pictureSource": "الجزيرة نت",
+      "title": "باكستان",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 17 Sep 2026 12:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRmKXYggQh3BLQM3CNdJF5GvTWuiWn6VT-S-HNalEFnLDqVwgVg1WzSAQL8PvQ",
+      "pictureSource": "العربية",
       "relatedSearch": [
         {
-          "title": "\"انتهاك للمقدسات\" و\"استفزاز لمشاعر المسلمين\".. إدانات واسعة لمحاولة استهداف مكة",
+          "title": "باكستان تعلن تدابير تقشفية لترشيد الوقود وسط تصاعد حرب إيران",
           "snippet": "",
-          "url": "https://www.aljazeera.net/news/2026/9/16/%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83-%D9%84%D9%84%D9%85%D9%82%D8%AF%D8%B3%D8%A7%D8%AA-%D9%88%D8%A7%D8%B3%D8%AA%D9%81%D8%B2%D8%A7%D8%B2-%D9%84%D9%85%D8%B4%D8%A7%D8%B9%D8%B1",
-          "source": "الجزيرة نت"
+          "url": "https://www.alarabiya.net/aswaq/economy/2026/09/17/%D8%A8%D8%A7%D9%83%D8%B3%D8%AA%D8%A7%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D8%AF%D8%A7%D8%A8%D9%8A%D8%B1-%D8%AA%D9%82%D8%B4%D9%81%D9%8A%D8%A9-%D9%84%D8%AA%D8%B1%D8%B4%D9%8A%D8%AF-%D8%A7%D9%84%D9%88%D9%82%D9%88%D8%AF-%D9%88%D8%B3%D8%B7-%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D8%AD%D8%B1%D8%A8-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86",
+          "source": "العربية"
         },
         {
-          "title": "\"تهديد مكة\".. ابنة صدام حسين توجه رسالتين للعرب وإيران بعد مسيّرة الحوثي",
+          "title": "تدابير تقشفية في باكستان لترشيد الوقود وسط أزمة الشرق الأوسط",
           "snippet": "",
-          "url": "https://arabic.cnn.com/middle-east/article/2026/09/17/saddam-hussein-daughter-houthi-mecca-drone-reaction-post",
-          "source": "CNN Arabic"
+          "url": "https://www.annahar.com/economy/348594/%D8%AA%D8%AF%D8%A7%D8%A8%D9%8A%D8%B1-%D8%AA%D9%82%D8%B4%D9%81%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A8%D8%A7%D9%83%D8%B3%D8%AA%D8%A7%D9%86-%D9%84%D8%AA%D8%B1%D8%B4%D9%8A%D8%AF-%D8%A7%D9%84%D9%88%D9%82%D9%88%D8%AF-%D9%88%D8%B3%D8%B7-%D8%A3%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
+          "source": "annahar.com"
         },
         {
-          "title": "الأردن يدين محاولة استهداف مكة المكرمة ويؤكد تضامنه مع السعودية",
+          "title": "باكستان تطلق حملة تقشفية لخفض استهلاك الوقود والإنفاق الحكومي",
           "snippet": "",
-          "url": "https://alrai.com/article/10976604/%D9%85%D8%AD%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D9%8A%D8%AF%D9%8A%D9%86-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D9%83%D8%A9-%D8%A7%D9%84%D9%85%D9%83%D8%B1%D9%85%D8%A9-%D8%A8%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%A3%D8%B7%D9%84%D9%82%D8%AA%D9%87%D8%A7-%D9%85%D9%8A%D9%84%D9%8A%D8%B4%D9%8A%D8%A7-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A",
-          "source": "صحيفة الرأي"
+          "url": "https://www.aljarida.com/article/144839",
+          "source": "جريدة الجريدة الكويتية"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "اليك سمير",
+      "title": "juventus vs nec",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 17 Sep 2026 12:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT53LIBFsniL8dVIf7mbX_SZ-4dShEWZ2oevkm_olemZA71DUjNuejb3AB5mvw",
+      "pictureSource": "Football Italia",
+      "relatedSearch": [
+        {
+          "title": "Europa League: Juventus vs. NEC – probable line-ups, where to watch on TV",
+          "snippet": "",
+          "url": "https://football-italia.net/europa-league-juventus-v-nec-line-ups-watch-tv/",
+          "source": "Football Italia"
+        },
+        {
+          "title": "Spalletti: Victory will restore confidence and we mus…",
+          "snippet": "",
+          "url": "https://www.ysscores.com/en/news/14049255/spalletti-victory-will-restore-confidence-and-we-must-show-we-are-juventus",
+          "source": "YSscores"
+        },
+        {
+          "title": "Licensable picture: Juventus v NEC Nijmegen - UEFA Europa League",
+          "snippet": "",
+          "url": "https://www.reutersconnect.com/item/juventus-v-nec-nijmegen-uefa-europa-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwRUQ2S1Y0",
+          "source": "Reuters Connect"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "يزن النعيمات",
       "trafficCount": "500+",
-      "pubDate": "Thu, 17 Sep 2026 04:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ9Ud2ezdG0ng-lTOpFg3N2sV8hCDWv205lUwa6qvvKdg9EYBUOXDo2MsVixw",
+      "pubDate": "Thu, 17 Sep 2026 12:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6LMVqwkf86Mu0g0dXbTusCxWlatdT89uk7yFJ8IVbwwI4kMxR7NFxDAD-_Xs",
       "pictureSource": "جريدة الغد",
       "relatedSearch": [
         {
@@ -277,6 +109,174 @@
           "snippet": "",
           "url": "https://royanews.tv/news/394820/%22%D8%B5%D9%8A%D8%B5%D8%A7%22-%D8%A8%D9%84%D8%A7-%D8%B6%D8%BA%D8%B7-%D8%AC%D9%85%D8%A7%D9%87%D9%8A%D8%B1%D9%8A..-%D9%81%D9%87%D9%84-%D9%8A%D9%85%D9%86%D8%AD%D9%87-%D8%A7%D9%84%D8%B2%D8%A7%D9%83%D9%8A-%D9%81%D8%B1%D8%B5%D8%A9-%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9-%D8%A5%D9%84%D9%89-%D8%AA%D8%B4%D9%83%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8%D8%9F",
           "source": "رؤيا الإخباري"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "يارا السكري",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 17 Sep 2026 11:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNcxLxI0fxO_yTjwqAAIEnFsCaczK5ro1O7BCB8OCYPtZIiSCsAtRNpMs3iIg",
+      "pictureSource": "العربية",
+      "relatedSearch": [
+        {
+          "title": "يارا السكري تؤكد ارتباطها العاطفي بأحمد العوضي",
+          "snippet": "",
+          "url": "https://www.alarabiya.net/culture-and-art/2026/09/17/%D9%8A%D8%A7%D8%B1%D8%A7-%D8%A7%D9%84%D8%B3%D9%83%D8%B1%D9%8A-%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7%D9%87%D8%A7-%D8%B9%D8%A7%D8%B7%D9%81%D9%8A%D8%A7-%D8%A8%D8%A7%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%B9%D9%88%D8%B6%D9%8A",
+          "source": "العربية"
+        },
+        {
+          "title": "أخبار الفن اليوم: تطورات الحالة الصحية لـ سامح حسين.. مقربون من أحمد العوضي ينفون ارتباطه بـ يارا السكري.. 5 أغاني ينتظرها جمهور كاظم الساهر بحفل القاهرة الجديدة",
+          "snippet": "",
+          "url": "https://www.vetogate.com/5733886",
+          "source": "فيتو"
+        },
+        {
+          "title": "يارا السكرى تحتفل بعيد ميلاد شقيقتها ريناد.. صور",
+          "snippet": "",
+          "url": "https://www.youm7.com/story/2026/9/17/%D9%8A%D8%A7%D8%B1%D8%A7-%D8%A7%D9%84%D8%B3%D9%83%D8%B1%D9%89-%D8%AA%D8%AD%D8%AA%D9%81%D9%84-%D8%A8%D8%B9%D9%8A%D8%AF-%D9%85%D9%8A%D9%84%D8%A7%D8%AF-%D8%B4%D9%82%D9%8A%D9%82%D8%AA%D9%87%D8%A7-%D8%B1%D9%8A%D9%86%D8%A7%D8%AF-%D8%B5%D9%88%D8%B1/7549580",
+          "source": "اليوم السابع"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "مان سيتي ضد نورويتش",
+      "trafficCount": "2000+",
+      "pubDate": "Thu, 17 Sep 2026 11:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbNDmC7OQ610u02wt-trMswnO1NjYvkqrUWGmfUOquJfEreb5Yi9pkHGLMoVI",
+      "pictureSource": "Kooora",
+      "relatedSearch": [
+        {
+          "title": "ليلة البدلاء في الاتحاد.. مانشستر سيتي يدمر نورويتش بخماسية في الكاراباو",
+          "snippet": "",
+          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%84%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%A8%D8%AF%D9%84%D8%A7%D8%A1-%D9%81%D9%8A-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF--%D9%85%D8%A7%D9%86%D8%B4%D8%B3%D8%AA%D8%B1-%D8%B3%D9%8A%D8%AA%D9%8A-%D9%8A%D8%AF%D9%85%D8%B1-%D9%86%D9%88%D8%B1%D9%88%D9%8A%D8%AA%D8%B4-%D8%A8%D8%AE%D9%85%D8%A7%D8%B3%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D8%A7%D8%B1%D8%A7%D8%A8%D8%A7%D9%88/blt2d59f44c7e433c6a",
+          "source": "Kooora"
+        },
+        {
+          "title": "مانشستر سيتي يسعى لمواصلة انتصاراته أمام نوريتش",
+          "snippet": "",
+          "url": "https://www.addustour.com/articles/1590962-%D9%85%D8%A7%D9%86%D8%B4%D8%B3%D8%AA%D8%B1-%D8%B3%D9%8A%D8%AA%D9%8A-%D9%8A%D8%B3%D8%B9%D9%89-%D9%84%D9%85%D9%88%D8%A7%D8%B5%D9%84%D8%A9-%D8%A7%D9%86%D8%AA%D8%B5%D8%A7%D8%B1%D8%A7%D8%AA%D9%87-%D8%A3%D9%85%D8%A7%D9%85-%D9%86%D9%88%D8%B1%D9%8A%D8%AA%D8%B4",
+          "source": "جريدة الدستور"
+        },
+        {
+          "title": "رولي، ألان، وسامبا يسجلون ظهورهم الأول مع السيتي",
+          "snippet": "",
+          "url": "https://ar.mancity.com/news/mens/manchester-city-v-norwich-team-news-and-tactics-1-63925266",
+          "source": "سيتي"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "الطقس غدًا",
+      "trafficCount": "5000+",
+      "pubDate": "Thu, 17 Sep 2026 11:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgim4YX5RLecO_R-bxVwKzzpR6rG4Z8h6xrwCWQQWoBpuYaNT1aRbY3tbUtuk",
+      "pictureSource": "اليوم السابع",
+      "relatedSearch": [
+        {
+          "title": "موجة حارة أخيرة قبل الخريف.. الأرصاد تكشف مفاجآت الطقس خلال الـ48 ساعة المقبلة",
+          "snippet": "",
+          "url": "https://www.youm7.com/story/2026/9/17/%D9%85%D9%88%D8%AC%D8%A9-%D8%AD%D8%A7%D8%B1%D8%A9-%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9-%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%AE%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%AA%D9%83%D8%B4%D9%81-%D9%85%D9%81%D8%A7%D8%AC%D8%A2%D8%AA-%D8%A7%D9%84%D8%B7%D9%82%D8%B3-%D8%AE%D9%84%D8%A7%D9%84/7549336",
+          "source": "اليوم السابع"
+        },
+        {
+          "title": "الأرصاد: انخفاض في درجات الحرارة وتحسن الأحوال الجوية على أغلب الأنحاء اعتبارا من الغد",
+          "snippet": "",
+          "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=17092026&id=6cbf4074-9b40-4526-a4fa-09e3d778d2b4",
+          "source": "بوابة الشروق"
+        },
+        {
+          "title": "الجو نار انهارده .. تحذير من طقس اليوم والمنخفض «الهندي» يُلطّف الأجواء غدًا",
+          "snippet": "",
+          "url": "https://www.elbalad.news/7110038",
+          "source": "صدى البلد"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather tomorrow",
+      "trafficCount": "2000+",
+      "pubDate": "Thu, 17 Sep 2026 11:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8mRQnczVnOa0bkjWLuw6H1NWOJFetULuGm8jUVGPF8afghoTgsZFUmA1_P5I",
+      "pictureSource": "FOX 56 News",
+      "relatedSearch": [
+        {
+          "title": "Kentucky weather today: Hot, muggy with a few downpours",
+          "snippet": "",
+          "url": "https://fox56news.com/weather/forecast/kentucky-weather-today-hot-muggy-with-a-few-downpours/",
+          "source": "FOX 56 News"
+        },
+        {
+          "title": "Alexa Minton’s Forecast | Steamy and Scat’d storm chances continue today",
+          "snippet": "",
+          "url": "https://www.wkyt.com/2026/09/17/alexa-mintons-forecast-steamy-scatd-storm-chances-continue-today/",
+          "source": "WKYT"
+        },
+        {
+          "title": "Getting hot with a spotty shower Sunday",
+          "snippet": "",
+          "url": "https://www.wlky.com/article/getting-hot-with-a-spotty-shower-sunday/73702029",
+          "source": "WLKY"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "betis vs getafe",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 17 Sep 2026 11:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYs0AeuFcgAVW9VIHjc3Edj_a8fSzjd17CgeuWVD7kiu3k-WIzXKpMNO5YcuQ",
+      "pictureSource": "The Irish Times",
+      "relatedSearch": [
+        {
+          "title": "Troy Parrott returns to action as Real Betis jump to third in La Liga",
+          "snippet": "",
+          "url": "https://www.irishtimes.com/sport/soccer/2026/09/17/troy-parrott-returns-to-action-as-real-betis-jump-to-third-in-la-liga/",
+          "source": "The Irish Times"
+        },
+        {
+          "title": "Bournemouth begins European campaign against Real Sociedad, Man City meets Norwich in League Cup",
+          "snippet": "",
+          "url": "https://www.lmtonline.com/sports/article/bournemouth-begins-european-campaign-against-real-22436072.php",
+          "source": "Laredo Morning Times"
+        },
+        {
+          "title": "🚨 Isco, Natan, Francho... XIs in for Real Betis v Getafe",
+          "snippet": "",
+          "url": "https://sports.yahoo.com/articles/isco-natan-francho-xis-real-155300948.html",
+          "source": "Yahoo Sports"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "man city vs norwich city",
+      "trafficCount": "1000+",
+      "pubDate": "Thu, 17 Sep 2026 10:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMKAUl2E7Cgvf4HwzcJ2JFBW3QWj5gVJUPC62dyrShOyNrqKKO5xx_yzIpF9A",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "EFL Cup 3rd Round LIVE: Manchester City vs Norwich City - live text updates, score & radio commentary",
+          "snippet": "",
+          "url": "https://www.bbc.com/sport/football/live/cmlyjl6qdw6et",
+          "source": "BBC"
+        },
+        {
+          "title": "Man City Debut New 17-Year-Old Goal Hero on Erling Haaland’s Night Off",
+          "snippet": "",
+          "url": "https://forzafootball.com/news/man-city-debut-new-17-year-old-goal-hero-on-erling-haalands-night-off-159451138",
+          "source": "Forza Football"
+        },
+        {
+          "title": "Gallery: Samba and Allan soar against Canaries!",
+          "snippet": "",
+          "url": "https://onefootball.com/en/news/gallery-samba-and-allan-soar-against-canaries-43479408",
+          "source": "OneFootball"
         }
       ],
       "link": "https://imtaqin.id/"

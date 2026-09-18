@@ -1,30 +1,198 @@
 {
-  "lastUpdate": "2026-09-18 06:32:39",
+  "lastUpdate": "2026-09-18 11:42:10",
   "data": [
     {
-      "title": "michael peluche",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 17 Sep 2026 20:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSztsaEfsV2Kx1WMzPXTYZTZDXAJ5Gswo6rG-KeJxnux6F3WKDEWutQQ-2bc0g",
-      "pictureSource": "Listín Diario",
+      "title": "météo",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 18 Sep 2026 04:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQBIvNd7lXM8u8uNkeN4simVThzyVsAu_itHCFgiH-Uu198lMJpDepMsmZi4oQ",
+      "pictureSource": "METEO France",
       "relatedSearch": [
         {
-          "title": "PN ultima a dos de los involucrados en muerte de Diddy Glow",
+          "title": "Météo : les températures remontent ce week-end",
           "snippet": "",
-          "url": "https://listindiario.com/la-republica/justicia/20260916/pn-ultima-dos-involucrados-muerte-diddy-glow_922513.html",
+          "url": "https://meteofrance.com/actualites/meteo-les-temperatures-remontent-ce-week-end",
+          "source": "METEO France"
+        },
+        {
+          "title": "Tendance météo à 4 semaines : confirmation d'un temps sec et encore chaud jusqu'à octobre",
+          "snippet": "",
+          "url": "https://actualite.lachainemeteo.com/actualite-meteo/2026-01-08/tendance-meteo-a-4-semaines-confirmation-d-un-temps-sec-et-encore-chaud-jusqu-a-octobre-71369",
+          "source": "La Chaîne Météo"
+        },
+        {
+          "title": "Nouvel épisode de chaleur à l’horizon dans le Sud-Ouest : quand l’été déborde sur le printemps et l’automne",
+          "snippet": "",
+          "url": "https://www.sudouest.fr/environnement/meteo/fortes-chaleurs-a-l-horizon-dans-le-sud-ouest-quand-l-ete-deborde-sur-le-printemps-et-l-automne-30664070.php",
+          "source": "Sud Ouest"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "coe",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 18 Sep 2026 03:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSBT5neRZDYqH7z4TSD5KGxl1OJAu1jWzT8FrbIfnKWQG8p-R02PVXcD217x0U",
+      "pictureSource": "Acento",
+      "relatedSearch": [
+        {
+          "title": "COE mantiene tres demarcaciones en alerta amarilla y seis en verde por lluvias",
+          "snippet": "",
+          "url": "https://acento.com.do/ecologia/coe-mantiene-tres-demarcaciones-en-alerta-amarilla-y-seis-en-verde-por-lluvias-9754812.html",
+          "source": "Acento"
+        },
+        {
+          "title": "Lluvias desde temprano: no deje el paraguas, esto se espera este viernes",
+          "snippet": "",
+          "url": "https://hoy.com.do/el-pais/lluvias-temprano-deje-paraguas-viernes_1102821.html",
+          "source": "Hoy Digital"
+        },
+        {
+          "title": "Vaguada provocará lluvias fuertes en el país hasta el domingo, según Indomet",
+          "snippet": "",
+          "url": "https://eldia.com.do/vaguada-provocara-lluvias-fuertes-hasta-domingo/",
+          "source": "El Dia.com.do"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "clima",
+      "trafficCount": "10000+",
+      "pubDate": "Fri, 18 Sep 2026 03:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMGgarpkHZRn6509Oyotdr7-dvYAxl7nNyQdMguc1WesQfI2kScGUe_v0y4C4",
+      "pictureSource": "Acento",
+      "relatedSearch": [
+        {
+          "title": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo el fin de semana? El pronóstico para este sábado 19 y domingo 20",
+          "snippet": "",
+          "url": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-tiempo-el-fin-de-semana-el-pronostico-para-este-sabado-19-y-domingo-20-9754800.html",
+          "source": "Acento"
+        },
+        {
+          "title": "Pronostican lluvias, tormentas eléctricas y temperaturas calurosas este miércoles",
+          "snippet": "",
+          "url": "https://www.diariolibre.com/planeta/clima/2026/09/16/vaguada-y-viento-del-este-seguiran-dominando-el-clima-en-rd/3660690",
+          "source": "Diario Libre"
+        },
+        {
+          "title": "Onda tropical influye este jueves: Punta Cana tendrá sol, nubes y posibles chubascos",
+          "snippet": "",
+          "url": "https://bavarodigital.net/onda-tropical-influye-este-jueves-punta-cana-tendra-sol-nubes-y-posibles-chubascos/",
+          "source": "Bavarodigital.net"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 18 Sep 2026 03:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQD0GO2vOLg9voaNBJaqmNxv1tGrAKdlAirfs-nMbaN90aAIyzGNwg3njWSy_E",
+      "pictureSource": "5 EYEWITNESS NEWS",
+      "relatedSearch": [
+        {
+          "title": "Minnesota’s Weather Authority has issued an alert day today for heavy rain on the way",
+          "snippet": "",
+          "url": "https://kstp.com/kstp-news/weather-forecast/minnesotas-weather-authority-has-issued-an-alert-day-today-for-heavy-rain-on-the-way/",
+          "source": "5 EYEWITNESS NEWS"
+        },
+        {
+          "title": "Flood Watch issued ahead of hefty Friday rains",
+          "snippet": "",
+          "url": "https://www.kimt.com/news/flood-watch-issued-ahead-of-hefty-friday-rains/article_8148d97c-529b-4df8-ae0c-9e9b8b8c2988.html",
+          "source": "KIMT"
+        },
+        {
+          "title": "A soggy end to the workweek with rain and periods of heavy rainfall expected",
+          "snippet": "",
+          "url": "https://www.weau.com/2026/09/17/tracking-widespread-heavy-rainfall-friday/",
+          "source": "WEAU"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "avelino abreu, sas",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 18 Sep 2026 02:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtQcbO15I3d3QAIS5og34HdE3O7kD5wdf-WuU566RXhaqAde3Aekep2PMvrPY",
+      "pictureSource": "Diario Libre",
+      "relatedSearch": [
+        {
+          "title": "Fallece Andrés Avelino Abreu Vargas, fundador de la compañía Avelino Abreu",
+          "snippet": "",
+          "url": "https://www.diariolibre.com/actualidad/nacional/2026/09/17/fallece-andres-avelino-abreu-vargas/3662611",
+          "source": "Diario Libre"
+        },
+        {
+          "title": "Falleció Avelino Abréu, pionero del sector automotriz dominicano",
+          "snippet": "",
+          "url": "https://listindiario.com/la-republica/20260917/fallecio-avelino-abreu-pionero-sector-automotriz-dominicano_922679.html",
           "source": "Listín Diario"
         },
         {
-          "title": "Tras PN matar a Michael Peluche, se entregan dos más señalados en tiroteo de Boca Chica",
+          "title": "Fallece empresario Andrés Avelino Abreu Vargas, fundador de Avelino Abreu SAS",
           "snippet": "",
-          "url": "https://elnacional.com.do/nacionales/pn-matar-michael-peluche-entregan-dos-vinculados-tiroteo-boca-chica_581167.html",
-          "source": "El Nacional — La voz de todos"
+          "url": "https://acento.com.do/actualidad/fallece-empresario-andres-avelino-abreu-vargas-fundador-de-avelino-abreu-sas-9755027.html",
+          "source": "Acento"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "presupuesto",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 17 Sep 2026 21:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmArGoiLY-GXx9NGE1NjY_vKHpHGoqI-nXXPg-Sx96DG9aAl67FOdX26_Slh4",
+      "pictureSource": "Presidencia de la República Dominicana",
+      "relatedSearch": [
+        {
+          "title": "Consejo de Ministros aprueba Proyecto de Presupuesto General del Estado 2027 enfocado en inversión, desarrollo social y sostenibilidad fiscal",
+          "snippet": "",
+          "url": "https://presidencia.gob.do/noticias/consejo-de-ministros-aprueba-proyecto-de-presupuesto-general-del-estado-2027-enfocado-en",
+          "source": "Presidencia de la República Dominicana"
         },
         {
-          "title": "Suman 14 los presuntos delincuentes ultimados por la Policía en una semana",
+          "title": "A pesar de la crisis, Gobierno asegura que la economía ha crecido al ritmo esperado",
           "snippet": "",
-          "url": "https://eldia.com.do/suman-14-los-presuntos-delincuentes-ultimados-por-la-policia-en-una-semana/",
-          "source": "El Dia.com.do"
+          "url": "https://listindiario.com/la-republica/gobierno/20260917/pesar-crisis-gobierno-asegura-economia-crecido-ritmo-esperado_922645.html",
+          "source": "Listín Diario"
+        },
+        {
+          "title": "Primeras señales de las prioridades presupuestarias",
+          "snippet": "",
+          "url": "https://hoy.com.do/opinion/editorial/primeras-senales-prioridades-presupuestarias_1102783.html",
+          "source": "Hoy Digital"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "angels - twins",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 17 Sep 2026 19:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkzEXi8unS9nRMgui2qiFF-awLNHeIyMGSMaHHvXQuAulk2iaQizJ31rw3ycQ",
+      "pictureSource": "Reuters Connect",
+      "relatedSearch": [
+        {
+          "title": "MLB: Minnesota Twins at Los Angeles Angels",
+          "snippet": "",
+          "url": "https://www.reutersconnect.com/item/mlb-minnesota-twins-at-los-angeles-angels/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4NDU5NjU",
+          "source": "Reuters Connect"
+        },
+        {
+          "title": "Walker Jenkins busts out of slump to rally Twins, but it isn’t enough vs. Angels",
+          "snippet": "",
+          "url": "https://www.startribune.com/minnesota-twins-los-angeles-angels-score-today-game-walker-jenkins-homer-anaheim-mlb-standings/601882944",
+          "source": "Star Tribune"
+        },
+        {
+          "title": "Twins vs Angels Prediction, Odds, Moneyline, Spread & Over/Under for Sept. 18",
+          "snippet": "",
+          "url": "https://www.fanduel.com/research/twins-vs-angels-mlb-odds-prediction-point-spread-over-under-and-betting-trends-for-9-18-2026",
+          "source": "FanDuel"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -58,57 +226,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "angels - twins",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 17 Sep 2026 19:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAzsYTqbksVcneuPt95jMlgWkmAiStOjlG0WCtC7qr0UuTM864r7gLLWSWHZY",
-      "pictureSource": "Reuters Connect",
-      "relatedSearch": [
-        {
-          "title": "MLB: Minnesota Twins at Los Angeles Angels",
-          "snippet": "",
-          "url": "https://www.reutersconnect.com/item/mlb-minnesota-twins-at-los-angeles-angels/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4NDYxODk",
-          "source": "Reuters Connect"
-        },
-        {
-          "title": "Twins Angels Baseball",
-          "snippet": "",
-          "url": "https://www.couriernews.com/sports/twins-angels-baseball/image_7fd45089-0702-5a73-9dcd-cbeb8c6dd70b.html",
-          "source": "couriernews.com"
-        },
-        {
-          "title": "Walker Jenkins busts out of slump to rally Twins, but it isn’t enough vs. Angels",
-          "snippet": "",
-          "url": "https://www.startribune.com/minnesota-twins-los-angeles-angels-score-today-game-walker-jenkins-homer-anaheim-mlb-standings/601882944",
-          "source": "Star Tribune"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "maicol peluche",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 17 Sep 2026 19:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlVF8V8bNx4w_wqKlC7VVkTymeR_uVoObwhaS1m3jxPJ04GQMArEWdK81R6Es",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvPpWTVTEnzdC0-DTgY46B15HCzh-vY3yswNigmhjPio7VlZuD6vJJHQZO_ko",
       "pictureSource": "El Dia.com.do",
       "relatedSearch": [
         {
-          "title": "Tres mujeres y un peluche: ¿Por qué un hombre tan peligroso puede convertirse en objeto de deseo?",
+          "title": "Suman 14 los presuntos delincuentes ultimados por la Policía en una semana",
           "snippet": "",
-          "url": "https://eldia.com.do/tre-mujeres-y-un-peluche-cuando-el-amor-se-confunde-con-la-violencia/",
+          "url": "https://eldia.com.do/suman-14-los-presuntos-delincuentes-ultimados-por-la-policia-en-una-semana/",
           "source": "El Dia.com.do"
         },
         {
-          "title": "Así llegó “La Ployi”, una de las parejas de \"Maicol Peluche\", a la funeraria y al entierro tras ser abatido por la PN",
+          "title": "PN ultima a dos de los involucrados en muerte de Diddy Glow",
           "snippet": "",
-          "url": "https://ntelemicro.com/asi-llego-la-ployi-una-de-las-parejas-de-maicol-peluche-a-la-funeraria-y-al-entierro-tras-ser-abatido-por-la-pn/",
-          "source": "Noticias Telemicro"
+          "url": "https://listindiario.com/la-republica/justicia/20260916/pn-ultima-dos-involucrados-muerte-diddy-glow_922513.html",
+          "source": "Listín Diario"
         },
         {
-          "title": "Abuela de “El Peluche”: “Él tomó un camino equivocado y lo sabemos”",
+          "title": "Tras PN matar a Michael Peluche, se entregan dos más señalados en tiroteo de Boca Chica",
           "snippet": "",
-          "url": "https://ntelemicro.com/abuela-de-el-peluche-el-tomo-un-camino-equivocado-y-lo-sabemos/",
-          "source": "Noticias Telemicro"
+          "url": "https://elnacional.com.do/nacionales/pn-matar-michael-peluche-entregan-dos-vinculados-tiroteo-boca-chica_581167.html",
+          "source": "El Nacional — La voz de todos"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,13 +257,13 @@
       "title": "yordan álvarez",
       "trafficCount": "200+",
       "pubDate": "Thu, 17 Sep 2026 17:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9OSkYX0mMY6pCvFt4HxS7qBAgQl26Nmj_zp-6uoQv39jat7Lb7v11GJZQ1BY",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTfNrJ05T8faIXRGykB7Svt7WAr_V9YXXho7GCx7Ne4jWeLU8vLLCR_7rQjRc",
       "pictureSource": "MLB.com",
       "relatedSearch": [
         {
-          "title": "Yordan Álvarez queda a un HR del liderato (40)",
+          "title": "Análisis a fondo del jonrón de Jeremy Peña",
           "snippet": "",
-          "url": "https://www.mlb.com/es/video/yordan-alvarez-queda-a-un-hr-del-liderato-40",
+          "url": "https://www.mlb.com/es/video/a-deep-dive-into-jeremy-pena-s-home-run-x8830",
           "source": "MLB.com"
         },
         {
@@ -133,150 +273,10 @@
           "source": "Diario Libre"
         },
         {
-          "title": "Álvarez y Peña lideran fiesta de batazos para los Astros",
+          "title": "Jeremy Peña pega su jonrón 20 y Astros derrotan a Kansas",
           "snippet": "",
-          "url": "https://elnuevodiario.com.do/alvarez-y-pena-lideran-fiesta-de-batazos-para-los-astros/",
-          "source": "El Nuevo Diario"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "white sox - tigers",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 17 Sep 2026 17:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTO7Y1jbzH-vZcsYqujzhRt83033Vx5Z70akAxy7r_yDjysWk6hf8H0dsuCX0I",
-      "pictureSource": "ESPN Deportes",
-      "relatedSearch": [
-        {
-          "title": "Detroit Tigers vs. Chicago White Sox 19/9/26 - Mira Juego en vivo",
-          "snippet": "",
-          "url": "https://espndeportes.espn.com/watch/player/_/eventCalendarId/401817004",
-          "source": "ESPN Deportes"
-        },
-        {
-          "title": "Munetaka Murakami blasts 423-foot 3-run homer for White Sox",
-          "snippet": "",
-          "url": "https://www.espn.ph/video/clip/_/id/49969561/munetaka-murakami-blasts-423-foot-3-run-homer-white-sox",
-          "source": "ESPN Philippines"
-        },
-        {
-          "title": "Dominant bullpen performance puts White Sox back into tie for first place",
-          "snippet": "",
-          "url": "https://www.yardbarker.com/mlb/articles/dominant_bullpen_performance_puts_white_sox_back_into_tie_for_first_place/s1_13132_44317473",
-          "source": "Yardbarker"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "rangers - red sox",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 17 Sep 2026 17:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQc6PSpdb6_xRVLaOK0q5I655prRlAv0qqlXY2QvU85XpoGyoUruoMx2iWPXo8",
-      "pictureSource": "MLB.com",
-      "relatedSearch": [
-        {
-          "title": "Contreras day to day after X-rays on hand come back negative",
-          "snippet": "",
-          "url": "https://www.mlb.com/news/willson-contreras-leaves-game-after-hit-by-pitch-against-rangers",
-          "source": "MLB.com"
-        },
-        {
-          "title": "Boston Red Sox All-Star First Baseman Exits Game with Apparent Injury",
-          "snippet": "",
-          "url": "https://roundtable.io/sports/mlb/red-sox/news/boston-red-sox-all-star-first-baseman-exits-game-with-apparent-injury",
-          "source": "roundtable.io"
-        },
-        {
-          "title": "Red Sox slugger leaves game after being hit by pitch in hand",
-          "snippet": "",
-          "url": "https://www.bostonherald.com/2026/09/17/red-sox-slugger-leaves-game-after-being-hit-by-pitch-in-hand/",
-          "source": "Boston Herald"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "wnba",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 17 Sep 2026 16:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzO7OZXzqmWzBIIqSoN6jFFZPUMjz_oHicx5EgcdwHgNc7ytvP0ELdxKS7x1g",
-      "pictureSource": "Reuters Connect",
-      "relatedSearch": [
-        {
-          "title": "Licensable picture: WNBA: Connecticut Sun at Atlanta Dream",
-          "snippet": "",
-          "url": "https://www.reutersconnect.com/item/wnba-connecticut-sun-at-atlanta-dream/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4NDI5OTQ",
-          "source": "Reuters Connect"
-        },
-        {
-          "title": "Angel Reese returns from World Cup with major opportunity waiting for Dream",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/articles/angel-reese-returns-world-cup-011529404.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Rhyne Howard sets WNBA single-season 3-point record as Dream beat Sun",
-          "snippet": "",
-          "url": "https://www.nytimes.com/athletic/7606314/2026/09/17/rhyne-howard-wnba-3-point-record/",
-          "source": "The New York Times"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "astros - royals",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 17 Sep 2026 16:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwiGtvwf3lEofvVghg0Rat3WzKLhOnuokLeaRDeznAzrt-peCgkRyItgHwsgY",
-      "pictureSource": "MLB",
-      "relatedSearch": [
-        {
-          "title": "Kansas City Royals at Houston Astros Game Story, Scores/Highlights - 09/17/2026",
-          "snippet": "",
-          "url": "https://www.mlb.com/stories/game/824141",
-          "source": "MLB"
-        },
-        {
-          "title": "Carter Jensen hits an RBI double",
-          "snippet": "",
-          "url": "https://www.espn.com.au/video/clip/_/id/49908355/carter-jensen-hits-rbi-double",
-          "source": "ESPN"
-        },
-        {
-          "title": "Carter Jensen scores on fielder's choice",
-          "snippet": "",
-          "url": "https://www.mlb.com/royals/video/carter-jensen-scores-on-fielder-s-choice",
-          "source": "MLB.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "mets - phillies",
-      "trafficCount": "1000+",
-      "pubDate": "Thu, 17 Sep 2026 16:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDVJpcACA3GgngeMah79Ynl0kFZ-1JETK0d0OWYe8P62NkhUJR7i0FP7R8QqU",
-      "pictureSource": "The New York Times",
-      "relatedSearch": [
-        {
-          "title": "Mets’ Jared Young taken off field on stretcher after collision with teammate - The Athletic",
-          "snippet": "",
-          "url": "https://www.nytimes.com/athletic/7606172/2026/09/17/jared-young-mets-injury-stretcher/",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Horrible! Former Doosan foreign player, neck snapped while fielding → Emergency hospital transport \"Consciousness has returned\" — a great relief",
-          "snippet": "",
-          "url": "https://www.starnewskorea.com/en/sports/2026/09/18/2026091812095316982",
-          "source": "스타뉴스"
-        },
-        {
-          "title": "Andy Green gives an update on Jared Young's injury",
-          "snippet": "",
-          "url": "https://www.mlb.com/mets/video/andy-green-gives-an-update-on-jared-young-s-injury",
-          "source": "MLB.com"
+          "url": "https://listindiario.com/el-deporte/beisbol/20260917/jeremy-pena-pega-jonron-20-astros-derrotan-kansas_922702.html",
+          "source": "Listín Diario"
         }
       ],
       "link": "https://imtaqin.id/"

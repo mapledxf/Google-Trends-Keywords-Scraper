@@ -1,9 +1,65 @@
 {
-  "lastUpdate": "2026-09-18 06:32:56",
+  "lastUpdate": "2026-09-18 11:42:31",
   "data": [
     {
-      "title": "מזג אוויר",
+      "title": "צבא הגנה לישראל",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 18 Sep 2026 04:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3XNg1REKRtcccc5S87zRzen6_wjs9mTKEENht2pEsjawPkeBnFjvxEdn_vGE",
+      "pictureSource": "جريدة القدس",
+      "relatedSearch": [
+        {
+          "title": "קריסת חזית החוף המערבי והתקדמות החות'ים לעבר באב אל-מנדב",
+          "snippet": "",
+          "url": "https://alquds.com/he/posts/258377",
+          "source": "جريدة القدس"
+        },
+        {
+          "title": "ההמלצה החריגה של מערכת הביטחון: הסיבה שישראל מסרבת להנחית מכת מנע על החות'ים",
+          "snippet": "",
+          "url": "https://www.maariv.co.il/news/military/article-1368163",
+          "source": "מעריב"
+        },
+        {
+          "title": "המהלך של סין כלפי איראן מגיע בעקבות הצעת ערב הסעודית.",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/he/dong-thai-cua-trung-quoc-voi-iran-sau-de-nghi-cua-saudi-arabia",
+          "source": "Vietnam.vn"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "עמיחי עטיה",
       "trafficCount": "500+",
+      "pubDate": "Thu, 17 Sep 2026 23:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfJ06j1byy8de9T_foT9m-rXWfm-QXDj9DjTmF5L92tozFXxuPw2LSq1-wDn0",
+      "pictureSource": "YNET",
+      "relatedSearch": [
+        {
+          "title": "חשד לרצח: עמיחי בן ה-17 נדרס למוות אחרי אירוע סליחות בחדרה, הנהג נורה",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/news/article/byoggb5ffl",
+          "source": "YNET"
+        },
+        {
+          "title": "פיגוע דריסה או תאונה? טענות קשות על חקירת האירוע הקשה בחדרה",
+          "snippet": "",
+          "url": "https://www.jdn.co.il/news/2730667/",
+          "source": "JDN"
+        },
+        {
+          "title": "הותר לפרסום: עמיחי עטיה הוא תלמיד הישיבה שנדרס למוות על ידי ערבי",
+          "snippet": "",
+          "url": "https://www.srugim.co.il/newsflash/138679",
+          "source": "סרוגים"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "מזג אוויר",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 17 Sep 2026 20:50:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDQiKtKHO_klXmzPPwodbyUOirVjMckzZUpwB5NgqGp3pqJkHdzdahXbGufSE",
       "pictureSource": "Vietnam.vn",
@@ -31,45 +87,39 @@
     },
     {
       "title": "weather",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 17 Sep 2026 20:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREMmyaVDqtYmnSbn7YmrGLTe40TVBkD3d9XMmKnjhQvt541vfZHh9tPKf59uY",
-      "pictureSource": "Philenews",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQeYn_8HAE8PWDD16qiApNBHKCfAC3KLDzu2B6918AXFgbKuhDfv_k7XXByBKs",
+      "pictureSource": "OrilliaMatters.com",
       "relatedSearch": [
         {
-          "title": "Cloudy with 31 degree peak on Friday",
+          "title": "Good morning, Orillia! Here's today's weather!",
           "snippet": "",
-          "url": "https://en.philenews.com/local/cloudy-with-31-degree-peak-on-friday/",
-          "source": "Philenews"
+          "url": "https://www.orilliamatters.com/good-morning-orillia/good-morning-orillia-heres-todays-weather-12779866",
+          "source": "OrilliaMatters.com"
         },
         {
-          "title": "Louth Weather: Mostly dry at first with a few sunny spells",
+          "title": "Good morning, Elliot Lake! Here's today's weather!",
           "snippet": "",
-          "url": "https://www.dundalkdemocrat.ie/news/weather/louth-weather-mostly-dry-at-first-with-a-few-sunny-spells-9079986",
-          "source": "Louth Live"
+          "url": "https://www.elliotlaketoday.com/good-morning/good-morning-elliot-lake-heres-todays-weather-12790462",
+          "source": "ElliotLakeToday.com"
         },
         {
-          "title": "Louth Weather: Cloudy with scattered showers at first",
+          "title": "Good morning, Sault Ste. Marie! Here's today's weather!",
           "snippet": "",
-          "url": "https://www.ireland-live.ie/east/louth-live/louth-weather-cloudy-with-scattered-showers-at-first-9068480",
-          "source": "Ireland Live News"
+          "url": "https://www.sootoday.com/good-morning/good-morning-sault-ste-marie-heres-todays-weather-12779717",
+          "source": "SooToday.com"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "الطقس",
-      "trafficCount": "5000+",
+      "trafficCount": "10000+",
       "pubDate": "Thu, 17 Sep 2026 20:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQ3Cz_TWScD-KYBsMHBQQfRtfWHAuQYYXShj1V8gJaTS0id6ebzvHhxkmV-tk",
-      "pictureSource": "النجاح الإخباري",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNFh6IGzr7hY-cFLILg2cnlwLbas2YfM2UrYVTJuaHcx3jUwU5H7r0hHEQpMI",
+      "pictureSource": "وكـالـة مـعـا الاخـبـارية",
       "relatedSearch": [
-        {
-          "title": "انخفاض ملموس على درجات الحرارة",
-          "snippet": "",
-          "url": "https://nn.najah.edu/news/Palestine/2026/09/18/569206/",
-          "source": "النجاح الإخباري"
-        },
         {
           "title": "حالة الطقس: انخفاض ملموس وامطار متوقعة",
           "snippet": "",
@@ -77,10 +127,16 @@
           "source": "وكـالـة مـعـا الاخـبـارية"
         },
         {
-          "title": "بالخارطة التوضيحية .. مناطق بلاد الشام المشمولة بفرصة أمطار أيلول خلال نهاية الاسبوع",
+          "title": "انخفاض ملموس على درجات الحرارة",
           "snippet": "",
-          "url": "https://www.arabiaweather.com/ar/content/%D8%A8%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%B7%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D8%B6%D9%8A%D8%AD%D9%8A%D8%A9-%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%A8%D9%84%D8%A7%D8%AF-%D8%A7%D9%84%D8%B4%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%B4%D9%85%D9%88%D9%84%D8%A9-%D8%A8%D9%81%D8%B1%D8%B5%D8%A9-%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D8%A3%D9%8A%D9%84%D9%88%D9%84-%D8%AE%D9%84%D8%A7%D9%84-%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%B3%D8%A8%D9%88%D8%B9",
-          "source": "طقس العرب"
+          "url": "https://nn.najah.edu/news/Palestine/2026/09/18/569206/",
+          "source": "النجاح الإخباري"
+        },
+        {
+          "title": "انخفاض ملموس على درجات الحرارة وأمطار متفرقة",
+          "snippet": "",
+          "url": "https://shehabnews.com/post/164277/%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D9%85%D9%84%D9%85%D9%88%D8%B3-%D8%B9%D9%84%D9%89-%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D9%88%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D9%85%D8%AA%D9%81%D8%B1%D9%82%D8%A9",
+          "source": "وكالة شهاب الإخبارية"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,37 +145,43 @@
       "title": "man city vs norwich city",
       "trafficCount": "100+",
       "pubDate": "Thu, 17 Sep 2026 13:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5lXMq1gD41scstAzLEQ9c2rgPYmQUr4YaxhmW4qmkjlAJYyTg40VRcLtqPnc",
-      "pictureSource": "UA.NEWS",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxHSyWm9ENXQEc3hdkMlksp2UGSQBcTGg3ZV893LN-vtffurVd0IPljbev6mk",
+      "pictureSource": "Sportscape Magazine",
       "relatedSearch": [
         {
-          "title": "17-year-old Floyd Samba scores a brace on Manchester City debut — Dawn",
+          "title": "Manchester City Destroy Norwich City With Five Goals In The Carabao Cup",
           "snippet": "",
-          "url": "https://ua.news/en/sport/17-richnii-floid-samba-oformiv-dubl-u-debiuti-za-manchester-siti-dawn",
-          "source": "UA.NEWS"
+          "url": "https://www.sportscapemagazine.com/blog/manchester-city-vs-norwich-city-carabao-cup-2026-win",
+          "source": "Sportscape Magazine"
         },
         {
-          "title": "Man City Debut New 17-Year-Old Goal Hero on Erling Haaland’s Night Off",
+          "title": "Floyd Samba scores debut brace in Man City win",
           "snippet": "",
-          "url": "https://forzafootball.com/news/man-city-debut-new-17-year-old-goal-hero-on-erling-haalands-night-off-159451138",
-          "source": "Forza Football"
+          "url": "https://onefootball.com/de/video/floyd-samba-scores-debut-brace-in-man-city-win-3JUyCHEPRt5dEreCpsY1IFgRaNQ",
+          "source": "OneFootball"
         },
         {
-          "title": "'It was too easy for Man City' - Chris Sutton on Man City's win over Norwich",
+          "title": "Enzo Maresca reveals tactical experiment behind Floyd Samba's stunning Manchester City debut",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/articles/cvn0jeg9yly7o",
-          "source": "BBC"
+          "url": "https://www.goal.com/en/lists/enzo-maresca-floyd-samba-manchester-city-debut/bltbaa9cfef91b2de2f",
+          "source": "Goal.com"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "مان سيتي ضد نورويتش",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Thu, 17 Sep 2026 11:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbNDmC7OQ610u02wt-trMswnO1NjYvkqrUWGmfUOquJfEreb5Yi9pkHGLMoVI",
-      "pictureSource": "Kooora",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0Zu6pCnkJtly8IMYSm3eZfD8tI4APtyfsY7INpKDD7boyImu4PmPLDysSGJ0",
+      "pictureSource": "عرب 48",
       "relatedSearch": [
+        {
+          "title": "سيتي يمطر شباك نوريتش بخماسية ويواصل حملة الدفاع عن لقب كأس الرابطة",
+          "snippet": "",
+          "url": "https://www.arab48.com/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/2026/09/18/%D8%B3%D9%8A%D8%AA%D9%8A-%D9%8A%D9%85%D8%B7%D8%B1-%D8%B4%D8%A8%D8%A7%D9%83-%D9%86%D9%88%D8%B1%D9%8A%D8%AA%D8%B4-%D8%A8%D8%AE%D9%85%D8%A7%D8%B3%D9%8A%D8%A9-%D9%88%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%AD%D9%85%D9%84%D8%A9-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%B9%D9%86-%D9%84%D9%82%D8%A8-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B7%D8%A9",
+          "source": "عرب 48"
+        },
         {
           "title": "ليلة البدلاء.. مانشستر سيتي يدمر نورويتش بخماسية في الكاراباو",
           "snippet": "",
@@ -131,12 +193,6 @@
           "snippet": "",
           "url": "https://www.alkhaleej.ae/2026-09-18/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/%D8%B3%D8%AC%D9%84-%D9%87%D8%AF%D9%81%D9%8A%D9%86-%D9%81%D9%8A-%D8%A3%D9%88%D9%84-%D8%B8%D9%87%D9%88%D8%B1-%D9%84%D9%87-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%B5%D8%A7%D8%B9%D9%82%D8%A9-%D9%84%D9%84%D8%A7%D8%B9%D8%A8-%D8%B5%D8%A7%D8%B9%D8%AF-%D8%A8%D9%85%D8%A7%D9%86%D8%B4%D8%B3%D8%AA%D8%B1-%D8%B3%D9%8A%D8%AA%D9%8A",
           "source": "صحيفة الخليج"
-        },
-        {
-          "title": "بوعدي تفوق على بن سليمان.. مواجهة مغاربية تُحسم في إنجلترا!",
-          "snippet": "",
-          "url": "https://www.winwin.com/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A8%D9%88%D8%B9%D8%AF%D9%8A-%D8%AA%D9%81%D9%88%D9%82-%D8%B9%D9%84%D9%89-%D8%A8%D9%86-%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D9%85%D8%BA%D8%A7%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D9%8F%D8%AD%D8%B3%D9%85-%D9%81%D9%8A-%D8%A5%D9%86%D8%AC%D9%84%D8%AA%D8%B1%D8%A7",
-          "source": "winwin"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +211,16 @@
           "source": "فلسطين أون لاين"
         },
         {
+          "title": "طقس الجمعة يمدد موسم المصايف.. العلمين ومطروح في صدارة الرحلات",
+          "snippet": "",
+          "url": "https://twaslnews1.twaslnews.com/5071296/",
+          "source": "شبكة تواصل الإخبارية"
+        },
+        {
           "title": "تحذير من رياح وأمطار تضرب بعض المناطق غدا.. هل تتأثر محافظتك؟",
           "snippet": "",
           "url": "https://www.elwatannews.com/news/details/8360444",
           "source": "الوطن"
-        },
-        {
-          "title": "الأرصاد تكشف تفاصيل طقس الـ 5 أيام المقبلة وعودة الأجواء المعتدلة",
-          "snippet": "",
-          "url": "https://akhbarelyom.com/news/newdetails/4879304/1/%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%B7%D9%82%D8%B3-%D8%A7%D9%84%D9%80-5-%D8%A3%D9%8A%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D9%82%D8%A8",
-          "source": "بوابة أخبار اليوم الإلكترونية"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,10 +245,10 @@
           "source": "TipRanks"
         },
         {
-          "title": "FIRST ALERT| Chris Bailey has a Friday cold front",
+          "title": "Heavy rain to batter Hanoi and northern Vietnam before easing",
           "snippet": "",
-          "url": "https://www.wkyt.com/2026/09/17/first-alert-chris-bailey-has-friday-cold-front/",
-          "source": "WKYT"
+          "url": "https://vietnamnet.vn/en/heavy-rain-to-batter-hanoi-and-northern-vietnam-before-easing-2556339.html",
+          "source": "Báo VietNamNet"
         }
       ],
       "link": "https://imtaqin.id/"

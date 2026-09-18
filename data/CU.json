@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-18 21:03:33",
+  "lastUpdate": "2026-09-18 23:12:43",
   "data": [
     {
       "title": "cubadebate",
@@ -33,35 +33,54 @@
       "title": "clima",
       "trafficCount": "200+",
       "pubDate": "Fri, 18 Sep 2026 04:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbcZgYKa8Gp6IXTdc74e2uvyO5RH-qhLnugR1W-WaKc9jmLUcPiqGXeJGNgLw",
+      "pictureSource": "Clarin.com",
+      "relatedSearch": [
+        {
+          "title": "El clima en la Ciudad: se viene un fin de semana de calor, pero con algunas lluvias en el horizonte",
+          "snippet": "",
+          "url": "https://www.clarin.com/sociedad/clima-ciudad-viene-fin-semana-calor-lluvias-horizonte_0_5Td87jameZ.html",
+          "source": "Clarin.com"
+        },
+        {
+          "title": "CALOR, VIENTO y LLUVIA: el PRONÓSTICO para este FIN DE SEMANA",
+          "snippet": "",
+          "url": "https://www.mendozapost.com/sociedad/pronostico-fin-de-semana-inicio-primavera-calor-lluvia-zonda/",
+          "source": "Mendoza Post"
+        },
+        {
+          "title": "La primavera comienza con temperaturas elevadas, lluvias irregulares y riesgo de heladas",
+          "snippet": "",
+          "url": "https://www.ellitoral.com/campolitoral/primaveraastronomica-bolsadecerealesdebuenosaires-regionpampeana-precipitaciones-perspectivaagroclimatica-heladas-campanaagricola-noa-mesopotamia-cuyo-chaco-airepolar_0_rSwi6pJUns.html",
+          "source": "El Litoral"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "cuba",
       "trafficCount": "200+",
       "pubDate": "Thu, 17 Sep 2026 22:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfU6ZHBSVX5fgZekheeSKZ8jb191oCYui4IvsdsJ6i8G84LRoXQX4y7T34AtE",
-      "pictureSource": "The Atlantic",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTH1j7Tau-XVtT5PGTlFo_SVuDXUvAa-UU9kBkocJ28yNXOXgNt7C643KNqTkM",
+      "pictureSource": "Havana Times",
       "relatedSearch": [
         {
-          "title": "Cuba’s Old Economic Model Is ‘Exhausted’",
+          "title": "Cuba: When an Everyday Activity Is No Longer Normal",
           "snippet": "",
-          "url": "https://www.theatlantic.com/national-security/2026/09/cuba-america-diplomat-economy-coercion/688627/",
-          "source": "The Atlantic"
+          "url": "https://havanatimes.org/photo-feature/cuba-when-an-everyday-activity-is-no-longer-normal/",
+          "source": "Havana Times"
         },
         {
-          "title": "Cuban official on Trump's threats as tensions with U.S. rise",
+          "title": "Cuba's power grid collapses again",
           "snippet": "",
-          "url": "https://www.pbs.org/newshour/show/cuban-official-on-trumps-threats-as-tensions-with-u-s-rise",
-          "source": "PBS"
+          "url": "https://breakingthenews.net/Article/Cuba's-power-grid-collapses-again/67135554",
+          "source": "Breakingthenews.net"
         },
         {
-          "title": "Cuban official on Trump's threats as tensions with U.S. rise",
+          "title": "Cuba hit with seventh major blackout of the year",
           "snippet": "",
-          "url": "https://www.pbs.org/newshour/classroom/daily-news-lessons/2026/09/cuban-official-on-trumps-threats-as-tensions-with-us-rise",
-          "source": "PBS"
+          "url": "https://www.bangkokpost.com/world/3322469/cuba-hit-with-seventh-major-blackout-of-the-year",
+          "source": "Bangkok Post"
         }
       ],
       "link": "https://imtaqin.id/"

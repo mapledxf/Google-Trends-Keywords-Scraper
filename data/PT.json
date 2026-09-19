@@ -1,122 +1,94 @@
 {
-  "lastUpdate": "2026-09-19 05:50:17",
+  "lastUpdate": "2026-09-19 09:45:59",
   "data": [
     {
-      "title": "jornal record",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 18 Sep 2026 22:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT487NJaFqFai8qZ1IXyZ81-qZXi09QdyUdYpLljrzUdUTiyDzxU0elXFxoHqA",
-      "pictureSource": "Record",
+      "title": "chat gpt",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 19 Sep 2026 01:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSjBdm3O-OeGzZX27vt6cwPWd84DeNghqW_-xINtsJJERc4yhoQ2hyz2AArl0",
+      "pictureSource": "WSJ",
       "relatedSearch": [
         {
-          "title": "CMTV revela novos dados sobre o escândalo na arbitragem: Paulo Lopo pagou fim-de-semana no Algarve a Luciano Gonçalves",
+          "title": "Exclusive | Hackers Used Anthropic’s Claude to Break Into OpenAI",
           "snippet": "",
-          "url": "https://www.record.pt/futebol/arbitragem/detalhe/cmtv-revela-novos-dados-sobre-o-escandalo-na-arbitragem-paulo-lopo-pagou-fim-de-semana-no-algarve-a-luciano-goncalves",
-          "source": "Record"
+          "url": "https://www.wsj.com/tech/ai/hackers-used-anthropics-claude-to-break-into-openai-b40ba883",
+          "source": "WSJ"
         },
         {
-          "title": "Jornalista Tânia Laranjo revela novos dados sobre escândalo na arbitragem no futebol português",
+          "title": "OpenAI ‘ethically hacked’ with help of Anthropic’s Claude chatbot",
           "snippet": "",
-          "url": "https://www.sabado.pt/video/detalhe/jornalista-tania-laranjo-revela-novos-dados-sobre-escandalo-na-arbitragem-no-futebol-portugues",
-          "source": "SÁBADO"
+          "url": "https://www.theguardian.com/technology/2026/sep/18/openai-hacked-anthropic-claude-chatbot",
+          "source": "The Guardian"
         },
         {
-          "title": "A Arbitragem e a ‘salada de Polvo’",
+          "title": "Hackers breached OpenAI, adding to fever pitch of security and safety concerns",
           "snippet": "",
-          "url": "https://sol.iol.pt/opiniao/noticias/rui-santos-a-arbitragem-e-a-salada-de-polvo/20260918/6aad3d610cf20dc52778ca74",
-          "source": "Jornal SOL"
+          "url": "https://www.nbcnews.com/tech/security/hackers-breach-openai-rcna598518",
+          "source": "NBC News"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "prémio",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 18 Sep 2026 22:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyK4BrOo4-Ip0zycRyRUl8XzOnTcleQ3dzk4qVqLobw-d0HZw4L6CiL47vBOI",
+      "title": "abola",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 19 Sep 2026 01:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRiOt52xDEhowaUxc9F8mQezazzs6dS5hef4ri34SJGVtJLthaJ6Ip4LY_0q54",
       "pictureSource": "A Bola",
       "relatedSearch": [
         {
-          "title": "Euromilhões: 2.º prémio veio para Portugal",
+          "title": "19 de setembro de 2026",
           "snippet": "",
-          "url": "https://www.abola.pt/noticias/euromilhoes-2o-premio-veio-para-portugal-2026091820404989449",
+          "url": "https://www.abola.pt/noticias/19-de-setembro-de-2026-2026091823042699194",
           "source": "A Bola"
         },
         {
-          "title": "Os números do Euromilhões que valem 29 milhões de euros",
+          "title": "Zidane acaba com 'show' de modelos em França: «Não precisamos desse espetáculo»",
           "snippet": "",
-          "url": "https://www.jn.pt/nacional/artigo/os-numeros-do-euromilhoes-que-valem-29-milhoes-de-euros/18128162",
+          "url": "https://www.abola.pt/noticias/zidane-acaba-com-show-de-modelos-em-franca-nao-precisamos-desse-espetaculo-2026091821462958409",
+          "source": "A Bola"
+        },
+        {
+          "title": "Zidane acaba com \"show\" na chegada dos jogadores ao estágio da seleção francesa",
+          "snippet": "",
+          "url": "https://www.ojogo.pt/internacional/artigo/zidane-acaba-com-show-na-chegada-dos-jogadores-ao-estagio-da-selecao-francesa/18128280",
+          "source": "O Jogo"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "cm",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 18 Sep 2026 23:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGHIT0Z3ZFVPyJ9iWqRA9F2dpjugONu29PEr5lkAFRwkohO0lRYX7P3q6raMU",
+      "pictureSource": "Correio da Manhã",
+      "relatedSearch": [
+        {
+          "title": "Marta Cruz de Almeida: a mulher que fez cair o CEO da Galp",
+          "snippet": "",
+          "url": "https://www.cmjornal.pt/vidas/detalhe/marta-cruz-de-almeida-a-mulher-que-fez-cair-o-ceo-da-galp",
+          "source": "Correio da Manhã"
+        },
+        {
+          "title": "Aliados em chamas: incêndio consome prédio em obras",
+          "snippet": "",
+          "url": "https://www.jn.pt/pais/artigo/aliados-em-chamas-incendio-consome-predio-em-obras/18128252",
           "source": "Jornal de Notícias"
         },
-        {
-          "title": "Os números do Euromilhões",
-          "snippet": "",
-          "url": "https://www.dn.pt/sociedade/os-nmeros-do-euromilhes-79",
-          "source": "Diário de Notícias"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "music",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 18 Sep 2026 21:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ31sz3075kqUhyYgQvgvB6XYDOZQqJ24whhIuLrsR5x8-8qaFzflDHqoPpOzg",
-      "pictureSource": "The New York Times",
-      "relatedSearch": [
-        {
-          "title": "Duncan Sheik, Who Traded Pop Stardom for Broadway, Dies at 56",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2026/09/18/arts/music/duncan-sheik-dead.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Duncan Sheik Remembered: Lea Michele, Melissa Barrera and More Pay Tribute to Late Musician",
-          "snippet": "",
-          "url": "https://www.yahoo.com/entertainment/music/articles/duncan-sheik-remembered-lea-michele-044156115.html",
-          "source": "Yahoo"
-        },
-        {
-          "title": "Duncan Sheik, ‘Barely Breathing’ singer, dead at 56",
-          "snippet": "",
-          "url": "https://www.foxnews.com/entertainment/duncan-sheik-barely-breathing-singer-dead-56",
-          "source": "Fox News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "incendio porto",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 18 Sep 2026 19:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToQRn112emUX6bguwdFs9HxJ0gWSxcUxFsUxST8qr508rkdaxnFlIE8clK1RA",
-      "pictureSource": "Renascença",
-      "relatedSearch": [
         {
           "title": "Dominado incêndio em prédio na Avenida dos Aliados, no Porto",
           "snippet": "",
           "url": "https://rr.pt/noticia/pais/2026/09/19/dominado-incendio-em-predio-na-avenida-dos-aliados-no-porto/486027/",
           "source": "Renascença"
-        },
-        {
-          "title": "Edifício em chamas na Avenida dos Aliados em pleno centro do Porto",
-          "snippet": "",
-          "url": "https://lusonoticias.pt/2026/09/edificio-em-chamas-na-avenida-dos-aliados-em-pleno-centro-do-porto/",
-          "source": "lusonoticias.pt"
-        },
-        {
-          "title": "Porto. Bombeiros combatem incêndio em edifício na Avenida dos Aliados",
-          "snippet": "",
-          "url": "https://rr.pt/noticia/pais/2026/09/19/porto-bombeiros-combatem-incendio-em-edificio-na-avenida-dos-aliados/486027/",
-          "source": "Renascença"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "hóquei",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 18 Sep 2026 16:50:00 -0700",
+      "title": "record",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 18 Sep 2026 23:20:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8w-jd0vmPaGciy1cd3fISvIs_X_4-czRZlQETrzfYoKtZKiD6ZBFzCLzlKCo",
       "pictureSource": "Record",
       "relatedSearch": [
@@ -142,122 +114,169 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "maisfutebol",
+      "title": "google",
       "trafficCount": "200+",
-      "pubDate": "Fri, 18 Sep 2026 15:50:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "público",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 18 Sep 2026 15:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQn99h7GBPl82cPbAONvDRvKEQxeLk-n22HVEV3mVUQ0o0lPVzoCwQLLWixHj4",
-      "pictureSource": "Público",
+      "pubDate": "Fri, 18 Sep 2026 22:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnJJm4PBPxsK6y0tSs1Kn3Jkf-b8eK469mEYwq5EU38a3HcWCjspBiwCLu1bI",
+      "pictureSource": "WSJ",
       "relatedSearch": [
         {
-          "title": "Coesão, regiões ultraperiféricas e competitividade: as prioridades do Governo para negociar orçamento da UE",
+          "title": "Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
           "snippet": "",
-          "url": "https://www.publico.pt/2026/09/19/economia/noticia/coesao-regioes-ultraperifericas-competitividade-prioridades-governo-negociar-orcamento-ue-2188541",
-          "source": "Público"
+          "url": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2",
+          "source": "WSJ"
         },
         {
-          "title": "Costa está a trabalhar com Dublin para um acordo orçamental na UE até fim do ano",
+          "title": "Google says its Gemini AI model hacked three other companies",
           "snippet": "",
-          "url": "https://jornaleconomico.sapo.pt/noticias/costa-esta-a-trabalhar-com-dublin-para-um-acordo-orcamental-na-ue-ate-fim-do-ano/",
-          "source": "Jornal Económico"
+          "url": "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack",
+          "source": "The Guardian"
         },
         {
-          "title": "Conselho Europeu de outubro terá dois dias e vai abordar orçamento da União Europeia",
+          "title": "Google's Gemini AI hacked three companies in security test",
           "snippet": "",
-          "url": "https://www.cmjornal.pt/mundo/detalhe/conselho-europeu-de-outubro-tera-dois-dias-e-vai-abordar-orcamento-da-uniao-europeia",
-          "source": "Correio da Manhã"
+          "url": "https://www.bbc.com/news/articles/c607l0k72rlvo",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "imprensa",
+      "title": "noticias",
       "trafficCount": "100+",
-      "pubDate": "Fri, 18 Sep 2026 15:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSf4IxDQIHRXSXqkx7po02HujZVWg8AsBAe7w-yztm1jBHBd2ztwmNcqg2KCY0",
-      "pictureSource": "Público",
+      "pubDate": "Fri, 18 Sep 2026 22:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW8r-bNgi-nwIKqwKaS0ja4MOTlzMvo2g0MPg-uBoGKz4cDijbnfsJnuHZHtA",
+      "pictureSource": "ECO",
       "relatedSearch": [
         {
-          "title": "Trump diz que vai “banir” CNN, Politico e MS NOW da Casa Branca | EUA",
+          "title": "Passe ferroviário verde alargado a todo o país. Veja o que vai mudar",
           "snippet": "",
-          "url": "https://www.publico.pt/2026/09/18/mundo/noticia/trump-bane-cnn-politico-ms-now-casa-branca-2188595",
-          "source": "Público"
+          "url": "https://eco.sapo.pt/descodificador/passe-ferroviario-verde-alargado-a-todo-o-pais-veja-o-que-muda-nesta-quarta-feira/",
+          "source": "ECO"
         },
         {
-          "title": "Trump baniu jornalistas da CNN, MS NOW e do Político da Casa Branca",
+          "title": "Passe Verde vai ser alargado ao Porto e Lisboa. Como funciona?",
           "snippet": "",
-          "url": "https://sicnoticias.pt/mundo/eua/2026-09-18-trump-baniu-jornalistas-da-cnn-ms-now-e-do-politico-da-casa-branca-a911a503",
-          "source": "SIC Notícias"
+          "url": "https://www.jn.pt/nacional/artigo/passe-verde-vai-ser-alargado-ao-porto-e-lisboa-como-funciona/18127245",
+          "source": "Jornal de Notícias"
         },
         {
-          "title": "\"Trump tem uma visão em relação ao jornalismo que contrasta com a Primeira Emenda\"",
+          "title": "Governo não se compromete com data para alargar passe ferroviário verde aos comboios urbanos",
           "snippet": "",
-          "url": "https://cnnportugal.iol.pt/videos/trump-tem-uma-visao-em-relacao-ao-jornalismo-que-contrasta-com-a-primeira-emenda/6aada93c0cf23b0ed4fd8db8",
-          "source": "CNN Portugal"
+          "url": "https://www.rtp.pt/noticias/pais/governo-nao-se-compromete-com-data-para-alargar-passe-ferroviario-verde-aos-comboios-urbanos_n1765720",
+          "source": "RTP"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "mika",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 18 Sep 2026 15:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7jBhSc9rQQtcKGHH9AQygrgwPaU0u3U2khkdMmf7yCP-wJRrHMX2Nji_YpwA",
-      "pictureSource": "RTE.ie",
+      "title": "noticias ao minuto",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 18 Sep 2026 21:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYXrPZEO9QATenhQwPc1Rfp0hqeZZkOWc5GUknAmOyDaBVIjOFDszSvLuY180",
+      "pictureSource": "RTP",
       "relatedSearch": [
         {
-          "title": "Celtic's Baur looks forward to Old Firm duel",
+          "title": "Investigadoras defendem atualidade e projeção global da poeta",
           "snippet": "",
-          "url": "https://www.rte.ie/sport/soccer/2026/0910/1591082-celtics-baur-looks-forward-to-old-firm-duel/",
-          "source": "RTE.ie"
+          "url": "https://www.rtp.pt/noticias/cultura/investigadoras-defendem-atualidade-e-projecao-global-da-poeta_n1766232",
+          "source": "RTP"
         },
         {
-          "title": "Even after my international recognition, Sunday's Old Firm is all that matters",
+          "title": "Noémia de Sousa: O grito de liberdade que Selma Uamusse recita e canta",
           "snippet": "",
-          "url": "https://uk.sports.yahoo.com/news/even-international-recognition-sundays-old-220600983.html",
-          "source": "Yahoo"
+          "url": "https://www.noticiasaominuto.com/pais/3054076/noemia-de-sousa100-anos-o-grito-de-liberdade-que-selma-uamusse-recita-e-canta-caudio-cvideo-e-cfotos",
+          "source": "Notícias ao Minuto"
         },
         {
-          "title": "Celtic crash course for summer recruit: first Germany call-up, Ferencvaros pain and recipe for Rangers redemption",
+          "title": "Escrever na Água Episódio 19 - de 16 set 2026",
           "snippet": "",
-          "url": "https://www.scotsman.com/sport/football/celtic/latest-celtic-news/celtic-crash-course-for-summer-recruit-first-call-up-ferencvaros-pain-and-recipe-for-rangers-redemption-9083955",
-          "source": "The Scotsman"
+          "url": "https://www.rtp.pt/play/p437/e954455/escrever-na-agua",
+          "source": "RTP"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "kursk",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 18 Sep 2026 15:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_BRz8PHELiRW9nWFsqPO1bEzF6LFerF9gehiIjBltJDJuKm-8mksU9NEsWec",
-      "pictureSource": "Euronews",
+      "title": "idealista",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 18 Sep 2026 21:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRwBmGPzmv8Ol__vljMwcoQlCDo8v1awgpH2NOxIZh2KX6H2uRvGps-bwAaFs",
+      "pictureSource": "Idealista",
       "relatedSearch": [
         {
-          "title": "Russia launches fresh attacks on Kyiv and Kharkiv",
+          "title": "idealista launches in France",
           "snippet": "",
-          "url": "https://www.euronews.com/my-europe/2026/09/18/kyiv-and-kharkiv-strikes",
-          "source": "Euronews"
+          "url": "https://www.idealista.pt/en/news/property-for-sale-in-portugal/2026/09/18/77439-idealista-launches-in-france",
+          "source": "Idealista"
         },
         {
-          "title": "Drone Hits Cooling Tower At Russia's Nuclear Plant, Says UN Nuclear Watchdog",
+          "title": "idealista launches operations in France",
           "snippet": "",
-          "url": "https://www.ndtv.com/world-news/drone-hits-cooling-tower-at-russias-nuclear-plant-says-un-nuclear-watchdog-12066626",
-          "source": "NDTV"
+          "url": "https://www.idealista.it/en/news/property-for-sale-in-italy/2026/09/18/446587-idealista-launches-operations-in-france",
+          "source": "Idealista"
         },
         {
-          "title": "IAEA reports drone strike on Kursk NPP in Russia — Anadolu Agency",
+          "title": "Buyer’s agents in Portugal: why buyer-only property representation is emerging",
           "snippet": "",
-          "url": "https://ua.news/en/world/magate-povidomilo-pro-udar-drona-po-kurskii-aes-u-rosiyi-anadolu-agency",
-          "source": "UA.NEWS"
+          "url": "https://www.idealista.pt/en/news/property-for-sale-in-portugal/2026/09/18/77677-buyer-s-agents-in-portugal-why-buyer-only-property-representation-is",
+          "source": "Idealista"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "sports",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 18 Sep 2026 21:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWVKGIZkU5lld5uISrm-4BzP-iBOqfXXnCUYBdcBYS_Jn6nvYL-I4ZQWCh9UY",
+      "pictureSource": "worldathletics.org",
+      "relatedSearch": [
+        {
+          "title": "World Athletics signs on to Sports for Nature Framework and MOU with UNHCR | PRESS-RELEASES",
+          "snippet": "",
+          "url": "https://worldathletics.org/news/press-releases/world-athletics-sports-for-nature-framework-unhcr",
+          "source": "worldathletics.org"
+        },
+        {
+          "title": "Sports quiz of the week: records, hazards, complaints and boring events",
+          "snippet": "",
+          "url": "https://www.theguardian.com/sport/2026/sep/18/sports-quiz-football-cricket-racing-tennis-cycling-golf-athletics",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Bagnaia finalmente quebra a maldição do Q1 enquanto ele e Zarco avançam para o Q2 no Red Bull Ring",
+          "snippet": "",
+          "url": "https://sapo.pt/artigo/bagnaia-finalmente-quebra-a-maldicao-do-q1-enquanto-ele-e-zarco-avancam-para-o-q2-no-red-bull-ring-6aae523b7a663ca5d31cae9d",
+          "source": "SAPO"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "movies",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 18 Sep 2026 21:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-V7Pvj6ra3fQhGSQ8rc2IPF5VdFFdU68T6MUN4oP5fiF4ygJVunijirhB_Ls",
+      "pictureSource": "PCMag",
+      "relatedSearch": [
+        {
+          "title": "The Best Movies to Watch on Netflix Right Now (Sept. 18-25, 2026)",
+          "snippet": "",
+          "url": "https://www.pcmag.com/news/best-movies-to-watch-on-netflix-right-now-sept-18-25-2026",
+          "source": "PCMag"
+        },
+        {
+          "title": "3 award-winning Netflix movies to watch this weekend (September 18-20)",
+          "snippet": "",
+          "url": "https://www.howtogeek.com/award-winning-netflix-movies-to-watch-this-weekend-september-18/",
+          "source": "How-To Geek"
+        },
+        {
+          "title": "The 3 Best New Movies to Watch on Netflix This Week",
+          "snippet": "",
+          "url": "https://www.thewrap.com/creative-content/what-to-watch/3-best-new-movies-to-watch-netflix-9-18-26/",
+          "source": "TheWrap"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,37 +1,93 @@
 {
-  "lastUpdate": "2026-09-19 09:45:41",
+  "lastUpdate": "2026-09-19 13:29:15",
   "data": [
+    {
+      "title": "weather",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 19 Sep 2026 03:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQk1IHk_j6exV4Gwr4T83lqSZQ6imjTG5KpxBOWOck1gTc7RRypux4YPOfgcjM",
+      "pictureSource": "Tasting Table",
+      "relatedSearch": [
+        {
+          "title": "5 Disadvantages Of Using A Charcoal Grill In Cold Weather",
+          "snippet": "",
+          "url": "https://www.tastingtable.com/2256690/charcoal-grill-disadvantages-cold-weather/",
+          "source": "Tasting Table"
+        },
+        {
+          "title": "5 Disadvantages Of Using A Gas Grill In Cold Weather",
+          "snippet": "",
+          "url": "https://www.tastingtable.com/2252394/gas-grill-disadvantages-cold-weather/",
+          "source": "Tasting Table"
+        },
+        {
+          "title": "Light rain lingers into the evening across central Minnesota",
+          "snippet": "",
+          "url": "https://www.stcloudlive.com/video/ut62dAkB",
+          "source": "St. Cloud Live"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "cinestar",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 19 Sep 2026 00:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpw4x_JF92NQ8acGmURGWNNvpOxF4Gbjv6WI3s927lCp6oPiYoFrVtefc3dMM",
+      "pictureSource": "Seznam Zprávy",
+      "relatedSearch": [
+        {
+          "title": "Velkému plátnu se nic nevyrovná. Víkendová akce zve do kin po celém Česku",
+          "snippet": "",
+          "url": "https://www.seznamzpravy.cz/clanek/kultura-kino-dny-2026-program-315705",
+          "source": "Seznam Zprávy"
+        },
+        {
+          "title": "Na Odysseu i Spider-Mana za stovku. Česká kina lákají o víkendu na nižší vstupné",
+          "snippet": "",
+          "url": "https://www.novinky.cz/clanek/kultura-filmy-serialy-na-odysseu-i-spider-mana-za-stovku-ceska-kina-lakaji-o-vikendu-na-nizsi-vstupne-40598332",
+          "source": "Novinky"
+        },
+        {
+          "title": "Dokument o Báře Basikové, horor Resident Evil i filmová klasika. Začínají Kino dny",
+          "snippet": "",
+          "url": "https://www.reflex.cz/clanek/kultura/138255/dokument-o-bare-basikove-horor-resident-evil-i-filmova-klasika-zacinaji-kino-dny.html",
+          "source": "Reflex.cz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "aktualne",
       "trafficCount": "100+",
       "pubDate": "Fri, 18 Sep 2026 23:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQawQAWbFAk0PFVMx0abBP73VbJjIoC6lJ1ddySeL7Xxeefc6oxY7z1DrbdUkw",
-      "pictureSource": "Aktuálně.cz",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIBCPimtuVJjNiG-OnhANBbOmrhz-wk2fwvNJYg3ewYmrpibn31UnYaPsyXio",
+      "pictureSource": "Novinky",
       "relatedSearch": [
         {
-          "title": "Nová šlechta chce vládnout Rusku. Zkušenosti nabrala krvavým způsobem",
-          "snippet": "",
-          "url": "https://zpravy.aktualne.cz/zahranici/nova-slechta-chce-vladnout-rusku-zkusenosti-nabrala-krvavym-zpusobem/r~aaa2999af594b57c004bb81922b08002/",
-          "source": "Aktuálně.cz"
-        },
-        {
-          "title": "Putin zápasil s hlasováním na dálku, ukázalo se, že nemá aktivované Windows",
-          "snippet": "",
-          "url": "https://www.idnes.cz/zpravy/zahranicni/pocitac-putin-windows-volby-hlasovani-rusko-kreml-ukrajina.A260919_110457_zahranicni_sahu",
-          "source": "iDNES.cz"
-        },
-        {
-          "title": "Systém on-line hlasování v Moskvě čelí masivnímu útoku, hlásí Rusové",
+          "title": "On-line hlasování v Moskvě čelí masivnímu útoku, hlásí Rusové. Zveřejnili i bizarní videa",
           "snippet": "",
           "url": "https://www.novinky.cz/clanek/zahranicni-evropa-system-on-line-hlasovani-v-moskve-celi-masivnimu-utoku-hlasi-rusove-40598549",
           "source": "Novinky"
+        },
+        {
+          "title": "Hlasování, které má utvrdit Putinovu pozici, dle Moskvy provázejí kyberútoky",
+          "snippet": "",
+          "url": "https://ct24.ceskatelevize.cz/clanek/svet/hlasovani-ktere-ma-utvrdit-putinovu-pozici-dle-moskvy-provazeji-kyberutoky-377768",
+          "source": "ČT24"
+        },
+        {
+          "title": "Putin zápasil s hlasováním na dálku, ukázalo se, že nemá aktivovaná Windows",
+          "snippet": "",
+          "url": "https://www.idnes.cz/zpravy/zahranicni/pocitac-putin-windows-volby-hlasovani-rusko-kreml-ukrajina.A260919_110457_zahranicni_sahu",
+          "source": "iDNES.cz"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "google",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 18 Sep 2026 22:50:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnJJm4PBPxsK6y0tSs1Kn3Jkf-b8eK469mEYwq5EU38a3HcWCjspBiwCLu1bI",
       "pictureSource": "WSJ",
@@ -43,40 +99,143 @@
           "source": "WSJ"
         },
         {
-          "title": "Google says its Gemini AI model hacked three other companies",
+          "title": "Gemini hacked three companies in first known breakout by Google’s AI",
           "snippet": "",
-          "url": "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack",
-          "source": "The Guardian"
+          "url": "https://www.cnn.com/2026/09/19/business/gemini-ai-hack-internet",
+          "source": "CNN"
         },
         {
-          "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
+          "title": "Google Says Its A.I. Hacked Three Companies in Testing Breakout",
           "snippet": "",
-          "url": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
-          "source": "CNBC"
+          "url": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html",
+          "source": "The New York Times"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "blesk",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 18 Sep 2026 22:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkK8m3T3k8xCeIt1kAjd95CRceG8DdNdZLfjqUrY6R8Y5asPzWf32JECkBDuQ",
+      "pictureSource": "Blesk",
+      "relatedSearch": [
+        {
+          "title": "GALERIE: Dáda lezoucí domů přes plot: Nečekaná slova Felixe! | FOTO 1",
+          "snippet": "",
+          "url": "https://www.blesk.cz/galerie/celebrity-ceske-celebrity/1499826/dada-lezouci-domu-pres-plot-necekana-slova-felixe?foto=0",
+          "source": "Blesk"
+        },
+        {
+          "title": "Felix Slováček se rozčílil po scéně před vilou. Patrasová přelézala plot domu, natočil ji svědek",
+          "snippet": "",
+          "url": "https://www.centrum.cz/clanek/felix-slovacek-se-rozcilil-po-scene-pred-vilou-patrasova-prelezala-plot-domu-natocil-ji-svedek-297329",
+          "source": "Centrum"
+        },
+        {
+          "title": "Dáda Patrasová vytočila Slováčka doběla: Groteskní scéna před domem v něm budí obavy",
+          "snippet": "",
+          "url": "https://www.kafe.cz/celebrity/dada-patrsova-felix-slovacek-scena-dum-vila/",
+          "source": "Kafe.cz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tv program",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 18 Sep 2026 22:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQa4wE13gdXbQN-1LBdQoP_wL7iTcJoo2g796AG054Ud0oQDP4rlSJLIP__xBM",
+      "pictureSource": "The New Yorker",
+      "relatedSearch": [
+        {
+          "title": "Your Parents’ Fall TV Preview",
+          "snippet": "",
+          "url": "https://www.newyorker.com/humor/shouts-murmurs/your-parents-fall-tv-preview",
+          "source": "The New Yorker"
+        },
+        {
+          "title": "Here's When Your Favorite Shows on ABC, CBS, Fox, and NBC Return This Fall",
+          "snippet": "",
+          "url": "https://www.tvguide.com/galleries/the-new-and-returning-broadcast-shows-of-the-fall-2026-tv-season/",
+          "source": "TVGuide.com"
+        },
+        {
+          "title": "The 13 New TV Shows to Binge This Fall",
+          "snippet": "",
+          "url": "https://www.wsj.com/arts-culture/television/the-13-new-tv-shows-to-binge-this-fall-4f9bd656",
+          "source": "WSJ"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "idnes",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 18 Sep 2026 22:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTPRFB60YnPwaTB2b34qGJI218re0Rjsy1F_YEUAkv9V5cq68qRbX0PV65biYo",
+      "pictureSource": "Novinky",
+      "relatedSearch": [
+        {
+          "title": "Plameny a hustý dým u letiště v Rijádu",
+          "snippet": "",
+          "url": "https://www.novinky.cz/clanek/zahranicni-blizky-a-stredni-vychod-plameny-a-husty-dym-u-letiste-v-rijadu-40598556",
+          "source": "Novinky"
+        },
+        {
+          "title": "U letiště v Rijádu stoupá dým a šlehají plameny. Ráno znělo varování před nálety",
+          "snippet": "",
+          "url": "https://www.idnes.cz/zpravy/zahranicni/pobliz-letiste-rijad-plameny-husty-oblak-cerneho-koure-afp.A260919_135658_zahranicni_sahu",
+          "source": "iDNES.cz"
+        },
+        {
+          "title": "Letiště v Rijádu čelí „významnému narušení“, jsou vidět plameny",
+          "snippet": "",
+          "url": "https://ct24.ceskatelevize.cz/clanek/svet/letiste-v-rijadu-celi-vyznamnemu-naruseni-jsou-videt-plameny-377769",
+          "source": "ČT24"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "centrum",
       "trafficCount": "200+",
       "pubDate": "Fri, 18 Sep 2026 22:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAnYiEyuoII1_Ybz6fazwk-bkP_RYzmfBI7XL91ax_pKZdLSanlaCI4tWGWwg",
+      "pictureSource": "Proženy.cz",
+      "relatedSearch": [
+        {
+          "title": "Monika Bagárová přiznala nemoc, o které se moc nemluví. Přitom trápí tisíce žen!",
+          "snippet": "",
+          "url": "https://www.prozeny.cz/clanek/zdravi-a-zivotni-styl-zaujalo-nas-monika-bagarova-priznala-nemoc-o-ktere-se-moc-nemluvi-pritom-trapi-tisice-zen-105111",
+          "source": "Proženy.cz"
+        },
+        {
+          "title": "Bagárová makala, zdravě jedla, ale nehubla: Zpěvačka promluvila o své nemoci. Moničko, je nás hodně, vzkázala fanynka",
+          "snippet": "",
+          "url": "https://www.super.cz/clanek/celebrity-bagarova-makala-zdrave-jedla-ale-nehubla-zpevacka-promluvila-o-sve-nemoci-monicko-je-nas-hodne-vzkazala-fanynka-1528151",
+          "source": "Super.cz"
+        },
+        {
+          "title": "GALERIE: Smutná zpověď Moniky Bagárové: Chronické onemocnění! | FOTO 1",
+          "snippet": "",
+          "url": "https://www.blesk.cz/galerie/celebrity-ceske-celebrity/1499736/smutna-zpoved-moniky-bagarove-chronicke-onemocneni?foto=0",
+          "source": "Blesk"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "west ham united fc",
       "trafficCount": "100+",
       "pubDate": "Fri, 18 Sep 2026 22:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDuEsPUzIFBdQj8XtXN7WVEMeygPqMHY32Ddwkavn0x9TRZj_Iy5Bs46LOIos",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQi4wm4rf0K-4-yiK7cf3Sp2juhvqNk8tEi8Tj17GOGYnPwoxlGc4nj5PoZ7qE",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Millwall v West Ham United: 14-year wait for derby meeting ends at The Den",
+          "title": "EFL Championship LIVE: Text commentary and score updates from nine games",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/articles/cmd790q9g89zo",
+          "url": "https://www.bbc.com/sport/football/live/ck0e3grerlyjt",
           "source": "BBC"
         },
         {
@@ -118,146 +277,6 @@
           "snippet": "",
           "url": "https://www.theguardian.com/us-news/2026/sep/15/russia-us-killings-plot",
           "source": "The Guardian"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "dny nato 2026 program",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 18 Sep 2026 22:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrXriNVKDph7olkd5UdveWs4kIMf699qkF6TDEyJVD2Aa16kz_WVfM_tLJy4Y",
-      "pictureSource": "Novinky",
-      "relatedSearch": [
-        {
-          "title": "Na Dny NATO míří davy lidí ze všech stran, okolo letiště se tvoří dlouhé kolony",
-          "snippet": "",
-          "url": "https://www.novinky.cz/clanek/domaci-zpravy-moravskoslezsky-kraj-na-dny-nato-miri-davy-lidi-ze-vsech-stran-okolo-letiste-se-tvori-dlouhe-kolony-40598536",
-          "source": "Novinky"
-        },
-        {
-          "title": "Než vyrazíte na Dny NATO 2026",
-          "snippet": "",
-          "url": "https://www.natodays.cz/articles/nez-vyrazite-na-dny-nato-2026",
-          "source": "NATO Days"
-        },
-        {
-          "title": "Pendolinem až na letiště. Dny NATO lákají na nový český transportní Embraer, policie čeká kolony",
-          "snippet": "",
-          "url": "https://zdopravy.cz/pendolinem-az-na-letiste-dny-nato-lakaji-na-novy-cesky-transportni-embraer-policie-ceka-kolony-299644/",
-          "source": "Zdopravy.cz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "policie české republiky",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 18 Sep 2026 22:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4-TLl7r8BR1WhiaEsTW5sHQumtPlWl4jpkaX2tuJ35KLrdhHEGte_u2X6HRU",
-      "pictureSource": "Krimi Plzeň",
-      "relatedSearch": [
-        {
-          "title": "Uprchlého vězně zadrželi za pár hodin a pozor, na pomoc měli i Bazuku",
-          "snippet": "",
-          "url": "https://www.krimi-plzen.cz/a/uprchleho-vezne-zadrzeli-za-par-hodin/",
-          "source": "Krimi Plzeň"
-        },
-        {
-          "title": "Seniorka s Alzheimerem z Příbramska se nevrátila z procházky. Rodina se obává o její život",
-          "snippet": "",
-          "url": "https://www.novinky.cz/clanek/krimi-seniorka-s-alzheimerem-z-pribramska-se-nevratila-z-prochazky-rodina-se-obava-o-jeji-zivot-40598470",
-          "source": "Novinky"
-        },
-        {
-          "title": "Policie ukončila pátrání po ženě z Příbramska. Je v pořádku",
-          "snippet": "",
-          "url": "https://cnn.iprima.cz/hleda-se-zena-z-pribramska-muze-byt-dezorientovana-policie-ukazala-i-fotku-522207",
-          "source": "CNN Prima NEWS"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "games",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 18 Sep 2026 21:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaJce6ewDehFaPAOMb_tWRxJyq92oM8STTt4eZPYGtYGHRhJruZek_y9vOXiQ",
-      "pictureSource": "ESPN",
-      "relatedSearch": [
-        {
-          "title": "College football Week 3 preview: Can Ole Miss take down LSU?",
-          "snippet": "",
-          "url": "https://www.espn.com/college-football/story/_/id/49965321/college-football-week-3-preview-ole-miss-revenge-lsu",
-          "source": "ESPN"
-        },
-        {
-          "title": "College football bold predictions: Week 3 upset picks include LSU",
-          "snippet": "",
-          "url": "https://www.usatoday.com/story/sports/ncaaf/2026/09/19/college-football-bold-predictions-picks-week-3-schedule-cfp/91790345007/",
-          "source": "USA Today"
-        },
-        {
-          "title": "College football picks: Predictions against the spread, odds, betting lines for top 25 games in Week 3",
-          "snippet": "",
-          "url": "https://www.cbssports.com/college-football/news/college-football-picks-predictions-spread-odds-betting-lines-top-25-games-week-3/",
-          "source": "CBS Sports"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "simona krainová",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 18 Sep 2026 21:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSStLoUSys5d9WO8FDq3-7kBrpp9KJg68Tmbg9tpHiDm5BiytARTVVRHChU_6w",
-      "pictureSource": "Super.cz",
-      "relatedSearch": [
-        {
-          "title": "Drsné hejty dva roky před šedesátkou kvůli předvádění těla! Jste stará, trapná, sebestředná, píšou sestře Krainové",
-          "snippet": "",
-          "url": "https://www.super.cz/clanek/celebrity-drsne-hejty-dva-roky-pred-sedesatkou-kvuli-predvadeni-tela-jste-stara-trapna-sebestredna-pisou-sestre-krainove-1526861",
-          "source": "Super.cz"
-        },
-        {
-          "title": "Sestra Simony Krainové (58) v bikinách sklidila kritiku: Stará, trapná a sebestředná",
-          "snippet": "",
-          "url": "https://zeny.iprima.cz/sestra-simony-krainove-58-v-bikinach-sklidila-kritiku-521761",
-          "source": "Prima Ženy"
-        },
-        {
-          "title": "Sestra Krainové odhalila postavu před šedesátkou: Lidé ji cupují za trapnost!",
-          "snippet": "",
-          "url": "https://www.centrum.cz/clanek/sestra-krainove-odhalila-postavu-pred-sedesatkou-lide-ji-cupuji-za-trapnost-293600",
-          "source": "Centrum.cz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "flights",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 18 Sep 2026 20:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS88J4OYH0Om_HxePqb63CGCiLy7f0l9aybzNCQgFpJ3GpziERbRdWo3LWEJ2s",
-      "pictureSource": "Reuters",
-      "relatedSearch": [
-        {
-          "title": "American, United, Southwest scale back schedules as fuel shock reshapes flying",
-          "snippet": "",
-          "url": "https://www.reuters.com/business/american-airlines-warns-high-fuel-prices-could-force-capacity-adjustments-2026-09-16/",
-          "source": "Reuters"
-        },
-        {
-          "title": "Video Airlines cutting flights as jet fuel costs soar",
-          "snippet": "",
-          "url": "https://abcnews.com/video/136576200/",
-          "source": "ABC News - Breaking News, Latest News and Videos"
-        },
-        {
-          "title": "Major airlines cut flights as higher jet fuel prices hit carriers",
-          "snippet": "",
-          "url": "https://www.foxbusiness.com/markets/major-airlines-cut-flights-higher-jet-fuel-prices-hit-carriers",
-          "source": "Fox Business"
         }
       ],
       "link": "https://imtaqin.id/"

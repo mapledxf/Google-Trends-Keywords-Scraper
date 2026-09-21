@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2026-09-21 13:55:28",
+  "lastUpdate": "2026-09-21 19:00:00",
   "data": [
     {
       "title": "chat gpt",
       "trafficCount": "100+",
       "pubDate": "Mon, 21 Sep 2026 02:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvtcFOPuCjhSGAqzbY5pOd6RnzXAObBzZL7pzk2EyZcVdhabYckjyU9Ds6Y4Y",
-      "pictureSource": "The Washington Post",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSjBdm3O-OeGzZX27vt6cwPWd84DeNghqW_-xINtsJJERc4yhoQ2hyz2AArl0",
+      "pictureSource": "WSJ",
       "relatedSearch": [
+        {
+          "title": "Exclusive | Hackers Used Anthropic’s Claude to Break Into OpenAI",
+          "snippet": "",
+          "url": "https://www.wsj.com/tech/ai/hackers-used-anthropics-claude-to-break-into-openai-b40ba883",
+          "source": "WSJ"
+        },
         {
           "title": "Hackers who broke into OpenAI warn the AI industry has a security problem",
           "snippet": "",
@@ -15,16 +21,10 @@
           "source": "The Washington Post"
         },
         {
-          "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+          "title": "OpenAI ‘ethically hacked’ with help of Anthropic’s Claude chatbot",
           "snippet": "",
-          "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Hackers breached OpenAI, adding to fever pitch of security and safety concerns",
-          "snippet": "",
-          "url": "https://www.nbcnews.com/tech/security/hackers-breach-openai-rcna598518",
-          "source": "NBC News"
+          "url": "https://www.theguardian.com/technology/2026/sep/18/openai-hacked-anthropic-claude-chatbot",
+          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"

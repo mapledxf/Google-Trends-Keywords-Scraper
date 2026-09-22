@@ -1,9 +1,93 @@
 {
-  "lastUpdate": "2026-09-22 15:34:55",
+  "lastUpdate": "2026-09-22 19:05:11",
   "data": [
     {
-      "title": "водитель",
+      "title": "непогода",
       "trafficCount": "500+",
+      "pubDate": "Tue, 22 Sep 2026 10:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTqLDxNinLrpdmrQaYnmq31jW6HPzesEndZaTM8SzftNiQKCavnleB4UIN9fw",
+      "pictureSource": "Погода Mail",
+      "relatedSearch": [
+        {
+          "title": "Где сегодня прольются дожди: прогноз по регионам России",
+          "snippet": "",
+          "url": "https://pogoda.mail.ru/news/72449657/",
+          "source": "Погода Mail"
+        },
+        {
+          "title": "Прогноз синоптиков с 23 сентября пересмотрен: Чего ожидать жителям России",
+          "snippet": "",
+          "url": "https://www.osnmedia.ru/obshhestvo/prognoz-sinoptikov-s-23-sentyabrya-peresmotren-chego-ozhidat-zhitelyam-rossii/",
+          "source": "Общественная служба новостей"
+        },
+        {
+          "title": "Обзор атмосферных процессов и наиболее важных явлений погоды, ожидаемых с 22 по 24 сентября 2026 г.",
+          "snippet": "",
+          "url": "https://meteoinfo.ru/novosti/22567-obzor-atm-260921",
+          "source": "Гидрометцентр России"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "астана",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 22 Sep 2026 08:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWUFbR2bRtAomTmfQLcQx7mP6xlZE-bCNr3YEgWp-DRPjQX4KdVw330-MxdVc",
+      "pictureSource": "TengriNews",
+      "relatedSearch": [
+        {
+          "title": "В акимате Астаны нашли способы разгрузить дороги: 22 сентября 11:36",
+          "snippet": "",
+          "url": "https://tengrinews.kz/kazakhstan_news/v-akimate-astanyi-nashli-sposobyi-razgruzit-dorogi-609063/",
+          "source": "TengriNews"
+        },
+        {
+          "title": "Как намерены ликвидировать пробки на Мангилик ел, рассказал Касымбек",
+          "snippet": "",
+          "url": "https://informburo.kz/novosti/kak-namereny-likvidirovat-probki-na-mangilik-el-rasskazal-kasymbek",
+          "source": "Informburo.kz"
+        },
+        {
+          "title": "Какие новые дороги помогут разгрузить левый берег Астаны",
+          "snippet": "",
+          "url": "https://www.inform.kz/ru/kakie-novie-dorogi-pomogut-razgruzit-leviy-bereg-astani-c7707944",
+          "source": "Казинформ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "барыс",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 22 Sep 2026 08:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR99kJTnKfdcK51iY2JcIEMXWvJ8kfTKS8Y3hVjF-aJyAj_Vq8Ls27X2xXQW2g",
+      "pictureSource": "HC Barys",
+      "relatedSearch": [
+        {
+          "title": "Перед матчем Динамо Москва – Барыс",
+          "snippet": "",
+          "url": "https://ru.hcbarys.kz/media/news/pered-matchem-dinamo-moskva-barys22092026/",
+          "source": "HC Barys"
+        },
+        {
+          "title": "«Динамо» Москва против «Барыса», «Торпедо» примет «Авангард». Превью 22 сентября: Новости",
+          "snippet": "",
+          "url": "https://www.khl.ru/news/2026/09/22/566100.html",
+          "source": "KHL"
+        },
+        {
+          "title": "«Динамо» М — «Барыс»: онлайн-трансляция матча КХЛ началась",
+          "snippet": "",
+          "url": "https://www.championat.ru/hockey/news-6629136-dinamo-m-barys-onlajn-translyaciya-matcha-khl-sezona-2026-2027-nachalas.html",
+          "source": "https://www.championat.ru/"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "водитель",
+      "trafficCount": "200+",
       "pubDate": "Tue, 22 Sep 2026 06:40:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4pvDsFRFWsPgnaCVy0ozpzWEsuYtNGavtwi3GdXn9oRucWWKNyMR0-rPWKr4",
       "pictureSource": "Kapital.kz",
@@ -15,16 +99,16 @@
           "source": "Kapital.kz"
         },
         {
+          "title": "Скидки при оплате штрафов отменят для некоторых водителей",
+          "snippet": "",
+          "url": "https://tengrinews.kz/autonews/skidki-oplate-shtrafov-otmenyat-nekotoryih-voditeley-609064/",
+          "source": "TengriNews"
+        },
+        {
           "title": "Баллы за нарушения ПДД хотят ввести в Казахстане",
           "snippet": "",
           "url": "https://www.inform.kz/ru/balli-za-narusheniya-pdd-hotyat-vvesti-v-kazahstane-83d55f34",
           "source": "Казинформ"
-        },
-        {
-          "title": "В Казахстане вводят балльную систему штрафов водителей",
-          "snippet": "",
-          "url": "https://forbes.kz/articles/v-kazahstane-vvodyat-ballnuyu-sistemu-shtrafov-voditeley",
-          "source": "Forbes.kz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,61 +117,33 @@
       "title": "пропавший без вести",
       "trafficCount": "200+",
       "pubDate": "Tue, 22 Sep 2026 06:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnqOdktVMqg6K4rGRccoCCKG8seR8FMKN9LTJBd1_sSr5KFJgRfOpdLLnFPNI",
-      "pictureSource": "Daily Карелия",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzpq9hQBCeM8x-mAQj-dGm86K6tfqGAqfZpBZYg37OoYQQL8CZGCPE4ssuxmQ",
+      "pictureSource": "ТВ Mail",
       "relatedSearch": [
         {
-          "title": "«Это большая беда!» Поисковик из Карелии рассказал, как в 17 лет сам был без вести пропавшим",
+          "title": "Рик Солло пропал после грозы: вертолет музыканта исчез по пути в Сан-Жоакин, идут поиски",
           "snippet": "",
-          "url": "https://gubdaily.ru/news/eto-bolshaya-beda-poiskovik-iz-karelii-rasskazal-kak-v-17-let-sam-byl-bez-vesti-propavshim/",
-          "source": "Daily Карелия"
+          "url": "https://tv.mail.ru/news/138808-brazilskij-pevec-rik-sollo-ischez-vmeste-s-komandoj-vo-vremya-poleta-na-vertolete/",
+          "source": "ТВ Mail"
         },
         {
-          "title": "Ксения Бородина подала в суд на психолога Веронику Степанову: причины иска, детали конфликта",
+          "title": "В Бразилии нашли обломки пропавшего вертолета с известным певцом на борту",
           "snippet": "",
-          "url": "https://tv.mail.ru/news/138815-borodina-podala-v-sud-na-skandalnogo-psihologa-stepanovu-iz-za-kritiki-ee-muzha/",
-          "source": "ТВ Mail"
+          "url": "https://www.gazeta.press/social/news/2026/09/22/29372089.shtml",
+          "source": "Газета"
         },
         {
           "title": "В Бразилии пропал вертолет с певцом на борту",
           "snippet": "",
-          "url": "http://armiya.az/ru/news/260331",
+          "url": "https://armiya.az/ru/news/260331",
           "source": "Armiya.az"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "рыба",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 22 Sep 2026 05:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnt4i7QmPKrR3ijwexyWnQyR61GxZUTm44ISdzZxoeMaHeV9uelXlKVhXXs2c",
-      "pictureSource": "Новости Беларуси | БелТА",
-      "relatedSearch": [
-        {
-          "title": "Запрет на лов рыбы в зимовальных ямах вступает в силу с 1 октября",
-          "snippet": "",
-          "url": "https://belta.by/society/view/zapret-na-lov-ryby-v-zimovalnyh-jamah-vstupaet-v-silu-s-1-oktjabrja-802235-2026/",
-          "source": "Новости Беларуси | БелТА"
-        },
-        {
-          "title": "В Беларуси с 1 октября по 15 апреля запретят лов рыбы в зимовальных ямах",
-          "snippet": "",
-          "url": "https://npr.by/v-belarusi-s-1-oktyabrya-po-15-aprelya-budet-nelzya-lovit-rybu-v-zimovalnyh-yamah/",
-          "source": "NPR.BY"
-        },
-        {
-          "title": "С 1 октября рыболовы должны избегать зимовальных ям",
-          "snippet": "",
-          "url": "https://www.rodniva.by/2026/09/s-1-oktjabrja-rybolovy-dolzhny-izbegat-zimovalnyh-jam.html",
-          "source": "Родная нива"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "гульнара бажкенова",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 22 Sep 2026 05:20:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOPbLpjIuQTF5tL4k44OI5MFBVCwrMcJgvRwBjcRRy74MpZBFUuweSvySZas4",
       "pictureSource": "КазТАГ",
@@ -117,15 +173,9 @@
       "title": "вождение в состоянии алкогольного опьянения",
       "trafficCount": "200+",
       "pubDate": "Tue, 22 Sep 2026 05:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSjrqeRt-vMMTZd06huU0IQIFVswgIQ2I5Buvx9y5hoI0HOR1Zkkp4YknP-sw",
-      "pictureSource": "NUR.KZ",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5qjIbetnLChBSWy7Gyj2bgwLZKbOaHGC4t0NuPtXnDi8DSU9FzHFyxtZ_1G4",
+      "pictureSource": "«Астана» телеарнасы",
       "relatedSearch": [
-        {
-          "title": "\"Поведение показалось подозрительным\": задержание водителя Lexus попало на видео в Алматы",
-          "snippet": "",
-          "url": "https://www.nur.kz/incident/crime/2431482-povedenie-pokazalos-podozritelnym-zaderzhanie-voditelya-lexus-popalo-na-video-v-almaty/",
-          "source": "NUR.KZ"
-        },
         {
           "title": "В Алматы за двое суток выявили свыше 30 водителей в состоянии алкогольного опьянения",
           "snippet": "",
@@ -137,8 +187,23 @@
           "snippet": "",
           "url": "https://24.kz/ru/news/social/793348-mototsiklisty-prisoedinilis-k-rejdu-politsii-v-almaty-vyyavleno-213-narushenij-pdd",
           "source": "24.kz"
+        },
+        {
+          "title": "Нетрезвые водители, самокаты и задержания: полицейские провели рейд по улицам Алматы",
+          "snippet": "",
+          "url": "https://www.zakon.kz/stati/6532103-netrezvye-voditeli-samokaty-i-zaderzhaniya-politseyskie-proveli-reyd-po-ulitsam-almaty.html",
+          "source": "Новости Zakon.kz"
         }
       ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "nur.kz",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 22 Sep 2026 04:30:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -155,16 +220,16 @@
           "source": "TengriNews"
         },
         {
+          "title": "\"Пусть они где-то в культуре себя найдут\". Замглавы МВД высказался об уволенных за танец полицейских",
+          "snippet": "",
+          "url": "https://informburo.kz/novosti/pust-oni-gde-to-v-kulture-sebia-naidut-zamglavy-mvd-vyskazalsia-ob-uvolennyx-za-tanec-policeiskix",
+          "source": "Informburo.kz"
+        },
+        {
           "title": "Так вести себя нельзя – замминистра Игорь Лепеха об уволенных сотрудницах туристической полиции",
           "snippet": "",
           "url": "https://www.zakon.kz/obshestvo/6532310-tak-vesti-sebya-nelzya--zamministra-igor-lepekha-ob-uvolennykh-sotrudnitsakh-turisticheskoy-politsii.html",
           "source": "Новости Zakon.kz"
-        },
-        {
-          "title": "\"Не дело, чтобы блогеры их на руках носили\": увольнение полицейских в Астане объяснили в МВД (видео)",
-          "snippet": "",
-          "url": "https://www.nur.kz/society/2431257-ne-delo-chtoby-blogery-ih-na-rukah-nosili-uvolnenie-policeyskih-v-astane-obyasnili-v-mvd/",
-          "source": "NUR.KZ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -193,90 +258,6 @@
           "snippet": "",
           "url": "https://www.osnmedia.ru/ekonomika/gref-anonsiroval-rekordnuyu-pribyl-sberbanka-v-2026-godu/",
           "source": "Общественная служба новостей"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "наказание",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 22 Sep 2026 04:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUfH_5f9juxZJxrmIxkR_v3fcRuRUoUAih207vdfhPHusbq9i9DoD0gV6YJF4",
-      "pictureSource": "TengriNews",
-      "relatedSearch": [
-        {
-          "title": "В МВД ответили на предложение снизить срок лишения прав за пьяную езду",
-          "snippet": "",
-          "url": "https://tengrinews.kz/kazakhstan_news/mvd-otvetili-predlojenie-snizit-srok-lisheniya-prav-pyanuyu-609074/",
-          "source": "TengriNews"
-        },
-        {
-          "title": "В МВД ответили на вопрос о сокращении сроков лишения водительских прав",
-          "snippet": "",
-          "url": "https://24.kz/ru/news/social/793551-v-mvd-otvetili-na-vopros-o-sokrashchenii-srokov-lisheniya-voditelskikh-prav",
-          "source": "24.kz"
-        },
-        {
-          "title": "Смягчения не будет: в МВД ответили лишенным прав водителям",
-          "snippet": "",
-          "url": "https://www.zakon.kz/obshestvo/6532312-smyagcheniya-ne-budet-v-mvd-otvetili-lishennym-prav-voditelyam.html",
-          "source": "Новости Zakon.kz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "матвей сафонов",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 22 Sep 2026 04:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR16LkCpIcem3rEqipVgnnnScZF-hzkzN26WGSkMoru-_hsoYnGxzbvhNEMCaI",
-      "pictureSource": "Vesti.kz",
-      "relatedSearch": [
-        {
-          "title": "Вратарь сборной России покинул ПСЖ",
-          "snippet": "",
-          "url": "https://vesti.kz/national/vratar-sbornoy-rossii-pokinul-psj-388349/",
-          "source": "Vesti.kz"
-        },
-        {
-          "title": "Сергей Кирьяков: Из ближайших соперников сборной выделю Нигерию",
-          "snippet": "",
-          "url": "https://vfokuse.mail.ru/news/69643745-sergej-kiryakov-iz-blizhajshih-sopernikov-sbornoj-vyidelyu-nigeriyu/",
-          "source": "ВФокусе Mail"
-        },
-        {
-          "title": "Писарев о 29 игроках в сборной: «Все, кто вызван, могут себя считать основными. Немцы вызывают 44 футболистов»",
-          "snippet": "",
-          "url": "https://sportmail.ru/news/football/72448432/",
-          "source": "Спорт Mail"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "павлодар",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 22 Sep 2026 03:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHP7EI8kKe3Thn2R7L1oxmZVA69ZB1B3y_uxipQ_udmVuBiFLeL7OKTf5TD9E",
-      "pictureSource": "24.kz",
-      "relatedSearch": [
-        {
-          "title": "В Павлодаре таксист нашёл почти 6 млн тенге в пакете с крупой и помог вернуть их пенсионерке",
-          "snippet": "",
-          "url": "https://24.kz/ru/news/incidents/793474-v-pavlodare-taksist-nashjol-pochti-6-mln-tenge-v-pakete-s-krupoj-i-pomog-vernut-ikh-pensionerke",
-          "source": "24.kz"
-        },
-        {
-          "title": "6 миллионов в гречке: как павлодарский таксист сорвал курьерский трафик телефонных мошенников",
-          "snippet": "",
-          "url": "https://azh.kz/ru/news/view/132481",
-          "source": "Ак Жайык"
-        },
-        {
-          "title": "Таксист нашёл почти 6 млн тенге в мешке с крупой в Павлодаре",
-          "snippet": "",
-          "url": "https://ulysmedia.kz/news/81328-taksist-nashiol-pochti-6-mln-tenge-v-meshke-s-krupoi-v-pavlodare/",
-          "source": "Ulysmedia.kz"
         }
       ],
       "link": "https://imtaqin.id/"

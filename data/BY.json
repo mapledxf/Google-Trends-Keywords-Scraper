@@ -1,37 +1,93 @@
 {
-  "lastUpdate": "2026-09-23 04:48:17",
+  "lastUpdate": "2026-09-23 09:34:11",
   "data": [
     {
-      "title": "армения",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 22 Sep 2026 21:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUF6YE90ZgYkEvooL2N_5GZERD4CFQKe6YZrbqG6YXyTSCk2O5zVxvvYZSbA8",
-      "pictureSource": "Новости Беларуси | БелТА",
+      "title": "джиган",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 23 Sep 2026 00:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPUsPBVo3OM-kRo_GcIP3eMn1aSUKpFyS48ieyQZHEEJ6eH5o9v4LOmpTgYmE",
+      "pictureSource": "ТВ Mail",
       "relatedSearch": [
         {
-          "title": "Лукашенко: Минск и Ереван объединяют общие страницы истории и искренняя симпатия между людьми",
+          "title": "Джиган опроверг слухи о стрельбе в персонал: рэпер находится в рехабе в Израиле",
           "snippet": "",
-          "url": "https://belta.by/president/view/lukashenko-minsk-i-erevan-objedinjajut-obschie-stranitsy-istorii-i-iskrennjaja-simpatija-mezhdu-ljudmi-801722-2026/",
-          "source": "Новости Беларуси | БелТА"
+          "url": "https://tv.mail.ru/news/138867-dzhina-prokommentiroval-soobsheniya-o-strelbe-po-personalu-i-ohrane/",
+          "source": "ТВ Mail"
         },
         {
-          "title": "Армения и Туркменистан развивают сотрудничество в сфере культуры",
+          "title": "Устроил самосуд: рэпер Джиган расстрелял охрану и прислугу при детях",
           "snippet": "",
-          "url": "https://terra-news.ru/news/12208/armeniya-i-turkmenistan-razvivayut-sotrudnichestvo-v-sfere-kultury",
-          "source": "https://terra-news.ru/"
+          "url": "https://kazanfirst.ru/news/ustroil-samosud-reper-dzhigan-rasstrelyal-ohranu-i-prislugu-pri-detyah",
+          "source": "KazanFirst"
         },
         {
-          "title": "Премьер Армении с рабочим визитом отправится в Туркменистан",
+          "title": "«Погрузили в машину»: что было с Джиганом после того, как он стрелял по персоналу и избивал охрану",
           "snippet": "",
-          "url": "https://arminfo.info/full_news.php?id=104376&lang=2",
-          "source": "АрмИнфо"
+          "url": "https://www.starhit.ru/novosti/pogruzili-v-mashinu-chto-bylo-s-dzhiganom-posle-togo-kak-on-strelyal-po-personalu-i-izbival-okhranu-7312562/",
+          "source": "StarHit"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "сергей лавров",
+      "trafficCount": "2000+",
+      "pubDate": "Tue, 22 Sep 2026 23:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6NJBMZM_zAD1D14fECzJseP-2lQOexqOOlPg6KV4KC4_7zBfrcSM7d3EVLao",
+      "pictureSource": "Интерфакс",
+      "relatedSearch": [
+        {
+          "title": "Лавров прибыл в Нью-Йорк и встретится на Генассамблее ООН с госсекретарем Рубио",
+          "snippet": "",
+          "url": "https://www.interfax.ru/world/1117861",
+          "source": "Интерфакс"
+        },
+        {
+          "title": "«Настоящие переговоры»: раскрыты вероятные цели встречи Лаврова и Рубио",
+          "snippet": "",
+          "url": "https://rtvi.com/news/raskryty-veroyatnye-czeli-vstrechi-larova-i-rubio-na-polyah-genassamblei-oon/",
+          "source": "RTVI"
+        },
+        {
+          "title": "Россия рассмотрит предложение Украины встретиться на Генассамблее ООН",
+          "snippet": "",
+          "url": "https://ura.news/news/1053129668",
+          "source": "URA.RU"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "армения",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 22 Sep 2026 21:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMSBGe2jmyt1qqp7965F218DldMNTeRvx-Vj5fzKmRLnFQz7T9RQ5jOj5Fl_g",
+      "pictureSource": "Armiya.az",
+      "relatedSearch": [
+        {
+          "title": "Пашинян: \"Маршрут Трампа\" изменит международную логистику между Востоком и Западом",
+          "snippet": "",
+          "url": "http://armiya.az/ru/news/260466",
+          "source": "Armiya.az"
+        },
+        {
+          "title": "Пашинян видит возможность повысить инвестиционную привлекательность Армении при установлении мира",
+          "snippet": "",
+          "url": "https://armenpress.am/ru/article/1261067",
+          "source": "Armenpress"
+        },
+        {
+          "title": "Арарат Мирзоян назначен представителем правительства при обсуждении TRIPP в Национальном собрании",
+          "snippet": "",
+          "url": "https://www.aysor.am/ru/news/2026/09/23/%D0%BC%D0%B8%D1%80%D0%B7%D0%BE%D1%8F%D0%BD/2431746",
+          "source": "Aysor.am"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "автомобиль",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 22 Sep 2026 21:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUAL6_N_Slmql9uNpYyQQbM0BejnjLz2gD3JIK_AEofIVMuugEIT-iZXaqoaY",
       "pictureSource": "Auto Onliner",
@@ -49,38 +105,66 @@
           "source": "officelife.by"
         },
         {
-          "title": "“БелДжи” получило эксклюзивное право на официальный ввоз Geely в Беларусь",
+          "title": "«БЕЛДЖИ» получил эксклюзив на Geely в Беларуси. Что это значит?",
           "snippet": "",
-          "url": "https://smartpress.by/news/beldzhi-poluchilo-eksklyuzivnoe-pravo-na-ofitsialnyy-vvoz-geely-v-belarus/",
-          "source": "Smartpress.by"
+          "url": "https://av.by/news/belgee_poluchilo_ekskluzivnie_prava_na_geely_v_belarusi",
+          "source": "av.by"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "самосвал",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 22 Sep 2026 20:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYYlF8u7FYbctYSZjQus9T5MzP1w1EMJ8Jyz1qtQDS8HfUFuJxTuODo9AWnI8",
+      "pictureSource": "Auto Onliner",
+      "relatedSearch": [
+        {
+          "title": "Самосвал с поднятым кузовом поехал под мост. Самосвал проехал, кузов — нет",
+          "snippet": "",
+          "url": "https://auto.onliner.by/2026/09/22/samosval-s-podnyatym-kuzovom",
+          "source": "Auto Onliner"
+        },
+        {
+          "title": "В Минске грузовик зацепился кузовом за бетонный мост",
+          "snippet": "",
+          "url": "https://news.zerkalo.io/accidents/137055.html",
+          "source": "Zerkalo"
+        },
+        {
+          "title": "Грузовик с поднятым кузовом \"встретился\" с мостом: необычное ДТП в Минске",
+          "snippet": "",
+          "url": "https://brestcity.com/blog/voditel-gruzovika",
+          "source": "БрестСИТИ"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "россия",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 22 Sep 2026 20:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCbbHgD-CjFhrtrFkHn9x5G_sqYN1Any9SBM2DIhHJrnnrXoJfZDcezrYXYWI",
-      "pictureSource": "Интерфакс",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCJgLcjTADCyYx72X_CiwSTL2p9mriBKxx17LANS_0QmdWwTrhlYDkm3NS4PA",
+      "pictureSource": "Новости Беларуси | БелТА",
       "relatedSearch": [
         {
-          "title": "Временный управляющий \"Лемана ПРО\" заинтересован в сохранении ее торговой сети",
+          "title": "Украина осталась без сталелитейной промышленности - FT",
           "snippet": "",
-          "url": "https://www.interfax.ru/business/1117390",
-          "source": "Интерфакс"
+          "url": "https://belta.by/world/view/ukraina-ostalas-bez-stalelitejnoj-promyshlennosti-ft-801960-2026/",
+          "source": "Новости Беларуси | БелТА"
         },
         {
-          "title": "Российский «Ашан» сменил гендиректора",
+          "title": "\"Запасные варианты готовы\". Россия уничтожила три крупнейших металлургических заводов в Украине. Как это отразится на экономике?",
           "snippet": "",
-          "url": "https://ura.news/news/1053129907",
-          "source": "URA.RU"
+          "url": "https://www.currenttime.tv/a/metallurgiya-ukraina-ekonomika/33860962.html",
+          "source": "Настоящее Время"
         },
         {
-          "title": "Временное управление активами Auchan и Nestlé: как это работает и что дальше",
+          "title": "Мощный удар по кошельку: Россия лишила Киев главного источника валюты — экономики Украины больше нет - ИА SM.news",
           "snippet": "",
-          "url": "https://finance.mail.ru/article/zapadnyj-biznes-pod-krylom-u-rossijskogo-gosudarstva-69228547/",
-          "source": "Финансы Mail"
+          "url": "https://sm.news/na-ukraine-vyvedeno-iz-stroya-90-moshhnostej-po-vyplavke-stali-71663/",
+          "source": "SM.news"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,15 +173,9 @@
       "title": "погода",
       "trafficCount": "20000+",
       "pubDate": "Tue, 22 Sep 2026 20:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKNjMWRPtNlZYpBfbrllcosu6J6V-0yFU74XEFGzZGGAY_7JxsfmN-2K_0vTc",
-      "pictureSource": "Onlíner",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbQ9UhIHbN3dHLpJvbh_JNOph2YIYuZ0ibfQhOAt5iZ0Cwjtx2OMx_lF7E_P4",
+      "pictureSource": "Gismeteo",
       "relatedSearch": [
-        {
-          "title": "На вторник объявлен оранжевый уровень из-за дождей, будет холодно. Потом тепло вернется",
-          "snippet": "",
-          "url": "https://people.onliner.by/2026/09/21/oranzhevyj-uroven-iz-za-dozhdej",
-          "source": "Onlíner"
-        },
         {
           "title": "Погода в Беларуси 23 сентября: временами – дожди, днем до +16 °С",
           "snippet": "",
@@ -105,38 +183,16 @@
           "source": "Gismeteo"
         },
         {
-          "title": "В МЧС напомнили о факторах опасности при грозах",
+          "title": "Готовить дождевики и непромокаемую обувь? Синоптики рассказали о погоде на 24 сентября",
           "snippet": "",
-          "url": "https://belta.by/society/view/v-mchs-napomnili-o-faktorah-opasnosti-pri-grozah-802343-2026/",
+          "url": "https://belta.by/society/view/gotovit-dozhdeviki-i-nepromokaemuju-obuv-sinoptiki-rasskazali-o-pogode-na-24-sentjabrja-802406-2026/",
           "source": "Новости Беларуси | БелТА"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "трамп",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 22 Sep 2026 20:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVV7A0uGuKqt2XpFkYHrJ9Do0qK5_TcEaQavwNUk4PRD_T2ngqh_Jr8sX7Ctg",
-      "pictureSource": "Интерфакс",
-      "relatedSearch": [
-        {
-          "title": "Уиткофф заявил о конструктивности нового раунда переговоров с делегацией Ирана",
-          "snippet": "",
-          "url": "https://www.interfax.ru/world/1117851",
-          "source": "Интерфакс"
         },
         {
-          "title": "Трамп выступил на Генассамблее ООН. Кратко о том, что он сказал",
+          "title": "На вторник объявлен оранжевый уровень из-за дождей, будет холодно. Потом тепло вернется",
           "snippet": "",
-          "url": "https://news.zerkalo.io/world/137018.html",
-          "source": "Zerkalo"
-        },
-        {
-          "title": "Трамп заявил, что США, возможно, заключат мирное соглашение с Ираном. Представители двух стран встретились впервые с июня",
-          "snippet": "",
-          "url": "https://www.bbc.com/russian/articles/cmvgy7589e2lo",
-          "source": "BBC"
+          "url": "https://people.onliner.by/2026/09/21/oranzhevyj-uroven-iz-za-dozhdej",
+          "source": "Onlíner"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +211,44 @@
           "source": "Новости Беларуси | БелТА"
         },
         {
-          "title": "«Цена метра не выше среднемесячной зарплаты». Лукашенко — о строительстве жилья с господдержкой",
+          "title": "Купить квартиру за одну базовую: где в Беларуси появится такая возможность",
           "snippet": "",
-          "url": "https://realt.onliner.by/2026/09/22/cena-metra-ne-vyshe",
-          "source": "Onlíner"
+          "url": "https://tochka.by/articles/policy/kupit_kvartiru_za_odnu_bazovuyu_gde_v_belarusi_poyavitsya_takaya_vozmozhnost/",
+          "source": "Tochka.by"
         },
         {
-          "title": "Совещание о перспективах жилищного строительства и повышении эффективности использования арендного жилья",
+          "title": "Всё о жилищном строительстве в Беларуси и его перспективах. Ключевые цитаты Лукашенко с совещания",
           "snippet": "",
-          "url": "https://president.gov.by/ru/events/sovesanie-o-perspektivah-zilisnogo-stroitel-stva-i-povysenii-effektivnosti-ispol-zovania-arendnogo-zil-a",
-          "source": "Официальный интернет-портал Президента Республики Беларусь"
+          "url": "https://www.sb.by/articles/vsye-o-zhilishchnom-stroitelstve-v-belarusi-i-ego-perspektivakh-klyuchevye-tsitaty-lukashenko-s-sove.html",
+          "source": "СБ. Беларусь"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "трамп",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 22 Sep 2026 20:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiIsxItQG_maxQbWz1DO4Fs_o-UTQMzObvaVbWXPgqOf4FAzb-gAlvbzcDAAw",
+      "pictureSource": "DW.com",
+      "relatedSearch": [
+        {
+          "title": "Зеленский после встречи с Трампом выразил надежду на завершение войны в Украине к зиме",
+          "snippet": "",
+          "url": "https://www.dw.com/ru/zelenskij-posle-vstreci-s-trampom-v-nujorke-vyrazil-nadezdu-na-zaversenie-vojny-v-ukraine-k-zime/a-79381357",
+          "source": "DW.com"
+        },
+        {
+          "title": "Трамп и Зеленский встретились в Нью-Йорке. Президент Украины заявил о готовности к полному энергетическому перемирию — если Россия тоже будет его соблюдать",
+          "snippet": "",
+          "url": "https://meduza.io/news/2026/09/22/tramp-i-zelenskiy-vstretilis-v-nyu-yorke",
+          "source": "Meduza"
+        },
+        {
+          "title": "Зеленский предложил России взаимный отказ от ударов по энергетике после встречи с Трампом, но в одностороннем порядке делать это отказался",
+          "snippet": "",
+          "url": "https://theins.ru/news/297403",
+          "source": "The Insider"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,93 +257,9 @@
       "title": "геомагнитная буря",
       "trafficCount": "100+",
       "pubDate": "Tue, 22 Sep 2026 19:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNg2jKBXVdxMolCpFsKLztyUeRAcpeEwA5uQCg7qssbod2BAy9Bm5-kSREnng",
-      "pictureSource": "Новости Беларуси | БелТА",
-      "relatedSearch": [
-        {
-          "title": "На Земле 24 сентября ожидается вторая магнитная буря осени",
-          "snippet": "",
-          "url": "https://belta.by/kaleidoscope/view/na-zemle-24-sentjabrja-ozhidaetsja-802338-2026/",
-          "source": "Новости Беларуси | БелТА"
-        },
-        {
-          "title": "Прогноз магнитной бури в ХМАО 23 сентября",
-          "snippet": "",
-          "url": "https://muksun.fm/news/2026-09-23/magnitnye-buri-segodnya-23-sentyabrya-2026-goda-5689173",
-          "source": "Muksun.fm"
-        },
-        {
-          "title": "Приближается магнитная буря: учёные назвали дни, когда сильные геомагнитные возмущения будут воздействовать на Землю",
-          "snippet": "",
-          "url": "https://nv.ua/ukraine/events/silnaya-magnitnaya-burya-kogda-nachnetsya-i-skolko-prodlitsya-prognoz-uchenyh-50643606.html",
-          "source": "NV"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "динамо-минск",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 22 Sep 2026 19:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRoXSSUZLtyS_3YSmb_d7GWm18RjXVDvYtkafs-p1ArZeWxki5-O-pEYMXS3ks",
-      "pictureSource": "Новости Хоккея Беларуси",
-      "relatedSearch": [
-        {
-          "title": "Артем Демков раскрыл ближайшие трансферные планы минского «Динамо»",
-          "snippet": "",
-          "url": "https://belarushockey.com/khl/news/2026/09/21/artem-demkov-raskryl-blizhajshie-transfernye-plany-minskogo-dinamo/",
-          "source": "Новости Хоккея Беларуси"
-        },
-        {
-          "title": "Канадский нападающий Нэйтан Бастиан может продолжить карьеру в минском \"Динамо\"",
-          "snippet": "",
-          "url": "https://sport5.by/news/hockey/kkhl/Kanadskiy-napadayushchiy-s-opytom-igry-v-NKHL-mozhet-prodolzhit-kareru-v-minskom-Dinamo/",
-          "source": "Sport5.by"
-        },
-        {
-          "title": "Динамо Минск может подписать легионера, игравшего у Брылина в Нью-Джерси",
-          "snippet": "",
-          "url": "https://betnews.by/minskoe-dinamo-mozhet-podpisat-legionera-rabotavshego-s-brylinym/",
-          "source": "Bet News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "процентная ставка",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 22 Sep 2026 19:10:00 -0700",
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "рыба",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 22 Sep 2026 19:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQeSp7nBmGJOkauGHgks6P_PACw8qbrlAtU26NNdYVscxfoVuUQHu0B0AggHY",
-      "pictureSource": "СБ. Беларусь сегодня",
-      "relatedSearch": [
-        {
-          "title": "В Беларуси с 1 октября вводится запрет на лов рыбы в зимовальных ямах",
-          "snippet": "",
-          "url": "https://www.sb.by/articles/v-belarusi-s-1-oktyabrya-vvoditsya-zapret-na-lov-ryby-v-zimovalnykh-yamakh-.html",
-          "source": "СБ. Беларусь сегодня"
-        },
-        {
-          "title": "С 1 октября в Беларуси начнет действовать запрет для рыбаков – какой",
-          "snippet": "",
-          "url": "https://tochka.by/articles/life/s_1_oktyabrya_v_belarusi_nachnet_deystvovat_zapret_dlya_rybakov_kakoy/",
-          "source": "Tochka.by"
-        },
-        {
-          "title": "В Беларуси с 1 октября будет запрещено ловить рыбу в зимовальных ямах. На Гомельщине их около 60",
-          "snippet": "",
-          "url": "https://gp.by/novosti/obshchestvo/v-belarusi-s-1-oktyabrya-budet-zapreshcheno-lovit-rybu-v-zimovalnykh-yamakh-na-gomelshchine-ikh-okol-1648531/",
-          "source": "Правда Гомель"
-        }
-      ],
       "link": "https://imtaqin.id/"
     }
   ]

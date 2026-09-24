@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2026-09-24 02:58:18",
+  "lastUpdate": "2026-09-24 08:11:33",
   "data": [
+    {
+      "title": "русија",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 23 Sep 2026 21:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaHyb_SAjAi3NEViDj8QWodeRNNIHOAJCo-nl-cXNFsGpg0c0DGqE73hh7cJg",
+      "pictureSource": "The New York Times",
+      "relatedSearch": [
+        {
+          "title": "U.N. Updates: Zelensky Warns of Growing Global Cost of Russia’s War in Ukraine",
+          "snippet": "",
+          "url": "https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Zelenskyy to seek offramp for years-long Russia war in UN speech after Trump reveals peace deal is close",
+          "snippet": "",
+          "url": "https://www.foxnews.com/politics/zelenskyy-seek-offramp-years-long-russia-war-un-speech-trump-reveals-peace-deal-close",
+          "source": "Fox News"
+        },
+        {
+          "title": "Zelenskiy warns of painful winter for Russia if energy truce talks fail",
+          "snippet": "",
+          "url": "https://www.reuters.com/world/europe/zelenskiy-says-ukraine-ready-maritime-truce-puts-onus-russia-respond-2026-09-23/",
+          "source": "Reuters"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "вести",
       "trafficCount": "200+",
       "pubDate": "Wed, 23 Sep 2026 08:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC4UbdIGkkeJgRSg3UCbmxh_mnurx2AYpkdMsvFv-kEggTrBOPpptjDBPSkqU",
-      "pictureSource": "Новости Zakon.kz",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSWInpLWA20-eIBbVOsFnz-WKthPYVd71vOaxjAnJ3WUtCIZXvbeN4cPhF-cM",
+      "pictureSource": "Muksun.fm",
       "relatedSearch": [
         {
-          "title": "Сбор и обработка персональных данных: что изменилось и для кого",
+          "title": "Нападение медведей в России 2026: 41 субъект, 17 погибших и ситуация в ХМАО",
           "snippet": "",
-          "url": "https://www.zakon.kz/pravo/6532286-sbor-i-obrabotka-personalnykh-dannykh-chto-izmenilos-i-dlya-kogo.html",
-          "source": "Новости Zakon.kz"
+          "url": "https://muksun.fm/news/2026-09-24/medvedi-atakuyut-rossiyu-pochemu-2026-god-stal-krizisnym-5690440",
+          "source": "Muksun.fm"
         },
         {
-          "title": "Цена одного кадра",
+          "title": "Медведи вышли к людям уже во всех регионах Сибири",
           "snippet": "",
-          "url": "https://kzvesti.kz/newspaper-articles/cena-odnogo-kadra-157437/",
-          "source": "Кызылординские Вести"
+          "url": "https://vfokuse.mail.ru/articles/69644208-medvedi-vyshli-k-lyudyam-vo-vseh-regionah-sibiri-poslednej-v-spiske-okazalas-omskaya-oblast/",
+          "source": "ВФокусе Mail"
         },
         {
-          "title": "Персональные данные: с 2 октября изменятся правила их сбора и обработки",
+          "title": "Биологи советуют людям менять свое поведение из-за медведей",
           "snippet": "",
-          "url": "https://mybuh.kz/news/personalnye-dannye-s-2-oktyabrya-izmenyatsya-pravila-ikh-sbora-i-obrabotki/",
-          "source": "MyBuh"
+          "url": "https://ura.news/news/1053130280",
+          "source": "URA.RU"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -36,34 +64,6 @@
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "weather",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 22 Sep 2026 21:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqK7JtanLBLOCTQ38RaEfxJYFtM0GEnwHjvqmoeHHDP8mO829UtmFV2APNC8Y",
-      "pictureSource": "Yahoo",
-      "relatedSearch": [
-        {
-          "title": "Boston 25 Weather: Tuesday Afternoon Forecast",
-          "snippet": "",
-          "url": "https://www.yahoo.com/news/videos/boston-25-weather-tuesday-afternoon-185153252.html",
-          "source": "Yahoo"
-        },
-        {
-          "title": "Boston 25 Weather: A.J.'s Thursday midday forecast",
-          "snippet": "",
-          "url": "https://www.boston25news.com/news/boston-25-weather-ajs-thursday-midday-forecast/f6cb8297-8c9b-4f87-9d82-4a5666e7a8ac/",
-          "source": "Boston 25 News"
-        },
-        {
-          "title": "Boston weather forecast: Pleasant Friday with 26°C high, rain unlikely",
-          "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/weather/us/boston-weather-forecast-pleasant-friday-with-26c-high-rain-unlikely/articleshow/134334699.cms",
-          "source": "The Times of India"
-        }
-      ],
       "link": "https://imtaqin.id/"
     }
   ]

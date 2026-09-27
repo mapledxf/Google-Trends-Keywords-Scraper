@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2026-09-27 07:11:30",
+  "lastUpdate": "2026-09-27 13:00:44",
   "data": [
     {
+      "title": "новости",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 27 Sep 2026 00:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRxRYud8BseRBtDgY8o_eJFjII4RupZRWGteSCiXJOlmr-MYjvyv01zfwPyn0",
+      "pictureSource": "CTV.by",
+      "relatedSearch": [
+        {
+          "title": "В Минске завершился официальный визит парламентской делегации Пакистана | Политика",
+          "snippet": "",
+          "url": "https://ctv.by/news/politika/oficialnyj-vizit-parlamentskoj-delegacii-pakistana-v-minsk-zavershen",
+          "source": "CTV.by"
+        },
+        {
+          "title": "Пакистан заинтересован в сотрудничестве с Беларусью в сфере высоких медицинских технологий",
+          "snippet": "",
+          "url": "https://belta.by/special/economics/view/pakistan-zainteresovan-v-sotrudnichestve-s-belarusjju-v-sfere-vysokih-meditsinskih-tehnologij-802852-2026/",
+          "source": "Новости Беларуси | БелТА"
+        },
+        {
+          "title": "Гигин объяснил, почему товарооборот между Беларусью и Пакистаном не соответствует уровню политического диалога",
+          "snippet": "",
+          "url": "https://www.sb.by/articles/gigin-obyasnil-pochemu-tovarooborot-mezhdu-belarusyu-i-pakistanom-ne-sootvetstvuet-urovnyu-politiche.html",
+          "source": "СБ Беларусь"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "электромобиль",
-      "trafficCount": "200+",
+      "trafficCount": "2000+",
       "pubDate": "Sat, 26 Sep 2026 22:40:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQir3hmc58oAksXlkGWFL06D_UAgG_7MxbDuJ-tDohKrHAiovOm4bIGoh5yOBo",
       "pictureSource": "av.by",
@@ -67,34 +95,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "опасность",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 26 Sep 2026 21:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTB8-TRT_fUc3cY1FJgTODs_El9-5mMeSux0xZ2t9TQyxhQxUy71Ofcfu4rezQ",
-      "pictureSource": "ОНТ",
-      "relatedSearch": [
-        {
-          "title": "Бабье лето и золотая осень: Дмитрий Рябов рассказал о погоде на неделю с 28 сентября по 4 октября",
-          "snippet": "",
-          "url": "https://ont.by/ru/novosti-pogody-ru/view/babje-leto-i-zolotaja-osen-dmitrij-rjabov-rasskazal-o-pogode-na-nedelju-s-28-sentjabrja-po-4-oktjabrja-326154-2026/",
-          "source": "ОНТ"
-        },
-        {
-          "title": "До +21°С и преимущественно без осадков будет сегодня в Беларуси",
-          "snippet": "",
-          "url": "https://belta.by/society/view/do-21s-i-preimuschestvenno-bez-osadkov-budet-segodnja-v-belarusi-803037-2026/",
-          "source": "Новости Беларуси | БелТА"
-        },
-        {
-          "title": "В Минске 27 сентября прогнозируется небольшой дождь",
-          "snippet": "",
-          "url": "https://www.gismeteo.by/news/klimat/v-minske-27-sentyabrya-prognoziruetsya-nebolshoj-dozhd/",
-          "source": "Gismeteo"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "национальная сборная беларуси по футболу",
       "trafficCount": "2000+",
       "pubDate": "Sat, 26 Sep 2026 21:00:00 -0700",
@@ -108,10 +108,10 @@
           "source": "Smartpress.by"
         },
         {
-          "title": "\"Наверное, что-то могли выжать\": Виктор Ганчаренко подвел итоги поражения от Албании в матче Лиги наций",
+          "title": "Виктор Ганчаренко: \"Если Селява не попросил бы замену, Шуманский бы вышел. Оценивать Барковского сложно\"",
           "snippet": "",
-          "url": "https://sport5.by/news/football/sbornye/Navernoe-chtoto-mogli-vyzhat-Viktor-Gancharenko-podvel-itogi-porazheniya-ot-Albanii-v-matche-Ligi-na/",
-          "source": "Sport5.by"
+          "url": "https://football.by/news/224689",
+          "source": "Football.by"
         },
         {
           "title": "Цена грубых ошибок. Сборная Беларуси проиграла на старте Лиги наций",
@@ -124,11 +124,17 @@
     },
     {
       "title": "воздвижение креста господня",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Sat, 26 Sep 2026 20:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu_n_b2TLvfeM76Kzp3qjJeNJsf8bBEawPg7gcPHwJRqrncof85TNm8CxOnUo",
-      "pictureSource": "Слава працы",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9FrXs6Ja9qn4mPbTdh7pUuA_Kw3I9C4EQ5C4fN4nC7fIOmPIR42t83OjOIHE",
+      "pictureSource": "ВФокусе Mail",
       "relatedSearch": [
+        {
+          "title": "Календарь на 27 сентября: праздники, фаза Луны, знак зодиака, именины и дни рождения знаменитостей",
+          "snippet": "",
+          "url": "https://vfokuse.mail.ru/news/69644718-kalendar-na-27-sentyabrya-prazdniki-faza-lunyi-znak-zodiaka-imeninyi-i-dni-rozhdeniya-znamenitostej/",
+          "source": "ВФокусе Mail"
+        },
         {
           "title": "Воздвижение Креста Господня 2026: дата, традиции, строгие запреты и народные приметы",
           "snippet": "",
@@ -140,12 +146,6 @@
           "snippet": "",
           "url": "https://www.sb.by/articles/krestyane-i-kapusta.html",
           "source": "СБ Беларусь"
-        },
-        {
-          "title": "27 сентября: народные приметы и традиции, что нельзя и можно делать",
-          "snippet": "",
-          "url": "https://newsgomel.by/news/kalendar/27-sentyabrya-narodnye-primety-i-traditsii-chto-nelzya-i-mozhno-delat_229569.html",
-          "source": "Новости гомель"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -170,38 +170,38 @@
           "source": "Zerkalo"
         },
         {
-          "title": "Дамбу от мусора очистили хабаровчане (ФОТО)",
+          "title": "Осенняя перезагрузка: в Хабаровске прошёл общегородской субботник",
           "snippet": "",
-          "url": "https://www.dvnovosti.ru/khab/2026/09/26/197699/",
-          "source": "Новости Хабаровска"
+          "url": "https://amurmedia.ru/news/2633117/",
+          "source": "AmurMedia"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "украина",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 26 Sep 2026 20:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDFNDTuUx4BeRyAwWAj6Chw16NEXC0-RJk195IpzNXwnD69aO46yjh_3sWSL8",
-      "pictureSource": "Новости Беларуси | БелТА",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8jswRJTCF7jykKPHHVUimHWL8eimATlyemK7Aj9RObiALgHaep2oZbx2-hI4",
+      "pictureSource": "Дзен",
       "relatedSearch": [
         {
-          "title": "Путин: Россия после ударов ВСУ еще подумает, возобновлять ли переговоры",
+          "title": "Вот и начало конца. Армия России не оставила шансов Зеленскому: на Украине грядет самая страшная ночь",
           "snippet": "",
-          "url": "https://belta.by/world/view/putin-rossija-posle-udarov-vsu-esche-podumaet-vozobnovljat-li-peregovory-802916-2026/",
-          "source": "Новости Беларуси | БелТА"
+          "url": "https://dzen.ru/a/arfB-B3rUSfrnLZw",
+          "source": "Дзен"
         },
         {
-          "title": "Путин о атаках ВСУ на склады маркетплейсов: ответ Москвы и будущее переговоров",
+          "title": "Путин готовится устроить \"страшную\" зиму в Украине: разведка назвала города под угрозой — что известно",
           "snippet": "",
-          "url": "https://finance.mail.ru/article/putin-prokommentiroval-udary-vsu-po-skladam-wildberries-i-ozon-69229755/",
-          "source": "Финансы Mail"
+          "url": "https://tsn.ua/ru/exclusive/putin-gotovitsya-ustroit-strashnuyu-zimu-v-ukraine-razvedka-nazvala-goroda-pod-ugrozoy-chto-izvestno-3175967.html",
+          "source": "ТСН"
         },
         {
-          "title": "«Но это они все начали». Путин объяснил, почему Москва не спешит возвращаться к переговорам с Украиной",
+          "title": "РФ может усилить атаки на критическую инфраструктуру: Гордон назвал возможные цели в Киеве",
           "snippet": "",
-          "url": "https://news.zerkalo.io/world/137277.html",
-          "source": "Zerkalo"
+          "url": "https://antikor.info/ru/articles/865647-rf_mohet_usilitj_ataki_na_kriticheskuju_infrastrukturu_gordon_nazval_vozmohnye_tseli_v_kieve",
+          "source": "АНТИКОР"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -220,44 +220,44 @@
           "source": "DW.com"
         },
         {
+          "title": "МИД раскрыл детали переговоров Лаврова с Вадефулем",
+          "snippet": "",
+          "url": "https://www.vedomosti.ru/politics/news/2026/09/26/1232105-detali-peregovorov",
+          "source": "Ведомости"
+        },
+        {
           "title": "О встрече Министра иностранных дел Российской Федерации С.В.Лаврова с Министром иностранных дел Федеративной Республики Германии Й.Вадефулем - Министерство иностранных дел Российской Федерации",
           "snippet": "",
           "url": "https://mid.ru/ru/foreign_policy/news/2149793/",
           "source": "Министерство иностранных дел России"
-        },
-        {
-          "title": "Встреча Лаврова с главой МИД ФРГ в Нью-Йорке продлилась 22 минуты",
-          "snippet": "",
-          "url": "https://www.interfax.ru/world/1118673",
-          "source": "Интерфакс"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "октября",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Sat, 26 Sep 2026 19:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXYncVDBCx_jYTS5cMBIX9s7xuDipPvTmE9cVvvoFJsO1lWbZ03jz4SGY41Xs",
-      "pictureSource": "СБ Беларусь",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpXa2RIdKvwW9-OJg2D8yPvmJdaqr6WoeeGrsIsVzFDfFCtaPsZNzOwC9mjtg",
+      "pictureSource": "Новости Беларуси | БелТА",
       "relatedSearch": [
         {
-          "title": "Гороскоп на неделю с 28 сентября по 4 октября — рассказываем, чего ждать и к чему готовиться",
+          "title": "Сочетание золотой осени и бабьего лета. Чего ждать от погоды на следующей неделе",
           "snippet": "",
-          "url": "https://www.sb.by/articles/chto-nedelya-gryadushchaya-nam-gotovit-28-septebmer-4-october-2026.html",
-          "source": "СБ Беларусь"
+          "url": "https://belta.by/society/view/sochetanie-zolotoj-oseni-i-babjego-leta-chego-zhdat-ot-pogody-na-sledujuschej-nedele-803047-2026/",
+          "source": "Новости Беларуси | БелТА"
         },
         {
-          "title": "Лунный календарь на неделю: когда стричь волосы и ждать магнитные бури",
+          "title": "Бабье лето и золотая осень: Дмитрий Рябов рассказал о погоде на неделю с 28 сентября по 4 октября",
           "snippet": "",
-          "url": "https://ont.by/ru/kalejdoskop-ru/view/lunnyj-kalendar-na-nedelju-kogda-strich-volosy-i-zhdat-magnitnye-buri-326151-2026/",
+          "url": "https://ont.by/ru/novosti-pogody-ru/view/babje-leto-i-zolotaja-osen-dmitrij-rjabov-rasskazal-o-pogode-na-nedelju-s-28-sentjabrja-po-4-oktjabrja-326154-2026/",
           "source": "ОНТ"
         },
         {
-          "title": "Кому — кармические подарки, а кому — коварство завистников: таро-прогноз с 28 сентября по 4 октября",
+          "title": "Дожди продлятся до понедельника, потом потеплеет",
           "snippet": "",
-          "url": "https://7days.ru/astro/horoscope/komu-karmicheskie-podarki-a-komu-kovarstvo-zavistnikov-taroprognoz-s-28-sentyabrya-po-4-oktyabrya.htm",
-          "source": "7Дней.ру"
+          "url": "https://people.onliner.by/2026/09/25/potepleet-i-prekratyatsya-dozhdi",
+          "source": "Onlíner"
         }
       ],
       "link": "https://imtaqin.id/"

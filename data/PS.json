@@ -1,30 +1,114 @@
 {
-  "lastUpdate": "2026-10-06 00:58:57",
+  "lastUpdate": "2026-10-06 07:16:53",
   "data": [
+    {
+      "title": "מזג אוויר",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 5 Oct 2026 21:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSsTeBJsYEkRF0HsvAgd-52ZfCzpokhtoIMeTUXEF4wmSjWagxY5ou8FjR41cM",
+      "pictureSource": "Vietnam.vn",
+      "relatedSearch": [
+        {
+          "title": "עדכון מונסון היום, 6 באוקטובר 2026: הטמפרטורות נשארות על 20 מעלות צלזיוס, שמשי אחר הצהריים.",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/he/cap-nhat-gio-mua-hom-nay-6-10-2026-giu-nhiet-do-20c-trua-chieu-hung-nang",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "חזית קרה סוחפת את קוואנג נגאי, הו צ'י מין סיטי והאזור הדרומי, מה שמביא איתו סיכון לגשם כבד וסופות רעמים.",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/he/khong-khi-lanh-tran-vao-quang-ngai-tphcm-va-nam-bo-nguy-co-mua-lon-kem-sam-set",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "סופות רעמים, רוחות עזות וברקים גרמו נזק לרכוש ולפצוע ארבעה בני אדם.",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/he/mua-dong-loc-set-gay-thiet-hai-tai-san-4-nguoi-bi-thuong",
+          "source": "Vietnam.vn"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 5 Oct 2026 21:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfAgzofkxm_Kk3YzaQFK_d-4-59znD7PDotufzAYRNl5e1NE1QnbYqNBMw-UY",
+      "pictureSource": "Sur in English",
+      "relatedSearch": [
+        {
+          "title": "Malaga province under yellow warning for heavy rain, storms and possible hail this Tuesday",
+          "snippet": "",
+          "url": "https://www.surinenglish.com/malaga/heavy-rain-storms-20261005000500-nt.html",
+          "source": "Sur in English"
+        },
+        {
+          "title": "Andalucía weekly weather forecast October 5-8: Rain continues with showers and storms on the Atlantic coast",
+          "snippet": "",
+          "url": "https://andaluciatoday.com/andaluca_a_weekly_weather_forecast_october_5_8_rain_continues_with_showers_and_storms_on_the_atlantic_coast_1000275037-a.html",
+          "source": "Andalucia Today"
+        },
+        {
+          "title": "DANA threatens to bring more rain this week: Spain weather forecast September 5-8",
+          "snippet": "",
+          "url": "https://murciatoday.com/dana-threatens-to-bring-more-rain-this-week-spain-weather-forecast-september-5_8_1000275065-a.html",
+          "source": "Murcia Today - News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "طقس فلسطين",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 5 Oct 2026 21:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqTx773UlOG3OhHw-Vip2l22tM9D0ZU9GOLylWgIWhHnydhxcRegFpjbbJRKA",
+      "pictureSource": "وكـالـة مـعـا الاخـبـارية",
+      "relatedSearch": [
+        {
+          "title": "حالة الطقس: انخفاض على درجات الحرارة وأمطار متفرقة اليوم",
+          "snippet": "",
+          "url": "https://www.maannews.net/news/2169990.html",
+          "source": "وكـالـة مـعـا الاخـبـارية"
+        },
+        {
+          "title": "قوات الاحتلال تهدم صرح الشهداء في جامعة بيرزيت",
+          "snippet": "",
+          "url": "https://nn.najah.edu/news/Palestine/2026/10/05/570705/",
+          "source": "النجاح الإخباري"
+        },
+        {
+          "title": "انخفاض تدريجي بالحرارة واحتمال أمطار محلية الثلاثاء",
+          "snippet": "",
+          "url": "https://www.arab48.com/%D9%85%D8%AD%D9%84%D9%8A%D8%A7%D8%AA/%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B7%D9%82%D8%B3/2026/10/04/%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%AA%D8%AF%D8%B1%D9%8A%D8%AC%D9%8A-%D8%A8%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D9%88%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D9%85%D8%AD%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1",
+          "source": "عرب 48"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "france vs belgium",
       "trafficCount": "200+",
       "pubDate": "Mon, 5 Oct 2026 13:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlcr9d0JoYdf4DjThxFkd5YOY-O2JoEkiqPjZ0svLGRLr2tVQcq6m5eczXUZg",
-      "pictureSource": "Reuters Connect",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuEI5ic9-iWcbSOAPogGYIguMqxhkxO69FABog7jzC5t6rWz7UvoeQOdBY3QU",
+      "pictureSource": "Goal.com",
       "relatedSearch": [
         {
-          "title": "Licensable picture: SOCCER-UEFANATIONS-FRA-BEL/ France v Belgium at the Stade de France on 5 October 2026",
+          "title": "From trailing to triumphant! Late flurry from Desire Doue and Michael Olise caps dramatic France comeback against Belgium",
           "snippet": "",
-          "url": "https://www.reutersconnect.com/item/soccer-uefanations-fra-bel-france-v-belgium-at-the-stade-de-france-on-5-october-2026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUxFUElDMDAwV1FKRjU5",
+          "url": "https://www.goal.com/en/lists/france-belgium-nations-league-comeback/blt0946771c48059ccd",
+          "source": "Goal.com"
+        },
+        {
+          "title": "Licensable picture: France v Belgium - UEFA Nations League 2026/27 Group A1 MD4",
+          "snippet": "",
+          "url": "https://www.reutersconnect.com/item/france-v-belgium-uefa-nations-league-202627-group-a1-md4/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDA4UkFYMUk",
           "source": "Reuters Connect"
         },
         {
-          "title": "Zidane and Mancini get first home wins in charge of France and Italy in Nations League",
+          "title": "France facing the spectre of a catastrophic record: Belgium adds fuel to the crisis",
           "snippet": "",
-          "url": "https://www.arabnews.com/football/zidane-and-mancini-get-first-home-wins-in-charge-of-france-and-italy-in-nations-league-3004791",
-          "source": "Arab News"
-        },
-        {
-          "title": "Super-subs help France demolish Belgium with late flurry",
-          "snippet": "",
-          "url": "https://www.aljazeera.com/sports/2026/10/5/super-subs-help-france-demolish-belgium-with-late-flurry",
-          "source": "Al Jazeera"
+          "url": "https://www.goal.com/en/news/france-facing-the-spectre-of-a-catastrophic-record-and-belgium-stoke-the-crisis-further/blt7e2d883fb3bb9108",
+          "source": "Goal.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,26 +117,26 @@
       "title": "إيطاليا ضد تركيا",
       "trafficCount": "500+",
       "pubDate": "Mon, 5 Oct 2026 11:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhes22o0Yx6dYZDcd8Ar3QGGFp6SBK4I9Q8i60MhwA-5cgAvsWK95RG4K8LNI",
-      "pictureSource": "الجزيرة نت",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1d2wWWiMMVUApgC_Z57NL7RH128NIbAfZn_vFQ4Ba7h6Q7AZQFfk4ivyi3rY",
+      "pictureSource": "Kooora",
       "relatedSearch": [
+        {
+          "title": "فيديو: الصحوة الإيطالية مستمرة.. الأزوري يعمق جراح تركيا",
+          "snippet": "",
+          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%A6%D9%85/%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%A7%D9%84%D8%B5%D8%AD%D9%88%D8%A9-%D8%A7%D9%84%D8%A7%D9%95%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A9-%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9--%D8%A7%D9%84%D8%A7%D9%94%D8%B2%D9%88%D8%B1%D9%8A-%D9%8A%D8%B9%D9%85%D9%82-%D8%AC%D8%B1%D8%A7%D8%AD-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7/bltfe2ac04aeeb263f6",
+          "source": "Kooora"
+        },
+        {
+          "title": "مغامرة مانشيني كادت تكلف إيطاليا سقوطًا تاريخيًا .. مشكلة تركيا أكبر من أردا جولر وموهبة الأزوري ينتقم من الصحافة!",
+          "snippet": "",
+          "url": "https://www.goal.com/ar/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%A6%D9%85/%D9%85%D8%A7%D9%86%D8%B4%D9%8A%D9%86%D9%8A-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%95%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%A7%D9%94%D8%B1%D8%AF%D8%A7-%D8%AC%D9%88%D9%84%D8%B1-%D8%A5%D8%B3%D8%A8%D9%88%D8%B3%D9%8A%D8%AA%D9%88-%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9/blt576b37b21a55dd8d",
+          "source": "Goal.com"
+        },
         {
           "title": "شاهد.. إيطاليا تهزم تركيا بثلاثية وتخطف وصافة المجموعة بدوري الأمم الأوروبية",
           "snippet": "",
           "url": "https://www.aljazeera.net/sport/liveblog/2026/10/5/italy-turkey-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1",
           "source": "الجزيرة نت"
-        },
-        {
-          "title": "مشاهدة مباراة إيطاليا وتركيا في دوري الأمم الأوروبية..الموعد والقنوات الناقلة",
-          "snippet": "",
-          "url": "https://www.alkhaleej.ae/2026-10-05/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7-%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%81%D9%8A-%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9%D8%A7%D9%84%D9%85%D9%88%D8%B9%D8%AF-%D9%88%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9",
-          "source": "صحيفة الخليج"
-        },
-        {
-          "title": "«هذه ليست لعبة تنس» – باريلا لا يقلق من المداورة في منتخب إيطاليا",
-          "snippet": "",
-          "url": "https://www.fotmob.com/news/1frt5j1auot131241p6kvlwwc5_ar--?utm_source=fotmob",
-          "source": "FotMob"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,26 +145,26 @@
       "title": "فرنسا ضد بلجيكا",
       "trafficCount": "2000+",
       "pubDate": "Mon, 5 Oct 2026 11:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMs-c3Nn2zFKApPRJYt_YeFPWdTinpasL6sVJomrutC1XAG3hYHUQ-NZZx1Gw",
-      "pictureSource": "العربي الجديد",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTO-snxyvPgwxfwTjDV2rl9d8VEHzrH80rd05kuGH4__6I9tGPPl5e4i2wcJpo",
+      "pictureSource": "الجزيرة نت",
       "relatedSearch": [
         {
-          "title": "جمال الشريف: لهذا السبب حُرمت فرنسا من ركلة جزاء أمام بلجيكا",
+          "title": "شاهد.. فرنسا تسحق بلجيكا وإيطاليا تتخطى تركيا في دوري الأمم الأوروبية",
           "snippet": "",
-          "url": "https://www.alaraby.co.uk/sport/%D8%AC%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%81-%D9%84%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D8%B3%D8%A8%D8%A8-%D8%AD%D9%8F%D8%B1%D9%85%D8%AA-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D9%85%D9%86-%D8%B1%D9%83%D9%84%D8%A9-%D8%AC%D8%B2%D8%A7%D8%A1-%D8%A3%D9%85%D8%A7%D9%85-%D8%A8%D9%84%D8%AC%D9%8A%D9%83%D8%A7",
-          "source": "العربي الجديد"
+          "url": "https://www.aljazeera.net/sport/2026/10/6/%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%A8%D9%84%D8%AC%D9%8A%D9%83%D8%A7-%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9",
+          "source": "الجزيرة نت"
         },
         {
-          "title": "زيدان: هذه كرة القدم التي نحبها.. وفوجئت بعقلية اللاعبين",
+          "title": "قدم.. فرنسا تهزم بلجيكا برباعية وتقترب من ربع نهائي دوري الأمم",
           "snippet": "",
-          "url": "https://www.filgoal.com/articles/538720/%D8%B2%D9%8A%D8%AF%D8%A7%D9%86-%D9%87%D8%B0%D9%87-%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85-%D8%A7%D9%84%D8%AA%D9%8A-%D9%86%D8%AD%D8%A8%D9%87%D8%A7-%D9%88%D9%81%D9%88%D8%AC%D8%A6%D8%AA-%D8%A8%D8%B9%D9%82%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%84%D8%A7%D8%B9%D8%A8%D9%8A%D9%86",
-          "source": "FilGoal"
+          "url": "https://www.aa.com.tr/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D9%82%D8%AF%D9%85-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%AA%D9%87%D8%B2%D9%85-%D8%A8%D9%84%D8%AC%D9%8A%D9%83%D8%A7-%D8%A8%D8%B1%D8%A8%D8%A7%D8%B9%D9%8A%D8%A9-%D9%88%D8%AA%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86-%D8%B1%D8%A8%D8%B9-%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D9%85/4079139",
+          "source": "Anadolu Ajansı"
         },
         {
-          "title": "مبابي آخر من سجل.. رقم سلبي يفصل فرنسا عن أسوأ سلسلة منذ 16 عامًا",
+          "title": "أوليسيه يعيد أمجاد زيدان مع «الديوك»",
           "snippet": "",
-          "url": "https://twaslnews1.twaslnews.com/5623976/",
-          "source": "شبكة تواصل الإخبارية"
+          "url": "https://www.alkhaleej.ae/2026-10-06/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/%D8%A3%D9%88%D9%84%D9%8A%D8%B3%D9%8A%D9%87-%D9%8A%D8%B9%D9%8A%D8%AF-%D8%A3%D9%85%D8%AC%D8%A7%D8%AF-%D8%B2%D9%8A%D8%AF%D8%A7%D9%86-%D9%85%D8%B9-%D8%A7%D9%84%D8%AF%D9%8A%D9%88%D9%83",
+          "source": "صحيفة الخليج"
         }
       ],
       "link": "https://imtaqin.id/"

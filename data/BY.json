@@ -1,46 +1,102 @@
 {
-  "lastUpdate": "2026-10-09 18:17:25",
+  "lastUpdate": "2026-10-09 22:43:31",
   "data": [
     {
-      "title": "циклон",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 9 Oct 2026 10:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTPMRvwyN4JL4JJeizqGkExDKnbdu85FmcJsIAJqgV_TWrYlJK010oGnU5tdkQ",
-      "pictureSource": "Росбалт",
+      "title": "владимир путин",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 9 Oct 2026 12:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4oIXagygi-sdXcgHhTMlg3m5fYl9W_zxUQbf-ISXX-p-8r6nAtDt-42A8iiM",
+      "pictureSource": "СБ. Беларусь",
       "relatedSearch": [
         {
-          "title": "МЧС объявило штормовое предупреждение в Петербурге",
+          "title": "Трамп назвал свой разговор с Путиным очень успешным",
           "snippet": "",
-          "url": "https://www.rosbalt.ru/news/2026-10-09/mchs-ob-yavilo-shtormovoe-preduprezhdenie-v-peterburge-5703485",
-          "source": "Росбалт"
+          "url": "https://www.sb.by/articles/tramp-nazval-svoy-razgovor-s-putinym-ochen-uspeshnym-.html",
+          "source": "СБ. Беларусь"
         },
         {
-          "title": "Циклон «Фелиция» принесет в Петербург дожди и порывистый ветер",
+          "title": "Минфин США снял санкции с российского дизтоплива после разговора Трампа с Путиным",
           "snippet": "",
-          "url": "https://pogoda.mail.ru/news/72658498/",
-          "source": "Погода Mail"
+          "url": "https://belta.by/world/view/minfin-ssha-snjal-sanktsii-s-rossijskogo-diztopliva-posle-razgovora-trampa-s-putinym-805269-2026/",
+          "source": "Новости Беларуси | БелТА"
         },
         {
-          "title": "Осень в Петербурге: чего ждать от погоды в ближайшие дни",
+          "title": "Трамп заявил о договоренности с Путиным по поставкам дизеля в США",
           "snippet": "",
-          "url": "https://gorodovoy.ru/news/osen-v-peterburge-chego-zhdat-ot-pogody-v-blizhayshie-dni_id913623_a184_c5_dp261009",
-          "source": "Городовой"
+          "url": "https://www.vedomosti.ru/politics/news/2026/10/09/1235962-tramp-o-dogovorennosti",
+          "source": "Ведомости"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "адлер - минск",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 9 Oct 2026 11:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjnp1tIpT86jru9YPCS7gs_QGbp3WWuhEIpbQF97Ap2FtA4idU1CFIvB2zW7o",
+      "pictureSource": "Новости Беларуси | БелТА",
+      "relatedSearch": [
+        {
+          "title": "Поезд из Адлера в Минск будет следовать измененным маршрутом",
+          "snippet": "",
+          "url": "https://belta.by/society/view/poezd-iz-adlera-v-minsk-budet-sledovat-izmenennym-marshrutom-805207-2026/",
+          "source": "Новости Беларуси | БелТА"
+        },
+        {
+          "title": "БЖД сообщила об изменении маршрута и расписания поездов Адлер — Минск и Минск — Адлер 9 октября",
+          "snippet": "",
+          "url": "https://www.sb.by/articles/poezda-iz-adlera-v-minsk-9-oktyabrya-izmenyat-marshrut-chto-izvestno-.html",
+          "source": "СБ. Беларусь сегодня"
+        },
+        {
+          "title": "Поезд Адлер - Минск пойдёт в объезд Гомеля. Узнали подробности",
+          "snippet": "",
+          "url": "https://newsgomel.by/news/transport/poezd-adler-minsk-poydyet-v-obezd-gomelya-uznali-podrobnosti_230564.html",
+          "source": "Новости гомель"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "молодечно",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 9 Oct 2026 10:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlg_8IiWz_R9WG1KsqgHcLV_xLI2777yDxhh3or0cF2q9-E4azTfGzl4qDTQ8",
+      "pictureSource": "Kraj.by",
+      "relatedSearch": [
+        {
+          "title": "Грузовик ограбили на автодороге Р-28 Минск — Молодечно — Нарочь, 09.10.2026",
+          "snippet": "",
+          "url": "https://news.kraj.by/20261009/gruzovik-ograbili-na-avtodoroge-r-28-minsk-molodechno-naroch",
+          "source": "Kraj.by"
+        },
+        {
+          "title": "На трассе под Минском обокрали автомобиль: милиция раскрыла кражу",
+          "snippet": "",
+          "url": "https://pristalica.by/09102026/na-trasse-pod-minskom-obokrali-avtomobil-milicziya-raskryla-krazhu/",
+          "source": "Пристоличье"
+        },
+        {
+          "title": "Кража из автомобиля на трассе Минск-Молодечно",
+          "snippet": "",
+          "url": "https://mgazeta.by/20261009/krazha-iz-avtomobilya-na-trasse-minsk-molodechno/",
+          "source": "Маладзечанская газета"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "рубль",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 9 Oct 2026 10:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqwx-uXxXJuoOc9vkN0IQ81A6Y3C1ybUHolkdHDhLw31tl5KiwM4BwsPofRto",
-      "pictureSource": "Onlíner",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNY5lSdudAZJWk9NiqNi4lq_k284zDPzey4ecbL-CYhY21P8TNZHzjyLU8LbI",
+      "pictureSource": "Новости Беларуси | БелТА",
       "relatedSearch": [
         {
-          "title": "Доллар и евро заметно дешевеют",
+          "title": "Доллар и юань подешевели, российский рубль подорожал на торгах 9 октября",
           "snippet": "",
-          "url": "https://money.onliner.by/2026/10/09/dollar-i-evro-desheveyut",
-          "source": "Onlíner"
+          "url": "https://belta.by/economics/view/dollar-i-juan-podesheveli-rossijskij-rubl-podorozhal-na-torgah-9-oktjabrja-805160-2026/",
+          "source": "Новости Беларуси | БелТА"
         },
         {
           "title": "Курс НБРБ на 12 октября 2026. Доллар стал дешевле.",
@@ -49,10 +105,10 @@
           "source": "Myfin.by"
         },
         {
-          "title": "Доллар и евро упали до четырёхдневных минимумов. Что с курсами валют в Беларуси 9 октября?",
+          "title": "Доллар и евро заметно дешевеют",
           "snippet": "",
-          "url": "https://smartpress.by/news/dollar-i-evro-upali-do-chetyryekhdnevnykh-minimumov-chto-s-kursami-valyut-v-belarusi-9-oktyabrya/",
-          "source": "Smartpress.by"
+          "url": "https://money.onliner.by/2026/10/09/dollar-i-evro-desheveyut",
+          "source": "Onlíner"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,33 +117,33 @@
       "title": "ростов – акрон",
       "trafficCount": "200+",
       "pubDate": "Fri, 9 Oct 2026 09:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIb6HfHue7g8E0GaLaHeYyeq6VnqQNOJsLvpi2nLIEa2EpSt3YETGVujYezWM",
-      "pictureSource": "Газета",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmyKo5rp9lMmB_0pRGCidJgcQyqJ1_emMVtf5iaaF1DWp1bNOYRazZL_7Giuo",
+      "pictureSource": "Прессбол",
       "relatedSearch": [
         {
-          "title": "Опубликованы составы на первый матч в РПЛ после трехнедельной паузы",
+          "title": "\"Акрон\" вместе с Артемом Шуманским проиграл \"Ростову\" в матче чемпионата России",
           "snippet": "",
-          "url": "https://www.gazeta.press/sport/news/2026/10/09/29490997.shtml",
-          "source": "Газета"
+          "url": "https://pressball.by/news/football/akron-vmeste-s-artemom-shumanskim-proigral-rostovu-v-matche-chempionata-rossii/",
+          "source": "Прессбол"
         },
         {
-          "title": "Ростов — Акрон. РПЛ. Тур 10. Прямая трансляция 9 октября 2026 в 19:00",
+          "title": "«Ростов» одержал первую победу при новом тренере Кириченко",
           "snippet": "",
-          "url": "https://srrb.ru/translyacii-sportivnyx-sobytij/translyacii-futbol-rossijskaya-premer-liga/rostov-akron-rpl-tur-10-pryamaya-translyaciya-9-oktyabrya-2026-v-1900.html",
-          "source": "ВСЕ ТРАНСЛЯЦИИ СПОРТА СЕГОДНЯ"
+          "url": "https://sportmail.ru/article/football-rus-premier/72668402/",
+          "source": "Спорт Mail"
         },
         {
-          "title": "Интервью Кристияна Бистровича в перерыве матча (видео). Ростов - Акрон. Альфа-Банк Российская Премьер-Лига. Футбол",
+          "title": "Обзор матча Ростов - Акрон. 9 октября 2026, Чемпионат России, 10 тур - на ФНК",
           "snippet": "",
-          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/Russia/premier_league/spbvideo_NI2372782_clip_Intervju_Kristijana_Bistrovicha_v_pereryve_matcha_video_Rostov___Akron_Alfa_Bank_Rossijskaja_Premjer_Liga_Futbol",
-          "source": "Sportbox"
+          "url": "https://football.kulichki.net/ruschamp/2027/10/2-Rostov-Akron-obzor-matcha-ruschamp-2027.htm",
+          "source": "Футбол на Куличках"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "милиция",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 9 Oct 2026 09:40:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC21ZpGEycb7dzVEWyxfOJ2ZW8asyBanxa86etLG6x1u5ovPYbqajTS-VjMFM",
       "pictureSource": "Blizko.by",
@@ -117,9 +173,15 @@
       "title": "металлург мг – салават юлаев",
       "trafficCount": "500+",
       "pubDate": "Fri, 9 Oct 2026 09:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMijYpnyghf0ckX2PxnjoG0Sa3on29a5AEyzdJBEcm1uT7UW4VZXRz9HWz8dU",
-      "pictureSource": "KHL",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8lwVWn50_kLDArQj0uW_tBV7SgHvuGYFZVbfHnhfs4IvWdq5Q-G_Sq48UsHo",
+      "pictureSource": "СБ. Беларусь сегодня",
       "relatedSearch": [
+        {
+          "title": "Магнитогорский «Металлург» учинил разгром уфимскому «Салавату Юлаеву» в игре чемпионата КХЛ",
+          "snippet": "",
+          "url": "https://www.sb.by/articles/magnitogorskiy-metallurg-uchinil-razgrom-ufimskomu-salavatu-yulaevu-v-igre-chempionata-kkhl.html",
+          "source": "СБ. Беларусь сегодня"
+        },
         {
           "title": "«Металлург» в Доброматче разгромил «Салават Юлаев», Джонсон набрал пять очков: Новости",
           "snippet": "",
@@ -131,40 +193,34 @@
           "snippet": "",
           "url": "https://sportmail.ru/article/hockey-khl/72666593/",
           "source": "Спорт Mail"
-        },
-        {
-          "title": "Матчи КХЛ на 9 октября. «Металлург» — «Салават Юлаев», «Динамо-Москва» — ЦСКА и «Сочи» — «Спартак»",
-          "snippet": "",
-          "url": "https://belarushockey.com/khl/news/2026/10/09/matchi-khl-na-9-oktjabrja/",
-          "source": "Новости Хоккея Беларуси"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "динамо москва – цска",
-      "trafficCount": "200+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 9 Oct 2026 09:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPVwK5aISL_1aoOg3JozmDuMZT3Fr98VSpGt2QJ_mFXV4e3Z0QTCWHEun4zMA",
-      "pictureSource": "Ставка ТВ",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOY3_CcXrHv_SVxGHtTb7ezWWYDg-TQ8I0rA1K7GCe0-OKKsyl7Uq7yGaw6aA",
+      "pictureSource": "Новости Беларуси | БелТА",
       "relatedSearch": [
         {
-          "title": "Динамо — ЦСКА: прогноз (кэф 1.74) 9 октября 2026",
+          "title": "ЦСКА продлил серию побед в сезоне КХЛ до десяти и вышел в лидеры Запада",
           "snippet": "",
-          "url": "https://stavka.tv/matches/ice-hockey/09-10-2026-dynamo-moscow-cska-moscow",
-          "source": "Ставка ТВ"
+          "url": "https://belta.by/special/sport/view/tsska-prodlil-seriju-pobed-v-sezone-khl-do-desjati-i-vyshel-v-lidery-zapada-805267-2026/",
+          "source": "Новости Беларуси | БелТА"
         },
         {
-          "title": "«Динамо» М — ЦСКА: онлайн-трансляция матча КХЛ начнётся в 19:30 мск",
+          "title": "Московский ЦСКА одержал десятую победу подряд и возглавил таблицу Западной конференции КХЛ",
           "snippet": "",
-          "url": "https://www.championat.ru/hockey/news-6650652-dinamo-m-cska-onlajn-translyaciya-matcha-khl-sezona-2026-2027-nachnetsya-v-19-30-msk.html",
-          "source": "https://www.championat.ru/"
+          "url": "https://www.sb.by/articles/moskovskiy-tsska-oderzhal-desyatuyu-pobedu-podryad-i-vozglavil-tablitsu-zapadnoy-konferentsii-kkhl.html",
+          "source": "СБ. Беларусь"
         },
         {
-          "title": "Динамо — ЦСКА: у армейцев 9 побед подряд, у бело-голубых — серия из 5 поражений",
+          "title": "«Металлург» против «Салавата Юлаева», ЦСКА на пути к 10-й победе кряду. Превью 9 октября: Новости",
           "snippet": "",
-          "url": "https://bookmaker-ratings.kz/ru/news/dinamo-tsska-u-armejtsev-9-pobed-podryad-u-belo-goluby-h-seriya-iz-5-porazhenij/",
-          "source": "Рейтинг Букмекеров Казахстан"
+          "url": "https://www.khl.ru/news/2026/10/09/566899.html",
+          "source": "KHL"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,9 +267,9 @@
           "source": "https://www.championat.ru/"
         },
         {
-          "title": "Сёмин: преимущество «Факела» — синтетическое поле, для «Локомотива» это неудобно",
+          "title": "Отставка Михаила Галактионова: матч с Факелом, Локомотиву грозит попадание в зону вылета, 10-й тур РПЛ",
           "snippet": "",
-          "url": "https://www.sovsport.ru/football/news/prisposobleny-k-sinteticheskomu-polyu-syomin-nazval-preimushhestvo-fakela-pered-lokomotivom",
+          "url": "https://www.sovsport.ru/football/articles/fakel-mozhet-podzhech-lokomotiv-u-galaktionova-net-prava-na-oshibku",
           "source": "Советский спорт"
         },
         {
@@ -221,62 +277,6 @@
           "snippet": "",
           "url": "https://www.pravda.ru/news/districts/2423488-voronezh-road-restrictions/",
           "source": "Правда.Ру"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "арсенал – динамо-брест",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 9 Oct 2026 08:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfub11X_CGQFy7zUA-u3dUbYZB3BzTqPY7okqsVLt_8R86MfO-oClzViGNiiQ",
-      "pictureSource": "Sport5.by",
-      "relatedSearch": [
-        {
-          "title": "Где смотреть матчи 24-го тура высшей лиги: прямые трансляции",
-          "snippet": "",
-          "url": "https://sport5.by/news/football/belarus/Arsenal-sygraet-v-Dzerzhinske-ML-povedet-v-boy-ispanets-anons-24go-tura-BVL/",
-          "source": "Sport5.by"
-        },
-        {
-          "title": "Очередной тур чемпионата Беларуси по футболу стартует игрой между дзержинским «Арсеналом» и брестским «Динамо»",
-          "snippet": "",
-          "url": "https://www.sb.by/articles/ocherednoy-tur-chempionata-belarusi-po-futbolu-startuet-igroy-mezhdu-dzerzhinskim-arsenalom-i-brests.html",
-          "source": "СБ. Беларусь"
-        },
-        {
-          "title": "Betera-Высшая лига, 24-й тур. \"Арсенал\" уступает \"Динамо\" Бр и другие матчи (ОНЛАЙН)",
-          "snippet": "",
-          "url": "https://football.by/news/225133",
-          "source": "Football.by"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "электровелосипед",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 9 Oct 2026 08:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQR3Cw6iJStIVCPkVef9WPl_DcoNkkoG3I8EHCxTCdg3Cf-kKx64PCRT7qiODg",
-      "pictureSource": "Onlíner",
-      "relatedSearch": [
-        {
-          "title": "В Минске водитель грузовика сбил парня на электровелосипеде. Молодой человек в больнице",
-          "snippet": "",
-          "url": "https://auto.onliner.by/2026/10/09/voditel-gruzovika-sbil-parnya",
-          "source": "Onlíner"
-        },
-        {
-          "title": "В Минске водитель электровелосипеда не спешился на пешеходном переходе и попал под колеса грузового авто",
-          "snippet": "",
-          "url": "https://www.sb.by/articles/v-minske-voditel-elektrovelosipeda-ne-speshilsya-na-peshekhodnom-perekhode-i-popal-pod-kolesa-gruzov.html",
-          "source": "СБ. Беларусь"
-        },
-        {
-          "title": "ДТП на ул. Казимировской 9 октября: грузовик сбил велосипедиста",
-          "snippet": "",
-          "url": "https://minsknews.by/gruzovik-sbil-voditelya-elektrovelosipeda-na-ul-kazimirovskoj/",
-          "source": "Минск-новости"
         }
       ],
       "link": "https://imtaqin.id/"

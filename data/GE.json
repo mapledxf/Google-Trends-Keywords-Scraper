@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2026-10-09 05:28:59",
+  "lastUpdate": "2026-10-09 12:01:53",
   "data": [
+    {
+      "title": "hava",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 8 Oct 2026 20:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsjCUtuJXcFn59LSvqaRx2Fdk_XZ9tRQmfQQFFpKdIVl5MKyyi16Ftd0tuBj4",
+      "pictureSource": "61SAAT",
+      "relatedSearch": [
+        {
+          "title": "Trabzon'da bugün hava nasıl olacak? Meteoroloji'den sağanak yağış uyarısı!",
+          "snippet": "",
+          "url": "https://www.61saat.com/trabzonda-bugun-hava-nasil-olacak-meteorolojiden-saganak-yagis-uyarisi",
+          "source": "61SAAT"
+        },
+        {
+          "title": "Trabzon’da Hava Değişiyor! Gece Sağanak Geliyor",
+          "snippet": "",
+          "url": "https://www.habertrabzon.tr/trabzonda-hava-degisiyor-gece-saganak-geliyor",
+          "source": "Trabzon Haber - Haber Trabzon"
+        },
+        {
+          "title": "Yola Çıkmadan Karadeniz Hava Durumu Raporu: Hangi Şehirde Ne Bekleniyor?",
+          "snippet": "",
+          "url": "https://www.takagazete.com.tr/yola-cikmadan-karadeniz-hava-durumu-raporu-hangi-sehirde-ne-bekleniyor",
+          "source": "Taka Gazete"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "hava durumu",
       "trafficCount": "500+",
       "pubDate": "Thu, 8 Oct 2026 20:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSut2FpdDOE7KgG5tNsrKFO0A37cN8ru-CWUfkionxy-5LnqvCn-lD6LAstAwA",
-      "pictureSource": "Yeniçağ Gazetesi",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz43UWw7n6-D8zggS7CHmbLrqTxFDUpOL1A0s4yrHE2pdLEAERFntnDKqq6CI",
+      "pictureSource": "Yeni Asır",
       "relatedSearch": [
         {
-          "title": "Meteoroloji son tahminini yayımladı: Yağmur, sis ve sıcak hava aynı anda geliyor",
+          "title": "YAĞMUR YAĞACAK MI? | İZMİR'DE HAVA NASIL OLACAK? | 9 Ekim Cuma il il hava durumu tahminleri...",
           "snippet": "",
-          "url": "https://www.yenicaggazetesi.com/meteoroloji-son-tahminini-yayimladi-yagmur-sis-ve-sicak-hava-ayni-anda-geliyor-1079970h.htm",
-          "source": "Yeniçağ Gazetesi"
+          "url": "https://www.yeniasir.com.tr/yasam/2026/10/09/yagmur-yagacak-mi-izmirde-hava-nasil-olacak-9-ekim-cuma-il-il-hava-durumu-tahminleri",
+          "source": "Yeni Asır"
         },
         {
-          "title": "10 il için sağanak yağış uyarısı",
+          "title": "İstanbul'da gökyüzü kararacak! 3 gün boyunca şakır şakır yağacak",
           "snippet": "",
-          "url": "https://www.diken.com.tr/10-il-icin-saganak-yagis-uyarisi-4/",
-          "source": "Diken"
+          "url": "https://halktv.com.tr/turkiye/istanbulda-gokyuzu-kararacak-3-gun-boyunca-sakir-sakir-yagacak-1060461h",
+          "source": "Halk TV"
         },
         {
-          "title": "Bu habere bakmadan Düzce'de plan yapmayın!",
+          "title": "Yurdun doğu ve kuzeyinde sağanak alarmı",
           "snippet": "",
-          "url": "https://www.duzcedamla.com/haber/28946780/bu-habere-bakmadan-duzcede-plan-yapmayin",
-          "source": "Düzce Damla Gazetesi"
+          "url": "https://www.orduulak.com/yurdun-dogu-ve-kuzeyinde-saganak-alarmi/27912",
+          "source": "Ordu Ulak"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -43,16 +71,16 @@
           "source": "blog.google"
         },
         {
-          "title": "Google Built An AI Coworker And Gave It A Confusing Name",
-          "snippet": "",
-          "url": "https://www.forbes.com/sites/janakirammsv/2026/10/08/google-built-an-ai-coworker-and-gave-it-a-confusing-name/",
-          "source": "Forbes"
-        },
-        {
           "title": "Google Cloud introduces Gemini agent for work as AI race heats up",
           "snippet": "",
           "url": "https://www.reuters.com/business/google-cloud-introduces-gemini-agent-work-ai-race-heats-up-2026-10-08/",
           "source": "Reuters"
+        },
+        {
+          "title": "Google brings agentic AI to Gemini, starting with businesses",
+          "snippet": "",
+          "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+          "source": "TechCrunch"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,26 +89,26 @@
       "title": "chatgpt",
       "trafficCount": "1000+",
       "pubDate": "Thu, 8 Oct 2026 09:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS67IetksYWVdHbezvC7hmsi3VXXW6qvbrW_s_nmNygvNdGTpxFh-uz70M_Eao",
-      "pictureSource": "OpenAI",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR63ShMjZeLBimKRftGuuxTrkOtSK4VB58exOf2nk32zSGdFp2ZIMzMo5yKJoU",
+      "pictureSource": "NPR",
       "relatedSearch": [
         {
-          "title": "Disrupting AI-enabled “false front” operations",
+          "title": "ChatGPT for Teens has special safeguards. A watchdog group finds most don't work",
           "snippet": "",
-          "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations/",
-          "source": "OpenAI"
-        },
-        {
-          "title": "OpenAI caught Russians and Iranians using ChatGPT for influence campaigns",
-          "snippet": "",
-          "url": "https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt",
+          "url": "https://www.npr.org/2026/10/09/nx-s1-5995514/chatgpt-openai-teens-mental-health",
           "source": "NPR"
         },
         {
-          "title": "Opinion | A.I. Is Lying to You. Here’s How to Fight Back.",
+          "title": "Helping teens learn, plan, and shape the future of AI",
           "snippet": "",
-          "url": "https://www.nytimes.com/2026/10/06/opinion/ai-propaganda-information-spy.html",
-          "source": "The New York Times"
+          "url": "https://openai.com/index/teens-learn-and-plan/",
+          "source": "OpenAI"
+        },
+        {
+          "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+          "snippet": "",
+          "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+          "source": "TechCrunch"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,54 +117,26 @@
       "title": "2027",
       "trafficCount": "2000+",
       "pubDate": "Thu, 8 Oct 2026 05:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgskwpz8GcPCwsxhQtGfkxKn4qx8DhwsHDn3gOs4v-MFj6wwEXJvHh2IGfbvE",
-      "pictureSource": "The Hill",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTncfHtA6YVIcee2hSjgFh5N7o9Fio16G8kEefZTP02Pg8vc__3pMS4ubSbNak",
+      "pictureSource": "Bloomberg.com",
       "relatedSearch": [
         {
-          "title": "When will 2027’s Social Security COLA be announced?",
+          "title": "The Winners and Losers of Malaysia’s 2027 Spending Plan",
           "snippet": "",
-          "url": "https://thehill.com/homenews/6129494-when-will-2027s-social-security-cola-be-announced/",
-          "source": "The Hill"
+          "url": "https://www.bloomberg.com/news/articles/2026-10-09/here-are-the-winners-and-losers-of-malaysia-s-2027-spending-plan",
+          "source": "Bloomberg.com"
         },
         {
-          "title": "Social Security 2027 COLA may outpace Medicare cost but not much else",
+          "title": "Budget 2027: 'We are not building a nation for one fiscal year, but for a generation', says PM Anwar",
           "snippet": "",
-          "url": "https://www.usatoday.com/story/money/personal-finance/retirement/social-security/2026/10/08/social-security-2027-cola-estimate-medicare/92124213007/",
-          "source": "USA Today"
+          "url": "https://www.thestar.com.my/news/nation/2026/10/09/budget-2027-039we-are-not-building-a-nation-for-one-fiscal-year-but-for-a-generation039-says-pm-anwar",
+          "source": "The Star"
         },
         {
-          "title": "Social Security COLA Forecasts Predict Biggest Boost Since COVID",
+          "title": "Malaysia plans $112.5 billion budget for 2027 ahead of possible election",
           "snippet": "",
-          "url": "https://www.newsweek.com/social-security-cola-forecasts-predict-biggest-boost-since-covid-12534695",
-          "source": "Newsweek"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "turkish airlines",
-      "trafficCount": "1000+",
-      "pubDate": "Thu, 8 Oct 2026 02:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfS_URsjH_goJGXEzRiprFSeeWVPl1cmoco2Y_39CrDRkp2wOwijC7U2N6sm4",
-      "pictureSource": "AD HOC NEWS",
-      "relatedSearch": [
-        {
-          "title": "Turkish Airlines stock sits 19.6 percent below its yearly high",
-          "snippet": "",
-          "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/turkish-airlines-stock-sits-19-6-percent-below-its-yearly-high/70261072",
-          "source": "AD HOC NEWS"
-        },
-        {
-          "title": "Safety matters",
-          "snippet": "",
-          "url": "https://airport-world.com/safety-matters/",
-          "source": "Airport World"
-        },
-        {
-          "title": "Turkish Airlines Hosts IATA World Safety and Operations Conference in Istanbul",
-          "snippet": "",
-          "url": "https://hotelierbuzz.com/turkish-airlines-hosts-iata-world-safety-and-operations-conference-in-istanbul/",
-          "source": "Hotelier Buzz"
+          "url": "https://www.reuters.com/world/asia-pacific/malaysia-plans-1125-billion-budget-2027-ahead-possible-election-2026-10-09/",
+          "source": "Reuters"
         }
       ],
       "link": "https://imtaqin.id/"

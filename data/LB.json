@@ -1,142 +1,198 @@
 {
-  "lastUpdate": "2026-10-15 00:47:32",
+  "lastUpdate": "2026-10-15 05:18:21",
   "data": [
     {
-      "title": "ترتيبات نادي روما – ريال مدريد",
-      "trafficCount": "5000+",
-      "pubDate": "Wed, 14 Oct 2026 14:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsgfa0irwafFkFF92KSM5Ej7jJoMm4A3k2WGuPwudeBs_rUxBtdAgo8_8H-no",
+      "title": "جوزاف عون",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 14 Oct 2026 21:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPKe9MS_lZCK9OT3t5PWyX_hg4yz3kUvRdQrP0eHOMEG_TMYHZ1qUHmIAvmAs",
+      "pictureSource": "MTV Lebanon",
+      "relatedSearch": [
+        {
+          "title": "مرحلة ما بعد اليونيفيل... على طاولة هيكل ولاكروا",
+          "snippet": "",
+          "url": "https://www.mtv.com.lb/news/1748135",
+          "source": "MTV Lebanon"
+        },
+        {
+          "title": "لاكروا: المفاوضات حول مستقبل «اليونيفيل» يجب أن تبدأ قريباً",
+          "snippet": "",
+          "url": "https://www.al-akhbar.com/news/lebanon/907299/%D9%84%D8%A7%D9%83%D8%B1%D9%88%D8%A7-%D8%A7%D9%84%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA-%D8%AD%D9%88%D9%84-%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D9%8A%D9%88%D9%86%D9%8A%D9%81%D9%8A%D9%84-%D9%8A%D8%AC%D8%A8-%D8%A3%D9%86-%D8%AA%D8%A8%D8%AF%D8%A3-%D9%82%D8%B1%D9%8A%D8%A8%D8%A7",
+          "source": "Al Akhbar"
+        },
+        {
+          "title": "الخازن يحذّر من فراغ أمنيّ في الجنوب",
+          "snippet": "",
+          "url": "https://www.al-binaa.com/archives/464896",
+          "source": "Al-binaa Newspaper"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "الطقس",
+      "trafficCount": "10000+",
+      "pubDate": "Wed, 14 Oct 2026 20:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjFLqKllHoqUWBvCDUW8Ol-gj02YHbO13z_EDQPqVOyWUMK2HySdk0mnWW1Mg",
+      "pictureSource": "Nature",
+      "relatedSearch": [
+        {
+          "title": "Advancing subseasonal forecasting with machine learning",
+          "snippet": "",
+          "url": "https://www.nature.com/articles/s41586-026-11126-x",
+          "source": "Nature"
+        },
+        {
+          "title": "Researchers improve weather forecasts looking two to six weeks out",
+          "snippet": "",
+          "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
+          "source": "MIT News"
+        },
+        {
+          "title": "Forget the 10-Day Forecast. AI Just Improved Extreme Weather Warnings Up to 6 Weeks Out",
+          "snippet": "",
+          "url": "https://gizmodo.com/forget-the-10-day-forecast-ai-just-improved-extreme-weather-warnings-up-to-6-weeks-2000825560",
+          "source": "Gizmodo"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather",
+      "trafficCount": "10000+",
+      "pubDate": "Wed, 14 Oct 2026 20:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQo4V3ukIL2xHoMOfdwCvMlI6TddHxP9-pQk2DiMB0IDgY8CMYdvGdTtXMPZ20",
+      "pictureSource": "Daily Mirror",
+      "relatedSearch": [
+        {
+          "title": "Met Office maps show Thursday heat surge as 50 areas over 20C - full list",
+          "snippet": "",
+          "url": "https://www.mirror.co.uk/news/uk-news/met-office-weather-maps-sun-37752365",
+          "source": "Daily Mirror"
+        },
+        {
+          "title": "Weekend showers and sunshine for UK ahead of warmer air next week",
+          "snippet": "",
+          "url": "https://www.bbc.com/weather/articles/cknv0qyv1d3po",
+          "source": "BBC"
+        },
+        {
+          "title": "Met Office issues hot weather verdict as 19C forecast continues across North West",
+          "snippet": "",
+          "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/met-office-issues-hot-weather-34756050",
+          "source": "Liverpool Echo"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "الطقس في لبنان",
+      "trafficCount": "10000+",
+      "pubDate": "Wed, 14 Oct 2026 20:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRB1fbYEnduBXqcRJnk6OE8J4LN25KfFMDQEPt0sQ8rKsnKIfWaRU7VcdQwcSI",
+      "pictureSource": "LBCI Lebanon",
+      "relatedSearch": [
+        {
+          "title": "طقس متقلب وأمطار رعدية محلية في لبنان حتى السبت",
+          "snippet": "",
+          "url": "https://www.lbcgroup.tv/news/lebanon-weather/962768/%D8%B7%D9%82%D8%B3-%D9%85%D8%AA%D9%82%D9%84%D8%A8-%D9%88%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D8%B1%D8%B9%D8%AF%D9%8A%D8%A9-%D9%85%D8%AD%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%AD%D8%AA%D9%89-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA/ar",
+          "source": "LBCI Lebanon"
+        },
+        {
+          "title": "الأرصاد الجوية: انخفاض بدرجات الحرارة غدًا وتساقط أمطار متفرقة يرافقها برق ورعد",
+          "snippet": "",
+          "url": "https://www.elnashra.com/news/show/1804358/%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A8%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D8%BA%D8%AF%D9%8B%D8%A7-%D9%88%D8%AA%D8%B3%D8%A7%D9%82%D8%B7-%D8%A3",
+          "source": "Elnashra"
+        },
+        {
+          "title": "عواصف رعدية وأمطار وبَرَد في الطريق.. استعدوا!",
+          "snippet": "",
+          "url": "https://www.aljadeed.tv/news/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%84%D8%A8%D9%86%D8%A7%D9%86/591905/%D8%B9%D9%88%D8%A7%D8%B5%D9%81-%D8%B1%D8%B9%D8%AF%D9%8A%D8%A9-%D9%88%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D9%88%D8%A8%D9%8E%D8%B1%D9%8E%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D8%B7%D8%B1%D9%8A%D9%82-%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D9%88%D8%A7/ar",
+          "source": "aljadeed"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "برد",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 14 Oct 2026 20:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDE_4rmN8DeKwCx0Buvu66bRCgZxfx1CT6P_1mflk4SsK6L0JWWLKlNRoCLtU",
       "pictureSource": "annahar.com",
       "relatedSearch": [
         {
-          "title": "لقطة خطفت الأنظار بعد ريمونتادا ريال مدريد... ماذا فعل روديغر وكوناتي؟",
+          "title": "استعدادات إيران والولايات المتحدة للحرب في الشرق الأوسط",
           "snippet": "",
-          "url": "https://www.annahar.com/sports/357066/%D9%84%D9%82%D8%B7%D8%A9-%D8%AE%D8%B7%D9%81%D8%AA-%D8%A7%D9%84%D8%A3%D9%86%D8%B8%D8%A7%D8%B1-%D8%A8%D8%B9%D8%AF-%D8%B1%D9%8A%D9%85%D9%88%D9%86%D8%AA%D8%A7%D8%AF%D8%A7-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%85%D8%A7%D8%B0%D8%A7-%D9%81%D8%B9%D9%84-%D8%B1%D9%88%D8%AF%D9%8A%D8%BA%D8%B1-%D9%88%D9%83%D9%88%D9%86%D8%A7%D8%AA%D9%8A",
+          "url": "https://www.annahar.com/international/world/356560/%D8%AA%D8%AD%D8%B1%D9%83%D8%A7%D8%AA-%D9%85%D8%B4%D8%A8%D9%88%D9%87%D8%A9-%D9%81%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D8%AD%D8%B4%D8%AF-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D8%AA%D8%AD%D8%B5%D9%8A%D9%86%D8%A7%D8%AA-%D8%AA%D8%B1%D8%A7%D8%A8%D9%8A%D8%A9-%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7-%D9%84%D9%84%D8%AD%D8%B1%D8%A8",
           "source": "annahar.com"
         },
         {
-          "title": "كل الطرق تؤدي إلى روما.. كيف حقق ريال مدريد الريمونتادا التاريخية في دوري الأبطال؟",
+          "title": "الدبلوماسية لا تخرق الجدار: إيران ترفض التنازلات المسبقة",
           "snippet": "",
-          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%A6%D9%85/%D9%83%D9%84-%D8%A7%D9%84%D8%B7%D8%B1%D9%82-%D8%AA%D9%88%D9%94%D8%AF%D9%8A-%D8%A7%D9%95%D9%84%D9%89-%D8%B1%D9%88%D9%85%D8%A7--%D9%83%D9%8A%D9%81-%D8%AD%D9%82%D9%82-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D8%A7%D9%84%D8%B1%D9%8A%D9%85%D9%88%D9%86%D8%AA%D8%A7%D8%AF%D8%A7-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A7%D9%94%D8%A8%D8%B7%D8%A7%D9%84/blt2db48757afadf6b5",
-          "source": "Kooora"
+          "url": "https://www.al-akhbar.com/NewspaperArticles/world/907198/%D8%A7%D9%84%D8%AF%D8%A8%D9%84%D9%88%D9%85%D8%A7%D8%B3%D9%8A%D8%A9-%D9%84%D8%A7-%D8%AA%D8%AE%D8%B1%D9%82-%D8%A7%D9%84%D8%AC%D8%AF%D8%A7%D8%B1-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B1%D9%81%D8%B6-%D8%A7%D9%84%D8%AA%D9%86%D8%A7%D8%B2%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D8%A8%D9%82%D8%A9",
+          "source": "Al Akhbar"
         },
         {
-          "title": "خروج فينيسيوس يشعل \"ريمونتادا\" مدريدية مجنونة أمام روما",
+          "title": "\"جيروزاليم بوست\": إيران تستعد للمواجهة واحتمالات الحرب ترتفع بعد الانتخابات الأميركية",
           "snippet": "",
-          "url": "https://www.alarabiya.net/sport/2026/10/15/%D8%AE%D8%B1%D9%88%D8%AC-%D9%81%D9%8A%D9%86%D9%8A%D8%B3%D9%8A%D9%88%D8%B3-%D9%8A%D8%B4%D8%B9%D9%84-%D8%B1%D9%8A%D9%85%D9%88%D9%86%D8%AA%D8%A7%D8%AF%D8%A7-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF%D9%8A%D8%A9-%D9%85%D8%AC%D9%86%D9%88%D9%86%D8%A9-%D8%A7%D9%85%D8%A7%D9%85-%D8%B1%D9%88%D9%85%D8%A7",
-          "source": "العربية"
+          "url": "https://www.elnashra.com/news/show/1804491/%D8%AC%D9%8A%D8%B1%D9%88%D8%B2%D8%A7%D9%84%D9%8A%D9%85-%D8%A8%D9%88%D8%B3%D8%AA-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B3%D8%AA%D8%B9%D8%AF-%D9%84%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D9%88%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1",
+          "source": "Elnashra"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "as roma vs real madrid standings",
-      "trafficCount": "2000+",
-      "pubDate": "Wed, 14 Oct 2026 14:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRD4n9prKpEpfmQjIlayFE3iienWrNPin4g8_nGx4smGsYZP6aNRwdeiIqHZeU",
-      "pictureSource": "ESPN",
+      "title": "inter miami vs new york city",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 14 Oct 2026 19:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZFj39arq5UR7j0RvDxkt_wHPFOn3i3tZEyhpvwssm0iH6Vs4W2-qxtxm5Uj8",
+      "pictureSource": "MARCA",
       "relatedSearch": [
         {
-          "title": "AS Roma 3-4 Real Madrid (Oct 14, 2026) Game Analysis",
+          "title": "Lionel Messi shines in 2-0 win, Inter Miami continue on the right path under Kily Gonzalez and clinch MLS Playoffs spot",
           "snippet": "",
-          "url": "https://www.espn.com/soccer/report/_/gameId/401915414",
-          "source": "ESPN"
+          "url": "https://www.marca.com/en/football/mls/2026/10/15/lionel-messi-shines-in-2-0-win-inter-miami-continue-on-the-right-path-under-kily-gonzalez-and-clinch-mls-playoffs-spot.html",
+          "source": "MARCA"
         },
         {
-          "title": "Champions League: Mourinho’s Real Madrid stage wild comeback on Roma return",
+          "title": "Live Inter Miami vs New York City FC: Inter Miami opens the scoring.",
           "snippet": "",
-          "url": "https://www.theguardian.com/football/2026/oct/14/champions-league-mourinhos-real-madrid-stage-crazy-comeback-on-roma-return",
-          "source": "The Guardian"
+          "url": "https://baonghean.vn/en/truc-tiep-inter-miami-vs-new-york-city-fc-inter-miami-mo-ty-so-10353489.html",
+          "source": "Báo Nghệ An"
         },
         {
-          "title": "Espí: \"It was madness\"",
+          "title": "MATCH RECAP: Inter Miami CF Secures Audi 2026 MLS Cup Playoffs with 2-1 Home Win Against NYCFC",
           "snippet": "",
-          "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/declas-jugador-2-post-partido-roma-real-madrid-14-10-2026",
-          "source": "Real Madrid CF | Web Oficial"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "real madrid vs roma",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 14 Oct 2026 13:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_0RTldosuGFjF2-o0cYiGosCD8no_adC_ENroMEWvuyJTQ-G7ydmd1FHdADw",
-      "pictureSource": "Reuters Connect",
-      "relatedSearch": [
-        {
-          "title": "Licensable video: Ambiente previo al partido entre el Roma y el Real Madrid en la capital italiana",
-          "snippet": "",
-          "url": "https://www.reutersconnect.com/item/ambiente-previo-al-partido-entre-el-roma-y-el-real-madrid-en-la-capital-italiana/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XRUZWQzcwMDE2MjE5MjYwMDE",
-          "source": "Reuters Connect"
-        },
-        {
-          "title": "Courtois: \"Los errores que hemos cometido nos han costado tres goles\"",
-          "snippet": "",
-          "url": "https://es-us.noticias.yahoo.com/deportes/courtois-errores-cometido-costado-goles-230500892.html",
-          "source": "Yahoo"
-        },
-        {
-          "title": "Real Madrid logra voltereta en la agonía y el PSG agrava la crisis del Manchester City",
-          "snippet": "",
-          "url": "https://www.latimes.com/espanol/deportes/articulo/2026-10-14/real-madrid-logra-voltereta-en-la-agonia-y-el-psg-agrava-la-crisis-del-manchester-city",
-          "source": "Los Angeles Times"
+          "url": "https://www.intermiamicf.com/news/match-recap-inter-miami-cf-secures-audi-2026-mls-cup-playoffs-with-2-1-home-win-against-nycfc",
+          "source": "Inter Miami CF"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "أمن",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 14 Oct 2026 13:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8gwxtkQINtHxFRp3zSEIJU4hQhHRs7Hj5YlxwLiS9bbwk_yr6anaUZe73AFo",
-      "pictureSource": "annahar.com",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZIdpLHbxzZh0Iw9V315Iv0aiglEiNDhf2XzsxzYpPNDjsN-ngGFrMjQu4WvA",
+      "pictureSource": "MTV Lebanon",
       "relatedSearch": [
         {
-          "title": "السيسي يؤكد أهمية أمن واستقرار مصر والسلام الإقليمي",
+          "title": "بعد تقرير الـ MTV... الأجهزة تحرّكت والملاحقات بدأت!",
           "snippet": "",
-          "url": "https://www.annahar.com/arab-world/north-africa/357037/%D8%A7%D9%84%D8%B3%D9%8A%D8%B3%D9%8A-%D9%85%D8%B3%D8%AA%D8%B9%D8%AF%D9%88%D9%86-%D9%84%D9%81%D8%B9%D9%84-%D9%85%D8%A7-%D9%8A%D9%84%D8%B2%D9%85-%D9%84%D8%AE%D9%81%D8%B6-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9",
-          "source": "annahar.com"
+          "url": "https://www.mtv.com.lb/news/1748241",
+          "source": "MTV Lebanon"
         },
         {
-          "title": "حزب الوعي: الدستور خط أحمر واستقرار مصر يبدأ من احترام القانون",
+          "title": "أمن الدولة: ختم صيدلية غير مرخصة بالشمع الأحمر تصف أدوية مخدرة من دون معاينة طبية في طرابلس",
           "snippet": "",
-          "url": "https://twaslnews1.twaslnews.com/6025769/",
-          "source": "شبكة تواصل الإخبارية"
+          "url": "https://www.elnashra.com/news/show/1804463/%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D8%AE%D8%AA%D9%85-%D8%B5%D9%8A%D8%AF%D9%84%D9%8A%D8%A9-%D8%BA%D9%8A%D8%B1-%D9%85%D8%B1%D8%AE%D8%B5%D8%A9-%D8%A8%D8%A7%D9%84%D8%B4%D9%85%D8%B9-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1-%D8%AA%D8%B5%D9%81-",
+          "source": "Elnashra"
         },
         {
-          "title": "العربي الناصري: استدعاء دروس أكتوبر يؤكد أن بناء الدولة يبدأ بوعي المواطن وقدرته على قراءة التحديات",
+          "title": "أمن الدولة: ختم صيدلية غير مرخصة بالشمع الأحمر تصف أدوية مخدرة من دون معاينة طبية في طرابلس",
           "snippet": "",
-          "url": "https://www.altreeq.com/548424",
-          "source": "جريدة الطريق"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "man city",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 14 Oct 2026 13:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_OyeLWzQVTddjA6a9gXg4BhR6F_-dEf6GIf2OHowOTH_VXfwN9dsS03nK7AM",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Man City suffer as PSG masterclass sets up Champions League win",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cxj0l2ylnv7yt",
-          "source": "BBC"
-        },
-        {
-          "title": "Maresca: Enrique told me that Paris Saint-Germain were lucky against us",
-          "snippet": "",
-          "url": "https://www.goal.com/en/news/maresca-enrique-told-me-that-saint-germain-were-lucky-against-us/blt0c07d33898a816f3",
-          "source": "Goal.com"
-        },
-        {
-          "title": "Champions League round-up: Real Madrid and Paris headline record-breaking night",
-          "snippet": "",
-          "url": "https://www.uefa.com/uefachampionsleague/news/02aa-21d3f8c574f1-e140f41454d4-1000--champions-league-round-up-real-madrid-and-paris-headline-r/",
-          "source": "UEFA.com"
+          "url": "https://www.lbcgroup.tv/news/lebanon-security/962862/%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D8%AE%D8%AA%D9%85-%D8%B5%D9%8A%D8%AF%D9%84%D9%8A%D8%A9-%D8%BA%D9%8A%D8%B1-%D9%85%D8%B1%D8%AE%D8%B5%D8%A9-%D8%A8%D8%A7%D9%84%D8%B4%D9%85%D8%B9-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1-%D8%AA%D8%B5%D9%81-%D8%A3%D8%AF%D9%88%D9%8A%D8%A9-%D9%85%D8%AE%D8%AF%D8%B1%D8%A9-%D9%85%D9%86-%D8%AF%D9%88%D9%86-%D9%85/ar",
+          "source": "LBCI Lebanon"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,26 +201,54 @@
       "title": "psg",
       "trafficCount": "500+",
       "pubDate": "Wed, 14 Oct 2026 12:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZgYRUyERY6zNvBhAewDU5ADofideboqrfDMSPFwSm37gOXEd6iI9s_FSI4z8",
-      "pictureSource": "FotMob",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkyH-6yJX0L04anm7mXvoBTRiQ2C58qHMlCH9uhFaQYEckQnSgIwE6SKtEpxQ",
+      "pictureSource": "Universidad de Córdoba (UCO)",
       "relatedSearch": [
         {
-          "title": "Manchester City 2-4 Paris Saint-Germain : le retour de Guardiola à l'Etihad gâché par les champions d'Europe",
+          "title": "[[DIRECT/LIVE]] Manchester City PSG en direct le 28 Juillet 2026",
           "snippet": "",
-          "url": "https://www.fotmob.com/news/1t1fm0z5afgp810bw86xxwv83e_fr-manchester-city-2-4-paris-saint-germain-le-retour-de-guardiola-letihad-gache-par-les-champions-deurope?utm_source=fotmob",
-          "source": "FotMob"
+          "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Imh0dHBzOi8vbGVvZ29hdHMuZ2l0aHViLmlvL2JmLmVkdS91am0ueG1sIi8+PC9rcnBhbm8+&id=video-manchester-city-psg-liv-str-jzlruwt",
+          "source": "Universidad de Córdoba (UCO)"
         },
         {
-          "title": "PSG - La déclaration express de Nasser al-Khelaïfi après le magnifique succès de son équipe contre Manchester City (vidéo)",
+          "title": "95 % de passes réussies, une passe décisive, Ayyoub Bouaddi brille face au PSG",
           "snippet": "",
-          "url": "https://madeinfoot.ouest-france.fr/infos/article-psg-la-declaration-express-de-nasser-al-khelaifi-apres-le-magnifique-succes-de-son-equipe-contre-manchester-city-video-542265.html",
-          "source": "MadeInFOOT"
+          "url": "https://africafoot.com/ayyoub-bouaddi-brille-face-au-psg-malgre-la-defaite-de-manchester-city-en-ligue-des-champions/",
+          "source": "AfricaFoot"
         },
         {
           "title": "Ligue des champions : La composition de Paris pour le choc face à Manchester City !",
           "snippet": "",
           "url": "https://www.canalplus.com/articles/sports/ligue-des-champions-la-composition-de-paris-pour-le-choc-face-a-manchester-city",
           "source": "CANAL+"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "real madrid",
+      "trafficCount": "2000+",
+      "pubDate": "Wed, 14 Oct 2026 12:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlyKvx7sqCRgZ6rFITrU_jKy72qoij8Qigo7xvMSXuHtuot_F9VJN611_JcNo",
+      "pictureSource": "MARCA",
+      "relatedSearch": [
+        {
+          "title": "Alguien debe decirle la verdad a Valverde...",
+          "snippet": "",
+          "url": "https://www.marca.com/futbol/real-madrid/2026/10/14/mou-remontada-te-deja-pistas.html",
+          "source": "MARCA"
+        },
+        {
+          "title": "Jose Mourinho: «Es una rebeldía entre comillas, porque es organizada, rebeldía emocional»",
+          "snippet": "",
+          "url": "https://holanews.com/jose-mourinho-es-una-rebeldia-entre-comillas-porque-es-organizada-rebeldia-emocional/",
+          "source": "HolaNews"
+        },
+        {
+          "title": "Golpe de autoridad del PSG, milagro del Real Madrid en Roma",
+          "snippet": "",
+          "url": "https://www.france24.com/es/minuto-a-minuto/20261014-golpe-de-autoridad-del-psg-milagro-del-real-madrid-en-roma",
+          "source": "France 24"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -193,90 +277,6 @@
           "snippet": "",
           "url": "https://www.elsport.com/news/show/843530/%D8%A7%D9%86%D8%B1%D9%8A%D9%83%D9%8A-%D8%AF%D9%88%D9%86%D8%A7%D8%B1%D9%88%D9%85%D8%A7-%D8%A7%D8%AD%D8%AF-%D8%A7%D9%81%D8%B6%D9%84-%D8%AD%D8%B1%D8%A7%D8%B3-%D8%A7%D9%84%D9%85%D8%B1%D9%85%D9%89-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85",
           "source": "Elsport"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "roma vs real madrid",
-      "trafficCount": "5000+",
-      "pubDate": "Wed, 14 Oct 2026 11:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdhCsof_0AWg4AmkdXNfdgcnVyWyTp233_vTMr8PPdpISuvkDTrFuhqAGSRKo",
-      "pictureSource": "Reuters Connect",
-      "relatedSearch": [
-        {
-          "title": "Licensable video: Gasperini: “Madrid were clearly desperate and brought on all the forwards they had”",
-          "snippet": "",
-          "url": "https://www.reutersconnect.com/item/gasperini-madrid-were-clearly-desperate-and-brought-on-all-the-forwards-they-had/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XRUZWQzU1MDIxNjgzNjAyMDAx",
-          "source": "Reuters Connect"
-        },
-        {
-          "title": "Mourinho blasts 'shameless' timing of Vinicius ban decision",
-          "snippet": "",
-          "url": "https://www.afp.com/en/mourinho-blasts-shameless-timing-vinicius-ban-decision-0",
-          "source": "AFP.com"
-        },
-        {
-          "title": "Valverde: We didn't apply what we worked on, and I'm…",
-          "snippet": "",
-          "url": "https://www.ysscores.com/en/news/14070750/valverde-we-didnt-apply-what-we-worked-on-and-im-happy-for-endrick",
-          "source": "YSscores"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "man city vs psg",
-      "trafficCount": "2000+",
-      "pubDate": "Wed, 14 Oct 2026 11:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_OyeLWzQVTddjA6a9gXg4BhR6F_-dEf6GIf2OHowOTH_VXfwN9dsS03nK7AM",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Man City suffer as PSG masterclass sets up Champions League win",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cxj0l2ylnv7yt",
-          "source": "BBC"
-        },
-        {
-          "title": "Scandal-hit Man City returns to Champions League hosting PSG",
-          "snippet": "",
-          "url": "https://www.naharnet.com/stories/en/323058-scandal-hit-man-city-returns-to-champions-league-hosting-psg",
-          "source": "Naharnet"
-        },
-        {
-          "title": "Licensable picture: UK: UEFA Champions League Matchday 2 of 8 Manchester City v Paris Saint-Germain",
-          "snippet": "",
-          "url": "https://www.reutersconnect.com/item/uk-uefa-champions-league-matchday-2-of-8-manchester-city-v-paris-saint-germain/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBKUDAyN0M",
-          "source": "Reuters Connect"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "weather tomorrow",
-      "trafficCount": "10000+",
-      "pubDate": "Wed, 14 Oct 2026 10:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRod-rs_RetwPM4nikjAmZbdr_vc8EZjgYayX61GaecXIPCXLxF9UwUtsgRizY",
-      "pictureSource": "India Today",
-      "relatedSearch": [
-        {
-          "title": "More rain coming: Fresh western disturbance to unleash hail and storms. Here's when",
-          "snippet": "",
-          "url": "https://www.indiatoday.in/science/story/north-india-weather-forecast-rain-hailstorms-october-imd-monsoon-delhi-punjab-haryana-3017100-2026-10-14",
-          "source": "India Today"
-        },
-        {
-          "title": "IMD forecasts heavy rainfall over J&K, Ladakh, Tamil Nadu, Puducherry & Karaikal for today",
-          "snippet": "",
-          "url": "https://newsonair.gov.in/imd-forecasts-heavy-rainfall-over-jk-ladakh-tamil-nadu-puducherry-karaikal-for-today/",
-          "source": "News On AIR"
-        },
-        {
-          "title": "City exceeds Oct avg in just one spell | Hindustan Times Delhi - newspaper",
-          "snippet": "",
-          "url": "https://www.magzter.com/stories/newspaper/Hindustan-Times-Delhi/CITY-EXCEEDS-OCT-AVG-IN-JUST-ONE-SPELL",
-          "source": "Magzter"
         }
       ],
       "link": "https://imtaqin.id/"

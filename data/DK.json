@@ -1,65 +1,121 @@
 {
-  "lastUpdate": "2026-10-15 23:54:22",
+  "lastUpdate": "2026-10-16 02:14:37",
   "data": [
     {
+      "title": "tesla",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 15 Oct 2026 18:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQN7iRl0OcsdUgy0BFhW_0OUM7QdJa8sQFBjHoGaRceZqGiGX-9dpNH1CYNRvM",
+      "pictureSource": "WSJ",
+      "relatedSearch": [
+        {
+          "title": "Tesla’s Roadster Arrives, After Nearly a Decade and Five-Figure Deposits",
+          "snippet": "",
+          "url": "https://www.wsj.com/business/autos/tesla-roadster-elon-musk-530c8e78",
+          "source": "WSJ"
+        },
+        {
+          "title": "Tesla plans next-generation Roadster reveal after almost a decade of delays",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Elon Musk just unveiled a Tesla Roadster that flies — take a look",
+          "snippet": "",
+          "url": "https://www.businessinsider.com/new-tesla-roadster-2-elon-musk-livestream-event-2026-10",
+          "source": "Business Insider"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "news",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 15 Oct 2026 15:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT43C2iKpWfw4qmYOMiAyqu3CxxqNGCyOSiMdh1oo8lKu3TZiPh-qXbM56gcg8",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj5SWgWXHd1h0bRKoO5PsbekXs0C-_we0HD6Sbyh_ots50V9WH9cd5QWR8Q0Q",
+      "pictureSource": "Yahoo",
+      "relatedSearch": [
+        {
+          "title": "Judge extends order blocking Trump from banning CNN, MS NOW and Politico reporters from White House",
+          "snippet": "",
+          "url": "https://www.yahoo.com/news/politics/articles/judge-extends-order-blocking-trump-030954600.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Judge says Trump press ban likely violates First Amendment",
+          "snippet": "",
+          "url": "https://edition.cnn.com/2026/10/13/politics/judge-gives-cnn-white-house-access-media-ban",
+          "source": "CNN"
+        },
+        {
+          "title": "Federal judge grants preliminary injunction continuing to block Trump's White House media ban",
+          "snippet": "",
+          "url": "https://abcnews.com/Politics/federal-judge-grants-preliminary-injunction-continuing-block-trumps/story?id=137247889",
+          "source": "ABC News - Breaking News, Latest News and Videos"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "schools",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 15 Oct 2026 15:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOvbnUuv32q5Oaq8IlFM1y7Wx-D11waqsicFF9lX8La3745XA_VnzZXFeB9oM",
       "pictureSource": "KATU",
       "relatedSearch": [
         {
-          "title": "3 children, 1 adult dead after shooting at Bend elementary school; Suspected shooter dead",
+          "title": "3 children, 1 adult dead after shooting at Bend elementary school; Teen suspect dead",
           "snippet": "",
           "url": "https://katu.com/news/local/bend-police-responding-to-reported-active-shooter-situation-at-silver-rail-elementary",
           "source": "KATU"
         },
         {
-          "title": "Multiple dead in Oregon elementary school shooting",
+          "title": "School Shooting in Oregon Adds Silver Rail Elementary to Grim List",
           "snippet": "",
-          "url": "https://www.kiro7.com/news/local/multiple-dead-oregon-elementary-school-shooting/e52deede-3c22-4959-a541-5116fe525d31/",
-          "source": "KIRO 7 News Seattle"
+          "url": "https://www.nytimes.com/2026/10/15/us/school-shootings-usa-oregon-silver-rail.html",
+          "source": "The New York Times"
         },
         {
-          "title": "Active shooter reported at Bend elementary school",
+          "title": "Shooter kills four at Oregon elementary school and is shot dead by citizen",
           "snippet": "",
-          "url": "https://www.koin.com/news/oregon/active-shooter-reported-at-bend-elementary-school/",
-          "source": "KOIN.com"
+          "url": "https://www.reuters.com/world/shooter-is-killed-oregon-elementary-school-least-two-taken-away-ambulance-2026-10-15/",
+          "source": "Reuters"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "weather",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 15 Oct 2026 15:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVfpRR798l2SslXlbx9-XXq33XyEosMpkdTqyvaK-StyuP0TKQh5L_aNbJS7Y",
-      "pictureSource": "India's World",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9T8_j3hGnIDhVAdNmLoQ1ZtqNsugqf3L01Jsl1dYJNl9wymIdqw16QsfpzlE",
+      "pictureSource": "毎日新聞",
       "relatedSearch": [
         {
-          "title": "India’s Tea Opportunity: Conversation with K. Mathew Abraham",
+          "title": "Weather agency confirms year's 30th typhoon, 1st since 2013",
           "snippet": "",
-          "url": "https://indiasworld.in/indias-tea-opportunity-conversation-with-k-mathew-abraham/",
-          "source": "India's World"
+          "url": "https://mainichi.jp/english/articles/20261016/p2g/00m/0na/012000c",
+          "source": "毎日新聞"
         },
         {
-          "title": "Morning cuppa runs into weather woes",
+          "title": "Typhoon No. 30 May Develop by Thursday Evening, Heading toward the Philippines",
           "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/city/rajkot/morning-cuppa-runs-into-weather-woes/articleshow/134773452.cms",
-          "source": "The Times of India"
+          "url": "https://japannews.yomiuri.co.jp/society/general-news/20261015-353858/",
+          "source": "The Japan News"
         },
         {
-          "title": "India’s Tea Economy: Production, Consumption, and Trade",
+          "title": "PICTURES: KY3 Weather Tour stops in Ozark, Mo.",
           "snippet": "",
-          "url": "https://indiasworld.in/indias-tea-economy-production-consumption-and-trade/",
-          "source": "India's World"
+          "url": "https://www.ky3.com/2026/10/16/pictures-ky3-weather-tour-stops-ozark-mo/",
+          "source": "KY3"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "time",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 15 Oct 2026 15:20:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNM0ahKkrhkJBYNQSHDnPYE2YG_0D5vFOC-joxHaMhCN9nwAgIRMwhRmUXg3k",
       "pictureSource": "The Guardian",
@@ -71,23 +127,23 @@
           "source": "The Guardian"
         },
         {
-          "title": "The sun will no longer dictate the length of a day",
-          "snippet": "",
-          "url": "https://www.telegraph.co.uk/news/2026/10/15/the-sun-will-no-longer-dictate-the-length-of-a-day/",
-          "source": "The Telegraph"
-        },
-        {
           "title": "Scientists vote to end leap seconds, redefining how the world keeps time",
           "snippet": "",
           "url": "https://www.scientificamerican.com/article/scientists-vote-to-end-leap-seconds-redefining-how-the-world-keeps-time/",
           "source": "Scientific American"
+        },
+        {
+          "title": "Clock ticking for leap second: Why timekeeping could change forever",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/2026/10/15/clock-ticking-for-leap-second-why-timekeeping-could-change-forever",
+          "source": "Al Jazeera"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "swimming",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 15 Oct 2026 15:10:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMJGr8lBYQVgTD4UA_jhZdeSZ5BU4CZbmimhez7HpE_K83EEvNeCLNFJ3WVuE",
       "pictureSource": "Indiana University Athletics",
@@ -105,73 +161,73 @@
           "source": "Atlantic Coast Conference"
         },
         {
-          "title": "Wolfpack Head Out West For CSL Match 5",
+          "title": "Card to Compete Across the Golden State",
           "snippet": "",
-          "url": "https://gopack.com/news/2026/10/14/swimming-wolfpack-head-out-west-for-csl-match-5",
-          "source": "NC State University Athletics"
+          "url": "https://gostanford.com/news/2026/10/15/card-to-compete-across-the-golden-state",
+          "source": "Stanford Cardinal"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "games",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 15 Oct 2026 15:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwDbgfkeccFVurAJU2mFOgtpb8G-jrjy9hG3EzQu4cJokDQ71rvyw5uXmSDf0",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNbwWh3XAgZvPxEY1E2PbWvIprsdeFX5FoIU623J6wNZaCFgQrU2xZ_cN_UnY",
       "pictureSource": "ESPN",
       "relatedSearch": [
         {
-          "title": "Jake Bauers' epic homer rocks Dodgers as Brewers seize 3-0 NLCS lead",
+          "title": "Seahawks-Broncos on TNF Week 6: Highlights, TDs, key plays",
           "snippet": "",
-          "url": "https://www.espn.com/mlb/story/_/id/50186797/brewers-put-dodgers-ropes-seize-3-0-nlcs-lead-game-3",
+          "url": "https://www.espn.com/nfl/story/_/id/50191945/nfl-week-6-seahawks-broncos-top-plays-tnf",
           "source": "ESPN"
         },
         {
-          "title": "Brewers vs. Dodgers score, live updates: MLB playoffs NLCS Game 4 start time, predictions and latest",
+          "title": "Seahawks vs. Broncos live updates: NFL ‘Thursday Night Football’ score, predictions and latest",
           "snippet": "",
-          "url": "https://www.nytimes.com/athletic/live-blogs/brewers-vs-dodgers-live-updates-mlb-playoffs-game-4-score-result/h62TVnxCQjWn/",
+          "url": "https://www.nytimes.com/athletic/live-blogs/seahawks-vs-broncos-live-score-updates-nfl-tnf/ZX6N8h1EzpMs/",
           "source": "The New York Times"
         },
         {
-          "title": "Brewers vs. Dodgers live updates, lineups, where to watch: Shohei Ohtani leads off with Dodgers' season on the line as Brewers seek NLCS sweep",
+          "title": "Denver Broncos vs. Seattle Seahawks: How to watch, listen and live stream the Broncos' Week 6 game",
           "snippet": "",
-          "url": "https://sports.yahoo.com/mlb/live/dodgers-brewers-box-score-live-updates-lineups-starting-pitchers-news-highlights-where-to-watch-game4-nlcs-224500694.html",
-          "source": "Yahoo Sports"
+          "url": "https://www.denverbroncos.com/news/denver-broncos-vs-seattle-seahawks-how-to-watch-listen-and-live-stream-the-broncos-week-6-game",
+          "source": "Denver Broncos"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "sports",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 15 Oct 2026 15:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdmUfZvKrBW-J4wFp9LhSIDHSEdkYG8sqWbTAbZQ68u5EMyorvUUlO--8COGY",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxBmZF2QVUfx5aYwZGJeLXtt3FAiXLbi54hBPSWC9xVP3qZmOEXJVE6g92xl0",
       "pictureSource": "ESPN",
       "relatedSearch": [
         {
-          "title": "What NBA preseason has revealed about the Lakers, 76ers, Celtics and every team",
+          "title": "Sources: College Football Playoff nearing deal for 24-team format in '27",
           "snippet": "",
-          "url": "https://www.espn.com/nba/story/_/id/50176718/nba-preseason-lakers-76ers-celtics-30-teams",
+          "url": "https://www.espn.com/college-football/story/_/id/50190410/sources-college-football-playoff-nearing-deal-24-team-format",
           "source": "ESPN"
         },
         {
-          "title": "5 preseason trends + Lethal Shooter joins and I understand it now!",
+          "title": "CFP releases statement on negotiations with ESPN on expansion proposal",
           "snippet": "",
-          "url": "https://sports.yahoo.com/nba/article/5-preseason-trends--lethal-shooter-joins-and-i-understand-it-now-172951188.html",
+          "url": "https://sports.yahoo.com/articles/cfp-releases-statement-negotiations-espn-015039081.html",
           "source": "Yahoo Sports"
         },
         {
-          "title": "NBA Preseason Predictions and Moneyline Picks: Thursday, Oct. 15",
+          "title": "College Football Nearing Deal to Double Playoff Teams to 24",
           "snippet": "",
-          "url": "https://www.covers.com/nba/preseason-moneyline-predictions-picks-thursday-oct-15-2026",
-          "source": "Covers.com"
+          "url": "https://www.bloomberg.com/news/articles/2026-10-15/college-football-nearing-deal-to-double-playoff-teams-to-24",
+          "source": "Bloomberg.com"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "cycling",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 15 Oct 2026 15:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXRUpXNK1HmVz2Y6jutqePciJe43br6mXFKCC2Dyd_aFN_l-JJUZmdHWL4oFU",
       "pictureSource": "Team Picnic PostNL",
@@ -183,23 +239,23 @@
           "source": "Team Picnic PostNL"
         },
         {
+          "title": "Nicolas Roche on Picnic PostNL/Sunweb | \"I was angry and not very happy\"",
+          "snippet": "",
+          "url": "https://www.stickybottle.com/people/nicolas-roche-on-picnic-postnl-sunweb-i-was-angry-and-not-very-happy-210558",
+          "source": "Sticky Bottle"
+        },
+        {
           "title": "'It became a dictatorship' – Extensive report on alleged culture of fear leads Picnic-PostNL to launch independent investigation",
           "snippet": "",
           "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/it-became-a-dictatorship-extensive-report-on-alleged-culture-of-fear-leads-picnic-postnl-to-launch-independent-investigation/",
           "source": "Cyclingnews"
-        },
-        {
-          "title": "No Picnic: inquiry reveals Dutch cycling team’s toxic culture",
-          "snippet": "",
-          "url": "https://www.dutchnews.nl/2026/10/no-picnic-inquiry-reveals-dutch-cycling-teams-toxic-culture/",
-          "source": "DutchNews.nl"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "flights",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 15 Oct 2026 15:00:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTv3yFyb7WeZxv5rePOj9kvTyc2wxVIEKhAR5wAgkK-QygtNdpKDicYehKbs6s",
       "pictureSource": "Fox News",
@@ -221,62 +277,6 @@
           "snippet": "",
           "url": "https://www.nj.com/news/2026/10/american-airlines-is-canceling-all-flights-to-these-3-major-cities-heres-why.html",
           "source": "NJ.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "fitness",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 15 Oct 2026 14:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIJ1-4LVw9yiKL_P2mY06q4hRx289TFpQ-h4J3BSsCMaQtxPytIG7nTgT6-Y8",
-      "pictureSource": "Men's Health",
-      "relatedSearch": [
-        {
-          "title": "Is Athleticism the New Fitness Flex? Why Guys Are Doing More Than Just Pumping Up for Clout.",
-          "snippet": "",
-          "url": "https://www.menshealth.com/fitness/a74123984/athleticism-training-trend/",
-          "source": "Men's Health"
-        },
-        {
-          "title": "Friends make impressive finish at international fitness competition",
-          "snippet": "",
-          "url": "https://steinbachonline.com/articles/friends-make-impressive-finish-at-international-fitness-competition----",
-          "source": "SteinbachOnline"
-        },
-        {
-          "title": "Sommer Fitness ApS får underskud igen",
-          "snippet": "",
-          "url": "https://fyens.dk/nordfyn/sommer-fitness-aps-faar-underskud-igen",
-          "source": "Fyens.dk"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "movies",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 15 Oct 2026 14:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQcyL2mM5Sihe2j7Mwz-EBYQtzGZe05RyNrw7WbPQII6f41CD3eOYUks7Gdv34",
-      "pictureSource": "The New York Times",
-      "relatedSearch": [
-        {
-          "title": "‘Street Fighter’ Review: Choose Your Fighter",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2026/10/15/movies/street-fighter-review.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "The New Street Fighter Movie Is Dumber Than a Box of Rocks, But It Can Also Be Pretty Fun!",
-          "snippet": "",
-          "url": "https://www.ign.com/articles/street-fighter-movie-2026-review",
-          "source": "IGN"
-        },
-        {
-          "title": "'Street Fighter' review: What if it's giving Super Mario Bros. live-action, but I love that?",
-          "snippet": "",
-          "url": "https://mashable.com/entertainment/street-fighter-2026-movie-review",
-          "source": "Mashable"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,13 +1,103 @@
 {
-  "lastUpdate": "2026-10-17 17:58:07",
+  "lastUpdate": "2026-10-17 20:13:19",
   "data": [
     {
-      "title": "meteorolojik uyarı",
+      "title": "weather limassol",
       "trafficCount": "100+",
-      "pubDate": "Sat, 17 Oct 2026 10:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQR6x4YmLYRZFrgxzyx4tyq-N6-lfp0dtQmGg8LQAXxwYIzem-mXT4naUHwNWo",
-      "pictureSource": "Sözcü Gazetesi",
+      "pubDate": "Sat, 17 Oct 2026 12:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgVjIAqlECJ2UNRZi9n3u344gaydLmCdy82777x2sHTyhrPl5d6HlV5LKrom0",
+      "pictureSource": "POLITIS - To the point",
       "relatedSearch": [
+        {
+          "title": "Cloud, Showers and Gusty Winds Forecast Across Cyprus",
+          "snippet": "",
+          "url": "https://en.politis.com.cy/news/environment/1053486/cloud-showers-and-gusty-winds-forecast-across-cyprus",
+          "source": "POLITIS - To the point"
+        },
+        {
+          "title": "Weather forecast: A little sunshine, a few showers and a brighter weekend ahead",
+          "snippet": "",
+          "url": "https://knews.kathimerini.com.cy/en/news/weather-forecast-a-little-sunshine-a-few-showers-and-a-brighter-weekend-ahead",
+          "source": "Knews, Kathimerini"
+        },
+        {
+          "title": "Isolated showers possible Saturday, with rain expected at night",
+          "snippet": "",
+          "url": "https://en.philenews.com/local/isolated-showers-possible-saturday-with-rain-expected-at-night/",
+          "source": "Philenews"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ποδόσφαιρο",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 17 Oct 2026 12:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKy8H1-kfA-DJslIzZerCWJsjUoiyg6f9xoP8-nW30TVZ__SnuWvun5IL6Q4",
+      "pictureSource": "Kathimerini.com.cy",
+      "relatedSearch": [
+        {
+          "title": "Σημαντική εξέλιξη με Γκολντσον: Εξασφάλισε το δελτίο υγείας!, Η ΚΑΘΗΜΕΡΙΝΗ - mobile",
+          "snippet": "",
+          "url": "https://m.kathimerini.com.cy/gr/athlitismos/kypros-spor/apollonas/simantiki-exelixi-me-gkolntson-exasfalise-to-deltio-ygeias",
+          "source": "Kathimerini.com.cy"
+        },
+        {
+          "title": "Απόλλων: Η μεγάλη επιστροφή του Γκόλντσον και η αποθέωση (vid & pics)",
+          "snippet": "",
+          "url": "https://goal.philenews.com/podosfero/kypros/a-katigoria/apollon-lemesou/apollon-i-megali-epistrofi-tou-gkolntson-kai-i-apotheosi-vid-pics/",
+          "source": "Goal News Cy"
+        },
+        {
+          "title": "Η ΜΕΓΑΛΗ ημέρα για Γκόλντσον! (Πληροφορίες)",
+          "snippet": "",
+          "url": "https://www.kerkida.net/eidiseis/a-katigoria/apollonas/i-megali-imera-gia-gkolntson-plirofories",
+          "source": "kerkida"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "snow",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 17 Oct 2026 11:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwN-Eov8AnhAK-uBCxkPEgXTI3fe-TY1O9tXCIpYmZv_wU2iyjtMRVjVBAeNU",
+      "pictureSource": "Finger Lakes Daily News",
+      "relatedSearch": [
+        {
+          "title": "Weather Forecast: Freeze Warning Fades Sunday as a Warm, Dry Week Moves In",
+          "snippet": "",
+          "url": "https://www.fingerlakesdailynews.com/weather/2026-10-17-midday-freeze-warning-fades-sunday-as-a-warm-dry-week-moves-in/",
+          "source": "Finger Lakes Daily News"
+        },
+        {
+          "title": "Chilly Saturday with a beautiful stretch incoming",
+          "snippet": "",
+          "url": "https://cnycentral.com/news/local/chilly-saturday-with-a-beautiful-stretch-incoming",
+          "source": "WSTM"
+        },
+        {
+          "title": "Cold Saturday, before warming back up",
+          "snippet": "",
+          "url": "https://www.wwnytv.com/2026/10/16/cold-saturday-before-warming-back-up/",
+          "source": "WWNY"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "meteorolojik uyarı",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 17 Oct 2026 10:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFLidMOuEYKJeoIiWp1Xs60ypWAxLnLycFYAyfkIGra5-q7al-IjXzIbtOvRM",
+      "pictureSource": "Hürriyet",
+      "relatedSearch": [
+        {
+          "title": "Tehlike geçmedi: Sağanak yağış geri geliyor! Sel felaketinin ardından uyarılar peş peşe geldi | Meteoroloji saat verdi: İstanbul dahil 45 ilde alarm",
+          "snippet": "",
+          "url": "https://www.hurriyet.com.tr/gundem/live-tehlike-gecmedi-saganak-yagis-geri-geliyor-sel-felaketinin-ardindan-uyarilar-pes-pese-geldi-meteoroloji-saat-verdi-istanbul-dahil-45-43344817",
+          "source": "Hürriyet"
+        },
         {
           "title": "Felaketin izleri silinmeden İstanbul için yeni uyarı: Saat verildi, çok kuvvetli geliyor",
           "snippet": "",
@@ -15,44 +105,10 @@
           "source": "Sözcü Gazetesi"
         },
         {
-          "title": "Türkiye'de Sel ve Fırtına Alarmı: 17 Ekim'de Hangi İllerde Risk Var?",
-          "snippet": "",
-          "url": "https://www.dogayidinle.com/dogal-afetler/turkiyede-sel-ve-firtina-alarmi-17-ekimde-hangi-illerde-risk-var/9449",
-          "source": "Doğayı Dinle"
-        },
-        {
           "title": "Bakan Kurum: Yarın 10 ilimiz için turuncu, 26 ilimiz için sarı kodlu uyarı bulunuyor",
           "snippet": "",
-          "url": "https://aa.com.tr/tr/gundem/bakan-kurum-yarin-10-ilimiz-icin-turuncu-26-ilimiz-icin-sari-kodlu-uyari-bulunuyor/4092188",
+          "url": "https://www.aa.com.tr/tr/gundem/bakan-kurum-yarin-10-ilimiz-icin-turuncu-26-ilimiz-icin-sari-kodlu-uyari-bulunuyor/4092188",
           "source": "Anadolu Ajansı"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "fenerbahçe",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 17 Oct 2026 09:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScQ9r9RDP62QyWmnGmx7BFZ9to6PeWjFGpygp2dS9_Ynm053IMb6s1cABJDW8",
-      "pictureSource": "Fenerbahce.org",
-      "relatedSearch": [
-        {
-          "title": "Başantrenörümüz Ahmet Çakı, Beşiktaş BOA maçını değerlendirdi",
-          "snippet": "",
-          "url": "https://www.fenerbahce.org/haberler/basketbol-kadin/2026/10/basantrenorumuz-ahmet-caki-besiktas-boa-macini-degerlendirdi",
-          "source": "Fenerbahce.org"
-        },
-        {
-          "title": "Halkbank Kadınlar Basketbol Süper Ligi",
-          "snippet": "",
-          "url": "https://www.ensondakika.com.tr/halkbank-kadinlar-basketbol-super-ligi/721046/",
-          "source": "https://www.ensondakika.com.tr/"
-        },
-        {
-          "title": "Beşiktaş'tan Fenerbahçe'ye Tarihi Darbe!",
-          "snippet": "",
-          "url": "https://www.afyonturkeligazetesi.com/besiktastan-fenerbahceye-tarihi-darbe/147005",
-          "source": "Afyon Türkeli Gazetesi"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,205 +117,149 @@
       "title": "μπέτισ εναντίον μπαρτσελόνα",
       "trafficCount": "200+",
       "pubDate": "Sat, 17 Oct 2026 09:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBdk7uBA92Z1oBIjAeEX2UmUkl54MkPj3EnCndxjKFFSpVZ_KsVXa5K2sgo5g",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThdQOXCk5ZCZzFDdREZpEBbIVFaidOHW6KjHzcuqoCQHvI6nPtGd2T6qnowGQ",
       "pictureSource": "24Sports",
       "relatedSearch": [
         {
-          "title": "Μπαρτσελόνα: Επιστρέφουν με Μπέτις οι Ραφίνια και Ντε Γιονγκ",
+          "title": "Μπαρτσελόνα από άλλον πλανήτη με εξωγήινο Γιαμάλ",
           "snippet": "",
-          "url": "https://m.24sports.com.cy/gr/sports/podosfairo/ispania/primera-ntibizion/mpartselona/mpartselona-epistrefoyn-me-mpetis-oi-rafinia-kai-nte-giongk",
+          "url": "https://m.24sports.com.cy/gr/sports/podosfairo/ispania/primera-ntibizion/mpartselona/mpartselona-apo-allon-planiti-me-exogiino-giamal",
           "source": "24Sports"
         },
         {
-          "title": "Η καλύτερη βερσιόν της είναι απαραίτητη",
+          "title": "Μπέτις - Μπαρτσελόνα 2-5: Σκορπάει τον τρόμο η ομάδα του Χάνσι Φλικ",
           "snippet": "",
-          "url": "https://www.bet.gr/author/karamfilidis/i-kalyteri-version-tis-einai-aparaititi/",
-          "source": "Bet.gr"
+          "url": "https://www.gazzetta.gr/football/la-liga/2578279/mpetis-mpartselona-2-5-skorpaei-ton-tromo-i-omada-toy-hansi-flik",
+          "source": "Gazzetta.gr"
         },
         {
-          "title": "Πρόβλεψη Ρεάλ Μπέτις εναντίον Μπαρτσελόνα: Η κούρσα για την κορυφή εντείνεται.",
+          "title": "Μπέτις – Μπαρτσελόνα: Μπερνάλ και Γιαμάλ πιάστηκαν στα χέρια – Κόκκινη στον χαφ της Μπέτις, επειδή κουτούλησε τον σουπερστάρ των μπλαουγκράνα",
           "snippet": "",
-          "url": "https://www.vietnam.vn/el/nhan-dinh-real-betis-vs-barcelona-cuoc-dua-ngoi-dau-nong-len",
-          "source": "Vietnam.vn"
+          "url": "https://www.sport24.gr/football/betis-bartselona-bernal-kai-giamal-piastikan-sta-xeria-kokkini-ston-xaf-tis-betis-epeidi-koutoulise-ton-souperstar-ton-blaougkrana/",
+          "source": "Sport24"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "apollon",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 17 Oct 2026 09:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSN65EUPvDJaFgbRz8xaSqTomzd7ypcm3QBcVVMfZgrAyuDE6RcZw0qLWTPVV8",
+      "pictureSource": "24Sports",
+      "relatedSearch": [
+        {
+          "title": "Πρωτιά ο Απόλλωνας - Βαθιά ανάσα για Krasava (Πρόγραμμα-Βαθμολογία)",
+          "snippet": "",
+          "url": "https://m.24sports.com.cy/gr/sports/podosfairo/kypros/a-katigoria/apollonas/protia-o-apollona-bathia-anasa-gia-krasava-programma-bathmologia",
+          "source": "24Sports"
+        },
+        {
+          "title": "Cyprus League by Stoiximan: «Μάχες» για όλα τα... γούστα στην 6η αγωνιστική - Το πρόγραμμα και η βαθμολογία",
+          "snippet": "",
+          "url": "https://www.alphanews.live/sports/cyprus-league-by-stoiximan-maches-gia-ola-ta-gousta-stin-6i-agonistiki-to-programma-kai-i-vathmologia/",
+          "source": "AlphaNews"
+        },
+        {
+          "title": "Δεσπόζει το ντέρμπι στο «ΠΑΠ» (ΠΡΟΓΡΑΜΜΑ/ΒΑΘΜΟΛΟΓΙΑ)",
+          "snippet": "",
+          "url": "https://balla.com.cy/2026/10/despozei-to-nterbi-sto-pap-programma-vathmologia-2/",
+          "source": "Balla.com.cy"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "betis vs barcelona",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 17 Oct 2026 09:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4lQYKwFtDXmkGjbNa8fX22Q-8JhnPRVk7r97wVTQmWEDxBykBx06kJLkMpNM",
-      "pictureSource": "Estadio Deportivo",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPrlpdhMMouDd7gXMUy3ka2C5tQKWq62bCcLNgfkYEvUUGAfMBerAYIu2Pex4",
+      "pictureSource": "Diario AS",
       "relatedSearch": [
         {
-          "title": "Betis - Barcelona, en directo el partido de la jornada 9 de LaLiga EA Sports en vivo online",
+          "title": "Betis 2-5 Barcelona: resumen, goles y resultado",
           "snippet": "",
-          "url": "https://www.estadiodeportivo.com/futbol/primera-division/betis-barcelona-directo-partido-jornada-laliga-sports-vivo-online-20261017-548748.html",
-          "source": "Estadio Deportivo"
+          "url": "https://as.com/futbol/primera/betis-barcelona-hoy-en-directo-laliga-ea-sports-en-vivo-ultima-hora-en-la-cartuja-f202610-d/",
+          "source": "Diario AS"
         },
         {
-          "title": "Como con Negreira: anulan un golazo a Lo Celso por una mano previa pese a que hubo un despeje segundos desp...",
+          "title": "Así fue el cabezazo de Valentín Gómez para el 1-1 vs Barca",
           "snippet": "",
-          "url": "https://okdiario.com/deportes/como-negreira-anulan-golazo-lo-celso-mano-previa-pese-que-hubo-despeje-segundos-despues-20572841",
-          "source": "OkDiario"
+          "url": "https://www.365scores.com/es/news/asi-fue-el-cabezazo-de-valentin-gomez/",
+          "source": "365Scores"
         },
         {
-          "title": "VÍDEO | El golazo descomunal de Lo Celso anulado en el VAR por una mano previa",
+          "title": "El Barça busca este sábado mantener su racha de triunfos ante el Betis",
           "snippet": "",
-          "url": "https://www.eurosport.es/futbol/la-liga/2026-2027/gol-anulado-lo-celso-mano-previa-cucho-var-fase-ataque-betis-barcelona_sto23346640/story.shtml",
-          "source": "Eurosport"
+          "url": "https://www.abc.es/deportes/futbol/barca-busca-sabado-mantener-racha-triunfos-ante-20261017130100-nt.html",
+          "source": "ABC"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "τουρκία",
-      "trafficCount": "1000+",
-      "pubDate": "Sat, 17 Oct 2026 09:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9G3IeEOLoncu8h40mHlNRysH_MShvGWZPQXMHa_6h_DQdBusgn9-LRMQ7g9M",
-      "pictureSource": "Sigmalive",
-      "relatedSearch": [
-        {
-          "title": "Προειδοποίηση Αμερικανού Γερουσιαστή σε Τουρκία από Πράσινη Γραμμή (BINTEO)",
-          "snippet": "",
-          "url": "https://www.sigmalive.com/news/all/1333770/proeidopiisi-amerikanou-geroysiasti-se-toyrkia-apo-prasini-grammi-binteo",
-          "source": "Sigmalive"
-        },
-        {
-          "title": "ΒΙΝΤΕΟ: Στη νεκρή ζώνη ο Αμερικανός γερουσιαστής Ρικ Σκοτ-Απέδωσε στον Ερντογάν την ευθύνη για το Κυπριακό",
-          "snippet": "",
-          "url": "https://www.reporter.com.cy/article/1474092/binteo-sti-nekri-zoni-o-amerikanos-groysiastis-rik-skot-apedose-ston-erntogn-tin-efthyni-ga-to-kypriako",
-          "source": "Reporter Cyprus"
-        },
-        {
-          "title": "Ρικ Σκοτ: Αυστηρό μήνυμα του Αμερικανού γερουσιαστή στον Ερντογάν από τη νεκρή ζώνη – «Συμπεριφερθείτε ως σύμμαχοι» (βίντεο)",
-          "snippet": "",
-          "url": "https://www.politis.com.cy/kypriako/1053600/rik-skot-austiro-minima-toy-amerikanou-gheroysiasti-ston-erntoghan-apo-ti-nekri-zwni-simperiferthite-os-symmakhoi-vinteo",
-          "source": "ΠΟΛΙΤΗΣ"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "πρόβλεψη",
       "trafficCount": "500+",
-      "pubDate": "Sat, 17 Oct 2026 08:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDN_U-cMTDw3DFK5Z-aOGA9Y2aarGIZObdrDf3GmGpUPNTqdnpkLN-8gS9g4s",
-      "pictureSource": "www.stockwatch.com.cy",
+      "pubDate": "Sat, 17 Oct 2026 09:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNJN7o7AqmNF8hsBZZWfgQ6rQtsstkM3YQtzLqnXn9AF8y9ExnRFblmn5HM8c",
+      "pictureSource": "ΠΟΛΙΤΗΣ",
       "relatedSearch": [
         {
-          "title": "Κεραυνός: Πρωτόγνωρη και ευεργετική η μείωση του χρέους",
+          "title": "Θρίλερ με την εξαφάνιση Έλληνα μοναχού στην Τουρκία - «Ήθελε να γίνει ασκητής στον Πόντο",
           "snippet": "",
-          "url": "https://www.stockwatch.com.cy/el/news/keraunos-ghia-dnt-epivevaiwnei-tin-anthektikotita",
-          "source": "www.stockwatch.com.cy"
+          "url": "https://www.politis.com.cy/politis-news/ellada/1053586/thriler-me-tin-eksafanisi-ellina-monakhou-stin-toyrkia-ithele-na-ghinei-askitis-ston-ponto",
+          "source": "ΠΟΛΙΤΗΣ"
         },
         {
-          "title": "Κεραυνός: Ενθαρρυντικές οι προβλέψεις ΔΝΤ για την Κύπρο",
+          "title": "Μυστήριο με τον 58χρονο μοναχό Ιωσήφ: Έφυγε για να ζήσει ως ασκητής και εξαφανίστηκε στα βάθη της Τουρκίας (video)",
           "snippet": "",
-          "url": "https://www.philenews.com/oikonomia/kypros/article/1782424/ipourgos-ikonomikon-anaptixi-32-to-2027-provlepi-to-dnt-gia-tin-kipro-sto-29-to-2026/",
-          "source": "Philenews"
+          "url": "https://cyprustimes.com/ellada/mystirio-me-ton-58chrono-monacho-iosif-efyge-gia-na-zisei-os-askitis-kai-exafanistike-sta-vathi-tis-tourkias-video/",
+          "source": "Cyprus Times"
         },
         {
-          "title": "Πληθωρισμός 3,7% και νέα πίεση από την ακρίβεια – Τι προβλέπει το ΔΝΤ για την Κύπρο",
+          "title": "Θρίλερ με την εξαφάνιση 58χρονου Έλληνα μοναχού στην Τουρκία",
           "snippet": "",
-          "url": "https://dialogos.com.cy/plithorismos-37-kai-nea-piesi-apo-tin-akriveia-ti-provlepei-to-dnt-gia-tin-kypro/",
-          "source": "Dialogos"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "απόλλων λεμεσού εναντίον νέα σαλαμίνα",
-      "trafficCount": "2000+",
-      "pubDate": "Sat, 17 Oct 2026 08:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPr6pK_X5uwCTg8k3fHjQfZwwEnJ_GkuVbh52OZAQm5SL55Ybm7EbUHDcR_as",
-      "pictureSource": "24Sports",
-      "relatedSearch": [
-        {
-          "title": "Απόλλωνας - Νέα Σαλαμίνα (11αδες)",
-          "snippet": "",
-          "url": "https://m.24sports.com.cy/gr/sports/podosfairo/kypros/a-katigoria/apollonas/1-apollonas-nea-salamina-11ades",
-          "source": "24Sports"
-        },
-        {
-          "title": "Τι ζητάει η Σαλαμίνα από τον κόσμο...",
-          "snippet": "",
-          "url": "https://www.kerkida.net/eidiseis/a-katigoria/nea-salamina/ti-zitaei-i-salamina-apo-ton-kosmo",
-          "source": "kerkida"
-        },
-        {
-          "title": "Οι ενδεκάδες στο Απόλλων – Νέα Σαλαμίνα",
-          "snippet": "",
-          "url": "https://www.alphanews.live/sports/oi-endekades-sto-apollon-nea-salamina-2/",
+          "url": "https://www.alphanews.live/greece/thriler-me-tin-exafanisi-58chronou-ellina-monachou-stin-tourkia/",
           "source": "AlphaNews"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "fenerbahçe - alanyaspor",
-      "trafficCount": "2000+",
-      "pubDate": "Sat, 17 Oct 2026 08:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Fenerbahçe vs Alanyaspor: Turkish Süper Lig stats & head-to-head",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/ckreyq87r29gt",
-          "source": "BBC"
-        },
-        {
-          "title": "Fenerbahce v Alanyaspor Odds",
-          "snippet": "",
-          "url": "https://sportsbook.fanduel.com/soccer/turkish-super-league/fenerbahce-v-alanyaspor-36176794",
-          "source": "FanDuel Sportsbook"
-        },
-        {
-          "title": "Fenerbahçe vs Alanyaspor match lineup | Süper Lig · 17 Oct 2026",
-          "snippet": "",
-          "url": "https://www.ysscores.com/en/lineup/5904773/Fenerbahce-vs-Alanyaspor",
-          "source": "YSscores"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "süper lig",
+      "title": "πρόβλεψη",
       "trafficCount": "200+",
-      "pubDate": "Sat, 17 Oct 2026 07:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNU9Axsa4FSu-wMaKxprt3hZ5iuhfeIy_kW0NKIDJk7QlDiicSboC5kYvU-8A",
-      "pictureSource": "Fotomaç",
-      "relatedSearch": [
-        {
-          "title": "Fenerbahçe'de flaş Asensio kararı! İsmail Kartal'ın Alanyaspor maçı ilk 11'i…",
-          "snippet": "",
-          "url": "https://www.fotomac.com.tr/fenerbahce/2026/10/16/ismail-kartaldan-flas-asensio-karari-iste-fenerbahcenin-muhtemel-11i",
-          "source": "Fotomaç"
-        },
-        {
-          "title": "Futbolda erteleme alarmı! Fenerbahçe-Alanyaspor maçı ertelenecek mi?",
-          "snippet": "",
-          "url": "https://www.sozcu.com.tr/futbolda-erteleme-alarmi-p369912",
-          "source": "Sözcü Gazetesi"
-        },
-        {
-          "title": "Fenerbahçe'de Asensio ve Kante kararı",
-          "snippet": "",
-          "url": "https://www.ntv.com.tr/sporskor/galeri-fenerbahcede-asensio-ve-kante-karari-1746582",
-          "source": "NTV Haber"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "χειμερινή ώρα",
-      "trafficCount": "1000+",
-      "pubDate": "Sat, 17 Oct 2026 07:40:00 -0700",
+      "pubDate": "Sat, 17 Oct 2026 08:50:00 -0700",
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "fenerbahçe - alanyaspor",
+      "trafficCount": "5000+",
+      "pubDate": "Sat, 17 Oct 2026 08:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQi7Od5VxePDm1deHBb59qr8AhH3NazL09XP1NMqi0A-SrxAkTITgs1wcEJYh8",
+      "pictureSource": "Fotomaç",
+      "relatedSearch": [
+        {
+          "title": "F.Bahçe evinde kazandı!",
+          "snippet": "",
+          "url": "https://www.fotomac.com.tr/fenerbahce/2026/10/17/fenerbahce-evinde-kazandi-sari-lacivertliler-konuk-ettigi-alanyasporu-maglup-etti",
+          "source": "Fotomaç"
+        },
+        {
+          "title": "Özer Çak yazdı: VAR kararı ve Taylor’ın sınavı!",
+          "snippet": "",
+          "url": "https://www.haberturk.com/spor/var-karari-ve-taylorin-sinavi-3920548",
+          "source": "Habertürk"
+        },
+        {
+          "title": "Son Dakika Spor Haberi | İsmail Kartal: Bu galibiyet Slavia Prag ve derbi öncesi moral oldu",
+          "snippet": "",
+          "url": "https://www.cnnturk.com/spor/futbol/ismail-kartal-bu-galibiyet-slavia-prag-ve-derbi-oncesi-moral-oldu-3480845",
+          "source": "CNN Türk"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]

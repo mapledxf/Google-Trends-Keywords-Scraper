@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-17 20:13:19",
+  "lastUpdate": "2026-10-17 22:19:02",
   "data": [
     {
       "title": "weather limassol",
@@ -15,16 +15,16 @@
           "source": "POLITIS - To the point"
         },
         {
-          "title": "Weather forecast: A little sunshine, a few showers and a brighter weekend ahead",
-          "snippet": "",
-          "url": "https://knews.kathimerini.com.cy/en/news/weather-forecast-a-little-sunshine-a-few-showers-and-a-brighter-weekend-ahead",
-          "source": "Knews, Kathimerini"
-        },
-        {
           "title": "Isolated showers possible Saturday, with rain expected at night",
           "snippet": "",
           "url": "https://en.philenews.com/local/isolated-showers-possible-saturday-with-rain-expected-at-night/",
           "source": "Philenews"
+        },
+        {
+          "title": "Weather forecast: A little sunshine, a few showers and a brighter weekend ahead",
+          "snippet": "",
+          "url": "https://knews.kathimerini.com.cy/en/news/weather-forecast-a-little-sunshine-a-few-showers-and-a-brighter-weekend-ahead",
+          "source": "Knews, Kathimerini"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -43,15 +43,71 @@
           "source": "Kathimerini.com.cy"
         },
         {
-          "title": "Απόλλων: Η μεγάλη επιστροφή του Γκόλντσον και η αποθέωση (vid & pics)",
+          "title": "Μέσα ο Γκόλντσον και... αποθέωση!",
           "snippet": "",
-          "url": "https://goal.philenews.com/podosfero/kypros/a-katigoria/apollon-lemesou/apollon-i-megali-epistrofi-tou-gkolntson-kai-i-apotheosi-vid-pics/",
-          "source": "Goal News Cy"
+          "url": "https://www.kerkida.net/eidiseis/a-katigoria/apollonas/mesa-o-gkolntson-kai-apotheosi",
+          "source": "kerkida"
         },
         {
-          "title": "Η ΜΕΓΑΛΗ ημέρα για Γκόλντσον! (Πληροφορίες)",
+          "title": "Λοσάδα για Γκόλτσον: «Παράδειγμα, κανείς δεν πίστευε ότι θα...»",
           "snippet": "",
-          "url": "https://www.kerkida.net/eidiseis/a-katigoria/apollonas/i-megali-imera-gia-gkolntson-plirofories",
+          "url": "https://sportime.sigmalive.com/losada-gia-gkoltson-paradeigma-kaneis-den-pisteye-oti-tha/",
+          "source": "Sportime/SigmaLive"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "barcelona",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 17 Oct 2026 11:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPrlpdhMMouDd7gXMUy3ka2C5tQKWq62bCcLNgfkYEvUUGAfMBerAYIu2Pex4",
+      "pictureSource": "Diario AS",
+      "relatedSearch": [
+        {
+          "title": "Betis 2-5 Barcelona: resumen, goles y resultado",
+          "snippet": "",
+          "url": "https://as.com/futbol/primera/betis-barcelona-hoy-en-directo-laliga-ea-sports-en-vivo-ultima-hora-en-la-cartuja-f202610-d/",
+          "source": "Diario AS"
+        },
+        {
+          "title": "Numerosos cambios en los onces de Pellegrini y Flick",
+          "snippet": "",
+          "url": "https://holanews.com/numerosos-cambios-en-los-onces-de-pellegrini-y-flick/",
+          "source": "HolaNews"
+        },
+        {
+          "title": "Del empate con golazo a la manita pasando por la polémica: caos con el Barcelona en La Cartuja",
+          "snippet": "",
+          "url": "https://onefootball.com/es/noticias/del-empate-con-golazo-a-la-manita-pasando-por-la-polemica-caos-con-el-barcelona-en-la-cartuja-43628255",
+          "source": "OneFootball"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "κατάταξη απόλλων λεμεσού εναντίον νέα σαλαμίνα",
+      "trafficCount": "5000+",
+      "pubDate": "Sat, 17 Oct 2026 11:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSKRYDNeaMwWyhuQRX0nfEm66SDu-tLKQhSpzo8PFniPSDlFzJ4qGGurLrF_I",
+      "pictureSource": "24Sports",
+      "relatedSearch": [
+        {
+          "title": "Ματς-ροντέο με νικητή τον Απόλλωνα! (vid)",
+          "snippet": "",
+          "url": "https://m.24sports.com.cy/gr/sports/podosfairo/kypros/a-katigoria/apollonas/1-apollonas-nea-salamina-11ades",
+          "source": "24Sports"
+        },
+        {
+          "title": "Πήρε τη ματσάρα των έξι τερμάτων ο Απόλλωνας κόντρα στη μαχητική Νέα Σαλαμίνα (ΒΙΝΤΕΟ)",
+          "snippet": "",
+          "url": "https://www.alphanews.live/sports/oi-endekades-sto-apollon-nea-salamina-2/",
+          "source": "AlphaNews"
+        },
+        {
+          "title": "Επιστροφές… επιλογές και αλλαγές!",
+          "snippet": "",
+          "url": "https://www.kerkida.net/eidiseis/a-katigoria/apollonas/epistrofes-epiloges-kai-allages",
           "source": "kerkida"
         }
       ],
@@ -61,37 +117,43 @@
       "title": "snow",
       "trafficCount": "200+",
       "pubDate": "Sat, 17 Oct 2026 11:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwN-Eov8AnhAK-uBCxkPEgXTI3fe-TY1O9tXCIpYmZv_wU2iyjtMRVjVBAeNU",
-      "pictureSource": "Finger Lakes Daily News",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8OoNZ-c3dUS6wjRQvizJjieiOIx97xiYNlJ4MkuF9D5ugLiAXHGwqvcNm8IY",
+      "pictureSource": "National Oceanic and Atmospheric Administration (.gov)",
       "relatedSearch": [
         {
-          "title": "Weather Forecast: Freeze Warning Fades Sunday as a Warm, Dry Week Moves In",
+          "title": "El Nino looms large over U.S. Winter Outlook",
           "snippet": "",
-          "url": "https://www.fingerlakesdailynews.com/weather/2026-10-17-midday-freeze-warning-fades-sunday-as-a-warm-dry-week-moves-in/",
-          "source": "Finger Lakes Daily News"
+          "url": "https://www.noaa.gov/news-release/el-nino-looms-large-over-us-winter-outlook",
+          "source": "National Oceanic and Atmospheric Administration (.gov)"
         },
         {
-          "title": "Chilly Saturday with a beautiful stretch incoming",
+          "title": "El Niño looms large on World Food Day",
           "snippet": "",
-          "url": "https://cnycentral.com/news/local/chilly-saturday-with-a-beautiful-stretch-incoming",
-          "source": "WSTM"
+          "url": "https://wmo.int/media/news/el-nino-looms-large-world-food-day",
+          "source": "World Meteorological Organization WMO"
         },
         {
-          "title": "Cold Saturday, before warming back up",
+          "title": "Meteorologists' warning about \"El Niño\": it develops a second arm from the initial mass and heightens the forecast of its effects",
           "snippet": "",
-          "url": "https://www.wwnytv.com/2026/10/16/cold-saturday-before-warming-back-up/",
-          "source": "WWNY"
+          "url": "https://www.marca.com/en/lifestyle/world-news/2026/10/17/meteorologists-warning-about-nino-it-develops-second-arm-from-the-initial-mass-and-heightens-the-forecast-of-its-effects.html",
+          "source": "MARCA"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "meteorolojik uyarı",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 17 Oct 2026 10:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFLidMOuEYKJeoIiWp1Xs60ypWAxLnLycFYAyfkIGra5-q7al-IjXzIbtOvRM",
-      "pictureSource": "Hürriyet",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjiNqtX4gSME0Y_aluUZ-MPemSOSfneX8_oiH0U6ARDVqg-2iFBW-NBEDnDXk",
+      "pictureSource": "Sözcü Gazetesi",
       "relatedSearch": [
+        {
+          "title": "Bakanlık ve Meteoroloji'den art arda açıklamalar: Bu 36 ilde yaşayanlar dikkat!",
+          "snippet": "",
+          "url": "https://www.sozcu.com.tr/bakanlik-ve-meteorolojiden-art-arda-aciklamalar-bu-36-ilde-yasayanlar-dikkat-p370143",
+          "source": "Sözcü Gazetesi"
+        },
         {
           "title": "Tehlike geçmedi: Sağanak yağış geri geliyor! Sel felaketinin ardından uyarılar peş peşe geldi | Meteoroloji saat verdi: İstanbul dahil 45 ilde alarm",
           "snippet": "",
@@ -99,16 +161,38 @@
           "source": "Hürriyet"
         },
         {
-          "title": "Felaketin izleri silinmeden İstanbul için yeni uyarı: Saat verildi, çok kuvvetli geliyor",
+          "title": "Türkiye'de Meteorolojiden kuvvetli yağış, fırtına ve kar uyarısı!",
           "snippet": "",
-          "url": "https://www.sozcu.com.tr/felaketin-izleri-silinmeden-istanbul-icin-yeni-uyari-saat-verildi-cok-kuvvetli-geliyor-p369960",
+          "url": "https://www.gundemkibris.com/turkiyede-meteorolojiden-kuvvetli-yagis-firtina-ve-kar-uyarisi",
+          "source": "Gündem Kıbrıs Gazetesi - Kıbrıs Haber"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "fenerbahçe",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 17 Oct 2026 09:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqTFvKGpnXDnaHeIYCyJLMhQg5AHxuPjDiU0YoQoF-lF7v7w0MJVYg7g_BYY4",
+      "pictureSource": "Sözcü Gazetesi",
+      "relatedSearch": [
+        {
+          "title": "Erman Toroğlu'ndan Yasin Kol'la ilgili flaş sözler! 'Senin gözlemciliğini bitiririm demiş'",
+          "snippet": "",
+          "url": "https://www.sozcu.com.tr/erman-toroglu-sozcu-tv-de-yorumluyor-fenerbahce-ve-galatasaray-maclarinin-tartismali-pozisyonlari-p370142",
           "source": "Sözcü Gazetesi"
         },
         {
-          "title": "Bakan Kurum: Yarın 10 ilimiz için turuncu, 26 ilimiz için sarı kodlu uyarı bulunuyor",
+          "title": "Süper Lig'de Fenerbahçe ve Galatasaray maçlarının tartışmalı pozisyonlarını Trio ekibi yorumladı!",
           "snippet": "",
-          "url": "https://www.aa.com.tr/tr/gundem/bakan-kurum-yarin-10-ilimiz-icin-turuncu-26-ilimiz-icin-sari-kodlu-uyari-bulunuyor/4092188",
-          "source": "Anadolu Ajansı"
+          "url": "https://www.milliyet.com.tr/skorer/super-ligde-fenerbahce-ve-galatasaray-maclarinin-tartismali-pozisyonlarini-trio-ekibi-yorumladi-7682112",
+          "source": "Milliyet"
+        },
+        {
+          "title": "Kadıköy'de yıllarca unutulmayacak pozisyon! Penaltı, ofsayt, penaltı, gol iptali...",
+          "snippet": "",
+          "url": "https://spor.haber7.com/fenerbahce/haber/3668958-kadikoyde-yillarca-unutulmayacak-pozisyon-penalti-ofsayt-penalti-gol-iptali",
+          "source": "Haber 7"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,91 +257,26 @@
       "title": "betis vs barcelona",
       "trafficCount": "1000+",
       "pubDate": "Sat, 17 Oct 2026 09:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPrlpdhMMouDd7gXMUy3ka2C5tQKWq62bCcLNgfkYEvUUGAfMBerAYIu2Pex4",
-      "pictureSource": "Diario AS",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSQ7FmviPUxtTwq6EqQ_VqRiJJSrj7F1SNSX5XveNS78tbKG-tMiQr7jKBUjA",
+      "pictureSource": "MARCA",
       "relatedSearch": [
         {
-          "title": "Betis 2-5 Barcelona: resumen, goles y resultado",
+          "title": "Bellerín: \"Hay dos jugadas dudosas y una la castiga y otra la premia\"",
           "snippet": "",
-          "url": "https://as.com/futbol/primera/betis-barcelona-hoy-en-directo-laliga-ea-sports-en-vivo-ultima-hora-en-la-cartuja-f202610-d/",
-          "source": "Diario AS"
+          "url": "https://www.marca.com/futbol/betis/2026/10/17/bellerin-hay-dos-jugadas-dudosas-castiga-premia.html",
+          "source": "MARCA"
         },
         {
-          "title": "Así fue el cabezazo de Valentín Gómez para el 1-1 vs Barca",
+          "title": "Pellegrini: «La actuación arbitral fue lamentable y sin criterio futbolístico»",
           "snippet": "",
-          "url": "https://www.365scores.com/es/news/asi-fue-el-cabezazo-de-valentin-gomez/",
-          "source": "365Scores"
-        },
-        {
-          "title": "El Barça busca este sábado mantener su racha de triunfos ante el Betis",
-          "snippet": "",
-          "url": "https://www.abc.es/deportes/futbol/barca-busca-sabado-mantener-racha-triunfos-ante-20261017130100-nt.html",
+          "url": "https://www.abc.es/deportes/alfinaldelapalmera/noticias-betis/pellegrini-actuacion-arbitral-lamentable-criterio-futbolistico-20261017222236-nts.html",
           "source": "ABC"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "τουρκία",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 17 Oct 2026 09:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNJN7o7AqmNF8hsBZZWfgQ6rQtsstkM3YQtzLqnXn9AF8y9ExnRFblmn5HM8c",
-      "pictureSource": "ΠΟΛΙΤΗΣ",
-      "relatedSearch": [
-        {
-          "title": "Θρίλερ με την εξαφάνιση Έλληνα μοναχού στην Τουρκία - «Ήθελε να γίνει ασκητής στον Πόντο",
-          "snippet": "",
-          "url": "https://www.politis.com.cy/politis-news/ellada/1053586/thriler-me-tin-eksafanisi-ellina-monakhou-stin-toyrkia-ithele-na-ghinei-askitis-ston-ponto",
-          "source": "ΠΟΛΙΤΗΣ"
         },
         {
-          "title": "Μυστήριο με τον 58χρονο μοναχό Ιωσήφ: Έφυγε για να ζήσει ως ασκητής και εξαφανίστηκε στα βάθη της Τουρκίας (video)",
+          "title": "Un nuevo episodio enciende el duelo entre Barcelona y Betis: ¿fue legal el gol?",
           "snippet": "",
-          "url": "https://cyprustimes.com/ellada/mystirio-me-ton-58chrono-monacho-iosif-efyge-gia-na-zisei-os-askitis-kai-exafanistike-sta-vathi-tis-tourkias-video/",
-          "source": "Cyprus Times"
-        },
-        {
-          "title": "Θρίλερ με την εξαφάνιση 58χρονου Έλληνα μοναχού στην Τουρκία",
-          "snippet": "",
-          "url": "https://www.alphanews.live/greece/thriler-me-tin-exafanisi-58chronou-ellina-monachou-stin-tourkia/",
-          "source": "AlphaNews"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "πρόβλεψη",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 17 Oct 2026 08:50:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "fenerbahçe - alanyaspor",
-      "trafficCount": "5000+",
-      "pubDate": "Sat, 17 Oct 2026 08:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQi7Od5VxePDm1deHBb59qr8AhH3NazL09XP1NMqi0A-SrxAkTITgs1wcEJYh8",
-      "pictureSource": "Fotomaç",
-      "relatedSearch": [
-        {
-          "title": "F.Bahçe evinde kazandı!",
-          "snippet": "",
-          "url": "https://www.fotomac.com.tr/fenerbahce/2026/10/17/fenerbahce-evinde-kazandi-sari-lacivertliler-konuk-ettigi-alanyasporu-maglup-etti",
-          "source": "Fotomaç"
-        },
-        {
-          "title": "Özer Çak yazdı: VAR kararı ve Taylor’ın sınavı!",
-          "snippet": "",
-          "url": "https://www.haberturk.com/spor/var-karari-ve-taylorin-sinavi-3920548",
-          "source": "Habertürk"
-        },
-        {
-          "title": "Son Dakika Spor Haberi | İsmail Kartal: Bu galibiyet Slavia Prag ve derbi öncesi moral oldu",
-          "snippet": "",
-          "url": "https://www.cnnturk.com/spor/futbol/ismail-kartal-bu-galibiyet-slavia-prag-ve-derbi-oncesi-moral-oldu-3480845",
-          "source": "CNN Türk"
+          "url": "https://es-us.noticias.yahoo.com/deportes/episodio-enciende-duelo-barcelona-betis-160302829.html",
+          "source": "Yahoo"
         }
       ],
       "link": "https://imtaqin.id/"

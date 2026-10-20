@@ -1,9 +1,93 @@
 {
-  "lastUpdate": "2026-10-20 05:13:43",
+  "lastUpdate": "2026-10-20 10:05:08",
   "data": [
     {
-      "title": "автобусный маршрут",
+      "title": "мороз",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 20 Oct 2026 02:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkWHPqDGA7iPJpR_uuLb80VDMMuAzafx1BizGsXo_d782c9g9PwGtF8scsjMk",
+      "pictureSource": "Новости Zakon.kz",
+      "relatedSearch": [
+        {
+          "title": "Заморозки до -7°С, туман и сильный ветер: штормовое предупреждение объявили в Казахстане",
+          "snippet": "",
+          "url": "https://www.zakon.kz/obshestvo/6535439-zamorozki-do-7s-tuman-i-silnyy-veter-shtormovoe-preduprezhdenie-obyavili-v-kazakhstane.html",
+          "source": "Новости Zakon.kz"
+        },
+        {
+          "title": "Нулевую видимость и гололед прогнозируют на трассах пяти регионов Казахстана",
+          "snippet": "",
+          "url": "https://www.inform.kz/ru/nulevuyu-vidimost-i-gololed-prognoziruyut-na-trassah-pyati-regionov-kazahstana-17feb3fe",
+          "source": "Казинформ"
+        },
+        {
+          "title": "Какая погода ожидается в Казахстане 20 октября",
+          "snippet": "",
+          "url": "https://rus.azattyq-ruhy.kz/news/117971-kakaia-pogoda-ozhidaetsia-v-kazakhstane-20-oktiabria",
+          "source": "Azattyq Ruhy"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "золото",
       "trafficCount": "200+",
+      "pubDate": "Tue, 20 Oct 2026 01:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEyCTXuf1Gv2epOUQaQJKvPYOsCdMJj7R-XPHTKZA5icboI4sDdjvhgH-Xjhk",
+      "pictureSource": "Ұлттық олимпиадалық комитет",
+      "relatedSearch": [
+        {
+          "title": "Сборная Казахстана завоевала ещё десять медалей на Азиатских Пара играх-2026",
+          "snippet": "",
+          "url": "https://olympic.kz/ru/article/37622-sbornaya-kazakhstana-zavoevala-eshche-desyat-medaley-na-aziatskikh-para-igrakh-2026",
+          "source": "Ұлттық олимпиадалық комитет"
+        },
+        {
+          "title": "Казахстанский парадзюдоист Галымжан Смагулулы выиграл \"бронзу\" Азиады в Японии",
+          "snippet": "",
+          "url": "https://sportarena.kz/judo/1064455-kazakhstanskiy-paradzyudoist-galymzhan-smagululy-vyigral-bronzu-aziady-v-yaponii.html",
+          "source": "Sportarena.kz"
+        },
+        {
+          "title": "Кулмырза принёс Казахстану четвёртое золото Азиатских параигр",
+          "snippet": "",
+          "url": "https://tengrisport.kz/tnsport/kulmyirza-prins-kazahstanu-chetvrtoe-zoloto-aziatskih-611259/",
+          "source": "Tengri Sport"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ким чен ын",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 20 Oct 2026 00:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkA4DdbupryGNK7daEgYOUPH6xs8PLMBTzJRCsb6FUj9EuuVTaF_c2FtOZ2EY",
+      "pictureSource": "Росбалт",
+      "relatedSearch": [
+        {
+          "title": "Ким Чен Ын экстренно госпитализирован: откуда слухи и что известно о лидере КНДР",
+          "snippet": "",
+          "url": "https://www.rosbalt.ru/news/2026-10-19/kim-chen-yn-ekstrenno-gospitalizirovan-otkuda-sluhi-i-chto-izvestno-o-lidere-kndr-5711292",
+          "source": "Росбалт"
+        },
+        {
+          "title": "ЦТАК опубликовало фото Ким Чен Ына после слухов о его проблемах со здоровьем",
+          "snippet": "",
+          "url": "https://www.vedomosti.ru/politics/news/2026/10/20/1238451-foto-kim-chen-ina",
+          "source": "Ведомости"
+        },
+        {
+          "title": "Слухи о смерти Ким Чен Ына разошлись в сети",
+          "snippet": "",
+          "url": "https://rus.azattyq-ruhy.kz/world/117985-slukhi-o-smerti-kim-chen-yna-razoshlis-v-seti",
+          "source": "Azattyq Ruhy"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "автобусный маршрут",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 19 Oct 2026 19:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZbY8XtyoipTqAnL2BLyY93gWUYOROF6jHky0_sYkk8tQ3EMBaCM14KAnss08",
       "pictureSource": "24.KG",
@@ -17,7 +101,7 @@
         {
           "title": "В Бишкеке запускают новый автобус №31",
           "snippet": "",
-          "url": "https://kg.akipress.org/news:2553552/?from=kgnews&place=maincats",
+          "url": "https://kg.akipress.org/news:2553552?from=kgnews&place=nowread",
           "source": "AKIpress"
         },
         {
@@ -33,26 +117,26 @@
       "title": "барса псж",
       "trafficCount": "500+",
       "pubDate": "Mon, 19 Oct 2026 10:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTv6vZrfDVjbkmYVaronL3FwfCtIzYrtw8ukz0KESne_JKNGXth-yJM59QdJ6o",
-      "pictureSource": "Sports.kz",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTabVXWACpoNpqZZOMlgFODWgR3a4XAKWILvxoDFXnwjaEHvcEXrMjouM79GtA",
+      "pictureSource": "Евро-Футбол",
       "relatedSearch": [
         {
-          "title": "Прямая трансляция матча «ПСЖ» — «Барселона» в Лиге Чемпионов",
+          "title": "Кто победит в матче «ПСЖ» – «Барселона»: прогноз аналитиков",
           "snippet": "",
-          "url": "https://www.sports.kz/news/pryamaya-translyatsiya-matcha-psj-barselona-vlige-chempionov",
-          "source": "Sports.kz"
-        },
-        {
-          "title": "\"Барселона\" лишилась сразу двух ключевых игроков перед матчами с ПСЖ и \"Реалом\"",
-          "snippet": "",
-          "url": "https://vesti.kz/spain/barselona-lishilas-srazu-dvuh-klyuchevyih-igrokov-matchami-389690/",
-          "source": "Vesti.kz"
-        },
-        {
-          "title": "Флик ответил на вопрос о проблеме «Барселоны»: «Это всегда риск»",
-          "snippet": "",
-          "url": "https://www.euro-football.ru/article/45/1006388326_flik_otvetil_na_vopros_o_probleme_barselonyi_eto_vsegda_risk",
+          "url": "https://www.euro-football.ru/article/45/1006388763_kto_pobedit_v_matche_psj__barselona_prognoz_analitikov",
           "source": "Евро-Футбол"
+        },
+        {
+          "title": "Луис Энрике: \"Невозможно в одиночку остановить Ямаля или помешать Педри отдавать невероятные передачи\"",
+          "snippet": "",
+          "url": "https://www.idman.biz/ru/news/world-football/162301",
+          "source": "İdman.Biz"
+        },
+        {
+          "title": "«Барселона» понесла кадровые потери перед важными матчами против «ПСЖ» и «Реала».",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/ru/barcelona-ton-that-luc-luong-truoc-dai-chien-psg-va-real-madrid",
+          "source": "Vietnam.vn"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,26 +145,26 @@
       "title": "трабзонспор – бешикташ",
       "trafficCount": "200+",
       "pubDate": "Mon, 19 Oct 2026 10:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-29-lCDFZDZ9ukIaNBdo4AQbbc1MvahXMlvVGRid7hwD6mMofvKpKayYQ4M8",
-      "pictureSource": "Ставка ТВ",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNGqYyS5FyYq5WzAWmm1A38eW297Pa4RjKrO9V84lxtlyQin5g0lQfZTaqf1M",
+      "pictureSource": "Anadolu Ajansı",
       "relatedSearch": [
         {
-          "title": "Трабзонспор — Бешикташ: прогноз (кэф 2.54) 19 октября 2026",
+          "title": "Мохамед Салах единолично возглавил гонку бомбардиров чемпионата Турции",
           "snippet": "",
-          "url": "https://stavka.tv/matches/soccer/19-10-2026-trabzonspor-besiktas-istanbul",
-          "source": "Ставка ТВ"
+          "url": "https://www.aa.com.tr/ru/%D1%81%D0%BF%D0%BE%D1%80%D1%82/%D0%BC%D0%BE%D1%85%D0%B0%D0%BC%D0%B5%D0%B4-%D1%81%D0%B0%D0%BB%D0%B0%D1%85-%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D0%BB%D0%B8%D1%87%D0%BD%D0%BE-%D0%B2%D0%BE%D0%B7%D0%B3%D0%BB%D0%B0%D0%B2%D0%B8%D0%BB-%D0%B3%D0%BE%D0%BD%D0%BA%D1%83-%D0%B1%D0%BE%D0%BC%D0%B1%D0%B0%D1%80%D0%B4%D0%B8%D1%80%D0%BE%D0%B2-%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82%D0%B0-%D1%82%D1%83%D1%80%D1%86%D0%B8%D0%B8/4094344",
+          "source": "Anadolu Ajansı"
         },
         {
-          "title": "Винченцо Италиано: Если мы не выиграем этот матч...",
+          "title": "Вызвавшая реакцию хореография с Салахом от «Трабзонспора»",
           "snippet": "",
-          "url": "https://ru.haberler.com/russian-news-2317746/",
+          "url": "https://ru.haberler.com/russian-news-2317776/",
           "source": "Haberler"
         },
         {
-          "title": "Болельщики «Трабзонспора» высмеяли «Бешикташ» баннером с Мохамедом Салахом",
+          "title": "Салах забил за новый клуб и возглавил гонку бомбардиров Суперлиги",
           "snippet": "",
-          "url": "https://football-fun-live.com/novosti/p-bolelshhiki-trabzonspora-vysmeyali-besiktas-bannerom-s-moxamedom-salaxom",
-          "source": "Football-Fun-Live.com"
+          "url": "https://vesti.kz/turkey/salah-zabil-novyiy-klub-vozglavil-gonku-bombardirov-389757/",
+          "source": "Vesti.kz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -115,7 +199,7 @@
     },
     {
       "title": "генеральный директор",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Mon, 19 Oct 2026 09:40:00 -0700",
       "picture": "",
       "pictureSource": "",
@@ -126,26 +210,26 @@
       "title": "телеведущий",
       "trafficCount": "1000+",
       "pubDate": "Mon, 19 Oct 2026 09:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUQtVvBHG1LK5nvKmqotKaIHBcUDpyNR9sFCySmhYlRCyH66ztdicqcCSDiIc",
-      "pictureSource": "ТВ Mail",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIJvFK8SnU40HlpRWzf0Hp3UzhU36bSJraUjlZWf2YHopt53vlmh-KvUmRgAk",
+      "pictureSource": "Москвич Mag",
       "relatedSearch": [
         {
-          "title": "Умер экс-ведущий «Вестей» Михаил Пономарев",
+          "title": "В возрасте 57 лет умер бывший ведущий телепрограммы «Вести» Михаил Пономарев",
           "snippet": "",
-          "url": "https://tv.mail.ru/news/141656-umer-eks-vedushij-vestej-mihail-ponomarev/",
-          "source": "ТВ Mail"
-        },
-        {
-          "title": "Умер бывший ведущий программы «Вести»",
-          "snippet": "",
-          "url": "https://lenta.news/news/2026/10/19/ponomarev/",
-          "source": "Lenta News"
+          "url": "https://moskvichmag.ru/lyudi/v-vozraste-57-let-umer-byvshij-vedushhij-teleprogrammy-vesti-mihail-ponomarev/",
+          "source": "Москвич Mag"
         },
         {
           "title": "Дочь ведущего программы «Вести» Михаила Пономарева назвала причину его смерти",
           "snippet": "",
           "url": "https://www.starhit.ru/novosti/doch-vedushego-programmy-vesti-mikhaila-ponomareva-nazvala-prichinu-ego-smerti-76710819/",
           "source": "StarHit"
+        },
+        {
+          "title": "Умер известный телеведущий. Новый платеж за счетчики ЖКУ. На АЗС рекордно подешевел бензин. Шестнадцать выходных - новости дня",
+          "snippet": "",
+          "url": "https://ktv-ray.ru/novost/umer_izvestnyy_televedushiy_novyy_platezh_za_schetchiki_zhku_na_azs_rekordno_podeshevel_benzin_shestnadcat_vyhodnyh_-_novosti_dnya/196182/",
+          "source": "ktv-ray.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -154,91 +238,14 @@
       "title": "предвыборная агитация",
       "trafficCount": "200+",
       "pubDate": "Mon, 19 Oct 2026 06:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "министр энергетики",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 19 Oct 2026 05:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYG90zZil63Zh1PgB9pmV9nyBG0kNhjy-OPupMMGV2oWdoLvW9eYuWJ2v0Ntk",
-      "pictureSource": "24.KG",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdwAH-hvS5LV_glLqim_C4sQZrKTLQDPAOT_tTMDmctZQ05MpT_0xkRdB_6Ro",
+      "pictureSource": "Life09",
       "relatedSearch": [
         {
-          "title": "Министр энергетики не гарантирует отсутствие отключений света зимой",
+          "title": "Глава государства провел консультации с Премьер-министром и Председателем Курултая",
           "snippet": "",
-          "url": "https://24.kg/article/ministr-energetiki-ne-garantiruet-otsutstvie-otklyuchenij-sveta-zimoj",
-          "source": "24.KG"
-        },
-        {
-          "title": "Министр ответил, будут ли отключения электричества зимой",
-          "snippet": "",
-          "url": "https://kaktus.media/doc/555308_ministr_otvetil_bydyt_li_otklucheniia_elektrichestva_zimoy.html",
-          "source": "Кактус Медиа"
-        },
-        {
-          "title": "Этой зимой в Узбекистане не будут отключать электричество",
-          "snippet": "",
-          "url": "https://upl.uz/obshestvo/67578-news.html",
-          "source": "Новости Узбекистана — Upl.uz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "электричество",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 19 Oct 2026 04:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQaJwtHva12G_g5V7iNxxnSdA9bvBTSMmyG9SLxhs2IsFEv90I5jGk2Q6dv_Pk",
-      "pictureSource": "24.KG",
-      "relatedSearch": [
-        {
-          "title": "Сегодня в Бишкеке. Погода, мероприятия, даты",
-          "snippet": "",
-          "url": "https://24.kg/article/segodnya-v-bishkeke-pogoda-meropriyatiya-daty-1030206",
-          "source": "24.KG"
-        },
-        {
-          "title": "Где в Кыргызстане отключат электричество 19 октября — график",
-          "snippet": "",
-          "url": "https://economist.kg/enierghietika/2026/10/18/otklyucheniya-sveta-19-oktyabrya/",
-          "source": "Economist.kg"
-        },
-        {
-          "title": "20 октября в части Бишкека отключат свет (список улиц)",
-          "snippet": "",
-          "url": "https://kaktus.media/doc/555301_20_oktiabria_v_chasti_bishkeka_otkluchat_svet_spisok_ylic.html",
-          "source": "Кактус Медиа"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "задержание",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 19 Oct 2026 03:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTf57GYv1GTL8a6o-bkPvx8eSxSX4-wUsiICxZ7bpmInpFwaSCzcSWMyLRJB4",
-      "pictureSource": "Интерфакс",
-      "relatedSearch": [
-        {
-          "title": "ФСБ РФ сообщила об аресте журналиста японской газеты по делу о шпионаже",
-          "snippet": "",
-          "url": "https://www.interfax.ru/russia/1122164",
-          "source": "Интерфакс"
-        },
-        {
-          "title": "Представители посольства Японии не смогли встретиться с журналистом, задержанным в России",
-          "snippet": "",
-          "url": "https://www.nippon.com/ru/news/yjj2026101700178/",
-          "source": "nippon.com"
-        },
-        {
-          "title": "Шпионаж на Сахалине, утечка в японском Бургер Кинге и протесты в Индии: что у соседей",
-          "snippet": "",
-          "url": "https://primamedia.ru/news/2654275/",
-          "source": "PrimaMedia.ru"
+          "url": "https://life09.kz/ru/news/novosti-politika-novosti-life09/glava-gosudarstva-provel-konsultacii-s-premer-ministrom-i",
+          "source": "Life09"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,30 +1,86 @@
 {
-  "lastUpdate": "2026-10-20 10:05:08",
+  "lastUpdate": "2026-10-20 14:58:41",
   "data": [
     {
-      "title": "мороз",
+      "title": "заморозки",
       "trafficCount": "500+",
+      "pubDate": "Tue, 20 Oct 2026 05:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWQ3Ihk_81YQyyW8TW6Dqki9GgXtkWpgq39CjrU3CgTJL5X0T2p-uJ98v3ppU",
+      "pictureSource": "Газета",
+      "relatedSearch": [
+        {
+          "title": "«Аномалия, но не рекорд»: синоптик — о высоком атмосферном давлении в Москве",
+          "snippet": "",
+          "url": "https://www.gazeta.press/social/news/2026/10/19/29559379.shtml",
+          "source": "Газета"
+        },
+        {
+          "title": "В Москве прогнозируют ясную погоду и до 11 градусов тепла",
+          "snippet": "",
+          "url": "https://pogoda.mail.ru/news/72781629/",
+          "source": "Погода Mail"
+        },
+        {
+          "title": "В Москве и Подмосковье предстоящей ночью вновь ожидаются заморозки",
+          "snippet": "",
+          "url": "https://www.vedomosti.ru/gorod/ourcity/news/ozhidayutsya-zamorozki",
+          "source": "Ведомости"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "законопроект",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 20 Oct 2026 05:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRd5WXJAMl78W_ErzfF6AqqTKe9-LJ-zWsG2TOLaITnHpmcKn8v0igvBZ8CGkM",
+      "pictureSource": "AKIpress",
+      "relatedSearch": [
+        {
+          "title": "Профильный комитет ЖК принял в I чтении законопроект о вводе 2 механизмов для вывоза детей заграницу без согласия второго родителя",
+          "snippet": "",
+          "url": "https://kg.akipress.org/news:2549859",
+          "source": "AKIpress"
+        },
+        {
+          "title": "Комитет ЖК одобрил законопроект о вывозе детей за границу без разрешения второго родителя",
+          "snippet": "",
+          "url": "https://kaktus.media/doc/555360_komitet_jk_odobril_zakonoproekt_o_vyvoze_detey_za_granicy_bez_razresheniia_vtorogo_roditelia.html",
+          "source": "Кактус Медиа"
+        },
+        {
+          "title": "Садыр Жапаров встретился со спикерами парламентов стран — участниц ТюркПА",
+          "snippet": "",
+          "url": "https://24.kg/article/sadyr-zhaparov-vstretilsya-so-spikerami-parlamentov-stran-uchastnic-tyurkpa",
+          "source": "24.KG"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "мороз",
+      "trafficCount": "5000+",
       "pubDate": "Tue, 20 Oct 2026 02:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkWHPqDGA7iPJpR_uuLb80VDMMuAzafx1BizGsXo_d782c9g9PwGtF8scsjMk",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1N53fSLKVMFI6gSDz38KrqWWC8mmXoEtQQoUr9tgyplVzGjYpJaH2N_4UxYA",
       "pictureSource": "Новости Zakon.kz",
       "relatedSearch": [
         {
-          "title": "Заморозки до -7°С, туман и сильный ветер: штормовое предупреждение объявили в Казахстане",
+          "title": "Заморозки до -7°С, гололед и сильный ветер: штормовое предупреждение объявили в Казахстане",
           "snippet": "",
-          "url": "https://www.zakon.kz/obshestvo/6535439-zamorozki-do-7s-tuman-i-silnyy-veter-shtormovoe-preduprezhdenie-obyavili-v-kazakhstane.html",
+          "url": "https://www.zakon.kz/obshestvo/6535575-zamorozki-do-7s-gololed-i-silnyy-veter-shtormovoe-preduprezhdenie-obyavili-v-kazakhstane.html",
           "source": "Новости Zakon.kz"
+        },
+        {
+          "title": "В пяти областях Казахстана ударят заморозки до -3°С",
+          "snippet": "",
+          "url": "https://mail.kz/ru/news/kz-news/v-pyati-oblastyah-kazahstana-udaryat-zamorozki-do-s",
+          "source": "Mail.KZ"
         },
         {
           "title": "Нулевую видимость и гололед прогнозируют на трассах пяти регионов Казахстана",
           "snippet": "",
           "url": "https://www.inform.kz/ru/nulevuyu-vidimost-i-gololed-prognoziruyut-na-trassah-pyati-regionov-kazahstana-17feb3fe",
           "source": "Казинформ"
-        },
-        {
-          "title": "Какая погода ожидается в Казахстане 20 октября",
-          "snippet": "",
-          "url": "https://rus.azattyq-ruhy.kz/news/117971-kakaia-pogoda-ozhidaetsia-v-kazakhstane-20-oktiabria",
-          "source": "Azattyq Ruhy"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,61 +89,89 @@
       "title": "золото",
       "trafficCount": "200+",
       "pubDate": "Tue, 20 Oct 2026 01:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEyCTXuf1Gv2epOUQaQJKvPYOsCdMJj7R-XPHTKZA5icboI4sDdjvhgH-Xjhk",
-      "pictureSource": "Ұлттық олимпиадалық комитет",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9x7LC2k_A5GniNexTif-ssgeaxec1MyfzqfFrPtfwCdEqLjuiMQVCh_fIstY",
+      "pictureSource": "Акчабар",
       "relatedSearch": [
         {
-          "title": "Сборная Казахстана завоевала ещё десять медалей на Азиатских Пара играх-2026",
+          "title": "За сутки золото НБ КР подешевело на 3.6 тысячи сомов",
           "snippet": "",
-          "url": "https://olympic.kz/ru/article/37622-sbornaya-kazakhstana-zavoevala-eshche-desyat-medaley-na-aziatskikh-para-igrakh-2026",
-          "source": "Ұлттық олимпиадалық комитет"
+          "url": "https://www.akchabar.kg/news/za-sutki-zoloto-nb-kr-podeshevelo-na-36-tisyachi-somov-hvrdopcbvwmbvmym",
+          "source": "Акчабар"
         },
         {
-          "title": "Казахстанский парадзюдоист Галымжан Смагулулы выиграл \"бронзу\" Азиады в Японии",
+          "title": "Золотые слитки НБКР: цены выкупа снизились, 100 г подешевели на 11 989 сомов",
           "snippet": "",
-          "url": "https://sportarena.kz/judo/1064455-kazakhstanskiy-paradzyudoist-galymzhan-smagululy-vyigral-bronzu-aziady-v-yaponii.html",
-          "source": "Sportarena.kz"
+          "url": "https://economist.kg/dengi/2026/10/20/zoloto-nbkr-20-oktyabrya/",
+          "source": "Economist.kg"
         },
         {
-          "title": "Кулмырза принёс Казахстану четвёртое золото Азиатских параигр",
+          "title": "Цена золотой унции в Кыргызстане выросла до 381.6 тысячи сомов",
           "snippet": "",
-          "url": "https://tengrisport.kz/tnsport/kulmyirza-prins-kazahstanu-chetvrtoe-zoloto-aziatskih-611259/",
-          "source": "Tengri Sport"
+          "url": "https://www.akchabar.kg/news/tsena-zolotoj-untsii-v-kirgizstane-virosla-do-3816-tisyachi-somov-zhbdltzyliyjhqpb",
+          "source": "Акчабар"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "мэрия города бишкек",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 20 Oct 2026 01:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT61Uj5szVVXkuFuKI7EjimgRY_kJxss4dVNvZ6cdVmhFnF5kL3tZ3hA7DpHhI",
+      "pictureSource": "AKIpress",
+      "relatedSearch": [
+        {
+          "title": "Участок Дома художника по проспекту Чуй мэрия предлагает передать в госсобственность",
+          "snippet": "",
+          "url": "https://kg.akipress.org/news:2553644",
+          "source": "AKIpress"
+        },
+        {
+          "title": "Мэрия Бишкека вновь «взялась» за Дом художника",
+          "snippet": "",
+          "url": "https://vesti.kg/obshchestvo/item/153127-meriya-bishkeka-vnov-vzyalas-za-dom-khudozhnika.html",
+          "source": "Вести.kg"
+        },
+        {
+          "title": "Передачу участка с Домом художника государству вновь внесли на рассмотрение в БГК",
+          "snippet": "",
+          "url": "https://kaktus.media/doc/555170_peredachy_ychastka_s_domom_hydojnika_gosydarstvy_vnov_vnesli_na_rassmotrenie_v_bgk.html",
+          "source": "Кактус Медиа"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "ким чен ын",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 20 Oct 2026 00:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkA4DdbupryGNK7daEgYOUPH6xs8PLMBTzJRCsb6FUj9EuuVTaF_c2FtOZ2EY",
-      "pictureSource": "Росбалт",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0GxnQj5fJXeBPJs62ep8wMeouWvcR__2Vh2y0gyNnPrgEpMZn3NWws7Y49dw",
+      "pictureSource": "Meduza",
       "relatedSearch": [
+        {
+          "title": "Западные таблоиды написали, что Ким Чен Ын в коме. КНДР ответила публикацией его фотографий с семьей на выставке одежды",
+          "snippet": "",
+          "url": "https://meduza.io/news/2026/10/20/zapadnye-tabloidy-napisali-chto-kim-chen-yn-v-kome-kndr-otvetila-publikatsiey-ego-fotografiy-s-semiey-na-vystavke-odezhdy",
+          "source": "Meduza"
+        },
+        {
+          "title": "Экстренная госпитализация Ким Чен Ына — что пишут СМИ",
+          "snippet": "",
+          "url": "https://www.gazetametro.ru/articles/tabloidy-polozhili-kim-chen-yna-v-bolnitsu-20-10-2026",
+          "source": "Газета Metro Москва"
+        },
         {
           "title": "Ким Чен Ын экстренно госпитализирован: откуда слухи и что известно о лидере КНДР",
           "snippet": "",
           "url": "https://www.rosbalt.ru/news/2026-10-19/kim-chen-yn-ekstrenno-gospitalizirovan-otkuda-sluhi-i-chto-izvestno-o-lidere-kndr-5711292",
           "source": "Росбалт"
-        },
-        {
-          "title": "ЦТАК опубликовало фото Ким Чен Ына после слухов о его проблемах со здоровьем",
-          "snippet": "",
-          "url": "https://www.vedomosti.ru/politics/news/2026/10/20/1238451-foto-kim-chen-ina",
-          "source": "Ведомости"
-        },
-        {
-          "title": "Слухи о смерти Ким Чен Ына разошлись в сети",
-          "snippet": "",
-          "url": "https://rus.azattyq-ruhy.kz/world/117985-slukhi-o-smerti-kim-chen-yna-razoshlis-v-seti",
-          "source": "Azattyq Ruhy"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "автобусный маршрут",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Mon, 19 Oct 2026 19:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZbY8XtyoipTqAnL2BLyY93gWUYOROF6jHky0_sYkk8tQ3EMBaCM14KAnss08",
       "pictureSource": "24.KG",
@@ -115,28 +199,28 @@
     },
     {
       "title": "барса псж",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 19 Oct 2026 10:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTabVXWACpoNpqZZOMlgFODWgR3a4XAKWILvxoDFXnwjaEHvcEXrMjouM79GtA",
-      "pictureSource": "Евро-Футбол",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuTckJGDT1VTL3dSFPqn1stM4WGuNNNV1Jn-KFqLcfZh81v45ywkF2Pwsnqis",
+      "pictureSource": "sport-express.net",
       "relatedSearch": [
         {
-          "title": "Кто победит в матче «ПСЖ» – «Барселона»: прогноз аналитиков",
+          "title": "«ПСЖ» — «Барселона»: счет, результат и ход матча",
           "snippet": "",
-          "url": "https://www.euro-football.ru/article/45/1006388763_kto_pobedit_v_matche_psj__barselona_prognoz_analitikov",
-          "source": "Евро-Футбол"
+          "url": "https://www.sport-express.net/football/rus_d1/news/pszh-barselona-schet-i-rezultat-matcha-ligi-chempionov-20-oktyabrya-2026-2465010/",
+          "source": "sport-express.net"
         },
         {
-          "title": "Луис Энрике: \"Невозможно в одиночку остановить Ямаля или помешать Педри отдавать невероятные передачи\"",
+          "title": "Главное событие общего этапа Лиги чемпионов. Аналитика Olimpbet на матч ПСЖ – «Барселона», а также встречу между «Ливерпулем» и «Вильярреалом»",
           "snippet": "",
-          "url": "https://www.idman.biz/ru/news/world-football/162301",
-          "source": "İdman.Biz"
+          "url": "https://offside.kz/football/37945-glavnoe-sobytie-obshchego-etapa-ligi-chempionov-analitika-olimpbet-na-match-pszh-barselona-a-takzhe-vstrechu-mezhdu-liverpulem-i-viliarrealom",
+          "source": "Offside.kz"
         },
         {
-          "title": "«Барселона» понесла кадровые потери перед важными матчами против «ПСЖ» и «Реала».",
+          "title": "Юрий Семин рассказал об обстановке во Франции",
           "snippet": "",
-          "url": "https://www.vietnam.vn/ru/barcelona-ton-that-luc-luong-truoc-dai-chien-psg-va-real-madrid",
-          "source": "Vietnam.vn"
+          "url": "https://www.gazeta.press/sport/news/2026/10/20/29565667.shtml",
+          "source": "Газета"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,9 +229,15 @@
       "title": "трабзонспор – бешикташ",
       "trafficCount": "200+",
       "pubDate": "Mon, 19 Oct 2026 10:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNGqYyS5FyYq5WzAWmm1A38eW297Pa4RjKrO9V84lxtlyQin5g0lQfZTaqf1M",
-      "pictureSource": "Anadolu Ajansı",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyZlp0YzEPvASFtzF5AVvZnFHETaeoRi6i9apuChanifTdmizlz2uXOqIuYMQ",
+      "pictureSource": "egementimes.kz",
       "relatedSearch": [
+        {
+          "title": "Салах стал лучшим снайпером чемпионата Турции",
+          "snippet": "",
+          "url": "https://egementimes.kz/salah-zabil-pobednyi-gol-i-vozglavil-spisok-snaiperov-chempionata-tyrcii/",
+          "source": "egementimes.kz"
+        },
         {
           "title": "Мохамед Салах единолично возглавил гонку бомбардиров чемпионата Турции",
           "snippet": "",
@@ -159,12 +249,6 @@
           "snippet": "",
           "url": "https://ru.haberler.com/russian-news-2317776/",
           "source": "Haberler"
-        },
-        {
-          "title": "Салах забил за новый клуб и возглавил гонку бомбардиров Суперлиги",
-          "snippet": "",
-          "url": "https://vesti.kz/turkey/salah-zabil-novyiy-klub-vozglavil-gonku-bombardirov-389757/",
-          "source": "Vesti.kz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,15 +257,9 @@
       "title": "афганистан",
       "trafficCount": "1000+",
       "pubDate": "Mon, 19 Oct 2026 10:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFAgP7HCkt_OT8tnDPQEiE5yfaEolpM5T9M4u0ZqL6Vo3u84iip-u3kmAvvhQ",
-      "pictureSource": "azərtac",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3PIpy3t9b2Aqrb3ivi21c3fEBbjEDu1IK7fI8-F7O6B1IT8Pa2HVS0Xe9xlc",
+      "pictureSource": "CentralAsia.media",
       "relatedSearch": [
-        {
-          "title": "Землетрясение магнитудой 4,3 произошло на границе Таджикистана и Афганистана",
-          "snippet": "",
-          "url": "https://azertag.az/ru/xeber/zemletryasenie_magnitudoi_43_proizoshlo_na_granice_tadzhikistana_i_afganistana-4469106",
-          "source": "azərtac"
-        },
         {
           "title": "В Таджикистане произошло землетрясение магнитудой 4,7",
           "snippet": "",
@@ -193,59 +271,12 @@
           "snippet": "",
           "url": "https://www.volcanodiscovery.com/ru/zemletryaseniya/quake-info/23449514/mag4quake-Oct-19-2026-Tajikistan-Hindu-Kush-And-Pamir-Area.html",
           "source": "Volcano Discovery"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "генеральный директор",
-      "trafficCount": "2000+",
-      "pubDate": "Mon, 19 Oct 2026 09:40:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "телеведущий",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 19 Oct 2026 09:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIJvFK8SnU40HlpRWzf0Hp3UzhU36bSJraUjlZWf2YHopt53vlmh-KvUmRgAk",
-      "pictureSource": "Москвич Mag",
-      "relatedSearch": [
-        {
-          "title": "В возрасте 57 лет умер бывший ведущий телепрограммы «Вести» Михаил Пономарев",
-          "snippet": "",
-          "url": "https://moskvichmag.ru/lyudi/v-vozraste-57-let-umer-byvshij-vedushhij-teleprogrammy-vesti-mihail-ponomarev/",
-          "source": "Москвич Mag"
         },
         {
-          "title": "Дочь ведущего программы «Вести» Михаила Пономарева назвала причину его смерти",
+          "title": "Землетрясение магнитудой 4,9 произошло в Таджикистане",
           "snippet": "",
-          "url": "https://www.starhit.ru/novosti/doch-vedushego-programmy-vesti-mikhaila-ponomareva-nazvala-prichinu-ego-smerti-76710819/",
-          "source": "StarHit"
-        },
-        {
-          "title": "Умер известный телеведущий. Новый платеж за счетчики ЖКУ. На АЗС рекордно подешевел бензин. Шестнадцать выходных - новости дня",
-          "snippet": "",
-          "url": "https://ktv-ray.ru/novost/umer_izvestnyy_televedushiy_novyy_platezh_za_schetchiki_zhku_na_azs_rekordno_podeshevel_benzin_shestnadcat_vyhodnyh_-_novosti_dnya/196182/",
-          "source": "ktv-ray.ru"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "предвыборная агитация",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 19 Oct 2026 06:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdwAH-hvS5LV_glLqim_C4sQZrKTLQDPAOT_tTMDmctZQ05MpT_0xkRdB_6Ro",
-      "pictureSource": "Life09",
-      "relatedSearch": [
-        {
-          "title": "Глава государства провел консультации с Премьер-министром и Председателем Курултая",
-          "snippet": "",
-          "url": "https://life09.kz/ru/news/novosti-politika-novosti-life09/glava-gosudarstva-provel-konsultacii-s-premer-ministrom-i",
-          "source": "Life09"
+          "url": "https://www.inform.kz/ru/zemletryasenie-magnitudoy-49-proizoshlo-vtadzhikistane-5035a0f5",
+          "source": "Казинформ"
         }
       ],
       "link": "https://imtaqin.id/"

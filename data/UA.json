@@ -1,263 +1,244 @@
 {
-  "lastUpdate": "2026-10-23 00:47:57",
+  "lastUpdate": "2026-10-23 05:26:39",
   "data": [
     {
-      "title": "эвакуация",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 22 Oct 2026 15:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMZr3ee8frCZueuYNrJR7MTTKSSgDaLTQSeyYDsaTzlDNvRw0R7I293SFMM6o",
-      "pictureSource": "Новая газета Европа",
+      "title": "вибух",
+      "trafficCount": "2000+",
+      "pubDate": "Thu, 22 Oct 2026 21:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQByCcMnyURdHHZw5pe-pPFklmJq9g6vOYrURMVHwiAbHFT4JZ5rBdNL8Cl1hg",
+      "pictureSource": "Українська правда",
       "relatedSearch": [
         {
-          "title": "Власти Донецкой области расширили зону обязательной эвакуации семей с детьми из Краматорска и Славянска",
+          "title": "На Житомирщині російський дрон атакував житловий будинок: 9 людей поранені",
           "snippet": "",
-          "url": "https://novayagazeta.eu/articles/2026/10/22/vlasti-donetskoi-oblasti-rasshirili-zonu-obiazatelnoi-evakuatsii-semei-s-detmi-iz-kramatorska-i-slavianska-news",
-          "source": "Новая газета Европа"
-        },
-        {
-          "title": "В Донецкой области расширяют зону принудительной эвакуации семей с детьми",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2026/10/22/8059253/",
+          "url": "https://www.pravda.com.ua/news/2026/10/22/8059276/",
           "source": "Українська правда"
         },
         {
-          "title": "Все населенные пункты Краматорской и Славянской общин вошли в зону обязательной эвакуации семей с детьми",
+          "title": "Житомирщина знову потрапила під удар ворога",
           "snippet": "",
-          "url": "https://www.dw.com/ru/vse-naselennye-punkty-kramatorskoj-i-slavanskoj-obsin-vklucili-v-zonu-obazatelnoj-evakuacii-semej-s-detmi-izza-ugrozy-obstrelov/a-79736770",
-          "source": "DW.com"
+          "url": "https://zt.dsns.gov.ua/nadzvicaini-podiyi/zitomirshhina-znovu-potrapila-pid-udar-voroga",
+          "source": "ГУ ДСНС України у Житомирській області"
+        },
+        {
+          "title": "По всій території Житомирської області фіксують масові відключення електроенергії: яка ситуація в Коростені",
+          "snippet": "",
+          "url": "https://korosten.today/korosten/podii/po-vsij-terytoriyi-zhytomyrskoyi-oblasti-fiksuyut-masovi-vidklyuchennya-elektroenergiyi-yaka-sytuacziya-v-korosteni.html",
+          "source": "КОРОСТЕНЬ today"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "iphone duo",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 22 Oct 2026 14:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJEN2FV3VWdxnGskXz6a-nQDk2LZN7AI0uukzZBFZQoxQu3RrMPgKSjra5Zgg",
-      "pictureSource": "Gizmodo",
-      "relatedSearch": [
-        {
-          "title": "iPhone Duoに意外な弱点？ 一部のMagSafeスタンドでお辞儀してしまう",
-          "snippet": "",
-          "url": "https://www.gizmodo.jp/article/2610-iphone-duo-magsafe-stand-issue/",
-          "source": "Gizmodo"
-        },
-        {
-          "title": "折りたたみスマホ、長所と短所は？ 日常使いの記者4人が本音で検証",
-          "snippet": "",
-          "url": "https://www.nikkei.com/article/DGXZQOUC148NQ0U6A011C2000000/",
-          "source": "日本経済新聞"
-        },
-        {
-          "title": "【CASETiFY】Apple「iPhone Duo」に対応した精密設計・検証済みの保護スマホケース・アクセサリーコレクションを発表",
-          "snippet": "",
-          "url": "https://prtimes.jp/main/html/rd/p/000000204.000044448.html",
-          "source": "PR TIMES"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "cloudflare",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 22 Oct 2026 14:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxE2i5EXoBMQRvWnU7PhHmAyhJ7or_mYzKuUNO2NK52DpJyuYqSMybaWERsKc",
-      "pictureSource": "AP News",
-      "relatedSearch": [
-        {
-          "title": "What to know about the AI-detected security bug impacting wide swaths of the internet",
-          "snippet": "",
-          "url": "https://apnews.com/article/php-vulnerabilities-security-threat-38d37c4c18bf8355b02d85b5a73ed642",
-          "source": "AP News"
-        },
-        {
-          "title": "The Man Who Saved the Internet Yesterday",
-          "snippet": "",
-          "url": "https://www.theatlantic.com/technology/2026/10/man-who-saved-internet-php-vulnerability/689123/",
-          "source": "The Atlantic"
-        },
-        {
-          "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot",
-          "snippet": "",
-          "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
-          "source": "Amazon Web Services (AWS)"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "збірна росії з футболу",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 22 Oct 2026 12:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTa3ZixK3QDQciMxtQZTUbY3ne-8g7iIFUG-mjQBpLxvt3xh1wy5Ax7dpr7js0",
-      "pictureSource": "Sport.ua",
-      "relatedSearch": [
-        {
-          "title": "Лідер Шахтаря може поїхати грати в футбол в росію",
-          "snippet": "",
-          "url": "https://sport.ua/uk/news/917425-lider-shahtarya-mozhe-poihati-grati-v-futbol-v-rosiyu",
-          "source": "Sport.ua"
-        },
-        {
-          "title": "Маразм дня: Росія зіграє у формі збірної СРСР у матчі, який піде до рейтингу ФІФА",
-          "snippet": "",
-          "url": "https://www.obozrevatel.com/ukr/section-sport-oboz/news-marazm-dnya-rosiya-zihraye-u-formi-zbirnoyi-srsr-u-matchi-yakyy-pide-do-reytynhu-fifa-22-10-2026.html",
-          "source": "OBOZ.UA"
-        },
-        {
-          "title": "ФІФА дозволила збірній Росії зіграти у формі СРСР у матчі з Венесуелою",
-          "snippet": "",
-          "url": "https://kp.ua/ua/sport/a737789-zbirna-rosiji-zihraje-u-formi-srsr-match-iz-venesueloju-zarakhujut-do-rejtinhu-fifa",
-          "source": "KP.UA"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "олімпіакос – спарта",
+      "title": "запорожская аэс",
       "trafficCount": "200+",
-      "pubDate": "Thu, 22 Oct 2026 12:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrXLgqgP2kqvPpKidbiAgLIO545nKNsXCeh_Yki0kb-xR58Y4gbD5udZwdIrA",
-      "pictureSource": "NV Спорт",
+      "pubDate": "Thu, 22 Oct 2026 21:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgLxbts0ph4ws1RvdxvP80KbuqYsaFyLPc5N42OFVbGD9R4LJ6z-uaBmc5FLc",
+      "pictureSource": "uatv.ua",
       "relatedSearch": [
         {
-          "title": "«Я был вне заявки не из-за своих качеств». Яремчук рассказал о непростом периоде в Олимпиакосе",
+          "title": "О сложной ситуации на Запорожской АЭС сообщили в украинской разведке",
           "snippet": "",
-          "url": "https://sport.nv.ua/football/roman-yaremchuk-otkrovenno-rasskazal-o-situacii-v-olimpiakose-pochemu-on-byl-vne-zayavki-50652189.html",
-          "source": "NV Спорт"
+          "url": "https://uatv.ua/o-slozhnoj-situatsii-na-zaporozhskoj-aes-soobshhili-v-ukrainskoj-razvedke/",
+          "source": "uatv.ua"
         },
         {
-          "title": "ЛЕ. Тест на терпение в Пирее: джокер Гонсалес вознаграждает доминирующий Олимпиакос",
+          "title": "На Запорожской АЭС допустили катастрофу масштаба Чернобыля",
           "snippet": "",
-          "url": "https://www.ua-football.com/foreign/europa_league/1792696029-le-test-na-terpenie-v-piree-dzhoker-gonsales-voznagrazhdaet-dominiruyuschiy-olimpiakos.html",
-          "source": "UA-Football"
+          "url": "https://vesti.az/index.php/v-mire/na-zaporozskoi-aes-dopustili-katastrofu-masstaba-cernobylya-622339",
+          "source": "Vesti.az"
         },
         {
-          "title": "Яремчук в старте «Олимпиакоса» на матч со «Спартой»",
+          "title": "Директор ЗАЭС Черничук предупредил о риске аварии из-за ударов дронов ВСУ",
           "snippet": "",
-          "url": "https://ua.tribuna.com/football/1000000386294-yaremchuk-u-starti-olimpiakosa-na-match-zi-spartoyu/",
-          "source": "Tribuna.com"
+          "url": "https://life.ru/p/direktor-zaes-chernichuk-predupredil-o-riske-avarii-iz-za-udarov-dronov-vsu",
+          "source": "Life.ru"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "электричка",
-      "trafficCount": "1000+",
-      "pubDate": "Thu, 22 Oct 2026 12:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTj4lsMU-zcyX_dPZtM3pDrUHuhPVmASphzBeB77D5jwE9LByi3hWgl3-MAszM",
-      "pictureSource": "MSK1.RU",
-      "relatedSearch": [
-        {
-          "title": "В Москве и Подмосковье введут масштабные изменения в расписаниях электричек на полгода. Главное",
-          "snippet": "",
-          "url": "https://msk1.ru/text/transport/2026/10/22/76716501/",
-          "source": "MSK1.RU"
-        },
-        {
-          "title": "Миллионы пассажиров и новый график: как меняется движение электричек в Петербурге",
-          "snippet": "",
-          "url": "https://gorodovoy.ru/news/milliony-passazhirov-i-novyy-grafik-kak-menyaetsya-dvizhenie-elektrichek-v-peterburge_id914151_a184_c5_dp261023",
-          "source": "Городовой"
-        },
-        {
-          "title": "Пригородные поезда переходят на зимнее расписание",
-          "snippet": "",
-          "url": "https://kaluga24.tv/news/075505",
-          "source": "Калуга 24"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "samp/t",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 22 Oct 2026 12:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBhwf4BaO_GCejpbBiKm8xX0WO2CuAG9znD8TFszt0FOZcv26bpSpa-IaiLQ",
-      "pictureSource": "AeroMorning.com",
-      "relatedSearch": [
-        {
-          "title": "France orders 4 SAMP/T NG firing units",
-          "snippet": "",
-          "url": "https://aeromorning.com/en/france-orders-4-samp-t-ng-firing-units/",
-          "source": "AeroMorning.com"
-        },
-        {
-          "title": "In Brief: France Places SAMP/T NG Top-Up Order",
-          "snippet": "",
-          "url": "https://aviationweek.com/aerospacedailydepartments/brief-france-places-sampt-ng-top-order",
-          "source": "Aviation Week"
-        },
-        {
-          "title": "France orders four more SAMP/T NG systems to strengthen air and missile defence",
-          "snippet": "",
-          "url": "https://defence-industry.eu/france-orders-four-more-samp-t-ng-systems-to-strengthen-air-and-missile-defence/",
-          "source": "Defence Industry Europe"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "твіч",
+      "title": "погода миколаїв",
       "trafficCount": "200+",
-      "pubDate": "Thu, 22 Oct 2026 12:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfg2TVuyk0tP_egt8W-XzYnQNpqausyI8jsFAuC-b7GRdgoFhdPEUVIRLjQy8",
-      "pictureSource": "NBC News",
-      "relatedSearch": [
-        {
-          "title": "Manuel Otto, German video game creator, dies after apparently livestreaming his suicide",
-          "snippet": "",
-          "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/manuel-otto-german-video-game-creator-dies-apparently-livestreaming-su-rcna605025",
-          "source": "NBC News"
-        },
-        {
-          "title": "‘Stick Run’ game creator Manuel Otto dead at 30 amid Twitch livestream",
-          "snippet": "",
-          "url": "https://globalnews.ca/news/12113240/stick-run-game-creator-manuel-otto-dead/",
-          "source": "Global News"
-        },
-        {
-          "title": "Stick Run Game Creator Manuel Otto Dies After Setting Himself On Fire During Livestream",
-          "snippet": "",
-          "url": "https://www.ndtv.com/world-news/who-was-manuel-otto-creator-of-stick-run-game-dies-after-setting-himself-on-fire-during-livestream-12220361",
-          "source": "NDTV"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "вислуга років",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 22 Oct 2026 12:00:00 -0700",
+      "pubDate": "Thu, 22 Oct 2026 21:50:00 -0700",
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "бешикташ – крістал пелес",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 22 Oct 2026 11:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbmD2fDBVyZ4scIl6WFo92YVVrGDNEVRoOJt9AHAZwOevdqpZBBnCRrpI3Q50",
-      "pictureSource": "Sport.ua",
+      "title": "23 октября",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 22 Oct 2026 21:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFLX7xA16ZWXSGl_5KLdU1Mar_tNwzrlmEVV15ACyKTuKfQum34sIN_U6gIog",
+      "pictureSource": "ФАКТЫ",
       "relatedSearch": [
         {
-          "title": "Бешикташ - Крістал Пелес онлайн трансляція",
+          "title": "Скорпионам — «Восьмёрка Кубков» и время отпустить прошлое...",
           "snippet": "",
-          "url": "https://sport.ua/uk/online/107671-beshiktash-kristal-pelas-2026-10-22",
-          "source": "Sport.ua"
+          "url": "https://fakty.ua/ru/480861-skorpionam---vosmyorka-kubkov-i-vremya-otpustit-proshloe-vodoleyam---zvezda-i-nadezhda-na-luchshee-taro-prognoz-na-23-oktyabrya",
+          "source": "ФАКТЫ"
         },
         {
-          "title": "Бешикташ і Крістал Пелас зіграли внічию 2:2 у Лізі Європи — Sky Sports News",
+          "title": "Наконец-то смогут вздохнуть с облегчением: три знака Зодиака ждет переломный день 23 октября",
           "snippet": "",
-          "url": "https://ua.news/ua/sport/beshiktash-i-kristal-pelas-zigrali-vnichiiu-2-2-u-lizi-evropi-sky-sports-news",
+          "url": "https://tsn.ua/ru/astrologiya/nakonets-to-smogut-vzdohnut-s-oblegcheniem-tri-znaka-zodiaka-zhdet-perelomnyy-den-23-oktyabrya-3197071.html",
+          "source": "ТСН"
+        },
+        {
+          "title": "Гороскоп на 23 октября для всех знаков зодиака: скрытые чувства выйдут наружу, а решения удивят",
+          "snippet": "",
+          "url": "https://1plus1.ua/ru/snidanok-z-1-1/novyny/horoskop-na-23-zhovtnia-dlia-vsikh-znakiv-zodiaku-prykhovani-pochuttia-vyidut-nazovni-a-rishennia-zdyvuiut",
+          "source": "1plus1.ua"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "вікторія бекхем",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 22 Oct 2026 21:10:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "коли переводять годинник на зимовий час 2026",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 22 Oct 2026 21:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSH4w_QmM3Uay3caQfKNYkQFhGHL90MDyHbDpAfijH8z2ir0hf2SNyVBs71xTY",
+      "pictureSource": "ТСН",
+      "relatedSearch": [
+        {
+          "title": "Велика афера зі сном: вчені викрили головну брехню про осіннє переведення годинників",
+          "snippet": "",
+          "url": "https://tsn.ua/ukrayina/zdorovya/velyka-afera-zi-snom-vcheni-vykryly-holovnu-brekhniu-pro-osinnye-perevedennia-hodynnykiv-3196847.html",
+          "source": "ТСН"
+        },
+        {
+          "title": "Коли переводять годинник на зимовий час 2026 і куди крутити стрілки",
+          "snippet": "",
+          "url": "https://www.rbc.ua/rus/news/koli-perevodyat-godinnik-zimoviy-chas-2026-1792659935.html",
+          "source": "РБК-Україна"
+        },
+        {
+          "title": "Цієї неділі Україна перейде на зимовий час",
+          "snippet": "",
+          "url": "https://lb.ua/society/2026/10/22/775318_tsiieyi_nedili_ukrayina_pereyde.html",
+          "source": "LB.ua"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "динамо киев",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 22 Oct 2026 21:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQu8iR5kYtibgBP-rXAlwq-cxkTfbbkXIXgQYsub_NUy8yZ5MqVH-P0uLDdW5k",
+      "pictureSource": "Champion.com.ua",
+      "relatedSearch": [
+        {
+          "title": "Электрический стул для нового тренера: кто спасет сезон для Динамо",
+          "snippet": "",
+          "url": "https://champion.com.ua/rus/football/kto-vozglavit-dinamo-kiev-kandidaty-na-dolzhnost-glavnogo-trenera-1088600/",
+          "source": "Champion.com.ua"
+        },
+        {
+          "title": "\"Динамо\" усилило тренерский штаб двумя иностранными специалистами",
+          "snippet": "",
+          "url": "https://sport.rbc.ua/ukr/football/dinamo-posililo-trenerskiy-shtab-dvoma-inozemnimi-1792683977.html",
+          "source": "РБК-Україна"
+        },
+        {
+          "title": "Динамо может принять сенсационное решение по главному тренеру, – источник",
+          "snippet": "",
+          "url": "https://sport.ua/news/917688-dinamo-mozhet-prinyat-sensatsionnoe-reshenie-po-glavnomu-treneru-istochnik",
+          "source": "Sport.ua"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "біатлоніст",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 22 Oct 2026 20:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvjFyCdF62_sigmrDkiToZrxbXpgOEFt5K8Vtct0XIgjwRXG105dZaW9oQHEk",
+      "pictureSource": "Суспільне | Новини",
+      "relatedSearch": [
+        {
+          "title": "«Не змінює ставлення». Чемпіон Фінляндії з біатлону ризикує вимушено завершити кар'єру через інцидент на полюванні",
+          "snippet": "",
+          "url": "https://suspilne.media/sport/1434329-ne-zminue-stavlenna-cempion-finlandii-z-biatlonu-rizikue-zaversiti-kareru-cerez-nesasnij-vipadok-na-poluvanni/",
+          "source": "Суспільне | Новини"
+        },
+        {
+          "title": "Тренер Фінляндії Кулстад: «Якщо Хейкінен матиме законне право виступати, він буде у складі команди»",
+          "snippet": "",
+          "url": "https://ua.tribuna.com/uk/biathlon/1000000386285-trener-finlyandiyi-kulstad-yakshcho-kheykinen-matyme-zak/",
+          "source": "Tribuna.com"
+        },
+        {
+          "title": "Фінський біатлоніст тяжко поранив свого родича: який вирок він отримав",
+          "snippet": "",
+          "url": "https://glavcom.ua/sport/biathlon/finskij-biatlonist-tjazhko-poraniv-svoho-rodicha-jakij-virok-vin-otrimav-1150687.html",
+          "source": "Главком"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "кримський міст",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 22 Oct 2026 20:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSue7mraEvklOckLpbHB2FgFhb-5nqA3tWV-olLWT-llRw1hYWjxLW0z-IN0sU",
+      "pictureSource": "Ukrinform.ua",
+      "relatedSearch": [
+        {
+          "title": "Біля Керченського мосту шторм розірвав загородження з барж - супутникові знімки",
+          "snippet": "",
+          "url": "https://www.ukrinform.ua/rubric-regions/4177254-bila-kercenskogo-mostu-storm-rozirvav-zagorodzenna-z-barz-suputnikovi-znimki.html",
+          "source": "Ukrinform.ua"
+        },
+        {
+          "title": "Шторм пошкодив загородження біля Керченського мосту",
+          "snippet": "",
+          "url": "https://ua.news/ua/war-vs-rf/shtorm-poshkodiv-zagorodzhennia-bilia-kerchenskogo-mostu",
           "source": "UA.NEWS"
         },
         {
-          "title": "Бойова нічия у Стамбулі: Крістал Пелас упустив перемогу над Бешикташем у Лізі Європи",
+          "title": "Шторм розірвав загородження з барж біля Керченського мосту – супутниковий знімок",
           "snippet": "",
-          "url": "https://terrikon.com/uk/posts/588624",
-          "source": "Террикон"
+          "url": "https://mezha.net/ua/news/mezha-4357a1df10213822a67c36c9_shtorm_rozirvav_zagorodzhennya/",
+          "source": "Mezha.net"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "українці",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 22 Oct 2026 20:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQN5VoZoeV-b7hZ_m-fQd3TCVI8kcmvEN5o60PhJWZm0LKsUQ1l-lL8PBF4Vf4",
+      "pictureSource": "Судово-юридична газета",
+      "relatedSearch": [
+        {
+          "title": "Зарплати українців у Польщі зросли на 45%: хто заробляє більше за місцевих",
+          "snippet": "",
+          "url": "https://sud.ua/uk/news/abroad/375566-zarplaty-ukraintsiv-u-polshchi-zrosly-na-45-khto-zarobliaie-bilshe-za-mistsevykh",
+          "source": "Судово-юридична газета"
+        },
+        {
+          "title": "Зарплати цих біженців з України в Польщі вищі, ніж у місцевих: хто заробляє найбільше",
+          "snippet": "",
+          "url": "https://www.obozrevatel.com/ukr/section-ekonomika-glavnaya/economy/news-zarplaty-tsykh-bizhentsiv-z-ukrayiny-v-polshchi-vyshchi-nizh-u-mistsevykh-khto-zaroblyaye-naybilshe-22-10-2026.html",
+          "source": "OBOZ.UA"
+        },
+        {
+          "title": "Зарплати українців у Польщі: хто отримує 6800 злотих на місяць",
+          "snippet": "",
+          "url": "https://minfin.com.ua/ua/2026/10/21/184008934/",
+          "source": "Мінфін"
         }
       ],
       "link": "https://imtaqin.id/"

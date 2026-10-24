@@ -1,30 +1,85 @@
 {
-  "lastUpdate": "2026-10-24 13:24:15",
+  "lastUpdate": "2026-10-24 16:45:21",
   "data": [
     {
-      "title": "ветер",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 24 Oct 2026 06:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSt5i-BqAATF7lTTFGT5TUKz30uzWtrTkM3at45tlfLLLVfZfVvhATTWPnekQM",
-      "pictureSource": "Правда.Ру",
+      "title": "тарту",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 24 Oct 2026 07:50:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "delfi sport",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 24 Oct 2026 07:50:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ellen kilgas",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 24 Oct 2026 07:50:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "штормовой ветер",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 24 Oct 2026 07:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGwLbFRK8v3x6ZACeBPaKXQZD1oDZ7vShTiw-wUBmV9ifa-pIkqaNI3NfH_PQ",
+      "pictureSource": "Rus.Postimees.ee",
       "relatedSearch": [
         {
-          "title": "Снег в Охе и +14 в Курильске: 25 октября Сахалин разделит температурный контраст",
+          "title": "На Эстонию надвигается шторм: ветер до 28 м/с и волны высотой с двухэтажный дом",
           "snippet": "",
-          "url": "https://www.pravda.ru/news/districts/2431767-sakhalin-weather-contrast-october-25/",
-          "source": "Правда.Ру"
+          "url": "https://rus.postimees.ee/8570727/na-estoniyu-nadvigaetsya-shtorm-veter-do-28-m-s-i-volny-vysotoy-s-dvuhetazhnyy-dom",
+          "source": "Rus.Postimees.ee"
         },
         {
-          "title": "Какая погода ожидается в Сахалинской области 24 октября",
+          "title": "ПРОГНОЗ | Эстонию накроют дожди и сильный ветер",
           "snippet": "",
-          "url": "https://citysakh.ru/news/131036",
-          "source": "Citysakh"
+          "url": "https://pogoda.delfi.ee/statja/120619943/prognoz-estoniyu-nakroyut-dozhdi-i-silnyy-veter",
+          "source": "Delfi"
         },
         {
-          "title": "Первый снег выпал на горе Большевик в Южно-Сахалинске",
+          "title": "В Ида-Вирумаа в воскресенье объявлено штормовое предупреждение",
           "snippet": "",
-          "url": "https://sakh.online/news/18/2026-10-22/pervyy-sneg-vypal-na-gore-bolshevik-v-yuzhno-sahalinske-529669",
-          "source": "Сахалин-Курилы"
+          "url": "https://severnojepoberezhje.postimees.ee/8570749/v-ida-virumaa-v-voskresene-obyavleno-shtormovoe-preduprezhdenie",
+          "source": "Северное побережье"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ветер",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 24 Oct 2026 06:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGdgdu5z7eyl46nKviD4pPRUXvVVVIdcXqs6oMJh3u6bN55-k4Z-_iAnX9igo",
+      "pictureSource": "Клопс - новости Калининград",
+      "relatedSearch": [
+        {
+          "title": "Жителей Калининградской области предупредили об усилении ветра на побережье",
+          "snippet": "",
+          "url": "https://klops.ru/kaliningrad/2026-10-24/393644-zhiteley-kaliningradskoy-oblasti-predupredili-ob-usilenii-vetra-na-poberezhie",
+          "source": "Клопс - новости Калининград"
+        },
+        {
+          "title": "Калининградской области прогнозируют «обильные дожди» и ветер до 20 м/с в воскресенье",
+          "snippet": "",
+          "url": "https://www.newkaliningrad.ru/news/briefs/community/24167841-kaliningradskoy-oblasti-prognoziruyut-obilnye-dozhdi-i-veter-do-20-m-s-v-voskresene.html",
+          "source": "Новый Калининград.Ru"
+        },
+        {
+          "title": "Дожди обрушатся на Калининградскую область",
+          "snippet": "",
+          "url": "https://kaliningradnews.online/fn_1977330.html",
+          "source": "kaliningradnews.online"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -49,10 +104,10 @@
           "source": "Rus.Postimees.ee"
         },
         {
-          "title": "Delfi RUS",
+          "title": "Пилот Ф-1 может потерять водительские права из-за военной службы",
           "snippet": "",
-          "url": "https://rus.delfi.ee/a/120619377",
-          "source": "Delfi RUS"
+          "url": "https://sport.ua/news/916553-pilot-f-1-mozhet-poteryat-voditelskie-prava-iz-za-voennoy-sluzhby",
+          "source": "Sport.ua"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -87,7 +142,7 @@
     },
     {
       "title": "sõda",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 24 Oct 2026 03:40:00 -0700",
       "picture": "",
       "pictureSource": "",
@@ -107,14 +162,14 @@
       "title": "великобритания",
       "trafficCount": "200+",
       "pubDate": "Fri, 23 Oct 2026 23:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjtJOc7ueE2Hk7BV5lSqkPn22yEKwkI8xRqLY9vChZYhs_AdPR-DR_2Wu6HcA",
-      "pictureSource": "Росбалт",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_NkeznSb7s2wEEVx6qNoIPdACSh1fMg7jD-jyEeB5eqhCpCtNAVhjlbfaOXI",
+      "pictureSource": "Minval Politika",
       "relatedSearch": [
         {
-          "title": "Британия пытается убедить Трампа перестать давить на Зеленского: заявление Bloomberg",
+          "title": "Ход дохлой клячей, или новая британская подножка Трампу в Украине",
           "snippet": "",
-          "url": "https://www.rosbalt.ru/news/2026-10-23/bloomberg-britaniya-pytaetsya-ubedit-trampa-perestat-davit-na-zelenskogo-5715258",
-          "source": "Росбалт"
+          "url": "https://minval.az/news/124559205",
+          "source": "Minval Politika"
         },
         {
           "title": "В отношениях Трампа и Зеленского появился еще один игрок",
@@ -123,67 +178,12 @@
           "source": "URA.RU"
         },
         {
-          "title": "Между США и Великобританией возникла напряженность из-за войны в Украине, – Bloomberg",
+          "title": "Британия пытается убедить Трампа перестать давить на Зеленского: заявление Bloomberg",
           "snippet": "",
-          "url": "https://www.unian.net/world/velikobritaniya-pytaetsya-ubedit-ssha-ne-vystupat-protiv-zelenskogo-13538310.html",
-          "source": "УНИАН"
+          "url": "https://www.rosbalt.ru/news/2026-10-23/bloomberg-britaniya-pytaetsya-ubedit-trampa-perestat-davit-na-zelenskogo-5715258",
+          "source": "Росбалт"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "москва",
-      "trafficCount": "2000+",
-      "pubDate": "Fri, 23 Oct 2026 23:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpnvq1wGLwqd99ylohdo9KS6WJnyUbdVhceZ2JnhAccesymtChHnBJvJ3oYAY",
-      "pictureSource": "Вечерний Санкт-Петербург",
-      "relatedSearch": [
-        {
-          "title": "Строительство ВСМ Москва — Петербург будет регулировать новый ГОСТ",
-          "snippet": "",
-          "url": "https://vecherka-spb.ru/2026/10/23/stroitelstvo-vsm-moskva--peterburg-budet-regulirovat-novii-gost",
-          "source": "Вечерний Санкт-Петербург"
-        },
-        {
-          "title": "Для тяговых сетей ВСМ Петербург — Москва утвердили ГОСТ",
-          "snippet": "",
-          "url": "https://www.dp.ru/a/2026/10/24/dlja-tjagovih-setej-vsm-peterburg",
-          "source": "dp.ru"
-        },
-        {
-          "title": "Утвержден новый ГОСТ для ВСМ",
-          "snippet": "",
-          "url": "https://prospect.com.ru/news/7117585/utvergden-novyj-gost-dlya-vsm.html",
-          "source": "prospect.com.ru"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "äripäev",
-      "trafficCount": "2000+",
-      "pubDate": "Fri, 23 Oct 2026 22:40:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "kellakeeramine",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 23 Oct 2026 22:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "пилот",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 23 Oct 2026 15:20:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]

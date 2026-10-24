@@ -1,24 +1,89 @@
 {
-  "lastUpdate": "2026-10-24 00:37:17",
+  "lastUpdate": "2026-10-24 05:00:02",
   "data": [
     {
-      "title": "clima para amanhã",
-      "trafficCount": "2000+",
-      "pubDate": "Fri, 23 Oct 2026 11:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDTVlupqP-OrWDvs-4K_NNVcg4rx6u8sW4kP5zbN0mYE7BDnyqMcs5jxecR3U",
+      "title": "clima",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 23 Oct 2026 21:40:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "previsão de tempo",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 23 Oct 2026 21:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDc_WjIR2Iqbj550rP6-ZQ91yP5ypaPeTzllcWIDWLVWNomOcVo5nN5XmYUuw",
+      "pictureSource": "agenciasp.sp.gov.br",
+      "relatedSearch": [
+        {
+          "title": "Previsão do tempo para sábado (24), em SP: tempo instável",
+          "snippet": "",
+          "url": "https://www.agenciasp.sp.gov.br/defesa-civil/previsao-do-tempo-para-sabado-24-em-sp-tempo-instavel/",
+          "source": "agenciasp.sp.gov.br"
+        },
+        {
+          "title": "Defesa Civil emite alerta de temporal para região de Itapetininga; cidade pode registrar mais de 120 mm de chuva em três dias",
+          "snippet": "",
+          "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/23/defesa-civil-emite-alerta-de-temporal-para-regiao-de-itapetininga-cidade-pode-registrar-mais-de-120-mm-em-tres-dias.ghtml",
+          "source": "G1"
+        },
+        {
+          "title": "Nova frente fria derruba temperaturas para 4°C em SP; veja quando",
+          "snippet": "",
+          "url": "https://www.acidadeon.com/campinas/cotidiano/nova-frente-fria-derruba-temperaturas-para-4c-em-sp-veja-quando/",
+          "source": "ACidade ON"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tempo para hoje",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 23 Oct 2026 20:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjdOSMICd0dTPbMFAKD0RWHtcZckNeoFGzpJQLJPUNeL5uY3bP77IFn907Hog",
       "pictureSource": "G1",
       "relatedSearch": [
         {
-          "title": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; não chove",
+          "title": "Previsão do tempo hoje para Vila Velha (ES): sol com algumas nuvens; chove rápido durante o dia e à noite",
           "snippet": "",
-          "url": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/10/20/previsao-do-tempo-hoje-para-brasilia-df-sol-com-algumas-nuvens-nao-chove.ghtml",
+          "url": "https://g1.globo.com/es/espirito-santo/previsao-do-tempo/noticia/2026/10/23/previsao-do-tempo-hoje-para-vila-velha-es-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
           "source": "G1"
         },
+        {
+          "title": "Previsão do tempo em Vila Velha hoje: veja como fica o clima nesta quinta-feira",
+          "snippet": "",
+          "url": "https://www.terra.com.br/noticias/previsao-do-tempo/previsao-do-tempo-em-vila-velha-hoje-veja-como-fica-o-clima-nesta-quinta-feira,01f74755ddc8b8e6529669414540ddc6hp4zo0tf.html",
+          "source": "Terra"
+        },
+        {
+          "title": "Previsão do tempo hoje para Vila Velha (ES): sol com algumas nuvens; chove rápido durante o dia e à noite",
+          "snippet": "",
+          "url": "https://www.irecelider.com.br/noticias-do-mundo/i/78b3468884eb32d04610d73076dc6f76/previsao-do-tempo-hoje-para-vila-velha-es-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-noite",
+          "source": "Grupo Jota Sidney"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tempo",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 23 Oct 2026 19:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvjacWg63usbBFX_dCB3tLaaUViBwFYcbald5oDZZdvt3JQe3ZJJ6bvx8GSOs",
+      "pictureSource": "ncnews.com.br",
+      "relatedSearch": [
         {
           "title": "Brasília terá chuva e trovoadas nesta quinta; máxima chega a 31°C",
           "snippet": "",
           "url": "https://ncnews.com.br/2026/10/22/brasilia-tera-chuva-e-trovoadas-nesta-quinta-maxima-chega-a-31c/",
           "source": "ncnews.com.br"
+        },
+        {
+          "title": "Previsão do tempo em Brasília: 31.1°C e 78% de chance de chuva",
+          "snippet": "",
+          "url": "https://www.bra1.com.br/clima/id-698753/previsao_do_tempo_em_brasilia_nublado_com_78__de_chance_de_chuva",
+          "source": "www.bra1.com.br"
         },
         {
           "title": "Chuvas já começaram em Brasília, mas calor persiste",
@@ -30,29 +95,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "clima para amanhã",
+      "trafficCount": "2000+",
+      "pubDate": "Fri, 23 Oct 2026 11:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNIvwaoOnMC89R9E-i7pK5i2O4BW9Z2Q3kHYFQE_l_IM2yS-ahAQ964QrW7k0",
+      "pictureSource": "G1",
+      "relatedSearch": [
+        {
+          "title": "Grande BH tem temporal com granizo e rajadas de vento nesta sexta-feira",
+          "snippet": "",
+          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/23/grande-bh-tem-temporal-com-granizo-e-rajadas-de-vento.ghtml",
+          "source": "G1"
+        },
+        {
+          "title": "Clima para amanhã em Belo Horizonte: manhã de neblina dá lugar a chuva forte à tarde",
+          "snippet": "",
+          "url": "https://novo2026.portaldoholanda.com.br/belo-horizonte/clima-para-amanha-em-belo-horizonte-manha-de-neblina-da-lugar-a-chuva-forte-a-tarde",
+          "source": "Portal do Holanda"
+        },
+        {
+          "title": "Chuva já superou a média histórica de outubro em 8 das 10 regionais de BH",
+          "snippet": "",
+          "url": "https://www.em.com.br/gerais/2026/10/7526867-chuva-ja-superou-a-media-historica-de-outubro-em-8-das-10-regionais-de-bh.html",
+          "source": "Estado de Minas"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "weather tomorrow",
       "trafficCount": "1000+",
       "pubDate": "Fri, 23 Oct 2026 11:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5Y_ID8Im4dDjaydk-pEQL67mToKNHj_BvWRVETt1rDv_4r3o9dCR-3ww1iMs",
-      "pictureSource": "CNBC TV18",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSJTsgTBhXjT1hB5eXGz6G7rp2L0YdZVTMBtEdd9-fUE-W-YUC5NrbALqP1tU",
+      "pictureSource": "Khabarhub",
       "relatedSearch": [
         {
-          "title": "Heavy rain to continue in Tamil Nadu, Kerala; Bay of Bengal system may intensify into cyclone",
+          "title": "Nepal braces for possible rain, snowfall from Oct 28",
           "snippet": "",
-          "url": "https://www.cnbctv18.com/india/heavy-rain-to-continue-in-tamil-nadu-kerala-bay-of-bengal-system-may-intensify-into-cyclone-20018376.htm",
-          "source": "CNBC TV18"
+          "url": "https://english.khabarhub.com/2026/24/572964/",
+          "source": "Khabarhub"
         },
         {
-          "title": "64 lives lost during southwest monsoon in Keralam",
+          "title": "Weather Forecast: Partial Cloudiness in Himalayan and Hilly Regions, Fog in Terai",
           "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/city/kochi/64-lives-lost-during-southwest-monsoon-in-keralam/articleshow/135150350.cms",
-          "source": "The Times of India"
+          "url": "https://english.ratopati.com/story/84371/partial-influence-of-westerly-winds-persists-light-rain-likely-in-these-four-provinces-today",
+          "source": "Ratopati"
         },
         {
-          "title": "Heavy to very heavy rainfall and thunderstorm warnings issued for several states, list released | To read the entire bulletin issued by IMD | Inshorts",
+          "title": "Nation experiencing post-monsoon meteorological conditions",
           "snippet": "",
-          "url": "https://inshorts.com/en/news/heavy-to-very-heavy-rainfall-and-thunderstorm-warnings-issued-for-several-states--list-released-1792684829695",
-          "source": "Inshorts"
+          "url": "https://risingnepaldaily.com/news/87972",
+          "source": "The Rising Nepal"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,54 +182,26 @@
       "title": "classificações de al faisaly x al-nassr",
       "trafficCount": "2000+",
       "pubDate": "Fri, 23 Oct 2026 08:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS62rmgvwD8xAmPhPVVow3zDLbtiRGBmwn19Pct8VXW8vnQUSHf6sC6kUm5360",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJXxqQ6AQqZJFfbHdijrQvYeEAlFa0jisjUigs7dxwfcA01YA2EgycJYxxr4U",
       "pictureSource": "ESPN",
       "relatedSearch": [
         {
-          "title": "North Carolina Central 31-12 Delaware State (Oct 23, 2026) Box Score",
+          "title": "Cristiano Ronaldo claims disputed goal in Al Nassr win over Al Faisaly",
           "snippet": "",
-          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401867955",
+          "url": "https://www.espn.com/soccer/story/_/id/50258631/cristiano-ronaldo-portugal-al-nassr-goal-saudi-pro-league",
           "source": "ESPN"
         },
         {
-          "title": "Chicago vs. Houston (Oct 23, 2026) Team Stats",
+          "title": "Al Nassr player ratings vs Al-Faisaly: Cristiano Ronaldo and Angelo Gabriel ensure victory in Majmaah",
           "snippet": "",
-          "url": "https://www.espn.com/soccer/team-stats/_/gameId/401854027/league/usa.nwsl",
-          "source": "ESPN"
+          "url": "https://www.goal.com/en/lists/al-nassr-player-ratings-al-faisaly-cristiano-ronaldo-angelo-gabriel-saudi-pro-league/blte0a28a75342ec904",
+          "source": "Goal.com"
         },
         {
-          "title": "Kendall Campbell scores goal for Kentucky",
+          "title": "Ronaldo 18 from 1000 as Al-Nassr win 3-1",
           "snippet": "",
-          "url": "https://www.espn.com/video/clip/_/id/50261568/kendall-campbell-scores-goal-kentucky",
-          "source": "ESPN"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "al nassr",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 23 Oct 2026 08:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4iR1tijEtc5McOyRHsWZc_QSOLzxDGhlii6dJ8bKUKOpc7tnQN5It-ViFfgI",
-      "pictureSource": "World Soccer Talk",
-      "relatedSearch": [
-        {
-          "title": "Cristiano Ronaldo’s Golden Boot chase hits a roadblock as Ivan Toney extends lead in Saudi Pro League",
-          "snippet": "",
-          "url": "https://worldsoccertalk.com/amp/news/cristiano-ronaldos-golden-boot-chase-hits-a-roadblock-as-ivan-toney-extends-lead-in-saudi-pro-league/",
-          "source": "World Soccer Talk"
-        },
-        {
-          "title": "Abdullah Al-Hamdan: Playing alongside Ronaldo is a gr…",
-          "snippet": "",
-          "url": "https://www.ysscores.com/en/news/14078664/abdullah-al-hamdan-playing-alongside-ronaldo-is-a-great-honor",
-          "source": "YSscores"
-        },
-        {
-          "title": "VIDEO: Ronaldo gives man of the match trophy to teammate",
-          "snippet": "",
-          "url": "https://punchng.com/video-ronaldo-gives-man-of-the-match-trophy-to-teammate/",
-          "source": "Punch Newspapers"
+          "url": "https://www.sofascore.com/news/cristiano-ronaldo-is-18-goals-away-from-historic-1000-goals-milestone",
+          "source": "Sofascore"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,119 +210,54 @@
       "title": "al faisaly - al-nassr",
       "trafficCount": "2000+",
       "pubDate": "Fri, 23 Oct 2026 06:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwKNkBq41UYGQhBP2Qs65Mmyl07wx_qCFIRTBY54wv0vuCUxFpS9j3ky0LNSc",
-      "pictureSource": "VAVEL.com",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Goals and Highlights for Al-Faisaly 1-3 Al-Nassr in Saudi Pro League Match",
+          "title": "Al Faisaly vs Al Nassr: Saudi Pro League stats & head-to-head",
           "snippet": "",
-          "url": "https://www.vavel.com/en-us/soccer/2026/10/23/1276471-al-faisaly-vs-al-nassr-live-score-saudi-pro-league.html",
-          "source": "VAVEL.com"
+          "url": "https://www.bbc.com/sport/football/live/c65ynpxe8488t",
+          "source": "BBC"
         },
         {
-          "title": "Licensable picture: Saudi Pro League - Al Faisaly v Al Nassr",
+          "title": "Postecoglou abandons the Jesus gamble in Al-Nassr's line-up against Al-Faisaly!",
           "snippet": "",
-          "url": "https://www.reutersconnect.com/item/saudi-pro-league-al-faisaly-v-al-nassr/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQU4xMkRZSlY",
-          "source": "Reuters Connect"
+          "url": "https://www.yardbarker.com/soccer/articles/postecoglou_abandons_the_jesus_gamble_in_al_nassrs_line_up_against_al_faisaly/s1_17790_44463638",
+          "source": "Yardbarker"
         },
         {
-          "title": "Postecoglou praises Al-Nassr's magic weapon and reveals the secret of its strength",
+          "title": "Full-length Replay: Al-Faisaly vs Al-Nassr",
           "snippet": "",
-          "url": "https://www.goal.com/en/news/postecoglou-praises-al-nassr-s-magic-weapon-and-reveals-the-secret-of-its-strength/blt616e43e937d831fd",
-          "source": "Goal.com"
+          "url": "https://www.foxsports.com/replay/fmc-4vj0cytlnifdru76",
+          "source": "FOX Sports"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "weather",
+      "title": "chat gpt",
       "trafficCount": "200+",
-      "pubDate": "Thu, 22 Oct 2026 21:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzupJNPWIvZUtZbtl29lxOZv1Mvyw_uGfQ_U55ye9VnvdRisdfI8OMZi5-bI8",
-      "pictureSource": "myupnow.com",
+      "pubDate": "Fri, 23 Oct 2026 02:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLps64-fRfcPV_F2QfWA_zTXzeZkptUIfE1KjW5C-l_tfjup3Gksc8-fliMRc",
+      "pictureSource": "The Texas Tribune",
       "relatedSearch": [
         {
-          "title": "My UP Weather: Above average temperatures through Saturday; then back to October weather Sunday (October 23, 2026)",
+          "title": "Texas Attorney General Ken Paxton sues ChatGPT-maker OpenAI",
           "snippet": "",
-          "url": "https://www.myupnow.com/video/my-up-weather-above-average-temperatures-through-saturday-then-back-to-october-weather-sunday-october/video_e2a6a2a6-4958-565c-b15f-5092b5e31caa.html",
-          "source": "myupnow.com"
+          "url": "https://www.texastribune.org/2026/10/23/ken-paxton-chatgpt-openai-lawsuit-texas-attorney-general/",
+          "source": "The Texas Tribune"
         },
         {
-          "title": "One more warm day before fall gets back on track",
+          "title": "Texas sues OpenAI, Sam Altman over product safety",
           "snippet": "",
-          "url": "https://www.mprnews.org/story/2026/10/23/one-more-warm-day-before-fall-gets-back-on-track",
-          "source": "MPR News"
+          "url": "https://www.politico.com/news/2026/10/23/texas-sues-openai-over-product-safety-01134162",
+          "source": "Politico"
         },
         {
-          "title": "Clouds quickly increase today along with the winds, shower chances at times through early next week, no washouts",
+          "title": "Bipartisan group of states files lawsuits against OpenAI",
           "snippet": "",
-          "url": "https://www.kaaltv.com/kaal-weather/clouds-quickly-increase-today-along-with-the-winds-shower-chances-at-times-through-early-next-week-no-washouts/",
-          "source": "kaaltv.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "meteorologia",
-      "trafficCount": "2000+",
-      "pubDate": "Thu, 22 Oct 2026 21:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFHyewxgS98I6JdynuH_QF5Rw_GlWbYerhciQkCjbxNgcNKWWvoKr-ZXKTW-w",
-      "pictureSource": "CNN Brasil",
-      "relatedSearch": [
-        {
-          "title": "Onda de calor brutal matou mais de 50 mil pessoas na Europa, indica análise",
-          "snippet": "",
-          "url": "https://www.cnnbrasil.com.br/internacional/onda-de-calor-brutal-matou-mais-de-50-mil-pessoas-na-europa-indica-analise/",
-          "source": "CNN Brasil"
-        },
-        {
-          "title": "Pior Verão de sempre: mais de 50 mil mortes em excesso por calor em cidades da Europa",
-          "snippet": "",
-          "url": "https://www.publico.pt/primeira-hora/noticia/2192144",
-          "source": "Público"
-        },
-        {
-          "title": "Saiba se foram as emissões, desde o Acordo de Paris, que agravaram as recentes ondas de calor na Europa",
-          "snippet": "",
-          "url": "https://www.agroportal.pt/saiba-se-foram-as-emissoes-desde-o-acordo-de-paris-que-agravaram-as-recentes-ondas-de-calor-na-europa/",
-          "source": "Agroportal"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "clima",
-      "trafficCount": "1000+",
-      "pubDate": "Thu, 22 Oct 2026 21:40:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "previsão de tempo",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 22 Oct 2026 20:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3fUei0Zy5bbXNLy19m_Wy7zf6_tkjzo7n5rrKbvPusWkFp0VH-5xJaXaJr8U",
-      "pictureSource": "Agência Brasil",
-      "relatedSearch": [
-        {
-          "title": "Chuva deve prevalecer no domingo de eleições no Rio",
-          "snippet": "",
-          "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/chuva-deve-prevalecer-no-domingo-de-eleicao-no-rio",
-          "source": "Agência Brasil"
-        },
-        {
-          "title": "Previsão de chuva intensa no fim de semana mobiliza secretarias em reunião conjunta",
-          "snippet": "",
-          "url": "https://www2.praiagrande.sp.gov.br/noticia/previsao-de-chuva-intensa-no-fim-de-semana-mobiliza-secretarias-em-reuniao-conjunta",
-          "source": "Município de Praia Grande"
-        },
-        {
-          "title": "TSE monitora clima para evitar problemas durante o segundo turno",
-          "snippet": "",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/tse-monitora-clima-para-evitar-problemas-durante-o-segundo-turno/",
-          "source": "CNN Brasil"
+          "url": "https://www.ms.now/news/news-analysis/bipartisan-group-of-states-files-lawsuits-against-openai",
+          "source": "MS NOW"
         }
       ],
       "link": "https://imtaqin.id/"

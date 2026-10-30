@@ -1,58 +1,226 @@
 {
-  "lastUpdate": "2026-10-30 18:11:46",
+  "lastUpdate": "2026-10-30 22:17:03",
   "data": [
     {
-      "title": "tv3 tiesiogiai",
-      "trafficCount": "2000+",
-      "pubDate": "Fri, 30 Oct 2026 11:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Swhgbbk1Xn5LzxZCYlWJygJJPTN2qiHOGZG_KDV2UxfmPNGal06uVyFpd4U",
+      "title": "euroleague",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 30 Oct 2026 13:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSP27j-fX3yQah2K1yXwwqKPo517nZ9zhXRbyXUc39BYzs9oDECz3RGT_kGGps",
+      "pictureSource": "Euroleague Basketball",
+      "relatedSearch": [
+        {
+          "title": "Game Facts: Zalgiris vs. Partizan",
+          "snippet": "",
+          "url": "https://www.euroleaguebasketball.net/en/euroleague/news/tae2627-rs9-game-facts-zal-par/",
+          "source": "Euroleague Basketball"
+        },
+        {
+          "title": "Jonas Valanciunas delivers his most efficient EuroLeague performance yet",
+          "snippet": "",
+          "url": "https://basketnews.com/news-258529-jonas-valanciunas-delivers-his-most-efficient-euroleague-performance-yet.html",
+          "source": "BasketNews.com"
+        },
+        {
+          "title": "October 30, 2026: KK Partizan Belgrade vs BC Zalgiris Kaunas Men's Pro Basketball Prediction Market",
+          "snippet": "",
+          "url": "https://robinhood.com/us/en/prediction-markets/mens-pro-basketball/events/kk-partizan-belgrade-vs-bc-zalgiris-kaunas-oct-30-2026/",
+          "source": "Robinhood"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "carsen edwards",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 30 Oct 2026 13:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjfGMllS2oKlJb7uUS7dPsj5Sl-Eg4NPB901CCWy5KaNevSTcD1l6rnBex-wE",
+      "pictureSource": "Žalgiris",
+      "relatedSearch": [
+        {
+          "title": "Best Zalgiris highlights from the victory in Bologna",
+          "snippet": "",
+          "url": "https://zalgiris.lt/en/naujienos/best-zalgiris-highlights-from-the-victory-in-bologna",
+          "source": "Žalgiris"
+        },
+        {
+          "title": "Virtus Bologna-Zalgiris Kaunas | Round 8 Highlights | 2026-27 EuroLeague",
+          "snippet": "",
+          "url": "https://www.euroleaguebasketball.net/euroleague/news/virtus-bologna-zalgiris-kaunas-round-8-highlights-2026-27-euroleague/",
+          "source": "Euroleague Basketball"
+        },
+        {
+          "title": "Virtus Kaunas has an edge. The Lithuanians remain the bête noire.",
+          "snippet": "",
+          "url": "https://sport.quotidiano.net/en/basket/virtus/virtus-kaunas-ha-una-marcia-71a20a89",
+          "source": "Quotidiano Sportivo"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "zalgiris tiesiogiai",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 30 Oct 2026 11:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPt7HOq_qRKMaPvhBNbUMib6H2-gJS8_SgjB_3qoNLJ_DEhlAyxfY0CWv9pYY",
+      "pictureSource": "BasketNews.lt",
+      "relatedSearch": [
+        {
+          "title": "Masiulis – apie svarbiausią Evanso dalyką ir nudžiuginusią Edwardso reakciją",
+          "snippet": "",
+          "url": "https://www.basketnews.lt/news-258380-masiulis-apie-svarbiausia-evanso-dalyka-ir-nudziuginusia-edwardso-reakcija.html",
+          "source": "BasketNews.lt"
+        },
+        {
+          "title": "Geriausius Bolonijos „Virtus“ - Kauno „Žalgiris“ rungtynių momentus pristato Fielmann nr.2",
+          "snippet": "",
+          "url": "https://play.tv3.lt/sports/geriausius-bolonijos-virtus---kauno-zalgiris-rungtyniu-momentus-pristato-fielmann-nr2,clip-12696822",
+          "source": "tv3.lt"
+        },
+        {
+          "title": "Čempiono pažymiai „Žalgiriui“: trenerio tikėjimas Evansu ir atgaiva akims Kaodirichi",
+          "snippet": "",
+          "url": "https://www.15min.lt/24sek/naujiena/eurolyga/cempiono-pazymiai-zalgiriui-trenerio-tikejimas-evansu-ir-atgaiva-akims-kaodirichi-1362-2794358",
+          "source": "15min.lt"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tv3",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 30 Oct 2026 11:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrSLWMAbJpPEIyRviu6ZFOb8Gq7zfV_nJEXZYH-e_8shLGBbApV0cg8THwcC0",
       "pictureSource": "tv3.lt",
       "relatedSearch": [
         {
-          "title": "Petras Gražulis pirmąkart atsivėrė, kaip sekasi gyventi su iš Birutės paimta dukra: „Pasakiau...“",
+          "title": "Pasirodžius žiniai apie išprievartavimą Vilniuje Rugilė ryžosi prabilti, ką patyrė: „Sėdim, o jis nevažiuoja“",
           "snippet": "",
-          "url": "https://www.tv3.lt/naujiena/zmones/petras-grazulis-pirmakart-atsivere-kaip-sekasi-gyventi-su-is-birutes-paimta-dukra-pasakiau-n1564306",
+          "url": "https://www.tv3.lt/naujiena/gyvenimas/pasirodzius-ziniai-apie-isprievartavima-vilniuje-rugile-ryzosi-prabilti-ka-patyre-sedim-o-jis-nevaziuoja-n1564372",
           "source": "tv3.lt"
         },
         {
-          "title": "„Žalgiris“ – „Partizan“: kauniečiai namuose sieks pratęsti pergalių seriją",
+          "title": "Pranešus apie 21 metų vilnietės išprievartavimą – naujausia prokuratūros žinia",
           "snippet": "",
-          "url": "https://www.tv3.lt/naujiena/sportas/zalgiris-partizan-kaunieciai-namuose-sieks-pratesti-pergaliu-serija-n1564285",
-          "source": "tv3.lt"
+          "url": "https://www.lrytas.lt/lietuvosdiena/kriminalai/2026/10/29/news/pranesta-apie-21-metu-vilnietes-isprievartavima-seselis-krinta-ant-pavezejo-mergina-buvo-praradusi-samone-44699388",
+          "source": "Lrytas"
         },
         {
-          "title": "Aiškų akcentą dėjęs J.Penarroya: jie turi Valančiūną ir Tubelį",
+          "title": "Prokuratūra apie rezonansinį merginos išprievartavimą Vilniuje: skelbiama informacija neatitinka aplinkybių",
           "snippet": "",
-          "url": "https://www.krepsinis.net/naujiena/aisku-akcenta-dejes-j-penarroya-jie-turi-valanciuna-ir-tubeli/354016",
-          "source": "Krepsinis.net"
+          "url": "https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/policija-tiria-galima-isprievartavima-vilniuje-itariamasis-nustatytas-ir-sulaikytas-59-2795792",
+          "source": "15min.lt"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "partizan",
-      "trafficCount": "100+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 30 Oct 2026 11:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKrrKZm13FODrSh0DDM12xz_9bRt8BTFJ6jgi6I3_sw88tcbGB55i7-P_sl20",
-      "pictureSource": "B92",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSb7CGTVs7n_ZxIQwN1kAU0COHurP-UW6Fz9x5O5nrxTnoviHo_9GTU9TSeA5E",
+      "pictureSource": "naslovinet.rs",
       "relatedSearch": [
         {
-          "title": "Žalgiris sprema košarkaški \"horor\" – Partizan gost u \"noći maski\"!",
+          "title": "Snažan zemljotres blizu Halkidikija u Grčkoj",
           "snippet": "",
-          "url": "https://www.b92.net/sport/kosarka/euroleague/280579/partizan-ide-na-vruc-teren-u-kaunasu-zalgiris-sprema-spektakl-za-noc-vestica/vest",
-          "source": "B92"
+          "url": "https://naslovinet.rs/svet/2026/10/30/snazan-zemljotres-blizu-halkidikija-u-grckoj/",
+          "source": "naslovinet.rs"
         },
         {
-          "title": "Penjaroja: Nema iznenađenja, moramo da zaustavimo Valančijunasa",
+          "title": "Satoranski završio u bolnici; Itudis: \"Molimo se za njega\"",
           "snippet": "",
-          "url": "https://www.mozzartsport.com/kosarka/vesti/penjaroja-nema-iznenaenja-moramo-da-zaustavimo-valancijunasa/557537",
-          "source": "Mozzart Sport"
+          "url": "https://naslovinet.rs/sport/2026/10/30/satoranski-zavrsio-u-bolnici-itudis-molimo-se-za-njega/",
+          "source": "naslovinet.rs"
         },
         {
-          "title": "Vildoza želi što pre da zaboravi Asvel, javio se pred meč sa Žalgirisom",
+          "title": "Magle vam se prozori čim zahladi? Stavite ovo u šolju i ostavite na dasci, i zaboravite na vlagu",
           "snippet": "",
-          "url": "https://vivatsport.rs/kosarka/kk-partizan/luka-vildoza-partizan-zalgiris/",
-          "source": "https://vivatsport.rs/"
+          "url": "https://naslovinet.rs/zena/2026/10/30/magle-vam-se-prozori-cim-zahladi-stavite-ovo-u-solju-i-ostavite-na-dasci-i-zaboravite-na-vlagu/",
+          "source": "https://naslovinet.rs/"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tv3 play",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 30 Oct 2026 10:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8eIE8e2TMcDfmYEXAENbjYm5e4afcHy-vgB8GJ2e6VQv-lL5QJ9-0cGdj7SE",
+      "pictureSource": "LRT",
+      "relatedSearch": [
+        {
+          "title": "Lenkijoje nušalintas Konstitucinio Teismo pirmininkas, dislokuota riaušių policija",
+          "snippet": "",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3098445/lenkijoje-nusalintas-konstitucinio-teismo-pirmininkas-dislokuota-riausiu-policija",
+          "source": "LRT"
+        },
+        {
+          "title": "Lenkijos prezidentas nutraukė kelionę į Senegalą: prie Konstitucinio Teismo – neramumai",
+          "snippet": "",
+          "url": "https://www.delfi.lt/naujienos/uzsienyje/lenkijos-prezidentas-nutrauke-kelione-i-senegala-prie-konstitucinio-teismo-neramumai-120327436",
+          "source": "Delfi"
+        },
+        {
+          "title": "Prezidentas staigiai apsuko lėktuvą: Lenkijoje – neramumai",
+          "snippet": "",
+          "url": "https://www.tv3.lt/naujiena/uzsienis/prezidentas-staigiai-apsuko-lektuva-lenkijoje-neramumai-n1564524",
+          "source": "tv3.lt"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "„kauno žalgiris“ prieš „belgrado partizan“",
+      "trafficCount": "10000+",
+      "pubDate": "Fri, 30 Oct 2026 10:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZT65Ja7OOzaxGalBxvQ5BvhZgD3wHNH7OZWuWlOCOU4HU2IMKp9YiAsC24k",
+      "pictureSource": "BasketNews.lt",
+      "relatedSearch": [
+        {
+          "title": "Ypatingą vakarą Kaune išgyvenęs Evansas: „Nelaikau to savaime suprantamu dalyku“",
+          "snippet": "",
+          "url": "https://www.basketnews.lt/news-258533-ypatinga-vakara-kaune-isgyvenes-evansas-nelaikau-to-savaime-suprantamu-dalyku.html",
+          "source": "BasketNews.lt"
+        },
+        {
+          "title": "Ironiškai besišypsojęs „Partizan“ vairininkas badė pirštu į statistiką: „Galbūt būtų kitaip?“",
+          "snippet": "",
+          "url": "https://www.15min.lt/24sek/naujiena/eurolyga/ironiskai-besisypsojes-partizan-vairininkas-bade-pirstu-i-statistika-galbut-butu-kitaip-1362-2796460",
+          "source": "15min.lt"
+        },
+        {
+          "title": "Evanso ramybę išskyręs Masiulis – apie sumažėjusį klaidų skaičių ir nuvertintą Butkevičių",
+          "snippet": "",
+          "url": "https://www.lrt.lt/naujienos/sportas/10/3098420/evanso-ramybe-isskyres-masiulis-apie-sumazejusi-klaidu-skaiciu-ir-nuvertinta-butkeviciu",
+          "source": "LRT"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "„stambulo anadolu efes“ prieš „atėnų panathinaikos“",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 30 Oct 2026 10:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfSpzmkL56OqmP7ZQiVeB4QWcW_Ei2Tt16S4hWqtAAiCL2jWTLi4yF4XHnEBg",
+      "pictureSource": "Krepsinis.net",
+      "relatedSearch": [
+        {
+          "title": "Lemiamu metu spurtavusi „Anadolu Efes“ nugalėjo Eurolygos lyderius",
+          "snippet": "",
+          "url": "https://www.krepsinis.net/naujiena/lemiamu-metu-spurtavusi-anadolu-efes-nugalejo-eurolygos-lyderius/354041",
+          "source": "Krepsinis.net"
+        },
+        {
+          "title": "Staigmena Eurolygoje – „Panathinaikos“ sutriuškintas Turkijoje",
+          "snippet": "",
+          "url": "https://www.15min.lt/24sek/naujiena/eurolyga/staigmena-eurolygoje-panathinaikos-sutriuskintas-turkijoje-1362-2796452",
+          "source": "15min.lt"
+        },
+        {
+          "title": "„Anadolu Efes“ skėlė antausį Eurolygos lyderei",
+          "snippet": "",
+          "url": "https://www.delfi.lt/krepsinis/eurolyga/anadolu-efes-skele-antausi-eurolygos-lyderei-120327438",
+          "source": "Delfi"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -71,23 +239,23 @@
           "source": "15min.lt"
         },
         {
-          "title": "Prie „Žvaigždžių duetų“ jungiasi nauja pora",
-          "snippet": "",
-          "url": "https://www.delfi.lt/veidai/filmai-ir-tv/prie-zvaigzdziu-duetu-jungiasi-nauja-pora-120327356",
-          "source": "Delfi"
-        },
-        {
           "title": "„Žvaigždžių duetų“ dalyvis prašo grąžinti jau iškritusią porą",
           "snippet": "",
           "url": "https://lnk.lt/straipsniai/Veidai/zvaigzdziu-duetu-dalyvis-praso-grazinti-jau-iskritusia-pora/404977",
           "source": "LNK.LT"
+        },
+        {
+          "title": "Ilgai neužsibuvo: „Žvaigždžių duetus“ paliko mamos ir sūnaus duetas",
+          "snippet": "",
+          "url": "https://www.alfa.lt/pramogos/tv-ir-kinas/ilgai-neuzsibuvo-zvaigzdziu-duetus-paliko-mamos-ir-sunaus-duetas/414536/",
+          "source": "Alfa.lt"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "direktorius",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 30 Oct 2026 09:40:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5xBbtt96GUqAsY6s9UNXwjOUBA0afOOh1DqFD_Wi_ImcrJcKVQfkVYVmznUk",
       "pictureSource": "Lrytas",
@@ -99,7 +267,7 @@
           "source": "Lrytas"
         },
         {
-          "title": "Karštas Klaipėdos slaugytojų susitikimas su viceministru: „O jei vieną dieną visos susirgsime?“",
+          "title": "Karštas Klaipėdos slaugytojų susitikimas su kancleriu: „O jei vieną dieną visos susirgsime?“",
           "snippet": "",
           "url": "https://www.15min.lt/naujiena/aktualu/lietuva/karstas-klaipedos-slaugytoju-susitikimas-su-viceministru-o-jei-viena-diena-visos-susirgsime-56-2796374",
           "source": "15min.lt"
@@ -109,174 +277,6 @@
           "snippet": "",
           "url": "https://ve.lt/aktualijos/audrius-simaitis-ispraustas-i-kampa-ligonine-laukia-permainu",
           "source": "Vakarų ekspresas"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "kauno žalgiris",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 30 Oct 2026 09:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGVhU5GWA_hIM2h0KwBRNvq-kbSk1RuFV24_85lB96fVCKqXaMZBQJgMDhbTw",
-      "pictureSource": "tv3.lt",
-      "relatedSearch": [
-        {
-          "title": "„Žalgiris“ – „Partizan“: kauniečiai namuose sieks pratęsti pergalių seriją",
-          "snippet": "",
-          "url": "https://www.tv3.lt/naujiena/sportas/zalgiris-partizan-kaunieciai-namuose-sieks-pratesti-pergaliu-serija-n1564285",
-          "source": "tv3.lt"
-        },
-        {
-          "title": "Aiškų akcentą dėjęs J.Penarroya: jie turi Valančiūną ir Tubelį",
-          "snippet": "",
-          "url": "https://www.krepsinis.net/naujiena/aisku-akcenta-dejes-j-penarroya-jie-turi-valanciuna-ir-tubeli/354016",
-          "source": "Krepsinis.net"
-        },
-        {
-          "title": "Kaune – turnyrinės lentelės kaimynas: „Žalgiris“ – „Partizan“",
-          "snippet": "",
-          "url": "https://www.15min.lt/24sek/naujiena/eurolyga/kaune-turnyrines-lenteles-kaimynas-zalgiris-partizan-1362-2796430",
-          "source": "15min.lt"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ryšių reguliavimo tarnyba",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 30 Oct 2026 09:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1AXpt2Kft498MwiXZBQhWeSgz3JrDjVlqB-F9GCTexp21ajRBcrAp86pD5Ng",
-      "pictureSource": "Delfi",
-      "relatedSearch": [
-        {
-          "title": "Paslaugų teikėjams – naujas reikalavimas: privalės skelbti apie ryšio nutraukimus",
-          "snippet": "",
-          "url": "https://www.delfi.lt/mokslas/technologijos/paslaugu-teikejams-naujas-reikalavimas-privales-skelbti-apie-rysio-nutraukimus-120327048",
-          "source": "Delfi"
-        },
-        {
-          "title": "RRT: nuo lapkričio 1 dienos privaloma skubiai informuoti vartotojus apie ryšio sutrikimus",
-          "snippet": "",
-          "url": "https://kauno.diena.lt/naujienos/verslas/imoniu-pulsas/rrt-nuo-lapkricio-1-dienos-privaloma-skubiai-informuoti-vartotojus-apie-rysio-sutrikimus-1781184",
-          "source": "KaunoDiena.lt"
-        },
-        {
-          "title": "Nuo lapkričio 1 d. ryšio tiekėjai turės greičiau pranešti apie nutrūkimus: ką tai reiškia vartotojui",
-          "snippet": "",
-          "url": "https://77.lt/nuo-lapkricio-1-d-rysio-tiekejai-tures-greiciau-pranesti-apie-nutrukimus-ka-tai-reiskia-va",
-          "source": "77.lt"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "vėlinės",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 30 Oct 2026 09:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScBPxiCfStv5NdrMnm6E2l4JmjA2zdOdNch8QOswpRoTQbPIPwSsIAJ4Rozb4",
-      "pictureSource": "Lrytas",
-      "relatedSearch": [
-        {
-          "title": "Kuo skiriasi Visų Šventųjų diena nuo Vėlinių: kunigas paaiškino, kuri šventė kam skirta ir kaip pagerbti mirusius negalint aplankyti kapo",
-          "snippet": "",
-          "url": "https://www.lrytas.lt/gyvenimo-budas/psichologija/2026/10/29/news/kuo-skiriasi-visu-sventuju-diena-nuo-veliniu-kunigas-paaiskino-kuri-svente-kam-skirta-ir-kaip-pagerbti-mirusius-negalint-a-44698396",
-          "source": "Lrytas"
-        },
-        {
-          "title": "Paaiškino, kodėl degame žvakes ant kapų: kiti tikrosios reikšmės net nežino",
-          "snippet": "",
-          "url": "https://www.tv3.lt/naujiena/gyvenimas/paaiskino-kodel-degame-zvakes-ant-kapu-kiti-tikrosios-reiksmes-net-nezino-n1563244",
-          "source": "tv3.lt"
-        },
-        {
-          "title": "Į kapines – tik ypatingomis progomis",
-          "snippet": "",
-          "url": "https://www.anyksta.lt/i-kapines-tik-ypatingomis-progomis/",
-          "source": "Anyksta.lt"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "вильнюс",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 30 Oct 2026 08:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTn8gO35_ARZYzt7ARBnzHqx_AYZ00hBspeu0SR565tBKhKAVNCFS6CPSU3iCE",
-      "pictureSource": "Клопс - новости Калининград",
-      "relatedSearch": [
-        {
-          "title": "Из тазиков и палок: под Вильнюсом обнаружили самогонный лес",
-          "snippet": "",
-          "url": "https://klops.ru/other/2026-10-30/394001-iz-tazikov-i-palok-pod-vilnyusom-obnaruzhili-samogonnyy-les",
-          "source": "Клопс - новости Калининград"
-        },
-        {
-          "title": "Премьер Эстонии Кристен Михал отказался смягчать критику России вопреки просьбам США",
-          "snippet": "",
-          "url": "https://www.dw.com/ru/premerministr-estonii-mihal-zaavil-cto-prodolzit-otkryto-govorit-ob-ugroze-so-storony-rossii-vopreki-prosbam-ssa-smagcit-ritoriku/a-79811640",
-          "source": "DW.com"
-        },
-        {
-          "title": "Пентагон попросил страны НАТО смягчить риторику относительно российской угрозы. Вероятно, из-за Эстонии, где Путина назвали «загнанной в угол крысой»",
-          "snippet": "",
-          "url": "https://meduza.io/news/2026/10/30/pentagon-poprosil-strany-nato-smyagchit-ritoriku-otnositelno-rossiyskoy-ugrozy-veroyatno-iz-za-estonii-gde-putina-nazvali-zagnannoy-v-ugol-krysoy",
-          "source": "Meduza"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "policijos pareigūnas",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 30 Oct 2026 07:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsMYgzEpcs3haplb1xjoW6jIv2M3M35ByZJoq5oQKoU5TiQou9Y4snU08aFYM",
-      "pictureSource": "Lrytas",
-      "relatedSearch": [
-        {
-          "title": "Policininkas JAV išnaudojo problemišką paauglę, kol ši pastojo – žiaurumas atima žadą",
-          "snippet": "",
-          "url": "https://www.lrytas.lt/gyvenimo-budas/likimai/2026/10/29/news/policininkas-jav-isnaudojo-problemiska-paaugle-kol-si-pastojo-ziaurumas-atima-zada-44482033",
-          "source": "Lrytas"
-        },
-        {
-          "title": "Pareigūnų profsąjungos atvėrė tarnybų žaizdas: situaciją vadina katastrofiška",
-          "snippet": "",
-          "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2026/10/28/news/pareigunu-profsajungos-atvere-tarnybu-zaizdas-situacija-vadina-katastrofiska-44676321",
-          "source": "Lrytas"
-        },
-        {
-          "title": "Leiputė apie pareigūnų algų didinimą",
-          "snippet": "",
-          "url": "https://www.delfi.lt/zinios-visiems/naujienos/leipute-apie-pareigunu-algu-didinima-120326065",
-          "source": "Delfi"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "общественный транспорт",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 30 Oct 2026 07:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyj30LGYEvtjgoMjdtG4QHtrCYjWijwrNkXEIZxpfSu0v5HATjEgK4mChwGUs",
-      "pictureSource": "76.ru",
-      "relatedSearch": [
-        {
-          "title": "Центр Ярославля перекроют на полдня — причина",
-          "snippet": "",
-          "url": "https://76.ru/text/transport/2026/10/29/76730920/",
-          "source": "76.ru"
-        },
-        {
-          "title": "В Ярославской области в День народного единства скорректируют работу автобусов",
-          "snippet": "",
-          "url": "https://yarcube.ru/newsletter/v-yaroslavskoy-oblasti-v-den-narodnogo-edinstva-skorrektiruyut-rabotu-avtobusov/",
-          "source": "Яркуб"
-        },
-        {
-          "title": "​Расписание общественного транспорта в Ярославской области скорректируют на 4 ноября",
-          "snippet": "",
-          "url": "https://yarreg.ru/articles/raspisanie-obshchestvennogo-transporta-v-yaroslavskoy-oblasti-skorrektiruyut-na-4-noyabrya/",
-          "source": "Ярославский регион"
         }
       ],
       "link": "https://imtaqin.id/"

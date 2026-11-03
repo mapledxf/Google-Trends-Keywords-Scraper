@@ -1,29 +1,141 @@
 {
-  "lastUpdate": "2026-11-03 04:01:15",
+  "lastUpdate": "2026-11-03 11:48:43",
   "data": [
     {
-      "title": "דובר צה\"ל",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 2 Nov 2026 13:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0-OL4dDdNRVCJ2FyrlMDlop1XqYgUof2vu7y4RJIyY5JUN7nHQlNnsKY3lsQ",
-      "pictureSource": "ערוץ 7",
+      "title": "غاز",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 3 Nov 2026 01:30:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5TKabHEE4nUeS79IOwfxih05Kq7QJYThkoRe1G_5-gGRpgPkCvYI1JRI5O6c",
+      "pictureSource": "جريدة القدس",
       "relatedSearch": [
         {
-          "title": "מהתרעה על טילים ועד תכנון תקיפות: צה\"ל חושף את יכולות הבינה המלאכותית",
+          "title": "تراجع حاد في أسعار الغاز الأوروبي بنسبة 10% وسط مؤشرات على تهدئة إقليمية",
           "snippet": "",
-          "url": "https://www.inn.co.il/news/709895",
-          "source": "ערוץ 7"
+          "url": "https://alquds.com/ar/posts/268634-european-gas-prices-drop-iran-us-talks",
+          "source": "جريدة القدس"
         },
         {
-          "title": "הרמטכ\"ל זמיר: על צה\"ל מוטלת החובה להוביל בעולם בתחומי הבינה המלאכותית",
+          "title": "الغاز الأوروبي يقفز مع ضربات أمريكية على جزيرة قشم الإيرانية",
           "snippet": "",
-          "url": "https://www.zman.co.il/live/738876/",
-          "source": "זמן ישראל"
+          "url": "https://sa.investing.com/news/commodities-news/article-3424699",
+          "source": "Investing.com"
         },
         {
-          "title": "\"מהפכה שמשנה את פני המאה ה-21\": הרמטכ\"ל חושף את תוכנית ה-AI המהפכנית של צה\"ל",
+          "title": "هل ألمانيا جاهزة لفصل الشتاء؟",
           "snippet": "",
-          "url": "https://www.kikar.co.il/security-news/idf-ai-revolution-zamir-conference-beersheba",
+          "url": "https://twaslnews1.twaslnews.com/7025508/",
+          "source": "شبكة تواصل الإخبارية"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "عام دراسي",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 3 Nov 2026 00:20:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqWyLojBeKanu2ugiGg86L8smaVSpDsFtV8MWkR5NzH3cZi7_moOPCTCHaJvk",
+      "pictureSource": "https://www.youlyou.com/",
+      "relatedSearch": [
+        {
+          "title": "183 يومًا للدراسة.. تفاصيل الخريطة الزمنية للعام الدراسي 2026-2027",
+          "snippet": "",
+          "url": "https://www.youlyou.com/85727",
+          "source": "https://www.youlyou.com/"
+        },
+        {
+          "title": "مصر تنفي مد إجازة نصف العام إلى 30 يوماً.. ما التفاصيل؟",
+          "snippet": "",
+          "url": "https://www.alkhaleej.ae/2026-11-02/%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA/%D9%85%D8%AD%D8%B7%D8%A7%D8%AA/%D9%85%D8%B5%D8%B1-%D8%AA%D9%86%D9%81%D9%8A-%D9%85%D8%AF-%D8%A5%D8%AC%D8%A7%D8%B2%D8%A9-%D9%86%D8%B5%D9%81-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D8%A5%D9%84%D9%89-30-%D9%8A%D9%88%D9%85%D8%A7-%D9%85%D8%A7-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84",
+          "source": "صحيفة الخليج"
+        },
+        {
+          "title": "جولة مفاجئة لوزير التعليم في مدارس بني سويف لمتابعة انتظام الدراسة",
+          "snippet": "",
+          "url": "https://twaslnews1.twaslnews.com/7061546/",
+          "source": "شبكة تواصل الإخبارية"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "מזג אוויר",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 2 Nov 2026 21:10:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrj4UuExMK42pmXoi3qRcxhB0feUYV1Fnc_Va5E5x1PCf2Vp05hSevcAdahOI",
+      "pictureSource": "PassportNews",
+      "relatedSearch": [
+        {
+          "title": "החל מיום חמישי: מזג אוויר סוער בתאילנד, חשש לשיטפונות בסוף השבוע",
+          "snippet": "",
+          "url": "https://passportnews.co.il/article/211718",
+          "source": "PassportNews"
+        },
+        {
+          "title": "אזהרה לישראלים בתאילנד: שיטפונות ענק היכו את האי התאילנדי",
+          "snippet": "",
+          "url": "https://www.israelhayom.co.il/travel/tourism-news/article/21708970",
+          "source": "היום"
+        },
+        {
+          "title": "שיטפונות ענק באי האהוב על הישראלים - אזורים רבים נחסמו",
+          "snippet": "",
+          "url": "https://www.mako.co.il/travel-news/international/Article-ace3b95041871a1027.htm",
+          "source": "mako"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "طقس فلسطين",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 2 Nov 2026 20:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQrgmAdfOulfholfvju4aic4mJW7mJIgQ5u6EaTygouV949hDepjWWR9UrgDik",
+      "pictureSource": "النجاح الإخباري",
+      "relatedSearch": [
+        {
+          "title": "حالة الطقس: انخفاض ملموس على درجات الحرارة",
+          "snippet": "",
+          "url": "https://nn.najah.edu/news/Palestine/2026/11/03/573539/",
+          "source": "النجاح الإخباري"
+        },
+        {
+          "title": "تقلبات جوية مرتقبة.. حرارة مرتفعة يعقبها انخفاض وفرص لعودة الأمطار",
+          "snippet": "",
+          "url": "https://www.maannews.net/news/2171528.html",
+          "source": "وكـالـة مـعـا الاخـبـارية"
+        },
+        {
+          "title": "توقعات الأرصاد: أجواء خريفية وانخفاض تدريجي في درجات الحرارة خلال الأيام المقبلة",
+          "snippet": "",
+          "url": "https://alquds.com/ar/posts/268418-autumn-weather-temperature-drop-forecast",
+          "source": "جريدة القدس"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "דובר צה\"ל",
+      "trafficCount": "1000+",
+      "pubDate": "Mon, 2 Nov 2026 13:20:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7bbZ5In0It8yUc3A79Ol_UXDN5exjBkjs0gePjfcu3z2F5OqmE8DL4CCHQHs",
+      "pictureSource": "i24NEWS",
+      "relatedSearch": [
+        {
+          "title": "\"ראתה עוולות נגד פלסטינים?\": התפקיד האמיתי של יוצאת דובר צה\"ל - שעברה לשוברים שתיקה",
+          "snippet": "",
+          "url": "https://www.i24news.tv/he/news/news/local/artc-3c324cc5",
+          "source": "i24NEWS"
+        },
+        {
+          "title": "ערד ניר מפרגן לדוברת החדשה של שוברים שתיקה: \"בהצלחה רבה\"",
+          "snippet": "",
+          "url": "https://www.c14.co.il/article/1770494",
+          "source": "C14"
+        },
+        {
+          "title": "תנו לצה\"ל לנצח? החרדית שהשתחררה מדובר צה\"ל עברה לשוברים שתיקה",
+          "snippet": "",
+          "url": "https://www.kikar.co.il/israel-news/idf-spokesperson-breaking-silence",
           "source": "כיכר השבת"
         }
       ],
@@ -33,26 +145,26 @@
       "title": "הפועל ר\"ג נגד מכבי ת\"א",
       "trafficCount": "200+",
       "pubDate": "Mon, 2 Nov 2026 10:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwahgQ4qshZ0621uf81hOR61WHoZMwO2d8CwTfwKRTRXtO_2hifKlfS7Yi-f0",
-      "pictureSource": "C14",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxKh7Tdyd38BHGQBFvTCKF108r24CJAsEMc9tkKwhPdUwZI0LEzwwtX2gWIAE",
+      "pictureSource": "וואלה ספורט",
       "relatedSearch": [
         {
-          "title": "חמסה: מכבי תל אביב דרסה 0:5 את הפועל רמת גן",
+          "title": "לא רק חמישייה: הבשורות של מכבי ת\"א מהניצחון ה\"אופטימלי\"",
+          "snippet": "",
+          "url": "https://sports.walla.co.il/item/3874734",
+          "source": "וואלה ספורט"
+        },
+        {
+          "title": "עוד יום בפסגה: 0:5 קליל למכבי תל אביב על הפועל רמת גן",
+          "snippet": "",
+          "url": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21763589",
+          "source": "היום"
+        },
+        {
+          "title": "חמסה: מכבי ת\"א דרסה 0:5 את הפועל ר\"ג ושמרה על המקום הראשון",
           "snippet": "",
           "url": "https://www.c14.co.il/article/1769658",
           "source": "C14"
-        },
-        {
-          "title": "בחצי מזמן המשחק: מדמון עקף את סוקלר",
-          "snippet": "",
-          "url": "https://www.sport5.co.il/articles.aspx?FolderID=64&docID=566182",
-          "source": "Sport5"
-        },
-        {
-          "title": "המפתחות של מכבי תל אביב לניצחון והמטרה לפני הפגרה",
-          "snippet": "",
-          "url": "https://sports.walla.co.il/item/3874587",
-          "source": "וואלה ספורט"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,15 +173,9 @@
       "title": "pakhtakor vs al-nassr",
       "trafficCount": "200+",
       "pubDate": "Mon, 2 Nov 2026 06:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQGHR6a-QLF9dFE-5VmTE5x3zbO0f_Ir3GDIqniEz91kXjjbIGgXCoHH2rTP0",
-      "pictureSource": "football360.com.au",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTIYrcSw8WzLyAIUI5H-2VtnmdRMbHfx9lb5Jnmmu1w4i288EUZWJBhUMfyN0",
+      "pictureSource": "Arab News",
       "relatedSearch": [
-        {
-          "title": "Ange Postecoglou shoots down Cristiano Ronaldo question after Al-Nassr’s big ACL Elite win",
-          "snippet": "",
-          "url": "https://football360.com.au/ange-postecoglou-cristiano-ronaldo-al-nassr-pakhtakor-afc-champions-league-elite/",
-          "source": "football360.com.au"
-        },
         {
           "title": "Felix runs show as Al-Nassr run rampant in Tashkent",
           "snippet": "",
@@ -77,10 +183,16 @@
           "source": "Arab News"
         },
         {
-          "title": "Pakhtakor vs Al-Nassr Lineups - AFC Champions League 2026/27",
+          "title": "Cristiano Ronaldo's Absence Shocks Fans in the AFC Champions League: What Happened?",
           "snippet": "",
-          "url": "https://www.besoccer.com/match/pakhtakor/al-nassr/2027174857/lineups",
-          "source": "BeSoccer Livescore"
+          "url": "https://www.beinsports.com/en-us/soccer/afc-champions-league/articles-video/why-didn-t-cristiano-ronaldo-play-for-al-nassr-against-pakhtakor-in-the-afc-champions-league-2026-11-02",
+          "source": "beIN SPORTS"
+        },
+        {
+          "title": "Pakhtakor vs. Al Nassr Lineups, Live Streaming, How & Where to Watch AFC Champions League Elite on TV",
+          "snippet": "",
+          "url": "https://www.aol.com/articles/pakhtakor-vs-al-nassr-lineups-124500000.html",
+          "source": "AOL.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,72 +211,16 @@
           "source": "جريدة القدس"
         },
         {
-          "title": "بعد استبعاد كريستيانو.. بوستيكوجلو يفجر تشكيل النصر في أبطال آسيا للنخبة",
+          "title": "فيديو: في غياب رونالدو.. إعصار فيليكس يقود النصر لتدمير باختاكور",
           "snippet": "",
-          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B3%D8%AA%D8%A8%D8%B9%D8%A7%D8%AF-%D9%83%D8%B1%D9%8A%D8%B3%D8%AA%D9%8A%D8%A7%D9%86%D9%88--%D8%A8%D9%88%D8%B3%D8%AA%D9%8A%D9%83%D9%88%D8%AC%D9%84%D9%88-%D9%8A%D9%81%D8%AC%D8%B1-%D8%AA%D8%B4%D9%83%D9%8A%D9%84-%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D9%81%D9%8A-%D8%A7%D9%94%D8%A8%D8%B7%D8%A7%D9%84-%D8%A7%D9%93%D8%B3%D9%8A%D8%A7-%D9%84%D9%84%D9%86%D8%AE%D8%A8%D8%A9/blt64094b9723b4d0e6",
+          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%A6%D9%85/%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%81%D9%8A-%D8%BA%D9%8A%D8%A7%D8%A8-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88--%D8%A7%D9%95%D8%B9%D8%B5%D8%A7%D8%B1-%D9%81%D9%8A%D9%84%D9%8A%D9%83%D8%B3-%D9%8A%D9%82%D9%88%D8%AF-%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D9%84%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D8%A8%D8%A7%D8%AE%D8%AA%D8%A7%D9%83%D9%88%D8%B1/blt10a30df65fca7a61",
           "source": "Kooora"
         },
         {
-          "title": "يتألق جواو فيليكس بدلاً من رونالدو، والنصر \"يلعب التنس\" في دوري أبطال آسيا.",
+          "title": "العراقي أيمن حسين يتلقى هدية خاصة من كريستيانو رونالدو (صور)",
           "snippet": "",
-          "url": "https://www.vietnam.vn/ar/joao-felix-ruc-sang-thay-ronaldo-al-nassr-choi-tennis-o-cup-c1-chau-a",
-          "source": "Vietnam.vn"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "وزارة التربية والتعليم",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 2 Nov 2026 02:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQH5m-FeIHJKJ86UzokzE5i6Y4BL9MPtXaMCZdwwNH2MxLVZ_Xw1V6osNrgFRg",
-      "pictureSource": "صحيفة الخليج",
-      "relatedSearch": [
-        {
-          "title": "مصر تنفي مد إجازة نصف العام إلى 30 يوماً.. ما التفاصيل؟",
-          "snippet": "",
-          "url": "https://www.alkhaleej.ae/2026-11-02/%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA/%D9%85%D8%AD%D8%B7%D8%A7%D8%AA/%D9%85%D8%B5%D8%B1-%D8%AA%D9%86%D9%81%D9%8A-%D9%85%D8%AF-%D8%A5%D8%AC%D8%A7%D8%B2%D8%A9-%D9%86%D8%B5%D9%81-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D8%A5%D9%84%D9%89-30-%D9%8A%D9%88%D9%85%D8%A7-%D9%85%D8%A7-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84",
-          "source": "صحيفة الخليج"
-        },
-        {
-          "title": "معلمون وأهالي يطالبون بجعل رمضان إجازة مدرسية في مصر",
-          "snippet": "",
-          "url": "https://ekhbary24.com/article/36716",
-          "source": "https://ekhbary24.com/"
-        },
-        {
-          "title": "موعد إجازة نصف العام الدراسي 2027 في مصر.. تبدأ 23 يناير والعودة 6 فبراير",
-          "snippet": "",
-          "url": "https://twaslnews1.twaslnews.com/7035877/",
-          "source": "شبكة تواصل الإخبارية"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "פיקוד העורף",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 2 Nov 2026 01:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYjFajmKkt44TQ-z1Gw3qEbO6HrdMZlcnJIXk6kbHHk6cb9yINm_XNwPwHZv8",
-      "pictureSource": "מעריב",
-      "relatedSearch": [
-        {
-          "title": "דובר צה\"ל: בדיקת צופרים של פיקוד העורף תתקיים היום במרחב כיסופים",
-          "snippet": "",
-          "url": "https://www.maariv.co.il/breaking-news/article-1383775",
-          "source": "מעריב"
-        },
-        {
-          "title": "פיקוד העורף: עדכון חשוב לשעות הקרובות",
-          "snippet": "",
-          "url": "https://www.srugim.co.il/101015018-%D7%A4%D7%99%D7%A7%D7%95%D7%93-%D7%94%D7%A2%D7%95%D7%A8%D7%A3-%D7%A2%D7%93%D7%9B%D7%95%D7%9F-%D7%97%D7%A9%D7%95%D7%91-%D7%9C%D7%A9%D7%A2%D7%95%D7%AA-%D7%94%D7%A7%D7%A8%D7%95%D7%91%D7%95%D7%AA",
-          "source": "סרוגים"
-        },
-        {
-          "title": "פיקוד העורף נערך: הצופרים ייבדקו הבוקר בעוטף עזה",
-          "snippet": "",
-          "url": "https://www.kipa.co.il/%D7%97%D7%93%D7%A9%D7%95%D7%AA/%D7%9E%D7%91%D7%96%D7%A7%D7%99%D7%9D/1235296-0/",
-          "source": "כיפה"
+          "url": "https://www.eremnews.com/sports/vavoiv8",
+          "source": "إرم نيوز"
         }
       ],
       "link": "https://imtaqin.id/"

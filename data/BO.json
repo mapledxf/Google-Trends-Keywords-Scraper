@@ -1,29 +1,253 @@
 {
-  "lastUpdate": "2026-11-05 03:46:44",
+  "lastUpdate": "2026-11-05 11:36:22",
   "data": [
+    {
+      "title": "avión",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 5 Nov 2026 02:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpne3AnHFbdsSiH2H-iTh3AxFzWA7MZmTGjanth5uEPcWlUk7gbqUje8QbtFs",
+      "pictureSource": "Euronews.com",
+      "relatedSearch": [
+        {
+          "title": "Última hora. - Alerta de bomba en un vuelo de Dublín a Roma",
+          "snippet": "",
+          "url": "https://es.euronews.com/2026/11/05/alerta-de-bomba-en-un-airbus-de-dublin-a-roma-desviado-a-una-base-aerea-en-francia",
+          "source": "Euronews.com"
+        },
+        {
+          "title": "Amenazas de bomba obligan a interrumpir vuelos en Europa; no se encontraron artefactos explosivos",
+          "snippet": "",
+          "url": "https://cnnespanol.cnn.com/2026/11/03/mundo/amenazas-bomba-vuelos-europa-reux",
+          "source": "CNN en Español"
+        },
+        {
+          "title": "Amenazas de bomba en vuelos europeos resultaron ser falsas",
+          "snippet": "",
+          "url": "https://www.eldiario.net/portal/2026/11/04/amenazas-de-bomba-en-vuelos-europeos-resultaron-ser-falsas/",
+          "source": "El Diario - Bolivia"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "boeing 777",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 5 Nov 2026 01:10:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWjlKAufErPgSlPRoKWazkY0Lf81EpGVJipbB0vojvlvHjZuv29rGzARWtsR4",
+      "pictureSource": "Yahoo",
+      "relatedSearch": [
+        {
+          "title": "Qatar Launches Two South American Destinations",
+          "snippet": "",
+          "url": "https://travel.yahoo.com/flights/articles/qatar-launches-two-south-american-180103701.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Qatar Airways Launches Massive New 21-Hour Route Today: See Map Now",
+          "snippet": "",
+          "url": "https://simpleflying.com/qatar-airways-launches-massive-new-21-hour-route-today/",
+          "source": "Simple Flying"
+        },
+        {
+          "title": "Qatar Airways finally launches Venezuela and Colombia route after nearly two-year wait",
+          "snippet": "",
+          "url": "https://www.airdatanews.com/qatar-airways-finally-launches-venezuela-and-colombia-route-after-nearly-two-year-wait/",
+          "source": "Air Data News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tormenta",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 5 Nov 2026 00:00:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgoAmCKO453u1CilEhfzU2SfvzbRHbPWf1b8YdXQVIXwTC0JWwTPWkLMlnRUI",
+      "pictureSource": "La Nación",
+      "relatedSearch": [
+        {
+          "title": "Súper Niño: entró en alerta naranja una de las zonas más castigadas por las crecidas del Paraná",
+          "snippet": "",
+          "url": "https://www.lanacion.com.ar/sociedad/super-nino-entro-en-alerta-naranja-una-de-las-zonas-mas-castigadas-por-las-crecidas-del-parana-nid04112026/",
+          "source": "La Nación"
+        },
+        {
+          "title": "Rigen alertas por tormentas fuertes y granizo en Santa Fe y otras siete provincias",
+          "snippet": "",
+          "url": "https://www.ellitoral.com/nacionales/serviciometeorologiconacional-alertanaranja-alertaamarilla-santafe-lluvia-tormentas-granizo-temporal_0_7x5ZDSmFWj.html",
+          "source": "El Litoral"
+        },
+        {
+          "title": "ÁRBOLES CAÍDOS, CABLES TENSOS Y CALLES CORTADAS: LOS DESTROZOS QUE DEJÓ LA TORMENTA DE ESTE MIÉRCOLES EN CORRIENTES",
+          "snippet": "",
+          "url": "https://www.diarioprimerahora.com/provinciales/112176-arboles-caidos-cables-tensos-y-calles-cortadas-los-destrozos-que-dejo-la-tormenta-de-esta-manana",
+          "source": "Diario Primera Hora"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "pronóstico del tiempo",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 4 Nov 2026 22:50:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSP73QYV4YrRzO8LvQYAdCltAAhsl5PzUDYYWCTGMQeUKsDjm4JqMokvWBGHSU",
+      "pictureSource": "El Cuco Digital",
+      "relatedSearch": [
+        {
+          "title": "Jueves agradable: sube la temperatura y se mantiene el cielo con poca nubosidad",
+          "snippet": "",
+          "url": "https://www.elcucodigital.com/jueves-agradable-sube-la-temperatura-y-se-mantiene-el-cielo-con-poca-nubosidad/",
+          "source": "El Cuco Digital"
+        },
+        {
+          "title": "Mendoza tendrá un jueves con 30° además de que se espera la llegada de viento Zonda: conocé en dónde",
+          "snippet": "",
+          "url": "https://www.mdzol.com/sociedad/2026/11/5/mendoza-tendra-un-jueves-con-30-ademas-de-que-se-espera-la-llegada-de-viento-zonda-conoce-en-donde-1993064.html",
+          "source": "MDZ Online"
+        },
+        {
+          "title": "Un respiro del Súper Niño: será un jueves caluroso y sin lluvias en Mendoza",
+          "snippet": "",
+          "url": "https://www.diariomendoza.com.ar/sociedad/un-respiro-super-nino-sera-jueves-caluroso-lluvias-mendoza-n184455",
+          "source": "Diario Mendoza"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tiempo",
+      "trafficCount": "5000+",
+      "pubDate": "Wed, 4 Nov 2026 22:40:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjYzR_lGrWGBxy54S3RFct9-Rk2o4LXs0F9o0iPzLFDw5lPHqoMV3YU4Fvtz0",
+      "pictureSource": "El Deber",
+      "relatedSearch": [
+        {
+          "title": "Sepa cómo estará el tiempo el resto de la semana",
+          "snippet": "",
+          "url": "https://eldeber.com.bo/santa-cruz/sepa-estara-tiempo-resto-semana_1793837299",
+          "source": "El Deber"
+        },
+        {
+          "title": "Diabetes en Bolivia: actuar a tiempo puede cambiar una vida",
+          "snippet": "",
+          "url": "https://eldeber.com.bo/para-ellas/actuar-tiempo-puede-cambiar-vida_1793737032",
+          "source": "El Deber"
+        },
+        {
+          "title": "Kit de herramientas sobre el estado de la diabetes",
+          "snippet": "",
+          "url": "https://diabetes.org/es/sodtoolkit",
+          "source": "American Diabetes Association"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "pronostico santa cruz",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 4 Nov 2026 22:30:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNKUcXvgohmazLCzqgwXc-7_kVy5NM43ijUKa-z53JURsK-nzGMrILCVfbntk",
+      "pictureSource": "Red Uno",
+      "relatedSearch": [
+        {
+          "title": "Senamhi prevé calor y chubascos aislados en algunas regiones de Bolivia",
+          "snippet": "",
+          "url": "https://www.reduno.com.bo/noticias/senamhi-preve-calor-y-chubascos-aislados-en-algunas-regiones-de-bolivia-202611463411",
+          "source": "Red Uno"
+        },
+        {
+          "title": "Clima para este 4 de noviembre: Senamhi prevé calor y chubascos aislados en algunas regiones de Bolivia",
+          "snippet": "",
+          "url": "https://eju.tv/2026/11/clima-para-este-4-de-noviembre-senamhi-preve-calor-y-chubascos-aislados-en-algunas-regiones-de-bolivia/",
+          "source": "eju.tv"
+        },
+        {
+          "title": "¿Lloverá o hará calor en su ciudad? Conozca las temperaturas previstas para hoy",
+          "snippet": "",
+          "url": "https://www.reduno.com.bo/noticias/llovera-o-hara-calor-en-su-ciudad-conozca-las-temperaturas-previstas-para-hoy-202611364212",
+          "source": "Red Uno"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "clima santa cruz",
+      "trafficCount": "2000+",
+      "pubDate": "Wed, 4 Nov 2026 22:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaFIQyu1nVR48BbE0nm3gdvM5QVM-8uDlvsRyy7zLxJQLFBNO4y7whB_dWDcw",
+      "pictureSource": "El Deber",
+      "relatedSearch": [
+        {
+          "title": "Dos frentes fríos traerán fuertes contrastes térmicos a Santa Cruz",
+          "snippet": "",
+          "url": "https://eldeber.com.bo/pais/dos-frentes-frios-traeran-fuertes-contrastes-termicos-santa-cruz_1793793561",
+          "source": "El Deber"
+        },
+        {
+          "title": "¡Vuelve el frío a Santa Cruz! Conozca cuándo bajarán las temperaturas",
+          "snippet": "",
+          "url": "https://www.reduno.com.bo/noticias/cuando-llega-el-frio-a-santa-cruz-conozca-que-dia-bajaran-las-temperaturas-2026114195724",
+          "source": "Red Uno"
+        },
+        {
+          "title": "Pronostican temperaturas extremas para Santa Cruz: Así puede protegerse de un golpe de calor",
+          "snippet": "",
+          "url": "https://unitel.bo/noticias/sociedad/pronostican-temperaturas-extremas-para-santa-cruz-asi-puede-protegerse-de-un-golpe-de-calor-GE24578482",
+          "source": "unitel.bo"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "the strongest vs always ready hoy",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 4 Nov 2026 18:10:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8hdlxy6-1TukQThxjR4OjuzDQGdEVk9uAuGfiUR-NrConzFyHXpEjsGteSA",
+      "pictureSource": "diez.bo",
+      "relatedSearch": [
+        {
+          "title": "Always Ready golea al Tigre en el Hernando Siles y avanza a semifinales",
+          "snippet": "",
+          "url": "https://diez.bo/futbol/always-ready-golea-al-tigre-en-el-hernando-siles-y-avanza-a-semifinales_1793846721",
+          "source": "diez.bo"
+        },
+        {
+          "title": "El Tigre es eliminado y goleado de la Copa, Always se clasifica",
+          "snippet": "",
+          "url": "https://larazon.bo/marcas/2026/11/04/el-tigre-es-eliminado-y-goleado-de-la-copa-always-se-clasifica/",
+          "source": "La Razón Digital Bolivia"
+        },
+        {
+          "title": "Hoy: Un partido de pronóstico reservado",
+          "snippet": "",
+          "url": "https://www.eldiario.net/portal/2026/11/04/hoy-un-partido-de-pronostico-reservado/",
+          "source": "El Diario - Bolivia"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "the strongest",
       "trafficCount": "500+",
       "pubDate": "Wed, 4 Nov 2026 16:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSb59wLI4EYUdp5eKkVC2ivIMoPUsoT6u711jPDBxio9RYMyN-nM07x_Cl8nNg",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJ1Yy8OIvcMjoX9g2gxceOGq3wcQQipdgpngfVtSXnM-unUYqjJCsR1cE0748",
       "pictureSource": "ESPN",
       "relatedSearch": [
         {
-          "title": "Dan Campbell: Lions owe it to Jack Campbell to stay locked in",
+          "title": "Work for ESPN",
           "snippet": "",
-          "url": "https://www.espn.com/video/clip/_/id/50381900/lions-owe-jack-campbell-stay-locked-in",
+          "url": "https://www.espn.com/espnradio/play?id=50387227",
           "source": "ESPN"
         },
         {
-          "title": "Senators 2-1 Sabres (Nov 4, 2026) Game Recap",
+          "title": "Kitchee SC vs. Phnom Penh (5 Nov, 2026) Live Score",
           "snippet": "",
-          "url": "https://www.espn.com/nhl/recap?gameId=401892644",
+          "url": "https://www.espn.co.uk/football/match/_/gameId/401912759",
           "source": "ESPN"
         },
         {
-          "title": "Dortmund 2-1 Betis (4 Nov, 2026) Team Stats",
+          "title": "ESPN SportsCenter Update - SC Update 11-5 03:51 AM ET",
           "snippet": "",
-          "url": "https://africa.espn.com/football/team-stats/_/gameId/401915304/league/uefa.champions",
+          "url": "https://www.espn.com/radio/play/_/id/50386570",
           "source": "ESPN"
         }
       ],
@@ -33,250 +257,26 @@
       "title": "são paulo - corinthians",
       "trafficCount": "500+",
       "pubDate": "Wed, 4 Nov 2026 16:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQoTdMgHRcMkLnLdl_S2ANhoyZ9oUStjY9_zwLGXVtG8ROVjUKzhrJzXbWvOkY",
-      "pictureSource": "tmc.com.br",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQj14O3OTbCE0DnSxBpklt8dW1k73Qp-zUD76PTmqzq3_BZFhOw5laoqZZWLpQ",
+      "pictureSource": "Gazeta Esportiva",
       "relatedSearch": [
         {
-          "title": "São Paulo x Corinthians: saiba por que Calleri começa na reserva",
+          "title": "Marcos Antônio pode perder final de temporada do São Paulo: “Ele não conseguia nem andar”",
           "snippet": "",
-          "url": "https://tmc.com.br/esporte/calleri-sao-paulo-reserva-corinthians/",
-          "source": "tmc.com.br"
+          "url": "https://www.gazetaesportiva.com/times/sao-paulo/marcos-antonio-desfalque-sao-paulo-temporada/",
+          "source": "Gazeta Esportiva"
         },
         {
-          "title": "Atualização importante sobre a situação de Marcos Antônio, do São Paulo",
+          "title": "São Paulo empata com Corinthians em Majestoso marcado por chuva e oportunidades desperdiçadas",
           "snippet": "",
-          "url": "https://www.terra.com.br/esportes/sao-paulo/atualizacao-importante-sobre-a-situacao-de-marcos-antonio-do-sao-paulo,2b6f4de371676fde8c9b3ea83c85a61092vtgqm6.html",
+          "url": "https://www.cartacapital.com.br/esporte/sao-paulo-empata-com-corinthians-em-majestoso-marcado-por-chuva-e-oportunidades-desperdicadas/",
+          "source": "CartaCapital"
+        },
+        {
+          "title": "Torcida do São Paulo provoca o Corinthians",
+          "snippet": "",
+          "url": "https://www.terra.com.br/esportes/sao-paulo/torcida-do-sao-paulo-provoca-o-corinthians,17e1ae062e5ab3d4cd0a5952846d38b25myghepk.html",
           "source": "Terra"
-        },
-        {
-          "title": "Comentário de Bruno Salvino de Souza em 'São Paulo x Corinthians - Brasileirão...'",
-          "snippet": "",
-          "url": "https://www.meutimao.com.br/comentario/17207631/vai_corinthians_vencer_hoje_com_todo_custo",
-          "source": "Meu Timão"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "botafogo - atlético mineiro",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 4 Nov 2026 16:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3L5GjsnN_IcDvaRBNngMzrHzceF95OtIJ86yOsughBL6dFqUKwQXYww4Tulk",
-      "pictureSource": "Blog do Chico Maia",
-      "relatedSearch": [
-        {
-          "title": "Edenilson, que tanta raiva fez à massa jogando pelo Atlético, marcou o gol da vitória do Botafogo",
-          "snippet": "",
-          "url": "https://chicomaia.com.br/2026/11/04/edenilson-que-tanta-raiva-fez-a-massa-jogando-pelo-atletico-marcou-o-gol-da-vitoria-do-botafogo/",
-          "source": "Blog do Chico Maia"
-        },
-        {
-          "title": "Glorioso volta a vencer no Brasileirão",
-          "snippet": "",
-          "url": "https://www.fferj.com.br/noticias/glorioso-volta-a-vencer-no-brasileirao",
-          "source": "FERJ"
-        },
-        {
-          "title": "Botafogo x Atlético: saiba quem foi eleito o melhor em campo no jogo do Brasileiro",
-          "snippet": "",
-          "url": "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/botafogo-x-atletico-saiba-quem-foi-eleito-o-melhor-em-campo-no-jogo-do-brasileiro/",
-          "source": "Rádio Itatiaia"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "copa paceña",
-      "trafficCount": "5000+",
-      "pubDate": "Wed, 4 Nov 2026 14:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6euBY7jcJcQqkFl6ePThY_iagbPlktUz9KuiKnTdjqh7CFxWofgsV9ZNh0UM",
-      "pictureSource": "diez.bo",
-      "relatedSearch": [
-        {
-          "title": "Dolorosa serenata para Oriente: goleado en Potosí y eliminado de la Copa Bolivia",
-          "snippet": "",
-          "url": "https://diez.bo/futbol/dolorosa-serenata-para-oriente-goleado-en-potosi-y-eliminado-de-la-copa-bolivia_1793836779",
-          "source": "diez.bo"
-        },
-        {
-          "title": "Nacional Potosí avanza a las semis de la Copa Bolivia y continúa la defensa de su título",
-          "snippet": "",
-          "url": "https://correodelsur.com/deporte/20261104/nacional-potosi-avanza-a-las-semis-de-la-copa-bolivia-y-continua-la-defensa-de-su-titulo.html",
-          "source": "Correo del Sur"
-        },
-        {
-          "title": "Nacional busca la ventaja de dos goles ante Oriente",
-          "snippet": "",
-          "url": "https://www.eldiario.net/portal/2026/11/04/nacional-busca-la-ventaja-de-dos-goles-ante-oriente/",
-          "source": "El Diario - Bolivia"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "flamengo - grêmio",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 4 Nov 2026 13:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSO2UVgVv2oA5QLDSZ5RAUJy0nnWN8iwLec6SBuPGOTKmZlLzRcZ5Q_2FjcsDU",
-      "pictureSource": "ge",
-      "relatedSearch": [
-        {
-          "title": "Flamengo x Grêmio: onde assistir ao vivo, horário e escalações | Ge",
-          "snippet": "",
-          "url": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/noticia/2026/11/04/flamengo-x-atletico-mg-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
-          "source": "ge"
-        },
-        {
-          "title": "Renato cita desgaste no Grêmio: \"Tem que matar um leão a cada três dias\"",
-          "snippet": "",
-          "url": "https://www.terra.com.br/esportes/gremio/renato-cita-desgaste-no-gremio-tem-que-matar-um-leao-a-cada-tres-dias,5d3883663c0d40b018a9704ba9a6aeb1st16r56x.html",
-          "source": "Terra"
-        },
-        {
-          "title": "Grêmio levou um passeio no Maracanã",
-          "snippet": "",
-          "url": "https://gauchazh.clicrbs.com.br/colunistas/queki/noticia/2026/11/gremio-levou-um-passeio-no-maracana-cmw2vjfgc017l015om5d5shhe.html",
-          "source": "GZH"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "betis",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 4 Nov 2026 13:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIbzXu7uvGNJlu7Y7cutuyq1KdG_LX9X6aN278F-0JX9ZIK39_dM1osUtguZM",
-      "pictureSource": "Diario AS",
-      "relatedSearch": [
-        {
-          "title": "Borussia Dortmund 2 - 1 Betis: resumen, goles y resultado de la Champions League",
-          "snippet": "",
-          "url": "https://as.com/futbol/champions/borussia-dortmund-betis-hoy-en-directo-ultima-hora-de-la-champions-league-en-vivo-f202611-d/",
-          "source": "Diario AS"
-        },
-        {
-          "title": "Pellegrini: \"El equipo tuvo personalidad para buscar el partido\"",
-          "snippet": "",
-          "url": "https://www.notimerica.com/deportes/noticia-pellegrini-equipo-tuvo-personalidad-buscar-partido-20261104235724.html",
-          "source": "Notimérica"
-        },
-        {
-          "title": "Álvaro Valles: “Creo que nos merecíamos un punto de este estadio”",
-          "snippet": "",
-          "url": "https://mundobetis.com/2026/11/05/alvaro-valles-creo-que-nos-mereciamos-un-punto-de-este-estadio/",
-          "source": "MundoBetis"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "city",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 4 Nov 2026 13:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQSn6_5aMMPQHzLnmCxwP6dJnu7u1FmkFEIY7npNbJ0xH2XAwcC0OyOeER-U-Y",
-      "pictureSource": "WPSD Local 6",
-      "relatedSearch": [
-        {
-          "title": "Thomas earns most city commission votes; Wilson marks longest-serving female commissioner",
-          "snippet": "",
-          "url": "https://www.wpsdlocal6.com/news/thomas-earns-most-city-commission-votes-wilson-marks-longest-serving-female-commissioner/article_f110cd4c-b487-4a23-b2c3-ed331846f038.html",
-          "source": "WPSD Local 6"
-        },
-        {
-          "title": "Watkins beats Smith by 20 votes in city commission election; Cara Ann Walker elected county clerk",
-          "snippet": "",
-          "url": "https://www.paducahsun.com/news/watkins-beats-smith-by-20-votes-in-city-commission-election-cara-ann-walker-elected-county/article_f873cb1f-5e03-5f7a-a360-dff8b1e98fd7.html",
-          "source": "The Paducah Sun"
-        },
-        {
-          "title": "Watkins beats Smith by 20 votes in city commission election; Cara Ann Walker elected county clerk",
-          "snippet": "",
-          "url": "https://www.wpsdlocal6.com/news/watkins-beats-smith-by-20-votes-in-city-commission-election-cara-ann-walker-elected-county/article_37b93338-3370-4f92-aba3-1ad7b62597d0.html",
-          "source": "WPSD Local 6"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "borussia dortmund",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 4 Nov 2026 13:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5PLbmvO5b7CWp5F1FcLHHXd0imDyIJYaIBynXBAunlAO0qaev0S1RhCiA8LI",
-      "pictureSource": "RTL+",
-      "relatedSearch": [
-        {
-          "title": "Folge 500: Karetsas' Tor \"könnte ein Wendepunkt sein\" - und Como schafft Historisches",
-          "snippet": "",
-          "url": "https://plus.rtl.de/kicker-daily-der-fussball-news-podcast-p_18851/audio/karetsas-tor-konnte-ein-wendepunkt-sein-und-como-schafft-historisches-c_2196195",
-          "source": "RTL+"
-        },
-        {
-          "title": "BVB vs. Betis Sevilla heute live im TV, Stream und Ticker - wer überträgt Dortmund? Aufstellung",
-          "snippet": "",
-          "url": "https://ran.joyn.de/sports/fussball/champions-league/bvb-vs-betis-sevilla-heute-live-im-tv-stream-und-ticker-wer-uebertraegt-dortmund-in-der-champions-league-aufstellungen-210206",
-          "source": "Joyn"
-        },
-        {
-          "title": "Champions League - Dortmund feiert dritten Sieg in der Königsklasse - Leipzig verliert",
-          "snippet": "",
-          "url": "https://www.deutschlandfunk.de/dortmund-feiert-dritten-sieg-in-der-koenigsklasse-leipzig-verliert-102.html",
-          "source": "Deutschlandfunk"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "como",
-      "trafficCount": "5000+",
-      "pubDate": "Wed, 4 Nov 2026 12:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-PVOov0zEKBV_VFXFGtex6S8eNyQQPe_mEhFyT8q8YeWjO_3oPSrvzBhic8s",
-      "pictureSource": "ESPN",
-      "relatedSearch": [
-        {
-          "title": "Fabregas' Como up to 4th after record-setting 9-goal night",
-          "snippet": "",
-          "url": "https://www.espn.com/soccer/story/_/id/50382528/fabregas-como-4th-record-setting-nine-goal-night",
-          "source": "ESPN"
-        },
-        {
-          "title": "Como equal Champions League record with stunning 9-1 win at Lens",
-          "snippet": "",
-          "url": "https://www.reuters.com/sports/soccer/como-equal-champions-league-record-with-stunning-9-1-win-lens-2026-11-04/",
-          "source": "Reuters"
-        },
-        {
-          "title": "Lens 1-9 Como: Cesc Fabregas' side equal record for most goals in a Champions League game",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cqr7yp1k8l39t",
-          "source": "BBC"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "lens - como",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 4 Nov 2026 12:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJ8zYAVJCzkLuQglC25EeE0Is7bYNqSOnC9IlGZ0O3fs7aZgVW-X_-1jZ7-Y8",
-      "pictureSource": "Diario AS",
-      "relatedSearch": [
-        {
-          "title": "Show histórico de Cesc y Nico Paz",
-          "snippet": "",
-          "url": "https://as.com/futbol/champions/show-historico-de-cesc-y-nico-paz-f202611-n/",
-          "source": "Diario AS"
-        },
-        {
-          "title": "Partidos de hoy, miércoles 4 de noviembre, por Champions League",
-          "snippet": "",
-          "url": "https://www.tycsports.com/champions-league/partidos-de-hoy-miercoles-4-de-noviembre-por-champions-league-cruces-horarios-y-tv-id770049.html",
-          "source": "TyC Sports"
-        },
-        {
-          "title": "El Como asombra en Lens con la ¡mayor goleada en la historia de la Champions!",
-          "snippet": "",
-          "url": "https://www.marca.com/futbol/champions-league/cronica/2026/11/04/asombra-lens-mayor-goleada-historia-champions.html",
-          "source": "MARCA"
         }
       ],
       "link": "https://imtaqin.id/"

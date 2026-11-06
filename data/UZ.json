@@ -1,9 +1,93 @@
 {
-  "lastUpdate": "2026-11-06 19:37:57",
+  "lastUpdate": "2026-11-06 23:48:13",
   "data": [
     {
-      "title": "севилья – алавес",
+      "title": "новости",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 6 Nov 2026 14:20:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOhWGZnzUXD15qUGLGClRlCmi2lBzJVIBN3VX3LFvZ3bFC8cAcFNPyV2TMM-s",
+      "pictureSource": "Газета.uz",
+      "relatedSearch": [
+        {
+          "title": "«Люди будут есть меньше сыра и больше хлеба». Совет при президенте раскритиковал пошлины на продукты",
+          "snippet": "",
+          "url": "https://www.gazeta.uz/ru/2026/11/06/customs-duties/",
+          "source": "Газета.uz"
+        },
+        {
+          "title": "В Узбекистане отклонили предложение о пошлинах на 12 видов продуктов",
+          "snippet": "",
+          "url": "https://www.uzdaily.uz/ru/v-uzbekistane-otklonili-predlozhenie-o-poshlinakh-na-12-vidov-produktov/",
+          "source": "UzDaily.uz"
+        },
+        {
+          "title": "Сыр, йогурт и яблоки без льгот: совет по поддержке предпринимательства выступил против пошлин",
+          "snippet": "",
+          "url": "https://www.uzdaily.uz/ru/syr-iogurt-i-iabloki-bez-lgot-sovet-po-podderzhke-predprinimatelstva-vystupil-protiv-poshlin/",
+          "source": "UzDaily.uz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "волна похолодания",
       "trafficCount": "200+",
+      "pubDate": "Fri, 6 Nov 2026 13:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWi8Q2pi2Bp8OCVp6yl2hXHiFiHXP-Ph9iHiWT9gHLEmb2pW6hCYdkKL8Tpos",
+      "pictureSource": "Деловая Газета.Юг",
+      "relatedSearch": [
+        {
+          "title": "В Туапсе за несколько часов выпала половина месячной нормы осадков",
+          "snippet": "",
+          "url": "https://www.dg-yug.ru/news/20259120.html",
+          "source": "Деловая Газета.Юг"
+        },
+        {
+          "title": "Волна похолодания сегодня обрушилась на пол-России",
+          "snippet": "",
+          "url": "https://pogoda.mail.ru/news/72982296/",
+          "source": "Погода Mail"
+        },
+        {
+          "title": "Арктическое вторжение принесло в Туапсе 68 мм осадков за несколько часов",
+          "snippet": "",
+          "url": "https://newkuban.ru/news/261194837/",
+          "source": "Новая Кубань"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "эвертон – ковентри сити",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 6 Nov 2026 11:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVmsWtHYsOJHiJSlS5sIo5u8qvGf19fZcgOJa1DLESGHtL_ie_K2X1HUuPLPM",
+      "pictureSource": "Vietnam.vn",
+      "relatedSearch": [
+        {
+          "title": "Предварительный обзор матча «Эвертон» — «Ковентри»: напряженная борьба за первое место в турнирной таблице.",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/ru/nhan-dinh-everton-vs-coventry-diem-nong-cuoc-dua-top-dau",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "«Эвертон» победил «Ковентри» в матче чемпионата Англии",
+          "snippet": "",
+          "url": "https://matchtv.ru/football/matchtvnews_NI2383606_Everton_pobedil_Koventri_v_matche_chempionata_Anglii",
+          "source": "Матч ТВ"
+        },
+        {
+          "title": "Высокая оценка СМИ: Виталий Миколенко стал одним из лучших игроков Эвертона в матче с Ковентри",
+          "snippet": "",
+          "url": "https://terrikon.com/posts/590718",
+          "source": "Террикон"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "севилья – алавес",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 6 Nov 2026 11:20:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6y8Do550CFEMOm5W2E27D3dGTfUbCxSF3eD7uh_fVSoNFhGf6z9gn3ZPOxao",
       "pictureSource": "İdman.Biz",
@@ -21,10 +105,10 @@
           "source": "sport-express.net"
         },
         {
-          "title": "Севилья – Алавес. Где и когда смотреть онлайн LIVE прямую видеотрансляцию матча Ла Лиги",
+          "title": "«Севилья» — «Алавес». «Лига Ставок»: статистическое превью и история противостояния",
           "snippet": "",
-          "url": "https://www.ua-football.com/foreign/spain/1793923595-sevilya-alaves-gde-i-kogda-smotret-onlayn-live-pryamuyu-videotranslyaciyu-matcha-la-ligi.html",
-          "source": "UA-Football"
+          "url": "https://xn--90aiasbk5as2f.xn--p1ai/sport-prognoz/liga-stavok-seville-alaves-06-11-2026.html",
+          "source": "Букмекеры.рф"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,26 +145,26 @@
       "title": "локомотив москва – рубин",
       "trafficCount": "500+",
       "pubDate": "Fri, 6 Nov 2026 08:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSI7N6tOAsobzhfpNoyUmzMjOfVDa-2lqzGN7u97pJoIH7wQg1zw7tACuL2eA8",
-      "pictureSource": "Ставка ТВ",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBWixS4mZDgDt88akR4xRLleNa9AgDiC1utBIalpn5_DFWt2M332PWzRi9FEo",
+      "pictureSource": "sport-express.net",
       "relatedSearch": [
         {
-          "title": "Локомотив — Рубин: прогноз (кэф 2.38) 6 ноября 2026",
+          "title": "«Рубин» обыграл «Локомотив» в Москве",
           "snippet": "",
-          "url": "https://stavka.tv/matches/soccer/06-11-2026-lokomotiv-moscow-rubin-kazan",
-          "source": "Ставка ТВ"
+          "url": "https://www.sport-express.net/football/rfpl/news/lokomotiv-rubin-schet-i-rezultat-matcha-14-tura-rpl-6-noyabrya-2026-2471808/",
+          "source": "sport-express.net"
         },
         {
-          "title": "Из-за них «Локомотив» рухнул в зону вылета, три антигероя матча с «Рубином»",
+          "title": "«Локомотив» уже в зоне прямого вылета",
           "snippet": "",
-          "url": "https://www.euro-football.ru/article/29/1006412411_iz-za_nih_lokomotiv_ruhnul_v_zonu_vyileta_tri_antigeroya_matcha_s_rubinom",
+          "url": "https://www.euro-football.ru/article/29/1006412416_lokomotiv_uje_v_zone_pryamogo_vyileta",
           "source": "Евро-Футбол"
         },
         {
-          "title": "«Ну-ка быстро вышли к трибуне!» Фанаты «Локомотива» отреагировали на поражение от «Рубина»",
+          "title": "Кузьмин после победы над «Локомотивом» заявил о готовности возглавить «Рубин» на постоянной основе",
           "snippet": "",
-          "url": "https://fclm.news/football/138216-nu-ka-bystro.html",
-          "source": "fclmnews"
+          "url": "https://sport24.ru/football/news-895774-kuzmin-posle-pobedy-nad-lokomotivom-zayavil-o-gotovnosti-vozglavit-rubin-na-postoyannoy-osnove",
+          "source": "Sport24.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,16 +183,16 @@
           "source": "KTRE"
         },
         {
-          "title": "Thursday resumes an unsettled weather pattern across the Coastal Bend",
+          "title": "Thursday brings more cloud cover, and some late rain chances into Friday morning",
           "snippet": "",
-          "url": "https://www.kristv.com/weather/thursday-resumes-an-unsettled-weather-pattern-across-the-coastal-bend",
+          "url": "https://www.kristv.com/weather/thursday-brings-more-cloud-cover-and-some-late-rain-chances-into-friday-morning",
           "source": "KRIS 6 News Corpus Christi"
         },
         {
-          "title": "First Alert Forecast: Warm and dry Wednesday, rain chances soon",
+          "title": "Fall Finally Feels Like Fall in Texas | Texas Weather Roundup",
           "snippet": "",
-          "url": "https://www.12onyourside.com/video/2026/11/04/first-alert-forecast-warm-dry-wednesday-rain-chances-soon-2/",
-          "source": "WWBT"
+          "url": "https://texasstormchasers.com/forecast/fall-finally-feels-like-fall-in-texas-texas-weather-roundup/",
+          "source": "Texas Storm Chasers"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -124,7 +208,7 @@
     },
     {
       "title": "чирчик",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 6 Nov 2026 06:40:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRs9-W9MvIzjMd_EOp3j7GZqJ7sAxfC41XRtL-ABcG_xhxwn_FZVHMRt01SV-g",
       "pictureSource": "Podrobno.uz",
@@ -154,110 +238,26 @@
       "title": "tradingview",
       "trafficCount": "500+",
       "pubDate": "Fri, 6 Nov 2026 05:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAN1MCLBr08MD0XkHzfQcUa2L01VIM50KajxmTM10sh6zTmAsZh6DXMRzHNVU",
-      "pictureSource": "CNBC",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaYeggDZIAzn-6dRxwu89xBaMhgwcsWcElNniJP1N4fqtFYAOAaX38FJeF1l4",
+      "pictureSource": "TradingView",
       "relatedSearch": [
         {
-          "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
+          "title": "Selling scripts on TradingView: the new terms",
           "snippet": "",
-          "url": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
-          "source": "CNBC"
+          "url": "https://www.tradingview.com/blog/en/selling-scripts-tradingview-new-terms-62251/",
+          "source": "TradingView"
         },
         {
-          "title": "Data centers were not winners in the 2026 elections, CBS News exit polls find",
+          "title": "Catalyst Watch: Post-election positioning, Anthropic IPO buzz, and Adobe event (SPY:NYSEARCA)",
           "snippet": "",
-          "url": "https://www.cbsnews.com/news/exit-polls-data-centers-2026-election/",
-          "source": "CBS News"
+          "url": "https://seekingalpha.com/news/4667055-catalyst-watch-post-election-positioning-anthropic-ipo-buzz-and-adobe-event",
+          "source": "Seeking Alpha"
         },
         {
-          "title": "Silicon Valley’s Very Bad Night",
+          "title": "Michael Burry says he sold 25% of SMH puts (SMH:NASDAQ)",
           "snippet": "",
-          "url": "https://www.theatlantic.com/technology/2026/11/americans-really-dont-like-data-centers-elections/689284/",
-          "source": "The Atlantic"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "договор",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 6 Nov 2026 04:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRh7v54p-0DDdoVC_6AzprujhyWEaY8-hYprUhtghIZrkUnWB5nTwh4H9UbXi8",
-      "pictureSource": "Вечерний Санкт-Петербург",
-      "relatedSearch": [
-        {
-          "title": "Петербуржец через суд вернул 750 000 рублей за подмененный Volkswagen",
-          "snippet": "",
-          "url": "https://vecherka-spb.ru/2026/11/06/peterburzhets-cherez-sud-vernul-750-000-rublei-za-podmenennii-volkswagen",
-          "source": "Вечерний Санкт-Петербург"
-        },
-        {
-          "title": "Петербургский суд расторг сделку о купле-продаже автомобиля из-за обмана продавца",
-          "snippet": "",
-          "url": "https://78.ru/news/2026-11-06/peterburgskii-sud-rastorg-sdelku-o-kupleprodazhe-avtomobilya-izza-obmana-prodavca",
-          "source": "78.ru"
-        },
-        {
-          "title": "Суд в Петербурге расторг договор о продаже подмененного Volkswagen за 750 тысяч",
-          "snippet": "",
-          "url": "https://spbdnevnik.ru/news/2026-11-06/sud-v-peterburge-rastorg-dogovor-o-prodaze-podmenennogo-volkswagen-za-750-tysiac",
-          "source": "spbdnevnik.ru"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ferran torres",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 6 Nov 2026 04:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5SUfyqG1VidAUNNUvm6d2xxrtcy4CGY7Hv42PlMCeiEHnY-xDgMml1qDyXyI",
-      "pictureSource": "Diario AS",
-      "relatedSearch": [
-        {
-          "title": "Valles: “Por fin ha llegado la recompensa”",
-          "snippet": "",
-          "url": "https://as.com/futbol/valles-por-fin-ha-llegado-la-recompensa-f202611-n/",
-          "source": "Diario AS"
-        },
-        {
-          "title": "La lista de convocados de la selección española para los partidos frente a la República Checa e Inglaterra",
-          "snippet": "",
-          "url": "https://www.si.com/es-us/la-lista-de-convocados-de-la-seleccion-espanola-para-los-partidos-frente-a-la-republica-checa-e-inglaterra",
-          "source": "Sports Illustrated"
-        },
-        {
-          "title": "España se la jugará con debutantes en Fecha FIFA ante ola de lesiones",
-          "snippet": "",
-          "url": "https://www.telemundo.com/deportes/mas-deporte/espana-se-la-jugara-con-debutantes-en-fecha-fifa-ante-ola-de-lesiones-rcna607865",
-          "source": "Telemundo"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "forex factory",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 6 Nov 2026 03:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQML903MtmTQSJlFeVK0DHbtAPdKjB8lkaR8Qf7JY7FC4tnZDvxcFXnp-TdlSU",
-      "pictureSource": "FXStreet",
-      "relatedSearch": [
-        {
-          "title": "Breaking: US Nonfarm Payrolls rise by 165K in October vs. 65K expected",
-          "snippet": "",
-          "url": "https://www.fxstreet.com/news/us-nonfarm-payrolls-expected-to-pick-up-in-october-202611060930",
-          "source": "FXStreet"
-        },
-        {
-          "title": "\"Strong hire, low fire\" labor market surprises economists",
-          "snippet": "",
-          "url": "https://www.axios.com/2026/11/06/labor-market-employment-october",
-          "source": "Axios"
-        },
-        {
-          "title": "Ahmed Temani, PhD., Master Instructor of Engineering and Petroleum Engineering",
-          "snippet": "",
-          "url": "https://www.acadiananewsfirst.com/video/2026/11/06/ahmed-temani-phd-master-instructor-engineering-petroleum-engineering/",
-          "source": "KATC"
+          "url": "https://seekingalpha.com/news/4667403-michael-burry-says-he-sold-25-percent-of-smh-puts",
+          "source": "Seeking Alpha"
         }
       ],
       "link": "https://imtaqin.id/"

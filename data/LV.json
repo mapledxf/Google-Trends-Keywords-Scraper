@@ -1,9 +1,93 @@
 {
-  "lastUpdate": "2026-11-09 22:16:21",
+  "lastUpdate": "2026-11-10 04:09:13",
   "data": [
     {
-      "title": "выходные",
+      "title": "policija",
       "trafficCount": "200+",
+      "pubDate": "Mon, 9 Nov 2026 18:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2mfiKGbFQB_rmAoUyH1ybBy2idqfRufa-IAhVG0WqWnMsE2q8nEJNnSnmtg",
+      "pictureSource": "liepajniekiem.lv",
+      "relatedSearch": [
+        {
+          "title": "Policija Liepājā skaidro jaunieša identitāti",
+          "snippet": "",
+          "url": "https://www.liepajniekiem.lv/zinas/kriminalzinas-negadijumi/policija-liepaja-skaidro-cilveku-identitati-4/",
+          "source": "liepajniekiem.lv"
+        },
+        {
+          "title": "Kas ir šis vīrietis? Likumsargi ļoti vēlas noskaidrot viņa identitāti",
+          "snippet": "",
+          "url": "https://tv3.lv/degpunkta/degpunkta-dazadi/kas-ir-sis-virietis-likumsargi-loti-velas-noskaidrot-vina-identitati/",
+          "source": "tv3.lv"
+        },
+        {
+          "title": "Pateicoties iedzīvotāju atsaucībai, Jēkabpilī izdevies noskaidrot policijas meklētās personas identitāti",
+          "snippet": "",
+          "url": "https://jauns.lv/raksts/zinas/736654-pateicoties-iedzivotaju-atsaucibai-jekabpili-izdevies-noskaidrot-policijas-mekletas-personas-identitati",
+          "source": "Jauns.lv"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "эвакуация",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 9 Nov 2026 18:10:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmr7Q8QnDbYLQYAORSW72vVxbOd8PV1oi-qScK3oB74pF2gjeF54XtbAR8X4Y",
+      "pictureSource": "Gorodvo",
+      "relatedSearch": [
+        {
+          "title": "В Вологодской области определены тарифы за перемещение задержанных транспортных средств на спецстоянки",
+          "snippet": "",
+          "url": "https://gorodvo.ru/news/7413860-v-vologodskoy-oblasti-opredeleny-tarify-za-peremeshchenie-zaderjannyh-transportnyh-sredstv-na-specstoyanki",
+          "source": "Gorodvo"
+        },
+        {
+          "title": "Новые тарифы на эвакуацию, вторая жизнь накопительных пенсий и другие новости за 2 ноября",
+          "snippet": "",
+          "url": "https://kaspyinfo.ru/news/region/119165",
+          "source": "КаспийИнфо. Новости Астрахани и региона"
+        },
+        {
+          "title": "Эвакуация и штрафстоянка в Красноярском крае подорожает в 2027 году",
+          "snippet": "",
+          "url": "https://gornovosti.ru/news/evakuatsiya-i-shtrafstoyanka-v-krasnoyarskom-krae-podorozhaet-v-2027-godu-/",
+          "source": "Городские Новости Красноярск"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ugunsgrēks",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 9 Nov 2026 13:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWiEVJCOUTv0orMpagisYBgex8GViwavCm_6hmbxRnLh0Tjv60fRFDbBDh7Zo",
+      "pictureSource": "NRA",
+      "relatedSearch": [
+        {
+          "title": "Daudzstāvu mājas ugunsgrēkā gājuši bojā 14 cilvēki",
+          "snippet": "",
+          "url": "https://nra.lv/pasaule/534021-ugunsgreka-gajusi-boja-14-cilveki.htm",
+          "source": "NRA"
+        },
+        {
+          "title": "Ugunsgrēkā Ķīnā 14 bojāgājušie",
+          "snippet": "",
+          "url": "https://diena.lv/raksts/pasaule/cits/ugunsgreka-kina-14-bojagajusie",
+          "source": "Diena"
+        },
+        {
+          "title": "Traģēdija Ķīnā: liesmas pārņem daudzstāvu ēku, bojā gājuši vismaz 14 cilvēki",
+          "snippet": "",
+          "url": "https://jauns.lv/raksts/arzemes/737246-tragedija-kina-liesmas-parnem-daudzstavu-eku-boja-gajusi-vismaz-14-cilveki",
+          "source": "Jauns.lv"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "выходные",
+      "trafficCount": "500+",
       "pubDate": "Mon, 9 Nov 2026 13:10:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaqeI7WQQqd3tEZm2an_3zkkU3gmtNfadduSoJLHEN5-KXg9rcxOqomcz1bw8",
       "pictureSource": "vtomske.ru",
@@ -21,10 +105,10 @@
           "source": "Новости Твери и Тверской области"
         },
         {
-          "title": "Россияне будут отдыхать 11 дней на новогодних каникулах: Госдума утвердила самые длинные праздники за последние годы",
+          "title": "Россияне будут отдыхать 11 дней на новогодних каникулах",
           "snippet": "",
-          "url": "https://gubkin.city/news/society/251090/",
-          "source": "Gubkin.City"
+          "url": "https://properm.ru/news/2026-11-08/rossiyane-budut-otdyhat-11-dney-na-novogodnih-kanikulah-5727100",
+          "source": "properm.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -45,7 +129,7 @@
         {
           "title": "“Uz tikšanos un sadzirdēšanos!” Mūziķis Mārtiņš Kanters paziņo par lielām pārmaiņām dzīvē",
           "snippet": "",
-          "url": "https://www.la.lv/uz-tiksanos-un-sadzirdesanos-muzikis-martins-kanters-pazino-par-lielam-parmainam-dzive/komentari",
+          "url": "https://www.la.lv/uz-tiksanos-un-sadzirdesanos-muzikis-martins-kanters-pazino-par-lielam-parmainam-dzive",
           "source": "LA.LV"
         },
         {
@@ -71,16 +155,16 @@
           "source": "BBC"
         },
         {
-          "title": "Russell Brand sentenced to more than 10 years in prison for rape and sexual assault",
+          "title": "UK's Russell Brand sentenced to 10-and-a-half years in jail for rape, sexual assault",
           "snippet": "",
-          "url": "https://www.theguardian.com/news/2026/nov/09/russell-brand-sentenced-rape-sexual-assault",
-          "source": "The Guardian"
+          "url": "https://www.reuters.com/business/media-telecom/uks-russell-brand-due-court-rape-sexual-assault-sentencing-2026-11-09/",
+          "source": "Reuters"
         },
         {
-          "title": "Russell Brand latest: Comedian jailed for 10 years and six months for rape and sexual assault",
+          "title": "Bear Grylls addresses Russell Brand's baptism, calls victims 'heroes of the day' after verdict",
           "snippet": "",
-          "url": "https://news.sky.com/story/russell-brand-sentencing-jail-guilty-rape-sexual-assault-trial-live-latest-13592674",
-          "source": "Sky News"
+          "url": "https://www.foxnews.com/entertainment/bear-grylls-addresses-russell-brands-baptism-calls-victims-heroes-day-after-verdict",
+          "source": "Fox News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -105,12 +189,21 @@
           "source": "LSM"
         },
         {
-          "title": "Izraēlas ministrs: Cīņa pret Irānu nav beigusies",
+          "title": "Izraēlas aizsardzības ministrs: Cīņa pret Irānu nav beigusies",
           "snippet": "",
-          "url": "https://www.tvnet.lv/8579609/izraelas-ministrs-cina-pret-iranu-nav-beigusies",
-          "source": "TVNET"
+          "url": "https://www.delfi.lv/46713439/arzemes/120141763/izraelas-aizsardzibas-ministrs-cina-pret-iranu-nav-beigusies",
+          "source": "DELFI"
         }
       ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "снег",
+      "trafficCount": "2000+",
+      "pubDate": "Mon, 9 Nov 2026 05:20:00 -0800",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -155,128 +248,16 @@
           "source": "Sportacentrs.com"
         },
         {
-          "title": "“Rangers” mistērija – treneris nezina, kad Šmits guva savainojumu",
-          "snippet": "",
-          "url": "https://www.sportazinas.com/rangers-misterija-treneris-nezina-kad-smits-guva-savainojumu/",
-          "source": "Sportazinas.com"
-        },
-        {
           "title": "Šmita debijas NHL sezona uz pauzes – savainojuma dēļ jāizlaiž vairākas nedēļas",
           "snippet": "",
           "url": "https://www.delfi.lv/sports/16978259/hokejs/120141911/smita-debijas-nhl-sezona-uz-pauzes-savainojuma-del-jaizlaiz-vairakas-nedelas",
           "source": "DELFI"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "налог на недвижимость",
-      "trafficCount": "2000+",
-      "pubDate": "Mon, 9 Nov 2026 01:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7oNfnBM9d9RDqBnnq5ZpPzgCZ_vfGHsQlI5DcWY4W11RsGYRvY2c9HQDW0cU",
-      "pictureSource": "Горецкие Новости",
-      "relatedSearch": [
-        {
-          "title": "Об уплате Единого имущественного платежа",
-          "snippet": "",
-          "url": "https://gorkiv.by/ob-uplate-edinogo-imushhestvennogo-platezha-2/",
-          "source": "Горецкие Новости"
         },
         {
-          "title": "Осталась неделя, чтобы заплатить налоги за квартиру, землю и машину",
+          "title": "“Rangers” mistērija – treneris nezina, kad Šmits guva savainojumu",
           "snippet": "",
-          "url": "https://money.onliner.by/2026/11/09/ostalas-nedelya-chtoby-zaplatit-nalogi-za-kvartiru-zemlyu-i-mashinu",
-          "source": "Onlíner"
-        },
-        {
-          "title": "Как правильно оплатить налог на недвижимость?",
-          "snippet": "",
-          "url": "https://newgrodno.by/novosti-belarusi/kak-pravilno-oplatit-nalog-na-nedvizhimost/",
-          "source": "NewGrodno.By"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "agate caune",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 9 Nov 2026 01:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcToadYTW897Msv4n3E6fCyyj8nMNz0xt95fz19WC-IK5wJ15muVqOLi2x4PZSY",
-      "pictureSource": "Sportacentrs.com",
-      "relatedSearch": [
-        {
-          "title": "Vien 22 gadu vecumā karjeru negaidīti noslēdz Latvijas rekordiste Agate Caune – Vieglatlētika",
-          "snippet": "",
-          "url": "https://sportacentrs.com/vieglatletika/09112026-vien_22_gadu_vecuma_karjeru_negaiditi_nos",
-          "source": "Sportacentrs.com"
-        },
-        {
-          "title": "Negaidīts un pēkšņs lēmums pārsteidz sporta arēnu - viņa pamet karjeru 22 gadu vecumā",
-          "snippet": "",
-          "url": "https://nra.lv/sports/534000-agate-caune-pamet-sporta-karjeru.htm",
-          "source": "NRA"
-        },
-        {
-          "title": "22 gadus vecā Agate Caune negaidīti noslēdz profesionālo karjeru",
-          "snippet": "",
-          "url": "https://www.apollo.lv/8579762/22-gadus-veca-agate-caune-negaiditi-nosledz-profesionalo-karjeru",
-          "source": "Apollo.lv"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ukraina",
-      "trafficCount": "2000+",
-      "pubDate": "Mon, 9 Nov 2026 00:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ55K3CJZUH1qpfvklDrmuTmH5fj-zHqvMEG-6_5I-NR952mxXW6GtOWxeeq7M",
-      "pictureSource": "tv3.lv",
-      "relatedSearch": [
-        {
-          "title": "Kas ir šis vīrietis? Likumsargi ļoti vēlas noskaidrot viņa identitāti",
-          "snippet": "",
-          "url": "https://tv3.lv/degpunkta/degpunkta-dazadi/kas-ir-sis-virietis-likumsargi-loti-velas-noskaidrot-vina-identitati/",
-          "source": "tv3.lv"
-        },
-        {
-          "title": "Tramps ar Putinu grasās noslēgt dubultu vienošanos, kas aptvertu visu Eiropu: kas viņam padomā?",
-          "snippet": "",
-          "url": "https://www.la.lv/tramps-ar-putinu-grasas-noslegt-dubultu-vienosanos-kas-aptvertu-visu-eiropu-kas-vinam-padoma",
-          "source": "LA.LV"
-        },
-        {
-          "title": "\"Vienīgais iemesls, kāpēc karš beigsies, esmu es!\" Tramps sev uzsit pa plecu un prognozē drīzas kara beigas Ukrainā",
-          "snippet": "",
-          "url": "https://jauns.lv/raksts/arzemes/737197-vienigais-iemesls-kapec-kars-beigsies-esmu-es-tramps-sev-uzsit-pa-plecu-un-prognoze-drizas-kara-beigas-ukraina",
-          "source": "Jauns.lv"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "pensija",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 9 Nov 2026 00:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVbvzluZraBTA-Rp4zVHYkUpTGk6UOC0Bio0FBIaHGDXLtIE_Qm09NvTG2TkU",
-      "pictureSource": "tv3.lt",
-      "relatedSearch": [
-        {
-          "title": "Šie gyventojai pensiją gali gauti dar nesulaukę nustatyto amžiaus: atsakė, ar apsimoka",
-          "snippet": "",
-          "url": "https://www.tv3.lt/naujiena/verslas/sie-gyventojai-pensija-gali-gauti-dar-nesulauke-nustatyto-amziaus-atsake-ar-apsimoka-n1565372",
-          "source": "tv3.lt"
-        },
-        {
-          "title": "Milijonui gyventojų – svarbi žinia dėl išmokų",
-          "snippet": "",
-          "url": "https://lnk.lt/straipsniai/Verslas/milijonui-gyventoju--svarbi-zinia-del-ismoku/406101",
-          "source": "LNK.LT"
-        },
-        {
-          "title": "Globos išmoka 2027 – globėjams už paauglį iki 819 eurų",
-          "snippet": "",
-          "url": "https://77.lt/globos-ismoka-2027-kiek-mokes-globejams",
-          "source": "77.lt"
+          "url": "https://www.sportazinas.com/rangers-misterija-treneris-nezina-kad-smits-guva-savainojumu/",
+          "source": "Sportazinas.com"
         }
       ],
       "link": "https://imtaqin.id/"

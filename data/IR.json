@@ -1,251 +1,282 @@
 {
-  "lastUpdate": "2026-11-23 23:58:19",
+  "lastUpdate": "2026-11-24 08:46:34",
   "data": [
     {
-      "title": "حسن روشن",
+      "title": "قیمت دلار امروز",
+      "trafficCount": "5000+",
+      "pubDate": "Tue, 24 Nov 2026 00:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsktMrCNozBRd_tUonFwujSlYwyV4VLoxldGBEFzC9Rkt_uFYI6Izvy_9_KmQ",
+      "pictureSource": "روزنامه دنیای اقتصاد",
+      "relatedSearch": [
+        {
+          "title": "نرخ دلار، طلا و یورو امروز یکشنبه ۱ آذر ۱۴۰۵ / طلا و سکه صعودی شدند",
+          "snippet": "",
+          "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309994-%D9%86%D8%B1%D8%AE-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%B0%D8%B1-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%B5%D8%B9%D9%88%D8%AF%DB%8C-%D8%B4%D8%AF%D9%86%D8%AF",
+          "source": "روزنامه دنیای اقتصاد"
+        },
+        {
+          "title": "قیمت دلار در بازار آزاد ایران، از ۲۸۰ هزار تومان عبور کرد",
+          "snippet": "",
+          "url": "https://www.iranintl.com/202611240719",
+          "source": "Iran International"
+        },
+        {
+          "title": "نرخ حواله پنج ارز در مرکز مبادله ایران اعلام شد",
+          "snippet": "",
+          "url": "https://www.mehrnews.com/news/7020024/%D9%86%D8%B1%D8%AE-%D8%AD%D9%88%D8%A7%D9%84%D9%87-%D9%BE%D9%86%D8%AC-%D8%A7%D8%B1%D8%B2-%D8%AF%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF",
+          "source": "خبرگزاری مهر"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "نوسان",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 24 Nov 2026 00:20:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA6_bsSEapzlCyGCZaiHU4KQ_bZQEeQ2e2ifPZ2WCKYX0DF-fJMLawmrBsozM",
+      "pictureSource": "رادیو فردا",
+      "relatedSearch": [
+        {
+          "title": "افزایش بهای ارز در ایران ادامه دارد؛ دلار در کانال ۲۷۰ هزار تومان",
+          "snippet": "",
+          "url": "https://www.radiofarda.com/a/us-dollar-rises-to-the-270-000-toman-range-in-iran/33904666.html",
+          "source": "رادیو فردا"
+        },
+        {
+          "title": "یورو در آبان بازنده شد؛ حواله دلار و درهم بیشترین بازدهی را ثبت کردند",
+          "snippet": "",
+          "url": "https://www.tgju.org/news/4001626/%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D8%B1-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%AF-%D8%AD%D9%88%D8%A7%D9%84%D9%87-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%D8%AF%D8%B1%D9%87%D9%85-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%DB%8C%D9%86-%D8%A8%D8%A7%D8%B2%D8%AF%D9%87%DB%8C-%D8%B1%D8%A7-%D8%AB%D8%A8%D8%AA-%DA%A9%D8%B1%D8%AF%D9%86%D8%AF",
+          "source": "www.tgju.org"
+        },
+        {
+          "title": "چرا اخبار مثبت دلار را ارزان و اخبار منفی آن را گران می‌کند؟",
+          "snippet": "",
+          "url": "https://sarmayevabourse.ir/27463/%DA%86%D8%B1%D8%A7-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%AB%D8%A8%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%A7-%D8%A7%D8%B1%D8%B2%D8%A7%D9%86-%D9%88-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D9%86%D9%81",
+          "source": "سرمایه و بورس"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "پیام رسان بله",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 24 Nov 2026 00:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuCpeJXqyYsz-RE6g3pw56oh_Fqv6uPeOzZJ9VgqkU5_VftJK6YldDVav_LrY",
+      "pictureSource": "خبرگزاری مهر",
+      "relatedSearch": [
+        {
+          "title": "پیام رسان اتوبوسرانی تهران در «بله» راه‌اندازی شد",
+          "snippet": "",
+          "url": "https://www.mehrnews.com/news/7020178/%D9%BE%DB%8C%D8%A7%D9%85-%D8%B1%D8%B3%D8%A7%D9%86-%D8%A7%D8%AA%D9%88%D8%A8%D9%88%D8%B3%D8%B1%D8%A7%D9%86%DB%8C-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A8%D9%84%D9%87-%D8%B1%D8%A7%D9%87-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C-%D8%B4%D8%AF",
+          "source": "خبرگزاری مهر"
+        },
+        {
+          "title": "پیام‌رسان اتوبوسرانی تهران راه‌اندازی شد",
+          "snippet": "",
+          "url": "https://nournews.ir/fa/news/364937/%D9%BE%DB%8C%D8%A7%D9%85-%D8%B1%D8%B3%D8%A7%D9%86-%D8%A7%D8%AA%D9%88%D8%A8%D9%88%D8%B3%D8%B1%D8%A7%D9%86%DB%8C-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7%D9%87-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C-%D8%B4%D8%AF",
+          "source": "نورنیوز"
+        },
+        {
+          "title": "نوسازی ۸۰ درصدی ناوگان اتوبوسرانی تهران",
+          "snippet": "",
+          "url": "https://tehranpress.com/fa/news/97258/%D9%86%D9%88%D8%B3%D8%A7%D8%B2%DB%8C-80-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D9%86%D8%A7%D9%88%DA%AF%D8%A7%D9%86-%D8%A7%D8%AA%D9%88%D8%A8%D9%88%D8%B3%D8%B1%D8%A7%D9%86%DB%8C-%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
+          "source": "تهران پرس"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "gta",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 23 Nov 2026 23:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgHdUkza5rsK6M8QyTnbKmmPGCg3S2WGsqrrvpzKJcpUTaI_cekC7NO9dN4EI",
+      "pictureSource": "Variety",
+      "relatedSearch": [
+        {
+          "title": "Box Office: ‘Sunrise on the Reaping’ Reignites ‘Hunger Games’ Franchise With $120 Million Debut",
+          "snippet": "",
+          "url": "https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-opening-weekend-exceeds-expectations-1236953061/",
+          "source": "Variety"
+        },
+        {
+          "title": "New ‘Hunger Games’ film is true to the story",
+          "snippet": "",
+          "url": "https://youthjournalism.org/new-hunger-games-film-is-true-to-the-story/",
+          "source": "Youth Journalism International"
+        },
+        {
+          "title": "‘GTA 6’ Won Men. ‘Hunger Games’ Won the Box Office",
+          "snippet": "",
+          "url": "https://theankler.com/gta-6-won-men-hunger-games-won-the-box-office/",
+          "source": "The Ankler"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "bale",
       "trafficCount": "1000+",
-      "pubDate": "Mon, 23 Nov 2026 11:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBWfhTq9iLE3iwMqdGktAT7gwXJyXh0wmMd0baTMPwcXD0Q-5D2e70xwshE-o",
-      "pictureSource": "تسنیم",
+      "pubDate": "Mon, 23 Nov 2026 23:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQEIRvp7kHoLXx2rubmFULLG8A159ugpy9LLtWVtdaH2RSEwKzBQWFu5bPa5mY",
+      "pictureSource": "ESPN",
       "relatedSearch": [
         {
-          "title": "بیرانوند: به هیچ‌کس برای معافیت زنگ نمی‌زنم/ بی‌احترامی نکردم",
+          "title": "Raiders' Mark Davis unhappy with 'unfair' image of his father in 'Madden' movie",
           "snippet": "",
-          "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3753714/%D8%A8%DB%8C%D8%B1%D8%A7%D9%86%D9%88%D9%86%D8%AF-%D8%A8%D9%87-%D9%87%DB%8C%DA%86-%DA%A9%D8%B3-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%B9%D8%A7%D9%81%DB%8C%D8%AA-%D8%B2%D9%86%DA%AF-%D9%86%D9%85%DB%8C-%D8%B2%D9%86%D9%85-%D8%A8%DB%8C-%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%85%DB%8C-%D9%86%DA%A9%D8%B1%D8%AF%D9%85",
-          "source": "تسنیم"
+          "url": "https://www.espn.com/nfl/story/_/id/50549761/mark-davis-upset-father-portrayal-movie-madden",
+          "source": "ESPN"
         },
         {
-          "title": "آنگاه که معیارهای فوتبالی، قربانی تعصب رسانه‌ای می‌شوند",
+          "title": "Madden review – Nicolas Cage is a cartoonish NFL legend in David O Russell’s stinker",
           "snippet": "",
-          "url": "https://fa.alalam.ir/news/7701548/%D8%A2%D9%86%DA%AF%D8%A7%D9%87-%DA%A9%D9%87-%D9%85%D8%B9%DB%8C%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84%DB%8C%D8%8C-%D9%82%D8%B1%D8%A8%D8%A7%D9%86%DB%8C-%D8%AA%D8%B9%D8%B5%D8%A8-%D8%B1%D8%B3%D8%A7%D9%86%D9%87-%D8%A7%DB%8C-%D9%85%DB%8C-%D8%B4%D9%88%D9%86%D8%AF",
-          "source": "شبکه العالم"
+          "url": "https://www.theguardian.com/film/2026/nov/18/madden-review-nicolas-cage",
+          "source": "The Guardian"
         },
         {
-          "title": "درخشش ایرانیان در آسیا",
+          "title": "Raiders owner Mark Davis 'hurt' by 'Madden' movie's Al Davis portrayal | Exclusive",
           "snippet": "",
-          "url": "https://fa.shafaqna.com/news/2407390/",
-          "source": "خبرگزاری بین المللی شفقنا"
+          "url": "https://www.usatoday.com/story/sports/nfl/raiders/2026/11/20/mark-davis-says-madden-movie-unfairly-portrays-late-raiders-owner-al-davis/92887586007/",
+          "source": "USA Today"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "سینا ولی الله",
+      "title": "ncr",
       "trafficCount": "200+",
-      "pubDate": "Mon, 23 Nov 2026 11:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2NtWDNZKbCOdKkDlXVU1ejNVDvzE3CZVxz3ZRG5l67bpLihduLjvPFZYy-Oo",
-      "pictureSource": "مجله اینترنتی برترین ها",
+      "pubDate": "Mon, 23 Nov 2026 22:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyYyTxBtcFoh9YoDD8MMJzx48xPtCDvtmAbnuq_wCNQAtCI00jN5S_bJyo2Wk",
+      "pictureSource": "National Catholic Reporter",
       "relatedSearch": [
         {
-          "title": "فحش رکیک المیرا شریفی‌مقدم به سینا ولی‌الله",
+          "title": "Cardinal Cupich: US bishops failed to read signs of the times at recent meeting",
           "snippet": "",
-          "url": "https://www.bartarinha.ir/%D8%A8%D8%AE%D8%B4-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B1%D9%88%D8%B2-20/1629997-%D9%81%D8%AD%D8%B4-%D8%B1%DA%A9%DB%8C%DA%A9-%D8%A7%D9%84%D9%85%DB%8C%D8%B1%D8%A7-%D8%B4%D8%B1%DB%8C%D9%81%DB%8C-%D9%85%D9%82%D8%AF%D9%85-%D8%A8%D9%87-%D8%B3%DB%8C%D9%86%D8%A7-%D9%88%D9%84%DB%8C-%D8%A7%D9%84%D9%84%D9%87",
-          "source": "مجله اینترنتی برترین ها"
+          "url": "https://www.ncronline.org/news/cardinal-cupich-us-bishops-failed-read-signs-times-recent-meeting",
+          "source": "National Catholic Reporter"
         },
         {
-          "title": "درگیری لفظی المیرا شریفی‌مقدم با سینا ولی‌الله",
+          "title": "India’s recurring pollution crisis calls for a sustained movement for cleaner air",
           "snippet": "",
-          "url": "https://news.gooya.com/2026/11/post-115297.php",
-          "source": "Gooya News"
+          "url": "https://www.thehindu.com/news/national/indias-recurring-pollution-crisis-calls-for-a-sustained-movement-for-cleaner-air/article71731473.ece",
+          "source": "The Hindu"
+        },
+        {
+          "title": "CSIR-NEERI brings experts together to find solutions to air pollution",
+          "snippet": "",
+          "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2339543&reg=3&lang=1",
+          "source": "www.pib.gov.in"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "بایرن مونیخ",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 23 Nov 2026 10:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhfoBooxqHvsbJHmrWCWolX4VbNjxtKxMX_Aj2MQEDq2YJDDY27qWPjWfmkBo",
-      "pictureSource": "فوتبال ۳۶۰",
+      "title": "ذبیح الله مجاهد",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 23 Nov 2026 22:40:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHZ4p_rpa2ueDJQRE9vkLuQjnS8MXTi40jP6FeVDG3f5x6AE1NXHYapE3E_Tc",
+      "pictureSource": "خبرگزاری اطلس",
       "relatedSearch": [
         {
-          "title": "تشنج دوباره موسیالا؛ جمال بی‌رخ",
+          "title": "توقف تجارت با افغانستان و افزایش هزینه‌ها رشد صادرات نساجی پاکستان را محدود کرد",
           "snippet": "",
-          "url": "https://football360.ir/post/20261122138/%D8%AA%D8%B4%D9%86%D8%AC-%D8%AF%D9%88%D8%A8%D8%A7%D8%B1%D9%87-%D9%85%D9%88%D8%B3%DB%8C%D8%A7%D9%84%D8%A7-%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7-%D9%BE%DB%8C%DA%86%DB%8C%D8%AF%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D8%A8%D8%A7%D8%B2%DB%8C%DA%A9%D9%86",
-          "source": "فوتبال ۳۶۰"
+          "url": "https://atlaspress.news/pakistan-textile-export-challenges/",
+          "source": "خبرگزاری اطلس"
         },
         {
-          "title": "جنجال اظهارات مدیران بایرن مونیخ درباره وضعیت سلامتی جمال موسیالا",
+          "title": "مقام پاکستانی: اختلافات سیاسی نباید تجارت با افغانستان را مختل کند",
           "snippet": "",
-          "url": "https://www.iranintl.com/202611214186",
+          "url": "https://www.shahrekhabar.com/news/179544072098062",
+          "source": "شهر خبر"
+        },
+        {
+          "title": "توقف یک‌ماهه کامیون‌های افغانستان در مسیر ریمدان؛ میوه‌ها پیش از رسیدن به مقصد فاسد می‌شوند",
+          "snippet": "",
+          "url": "https://rahbordemoaser.ir/fa/news/324033/%D8%AA%D9%88%D9%82%D9%81%20%DB%8C%DA%A9%E2%80%8C%D9%85%D8%A7%D9%87%D9%87%20%DA%A9%D8%A7%D9%85%DB%8C%D9%88%D9%86%E2%80%8C%D9%87%D8%A7%DB%8C%20%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86%20%D8%AF%D8%B1%20%D9%85%D8%B3%DB%8C%D8%B1%20%D8%B1%DB%8C%D9%85%D8%AF%D8%A7%D9%86%D8%9B%20%D9%85%DB%8C%D9%88%D9%87%E2%80%8C%D9%87%D8%A7%20%D9%BE%DB%8C%D8%B4%20%D8%A7%D8%B2%20%D8%B1%D8%B3%DB%8C%D8%AF%D9%86%20%D8%A8%D9%87%20%D9%85%D9%82%D8%B5%D8%AF%20%D9%81%D8%A7%D8%B3%D8%AF%20%D9%85%DB%8C%E2%80%8C%D8%B4%D9%88%D9%86%D8%AF",
+          "source": "راهبرد معاصر"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "کارلوس آلکاراس",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 23 Nov 2026 22:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQE6rbNVcnAjZHQfRNw4Zz4iwuYEgkTSBv8Pb_lBpUM6jy_909HQc6dWS3sSFY",
+      "pictureSource": "Iran International",
+      "relatedSearch": [
+        {
+          "title": "بازگشت رویایی آلکاراس؛ ۸۴ روز توفانی، چهار جام و یک رکورد تاریخی در تورین",
+          "snippet": "",
+          "url": "https://www.iranintl.com/202611232193",
           "source": "Iran International"
         },
         {
-          "title": "جمال موسيالا از رفتار مدیران بایرن‌مونیخ خشمگین شد",
+          "title": "پایان فصل تورین؛ جایزه ۵.۱۷ میلیون دلاری برای قهرمانی بدون شکست",
           "snippet": "",
-          "url": "https://footballi.net/news/r/1076719/%D8%AC%D9%85%D8%A7%D9%84-%D9%85%D9%88%D8%B3%D9%8A%D8%A7%D9%84%D8%A7-%D8%A7%D8%B2-%D8%B1%D9%81%D8%AA%D8%A7%D8%B1-%D9%85%D8%AF%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%DB%8C%D8%B1%D9%86-%D9%85%D9%88%D9%86%DB%8C%D8%AE-%D8%AE%D8%B4%D9%85%DA%AF%DB%8C%D9%86-%D8%B4%D8%AF",
-          "source": "فوتبالی"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "الاتحاد مقابل پاختاکور",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 23 Nov 2026 10:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSiOFkiygHvJc4N-a9tb1_JR3bTY7E1UUUGjR6FIz_b5sYM7H9d85cPq44jpQI",
-      "pictureSource": "شبکه ورزش سیما",
-      "relatedSearch": [
-        {
-          "title": "پخش زنده فوتبال الاتحاد و پاختاکور در شبکه ورزش",
-          "snippet": "",
-          "url": "https://varzeshtv.ir/news/519304",
-          "source": "شبکه ورزش سیما"
+          "url": "https://tennisfa.com/2026/11/22/%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D9%81%D8%B5%D9%84-%D8%AA%D9%88%D8%B1%DB%8C%D9%86%D8%9B-%D8%AC%D8%A7%DB%8C%D8%B2%D9%87-%DB%B5-%DB%B1%DB%B7-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1/",
+          "source": "تنیسفا"
         },
         {
-          "title": "مصدومیت ادامه‌دار پورعلی‌گنجی در آسیا",
+          "title": "تنیس الکساندر زورف - کارلوس آلکاراز",
           "snippet": "",
-          "url": "https://akharinkhabar.ir/sport/11083587/%D9%85%D8%B5%D8%AF%D9%88%D9%85%DB%8C%D8%AA-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%AF%D8%A7%D8%B1-%D9%BE%D9%88%D8%B1%D8%B9%D9%84%DB%8C-%DA%AF%D9%86%D8%AC%DB%8C-%D8%AF%D8%B1-%D8%A2%D8%B3%DB%8C%D8%A7",
-          "source": "آخرین خبر"
-        },
-        {
-          "title": "پخش فوتبال الاتحاد و پاختاکور و برنامه «تهران ۲۰» از شبکه‌های ورزش و تهران",
-          "snippet": "",
-          "url": "https://www.irib-news.ir/fa/news/5974773/%D9%BE%D8%AE%D8%B4-%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D9%88-%D9%BE%D8%A7%D8%AE%D8%AA%D8%A7%DA%A9%D9%88%D8%B1-%D9%88-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-20-%D8%A7%D8%B2-%D8%B4%D8%A8%DA%A9%D9%87-%D9%87%D8%A7%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4-%D9%88-%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
-          "source": "خبرگزاری صدا و سیما"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "علی علیپور",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 23 Nov 2026 10:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRmO79cjFTlkTiGNE7IKKk8_2I1t13s0XZiSTgwT4JNymsSk9YQQOvWzwONOBA",
-      "pictureSource": "فوتبال ۳۶۰",
-      "relatedSearch": [
-        {
-          "title": "آشتی سکو با مهاجم سرخ؛ بازگشت علی «آقای گل»!",
-          "snippet": "",
-          "url": "https://football360.ir/post/20261120104/%D8%A2%D8%B4%D8%AA%DB%8C-%D8%B3%DA%A9%D9%88-%D8%A8%D8%A7-%D9%85%D9%87%D8%A7%D8%AC%D9%85-%D8%B3%D8%B1%D8%AE-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%B9%D9%84%DB%8C-%D8%A2%D9%82%D8%A7%DB%8C-%DA%AF%D9%84",
-          "source": "فوتبال ۳۶۰"
-        },
-        {
-          "title": "تأثیرگذارترین بازیکن لیگ یک پرسپولیسی است",
-          "snippet": "",
-          "url": "https://www.khabarvarzeshi.com/news/564357/%D8%AA%D8%A3%D8%AB%DB%8C%D8%B1%DA%AF%D8%B0%D8%A7%D8%B1%D8%AA%D8%B1%DB%8C%D9%86-%D8%A8%D8%A7%D8%B2%DB%8C%DA%A9%D9%86-%D9%84%DB%8C%DA%AF-%DB%8C%DA%A9-%D9%BE%D8%B1%D8%B3%D9%BE%D9%88%D9%84%DB%8C%D8%B3%DB%8C-%D8%A7%D8%B3%D8%AA",
-          "source": "خبر ورزشی"
-        },
-        {
-          "title": "پایان یک دوره تلخ برای کاپیتان پرسپولیس",
-          "snippet": "",
-          "url": "https://akharinkhabar.ir/sport/11083289/%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%DB%8C%DA%A9-%D8%AF%D9%88%D8%B1%D9%87-%D8%AA%D9%84%D8%AE-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%A9%D8%A7%D9%BE%DB%8C%D8%AA%D8%A7%D9%86-%D9%BE%D8%B1%D8%B3%D9%BE%D9%88%D9%84%DB%8C%D8%B3",
-          "source": "آخرین خبر"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "باشگاه فوتبال الهلال",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 23 Nov 2026 10:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8SFEb1SzEgJv0TIGmImf5EBfYOSxhRgDIe_jPjW4KLeYwx5sOgHAel1hB4hw",
-      "pictureSource": "فوتبالی",
-      "relatedSearch": [
-        {
-          "title": "توقف الهلال برابر نفتچی؛ زور زعیم به سرما نرسید!",
-          "snippet": "",
-          "url": "https://footballi.net/news/r/1076949/%D8%AA%D9%88%D9%82%D9%81-%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D9%86%D9%81%D8%AA%DA%86%DB%8C-%D8%B2%D9%88%D8%B1-%D8%B2%D8%B9%DB%8C%D9%85-%D8%A8%D9%87-%D8%B3%D8%B1%D9%85%D8%A7-%D9%86%D8%B1%D8%B3%DB%8C%D8%AF",
-          "source": "فوتبالی"
-        },
-        {
-          "title": "توقف الهلال برابر نماینده ازبکستان",
-          "snippet": "",
-          "url": "https://www.isna.ir/news/1405090201476/%D8%AA%D9%88%D9%82%D9%81-%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%D9%87-%D8%A7%D8%B2%D8%A8%DA%A9%D8%B3%D8%AA%D8%A7%D9%86",
-          "source": "ایسنا"
-        },
-        {
-          "title": "توقف غیرمنتظره کهکشانی‌های الهلال در شب سرد فرغانه",
-          "snippet": "",
-          "url": "https://fbtv3.ir/news/59195/%D8%AA%D9%88%D9%82%D9%81-%D8%BA%DB%8C%D8%B1%D9%85%D9%86%D8%AA%D8%B8%D8%B1%D9%87-%DA%A9%D9%87%DA%A9%D8%B4%D8%A7%D9%86%DB%8C%E2%80%8C%D9%87%D8%A7%DB%8C-%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84-%D8%AF%D8%B1-%D8%B4%D8%A8-%D8%B3%D8%B1%D8%AF-%D9%81%D8%B1%D8%BA%D8%A7%D9%86%D9%87",
-          "source": "فوتبال برتر"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "جایگاههای باشگاه فوتبال تراکتور درمقابل الوصل امارات",
-      "trafficCount": "50000+",
-      "pubDate": "Mon, 23 Nov 2026 10:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhGUHuBfb_lthsKJI2nIfJrBL7uRM91aeiklr84Z18LRONOeCWgAGQqbldMAs",
-      "pictureSource": "فوتبال ۳۶۰",
-      "relatedSearch": [
-        {
-          "title": "خلاصه بازی تراکتور ۱-۵ الوصل؛ دانشگر یورو شد، اما طارمی خودش ماند!",
-          "snippet": "",
-          "url": "https://football360.ir/post/2026112393/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D8%A8%D8%A7%D8%B2%DB%8C-%D8%AA%D8%B1%D8%A7%DA%A9%D8%AA%D9%88%D8%B1-%D8%A7%D9%84%D9%88%D8%B5%D9%84",
-          "source": "فوتبال ۳۶۰"
-        },
-        {
-          "title": "جواد نکونام: افرادی در فدراسیون فوتبال از شرایط بدی که تراکتور دارد، خوشحال هستند",
-          "snippet": "",
-          "url": "https://www.iranintl.com/202611235204",
-          "source": "Iran International"
-        },
-        {
-          "title": "گل اول تراکتور و چهارم الوصل/ دبل طارمی",
-          "snippet": "",
-          "url": "https://www.isna.ir/news/1405090201500/%DA%AF%D9%84-%D8%A7%D9%88%D9%84-%D8%AA%D8%B1%D8%A7%DA%A9%D8%AA%D9%88%D8%B1-%D9%88-%DA%86%D9%87%D8%A7%D8%B1%D9%85-%D8%A7%D9%84%D9%88%D8%B5%D9%84-%D8%AF%D8%A8%D9%84-%D8%B7%D8%A7%D8%B1%D9%85%DB%8C",
-          "source": "ایسنا"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ورزش سه نتایج",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 23 Nov 2026 10:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRC3ktcH2PHNb5HWpmbZ9LMzubCNC7is8pevdfJSW5EpiEt-3TZD6vLlAaNt4c",
-      "pictureSource": "آنتن",
-      "relatedSearch": [
-        {
-          "title": "اسنوکر جک جونز - جاشوا توموند",
-          "snippet": "",
-          "url": "https://www.anten.ir/snooker/188440/%D8%A7%D8%B3%D9%86%D9%88%DA%A9%D8%B1-%D8%AC%DA%A9-%D8%AC%D9%88%D9%86%D8%B2-%D8%AC%D8%A7%D8%B4%D9%88%D8%A7-%D8%AA%D9%88%D9%85%D9%88%D9%86%D8%AF",
-          "source": "آنتن"
-        },
-        {
-          "title": "اسنوکر قهرمانی بریتانیا",
-          "snippet": "",
-          "url": "https://www.anten.ir/snooker/188439/%D8%A7%D8%B3%D9%86%D9%88%DA%A9%D8%B1-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%A8%D8%B1%DB%8C%D8%AA%D8%A7%D9%86%DB%8C%D8%A7",
+          "url": "https://www.anten.ir/tennis/188408/%D8%AA%D9%86%DB%8C%D8%B3-%D8%A7%D9%84%DA%A9%D8%B3%D8%A7%D9%86%D8%AF%D8%B1-%D8%B2%D9%88%D8%B1%D9%81-%DA%A9%D8%A7%D8%B1%D9%84%D9%88%D8%B3-%D8%A2%D9%84%DA%A9%D8%A7%D8%B1%D8%A7%D8%B2",
           "source": "آنتن"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "نتایج زنده فوتبال",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 23 Nov 2026 09:50:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "title": "سنا",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 23 Nov 2026 22:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJsOl8FdKoY_edkNnkF2vDSYL7haLM_GNzcLBlmVOchUUwAmSVGsDVX4ZwCos",
+      "pictureSource": "Fana News -",
+      "relatedSearch": [
+        {
+          "title": "إعلان أسماء الفائزين في انتخابات مجلس إدارة غرفة تجارة وصناعة عُمان ومجالس إدارات فروعها",
+          "snippet": "",
+          "url": "https://www.fananews.com/%D8%A5%D8%B9%D9%84%D8%A7%D9%86-%D8%A3%D8%B3%D9%85%D8%A7%D8%A1-%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D8%B2%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D9%85%D8%AC%D9%84%D8%B3/",
+          "source": "Fana News -"
+        },
+        {
+          "title": "\"الوفاء\" تستمع لمطالب تجار طارق وتتعهد بمتابعة التعويضات وحل أزمة الاصطفاف",
+          "snippet": "",
+          "url": "https://www.ammonnews.net/article/1047495",
+          "source": "وكالة عمون الاخبارية"
+        },
+        {
+          "title": "حشد تجاري واسع في جمعية خليل الرحمن دعما لكتلة التاجر",
+          "snippet": "",
+          "url": "https://www.sarahanews.net/1410494-%D8%AD%D8%B4%D8%AF-%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A-%D9%88%D8%A7%D8%B3%D8%B9-%D9%81%D9%8A-%D8%AC%D9%85%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D8%AF/",
+          "source": "صراحة نيوز"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "پارسا جعفری",
-      "trafficCount": "2000+",
-      "pubDate": "Mon, 23 Nov 2026 09:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbDyRh-oWapCKZ-9thhDHq2wsSFkdFk1JhY-7kGGIjmhsvm_wW6cde7lxsna4",
-      "pictureSource": "فوتبال ۳۶۰",
+      "title": "قوه قضاییه",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 23 Nov 2026 22:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtq5Medo5UHv1FWsSfB222J3tAgudeatgp5RnJYHF1Y95LNHWCzhlc1azSIRY",
+      "pictureSource": "ایسنا",
       "relatedSearch": [
         {
-          "title": "آخرین خبر از مصدومیت حسین‌زاده از زبان امیرحسین؛ «دعا کنید رباط صلیبی نباشد!»",
+          "title": "بیستمین تور نظارتی قوه قضاییه - مازندران",
           "snippet": "",
-          "url": "https://football360.ir/post/20261123175/%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D8%AE%D8%A8%D8%B1-%D8%A7%D8%B2-%D9%85%D8%B5%D8%AF%D9%88%D9%85%DB%8C%D8%AA-%D8%AD%D8%B3%DB%8C%D9%86%D8%B2%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D8%B2%D8%A8%D8%A7%D9%86-%D8%A7%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86-%D8%AF%D8%B9%D8%A7-%DA%A9%D9%86%DB%8C%D8%AF-%D8%B1%D8%A8%D8%A7%D8%B7-%D8%B5%D9%84%DB%8C%D8%A8%DB%8C-%D9%86%D8%A8%D8%A7%D8%B4%D8%AF",
-          "source": "فوتبال ۳۶۰"
+          "url": "https://www.isna.ir/photo/1405090200947/%D8%A8%DB%8C%D8%B3%D8%AA%D9%85%DB%8C%D9%86-%D8%AA%D9%88%D8%B1-%D9%86%D8%B8%D8%A7%D8%B1%D8%AA%DB%8C-%D9%82%D9%88%D9%87-%D9%82%D8%B6%D8%A7%DB%8C%DB%8C%D9%87-%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D9%85%D8%A7%D8%B2%D9%86%D8%AF%D8%B1%D8%A7%D9%86",
+          "source": "ایسنا"
         },
         {
-          "title": "پس از بیهوشی در زمین؛ دروازه‌بان تراکتور به بیمارستان اعزام شد",
+          "title": "تور رسانه‌ای قوه قضاییه در مازندران",
           "snippet": "",
-          "url": "https://www.tasnimnews.ir/fa/news/1405/09/02/3756427/%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%A8%DB%8C%D9%87%D9%88%D8%B4%DB%8C-%D8%AF%D8%B1-%D8%B2%D9%85%DB%8C%D9%86-%D8%AF%D8%B1%D9%88%D8%A7%D8%B2%D9%87-%D8%A8%D8%A7%D9%86-%D8%AA%D8%B1%D8%A7%DA%A9%D8%AA%D9%88%D8%B1-%D8%A8%D9%87-%D8%A8%DB%8C%D9%85%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%A7%D8%B9%D8%B2%D8%A7%D9%85-%D8%B4%D8%AF",
-          "source": "تسنیم"
+          "url": "https://www.irna.ir/photo/86329975/%D8%AA%D9%88%D8%B1-%D8%B1%D8%B3%D8%A7%D9%86%D9%87-%D8%A7%DB%8C-%D9%82%D9%88%D9%87-%D9%82%D8%B6%D8%A7%DB%8C%DB%8C%D9%87-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B2%D9%86%D8%AF%D8%B1%D8%A7%D9%86",
+          "source": "ایرنا"
         },
         {
-          "title": "دروازه‌بان تراکتور پس از بی‌هوش شدن در بازی با الوصل، به بیمارستان منتقل شد",
+          "title": "از مقابله با زمین‌خواری تا پیگیری آلودگی نیروگاه نکا؛ تشریح اقدامات قضایی در مازندران",
           "snippet": "",
-          "url": "https://www.iranintl.com/202611239743",
-          "source": "Iran International"
+          "url": "https://www.yjc.ir/fa/news/9151343/%D8%A7%D8%B2-%D9%85%D9%82%D8%A7%D8%A8%D9%84%D9%87-%D8%A8%D8%A7-%D8%B2%D9%85%DB%8C%D9%86%E2%80%8C%D8%AE%D9%88%D8%A7%D8%B1%DB%8C-%D8%AA%D8%A7-%D9%BE%DB%8C%DA%AF%DB%8C%D8%B1%DB%8C-%D8%A2%D9%84%D9%88%D8%AF%DA%AF%DB%8C-%D9%86%DB%8C%D8%B1%D9%88%DA%AF%D8%A7%D9%87-%D9%86%DA%A9%D8%A7-%D8%AA%D8%B4%D8%B1%DB%8C%D8%AD-%D8%A7%D9%82%D8%AF%D8%A7%D9%85%D8%A7%D8%AA-%D9%82%D8%B6%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B2%D9%86%D8%AF%D8%B1%D8%A7%D9%86",
+          "source": "باشگاه خبرنگاران جوان"
         }
       ],
       "link": "https://imtaqin.id/"
